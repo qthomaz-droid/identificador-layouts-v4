@@ -12,7 +12,7 @@ from PIL import Image
 import io
 
 # ... (Todo o início do arquivo, incluindo STOPWORDS, carregamento do modelo e extrair_texto_do_arquivo, permanece o mesmo) ...
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 STOPWORDS = [
     'de', 'a', 'o', 'que', 'e', 'do', 'da', 'em', 'um', 'para', 'é', 'com', 'não', 'uma',
     'os', 'no', 'se', 'na', 'por', 'mais', 'as', 'dos', 'como', 'mas', 'foi', 'ao', 'ele',

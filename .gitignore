@@ -22,3 +22,5 @@ debug.log
 .vscode/
 
 arquivos_de_treinamento/
+
+.devcontainer/

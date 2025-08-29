@@ -1,18 +1,22 @@
-# Arquivo: identificador.py (VERSÃO COM BUSCA AMPLIADA POR SISTEMA)
+# Arquivo: identificador.py (VERSÃO FINAL COM RETREINAMENTO INTELIGENTE)
 
 import os
 import fitz
 import pandas as pd
 import joblib
 import json
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import xml.etree.ElementTree as ET
 import pytesseract
 from PIL import Image
 import io
+import re
+from collections import defaultdict
+from tqdm import tqdm
 
-# ... (Todo o início do arquivo, incluindo STOPWORDS, carregamento do modelo e extrair_texto_do_arquivo, permanece o mesmo) ...
-# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# ... (Configuração do Tesseract e STOPWORDS permanecem os mesmos) ...
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 STOPWORDS = [
     'de', 'a', 'o', 'que', 'e', 'do', 'da', 'em', 'um', 'para', 'é', 'com', 'não', 'uma',
     'os', 'no', 'se', 'na', 'por', 'mais', 'as', 'dos', 'como', 'mas', 'foi', 'ao', 'ele',
@@ -29,6 +33,7 @@ ARQUIVO_VECTORIZER = 'vectorizer.joblib'
 ARQUIVO_MATRIZ_TFIDF = 'tfidf_matrix.joblib'
 ARQUIVO_LABELS = 'layout_labels.joblib'
 ARQUIVO_METADADOS = 'layouts_meta.json'
+PASTA_CACHE = 'cache_de_texto'
 VECTORIZER, TFIDF_MATRIX, LAYOUT_LABELS, METADADOS_LAYOUTS = None, None, None, {}
 MODELO_CARREGADO = False
 def carregar_modelo_e_meta():
@@ -49,7 +54,9 @@ def carregar_modelo_e_meta():
         return False
 carregar_modelo_e_meta()
 SENHAS_COMUNS = ["", "123456", "0000"]
+
 def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
+    # ... (Esta função não muda)
     texto_completo = ""
     extensao = os.path.splitext(caminho_arquivo)[1].lower()
     try:
@@ -90,60 +97,99 @@ def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
             for elem in root.iter():
                 if elem.text: texto_completo += elem.text.strip() + ' '
     except Exception as e:
-        print(f"Erro ao processar o arquivo {caminho_arquivo}: {e}")
+        nome_arquivo = os.path.basename(caminho_arquivo)
+        if "partial block in aes filter" in str(e):
+            print(f"    -> AVISO: O arquivo '{nome_arquivo}' parece estar corrompido. Será ignorado.")
+        else:
+            print(f"    -> AVISO: Falha ao processar o arquivo '{nome_arquivo}'. Erro: {e}. Será ignorado.")
         return None
     return texto_completo.lower()
+
 def normalizar_extensao(ext):
     if ext in ['xls', 'xlsx']: return 'excel'
     if ext in ['txt', 'csv']: return 'txt'
     return ext
 
 def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, senha_manual=None):
+    # ... (Esta função não muda)
     if not MODELO_CARREGADO: return {"erro": "Modelo de ML não foi treinado."}
     texto_arquivo = extrair_texto_do_arquivo(caminho_arquivo_cliente, senha_manual=senha_manual)
     if texto_arquivo in ["SENHA_NECESSARIA", "SENHA_INCORRETA"]: return texto_arquivo
     if not texto_arquivo: return {"erro": "Não foi possível ler o conteúdo."}
-    
-    vetor_arquivo_novo = VECTORIZER.transform([texto_arquivo])
-    similaridades = cosine_similarity(vetor_arquivo_novo, TFIDF_MATRIX)
-    scores_brutos = similaridades[0]
-    
-    resultados_com_bonus = []
-    BONUS_PONTUACAO = 25
-    
-    for i, score in enumerate(scores_brutos):
-        codigo_layout = LAYOUT_LABELS[i]
-        meta = METADADOS_LAYOUTS.get(codigo_layout)
-        pontuacao = score * 100
-        
-        if meta and sistema_alvo:
-            # --- LÓGICA DE BUSCA ATUALIZADA ---
-            # Prepara os termos para a busca (em minúsculas)
-            termo_busca = sistema_alvo.lower()
-            sistema_layout = str(meta.get('sistema', '')).lower()
-            descricao_layout = str(meta.get('descricao', '')).lower()
-            
-            # Aplica o bônus se o termo estiver NO SISTEMA OU NA DESCRIÇÃO
-            if termo_busca in sistema_layout or termo_busca in descricao_layout:
-                pontuacao += BONUS_PONTUACAO
-        
-        resultados_com_bonus.append({
-            "codigo_layout": codigo_layout,
-            "banco": meta.get('descricao', f"Layout {codigo_layout}") if meta else f"Layout {codigo_layout}",
-            "pontuacao": round(pontuacao, 2)
-        })
-
-    resultados_finais = sorted(resultados_com_bonus, key=lambda item: item['pontuacao'], reverse=True)
-    
     extensao_arquivo = normalizar_extensao(os.path.splitext(caminho_arquivo_cliente)[1].lower().replace('.', ''))
+    layouts_candidatos = []
+    for codigo, meta in METADADOS_LAYOUTS.items():
+        formato_layout = str(meta.get('formato', '')).lower()
+        sistema_layout = str(meta.get('sistema', '')).lower()
+        match_formato = (formato_layout == extensao_arquivo)
+        match_sistema = True
+        if sistema_alvo:
+            match_sistema = (sistema_alvo.lower() == sistema_layout or sistema_alvo.lower() in str(meta.get('descricao', '')).lower())
+        if match_formato and match_sistema:
+            layouts_candidatos.append(codigo)
+    if not layouts_candidatos: return []
+    indices_candidatos = [LAYOUT_LABELS.index(cod) for cod in layouts_candidatos if cod in LAYOUT_LABELS]
+    if not indices_candidatos: return []
+    sub_matriz_tfidf = TFIDF_MATRIX[indices_candidatos, :]
+    vetor_arquivo_novo = VECTORIZER.transform([texto_arquivo])
+    similaridades = cosine_similarity(vetor_arquivo_novo, sub_matriz_tfidf)
+    scores = similaridades[0]
+    labels_candidatos = [LAYOUT_LABELS[i] for i in indices_candidatos]
+    resultados_finais = sorted(zip(scores, labels_candidatos), key=lambda item: item[0], reverse=True)
     top_resultados = []
-    for resultado in resultados_finais:
-        meta = METADADOS_LAYOUTS.get(resultado['codigo_layout'])
-        if meta and str(meta.get('formato', '')).lower() == extensao_arquivo:
-            top_resultados.append(resultado)
-    
-    return top_resultados[:5]
+    for score, label in resultados_finais[:5]:
+        if score > 0.01:
+            meta = METADADOS_LAYOUTS.get(label)
+            top_resultados.append({
+                "codigo_layout": label,
+                "banco": meta.get('descricao', f"Layout {label}"),
+                "pontuacao": round(score * 100, 2)
+            })
+    return top_resultados
 
 def recarregar_modelo():
     print("Recarregando modelo e metadados...")
     return carregar_modelo_e_meta()
+
+# --- NOVA FUNÇÃO DE RETREINAMENTO COMPLETO ---
+def retreinar_modelo_completo():
+    """
+    Função que o bot irá chamar. Lê todo o cache, recria o corpus e
+    retreina o modelo de ML do zero, garantindo que todo o conhecimento
+    seja incluído.
+    """
+    print("\n--- Iniciando Retreinamento Completo do Modelo de ML ---")
+    if not os.path.exists(PASTA_CACHE):
+        print("ERRO: Pasta de cache não encontrada. Não é possível retreinar.")
+        return False
+
+    textos_por_layout = defaultdict(str)
+    
+    print("Lendo textos do cache...")
+    # O nome do arquivo no cache é 'nome_original.txt'
+    for nome_arquivo_cache in tqdm(os.listdir(PASTA_CACHE), desc="Lendo cache"):
+        # Extrai o nome original para encontrar o código do layout
+        nome_original = os.path.splitext(nome_arquivo_cache)[0]
+        match = re.search(r'\d+', nome_original)
+        if match:
+            codigo_layout = match.group(0)
+            with open(os.path.join(PASTA_CACHE, nome_arquivo_cache), 'r', encoding='utf-8') as f:
+                textos_por_layout[codigo_layout] += " " + f.read()
+
+    if not textos_por_layout:
+        print("Nenhum texto encontrado no cache para treinamento.")
+        return False
+
+    labels = list(textos_por_layout.keys())
+    corpus = [textos_por_layout[label] for label in labels]
+    
+    print("\nTreinando o vetorizador TF-IDF...")
+    vectorizer = TfidfVectorizer(stop_words=STOPWORDS, norm='l2', ngram_range=(1, 2))
+    tfidf_matrix = vectorizer.fit_transform(corpus)
+
+    print("Salvando os novos arquivos do modelo de ML...")
+    joblib.dump(vectorizer, ARQUIVO_VECTORIZER)
+    joblib.dump(tfidf_matrix, ARQUIVO_MATRIZ_TFIDF)
+    joblib.dump(labels, ARQUIVO_LABELS)
+    print("Retreinamento concluído e novos modelos salvos.")
+    return True

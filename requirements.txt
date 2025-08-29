@@ -8,3 +8,4 @@ discord.py
 python-dotenv
 scikit-learn
 joblib
+tqdm

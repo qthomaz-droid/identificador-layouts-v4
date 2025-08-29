@@ -15,6 +15,7 @@ import re
 from collections import defaultdict
 from tqdm import tqdm
 import requests
+import streamlit as st # Importado para usar o st.secrets
 
 # --- CONFIGURAÇÕES ---
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -38,39 +39,44 @@ ARQUIVO_LABELS = 'layout_labels.joblib'
 ARQUIVO_METADADOS = 'layouts_meta.json'
 PASTA_CACHE = 'cache_de_texto'
 API_BASE_URL = "https://manager.conciliadorcontabil.com.br/api/"
-API_SECRET = os.getenv('API_SECRET', '4722c7e4c11f186a30af5d4be091b236')
 
 VECTORIZER, TFIDF_MATRIX, LAYOUT_LABELS, METADADOS_LAYOUTS = None, None, None, {}
 MODELO_CARREGADO = False
 
 def buscar_e_mesclar_imagens_api(metadados_locais):
     print("Buscando links de imagem na API do Manager...")
-    if not API_SECRET:
-        print("AVISO: Segredo da API não configurado.")
+    api_secret = None
+    
+    # --- LÓGICA DE SEGREDOS ATUALIZADA ---
+    # Tenta pegar o segredo do Streamlit primeiro (para o deploy na web)
+    try:
+        api_secret = st.secrets["api_secret"]
+        print("Segredo da API carregado via st.secrets (ambiente Streamlit).")
+    except (AttributeError, KeyError, FileNotFoundError):
+        # Se falhar, tenta pegar do .env (para o bot e treinador local)
+        print("AVISO: st.secrets não encontrado. Tentando carregar do .env via os.getenv().")
+        api_secret = os.getenv('API_SECRET')
+
+    if not api_secret:
+        print("AVISO: Segredo da API não configurado. Imagens não serão carregadas.")
         return metadados_locais
     
     try:
         token_url = f"{API_BASE_URL}get-token"
-        response_token = requests.post(token_url, data={'secret': API_SECRET})
+        response_token = requests.post(token_url, data={'secret': api_secret})
         response_token.raise_for_status()
         access_token = response_token.json().get("data", {}).get("access_token")
 
         if not access_token:
-            print("ERRO: 'access_token' não encontrado na resposta.")
+            print("ERRO: 'access_token' não encontrado na resposta da API.")
             return metadados_locais
 
         headers = {'Authorization': f'Bearer {access_token}'}
-        layouts_url = f"{API_BASE_URL}layouts?orderby=id,asc"
-        response_layouts = requests.get(layouts_url, headers=headers)
+        response_layouts = requests.get(f"{API_BASE_URL}layouts?orderby=id,asc", headers=headers)
         response_layouts.raise_for_status()
         
-        # --- CORREÇÃO DEFINITIVA AQUI ---
-        layouts_data_objeto = response_layouts.json()
-        layouts_da_api_lista = layouts_data_objeto.get("data", [])
-
-        if not isinstance(layouts_da_api_lista, list):
-             print(f"ERRO: A chave 'data' na resposta da API não contém uma lista. Conteúdo: {layouts_da_api_lista}")
-             return metadados_locais
+        layouts_da_api_objeto = response_layouts.json()
+        layouts_da_api_lista = layouts_da_api_objeto.get("data", [])
 
         mapa_imagens = {str(layout.get('codigo')): layout.get('imagem') for layout in layouts_da_api_lista if layout.get('codigo') and layout.get('imagem')}
         
@@ -105,10 +111,10 @@ def carregar_modelo_e_meta():
         MODELO_CARREGADO = False
         print("AVISO: Arquivos de modelo/metadados não encontrados.")
         return False
-
 carregar_modelo_e_meta()
 SENHAS_COMUNS = ["", "123456", "0000"]
 def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
+    # (Esta função permanece a mesma, completa e robusta)
     texto_completo = ""
     extensao = os.path.splitext(caminho_arquivo)[1].lower()
     nome_arquivo = os.path.basename(caminho_arquivo)

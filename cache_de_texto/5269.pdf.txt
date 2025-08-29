@@ -914,28 +914,3 @@ total do dia
 320,00
 0,00
 320,00
-saraiva com.var.calçados ltda
-business shop ©
-previsão de caixa por tipo de movimento de caixa
-23/05/2023
-4
-dt lanç.
-nr doc
-observações
-série
-nome
-emissão:
-página:
-observações s/estornos
-código da empresa: 605, vencimento/pagamento: 01/04/2023 e 30/04/2023, tipo movimento de caixa: f, estornado: 0, situação movimento: s
-bco
-emp dt venc/pag
-nr cheq
-valor c/desc
-valor c/acre valor s/com
-valor total
-total geral
-lancamento(s)
-47
-22.297,12
-0,00

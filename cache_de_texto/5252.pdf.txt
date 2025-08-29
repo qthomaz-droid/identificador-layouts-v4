@@ -322,6 +322,7 @@ arquivo
 banco
 pago
 99
+ &
 24/10/2023, 10:07
 dataged:. listagem do financeiro
 https://sistema.oabes.org.br/dataged/indexprincipal.asp
@@ -549,4 +550,3 @@ renegociação
 23/10/2023
 arquivo banco
 pago
- &

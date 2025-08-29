@@ -375,29 +375,3 @@ cred tev
 envio tev
 37,50 d
 10,77 c
-22/02/2021
-internet::::b anking:::ca.ixa
-https://internetbanking.caixa.gov.br/siibc/interna#!/extrato_periodo.processa?aaccdlnrrv=1614026741080
-4/4
-28/01/2020
-000140
-tr tev ibc
-1,00 d
-9,77 c
-29/01/2020
-291525
-cred tev
-900,00 c
-909,77 c
-29/01/2020
-291623
-envio tev
-900,00 d
-9,77 c
-29/01/2020
-000140
-tr tev ibc
-1,00 d
-8,77 c
-retornar
-siglas e abreviações

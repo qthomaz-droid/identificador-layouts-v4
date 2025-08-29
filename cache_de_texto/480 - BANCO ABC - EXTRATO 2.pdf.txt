@@ -80,6 +80,8 @@ crédito (+)
 débito (-)
 -83,16
 625,02
+ banco
+
 data
  qtde.registros histórico
 operação
@@ -203,5 +205,3 @@ débito (-)
 92.453,61
 gerado em: 06/07/2022 às 14:55      versão: 2.0.0.0 
 canal: internet banking
- banco
-

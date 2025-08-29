@@ -287,6 +287,7 @@ total
 7
 1.671,34
 11.106,31
+ banrisul
 banco do estado do rio grande do sul s.a.
 demonstrativo por operação
 relatório por estabelecimento
@@ -352,6 +353,7 @@ total
 0
 0,00
 317,63
+ banrisul
 banco do estado do rio grande do sul s.a.
 demonstrativo por operação
 relatório por estabelecimento
@@ -427,132 +429,4 @@ total
 0
 0,00
 503,00
-banco do estado do rio grande do sul s.a.
-demonstrativo por operação
-relatório por estabelecimento
-nome/razão social: amor saude
-cpf/cnpj: 32.017.934/0001-22
-período: janeiro/2021
-bandeira: visa
-data
-operação
-cartão de
-débito
-crédito à vista
-crédito parcelado
-lojista
-crédito parcelado
-emissor
-total
-qtde
-valor
-qtde
-valor
-qtde
-valor
-qtde
-valor
-18/01/2021
-0
-0,00
-1
-32,00
-0
-0,00
-0
-0,00
-32,00
-total
-0
-0,00
-1
-32,00
-0
-0,00
-0
-0,00
-32,00
-17/03/2021
-banrisul - e
-https://ww7.banrisul.com.br/brb/link/brbwe4hw.aspx?largura=1360&altura=683&sistema=office
-1/1
-banco do estado do rio grande do sul s.a.
-demonstrativo por operação
-relatório por estabelecimento
-nome/razão social: amor saude
-cpf/cnpj: 34.053.003/0001-05
-período: fevereiro/2021
-bandeira: elo
-data 
-operação
-cartão de 
-débito
-crédito à vista
-crédito parcelado 
-lojista
-crédito parcelado 
-emissor
-total
-qtde
-valor
-qtde
-valor
-qtde
-valor
-qtde
-valor
-03/02/2021
-0
-0,00
-0
-0,00
-1
-1.500,00
-0
-0,00
-1.500,00
-18/02/2021
-1
-200,00
-0
-0,00
-0
-0,00
-0
-0,00
-200,00
-19/02/2021
-1
-74,00
-0
-0,00
-0
-0,00
-0
-0,00
-74,00
-26/02/2021
-1
-310,00
-0
-0,00
-0
-0,00
-0
-0,00
-310,00
-total
-3
-584,00
-0
-0,00
-1
-1.500,00
-0
-0,00
-2.084,00
- banrisul
- banrisul
- banrisul
- banrisul
  banrisul

@@ -125,6 +125,7 @@ cr cob bloq comp conf recebimento 0784/002721392
 tarifa mensalidade pacote servicos agosto / 2021
 000000
 -109,00
+ «> santander
 10/11/2021 09:25
 internet banking
 https://pj.santandernetibe.com.br/ibeweb/commons/pdf/pdfimprimir.xhtml
@@ -405,62 +406,3 @@ entenda a composição do seu saldo no quadro abaixo.
 b = bloqueado
 p = lançamento provisionado
 saldo
-10/11/2021 09:25
-internet banking
-https://pj.santandernetibe.com.br/ibeweb/commons/pdf/pdfimprimir.xhtml
-4/4
-
-posição em: 10/11/2021 
-saldo
-valor (r$)
-a - saldo de conta corrente
--2.243,53
-b - saldo bloqueado
-0,00
-desbloqueio em 1 dia
-0,00
-desbloqueio em 2 dias
-0,00
-desbloqueio em mais de 2 dias
-0,00
-c - provisão de encargos
--63,83
-juros acumulados até a data
--60,91
-iof acumulado até a data
--2,92
-cpmf acumulada
-0,00
-cpmf provisionada sobre saldo
-0,00
-d - saldo disponível em conta corrente (a - b)
--2.243,53
-e - limite santander master
-2.000,00
-vencimento
-08/01/2022
-taxa de juros
-13,99
-limite
-2.000,00
-última utilização
-11/10/2021
-dias utilizados até a data
-02
-valor utilizado
-2.000,00
-disponível
-0,00
-f - saldo disponível total (d + e)
--243,53
-central de atendimento santander empresarial
-4004-2125 (regiões metropolitanas)
-0800 726 2125 (demais localidades)
-0800 723 5007 (pessoas com deficiência auditiva ou de fala)
-sac - atendimento 24h por dia, todos os dias.
-0800 762 7777
-0800 771 0401 (pessoas com deficiência auditiva ou de fala)
-ouvidoria - das 9h às 18h, de segunda a sexta-feira, exceto feriado.
-0800 726 0322
-0800 771 0301 (pessoas com deficiência auditiva ou de fala)
- «> santander

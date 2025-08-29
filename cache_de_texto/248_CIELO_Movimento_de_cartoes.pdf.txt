@@ -203,6 +203,7 @@ visa
 r$ 13,00
 r$ 12,56
 0,44
+ cielo
 aluguel de pos
 2761043566 05/08/2021
 visa
@@ -665,88 +666,3 @@ mastercard
 r$ 156,00
 r$ 154,35
 1,65
-venda crédito
-2761043566 27/08/2021
-mastercard
-1
-r$ 17,50
-r$ 16,91
-0,59
-venda crédito
-2761043566 27/08/2021
-visa
-2
-r$ 39,00
-r$ 37,70
-1,3
-venda débito
-2761043566 30/08/2021
-banescard
-2
-r$ 56,50
-r$ 54,80
-1,7
-venda débito
-2761043566 30/08/2021
-elo
-5
-r$ 108,50
-r$ 106,65
-1,85
-venda débito
-2761043566 30/08/2021
-mastercard
-4
-r$ 47,00
-r$ 46,50
-0,5
-venda crédito
-2761043566 30/08/2021
-mastercard
-1
-r$ 4,00
-r$ 3,87
-0,13
-venda débito
-2761043566 30/08/2021
-visa
-5
-r$ 91,00
-r$ 90,05
-0,95
-venda crédito
-2761043566 30/08/2021
-visa
-2
-r$ 15,00
-r$ 14,50
-0,5
-venda crédito
-2761043566 31/08/2021
-elo
-1
-r$ 27,00
-r$ 25,78
-1,22
-venda débito
-2761043566 31/08/2021
-mastercard
-1
-r$ 60,50
-r$ 59,86
-0,64
-venda crédito
-2761043566 31/08/2021
-mastercard
-3
-r$ 136,50
-r$ 131,93
-4,57
-venda crédito
-2761043566 31/08/2021
-visa
-3
-r$ 110,00
-r$ 106,31
-3,69
- cielo

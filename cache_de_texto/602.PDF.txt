@@ -727,25 +727,3 @@ lançamento
 cliente/fornecedor
 entrada
 saída
-saldo anterior
-r$ 13.884,97
-entradas
-r$ 215.551,34
-transferência
-entrada
-r$ 0,00
-saídas
-r$ 110.442,48
-transferência saída
-r$ 10.000,00
-saldo do período
-r$ 95.108,86
-saldo final
-r$ 108.993,83
-saldo atual
-r$ 236.984,83
-data
-lançamento
-cliente/fornecedor
-entrada
-saída

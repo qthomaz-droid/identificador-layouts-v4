@@ -103,6 +103,7 @@ período de 01/01/2022 a 31/01/2022
 10/01/2022 dpl: 000009988-a2 de 4693-carvalho campos ltda - me.                       fin          0,00         135,00     13.261,99
 10/01/2022 dpl: 000000279-a2 de 2850-pla comercio ltda.                               fin          0,00         340,00     12.921,99
 página 1 de 4
+ go cerrrus
 0004 - led-linhares eletrodiesel
 02/03/2022 - 16:04:11
 extrato bancário
@@ -208,6 +209,7 @@ data      complemento                                                           
 19/01/2022 alexandre biazatti batista da silva                                        fin          0,00         632,00     14.020,84
 19/01/2022 ayslan maycon de souza alves                                               fin          0,00         800,00     13.220,84
 página 2 de 4
+ go cerrrus
 0004 - led-linhares eletrodiesel
 02/03/2022 - 16:04:11
 extrato bancário
@@ -313,31 +315,4 @@ data      complemento                                                           
           rraplanagem.
 28/01/2022 dpl: 000000542-a2 de 2005-solidus servicos e construcoes eireli.           fin        567,50           0,00     44.756,65
 página 3 de 4
-0004 - led-linhares eletrodiesel
-02/03/2022 - 16:04:11
-extrato bancário
-conta: l.r.r. diesel center eireli 1378589
-financeiro
-data      complemento                                                                usuário    crédito         débito         saldo
-28/01/2022 combustivel                                                                fin          0,00          85,00     44.671,65
-28/01/2022 samuel da costa jeanmonod                                                  fin          0,00       1.000,00     43.671,65
-28/01/2022 referente tarifa empr. e refinanciamento                                   fin          0,00       1.000,00     42.671,65
-28/01/2022 referente tarifa cobrança                                                  fin          0,00           2,70     42.668,95
-28/01/2022 deb. empretimo                                                             fin          0,00         409,87     42.259,08
-28/01/2022 deb. iof emprestimo                                                        fin          0,00          23,43     42.235,65
-28/01/2022 dpl: 000082021-06 de 90423-liberty seguros s/a.                            fin          0,00         427,05     41.808,60
-31/01/2022 transf. 4488x04 ref. rec. os. 2193/2132                                    fin        908,67           0,00     42.717,27
-31/01/2022 washington roris alvarenga                                                 fin          0,00         300,00     42.417,27
-31/01/2022 abastecimento strada                                                       fin          0,00          50,00     42.367,27
-31/01/2022 referente tarifa cobrança sicoob                                           fin          0,00          15,00     42.352,27
-31/01/2022 deb. emprestimo                                                            fin          0,00          85,18     42.267,09
-31/01/2022 deb. seguro emprestimo                                                     fin          0,00          60,00     42.207,09
-31/01/2022 juros conta garantida                                                      fin          0,00         154,10     42.052,99
-                                                                                                        saldo atual:      42.052,99
-                                                                                       total de cheques a compensar:           0,00
-                                                                                                       saldo futuro:      42.052,99
-página 4 de 4
- go cerrrus
- go cerrrus
- go cerrrus
  go cerrrus

@@ -524,6 +524,9 @@ juros/multa
 dt.credit
 vlr.boleto
 beneficiário: 5.119.5 rodomoveis transportes e madeiras ltda
+ oia.
+ ovi.
+
 convênio: 112004 - ocorrência: 9 - baixa
 internet
 2763401
@@ -587,6 +590,3 @@ total pago
 358.718,49
 0,00
 total geral
- oia.
- ovi.
-

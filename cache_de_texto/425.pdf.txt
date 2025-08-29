@@ -54,6 +54,7 @@ credito
 r$ 27.524,47
 
 quinta, 11 de março de 2021
+ «> santander
 resgate aut contamax empresarial
 credito
 r$ 11,00
@@ -175,56 +176,3 @@ debito
 -r$ 11,00
 
 terça, 23 de fevereiro de 2021
-
-3
-
-resgate aut contamax empresarial
-credito
-r$ 1.670,25
-ted diferente titularidade cip
-credito
-r$ 8.340,75
-ted diferente titularidade cip
-debito
--r$ 10.000,00
-tarifa ted bce
-debito
--r$ 11,00
-
-segunda, 22 de fevereiro de 2021
-resgate aut contamax empresarial
-credito
-r$ 4.000,00
-ted diferente titularidade cip
-debito
--r$ 4.000,00
-
-sexta, 19 de fevereiro de 2021
-aplicacao aut contamax empresarial
-debito
--r$ 8.329,75
-pix recebido outra inst - dif tit
-credito
-r$ 8.340,75
-tarifa ted bce
-debito
--r$ 11,00
-
-quinta, 18 de fevereiro de 2021
-resgate aut contamax empresarial
-credito
-r$ 14.000,00
-ted diferente titularidade cip
-debito
--r$ 14.000,00
-central de atendimento santander empresarial
-4004-2125 (regiões metropolitanas)
-0800 726 2125 (demais localidades)
-0800 723 5007 (pessoas com deﬁciência auditiva ou de fala)
-sac - atendimento 24h por dia, todos os dias.
-0800 762 7777
-0800 771 0401 (pessoas com deﬁciência auditiva ou de fala)
-ouvidoria - das 9h às 18h, de segunda a sexta-feira, exceto feriado.
-0800 726 0322
-0800 771 0301 (pessoas com deﬁciência auditiva ou de fala)
- «> santander

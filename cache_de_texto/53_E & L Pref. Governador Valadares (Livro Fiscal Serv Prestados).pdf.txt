@@ -190,6 +190,10 @@ trib. prestador
 54,74
 20.601.837/0001-01
 santana produtos siderurgicos ltdanorm.
+ prefeitura municipal de
+! governador
+se) valadares
+
 9
 1959
 1
@@ -443,6 +447,10 @@ total:
 127170,43
 68506,83
 5604,26
+ prefeitura municipal de
+! governador
+se) valadares
+
 lançamentos cancelados
 dia número série
 tipo
@@ -477,14 +485,6 @@ pago
 valor pago
 juro/mora
 sem lançamentos no período
- prefeitura municipal de
-! governador
-se) valadares
-
- prefeitura municipal de
-! governador
-se) valadares
-
  prefeitura municipal de
 ! governador
 se) valadares

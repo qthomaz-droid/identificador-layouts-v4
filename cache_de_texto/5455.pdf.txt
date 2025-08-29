@@ -104,37 +104,3 @@ valor do principal
 0,00
 valor dos juros
 3
-receita federal do brasil
-pedido de restituição, ressarcimento ou reembolso e declaração de compensação
-perdcomp  8.2
-cnpj 04.223.906/0001-26
-16096.99674.230224.1.3.04-7310
-001. débito cofins
-cnpj do detentor do débito
-04.223.906/0001-26
-débito de sucedida
-não
-código da receita/denominação
-5856-01 - cofins - não cumulativa
-grupo de tributo
-cofins - contribuição para o financiamento da seguridade
-social
-débito controlado em processo
-não
-período de apuração
-novembro de 2023
-periodicidade
-mensal
-data de vencimento do tributo/quota
-22/12/2023
-principal
-306,98
-multa
-59,77
-juros
-6,05
-total
-372,80
-372,80
-total
-4

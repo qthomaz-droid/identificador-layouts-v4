@@ -1567,26 +1567,3 @@ lote: 00000000 -  cielo s.a -
 1.495,44
 9.678,97
 total 12/11/21
-supermercado boa  amizade eireli -me  - cnpj : 29.056.243/0001-23
-empresa/filial: 001
- caixa banco - analítico
-filiais: 1 de: 01/11/21 até: 14/11/21 banco: bradesco boa amizade - 8. tipo banco2: não compõe saldo - data de lançamento
-sglinear 21.09.08 (caixabanco01a) - usuário: gui - data/hora impres.: 19/11/2021 14:20:30
-página 4 de 4
-histórico
-banco
-emp
-saldo
-crédito
-débito
-natureza
-nr.doc
-data
-saldo anterior:
-total débito:
-total crédito:
-saldo atual:
-69.265,60
-59.977,73
-391,10
-9.678,97

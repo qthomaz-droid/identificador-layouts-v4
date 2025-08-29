@@ -88,6 +88,7 @@ recebimento boleto
 01858402000194 zella sistemas ltda
 16.972,58
 16.972,58
+ fibank
 10/11/2023
 custo recebimento boleto
 1,58
@@ -291,77 +292,3 @@ histórico
 crédito (r$)
 débito (r$)
 saldo (r$)
-24/11/2023
-custo envio pix
-2,15
-0,00
-27/11/2023
-recebimento ted
-01009681004370 ge power e water
-equipamentos e servicos
-31.546,78
-31.546,78
-27/11/2023
-envio pix
-35662583000109 sao paulo invest
-securitizadora s.a.
-7.544,63
-24.002,15
-27/11/2023
-custo envio pix
-2,15
-24.000,00
-27/11/2023
-envio pix
-35802877000180 valinvest securitizadora s
-a
-23.997,85
-2,15
-27/11/2023
-custo envio pix
-2,15
-0,00
-28/11/2023
-recebimento ted
-01128902000251 bently do brasil ltda
-12.922,86
-12.922,86
-28/11/2023
-envio pix
-23147118000142 aline cristina fuzzel
-35976261817
-12.920,71
-2,15
-28/11/2023
-custo envio pix
-2,15
-0,00
-30/11/2023
-recebimento ted
-01939979000120 ng metalurgica s.a.
-1.560,00
-1.560,00
-data
-histórico
-crédito (r$)
-débito (r$)
-saldo (r$)
-totais no período
-saldo total em 30/11/2023
-1.560,00 c
-saldo bloqueado em 30/11/2023
-0,00 c
-saldo disponível em 30/11/2023
-1.560,00 c
-saldo atual
-saldo total atual
-44.053,32 c
-saldo bloqueado atual
-0,00 c
-saldo disponível atual
-44.053,32 c
-tarifas pendentes
-0,00 d
-emitido por bruna oliveira tomé dos santos
-data da emissão 01/12/2023 | 09:44:54
- fibank

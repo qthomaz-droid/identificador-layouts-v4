@@ -237,6 +237,17 @@ lubrificantes ltda
 0,00
 636,43
 outras¹ = juros pagos + multas pagas - descontos obtidos
+ emitido em: 04/07/2023 - 10:03:47
+ emissor: 1 - sistema
+ página: 1 de 3
+ versao: 1.23.0.0
+ data: 01/06/2023 à 30/06/2023
+ banco: 13-e.f.m material e madeireira
+ status: 2 - quitadas
+ data de emissão: 0 - não
+ agrupado por: 0 - lista corrida
+ ordenado por: 2 - data quitação
+ históricos marcados: 0 - não
 contas à pagar/pagas
 lista corrida
 tipo doc nº
@@ -564,6 +575,10 @@ rc-salario gnilson
 0,00
 752,00
 outras¹ = juros pagos + multas pagas - descontos obtidos
+ emitido em: 04/07/2023 - 10:03:47
+ emissor: 1 - sistema
+ página: 2 de 3
+ versao: 1.23.0.0
 contas à pagar/pagas
 lista corrida
 tipo doc nº
@@ -590,21 +605,6 @@ total geral:
 982,24
 91600,55
 outras¹ = juros pagos + multas pagas - descontos obtidos
- emitido em: 04/07/2023 - 10:03:47
- emissor: 1 - sistema
- página: 1 de 3
- versao: 1.23.0.0
- data: 01/06/2023 à 30/06/2023
- banco: 13-e.f.m material e madeireira
- status: 2 - quitadas
- data de emissão: 0 - não
- agrupado por: 0 - lista corrida
- ordenado por: 2 - data quitação
- históricos marcados: 0 - não
- emitido em: 04/07/2023 - 10:03:47
- emissor: 1 - sistema
- página: 2 de 3
- versao: 1.23.0.0
  emitido em: 04/07/2023 - 10:03:47
  emissor: 1 - sistema
  página: 3 de 3

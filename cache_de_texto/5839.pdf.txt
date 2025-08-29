@@ -264,15 +264,3 @@ deb.liq.oper.emprestimo
 3
 4
    /
-data
-lançamentos
-valor (r$)
-nº documento
-saldo do dia
- 20.729,88
-informações atualizadas até a data e o horário indicados acima e sujeitas a alterações.
-o extrato reflete o(s) valor(es) do saldo em conta, que contempla o saldo da conta corrente, sem contabilizar
-valores bloqueados ou limite, caso existam
-4
-4
-   /

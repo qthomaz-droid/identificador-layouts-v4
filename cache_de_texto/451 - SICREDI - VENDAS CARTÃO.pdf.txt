@@ -155,6 +155,7 @@ pgw599c1
 004/6
 75.38
 1 of 4
+ 2 sicredi
 transações
 data
 18/07/2022
@@ -311,6 +312,7 @@ pgw599c1
 220.08
 3.92
 2 of 4
+ 2 sicredi
 transações
 data
 18/07/2022
@@ -466,78 +468,4 @@ pgw599c1
 001/2
 180.00
 3 of 4
-transações
-data
-18/07/2022
-cpf
-data
-trans.
-núm.
-estabelec.
-res.
-vendas
-comprovante
-bandeira
-cód.
-autor.
-tipo
-trans.
-núm.
-cartão
-terminal
-valor
-trans.
-valor
-bruto
-valor
-líquido
-parcelas
-desc.
-19/04/2022
-40005993
-21571528024
-291
-mastercard
-r18590
-credit
-512267******7
-133
-pgw599c1
-16,744.40
-8,372.20
-8,192.20
-002/2
-180.00
-11/04/2022
-40005993
-21446247819
-290
-elo
-168172
-debit
-650527******3
-127
-pgw599c1
-28.00
-28.00
-27.59
-0.41
-06/04/2022
-40005993
-21327974100
-289
-mastercard
-725038
-debit
-637529******0
-111
-pgw599c1
-32.00
-32.00
-31.75
-0.25
-4 of 4
- 2 sicredi
- 2 sicredi
- 2 sicredi
  2 sicredi

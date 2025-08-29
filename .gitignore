@@ -16,11 +16,11 @@ temp_files/
 
 # Logs e arquivos de ambiente
 debug.log
-.env
+#.env
 
 # Arquivos do VSCode
 .vscode/
 
 arquivos_de_treinamento/
 .devcontainer/
-.streamlit/secrets.toml
+#.streamlit/secrets.toml

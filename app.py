@@ -12,10 +12,8 @@ MAP_FILE = "mapeamento_layouts.xlsx"
 for folder in [TEMP_DIR, TRAIN_DIR]:
     if not os.path.exists(folder):
         os.makedirs(folder)
-
 st.set_page_config(page_title="Identificador de Layouts", layout="wide")
 st.title("🤖 Identificador Automático de Layouts")
-
 def processar_novo_arquivo():
     uploaded_file = st.session_state.get("file_uploader")
     if uploaded_file:
@@ -25,19 +23,16 @@ def processar_novo_arquivo():
         st.session_state.caminho_arquivo_temp = caminho_arquivo
         with st.spinner('Analisando arquivo...'):
             analisar_arquivo(caminho_arquivo, sistema=st.session_state.get("sistema_input"))
-
 def analisar_arquivo(caminho_arquivo, sistema=None, senha=None):
     st.session_state.resultados = identificar_layout(caminho_arquivo, sistema_alvo=sistema, senha_manual=senha)
     st.session_state.senha_incorreta = (st.session_state.resultados == "SENHA_INCORRETA")
     st.session_state.senha_necessaria = (st.session_state.resultados == "SENHA_NECESSARIA")
     st.session_state.analise_feita = True
-
 if 'analise_feita' not in st.session_state: st.session_state.analise_feita = False
 if 'resultados' not in st.session_state: st.session_state.resultados = None
 if 'senha_necessaria' not in st.session_state: st.session_state.senha_necessaria = False
 if 'senha_incorreta' not in st.session_state: st.session_state.senha_incorreta = False
 if 'caminho_arquivo_temp' not in st.session_state: st.session_state.caminho_arquivo_temp = ""
-
 st.sidebar.title("Painel de Administração")
 if 'authenticated' not in st.session_state: st.session_state.authenticated = False
 username_input = st.sidebar.text_input("Usuário", key="username")
@@ -76,12 +71,10 @@ if st.session_state.authenticated:
                 st.sidebar.error("Falha ao recarregar.")
     if st.sidebar.button("Logout"):
         st.session_state.authenticated = False; st.rerun()
-
 st.divider()
 st.header("Identificar Layout")
 sistema_input = st.text_input("Sistema (Opcional)", key="sistema_input")
 uploaded_file = st.file_uploader("Selecione o arquivo para identificar", type=['pdf', 'xlsx', 'xls', 'txt', 'csv', 'xml'], key="file_uploader", on_change=processar_novo_arquivo)
-
 if st.session_state.senha_necessaria:
     st.warning("🔒 O PDF está protegido por senha.")
     senha_manual = st.text_input("Digite a senha do PDF:", type="password", key="pwd_input")
@@ -110,4 +103,10 @@ elif st.session_state.analise_feita:
             else:
                 emoji = f"**{rank}º**"
             with st.container(border=True):
-                st.markdown(f"### {emoji} {res['banco']}\n- **Código:** `{res['codigo_layout']}`\n- **Confiança:** **{res['pontuacao']}%**")
+                col1, col2 = st.columns([1, 4])
+                with col1:
+                    if res.get("url_previa"):
+                        st.image(res["url_previa"], caption=f"Exemplo {res['codigo_layout']}", width=150)
+                with col2:
+                    st.markdown(f"### {emoji} {res['banco']}")
+                    st.markdown(f"- **Código:** `{res['codigo_layout']}`\n- **Confiança:** **{round(res['pontuacao'])}%**")

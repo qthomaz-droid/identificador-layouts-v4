@@ -6,7 +6,7 @@ import pandas as pd
 import joblib
 import json
 from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.feature_extraction.text import TfidfVectorizer # <-- LINHA QUE FALTAVA
+from sklearn.feature_extraction.text import TfidfVectorizer
 import xml.etree.ElementTree as ET
 import pytesseract
 from PIL import Image
@@ -14,9 +14,12 @@ import io
 import re
 from collections import defaultdict
 from tqdm import tqdm
+import requests
 
-# ... (O resto do arquivo permanece exatamente o mesmo) ...
+# --- CONFIGURAÇÕES ---
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+MAX_PAGINAS_PDF = 3
+TIMEOUT_OCR_IMAGEM = 15
 STOPWORDS = [
     'de', 'a', 'o', 'que', 'e', 'do', 'da', 'em', 'um', 'para', 'é', 'com', 'não', 'uma',
     'os', 'no', 'se', 'na', 'por', 'mais', 'as', 'dos', 'como', 'mas', 'foi', 'ao', 'ele',
@@ -34,8 +37,53 @@ ARQUIVO_MATRIZ_TFIDF = 'tfidf_matrix.joblib'
 ARQUIVO_LABELS = 'layout_labels.joblib'
 ARQUIVO_METADADOS = 'layouts_meta.json'
 PASTA_CACHE = 'cache_de_texto'
+API_BASE_URL = "https://manager.conciliadorcontabil.com.br/api/"
+API_SECRET = os.getenv('API_SECRET', '4722c7e4c11f186a30af5d4be091b236')
+
 VECTORIZER, TFIDF_MATRIX, LAYOUT_LABELS, METADADOS_LAYOUTS = None, None, None, {}
 MODELO_CARREGADO = False
+
+def buscar_e_mesclar_imagens_api(metadados_locais):
+    print("Buscando links de imagem na API do Manager...")
+    if not API_SECRET:
+        print("AVISO: Segredo da API não configurado.")
+        return metadados_locais
+    
+    try:
+        token_url = f"{API_BASE_URL}get-token"
+        response_token = requests.post(token_url, data={'secret': API_SECRET})
+        response_token.raise_for_status()
+        access_token = response_token.json().get("data", {}).get("access_token")
+
+        if not access_token:
+            print("ERRO: 'access_token' não encontrado na resposta.")
+            return metadados_locais
+
+        headers = {'Authorization': f'Bearer {access_token}'}
+        layouts_url = f"{API_BASE_URL}layouts?orderby=id,asc"
+        response_layouts = requests.get(layouts_url, headers=headers)
+        response_layouts.raise_for_status()
+        
+        # --- CORREÇÃO DEFINITIVA AQUI ---
+        layouts_data_objeto = response_layouts.json()
+        layouts_da_api_lista = layouts_data_objeto.get("data", [])
+
+        if not isinstance(layouts_da_api_lista, list):
+             print(f"ERRO: A chave 'data' na resposta da API não contém uma lista. Conteúdo: {layouts_da_api_lista}")
+             return metadados_locais
+
+        mapa_imagens = {str(layout.get('codigo')): layout.get('imagem') for layout in layouts_da_api_lista if layout.get('codigo') and layout.get('imagem')}
+        
+        print(f"Sucesso! {len(mapa_imagens)} links de imagem encontrados. Mesclando com metadados...")
+        for codigo, meta in metadados_locais.items():
+            if codigo in mapa_imagens:
+                meta['url_previa'] = mapa_imagens[codigo]
+        
+        return metadados_locais
+
+    except Exception as e:
+        print(f"ERRO CRÍTICO ao buscar imagens da API: {e}")
+        return metadados_locais
 
 def carregar_modelo_e_meta():
     global VECTORIZER, TFIDF_MATRIX, LAYOUT_LABELS, METADADOS_LAYOUTS, MODELO_CARREGADO
@@ -43,16 +91,21 @@ def carregar_modelo_e_meta():
         VECTORIZER = joblib.load(ARQUIVO_VECTORIZER)
         TFIDF_MATRIX = joblib.load(ARQUIVO_MATRIZ_TFIDF)
         LAYOUT_LABELS = joblib.load(ARQUIVO_LABELS)
+        
         with open(ARQUIVO_METADADOS, 'r', encoding='utf-8') as f:
             meta_list = json.load(f)
-            METADADOS_LAYOUTS = {item['codigo_layout']: item for item in meta_list}
+            metadados_locais = {str(item['codigo_layout']): item for item in meta_list}
+
+        METADADOS_LAYOUTS = buscar_e_mesclar_imagens_api(metadados_locais)
+        
         MODELO_CARREGADO = True
-        print(f"Modelo de ML e {len(METADADOS_LAYOUTS)} metadados carregados com sucesso.")
+        print(f"Modelo de ML e {len(METADADOS_LAYOUTS)} metadados carregados.")
         return True
     except FileNotFoundError:
         MODELO_CARREGADO = False
-        print("AVISO: Arquivos de modelo/metadados não encontrados. Execute o treinador.")
+        print("AVISO: Arquivos de modelo/metadados não encontrados.")
         return False
+
 carregar_modelo_e_meta()
 SENHAS_COMUNS = ["", "123456", "0000"]
 def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
@@ -72,7 +125,7 @@ def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
                             if doc.authenticate(senha) > 0: desbloqueado = True; break
                     if not desbloqueado: return "SENHA_NECESSARIA"
                 for i, pagina in enumerate(doc):
-                    if i >= 3: break
+                    if i >= MAX_PAGINAS_PDF: break
                     texto_completo += pagina.get_text()
                     for img_info in pagina.get_images(full=True):
                         try:
@@ -80,10 +133,9 @@ def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
                             base_image = doc.extract_image(xref)
                             image_bytes = base_image["image"]
                             imagem = Image.open(io.BytesIO(image_bytes))
-                            texto_da_imagem = pytesseract.image_to_string(imagem, lang='por', timeout=15)
+                            texto_da_imagem = pytesseract.image_to_string(imagem, lang='por', timeout=TIMEOUT_OCR_IMAGEM)
                             if texto_da_imagem: texto_completo += " " + texto_da_imagem
-                        except (RuntimeError, Exception):
-                            continue
+                        except (RuntimeError, Exception): continue
                 return texto_completo.lower()
         elif extensao in ['.xlsx', '.xls']:
             excel_file = pd.ExcelFile(caminho_arquivo)
@@ -99,7 +151,7 @@ def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
             for elem in root.iter():
                 if elem.text: texto_completo += elem.text.strip() + ' '
     except Exception as e:
-        print(f"AVISO: Falha ao processar o arquivo '{nome_arquivo}'. Erro: {e}.")
+        print(f"AVISO: Falha ao processar '{nome_arquivo}'. Erro: {e}.")
         return None
     return texto_completo.lower()
 def normalizar_extensao(ext):
@@ -134,18 +186,14 @@ def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, senha_manual=
         meta = METADADOS_LAYOUTS.get(resultado['codigo_layout'])
         if meta and str(meta.get('formato', '')).lower() == extensao_arquivo:
             resultado['banco'] = meta.get('descricao', f"Layout {resultado['codigo_layout']}")
+            resultado['url_previa'] = meta.get('url_previa', None)
             resultados_filtrados.append(resultado)
     return resultados_filtrados[:5]
-
 def recarregar_modelo():
-    print("Recarregando modelo e metadados...")
     return carregar_modelo_e_meta()
-
 def retreinar_modelo_completo():
-    print("\n--- Iniciando Retreinamento Completo do Modelo de ML ---")
     if not os.path.exists(PASTA_CACHE): return False
     textos_por_layout = defaultdict(str)
-    print("Lendo textos do cache...")
     for nome_arquivo_cache in tqdm(os.listdir(PASTA_CACHE), desc="Lendo cache"):
         nome_original = os.path.splitext(nome_arquivo_cache)[0]
         match = re.search(r'\d+', nome_original)
@@ -156,10 +204,8 @@ def retreinar_modelo_completo():
     if not textos_por_layout: return False
     labels = list(textos_por_layout.keys())
     corpus = [textos_por_layout[label] for label in labels]
-    print("\nTreinando o vetorizador TF-IDF...")
     vectorizer = TfidfVectorizer(stop_words=STOPWORDS, norm='l2', ngram_range=(1, 2))
     tfidf_matrix = vectorizer.fit_transform(corpus)
-    print("Salvando os novos arquivos do modelo de ML...")
     joblib.dump(vectorizer, ARQUIVO_VECTORIZER)
     joblib.dump(tfidf_matrix, ARQUIVO_MATRIZ_TFIDF)
     joblib.dump(labels, ARQUIVO_LABELS)

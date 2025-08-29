@@ -11,3 +11,4 @@ joblib
 tqdm
 py-trello
 func-timeout
+requests

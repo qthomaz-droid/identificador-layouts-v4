@@ -1,26 +1,16 @@
-# Ambiente Virtual do Python
 venv/
 .venv/
-
-# Arquivos compilados do Python
 __pycache__/
 *.pyc
-
-# Pastas de build dos executáveis
 build/
 dist/
 *.spec
-
-# Arquivos temporários da nossa aplicação
 temp_files/
-
-# Logs e arquivos de ambiente
 debug.log
-.env
-
-# Arquivos do VSCode
 .vscode/
-
 arquivos_de_treinamento/
 .devcontainer/
 .streamlit/secrets.toml
+.env 
+.streamlit/secrets copy.toml
+.env copy

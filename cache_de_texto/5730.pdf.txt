@@ -1,0 +1,926 @@
+1/32 - gerado em 03/09/2024 às 15:31 por edilene
+relatório de despesas
+id
+fornecedor
+meio
+pagamento
+valor
+valor pago
+venc.
+quitação
+data de
+competência
+status
+desc.
+categoria
+subcategoria
+origem
+1874
+efi - cartão de
+credito
+boleto
+bancário
+636,98
+636,98
+03/01/2024 28/12/2023
+pago
+parcelamendo
+cartão de
+credito efí ( 3
+/ 15 )
+despesas
+administrativas
+cartão de
+credito
+avulsa
+1657
+sanepar
+boleto
+bancário
+372,33
+372,33
+05/01/2024 05/01/2024
+pago
+matricula
+3523.3474
+despesas
+administrativas
+água
+fixa
+1996
+tania pereira
+boleto
+bancário
+1.623,46
+1.623,46
+05/01/2024 05/01/2024
+pago
+salario
+despesas
+administrativas
+salário
+avulsa
+1997
+sirlene martins
+pereira
+boleto
+bancário
+540,00
+540,00
+05/01/2024 05/01/2024
+pago
+salario
+diarista
+despesa com
+pessoal
+diarista
+avulsa
+2003
+edilene dias
+maruchi
+boleto
+bancário
+3.267,17
+3.267,17
+05/01/2024 15/01/2024
+pago
+salario
+despesas
+administrativas
+salário
+avulsa
+2008
+fgts
+boleto
+bancário
+649,93
+649,93
+05/01/2024 16/01/2024
+pago
+fgts
+despesa com
+pessoal
+encargos
+sociais:
+fgts/inss
+avulsa
+1965
+atual papelaria
+boleto
+bancário
+296,10
+296,10
+06/01/2024 05/01/2024
+pago
+compra de a4
+despesas
+administrativas
+material de
+escritório/infor
+mática
+avulsa
+1968
+felimp
+boleto
+bancário
+261,10
+261,10
+09/01/2024 05/01/2024
+pago
+compra de saco
+de lixo e
+hipoclorito
+despesas
+administrativas
+material de
+limpeza/copa
+avulsa
+2000
+acct contabilidade
+boleto
+bancário
+400,00
+400,00
+10/01/2024 10/01/2024
+pago
+mensalidade
+contabilidade
+despesas
+administrativas
+contabilidad
+e
+avulsa
+2001
+vivo
+boleto
+bancário
+20,00
+20,00
+16/01/2024 15/01/2024
+pago
+monitora de
+dados vivo
+despesas
+administrativas
+telefone
+avulsa
+2002
+vivo
+boleto
+bancário
+432,18
+432,18
+16/01/2024 15/01/2024
+pago
+ip dedicado
+vivo
+despesas
+administrativas
+telefone
+avulsa
+2021
+vivo
+boleto
+bancário
+112,00
+112,00
+17/01/2024 17/01/2024
+pago
+vivo movel
+despesas
+administrativas
+telefone
+avulsa
+total
+ 
+ 
+r$
+297.954,85
+r$
+265.622,64
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2/32 - gerado em 03/09/2024 às 15:31 por edilene
+id
+fornecedor
+meio
+pagamento
+valor
+valor pago
+venc.
+quitação
+data de
+competência
+status
+desc.
+categoria
+subcategoria
+origem
+2034
+maringa acessorios
+boleto
+bancário
+69,90
+69,90
+18/01/2024 18/01/2024
+pago
+pilhas e
+carregador
+despesas
+administrativas
+acessorios
+avulsa
+2004
+receita federal
+boleto
+bancário
+1.136,85
+1.136,85
+19/01/2024 17/01/2024
+pago
+irrf
+imposto e taxas
+impostos
+avulsa
+1678
+fibercom
+boleto
+bancário
+1.112,16
+1.112,16
+22/01/2024 23/01/2024
+pago
+internet
+despesas
+administrativas
+manutenção de
+internet/inform
+ática e
+sistemas
+fixa
+2017
+work i.t soluções
+em tecnologia
+boleto
+bancário
+300,00
+300,00
+22/01/2024 23/01/2024
+pago
+manutenção
+internet
+despesas
+administrativas
+manutenção de
+internet/inform
+ática e
+sistemas
+avulsa
+2036
+shopee
+boleto
+bancário
+127,01
+127,01
+22/01/2024 22/01/2024
+pago
+material de
+escritorio
+despesas
+administrativas
+material de
+escritório/infor
+mática
+avulsa
+2014
+receita federal
+ 
+2.757,73
+ 
+23/01/2024  
+aberto simples
+nacional
+imposto e taxas
+impostos
+avulsa
+2039
+auto posto
+liberdade
+cartão de
+débito
+100,00
+100,00
+23/01/2024 24/01/2024
+pago
+combustivel
+despesas com
+veículos
+combustíveis e
+lubriﬁcantes
+avulsa
+2040
+aloizio antonio da
+silva
+boleto
+bancário
+800,00
+800,00
+24/01/2024 24/01/2024
+pago
+manutenção do
+ar condicionado
+despesas
+administrativas
+serviços de
+limpeza e
+manutenção
+avulsa
+1644
+copel
+boleto
+bancário
+2.716,55
+2.716,55
+25/01/2024 15/02/2024
+pago
+unidade
+consumidora
+101448830
+despesas
+administrativas
+energia elétrica
+fixa
+2015
+copel
+boleto
+bancário
+571,42
+571,42
+25/01/2024 31/01/2024
+pago
+unidade
+consumidora
+105814288
+despesas
+administrativas
+energia elétrica
+avulsa
+total
+ 
+ 
+r$
+297.954,85
+r$
+265.622,64
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/32 - gerado em 03/09/2024 às 15:31 por edilene
+id
+fornecedor
+meio
+pagamento
+valor
+valor pago
+venc.
+quitação
+data de
+competência
+status
+desc.
+categoria
+subcategoria
+origem
+2018
+plano espaço
+boleto
+bancário
+10.000,00
+10.000,00
+25/01/2024 19/01/2024
+pago
+aluguel - o
+valor original
+desta despesa
+era de r$
+13.000,00 e
+passou a ser de
+r$ 10.000,00
+devido a uma
+quitação parcial,
+gerando a
+despesa de nº
+2035 no valor de
+r$ 3.000,00.
+despesas
+administrativas
+aluguel
+avulsa
+2022
+prefeitura
+boleto
+bancário
+960,32
+960,32
+25/01/2024 23/01/2024
+pago
+iptu( 1 / 12 )
+despesas
+administrativas
+iptu
+avulsa
+2035
+plano espaço
+boleto
+bancário
+3.000,00
+3.000,00
+25/01/2024 25/01/2024
+pago
+aluguel
+despesas
+administrativas
+aluguel
+avulsa
+1735
+tania pereira
+boleto
+bancário
+700,00
+700,00
+30/01/2024 29/01/2024
+pago
+vale
+alimentação +
+vale
+transporte
+despesas
+administrativas
+vale
+alimentação
+fixa
+2057
+tania pereira
+boleto
+bancário
+38,00
+38,00
+31/01/2024 31/01/2024
+pago
+completo vale
+alimentação
+despesas
+administrativas
+vale
+alimentação
+avulsa
+1748
+edilene dias
+maruchi
+boleto
+bancário
+900,00
+900,00
+31/01/2024 14/02/2024
+pago
+vale
+alimentação +
+vale
+transporte
+despesas
+administrativas
+vale
+alimentação
+fixa
+2016
+conexa
+boleto
+bancário
+332,06
+332,06
+31/01/2024 29/01/2024
+pago
+sistema
+conexa
+despesas
+administrativas
+manutenção de
+internet/inform
+ática e
+sistemas
+avulsa
+total
+ 
+ 
+r$
+297.954,85
+r$
+265.622,64
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4/32 - gerado em 03/09/2024 às 15:31 por edilene
+id
+fornecedor
+meio
+pagamento
+valor
+valor pago
+venc.
+quitação
+data de
+competência
+status
+desc.
+categoria
+subcategoria
+origem
+2042
+simples nacional
+boleto
+bancário
+466,17
+466,17
+31/01/2024 25/01/2024
+pago
+parcelamento
+simples
+nacional
+47/60( 1 / 14 )
+imposto e taxas
+impostos
+avulsa
+2065
+assai supermercado
+boleto
+bancário
+232,46
+232,46
+02/02/2024 05/02/2024
+pago
+compra de
+dispensa
+despesas
+administrativas
+material de
+limpeza/copa
+avulsa
+2064
+tania pereira
+boleto
+bancário
+67,62
+67,62
+03/02/2024 05/02/2024
+pago
+alimentação
+despesas
+administrativas
+alimentação e
+refeição
+avulsa
+1875
+efi - cartão de
+credito
+boleto
+bancário
+636,98
+636,98
+03/02/2024 06/02/2024
+pago
+parcelamendo
+cartão de
+credito efí ( 4
+/ 15 )
+despesas
+administrativas
+cartão de
+credito
+avulsa
+1658
+sanepar
+boleto
+bancário
+259,98
+259,98
+05/02/2024 06/02/2024
+pago
+matricula
+3523.3474
+despesas
+administrativas
+água
+fixa
+2067
+maringa acessorios
+boleto
+bancário
+30,00
+30,00
+06/02/2024 06/02/2024
+pago
+copias de
+chaves
+despesa com
+pessoal
+diversos
+avulsa
+2066
+sirlene martins
+pereira
+boleto
+bancário
+540,00
+540,00
+07/02/2024 06/02/2024
+pago
+diarista
+despesas
+administrativas
+material de
+limpeza/copa
+avulsa
+2068
+fgts
+boleto
+bancário
+452,21
+452,21
+07/02/2024 07/02/2024
+pago
+fgts
+despesa com
+pessoal
+encargos
+sociais:
+fgts/inss
+avulsa
+2070
+edilene dias
+maruchi
+boleto
+bancário
+2.200,00
+2.200,00
+07/02/2024 10/02/2024
+pago
+salario - o
+valor original
+desta despesa
+era de r$
+2.248,75 e
+passou a ser de
+r$ 2.200,00
+devido a uma
+quitação parcial,
+gerando a
+despesa de nº
+2092 no valor de
+r$ 48,75.
+despesa com
+pessoal
+férias/décimo
+terceiro salário
+avulsa
+total
+ 
+ 
+r$
+297.954,85
+r$
+265.622,64
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5/32 - gerado em 03/09/2024 às 15:31 por edilene
+id
+fornecedor
+meio
+pagamento
+valor
+valor pago
+venc.
+quitação
+data de
+competência
+status
+desc.
+categoria
+subcategoria
+origem
+2071
+tania pereira
+boleto
+bancário
+1.624,84
+1.624,84
+07/02/2024 07/02/2024
+pago
+salario
+despesas
+administrativas
+salário
+avulsa
+2075
+deustener
+aparecido
+carvalho bianco
+boleto
+bancário
+350,00
+350,00
+07/02/2024 07/02/2024
+pago
+pintura da
+sala
+despesas
+administrativas
+serviços de
+limpeza e
+manutenção
+avulsa
+2092
+edilene dias
+maruchi
+boleto
+bancário
+48,75
+48,75
+07/02/2024 14/02/2024
+pago
+salario
+despesa com
+pessoal
+férias/décimo
+terceiro salário
+avulsa
+2082
+vidraçaria bela
+vista
+boleto
+bancário
+80,00
+80,00
+08/02/2024 08/02/2024
+pago
+ 
+despesas
+administrativas
+manutenção de
+internet/inform
+ática e
+sistemas
+avulsa
+2090
+zantara util dom
+cartão de
+débito
+113,96
+113,96
+08/02/2024 15/02/2024
+pago
+extenção
+despesas
+administrativas
+manutenção de
+internet/inform
+ática e
+sistemas
+avulsa
+2072
+acct contabilidade
+boleto
+bancário
+430,00
+430,00
+10/02/2024 14/02/2024
+pago
+contabilidade
+despesas
+administrativas
+contabilidad
+e
+avulsa
+2091
+deustener
+aparecido
+carvalho bianco
+boleto
+bancário
+250,00
+250,00
+14/02/2024 15/02/2024
+pago
+pintura sala
+de jogos
+despesas
+administrativas
+serviços de
+limpeza e
+manutenção
+avulsa
+2023
+prefeitura
+boleto
+bancário
+979,50
+979,50
+14/02/2024 15/02/2024
+pago
+iptu ( 2 / 12 )
+despesas
+administrativas
+iptu
+avulsa
+2087
+vivo
+boleto
+bancário
+20,00
+20,00
+15/02/2024 15/02/2024
+pago
+monitora de
+dados
+despesas
+administrativas
+telefone
+avulsa
+2089
+vivo
+boleto
+bancário
+432,18
+432,18
+15/02/2024 15/02/2024
+pago
+ip dedicado
+despesas
+administrativas
+telefone
+avulsa
+2093
+vagner osorio dos
+reis
+boleto
+bancário
+150,00
+150,00
+15/02/2024 15/02/2024
+pago
+troca de
+lampadas
+despesas
+administrativas
+serviços de
+limpeza e
+manutenção
+avulsa
+2069
+receita federal
+boleto
+bancário
+1.119,76
+1.119,76
+20/02/2024 20/02/2024
+pago
+irrf
+imposto e taxas
+impostos
+avulsa
+total
+ 
+ 
+r$
+297.954,85
+r$
+265.622,64
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

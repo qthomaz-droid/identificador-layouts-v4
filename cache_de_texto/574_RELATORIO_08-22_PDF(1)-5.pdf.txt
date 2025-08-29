@@ -1,0 +1,937 @@
+relação de contas a pagar agrupada por fornecedor
+gestores
+data: 28/09/2022 08:59:01
+usuário: gustavo
+filial "igual" : 1 brazil especiarias ltda
+data vencimento "entre" : 01/08/2022 a 31/08/2022
+situação "igual" : pagas
+fornecedor:
+compra de pimenta do reino 
+dt. emis.
+nf
+doc.
+histórico
+espécie
+valor-r$
+valor pago
+dt. pagto
+dt. venc.
+conta
+04/08/2022
+2979
+sergio cremasco
+tranferência
+5.497,00
+5.497,00
+04/08/2022
+01/08/2022
+sicoob
+04/08/2022
+001
+pimenta gildo
+tranferência
+5.850,50
+5.850,50
+04/08/2022
+03/08/2022
+caixa econômica
+04/08/2022
+2992
+sergio cremasco
+tranferência
+1.610,00
+1.610,00
+04/08/2022
+03/08/2022
+sicoob
+04/08/2022
+2993
+sebastião gomes
+cheque
+5.000,00
+5.000,00
+04/08/2022
+03/08/2022
+sicoob
+04/08/2022
+2996
+gilmar
+cheque
+3.452,60
+3.452,60
+04/08/2022
+03/08/2022
+sicoob
+04/08/2022
+2999
+luiz fernando rodrigues
+cheque
+7.824,00
+7.824,00
+04/08/2022
+03/08/2022
+sicoob
+04/08/2022
+3001
+sergio cremasco
+tranferência
+1.872,00
+1.872,00
+04/08/2022
+04/08/2022
+sicoob
+04/08/2022
+3003
+gelsivan sabadine
+tranferência
+4.694,80
+4.694,80
+04/08/2022
+04/08/2022
+caixa econômica
+05/08/2022
+3009
+ricardo putim vidoto
+tranferência
+5.697,40
+5.697,40
+05/08/2022
+04/08/2022
+caixa econômica
+08/08/2022
+001
+pimenta pionty
+tranferência
+1.300,00
+1.300,00
+08/08/2022
+04/08/2022
+sicoob
+05/08/2022
+3016
+diego bastianelo
+tranferência
+5.124,00
+5.124,00
+05/08/2022
+05/08/2022
+sicoob
+05/08/2022
+3018
+adailson costa
+tranferência
+3.818,60
+3.818,60
+05/08/2022
+05/08/2022
+sicoob
+05/08/2022
+3020
+severino antonio
+cheque
+6.186,90
+6.186,90
+05/08/2022
+05/08/2022
+sicoob
+05/08/2022
+3021
+claudio langa
+cheque
+6.186,90
+6.186,90
+05/08/2022
+05/08/2022
+sicoob
+05/08/2022
+3022
+sergio cremasco
+tranferência
+4.148,00
+4.148,00
+05/08/2022
+05/08/2022
+sicoob
+05/08/2022
+3023
+carmenlucia pezzin
+tranferência
+24.400,00
+24.400,00
+05/08/2022
+05/08/2022
+banco do brasil
+08/08/2022
+3030
+roney barbosa
+tranferência
+2.880,00
+2.880,00
+08/08/2022
+06/08/2022
+banco do brasil
+08/08/2022
+3037
+sergio cremasco
+tranferência
+2.688,00
+2.688,00
+08/08/2022
+08/08/2022
+sicoob
+08/08/2022
+3038
+patrick trevizani barbosa
+tranferência
+2.488,80
+2.488,80
+08/08/2022
+08/08/2022
+sicoob
+10/08/2022
+3044
+sergio cremasco
+tranferência
+2.040,00
+2.040,00
+10/08/2022
+09/08/2022
+sicoob
+11/08/2022
+3059
+edmar de assis
+cheque
+3.924,00
+3.924,00
+11/08/2022
+09/08/2022
+sicoob
+11/08/2022
+3062
+silene dos santos
+tranferência
+3.867,40
+3.867,40
+11/08/2022
+10/08/2022
+caixa econômica
+11/08/2022
+3063
+jair mendes vasconseloa
+tranferência
+1.920,00
+1.920,00
+11/08/2022
+10/08/2022
+caixa econômica
+11/08/2022
+3065
+wender cassaro
+cheque
+2.366,80
+2.366,80
+11/08/2022
+10/08/2022
+sicoob
+11/08/2022
+3066
+wender cassaro
+cheque
+3.001,20
+3.001,20
+11/08/2022
+10/08/2022
+sicoob
+11/08/2022
+3068
+ricardo puttin vidotto
+tranferência
+3.208,60
+3.208,60
+11/08/2022
+10/08/2022
+caixa econômica
+11/08/2022
+3071
+sergio cremasco
+tranferência
+1.512,00
+1.512,00
+11/08/2022
+11/08/2022
+sicoob
+15/08/2022
+3092
+sergio cremasco
+tranferência
+2.440,00
+2.440,00
+15/08/2022
+15/08/2022
+sicoob
+brajan sistemas
+www.brajan.com.br
+página: 1
+16/08/2022
+3094
+ricardo puttin vidotto
+tranferência
+7.503,00
+7.503,00
+16/08/2022
+15/08/2022
+caixa econômica
+16/08/2022
+3095
+jovacir marin zanon
+tranferência
+12.500,00
+12.500,00
+16/08/2022
+15/08/2022
+banco do brasil
+31/08/2022
+3103
+daniel ventorim
+tranferência
+3.782,00
+3.782,00
+31/08/2022
+16/08/2022
+banco do brasil
+18/08/2022
+3113
+joel hollunder
+tranferência
+1.939,80
+1.939,80
+18/08/2022
+17/08/2022
+sicoob
+23/08/2022
+3126
+ian marcos
+tranferência
+2.061,80
+2.061,80
+23/08/2022
+19/08/2022
+banco do brasil
+23/08/2022
+3128
+sergio cremasco
+tranferência
+2.736,00
+2.736,00
+23/08/2022
+19/08/2022
+sicoob
+23/08/2022
+3136
+gabriel silva batista
+cheque
+720,00
+720,00
+23/08/2022
+19/08/2022
+sicoob
+23/08/2022
+3143
+ricardo puttin vidotto
+tranferência
+4.135,80
+4.135,80
+23/08/2022
+22/08/2022
+caixa econômica
+23/08/2022
+3145
+sergio cremasco
+tranferência
+1.927,60
+1.927,60
+23/08/2022
+22/08/2022
+sicoob
+26/08/2022
+3153
+joel hollunder
+tranferência
+1.596,00
+1.596,00
+26/08/2022
+24/08/2022
+sicoob
+26/08/2022
+3154
+diego bastianelo
+tranferência
+5.734,00
+5.734,00
+26/08/2022
+24/08/2022
+caixa econômica
+26/08/2022
+3161
+lucas mesquita
+tranferência
+2.684,00
+2.684,00
+26/08/2022
+25/08/2022
+sicoob
+26/08/2022
+3162
+gecy bueno
+tranferência
+10.200,00
+10.200,00
+26/08/2022
+25/08/2022
+sicoob
+26/08/2022
+3163
+damião alves barbosa
+cheque
+2.698,00
+2.698,00
+26/08/2022
+25/08/2022
+sicoob
+29/08/2022
+001
+gildo honorio
+tranferência
+3.500,00
+3.500,00
+29/08/2022
+25/08/2022
+caixa econômica
+29/08/2022
+1306
+anailton santos
+cheque
+2.000,00
+2.000,00
+29/08/2022
+26/08/2022
+sicoob
+29/08/2022
+3168
+jose de oliveira
+cheque
+2.530,00
+2.530,00
+29/08/2022
+26/08/2022
+sicoob
+29/08/2022
+3171
+patrick trevizani
+tranferência
+1.500,00
+1.500,00
+29/08/2022
+26/08/2022
+sicoob
+29/08/2022
+3172
+patrick trevizani
+tranferência
+312,00
+312,00
+29/08/2022
+26/08/2022
+sicoob
+29/08/2022
+3173
+lucimar honorio
+cheque
+2.616,00
+2.616,00
+29/08/2022
+26/08/2022
+sicoob
+29/08/2022
+3175
+aelson carlos domingos
+cheque
+4.880,00
+4.880,00
+29/08/2022
+26/08/2022
+sicoob
+29/08/2022
+3176
+joel hollunder
+tranferência
+1.915,40
+1.915,40
+29/08/2022
+26/08/2022
+sicoob
+29/08/2022
+3177
+josimar leite
+tranferência
+5.628,00
+5.628,00
+29/08/2022
+26/08/2022
+sicoob
+29/08/2022
+3182
+sergio cremasco
+tranferência
+2.196,00
+2.196,00
+29/08/2022
+29/08/2022
+sicoob
+31/08/2022
+3188
+gecy bueno
+tranferência
+12.000,00
+12.000,00
+31/08/2022
+30/08/2022
+banco do brasil
+31/08/2022
+3189
+gecy bueno
+tranferência
+9.156,00
+9.156,00
+31/08/2022
+30/08/2022
+sicoob
+total:
+233.450,90
+233.450,90
+fornecedor:
+custo fixo
+dt. emis.
+nf
+doc.
+histórico
+espécie
+valor-r$
+valor pago
+dt. pagto
+dt. venc.
+conta
+04/08/2022
+001
+financiamento fiat strada
+boleto
+1.274,18
+1.274,18
+04/08/2022
+02/08/2022
+sicoob
+05/08/2022
+001
+aluguel galpão
+tranferência
+4.156,00
+4.156,00
+05/08/2022
+05/08/2022
+caixa econômica
+05/08/2022
+001
+contabilidade
+boleto
+1.212,00
+1.212,00
+05/08/2022
+05/08/2022
+sicoob
+10/08/2022
+001
+financiamento caminhão
+boleto
+3.216,04
+3.216,04
+10/08/2022
+09/08/2022
+sicoob
+10/08/2022
+001
+unimed
+boleto
+647,81
+647,81
+10/08/2022
+10/08/2022
+sicoob
+15/08/2022
+001
+guarda noturno
+dinheiro
+75,00
+75,00
+15/08/2022
+12/08/2022
+compra de mercadoria para
+revenda
+15/08/2022
+001
+brajan sistemas
+boleto
+280,00
+280,00
+15/08/2022
+15/08/2022
+sicoob
+brajan sistemas
+www.brajan.com.br
+página: 2
+17/08/2022
+001
+adiantamento carlos
+tranferência
+560,00
+560,00
+17/08/2022
+15/08/2022
+sicoob
+17/08/2022
+001
+adiantamento gustavo
+tranferência
+600,00
+600,00
+17/08/2022
+15/08/2022
+sicoob
+17/08/2022
+001
+cesan
+boleto
+30,63
+30,63
+17/08/2022
+17/08/2022
+sicoob
+19/08/2022
+001
+internet lidercom
+boleto
+119,90
+119,90
+19/08/2022
+19/08/2022
+sicoob
+23/08/2022
+001
+edp escelsa
+boleto
+429,30
+429,30
+23/08/2022
+22/08/2022
+sicoob
+23/08/2022
+001
+financiamento fiat toro
+boleto
+3.079,43
+3.079,43
+23/08/2022
+23/08/2022
+sicoob
+29/08/2022
+001
+vale alimentação
+boleto
+1.400,00
+1.400,00
+29/08/2022
+29/08/2022
+sicoob
+31/08/2022
+001
+salário carlos
+tranferência
+732,18
+732,18
+31/08/2022
+31/08/2022
+sicoob
+31/08/2022
+001
+salário gustavo
+tranferência
+783,18
+783,18
+31/08/2022
+31/08/2022
+sicoob
+31/08/2022
+001
+seguro de vida bb
+debitado
+147,27
+147,27
+31/08/2022
+31/08/2022
+banco do brasil
+31/08/2022
+001
+transferencia poupança
+debitado
+500,00
+500,00
+31/08/2022
+31/08/2022
+sicoob
+total:
+19.242,92
+19.242,92
+fornecedor:
+impostos 
+dt. emis.
+nf
+doc.
+histórico
+espécie
+valor-r$
+valor pago
+dt. pagto
+dt. venc.
+conta
+05/08/2022
+001
+guia fgts
+boleto
+253,93
+253,93
+05/08/2022
+05/08/2022
+sicoob
+19/08/2022
+001
+guia inss e funrural
+boleto
+2.770,43
+2.770,43
+19/08/2022
+19/08/2022
+sicoob
+26/08/2022
+001
+darf - cofins
+boleto
+8.300,10
+8.300,10
+26/08/2022
+25/08/2022
+sicoob
+26/08/2022
+001
+darf - pis
+boleto
+1.798,36
+1.798,36
+26/08/2022
+25/08/2022
+sicoob
+total:
+13.122,82
+13.122,82
+fornecedor:
+insumos
+dt. emis.
+nf
+doc.
+histórico
+espécie
+valor-r$
+valor pago
+dt. pagto
+dt. venc.
+conta
+04/08/2022
+001
+abastecimento gás
+boleto
+1.610,61
+1.610,61
+04/08/2022
+01/08/2022
+sicoob
+05/08/2022
+80501
+ted bb p/ sicoob
+tranferência
+100.000,00
+100.000,00
+05/08/2022
+05/08/2022
+banco do brasil
+10/08/2022
+1297
+serviço maquina roça
+cheque
+9.138,00
+9.138,00
+10/08/2022
+09/08/2022
+sicoob
+31/08/2022
+001
+capital de giro bradesco
+tranferência
+8.500,00
+8.500,00
+31/08/2022
+22/08/2022
+sicoob
+26/08/2022
+001
+complemento de dua - milho
+boleto
+74,81
+74,81
+26/08/2022
+25/08/2022
+sicoob
+26/08/2022
+001
+ted caixa p/ sicoob
+tranferência
+50.000,00
+50.000,00
+26/08/2022
+25/08/2022
+caixa econômica
+31/08/2022
+001
+capital de giro caixa 1
+debitado
+3.473,12
+3.473,12
+31/08/2022
+31/08/2022
+caixa econômica
+31/08/2022
+001
+capital de giro caixa 2
+debitado
+3.603,91
+3.603,91
+31/08/2022
+31/08/2022
+caixa econômica
+31/08/2022
+001
+personal marcos
+tranferência
+600,00
+600,00
+31/08/2022
+31/08/2022
+sicoob
+31/08/2022
+001
+seguro prestamista
+debitado
+35,69
+35,69
+31/08/2022
+31/08/2022
+sicoob
+31/08/2022
+001
+seguro strada
+debitado
+257,83
+257,83
+31/08/2022
+31/08/2022
+sicoob
+31/08/2022
+001
+seguro toro
+debitado
+334,09
+334,09
+31/08/2022
+31/08/2022
+sicoob
+total:
+177.628,06
+177.628,06
+brajan sistemas
+www.brajan.com.br
+página: 3
+fornecedor:
+tarifa bancária
+dt. emis.
+nf
+doc.
+histórico
+espécie
+valor-r$
+valor pago
+dt. pagto
+dt. venc.
+conta
+31/08/2022
+001
+capital de giro bb 1
+debitado
+3.052,00
+3.052,00
+31/08/2022
+31/08/2022
+banco do brasil
+31/08/2022
+001
+capital de giro bb 2
+debitado
+1.371,43
+1.371,43
+31/08/2022
+31/08/2022
+banco do brasil
+31/08/2022
+001
+seguro sicoob
+debitado
+105,04
+105,04
+31/08/2022
+31/08/2022
+sicoob
+31/08/2022
+001
+tarifas bb
+debitado
+76,00
+76,00
+31/08/2022
+31/08/2022
+banco do brasil
+31/08/2022
+001
+tarifas sicoob
+debitado
+79,85
+79,85
+31/08/2022
+31/08/2022
+sicoob
+total:
+4.684,32
+4.684,32
+total geral:
+448.129,02
+448.129,02
+registros:
+93
+brajan sistemas
+www.brajan.com.br
+página: 4

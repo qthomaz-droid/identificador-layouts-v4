@@ -1,0 +1,111 @@
+baixa via arquivo de retorno
+gerado em: 2/1/2020 08:15:37
+banco: bradesco - cart: 09
+©2020 fantástiko 2.03.229 - desenvolvido por via net
+mensalidades baixadas
+retorno
+cod. contrato
+locatário:
+data vencimento
+valor
+valor reajustado
+data pagamento
+valor pago
+140
+234
+448
+559
+591
+valéria de
+pinho
+barbosa
+01/01/2020
+r$
+354,07
+r$ 354,07
+30/12/2019
+r$
+354,07
+lucimar
+carmo
+maia
+01/01/2020
+r$
+1.650,00
+r$ 1.650,00
+30/12/2019
+r$
+1.650,00
+breno
+rodrigues
+de paiva
+01/01/2020
+r$
+1.191,06
+r$ 1.191,06
+30/12/2019
+r$
+1.191,06
+jose
+ailton de
+fatima
+alves
+01/01/2020
+r$
+645,00
+r$ 645,00
+30/12/2019
+r$
+645,00
+andre luiz
+vila nova
+de oliveira
+01/01/2020
+r$
+610,00
+r$ 610,00
+30/12/2019
+r$
+610,00
+locador:
+maria
+do
+carmo
+gomes
+locatário:
+valéria de
+pinho
+barbosa
+locador:
+a luxo flex
+construtora
+ltda
+locatário:
+lucimar
+carmo
+maia
+locador:
+marlen
+empreendimentos
+imobiliarios ltda
+locatário:
+breno
+rodrigues
+de paiva
+locador:
+efimed
+clínica
+médica
+ltda
+locatário:
+jose ailton
+de fatima
+alves
+locador:
+estevão
+hermsdorff
+toledo
+locatário:
+andre luiz
+vila nova
+de oliveira

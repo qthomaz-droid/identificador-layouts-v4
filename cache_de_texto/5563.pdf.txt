@@ -1,0 +1,1010 @@
+farmacia cravolandia
+relatório de contas pagas por centro de custo
+período 01/01/2024 a 31/01/2024
+31647987000164
+tipo: agua
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 86,90
+r$ 86,90
+04/01/2024
+r$ 86,90
+r$ 86,90
+tipo: aluguel
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 600,00
+r$ 600,00
+18/01/2024
+r$ 600,00
+r$ 600,00
+tipo: alvara
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 222,41
+r$ 222,41
+08/01/2024
+r$ 222,41
+r$ 222,41
+tipo: associacao rede melhor compra
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 528,00
+r$ 528,00
+15/01/2024
+r$ 528,00
+r$ 528,00
+tipo: combustivel
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 19,00
+r$ 19,00
+22/01/2024
+r$ 20,00
+r$ 20,00
+11/01/2024
+r$ 20,00
+r$ 20,00
+15/01/2024
+r$ 20,00
+r$ 20,00
+29/01/2024
+r$ 20,00
+r$ 20,00
+29/01/2024
+05/02/2024 10:09:13
+1 de 8
+gerado por: tiago
+r$ 99,00
+r$ 99,00
+tipo: comissao
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+joao gabriel argolo moraes
+r$ 240,00
+r$ 240,00
+11/01/2024
+lidiana silva de argolo
+r$ 440,00
+r$ 440,00
+11/01/2024
+r$ 50,00
+r$ 50,00
+11/01/2024
+r$ 730,00
+r$ 730,00
+tipo: contador
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 104,40
+r$ 104,40
+15/01/2024
+r$ 313,19
+r$ 313,19
+08/01/2024
+r$ 417,59
+r$ 417,59
+tipo: dae
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 637,46
+r$ 637,46
+24/01/2024
+r$ 637,46
+r$ 637,46
+tipo: darf gps e irrf
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 593,78
+r$ 593,78
+15/01/2024
+r$ 593,78
+r$ 593,78
+tipo: despesas nao operacionas
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 640,00
+r$ 640,00
+08/01/2024
+r$ 640,00
+r$ 640,00
+tipo: digifarma
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 264,00
+r$ 264,00
+01/01/2024
+r$ 264,00
+r$ 264,00
+05/02/2024 10:09:13
+2 de 8
+gerado por: tiago
+tipo: duplicata / boleto
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+0096686885
+prati donaduzi
+12/12/2023
+r$ 0,00
+r$ 1.164,35
+08/01/2024
+11034934001566
+000551672
+ms farma
+01/01/2024
+r$ 0,00
+r$ 299,87
+08/01/2024
+05458634000106
+009608640
+medicamentos panpharma
+01/01/2024
+r$ 0,00
+r$ 206,99
+08/01/2024
+01206820000873
+02
+rd comercial eireli
+01/01/2024
+r$ 0,00
+r$ 54,53
+08/01/2024
+27241477000115
+232106
+farmix
+01/01/2024
+r$ 0,00
+r$ 624,91
+08/01/2024
+07122223000251
+0095182301
+medicamentos uniao quimica
+02/01/2024
+r$ 0,00
+r$ 435,99
+08/01/2024
+10854165000265
+01
+rd comercial eireli
+02/01/2024
+r$ 0,00
+r$ 175,59
+08/01/2024
+27241477000115
+559397
+golfarma
+02/01/2024
+r$ 0,00
+r$ 153,02
+08/01/2024
+07644746000187
+0674595
+medicamento santa cruz
+02/01/2024
+r$ 0,00
+r$ 1.016,67
+08/01/2024
+61940292005520
+753689
+medicamento orgafarma
+03/01/2024
+r$ 0,00
+r$ 795,73
+08/01/2024
+17291576000239
+0680349
+medicamento santa cruz
+03/01/2024
+r$ 0,00
+r$ 319,19
+08/01/2024
+61940292005520
+0801194
+medicamento santa cruz
+03/01/2024
+r$ 0,00
+r$ 33,51
+08/01/2024
+61940292005520
+1911185313
+medicamentos profarma
+03/01/2024
+r$ 0,00
+r$ 1.553,84
+08/01/2024
+45453214002529
+000926734
+medicamento alianca farma
+04/01/2024
+r$ 0,00
+r$ 847,11
+08/01/2024
+11852966000173
+000926764
+medicamento alianca farma
+04/01/2024
+r$ 0,00
+r$ 543,37
+08/01/2024
+11852966000173
+009629505
+medicamentos panpharma
+04/01/2024
+r$ 0,00
+r$ 169,63
+08/01/2024
+01206820000873
+000361523
+gil farma
+05/01/2024
+r$ 0,00
+r$ 327,40
+08/01/2024
+08765948000140
+002288307
+medicamentos mixfarma
+05/01/2024
+r$ 0,00
+r$ 129,05
+08/01/2024
+06104356000151
+02
+rd comercial eireli
+05/01/2024
+r$ 0,00
+r$ 200,87
+08/01/2024
+27241477000115
+755415
+medicamento orgafarma
+05/01/2024
+r$ 0,00
+r$ 232,69
+08/01/2024
+17291576000239
+02
+perfumaria higiene beleza
+06/01/2024
+r$ 0,00
+r$ 562,20
+08/01/2024
+00000000000001
+233796
+farmix
+06/01/2024
+r$ 0,00
+r$ 683,53
+08/01/2024
+07122223000251
+0686567
+medicamento santa cruz
+06/01/2024
+r$ 0,00
+r$ 636,30
+08/01/2024
+61940292005520
+000255674
+ma dist
+07/01/2024
+r$ 0,00
+r$ 506,65
+08/01/2024
+03259347000141
+05/02/2024 10:09:13
+3 de 8
+gerado por: tiago
+000929117
+medicamento alianca farma
+07/01/2024
+r$ 0,00
+r$ 267,39
+19/01/2024
+11852966000173
+0
+medicamento acripel
+08/01/2024
+r$ 0,00
+r$ 421,17
+08/01/2024
+24455677000344
+009642813
+medicamentos panpharma
+08/01/2024
+r$ 0,00
+r$ 538,31
+08/01/2024
+01206820000873
+0096705405
+prati donaduzi
+08/01/2024
+r$ 0,00
+r$ 501,31
+08/01/2024
+11034934001566
+556438
+golfarma
+08/01/2024
+r$ 0,00
+r$ 262,15
+08/01/2024
+07644746000187
+0697488
+medicamento santa cruz
+08/01/2024
+r$ 0,00
+r$ 646,13
+08/01/2024
+61940292005520
+0
+medicamento acripel
+09/01/2024
+r$ 0,00
+r$ 199,95
+08/01/2024
+24455677000344
+009648623
+medicamentos panpharma
+09/01/2024
+r$ 0,00
+r$ 139,69
+08/01/2024
+01206820000873
+0699320
+medicamento santa cruz
+09/01/2024
+r$ 0,00
+r$ 268,72
+08/01/2024
+61940292005520
+0699321
+medicamento santa cruz
+09/01/2024
+r$ 0,00
+r$ 143,04
+08/01/2024
+61940292005520
+0703196
+medicamento santa cruz
+09/01/2024
+r$ 0,00
+r$ 1.331,16
+08/01/2024
+61940292005520
+0095292042
+medicamentos uniao quimica
+10/01/2024
+r$ 0,00
+r$ 837,33
+08/01/2024
+10854165000265
+0708359
+medicamento santa cruz
+10/01/2024
+r$ 0,00
+r$ 481,91
+08/01/2024
+61940292005520
+0096686885
+prati donaduzi
+11/01/2024
+r$ 0,00
+r$ 1.164,35
+08/01/2024
+11034934001566
+03
+rd comercial eireli
+11/01/2024
+r$ 0,00
+r$ 54,53
+08/01/2024
+27241477000115
+758039
+medicamento orgafarma
+11/01/2024
+r$ 0,00
+r$ 383,52
+08/01/2024
+17291576000239
+5689397
+fornecedores
+11/01/2024
+r$ 0,00
+r$ 456,18
+08/01/2024
+07224991001026
+03
+rd comercial eireli
+12/01/2024
+r$ 606,80
+r$ 606,80
+08/01/2024
+27241477000115
+000932173
+medicamento alianca farma
+12/01/2024
+r$ 0,00
+r$ 358,37
+08/01/2024
+11852966000173
+0000189438
+cimed remedios
+12/01/2024
+r$ 0,00
+r$ 433,36
+08/01/2024
+16619378002313
+01
+gama distribuidora
+12/01/2024
+r$ 0,00
+r$ 235,74
+08/01/2024
+01321974000210
+000553518
+ms farma
+13/01/2024
+r$ 0,00
+r$ 526,46
+19/01/2024
+05458634000106
+235848
+farmix
+13/01/2024
+r$ 0,00
+r$ 497,92
+19/01/2024
+07122223000251
+0640015
+medicamento santa cruz
+13/01/2024
+r$ 0,00
+r$ 316,61
+19/01/2024
+61940292005520
+0713921
+medicamento santa cruz
+13/01/2024
+r$ 0,00
+r$ 2.104,92
+19/01/2024
+61940292005520
+05/02/2024 10:09:13
+4 de 8
+gerado por: tiago
+000916102
+medicamento alianca farma
+14/01/2024
+r$ 0,00
+r$ 1.272,51
+19/01/2024
+11852966000173
+01
+rd comercial eireli
+14/01/2024
+r$ 0,00
+r$ 216,21
+19/01/2024
+27241477000115
+0718806
+medicamento santa cruz
+14/01/2024
+r$ 0,00
+r$ 641,78
+19/01/2024
+61940292005520
+009672080
+medicamentos panpharma
+15/01/2024
+r$ 0,00
+r$ 451,71
+19/01/2024
+01206820000873
+000363405
+gil farma
+15/01/2024
+r$ 0,00
+r$ 810,46
+19/01/2024
+08765948000140
+0095294262
+medicamentos uniao quimica
+16/01/2024
+r$ 0,00
+r$ 894,19
+19/01/2024
+10854165000265
+567914
+golfarma
+16/01/2024
+r$ 0,00
+r$ 649,79
+19/01/2024
+07644746000187
+760590
+medicamento orgafarma
+16/01/2024
+r$ 0,00
+r$ 152,08
+19/01/2024
+17291576000239
+0729494
+medicamento santa cruz
+16/01/2024
+r$ 0,00
+r$ 431,67
+19/01/2024
+61940292005520
+009683321
+medicamentos panpharma
+17/01/2024
+r$ 0,00
+r$ 256,41
+19/01/2024
+01206820000873
+0095292042
+medicamentos uniao quimica
+17/01/2024
+r$ 0,00
+r$ 837,33
+19/01/2024
+10854165000265
+1911737324
+medicamentos profarma
+17/01/2024
+r$ 0,00
+r$ 469,66
+19/01/2024
+45453214002529
+559982
+golfarma
+18/01/2024
+r$ 0,00
+r$ 830,60
+19/01/2024
+07644746000187
+000935201
+medicamento alianca farma
+19/01/2024
+r$ 0,00
+r$ 241,15
+19/01/2024
+11852966000173
+01
+rd comercial eireli
+19/01/2024
+r$ 0,00
+r$ 521,89
+19/01/2024
+27241477000115
+237564
+farmix
+19/01/2024
+r$ 0,00
+r$ 239,89
+19/01/2024
+07122223000251
+002288307
+medicamentos mixfarma
+20/01/2024
+r$ 0,00
+r$ 129,05
+19/01/2024
+06104356000151
+03
+rd comercial eireli
+20/01/2024
+r$ 0,00
+r$ 200,87
+19/01/2024
+27241477000115
+0740118
+medicamento santa cruz
+20/01/2024
+r$ 0,00
+r$ 3.018,69
+19/01/2024
+61940292005520
+0739948
+medicamento santa cruz
+20/01/2024
+r$ 0,00
+r$ 171,66
+19/01/2024
+61940292005520
+01
+tbv distribuidora de cosmeticos ltda
+21/01/2024
+r$ 0,00
+r$ 303,07
+19/01/2024
+19940027000192
+238650
+farmix
+21/01/2024
+r$ 0,00
+r$ 355,59
+19/01/2024
+07122223000251
+04
+rd comercial eireli
+21/01/2024
+r$ 0,00
+r$ 54,53
+19/01/2024
+27241477000115
+009702669
+medicamentos panpharma
+22/01/2024
+r$ 0,00
+r$ 286,07
+19/01/2024
+01206820000873
+0000204043
+cimed remedios
+22/01/2024
+r$ 0,00
+r$ 575,75
+19/01/2024
+16619378002313
+05/02/2024 10:09:13
+5 de 8
+gerado por: tiago
+0751737
+medicamento santa cruz
+22/01/2024
+r$ 0,00
+r$ 733,04
+19/01/2024
+61940292005520
+0000203770
+cimed remedios
+23/01/2024
+r$ 0,00
+r$ 819,99
+19/01/2024
+16619378002313
+763602
+medicamento orgafarma
+23/01/2024
+r$ 0,00
+r$ 276,59
+19/01/2024
+17291576000239
+000952513
+medicamento alianca farma
+24/01/2024
+r$ 0,00
+r$ 22,93
+19/01/2024
+11852966000173
+0095292042
+medicamentos uniao quimica
+24/01/2024
+r$ 0,00
+r$ 837,33
+19/01/2024
+10854165000265
+0761220
+medicamento santa cruz
+24/01/2024
+r$ 0,00
+r$ 104,53
+19/01/2024
+61940292005520
+0
+medicamento acripel
+25/01/2024
+r$ 0,00
+r$ 242,48
+19/01/2024
+24455677000344
+000938179
+medicamento alianca farma
+25/01/2024
+r$ 0,00
+r$ 148,76
+19/01/2024
+11852966000173
+01
+aladim dist de produtos de perf ltda
+25/01/2024
+r$ 0,00
+r$ 391,46
+19/01/2024
+31912909000140
+0096686885
+prati donaduzi
+26/01/2024
+r$ 0,00
+r$ 1.164,36
+19/01/2024
+11034934001566
+0095294262
+medicamentos uniao quimica
+26/01/2024
+r$ 0,00
+r$ 894,19
+19/01/2024
+10854165000265
+908069
+medicamentos baiana
+26/01/2024
+r$ 0,00
+r$ 191,16
+19/01/2024
+05431013000139
+0768136
+medicamento santa cruz
+27/01/2024
+r$ 0,00
+r$ 986,06
+19/01/2024
+61940292005520
+0768354
+medicamento santa cruz
+27/01/2024
+r$ 0,00
+r$ 361,56
+19/01/2024
+61940292005520
+0768375
+medicamento santa cruz
+27/01/2024
+r$ 0,00
+r$ 114,82
+19/01/2024
+61940292005520
+240788
+farmix
+28/01/2024
+r$ 0,00
+r$ 301,69
+19/01/2024
+07122223000251
+0096821525
+prati donaduzi
+29/01/2024
+r$ 0,00
+r$ 363,48
+19/01/2024
+11034934001566
+02
+rd comercial eireli
+29/01/2024
+r$ 0,00
+r$ 334,86
+19/01/2024
+27241477000115
+0776986
+medicamento santa cruz
+29/01/2024
+r$ 0,00
+r$ 16,30
+19/01/2024
+61940292005520
+567914
+golfarma
+30/01/2024
+r$ 0,00
+r$ 649,77
+19/01/2024
+07644746000187
+0785040
+medicamento santa cruz
+30/01/2024
+r$ 0,00
+r$ 786,27
+19/01/2024
+61940292005520
+0785064
+medicamento santa cruz
+30/01/2024
+r$ 0,00
+r$ 642,44
+19/01/2024
+61940292005520
+0095292042
+medicamentos uniao quimica
+31/01/2024
+r$ 0,00
+r$ 837,33
+19/01/2024
+10854165000265
+0790336
+medicamento santa cruz
+31/01/2024
+r$ 0,00
+r$ 188,54
+19/01/2024
+61940292005520
+r$ 50.272,56
+r$ 606,80
+05/02/2024 10:09:13
+6 de 8
+gerado por: tiago
+tipo: fgts
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 945,13
+r$ 945,13
+04/01/2024
+r$ 945,13
+r$ 945,13
+tipo: internet
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 59,90
+r$ 59,90
+08/01/2024
+r$ 59,90
+r$ 59,90
+tipo: luz
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 233,10
+r$ 233,10
+19/01/2024
+r$ 233,10
+r$ 233,10
+tipo: salario
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+joao gabriel argolo moraes
+r$ 1.211,30
+r$ 1.211,30
+04/01/2024
+lidiana silva de argolo
+r$ 1.400,00
+r$ 1.400,00
+04/01/2024
+r$ 1.211,30
+r$ 1.211,30
+05/01/2024
+r$ 1.297,52
+r$ 1.297,52
+05/01/2024
+r$ 5.000,00
+r$ 5.000,00
+04/01/2024
+r$ 5.000,00
+r$ 5.000,00
+04/01/2024
+r$ 15.120,12
+r$ 15.120,12
+tipo: simples nacional
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 3.552,43
+r$ 3.552,43
+22/01/2024
+r$ 3.552,43
+r$ 3.552,43
+tipo: taxas funcional e portal
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 22,75
+r$ 22,75
+22/01/2024
+05/02/2024 10:09:13
+7 de 8
+gerado por: tiago
+r$ 76,63
+r$ 76,63
+19/01/2024
+r$ 99,38
+r$ 99,38
+tipo: uso e consumo
+n.documento
+referência
+vencimento
+dt.pagamento
+vlr.antecip.
+vlr. pago
+cnpj fornecedor
+r$ 4,50
+r$ 4,50
+29/01/2024
+r$ 6,00
+r$ 6,00
+29/01/2024
+r$ 6,90
+r$ 6,90
+15/01/2024
+r$ 17,40
+r$ 17,40
+r$ 25.453,40
+r$ 75.119,16
+total geral
+05/02/2024 10:09:13
+8 de 8
+gerado por: tiago

@@ -1,0 +1,212 @@
+extrato financeiro consolidado
+período de 01/06/2022 até 30/06/2022 exportar
+data
+descrição
+lançamentos
+saldo
+saldo anterior ao período
+r$ 484.690,33
+01/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 10.215,00
+saldo ao final do dia
+r$ 494.905,33
+02/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 12.365,32
+reembolsos de pagamento
+(-) r$ 2.024,81
+transferencia para conta bancaria
+(-) r$ 500.000,00
+saldo ao final do dia
+r$ 5.245,84
+03/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 31.944,24
+reembolsos de pagamento
+(-) r$ 96,84
+saldo ao final do dia
+r$ 37.093,24
+04/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 4.864,11
+saldo ao final do dia
+r$ 41.957,35
+05/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 4.092,76
+saldo ao final do dia
+r$ 46.050,11
+06/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 14.050,00
+saldo ao final do dia
+r$ 60.100,11
+07/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 14.335,79
+saldo ao final do dia
+r$ 74.435,90
+08/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 28.999,05
+reembolsos de pagamento
+(-) r$ 1.355,76
+saldo ao final do dia
+r$ 102.079,19
+09/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 14.521,03
+saldo ao final do dia
+r$ 116.600,22
+10/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 10.318,74
+reembolsos de pagamento
+(-) r$ 193,68
+saldo ao final do dia
+r$ 126.725,28
+11/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 3.245,51
+saldo ao final do dia
+r$ 129.970,79
+12/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 3.006,55
+saldo ao final do dia
+r$ 132.977,34
+13/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 10.357,48
+saldo ao final do dia
+r$ 143.334,82
+14/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 16.578,01
+reembolsos de pagamento
+(-) r$ 2.092,44
+saldo ao final do dia
+r$ 157.820,39
+15/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 17.617,21
+saldo ao final do dia
+r$ 175.437,60
+16/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 17.524,81
+saldo ao final do dia
+r$ 192.962,41
+17/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 13.577,12
+reembolsos de pagamento
+(-) r$ 48,81
+saldo ao final do dia
+r$ 206.490,72
+18/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 4.647,29
+saldo ao final do dia
+r$ 211.138,01
+19/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 4.179,60
+saldo ao final do dia
+r$ 215.317,61
+20/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 15.937,83
+saldo ao final do dia
+r$ 231.255,44
+21/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 12.434,46
+saldo ao final do dia
+r$ 243.689,90
+22/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 13.047,14
+saldo ao final do dia
+r$ 256.737,04
+23/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 16.105,14
+saldo ao final do dia
+r$ 272.842,18
+24/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 53.137,13
+saldo ao final do dia
+r$ 325.979,31
+25/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 78.598,88
+saldo ao final do dia
+r$ 404.578,19
+26/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 45.575,68
+saldo ao final do dia
+r$ 450.153,87
+27/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 22.459,85
+bloqueio de saldo
+(-) r$ 96,84
+saldo ao final do dia
+r$ 472.516,88
+28/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 12.254,93
+saldo ao final do dia
+r$ 484.771,81
+29/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 35.507,80
+reembolsos de pagamento
+(-) r$ 2.093,60
+saldo ao final do dia
+r$ 518.186,01
+30/06/22
+descrição do dia
+recebíveis de cartão de crédito
+(+) r$ 10.456,34
+saldo ao final do dia
+r$ 528.642,35
+total de créditos:
+(+) r$ 551.954,80
+total de débitos:
+(-) r$ 508.002,78
+saldo após o período
+r$ 528.642,35

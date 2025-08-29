@@ -1,0 +1,9591 @@
+05/09/2020
+10:33:21
+página 1
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:19
+data inicio turno:
+01/08/2020
+suprimento
+764,77
+01/08/2020
+saldo inicial
+08:02:19
+764,77
+à vista - dinheiro
+venda à vista
+24,60
+01/08/2020
+venda nº:304943, cliente:cliente venda varejo
+08:18:43
+789,37
+à vista - dinheiro
+venda à vista
+3,00
+01/08/2020
+venda nº:304946, cliente:cliente venda varejo
+08:52:53
+792,37
+à vista - dinheiro
+venda à vista
+5,20
+01/08/2020
+venda nº:304947, cliente:cliente venda varejo
+09:08:12
+797,57
+à vista - dinheiro
+venda à vista
+28,20
+01/08/2020
+venda nº:304949, cliente:cliente venda varejo
+09:14:56
+825,77
+à vista - dinheiro
+venda à vista
+178,50
+01/08/2020
+venda nº:304951, cliente:cliente venda varejo
+09:22:31
+1004,27
+à vista - dinheiro
+venda à vista
+20,00
+01/08/2020
+venda nº:304952, cliente:cliente venda varejo
+09:23:04
+1024,27
+à vista - dinheiro
+venda à vista
+60,98
+01/08/2020
+venda nº:304955, cliente:cliente venda varejo
+09:28:42
+1085,25
+à vista - dinheiro
+venda à vista
+5,50
+01/08/2020
+venda nº:304956, cliente:cliente venda varejo
+09:29:41
+1090,75
+à vista - dinheiro
+venda à vista
+167,00
+01/08/2020
+venda nº:304957, cliente:cliente venda varejo
+09:32:01
+1257,75
+à vista - dinheiro
+venda à vista
+2,00
+01/08/2020
+venda nº:304961, cliente:cliente venda varejo
+09:54:35
+1259,75
+à vista - dinheiro
+venda à vista
+266,35
+01/08/2020
+venda nº:304963, cliente:cliente venda varejo
+10:02:22
+1526,10
+à vista - dinheiro
+venda à vista
+5,00
+01/08/2020
+venda nº:304964, cliente:cliente venda varejo
+10:02:56
+1531,10
+à vista - dinheiro
+venda à vista
+8,50
+01/08/2020
+venda nº:304966, cliente:cliente venda varejo
+10:06:39
+1539,60
+à vista - dinheiro
+venda à vista
+28,50
+01/08/2020
+venda nº:304967, cliente:cliente venda varejo
+10:09:44
+1568,10
+à vista - dinheiro
+venda à vista
+27,00
+01/08/2020
+venda nº:304972, cliente:cliente venda varejo
+10:19:53
+1595,10
+à vista - dinheiro
+venda à vista
+32,00
+01/08/2020
+venda nº:304973, cliente:cliente venda varejo
+10:21:12
+1627,10
+à vista - dinheiro
+venda à vista
+99,45
+01/08/2020
+venda nº:304974, cliente:cliente venda varejo
+10:23:29
+1726,55
+à vista - dinheiro
+venda à vista
+32,00
+01/08/2020
+venda nº:304976, cliente:cliente venda varejo
+10:28:19
+1758,55
+à vista - dinheiro
+venda à vista
+5,50
+01/08/2020
+venda nº:304978, cliente:cliente venda varejo
+10:29:55
+1764,05
+à vista - dinheiro
+venda à vista
+17,00
+01/08/2020
+venda nº:304979, cliente:cliente venda varejo
+10:33:44
+1781,05
+à vista - dinheiro
+venda à vista
+14,00
+01/08/2020
+venda nº:304981, cliente:cliente venda varejo
+10:35:11
+1795,05
+à vista - dinheiro
+venda à vista
+50,00
+01/08/2020
+venda nº:304982, cliente:cliente venda varejo
+10:39:15
+1845,05
+à vista - dinheiro
+venda à vista
+172,00
+01/08/2020
+venda nº:304983, cliente:cliente venda varejo
+10:44:27
+2017,05
+à vista - dinheiro
+venda à vista
+80,00
+01/08/2020
+venda nº:304984, cliente:cliente venda varejo
+10:46:14
+2097,05
+à vista - dinheiro
+2097,05
+saldo final:
+05/09/2020
+10:33:21
+página 2
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:19
+data inicio turno:
+01/08/2020
+venda à vista
+44,40
+01/08/2020
+venda nº:304985, cliente:cliente venda varejo
+10:48:56
+2141,45
+à vista - dinheiro
+venda à vista
+129,00
+01/08/2020
+venda nº:304988, cliente:cliente venda varejo
+10:53:10
+2270,45
+à vista - dinheiro
+venda à vista
+48,00
+01/08/2020
+venda nº:304996, cliente:cliente venda varejo
+11:11:15
+2318,45
+à vista - dinheiro
+venda à vista
+45,43
+01/08/2020
+venda nº:304997, cliente:cliente venda varejo
+11:12:28
+2363,88
+à vista - dinheiro
+venda à vista
+157,20
+01/08/2020
+venda nº:304998, cliente:cliente venda varejo
+11:13:32
+2521,08
+à vista - dinheiro
+venda à vista
+10,00
+01/08/2020
+venda nº:305000, cliente:cliente venda varejo
+11:28:04
+2531,08
+à vista - dinheiro
+venda à vista
+17,50
+01/08/2020
+venda nº:305001, cliente:cliente venda varejo
+11:32:58
+2548,58
+à vista - dinheiro
+venda à vista
+45,00
+01/08/2020
+venda nº:305005, cliente:cliente venda varejo
+11:44:14
+2593,58
+à vista - dinheiro
+venda à vista
+3,90
+01/08/2020
+venda nº:305007, cliente:cliente venda varejo
+11:46:06
+2597,48
+à vista - dinheiro
+venda à vista
+13,00
+01/08/2020
+venda nº:305008, cliente:cliente venda varejo
+11:47:46
+2610,48
+à vista - dinheiro
+venda à vista
+23,00
+01/08/2020
+venda nº:305010, cliente:cliente venda varejo
+12:01:40
+2633,48
+à vista - dinheiro
+venda à vista
+54,00
+01/08/2020
+venda nº:305011, cliente:cliente venda varejo
+12:04:45
+2687,48
+à vista - dinheiro
+transferência para cofre
+-1950,00
+01/08/2020
+valor transferido para o cofre 099
+12:15:05
+737,48
+à vista - dinheiro
+fechamento do turno/caixa
+-737,48
+01/08/2020
+12:17:08
+0,00
+à vista - dinheiro
+suprimento
+737,48
+03/08/2020
+saldo inicial
+08:14:15
+737,48
+à vista - dinheiro
+venda à vista
+2895,00
+03/08/2020
+venda nº:305020, cliente:sebastiao franca
+08:42:02
+3632,48
+à vista - dinheiro
+venda à vista
+24,00
+03/08/2020
+venda nº:305022, cliente:cliente venda varejo
+08:51:26
+3656,48
+à vista - dinheiro
+transferência para cofre
+-3080,00
+03/08/2020
+valor transferido para o cofre 099
+08:52:40
+576,48
+à vista - dinheiro
+venda à vista
+1,60
+03/08/2020
+venda nº:305028, cliente:cliente venda varejo
+09:15:41
+578,08
+à vista - dinheiro
+venda à vista
+69,00
+03/08/2020
+venda nº:305029, cliente:cliente venda varejo
+09:30:42
+647,08
+à vista - dinheiro
+venda à vista
+157,65
+03/08/2020
+venda nº:305035, cliente:cliente venda varejo
+10:05:47
+804,73
+à vista - dinheiro
+venda à vista
+22,00
+03/08/2020
+venda nº:305036, cliente:cliente venda varejo
+10:08:30
+826,73
+à vista - dinheiro
+venda à vista
+14,00
+03/08/2020
+venda nº:305037, cliente:cliente venda varejo
+10:33:09
+840,73
+à vista - dinheiro
+venda à vista
+31,90
+03/08/2020
+venda nº:305039, cliente:cliente venda varejo
+10:38:47
+872,63
+à vista - dinheiro
+venda à vista
+8,83
+03/08/2020
+venda nº:305040, cliente:cliente venda varejo
+10:45:10
+881,46
+à vista - dinheiro
+881,46
+saldo final:
+05/09/2020
+10:33:21
+página 3
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:14:15
+data inicio turno:
+03/08/2020
+venda à vista
+4,50
+03/08/2020
+venda nº:305041, cliente:cliente venda varejo
+10:52:23
+885,96
+à vista - dinheiro
+venda à vista
+2,20
+03/08/2020
+venda nº:305042, cliente:cliente venda varejo
+10:58:37
+888,16
+à vista - dinheiro
+venda à vista
+2,00
+03/08/2020
+venda nº:305048, cliente:cliente venda varejo
+11:22:58
+890,16
+à vista - dinheiro
+venda à vista
+130,00
+03/08/2020
+venda nº:305049, cliente:cliente venda varejo
+11:29:31
+1020,16
+à vista - dinheiro
+venda à vista
+7,00
+03/08/2020
+venda nº:305051, cliente:cliente venda varejo
+11:47:48
+1027,16
+à vista - dinheiro
+venda à vista
+40,00
+03/08/2020
+venda nº:305052, cliente:cliente venda varejo
+12:02:02
+1067,16
+à vista - dinheiro
+sangria
+-7,64
+03/08/2020
+compra loja (lanche e bucha)
+12:22:57
+1059,52
+à vista - dinheiro
+venda à vista
+30,00
+03/08/2020
+venda nº:305055, cliente:cliente venda varejo
+12:37:15
+1089,52
+à vista - dinheiro
+venda à vista
+27,00
+03/08/2020
+venda nº:305058, cliente:cliente venda varejo
+12:53:45
+1116,52
+à vista - dinheiro
+transferência para cofre
+-350,00
+03/08/2020
+valor transferido para o cofre 099
+12:56:56
+766,52
+à vista - dinheiro
+venda à vista
+15,00
+03/08/2020
+venda nº:305059, cliente:cliente venda varejo
+13:20:03
+781,52
+à vista - dinheiro
+venda à vista
+24,00
+03/08/2020
+venda nº:305062, cliente:cliente venda varejo
+13:42:31
+805,52
+à vista - dinheiro
+venda à vista
+9,50
+03/08/2020
+venda nº:305063, cliente:cliente venda varejo
+14:00:00
+815,02
+à vista - dinheiro
+venda à vista
+58,00
+03/08/2020
+venda nº:305066, cliente:eduardo da silva pereira 
+14:09:45
+873,02
+à vista - dinheiro
+venda à vista
+23,50
+03/08/2020
+venda nº:305068, cliente:cliente venda varejo
+14:22:21
+896,52
+à vista - dinheiro
+venda à vista
+20,50
+03/08/2020
+venda nº:305070, cliente:cliente venda varejo
+14:39:45
+917,02
+à vista - dinheiro
+venda à vista
+31,00
+03/08/2020
+venda nº:305072, cliente:cliente venda varejo
+14:49:47
+948,02
+à vista - dinheiro
+venda à vista
+914,50
+03/08/2020
+venda nº:305073, cliente:orç. cremilda
+14:53:09
+1862,52
+à vista - dinheiro
+venda à vista
+60,00
+03/08/2020
+venda nº:305075, cliente:cliente venda varejo
+14:57:23
+1922,52
+à vista - dinheiro
+venda à vista
+80,00
+03/08/2020
+venda nº:305076, cliente:igreja do evangelho
+15:10:41
+2002,52
+à vista - dinheiro
+venda à vista
+104,50
+03/08/2020
+venda nº:305077, cliente:cliente venda varejo
+15:12:18
+2107,02
+à vista - dinheiro
+venda à vista
+10,00
+03/08/2020
+venda nº:305079, cliente:cliente venda varejo
+15:31:40
+2117,02
+à vista - dinheiro
+venda à vista
+3,20
+03/08/2020
+venda nº:305081, cliente:cliente venda varejo
+15:35:11
+2120,22
+à vista - dinheiro
+sangria
+-23,50
+03/08/2020
+nf 37162
+15:42:09
+2096,72
+à vista - dinheiro
+venda à vista
+10,20
+03/08/2020
+venda nº:305084, cliente:cliente venda varejo
+15:56:53
+2106,92
+à vista - dinheiro
+2106,92
+saldo final:
+05/09/2020
+10:33:22
+página 4
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:14:15
+data inicio turno:
+03/08/2020
+venda à vista
+18,00
+03/08/2020
+venda nº:305085, cliente:cliente venda varejo
+16:00:33
+2124,92
+à vista - dinheiro
+venda à vista
+72,00
+03/08/2020
+venda nº:305087, cliente:cliente venda varejo
+16:15:22
+2196,92
+à vista - dinheiro
+venda à vista
+38,95
+03/08/2020
+venda nº:305088, cliente:cliente venda varejo
+16:20:06
+2235,87
+à vista - dinheiro
+venda à vista
+9,50
+03/08/2020
+venda nº:305089, cliente:jose joao gomes
+16:27:49
+2245,37
+à vista - dinheiro
+transferência para cofre
+-1500,00
+03/08/2020
+valor transferido para o cofre 099
+16:59:39
+745,37
+à vista - dinheiro
+venda à vista
+55,00
+03/08/2020
+venda nº:305099, cliente:cliente venda varejo
+17:21:57
+800,37
+à vista - dinheiro
+venda à vista
+44,00
+03/08/2020
+venda nº:305106, cliente:cliente venda varejo
+17:31:13
+844,37
+à vista - dinheiro
+venda à vista
+59,70
+03/08/2020
+venda nº:305109, cliente:cliente venda varejo
+17:35:03
+904,07
+à vista - dinheiro
+transferência para cofre
+-200,00
+03/08/2020
+valor transferido para o cofre 099
+17:58:43
+704,07
+à vista - dinheiro
+fechamento do turno/caixa
+-704,07
+03/08/2020
+18:00:18
+0,00
+à vista - dinheiro
+suprimento
+704,07
+04/08/2020
+saldo inicial
+08:07:39
+704,07
+à vista - dinheiro
+venda à vista
+202,00
+04/08/2020
+venda nº:305112, cliente:cliente venda varejo
+08:09:48
+906,07
+à vista - dinheiro
+venda à vista
+23,00
+04/08/2020
+venda nº:305115, cliente:cliente venda varejo
+08:17:02
+929,07
+à vista - dinheiro
+venda à vista
+149,75
+04/08/2020
+venda nº:305113, cliente:cliente diversos
+08:21:58
+1078,82
+à vista - dinheiro
+venda à vista
+7,00
+04/08/2020
+venda nº:305127, cliente:cliente venda varejo
+09:17:43
+1085,82
+à vista - dinheiro
+venda à vista
+55,00
+04/08/2020
+venda nº:305128, cliente:cliente venda varejo
+09:18:38
+1140,82
+à vista - dinheiro
+venda à vista
+112,00
+04/08/2020
+venda nº:305132, cliente:cliente venda varejo
+09:44:29
+1252,82
+à vista - dinheiro
+venda à vista
+38,00
+04/08/2020
+venda nº:305137, cliente:cliente venda varejo
+10:36:43
+1290,82
+à vista - dinheiro
+venda à vista
+58,81
+04/08/2020
+venda nº:305144, cliente:cliente venda varejo
+10:59:57
+1349,63
+à vista - dinheiro
+venda à vista
+65,80
+04/08/2020
+venda nº:305145, cliente:cliente venda varejo
+11:01:28
+1415,43
+à vista - dinheiro
+venda à vista
+29,00
+04/08/2020
+venda nº:305146, cliente:cliente venda varejo
+11:05:46
+1444,43
+à vista - dinheiro
+venda à vista
+44,00
+04/08/2020
+venda nº:305148, cliente:cliente venda varejo
+11:11:17
+1488,43
+à vista - dinheiro
+venda à vista
+0,40
+04/08/2020
+venda nº:305149, cliente:cliente venda varejo
+11:21:54
+1488,83
+à vista - dinheiro
+venda à vista
+38,00
+04/08/2020
+venda nº:305150, cliente:cliente venda varejo
+11:28:35
+1526,83
+à vista - dinheiro
+venda à vista
+13,00
+04/08/2020
+venda nº:305151, cliente:cliente venda varejo
+11:29:10
+1539,83
+à vista - dinheiro
+1539,83
+saldo final:
+05/09/2020
+10:33:22
+página 5
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:07:39
+data inicio turno:
+04/08/2020
+venda à vista
+10,00
+04/08/2020
+venda nº:305152, cliente:cliente venda varejo
+11:30:55
+1549,83
+à vista - dinheiro
+venda à vista
+50,00
+04/08/2020
+venda nº:305153, cliente:franciane souza rocha 
+11:33:54
+1599,83
+à vista - dinheiro
+troco de venda à vista
+-20,07
+04/08/2020
+venda nº:305153, cliente:franciane souza rocha 
+11:33:54
+1579,76
+à vista - dinheiro
+venda à vista
+128,00
+04/08/2020
+venda nº:305154, cliente:cliente venda varejo
+11:35:12
+1707,76
+à vista - dinheiro
+venda à vista
+14,00
+04/08/2020
+venda nº:305160, cliente:cliente venda varejo
+11:56:52
+1721,76
+à vista - dinheiro
+venda à vista
+38,00
+04/08/2020
+venda nº:305164, cliente:cliente venda varejo
+12:02:47
+1759,76
+à vista - dinheiro
+transferência para cofre
+-650,00
+04/08/2020
+valor transferido para o cofre 099
+12:10:39
+1109,76
+à vista - dinheiro
+venda à vista
+5,00
+04/08/2020
+venda nº:305166, cliente:cliente venda varejo
+12:14:50
+1114,76
+à vista - dinheiro
+sangria
+-29,90
+04/08/2020
+compra plastico filme para loja
+12:16:30
+1084,86
+à vista - dinheiro
+venda à vista
+8,00
+04/08/2020
+venda nº:305171, cliente:cliente venda varejo
+13:03:02
+1092,86
+à vista - dinheiro
+venda à vista
+24,00
+04/08/2020
+venda nº:305174, cliente:cliente venda varejo
+13:14:33
+1116,86
+à vista - dinheiro
+venda à vista
+25,00
+04/08/2020
+venda nº:305176, cliente:cliente venda varejo
+13:16:23
+1141,86
+à vista - dinheiro
+venda à vista
+115,00
+04/08/2020
+venda nº:305177, cliente:cliente venda varejo
+13:19:41
+1256,86
+à vista - dinheiro
+venda à vista
+10,00
+04/08/2020
+venda nº:305179, cliente:cliente venda varejo
+13:27:18
+1266,86
+à vista - dinheiro
+venda à vista
+25,50
+04/08/2020
+venda nº:305180, cliente:cliente venda varejo
+13:32:35
+1292,36
+à vista - dinheiro
+venda à vista
+70,05
+04/08/2020
+venda nº:305182, cliente:cliente venda varejo
+13:46:19
+1362,41
+à vista - dinheiro
+venda à vista
+9,40
+04/08/2020
+venda nº:305183, cliente:cliente venda varejo
+13:48:26
+1371,81
+à vista - dinheiro
+venda à vista
+438,50
+04/08/2020
+venda nº:305184, cliente:antony carlos ferreira
+13:59:57
+1810,31
+à vista - dinheiro
+venda à vista
+43,00
+04/08/2020
+venda nº:305186, cliente:cliente venda varejo
+14:18:32
+1853,31
+à vista - dinheiro
+venda à vista
+8,20
+04/08/2020
+venda nº:305189, cliente:cliente venda varejo
+14:24:48
+1861,51
+à vista - dinheiro
+sangria
+-57,00
+04/08/2020
+nf 37176 aut.carol
+14:30:09
+1804,51
+à vista - dinheiro
+sangria
+-50,00
+04/08/2020
+nf 9
+14:30:29
+1754,51
+à vista - dinheiro
+venda à vista
+110,00
+04/08/2020
+venda nº:305191, cliente:cliente venda varejo
+14:41:46
+1864,51
+à vista - dinheiro
+venda à vista
+53,00
+04/08/2020
+venda nº:305200, cliente:cliente venda varejo
+15:57:08
+1917,51
+à vista - dinheiro
+venda à vista
+153,00
+04/08/2020
+venda nº:305201, cliente:cliente venda varejo
+16:04:00
+2070,51
+à vista - dinheiro
+2070,51
+saldo final:
+05/09/2020
+10:33:22
+página 6
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:07:39
+data inicio turno:
+04/08/2020
+venda à vista
+8,50
+04/08/2020
+venda nº:305202, cliente:cliente venda varejo
+16:10:37
+2079,01
+à vista - dinheiro
+venda à vista
+36,00
+04/08/2020
+venda nº:305204, cliente:cliente venda varejo
+16:27:50
+2115,01
+à vista - dinheiro
+venda à vista
+17,60
+04/08/2020
+venda nº:305205, cliente:cliente venda varejo
+16:31:51
+2132,61
+à vista - dinheiro
+venda à vista
+250,00
+04/08/2020
+venda nº:305206, cliente:cliente venda varejo
+16:32:56
+2382,61
+à vista - dinheiro
+venda à vista
+133,00
+04/08/2020
+venda nº:305207, cliente:cliente venda varejo
+16:40:51
+2515,61
+à vista - dinheiro
+venda à vista
+76,00
+04/08/2020
+venda nº:305214, cliente:funeraria vale do aço
+16:56:34
+2591,61
+à vista - dinheiro
+venda à vista
+32,50
+04/08/2020
+venda nº:305215, cliente:cliente venda varejo
+16:58:25
+2624,11
+à vista - dinheiro
+venda à vista
+6,50
+04/08/2020
+venda nº:305216, cliente:cliente venda varejo
+16:59:07
+2630,61
+à vista - dinheiro
+venda à vista
+16,00
+04/08/2020
+venda nº:305218, cliente:cliente venda varejo
+17:04:54
+2646,61
+à vista - dinheiro
+sangria
+-1,53
+04/08/2020
+organizacoes jmf ltda 
+17:06:22
+2645,08
+à vista - dinheiro
+venda à vista
+123,50
+04/08/2020
+venda nº:305219, cliente:cliente venda varejo
+17:13:20
+2768,58
+à vista - dinheiro
+venda à vista
+36,00
+04/08/2020
+venda nº:305220, cliente:cliente venda varejo
+17:15:46
+2804,58
+à vista - dinheiro
+venda à vista
+34,00
+04/08/2020
+venda nº:305225, cliente:cliente venda varejo
+17:40:27
+2838,58
+à vista - dinheiro
+venda à vista
+32,20
+04/08/2020
+venda nº:305226, cliente:cliente venda varejo
+17:44:44
+2870,78
+à vista - dinheiro
+transferência para cofre
+-1950,00
+04/08/2020
+valor transferido para o cofre 099
+18:01:37
+920,78
+à vista - dinheiro
+fechamento do turno/caixa
+-920,78
+04/08/2020
+18:20:17
+0,00
+à vista - dinheiro
+suprimento
+920,78
+05/08/2020
+saldo inicial
+08:06:06
+920,78
+à vista - dinheiro
+venda à vista
+5,00
+05/08/2020
+venda nº:305230, cliente:cliente venda varejo
+08:30:46
+925,78
+à vista - dinheiro
+sangria
+-149,75
+05/08/2020
+correção referente a forma de pagamento
+08:38:56
+776,03
+à vista - dinheiro
+venda à vista
+25,00
+05/08/2020
+venda nº:305234, cliente:cliente venda varejo
+09:17:43
+801,03
+à vista - dinheiro
+venda à vista
+13,10
+05/08/2020
+venda nº:305235, cliente:cliente venda varejo
+09:26:03
+814,13
+à vista - dinheiro
+venda à vista
+18,90
+05/08/2020
+venda nº:305236, cliente:cliente venda varejo
+09:26:37
+833,03
+à vista - dinheiro
+venda à vista
+5,50
+05/08/2020
+venda nº:305238, cliente:cliente venda varejo
+09:40:41
+838,53
+à vista - dinheiro
+venda à vista
+34,50
+05/08/2020
+venda nº:305239, cliente:cliente venda varejo
+09:47:28
+873,03
+à vista - dinheiro
+venda à vista
+26,40
+05/08/2020
+venda nº:305240, cliente:cliente venda varejo
+09:48:10
+899,43
+à vista - dinheiro
+899,43
+saldo final:
+05/09/2020
+10:33:22
+página 7
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:06:06
+data inicio turno:
+05/08/2020
+venda à vista
+72,00
+05/08/2020
+venda nº:305247, cliente:orç.
+10:17:45
+971,43
+à vista - dinheiro
+venda à vista
+109,00
+05/08/2020
+venda nº:305248, cliente:cliente venda varejo
+10:24:26
+1080,43
+à vista - dinheiro
+venda à vista
+5,00
+05/08/2020
+venda nº:305249, cliente:cliente venda varejo
+10:24:59
+1085,43
+à vista - dinheiro
+venda à vista
+116,00
+05/08/2020
+venda nº:305252, cliente:cliente venda varejo
+10:38:33
+1201,43
+à vista - dinheiro
+venda à vista
+97,50
+05/08/2020
+venda nº:305254, cliente:cliente venda varejo
+10:55:15
+1298,93
+à vista - dinheiro
+venda à vista
+420,00
+05/08/2020
+venda nº:305259, cliente:cliente venda varejo
+11:20:44
+1718,93
+à vista - dinheiro
+venda à vista
+157,00
+05/08/2020
+venda nº:305260, cliente:cliente venda varejo
+11:25:36
+1875,93
+à vista - dinheiro
+venda à vista
+27,00
+05/08/2020
+venda nº:305261, cliente:cliente venda varejo
+11:26:45
+1902,93
+à vista - dinheiro
+venda à vista
+680,00
+05/08/2020
+venda nº:305264, cliente:orç.sonia 
+11:42:22
+2582,93
+à vista - dinheiro
+venda à vista
+30,00
+05/08/2020
+venda nº:305266, cliente:cliente venda varejo
+11:46:02
+2612,93
+à vista - dinheiro
+venda à vista
+13,50
+05/08/2020
+venda nº:305267, cliente:sergio (loja)
+11:46:34
+2626,43
+à vista - dinheiro
+venda à vista
+287,50
+05/08/2020
+venda nº:305268, cliente:marcos kalliman geraldeli
+11:47:46
+2913,93
+à vista - dinheiro
+sangria
+-8,76
+05/08/2020
+compra lanche
+12:18:29
+2905,17
+à vista - dinheiro
+venda à vista
+11,50
+05/08/2020
+venda nº:305272, cliente:jose bodoque 
+12:37:23
+2916,67
+à vista - dinheiro
+venda à vista
+15,00
+05/08/2020
+venda nº:305278, cliente:cliente venda varejo
+13:09:14
+2931,67
+à vista - dinheiro
+transferência para cofre
+-1950,00
+05/08/2020
+valor transferido para o cofre 099
+13:15:25
+981,67
+à vista - dinheiro
+venda à vista
+6,50
+05/08/2020
+venda nº:305287, cliente:cliente venda varejo
+14:21:31
+988,17
+à vista - dinheiro
+venda à vista
+50,00
+05/08/2020
+venda nº:305290, cliente:cliente venda varejo
+14:26:10
+1038,17
+à vista - dinheiro
+conta recebida
+382,00
+05/08/2020
+cliente:3326-igreja batista nacional missionaria, , pag.
+14:27:57
+1420,17
+à vista - dinheiro
+venda à vista
+4,00
+05/08/2020
+venda nº:305295, cliente:cliente venda varejo
+14:42:02
+1424,17
+à vista - dinheiro
+venda à vista
+15,00
+05/08/2020
+venda nº:305303, cliente:cliente venda varejo
+15:23:27
+1439,17
+à vista - dinheiro
+venda à vista
+16,86
+05/08/2020
+venda nº:305304, cliente:cliente venda varejo
+15:29:18
+1456,03
+à vista - dinheiro
+venda à vista
+9,50
+05/08/2020
+venda nº:305308, cliente:cliente venda varejo
+15:48:12
+1465,53
+à vista - dinheiro
+venda à vista
+119,00
+05/08/2020
+venda nº:305309, cliente:cliente venda varejo
+15:49:14
+1584,53
+à vista - dinheiro
+venda à vista
+15,50
+05/08/2020
+venda nº:305313, cliente:cliente venda varejo
+16:02:07
+1600,03
+à vista - dinheiro
+1600,03
+saldo final:
+05/09/2020
+10:33:22
+página 8
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:06:06
+data inicio turno:
+05/08/2020
+venda à vista
+40,00
+05/08/2020
+venda nº:305316, cliente:cliente venda varejo
+16:06:45
+1640,03
+à vista - dinheiro
+venda à vista
+2,20
+05/08/2020
+venda nº:305318, cliente:cliente venda varejo
+16:27:40
+1642,23
+à vista - dinheiro
+venda à vista
+18,00
+05/08/2020
+venda nº:305320, cliente:cliente venda varejo
+16:34:52
+1660,23
+à vista - dinheiro
+venda à vista
+4,00
+05/08/2020
+venda nº:305321, cliente:cliente venda varejo
+16:35:45
+1664,23
+à vista - dinheiro
+venda à vista
+50,50
+05/08/2020
+venda nº:305322, cliente:cliente venda varejo
+16:45:28
+1714,73
+à vista - dinheiro
+sangria
+-60,00
+05/08/2020
+mil doces comercio eirelli
+17:20:28
+1654,73
+à vista - dinheiro
+venda à vista
+38,00
+05/08/2020
+venda nº:305331, cliente:cliente venda varejo
+17:41:47
+1692,73
+à vista - dinheiro
+venda à vista
+143,60
+05/08/2020
+venda nº:305335, cliente:cliente venda varejo
+17:54:52
+1836,33
+à vista - dinheiro
+venda à vista
+180,00
+05/08/2020
+venda nº:305337, cliente:cliente venda varejo
+18:00:39
+2016,33
+à vista - dinheiro
+transferência para cofre
+-1200,00
+05/08/2020
+valor transferido para o cofre 099
+18:02:21
+816,33
+à vista - dinheiro
+fechamento do turno/caixa
+-816,33
+05/08/2020
+18:04:48
+0,00
+à vista - dinheiro
+abrindo caixa com venda
+0,00
+06/08/2020
+o caixa estava fechado no momento da venda
+08:05:49
+0,00
+à vista - dinheiro
+suprimento
+816,33
+06/08/2020
+saldo inicial
+08:09:47
+816,33
+à vista - dinheiro
+venda à vista
+54,00
+06/08/2020
+venda nº:305339, cliente:cliente venda varejo
+08:31:46
+870,33
+à vista - dinheiro
+venda à vista
+0,10
+06/08/2020
+venda nº:305341, cliente:cliente venda varejo
+08:37:23
+870,43
+à vista - dinheiro
+venda à vista
+10,00
+06/08/2020
+venda nº:305346, cliente:cliente venda varejo
+09:04:20
+880,43
+à vista - dinheiro
+venda à vista
+39,00
+06/08/2020
+venda nº:305347, cliente:cliente venda varejo
+09:09:10
+919,43
+à vista - dinheiro
+venda à vista
+15,50
+06/08/2020
+venda nº:305349, cliente:cliente venda varejo
+09:21:39
+934,93
+à vista - dinheiro
+venda à vista
+18,90
+06/08/2020
+venda nº:305355, cliente:cliente venda varejo
+10:02:14
+953,83
+à vista - dinheiro
+venda à vista
+37,00
+06/08/2020
+venda nº:305358, cliente:cliente venda varejo
+10:27:47
+990,83
+à vista - dinheiro
+venda à vista
+19,00
+06/08/2020
+venda nº:305359, cliente:cliente venda varejo
+10:33:24
+1009,83
+à vista - dinheiro
+venda à vista
+10,00
+06/08/2020
+venda nº:305367, cliente:vamservice logistica de
+11:04:13
+1019,83
+à vista - dinheiro
+venda à vista
+10,75
+06/08/2020
+venda nº:305369, cliente:cliente venda varejo
+11:18:52
+1030,58
+à vista - dinheiro
+venda à vista
+8,00
+06/08/2020
+venda nº:305374, cliente:cliente venda varejo
+11:39:20
+1038,58
+à vista - dinheiro
+venda à vista
+22,60
+06/08/2020
+venda nº:305377, cliente:cliente venda varejo
+12:04:25
+1061,18
+à vista - dinheiro
+1061,18
+saldo final:
+05/09/2020
+10:33:23
+página 9
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:05:49
+data inicio turno:
+06/08/2020
+venda à vista
+30,00
+06/08/2020
+venda nº:305378, cliente:welington carlos alves de
+12:13:50
+1091,18
+à vista - dinheiro
+troco de venda à vista
+-0,34
+06/08/2020
+venda nº:305378, cliente:welington carlos alves de
+12:13:50
+1090,84
+à vista - dinheiro
+venda à vista
+44,00
+06/08/2020
+venda nº:305379, cliente:cliente venda varejo
+12:15:04
+1134,84
+à vista - dinheiro
+venda à vista
+10,00
+06/08/2020
+venda nº:305380, cliente:cliente venda varejo
+12:18:21
+1144,84
+à vista - dinheiro
+venda à vista
+8,00
+06/08/2020
+venda nº:305381, cliente:cliente venda varejo
+12:22:01
+1152,84
+à vista - dinheiro
+venda à vista
+106,00
+06/08/2020
+venda nº:305384, cliente:jeronimo guido bhering neto
+13:00:32
+1258,84
+à vista - dinheiro
+venda à vista
+1,00
+06/08/2020
+venda nº:305386, cliente:cliente venda varejo
+13:07:48
+1259,84
+à vista - dinheiro
+venda à vista
+4,00
+06/08/2020
+venda nº:305392, cliente:cliente venda varejo
+13:22:08
+1263,84
+à vista - dinheiro
+venda à vista
+10,00
+06/08/2020
+venda nº:305393, cliente:cliente venda varejo
+13:22:39
+1273,84
+à vista - dinheiro
+venda à vista
+70,80
+06/08/2020
+venda nº:305396, cliente:cliente venda varejo
+13:35:38
+1344,64
+à vista - dinheiro
+venda à vista
+9,30
+06/08/2020
+venda nº:305398, cliente:cliente venda varejo
+13:52:25
+1353,94
+à vista - dinheiro
+venda à vista
+10,00
+06/08/2020
+venda nº:305400, cliente:cliente venda varejo
+14:05:46
+1363,94
+à vista - dinheiro
+venda à vista
+325,00
+06/08/2020
+venda nº:305401, cliente:cliente venda varejo
+14:12:07
+1688,94
+à vista - dinheiro
+venda à vista
+27,50
+06/08/2020
+venda nº:305402, cliente:cliente venda varejo
+14:21:04
+1716,44
+à vista - dinheiro
+venda à vista
+30,00
+06/08/2020
+venda nº:305403, cliente:cliente venda varejo
+14:24:29
+1746,44
+à vista - dinheiro
+venda à vista
+35,00
+06/08/2020
+venda nº:305405, cliente:cliente venda varejo
+14:27:02
+1781,44
+à vista - dinheiro
+venda à vista
+8,50
+06/08/2020
+venda nº:305407, cliente:cliente venda varejo
+14:32:34
+1789,94
+à vista - dinheiro
+venda à vista
+25,70
+06/08/2020
+venda nº:305410, cliente:cliente venda varejo
+14:35:15
+1815,64
+à vista - dinheiro
+venda à vista
+16,00
+06/08/2020
+venda nº:305411, cliente:cliente venda varejo
+14:39:36
+1831,64
+à vista - dinheiro
+venda à vista
+38,00
+06/08/2020
+venda nº:305416, cliente:cliente venda varejo
+15:04:41
+1869,64
+à vista - dinheiro
+venda à vista
+16,00
+06/08/2020
+venda nº:305420, cliente:cliente venda varejo
+15:16:58
+1885,64
+à vista - dinheiro
+venda à vista
+17,00
+06/08/2020
+venda nº:305426, cliente:cliente venda varejo
+15:33:35
+1902,64
+à vista - dinheiro
+venda à vista
+55,20
+06/08/2020
+venda nº:305429, cliente:cliente venda varejo
+15:46:35
+1957,84
+à vista - dinheiro
+venda à vista
+104,00
+06/08/2020
+venda nº:305432, cliente:cliente venda varejo
+15:49:19
+2061,84
+à vista - dinheiro
+venda à vista
+20,00
+06/08/2020
+venda nº:305438, cliente:cliente venda varejo
+16:16:22
+2081,84
+à vista - dinheiro
+2081,84
+saldo final:
+05/09/2020
+10:33:23
+página 10
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:05:49
+data inicio turno:
+06/08/2020
+venda à vista
+24,70
+06/08/2020
+venda nº:305440, cliente:cliente venda varejo
+16:28:37
+2106,54
+à vista - dinheiro
+transferência para cofre
+-100,00
+06/08/2020
+valor transferido para o cofre 099
+16:32:25
+2006,54
+à vista - dinheiro
+venda à vista
+17,00
+06/08/2020
+venda nº:305442, cliente:cliente venda varejo
+16:48:46
+2023,54
+à vista - dinheiro
+venda à vista
+35,00
+06/08/2020
+venda nº:305450, cliente:cliente venda varejo
+17:24:36
+2058,54
+à vista - dinheiro
+venda à vista
+21,00
+06/08/2020
+venda nº:305454, cliente:cliente venda varejo
+17:36:09
+2079,54
+à vista - dinheiro
+transferência para cofre
+-1350,00
+06/08/2020
+valor transferido para o cofre 099
+18:01:03
+729,54
+à vista - dinheiro
+suprimento
+300,00
+06/08/2020
+transferencia cofre caixa 
+18:08:14
+1029,54
+à vista - dinheiro
+suprimento
+100,00
+06/08/2020
+erro transferencia caixa cofre 
+18:13:35
+1129,54
+à vista - dinheiro
+sangria
+-374,96
+06/08/2020
+organizacoes jmf ltda 
+18:14:10
+754,58
+à vista - dinheiro
+fechamento do turno/caixa
+-754,58
+06/08/2020
+18:16:21
+0,00
+à vista - dinheiro
+suprimento
+754,58
+07/08/2020
+saldo inicial
+08:02:35
+754,58
+à vista - dinheiro
+venda à vista
+44,00
+07/08/2020
+venda nº:305461, cliente:cliente venda varejo
+08:59:25
+798,58
+à vista - dinheiro
+venda à vista
+34,40
+07/08/2020
+venda nº:305463, cliente:cliente venda varejo
+09:13:15
+832,98
+à vista - dinheiro
+venda à vista
+110,00
+07/08/2020
+venda nº:305464, cliente:cliente venda varejo
+09:14:52
+942,98
+à vista - dinheiro
+venda à vista
+80,00
+07/08/2020
+venda nº:305465, cliente:cliente venda varejo
+09:17:31
+1022,98
+à vista - dinheiro
+venda à vista
+35,00
+07/08/2020
+venda nº:305466, cliente:cliente venda varejo
+09:18:03
+1057,98
+à vista - dinheiro
+sangria
+-13,76
+07/08/2020
+lanche loja
+09:21:39
+1044,22
+à vista - dinheiro
+venda à vista
+27,00
+07/08/2020
+venda nº:305467, cliente:cliente venda varejo
+09:22:28
+1071,22
+à vista - dinheiro
+venda à vista
+45,00
+07/08/2020
+venda nº:305469, cliente:cliente venda varejo
+09:25:44
+1116,22
+à vista - dinheiro
+venda à vista
+17,50
+07/08/2020
+venda nº:305471, cliente:cliente venda varejo
+09:35:40
+1133,72
+à vista - dinheiro
+venda à vista
+21,00
+07/08/2020
+venda nº:305473, cliente:cliente venda varejo
+09:39:08
+1154,72
+à vista - dinheiro
+venda à vista
+45,75
+07/08/2020
+venda nº:305474, cliente:cliente venda varejo
+09:57:16
+1200,47
+à vista - dinheiro
+venda à vista
+18,00
+07/08/2020
+venda nº:305475, cliente:cliente venda varejo
+09:58:22
+1218,47
+à vista - dinheiro
+venda à vista
+15,00
+07/08/2020
+venda nº:305476, cliente:cliente venda varejo
+10:04:53
+1233,47
+à vista - dinheiro
+venda à vista
+92,10
+07/08/2020
+venda nº:305477, cliente:cliente venda varejo
+10:07:14
+1325,57
+à vista - dinheiro
+1325,57
+saldo final:
+05/09/2020
+10:33:23
+página 11
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:35
+data inicio turno:
+07/08/2020
+venda à vista
+273,40
+07/08/2020
+venda nº:305478, cliente:cliente venda varejo
+10:10:17
+1598,97
+à vista - dinheiro
+venda à vista
+210,00
+07/08/2020
+venda nº:305479, cliente:cliente venda varejo
+10:15:36
+1808,97
+à vista - dinheiro
+venda à vista
+6,15
+07/08/2020
+venda nº:305481, cliente:cliente venda varejo
+10:18:32
+1815,12
+à vista - dinheiro
+venda à vista
+10,80
+07/08/2020
+venda nº:305483, cliente:cliente venda varejo
+10:27:06
+1825,92
+à vista - dinheiro
+venda à vista
+100,00
+07/08/2020
+venda nº:305484, cliente:bela casa tintas ltda 
+10:28:58
+1925,92
+à vista - dinheiro
+venda à vista
+28,00
+07/08/2020
+venda nº:305485, cliente:cliente venda varejo
+10:29:49
+1953,92
+à vista - dinheiro
+venda à vista
+4,60
+07/08/2020
+venda nº:305486, cliente:cliente venda varejo
+11:02:09
+1958,52
+à vista - dinheiro
+venda à vista
+2,50
+07/08/2020
+venda nº:305487, cliente:cliente venda varejo
+11:04:24
+1961,02
+à vista - dinheiro
+venda à vista
+20,00
+07/08/2020
+venda nº:305488, cliente:cliente venda varejo
+11:08:19
+1981,02
+à vista - dinheiro
+venda à vista
+100,00
+07/08/2020
+venda nº:305489, cliente:cliente venda varejo
+11:11:29
+2081,02
+à vista - dinheiro
+venda à vista
+6,40
+07/08/2020
+venda nº:305493, cliente:cliente venda varejo
+11:21:36
+2087,42
+à vista - dinheiro
+venda à vista
+7,00
+07/08/2020
+venda nº:305495, cliente:cliente venda varejo
+11:28:45
+2094,42
+à vista - dinheiro
+transferência para cofre
+-1300,00
+07/08/2020
+valor transferido para o cofre 099
+11:29:50
+794,42
+à vista - dinheiro
+venda à vista
+13,00
+07/08/2020
+venda nº:305496, cliente:cliente venda varejo
+11:39:02
+807,42
+à vista - dinheiro
+venda à vista
+94,00
+07/08/2020
+venda nº:305498, cliente:cliente venda varejo
+11:43:41
+901,42
+à vista - dinheiro
+venda à vista
+4,70
+07/08/2020
+venda nº:305501, cliente:cliente venda varejo
+12:19:19
+906,12
+à vista - dinheiro
+venda à vista
+36,00
+07/08/2020
+venda nº:305502, cliente:cliente venda varejo
+12:22:57
+942,12
+à vista - dinheiro
+venda à vista
+30,00
+07/08/2020
+venda nº:305505, cliente:cliente venda varejo
+12:44:52
+972,12
+à vista - dinheiro
+venda à vista
+145,01
+07/08/2020
+venda nº:305508, cliente:cliente venda varejo
+13:09:10
+1117,13
+à vista - dinheiro
+venda à vista
+1,50
+07/08/2020
+venda nº:305510, cliente:cliente venda varejo
+13:14:48
+1118,63
+à vista - dinheiro
+venda à vista
+27,00
+07/08/2020
+venda nº:305513, cliente:cliente venda varejo
+13:22:30
+1145,63
+à vista - dinheiro
+venda à vista
+76,00
+07/08/2020
+venda nº:305514, cliente:cliente venda varejo
+13:28:51
+1221,63
+à vista - dinheiro
+venda à vista
+12,00
+07/08/2020
+venda nº:305516, cliente:cliente venda varejo
+13:33:17
+1233,63
+à vista - dinheiro
+venda à vista
+16,50
+07/08/2020
+venda nº:305520, cliente:cliente venda varejo
+14:33:46
+1250,13
+à vista - dinheiro
+venda à vista
+93,00
+07/08/2020
+venda nº:305522, cliente:cliente venda varejo
+14:37:44
+1343,13
+à vista - dinheiro
+1343,13
+saldo final:
+05/09/2020
+10:33:23
+página 12
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:35
+data inicio turno:
+07/08/2020
+venda à vista
+13,90
+07/08/2020
+venda nº:305526, cliente:cliente venda varejo
+14:48:39
+1357,03
+à vista - dinheiro
+venda à vista
+39,65
+07/08/2020
+venda nº:305533, cliente:cliente venda varejo
+15:19:10
+1396,68
+à vista - dinheiro
+venda à vista
+52,00
+07/08/2020
+venda nº:305534, cliente:cliente venda varejo
+15:20:42
+1448,68
+à vista - dinheiro
+venda à vista
+31,50
+07/08/2020
+venda nº:305535, cliente:cliente venda varejo
+15:28:34
+1480,18
+à vista - dinheiro
+venda à vista
+114,00
+07/08/2020
+venda nº:305541, cliente:cliente venda varejo
+15:59:18
+1594,18
+à vista - dinheiro
+venda à vista
+135,70
+07/08/2020
+venda nº:305549, cliente:cliente venda varejo
+16:41:03
+1729,88
+à vista - dinheiro
+conta recebida
+72,00
+07/08/2020
+cliente:3839-ubiratan de lima, cred.:8, parc:1 16:47:44
+16:47:46
+1801,88
+à vista - dinheiro
+venda à vista
+5,50
+07/08/2020
+venda nº:305551, cliente:cliente venda varejo
+16:48:30
+1807,38
+à vista - dinheiro
+venda à vista
+29,00
+07/08/2020
+venda nº:305552, cliente:cliente venda varejo
+16:51:08
+1836,38
+à vista - dinheiro
+venda à vista
+7,40
+07/08/2020
+venda nº:305553, cliente:cliente venda varejo
+17:14:07
+1843,78
+à vista - dinheiro
+venda à vista
+20,00
+07/08/2020
+venda nº:305556, cliente:cliente venda varejo
+17:31:36
+1863,78
+à vista - dinheiro
+venda à vista
+10,00
+07/08/2020
+venda nº:305558, cliente:silbene mauricio machado da
+17:47:57
+1873,78
+à vista - dinheiro
+transferência para cofre
+-1000,00
+07/08/2020
+valor transferido para o cofre 099
+18:01:46
+873,78
+à vista - dinheiro
+fechamento do turno/caixa
+-873,78
+07/08/2020
+18:07:49
+0,00
+à vista - dinheiro
+suprimento
+873,78
+08/08/2020
+saldo inicial
+08:05:44
+873,78
+à vista - dinheiro
+venda à vista
+42,00
+08/08/2020
+venda nº:305563, cliente:cliente venda varejo
+08:18:16
+915,78
+à vista - dinheiro
+venda à vista
+55,00
+08/08/2020
+venda nº:305564, cliente:cliente venda varejo
+08:21:21
+970,78
+à vista - dinheiro
+venda à vista
+7,60
+08/08/2020
+venda nº:305570, cliente:cliente venda varejo
+09:03:02
+978,38
+à vista - dinheiro
+venda à vista
+70,00
+08/08/2020
+venda nº:305571, cliente:cliente venda varejo
+09:03:38
+1048,38
+à vista - dinheiro
+venda à vista
+50,00
+08/08/2020
+venda nº:305572, cliente:cliente venda varejo
+09:09:53
+1098,38
+à vista - dinheiro
+venda à vista
+8,90
+08/08/2020
+venda nº:305575, cliente:cliente venda varejo
+09:21:11
+1107,28
+à vista - dinheiro
+venda à vista
+9,50
+08/08/2020
+venda nº:305578, cliente:cliente venda varejo
+09:28:17
+1116,78
+à vista - dinheiro
+venda à vista
+44,00
+08/08/2020
+venda nº:305581, cliente:cliente venda varejo
+09:35:35
+1160,78
+à vista - dinheiro
+venda à vista
+4,00
+08/08/2020
+venda nº:305584, cliente:cliente venda varejo
+09:41:17
+1164,78
+à vista - dinheiro
+venda à vista
+44,00
+08/08/2020
+venda nº:305586, cliente:cliente venda varejo
+09:44:24
+1208,78
+à vista - dinheiro
+1208,78
+saldo final:
+05/09/2020
+10:33:24
+página 13
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:05:44
+data inicio turno:
+08/08/2020
+venda à vista
+12,00
+08/08/2020
+venda nº:305587, cliente:cliente venda varejo
+09:50:07
+1220,78
+à vista - dinheiro
+venda à vista
+108,00
+08/08/2020
+venda nº:305593, cliente:cliente venda varejo
+10:13:39
+1328,78
+à vista - dinheiro
+venda à vista
+49,80
+08/08/2020
+venda nº:305594, cliente:cliente venda varejo
+10:16:34
+1378,58
+à vista - dinheiro
+venda à vista
+40,00
+08/08/2020
+venda nº:305597, cliente:cliente venda varejo
+10:25:50
+1418,58
+à vista - dinheiro
+venda à vista
+11,00
+08/08/2020
+venda nº:305598, cliente:cliente venda varejo
+10:26:28
+1429,58
+à vista - dinheiro
+venda à vista
+69,35
+08/08/2020
+venda nº:305603, cliente:cliente venda varejo
+10:32:32
+1498,93
+à vista - dinheiro
+venda à vista
+17,00
+08/08/2020
+venda nº:305604, cliente:cliente venda varejo
+10:33:39
+1515,93
+à vista - dinheiro
+venda à vista
+210,00
+08/08/2020
+venda nº:305608, cliente:cliente venda varejo
+10:42:45
+1725,93
+à vista - dinheiro
+venda à vista
+22,00
+08/08/2020
+venda nº:305610, cliente:cliente venda varejo
+10:46:49
+1747,93
+à vista - dinheiro
+venda à vista
+59,70
+08/08/2020
+venda nº:305612, cliente:cliente venda varejo
+10:49:22
+1807,63
+à vista - dinheiro
+venda à vista
+115,00
+08/08/2020
+venda nº:305615, cliente:cliente venda varejo
+10:57:09
+1922,63
+à vista - dinheiro
+venda à vista
+22,50
+08/08/2020
+venda nº:305616, cliente:cliente venda varejo
+11:03:00
+1945,13
+à vista - dinheiro
+venda à vista
+160,00
+08/08/2020
+venda nº:305617, cliente:cliente venda varejo
+11:03:41
+2105,13
+à vista - dinheiro
+venda à vista
+7,00
+08/08/2020
+venda nº:305619, cliente:cliente venda varejo
+11:10:29
+2112,13
+à vista - dinheiro
+venda à vista
+74,50
+08/08/2020
+venda nº:305620, cliente:cliente venda varejo
+11:11:22
+2186,63
+à vista - dinheiro
+venda à vista
+21,66
+08/08/2020
+venda nº:305622, cliente:deivison pandolfi pereira 
+11:22:27
+2208,29
+à vista - dinheiro
+venda à vista
+2,60
+08/08/2020
+venda nº:305626, cliente:cliente venda varejo
+11:34:11
+2210,89
+à vista - dinheiro
+venda à vista
+90,00
+08/08/2020
+venda nº:305628, cliente:cliente venda varejo
+11:38:52
+2300,89
+à vista - dinheiro
+venda à vista
+13,30
+08/08/2020
+venda nº:305629, cliente:cliente venda varejo
+11:40:21
+2314,19
+à vista - dinheiro
+venda à vista
+32,30
+08/08/2020
+venda nº:305630, cliente:cliente venda varejo
+11:43:13
+2346,49
+à vista - dinheiro
+venda à vista
+32,00
+08/08/2020
+venda nº:305631, cliente:cliente venda varejo
+11:44:05
+2378,49
+à vista - dinheiro
+transferência para cofre
+-1550,00
+08/08/2020
+valor transferido para o cofre 099
+11:58:16
+828,49
+à vista - dinheiro
+venda à vista
+17,50
+08/08/2020
+venda nº:305639, cliente:cliente venda varejo
+12:07:36
+845,99
+à vista - dinheiro
+transferência para cofre
+-200,00
+08/08/2020
+valor transferido para o cofre 099
+12:09:34
+645,99
+à vista - dinheiro
+fechamento do turno/caixa
+-645,99
+08/08/2020
+12:13:44
+0,00
+à vista - dinheiro
+0,00
+saldo final:
+05/09/2020
+10:33:24
+página 14
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:05:15
+data inicio turno:
+10/08/2020
+suprimento
+645,99
+10/08/2020
+saldo inicial
+08:05:15
+645,99
+à vista - dinheiro
+venda à vista
+230,00
+10/08/2020
+venda nº:305643, cliente:orç.ruimar
+09:05:46
+875,99
+à vista - dinheiro
+venda à vista
+7,74
+10/08/2020
+venda nº:305646, cliente:cliente venda varejo
+09:29:29
+883,73
+à vista - dinheiro
+venda à vista
+7,50
+10/08/2020
+venda nº:305648, cliente:cliente venda varejo
+09:31:54
+891,23
+à vista - dinheiro
+venda à vista
+39,10
+10/08/2020
+venda nº:305649, cliente:cliente venda varejo
+09:33:31
+930,33
+à vista - dinheiro
+venda à vista
+5,50
+10/08/2020
+venda nº:305655, cliente:cliente venda varejo
+10:18:18
+935,83
+à vista - dinheiro
+venda à vista
+10,00
+10/08/2020
+venda nº:305656, cliente:cliente venda varejo
+10:22:03
+945,83
+à vista - dinheiro
+venda à vista
+45,00
+10/08/2020
+venda nº:305657, cliente:cliente venda varejo
+10:27:32
+990,83
+à vista - dinheiro
+venda à vista
+145,00
+10/08/2020
+venda nº:305658, cliente:cliente venda varejo
+10:28:20
+1135,83
+à vista - dinheiro
+venda à vista
+37,50
+10/08/2020
+venda nº:305660, cliente:cliente venda varejo
+10:43:11
+1173,33
+à vista - dinheiro
+venda à vista
+28,45
+10/08/2020
+venda nº:305661, cliente:cliente diversos
+10:45:54
+1201,78
+à vista - dinheiro
+venda à vista
+9,30
+10/08/2020
+venda nº:305662, cliente:cliente venda varejo
+10:51:02
+1211,08
+à vista - dinheiro
+venda à vista
+35,00
+10/08/2020
+venda nº:305666, cliente:cliente venda varejo
+11:11:34
+1246,08
+à vista - dinheiro
+venda à vista
+80,00
+10/08/2020
+venda nº:305668, cliente:cliente venda varejo
+11:19:26
+1326,08
+à vista - dinheiro
+venda à vista
+45,00
+10/08/2020
+venda nº:305669, cliente:cliente venda varejo
+11:23:51
+1371,08
+à vista - dinheiro
+venda à vista
+120,00
+10/08/2020
+venda nº:305672, cliente:cliente venda varejo
+11:33:20
+1491,08
+à vista - dinheiro
+venda à vista
+12,00
+10/08/2020
+venda nº:305674, cliente:cliente venda varejo
+11:37:33
+1503,08
+à vista - dinheiro
+venda à vista
+170,00
+10/08/2020
+venda nº:305675, cliente:cliente venda varejo
+11:40:30
+1673,08
+à vista - dinheiro
+venda à vista
+12,00
+10/08/2020
+venda nº:305676, cliente:cliente venda varejo
+11:44:42
+1685,08
+à vista - dinheiro
+venda à vista
+437,40
+10/08/2020
+venda nº:305678, cliente:a.papa joao xxiii no brasil
+12:03:49
+2122,48
+à vista - cheque
+venda à vista
+110,00
+10/08/2020
+venda nº:305679, cliente:cliente venda varejo
+12:07:34
+2232,48
+à vista - dinheiro
+sangria
+-5,27
+10/08/2020
+lanche
+12:15:15
+2227,21
+à vista - dinheiro
+sangria
+-12,00
+10/08/2020
+correcao, cupom cancelado
+12:18:23
+2215,21
+à vista - dinheiro
+venda à vista
+20,00
+10/08/2020
+venda nº:305681, cliente:cliente venda varejo
+12:21:50
+2235,21
+à vista - dinheiro
+transferência para cofre
+-437,40
+10/08/2020
+valor transferido para o cofre 099
+12:24:07
+1797,81
+à vista - cheque
+1797,81
+saldo final:
+05/09/2020
+10:33:24
+página 15
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:05:15
+data inicio turno:
+10/08/2020
+transferência para cofre
+-1100,00
+10/08/2020
+valor transferido para o cofre 099
+12:24:28
+697,81
+à vista - dinheiro
+transferência para cofre
+-431,55
+10/08/2020
+valor transferido para o cofre 099
+12:29:43
+266,26
+à vista - dinheiro
+venda à vista
+39,50
+10/08/2020
+venda nº:305682, cliente:cliente venda varejo
+12:32:45
+305,76
+à vista - dinheiro
+venda à vista
+215,00
+10/08/2020
+venda nº:305686, cliente:cliente venda varejo
+13:07:24
+520,76
+à vista - dinheiro
+venda à vista
+12,00
+10/08/2020
+venda nº:305688, cliente:manoel simoes 
+13:49:56
+532,76
+à vista - dinheiro
+venda à vista
+19,35
+10/08/2020
+venda nº:305689, cliente:cliente venda varejo
+14:02:17
+552,11
+à vista - dinheiro
+venda à vista
+15,00
+10/08/2020
+venda nº:305690, cliente:cliente venda varejo
+14:02:50
+567,11
+à vista - dinheiro
+sangria
+-12,00
+10/08/2020
+nf 37231
+14:12:02
+555,11
+à vista - dinheiro
+venda à vista
+1,00
+10/08/2020
+venda nº:305693, cliente:cliente venda varejo
+14:13:37
+556,11
+à vista - dinheiro
+venda à vista
+54,00
+10/08/2020
+venda nº:305696, cliente:cliente venda varejo
+14:17:54
+610,11
+à vista - dinheiro
+venda à vista
+187,00
+10/08/2020
+venda nº:305701, cliente:ethos 991861255
+14:33:00
+797,11
+à vista - dinheiro
+venda à vista
+2,90
+10/08/2020
+venda nº:305702, cliente:cliente venda varejo
+14:35:01
+800,01
+à vista - dinheiro
+venda à vista
+40,00
+10/08/2020
+venda nº:305703, cliente:cliente venda varejo
+14:35:42
+840,01
+à vista - dinheiro
+venda à vista
+114,00
+10/08/2020
+venda nº:305704, cliente:cliente venda varejo
+14:37:59
+954,01
+à vista - dinheiro
+venda à vista
+26,00
+10/08/2020
+venda nº:305710, cliente:cliente venda varejo
+15:02:16
+980,01
+à vista - dinheiro
+venda à vista
+18,00
+10/08/2020
+venda nº:305712, cliente:cliente venda varejo
+15:16:49
+998,01
+à vista - dinheiro
+venda à vista
+7,50
+10/08/2020
+venda nº:305714, cliente:cliente venda varejo
+15:36:11
+1005,51
+à vista - dinheiro
+venda à vista
+7,90
+10/08/2020
+venda nº:305716, cliente:cliente venda varejo
+15:49:50
+1013,41
+à vista - dinheiro
+venda à vista
+180,00
+10/08/2020
+venda nº:305718, cliente:cliente venda varejo
+15:53:49
+1193,41
+à vista - dinheiro
+venda à vista
+32,50
+10/08/2020
+venda nº:305722, cliente:cliente venda varejo
+16:10:39
+1225,91
+à vista - dinheiro
+venda à vista
+22,20
+10/08/2020
+venda nº:305724, cliente:cliente venda varejo
+16:25:38
+1248,11
+à vista - dinheiro
+venda à vista
+2,00
+10/08/2020
+venda nº:305726, cliente:cliente venda varejo
+16:33:10
+1250,11
+à vista - dinheiro
+venda à vista
+40,00
+10/08/2020
+venda nº:305727, cliente:cliente venda varejo
+16:49:36
+1290,11
+à vista - dinheiro
+venda à vista
+60,03
+10/08/2020
+venda nº:305731, cliente:cliente venda varejo
+17:02:15
+1350,14
+à vista - dinheiro
+venda à vista
+12,50
+10/08/2020
+venda nº:305732, cliente:cliente venda varejo
+17:03:50
+1362,64
+à vista - dinheiro
+1362,64
+saldo final:
+05/09/2020
+10:33:24
+página 16
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:05:15
+data inicio turno:
+10/08/2020
+venda à vista
+9,00
+10/08/2020
+venda nº:305734, cliente:cliente venda varejo
+17:22:34
+1371,64
+à vista - dinheiro
+venda à vista
+32,40
+10/08/2020
+venda nº:305737, cliente:cliente venda varejo
+17:36:01
+1404,04
+à vista - dinheiro
+venda à vista
+22,00
+10/08/2020
+venda nº:305740, cliente:cliente venda varejo
+17:49:25
+1426,04
+à vista - dinheiro
+venda à vista
+100,00
+10/08/2020
+venda nº:305741, cliente:cliente venda varejo
+17:52:44
+1526,04
+à vista - dinheiro
+transferência para cofre
+-1400,00
+10/08/2020
+valor transferido para o cofre 099
+17:56:37
+126,04
+à vista - dinheiro
+fechamento do turno/caixa
+-126,04
+10/08/2020
+17:59:54
+0,00
+à vista - dinheiro
+suprimento
+126,04
+11/08/2020
+saldo inicial
+08:01:28
+126,04
+à vista - dinheiro
+venda à vista
+5,70
+11/08/2020
+venda nº:305745, cliente:cliente venda varejo
+08:16:08
+131,74
+à vista - dinheiro
+venda à vista
+820,00
+11/08/2020
+venda nº:305750, cliente:admilson 9 8611-7258
+08:42:09
+951,74
+à vista - dinheiro
+venda à vista
+46,45
+11/08/2020
+venda nº:305755, cliente:cliente venda varejo
+08:55:41
+998,19
+à vista - dinheiro
+venda à vista
+5,00
+11/08/2020
+venda nº:305759, cliente:cliente venda varejo
+09:21:19
+1003,19
+à vista - dinheiro
+venda à vista
+118,80
+11/08/2020
+venda nº:305760, cliente:cliente venda varejo
+09:21:53
+1121,99
+à vista - dinheiro
+venda à vista
+3,50
+11/08/2020
+venda nº:305765, cliente:cliente venda varejo
+09:39:07
+1125,49
+à vista - dinheiro
+venda à vista
+52,20
+11/08/2020
+venda nº:305769, cliente:cliente venda varejo
+09:53:31
+1177,69
+à vista - dinheiro
+venda à vista
+12,50
+11/08/2020
+venda nº:305771, cliente:cliente venda varejo
+10:10:15
+1190,19
+à vista - dinheiro
+venda à vista
+5,00
+11/08/2020
+venda nº:305773, cliente:cliente venda varejo
+10:11:54
+1195,19
+à vista - dinheiro
+venda à vista
+500,00
+11/08/2020
+venda nº:305776, cliente:orç.
+10:18:45
+1695,19
+à vista - dinheiro
+venda à vista
+17,00
+11/08/2020
+venda nº:305777, cliente:cliente venda varejo
+10:24:45
+1712,19
+à vista - dinheiro
+venda à vista
+69,75
+11/08/2020
+venda nº:305780, cliente:paulo teotonio
+10:36:39
+1781,94
+à vista - dinheiro
+venda à vista
+20,80
+11/08/2020
+venda nº:305781, cliente:paulo teotonio
+10:37:57
+1802,74
+à vista - dinheiro
+venda à vista
+27,00
+11/08/2020
+venda nº:305784, cliente:paroquia sao francisco
+10:47:28
+1829,74
+à vista - dinheiro
+venda à vista
+45,00
+11/08/2020
+venda nº:305788, cliente:cliente venda varejo
+11:05:50
+1874,74
+à vista - dinheiro
+venda à vista
+29,30
+11/08/2020
+venda nº:305791, cliente:cliente venda varejo
+11:17:01
+1904,04
+à vista - dinheiro
+venda à vista
+91,50
+11/08/2020
+venda nº:305792, cliente:cliente venda varejo
+11:26:34
+1995,54
+à vista - dinheiro
+venda à vista
+10,00
+11/08/2020
+venda nº:305793, cliente:cliente venda varejo
+11:31:28
+2005,54
+à vista - dinheiro
+2005,54
+saldo final:
+05/09/2020
+10:33:24
+página 17
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:01:28
+data inicio turno:
+11/08/2020
+venda à vista
+33,00
+11/08/2020
+venda nº:305796, cliente:cliente venda varejo
+11:41:32
+2038,54
+à vista - dinheiro
+venda à vista
+112,56
+11/08/2020
+venda nº:305800, cliente:cliente venda varejo
+11:57:39
+2151,10
+à vista - dinheiro
+venda à vista
+64,00
+11/08/2020
+venda nº:305801, cliente:cliente venda varejo
+11:59:13
+2215,10
+à vista - dinheiro
+venda à vista
+31,00
+11/08/2020
+venda nº:305805, cliente:cliente venda varejo
+12:03:52
+2246,10
+à vista - dinheiro
+transferência para cofre
+-2000,00
+11/08/2020
+valor transferido para o cofre 099
+12:10:42
+246,10
+à vista - dinheiro
+venda à vista
+18,00
+11/08/2020
+venda nº:305808, cliente:cliente venda varejo
+12:34:02
+264,10
+à vista - dinheiro
+venda à vista
+18,50
+11/08/2020
+venda nº:305810, cliente:cliente venda varejo
+12:40:32
+282,60
+à vista - dinheiro
+venda à vista
+20,00
+11/08/2020
+venda nº:305811, cliente:cliente venda varejo
+12:41:33
+302,60
+à vista - dinheiro
+venda à vista
+29,60
+11/08/2020
+venda nº:305812, cliente:cliente venda varejo
+12:42:43
+332,20
+à vista - dinheiro
+venda à vista
+41,35
+11/08/2020
+venda nº:305814, cliente:cliente venda varejo
+12:52:56
+373,55
+à vista - dinheiro
+venda à vista
+34,61
+11/08/2020
+venda nº:305817, cliente:cliente venda varejo
+13:08:55
+408,16
+à vista - dinheiro
+venda à vista
+40,00
+11/08/2020
+venda nº:305819, cliente:cliente venda varejo
+13:20:10
+448,16
+à vista - dinheiro
+venda à vista
+19,00
+11/08/2020
+venda nº:305820, cliente:cliente venda varejo
+13:27:09
+467,16
+à vista - dinheiro
+venda à vista
+9,00
+11/08/2020
+venda nº:305823, cliente:cliente venda varejo
+13:32:31
+476,16
+à vista - dinheiro
+venda à vista
+21,90
+11/08/2020
+venda nº:305829, cliente:cliente venda varejo
+14:25:41
+498,06
+à vista - dinheiro
+venda à vista
+36,72
+11/08/2020
+venda nº:305833, cliente:cliente venda varejo
+14:36:31
+534,78
+à vista - dinheiro
+venda à vista
+150,00
+11/08/2020
+venda nº:305835, cliente:paulo teotonio
+14:48:03
+684,78
+à vista - dinheiro
+venda à vista
+25,00
+11/08/2020
+venda nº:305836, cliente:cliente venda varejo
+14:55:25
+709,78
+à vista - dinheiro
+venda à vista
+500,00
+11/08/2020
+venda nº:305840, cliente:cliente venda varejo
+15:23:16
+1209,78
+à vista - dinheiro
+transferência para cofre
+-500,00
+11/08/2020
+valor transferido para o cofre 099
+15:24:20
+709,78
+à vista - dinheiro
+venda à vista
+4,00
+11/08/2020
+venda nº:305842, cliente:cliente venda varejo
+15:35:59
+713,78
+à vista - dinheiro
+venda à vista
+23,40
+11/08/2020
+venda nº:305846, cliente:cliente venda varejo
+15:54:54
+737,18
+à vista - dinheiro
+venda à vista
+19,90
+11/08/2020
+venda nº:305851, cliente:cliente venda varejo
+16:51:29
+757,08
+à vista - dinheiro
+venda à vista
+234,40
+11/08/2020
+venda nº:305853, cliente:cliente diversos
+16:56:17
+991,48
+à vista - dinheiro
+venda à vista
+75,00
+11/08/2020
+venda nº:305854, cliente:cliente venda varejo
+17:08:52
+1066,48
+à vista - dinheiro
+1066,48
+saldo final:
+05/09/2020
+10:33:25
+página 18
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:01:28
+data inicio turno:
+11/08/2020
+venda à vista
+34,30
+11/08/2020
+venda nº:305860, cliente:cliente venda varejo
+17:51:57
+1100,78
+à vista - dinheiro
+venda à vista
+6,05
+11/08/2020
+venda nº:305864, cliente:cliente venda varejo
+17:59:46
+1106,83
+à vista - dinheiro
+transferência para cofre
+-850,00
+11/08/2020
+valor transferido para o cofre 099
+18:01:26
+256,83
+à vista - dinheiro
+fechamento do turno/caixa
+-256,83
+11/08/2020
+18:03:02
+0,00
+à vista - dinheiro
+suprimento
+256,83
+12/08/2020
+saldo inicial
+08:02:16
+256,83
+à vista - dinheiro
+venda à vista
+13,50
+12/08/2020
+venda nº:305866, cliente:cliente venda varejo
+08:13:21
+270,33
+à vista - dinheiro
+venda à vista
+10,75
+12/08/2020
+venda nº:305867, cliente:cliente venda varejo
+08:38:48
+281,08
+à vista - dinheiro
+venda à vista
+30,00
+12/08/2020
+venda nº:305871, cliente:cliente venda varejo
+09:09:32
+311,08
+à vista - dinheiro
+venda à vista
+81,00
+12/08/2020
+venda nº:305875, cliente:cliente venda varejo
+09:21:17
+392,08
+à vista - dinheiro
+venda à vista
+2,60
+12/08/2020
+venda nº:305877, cliente:cliente venda varejo
+09:34:54
+394,68
+à vista - dinheiro
+venda à vista
+8,00
+12/08/2020
+venda nº:305880, cliente:paroquia santo antonio melo
+10:02:40
+402,68
+à vista - dinheiro
+venda à vista
+10,00
+12/08/2020
+venda nº:305887, cliente:cliente venda varejo
+10:35:38
+412,68
+à vista - dinheiro
+venda à vista
+15,50
+12/08/2020
+venda nº:305890, cliente:cliente venda varejo
+10:52:40
+428,18
+à vista - dinheiro
+venda à vista
+26,00
+12/08/2020
+venda nº:305891, cliente:cliente venda varejo
+10:55:18
+454,18
+à vista - dinheiro
+venda à vista
+10,00
+12/08/2020
+venda nº:305892, cliente:cliente venda varejo
+11:09:41
+464,18
+à vista - dinheiro
+venda à vista
+24,00
+12/08/2020
+venda nº:305897, cliente:cliente venda varejo
+11:35:02
+488,18
+à vista - dinheiro
+venda à vista
+41,80
+12/08/2020
+venda nº:305898, cliente:cliente venda varejo
+11:38:13
+529,98
+à vista - dinheiro
+venda à vista
+72,00
+12/08/2020
+venda nº:305899, cliente:francisco costa duarte
+11:43:46
+601,98
+à vista - dinheiro
+venda à vista
+16,95
+12/08/2020
+venda nº:305901, cliente:cliente venda varejo
+11:46:50
+618,93
+à vista - dinheiro
+venda à vista
+24,50
+12/08/2020
+venda nº:305902, cliente:cliente venda varejo
+11:47:23
+643,43
+à vista - dinheiro
+venda à vista
+95,00
+12/08/2020
+venda nº:305905, cliente:cliente venda varejo
+12:01:14
+738,43
+à vista - dinheiro
+venda à vista
+8,00
+12/08/2020
+venda nº:305906, cliente:cliente venda varejo
+12:10:13
+746,43
+à vista - dinheiro
+venda à vista
+32,85
+12/08/2020
+venda nº:305907, cliente:cliente venda varejo
+12:12:35
+779,28
+à vista - dinheiro
+venda à vista
+180,00
+12/08/2020
+venda nº:305908, cliente:cliente venda varejo
+12:15:04
+959,28
+à vista - dinheiro
+venda à vista
+136,00
+12/08/2020
+venda nº:305913, cliente:cliente venda varejo
+13:03:59
+1095,28
+à vista - dinheiro
+1095,28
+saldo final:
+05/09/2020
+10:33:25
+página 19
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:16
+data inicio turno:
+12/08/2020
+venda à vista
+12,50
+12/08/2020
+venda nº:305916, cliente:cliente venda varejo
+13:31:00
+1107,78
+à vista - dinheiro
+venda à vista
+3,50
+12/08/2020
+venda nº:305919, cliente:cliente venda varejo
+14:07:01
+1111,28
+à vista - dinheiro
+venda à vista
+485,00
+12/08/2020
+venda nº:305920, cliente:cliente venda varejo
+14:09:54
+1596,28
+à vista - dinheiro
+venda à vista
+138,00
+12/08/2020
+venda nº:305921, cliente:cliente venda varejo
+14:12:55
+1734,28
+à vista - dinheiro
+venda à vista
+65,00
+12/08/2020
+venda nº:305922, cliente:cliente venda varejo
+14:13:35
+1799,28
+à vista - dinheiro
+transferência para cofre
+-1400,00
+12/08/2020
+valor transferido para o cofre 099
+14:23:00
+399,28
+à vista - dinheiro
+venda à vista
+77,00
+12/08/2020
+venda nº:305925, cliente:kaio
+14:31:48
+476,28
+à vista - dinheiro
+venda à vista
+16,00
+12/08/2020
+venda nº:305926, cliente:cliente venda varejo
+14:33:49
+492,28
+à vista - dinheiro
+venda à vista
+90,00
+12/08/2020
+venda nº:305927, cliente:cliente venda varejo
+14:34:33
+582,28
+à vista - dinheiro
+venda à vista
+27,00
+12/08/2020
+venda nº:305932, cliente:cliente venda varejo
+14:55:39
+609,28
+à vista - dinheiro
+venda à vista
+55,00
+12/08/2020
+venda nº:305936, cliente:cliente venda varejo
+15:22:05
+664,28
+à vista - dinheiro
+sangria
+-8,90
+12/08/2020
+organizacoes jmf ltda 
+15:50:00
+655,38
+à vista - dinheiro
+venda à vista
+8,10
+12/08/2020
+venda nº:305944, cliente:cliente venda varejo
+16:33:14
+663,48
+à vista - dinheiro
+venda à vista
+195,50
+12/08/2020
+venda nº:305946, cliente:paulo teotonio
+16:43:32
+858,98
+à vista - dinheiro
+venda à vista
+9,00
+12/08/2020
+venda nº:305947, cliente:cliente venda varejo
+16:52:33
+867,98
+à vista - dinheiro
+venda à vista
+14,50
+12/08/2020
+venda nº:305952, cliente:cliente venda varejo
+17:47:27
+882,48
+à vista - dinheiro
+venda à vista
+4,00
+12/08/2020
+venda nº:305954, cliente:cliente venda varejo
+17:50:23
+886,48
+à vista - dinheiro
+venda à vista
+118,00
+12/08/2020
+venda nº:305959, cliente:cliente venda varejo
+18:08:00
+1004,48
+à vista - dinheiro
+transferência para cofre
+-750,00
+12/08/2020
+valor transferido para o cofre 099
+18:10:30
+254,48
+à vista - dinheiro
+fechamento do turno/caixa
+-254,48
+12/08/2020
+18:20:06
+0,00
+à vista - dinheiro
+suprimento
+254,48
+13/08/2020
+saldo inicial
+08:04:21
+254,48
+à vista - dinheiro
+venda à vista
+12,60
+13/08/2020
+venda nº:305963, cliente:cliente venda varejo
+08:30:38
+267,08
+à vista - dinheiro
+venda à vista
+8,00
+13/08/2020
+venda nº:305964, cliente:cliente venda varejo
+08:32:32
+275,08
+à vista - dinheiro
+venda à vista
+43,50
+13/08/2020
+venda nº:305966, cliente:joao batista de oliveira
+08:43:56
+318,58
+à vista - dinheiro
+venda à vista
+59,50
+13/08/2020
+venda nº:305967, cliente:joao batista de oliveira
+08:44:31
+378,08
+à vista - dinheiro
+378,08
+saldo final:
+05/09/2020
+10:33:25
+página 20
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:04:21
+data inicio turno:
+13/08/2020
+venda à vista
+2,50
+13/08/2020
+venda nº:305969, cliente:cliente venda varejo
+08:46:38
+380,58
+à vista - dinheiro
+venda à vista
+13,30
+13/08/2020
+venda nº:305970, cliente:joao batista de oliveira
+08:48:22
+393,88
+à vista - dinheiro
+venda à vista
+17,00
+13/08/2020
+venda nº:305974, cliente:cliente venda varejo
+09:01:12
+410,88
+à vista - dinheiro
+venda à vista
+1,30
+13/08/2020
+venda nº:305975, cliente:cliente venda varejo
+09:01:45
+412,18
+à vista - dinheiro
+venda à vista
+26,00
+13/08/2020
+venda nº:305976, cliente:cliente venda varejo
+09:02:32
+438,18
+à vista - dinheiro
+venda à vista
+3,50
+13/08/2020
+venda nº:305977, cliente:cliente venda varejo
+09:07:35
+441,68
+à vista - dinheiro
+venda à vista
+5,81
+13/08/2020
+venda nº:305979, cliente:cliente venda varejo
+09:11:42
+447,49
+à vista - dinheiro
+venda à vista
+1,50
+13/08/2020
+venda nº:305980, cliente:cliente venda varejo
+09:17:46
+448,99
+à vista - dinheiro
+venda à vista
+11,00
+13/08/2020
+venda nº:305982, cliente:cliente venda varejo
+09:35:47
+459,99
+à vista - dinheiro
+venda à vista
+4,50
+13/08/2020
+venda nº:305986, cliente:cliente venda varejo
+09:43:35
+464,49
+à vista - dinheiro
+venda à vista
+45,00
+13/08/2020
+venda nº:305988, cliente:cliente venda varejo
+09:46:30
+509,49
+à vista - dinheiro
+venda à vista
+56,25
+13/08/2020
+venda nº:305989, cliente:cliente venda varejo
+09:48:31
+565,74
+à vista - dinheiro
+venda à vista
+300,00
+13/08/2020
+venda nº:305992, cliente:cliente venda varejo
+10:11:59
+865,74
+à vista - dinheiro
+venda à vista
+9,75
+13/08/2020
+venda nº:305996, cliente:cliente venda varejo
+10:49:11
+875,49
+à vista - dinheiro
+venda à vista
+160,00
+13/08/2020
+venda nº:305998, cliente:maria geralda goncalves
+11:02:52
+1035,49
+à vista - dinheiro
+venda à vista
+106,00
+13/08/2020
+venda nº:305999, cliente:cliente venda varejo
+11:08:29
+1141,49
+à vista - dinheiro
+venda à vista
+131,90
+13/08/2020
+venda nº:306000, cliente:cliente venda varejo
+11:09:39
+1273,39
+à vista - dinheiro
+venda à vista
+55,00
+13/08/2020
+venda nº:306004, cliente:cliente venda varejo
+11:22:08
+1328,39
+à vista - dinheiro
+venda à vista
+16,80
+13/08/2020
+venda nº:306007, cliente:cliente venda varejo
+11:33:36
+1345,19
+à vista - dinheiro
+venda à vista
+180,00
+13/08/2020
+venda nº:306009, cliente:acacio nascimento carneiro
+11:44:47
+1525,19
+à vista - dinheiro
+troco de venda à vista
+-8,11
+13/08/2020
+venda nº:306009, cliente:acacio nascimento carneiro
+11:44:47
+1517,08
+à vista - dinheiro
+venda à vista
+17,00
+13/08/2020
+venda nº:306010, cliente:cliente venda varejo
+11:48:30
+1534,08
+à vista - dinheiro
+venda à vista
+15,70
+13/08/2020
+venda nº:306018, cliente:cliente venda varejo
+12:16:35
+1549,78
+à vista - dinheiro
+sangria
+-5,27
+13/08/2020
+organizacoes jmf ltda
+12:18:47
+1544,51
+à vista - dinheiro
+venda à vista
+245,00
+13/08/2020
+venda nº:306020, cliente:cliente venda varejo
+12:28:55
+1789,51
+à vista - dinheiro
+1789,51
+saldo final:
+05/09/2020
+10:33:25
+página 21
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:04:21
+data inicio turno:
+13/08/2020
+venda à vista
+7,40
+13/08/2020
+venda nº:306022, cliente:cliente venda varejo
+12:41:05
+1796,91
+à vista - dinheiro
+venda à vista
+12,15
+13/08/2020
+venda nº:306025, cliente:cliente venda varejo
+13:28:29
+1809,06
+à vista - dinheiro
+venda à vista
+12,00
+13/08/2020
+venda nº:306029, cliente:cliente venda varejo
+13:50:19
+1821,06
+à vista - dinheiro
+venda à vista
+30,00
+13/08/2020
+venda nº:306030, cliente:cliente venda varejo
+14:03:05
+1851,06
+à vista - dinheiro
+venda à vista
+8,50
+13/08/2020
+venda nº:306031, cliente:cliente venda varejo
+14:10:09
+1859,56
+à vista - dinheiro
+venda à vista
+21,20
+13/08/2020
+venda nº:306033, cliente:cliente venda varejo
+14:17:41
+1880,76
+à vista - dinheiro
+venda à vista
+10,00
+13/08/2020
+venda nº:306038, cliente:cliente venda varejo
+14:39:20
+1890,76
+à vista - dinheiro
+venda à vista
+197,95
+13/08/2020
+venda nº:306039, cliente:cliente venda varejo
+14:42:29
+2088,71
+à vista - dinheiro
+venda à vista
+22,00
+13/08/2020
+venda nº:306040, cliente:cliente venda varejo
+14:43:15
+2110,71
+à vista - dinheiro
+venda à vista
+40,00
+13/08/2020
+venda nº:306042, cliente:cliente venda varejo
+14:49:19
+2150,71
+à vista - dinheiro
+venda à vista
+18,00
+13/08/2020
+venda nº:306043, cliente:cliente venda varejo
+14:51:36
+2168,71
+à vista - dinheiro
+venda à vista
+41,40
+13/08/2020
+venda nº:306045, cliente:cliente venda varejo
+15:07:55
+2210,11
+à vista - dinheiro
+transferência para cofre
+-1800,00
+13/08/2020
+valor transferido para o cofre 099
+15:14:10
+410,11
+à vista - dinheiro
+venda à vista
+1,35
+13/08/2020
+venda nº:306047, cliente:cliente venda varejo
+15:18:22
+411,46
+à vista - dinheiro
+venda à vista
+14,90
+13/08/2020
+venda nº:306048, cliente:cliente venda varejo
+15:22:41
+426,36
+à vista - dinheiro
+venda à vista
+53,60
+13/08/2020
+venda nº:306054, cliente:cliente venda varejo
+15:45:30
+479,96
+à vista - dinheiro
+venda à vista
+30,00
+13/08/2020
+venda nº:306055, cliente:cliente venda varejo
+15:51:47
+509,96
+à vista - dinheiro
+venda à vista
+30,00
+13/08/2020
+venda nº:306056, cliente:cliente diversos
+15:58:43
+539,96
+à vista - dinheiro
+venda à vista
+59,70
+13/08/2020
+venda nº:306059, cliente:cliente venda varejo
+16:08:40
+599,66
+à vista - dinheiro
+venda à vista
+34,00
+13/08/2020
+venda nº:306060, cliente:cliente venda varejo
+16:13:10
+633,66
+à vista - dinheiro
+venda à vista
+35,00
+13/08/2020
+venda nº:306062, cliente:cliente venda varejo
+16:21:14
+668,66
+à vista - dinheiro
+venda à vista
+43,60
+13/08/2020
+venda nº:306063, cliente:cliente venda varejo
+16:38:59
+712,26
+à vista - dinheiro
+venda à vista
+16,20
+13/08/2020
+venda nº:306067, cliente:cliente venda varejo
+16:47:10
+728,46
+à vista - dinheiro
+venda à vista
+8,50
+13/08/2020
+venda nº:306069, cliente:cliente venda varejo
+16:55:09
+736,96
+à vista - dinheiro
+venda à vista
+12,00
+13/08/2020
+venda nº:306073, cliente:cliente venda varejo
+17:04:20
+748,96
+à vista - dinheiro
+748,96
+saldo final:
+05/09/2020
+10:33:26
+página 22
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:04:21
+data inicio turno:
+13/08/2020
+venda à vista
+5,00
+13/08/2020
+venda nº:306074, cliente:cliente venda varejo
+17:04:48
+753,96
+à vista - dinheiro
+venda à vista
+19,00
+13/08/2020
+venda nº:306076, cliente:cliente venda varejo
+17:13:29
+772,96
+à vista - dinheiro
+venda à vista
+15,00
+13/08/2020
+venda nº:306078, cliente:cliente venda varejo
+17:30:56
+787,96
+à vista - dinheiro
+venda à vista
+12,00
+13/08/2020
+venda nº:306080, cliente:cliente venda varejo
+17:36:31
+799,96
+à vista - dinheiro
+venda à vista
+12,00
+13/08/2020
+venda nº:306083, cliente:cliente venda varejo
+17:57:16
+811,96
+à vista - dinheiro
+transferência para cofre
+-450,00
+13/08/2020
+valor transferido para o cofre 099
+17:59:02
+361,96
+à vista - dinheiro
+fechamento do turno/caixa
+-361,96
+13/08/2020
+17:59:54
+0,00
+à vista - dinheiro
+suprimento
+361,96
+14/08/2020
+saldo inicial
+08:00:55
+361,96
+à vista - dinheiro
+venda à vista
+300,00
+14/08/2020
+venda nº:306084, cliente:rede campestre
+08:03:48
+661,96
+à vista - dinheiro
+venda à vista
+145,00
+14/08/2020
+venda nº:306086, cliente:adavilson
+08:52:19
+806,96
+à vista - dinheiro
+venda à vista
+5,00
+14/08/2020
+venda nº:306087, cliente:cliente venda varejo
+08:55:20
+811,96
+à vista - dinheiro
+venda à vista
+52,30
+14/08/2020
+venda nº:306088, cliente:cliente venda varejo
+09:12:12
+864,26
+à vista - dinheiro
+venda à vista
+11,00
+14/08/2020
+venda nº:306092, cliente:cliente venda varejo
+09:31:21
+875,26
+à vista - dinheiro
+venda à vista
+164,95
+14/08/2020
+venda nº:306093, cliente:cliente venda varejo
+09:45:21
+1040,21
+à vista - dinheiro
+venda à vista
+6,00
+14/08/2020
+venda nº:306096, cliente:cliente venda varejo
+09:52:40
+1046,21
+à vista - dinheiro
+venda à vista
+72,00
+14/08/2020
+venda nº:306098, cliente:cliente venda varejo
+09:58:15
+1118,21
+à vista - dinheiro
+venda à vista
+104,00
+14/08/2020
+venda nº:306099, cliente:cliente diversos
+10:26:31
+1222,21
+à vista - dinheiro
+venda à vista
+50,00
+14/08/2020
+venda nº:306101, cliente:cliente venda varejo
+10:29:10
+1272,21
+à vista - dinheiro
+venda à vista
+29,70
+14/08/2020
+venda nº:306104, cliente:cliente venda varejo
+10:46:38
+1301,91
+à vista - dinheiro
+venda à vista
+26,50
+14/08/2020
+venda nº:306105, cliente:cliente venda varejo
+10:47:17
+1328,41
+à vista - dinheiro
+venda à vista
+540,00
+14/08/2020
+venda nº:306110, cliente:orç.ailton
+11:15:35
+1868,41
+à vista - dinheiro
+venda à vista
+102,00
+14/08/2020
+venda nº:306111, cliente:cliente venda varejo
+11:18:12
+1970,41
+à vista - dinheiro
+venda à vista
+10,50
+14/08/2020
+venda nº:306112, cliente:cliente venda varejo
+11:21:36
+1980,91
+à vista - dinheiro
+venda à vista
+34,00
+14/08/2020
+venda nº:306113, cliente:cliente venda varejo
+11:22:16
+2014,91
+à vista - dinheiro
+venda à vista
+7,00
+14/08/2020
+venda nº:306115, cliente:cliente venda varejo
+11:26:49
+2021,91
+à vista - dinheiro
+2021,91
+saldo final:
+05/09/2020
+10:33:26
+página 23
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:00:55
+data inicio turno:
+14/08/2020
+venda à vista
+129,50
+14/08/2020
+venda nº:306117, cliente:cliente venda varejo
+11:33:40
+2151,41
+à vista - dinheiro
+venda à vista
+24,00
+14/08/2020
+venda nº:306119, cliente:cliente venda varejo
+11:42:17
+2175,41
+à vista - dinheiro
+venda à vista
+300,00
+14/08/2020
+venda nº:306127, cliente:posto campestre ltda
+12:18:34
+2475,41
+à vista - dinheiro
+venda à vista
+900,00
+14/08/2020
+venda nº:306128, cliente:cliente diversos
+12:22:21
+3375,41
+à vista - dinheiro
+venda à vista
+55,00
+14/08/2020
+venda nº:306129, cliente:cliente venda varejo
+12:23:57
+3430,41
+à vista - dinheiro
+venda à vista
+55,00
+14/08/2020
+venda nº:306132, cliente:cliente venda varejo
+12:39:43
+3485,41
+à vista - dinheiro
+venda à vista
+48,00
+14/08/2020
+venda nº:306133, cliente:cliente venda varejo
+12:51:41
+3533,41
+à vista - dinheiro
+venda à vista
+135,00
+14/08/2020
+venda nº:306137, cliente:cliente venda varejo
+13:10:44
+3668,41
+à vista - dinheiro
+venda à vista
+11,10
+14/08/2020
+venda nº:306139, cliente:cliente venda varejo
+13:48:26
+3679,51
+à vista - dinheiro
+venda à vista
+52,25
+14/08/2020
+venda nº:306140, cliente:cliente venda varejo
+13:58:22
+3731,76
+à vista - dinheiro
+venda à vista
+54,00
+14/08/2020
+venda nº:306141, cliente:cliente venda varejo
+14:08:37
+3785,76
+à vista - dinheiro
+venda à vista
+22,50
+14/08/2020
+venda nº:306144, cliente:cliente venda varejo
+14:14:25
+3808,26
+à vista - dinheiro
+venda à vista
+5,00
+14/08/2020
+venda nº:306147, cliente:cliente venda varejo
+14:23:57
+3813,26
+à vista - dinheiro
+sangria
+-48,68
+14/08/2020
+organizacoes jmf ltda
+14:25:24
+3764,58
+à vista - dinheiro
+venda à vista
+33,00
+14/08/2020
+venda nº:306150, cliente:cliente venda varejo
+14:34:29
+3797,58
+à vista - dinheiro
+venda à vista
+9,00
+14/08/2020
+venda nº:306151, cliente:cliente venda varejo
+14:43:29
+3806,58
+à vista - dinheiro
+venda à vista
+12,00
+14/08/2020
+venda nº:306152, cliente:cliente venda varejo
+14:45:23
+3818,58
+à vista - dinheiro
+venda à vista
+10,40
+14/08/2020
+venda nº:306153, cliente:cliente venda varejo
+14:46:11
+3828,98
+à vista - dinheiro
+venda à vista
+4,00
+14/08/2020
+venda nº:306160, cliente:cliente venda varejo
+15:15:06
+3832,98
+à vista - dinheiro
+venda à vista
+40,00
+14/08/2020
+venda nº:306164, cliente:cliente venda varejo
+15:54:19
+3872,98
+à vista - dinheiro
+venda à vista
+10,00
+14/08/2020
+venda nº:306166, cliente:cliente venda varejo
+16:10:05
+3882,98
+à vista - dinheiro
+venda à vista
+23,40
+14/08/2020
+venda nº:306170, cliente:cliente venda varejo
+16:28:16
+3906,38
+à vista - dinheiro
+venda à vista
+54,20
+14/08/2020
+venda nº:306171, cliente:cliente venda varejo
+16:29:14
+3960,58
+à vista - dinheiro
+sangria
+-6,00
+14/08/2020
+gmj comercial ltda
+16:49:48
+3954,58
+à vista - dinheiro
+transferência para cofre
+-3150,00
+14/08/2020
+valor transferido para o cofre 099
+16:54:42
+804,58
+à vista - dinheiro
+804,58
+saldo final:
+05/09/2020
+10:33:26
+página 24
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:00:55
+data inicio turno:
+14/08/2020
+venda à vista
+24,00
+14/08/2020
+venda nº:306173, cliente:cliente venda varejo
+17:05:08
+828,58
+à vista - dinheiro
+venda à vista
+90,00
+14/08/2020
+venda nº:306177, cliente:cliente venda varejo
+17:13:39
+918,58
+à vista - dinheiro
+venda à vista
+42,50
+14/08/2020
+venda nº:306178, cliente:cliente venda varejo
+17:15:59
+961,08
+à vista - dinheiro
+venda à vista
+128,90
+14/08/2020
+venda nº:306179, cliente:cliente venda varejo
+17:37:23
+1089,98
+à vista - dinheiro
+venda à vista
+176,30
+14/08/2020
+venda nº:306180, cliente:cliente venda varejo
+17:38:12
+1266,28
+à vista - dinheiro
+venda à vista
+7,00
+14/08/2020
+venda nº:306183, cliente:cliente venda varejo
+17:42:47
+1273,28
+à vista - dinheiro
+venda à vista
+20,00
+14/08/2020
+venda nº:306184, cliente:cliente venda varejo
+17:43:24
+1293,28
+à vista - dinheiro
+venda à vista
+22,00
+14/08/2020
+venda nº:306187, cliente:cliente venda varejo
+17:57:17
+1315,28
+à vista - dinheiro
+transferência para cofre
+-750,00
+14/08/2020
+valor transferido para o cofre 099
+18:03:11
+565,28
+à vista - dinheiro
+fechamento do turno/caixa
+-565,28
+14/08/2020
+18:08:44
+0,00
+à vista - dinheiro
+abrindo caixa com venda
+0,00
+17/08/2020
+o caixa estava fechado no momento da venda
+08:08:27
+0,00
+à vista - dinheiro
+venda à vista
+45,00
+17/08/2020
+venda nº:306191, cliente:cliente venda varejo
+08:08:29
+45,00
+à vista - dinheiro
+venda à vista
+45,00
+17/08/2020
+venda nº:306192, cliente:cliente venda varejo
+08:10:28
+90,00
+à vista - dinheiro
+venda à vista
+100,00
+17/08/2020
+venda nº:306193, cliente:cliente venda varejo
+08:15:31
+190,00
+à vista - dinheiro
+venda à vista
+19,20
+17/08/2020
+venda nº:306196, cliente:cliente venda varejo
+08:37:24
+209,20
+à vista - dinheiro
+venda à vista
+45,80
+17/08/2020
+venda nº:306197, cliente:cliente venda varejo
+08:48:19
+255,00
+à vista - dinheiro
+venda à vista
+45,00
+17/08/2020
+venda nº:306201, cliente:cliente venda varejo
+08:57:48
+300,00
+à vista - dinheiro
+suprimento
+565,28
+17/08/2020
+saldo inicial
+09:28:11
+865,28
+à vista - dinheiro
+venda à vista
+30,00
+17/08/2020
+venda nº:306207, cliente:cliente venda varejo
+09:36:34
+895,28
+à vista - dinheiro
+venda à vista
+317,00
+17/08/2020
+venda nº:306208, cliente:cliente venda varejo
+09:49:01
+1212,28
+à vista - dinheiro
+venda à vista
+31,80
+17/08/2020
+venda nº:306210, cliente:presmutec (prest ser
+09:58:06
+1244,08
+à vista - dinheiro
+venda à vista
+31,00
+17/08/2020
+venda nº:306213, cliente:cliente venda varejo
+10:14:09
+1275,08
+à vista - dinheiro
+venda à vista
+3,80
+17/08/2020
+venda nº:306215, cliente:cliente venda varejo
+10:27:43
+1278,88
+à vista - dinheiro
+venda à vista
+43,50
+17/08/2020
+venda nº:306217, cliente:cliente venda varejo
+10:37:16
+1322,38
+à vista - dinheiro
+venda à vista
+12,00
+17/08/2020
+venda nº:306218, cliente:cliente venda varejo
+10:40:57
+1334,38
+à vista - dinheiro
+1334,38
+saldo final:
+05/09/2020
+10:33:26
+página 25
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:08:27
+data inicio turno:
+17/08/2020
+venda à vista
+65,00
+17/08/2020
+venda nº:306222, cliente:cliente venda varejo
+11:28:04
+1399,38
+à vista - dinheiro
+venda à vista
+55,00
+17/08/2020
+venda nº:306223, cliente:cliente venda varejo
+11:33:26
+1454,38
+à vista - dinheiro
+venda à vista
+26,95
+17/08/2020
+venda nº:306225, cliente:cliente venda varejo
+11:37:50
+1481,33
+à vista - dinheiro
+venda à vista
+53,90
+17/08/2020
+venda nº:306226, cliente:cliente venda varejo
+11:42:14
+1535,23
+à vista - dinheiro
+venda à vista
+23,50
+17/08/2020
+venda nº:306228, cliente:cliente venda varejo
+11:44:24
+1558,73
+à vista - dinheiro
+venda à vista
+4,00
+17/08/2020
+venda nº:306230, cliente:cliente venda varejo
+11:53:38
+1562,73
+à vista - dinheiro
+venda à vista
+21,35
+17/08/2020
+venda nº:306231, cliente:cliente venda varejo
+11:54:26
+1584,08
+à vista - dinheiro
+venda à vista
+75,00
+17/08/2020
+venda nº:306232, cliente:cliente venda varejo
+11:56:57
+1659,08
+à vista - dinheiro
+sangria
+-1,89
+17/08/2020
+organizacoes jmf
+12:04:37
+1657,19
+à vista - dinheiro
+sangria
+-5,89
+17/08/2020
+organizacoes jmf
+12:04:50
+1651,30
+à vista - dinheiro
+transferência para cofre
+-950,00
+17/08/2020
+valor transferido para o cofre 099
+12:29:08
+701,30
+à vista - dinheiro
+venda à vista
+45,00
+17/08/2020
+venda nº:306237, cliente:cliente venda varejo
+12:44:57
+746,30
+à vista - dinheiro
+venda à vista
+9,00
+17/08/2020
+venda nº:306238, cliente:cliente venda varejo
+12:47:26
+755,30
+à vista - dinheiro
+venda à vista
+76,70
+17/08/2020
+venda nº:306239, cliente:cliente venda varejo
+12:48:09
+832,00
+à vista - dinheiro
+venda à vista
+10,00
+17/08/2020
+venda nº:306245, cliente:cliente venda varejo
+13:17:30
+842,00
+à vista - dinheiro
+venda à vista
+11,20
+17/08/2020
+venda nº:306246, cliente:cliente venda varejo
+13:22:01
+853,20
+à vista - dinheiro
+venda à vista
+3,10
+17/08/2020
+venda nº:306247, cliente:cliente venda varejo
+13:37:37
+856,30
+à vista - dinheiro
+venda à vista
+15,50
+17/08/2020
+venda nº:306248, cliente:paulo teotonio
+13:38:55
+871,80
+à vista - dinheiro
+venda à vista
+36,30
+17/08/2020
+venda nº:306251, cliente:cliente venda varejo
+13:50:15
+908,10
+à vista - dinheiro
+venda à vista
+35,00
+17/08/2020
+venda nº:306254, cliente:cliente venda varejo
+13:54:02
+943,10
+à vista - dinheiro
+venda à vista
+14,00
+17/08/2020
+venda nº:306255, cliente:cliente venda varejo
+13:56:06
+957,10
+à vista - dinheiro
+venda à vista
+3,50
+17/08/2020
+venda nº:306256, cliente:cliente venda varejo
+14:00:25
+960,60
+à vista - dinheiro
+venda à vista
+12,00
+17/08/2020
+venda nº:306257, cliente:cliente venda varejo
+14:03:27
+972,60
+à vista - dinheiro
+sangria
+-45,00
+17/08/2020
+nf 37291
+14:04:32
+927,60
+à vista - dinheiro
+venda à vista
+189,00
+17/08/2020
+venda nº:306258, cliente:cliente venda varejo
+14:14:39
+1116,60
+à vista - dinheiro
+1116,60
+saldo final:
+05/09/2020
+10:33:26
+página 26
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:08:27
+data inicio turno:
+17/08/2020
+venda à vista
+625,50
+17/08/2020
+venda nº:306260, cliente:cliente venda varejo
+14:21:22
+1742,10
+à vista - dinheiro
+venda à vista
+61,00
+17/08/2020
+venda nº:306264, cliente:cliente venda varejo
+14:31:55
+1803,10
+à vista - dinheiro
+venda à vista
+42,00
+17/08/2020
+venda nº:306268, cliente:cliente venda varejo
+14:41:07
+1845,10
+à vista - dinheiro
+venda à vista
+25,00
+17/08/2020
+venda nº:306269, cliente:cliente venda varejo
+14:46:00
+1870,10
+à vista - dinheiro
+venda à vista
+5,00
+17/08/2020
+venda nº:306271, cliente:cliente venda varejo
+14:51:42
+1875,10
+à vista - dinheiro
+sangria
+-60,00
+17/08/2020
+mill doces comercio eirelli
+14:57:34
+1815,10
+à vista - dinheiro
+venda à vista
+55,00
+17/08/2020
+venda nº:306272, cliente:cliente venda varejo
+14:59:29
+1870,10
+à vista - dinheiro
+venda à vista
+10,80
+17/08/2020
+venda nº:306277, cliente:cliente venda varejo
+15:21:23
+1880,90
+à vista - dinheiro
+venda à vista
+5,30
+17/08/2020
+venda nº:306278, cliente:cliente venda varejo
+15:21:53
+1886,20
+à vista - dinheiro
+transferência para cofre
+-1400,00
+17/08/2020
+valor transferido para o cofre 099
+15:51:02
+486,20
+à vista - dinheiro
+venda à vista
+36,00
+17/08/2020
+venda nº:306283, cliente:cliente venda varejo
+16:05:22
+522,20
+à vista - dinheiro
+venda à vista
+75,00
+17/08/2020
+venda nº:306287, cliente:cliente venda varejo
+16:31:43
+597,20
+à vista - dinheiro
+venda à vista
+7,35
+17/08/2020
+venda nº:306290, cliente:cliente venda varejo
+16:46:40
+604,55
+à vista - dinheiro
+venda à vista
+9,50
+17/08/2020
+venda nº:306295, cliente:cliente venda varejo
+17:04:40
+614,05
+à vista - dinheiro
+venda à vista
+20,00
+17/08/2020
+venda nº:306297, cliente:cliente venda varejo
+17:22:41
+634,05
+à vista - dinheiro
+venda à vista
+31,90
+17/08/2020
+venda nº:306302, cliente:orç. 002
+17:42:58
+665,95
+à vista - dinheiro
+venda à vista
+32,40
+17/08/2020
+venda nº:306303, cliente:orç. 001
+17:43:41
+698,35
+à vista - dinheiro
+venda à vista
+204,00
+17/08/2020
+venda nº:306306, cliente:cliente venda varejo
+17:48:17
+902,35
+à vista - dinheiro
+venda à vista
+13,50
+17/08/2020
+venda nº:306307, cliente:cliente venda varejo
+17:48:56
+915,85
+à vista - dinheiro
+venda à vista
+14,00
+17/08/2020
+venda nº:306310, cliente:cliente venda varejo
+17:53:07
+929,85
+à vista - dinheiro
+transferência para cofre
+-600,00
+17/08/2020
+valor transferido para o cofre 099
+18:17:32
+329,85
+à vista - dinheiro
+fechamento do turno/caixa
+-329,85
+17/08/2020
+18:22:25
+0,00
+à vista - dinheiro
+suprimento
+329,85
+18/08/2020
+saldo inicial
+08:08:54
+329,85
+à vista - dinheiro
+venda à vista
+5,20
+18/08/2020
+venda nº:306318, cliente:cliente venda varejo
+08:14:27
+335,05
+à vista - dinheiro
+venda à vista
+26,50
+18/08/2020
+venda nº:306322, cliente:cliente venda varejo
+08:51:53
+361,55
+à vista - dinheiro
+361,55
+saldo final:
+05/09/2020
+10:33:27
+página 27
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:08:54
+data inicio turno:
+18/08/2020
+venda à vista
+8,00
+18/08/2020
+venda nº:306324, cliente:cliente venda varejo
+09:06:54
+369,55
+à vista - dinheiro
+venda à vista
+367,00
+18/08/2020
+venda nº:306328, cliente:cliente venda varejo
+09:26:46
+736,55
+à vista - dinheiro
+venda à vista
+7,00
+18/08/2020
+venda nº:306329, cliente:cliente venda varejo
+09:28:21
+743,55
+à vista - dinheiro
+venda à vista
+24,00
+18/08/2020
+venda nº:306332, cliente:cliente venda varejo
+09:36:15
+767,55
+à vista - dinheiro
+venda à vista
+4,00
+18/08/2020
+venda nº:306333, cliente:cliente venda varejo
+09:38:43
+771,55
+à vista - dinheiro
+venda à vista
+18,00
+18/08/2020
+venda nº:306335, cliente:cliente venda varejo
+09:40:18
+789,55
+à vista - dinheiro
+venda à vista
+15,60
+18/08/2020
+venda nº:306339, cliente:cliente venda varejo
+10:00:01
+805,15
+à vista - dinheiro
+venda à vista
+30,00
+18/08/2020
+venda nº:306344, cliente:cliente venda varejo
+10:21:55
+835,15
+à vista - dinheiro
+venda à vista
+3,00
+18/08/2020
+venda nº:306346, cliente:cliente venda varejo
+10:32:52
+838,15
+à vista - dinheiro
+venda à vista
+20,25
+18/08/2020
+venda nº:306352, cliente:cliente venda varejo
+10:49:41
+858,40
+à vista - dinheiro
+venda à vista
+45,75
+18/08/2020
+venda nº:306353, cliente:cliente venda varejo
+10:50:15
+904,15
+à vista - dinheiro
+venda à vista
+50,00
+18/08/2020
+venda nº:306354, cliente:maria soares de souza
+11:09:59
+954,15
+à vista - dinheiro
+troco de venda à vista
+-45,40
+18/08/2020
+venda nº:306354, cliente:maria soares de souza
+11:09:59
+908,75
+à vista - dinheiro
+venda à vista
+1,85
+18/08/2020
+venda nº:306356, cliente:cliente venda varejo
+11:17:52
+910,60
+à vista - dinheiro
+venda à vista
+15,40
+18/08/2020
+venda nº:306358, cliente:cliente venda varejo
+11:20:58
+926,00
+à vista - dinheiro
+venda à vista
+140,00
+18/08/2020
+venda nº:306364, cliente:fundacao comunitaria
+11:34:50
+1066,00
+à vista - dinheiro
+venda à vista
+34,50
+18/08/2020
+venda nº:306366, cliente:paulo teotonio
+11:48:09
+1100,50
+à vista - dinheiro
+venda à vista
+5,20
+18/08/2020
+venda nº:306367, cliente:cliente venda varejo
+11:49:04
+1105,70
+à vista - dinheiro
+venda à vista
+17,00
+18/08/2020
+venda nº:306368, cliente:cliente venda varejo
+11:50:32
+1122,70
+à vista - dinheiro
+crédito - cancelamento/devolução ou troca
+26,50
+18/08/2020
+cliente:7706-eduardo vecchi fernandes
+12:11:28
+1149,20
+à vista - dinheiro
+sangria
+-2,52
+18/08/2020
+organizacoes jmf ltda 
+13:03:56
+1146,68
+à vista - dinheiro
+venda à vista
+110,00
+18/08/2020
+venda nº:306377, cliente:cliente venda varejo
+13:06:36
+1256,68
+à vista - dinheiro
+venda à vista
+160,00
+18/08/2020
+venda nº:306379, cliente:cliente venda varejo
+13:15:46
+1416,68
+à vista - dinheiro
+venda à vista
+0,50
+18/08/2020
+venda nº:306386, cliente:natalecio rodrigues de souza
+13:50:57
+1417,18
+à vista - dinheiro
+venda à vista
+20,00
+18/08/2020
+venda nº:306393, cliente:emerson goncalves de sousa
+14:13:18
+1437,18
+à vista - dinheiro
+1437,18
+saldo final:
+05/09/2020
+10:33:27
+página 28
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:08:54
+data inicio turno:
+18/08/2020
+venda à vista
+108,30
+18/08/2020
+venda nº:306395, cliente:cliente venda varejo
+14:26:51
+1545,48
+à vista - dinheiro
+venda à vista
+24,00
+18/08/2020
+venda nº:306396, cliente:cliente venda varejo
+14:29:44
+1569,48
+à vista - dinheiro
+venda à vista
+198,30
+18/08/2020
+venda nº:306397, cliente:orçamento
+14:47:38
+1767,78
+à vista - dinheiro
+venda à vista
+94,60
+18/08/2020
+venda nº:306398, cliente:cliente venda varejo
+14:54:42
+1862,38
+à vista - dinheiro
+venda à vista
+31,08
+18/08/2020
+venda nº:306399, cliente:cliente venda varejo
+15:03:42
+1893,46
+à vista - dinheiro
+venda à vista
+25,00
+18/08/2020
+venda nº:306402, cliente:cliente venda varejo
+15:17:04
+1918,46
+à vista - dinheiro
+venda à vista
+227,70
+18/08/2020
+venda nº:306403, cliente:funeraria vale do aço
+15:21:51
+2146,16
+à vista - dinheiro
+venda à vista
+8,10
+18/08/2020
+venda nº:306410, cliente:cliente venda varejo
+16:08:50
+2154,26
+à vista - dinheiro
+venda à vista
+14,55
+18/08/2020
+venda nº:306411, cliente:cliente venda varejo
+16:12:18
+2168,81
+à vista - dinheiro
+venda à vista
+59,50
+18/08/2020
+venda nº:306412, cliente:cliente venda varejo
+16:17:29
+2228,31
+à vista - dinheiro
+venda à vista
+7,00
+18/08/2020
+venda nº:306413, cliente:cliente venda varejo
+16:43:26
+2235,31
+à vista - dinheiro
+venda à vista
+9,50
+18/08/2020
+venda nº:306414, cliente:cliente venda varejo
+16:48:52
+2244,81
+à vista - dinheiro
+transferência para cofre
+-1900,00
+18/08/2020
+valor transferido para o cofre 099
+17:06:40
+344,81
+à vista - dinheiro
+venda à vista
+113,00
+18/08/2020
+venda nº:306421, cliente:cliente venda varejo
+17:52:04
+457,81
+à vista - dinheiro
+venda à vista
+9,00
+18/08/2020
+venda nº:306422, cliente:cliente venda varejo
+17:52:37
+466,81
+à vista - dinheiro
+venda à vista
+8,50
+18/08/2020
+venda nº:306426, cliente:cliente venda varejo
+18:02:41
+475,31
+à vista - dinheiro
+transferência para cofre
+-100,00
+18/08/2020
+valor transferido para o cofre 099
+18:07:30
+375,31
+à vista - dinheiro
+fechamento do turno/caixa
+-375,31
+18/08/2020
+18:08:48
+0,00
+à vista - dinheiro
+suprimento
+375,31
+19/08/2020
+saldo inicial
+08:06:38
+375,31
+à vista - dinheiro
+venda à vista
+20,00
+19/08/2020
+venda nº:306428, cliente:cliente venda varejo
+08:10:03
+395,31
+à vista - dinheiro
+venda à vista
+9,70
+19/08/2020
+venda nº:306429, cliente:cliente venda varejo
+08:11:27
+405,01
+à vista - dinheiro
+venda à vista
+13,00
+19/08/2020
+venda nº:306433, cliente:cliente venda varejo
+08:41:50
+418,01
+à vista - dinheiro
+venda à vista
+25,50
+19/08/2020
+venda nº:306434, cliente:cliente venda varejo
+08:54:03
+443,51
+à vista - dinheiro
+cancelamento de venda nfce
+-25,50
+19/08/2020
+venda nº:306434, cliente:cliente venda varejo
+08:54:03
+418,01
+à vista - dinheiro
+venda à vista
+450,00
+19/08/2020
+venda nº:306437, cliente:cliente venda varejo
+09:13:45
+868,01
+à vista - dinheiro
+868,01
+saldo final:
+05/09/2020
+10:33:27
+página 29
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:06:38
+data inicio turno:
+19/08/2020
+venda à vista
+9,50
+19/08/2020
+venda nº:306438, cliente:cliente venda varejo
+09:15:18
+877,51
+à vista - dinheiro
+conta recebida
+583,34
+19/08/2020
+cliente:6943-daniel raimundo de sousa, cred.:3, parc:3
+09:25:02
+1460,85
+à vista - dinheiro
+venda à vista
+20,95
+19/08/2020
+venda nº:306446, cliente:cliente venda varejo
+09:57:46
+1481,80
+à vista - dinheiro
+venda à vista
+49,80
+19/08/2020
+venda nº:306448, cliente:cliente venda varejo
+10:08:45
+1531,60
+à vista - dinheiro
+venda à vista
+5,00
+19/08/2020
+venda nº:306449, cliente:cliente venda varejo
+10:12:12
+1536,60
+à vista - dinheiro
+venda à vista
+10,00
+19/08/2020
+venda nº:306454, cliente:cliente venda varejo
+10:43:50
+1546,60
+à vista - dinheiro
+venda à vista
+15,50
+19/08/2020
+venda nº:306455, cliente:cliente venda varejo
+10:47:33
+1562,10
+à vista - dinheiro
+venda à vista
+29,70
+19/08/2020
+venda nº:306456, cliente:cliente venda varejo
+11:05:22
+1591,80
+à vista - dinheiro
+venda à vista
+7,20
+19/08/2020
+venda nº:306457, cliente:cliente venda varejo
+11:05:55
+1599,00
+à vista - dinheiro
+venda à vista
+8,00
+19/08/2020
+venda nº:306459, cliente:cliente venda varejo
+11:16:42
+1607,00
+à vista - dinheiro
+venda à vista
+6,90
+19/08/2020
+venda nº:306461, cliente:cliente venda varejo
+11:19:15
+1613,90
+à vista - dinheiro
+venda à vista
+114,50
+19/08/2020
+venda nº:306462, cliente:cliente venda varejo
+11:30:27
+1728,40
+à vista - dinheiro
+venda à vista
+49,90
+19/08/2020
+venda nº:306463, cliente:cliente venda varejo
+11:34:28
+1778,30
+à vista - dinheiro
+venda à vista
+26,50
+19/08/2020
+venda nº:306464, cliente:cliente venda varejo
+11:44:06
+1804,80
+à vista - dinheiro
+venda à vista
+20,00
+19/08/2020
+venda nº:306465, cliente:cliente venda varejo
+11:53:13
+1824,80
+à vista - dinheiro
+venda à vista
+11,00
+19/08/2020
+venda nº:306467, cliente:cliente venda varejo
+12:24:37
+1835,80
+à vista - dinheiro
+venda à vista
+65,00
+19/08/2020
+venda nº:306469, cliente:cliente venda varejo
+12:34:11
+1900,80
+à vista - dinheiro
+venda à vista
+10,00
+19/08/2020
+venda nº:306477, cliente:cliente venda varejo
+13:14:43
+1910,80
+à vista - dinheiro
+transferência para cofre
+-1500,00
+19/08/2020
+valor transferido para o cofre 099
+13:21:19
+410,80
+à vista - dinheiro
+venda à vista
+35,00
+19/08/2020
+venda nº:306481, cliente:mauricio de souza carneiro
+13:37:40
+445,80
+à vista - dinheiro
+venda à vista
+13,23
+19/08/2020
+venda nº:306482, cliente:cliente venda varejo
+13:41:02
+459,03
+à vista - dinheiro
+venda à vista
+50,00
+19/08/2020
+venda nº:306485, cliente:cliente venda varejo
+14:01:25
+509,03
+à vista - dinheiro
+venda à vista
+183,30
+19/08/2020
+venda nº:306488, cliente:cliente venda varejo
+14:18:28
+692,33
+à vista - dinheiro
+venda à vista
+36,90
+19/08/2020
+venda nº:306489, cliente:cliente venda varejo
+14:19:14
+729,23
+à vista - dinheiro
+venda à vista
+47,60
+19/08/2020
+venda nº:306490, cliente:cliente venda varejo
+14:28:56
+776,83
+à vista - dinheiro
+776,83
+saldo final:
+05/09/2020
+10:33:27
+página 30
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:06:38
+data inicio turno:
+19/08/2020
+venda à vista
+89,00
+19/08/2020
+venda nº:306499, cliente:tassius freitas gomes 
+14:55:36
+865,83
+à vista - dinheiro
+venda à vista
+7,00
+19/08/2020
+venda nº:306500, cliente:orlando ferreira alvares
+15:01:05
+872,83
+à vista - dinheiro
+venda à vista
+13,50
+19/08/2020
+venda nº:306504, cliente:cliente venda varejo
+15:31:13
+886,33
+à vista - dinheiro
+venda à vista
+13,00
+19/08/2020
+venda nº:306505, cliente:acovale industria mecanica
+15:34:55
+899,33
+à vista - dinheiro
+venda à vista
+0,50
+19/08/2020
+venda nº:306506, cliente:cliente venda varejo
+15:47:06
+899,83
+à vista - dinheiro
+venda à vista
+78,00
+19/08/2020
+venda nº:306507, cliente:cliente venda varejo
+15:55:23
+977,83
+à vista - dinheiro
+venda à vista
+7,00
+19/08/2020
+venda nº:306508, cliente:cliente venda varejo
+16:00:40
+984,83
+à vista - dinheiro
+venda à vista
+25,50
+19/08/2020
+venda nº:306509, cliente:cliente venda varejo
+16:04:43
+1010,33
+à vista - dinheiro
+venda à vista
+15,00
+19/08/2020
+venda nº:306511, cliente:cliente venda varejo
+16:11:07
+1025,33
+à vista - dinheiro
+venda à vista
+27,00
+19/08/2020
+venda nº:306516, cliente:cliente venda varejo
+16:31:10
+1052,33
+à vista - dinheiro
+venda à vista
+19,00
+19/08/2020
+venda nº:306520, cliente:cliente venda varejo
+16:56:49
+1071,33
+à vista - dinheiro
+venda à vista
+3,50
+19/08/2020
+venda nº:306524, cliente:cliente venda varejo
+17:43:35
+1074,83
+à vista - dinheiro
+transferência para cofre
+-650,00
+19/08/2020
+valor transferido para o cofre 099
+17:56:53
+424,83
+à vista - dinheiro
+fechamento do turno/caixa
+-424,83
+19/08/2020
+17:58:47
+0,00
+à vista - dinheiro
+suprimento
+424,83
+20/08/2020
+saldo inicial
+08:08:17
+424,83
+à vista - dinheiro
+venda à vista
+66,60
+20/08/2020
+venda nº:306529, cliente:thermon industria mecanica
+08:21:48
+491,43
+à vista - dinheiro
+venda à vista
+104,45
+20/08/2020
+venda nº:306531, cliente:marcos antonio de sa
+08:27:47
+595,88
+à vista - dinheiro
+venda à vista
+53,60
+20/08/2020
+venda nº:306542, cliente:cliente venda varejo
+09:46:37
+649,48
+à vista - dinheiro
+venda à vista
+1,00
+20/08/2020
+venda nº:306544, cliente:cliente venda varejo
+09:53:46
+650,48
+à vista - dinheiro
+venda à vista
+38,20
+20/08/2020
+venda nº:306545, cliente:cliente venda varejo
+09:54:34
+688,68
+à vista - dinheiro
+venda à vista
+15,50
+20/08/2020
+venda nº:306550, cliente:cliente venda varejo
+10:10:06
+704,18
+à vista - dinheiro
+venda à vista
+50,00
+20/08/2020
+venda nº:306553, cliente:cliente venda varejo
+10:31:40
+754,18
+à vista - dinheiro
+venda à vista
+24,50
+20/08/2020
+venda nº:306554, cliente:cliente venda varejo
+10:34:04
+778,68
+à vista - dinheiro
+venda à vista
+10,00
+20/08/2020
+venda nº:306556, cliente:cliente venda varejo
+10:51:50
+788,68
+à vista - dinheiro
+venda à vista
+120,00
+20/08/2020
+venda nº:306558, cliente:cliente venda varejo
+11:01:29
+908,68
+à vista - dinheiro
+908,68
+saldo final:
+05/09/2020
+10:33:27
+página 31
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:08:17
+data inicio turno:
+20/08/2020
+venda à vista
+86,00
+20/08/2020
+venda nº:306560, cliente:afere motores eletricos c.f
+11:03:01
+994,68
+à vista - dinheiro
+sangria
+-86,00
+20/08/2020
+correcao de forma de pagamento, venda 306560
+11:25:53
+908,68
+à vista - dinheiro
+sangria
+-16,83
+20/08/2020
+organizacoes jmf
+11:48:27
+891,85
+à vista - dinheiro
+venda à vista
+28,50
+20/08/2020
+venda nº:306570, cliente:cliente venda varejo
+11:51:52
+920,35
+à vista - dinheiro
+venda à vista
+8,25
+20/08/2020
+venda nº:306571, cliente:cliente venda varejo
+11:57:45
+928,60
+à vista - dinheiro
+conta recebida
+241,19
+20/08/2020
+cliente:7150-marco aurélio chaves ulhôa, 1/3 
+12:16:41
+1169,79
+à vista - dinheiro
+venda à vista
+107,00
+20/08/2020
+venda nº:306577, cliente:cliente venda varejo
+12:19:14
+1276,79
+à vista - dinheiro
+venda à vista
+16,90
+20/08/2020
+venda nº:306579, cliente:cliente venda varejo
+12:52:39
+1293,69
+à vista - dinheiro
+venda à vista
+7,50
+20/08/2020
+venda nº:306581, cliente:cliente venda varejo
+12:59:03
+1301,19
+à vista - dinheiro
+venda à vista
+11,00
+20/08/2020
+venda nº:306583, cliente:cliente venda varejo
+13:06:44
+1312,19
+à vista - dinheiro
+venda à vista
+65,00
+20/08/2020
+venda nº:306588, cliente:cliente venda varejo
+13:29:37
+1377,19
+à vista - dinheiro
+venda à vista
+69,50
+20/08/2020
+venda nº:306589, cliente:cliente venda varejo
+13:31:41
+1446,69
+à vista - dinheiro
+sangria
+-29,50
+20/08/2020
+araujo casa e construcao ltda 
+13:32:42
+1417,19
+à vista - dinheiro
+venda à vista
+17,00
+20/08/2020
+venda nº:306595, cliente:cliente venda varejo
+14:14:49
+1434,19
+à vista - dinheiro
+venda à vista
+75,00
+20/08/2020
+venda nº:306597, cliente:cliente venda varejo
+14:23:31
+1509,19
+à vista - dinheiro
+venda à vista
+35,00
+20/08/2020
+venda nº:306608, cliente:cliente venda varejo
+14:55:22
+1544,19
+à vista - dinheiro
+venda à vista
+7,00
+20/08/2020
+venda nº:306609, cliente:cliente venda varejo
+14:55:56
+1551,19
+à vista - dinheiro
+venda à vista
+44,00
+20/08/2020
+venda nº:306610, cliente:cliente venda varejo
+14:57:16
+1595,19
+à vista - dinheiro
+venda à vista
+14,00
+20/08/2020
+venda nº:306611, cliente:cliente venda varejo
+14:58:36
+1609,19
+à vista - dinheiro
+venda à vista
+5,00
+20/08/2020
+venda nº:306615, cliente:cliente venda varejo
+15:27:09
+1614,19
+à vista - dinheiro
+venda à vista
+50,00
+20/08/2020
+venda nº:306618, cliente:cliente venda varejo
+15:31:30
+1664,19
+à vista - dinheiro
+venda à vista
+26,00
+20/08/2020
+venda nº:306621, cliente:nilton valetin da silva 
+15:38:53
+1690,19
+à vista - dinheiro
+venda à vista
+151,00
+20/08/2020
+venda nº:306625, cliente:cliente venda varejo
+16:11:27
+1841,19
+à vista - dinheiro
+venda à vista
+93,00
+20/08/2020
+venda nº:306631, cliente:jose ferreira neto 
+16:28:54
+1934,19
+à vista - dinheiro
+venda à vista
+35,50
+20/08/2020
+venda nº:306635, cliente:cliente venda varejo
+16:45:56
+1969,69
+à vista - dinheiro
+1969,69
+saldo final:
+05/09/2020
+10:33:28
+página 32
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:08:17
+data inicio turno:
+20/08/2020
+venda à vista
+13,40
+20/08/2020
+venda nº:306636, cliente:cliente venda varejo
+16:53:52
+1983,09
+à vista - dinheiro
+venda à vista
+50,00
+20/08/2020
+venda nº:306641, cliente:cliente venda varejo
+17:18:44
+2033,09
+à vista - dinheiro
+transferência para cofre
+-1600,00
+20/08/2020
+valor transferido para o cofre 099
+17:50:02
+433,09
+à vista - dinheiro
+fechamento do turno/caixa
+-433,09
+20/08/2020
+18:05:55
+0,00
+à vista - dinheiro
+abrindo caixa com venda
+0,00
+21/08/2020
+o caixa estava fechado no momento da venda
+08:02:38
+0,00
+à vista - dinheiro
+venda à vista
+40,00
+21/08/2020
+venda nº:306645, cliente:cliente venda varejo
+08:02:55
+40,00
+à vista - dinheiro
+suprimento
+433,09
+21/08/2020
+saldo inicial
+08:09:02
+473,09
+à vista - dinheiro
+venda à vista
+5,50
+21/08/2020
+venda nº:306647, cliente:cliente venda varejo
+08:32:00
+478,59
+à vista - dinheiro
+venda à vista
+1453,50
+21/08/2020
+venda nº:306649, cliente:cliente venda varejo
+08:55:37
+1932,09
+à vista - dinheiro
+sangria
+-34,41
+21/08/2020
+drogaria otima farma
+09:03:41
+1897,68
+à vista - dinheiro
+venda à vista
+114,00
+21/08/2020
+venda nº:306651, cliente:cliente venda varejo
+09:28:43
+2011,68
+à vista - dinheiro
+venda à vista
+7,40
+21/08/2020
+venda nº:306652, cliente:cliente venda varejo
+09:35:13
+2019,08
+à vista - dinheiro
+venda à vista
+4,00
+21/08/2020
+venda nº:306653, cliente:cliente venda varejo
+09:37:30
+2023,08
+à vista - dinheiro
+venda à vista
+47,90
+21/08/2020
+venda nº:306654, cliente:cliente venda varejo
+09:39:37
+2070,98
+à vista - dinheiro
+venda à vista
+157,00
+21/08/2020
+venda nº:306657, cliente:cliente venda varejo
+09:50:09
+2227,98
+à vista - dinheiro
+venda à vista
+2,00
+21/08/2020
+venda nº:306658, cliente:agfer ferro e aco ltda
+10:00:02
+2229,98
+à vista - dinheiro
+venda à vista
+30,00
+21/08/2020
+venda nº:306660, cliente:cliente venda varejo
+10:16:11
+2259,98
+à vista - dinheiro
+venda à vista
+51,60
+21/08/2020
+venda nº:306663, cliente:cliente venda varejo
+10:33:32
+2311,58
+à vista - dinheiro
+venda à vista
+90,00
+21/08/2020
+venda nº:306666, cliente:paulo teotonio
+10:50:11
+2401,58
+à vista - dinheiro
+venda à vista
+82,87
+21/08/2020
+venda nº:306667, cliente:paulo teotonio
+10:51:38
+2484,45
+à vista - dinheiro
+venda à vista
+11,00
+21/08/2020
+venda nº:306668, cliente:cliente venda varejo
+10:54:47
+2495,45
+à vista - dinheiro
+venda à vista
+195,70
+21/08/2020
+venda nº:306671, cliente:cliente venda varejo
+11:10:09
+2691,15
+à vista - dinheiro
+transferência para cofre
+-2050,00
+21/08/2020
+valor transferido para o cofre 099
+11:21:08
+641,15
+à vista - dinheiro
+venda à vista
+46,50
+21/08/2020
+venda nº:306675, cliente:cliente venda varejo
+11:22:13
+687,65
+à vista - dinheiro
+venda à vista
+30,00
+21/08/2020
+venda nº:306677, cliente:cliente venda varejo
+11:32:47
+717,65
+à vista - dinheiro
+717,65
+saldo final:
+05/09/2020
+10:33:28
+página 33
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:38
+data inicio turno:
+21/08/2020
+venda à vista
+28,00
+21/08/2020
+venda nº:306678, cliente:cliente venda varejo
+11:35:03
+745,65
+à vista - dinheiro
+venda à vista
+454,90
+21/08/2020
+venda nº:306680, cliente:paulo teotonio
+11:46:40
+1200,55
+à vista - dinheiro
+sangria
+-15,00
+21/08/2020
+casa do eletricista (nf serie d)
+11:50:40
+1185,55
+à vista - dinheiro
+sangria
+-19,57
+21/08/2020
+organizacoes jmf
+11:51:06
+1165,98
+à vista - dinheiro
+venda à vista
+9,00
+21/08/2020
+venda nº:306681, cliente:cliente venda varejo
+11:51:46
+1174,98
+à vista - dinheiro
+venda à vista
+9,00
+21/08/2020
+venda nº:306682, cliente:cliente venda varejo
+11:56:01
+1183,98
+à vista - dinheiro
+venda à vista
+5,00
+21/08/2020
+venda nº:306683, cliente:cliente venda varejo
+11:56:41
+1188,98
+à vista - dinheiro
+venda à vista
+5,00
+21/08/2020
+venda nº:306684, cliente:cliente venda varejo
+11:57:21
+1193,98
+à vista - dinheiro
+transferência para cofre
+-600,00
+21/08/2020
+valor transferido para o cofre 099
+12:29:38
+593,98
+à vista - dinheiro
+venda à vista
+24,80
+21/08/2020
+venda nº:306687, cliente:cliente venda varejo
+12:46:11
+618,78
+à vista - dinheiro
+venda à vista
+22,00
+21/08/2020
+venda nº:306690, cliente:cliente venda varejo
+13:01:14
+640,78
+à vista - dinheiro
+venda à vista
+136,00
+21/08/2020
+venda nº:306694, cliente:cliente venda varejo
+13:40:06
+776,78
+à vista - dinheiro
+venda à vista
+105,00
+21/08/2020
+venda nº:306695, cliente:cliente venda varejo
+13:40:50
+881,78
+à vista - dinheiro
+venda à vista
+10,00
+21/08/2020
+venda nº:306696, cliente:cliente venda varejo
+13:42:01
+891,78
+à vista - dinheiro
+venda à vista
+59,90
+21/08/2020
+venda nº:306697, cliente:cliente venda varejo
+13:55:42
+951,68
+à vista - dinheiro
+venda à vista
+224,00
+21/08/2020
+venda nº:306698, cliente:cliente venda varejo
+14:12:07
+1175,68
+à vista - dinheiro
+venda à vista
+25,00
+21/08/2020
+venda nº:306700, cliente:cliente venda varejo
+14:24:55
+1200,68
+à vista - dinheiro
+venda à vista
+10,50
+21/08/2020
+venda nº:306703, cliente:cliente venda varejo
+14:32:37
+1211,18
+à vista - dinheiro
+venda à vista
+1263,60
+21/08/2020
+venda nº:306706, cliente:cliente venda varejo
+14:52:29
+2474,78
+à vista - dinheiro
+venda à vista
+46,60
+21/08/2020
+venda nº:306707, cliente:cliente venda varejo
+15:03:37
+2521,38
+à vista - dinheiro
+venda à vista
+270,00
+21/08/2020
+venda nº:306708, cliente:cliente venda varejo
+15:09:20
+2791,38
+à vista - dinheiro
+transferência para cofre
+-2100,00
+21/08/2020
+valor transferido para o cofre 099
+15:14:45
+691,38
+à vista - dinheiro
+venda à vista
+41,52
+21/08/2020
+venda nº:306713, cliente:mauro braga da silva 
+15:30:38
+732,90
+à vista - dinheiro
+venda à vista
+7,80
+21/08/2020
+venda nº:306717, cliente:cliente venda varejo
+15:38:07
+740,70
+à vista - dinheiro
+venda à vista
+7,82
+21/08/2020
+venda nº:306718, cliente:tassius freitas gomes 
+15:45:10
+748,52
+à vista - dinheiro
+748,52
+saldo final:
+05/09/2020
+10:33:28
+página 34
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:38
+data inicio turno:
+21/08/2020
+venda à vista
+27,50
+21/08/2020
+venda nº:306719, cliente:cliente venda varejo
+15:46:25
+776,02
+à vista - dinheiro
+venda à vista
+5,00
+21/08/2020
+venda nº:306720, cliente:cliente venda varejo
+15:47:31
+781,02
+à vista - dinheiro
+venda à vista
+186,00
+21/08/2020
+venda nº:306726, cliente:teofilo antonio da silva
+16:17:21
+967,02
+à vista - dinheiro
+venda à vista
+1,00
+21/08/2020
+venda nº:306729, cliente:cliente venda varejo
+16:27:51
+968,02
+à vista - dinheiro
+venda à vista
+20,00
+21/08/2020
+venda nº:306731, cliente:igreja do evangelho
+17:02:08
+988,02
+à vista - dinheiro
+venda à vista
+51,00
+21/08/2020
+venda nº:306732, cliente:cliente venda varejo
+17:04:32
+1039,02
+à vista - dinheiro
+cheque recebido (syscc)
+270,00
+21/08/2020
+cheque cadastrado, nº1 emitente:pedro henrique
+17:07:42
+1309,02
+à vista - cheque
+venda à vista
+15,00
+21/08/2020
+venda nº:306730, cliente:orlando ferreira alvares
+17:07:45
+1324,02
+à vista - dinheiro
+venda à vista
+2,70
+21/08/2020
+venda nº:306733, cliente:cliente venda varejo
+17:15:57
+1326,72
+à vista - dinheiro
+venda à vista
+29,10
+21/08/2020
+venda nº:306735, cliente:cliente venda varejo
+17:33:23
+1355,82
+à vista - dinheiro
+venda à vista
+55,00
+21/08/2020
+venda nº:306736, cliente:cliente venda varejo
+17:35:44
+1410,82
+à vista - dinheiro
+venda à vista
+77,00
+21/08/2020
+venda nº:306737, cliente:cliente venda varejo
+17:37:46
+1487,82
+à vista - dinheiro
+venda à vista
+50,00
+21/08/2020
+venda nº:306738, cliente:cliente venda varejo
+17:38:47
+1537,82
+à vista - dinheiro
+transferência para cofre
+-270,00
+21/08/2020
+valor transferido para o cofre 099
+17:40:13
+1267,82
+à vista - cheque
+transferência para cofre
+-700,00
+21/08/2020
+valor transferido para o cofre 099
+17:43:10
+567,82
+à vista - dinheiro
+venda à vista
+340,00
+21/08/2020
+venda nº:306739, cliente:paulo teotonio
+17:53:07
+907,82
+à vista - dinheiro
+transferência para cofre
+-350,00
+21/08/2020
+valor transferido para o cofre 099
+18:01:16
+557,82
+à vista - dinheiro
+fechamento do turno/caixa
+-557,82
+21/08/2020
+18:02:50
+0,00
+à vista - dinheiro
+suprimento
+557,82
+22/08/2020
+saldo inicial
+08:01:08
+557,82
+à vista - dinheiro
+venda à vista
+27,45
+22/08/2020
+venda nº:306742, cliente:cliente venda varejo
+08:34:26
+585,27
+à vista - dinheiro
+venda à vista
+36,00
+22/08/2020
+venda nº:306743, cliente:cliente venda varejo
+08:37:35
+621,27
+à vista - dinheiro
+venda à vista
+78,70
+22/08/2020
+venda nº:306744, cliente:cliente venda varejo
+09:05:46
+699,97
+à vista - dinheiro
+venda à vista
+8,50
+22/08/2020
+venda nº:306745, cliente:cliente venda varejo
+09:07:14
+708,47
+à vista - dinheiro
+venda à vista
+10,00
+22/08/2020
+venda nº:306746, cliente:cliente venda varejo
+09:11:21
+718,47
+à vista - dinheiro
+venda à vista
+4,60
+22/08/2020
+venda nº:306751, cliente:cliente venda varejo
+09:23:07
+723,07
+à vista - dinheiro
+723,07
+saldo final:
+05/09/2020
+10:33:28
+página 35
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:01:08
+data inicio turno:
+22/08/2020
+venda à vista
+38,50
+22/08/2020
+venda nº:306752, cliente:cliente venda varejo
+09:24:34
+761,57
+à vista - dinheiro
+venda à vista
+7,00
+22/08/2020
+venda nº:306754, cliente:cliente venda varejo
+09:30:11
+768,57
+à vista - dinheiro
+venda à vista
+26,00
+22/08/2020
+venda nº:306757, cliente:cliente venda varejo
+10:02:07
+794,57
+à vista - dinheiro
+venda à vista
+65,00
+22/08/2020
+venda nº:306766, cliente:cliente venda varejo
+10:21:25
+859,57
+à vista - dinheiro
+venda à vista
+45,00
+22/08/2020
+venda nº:306767, cliente:cliente venda varejo
+10:21:57
+904,57
+à vista - dinheiro
+venda à vista
+15,20
+22/08/2020
+venda nº:306768, cliente:cliente venda varejo
+10:22:34
+919,77
+à vista - dinheiro
+venda à vista
+1000,00
+22/08/2020
+venda nº:306773, cliente:cliente venda varejo
+10:36:11
+1919,77
+à vista - dinheiro
+venda à vista
+45,00
+22/08/2020
+venda nº:306775, cliente:cliente venda varejo
+10:37:45
+1964,77
+à vista - dinheiro
+venda à vista
+10,00
+22/08/2020
+venda nº:306779, cliente:cliente venda varejo
+10:48:46
+1974,77
+à vista - dinheiro
+venda à vista
+400,00
+22/08/2020
+venda nº:306780, cliente:cliente venda varejo
+10:56:43
+2374,77
+à vista - dinheiro
+venda à vista
+114,60
+22/08/2020
+venda nº:306781, cliente:cliente venda varejo
+10:57:19
+2489,37
+à vista - dinheiro
+venda à vista
+86,10
+22/08/2020
+venda nº:306782, cliente:cliente venda varejo
+10:58:19
+2575,47
+à vista - dinheiro
+venda à vista
+70,00
+22/08/2020
+venda nº:306787, cliente:cliente venda varejo
+11:10:29
+2645,47
+à vista - dinheiro
+venda à vista
+12,90
+22/08/2020
+venda nº:306788, cliente:cliente venda varejo
+11:14:08
+2658,37
+à vista - dinheiro
+venda à vista
+10,00
+22/08/2020
+venda nº:306792, cliente:cliente venda varejo
+11:22:37
+2668,37
+à vista - dinheiro
+venda à vista
+16,50
+22/08/2020
+venda nº:306794, cliente:cliente venda varejo
+11:24:59
+2684,87
+à vista - dinheiro
+venda à vista
+10,20
+22/08/2020
+venda nº:306796, cliente:cliente venda varejo
+11:27:49
+2695,07
+à vista - dinheiro
+venda à vista
+10,00
+22/08/2020
+venda nº:306802, cliente:cliente venda varejo
+11:41:28
+2705,07
+à vista - dinheiro
+venda à vista
+12,00
+22/08/2020
+venda nº:306803, cliente:cliente venda varejo
+11:42:02
+2717,07
+à vista - dinheiro
+venda à vista
+10,50
+22/08/2020
+venda nº:306805, cliente:cliente venda varejo
+11:56:58
+2727,57
+à vista - dinheiro
+venda à vista
+246,00
+22/08/2020
+venda nº:306808, cliente:cliente venda varejo
+12:03:43
+2973,57
+à vista - dinheiro
+venda à vista
+120,00
+22/08/2020
+venda nº:306811, cliente:cliente venda varejo
+12:07:47
+3093,57
+à vista - dinheiro
+transferência para cofre
+-2650,00
+22/08/2020
+valor transferido para o cofre 099
+12:14:38
+443,57
+à vista - dinheiro
+fechamento do turno/caixa
+-443,57
+22/08/2020
+12:17:40
+0,00
+à vista - dinheiro
+suprimento
+443,57
+24/08/2020
+saldo inicial
+08:01:47
+443,57
+à vista - dinheiro
+443,57
+saldo final:
+05/09/2020
+10:33:29
+página 36
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:01:47
+data inicio turno:
+24/08/2020
+venda à vista
+8,50
+24/08/2020
+venda nº:306814, cliente:cliente venda varejo
+08:02:51
+452,07
+à vista - dinheiro
+venda à vista
+9,00
+24/08/2020
+venda nº:306818, cliente:cliente venda varejo
+08:45:23
+461,07
+à vista - dinheiro
+venda à vista
+0,60
+24/08/2020
+venda nº:306825, cliente:cliente venda varejo
+09:30:03
+461,67
+à vista - dinheiro
+venda à vista
+30,00
+24/08/2020
+venda nº:306826, cliente:joao batista de oliveira
+09:35:59
+491,67
+à vista - dinheiro
+venda à vista
+7,00
+24/08/2020
+venda nº:306830, cliente:cliente venda varejo
+10:18:17
+498,67
+à vista - dinheiro
+venda à vista
+5,00
+24/08/2020
+venda nº:306831, cliente:joao alfredo gomes
+10:20:41
+503,67
+à vista - dinheiro
+venda à vista
+15,50
+24/08/2020
+venda nº:306835, cliente:cliente venda varejo
+10:35:14
+519,17
+à vista - dinheiro
+venda à vista
+406,70
+24/08/2020
+venda nº:306836, cliente:31 9 9614-9783
+10:37:35
+925,87
+à vista - dinheiro
+venda à vista
+70,40
+24/08/2020
+venda nº:306838, cliente:cliente venda varejo
+10:44:11
+996,27
+à vista - dinheiro
+venda à vista
+33,00
+24/08/2020
+venda nº:306839, cliente:cliente venda varejo
+10:47:39
+1029,27
+à vista - dinheiro
+venda à vista
+25,70
+24/08/2020
+venda nº:306840, cliente:cliente venda varejo
+10:54:11
+1054,97
+à vista - dinheiro
+venda à vista
+21,00
+24/08/2020
+venda nº:306846, cliente:cliente venda varejo
+11:11:54
+1075,97
+à vista - dinheiro
+venda à vista
+3,70
+24/08/2020
+venda nº:306847, cliente:cliente venda varejo
+11:20:43
+1079,67
+à vista - dinheiro
+venda à vista
+50,00
+24/08/2020
+venda nº:306852, cliente:jose jorge dos santos
+11:39:29
+1129,67
+à vista - dinheiro
+troco de venda à vista
+-3,00
+24/08/2020
+venda nº:306852, cliente:jose jorge dos santos
+11:39:29
+1126,67
+à vista - dinheiro
+venda à vista
+20,00
+24/08/2020
+venda nº:306856, cliente:cliente venda varejo
+11:46:00
+1146,67
+à vista - dinheiro
+venda à vista
+20,00
+24/08/2020
+venda nº:306857, cliente:paulo teotonio
+11:47:13
+1166,67
+à vista - dinheiro
+venda à vista
+33,00
+24/08/2020
+venda nº:306863, cliente:cliente venda varejo
+12:12:38
+1199,67
+à vista - dinheiro
+venda à vista
+9,00
+24/08/2020
+venda nº:306864, cliente:cliente venda varejo
+12:19:29
+1208,67
+à vista - dinheiro
+venda à vista
+19,00
+24/08/2020
+venda nº:306865, cliente:cliente venda varejo
+12:20:04
+1227,67
+à vista - dinheiro
+transferência para cofre
+-750,00
+24/08/2020
+valor transferido para o cofre 099
+12:54:20
+477,67
+à vista - dinheiro
+venda à vista
+29,79
+24/08/2020
+venda nº:306873, cliente:joao batista de oliveira
+13:07:45
+507,46
+à vista - dinheiro
+venda à vista
+718,20
+24/08/2020
+venda nº:306874, cliente:antony carlos ferreira
+13:14:46
+1225,66
+à vista - dinheiro
+venda à vista
+688,50
+24/08/2020
+venda nº:306876, cliente:antony carlos ferreira
+13:21:00
+1914,16
+à vista - dinheiro
+venda à vista
+126,70
+24/08/2020
+venda nº:306877, cliente:cliente venda varejo
+13:24:17
+2040,86
+à vista - dinheiro
+2040,86
+saldo final:
+05/09/2020
+10:33:29
+página 37
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:01:47
+data inicio turno:
+24/08/2020
+transferência para cofre
+-1600,00
+24/08/2020
+valor transferido para o cofre 099
+13:25:55
+440,86
+à vista - dinheiro
+venda à vista
+60,00
+24/08/2020
+venda nº:306878, cliente:cliente venda varejo
+13:37:47
+500,86
+à vista - dinheiro
+venda à vista
+8,50
+24/08/2020
+venda nº:306879, cliente:cliente venda varejo
+13:40:22
+509,36
+à vista - dinheiro
+venda à vista
+17,00
+24/08/2020
+venda nº:306880, cliente:cliente venda varejo
+13:45:18
+526,36
+à vista - dinheiro
+venda à vista
+34,35
+24/08/2020
+venda nº:306881, cliente:cliente venda varejo
+13:49:19
+560,71
+à vista - dinheiro
+venda à vista
+24,00
+24/08/2020
+venda nº:306885, cliente:cliente venda varejo
+14:11:02
+584,71
+à vista - dinheiro
+venda à vista
+3,50
+24/08/2020
+venda nº:306888, cliente:cliente venda varejo
+14:17:22
+588,21
+à vista - dinheiro
+venda à vista
+65,00
+24/08/2020
+venda nº:306889, cliente:viacao sao roque ltda
+14:32:25
+653,21
+à vista - dinheiro
+venda à vista
+14,50
+24/08/2020
+venda nº:306890, cliente:cliente venda varejo
+14:38:24
+667,71
+à vista - dinheiro
+venda à vista
+18,00
+24/08/2020
+venda nº:306895, cliente:cliente venda varejo
+15:26:30
+685,71
+à vista - dinheiro
+sangria
+-3,29
+24/08/2020
+organizacoes jmf ltda 
+15:43:28
+682,42
+à vista - dinheiro
+venda à vista
+44,00
+24/08/2020
+venda nº:306900, cliente:cliente venda varejo
+16:15:37
+726,42
+à vista - dinheiro
+venda à vista
+9,50
+24/08/2020
+venda nº:306902, cliente:cliente venda varejo
+16:25:24
+735,92
+à vista - dinheiro
+venda à vista
+94,95
+24/08/2020
+venda nº:306903, cliente:cliente venda varejo
+16:33:27
+830,87
+à vista - dinheiro
+venda à vista
+8,00
+24/08/2020
+venda nº:306904, cliente:cliente venda varejo
+16:37:02
+838,87
+à vista - dinheiro
+venda à vista
+15,00
+24/08/2020
+venda nº:306909, cliente:cliente diversos
+16:56:46
+853,87
+à vista - dinheiro
+venda à vista
+55,00
+24/08/2020
+venda nº:306910, cliente:slx manutencao e comercio
+17:02:29
+908,87
+à vista - dinheiro
+venda à vista
+100,00
+24/08/2020
+venda nº:306911, cliente:cliente diversos
+17:19:13
+1008,87
+à vista - dinheiro
+venda à vista
+29,70
+24/08/2020
+venda nº:306916, cliente:cliente venda varejo
+17:43:30
+1038,57
+à vista - dinheiro
+venda à vista
+52,00
+24/08/2020
+venda nº:306917, cliente:cliente venda varejo
+17:45:13
+1090,57
+à vista - dinheiro
+venda à vista
+44,00
+24/08/2020
+venda nº:306919, cliente:cliente venda varejo
+17:51:49
+1134,57
+à vista - dinheiro
+venda à vista
+43,78
+24/08/2020
+venda nº:306921, cliente:cliente venda varejo
+17:57:22
+1178,35
+à vista - dinheiro
+venda à vista
+500,00
+24/08/2020
+venda nº:306922, cliente:cliente diversos
+18:03:44
+1678,35
+à vista - dinheiro
+transferência para cofre
+-1350,00
+24/08/2020
+valor transferido para o cofre 099
+18:07:14
+328,35
+à vista - dinheiro
+fechamento do turno/caixa
+-328,35
+24/08/2020
+18:08:08
+0,00
+à vista - dinheiro
+0,00
+saldo final:
+05/09/2020
+10:33:29
+página 38
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:07
+data inicio turno:
+25/08/2020
+suprimento
+328,35
+25/08/2020
+saldo inicial
+08:02:07
+328,35
+à vista - dinheiro
+venda à vista
+4,40
+25/08/2020
+venda nº:306924, cliente:cliente venda varejo
+08:15:26
+332,75
+à vista - dinheiro
+venda à vista
+193,65
+25/08/2020
+venda nº:306926, cliente:cliente venda varejo
+08:21:07
+526,40
+à vista - dinheiro
+venda à vista
+22,65
+25/08/2020
+venda nº:306927, cliente:cliente venda varejo
+08:33:47
+549,05
+à vista - dinheiro
+venda à vista
+66,00
+25/08/2020
+venda nº:306929, cliente:nevil eletro mecanica ltda
+08:49:30
+615,05
+à vista - dinheiro
+venda à vista
+14,80
+25/08/2020
+venda nº:306930, cliente:cliente venda varejo
+08:53:07
+629,85
+à vista - dinheiro
+venda à vista
+16,00
+25/08/2020
+venda nº:306933, cliente:cliente venda varejo
+09:03:15
+645,85
+à vista - dinheiro
+venda à vista
+1,60
+25/08/2020
+venda nº:306934, cliente:cliente venda varejo
+09:12:49
+647,45
+à vista - dinheiro
+sangria
+-24,00
+25/08/2020
+ercol ltda 
+09:19:55
+623,45
+à vista - dinheiro
+venda à vista
+3,30
+25/08/2020
+venda nº:306936, cliente:cliente venda varejo
+09:34:55
+626,75
+à vista - dinheiro
+venda à vista
+16,00
+25/08/2020
+venda nº:306937, cliente:cliente venda varejo
+09:47:53
+642,75
+à vista - dinheiro
+venda à vista
+56,50
+25/08/2020
+venda nº:306939, cliente:cliente venda varejo
+09:52:01
+699,25
+à vista - dinheiro
+venda à vista
+26,45
+25/08/2020
+venda nº:306941, cliente:cliente venda varejo
+10:02:03
+725,70
+à vista - dinheiro
+venda à vista
+30,00
+25/08/2020
+venda nº:306942, cliente:cliente venda varejo
+10:07:53
+755,70
+à vista - dinheiro
+venda à vista
+39,30
+25/08/2020
+venda nº:306945, cliente:cliente venda varejo
+10:17:50
+795,00
+à vista - dinheiro
+venda à vista
+1,00
+25/08/2020
+venda nº:306947, cliente:cliente venda varejo
+10:25:44
+796,00
+à vista - dinheiro
+venda à vista
+25,00
+25/08/2020
+venda nº:306949, cliente:cliente venda varejo
+10:32:44
+821,00
+à vista - dinheiro
+venda à vista
+228,05
+25/08/2020
+venda nº:306950, cliente:orç.
+10:41:34
+1049,05
+à vista - dinheiro
+venda à vista
+10,00
+25/08/2020
+venda nº:306953, cliente:cliente venda varejo
+10:50:21
+1059,05
+à vista - dinheiro
+venda à vista
+43,80
+25/08/2020
+venda nº:306959, cliente:cliente venda varejo
+11:05:03
+1102,85
+à vista - dinheiro
+sangria
+-96,00
+25/08/2020
+mil doces comercio eireli
+11:36:31
+1006,85
+à vista - dinheiro
+venda à vista
+54,50
+25/08/2020
+venda nº:306962, cliente:cliente venda varejo
+11:43:07
+1061,35
+à vista - dinheiro
+venda à vista
+115,40
+25/08/2020
+venda nº:306964, cliente:cliente venda varejo
+11:48:24
+1176,75
+à vista - dinheiro
+venda à vista
+30,00
+25/08/2020
+venda nº:306967, cliente:cliente venda varejo
+12:14:03
+1206,75
+à vista - dinheiro
+venda à vista
+43,00
+25/08/2020
+venda nº:306969, cliente:cliente venda varejo
+12:23:37
+1249,75
+à vista - dinheiro
+1249,75
+saldo final:
+05/09/2020
+10:33:29
+página 39
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:07
+data inicio turno:
+25/08/2020
+venda à vista
+18,90
+25/08/2020
+venda nº:306973, cliente:cliente venda varejo
+12:50:05
+1268,65
+à vista - dinheiro
+venda à vista
+48,20
+25/08/2020
+venda nº:306974, cliente:cliente venda varejo
+12:55:03
+1316,85
+à vista - dinheiro
+venda à vista
+20,00
+25/08/2020
+venda nº:306978, cliente:cliente venda varejo
+13:30:31
+1336,85
+à vista - dinheiro
+venda à vista
+15,70
+25/08/2020
+venda nº:306979, cliente:cliente venda varejo
+13:36:47
+1352,55
+à vista - dinheiro
+venda à vista
+15,00
+25/08/2020
+venda nº:306982, cliente:cliente venda varejo
+13:58:41
+1367,55
+à vista - dinheiro
+venda à vista
+5,00
+25/08/2020
+venda nº:306983, cliente:cliente venda varejo
+14:03:03
+1372,55
+à vista - dinheiro
+venda à vista
+210,00
+25/08/2020
+venda nº:306984, cliente:cliente venda varejo
+14:09:07
+1582,55
+à vista - dinheiro
+venda à vista
+33,50
+25/08/2020
+venda nº:306991, cliente:cliente venda varejo
+14:49:55
+1616,05
+à vista - dinheiro
+venda à vista
+16,00
+25/08/2020
+venda nº:306992, cliente:cliente venda varejo
+14:52:51
+1632,05
+à vista - dinheiro
+venda à vista
+5,50
+25/08/2020
+venda nº:306993, cliente:cliente venda varejo
+15:00:00
+1637,55
+à vista - dinheiro
+venda à vista
+42,70
+25/08/2020
+venda nº:306994, cliente:cliente venda varejo
+15:05:21
+1680,25
+à vista - dinheiro
+venda à vista
+10,80
+25/08/2020
+venda nº:306995, cliente:cliente venda varejo
+15:07:34
+1691,05
+à vista - dinheiro
+transferência para cofre
+-1200,00
+25/08/2020
+valor transferido para o cofre 099
+15:09:19
+491,05
+à vista - dinheiro
+venda à vista
+12,00
+25/08/2020
+venda nº:306996, cliente:cliente venda varejo
+15:32:17
+503,05
+à vista - dinheiro
+venda à vista
+24,30
+25/08/2020
+venda nº:306997, cliente:cliente venda varejo
+15:35:02
+527,35
+à vista - dinheiro
+venda à vista
+5,60
+25/08/2020
+venda nº:306999, cliente:cliente venda varejo
+15:42:58
+532,95
+à vista - dinheiro
+venda à vista
+16,00
+25/08/2020
+venda nº:307000, cliente:cliente venda varejo
+16:01:03
+548,95
+à vista - dinheiro
+sangria
+-1,54
+25/08/2020
+organizacoes jmf ltda 
+16:10:23
+547,41
+à vista - dinheiro
+venda à vista
+100,00
+25/08/2020
+venda nº:307001, cliente:ferro e aco djafer ltda
+16:17:12
+647,41
+à vista - dinheiro
+venda à vista
+23,85
+25/08/2020
+venda nº:307007, cliente:cliente venda varejo
+17:03:01
+671,26
+à vista - dinheiro
+venda à vista
+71,00
+25/08/2020
+venda nº:307009, cliente:cliente venda varejo
+17:19:10
+742,26
+à vista - dinheiro
+venda à vista
+85,70
+25/08/2020
+venda nº:307010, cliente:cliente venda varejo
+17:23:00
+827,96
+à vista - dinheiro
+venda à vista
+49,80
+25/08/2020
+venda nº:307012, cliente:cliente venda varejo
+17:26:52
+877,76
+à vista - dinheiro
+venda à vista
+20,00
+25/08/2020
+venda nº:307013, cliente:cliente venda varejo
+17:33:13
+897,76
+à vista - dinheiro
+venda à vista
+26,35
+25/08/2020
+venda nº:307015, cliente:cliente venda varejo
+17:53:20
+924,11
+à vista - dinheiro
+924,11
+saldo final:
+05/09/2020
+10:33:29
+página 40
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:07
+data inicio turno:
+25/08/2020
+venda à vista
+55,00
+25/08/2020
+venda nº:307016, cliente:cliente venda varejo
+17:56:42
+979,11
+à vista - dinheiro
+transferência para cofre
+-650,00
+25/08/2020
+valor transferido para o cofre 099
+18:01:05
+329,11
+à vista - dinheiro
+fechamento do turno/caixa
+-329,11
+25/08/2020
+18:03:02
+0,00
+à vista - dinheiro
+suprimento
+329,15
+26/08/2020
+saldo inicial
+08:02:02
+329,15
+à vista - dinheiro
+venda à vista
+50,00
+26/08/2020
+venda nº:307018, cliente:dona maria camisaria e
+08:40:50
+379,15
+à vista - dinheiro
+venda à vista
+45,00
+26/08/2020
+venda nº:307021, cliente:cliente venda varejo
+08:50:27
+424,15
+à vista - dinheiro
+venda à vista
+24,00
+26/08/2020
+venda nº:307023, cliente:cliente venda varejo
+08:58:14
+448,15
+à vista - dinheiro
+venda à vista
+8,00
+26/08/2020
+venda nº:307024, cliente:lucia malagute evangelista 
+08:59:17
+456,15
+à vista - dinheiro
+venda à vista
+17,40
+26/08/2020
+venda nº:307028, cliente:cliente venda varejo
+09:10:05
+473,55
+à vista - dinheiro
+venda à vista
+20,00
+26/08/2020
+venda nº:307043, cliente:cliente venda varejo
+10:37:09
+493,55
+à vista - dinheiro
+venda à vista
+10,00
+26/08/2020
+venda nº:307044, cliente:cliente venda varejo
+10:38:22
+503,55
+à vista - dinheiro
+venda à vista
+575,00
+26/08/2020
+venda nº:307049, cliente:tiago costa pitombo
+11:15:46
+1078,55
+à vista - dinheiro
+venda à vista
+10,18
+26/08/2020
+venda nº:307056, cliente:cliente venda varejo
+12:11:37
+1088,73
+à vista - dinheiro
+venda à vista
+67,00
+26/08/2020
+venda nº:307057, cliente:cliente venda varejo
+12:33:05
+1155,73
+à vista - dinheiro
+venda à vista
+30,00
+26/08/2020
+venda nº:307058, cliente:cliente venda varejo
+12:39:35
+1185,73
+à vista - dinheiro
+venda à vista
+6,45
+26/08/2020
+venda nº:307059, cliente:cliente venda varejo
+12:42:17
+1192,18
+à vista - dinheiro
+troco de venda à vista
+-0,15
+26/08/2020
+venda nº:307059, cliente:cliente venda varejo
+12:42:17
+1192,03
+à vista - dinheiro
+transferência para cofre
+-850,00
+26/08/2020
+valor transferido para o cofre 099
+12:47:42
+342,03
+à vista - dinheiro
+venda à vista
+3,50
+26/08/2020
+venda nº:307062, cliente:cliente venda varejo
+13:03:37
+345,53
+à vista - dinheiro
+venda à vista
+68,00
+26/08/2020
+venda nº:307071, cliente:cliente venda varejo
+14:05:50
+413,53
+à vista - dinheiro
+venda à vista
+55,00
+26/08/2020
+venda nº:307072, cliente:cliente venda varejo
+14:09:08
+468,53
+à vista - dinheiro
+venda à vista
+100,00
+26/08/2020
+venda nº:307077, cliente:cliente venda varejo
+14:44:23
+568,53
+à vista - dinheiro
+venda à vista
+4,00
+26/08/2020
+venda nº:307078, cliente:cliente venda varejo
+14:46:48
+572,53
+à vista - dinheiro
+venda à vista
+19,00
+26/08/2020
+venda nº:307079, cliente:cliente venda varejo
+14:48:09
+591,53
+à vista - dinheiro
+venda à vista
+13,50
+26/08/2020
+venda nº:307083, cliente:cliente venda varejo
+15:00:54
+605,03
+à vista - dinheiro
+605,03
+saldo final:
+05/09/2020
+10:33:30
+página 41
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:02:02
+data inicio turno:
+26/08/2020
+venda à vista
+15,50
+26/08/2020
+venda nº:307084, cliente:cliente venda varejo
+15:20:59
+620,53
+à vista - dinheiro
+venda à vista
+15,00
+26/08/2020
+venda nº:307085, cliente:cliente venda varejo
+15:26:07
+635,53
+à vista - dinheiro
+venda à vista
+7,00
+26/08/2020
+venda nº:307086, cliente:cliente venda varejo
+15:33:24
+642,53
+à vista - dinheiro
+sangria
+-1,17
+26/08/2020
+organizacoes jmf ltda 
+15:53:48
+641,36
+à vista - dinheiro
+venda à vista
+47,40
+26/08/2020
+venda nº:307091, cliente:cliente venda varejo
+16:54:33
+688,76
+à vista - dinheiro
+venda à vista
+233,00
+26/08/2020
+venda nº:307093, cliente:cliente venda varejo
+17:13:49
+921,76
+à vista - dinheiro
+venda à vista
+3,00
+26/08/2020
+venda nº:307095, cliente:cliente venda varejo
+17:21:33
+924,76
+à vista - dinheiro
+venda à vista
+6,00
+26/08/2020
+venda nº:307097, cliente:cliente venda varejo
+17:30:03
+930,76
+à vista - dinheiro
+venda à vista
+641,50
+26/08/2020
+venda nº:307098, cliente:cliente venda varejo
+17:32:11
+1572,26
+à vista - dinheiro
+venda à vista
+12,30
+26/08/2020
+venda nº:307100, cliente:cliente venda varejo
+17:38:40
+1584,56
+à vista - dinheiro
+venda à vista
+34,90
+26/08/2020
+venda nº:307101, cliente:cliente venda varejo
+17:48:59
+1619,46
+à vista - dinheiro
+venda à vista
+9,60
+26/08/2020
+venda nº:307103, cliente:cliente venda varejo
+17:56:04
+1629,06
+à vista - dinheiro
+transferência para cofre
+-1250,00
+26/08/2020
+valor transferido para o cofre 099
+18:02:54
+379,06
+à vista - dinheiro
+fechamento do turno/caixa
+-379,06
+26/08/2020
+18:05:53
+0,00
+à vista - dinheiro
+suprimento
+379,06
+27/08/2020
+saldo inicial
+08:03:28
+379,06
+à vista - dinheiro
+venda à vista
+7,80
+27/08/2020
+venda nº:307104, cliente:cliente venda varejo
+08:13:43
+386,86
+à vista - dinheiro
+venda à vista
+4,50
+27/08/2020
+venda nº:307105, cliente:cliente venda varejo
+08:17:07
+391,36
+à vista - dinheiro
+venda à vista
+40,00
+27/08/2020
+venda nº:307106, cliente:cliente venda varejo
+08:21:49
+431,36
+à vista - dinheiro
+venda à vista
+0,48
+27/08/2020
+venda nº:307107, cliente:cliente venda varejo
+08:28:32
+431,84
+à vista - dinheiro
+venda à vista
+7,75
+27/08/2020
+venda nº:307113, cliente:cliente venda varejo
+09:00:45
+439,59
+à vista - dinheiro
+venda à vista
+24,50
+27/08/2020
+venda nº:307114, cliente:cliente venda varejo
+09:01:25
+464,09
+à vista - dinheiro
+venda à vista
+25,00
+27/08/2020
+venda nº:307120, cliente:cliente venda varejo
+09:45:13
+489,09
+à vista - dinheiro
+venda à vista
+15,00
+27/08/2020
+venda nº:307121, cliente:cliente venda varejo
+09:47:58
+504,09
+à vista - dinheiro
+venda à vista
+20,00
+27/08/2020
+venda nº:307123, cliente:cliente venda varejo
+09:48:52
+524,09
+à vista - dinheiro
+venda à vista
+30,40
+27/08/2020
+venda nº:307125, cliente:cliente venda varejo
+09:50:40
+554,49
+à vista - dinheiro
+554,49
+saldo final:
+05/09/2020
+10:33:30
+página 42
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:03:28
+data inicio turno:
+27/08/2020
+venda à vista
+25,50
+27/08/2020
+venda nº:307126, cliente:cliente venda varejo
+09:51:59
+579,99
+à vista - dinheiro
+venda à vista
+47,60
+27/08/2020
+venda nº:307130, cliente:cliente venda varejo
+10:05:33
+627,59
+à vista - dinheiro
+venda à vista
+10,00
+27/08/2020
+venda nº:307131, cliente:cliente venda varejo
+10:07:01
+637,59
+à vista - dinheiro
+venda à vista
+8,00
+27/08/2020
+venda nº:307139, cliente:cliente venda varejo
+10:57:46
+645,59
+à vista - dinheiro
+venda à vista
+42,00
+27/08/2020
+venda nº:307140, cliente:cliente venda varejo
+11:07:07
+687,59
+à vista - dinheiro
+venda à vista
+48,00
+27/08/2020
+venda nº:307145, cliente:cliente venda varejo
+11:26:17
+735,59
+à vista - dinheiro
+venda à vista
+5,80
+27/08/2020
+venda nº:307146, cliente:cliente venda varejo
+11:27:27
+741,39
+à vista - dinheiro
+venda à vista
+135,00
+27/08/2020
+venda nº:307153, cliente:cliente venda varejo
+11:53:22
+876,39
+à vista - dinheiro
+venda à vista
+77,00
+27/08/2020
+venda nº:307159, cliente:cliente venda varejo
+12:50:18
+953,39
+à vista - dinheiro
+venda à vista
+120,00
+27/08/2020
+venda nº:307160, cliente:cliente venda varejo
+13:00:19
+1073,39
+à vista - dinheiro
+venda à vista
+70,00
+27/08/2020
+venda nº:307161, cliente:orlando ferreira alvares
+13:04:46
+1143,39
+à vista - cheque
+venda à vista
+89,00
+27/08/2020
+venda nº:307161, cliente:orlando ferreira alvares
+13:04:46
+1232,39
+à vista - dinheiro
+transferência para cofre
+-70,00
+27/08/2020
+valor transferido para o cofre 099
+13:23:11
+1162,39
+à vista - cheque
+venda à vista
+20,00
+27/08/2020
+venda nº:307167, cliente:cliente venda varejo
+13:28:51
+1182,39
+à vista - dinheiro
+venda à vista
+250,00
+27/08/2020
+venda nº:307168, cliente:cliente venda varejo
+13:29:50
+1432,39
+à vista - dinheiro
+venda à vista
+55,00
+27/08/2020
+venda nº:307171, cliente:cliente venda varejo
+14:01:20
+1487,39
+à vista - dinheiro
+venda à vista
+147,55
+27/08/2020
+venda nº:307175, cliente:cliente venda varejo
+14:13:27
+1634,94
+à vista - dinheiro
+venda à vista
+32,00
+27/08/2020
+venda nº:307176, cliente:cliente diversos
+14:20:05
+1666,94
+à vista - dinheiro
+sangria
+-3,43
+27/08/2020
+organizacoes jmf ltda 
+14:28:56
+1663,51
+à vista - dinheiro
+venda à vista
+6,00
+27/08/2020
+venda nº:307180, cliente:cliente venda varejo
+14:34:00
+1669,51
+à vista - dinheiro
+venda à vista
+3,15
+27/08/2020
+venda nº:307182, cliente:cliente venda varejo
+14:51:49
+1672,66
+à vista - dinheiro
+venda à vista
+7,00
+27/08/2020
+venda nº:307185, cliente:cliente venda varejo
+14:59:48
+1679,66
+à vista - dinheiro
+venda à vista
+45,50
+27/08/2020
+venda nº:307187, cliente:cliente venda varejo
+15:04:05
+1725,16
+à vista - dinheiro
+venda à vista
+25,50
+27/08/2020
+venda nº:307188, cliente:cliente venda varejo
+15:05:05
+1750,66
+à vista - dinheiro
+venda à vista
+240,00
+27/08/2020
+venda nº:307189, cliente:cliente venda varejo
+15:10:12
+1990,66
+à vista - dinheiro
+1990,66
+saldo final:
+05/09/2020
+10:33:30
+página 43
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:03:28
+data inicio turno:
+27/08/2020
+venda à vista
+62,00
+27/08/2020
+venda nº:307191, cliente:cliente venda varejo
+15:28:12
+2052,66
+à vista - dinheiro
+venda à vista
+184,90
+27/08/2020
+venda nº:307192, cliente:cliente venda varejo
+15:29:05
+2237,56
+à vista - dinheiro
+venda à vista
+4,00
+27/08/2020
+venda nº:307193, cliente:cliente venda varejo
+15:29:41
+2241,56
+à vista - dinheiro
+venda à vista
+24,00
+27/08/2020
+venda nº:307194, cliente:cliente venda varejo
+15:33:01
+2265,56
+à vista - dinheiro
+transferência para cofre
+-1800,00
+27/08/2020
+valor transferido para o cofre 099
+15:34:02
+465,56
+à vista - dinheiro
+venda à vista
+37,00
+27/08/2020
+venda nº:307199, cliente:cliente venda varejo
+15:57:17
+502,56
+à vista - dinheiro
+venda à vista
+0,50
+27/08/2020
+venda nº:307204, cliente:cliente venda varejo
+16:17:16
+503,06
+à vista - dinheiro
+venda à vista
+11,00
+27/08/2020
+venda nº:307206, cliente:cliente venda varejo
+16:26:33
+514,06
+à vista - dinheiro
+venda à vista
+9,75
+27/08/2020
+venda nº:307207, cliente:cliente venda varejo
+16:42:27
+523,81
+à vista - dinheiro
+venda à vista
+145,20
+27/08/2020
+venda nº:307210, cliente:cliente venda varejo
+16:51:31
+669,01
+à vista - dinheiro
+venda à vista
+137,75
+27/08/2020
+venda nº:307211, cliente:cliente venda varejo
+16:56:00
+806,76
+à vista - dinheiro
+venda à vista
+218,60
+27/08/2020
+venda nº:307214, cliente:cliente venda varejo
+16:59:30
+1025,36
+à vista - dinheiro
+venda à vista
+31,00
+27/08/2020
+venda nº:307215, cliente:cliente venda varejo
+17:00:37
+1056,36
+à vista - dinheiro
+venda à vista
+46,80
+27/08/2020
+venda nº:307216, cliente:cliente venda varejo
+17:01:26
+1103,16
+à vista - dinheiro
+sangria
+-150,00
+27/08/2020
+anderson vieira viana 
+17:03:18
+953,16
+à vista - dinheiro
+venda à vista
+182,00
+27/08/2020
+venda nº:307222, cliente:cliente venda varejo
+17:29:18
+1135,16
+à vista - dinheiro
+venda à vista
+2,75
+27/08/2020
+venda nº:307224, cliente:sebastiao mendes madeira 
+17:35:08
+1137,91
+à vista - dinheiro
+venda à vista
+130,00
+27/08/2020
+venda nº:307229, cliente:cliente venda varejo
+17:50:34
+1267,91
+à vista - dinheiro
+transferência para cofre
+-950,00
+27/08/2020
+valor transferido para o cofre 099
+17:56:05
+317,91
+à vista - dinheiro
+fechamento do turno/caixa
+-317,91
+27/08/2020
+18:00:59
+0,00
+à vista - dinheiro
+suprimento
+317,91
+28/08/2020
+saldo inicial
+07:58:57
+317,91
+à vista - dinheiro
+venda à vista
+9,50
+28/08/2020
+venda nº:307231, cliente:joao batista de oliveira
+08:06:36
+327,41
+à vista - dinheiro
+venda à vista
+3,50
+28/08/2020
+venda nº:307232, cliente:cliente venda varejo
+08:25:03
+330,91
+à vista - dinheiro
+venda à vista
+15,00
+28/08/2020
+venda nº:307233, cliente:cliente venda varejo
+08:30:21
+345,91
+à vista - dinheiro
+venda à vista
+30,00
+28/08/2020
+venda nº:307235, cliente:cliente venda varejo
+08:36:35
+375,91
+à vista - dinheiro
+375,91
+saldo final:
+05/09/2020
+10:33:30
+página 44
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+07:58:57
+data inicio turno:
+28/08/2020
+venda à vista
+17,70
+28/08/2020
+venda nº:307236, cliente:cliente venda varejo
+08:37:48
+393,61
+à vista - dinheiro
+venda à vista
+19,80
+28/08/2020
+venda nº:307237, cliente:cliente venda varejo
+08:38:23
+413,41
+à vista - dinheiro
+venda à vista
+6,00
+28/08/2020
+venda nº:307238, cliente:cliente venda varejo
+08:54:46
+419,41
+à vista - dinheiro
+venda à vista
+23,00
+28/08/2020
+venda nº:307239, cliente:cliente venda varejo
+08:56:31
+442,41
+à vista - dinheiro
+venda à vista
+94,00
+28/08/2020
+venda nº:307244, cliente:cliente venda varejo
+09:02:45
+536,41
+à vista - dinheiro
+venda à vista
+7,50
+28/08/2020
+venda nº:307245, cliente:cliente venda varejo
+09:05:48
+543,91
+à vista - dinheiro
+venda à vista
+135,00
+28/08/2020
+venda nº:307246, cliente:cliente venda varejo
+09:08:46
+678,91
+à vista - dinheiro
+venda à vista
+66,00
+28/08/2020
+venda nº:307249, cliente:cliente venda varejo
+09:18:23
+744,91
+à vista - dinheiro
+venda à vista
+100,00
+28/08/2020
+venda nº:307251, cliente:cliente venda varejo
+09:33:27
+844,91
+à vista - dinheiro
+venda à vista
+2,50
+28/08/2020
+venda nº:307252, cliente:cliente venda varejo
+09:38:45
+847,41
+à vista - dinheiro
+venda à vista
+47,40
+28/08/2020
+venda nº:307253, cliente:cliente venda varejo
+09:41:15
+894,81
+à vista - dinheiro
+sangria
+-115,00
+28/08/2020
+oliveira lage mat.construcao ltda 
+09:45:42
+779,81
+à vista - dinheiro
+venda à vista
+48,60
+28/08/2020
+venda nº:307256, cliente:cliente venda varejo
+09:47:45
+828,41
+à vista - dinheiro
+venda à vista
+35,00
+28/08/2020
+venda nº:307257, cliente:restaurante mirim ltda
+09:48:53
+863,41
+à vista - dinheiro
+venda à vista
+10,00
+28/08/2020
+venda nº:307258, cliente:cliente venda varejo
+09:49:54
+873,41
+à vista - dinheiro
+venda à vista
+4,50
+28/08/2020
+venda nº:307260, cliente:cliente venda varejo
+09:58:51
+877,91
+à vista - dinheiro
+venda à vista
+71,55
+28/08/2020
+venda nº:307261, cliente:renata marusa alvarenga 
+10:13:41
+949,46
+à vista - dinheiro
+venda à vista
+407,50
+28/08/2020
+venda nº:307262, cliente:cliente venda varejo
+10:15:06
+1356,96
+à vista - dinheiro
+venda à vista
+160,00
+28/08/2020
+venda nº:307265, cliente:cliente venda varejo
+10:30:17
+1516,96
+à vista - dinheiro
+venda à vista
+65,00
+28/08/2020
+venda nº:307269, cliente:cliente venda varejo
+10:48:53
+1581,96
+à vista - dinheiro
+venda à vista
+22,50
+28/08/2020
+venda nº:307272, cliente:cliente venda varejo
+10:57:52
+1604,46
+à vista - dinheiro
+venda à vista
+38,00
+28/08/2020
+venda nº:307273, cliente:cliente venda varejo
+11:01:46
+1642,46
+à vista - dinheiro
+venda à vista
+471,45
+28/08/2020
+venda nº:307275, cliente:orç.luciene
+11:24:59
+2113,91
+à vista - dinheiro
+venda à vista
+39,50
+28/08/2020
+venda nº:307279, cliente:cliente venda varejo
+11:55:08
+2153,41
+à vista - dinheiro
+venda à vista
+15,10
+28/08/2020
+venda nº:307281, cliente:cliente venda varejo
+12:04:46
+2168,51
+à vista - dinheiro
+2168,51
+saldo final:
+05/09/2020
+10:33:30
+página 45
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+07:58:57
+data inicio turno:
+28/08/2020
+sangria
+-35,60
+28/08/2020
+fabriciano comercio atacado e varejista ltda
+12:07:06
+2132,91
+à vista - dinheiro
+sangria
+-189,00
+28/08/2020
+a preferida comercial ltda
+12:07:45
+1943,91
+à vista - dinheiro
+venda à vista
+88,20
+28/08/2020
+venda nº:307286, cliente:cliente venda varejo
+12:37:11
+2032,11
+à vista - dinheiro
+transferência para cofre
+-1350,00
+28/08/2020
+valor transferido para o cofre 099
+12:44:55
+682,11
+à vista - dinheiro
+venda à vista
+55,00
+28/08/2020
+venda nº:307289, cliente:cliente venda varejo
+13:05:11
+737,11
+à vista - dinheiro
+venda à vista
+20,00
+28/08/2020
+venda nº:307292, cliente:cliente venda varejo
+13:31:19
+757,11
+à vista - dinheiro
+venda à vista
+50,00
+28/08/2020
+venda nº:307296, cliente:cliente venda varejo
+13:50:42
+807,11
+à vista - dinheiro
+venda à vista
+35,55
+28/08/2020
+venda nº:307300, cliente:auto posto rede souza ltda
+14:04:33
+842,66
+à vista - dinheiro
+venda à vista
+129,50
+28/08/2020
+venda nº:307306, cliente:cliente venda varejo
+14:32:58
+972,16
+à vista - dinheiro
+venda à vista
+7,00
+28/08/2020
+venda nº:307307, cliente:cliente venda varejo
+14:40:17
+979,16
+à vista - dinheiro
+venda à vista
+17,50
+28/08/2020
+venda nº:307309, cliente:cliente venda varejo
+14:46:19
+996,66
+à vista - dinheiro
+venda à vista
+29,50
+28/08/2020
+venda nº:307311, cliente:cliente venda varejo
+14:49:57
+1026,16
+à vista - dinheiro
+venda à vista
+30,00
+28/08/2020
+venda nº:307312, cliente:cliente venda varejo
+14:52:06
+1056,16
+à vista - dinheiro
+venda à vista
+117,00
+28/08/2020
+venda nº:307316, cliente:orlando ferreira alvares
+15:08:32
+1173,16
+à vista - dinheiro
+venda à vista
+15,00
+28/08/2020
+venda nº:307318, cliente:cliente venda varejo
+15:15:41
+1188,16
+à vista - dinheiro
+venda à vista
+25,00
+28/08/2020
+venda nº:307320, cliente:cliente venda varejo
+15:17:45
+1213,16
+à vista - dinheiro
+venda à vista
+229,60
+28/08/2020
+venda nº:307321, cliente:cliente venda varejo
+15:18:39
+1442,76
+à vista - dinheiro
+venda à vista
+8,70
+28/08/2020
+venda nº:307323, cliente:cliente venda varejo
+15:32:11
+1451,46
+à vista - dinheiro
+sangria
+-17,30
+28/08/2020
+organizacoes jmf ltda 
+15:43:05
+1434,16
+à vista - dinheiro
+venda à vista
+57,00
+28/08/2020
+venda nº:307325, cliente:cliente venda varejo
+15:45:19
+1491,16
+à vista - dinheiro
+sangria
+-2,50
+28/08/2020
+nf 37425
+15:54:18
+1488,66
+à vista - dinheiro
+venda à vista
+15,50
+28/08/2020
+venda nº:307329, cliente:cliente venda varejo
+16:17:54
+1504,16
+à vista - dinheiro
+venda à vista
+195,60
+28/08/2020
+venda nº:307330, cliente:sebastiao franca
+16:19:45
+1699,76
+à vista - dinheiro
+venda à vista
+188,00
+28/08/2020
+venda nº:307333, cliente:cliente venda varejo
+16:47:24
+1887,76
+à vista - dinheiro
+venda à vista
+10,40
+28/08/2020
+venda nº:307335, cliente:cliente venda varejo
+16:53:59
+1898,16
+à vista - dinheiro
+1898,16
+saldo final:
+05/09/2020
+10:33:31
+página 46
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+07:58:57
+data inicio turno:
+28/08/2020
+transferência para cofre
+-1200,00
+28/08/2020
+valor transferido para o cofre 099
+17:00:58
+698,16
+à vista - dinheiro
+venda à vista
+13,50
+28/08/2020
+venda nº:307338, cliente:cliente venda varejo
+17:08:46
+711,66
+à vista - dinheiro
+venda à vista
+68,00
+28/08/2020
+venda nº:307339, cliente:orlando ferreira alvares
+17:10:13
+779,66
+à vista - dinheiro
+venda à vista
+6,00
+28/08/2020
+venda nº:307341, cliente:cliente venda varejo
+17:24:33
+785,66
+à vista - dinheiro
+venda à vista
+6,30
+28/08/2020
+venda nº:307342, cliente:cliente venda varejo
+17:35:29
+791,96
+à vista - dinheiro
+venda à vista
+16,92
+28/08/2020
+venda nº:307343, cliente:cliente venda varejo
+17:35:57
+808,88
+à vista - dinheiro
+venda à vista
+28,00
+28/08/2020
+venda nº:307347, cliente:cliente diversos
+17:49:40
+836,88
+à vista - dinheiro
+venda à vista
+17,00
+28/08/2020
+venda nº:307349, cliente:cliente venda varejo
+17:59:14
+853,88
+à vista - dinheiro
+transferência para cofre
+-300,00
+28/08/2020
+valor transferido para o cofre 099
+18:09:13
+553,88
+à vista - dinheiro
+fechamento do turno/caixa
+-553,88
+28/08/2020
+18:10:37
+0,00
+à vista - dinheiro
+suprimento
+553,88
+29/08/2020
+saldo inicial
+08:00:56
+553,88
+à vista - dinheiro
+venda à vista
+5,00
+29/08/2020
+venda nº:307352, cliente:cliente venda varejo
+08:16:44
+558,88
+à vista - dinheiro
+venda à vista
+71,50
+29/08/2020
+venda nº:307354, cliente:cliente venda varejo
+08:33:59
+630,38
+à vista - dinheiro
+venda à vista
+34,35
+29/08/2020
+venda nº:307359, cliente:cliente venda varejo
+08:55:10
+664,73
+à vista - dinheiro
+venda à vista
+126,50
+29/08/2020
+venda nº:307360, cliente:cliente venda varejo
+09:01:48
+791,23
+à vista - dinheiro
+venda à vista
+19,00
+29/08/2020
+venda nº:307362, cliente:cliente venda varejo
+09:08:30
+810,23
+à vista - dinheiro
+venda à vista
+5,00
+29/08/2020
+venda nº:307363, cliente:cliente venda varejo
+09:12:48
+815,23
+à vista - dinheiro
+venda à vista
+85,00
+29/08/2020
+venda nº:307367, cliente:cliente venda varejo
+09:22:32
+900,23
+à vista - dinheiro
+venda à vista
+16,00
+29/08/2020
+venda nº:307369, cliente:cliente venda varejo
+09:26:08
+916,23
+à vista - dinheiro
+venda à vista
+10,00
+29/08/2020
+venda nº:307373, cliente:wagner conceicao da silva 
+10:01:44
+926,23
+à vista - dinheiro
+venda à vista
+26,40
+29/08/2020
+venda nº:307374, cliente:cliente venda varejo
+10:02:36
+952,63
+à vista - dinheiro
+venda à vista
+40,00
+29/08/2020
+venda nº:307375, cliente:cliente venda varejo
+10:04:48
+992,63
+à vista - dinheiro
+venda à vista
+16,50
+29/08/2020
+venda nº:307376, cliente:cliente venda varejo
+10:05:34
+1009,13
+à vista - dinheiro
+venda à vista
+155,00
+29/08/2020
+venda nº:307378, cliente:cliente diversos
+10:10:18
+1164,13
+à vista - dinheiro
+venda à vista
+34,40
+29/08/2020
+venda nº:307385, cliente:cliente venda varejo
+10:36:05
+1198,53
+à vista - dinheiro
+1198,53
+saldo final:
+05/09/2020
+10:33:31
+página 47
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+08:00:56
+data inicio turno:
+29/08/2020
+venda à vista
+96,55
+29/08/2020
+venda nº:307389, cliente:cliente venda varejo
+10:45:31
+1295,08
+à vista - dinheiro
+venda à vista
+35,00
+29/08/2020
+venda nº:307393, cliente:paroquia santo antonio melo
+10:53:19
+1330,08
+à vista - dinheiro
+venda à vista
+3,50
+29/08/2020
+venda nº:307395, cliente:cliente venda varejo
+10:55:57
+1333,58
+à vista - dinheiro
+venda à vista
+100,00
+29/08/2020
+venda nº:307397, cliente:cliente venda varejo
+11:02:01
+1433,58
+à vista - dinheiro
+venda à vista
+4,80
+29/08/2020
+venda nº:307401, cliente:cliente venda varejo
+11:07:34
+1438,38
+à vista - dinheiro
+venda à vista
+26,80
+29/08/2020
+venda nº:307406, cliente:cliente venda varejo
+11:12:17
+1465,18
+à vista - dinheiro
+venda à vista
+484,00
+29/08/2020
+venda nº:307408, cliente:gilberto goncalves pires
+11:14:09
+1949,18
+à vista - dinheiro
+venda à vista
+15,00
+29/08/2020
+venda nº:307410, cliente:cliente venda varejo
+11:16:30
+1964,18
+à vista - dinheiro
+venda à vista
+100,00
+29/08/2020
+venda nº:307419, cliente:cliente venda varejo
+11:44:27
+2064,18
+à vista - dinheiro
+venda à vista
+74,50
+29/08/2020
+venda nº:307424, cliente:cliente venda varejo
+11:57:32
+2138,68
+à vista - dinheiro
+transferência para cofre
+-1600,00
+29/08/2020
+valor transferido para o cofre 099
+12:10:51
+538,68
+à vista - dinheiro
+fechamento do turno/caixa
+-538,68
+29/08/2020
+12:18:33
+0,00
+à vista - dinheiro
+suprimento
+538,68
+31/08/2020
+saldo inicial
+07:56:29
+538,68
+à vista - dinheiro
+venda à vista
+4,00
+31/08/2020
+venda nº:307434, cliente:cliente venda varejo
+08:12:08
+542,68
+à vista - dinheiro
+venda à vista
+23,00
+31/08/2020
+venda nº:307446, cliente:cliente venda varejo
+09:19:58
+565,68
+à vista - dinheiro
+venda à vista
+19,88
+31/08/2020
+venda nº:307449, cliente:cliente venda varejo
+09:25:00
+585,56
+à vista - dinheiro
+venda à vista
+58,50
+31/08/2020
+venda nº:307450, cliente:cliente venda varejo
+09:33:21
+644,06
+à vista - dinheiro
+venda à vista
+63,00
+31/08/2020
+venda nº:307452, cliente:jose joao gomes
+09:47:33
+707,06
+à vista - dinheiro
+venda à vista
+9,20
+31/08/2020
+venda nº:307453, cliente:cliente venda varejo
+09:52:16
+716,26
+à vista - dinheiro
+venda à vista
+45,22
+31/08/2020
+venda nº:307454, cliente:cliente venda varejo
+10:00:15
+761,48
+à vista - dinheiro
+venda à vista
+52,00
+31/08/2020
+venda nº:307455, cliente:cliente venda varejo
+10:06:49
+813,48
+à vista - dinheiro
+cancelamento de venda nfce
+-52,00
+31/08/2020
+venda nº:307455, cliente:cliente venda varejo
+10:06:49
+761,48
+à vista - dinheiro
+venda à vista
+46,20
+31/08/2020
+venda nº:307456, cliente:cliente venda varejo
+10:09:02
+807,68
+à vista - dinheiro
+cheque recebido (syscc)
+86,80
+31/08/2020
+cheque cadastrado, nº1 emitente:galerinha moda
+10:12:51
+894,48
+à vista - cheque
+transferência para cofre
+-86,80
+31/08/2020
+valor transferido para o cofre 099
+10:18:33
+807,68
+à vista - cheque
+807,68
+saldo final:
+05/09/2020
+10:33:31
+página 48
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+07:56:29
+data inicio turno:
+31/08/2020
+venda à vista
+15,00
+31/08/2020
+venda nº:307461, cliente:cliente venda varejo
+10:24:38
+822,68
+à vista - dinheiro
+venda à vista
+121,00
+31/08/2020
+venda nº:307463, cliente:cliente venda varejo
+10:40:26
+943,68
+à vista - dinheiro
+transferência para cofre
+-500,00
+31/08/2020
+valor transferido para o cofre 099
+10:42:26
+443,68
+à vista - dinheiro
+venda à vista
+5,00
+31/08/2020
+venda nº:307467, cliente:cliente venda varejo
+10:46:24
+448,68
+à vista - dinheiro
+suprimento
+20,00
+31/08/2020
+transferencia cofre caixa 
+10:47:05
+468,68
+à vista - dinheiro
+sangria
+-19,50
+31/08/2020
+gmj comercial ltda 
+10:47:36
+449,18
+à vista - dinheiro
+venda à vista
+491,15
+31/08/2020
+venda nº:307469, cliente:orç.milton
+10:54:49
+940,33
+à vista - dinheiro
+venda à vista
+7,45
+31/08/2020
+venda nº:307470, cliente:cliente venda varejo
+11:01:36
+947,78
+à vista - dinheiro
+venda à vista
+44,65
+31/08/2020
+venda nº:307471, cliente:cliente venda varejo
+11:09:54
+992,43
+à vista - dinheiro
+venda à vista
+93,80
+31/08/2020
+venda nº:307474, cliente:cliente venda varejo
+11:29:49
+1086,23
+à vista - dinheiro
+venda à vista
+43,00
+31/08/2020
+venda nº:307475, cliente:cliente venda varejo
+11:41:08
+1129,23
+à vista - dinheiro
+venda à vista
+25,00
+31/08/2020
+venda nº:307477, cliente:cliente venda varejo
+11:48:08
+1154,23
+à vista - dinheiro
+venda à vista
+24,00
+31/08/2020
+venda nº:307478, cliente:cliente venda varejo
+11:52:41
+1178,23
+à vista - dinheiro
+venda à vista
+210,00
+31/08/2020
+venda nº:307480, cliente:paulo teotonio
+11:56:39
+1388,23
+à vista - dinheiro
+venda à vista
+98,50
+31/08/2020
+venda nº:307483, cliente:cliente venda varejo
+12:09:58
+1486,73
+à vista - dinheiro
+venda à vista
+39,90
+31/08/2020
+venda nº:307484, cliente:cliente venda varejo
+12:16:09
+1526,63
+à vista - dinheiro
+venda à vista
+8,50
+31/08/2020
+venda nº:307487, cliente:cliente venda varejo
+12:35:37
+1535,13
+à vista - dinheiro
+venda à vista
+26,50
+31/08/2020
+venda nº:307488, cliente:cliente venda varejo
+12:36:23
+1561,63
+à vista - dinheiro
+transferência para cofre
+-1200,00
+31/08/2020
+valor transferido para o cofre 099
+12:37:20
+361,63
+à vista - dinheiro
+venda à vista
+99,00
+31/08/2020
+venda nº:307489, cliente:cliente venda varejo
+12:53:46
+460,63
+à vista - dinheiro
+venda à vista
+9,00
+31/08/2020
+venda nº:307492, cliente:cliente venda varejo
+13:15:00
+469,63
+à vista - dinheiro
+venda à vista
+296,00
+31/08/2020
+venda nº:307494, cliente:cliente venda varejo
+13:33:48
+765,63
+à vista - dinheiro
+venda à vista
+2,00
+31/08/2020
+venda nº:307498, cliente:cliente venda varejo
+13:48:37
+767,63
+à vista - dinheiro
+venda à vista
+40,50
+31/08/2020
+venda nº:307499, cliente:cliente venda varejo
+13:53:29
+808,13
+à vista - dinheiro
+venda à vista
+22,00
+31/08/2020
+venda nº:307500, cliente:cliente venda varejo
+14:02:55
+830,13
+à vista - dinheiro
+830,13
+saldo final:
+05/09/2020
+10:33:31
+página 49
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+07:56:29
+data inicio turno:
+31/08/2020
+venda à vista
+10,00
+31/08/2020
+venda nº:307501, cliente:cliente venda varejo
+14:14:08
+840,13
+à vista - dinheiro
+venda à vista
+22,00
+31/08/2020
+venda nº:307502, cliente:cliente venda varejo
+14:23:46
+862,13
+à vista - dinheiro
+venda à vista
+1900,00
+31/08/2020
+venda nº:307504, cliente:raimundo ely dos santos
+14:42:19
+2762,13
+à vista - dinheiro
+venda à vista
+20,00
+31/08/2020
+venda nº:307506, cliente:cliente venda varejo
+15:01:40
+2782,13
+à vista - dinheiro
+venda à vista
+99,00
+31/08/2020
+venda nº:307507, cliente:cliente venda varejo
+15:04:20
+2881,13
+à vista - dinheiro
+venda à vista
+245,00
+31/08/2020
+venda nº:307509, cliente:cliente venda varejo
+15:19:50
+3126,13
+à vista - dinheiro
+venda à vista
+82,60
+31/08/2020
+venda nº:307510, cliente:cliente venda varejo
+15:22:20
+3208,73
+à vista - dinheiro
+venda à vista
+9,00
+31/08/2020
+venda nº:307511, cliente:cliente venda varejo
+15:23:06
+3217,73
+à vista - dinheiro
+transferência para cofre
+-2600,00
+31/08/2020
+valor transferido para o cofre 099
+15:34:40
+617,73
+à vista - dinheiro
+venda à vista
+316,00
+31/08/2020
+venda nº:307517, cliente:cliente venda varejo
+15:52:52
+933,73
+à vista - dinheiro
+sangria
+-7,49
+31/08/2020
+organizacoes jmf ltda 
+16:03:27
+926,24
+à vista - dinheiro
+venda à vista
+35,00
+31/08/2020
+venda nº:307519, cliente:cliente venda varejo
+16:13:06
+961,24
+à vista - dinheiro
+venda à vista
+28,80
+31/08/2020
+venda nº:307521, cliente:cliente venda varejo
+16:18:31
+990,04
+à vista - dinheiro
+venda à vista
+86,00
+31/08/2020
+venda nº:307522, cliente:leonardo lopes ribeiro
+16:25:19
+1076,04
+à vista - dinheiro
+venda à vista
+375,00
+31/08/2020
+venda nº:307524, cliente:mge distribuidora
+16:38:38
+1451,04
+à vista - dinheiro
+venda à vista
+6,50
+31/08/2020
+venda nº:307525, cliente:cliente venda varejo
+16:48:34
+1457,54
+à vista - dinheiro
+sangria
+-375,00
+31/08/2020
+nf 37439 erro digitacao forma pagamento
+16:59:45
+1082,54
+à vista - dinheiro
+sangria
+-76,40
+31/08/2020
+vale do aco embalagens eireli me
+17:04:33
+1006,14
+à vista - dinheiro
+venda à vista
+64,77
+31/08/2020
+venda nº:307528, cliente:orç.
+17:05:16
+1070,91
+à vista - dinheiro
+venda à vista
+293,00
+31/08/2020
+venda nº:307529, cliente:cliente venda varejo
+17:14:54
+1363,91
+à vista - dinheiro
+venda à vista
+45,00
+31/08/2020
+venda nº:307530, cliente:cliente venda varejo
+17:23:21
+1408,91
+à vista - dinheiro
+venda à vista
+22,50
+31/08/2020
+venda nº:307532, cliente:cliente venda varejo
+17:31:22
+1431,41
+à vista - dinheiro
+venda à vista
+95,00
+31/08/2020
+venda nº:307535, cliente:cliente venda varejo
+17:45:14
+1526,41
+à vista - dinheiro
+venda à vista
+117,00
+31/08/2020
+venda nº:307537, cliente:cliente venda varejo
+17:48:54
+1643,41
+à vista - dinheiro
+sangria
+-25,00
+31/08/2020
+nf 37443
+17:51:44
+1618,41
+à vista - dinheiro
+1618,41
+saldo final:
+05/09/2020
+10:33:32
+página 50
+eletrofase ltda
+relatório entradas / saidas no caixa
+caixa:
+descrição
+valor
+data
+turno:
+hora
+saldo
+003
+01
+hora inicio turno:
+07:56:29
+data inicio turno:
+31/08/2020
+venda à vista
+1,00
+31/08/2020
+venda nº:307538, cliente:cliente venda varejo
+17:55:43
+1619,41
+à vista - dinheiro
+venda à vista
+10,00
+31/08/2020
+venda nº:307540, cliente:cliente venda varejo
+17:57:14
+1629,41
+à vista - dinheiro
+venda à vista
+5,00
+31/08/2020
+venda nº:307543, cliente:cliente venda varejo
+18:06:35
+1634,41
+à vista - dinheiro
+transferência para cofre
+-1350,00
+31/08/2020
+valor transferido para o cofre 099
+18:07:37
+284,41
+à vista - dinheiro
+fechamento do turno/caixa
+-284,41
+31/08/2020
+18:11:40
+0,00
+à vista - dinheiro
+hora fim turno: 18:11:40
+data fim turno:
+31/08/2020
+obs::
+0,00
+saldo caixa:
+0,00
+saldo final:

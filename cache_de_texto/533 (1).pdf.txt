@@ -1,0 +1,181 @@
+b a n r i s u l
+agencia: 0220
+conta..: 0626431609
+nome...: s m servicos medicos ltda
+--------     para simples conferencia     --------
+                                                  
+saldo devedor..............r$            7.999,48-
+                                                  
+saldo inicial e movimentos do dia                 
+      total................r$            7.999,48-
+                                                  
+limite da conta............r$           15.000,00 
+limite da conta disponivel.r$            7.000,52 
+vencimento da conta.........           16/07/2025 
+                                                  
+-+----------------------------------------------+-
+dia historico          documento         v a l o r
+-+----------------------------------------------+-
+---------- movimentos da conta corrente ----------
+                                                  
+    saldo ant em 30/05/2025              7.697,92-
+++  movimentos jun/2025                           
+02  pix recebido        685342             500,00 
+     nome: marciano borges de matos               
+    pix recebido        690029           1.500,00 
+     nome: vinicius pellegrini viana              
+    pix banri rec       871970           4.257,80 
+     nome: coop dos anestesiologistas de poa      
+    pix banri rec       930682             500,00 
+     nome: gelson omar seixas farias              
+    pix enviado         435646             244,74-
+     nome: cia estadual de distribuicao de        
+    pix enviado         791693             383,00-
+     nome: tess comercio de flores ltda           
+    iof                 000000              14,44-
+    iof adicional       000000             130,76-
+    saldo na data                        1.713,06-
+03  pix recebido        122299             500,00 
+     nome: dilceia martins arceno                 
+    pix recebido        234261             600,00 
+     nome: cesar elias walenzuella graziani       
+    pix banri env       286872           5.000,00-
+     nome: sabrina marcello rodrigues             
+    mens. pacote        008001              75,00-
+    saldo na data                        5.688,06-
+04  pg.titulo           090327             482,94-
+    pix enviado         787652           1.400,00-
+     nome: sabine mosele guidi                    
+    pix enviado         965519             400,00-
+     nome: daiana fulber                          
+    saldo na data                        7.971,00-
+05  pix recebido        769522           9.000,00 
+     nome: sabrina marcello rodrigues             
+    pix recebido        788440           2.500,00 
+     nome: matheus vitorino azevedo wagner        
+    pg.titulo           093992          12.219,05-
+    pg.titulo           095739           2.203,00-
+    pix enviado         613463             760,00-
+     nome: leticia caldas lopes                   
+    pix enviado         783344           1.000,00-
+     nome: sabrina marcello rodrigues             
+    saldo na data                       12.653,05-
+06  pix recebido        434279           2.200,00 
+     nome: juliane couto lima                     
+    pix recebido        518277           2.500,00 
+     nome: jessica murakami neis                  
+    pix enviado         251010              30,00-
+     nome: rita simone pereira nunes              
+    pix enviado         761753           1.086,52-
+     nome: mercadopago.com representacoes ltda.   
+    saldo na data                        9.069,57-
+09  pix banri rec       381981           1.100,00 
+     nome: carla rosane vieira guedes             
+    pix banri rec       606890             500,00 
+     nome: daniela ferreira dacanal               
+    pix enviado         163763              44,89-
+     nome: panvel farmacias                       
+    pix enviado         356655           1.500,00-
+     nome: sabrina marcello rodrigues             
+    pix banri env       357626           3.000,00-
+     nome: sabrina marcello rodrigues             
+    saldo na data                       12.014,46-
+10  pg prefeitura       111092             746,46-
+    saldo na data                       12.760,92-
+11  pix enviado         863050             580,00-
+     nome: tatiane souza coelho                   
+    pix banri env       756258           1.000,00-
+     nome: sabrina marcello rodrigues             
+    saldo na data                       14.340,92-
+12  pix enviado         218273             300,00-
+     nome: tania maria missio                     
+    saldo na data                       14.640,92-
+16  pix recebido        024330             600,00 
+     nome: jurema oliveira maciel                 
+    pix recebido        177661           2.500,00 
+     nome: marco aurelio steinmetz                
+    pix recebido        796531             500,00 
+     nome: andreia nunes de souza                 
+    pix banri rec       473194           9.410,58 
+     nome: coop dos anestesiologistas de poa      
+    pix enviado         249183           1.560,00-
+     nome: luis rocha servicos de condicionamento 
+    saldo na data                        3.190,34-
+17  pix recebido        163811             500,00 
+     nome: gabriella pereira remedi               
+    pg.titulo           124959           8.035,09-
+    pix enviado         484474             353,42-
+     nome: receita federal                        
+    pix enviado         486468             326,66-
+     nome: receita federal                        
+    pix enviado         950205             542,24-
+     nome: claro                                  
+    saldo na data                       11.947,75-
+18  pix recebido        619159           2.200,00 
+     nome: estanael viegas da costa               
+    saldo na data                        9.747,75-
+20  pix recebido        163859             106,00 
+     nome: maria conceicao machado freitas        
+    pix recebido        806240           2.500,00 
+     nome: karine zaniol lemos                    
+    pg.titulo           130200           1.837,37-
+    pix enviado         127752           2.800,00-
+     nome: maria conceicao machado freitas        
+    pg darf             131355             303,60-
+    saldo na data                       12.082,72-
+23  dep din int ag      014411             800,00 
+    vero ant blf        722351           6.149,59 
+    pix recebido        298752           1.600,00 
+     nome: alberto guimaraes de almeida           
+    pix banri rec       174911             600,00 
+     nome: elaine dewes mesquita                  
+    pix enviado         033345           1.600,00-
+     nome: zaffari                                
+    pix enviado         618211             140,50-
+     nome: casa das cestas ltda                   
+    pix enviado         941688           2.200,00-
+     nome: sabrina marcello rodrigues             
+    pix enviado         986212             550,00-
+     nome: tatiane souza coelho                   
+    pix banri env       909409             190,00-
+     nome: angelo ricardo mattana                 
+    saldo na data                        7.613,63-
+24  pix recebido        673206             500,00 
+     nome: daphne santarem ribeiro                
+    saldo na data                        7.113,63-
+25  pix enviado         201143           6.000,00-
+     nome: sabrina marcello rodrigues             
+    pix enviado         705192             480,00-
+     nome: claudio cristiano leindecker           
+    pg darf             140001           1.226,41-
+    saldo na data                       14.820,04-
+27  pix recebido        498859           2.811,02 
+     nome: associacao hospitalar moinhos de vento 
+    saldo na data                       12.009,02-
+30  pix recebido        117834           1.800,00 
+     nome: ikeyzi vieira rosa                     
+    pix recebido        383409             500,00 
+     nome: taiana souza luiz da silva             
+    pix recebido        426065             500,00 
+     nome: luciano gomes gil                      
+    pix recebido        656633             500,00 
+     nome: maria regiane moraes machado           
+    pix recebido        994688             500,00 
+     nome: ana carla fernandes pozzebon           
+    pix banri rec       383537           1.100,00 
+     nome: carla rosane vieira guedes             
+    pix enviado         829240             913,22-
+     nome: municipio de porto alegre              
+    pg darf             149018             664,05-
+    pg darf             149075             512,65-
+    pg darf             149106             696,56-
+    pg darf             149118             624,01-
+    juros               000000           1.669,62-
+    saldo na data                       12.189,13-
+                                                  
+----- extrato emitido as 12:01 de 15/07/2025 -----
+identificacao: 15202507151169363533               
+--------------------------------------------------
+                 sac 0800 646 1515                
+              ouvidoria 0800 644 2200             
+--------------------------------------------------

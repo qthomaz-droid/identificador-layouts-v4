@@ -1,0 +1,802 @@
+atualizaçã
+nome:
+agência:
+conta:
+periodo:
+data
+lançamento
+ag./origem
+valor (r$)
+saldo (r$)
+29/09/2023
+saldo anterior
+985,93
+02/10/2023
+sispag  boleto banco 341
+2969
+-399,15
+compras nf 313013 parc 2/2 
+02/10/2023
+sispag  bolet outr bco
+2969
+-283,49
+compras nf 38287 parc 2/2 
+02/10/2023
+rede   mast db088717828
+9935
+194,13
+02/10/2023
+rede   visa db088717828
+9935
+120,09
+02/10/2023
+rede  mc  088717828
+9935
+138,55
+02/10/2023
+rede  vs  088717828
+9935
+97,26
+02/10/2023
+sdo cta/apl automaticas
+853,32
+03/10/2023
+pix qrs consolidado
+235,86
+vendas via pix
+03/10/2023
+sispag  boleto banco 341
+2969
+-598,59
+compra nf 213819 par 5/6 
+03/10/2023
+rede   elo  db088717828
+9935
+14,30
+03/10/2023
+rede   mast db088717828
+9935
+144,81
+03/10/2023
+rede   visa db088717828
+9935
+149,34
+03/10/2023
+rede  mc  088717828
+9935
+345,00
+03/10/2023
+rede  vs  088717828
+9935
+169,25
+03/10/2023
+pix transf  carla b03/10
+9129
+56,96
+vendas via pix
+03/10/2023
+tar pix qr liq estatico
+2969
+-16,02
+despesa tarifa bancária qrcode
+03/10/2023
+sdo cta/apl automaticas
+1.354,23
+04/10/2023
+sispag  boleto banco 341
+2969
+-509,88
+compras nf 216736 parc 1/6  
+04/10/2023
+sispag  pix transferenci
+9014
+-380,00
+despesa serviço de manutenção elétrica
+04/10/2023
+rede   elo  db088717828
+9935
+77,93
+04/10/2023
+rede   mast db088717828
+9935
+218,77
+04/10/2023
+rede   visa db088717828
+9935
+281,90
+04/10/2023
+rede  mc  088717828
+9935
+231,72
+04/10/2023
+rede  vs  088717828
+9935
+251,72
+04/10/2023
+sdo cta/apl automaticas
+1.526,39
+05/10/2023
+sispag  boleto banco 341
+2969
+-464,34
+compras nf 215619 parc 3/6  
+05/10/2023
+rede   mast db088717828
+9935
+114,29
+05/10/2023
+rede  mc  088717828
+9935
+195,41
+05/10/2023
+rede  vs  088717828
+9935
+77,47
+05/10/2023
+sdo cta/apl automaticas
+1.449,22
+06/10/2023
+pix qrs consolidado
+92,93
+vendas via pix
+06/10/2023
+sispag  gfip
+2969
+-128,72
+despesa guia fgts 09 2023
+06/10/2023
+sispag  pix transferenci
+9773
+-824,30
+despesa salario malu 092023
+06/10/2023
+sispag  pix transferenci
+9120
+-250,00
+despesa auxilio alimentacao
+06/10/2023
+rede   elo  db088717828
+9935
+34,04
+06/10/2023
+rede   mast db088717828
+9935
+161,77
+06/10/2023
+rede   visa db088717828
+9935
+56,97
+06/10/2023
+rede  mc  088717828
+9935
+98,71
+06/10/2023
+rede  vs  088717828
+9935
+156,07
+06/10/2023
+rend pago aplic aut mais
+0,01
+06/10/2023
+sdo cta/apl automaticas
+846,70
+09/10/2023
+pix qrs consolidado
+237,49
+vendas via pix
+09/10/2023
+rede   mast db088717828
+9935
+141,96
+09/10/2023
+rede   visa db088717828
+9935
+332,20
+09/10/2023
+rede  mc  088717828
+9935
+64,38
+09/10/2023
+rede  vs  088717828
+9935
+168,96
+09/10/2023
+pix transf  amanda 08/10
+9120
+59,20
+vendas via pix
+09/10/2023
+sdo cta/apl automaticas
+1.850,89
+10/10/2023
+pix qrs consolidado
+24,38
+vendas via pix
+10/10/2023
+sispag  boleto banco 341
+2969
+-598,60
+compra nf 213819 parc 6/6
+10/10/2023
+sispag  boleto banco 341
+2969
+-509,88
+compras nf 216736 parc 2/6
+10/10/2023
+sispag  bolet outr bco
+2969
+-544,50
+compras nf 534834 parc 1/4
+10/10/2023
+sispag  bolet outr bco
+2969
+-322,20
+despesa servico contabil mensal outubro 23
+10/10/2023
+sispag  bolet outr bco
+2969
+-16,09
+despesa contribuicao sindical setembro 23 
+10/10/2023
+rede   elo  db088717828
+9935
+13,26
+10/10/2023
+rede   mast db088717828
+9935
+183,38
+10/10/2023
+rede   visa db088717828
+9935
+129,75
+10/10/2023
+rede  el  088717828
+9935
+81,84
+10/10/2023
+rede  mc  088717828
+9935
+256,45
+10/10/2023
+rede  vs  088717828
+9935
+103,03
+10/10/2023
+rend pago aplic aut mais
+0,01
+10/10/2023
+sdo cta/apl automaticas
+651,72
+11/10/2023
+sispag  boleto banco 341
+2969
+-402,45
+compras nf 186114 parc 1/2
+11/10/2023
+sispag  boleto banco 341
+2969
+-436,20
+compras nf 221497
+11/10/2023
+sispag  bolet outr bco
+2969
+-355,85
+compras nf 38608 parc 1/3
+11/10/2023
+cei dep dinh imediato
+7619
+303,00
+vendas via dinheiro
+11/10/2023
+rede   mast db088717828
+9935
+335,07
+11/10/2023
+rede   visa db088717828
+9935
+359,12
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+lançamentos
+01/10/2023 até 31/10/2023
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+logotipo itaú
+01/11/2023 às 12:11:29h
+d  terra comercio de alimentos
+2969
+99752
+11/10/2023
+rede  el  088717828
+9935
+14,36
+11/10/2023
+rede  mc  088717828
+9935
+122,95
+11/10/2023
+rede  vs  088717828
+9935
+195,36
+11/10/2023
+pix transf  marilen11/10
+9773
+219,90
+vendas via pix
+11/10/2023
+sdo cta/apl automaticas
+1.006,98
+13/10/2023
+sispag  boleto banco 341
+2969
+-464,34
+compras nf 215619 parc 4/6
+13/10/2023
+sispag  pix transferenci
+9026
+-30,00
+compras nf 0023 d te
+13/10/2023
+sispag  bolet outr bco
+2969
+-285,00
+despesa material gráfico compras adesivos e panfletos  
+13/10/2023
+rede   mast db088717828
+9935
+240,93
+13/10/2023
+rede   visa db088717828
+9935
+88,98
+13/10/2023
+rede  el  088717828
+9935
+50,31
+13/10/2023
+rede  mc  088717828
+9935
+33,46
+13/10/2023
+rede  vs  088717828
+9935
+278,58
+13/10/2023
+sdo cta/apl automaticas
+919,90
+16/10/2023
+pix qrs consolidado
+78,84
+vendas via pix
+16/10/2023
+sispag  concessionaria
+2969
+-122,69
+despesa fatura vivo internet outubro 23
+16/10/2023
+sispag  concessionaria
+2969
+-144,68
+despesa fatura sabesp outubro 23
+16/10/2023
+rede   elo  db088717828
+9935
+10,45
+16/10/2023
+rede   mast db088717828
+9935
+319,99
+16/10/2023
+rede   visa db088717828
+9935
+79,85
+16/10/2023
+rede  el  088717828
+9935
+66,14
+16/10/2023
+rede  mc  088717828
+9935
+56,50
+16/10/2023
+rede  vs  088717828
+9935
+179,39
+16/10/2023
+sdo cta/apl automaticas
+1.443,69
+17/10/2023
+pix qrs consolidado
+4,50
+vendas via pix
+17/10/2023
+sispag  boleto banco 341
+2969
+-181,21
+despesa mensal servico software outubro 23
+17/10/2023
+sispag  boleto banco 341
+2969
+-509,88
+compras nf 216736 parc 3/6 
+17/10/2023
+sispag  bolet outr bco
+2969
+-544,50
+compras nf 534834 parc 2/4 
+17/10/2023
+rede   mast db088717828
+9935
+128,87
+17/10/2023
+rede   visa db088717828
+9935
+185,44
+17/10/2023
+rede  el  088717828
+9935
+27,07
+17/10/2023
+rede  mc  088717828
+9935
+424,56
+17/10/2023
+rede  vs  088717828
+9935
+264,95
+17/10/2023
+sdo cta/apl automaticas
+1.243,49
+18/10/2023
+pix qrs consolidado
+28,16
+vendas via pix
+18/10/2023
+sispag  boleto banco 341
+2969
+-402,46
+ compras nf 186114 parc 2/2 
+18/10/2023
+sispag  bolet outr bco
+2969
+-355,85
+compras nf 38608 parc 2/3
+18/10/2023
+rede   elo  db088717828
+9935
+44,38
+18/10/2023
+rede   mast db088717828
+9935
+129,65
+18/10/2023
+rede   visa db088717828
+9935
+172,80
+18/10/2023
+rede  mc  088717828
+9935
+98,30
+18/10/2023
+rede  vs  088717828
+9935
+16,00
+18/10/2023
+sdo cta/apl automaticas
+974,47
+19/10/2023
+pix qrs consolidado
+58,00
+vendas via pix
+19/10/2023
+sispag  boleto banco 341
+2969
+-464,34
+compras nf 215619 parc 5/6 
+19/10/2023
+sispag  concessionaria
+2969
+-201,93
+despesa fatura enel outubro 23
+19/10/2023
+sispag  bolet outr bco
+2969
+-443,90
+compras nf 17689 parc 1/2
+19/10/2023
+rede   mast db088717828
+9935
+103,13
+19/10/2023
+rede   visa db088717828
+9935
+97,07
+19/10/2023
+rede  mc  088717828
+9935
+109,43
+19/10/2023
+rede  vs  088717828
+9935
+237,22
+19/10/2023
+sdo cta/apl automaticas
+469,15
+20/10/2023
+pix qrs consolidado
+9,02
+vendas via pix
+20/10/2023
+sispag  pix transferenci
+9120
+-118,31
+despesa fatura cartao click 
+20/10/2023
+sispag  pix transferenci
+9121
+-643,60
+despesa  adiantamento salario malu
+20/10/2023
+sispag  trib cod barras
+2969
+-270,21
+despesa darf setembro 2023 
+20/10/2023
+sispag  trib cod barras
+2969
+-437,73
+despesa das setembro 2023
+20/10/2023
+rede   mast db088717828
+9935
+531,16
+20/10/2023
+rede   visa db088717828
+9935
+146,09
+20/10/2023
+rede  mc  088717828
+9935
+370,09
+20/10/2023
+rede  vs  088717828
+9935
+88,86
+20/10/2023
+sdo cta/apl automaticas
+144,52
+23/10/2023
+pix qrs consolidado
+34,01
+vendas via pix
+23/10/2023
+rede   mast db088717828
+9935
+465,26
+23/10/2023
+rede   visa db088717828
+9935
+166,78
+23/10/2023
+rede  mc  088717828
+9935
+325,38
+23/10/2023
+rede  vs  088717828
+9935
+105,62
+23/10/2023
+pix transf  adriana23/10
+9120
+15,90
+vendas via pix
+23/10/2023
+sdo cta/apl automaticas
+1.257,47
+24/10/2023
+sispag  boleto banco 341
+2969
+-509,88
+compras nf 216736 parc 5/6
+24/10/2023
+sispag  bolet outr bco
+2969
+-544,50
+compra nf 534834 parc 3/4 
+24/10/2023
+rede   elo  db088717828
+9935
+47,45
+24/10/2023
+rede   mast db088717828
+9935
+75,84
+24/10/2023
+rede   visa db088717828
+9935
+178,78
+24/10/2023
+rede  mc  088717828
+9935
+146,57
+24/10/2023
+rede  vs  088717828
+9935
+128,72
+24/10/2023
+sdo cta/apl automaticas
+780,45
+25/10/2023
+pix qrs consolidado
+10,49
+vendas via pix
+25/10/2023
+sispag  bolet outr bco
+2969
+-355,85
+compras nf 38608 parc 3/3
+25/10/2023
+sispag  bolet outr bco
+2969
+-250,00
+despesa servico mensal dedetizacao outubro 23 
+25/10/2023
+rede   elo  db088717828
+9935
+63,88
+25/10/2023
+rede   mast db088717828
+9935
+41,07
+25/10/2023
+rede   visa db088717828
+9935
+98,97
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+25/10/2023
+rede  mc  088717828
+9935
+83,56
+25/10/2023
+sdo cta/apl automaticas
+472,57
+26/10/2023
+pix qrs consolidado
+78,74
+vendas via pix
+26/10/2023
+sispag  boleto banco 341
+2969
+-464,37
+compras nf 215619 parc 6/6 
+26/10/2023
+sispag  bolet outr bco
+2969
+-443,90
+compras nf 17689 parc 2/3 
+26/10/2023
+rede   elo  db088717828
+9935
+138,10
+26/10/2023
+rede   mast db088717828
+9935
+267,14
+26/10/2023
+rede   visa db088717828
+9935
+511,28
+26/10/2023
+rede  am  088717828
+9935
+9,80
+26/10/2023
+rede  mc  088717828
+9935
+43,82
+26/10/2023
+rede  vs  088717828
+9935
+118,86
+26/10/2023
+sdo cta/apl automaticas
+732,04
+27/10/2023
+rede   elo  db088717828
+9935
+36,68
+27/10/2023
+rede   mast db088717828
+9935
+105,85
+27/10/2023
+rede  el  088717828
+9935
+12,43
+27/10/2023
+rede  mc  088717828
+9935
+69,61
+27/10/2023
+rede  vs  088717828
+9935
+197,78
+27/10/2023
+sdo cta/apl automaticas
+1.154,39
+30/10/2023
+pix qrs consolidado
+23,90
+vendas via pix
+30/10/2023
+rede  mc  088717828
+9935
+36,53
+30/10/2023
+rede  vs  088717828
+9935
+37,21
+30/10/2023
+sdo cta/apl automaticas
+1.252,03
+31/10/2023
+pix qrs consolidado
+41,90
+vendas via pix
+31/10/2023
+sispag  boleto banco 341
+2969
+-509,88
+compras nf 216736 parc 5/6 
+31/10/2023
+sispag  pix transferenci
+9123
+-5.455,00
+despesa aluguel e iptu 08102
+31/10/2023
+sispag  bolet outr bco
+2969
+-544,51
+compras nf 534834 parc 4/4 
+31/10/2023
+cei dep dinh imediato
+7619
+440,00
+vendas via dinheiro
+31/10/2023
+emprest capital de giro
+4175
+30.852,00
+empréstimo capital de giro
+31/10/2023
+pix transf  d terra31/10
+9120
+2.612,75
+vendas via maquina pagseguro
+31/10/2023
+sdo cta/apl automaticas
+28.689,29
+31/09/2023
+retirada dinheiro daniel retorno aporte parc 7.24 
+1.000,00
+retirada vendas dinheiro retorno aporte parcela 9/24
+06/09/2023
+retirada dinheiro referente serviço de limpeza mensal
+200,00
+despesa serviço de limpeza pesada
+vendas via maquina rede
+vendas via maquina rede
+vendas via maquina rede
+ itaúempresas

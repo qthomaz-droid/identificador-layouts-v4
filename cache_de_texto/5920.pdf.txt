@@ -1,0 +1,1474 @@
+id da transação
+data da transação
+valor
+taxa
+desconto valor recebido data da liquidação status
+plano
+nome do titular
+bandeira
+método de pagamento
+parcelas cartão (últimos 4 dígitos)
+método de captura
+tipo de cartão modelo terminal/nº de série
+46cbdc2b-71ee-439b-a630-e4ff6b065060
+29/12/2024 14:01 r$ 15,00
+3,15% r$ 0,47
+r$ 14,53
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de crédito
+1 1446
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+d19f0087-17d4-44f2-83cc-722db698061f
+29/12/2024 12:10 r$ 28,00
+1,38% r$ 0,39
+r$ 27,61
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+caetano/maria das gracas
+visa
+cartão de débito
+1 2537
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+5e8e3731-ddd3-4ecd-84a6-918e47aa8442
+29/12/2024 11:35 r$ 28,00
+1,38% r$ 0,39
+r$ 27,61
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 3964
+cartão por aproximação
+débito
+positivo l3/4ad679202
+35837a63-3386-41b2-b511-01e0384197f7
+29/12/2024 10:52 r$ 10,00
+1,38% r$ 0,14
+r$ 9,86
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos/darley ciriaco dos
+visa
+cartão de débito
+1 0296
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+f9185eb4-9551-426b-9543-f1029db462b5
+29/12/2024 10:52 r$ 10,00
+1,38% r$ 0,14
+r$ 9,86
+30/12/2024 10:00
+estornada promoton_tier_regular_abr24
+santos/darley ciriaco dos
+visa
+cartão de débito
+1 0296
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+2c11f2a0-e572-4716-9c2c-912f2311032b
+29/12/2024 10:51 r$ 28,00
+1,38% r$ 0,39
+r$ 27,61
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos/darley ciriaco dos
+visa
+cartão de débito
+1 0296
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+45a3a00b-5290-4c4f-ab43-526ebe5b123c
+29/12/2024 10:25 r$ 18,00
+1,38% r$ 0,25
+r$ 17,75
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+cipriano/elaine aparecida
+visa
+cartão de débito
+1 6368
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+227b1549-58a0-44ae-bb5e-493d30f239b1
+29/12/2024 10:15 r$ 20,00
+3,15% r$ 0,63
+r$ 19,37
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de crédito
+1 9823
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+3092af72-a6f6-4f3d-9172-2e46dc3d3800
+29/12/2024 10:10 r$ 10,00
+2,57% r$ 0,26
+r$ 9,74
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+damiana de fatima silva
+elo
+cartão de débito
+1 9314
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+4e825c8f-bb4a-4e83-8769-b882eda49bcd
+29/12/2024 10:09 r$ 50,00
+2,57% r$ 1,28
+r$ 48,72
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+damiana de fatima silva
+elo
+cartão de débito
+1 9314
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+320026f1-6d29-4819-96cc-d69ec48905dc
+28/12/2024 13:43 r$ 38,00
+2,57% r$ 0,98
+r$ 37,02
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+cicera lucielly b lima
+elo
+cartão de débito
+1 0747
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+f500a587-cf42-439d-9e76-7f5eeeed9e8a
+28/12/2024 11:26 r$ 15,00
+1,38% r$ 0,21
+r$ 14,79
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+ana cristina g sousa
+visa
+cartão de débito
+1 0181
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+2b9b40fc-ca40-42c2-a09e-c899e6c6c1d4
+28/12/2024 11:13 r$ 50,00
+1,38% r$ 0,69
+r$ 49,31
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 0659
+cartão por aproximação
+débito
+positivo l3/4ad679202
+a00f6976-b01a-4b4c-84f3-14e940134e98
+28/12/2024 10:53 r$ 100,00 2,57% r$ 2,57
+r$ 97,43
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+elo card member
+elo
+cartão de débito
+1 2994
+cartão por aproximação
+débito
+positivo l3/4ad679202
+aa12ea7f-dfab-4fcd-89c7-0270576845d5
+28/12/2024 10:36 r$ 28,00
+3,15% r$ 0,88
+r$ 27,12
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 0019
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+c9dc94bf-52b8-442f-8b2f-135c1abb363c
+28/12/2024 10:29 r$ 52,00
+1,38% r$ 0,72
+r$ 51,28
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+sergio/ozidia maria r
+visa
+cartão de débito
+1 3480
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+524199c1-2ba0-4e5d-8564-47ffa9268a4e
+27/12/2024 14:08 r$ 12,00
+1,38% r$ 0,17
+r$ 11,83
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 6086
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+e38e8d6f-e943-4bec-bcb4-ac7b17b631af
+27/12/2024 12:09 r$ 20,00
+3,15% r$ 0,63
+r$ 19,37
+30/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 1025
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+1de971f9-4822-4626-b149-e479cb8054f4
+24/12/2024 12:45 r$ 15,00
+1,38% r$ 0,21
+r$ 14,79
+26/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 7539
+cartão por aproximação
+débito
+positivo l3/4ad679202
+362beb5e-3f5b-4cef-8524-f80b703f2c89
+24/12/2024 12:13 r$ 30,00
+1,38% r$ 0,41
+r$ 29,59
+26/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+keila c soares braga
+mastercard cartão de débito
+1 7030
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+9271bb58-ef8f-4fba-bc2d-3cc18debdbc1
+24/12/2024 12:09 r$ 40,00
+1,38% r$ 0,55
+r$ 39,45
+26/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mercado pago
+visa
+cartão de débito
+1 8489
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+ca2ea802-0f83-4514-acf5-7d990ae15d4f
+23/12/2024 11:06 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+24/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 6906
+cartão por aproximação
+débito
+positivo l3/4ad679202
+c319c0bd-44dc-4d70-8cba-36a9dc890f2e
+22/12/2024 13:27 r$ 70,00
+3,15% r$ 2,21
+r$ 67,79
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+caja/geiso nunes
+mastercard cartão de crédito
+1 3293
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202
+db4a18a2-3bc9-442d-8aec-e713a0e04e33
+22/12/2024 12:30 r$ 15,00
+1,38% r$ 0,21
+r$ 14,79
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 5045
+cartão por aproximação
+débito
+positivo l3/4ad679202
+d171b19c-f17a-442e-8959-e2364cad8e55
+22/12/2024 12:29 r$ 35,00
+1,38% r$ 0,48
+r$ 34,52
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+ferreir/jean carlos
+mastercard cartão de débito
+1 7023
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+568cb68d-b342-4cb3-a12a-4b6775730683
+22/12/2024 12:20 r$ 90,00
+1,38% r$ 1,24
+r$ 88,76
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 5350
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+8f1950ea-245b-40df-983b-a0db28211a91
+22/12/2024 11:52 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 9830
+cartão por aproximação
+débito
+positivo l3/4ad679202
+5e6bce45-ff93-490b-a968-378e48dccd69
+22/12/2024 11:49 r$ 65,00
+2,57% r$ 1,67
+r$ 63,33
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+elo card member
+elo
+cartão de débito
+1 2995
+cartão por aproximação
+débito
+positivo l3/4ad679202
+1a9b2a9c-a08a-4103-8aca-53aa6207c71f
+22/12/2024 11:26 r$ 35,00
+1,38% r$ 0,48
+r$ 34,52
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+ribeiro/ana c a
+mastercard cartão de débito
+1 4197
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+8453d4a6-0801-49c4-a249-804d5f3c6faf
+22/12/2024 11:21 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+pago/mercado
+visa
+cartão de débito
+1 0745
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+5f96d7ff-35af-4809-8aa0-aa84063c633c
+22/12/2024 10:36 r$ 45,00
+1,38% r$ 0,62
+r$ 44,38
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 5765
+cartão por aproximação
+débito
+positivo l3/4ad679202
+7497d379-5c20-47f6-bbde-ff6f56f49248
+21/12/2024 15:44 r$ 125,00 3,15% r$ 3,94
+r$ 121,06
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+maria l s fonseca
+visa
+cartão de crédito
+1 2047
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202
+5e8a764a-69e5-4cb7-842d-9492f751add1
+21/12/2024 15:26 r$ 45,00
+1,38% r$ 0,62
+r$ 44,38
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 8520
+cartão por aproximação
+débito
+positivo l3/4ad679202
+ccc88fb8-798c-4a1f-9f51-dd25107e7a3d
+21/12/2024 15:21 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 9975
+cartão por aproximação
+débito
+positivo l3/4ad679202
+d0ac5722-7e07-4d82-bfac-56e9eedd2d92
+21/12/2024 13:12 r$ 68,00
+1,38% r$ 0,94
+r$ 67,06
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 0659
+cartão por aproximação
+débito
+positivo l3/4ad679202
+621c4619-bfd5-4915-80e7-16d15c35b780
+21/12/2024 12:45 r$ 18,00
+3,15% r$ 0,57
+r$ 17,43
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 0019
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+a455b343-2a17-4c9c-a0af-0daba83b9941
+21/12/2024 12:40 r$ 50,00
+1,38% r$ 0,69
+r$ 49,31
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 8834
+cartão por aproximação
+débito
+positivo l3/4ad679202
+65ef3d8f-3d3c-470f-8534-04708aae60f1
+20/12/2024 14:18 r$ 78,00
+3,15% r$ 2,46
+r$ 75,54
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 3016
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+ac61bc7c-7991-4591-bbbd-91352d9f0198
+20/12/2024 13:06 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+23/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 3362
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+23d9e17c-c81c-4462-8abf-489f459ebf09
+19/12/2024 17:41 r$ 30,00
+1,38% r$ 0,41
+r$ 29,59
+20/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 5027
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+02f2b609-8f0c-45a0-932b-786a2de9fbbe
+19/12/2024 13:23 r$ 65,00
+1,38% r$ 0,90
+r$ 64,10
+20/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 6928
+cartão por aproximação
+débito
+positivo l3/4ad679202
+5c3841dd-044e-4d1c-bcb5-f2d8fd951077
+19/12/2024 13:18 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+20/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 9884
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+aabec6fa-d181-444e-aad4-5161ffd1da83
+19/12/2024 13:17 r$ 55,00
+1,38% r$ 0,76
+r$ 54,24
+20/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+fabiana a s ferreira
+visa
+cartão de débito
+1 7194
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+9015f4a1-a409-4872-b816-f71611b3118c
+19/12/2024 13:12 r$ 20,00
+3,15% r$ 0,63
+r$ 19,37
+20/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 2935
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+3d1f2e1f-e444-47ae-b880-2541c3f1ec14
+19/12/2024 12:29 r$ 10,00
+1,38% r$ 0,14
+r$ 9,86
+20/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 3046
+cartão por aproximação
+débito
+positivo l3/4ad679202
+9bc33db5-934d-44fd-ab0f-c86e69d67477
+18/12/2024 14:48 r$ 37,00
+1,38% r$ 0,51
+r$ 36,49
+19/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 5021
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+a68ec05b-1107-4c20-8f09-5e44dec2b8ae
+18/12/2024 12:05 r$ 10,00
+1,38% r$ 0,14
+r$ 9,86
+19/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 7253
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+e9724d56-936d-499f-b0bb-d9c606bd4893
+18/12/2024 11:19 r$ 45,00
+3,15% r$ 1,42
+r$ 43,58
+19/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+castro/cleide a
+visa
+cartão de crédito
+1 2683
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202
+883604e6-d417-4a98-ad22-bb903cb8bed5
+18/12/2024 10:55 r$ 50,00
+1,38% r$ 0,69
+r$ 49,31
+19/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+neuza m q gomes
+mastercard cartão de débito
+1 0446
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+57f62a13-2872-4a8e-8f38-3289a204bc03
+18/12/2024 10:36 r$ 47,00
+1,38% r$ 0,65
+r$ 46,35
+19/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+silva/marcio a s da
+mastercard cartão de débito
+1 6308
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+5d49b888-ff37-4f92-a363-64d7e0cb9c39
+18/12/2024 10:16 r$ 78,00
+1,38% r$ 1,08
+r$ 76,92
+19/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+reginaldo e santos
+visa
+cartão de débito
+1 2894
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+3c90ab3e-ff70-42c1-984f-42f79370af45
+17/12/2024 17:35 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+18/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+ferreira/uada m m
+mastercard cartão de débito
+1 9192
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+2fc0dac4-107e-4dcf-ad90-23a46408e4c2
+17/12/2024 15:49 r$ 18,00
+1,38% r$ 0,25
+r$ 17,75
+18/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 8209
+cartão por aproximação
+débito
+positivo l3/4ad679202
+687cf5ff-f666-43e9-a58e-337cd6d8a144
+17/12/2024 15:29 r$ 12,00
+1,38% r$ 0,17
+r$ 11,83
+18/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 6453
+cartão por aproximação
+débito
+positivo l3/4ad679202
+87b56630-bdd8-49da-806a-5d1f28afa373
+17/12/2024 13:42 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+18/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+oliveira/andrea f s
+mastercard cartão de débito
+1 8370
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+7c04d243-aec1-4ad6-8770-93e3f2a3cfa3
+17/12/2024 13:39 r$ 18,00
+3,15% r$ 0,57
+r$ 17,43
+18/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 2619
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+bb0582ac-219c-4a38-a415-cd0f765537b9
+17/12/2024 11:38 r$ 40,00
+3,15% r$ 1,26
+r$ 38,74
+18/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de crédito
+1 7391
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+3ee36dba-5ec7-4044-b0bf-dab5f8323e20
+16/12/2024 11:48 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+17/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos/vania a de castro
+mastercard cartão de débito
+1 1837
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+8b8e1b43-4c29-4bc8-8b7d-7e63f32ebe3e
+14/12/2024 12:51 r$ 30,00
+1,38% r$ 0,41
+r$ 29,59
+16/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 0659
+cartão por aproximação
+débito
+positivo l3/4ad679202
+3f59aaea-b40c-4d3b-be58-e5f01288e327
+14/12/2024 12:41 r$ 18,00
+1,38% r$ 0,25
+r$ 17,75
+16/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 9278
+cartão por aproximação
+débito
+positivo l3/4ad679202
+62ea2a9c-93b5-403f-959f-5f797c560dee
+14/12/2024 12:39 r$ 50,00
+1,38% r$ 0,69
+r$ 49,31
+16/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos filho/ailton souza
+mastercard cartão de débito
+1 8653
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+be6154d3-0c08-4d6d-b9e4-81f70b833471
+14/12/2024 12:23 r$ 100,00 3,15% r$ 3,15
+r$ 96,85
+16/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos/osmar l dos
+mastercard cartão de crédito
+1 6318
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202
+881c8dbb-2df4-4bff-b741-456bd5ecc574
+13/12/2024 16:32 r$ 70,00
+3,15% r$ 2,21
+r$ 67,79
+16/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de crédito
+1 2888
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+4e72ca3b-5716-40fd-befd-b524d544de8f
+13/12/2024 16:22 r$ 30,00
+1,38% r$ 0,41
+r$ 29,59
+16/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+cipriano/elaine aparecida
+visa
+cartão de débito
+1 6368
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+8e1c3389-ee73-4077-8b4e-b04cbf373d74
+13/12/2024 15:04 r$ 20,00
+3,15% r$ 0,63
+r$ 19,37
+16/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 2041
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+d102cb8c-6576-4f7f-829c-c10fafcb597b
+12/12/2024 16:52 r$ 30,00
+3,15% r$ 0,95
+r$ 29,05
+13/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+lopes/rosiliane f s
+mastercard cartão de crédito
+1 3325
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202
+2bfe4d0f-83ba-451f-b85e-1d5ef1a17d35
+12/12/2024 16:48 r$ 30,00
+3,15% r$ 0,95
+r$ 29,05
+13/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de crédito
+1 7019
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+fa756f8a-a982-4a81-bf8b-cdc5c211142f
+12/12/2024 15:13 r$ 20,00
+3,15% r$ 0,63
+r$ 19,37
+13/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+amaral/reinaldo f
+mastercard cartão de crédito
+1 6360
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202
+012d2b43-5fb3-4ffe-87fa-c5b1adfbbd0d
+12/12/2024 10:29 r$ 20,00
+3,15% r$ 0,63
+r$ 19,37
+13/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+visa
+cartão de crédito
+1 1258
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+073203b7-616b-463b-a228-677dc4e95f5f
+11/12/2024 15:43 r$ 70,00
+1,38% r$ 0,97
+r$ 69,03
+12/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+silva/walison sirlei p da
+mastercard cartão de débito
+1 1452
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+8411e686-c17a-4a9f-bc53-6133379abe8d
+11/12/2024 15:43 r$ 70,00
+recusada
+promoton_tier_regular_abr24
+silva/walison sirlei p da
+mastercard cartão de débito
+1 1452
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+deaf7278-d51a-4105-a490-c75a38145ac3
+11/12/2024 15:42 r$ 70,00
+recusada
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 1452
+cartão por aproximação
+débito
+positivo l3/4ad679202
+731303d7-bc45-4d61-8759-8ed67ab9f293
+11/12/2024 15:39 r$ 10,00
+1,38% r$ 0,14
+r$ 9,86
+12/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos/aldeir f
+mastercard cartão de débito
+1 3640
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+b4e48ab2-19b4-49f2-8451-137d64b4c725
+11/12/2024 12:43 r$ 37,00
+1,38% r$ 0,51
+r$ 36,49
+12/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 8503
+cartão por aproximação
+débito
+positivo l3/4ad679202
+4a00aac9-d588-4701-840f-ecd568714f8e
+11/12/2024 12:27 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+12/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 6638
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+856a2e1f-3a25-4bbf-8025-6bb801b38d6b
+10/12/2024 16:50 r$ 5,00
+1,38% r$ 0,07
+r$ 4,93
+11/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 0555
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+9a392b81-19d9-4071-954e-3f0c1011a384
+10/12/2024 16:50 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+11/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 0555
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+0638ff6e-a7f8-4b18-b598-1ff6e8de4e9f
+10/12/2024 15:31 r$ 33,00
+1,38% r$ 0,46
+r$ 32,54
+11/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 2698
+cartão por aproximação
+débito
+positivo l3/4ad679202
+c35b9bf1-442a-4281-b3ab-b2b940391025
+10/12/2024 15:21 r$ 17,00
+3,15% r$ 0,54
+r$ 16,46
+11/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+almeida/maria n
+mastercard cartão de crédito
+1 1196
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202
+bbf4856b-dab1-416f-8e2c-9a6ba74d68b3
+09/12/2024 15:46 r$ 20,00
+2,57% r$ 0,51
+r$ 19,49
+10/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paulino pereira cordeiro
+elo
+cartão de débito
+1 6105
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+e1484172-1f2b-451b-8519-74bf9fed30b1
+09/12/2024 12:05 r$ 40,00
+1,38% r$ 0,55
+r$ 39,45
+10/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+antonio ramos da silva
+visa
+cartão de débito
+1 2696
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+2f0df148-6d5d-4d0c-9ae2-f60faa075d62
+09/12/2024 11:31 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+10/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+neuza m q gomes
+mastercard cartão de débito
+1 0446
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+7cc4564c-289b-4b9d-93ae-094288435346
+08/12/2024 12:36 r$ 20,00
+3,15% r$ 0,63
+r$ 19,37
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+felicio/telma dos s
+visa
+cartão de crédito
+1 0175
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202
+82ddb372-dd39-41c3-9886-2141eee4348a
+08/12/2024 12:28 r$ 60,00
+1,38% r$ 0,83
+r$ 59,17
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 7441
+cartão por aproximação
+débito
+positivo l3/4ad679202
+ad7d34ac-fa99-4d30-9119-cd30c1282b2f
+08/12/2024 12:26 r$ 75,00
+1,38% r$ 1,04
+r$ 73,96
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+martins/aline
+mastercard cartão de débito
+1 0725
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+9ff74d94-3ef9-4ff9-a4f2-b2674a2c15db
+08/12/2024 11:58 r$ 23,00
+1,38% r$ 0,32
+r$ 22,68
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+caetano/maria das gracas
+visa
+cartão de débito
+1 2537
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+1f1fa21d-532e-4517-9bce-36b192220905
+08/12/2024 11:57 r$ 15,00
+recusada
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 2537
+cartão por aproximação
+débito
+positivo l3/4ad679202
+c118b860-6091-40e9-a73d-7ae3bfb1da09
+08/12/2024 10:47 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 2300
+cartão por aproximação
+débito
+positivo l3/4ad679202
+3275799e-f210-4b61-962f-d3db67fa90ce
+08/12/2024 10:35 r$ 30,00
+1,38% r$ 0,41
+r$ 29,59
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos/rodrigo dos
+mastercard cartão de débito
+1 1963
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+6d7c0ddd-069f-4b6f-8365-1a09f7719dd4
+08/12/2024 10:11 r$ 48,00
+1,38% r$ 0,66
+r$ 47,34
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 3353
+cartão por aproximação
+débito
+positivo l3/4ad679202
+7ec0b595-945f-421b-9aa7-ade02ae2d73f
+07/12/2024 11:53 r$ 112,00
+recusada
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 8137
+cartão por aproximação
+débito
+positivo l3/4ad679202
+626e6d84-a13e-4ca7-9456-54c4ce3a6b8c
+07/12/2024 11:31 r$ 89,00
+1,38% r$ 1,23
+r$ 87,77
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos/elisson e
+mastercard cartão de débito
+1 9081
+cartão inserido na maquininha
+prepaid
+positivo l3/4ad679202
+2ea390d9-b9f0-414d-9ef3-c2e29e38be30
+07/12/2024 11:27 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+daniela marques ferreira
+visa
+cartão de débito
+1 9304
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+173f5af1-f75f-4d86-9b55-62c19a173f54
+07/12/2024 11:23 r$ 35,00
+3,15% r$ 1,10
+r$ 33,90
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 2798
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+29ca1f30-d5c1-4c61-9efb-1205f4f54195
+07/12/2024 10:51 r$ 92,00
+3,15% r$ 2,90
+r$ 89,10
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de crédito
+1 5837
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+8949f594-baea-4d7c-bc29-68c081e1d42f
+06/12/2024 17:41 r$ 60,00
+1,38% r$ 0,83
+r$ 59,17
+09/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 5151
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+daff59d0-6243-4a0b-b4d1-a9637e17d756
+03/12/2024 17:48 r$ 28,00
+1,38% r$ 0,39
+r$ 27,61
+04/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 8209
+cartão por aproximação
+débito
+positivo l3/4ad679202
+22348b12-f1ed-4ea0-b78e-f525aff3ee5a
+03/12/2024 17:39 r$ 110,00 1,38% r$ 1,52
+r$ 108,48
+04/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+daniele souza do nasciment
+visa
+cartão de débito
+1 2434
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+07e0c811-fd6d-4ff4-9189-63a2ad87f1da
+03/12/2024 17:05 r$ 63,00
+1,38% r$ 0,87
+r$ 62,13
+04/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 4461
+cartão por aproximação
+débito
+positivo l3/4ad679202
+441f03ae-2cf2-44b6-9d0a-3d9c0de2ea62
+03/12/2024 15:26 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+04/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 7259
+cartão por aproximação
+débito
+positivo l3/4ad679202
+b90a58ec-4f92-475e-9287-c774140d189e
+03/12/2024 15:25 r$ 20,00
+1,38% r$ 0,28
+r$ 19,72
+04/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 6453
+cartão por aproximação
+débito
+positivo l3/4ad679202
+ed6015ce-2653-47ec-b4e7-334e24a1e568
+03/12/2024 12:59 r$ 25,00
+1,38% r$ 0,35
+r$ 24,65
+04/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de débito
+1 8256
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+d92a1b11-5b1d-4c8e-b759-6c3b2ab943e4
+03/12/2024 12:57 r$ 15,00
+3,15% r$ 0,47
+r$ 14,53
+04/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 2619
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+c9665138-13c2-4c72-a7d9-a085307d9101
+03/12/2024 12:54 r$ 40,00
+3,15% r$ 1,26
+r$ 38,74
+04/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de crédito
+1 6662
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+c088345d-8ae9-4e89-aabf-faff0a9a9536
+02/12/2024 11:34 r$ 12,00
+1,38% r$ 0,17
+r$ 11,83
+03/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 2256
+cartão por aproximação
+prepaid
+positivo l3/4ad679202
+101e2b1c-0aff-4353-9ecc-c0b8eab4b956
+01/12/2024 12:50 r$ 25,00
+3,15% r$ 0,79
+r$ 24,21
+02/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 7327
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+432e1e67-08b0-4c51-8d77-418d534c9b06
+01/12/2024 12:30 r$ 30,00
+3,15% r$ 0,95
+r$ 29,05
+02/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+paywave/visa
+visa
+cartão de crédito
+1 1048
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+99bd0fd0-cde4-4511-b016-c723e5a5c2a5
+01/12/2024 12:28 r$ 10,00
+3,15% r$ 0,32
+r$ 9,68
+02/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de crédito
+1 4043
+cartão por aproximação
+crédito
+positivo l3/4ad679202
+91891b6b-1d30-4c9a-9275-81123aaee823
+01/12/2024 11:08 r$ 25,00
+1,38% r$ 0,35
+r$ 24,65
+02/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+mastercard cartão de débito
+1 2300
+cartão por aproximação
+débito
+positivo l3/4ad679202
+834692dd-4b1b-47f0-a49a-370958884b0d
+01/12/2024 10:58 r$ 40,00
+1,38% r$ 0,55
+r$ 39,45
+02/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+danilo costa santos
+visa
+cartão de débito
+1 4021
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+b1f4c9c8-39df-4d07-a86c-3b532e2a509c
+01/12/2024 10:12 r$ 28,00
+2,57% r$ 0,72
+r$ 27,28
+02/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+tatiana monica dias silva
+elo
+cartão de débito
+1 1158
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+73580730-9b8d-4db4-8cc6-a67ab15565c0
+01/12/2024 10:09 r$ 62,00
+2,57% r$ 1,59
+r$ 60,41
+02/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+damiana de fatima silva
+elo
+cartão de débito
+1 9314
+cartão inserido na maquininha
+débito
+positivo l3/4ad679202
+87bc231c-3089-495b-b5cb-9011f619cb5e
+01/12/2024 09:50 r$ 15,00
+3,15% r$ 0,47
+r$ 14,53
+02/12/2024 10:00
+paga
+promoton_tier_regular_abr24
+santos/ana m s
+mastercard cartão de crédito
+1 9334
+cartão inserido na maquininha
+crédito
+positivo l3/4ad679202

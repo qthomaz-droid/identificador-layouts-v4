@@ -1,0 +1,1636 @@
+receitas e despesas por competência
+período: de 01/01/2022 até 31/01/2022
+emitido em: 05/01/2023 19:19:54
+adl servicos & consultoria
+competência
+número doc
+favorecido/pagador
+plano de conta
+lanc.
+valor
+c/d
+centro de custo
+histórico
+conta
+orig.*
+* (origem: lc = lançamentos em conta, cp = contas a pagar e cr = contas a receber)
+vencimento
+banco do 
+01/01/2022
+(80,00)
+s/n
+escritório:servidor 
+d
+x
+00- adm matriz
+servidor de emails
+produtora boop - naison roberto cunha
+cp
+10/01/2022
+banco do 
+03/01/2022
+(402,54)
+20842
+transporte:combustí
+d
+x
+02- nova olinda
+abastecimento de maquinas 
+jose francisco filho mercadoria
+cp
+15/01/2022
+banco do 
+03/01/2022
+(14.527,77)
+transporte:combustí
+d
+x
+02- nova olinda
+abastecimento de maquinas 
+jose francisco filho mercadoria
+cp
+16/01/2022
+banco do 
+03/01/2022
+(3.535,70)
+pessoal:férias
+d
+x
+00- adm matriz
+férias 2021
+alessandra mendes de sousa 
+cp
+03/01/2022
+banco do 
+03/01/2022
+(282,00)
+manutenção:peça 
+d
+x
+05 - prad mcs ii
+auto center confiança
+cp
+03/01/2022
+banco do 
+03/01/2022
+24.155,82
+202157
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power modelo i 
+cr
+18/01/2022
+banco do 
+04/01/2022
+(6.700,00)
+despesa 
+d
+x
+11. construção da guarita
+compra de placas solares para 
+saman energia
+cp
+04/01/2022
+banco do 
+04/01/2022
+(1.401,88)
+658
+transporte:combustí
+d
+x
+12. manutenção de vias - bw
+pg combustivelobra bw
+posto guirapa
+cp
+04/01/2022
+banco do 
+04/01/2022
+(25.000,00)
+despesa 
+d
+x
+15 - britas bases mcsii
+aquisição de britas
+incosol indústria de corretivo de solos
+cp
+04/01/2022
+banco do 
+04/01/2022
+(6.500,00)
+locação 
+d
+x
+05 - prad mcs ii
+locação de 4   banheiros 
+jilmario estruturas
+cp
+15/01/2022
+banco do 
+04/01/2022
+(2.452,00)
+viagem:hospedagem
+d
+x
+12. manutenção de vias - bw
+alimentação dez 2021
+alex sander de oliveira
+cp
+04/01/2022
+banco do 
+04/01/2022
+(11.457,18)
+1483
+transporte:combustí
+d
+x
+05 - prad mcs ii
+abastescimento de 
+apoio derivados de petroleo ltda
+cp
+04/01/2022
+banco do 
+04/01/2022
+(520,00)
+despesa 
+d
+x
+00- adm matriz
+compras de insumos
+luisa dinali
+cp
+04/01/2022
+banco do 
+04/01/2022
+(6.515,24)
+escritório:aluguel
+d
+x
+00- adm matriz
+aluguel de móveis de 
+locares containers 
+cp
+12/02/2022
+banco do 
+05/01/2022
+(519,40)
+despesa gerais:art 
+d
+x
+00- adm matriz
+anuidade crea anderson
+crea - ba
+cp
+05/01/2022
+banco do 
+05/01/2022
+(233,94)
+despesa gerais:art 
+d
+x
+16 - bases de concreto
+art bases de concreto
+crea - ba
+cp
+05/01/2022
+banco do 
+05/01/2022
+(212,00)
+escritório:sistema 
+d
+x
+00- adm matriz
+sistema financeiro ao3
+sage brasil software ltda
+cp
+10/01/2022
+banco do 
+05/01/2022
+(7.054,00)
+pessoal:alimentaçã
+d
+x
+05 - prad mcs ii
+fornecimento de café da 
+anjos e teles hotel e 
+cp
+06/01/2022
+banco do 
+05/01/2022
+3.204,06
+20224
+comercial:serviços
+c
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica angical s.a.
+cr
+28/01/2022
+banco do 
+05/01/2022
+4.112,82
+202210
+comercial:serviços
+c
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica teiu s/a
+cr
+28/01/2022
+banco do 
+05/01/2022
+7.771,46
+20228
+comercial:serviços
+c
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica inhambu s/a
+cr
+28/01/2022
+banco do 
+05/01/2022
+6.854,69
+20227
+comercial:serviços
+c
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica corrupiao s/a
+cr
+28/01/2022
+banco do 
+05/01/2022
+7.313,07
+20229
+comercial:serviços
+c
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica tamandua mirim 
+cr
+28/01/2022
+banco do 
+05/01/2022
+(352,49)
+20224
+impostos:inss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica angical s.a.
+cr
+28/01/2022
+banco do 
+05/01/2022
+(160,22)
+20224
+impostos:iss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica angical s.a.
+cr
+28/01/2022
+banco do 
+05/01/2022
+(452,41)
+202210
+impostos:inss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica teiu s/a
+cr
+28/01/2022
+banco do 
+05/01/2022
+(205,64)
+202210
+impostos:iss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica teiu s/a
+cr
+28/01/2022
+página 1
+https://tech.iob.com.br/
+start
+receitas e despesas por competência
+período: de 01/01/2022 até 31/01/2022
+emitido em: 05/01/2023 19:19:54
+adl servicos & consultoria
+competência
+número doc
+favorecido/pagador
+plano de conta
+lanc.
+valor
+c/d
+centro de custo
+histórico
+conta
+orig.*
+* (origem: lc = lançamentos em conta, cp = contas a pagar e cr = contas a receber)
+vencimento
+banco do 
+05/01/2022
+(854,86)
+20228
+impostos:inss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica inhambu s/a
+cr
+28/01/2022
+banco do 
+05/01/2022
+(388,57)
+20228
+impostos:iss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica inhambu s/a
+cr
+28/01/2022
+banco do 
+05/01/2022
+(754,02)
+20227
+impostos:inss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica corrupiao s/a
+cr
+28/01/2022
+banco do 
+05/01/2022
+(342,73)
+20227
+impostos:iss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica corrupiao s/a
+cr
+28/01/2022
+banco do 
+05/01/2022
+(804,44)
+20229
+impostos:inss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica tamandua mirim 
+cr
+28/01/2022
+banco do 
+05/01/2022
+(365,65)
+20229
+impostos:iss
+d
+x
+12. manutenção de vias - bw
+bm-01 recuperação de vias e 
+central eolica tamandua mirim 
+cr
+28/01/2022
+banco do 
+06/01/2022
+(998,55)
+serviços 
+d
+x
+04 - cafarnaum
+contas de energia acumuladas
+maria shekyna guedes macaubas
+cp
+06/01/2022
+banco do 
+07/01/2022
+(24.975,00)
+1069
+despesa 
+d
+x
+05 - prad mcs ii
+compra de sementes de capim 
+agrosementes
+cp
+07/01/2022
+banco do 
+07/01/2022
+(17.120,00)
+10089
+despesa 
+d
+x
+05 - prad mcs ii
+adubo quimico prad
+fertimaxi
+cp
+07/01/2022
+banco do 
+07/01/2022
+(14.000,00)
+tercerizados:pr
+d
+x
+07- serviço de flora
+pagamento prestação de serviços 
+gabriel matos lima
+cp
+07/01/2022
+banco do 
+07/01/2022
+(5.000,00)
+capex - despesas 
+d
+x
+00- adm matriz
+compra hidrossemeador
+anderson clayton marques lima
+cp
+07/01/2022
+banco do 
+07/01/2022
+(240,00)
+despesa 
+d
+x
+05 - prad mcs ii
+compra de gelo
+edna ferreira dos santos aquino
+cp
+10/01/2022
+banco do 
+07/01/2022
+(777,44)
+pessoal:salário
+d
+x
+05 - prad mcs ii
+pg salário
+aderito pereira sousa
+cp
+07/01/2022
+banco do 
+07/01/2022
+(1.251,20)
+pessoal:salário
+d
+x
+05 - prad mcs ii
+pg salario
+ailton silva de almeida
+cp
+07/01/2022
+banco do 
+07/01/2022
+(746,60)
+pessoal:salário
+d
+x
+05 - prad mcs ii
+pg salário
+diogo santana dos santos
+cp
+07/01/2022
+banco do 
+07/01/2022
+(1.699,53)
+pessoal:salário
+d
+x
+05 - prad mcs ii
+salário dez 2021
+ademilson oliveira ferreira si
+cp
+07/01/2022
+banco do 
+07/01/2022
+(210,00)
+despesa 
+d
+x
+00- adm matriz
+center móveis e 
+cp
+07/01/2022
+banco do 
+07/01/2022
+(1.598,31)
+pessoal:salário
+d
+x
+00- adm matriz
+férias 2021
+alessandra mendes de sousa 
+cp
+07/01/2022
+banco do 
+07/01/2022
+(4.430,00)
+d
+x
+00- adm matriz
+ademar saraiva
+cp
+07/01/2022
+banco do 
+07/01/2022
+(2.300,00)
+despesa 
+d
+x
+05 - prad mcs ii
+topógrafo
+paulo monteiro costa
+cp
+07/01/2022
+banco do 
+07/01/2022
+(200,00)
+manutenção:peça 
+d
+x
+00- adm matriz
+comveima comércio de veiculos
+cp
+07/01/2022
+banco do 
+08/01/2022
+(44,70)
+293865
+serviços 
+d
+x
+01- lt brumado
+pag conta de internet 
+portalsat comercio e serviço ltda
+cp
+22/12/2021
+banco do 
+10/01/2022
+(470,00)
+pessoal:exames
+d
+x
+10 - manutenção de vias - 
+exames demissional e covid
+clinica lobo cabral
+cp
+15/01/2022
+banco do 
+10/01/2022
+(81,81)
+serviços 
+d
+x
+00- adm matriz
+pag internet 
+evaldo rodrigues lima me
+cp
+14/01/2022
+banco do 
+10/01/2022
+(320,00)
+escritório
+d
+x
+05 - prad mcs ii
+limpesa escritório e 
+claudenice simone matos dos 
+cp
+14/01/2022
+banco do 
+10/01/2022
+(500,00)
+despesa 
+d
+x
+05 - prad mcs ii
+conserto batida veículo da 
+ronivaldo  dos anjos oliveira
+cp
+10/01/2022
+banco do 
+10/01/2022
+85.352,89
+202211
+comercial:serviços
+c
+x
+15 - britas bases mcsii
+bm-01 espalhamento de britas nas 
+enel green power ventos de 
+cr
+07/02/2022
+página 2
+https://tech.iob.com.br/
+start
+receitas e despesas por competência
+período: de 01/01/2022 até 31/01/2022
+emitido em: 05/01/2023 19:19:54
+adl servicos & consultoria
+competência
+número doc
+favorecido/pagador
+plano de conta
+lanc.
+valor
+c/d
+centro de custo
+histórico
+conta
+orig.*
+* (origem: lc = lançamentos em conta, cp = contas a pagar e cr = contas a receber)
+vencimento
+banco do 
+10/01/2022
+(9.388,82)
+202211
+impostos:inss
+d
+x
+15 - britas bases mcsii
+bm-01 espalhamento de britas nas 
+enel green power ventos de 
+cr
+07/02/2022
+banco do 
+10/01/2022
+(4.267,64)
+202211
+impostos:iss
+d
+x
+15 - britas bases mcsii
+bm-01 espalhamento de britas nas 
+enel green power ventos de 
+cr
+07/02/2022
+banco do 
+11/01/2022
+(170,00)
+manutenção:peça 
+d
+x
+12. manutenção de vias - bw
+compra de peça caminhão 
+mec diesel
+cp
+11/01/2022
+banco do 
+11/01/2022
+(148,50)
+serviços 
+d
+x
+05 - prad mcs ii
+pag. conta de energia 
+coelba
+cp
+05/01/2022
+banco do 
+11/01/2022
+(3.708,67)
+viagem:passagens
+d
+x
+00- adm matriz
+compra de passagem aérea 
+lessan viagens
+cp
+17/01/2022
+banco do 
+11/01/2022
+(150,00)
+tercerizados:dia
+d
+x
+12. manutenção de vias - bw
+limpeza alojamento
+alex sander de oliveira
+cp
+11/01/2022
+banco do 
+11/01/2022
+(882,20)
+pessoal:alimentaçã
+d
+x
+12. manutenção de vias - bw
+alimentação1ª semana jan 2022
+alex sander de oliveira
+cp
+11/01/2022
+banco do 
+11/01/2022
+(347,84)
+despesa 
+d
+x
+11. construção da guarita
+compra de ferros guarita
+nafa comercio ferro e aco ltda
+cp
+11/01/2022
+banco do 
+11/01/2022
+(1.005,40)
+pessoal:epis
+d
+x
+05 - prad mcs ii
+compra de epis
+gomes e nasc. equip. de segurança ltda
+cp
+03/02/2022
+banco do 
+11/01/2022
+(7.000,00)
+bm 02
+locação :veiculo
+d
+x
+05 - prad mcs ii
+locação caminhão okj9j89
+euclides rocha montenegro
+cp
+05/02/2022
+banco do 
+12/01/2022
+(1.170,00)
+pessoal:alimentaçã
+d
+x
+05 - prad mcs ii
+fornecimento de 
+taciano reis falção
+cp
+17/01/2022
+banco do 
+12/01/2022
+(530,00)
+manutenção:peça 
+d
+x
+05 - prad mcs ii
+amortecedor diant e trazeiro da 
+j. m. gonçalves
+cp
+12/01/2022
+banco do 
+12/01/2022
+(255,00)
+manutenção:lavagem
+d
+x
+05 - prad mcs ii
+lavagem de carros
+lava jato bambu
+cp
+14/01/2022
+banco do 
+12/01/2022
+(5.000,00)
+locação :veiculo
+d
+x
+05 - prad mcs ii
+locação caminhão pipa
+isaac pereira de almeida
+cp
+17/01/2022
+banco do 
+12/01/2022
+(3.500,00)
+locação :veiculo
+d
+x
+09 - caitite
+transporte de funcionários de 
+alcione  menezes de araújo
+cp
+07/01/2022
+banco do 
+12/01/2022
+(2.700,00)
+manutenção:peça 
+d
+x
+05 - prad mcs ii
+serviços diversos solda e 
+carlos diego cerqueira nogueira
+cp
+12/01/2022
+banco do 
+12/01/2022
+(15.500,00)
+despesa 
+d
+x
+05 - prad mcs ii
+locação caçamba para topsoil
+francisco das chagas silva q. júnior
+cp
+16/01/2022
+banco do 
+12/01/2022
+(13.500,00)
+locação 
+d
+x
+05 - prad mcs ii
+locação trator agrícola
+julia maria almeida andrade
+cp
+18/01/2022
+banco do 
+12/01/2022
+30.719,25
+202158
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power cumaru 03 s.a.
+cr
+18/01/2022
+banco do 
+12/01/2022
+20.859,12
+202159
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power emiliana 
+cr
+18/01/2022
+banco do 
+12/01/2022
+16.863,12
+202160
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power cristal eolica 
+cr
+18/01/2022
+banco do 
+12/01/2022
+25.983,99
+202162
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de conectividade 
+enel green power damascena 
+cr
+18/01/2022
+banco do 
+12/01/2022
+16.863,12
+202161
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power damascena 
+cr
+18/01/2022
+banco do 
+12/01/2022
+(3.379,12)
+202158
+impostos:inss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power cumaru 03 s.a.
+cr
+18/01/2022
+banco do 
+12/01/2022
+(1.535,96)
+202158
+impostos:iss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power cumaru 03 s.a.
+cr
+18/01/2022
+banco do 
+12/01/2022
+(2.294,50)
+202159
+impostos:inss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power emiliana 
+cr
+18/01/2022
+banco do 
+12/01/2022
+(1.042,96)
+202159
+impostos:iss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power emiliana 
+cr
+18/01/2022
+página 3
+https://tech.iob.com.br/
+start
+receitas e despesas por competência
+período: de 01/01/2022 até 31/01/2022
+emitido em: 05/01/2023 19:19:54
+adl servicos & consultoria
+competência
+número doc
+favorecido/pagador
+plano de conta
+lanc.
+valor
+c/d
+centro de custo
+histórico
+conta
+orig.*
+* (origem: lc = lançamentos em conta, cp = contas a pagar e cr = contas a receber)
+vencimento
+banco do 
+12/01/2022
+(1.854,94)
+202160
+impostos:inss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power cristal eolica 
+cr
+18/01/2022
+banco do 
+12/01/2022
+(843,16)
+202160
+impostos:iss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power cristal eolica 
+cr
+18/01/2022
+banco do 
+12/01/2022
+(1.854,94)
+202161
+impostos:inss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power damascena 
+cr
+18/01/2022
+banco do 
+12/01/2022
+(2.858,24)
+202162
+impostos:inss
+d
+x
+07- serviço de flora
+monitoramento de conectividade 
+enel green power damascena 
+cr
+18/01/2022
+banco do 
+12/01/2022
+(843,16)
+202161
+impostos:iss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power damascena 
+cr
+18/01/2022
+banco do 
+12/01/2022
+(1.299,20)
+202162
+impostos:iss
+d
+x
+07- serviço de flora
+monitoramento de conectividade 
+enel green power damascena 
+cr
+18/01/2022
+banco do 
+13/01/2022
+(1.125,00)
+pessoal:exames
+d
+x
+05 - prad mcs ii
+exames admissionais
+elizangela souza dos reis - me
+cp
+13/01/2022
+banco do 
+14/01/2022
+(1.608,90)
+capex - despesas 
+d
+x
+00- adm matriz
+compra de impressora epson 
+extra
+cp
+14/01/2022
+banco do 
+14/01/2022
+(75,00)
+despesa gerais
+d
+x
+05 - prad mcs ii
+madeiras diversas para construção 
+wellingta sergio santos
+cp
+14/01/2022
+banco do 
+14/01/2022
+(81,81)
+serviços 
+d
+x
+00- adm matriz
+pag internet 
+evaldo rodrigues lima me
+cp
+10/01/2022
+banco do 
+14/01/2022
+(331,06)
+serviços 
+d
+x
+05 - prad mcs ii
+pag. conta de energia 
+coelba
+cp
+19/01/2022
+banco do 
+14/01/2022
+(147,12)
+pessoal:salário
+d
+x
+10 - manutenção de vias - 
+pg salário
+osvaldo felipe dos santos
+cp
+14/01/2022
+banco do 
+14/01/2022
+(482,09)
+viagem:combustível
+d
+x
+05 - prad mcs ii
+despesas de viagem
+francisco marcelo da silva 
+cp
+20/01/2022
+banco do 
+14/01/2022
+19.260,72
+202215
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de processos 
+e.g.p pau ferro eólica
+cr
+15/02/2022
+banco do 
+14/01/2022
+16.023,96
+202214
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de processos 
+e.g.p pau ferro eólica
+cr
+15/02/2022
+banco do 
+14/01/2022
+10.359,63
+202213
+comercial:serviços
+c
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power modelo i 
+cr
+15/02/2022
+banco do 
+14/01/2022
+587.705,07
+202212
+comercial:serviços
+c
+x
+05 - prad mcs ii
+bm-06 prad
+enel green power ventos de 
+cr
+07/02/2022
+banco do 
+14/01/2022
+(2.118,68)
+202215
+impostos:inss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+e.g.p pau ferro eólica
+cr
+15/02/2022
+banco do 
+14/01/2022
+(1.762,64)
+202214
+impostos:inss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+e.g.p pau ferro eólica
+cr
+15/02/2022
+banco do 
+14/01/2022
+(801,20)
+202214
+impostos:iss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+e.g.p pau ferro eólica
+cr
+15/02/2022
+banco do 
+14/01/2022
+(1.139,56)
+202213
+impostos:inss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power modelo i 
+cr
+15/02/2022
+banco do 
+14/01/2022
+(517,98)
+202213
+impostos:iss
+d
+x
+07- serviço de flora
+monitoramento de processos 
+enel green power modelo i 
+cr
+15/02/2022
+banco do 
+14/01/2022
+(64.647,56)
+202212
+impostos:inss
+d
+x
+05 - prad mcs ii
+bm-06 prad
+enel green power ventos de 
+cr
+07/02/2022
+banco do 
+14/01/2022
+(29.385,25)
+202212
+impostos:iss
+d
+x
+05 - prad mcs ii
+bm-06 prad
+enel green power ventos de 
+cr
+07/02/2022
+banco do 
+17/01/2022
+(1.500,00)
+s/n
+escritório:aluguel
+d
+x
+05 - prad mcs ii
+aluguel alojamento/ 
+kailane almeida vaz
+cp
+14/01/2022
+banco do 
+17/01/2022
+(1.130,13)
+pessoal:salário
+d
+x
+12. manutenção de vias - bw
+salário dez 2021
+ademilson pereira de andrade
+cp
+07/01/2022
+banco do 
+17/01/2022
+(278,24)
+despesa 
+d
+x
+05 - prad mcs ii
+compra de materias 
+vasconcelos & guimarães ltda
+cp
+21/01/2022
+página 4
+https://tech.iob.com.br/
+start
+receitas e despesas por competência
+período: de 01/01/2022 até 31/01/2022
+emitido em: 05/01/2023 19:19:54
+adl servicos & consultoria
+competência
+número doc
+favorecido/pagador
+plano de conta
+lanc.
+valor
+c/d
+centro de custo
+histórico
+conta
+orig.*
+* (origem: lc = lançamentos em conta, cp = contas a pagar e cr = contas a receber)
+vencimento
+banco do 
+17/01/2022
+(404,10)
+despesa 
+d
+x
+05 - prad mcs ii
+compra de materias 
+vasconcelos & guimarães ltda
+cp
+20/01/2022
+banco do 
+17/01/2022
+(17,55)
+despesa 
+d
+x
+05 - prad mcs ii
+compra de materias 
+vasconcelos & guimarães ltda
+cp
+18/01/2022
+banco do 
+17/01/2022
+(500,00)
+opex:repasse de 
+d
+x
+12. manutenção de vias - bw
+caixinha bw 01/22
+kaique oliveira frota
+cp
+17/01/2022
+banco do 
+17/01/2022
+(2.750,00)
+s/n
+escritório:aluguel
+d
+x
+administração
+aluguel escritorio/ 
+maria de lourdes andrade de 
+cp
+19/01/2022
+banco do 
+17/01/2022
+(13,60)
+despesa 
+d
+x
+11. construção da guarita
+dispesas diversas
+agro & construshopping
+cp
+07/02/2022
+banco do 
+17/01/2022
+(3.126,42)
+despesa 
+d
+x
+11. construção da guarita
+compra cimento, areia, tábuas
+vasconcelos & guimarães ltda
+cp
+25/01/2022
+banco do 
+17/01/2022
+(82,80)
+despesa 
+d
+x
+05 - prad mcs ii
+compra  bota tipo segurança
+vasconcelos & guimarães ltda
+cp
+25/01/2022
+banco do 
+17/01/2022
+(498,19)
+despesa 
+d
+x
+05 - prad mcs ii
+compra caixa p/ massa, cabo 
+vasconcelos & guimarães ltda
+cp
+26/01/2022
+banco do 
+18/01/2022
+(100,00)
+suprimentos:impress
+d
+x
+00- adm matriz
+pg tinta impressora
+daiane oliveira reis
+cp
+20/01/2022
+banco do 
+18/01/2022
+(305,00)
+despesa gerais
+d
+x
+04 - cafarnaum
+pg de alimentação e furadeira em 
+arnaldo alves de souza
+cp
+20/01/2022
+banco do 
+18/01/2022
+(3.850,00)
+financeiro:honorarios 
+d
+x
+00- adm matriz
+honorarios advocaticios
+elton marinho altenhofen
+cp
+20/01/2022
+banco do 
+18/01/2022
+(1.456,50)
+manutenção:peça 
+d
+x
+05 - prad mcs ii
+compra de filtro,disco, duas 
+italy alves da silva oliveira 
+cp
+11/02/2022
+banco do 
+18/01/2022
+(7.760,00)
+pessoal:alimentaçã
+d
+x
+05 - prad mcs ii
+fornecimento de café da 
+anjos e teles hotel e 
+cp
+25/01/2022
+banco do 
+19/01/2022
+(400,00)
+despesa 
+d
+x
+12. manutenção de vias - bw
+compra de semenetes
+agropecuaria silva
+cp
+19/01/2022
+banco do 
+19/01/2022
+(920,32)
+locação 
+d
+x
+11. construção da guarita
+aluguel de equipamentos - gerador
+casa do construtor 
+cp
+18/01/2022
+banco do 
+19/01/2022
+(200,07)
+locação 
+d
+x
+11. construção da guarita
+aluguel de equipamentos - escada
+casa do construtor 
+cp
+18/01/2022
+banco do 
+19/01/2022
+(352,11)
+locação 
+d
+x
+11. construção da guarita
+aluguel de equipamentos - 
+casa do construtor 
+cp
+18/01/2022
+banco do 
+19/01/2022
+(337,10)
+locação 
+d
+x
+11. construção da guarita
+aluguel de equipamentos - 
+casa do construtor 
+cp
+18/01/2022
+banco do 
+19/01/2022
+(638,21)
+transporte:combustí
+d
+x
+12. manutenção de vias - bw
+abastecimento
+auto posto rancho alegre
+cp
+10/01/2022
+banco do 
+19/01/2022
+(897,32)
+transporte:combustí
+d
+x
+12. manutenção de vias - bw
+abastecimento
+auto posto rancho alegre
+cp
+24/01/2022
+banco do 
+19/01/2022
+(583,19)
+locação 
+d
+x
+12. manutenção de vias - bw
+aluguel de banheiro quimico
+sansset serviços
+cp
+19/01/2022
+banco do 
+19/01/2022
+(233,31)
+capex - despesas 
+d
+x
+11. construção da guarita
+serra marmore
+mercado pago comercio de 
+cp
+19/01/2022
+banco do 
+19/01/2022
+(3.944,60)
+pessoal:epis
+d
+x
+05 - prad mcs ii
+compra de epis
+gomes e nasc. equip. de segurança ltda
+cp
+11/02/2022
+banco do 
+20/01/2022
+(425,00)
+escritório:software 
+d
+x
+00- adm matriz
+mensalidade ponto digital dos 
+ponto mais
+cp
+24/01/2022
+banco do 
+20/01/2022
+(6.004,00)
+662
+transporte:combustí
+d
+x
+12. manutenção de vias - bw
+pg combustivelobra bw
+posto guirapa
+cp
+21/01/2022
+banco do 
+20/01/2022
+(150,00)
+viagem:passagens
+d
+x
+00- adm matriz
+compra de passagem anderson
+roberto viagens
+cp
+21/01/2022
+banco do 
+20/01/2022
+(1.234,08)
+impostos:ir
+d
+x
+00- adm matriz
+ir folha dez 2021
+receita federal do brasil
+cp
+20/01/2022
+página 5
+https://tech.iob.com.br/
+start

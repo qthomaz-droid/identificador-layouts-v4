@@ -1,0 +1,998 @@
+livro diário
+número de ordem do livro:
+entidade:
+período da escrituração:
+cnpj:
+178
+ical energetica ltda
+01/01/2018 a 31/12/2018
+21.501.028/0001-82
+01 de janeiro de 2018 a 31 de dezembro de 2018
+período selecionado:
+data
+nº do lançamento
+nº da conta
+nome da conta
+centro de custo
+d/c
+histórico
+valor
+01/01/2018
+0000022642
+2039
+ferias
+c
+ vlr correção provisão ferias
+r$ 10.419,81
+01/01/2018
+0000022642
+2040
+13º salario
+c
+ vlr correção provisão 13ºsalario
+r$ 22.270,33
+01/01/2018
+0000022642
+2037
+rescisoes a pagar
+c
+ vlr correção rescisoes a pagar
+r$ 1.529,55
+01/01/2018
+0000022642
+3287
+salarios e ordenados
+d
+ vlr correção provisão ferias
+r$ 10.419,81
+01/01/2018
+0000022642
+3287
+salarios e ordenados
+d
+ vlr correção provisão 13ºsalario
+r$ 22.270,33
+01/01/2018
+0000022642
+3287
+salarios e ordenados
+d
+ vlr correção rescisoes a pagar
+r$ 1.529,55
+02/01/2018
+0000017418
+1016
+banco itau s.a
+c
+ tarifa cfe extrato
+r$ 70,14
+02/01/2018
+0000017418
+3401
+despesas bancarias
+d
+ tarifa cfe extrato
+r$ 70,14
+02/01/2018
+0000017437
+1016
+banco itau s.a
+c
+ vlr cfe titulo 281020290 de ima industria
+de madeira imunizada mutuo
+r$ 5.300,00
+02/01/2018
+0000017437
+1016
+banco itau s.a
+c
+ vlr cfe titulo 281020292 de unitas
+administracao participacoes e
+investimentos mutuo
+r$ 410,00
+02/01/2018
+0000017437
+1108
+ima industria de madeira
+imunizada ltda
+d
+ vlr cfe titulo 281020290 de ima industria
+de madeira imunizada mutuo
+r$ 5.300,00
+02/01/2018
+0000017437
+1114
+unitas adm. part e
+investimentos s.a
+d
+ vlr cfe titulo 281020292 de unitas
+administracao participacoes e
+investimentos mutuo
+r$ 410,00
+02/01/2018
+0000017438
+1025
+clientes
+c
+ recebto titulo 6171/01 de metalsider
+ltda
+r$ 15.000,00
+02/01/2018
+0000017438
+1025
+clientes
+c
+ recebto titulo 6172/01 de metalsider
+ltda
+r$ 15.000,00
+02/01/2018
+0000017438
+1025
+clientes
+c
+ recebto titulo 6173/01 de metalsider
+ltda
+r$ 15.000,00
+02/01/2018
+0000017438
+1025
+clientes
+c
+ recebto titulo 6174/01 de metalsider
+ltda
+r$ 2.637,50
+02/01/2018
+0000017438
+1016
+banco itau s.a
+d
+ recebto nf/titulo 6171/01 de metalsider
+ltda - seq. 11
+r$ 15.000,00
+02/01/2018
+0000017438
+1016
+banco itau s.a
+d
+ recebto nf/titulo 6172/01 de metalsider
+ltda - seq. 9
+r$ 15.000,00
+02/01/2018
+0000017438
+1016
+banco itau s.a
+d
+ recebto nf/titulo 6173/01 de metalsider
+ltda - seq. 8
+r$ 15.000,00
+02/01/2018
+0000017438
+1016
+banco itau s.a
+d
+ recebto nf/titulo 6174/01 de metalsider
+ltda - seq. 10
+r$ 2.637,50
+02/01/2018
+0000017470
+1016
+banco itau s.a
+c
+ pagto nf/titulo 1326df01 de centro
+automotivo barreiro ltda-me - doc 3
+r$ 639,00
+02/01/2018
+0000017470
+1016
+banco itau s.a
+c
+ pagto nf/titulo 2017349nse1 de centro
+automotivo barreiro ltda-me - doc 3
+r$ 110,00
+este relatório foi gerado pelo sistema público de escrituração digital – sped
+versão 7.0.5 do visualizador
+página 1 de 791
+livro diário
+número de ordem do livro:
+entidade:
+período da escrituração:
+cnpj:
+178
+ical energetica ltda
+01/01/2018 a 31/12/2018
+21.501.028/0001-82
+01 de janeiro de 2018 a 31 de dezembro de 2018
+período selecionado:
+data
+nº do lançamento
+nº da conta
+nome da conta
+centro de custo
+d/c
+histórico
+valor
+02/01/2018
+0000017470
+1016
+banco itau s.a
+c
+ pagto nf/titulo 67801df01 de refil pecas
+diesel ltda. - doc 2
+r$ 1.631,18
+02/01/2018
+0000017470
+1016
+banco itau s.a
+c
+ pagto nf/titulo saturnino291217 de
+saturnino da silveira - doc 5
+r$ 88,85
+02/01/2018
+0000017470
+2012
+fornecedores
+d
+ pagto nf/titulo 1326df01 de centro
+automotivo barreiro ltda-me
+r$ 639,00
+02/01/2018
+0000017470
+2012
+fornecedores
+d
+ pagto nf/titulo 2017349nse1 de centro
+automotivo barreiro ltda-me
+r$ 110,00
+02/01/2018
+0000017470
+2012
+fornecedores
+d
+ pagto nf/titulo 67801df01 de refil pecas
+diesel ltda.
+r$ 1.631,18
+02/01/2018
+0000017470
+2012
+fornecedores
+d
+ pagto nf/titulo saturnino291217 de
+saturnino da silveira
+r$ 88,85
+02/01/2018
+0000017471
+1016
+banco itau s.a
+c
+ pagto nf/titulo 4065cte1 de transcas
+transportes ltda - me - doc 4
+r$ 2.149,20
+02/01/2018
+0000017471
+1016
+banco itau s.a
+c
+ pagto nf/titulo 4066cte1 de transcas
+transportes ltda - me - doc 4
+r$ 2.149,20
+02/01/2018
+0000017471
+1016
+banco itau s.a
+c
+ pagto nf/titulo 4068cte1 de transcas
+transportes ltda - me - doc 4
+r$ 2.149,20
+02/01/2018
+0000017471
+2012
+fornecedores
+d
+ pagto nf/titulo 4065cte1 de transcas
+transportes ltda - me
+r$ 2.149,20
+02/01/2018
+0000017471
+2012
+fornecedores
+d
+ pagto nf/titulo 4066cte1 de transcas
+transportes ltda - me
+r$ 2.149,20
+02/01/2018
+0000017471
+2012
+fornecedores
+d
+ pagto nf/titulo 4068cte1 de transcas
+transportes ltda - me
+r$ 2.149,20
+04/01/2018
+0000017368
+2031
+pis a recolher
+c
+ pis s/nf 6175 de metalsider ltda
+r$ 267,30
+04/01/2018
+0000017368
+2030
+cofins a recolher
+c
+ cofins s/nf 6175 de metalsider ltda
+r$ 1.231,20
+04/01/2018
+0000017368
+3027
+carvao vegetal
+c
+ venda cfe nf 6175 para metalsider ltda
+r$ 16.200,00
+04/01/2018
+0000017368
+2031
+pis a recolher
+c
+ pis s/nf 6176 de metalsider ltda
+r$ 267,30
+04/01/2018
+0000017368
+2030
+cofins a recolher
+c
+ cofins s/nf 6176 de metalsider ltda
+r$ 1.231,20
+04/01/2018
+0000017368
+3027
+carvao vegetal
+c
+ venda cfe nf 6176 para metalsider ltda
+r$ 16.200,00
+04/01/2018
+0000017368
+1025
+clientes
+d
+ venda cfe nf 6175 para metalsider ltda
+r$ 16.200,00
+04/01/2018
+0000017368
+3065
+pis s/ vendas
+d
+ pis s/nf 6175 de metalsider ltda
+r$ 267,30
+04/01/2018
+0000017368
+3066
+cofins s/ vendas
+d
+ cofins s/nf 6175 de metalsider ltda
+r$ 1.231,20
+04/01/2018
+0000017368
+1025
+clientes
+d
+ venda cfe nf 6176 para metalsider ltda
+r$ 16.200,00
+04/01/2018
+0000017368
+3065
+pis s/ vendas
+d
+ pis s/nf 6176 de metalsider ltda
+r$ 267,30
+04/01/2018
+0000017368
+3066
+cofins s/ vendas
+d
+ cofins s/nf 6176 de metalsider ltda
+r$ 1.231,20
+este relatório foi gerado pelo sistema público de escrituração digital – sped
+versão 7.0.5 do visualizador
+página 2 de 791
+livro diário
+número de ordem do livro:
+entidade:
+período da escrituração:
+cnpj:
+178
+ical energetica ltda
+01/01/2018 a 31/12/2018
+21.501.028/0001-82
+01 de janeiro de 2018 a 31 de dezembro de 2018
+período selecionado:
+data
+nº do lançamento
+nº da conta
+nome da conta
+centro de custo
+d/c
+histórico
+valor
+04/01/2018
+0000017387
+2012
+fornecedores
+c
+ compra cfe nf 56 de luiz fernando de
+carvalho lemos - me
+r$ 6.565,80
+04/01/2018
+0000017387
+3194
+consultoria e assessoria
+d
+ compra cfe nf 56 de luiz fernando de
+carvalho lemos - me
+r$ 6.565,80
+04/01/2018
+0000017388
+2012
+fornecedores
+c
+ compra cfe nf 4163 de transcas
+transportes ltda - me
+r$ 2.149,20
+04/01/2018
+0000017388
+3260
+fretes - pj
+d
+ compra cfe nf 4163 de transcas
+transportes ltda - me
+r$ 2.149,20
+04/01/2018
+0000017419
+3409
+receita aplicacao financeira
+c
+ rendimento s/aplicacao financeira itaú
+r$ 2,17
+04/01/2018
+0000017419
+1016
+banco itau s.a
+d
+ rendimento s/aplicacao financeira itaú
+r$ 2,17
+04/01/2018
+0000017439
+1016
+banco itau s.a
+c
+ vlr cfe titulo 281020293 de fazenda da
+geriza mutuo
+r$ 340,00
+04/01/2018
+0000017439
+1110
+fazenda da geriza ltda
+d
+ vlr cfe titulo 281020293 de fazenda da
+geriza mutuo
+r$ 340,00
+04/01/2018
+0000017472
+1016
+banco itau s.a
+c
+ pagto nf/titulo 4095cte1 de transcas
+transportes ltda - me - doc 2
+r$ 2.149,20
+04/01/2018
+0000017472
+1016
+banco itau s.a
+c
+ pagto nf/titulo 4100cte1 de transcas
+transportes ltda - me - doc 2
+r$ 2.149,20
+04/01/2018
+0000017472
+2012
+fornecedores
+d
+ pagto nf/titulo 4095cte1 de transcas
+transportes ltda - me
+r$ 2.149,20
+04/01/2018
+0000017472
+2012
+fornecedores
+d
+ pagto nf/titulo 4100cte1 de transcas
+transportes ltda - me
+r$ 2.149,20
+04/01/2018
+0000021147
+1059
+antecipacoes 13º salario
+c
+ vlr transferencia ref pgto 13ºsalario
+r$ 26.372,00
+04/01/2018
+0000021147
+3287
+salarios e ordenados
+c
+ vlr ref adiantamentos de salario
+r$ 402,10
+04/01/2018
+0000021147
+1060
+antecipacoes de ferias
+c
+ vlr ref antecipacoes de ferias
+r$ 1.634,16
+04/01/2018
+0000021147
+2035
+salarios a pagar
+d
+ vlr transferencia ref pgto 13ºsalario
+r$ 26.372,00
+04/01/2018
+0000021147
+1058
+adiantamento de salarios
+d
+ vlr ref adiantamentos de salario
+r$ 402,10
+04/01/2018
+0000021147
+3287
+salarios e ordenados
+d
+ vlr ref antecipacoes de ferias
+r$ 1.634,16
+05/01/2018
+0000017369
+2031
+pis a recolher
+c
+ pis s/nf 6177 de metalsider ltda
+r$ 10,73
+05/01/2018
+0000017369
+2030
+cofins a recolher
+c
+ cofins s/nf 6177 de metalsider ltda
+r$ 49,40
+05/01/2018
+0000017369
+3027
+carvao vegetal
+c
+ venda cfe nf 6177 para metalsider ltda
+r$ 650,00
+05/01/2018
+0000017369
+2031
+pis a recolher
+c
+ pis s/nf 6178 de metalsider ltda
+r$ 59,68
+05/01/2018
+0000017369
+2030
+cofins a recolher
+c
+ cofins s/nf 6178 de metalsider ltda
+r$ 274,89
+05/01/2018
+0000017369
+3027
+carvao vegetal
+c
+ venda cfe nf 6178 para metalsider ltda
+r$ 3.616,99
+05/01/2018
+0000017369
+2031
+pis a recolher
+c
+ pis s/nf 6179 de metalsider ltda
+r$ 40,33
+este relatório foi gerado pelo sistema público de escrituração digital – sped
+versão 7.0.5 do visualizador
+página 3 de 791
+livro diário
+número de ordem do livro:
+entidade:
+período da escrituração:
+cnpj:
+178
+ical energetica ltda
+01/01/2018 a 31/12/2018
+21.501.028/0001-82
+01 de janeiro de 2018 a 31 de dezembro de 2018
+período selecionado:
+data
+nº do lançamento
+nº da conta
+nome da conta
+centro de custo
+d/c
+histórico
+valor
+05/01/2018
+0000017369
+2030
+cofins a recolher
+c
+ cofins s/nf 6179 de metalsider ltda
+r$ 185,75
+05/01/2018
+0000017369
+3027
+carvao vegetal
+c
+ venda cfe nf 6179 para metalsider ltda
+r$ 2.444,04
+05/01/2018
+0000017369
+2031
+pis a recolher
+c
+ pis s/nf 6180 de metalsider ltda
+r$ 14,44
+05/01/2018
+0000017369
+2030
+cofins a recolher
+c
+ cofins s/nf 6180 de metalsider ltda
+r$ 66,53
+05/01/2018
+0000017369
+3027
+carvao vegetal
+c
+ venda cfe nf 6180 para metalsider ltda
+r$ 875,43
+05/01/2018
+0000017369
+2031
+pis a recolher
+c
+ pis s/nf 6181 de metalsider ltda
+r$ 267,30
+05/01/2018
+0000017369
+2030
+cofins a recolher
+c
+ cofins s/nf 6181 de metalsider ltda
+r$ 1.231,20
+05/01/2018
+0000017369
+3027
+carvao vegetal
+c
+ venda cfe nf 6181 para metalsider ltda
+r$ 16.200,00
+05/01/2018
+0000017369
+1025
+clientes
+d
+ venda cfe nf 6177 para metalsider ltda
+r$ 650,00
+05/01/2018
+0000017369
+3065
+pis s/ vendas
+d
+ pis s/nf 6177 de metalsider ltda
+r$ 10,73
+05/01/2018
+0000017369
+3066
+cofins s/ vendas
+d
+ cofins s/nf 6177 de metalsider ltda
+r$ 49,40
+05/01/2018
+0000017369
+1025
+clientes
+d
+ venda cfe nf 6178 para metalsider ltda
+r$ 3.616,99
+05/01/2018
+0000017369
+3065
+pis s/ vendas
+d
+ pis s/nf 6178 de metalsider ltda
+r$ 59,68
+05/01/2018
+0000017369
+3066
+cofins s/ vendas
+d
+ cofins s/nf 6178 de metalsider ltda
+r$ 274,89
+05/01/2018
+0000017369
+1025
+clientes
+d
+ venda cfe nf 6179 para metalsider ltda
+r$ 2.444,04
+05/01/2018
+0000017369
+3065
+pis s/ vendas
+d
+ pis s/nf 6179 de metalsider ltda
+r$ 40,33
+05/01/2018
+0000017369
+3066
+cofins s/ vendas
+d
+ cofins s/nf 6179 de metalsider ltda
+r$ 185,75
+05/01/2018
+0000017369
+1025
+clientes
+d
+ venda cfe nf 6180 para metalsider ltda
+r$ 875,43
+05/01/2018
+0000017369
+3065
+pis s/ vendas
+d
+ pis s/nf 6180 de metalsider ltda
+r$ 14,44
+05/01/2018
+0000017369
+3066
+cofins s/ vendas
+d
+ cofins s/nf 6180 de metalsider ltda
+r$ 66,53
+05/01/2018
+0000017369
+1025
+clientes
+d
+ venda cfe nf 6181 para metalsider ltda
+r$ 16.200,00
+05/01/2018
+0000017369
+3065
+pis s/ vendas
+d
+ pis s/nf 6181 de metalsider ltda
+r$ 267,30
+05/01/2018
+0000017369
+3066
+cofins s/ vendas
+d
+ cofins s/nf 6181 de metalsider ltda
+r$ 1.231,20
+05/01/2018
+0000017389
+2012
+fornecedores
+c
+ compra cfe nf 403029 de localiza rent
+a car s/a
+r$ 1.750,00
+05/01/2018
+0000017389
+2012
+fornecedores
+c
+ compra cfe nf 403030 de localiza rent
+a car s/a
+r$ 1.300,00
+05/01/2018
+0000017389
+2012
+fornecedores
+c
+ compra cfe nf 403031 de localiza rent
+a car s/a
+r$ 1.300,00
+05/01/2018
+0000017389
+2012
+fornecedores
+c
+ compra cfe nf 17550 de localiza rent a
+car s/a
+r$ 252,45
+este relatório foi gerado pelo sistema público de escrituração digital – sped
+versão 7.0.5 do visualizador
+página 4 de 791
+livro diário
+número de ordem do livro:
+entidade:
+período da escrituração:
+cnpj:
+178
+ical energetica ltda
+01/01/2018 a 31/12/2018
+21.501.028/0001-82
+01 de janeiro de 2018 a 31 de dezembro de 2018
+período selecionado:
+data
+nº do lançamento
+nº da conta
+nome da conta
+centro de custo
+d/c
+histórico
+valor
+05/01/2018
+0000017389
+2026
+irrf a recolher
+c
+ irrf s/nf 20181 de paulo andre
+rohrman advogados associados-
+epp
+r$ 75,00
+05/01/2018
+0000017389
+2032
+cs-rf a recolher
+c
+ pis/cofins/csll s/nf 20181 de paulo
+andre rohrman advogados
+associados-epp
+r$ 232,50
+05/01/2018
+0000017389
+2012
+fornecedores
+c
+ compra cfe nf 20181 de paulo andre
+rohrman advogados associados-
+epp
+r$ 4.692,50
+05/01/2018
+0000017389
+2012
+fornecedores
+c
+ compra cfe nf 22723 de localiza rent a
+car s/a
+r$ 145,82
+05/01/2018
+0000017389
+3365
+locacao de veiculos
+d
+ compra cfe nf 403029 de localiza rent
+a car s/a
+r$ 1.750,00
+05/01/2018
+0000017389
+3365
+locacao de veiculos
+d
+ compra cfe nf 403030 de localiza rent
+a car s/a
+r$ 1.300,00
+05/01/2018
+0000017389
+3365
+locacao de veiculos
+d
+ compra cfe nf 403031 de localiza rent
+a car s/a
+r$ 1.300,00
+05/01/2018
+0000017389
+3365
+locacao de veiculos
+d
+ compra cfe nf 17550 de localiza rent a
+car s/a
+r$ 252,45
+05/01/2018
+0000017389
+3358
+legal e judicial
+d
+ compra cfe nf 20181 de paulo andre
+rohrman advogados associados-
+epp
+r$ 5.000,00
+05/01/2018
+0000017389
+3365
+locacao de veiculos
+d
+ compra cfe nf 22723 de localiza rent a
+car s/a
+r$ 145,82
+05/01/2018
+0000017390
+2012
+fornecedores
+c
+ compra cfe nf 201867 de presmet
+medicina e seguranca do trabalho
+ltda
+r$ 2.480,94
+05/01/2018
+0000017390
+2012
+fornecedores
+c
+ compra cfe nf 4179 de transcas
+transportes ltda - me
+r$ 2.149,20
+05/01/2018
+0000017390
+2012
+fornecedores
+c
+ compra cfe nf 4182 de transcas
+transportes ltda - me
+r$ 2.149,20
+05/01/2018
+0000017390
+2012
+fornecedores
+c
+ compra cfe nf 4185 de transcas
+transportes ltda - me
+r$ 2.149,20
+05/01/2018
+0000017390
+3166
+seguranca e medicina do
+trabalho
+d
+ compra cfe nf 201867 de presmet
+medicina e seguranca do trabalho
+ltda
+r$ 2.480,94
+05/01/2018
+0000017390
+3260
+fretes - pj
+d
+ compra cfe nf 4179 de transcas
+transportes ltda - me
+r$ 2.149,20
+05/01/2018
+0000017390
+3260
+fretes - pj
+d
+ compra cfe nf 4182 de transcas
+transportes ltda - me
+r$ 2.149,20
+05/01/2018
+0000017390
+3260
+fretes - pj
+d
+ compra cfe nf 4185 de transcas
+transportes ltda - me
+r$ 2.149,20
+05/01/2018
+0000017440
+1016
+banco itau s.a
+c
+ vlr cfe titulo 281020291 de ima industria
+r$ 9.900,00
+este relatório foi gerado pelo sistema público de escrituração digital – sped
+versão 7.0.5 do visualizador
+página 5 de 791

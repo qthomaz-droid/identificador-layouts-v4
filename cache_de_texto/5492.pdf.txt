@@ -1,0 +1,637 @@
+extrato de conta corrente 
+pode ã 
+para simples verificação 
+contar 
+banese 
+cliente 
+cliente corrente 
+comercial andrade soares ltda 
+03/102.000-8 
+rua itabaianinha 213 
+agéncia 
+49.010-190 aracaju 
+se 
+metro-joao pessoa 
+data emissão 
+data saldo anterior 
+saldo anterior 
+folha 
+sequência 
+31/01/2023 
+3012/2022 
+267,18 
+01 
+17.974 
+dia 
+|histórico 
+doc. 
+orig| langamento 
+saldo 
+02| cred lojista banese debi 
+0000001 
+|014 
+430,44cr 
+697,62 
+cred banese card 
+0000002 
+|014 
+172,89cr 
+87051 
+atm - deso 
+0079430 
+174,06db 
+696,45 
+03| transf on-line 
+0988001 
+808,00cr 
+1.504,45 
+rec pix 
+0988001 
+|oo1 
+300,00cr 
+1.804,45 
+cred banese card 
+0000001 
+|014 
+951cr 
+181396 
+deb pix via chav 
+0988001 
+|001 
+280,00db 
+1.533,96 
+04| cred banese card 
+0000001 
+|014 
+164,83cr 
+1698,79 
+05 | cred banese card 
+0000001 
+|014 
+465,54cr 
+216433 
+compra elo 
+0002452 
+|987 
+18,2308 
+246,10 
+deb pix via qrcode 
+0988001 
+|001 
+30,0008 
+216,10 
+06| transf on-line 
+0988001 
+|043 
+131,00cr 
+2247,10 
+transf on-line 
+0988001 
+|os4 
+300,00cr 
+2547,10 
+doc - docum cre 
+0000626 
+169,00cr 
+2716,10 
+compra banese debito 
+0002963 
+|o14 
+18,1308 
+269797 
+09|rec pix 
+0988001 
+|001 
+160,00cr 
+285797 
+transf on-line 
+0988001 
+|015 
+63,00cr 
+292097 
+rec pix 
+0988001 
+|001 
+69,90cr 
+2.990,87 
+cred banese card 
+0000001 
+|014 
+259,00cr 
+324987 
+atm - pgto darf 
+0023115 
+202,39db 
+3.047.48 
+atm - pgto darf 
+0023160 
+119,46db 
+2.928,02 
+atm-prefeitura 
+0050947 
+2,65db 
+292537 
+deb pix via chav 
+0988001 
+|001 
+12,0008 
+291337 
+deb pix via qrcode 
+0988001 
+|001 
+25,0008 
+288837 
+10 | transf on-line 
+0014151 
+|014 
+96,00cr 
+298437 
+transf on-line 
+0988001 
+|043 
+256,00cr 
+324037 
+cred banese card 
+0000001 
+|014 
+294,65cr 
+3.535,02 
+11 |rec pix 
+0988001 
+|oo1 
+50,00cr 
+3.585,02 
+cred banese card 
+0000001 
+|014 
+286,38cr 
+387140 
+deb pix via chav 
+0988001 
+|001 
+200,0008 
+367140 
+deb pix via chav 
+0988001 
+|001 
+90,0008 
+3.581,40 
+12 |cred banese card 
+0000001 
+|014 
+31060cr 
+3.892,00 
+deb pix via chav 
+0988001 
+|001 
+90,0008 
+3.802,00 
+13 | cred banese card 
+0000001 
+|014 
+68,52cr 
+387052 
+16 | transf on-line 
+0988001 
+178,00cr 
+4.048,52 
+cred banese card 
+0000001 
+|014 
+33319cr 
+438171 
+atm - pgto darf 
+0063535 
+187,54db 
+4194,17 
+deb pix via chav 
+0988001 
+|001 
+500,008 
+369417 
+17 |rec pix 
+0988001 
+|001 
+206,00cr 
+390017 
+compra elo 
+0000175 
+|987 
+200,17db 
+3.700,00 
+18 | transf on-line 
+0988001 
+|05 
+241,00cr 
+3.941,00 
+compra elo 
+0002779 
+|987 
+33,89db 
+3.907,11 
+deb pix via chav 
+0988001 
+|001 
+700,0008 
+320711 
+19|rec pix 
+0988001 
+|001 
+220,00cr 
+342711 
+cred banese card 
+0000001 
+|014 
+356,09cr 
+378320 
+saque cart cash 
+0058157 
+|058 
+2.000,0008 
+1.783,20 
+20| transf on-line 
+0014151 
+|014 
+445,00cr 
+2.228,20 
+transf on-line 
+0014151 
+|014 
+637,00cr 
+2.865,20 
+transf on-line 
+0988001 
+250,00cr 
+3.115,20 
+transf on-line 
+0988001 
+97,00cr 
+3.212,20 
+cred banese card 
+0000001 
+|014 
+119.43cr 
+333163 
+compra elo 
+0000937 
+|987 
+90,7308 
+3.240,90 
+venc. contrato 
+taxa 
+valor dos juros 
+valor do iof 
+saldo bloqueado 
+limite contrato 
+saldo disponível 
+saldo médio mensal 
+tarifa de disponibilização de crédito 
+taxa de disponibilização de crédito 
+ extrato de conta corrente pode e banese
+
+para simples verificação contar
+cliente cliente corrente
+comercial andrade soares ltda 03/102.000-8
+rua itabaianinha,213 agência
+49.010-190 aracaju se metro-joao pessoa
+data emissão data saldo anterior saldo anterior folha sequência
+31/01/2023 30/12/2022 267,18 0 17.974
+dia | histórico doc. orig | lançamento saldo
+02| cred lojista banese debi 0000001 [014 430,44cr 697,62
+cred banese card 0000002 [014 172,89cr 870,51
+atm - deso 0079430 174,06db 696,45
+03| transf on-line 0988001 808,00cr 1.504,45
+rec pix 0988001 |001 300,00cr 1.804,45
+cred banese card 0000001 [014 9,51cr 1.813,96
+deb pix via chav 0988001 |001 280,00db 1.533,96
+04| cred banese card 0000001 [014 164,83cr 1.698,79
+05| cred banese card 0000001 [014 465,54cr 2.164,33
+compra elo 0002452 |987 18,23db 2.146,10
+deb pix via qrcode 0988001 |001 30,00db 2.116,10
+06| transf on-line 0988001 |043 131,00cr 224740
+transf on-line 0988001 |054 300,00cr 2.54710
+doc- docum cre 0000626 169,00cr 2.716,10
+compra banese debito 0002963 |014 18,13db 2.697,97
+09 | rec pix 0988001 |001 160,00cr 2.857,97
+transf on-line 0988001 |015 63,00cr 2.920,97
+rec pix 0988001 |001 69,90cr 2.990,87
+cred banese card 0000001 [014 259,00cr 3.249,87
+atm - pgto darf 0023115 202,39db 3.047,48
+atm - pgto darf 0023160 119,46db 2.928,02
+atm-prefeitura 0050947 2,65db 2.925,37
+deb pix via chav 0988001 |001 12,00db 2.913,37
+deb pix via qrcode 0988001 |001 25,00db 2.888,37
+10 | transf on-line 0014151 [014 96,00cr 2.984,37
+transf on-line 0988001 |043 256,00cr 3.240,37
+cred banese card 0000001 [014 294,65cr 3.535,02
+11 rec pix 0988001 |001 50,00cr 3.585,02
+cred banese card 0000001 [014 286,38cr 3.871,40
+deb pix via chav 0988001 |001 200,00db 3.671,40
+deb pix via chav 0988001 |001 90,00db 3.581,40
+12) cred banese card 0000001 [014 310,60cr 3.892,00
+deb pix via chav 0988001 |001 90,00db 3.802,00
+13/ cred banese card 0000001 [014 68,52cr 3.870,52
+16 | transf on-line 0988001 178,00cr 4.048,52
+cred banese card 0000001 [014 333,19cr 4.381,71
+atm - pgto darf 0063535 187,54db 419417
+deb pix via chav 0988001 |001 500,00db 3.694,17
+17 | rec pix 0988001 |001 206,00cr 3.900,17
+compra elo 0000175 |987 200,17db 3.700,00
+18/ transf on-line 0988001 |055 241,00cr 3.941,00
+compra elo 0002779 |987 33,89db 3.907,11
+deb pix via chav 0988001 |001 700,00db 3.207,11
+19/ rec pix 0988001 |001 220,00cr 342711
+cred banese card 0000001 [014 356,09cr 3.783,20
+saque cart cash 0058157 |058 2.000,00db 1.783,20
+20| transf on-line 0014151 [014 445,00cr 2.228,20
+transf on-line 0014151 [014 637,00cr 2.865,20
+transf on-line 0988001 250,00cr 3.115,20
+transf on-line 0988001 97,00cr 3.212,20
+cred banese card 0000001 [014 119,43cr 3.331,63
+compra elo 0000937 |987 90,73db 3.240,90
+venc. contrato taxa valor dos juros valor do iof saldo bloqueado
+limite contrato saldo disponível saldo médio mensal
+
+tarifa de disponibilização de crédito taxa de disponibilização de crédito
+
+extrato de conta corrente 
+para simples verificação 
+cores ã banese 
+cliente 
+cliente corrente 
+comercial andrade soares ltda 
+03/102.000-8 
+rua itabaianinha 213 
+agéncia 
+49.010-190 aracaju 
+se 
+metro-joao pessoa 
+data emissão 
+data saldo anterior 
+saldo anterior 
+folha 
+sequência 
+31/01/2023 
+02 
+17.975 
+dia 
+|histórico 
+doc. 
+orig| langamento 
+saldo 
+20| atm - pgto darf 
+0020028 
+647,49db 
+259341 
+atm gvt 
+0020316 
+119,99db 
+247342 
+atm - cobranca 
+0054539 
+67,6608 
+240576 
+23| dep em dinheiro 
+0034102 
+300,00cr 
+270576 
+transf on-line 
+0034102 
+176,00cr 
+288176 
+cred banese card 
+0000001 
+|014 
+168,05cr 
+3.049,81 
+compra elo 
+0003954 
+|987 
+44,80db 
+3.005,01 
+24| atm - dae 
+0032691 
+211,74db 
+279327 
+compra elo 
+0011608 
+|987 
+40,0008 
+275327 
+25|rec pix 
+0988001 
+|001 
+8.00cr 
+276127 
+transf on-line 
+0988001 
+413,00cr 
+317427 
+transf on-line 
+0988001 
+|014 
+309,00cr 
+348327 
+compra elo 
+0001660 
+|987 
+270,0008 
+321327 
+compra elo 
+0001749 
+|987 
+9,00db 
+3.204,27 
+atm - celular 
+0013801 
+68,6108 
+3.135,66 
+atm claro 
+0013858 
+133,88db 
+3.001,78 
+compra elo 
+0008838 
+|987 
+14,00db 
+298778 
+atm-trf online 
+0988001 
+1.988,00db 
+999,78 
+26| atm - cobranca 
+0017754 
+850,43db 
+149,35 
+27 | transf on-line 
+0988001 
+|028 
+196,00cr 
+34535 
+cred lojista banese debi 
+0000001 
+|014 
+17631cr 
+521,66 
+atm-trf online 
+0988001 
+78,0008 
+443,66 
+30 | transf on-line 
+0988001 
+|014 
+500,00cr 
+94366 
+transf on-line 
+0988001 
+|os4 
+178,00cr 
+142166 
+transf on-line 
+0988001 
+|014 
+100,00cr 
+1.221,66 
+cred banese card 
+0000001 
+|014 
+540,27cr 
+176193 
+compra elo 
+0019301 
+|987 
+41,4008 
+172053 
+compra elo 
+0015886 
+|987 
+16,2008 
+1704,33 
+compra elo 
+0015904 
+|987 
+17,2808 
+1.687,05 
+deb pix via chav 
+0988001 
+|001 
+60,0008 
+1.627,05 
+plano tarifas 
+0017000 
+75,90db 
+1.551,15 
+31 
+| transf on-line 
+0988001 
+|014 
+108,00cr 
+1.659,15 
+transf on-line 
+0988001 
+492,00cr 
+215115 
+doc - docum cre 
+0000808 
+169,00cr 
+232015 
+cred banese card 
+0000001 
+|014 
+92,07cr 
+241222 
+deb pix via chav 
+0988001 
+|001 
+500,008 
+191222 
+deb pix via chav 
+0988001 
+|001 
+616,59db 
+1.295,63 
+venc. contrato 
+taxa 
+valor dos juros 
+valor do iof 
+saldo bloqueado 
+00/00/0000 
+000 
+000 
+000 
+000 
+limite contrato 
+saldo disponivel 
+saldo médio mensal 
+000 
+1.295,63 
+227457 
+tarifa de disponibilização de crédito 
+0,00 
+taxa de disponibilizagao de crédito 
+0,00 
+ extrato de conta corrente
+para simples verificação
+
+pode
+contar
+
+e banese
+
+cliente cliente corrente
+comercial andrade soares ltda 03/102.000-8
+rua itabaianinha,213 agência
+49.010-190 aracaju se metro-joao pessoa
+data emissão data saldo anterior saldo anterior folha sequência
+31/01/2023 o2 17975
+dia | histórico doc. orig | lançamento saldo
+20 | atm - pgto darf 0020028 64749db 2.593,41
+atm gvt 0020316 119,99db 247342
+atm - cobranca 0054539 67,66db 2.405,76
+23| dep em dinheiro 0034102 300,00cr 2.705,76
+transf on-line 0034102 176,00cr 2.881,76
+cred banese card 0000001 jot4 168,05cr 3.049,81
+compra elo 0003954  |987 44,80db 3.005,01
+24 |atm - dae 0032691 211,74db 279327
+compra elo 0011608  |987 40,00db 2.753,27
+25|rec pix 0988001 [001 8,00cr 2.761,27
+transf on-line 0988001 413,00cr 347427
+transf on-line 0988001 jot4 309,00cr 3.483,27
+compra elo 0001660  |987 270,00db 3.213,27
+compra elo 0001749 |987 90008 3.204,27
+atm - celular 0013801 68,61db 3.135,66
+atm claro 0013858 133,88db 3.001,78
+compra elo 0008838 |987 14,00db 2.987,78
+atm-tre online 0988001 1.988,00db 999,78
+26 atm - cobranca 0017754 850,43db 149,35
+27 | transf on-line 0988001 [028 196,00cr 345,35
+cred lojista banese debi 0000001 jot4 176,31cr 521,66
+atm-tre online 0988001 78,00db 443,66
+30 | transf on-line 0988001 jot4 500,00cr 943,66
+transf on-line 0988001 [054 17800cr 1.121,66
+transf on-line 0988001 jot4 100,00cr 1.221,66
+cred banese card 0000001 jot4 540,27cr 1.761,93
+compra elo 0019301  |987 41,40db 1.720,53
+compra elo 0015886 |987 16,20db 1.704,33
+compra elo 0015904  |987 17.28db 1.687,05
+deb pixvia chav 0988001 [001 60,00db 1.627,05
+plano tarifas 0017000 75,90db 155115
+31 |transf on-line 0988001 jot4 108,00cr 1.659,45
+transf on-line 0988001 492,00cr 215115
+doc - docum cre 0000808 169,00cr 2.320,15
+cred banese card 0000001 jot4 9207cr 241222
+deb pixvia chav 0988001 [001 500,00db 1.912,22
+deb pixvia chav 0988001 [001 616,59db 1.295,63
+venc. contrato taxa valor dos juros valor do iof saldo bloqueado
+00/00/0000 0,00 0,00 0,00 0,00
+limite contrato saldo disponível saldo médio mensal
+0,00 1.295,63 227457
+
+tarifa de disponibilização de crédito
+
+0.00
+
+taxa de disponibilização de crédito
+
+0.00
+

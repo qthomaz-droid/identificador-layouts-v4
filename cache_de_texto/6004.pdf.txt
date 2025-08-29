@@ -1,0 +1,919 @@
+página:
+empresa:
+período de 01/01/2025 à 31/01/2025 com modelo por lançamento por ordem: data e sub-ordem: lançamento com impressão de cheques: não
+relatório do movimento de caixa com saldo previsto
+vida comercio e distribuicao de mateirais de seguranca ltda 
+ 1
+1 - 3 - sicoob; 
+0 - todos os usuários
+usuário:
+caixa:
+vr acumulado
+vr caixa
+complemento
+conta
+vr crédito
+vr débito
+vr anterior:
+ 50821,67
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 64685, cliente: 1473 - sergio 
+luiz milanez rigoni
+ 2.088,00
+ 2088,00
+ 52909,67
+filial: 1, nf/cupom: 64856, cliente: 4436 - valmir 
+roberto rocom e out
+ 96,00
+ 96,00
+ 53005,67
+filial: 1, nf/cupom: 64898, cliente: 955 - ary 
+bortolini
+ 367,50
+ 367,50
+ 53373,17
+filial: 1, nf/cupom: 64766, cliente: 78 - caliman 
+agricola s/a
+ 1.965,33
+ 1965,33
+ 55338,50
+filial: 1, nf/cupom: 64906, cliente: 132 - frutas 
+solo agroindustrial
+ 117,00
+ 117,00
+ 55455,50
+filial: 1, nf/cupom: 63038, cliente: 2218 - 
+frutmel frutas ltda
+ 1.769,50
+ 1769,50
+ 57225,00
+filial: 1, nf/cupom: 64868, cliente: 1457 - 
+fundacao centro brasileiro
+ 150,00
+ 150,00
+ 57375,00
+filial: 1, nf/cupom: 64869, cliente: 1457 - 
+fundacao centro brasileiro
+ 500,00
+ 500,00
+ 57875,00
+filial: 1, nf/cupom: 64821, cliente: 2572 - 
+gamaliel pires de moura
+ 360,00
+ 360,00
+ 58235,00
+filial: 1, nf/cupom: 64715, cliente: 91 - industria 
+de moveis peroba l
+ 724,00
+ 724,00
+ 58959,00
+filial: 1, nf/cupom: 64853, cliente: 218 - 
+industria de moveis rio doc
+ 417,00
+ 417,00
+ 59376,00
+filial: 1, nf/cupom: 64925, cliente: 218 - 
+industria de moveis rio doc
+ 267,00
+ 267,00
+ 59643,00
+filial: 1, nf/cupom: 65060, cliente: 1082 - jocair 
+jose marim
+ 86,00
+ 86,00
+ 59729,00
+filial: 1, nf/cupom: 64861, cliente: 2796 - l.c.d. 
+engenharia construc
+ 1.320,00
+ 1320,00
+ 61049,00
+filial: 1, nf/cupom: 64718, cliente: 630 - las 
+palmas fruticola ltda
+ 805,00
+ 805,00
+ 61854,00
+filial: 1, nf/cupom: 64702, cliente: 631 - las 
+palmas fruticola ltda
+ 2.334,00
+ 2334,00
+ 64188,00
+filial: 1, nf/cupom: 64934, cliente: 2907 - 
+limpservice servicos ltda
+ 140,00
+ 140,00
+ 64328,00
+filial: 1, nf/cupom: 64885, cliente: 4215 - m g i 
+engenharia ltda
+ 206,00
+ 206,00
+ 64534,00
+filial: 1, nf/cupom: 64901, cliente: 620 - 
+malacarne alimentacao empre
+ 120,00
+ 120,00
+ 64654,00
+filial: 1, nf/cupom: 64831, cliente: 391 - mipel 
+missagia pecas ltda e
+ 250,00
+ 250,00
+ 64904,00
+filial: 1, nf/cupom: 64891, cliente: 2931 - nortec 
+servicos em eletric
+ 184,00
+ 184,00
+ 65088,00
+filial: 1, nf/cupom: 64894, cliente: 2931 - nortec 
+servicos em eletric
+ 92,00
+ 92,00
+ 65180,00
+filial: 1, nf/cupom: 64725, cliente: 2772 - olam 
+agricola ltda.
+ 916,65
+ 916,65
+ 66096,65
+filial: 1, nf/cupom: 64897, cliente: 1074 - 
+papelial embalagens eireli
+ 288,00
+ 288,00
+ 66384,65
+filial: 1, nf/cupom: 65028, cliente: 1428 - posto 
+ouro negro ltda
+ 72,00
+ 72,00
+ 66456,65
+filial: 1, nf/cupom: 64863, cliente: 130 - 
+premoldados linhares ltda e
+ 206,00
+ 206,00
+ 66662,65
+filial: 1, nf/cupom: 64938, cliente: 3312 - prime 
+es automoveis ltda
+ 100,40
+ 100,40
+ 66763,05
+filial: 1, nf/cupom: 64755, cliente: 2311 - 
+rodocon construcoes rodovi
+ 640,00
+ 640,00
+ 67403,05
+filial: 1, nf/cupom: 65043, cliente: 3742 - tiberio 
+transporte de carg
+ 78,00
+ 78,00
+ 67481,05
+filial: 1, nf/cupom: 64681, cliente: 843 - 
+wellington menelli e outros
+ 168,00
+ 168,00
+ 67649,05
+filial: 1, nf/cupom: 64684, cliente: 844 - 
+wellington menelli e outros
+ 108,45
+ 108,45
+ 67757,50
+gerado em 24/02/2025 as 14:57:25
+estação: srv-apl - usuário: financeiro
+objetiva informática
+página:
+empresa:
+período de 01/01/2025 à 31/01/2025 com modelo por lançamento por ordem: data e sub-ordem: lançamento com impressão de cheques: não
+relatório do movimento de caixa com saldo previsto
+vida comercio e distribuicao de mateirais de seguranca ltda 
+ 2
+vr acumulado
+vr caixa
+complemento
+conta
+vr crédito
+vr débito
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 64880, cliente: 115 - ala 
+pescados importacao e e
+ 108,00
+ 108,00
+ 67865,50
+filial: 1, nf/cupom: 64919, cliente: 115 - ala 
+pescados importacao e e
+ 205,00
+ 205,00
+ 68070,50
+filial: 1, nf/cupom: 64696, cliente: 3810 - altenis 
+galavotti carraret
+ 864,00
+ 864,00
+ 68934,50
+filial: 1, nf/cupom: 64902, cliente: 1090 - beta 
+engenharia e projetos
+ 170,00
+ 170,00
+ 69104,50
+filial: 1, nf/cupom: 62978, cliente: 78 - caliman 
+agricola s/a
+ 645,34
+ 645,34
+ 69749,84
+filial: 1, nf/cupom: 64832, cliente: 8 - cereais 
+do nico ltda
+ 1.359,36
+ 1359,36
+ 71109,20
+filial: 1, nf/cupom: 63989, cliente: 56 - 
+distribuidora de bebidas sao
+ 2.448,00
+ 2448,00
+ 73557,20
+filial: 1, nf/cupom: 64689, cliente: 2301 - marcos 
+joao marin
+ 1.075,00
+ 1075,00
+ 74632,20
+filial: 1, nf/cupom: 63966, cliente: 112 - 
+permobili industria de move
+ 976,00
+ 976,00
+ 75608,20
+filial: 1, nf/cupom: 64924, cliente: 4244 - 
+proteinorte - alimentos s
+ 280,00
+ 280,00
+ 75888,20
+filial: 1, nf/cupom: 64917, cliente: 4304 - 
+santamaria construcoes inc
+ 283,90
+ 283,90
+ 76172,10
+filial: 1, nf/cupom: 64662, cliente: 767 - tintori 
+pocos artesianos lt
+ 660,00
+ 660,00
+ 76832,10
+filial: 1, nf/cupom: 64848, cliente: 1667 - ws 
+naturais industria e co
+ 265,00
+ 265,00
+ 77097,10
+filial: 1, nf/cupom: 64873, cliente: 1667 - ws 
+naturais industria e co
+ 110,00
+ 110,00
+ 77207,10
+filial: 1, nf/cupom: 65051, cliente: 372 - novolar 
+ind com moveis esqu
+ 34,00
+ 34,00
+ 77241,10
+filial: 1, nf/cupom: 64719, cliente: 3015 - 
+gustavo lombardi nasciment
+ 820,00
+ 820,00
+ 78061,10
+(+) 634 recebimento de pix
+conciliacao de conta pix, n.doc: 34252
+ 40,00
+ 40,00
+ 78101,10
+conciliacao de conta pix, n.doc: 65184
+ 305,00
+ 305,00
+ 78406,10
+conciliacao de conta pix, n.doc: 34251
+ 40,00
+ 40,00
+ 78446,10
+conciliacao de conta pix, n.doc: 34253
+ 51,50
+ 51,50
+ 78497,60
+conciliacao de conta pix, n.doc: 34254
+ 266,00
+ 266,00
+ 78763,60
+conciliacao de conta pix, n.doc: 34250
+ 400,00
+ 400,00
+ 79163,60
+total do dia:
+02/01/2025
+ 28341,93
+ 28341,93
+ 79163,60
+(-) 601 compra mercadoria
+filial: 1, documento: 2696, pc: 3, nf/cupom: 2696, 
+fornecedor: 3473 - newell brands brasil ltda
+-2.536,50
+ 2536,50
+ 76627,10
+filial: 1, documento: 76677, pc: 2, nf/cupom: 
+76677, fornecedor: 1317 - estival importacao 
+exportaca
+-3.586,93
+ 3586,93
+ 73040,17
+filial: 1, documento: 121354, pc: 3, nf/cupom: 
+21354, fornecedor: 1582 - alseg ind e com de 
+epi eire
+-2.498,75
+ 2498,75
+ 70541,42
+filial: 1, documento: 726200, pc: 3, nf/cupom: 
+726200, fornecedor: 1327 - carbografite 
+equipamentos
+-3.138,92
+ 3138,92
+ 67402,50
+filial: 1, documento: 19504025, pc: 1, nf/cupom: 
+195040, fornecedor: 386 - 3m do brasil ltda
+-1.571,18
+ 1571,18
+ 65831,32
+filial: 1, documento: 21983798, pc: 2, nf/cupom: 
+21983798, fornecedor: 3372 - tecidos e 
+armarinhos m
+-621,81
+ 621,81
+ 65209,51
+filial: 1, documento: 3555, pc: 2, nf/cupom: 3555, 
+fornecedor: 3385 - top cintos industria e 
+comerci
+-2.450,30
+ 2450,30
+ 62759,21
+filial: 1, documento: 75738, pc: 4, nf/cupom: 
+75738, fornecedor: 1317 - estival importacao 
+exportaca
+-3.586,91
+ 3586,91
+ 59172,30
+gerado em 24/02/2025 as 14:57:25
+estação: srv-apl - usuário: financeiro
+objetiva informática
+página:
+empresa:
+período de 01/01/2025 à 31/01/2025 com modelo por lançamento por ordem: data e sub-ordem: lançamento com impressão de cheques: não
+relatório do movimento de caixa com saldo previsto
+vida comercio e distribuicao de mateirais de seguranca ltda 
+ 3
+vr acumulado
+vr caixa
+complemento
+conta
+vr crédito
+vr débito
+(-) 601 compra mercadoria
+filial: 1, documento: 2147483647, pc: 1, 
+nf/cupom: 198822, fornecedor: 2334 - dvt 
+comercio importaca
+-2.678,40
+ 2678,40
+ 56493,90
+filial: 1, documento: 23836, pc: 1, nf/cupom: 
+23836, fornecedor: 3271 - alltec do brasil 
+ltda.
+-5.464,95
+ 5464,95
+ 51028,95
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 64994, cliente: 1432 - mp 
+estofados ltda
+ 176,00
+ 176,00
+ 51204,95
+filial: 1, nf/cupom: 64935, cliente: 2712 - jair 
+marim
+ 126,00
+ 126,00
+ 51330,95
+filial: 1, nf/cupom: 65067, cliente: 222 - centro 
+de imag. medica nort
+ 70,00
+ 70,00
+ 51400,95
+filial: 1, nf/cupom: 64730, cliente: 2860 - 
+agricola mais papaya ltda
+ 120,00
+ 120,00
+ 51520,95
+filial: 1, nf/cupom: 64735, cliente: 977 - agc 
+comercio de frutas ltda
+ 1.757,80
+ 1757,80
+ 53278,75
+filial: 1, nf/cupom: 64943, cliente: 977 - agc 
+comercio de frutas ltda
+ 1.232,00
+ 1232,00
+ 54510,75
+filial: 1, nf/cupom: 64955, cliente: 2681 - santos 
+e gama comercio eir
+ 112,00
+ 112,00
+ 54622,75
+filial: 1, nf/cupom: 64930, cliente: 2201 - moveis 
+zuliani ltda
+ 378,00
+ 378,00
+ 55000,75
+filial: 1, nf/cupom: 64959, cliente: 1774 - 
+dalmora & malacarne refeic
+ 262,50
+ 262,50
+ 55263,25
+filial: 1, nf/cupom: 64726, cliente: 3751 -  
+benjamin tulio zon margot
+ 328,00
+ 328,00
+ 55591,25
+filial: 1, nf/cupom: 64949, cliente: 2461 - agua 
+de coco macena ltda
+ 164,00
+ 164,00
+ 55755,25
+filial: 1, nf/cupom: 64707, cliente: 1078 - cobra 
+engenharia ltda
+ 33,00
+ 33,00
+ 55788,25
+filial: 1, nf/cupom: 64828, cliente: 1078 - cobra 
+engenharia ltda
+ 293,50
+ 293,50
+ 56081,75
+(+) 551 receita diversa
+rec duplicidade de jaciely magda marin
+ 654,00
+ 654,00
+ 56735,75
+(+) 634 recebimento de pix
+conciliacao de conta pix, n.doc: 34248
+ 112,00
+ 112,00
+ 56847,75
+(-) 603 despesa contabil
+filial: 1, documento: 1, pc: 1, nf/cupom: 14769, 
+fornecedor: 355 - avanco contabilidade ltda 
+me
+-750,00
+ 750,00
+ 56097,75
+(-) 524 
+software/informatica
+filial: 1, documento: 1, pc: 1, nf/cupom: 70, 
+fornecedor: 3486 - efa tecnologia ltda
+-449,44
+ 449,44
+ 55648,31
+total do dia:
+03/01/2025
+ 5818,80
+ 29334,09
+-23515,29
+ 55648,31
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 63822, cliente: 447 - 
+plantacoes e. michelin ltda
+ 258,84
+ 258,84
+ 55907,15
+filial: 1, nf/cupom: 64044, cliente: 231 - jorge 
+luiz marin e outros
+ 1.400,00
+ 1400,00
+ 57307,15
+filial: 1, nf/cupom: 64057, cliente: 3751 -  
+benjamin tulio zon margot
+ 296,00
+ 296,00
+ 57603,15
+filial: 1, nf/cupom: 64058, cliente: 3546 - 
+benjamin tulio zon margott
+ 478,50
+ 478,50
+ 58081,65
+filial: 1, nf/cupom: 64071, cliente: 3843 - 
+fernando fachetti
+ 2.120,03
+ 2120,03
+ 60201,68
+filial: 1, nf/cupom: 64084, cliente: 460 - 
+concreto colatina ltda
+ 269,55
+ 269,55
+ 60471,23
+filial: 1, nf/cupom: 64119, cliente: 4244 - 
+proteinorte - alimentos s
+ 1.452,00
+ 1452,00
+ 61923,23
+filial: 1, nf/cupom: 64157, cliente: 4244 - 
+proteinorte - alimentos s
+ 1.071,00
+ 1071,00
+ 62994,23
+filial: 1, nf/cupom: 64181, cliente: 231 - jorge 
+luiz marin e outros
+ 2.035,22
+ 2035,22
+ 65029,45
+filial: 1, nf/cupom: 64741, cliente: 2860 - 
+agricola mais papaya ltda
+ 212,00
+ 212,00
+ 65241,45
+filial: 1, nf/cupom: 64744, cliente: 2931 - nortec 
+servicos em eletric
+ 502,00
+ 502,00
+ 65743,45
+filial: 1, nf/cupom: 64748, cliente: 977 - agc 
+comercio de frutas ltda
+ 440,00
+ 440,00
+ 66183,45
+gerado em 24/02/2025 as 14:57:25
+estação: srv-apl - usuário: financeiro
+objetiva informática
+página:
+empresa:
+período de 01/01/2025 à 31/01/2025 com modelo por lançamento por ordem: data e sub-ordem: lançamento com impressão de cheques: não
+relatório do movimento de caixa com saldo previsto
+vida comercio e distribuicao de mateirais de seguranca ltda 
+ 4
+vr acumulado
+vr caixa
+complemento
+conta
+vr crédito
+vr débito
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 64761, cliente: 2860 - 
+agricola mais papaya ltda
+ 164,00
+ 164,00
+ 66347,45
+filial: 1, nf/cupom: 64781, cliente: 631 - las 
+palmas fruticola ltda
+ 832,00
+ 832,00
+ 67179,45
+filial: 1, nf/cupom: 64788, cliente: 630 - las 
+palmas fruticola ltda
+ 1.400,00
+ 1400,00
+ 68579,45
+filial: 1, nf/cupom: 64807, cliente: 616 - ng 
+engenharia ltda - epp
+ 1.300,00
+ 1300,00
+ 69879,45
+filial: 1, nf/cupom: 64809, cliente: 2929 - joyce 
+rezende bobbio
+ 725,00
+ 725,00
+ 70604,45
+filial: 1, nf/cupom: 64854, cliente: 2416 - 
+schirmer engenharia e cons
+ 230,00
+ 230,00
+ 70834,45
+filial: 1, nf/cupom: 64960, cliente: 2907 - 
+limpservice servicos ltda
+ 140,00
+ 140,00
+ 70974,45
+filial: 1, nf/cupom: 64964, cliente: 543 - 
+contadini e lorencini ltda
+ 132,00
+ 132,00
+ 71106,45
+filial: 1, nf/cupom: 64968, cliente: 231 - jorge 
+luiz marin e outros
+ 120,00
+ 120,00
+ 71226,45
+filial: 1, nf/cupom: 64971, cliente: 3199 - led 
+retifica ltda
+ 138,00
+ 138,00
+ 71364,45
+filial: 1, nf/cupom: 64973, cliente: 225 - ugbp 
+producao e exportacao
+ 120,00
+ 120,00
+ 71484,45
+filial: 1, nf/cupom: 64977, cliente: 1667 - ws 
+naturais industria e co
+ 208,00
+ 208,00
+ 71692,45
+filial: 1, nf/cupom: 64992, cliente: 2929 - joyce 
+rezende bobbio
+ 105,00
+ 105,00
+ 71797,45
+filial: 1, nf/cupom: 64997, cliente: 1464 - pianna 
+veiculos ltda
+ 250,00
+ 250,00
+ 72047,45
+filial: 1, nf/cupom: 65015, cliente: 1729 - cleiton 
+paulo cerutti
+ 768,00
+ 768,00
+ 72815,45
+(+) 634 recebimento de pix
+conciliacao de conta pix, n.doc: 65181
+ 280,00
+ 280,00
+ 73095,45
+conciliacao de conta pix, n.doc: 34246
+ 25,00
+ 25,00
+ 73120,45
+conciliacao de conta pix, n.doc: 34247
+ 60,00
+ 60,00
+ 73180,45
+conciliacao de conta pix, n.doc: 34216
+ 92,00
+ 92,00
+ 73272,45
+conciliacao de conta pix, n.doc: 34217
+ 150,00
+ 150,00
+ 73422,45
+conciliacao de conta pix, n.doc: 34220
+ 250,00
+ 250,00
+ 73672,45
+conciliacao de conta pix, n.doc: 65180
+ 483,00
+ 483,00
+ 74155,45
+conciliacao de conta pix, n.doc: 65175
+ 611,00
+ 611,00
+ 74766,45
+conciliacao de conta pix, n.doc: 34242
+ 250,00
+ 250,00
+ 75016,45
+conciliacao de conta pix, n.doc: 34226
+ 88,00
+ 88,00
+ 75104,45
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 65082, cliente: 3434 -  dubai 
+propaganda ltda
+ 56,00
+ 56,00
+ 75160,45
+(-) 532 pro-labore
+filial: 1, documento: 6012025, pc: 1, nf/cupom: 
+6012025, fornecedor: 3361 - janderson littig
+-2.114,85
+ 2114,85
+ 73045,60
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 63114, cliente: 2919 - ibae - 
+industria brasileir
+ 3.705,00
+ 3705,00
+ 76750,60
+total do dia:
+06/01/2025
+ 23217,14
+ 2114,85
+ 21102,29
+ 76750,60
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 63181, cliente: 659 - pgm 
+service - projetos, ger
+ 320,00
+ 320,00
+ 77070,60
+filial: 1, nf/cupom: 63182, cliente: 659 - pgm 
+service - projetos, ger
+ 335,92
+ 335,92
+ 77406,52
+filial: 1, nf/cupom: 64693, cliente: 414 - jaciely 
+magda marim bortolo
+ 668,40
+ 668,40
+ 78074,92
+filial: 1, nf/cupom: 64750, cliente: 2123 - jose 
+silvano bizi
+ 81,69
+ 81,69
+ 78156,61
+filial: 1, nf/cupom: 64850, cliente: 78 - caliman 
+agricola s/a
+ 1.600,00
+ 1600,00
+ 79756,61
+filial: 1, nf/cupom: 64991, cliente: 1787 - bortot 
+day hospital ltda
+ 240,00
+ 240,00
+ 79996,61
+gerado em 24/02/2025 as 14:57:25
+estação: srv-apl - usuário: financeiro
+objetiva informática
+página:
+empresa:
+período de 01/01/2025 à 31/01/2025 com modelo por lançamento por ordem: data e sub-ordem: lançamento com impressão de cheques: não
+relatório do movimento de caixa com saldo previsto
+vida comercio e distribuicao de mateirais de seguranca ltda 
+ 5
+vr acumulado
+vr caixa
+complemento
+conta
+vr crédito
+vr débito
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 65000, cliente: 1197 - 
+supermercado grassi ltda
+ 300,00
+ 300,00
+ 80296,61
+filial: 1, nf/cupom: 65001, cliente: 1877 - 
+supermercado bobbio ltda
+ 248,00
+ 248,00
+ 80544,61
+filial: 1, nf/cupom: 65002, cliente: 232 - mvc 
+veiculos ltda
+ 170,00
+ 170,00
+ 80714,61
+filial: 1, nf/cupom: 65003, cliente: 1078 - cobra 
+engenharia ltda
+ 144,00
+ 144,00
+ 80858,61
+filial: 1, nf/cupom: 65007, cliente: 169 - 
+britanorte ltda
+ 175,00
+ 175,00
+ 81033,61
+filial: 1, nf/cupom: 65013, cliente: 3291 - cook 
+empreendimentos em al
+ 230,00
+ 230,00
+ 81263,61
+filial: 1, nf/cupom: 65014, cliente: 1145 - 
+anhanguera agropecuaria lt
+ 208,00
+ 208,00
+ 81471,61
+filial: 1, nf/cupom: 65016, cliente: 1025 - lcr 
+comercio de moveis ltd
+ 2.112,00
+ 2112,00
+ 83583,61
+filial: 1, nf/cupom: 65044, cliente: 73 - vd 
+comercio de veiculos ltda
+ 295,00
+ 295,00
+ 83878,61
+filial: 1, nf/cupom: 65047, cliente: 3036 - eric 
+lorencini
+ 340,00
+ 340,00
+ 84218,61
+filial: 1, nf/cupom: 65098, cliente: 115 - ala 
+pescados importacao e e
+ 64,00
+ 64,00
+ 84282,61
+(+) 634 recebimento de pix
+conciliacao de conta pix, n.doc: 34256
+ 320,00
+ 320,00
+ 84602,61
+conciliacao de conta pix, n.doc: 34257
+ 22,00
+ 22,00
+ 84624,61
+conciliacao de conta pix, n.doc: 34279
+ 233,00
+ 233,00
+ 84857,61
+(-) 501 energia/agua/luz
+filial: 1, documento: 7012025, pc: 1, nf/cupom: 
+7012025, fornecedor: 753 - servico autonomo 
+de agua
+-104,52
+ 104,52
+ 84753,09
+(+) 634 recebimento de pix
+conciliacao de conta pix, n.doc: 65223
+ 415,90
+ 415,90
+ 85168,99
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 64886, cliente: 36 - cimol 
+comercio industria de
+ 40,00
+ 40,00
+ 85208,99
+(+) 634 recebimento de pix
+conciliacao de conta pix, n.doc: 34275
+ 170,00
+ 170,00
+ 85378,99
+total do dia:
+07/01/2025
+ 8732,91
+ 104,52
+ 8628,39
+ 85378,99
+(-) 601 compra mercadoria
+filial: 1, documento: 9783243, pc: 1, nf/cupom: 
+9783243, fornecedor: 3480 - 37720191 andressa 
+leite
+-13.390,00
+ 13390,00
+ 71988,99
+(+) 613 recebimento 
+crediario
+filial: 1, nf/cupom: 64792, cliente: 3068 - joao 
+henrique marim
+ 186,36
+ 186,36
+ 72175,35
+filial: 1, nf/cupom: 64812, cliente: 136 - frucafe 
+mudas e plantas ltd
+ 122,50
+ 122,50
+ 72297,85
+filial: 1, nf/cupom: 64843, cliente: 56 - 
+distribuidora de bebidas sao
+ 780,00
+ 780,00
+ 73077,85
+filial: 1, nf/cupom: 65030, cliente: 225 - ugbp 
+producao e exportacao
+ 115,00
+ 115,00
+ 73192,85
+filial: 1, nf/cupom: 65031, cliente: 2972 - gsf 
+transportes, locacoes
+ 159,00
+ 159,00
+ 73351,85
+filial: 1, nf/cupom: 65034, cliente: 4287 - 
+briquetes espirito santo l
+ 531,00
+ 531,00
+ 73882,85
+filial: 1, nf/cupom: 65036, cliente: 115 - ala 
+pescados importacao e e
+ 337,00
+ 337,00
+ 74219,85
+filial: 1, nf/cupom: 65038, cliente: 91 - industria 
+de moveis peroba l
+ 295,00
+ 295,00
+ 74514,85
+(+) 634 recebimento de pix
+conciliacao de conta pix, n.doc: 34282
+ 170,00
+ 170,00
+ 74684,85
+conciliacao de conta pix, n.doc: 34281
+ 160,00
+ 160,00
+ 74844,85
+conciliacao de conta pix, n.doc: 34285
+ 167,00
+ 167,00
+ 75011,85
+conciliacao de conta pix, n.doc: 34296
+ 230,00
+ 230,00
+ 75241,85
+conciliacao de conta pix, n.doc: 65261
+ 120,00
+ 120,00
+ 75361,85
+conciliacao de conta pix, n.doc: 34305
+ 125,00
+ 125,00
+ 75486,85
+gerado em 24/02/2025 as 14:57:25
+estação: srv-apl - usuário: financeiro
+objetiva informática

@@ -1,0 +1,363 @@
+17:43:30
+hora:
+data:
+01/02/24
+página: 1
+41205810555
+nire:
+relatório de cheques
+período de
+01/01/2024
+até 31/01/2024
+ag.
+entrada
+nº cheque
+cliente
+banco
+situação
+data
+saída
+local
+vencimento
+saldo atual
+vlr cheque
+filial
+c.n.p.j:
+situacao
+99
+nro. conta
+brustolin, tomasini e peretti maquinas agricolas ltda
+inovagro palotina
+08.388.087/0001-28
+ 1
+5447
+748
+02/01/2024
+a vencer
+365,00
+orlei cosme sereno 2
+02/01/2024
+7037
+365,00
+0,00
+2225-0
+6249
+4563
+748
+02/01/2024
+depositado
+3.496,00
+ricardo paludo
+1
+29/12/2023
+ 726
+3.496,00
+0,00
+6538-2
+5010
+5447
+748
+03/01/2024
+depositado
+365,00
+orlei cosme sereno 2
+02/01/2024
+7037
+365,00
+0,00
+2225-0
+6249
+395
+748
+03/01/2024
+depositado
+10.667,00
+odirlei barbosa da
+1
+01/01/2024
+7037
+10.667,00
+0,00
+58298
+9708
+657
+010
+09/01/2024
+a vencer
+246,17
+domingos perassol 2
+09/01/2024
+47
+246,17
+0,00
+470457
+6244
+188
+756
+09/01/2024
+a vencer
+30.400,00
+cristovao antonio
+2
+15/02/2024
+4396
+30.400,00
+0,00
+97764
+5099
+657
+010
+10/01/2024
+depositado
+246,17
+domingos perassol 2
+09/01/2024
+47
+246,17
+0,00
+470457
+6244
+1985
+748
+16/01/2024
+a vencer
+708,77
+ademir pergo
+2
+16/01/2024
+7037
+708,77
+0,00
+281573
+7250
+850111
+001
+12/01/2024
+a vencer
+774,67
+julio cesar frata d
+2
+12/01/2024
+ 830
+774,67
+0,00
+243108
+5599
+1377
+748
+19/01/2024
+a vencer
+880,00
+anderson rogerio
+1
+19/01/2024
+ 726
+880,00
+0,00
+730521
+5837
+1985
+748
+18/01/2024
+depositado
+708,77
+ademir pergo
+2
+16/01/2024
+7037
+708,77
+0,00
+281573
+7250
+850111
+001
+18/01/2024
+depositado
+774,67
+julio cesar frata d
+2
+12/01/2024
+ 830
+774,67
+0,00
+243108
+5599
+851102
+001
+20/01/2024
+a vencer
+700,00
+dietmar pawlowski
+1
+20/01/2024
+4639
+700,00
+0,00
+10552x
+9757
+1377
+748
+23/01/2024
+depositado
+880,00
+anderson rogerio
+1
+19/01/2024
+ 726
+880,00
+0,00
+730521
+5837
+1191
+748
+24/01/2024
+a vencer
+1.670,00
+enio trentim
+1
+29/01/2024
+ 726
+1.670,00
+0,00
+770310
+5787
+4570
+748
+25/01/2024
+a vencer
+400,00
+ricardo paludo
+1
+25/01/2024
+ 726
+400,00
+0,00
+065382
+5010
+850448
+001
+29/01/2024
+a vencer
+1.223,00
+elimar fey
+1
+29/01/2024
+4639
+1.223,00
+0,00
+168041
+5223
+851102
+001
+24/01/2024
+depositado
+700,00
+dietmar pawlowski
+1
+20/01/2024
+4639
+700,00
+0,00
+10552x
+9757
+4570
+748
+30/01/2024
+depositado
+400,00
+ricardo paludo
+1
+25/01/2024
+ 726
+400,00
+0,00
+065382
+5010
+1191
+748
+30/01/2024
+depositado
+1.670,00
+enio trentim
+1
+29/01/2024
+ 726
+1.670,00
+0,00
+770310
+5787
+850372
+001
+31/01/2024
+a vencer
+495.000,00
+rozeli maria paltan 2
+31/01/2024
+ 830
+495.000,00
+0,00
+178829
+9679
+31/01/2024
+depositado
+495.000,00
+2
+31/01/2024
+188
+756
+30/01/2024
+descontado
+30.400,00
+cristovao antonio
+2
+15/02/2024
+4396
+30.400,00
+0,00
+97764
+5099
+326
+748
+30/01/2024
+descontado
+36.100,00
+vinicio orlandini be
+2
+31/05/2023
+7037
+36.100,00
+0,00
+28847
+9499
+850448
+001
+31/01/2024
+depositado
+1.223,00
+elimar fey
+1
+29/01/2024
+4639
+1.223,00
+0,00
+168041
+5223
+total
+7.601.885,44
+6.603.254,77
+saldo período
+532.367,61
+582.630,61
+saldo anterior
+7.069.517,83
+6.020.624,16
+diferença
+998630,67
+4012,00
+usuário:
+cheques.cherelatoriodiarioimpr
+25
+nº reg.:
+rotina:
+alecir
+ evolução constante

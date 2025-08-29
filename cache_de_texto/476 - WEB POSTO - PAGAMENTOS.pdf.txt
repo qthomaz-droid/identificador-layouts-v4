@@ -1,0 +1,3955 @@
+05/07/2022 17:33:42
+notas a pagar
+tipo de data: pagamento
+data inicial: 01/04/2022
+data final: 30/04/2022
+relatório analítico
+dados da unidade
+agrupar: fornecedor
+ordenação: data vencimento
+autorização: autorizados,não autorizados
+posto gef 1
+32.677.890/0001-67
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+ace associacao comercial e empresar
+plano de contas
+centro de custo
+fornecedor
+15/04/2022
+15/04/2022
+18/04/2022
+03/2022
+associacao comer
+r$0,00
+r$0,00
+r$0,00
+r$30,00
+r$30,00
+r$30,00
+r$0,00
+ace
+posto
+subtotal
+r$0,00
+r$30,00
+r$30,00
+r$30,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+ambar comercial ltda
+plano de contas
+centro de custo
+fornecedor
+27/04/2022
+27/04/2022
+27/04/2022
+001
+suprimentos
+r$0,00
+r$0,00
+r$0,00
+r$403,24
+r$403,24
+r$403,24
+r$0,00
+shampoo ducha
+posto
+subtotal
+r$0,00
+r$403,24
+r$403,24
+r$403,24
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+aromas
+plano de contas
+centro de custo
+fornecedor
+11/04/2022
+11/04/2022
+11/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$462,00
+r$462,00
+r$462,00
+r$0,00
+ref nf:000000524 - aromas
+posto
+subtotal
+r$0,00
+r$462,00
+r$462,00
+r$462,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+aso segurança
+plano de contas
+centro de custo
+fornecedor
+10/04/2022
+10/04/2022
+11/04/2022
+03/2022
+servico transpor
+r$0,00
+r$0,00
+r$0,00
+r$2.932,31
+r$2.932,31
+r$2.932,31
+r$0,00
+transporte de valores
+posto
+subtotal
+r$0,00
+r$2.932,31
+r$2.932,31
+r$2.932,31
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+atacado sao paulo - serra
+plano de contas
+centro de custo
+fornecedor
+21/04/2022
+21/04/2022
+22/04/2022
+001
+material de escri
+r$0,00
+r$0,00
+r$0,00
+r$882,37
+r$882,37
+r$882,37
+r$0,00
+material de escritorio
+posto
+subtotal
+r$0,00
+r$882,37
+r$882,37
+r$882,37
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+banco do nordeste do brasil s a
+plano de contas
+centro de custo
+fornecedor
+08/01/2021
+08/04/2022
+11/04/2022
+16/17
+emprestimos e fin
+r$0,00
+r$0,00
+r$0,00
+r$5.913,59
+r$5.913,59
+r$5.913,59
+r$0,00
+título: 01/17 - parcela 16 de 17
+posto
+08/04/2022
+08/04/2022
+11/04/2022
+16/17
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$25,17
+r$25,17
+r$25,17
+r$0,00
+juros financiamento bnb 16/1
+posto
+15/07/2019
+15/04/2022
+18/04/2022
+01/26
+emprestimos e fin
+r$0,00
+r$0,00
+r$0,00
+r$5.216,05
+r$5.216,05
+r$5.216,05
+r$0,00
+financiamento bnb
+posto
+15/07/2019
+15/04/2022
+18/04/2022
+01/26
+emprestimos e fin
+r$0,00
+r$0,00
+r$0,00
+r$46.912,31
+r$46.912,31
+r$46.912,31
+r$0,00
+financiamento bnb
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+01/26
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$881,62
+r$881,62
+r$881,62
+r$0,00
+juros financiamento bnb par
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+01/26
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$3.466,62
+r$3.466,62
+r$3.466,62
+r$0,00
+juros financiamento bnb par
+posto
+subtotal
+r$0,00
+r$62.415,36
+r$62.415,36
+r$62.415,36
+r$0,00
+r$0,00
+r$0,00
+1 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+brazmax
+plano de contas
+centro de custo
+fornecedor
+01/04/2022
+01/04/2022
+01/04/2022
+003
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$226,80
+r$226,80
+r$226,80
+r$0,00
+ref nf:000172714 - brazmax
+posto
+07/04/2022
+07/04/2022
+07/04/2022
+002
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$526,46
+r$526,46
+r$526,46
+r$0,00
+ref nf:000173449 - brazmax
+posto
+22/04/2022
+22/04/2022
+22/04/2022
+003
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$526,46
+r$526,46
+r$526,46
+r$0,00
+ref nf:000173449 - brazmax
+posto
+25/04/2022
+25/04/2022
+25/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$2.051,42
+r$2.051,42
+r$2.051,42
+r$0,00
+ref nf:000174768 - brazmax
+posto
+subtotal
+r$0,00
+r$3.331,14
+r$3.331,14
+r$3.331,14
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+calpan
+plano de contas
+centro de custo
+fornecedor
+20/04/2022
+20/04/2022
+20/04/2022
+001
+uniformes
+r$0,00
+r$0,00
+r$0,00
+r$161,25
+r$161,25
+r$161,25
+r$0,00
+botas colaboradores
+posto
+subtotal
+r$0,00
+r$161,25
+r$161,25
+r$161,25
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+camara de dirigentes logistas
+plano de contas
+centro de custo
+fornecedor
+10/04/2022
+10/04/2022
+11/04/2022
+03/2022
+associacao comer
+r$0,00
+r$0,00
+r$0,00
+r$67,00
+r$67,00
+r$67,00
+r$0,00
+cdl
+posto
+subtotal
+r$0,00
+r$67,00
+r$67,00
+r$67,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+cdc comercio de material de constru
+plano de contas
+centro de custo
+fornecedor
+25/04/2022
+25/04/2022
+25/04/2022
+001
+manutenção e rep
+r$0,00
+r$0,00
+r$0,00
+r$94,77
+r$94,77
+r$94,77
+r$0,00
+material para manutencao du
+posto
+subtotal
+r$0,00
+r$94,77
+r$94,77
+r$94,77
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+cedep comercio e industria ltda br
+plano de contas
+centro de custo
+fornecedor
+11/04/2022
+11/04/2022
+11/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$3.112,56
+r$3.112,56
+r$3.112,56
+r$0,00
+ref nf:000804352 - cedep comer
+posto
+subtotal
+r$0,00
+r$3.112,56
+r$3.112,56
+r$3.112,56
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+companytec
+plano de contas
+centro de custo
+fornecedor
+08/04/2022
+08/04/2022
+08/04/2022
+001
+manutenção e rep
+r$0,00
+r$0,00
+r$0,00
+r$747,50
+r$747,50
+r$747,50
+r$0,00
+placa automacao e leitor ide
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+001
+manutenção e rep
+r$0,00
+r$0,00
+r$0,00
+r$268,00
+r$268,00
+r$268,00
+r$0,00
+placa automacao retorno co
+posto
+subtotal
+r$0,00
+r$1.015,50
+r$1.015,50
+r$1.015,50
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+conectar - conexao ba
+plano de contas
+centro de custo
+fornecedor
+11/04/2022
+11/04/2022
+11/04/2022
+03/2022
+telefonia e inter
+r$0,00
+r$0,00
+r$0,00
+r$119,99
+r$119,99
+r$119,99
+r$0,00
+mensalidade internet
+posto
+subtotal
+r$0,00
+r$119,99
+r$119,99
+r$119,99
+r$0,00
+r$0,00
+r$0,00
+2 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+consult center
+plano de contas
+centro de custo
+fornecedor
+14/04/2022
+14/04/2022
+14/04/2022
+03/2022
+serasa/spc
+r$0,00
+r$0,00
+r$0,00
+r$200,30
+r$200,30
+r$200,30
+r$0,00
+serasa
+posto
+subtotal
+r$0,00
+r$200,30
+r$200,30
+r$200,30
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+crea - ba conselho regional de engenh
+plano de contas
+centro de custo
+fornecedor
+14/04/2022
+14/04/2022
+14/04/2022
+art spda
+taxas - spda, art,
+r$0,00
+r$0,00
+r$0,00
+r$88,78
+r$88,78
+r$88,78
+r$0,00
+art projeto para para raio - 
+posto
+subtotal
+r$0,00
+r$88,78
+r$88,78
+r$88,78
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+dell computadores
+plano de contas
+centro de custo
+fornecedor
+24/01/2022
+05/04/2022
+05/04/2022
+ct bruno 3/
+equipamentos de 
+r$0,00
+r$0,00
+r$0,00
+r$949,75
+r$949,75
+r$949,75
+r$0,00
+02 notebook i5 256gb finance
+posto
+subtotal
+r$0,00
+r$949,75
+r$949,75
+r$949,75
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+dinossauros
+plano de contas
+centro de custo
+fornecedor
+16/04/2022
+16/04/2022
+18/04/2022
+001
+uniformes
+r$0,00
+r$0,00
+r$0,00
+r$180,80
+r$180,80
+r$180,80
+r$0,00
+amostra uniformes pista
+posto
+subtotal
+r$0,00
+r$180,80
+r$180,80
+r$180,80
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+distrinox
+plano de contas
+centro de custo
+fornecedor
+30/04/2022
+30/04/2022
+29/04/2022
+2531
+uniformes
+r$0,00
+r$0,00
+r$0,00
+r$345,90
+r$345,90
+r$345,90
+r$0,00
+botas para colaboradores
+posto
+subtotal
+r$0,00
+r$345,90
+r$345,90
+r$345,90
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+embasa
+plano de contas
+centro de custo
+fornecedor
+20/04/2022
+20/04/2022
+20/04/2022
+03/2022
+energia eletrica
+r$0,00
+r$0,00
+r$0,00
+r$8.626,64
+r$8.626,64
+r$8.626,64
+r$0,00
+energia
+posto
+22/04/2022
+22/04/2022
+22/04/2022
+03/2022
+agua e esgoto
+r$0,00
+r$0,00
+r$0,00
+r$58,75
+r$58,75
+r$58,75
+r$0,00
+agua e esgoto
+posto
+subtotal
+r$0,00
+r$8.685,39
+r$8.685,39
+r$8.685,39
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+exata acessoria e servicos ltda
+plano de contas
+centro de custo
+fornecedor
+07/04/2022
+07/04/2022
+07/04/2022
+03/2022
+fgts
+r$0,00
+r$0,00
+r$0,00
+r$31,51
+r$31,51
+r$31,51
+r$0,00
+fgts
+posto
+07/04/2022
+07/04/2022
+07/04/2022
+03/2022
+fgts
+r$0,00
+r$0,00
+r$0,00
+r$3.980,96
+r$3.980,96
+r$3.980,96
+r$0,00
+fgts
+posto
+09/04/2022
+09/04/2022
+11/04/2022
+03/2022
+icms
+r$0,00
+r$0,00
+r$0,00
+r$461,95
+r$461,95
+r$461,95
+r$0,00
+icms regime normal
+posto
+14/04/2022
+14/04/2022
+14/04/2022
+rescisao l
+rescisoes, indeni
+r$0,00
+r$0,00
+r$0,00
+r$2.196,26
+r$2.196,26
+r$2.196,26
+r$0,00
+rescisao leandro costa
+posto
+14/04/2022
+14/04/2022
+14/04/2022
+rescisao l
+rescisoes, indeni
+r$0,00
+r$0,00
+r$0,00
+r$670,50
+r$670,50
+r$670,50
+r$0,00
+rescisao fgts leandro costa
+posto
+18/04/2022
+18/04/2022
+18/04/2022
+03/2022
+contabilidade
+r$0,00
+r$0,00
+r$0,00
+r$5.663,35
+r$5.663,35
+r$5.663,35
+r$0,00
+contabilidade
+posto
+20/04/2022
+20/04/2022
+20/04/2022
+03/2022
+cpc - contribuica
+r$0,00
+r$0,00
+r$0,00
+r$26,60
+r$26,60
+r$26,60
+r$0,00
+cpc
+posto
+20/04/2022
+20/04/2022
+20/04/2022
+03/2022
+irrf - imposto ren
+r$0,00
+r$0,00
+r$0,00
+r$95,69
+r$95,69
+r$95,69
+r$0,00
+irrf
+posto
+3 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+exata acessoria e servicos ltda
+plano de contas
+centro de custo
+fornecedor
+20/04/2022
+20/04/2022
+20/04/2022
+03/2022
+previdencia socia
+r$0,00
+r$0,00
+r$0,00
+r$19.423,65
+r$19.423,65
+r$19.423,65
+r$0,00
+inss
+posto
+25/04/2022
+25/04/2022
+25/04/2022
+03/2022
+icms
+r$0,00
+r$0,00
+r$0,00
+r$23,22
+r$23,22
+r$23,22
+r$0,00
+icms antecipacao tributaria
+posto
+25/04/2022
+25/04/2022
+25/04/2022
+03/2022
+icms
+r$0,00
+r$0,00
+r$0,00
+r$50,99
+r$50,99
+r$50,99
+r$0,00
+icms antecipacao parcial
+posto
+25/04/2022
+25/04/2022
+25/04/2022
+03/2022
+cofins
+r$0,00
+r$0,00
+r$0,00
+r$3.379,11
+r$3.379,11
+r$3.379,11
+r$0,00
+cofins
+posto
+25/04/2022
+25/04/2022
+25/04/2022
+03/2022
+pis
+r$0,00
+r$0,00
+r$0,00
+r$732,14
+r$732,14
+r$732,14
+r$0,00
+pis
+posto
+26/04/2022
+26/04/2022
+26/04/2022
+taxa incen
+taxas - spda, art,
+r$0,00
+r$0,00
+r$0,00
+r$916,16
+r$916,16
+r$916,16
+r$0,00
+taxa de incendio somente ar
+posto
+26/04/2022
+26/04/2022
+26/04/2022
+taxa visto
+taxas - spda, art,
+r$0,00
+r$0,00
+r$0,00
+r$298,68
+r$298,68
+r$298,68
+r$0,00
+taxa de vistoria somente are
+posto
+29/04/2022
+29/04/2022
+29/04/2022
+ferias zic
+ferias
+r$0,00
+r$0,00
+r$0,00
+r$2.262,24
+r$2.262,24
+r$2.262,24
+r$0,00
+ferias eziquiel
+posto
+29/04/2022
+29/04/2022
+29/04/2022
+1° trimest
+irpj - imposto de 
+r$0,00
+r$0,00
+r$0,00
+r$53.377,92
+r$53.377,92
+r$53.377,92
+r$0,00
+irpj 1° trimestre 2022
+posto
+29/04/2022
+29/04/2022
+29/04/2022
+ferias zan
+ferias
+r$0,00
+r$0,00
+r$0,00
+r$1.929,35
+r$1.929,35
+r$1.929,35
+r$0,00
+ferias zandinelia 20 dias - 10
+posto
+29/04/2022
+29/04/2022
+29/04/2022
+1° trimest
+csll - contribuiçã
+r$0,00
+r$0,00
+r$0,00
+r$145.525,80
+r$145.525,80
+r$145.525,80
+r$0,00
+csll 1° trimestre 2022
+posto
+subtotal
+r$0,00
+r$241.046,08
+r$241.046,08
+r$241.046,08
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+facebook
+plano de contas
+centro de custo
+fornecedor
+07/04/2022
+07/04/2022
+07/04/2022
+04/2022
+marketing (brind
+r$0,00
+r$0,00
+r$0,00
+r$300,00
+r$300,00
+r$300,00
+r$0,00
+impulsionamento mensal inst
+posto
+subtotal
+r$0,00
+r$300,00
+r$300,00
+r$300,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+ibama
+plano de contas
+centro de custo
+fornecedor
+18/04/2022
+18/04/2022
+18/04/2022
+1 trime
+ambiental/ibama
+r$0,00
+r$0,00
+r$0,00
+r$6.007,15
+r$6.007,15
+r$6.007,15
+r$0,00
+1º trimestrte
+posto
+subtotal
+r$0,00
+r$6.007,15
+r$6.007,15
+r$6.007,15
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+incolajes
+plano de contas
+centro de custo
+fornecedor
+15/04/2022
+15/04/2022
+18/04/2022
+47/48
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$1.329,77
+r$1.329,77
+r$1.329,77
+r$0,00
+juros incolajes parc 47/48
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+47/48
+ampliação postos
+r$0,00
+r$0,00
+r$0,00
+r$2.065,80
+r$2.065,80
+r$2.065,80
+r$0,00
+incolajes
+posto
+subtotal
+r$0,00
+r$3.395,57
+r$3.395,57
+r$3.395,57
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+inforlub
+plano de contas
+centro de custo
+fornecedor
+26/04/2022
+26/04/2022
+26/04/2022
+3/3
+software
+r$0,00
+r$0,00
+r$0,00
+r$419,58
+r$419,58
+r$419,58
+r$0,00
+mensalidade anual inforlub
+posto
+subtotal
+r$0,00
+r$419,58
+r$419,58
+r$419,58
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+jeffson comunicacao visual
+plano de contas
+centro de custo
+fornecedor
+01/04/2022
+01/04/2022
+01/04/2022
+001 (pix)
+manutenção e rep
+r$0,00
+r$0,00
+r$0,00
+r$200,00
+r$200,00
+r$200,00
+r$0,00
+nfe: 000000031 - parcela 1 de 1
+posto
+subtotal
+r$0,00
+r$200,00
+r$200,00
+r$200,00
+r$0,00
+r$0,00
+r$0,00
+4 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+jeffson comunicacao visual marketing visual
+plano de contas
+centro de custo
+fornecedor
+17/04/2022
+17/04/2022
+19/04/2022
+5/07
+móveis e utensíli
+r$0,00
+r$0,00
+r$0,00
+r$1.000,00
+r$1.000,00
+r$1.000,00
+r$0,00
+letreiro eu amo gef
+posto
+subtotal
+r$0,00
+r$1.000,00
+r$1.000,00
+r$1.000,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+larco comercial de produtos de petr
+plano de contas
+centro de custo
+fornecedor
+31/03/2022
+01/04/2022
+01/04/2022
+067404/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.875,00
+r$32.875,00
+r$32.875,00
+r$0,00
+ref nf:000067404 - larco comer
+posto
+31/03/2022
+01/04/2022
+01/04/2022
+067405/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.875,00
+r$32.875,00
+r$32.875,00
+r$0,00
+ref nf:000067405 - larco comer
+posto
+31/03/2022
+01/04/2022
+01/04/2022
+067403/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.875,00
+r$32.875,00
+r$32.875,00
+r$0,00
+ref nf:000067403 - larco comer
+posto
+06/04/2022
+07/04/2022
+07/04/2022
+067489/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.850,00
+r$31.850,00
+r$31.850,00
+r$0,00
+ref nf:000067489 - larco comer
+posto
+06/04/2022
+07/04/2022
+07/04/2022
+067488/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.850,00
+r$31.850,00
+r$31.850,00
+r$0,00
+ref nf:000067488 - larco comer
+posto
+06/04/2022
+07/04/2022
+07/04/2022
+067490/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.850,00
+r$31.850,00
+r$31.850,00
+r$0,00
+ref nf:000067490 - larco comer
+posto
+09/04/2022
+10/04/2022
+11/04/2022
+067538/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.800,00
+r$31.800,00
+r$31.800,00
+r$0,00
+ref nf:000067538 - larco comer
+posto
+09/04/2022
+10/04/2022
+11/04/2022
+067539/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.800,00
+r$31.800,00
+r$31.800,00
+r$0,00
+ref nf:000067539 - larco comer
+posto
+09/04/2022
+10/04/2022
+11/04/2022
+067537/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.800,00
+r$31.800,00
+r$31.800,00
+r$0,00
+ref nf:000067537 - larco comer
+posto
+11/04/2022
+10/04/2022
+11/04/2022
+067536/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.800,00
+r$31.800,00
+r$31.800,00
+r$0,00
+ref nf:000067536 - larco comer
+posto
+12/04/2022
+13/04/2022
+13/04/2022
+067556/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067556 - larco comer
+posto
+12/04/2022
+13/04/2022
+13/04/2022
+067557/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067557 - larco comer
+posto
+12/04/2022
+13/04/2022
+13/04/2022
+067554/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067554 - larco comer
+posto
+12/04/2022
+13/04/2022
+13/04/2022
+067555/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067555 - larco comer
+posto
+13/04/2022
+14/04/2022
+14/04/2022
+067579/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067579 - larco comer
+posto
+13/04/2022
+14/04/2022
+14/04/2022
+067578/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067578 - larco comer
+posto
+16/04/2022
+16/04/2022
+18/04/2022
+067632/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067632 - larco comer
+posto
+16/04/2022
+16/04/2022
+18/04/2022
+067630/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067630 - larco comer
+posto
+16/04/2022
+16/04/2022
+18/04/2022
+067629/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.450,00
+r$31.450,00
+r$31.450,00
+r$0,00
+ref nf:000067629 - larco comer
+posto
+18/04/2022
+16/04/2022
+18/04/2022
+067631/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.150,00
+r$32.150,00
+r$32.150,00
+r$0,00
+ref nf:000067631 - larco comer
+posto
+22/04/2022
+22/04/2022
+22/04/2022
+067690/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.200,00
+r$33.200,00
+r$33.200,00
+r$0,00
+ref nf:000067690 - larco comer
+posto
+22/04/2022
+22/04/2022
+22/04/2022
+067689/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.200,00
+r$33.200,00
+r$33.200,00
+r$0,00
+ref nf:000067689 - larco comer
+posto
+25/04/2022
+22/04/2022
+22/04/2022
+067691/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.200,00
+r$33.200,00
+r$33.200,00
+r$0,00
+ref nf:000067691 - larco comer
+posto
+26/04/2022
+24/04/2022
+25/04/2022
+067740/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.200,00
+r$33.200,00
+r$33.200,00
+r$0,00
+ref nf:000067740 - larco comer
+posto
+26/04/2022
+24/04/2022
+25/04/2022
+067741/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.200,00
+r$33.200,00
+r$33.200,00
+r$0,00
+ref nf:000067741 - larco comer
+posto
+26/04/2022
+24/04/2022
+25/04/2022
+067742/001
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.200,00
+r$33.200,00
+r$33.200,00
+r$0,00
+ref nf:000067742 - larco comer
+posto
+subtotal
+r$0,00
+r$841.375,00
+r$841.375,00
+r$841.375,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+ledwave scp
+plano de contas
+centro de custo
+fornecedor
+02/04/2020
+15/04/2022
+18/04/2022
+30/48
+maquinas e equipa
+r$0,00
+r$0,00
+r$0,00
+r$750,00
+r$750,00
+r$750,00
+r$0,00
+ref nf:000005819 - ledwave scp
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+30/48
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$216,96
+r$216,96
+r$216,96
+r$0,00
+juros ledwave parc 30/48
+posto
+subtotal
+r$0,00
+r$966,96
+r$966,96
+r$966,96
+r$0,00
+r$0,00
+r$0,00
+5 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+loga internet
+plano de contas
+centro de custo
+fornecedor
+15/04/2022
+15/04/2022
+18/04/2022
+03/2022
+telefonia e inter
+r$0,00
+r$5,00
+r$0,00
+r$129,90
+r$134,90
+r$129,90
+r$0,00
+mensalidade internet
+posto
+subtotal
+r$0,00
+r$129,90
+r$134,90
+r$129,90
+r$0,00
+r$5,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+luck melvi
+plano de contas
+centro de custo
+fornecedor
+09/04/2022
+09/04/2022
+11/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$453,00
+r$453,00
+r$453,00
+r$0,00
+ref nf:000019564 - luck melvi
+posto
+21/04/2022
+21/04/2022
+22/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$490,00
+r$490,00
+r$490,00
+r$0,00
+ref nf:000019583 - luck melvi
+posto
+subtotal
+r$0,00
+r$943,00
+r$943,00
+r$943,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+macrolub
+plano de contas
+centro de custo
+fornecedor
+11/04/2022
+11/04/2022
+11/04/2022
+001
+suprimentos
+r$0,00
+r$0,00
+r$0,00
+r$187,29
+r$187,29
+r$187,29
+r$0,00
+regua de medicao combustive
+posto
+11/04/2022
+11/04/2022
+11/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$470,62
+r$470,62
+r$470,62
+r$0,00
+ref nf:000371313 - macrolub
+posto
+subtotal
+r$0,00
+r$657,91
+r$657,91
+r$657,91
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+magazine luiza s/a
+plano de contas
+centro de custo
+fornecedor
+28/04/2022
+28/04/2022
+28/04/2022
+001
+maquinas e equipa
+r$0,00
+r$0,00
+r$0,00
+r$358,05
+r$358,05
+r$358,05
+r$0,00
+hd ssd 480gb note financeiro
+posto
+subtotal
+r$0,00
+r$358,05
+r$358,05
+r$358,05
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+mamute solucoes hidraulicas e pneumatica
+plano de contas
+centro de custo
+fornecedor
+06/04/2022
+06/04/2022
+06/04/2022
+001
+suprimentos
+r$0,00
+r$0,00
+r$0,00
+r$442,40
+r$442,40
+r$442,40
+r$0,00
+mangueira bomba e conexoes
+posto
+subtotal
+r$0,00
+r$442,40
+r$442,40
+r$442,40
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+marka fidelidade
+plano de contas
+centro de custo
+fornecedor
+10/04/2022
+10/04/2022
+11/04/2022
+03/2022
+gefidelidade
+r$0,00
+r$0,00
+r$0,00
+r$290,56
+r$290,56
+r$290,56
+r$0,00
+mensalidade gefidelidade
+posto
+subtotal
+r$0,00
+r$290,56
+r$290,56
+r$290,56
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+maxxi distribuidora - jequie
+plano de contas
+centro de custo
+fornecedor
+30/03/2022
+01/04/2022
+01/04/2022
+0010000158
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$49.150,00
+r$49.150,00
+r$49.150,00
+r$0,00
+ref nf:000015830 - maxxi distr
+posto
+05/04/2022
+07/04/2022
+07/04/2022
+0010000159
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$24.950,00
+r$24.950,00
+r$24.950,00
+r$0,00
+ref nf:000015921 - maxxi distr
+posto
+08/04/2022
+11/04/2022
+11/04/2022
+0010000160
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$51.200,00
+r$51.200,00
+r$51.200,00
+r$0,00
+ref nf:000016034 - maxxi distr
+posto
+13/04/2022
+15/04/2022
+18/04/2022
+0010000161
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$26.450,00
+r$26.450,00
+r$26.450,00
+r$0,00
+ref nf:000016147 - maxxi distr
+posto
+19/04/2022
+21/04/2022
+22/04/2022
+0010000162
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$26.900,00
+r$26.900,00
+r$26.900,00
+r$0,00
+ref nf:000016230 - maxxi distr
+posto
+20/04/2022
+22/04/2022
+22/04/2022
+0010000162
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$27.200,00
+r$27.200,00
+r$27.200,00
+r$0,00
+ref nf:000016258 - maxxi distr
+posto
+6 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+maxxi distribuidora - jequie
+plano de contas
+centro de custo
+fornecedor
+subtotal
+r$0,00
+r$205.850,00
+r$205.850,00
+r$205.850,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+mercado livre
+plano de contas
+centro de custo
+fornecedor
+31/03/2022
+01/04/2022
+01/04/2022
+001
+maquinas e equipa
+r$0,00
+r$0,00
+r$0,00
+r$105,63
+r$105,63
+r$105,63
+r$0,00
+delfetor ar condicionado sa
+posto
+01/04/2022
+01/04/2022
+01/04/2022
+001
+marketing (brind
+r$0,00
+r$0,00
+r$0,00
+r$291,44
+r$291,44
+r$291,44
+r$0,00
+500 mini aromatizadores brin
+posto
+subtotal
+r$0,00
+r$397,07
+r$397,07
+r$397,07
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+monarka motos
+plano de contas
+centro de custo
+fornecedor
+11/04/2022
+11/04/2022
+11/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$257,50
+r$257,50
+r$257,50
+r$0,00
+ref nf:000000455 - monarka mo
+posto
+11/04/2022
+11/04/2022
+11/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$515,00
+r$515,00
+r$515,00
+r$0,00
+ref nf:000000454 - monarka mo
+posto
+subtotal
+r$0,00
+r$772,50
+r$772,50
+r$772,50
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+motorvac
+plano de contas
+centro de custo
+fornecedor
+15/04/2022
+15/04/2022
+18/04/2022
+36/48
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$215,89
+r$215,89
+r$215,89
+r$0,00
+juros motorvac parc 36/48
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+36/48
+ampliação postos
+r$0,00
+r$0,00
+r$0,00
+r$647,91
+r$647,91
+r$647,91
+r$0,00
+vala da troca de oleo
+posto
+subtotal
+r$0,00
+r$863,80
+r$863,80
+r$863,80
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+moto sul pegas e servigos ltda
+plano de contas
+centro de custo
+fornecedor
+15/04/2022
+15/04/2022
+18/04/2022
+5/12
+inativo (com, bon
+r$0,00
+r$0,00
+r$0,00
+r$916,67
+r$916,67
+r$916,67
+r$0,00
+biz sorteio confra final ano
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+05/12
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$69,10
+r$69,10
+r$69,10
+r$0,00
+juros biz sorteio func parc 0
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+10/48
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$56,96
+r$56,96
+r$56,96
+r$0,00
+juros biz gp motosul parc 10
+posto
+15/04/2022
+15/04/2022
+18/04/2022
+10/48
+veículos
+r$0,00
+r$0,00
+r$0,00
+r$210,73
+r$210,73
+r$210,73
+r$0,00
+biz 110 gef 2  parcela 10 de 48
+posto
+subtotal
+r$0,00
+r$1.253,46
+r$1.253,46
+r$1.253,46
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+petrobahia
+plano de contas
+centro de custo
+fornecedor
+02/04/2022
+03/04/2022
+04/04/2022
+2108407/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.803,50
+r$32.803,50
+r$32.803,50
+r$0,00
+ref nf:000108407 - petrobahia
+posto
+02/04/2022
+03/04/2022
+04/04/2022
+2108408/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.803,50
+r$32.803,50
+r$32.803,50
+r$0,00
+ref nf:000108408 - petrobahia
+posto
+02/04/2022
+03/04/2022
+04/04/2022
+2108410/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.803,50
+r$32.803,50
+r$32.803,50
+r$0,00
+ref nf:000108410 - petrobahia
+posto
+02/04/2022
+03/04/2022
+04/04/2022
+2108409/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.803,50
+r$32.803,50
+r$32.803,50
+r$0,00
+ref nf:000108409 - petrobahia
+posto
+04/04/2022
+03/04/2022
+04/04/2022
+2108406/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.803,50
+r$32.803,50
+r$32.803,50
+r$0,00
+ref nf:000108406 - petrobahia
+posto
+05/04/2022
+06/04/2022
+06/04/2022
+2108532/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.802,00
+r$31.802,00
+r$31.802,00
+r$0,00
+ref nf:000108532 - petrobahia
+posto
+05/04/2022
+06/04/2022
+06/04/2022
+2108533/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.802,00
+r$31.802,00
+r$31.802,00
+r$0,00
+ref nf:000108533 - petrobahia
+posto
+05/04/2022
+06/04/2022
+06/04/2022
+2108534/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$30.135,50
+r$30.135,50
+r$30.135,50
+r$0,00
+ref nf:000108534 - petrobahia
+posto
+05/04/2022
+06/04/2022
+06/04/2022
+2108531/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.802,00
+r$31.802,00
+r$31.802,00
+r$0,00
+ref nf:000108531 - petrobahia
+posto
+7 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+petrobahia
+plano de contas
+centro de custo
+fornecedor
+08/04/2022
+08/04/2022
+08/04/2022
+2108705/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.802,00
+r$31.802,00
+r$31.802,00
+r$0,00
+ref nf:000108705 - petrobahia
+posto
+08/04/2022
+08/04/2022
+08/04/2022
+2108707/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$30.135,50
+r$30.135,50
+r$30.135,50
+r$0,00
+ref nf:000108707 - petrobahia
+posto
+08/04/2022
+08/04/2022
+08/04/2022
+2108706/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.802,00
+r$31.802,00
+r$31.802,00
+r$0,00
+ref nf:000108706 - petrobahia
+posto
+14/04/2022
+15/04/2022
+18/04/2022
+2109061/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$31.237,00
+r$31.237,00
+r$31.237,00
+r$0,00
+ref nf:000109061 - petrobahia
+posto
+14/04/2022
+15/04/2022
+18/04/2022
+2109059/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.002,00
+r$32.002,00
+r$32.002,00
+r$0,00
+ref nf:000109059 - petrobahia
+posto
+16/04/2022
+15/04/2022
+18/04/2022
+2109060/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.002,00
+r$32.002,00
+r$32.002,00
+r$0,00
+ref nf:000109060 - petrobahia
+posto
+19/04/2022
+20/04/2022
+20/04/2022
+2109307/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.250,00
+r$32.250,00
+r$32.250,00
+r$0,00
+ref nf:000109307 - petrobahia
+posto
+19/04/2022
+20/04/2022
+20/04/2022
+2109306/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.825,00
+r$32.825,00
+r$32.825,00
+r$0,00
+ref nf:000109306 - petrobahia
+posto
+22/04/2022
+22/04/2022
+22/04/2022
+2109419/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.975,00
+r$32.975,00
+r$32.975,00
+r$0,00
+ref nf:000109419 - petrobahia
+posto
+22/04/2022
+22/04/2022
+22/04/2022
+2109420/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.975,00
+r$32.975,00
+r$32.975,00
+r$0,00
+ref nf:000109420 - petrobahia
+posto
+22/04/2022
+22/04/2022
+22/04/2022
+2109418/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.975,00
+r$32.975,00
+r$32.975,00
+r$0,00
+ref nf:000109418 - petrobahia
+posto
+25/04/2022
+24/04/2022
+25/04/2022
+2109531/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.975,00
+r$32.975,00
+r$32.975,00
+r$0,00
+ref nf:000109531 - petrobahia
+posto
+25/04/2022
+24/04/2022
+25/04/2022
+2109532/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.975,00
+r$32.975,00
+r$32.975,00
+r$0,00
+ref nf:000109532 - petrobahia
+posto
+25/04/2022
+24/04/2022
+25/04/2022
+2109533/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.975,00
+r$32.975,00
+r$32.975,00
+r$0,00
+ref nf:000109533 - petrobahia
+posto
+28/04/2022
+28/04/2022
+28/04/2022
+2109784/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.550,00
+r$33.550,00
+r$33.550,00
+r$0,00
+ref nf:000109784 - petrobahia
+posto
+28/04/2022
+28/04/2022
+28/04/2022
+2109785/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.550,00
+r$33.550,00
+r$33.550,00
+r$0,00
+ref nf:000109785 - petrobahia
+posto
+28/04/2022
+28/04/2022
+28/04/2022
+2109783/00
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$33.150,00
+r$33.150,00
+r$33.150,00
+r$0,00
+ref nf:000109783 - petrobahia
+posto
+subtotal
+r$0,00
+r$841.714,50
+r$841.714,50
+r$841.714,50
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+petroserra dist. de petroleo ltda
+plano de contas
+centro de custo
+fornecedor
+31/03/2022
+01/04/2022
+01/04/2022
+0020000128
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$29.556,24
+r$29.556,24
+r$29.556,24
+r$0,00
+ref nf:000012825 - petroserra 
+posto
+27/04/2022
+29/04/2022
+29/04/2022
+0020000133
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$22.140,00
+r$22.140,00
+r$22.140,00
+r$0,00
+ref nf:000013376 - petroserra 
+posto
+27/04/2022
+29/04/2022
+29/04/2022
+0020000133
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$22.140,00
+r$22.140,00
+r$22.140,00
+r$0,00
+ref nf:000013375 - petroserra 
+posto
+subtotal
+r$0,00
+r$73.836,24
+r$73.836,24
+r$73.836,24
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+pianna lub
+plano de contas
+centro de custo
+fornecedor
+04/04/2022
+04/04/2022
+04/04/2022
+002
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$710,30
+r$710,30
+r$710,30
+r$0,00
+ref nf:000331604 - pianna lub
+posto
+07/04/2022
+07/04/2022
+07/04/2022
+003
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$1.032,00
+r$1.032,00
+r$1.032,00
+r$0,00
+ref nf:000331049 - pianna lub
+posto
+08/04/2022
+08/04/2022
+08/04/2022
+002
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$262,00
+r$262,00
+r$262,00
+r$0,00
+ref nf:000331638 - pianna lub
+posto
+16/04/2022
+16/04/2022
+18/04/2022
+002
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$452,40
+r$452,40
+r$452,40
+r$0,00
+ref nf:000331867 - pianna lub
+posto
+20/04/2022
+20/04/2022
+20/04/2022
+003
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$6.007,82
+r$6.007,82
+r$6.007,82
+r$0,00
+ref nf:000331347 - pianna lub
+posto
+22/04/2022
+22/04/2022
+22/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$330,00
+r$330,00
+r$330,00
+r$0,00
+ref nf:000332628 - pianna lub
+posto
+24/04/2022
+24/04/2022
+25/04/2022
+002
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$4.009,60
+r$4.009,60
+r$4.009,60
+r$0,00
+ref nf:000332006 - pianna lub
+posto
+subtotal
+r$0,00
+r$12.804,12
+r$12.804,12
+r$12.804,12
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+pneubras
+plano de contas
+centro de custo
+fornecedor
+8 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+pneubras
+plano de contas
+centro de custo
+fornecedor
+27/04/2022
+27/04/2022
+27/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$1.060,00
+r$1.060,00
+r$1.060,00
+r$0,00
+ref nf:000030953 - pneubras
+posto
+subtotal
+r$0,00
+r$1.060,00
+r$1.060,00
+r$1.060,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+porto seguro cia de seguros gerais
+plano de contas
+centro de custo
+fornecedor
+15/04/2022
+15/04/2022
+18/04/2022
+03/2022
+seguro de vida (f
+r$0,00
+r$0,00
+r$0,00
+r$124,33
+r$124,33
+r$124,33
+r$0,00
+seguro de vida
+posto
+subtotal
+r$0,00
+r$124,33
+r$124,33
+r$124,33
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+posto gef center
+plano de contas
+centro de custo
+fornecedor
+31/03/2022
+03/04/2022
+04/04/2022
+032022
+prolabore
+r$0,00
+r$0,00
+r$0,00
+r$2.000,00
+r$2.000,00
+r$2.000,00
+r$0,00
+prolabore daniel 032022
+posto
+31/03/2022
+03/04/2022
+04/04/2022
+032022
+retiradas de lucr
+r$0,00
+r$0,00
+r$0,00
+r$8.000,00
+r$8.000,00
+r$8.000,00
+r$0,00
+retirada lucro daniel 032022
+posto
+subtotal
+r$0,00
+r$10.000,00
+r$10.000,00
+r$10.000,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+quality
+plano de contas
+centro de custo
+fornecedor
+05/04/2022
+05/04/2022
+05/04/2022
+03/2022
+software
+r$0,00
+r$0,00
+r$0,00
+r$969,60
+r$969,60
+r$969,60
+r$0,00
+mensalidade quality
+posto
+subtotal
+r$0,00
+r$969,60
+r$969,60
+r$969,60
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+quelma estetica
+plano de contas
+centro de custo
+fornecedor
+26/04/2022
+26/04/2022
+26/04/2022
+04/2022
+serviços administ
+r$0,00
+r$0,00
+r$0,00
+r$400,00
+r$400,00
+r$400,00
+r$0,00
+quelma massagem adm esteti
+posto
+subtotal
+r$0,00
+r$400,00
+r$400,00
+r$400,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+royal fic
+plano de contas
+centro de custo
+fornecedor
+18/04/2022
+16/04/2022
+18/04/2022
+000027479/
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.215,00
+r$32.215,00
+r$32.215,00
+r$0,00
+ref nf:000027479 - royal fic
+posto
+18/04/2022
+16/04/2022
+18/04/2022
+000027477/
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.215,00
+r$32.215,00
+r$32.215,00
+r$0,00
+ref nf:000027477 - royal fic
+posto
+19/04/2022
+16/04/2022
+18/04/2022
+000027478/
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$32.215,00
+r$32.215,00
+r$32.215,00
+r$0,00
+ref nf:000027478 - royal fic
+posto
+subtotal
+r$0,00
+r$96.645,00
+r$96.645,00
+r$96.645,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+seso
+plano de contas
+centro de custo
+fornecedor
+11/04/2022
+11/04/2022
+11/04/2022
+03/2022
+sst - servico segu
+r$0,00
+r$0,00
+r$0,00
+r$729,72
+r$729,72
+r$729,72
+r$0,00
+seso exames
+posto
+subtotal
+r$0,00
+r$729,72
+r$729,72
+r$729,72
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+sindfesba
+plano de contas
+centro de custo
+fornecedor
+9 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+sindfesba
+plano de contas
+centro de custo
+fornecedor
+21/04/2022
+21/04/2022
+22/04/2022
+03/2022
+contribuicao sin
+r$0,00
+r$0,00
+r$0,00
+r$441,29
+r$441,29
+r$441,29
+r$0,00
+sindfesba
+posto
+subtotal
+r$0,00
+r$441,29
+r$441,29
+r$441,29
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+sindicombustiveis sind com comb ene
+plano de contas
+centro de custo
+fornecedor
+14/04/2022
+14/04/2022
+14/04/2022
+03/2022
+contribuições (si
+r$0,00
+r$0,00
+r$0,00
+r$232,00
+r$232,00
+r$232,00
+r$0,00
+sindicato patronal
+posto
+subtotal
+r$0,00
+r$232,00
+r$232,00
+r$232,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+sirley lucio ribeiro tavares ( js
+plano de contas
+centro de custo
+fornecedor
+18/04/2022
+18/04/2022
+18/04/2022
+001
+material de limpe
+r$0,00
+r$0,00
+r$0,00
+r$640,40
+r$640,40
+r$640,40
+r$0,00
+material de limpeza
+posto
+subtotal
+r$0,00
+r$640,40
+r$640,40
+r$640,40
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+tec print copiadoras
+plano de contas
+centro de custo
+fornecedor
+12/04/2022
+12/04/2022
+12/04/2022
+pix 120420
+material de escri
+r$0,00
+r$0,00
+r$0,00
+r$74,80
+r$74,80
+r$74,80
+r$0,00
+02 cilindros impressora brot
+posto
+subtotal
+r$0,00
+r$74,80
+r$74,80
+r$74,80
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+termica nordeste climatizacao
+plano de contas
+centro de custo
+fornecedor
+29/03/2022
+05/04/2022
+05/04/2022
+nfse 20226
+ampliação postos
+r$0,00
+r$0,00
+r$0,00
+r$800,00
+r$800,00
+r$800,00
+r$0,00
+instalacao de 3 ar cond novo
+posto
+subtotal
+r$0,00
+r$800,00
+r$800,00
+r$800,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+tim
+plano de contas
+centro de custo
+fornecedor
+07/04/2022
+07/04/2022
+07/04/2022
+03/2022
+telefonia e inter
+r$0,00
+r$0,00
+r$0,00
+r$35,99
+r$35,99
+r$35,99
+r$0,00
+tim sms clientes
+posto
+subtotal
+r$0,00
+r$35,99
+r$35,99
+r$35,99
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+tww
+plano de contas
+centro de custo
+fornecedor
+04/04/2022
+04/04/2022
+04/04/2022
+7263/1
+marketing (brind
+r$0,00
+r$0,00
+r$0,00
+r$80,00
+r$80,00
+r$80,00
+r$0,00
+envio sms troca de oleo
+posto
+subtotal
+r$0,00
+r$80,00
+r$80,00
+r$80,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+vivo
+plano de contas
+centro de custo
+fornecedor
+17/04/2022
+17/04/2022
+18/04/2022
+03/2022
+telefonia e inter
+r$0,00
+r$0,00
+r$0,00
+r$364,95
+r$364,95
+r$364,95
+r$0,00
+vivo
+posto
+subtotal
+r$0,00
+r$364,95
+r$364,95
+r$364,95
+r$0,00
+r$0,00
+r$0,00
+10 de 11
+página
+usuário: 
+quality automação
+saulo henriq
+filial:
+posto gef 1
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+vr cartoes
+plano de contas
+centro de custo
+fornecedor
+01/04/2022
+01/04/2022
+01/04/2022
+03/2022
+cesta basica
+r$0,00
+r$0,00
+r$0,00
+r$7.250,00
+r$7.250,00
+r$7.250,00
+r$0,00
+cesta
+posto
+subtotal
+r$0,00
+r$7.250,00
+r$7.250,00
+r$7.250,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+wayne
+plano de contas
+centro de custo
+fornecedor
+15/04/2022
+15/04/2022
+18/04/2022
+35/48
+juros bancarios (
+r$0,00
+r$0,00
+r$0,00
+r$853,08
+r$853,08
+r$853,08
+r$0,00
+juros dresser wayne parc 35
+posto
+15/05/2022
+15/04/2022
+18/04/2022
+35/48
+outras empresas 
+r$0,00
+r$0,00
+r$0,00
+r$2.625,67
+r$2.625,67
+r$2.625,67
+r$0,00
+bombas gef 3
+posto
+subtotal
+r$0,00
+r$3.478,75
+r$3.478,75
+r$3.478,75
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+valor pago
+saldo a pagar
+wurth do brasil peças de fixação ltda
+plano de contas
+centro de custo
+fornecedor
+04/04/2022
+04/04/2022
+04/04/2022
+003
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$579,20
+r$579,20
+r$579,20
+r$0,00
+ref nf:000093034 - wurth do b
+posto
+20/04/2022
+20/04/2022
+20/04/2022
+002
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$460,10
+r$460,10
+r$460,10
+r$0,00
+ref nf:000095319 - wurth do b
+posto
+29/04/2022
+29/04/2022
+29/04/2022
+001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$688,02
+r$688,02
+r$688,02
+r$0,00
+ref nf:000097389 - wurth do b
+posto
+subtotal
+r$0,00
+r$1.727,32
+r$1.727,32
+r$1.727,32
+r$0,00
+r$0,00
+r$0,00
+total
+r$0,00
+r$2.445.556,41
+r$2.445.561,41
+r$2.445.556,41
+r$0,00
+r$5,00
+r$0,00
+11 de 11
+página
+usuário: 
+quality automação
+saulo henriq

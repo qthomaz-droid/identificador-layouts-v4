@@ -1,0 +1,1009 @@
+data da geração: 17/04/2023
+usuário: cristiane
+iara bauermann revestimentos ltda
+cnpj: 20714456000120
+av. presidente kennedy, 2010 - jardim italia, palotina - pr
+email: iarademapal@hotmail.com telefone: 4499419444
+livro caixa
+([ ([ data de movimento é maior ou igual a "01/01/2023" , e data de movimento é menor ou igual a "31/03/2023" ])])
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 16/01/2023
+1
+ref. a baixa nº1
+carlos alberto grygutsch
+dinheiro
+iara
+r$ 29.443,40
+2
+ref. a baixa nº2
+renata paulert zuffa
+pix/depósito bancário
+iara
+r$ 7.607,14
+3
+estorno ref. a baixa nº1
+carlos alberto grygutsch
+dinheiro
+iara
+-r$ 29.443,40
+4
+ref. a baixa nº3
+carlos alberto grygutsch
+pix/depósito bancário
+iara
+r$ 29.443,40
+5
+ref. a baixa nº4
+dexco revestimentos ceramicos
+s.a
+dinheiro
+iara
+-r$ 3.188,04
+totais movimento: 16/01/2023
+valor: r$
+33,862.50
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 17/01/2023
+6
+abertura de caixa - dinheiro
+dinheiro
+iara
+-r$ 3.188,04
+7
+estorno ref. a baixa nº4
+dexco revestimentos ceramicos
+s.a
+dinheiro
+iara
+r$ 3.188,04
+8
+ref. a baixa nº5
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 3.188,04
+9
+ref. a baixa nº6
+dexco revestimentos ceramicos
+s/a
+pix/depósito bancário
+iara
+-r$ 2.892,32
+10
+ref. a baixa nº7
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 1.912,85
+11
+ref. a baixa nº8
+pado s a industrial comercial e
+importadora
+pix/depósito bancário
+iara
+-r$ 681,00
+totais movimento: 17/01/2023
+valor: -r$ 8,674.21
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 20/01/2023
+12
+ref. a baixa nº9
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 1.666,48
+13
+ref. a baixa nº10
+dexco s.a.
+pix/depósito bancário
+iara
+-r$ 2.425,73
+14
+ref. a baixa nº11
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 2.454,45
+15
+ref. a baixa nº12
+transportadora zanpie ltda
+pix/depósito bancário
+iara
+-r$ 2.865,89
+16
+ref. a baixa nº13
+duratex s.a.
+pix/depósito bancário
+iara
+-r$ 705,35
+17
+ref. a baixa nº14
+saint-gobain do brasil produtos ind
+ustriais e para construc
+pix/depósito bancário
+iara
+-r$ 142,01
+18
+ref. a baixa nº15
+saint-gobain do brasil produtos ind
+ustriais e para construc
+pix/depósito bancário
+iara
+-r$ 113,38
+19
+ref. a baixa nº16
+saint-gobain do brasil produtos ind
+ustriais e para construc
+pix/depósito bancário
+iara
+-r$ 503,04
+20
+ref. a baixa nº17
+saint-gobain do brasil produtos ind
+ustriais e para construc
+pix/depósito bancário
+iara
+-r$ 1.660,03
+21
+pagamento inss - baixa nº18
+pix/depósito bancário
+iara
+-r$ 762,90
+totais movimento: 20/01/2023
+valor: -r$
+13,299.26
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 21/01/2023
+22
+ref. ao pedido nº 248 - baixa nº19
+a.a consumidor final
+pix/depósito bancário
+iara
+r$ 873,73
+nexuscloud
+página 1 / 9
+ portinari
+livro caixa
+totais movimento: 21/01/2023
+valor: r$ 873.73
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 23/01/2023
+23
+ref. a baixa nº20
+joao batista santana
+dinheiro
+iara
+r$ 3.000,00
+24
+ref. a baixa nº21
+cassiana rossato
+pix/depósito bancário
+iara
+r$ 7.458,43
+25
+ref. a baixa nº22
+vitor todescatto
+pix/depósito bancário
+iara
+r$ 1.281,78
+26
+ref. a baixa nº23
+fernando cesar tizo
+pix/depósito bancário
+iara
+r$ 379,00
+27
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+28
+ref. ao pedido nº 249 - baixa nº24
+maria vitoria colombo aleixo
+dinheiro
+iara
+r$ 3.100,00
+totais movimento: 23/01/2023
+valor: r$
+18,219.21
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 30/01/2023
+29
+cheque á vista
+dinheiro
+iara
+-r$ 3.100,00
+30
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+31
+ref. a baixa nº25
+dexco s.a.
+pix/depósito bancário
+iara
+-r$ 2.445,07
+32
+ref. a baixa nº26
+saint-gobain do brasil produtos ind
+ustriais e para construc
+pix/depósito bancário
+iara
+-r$ 113,39
+33
+ref. a baixa nº27
+saint-gobain do brasil produtos ind
+ustriais e para construc
+pix/depósito bancário
+iara
+-r$ 141,73
+34
+ref. a baixa nº28
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 2.454,44
+35
+ref. a baixa nº29
+linear
+pix/depósito bancário
+iara
+-r$ 2.055,99
+36
+ref. a baixa nº30
+dexco revestimentos ceramicos
+s/a
+pix/depósito bancário
+iara
+-r$ 2.892,24
+37
+ref. a baixa nº31
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 1.912,79
+38
+ref. a baixa nº32
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 3.187,94
+39
+ref. a baixa nº33
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 3.187,94
+40
+ref. a baixa nº34
+comercio de combustiveis
+cauneto ltda
+pix/depósito bancário
+iara
+-r$ 226,60
+41
+ref. a baixa nº35
+araforros industria e comercio
+de perfilados ltda
+pix/depósito bancário
+iara
+-r$ 5.456,63
+42
+sanepar - baixa nº36
+deposito de madeiras palotina
+ltda
+pix/depósito bancário
+iara
+-r$ 15,25
+43
+copel - baixa nº37
+deposito de madeiras palotina
+ltda
+pix/depósito bancário
+iara
+-r$ 688,41
+44
+ref. a baixa nº38
+cesar hwang
+pix/depósito bancário
+iara
+r$ 861,90
+totais movimento: 30/01/2023
+valor: -r$
+24,016.52
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 31/01/2023
+45
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+46
+ref. a baixa nº39
+pado s a industrial comercial e
+importadora
+pix/depósito bancário
+iara
+-r$ 681,00
+47
+ref. a baixa nº40
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 1.912,80
+48
+ref. a baixa nº41
+dexco revestimentos ceramicos
+s/a
+pix/depósito bancário
+iara
+-r$ 2.892,24
+49
+ref. a baixa nº42
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 1.020,15
+50
+ref. a baixa nº43
+pix/depósito bancário
+iara
+-r$ 2.601,64
+nexuscloud
+página 2 / 9
+livro caixa
+51
+marketing - baixa nº44
+gabriela de oliveira brito
+pix/depósito bancário
+iara
+-r$ 420,00
+52
+gnre ralo linear - baixa nº45
+iara bauermann revestimentos ltda
+pix/depósito bancário
+iara
+-r$ 1.036,81
+53
+darf-irpj - baixa nº46
+iara bauermann revestimentos ltda
+pix/depósito bancário
+iara
+-r$ 6.273,95
+54
+darf-csll - baixa nº47
+iara bauermann revestimentos ltda
+pix/depósito bancário
+iara
+-r$ 3.913,32
+55
+iss-jacuzzi - baixa nº48
+municipio de palotina
+pix/depósito bancário
+iara
+-r$ 180,20
+totais movimento: 31/01/2023
+valor: -r$
+17,932.11
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 01/02/2023
+56
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+57
+ref. a baixa nº49
+pix/depósito bancário
+iara
+r$ 1.994,66
+58
+ref. a baixa nº50
+cleci maria galhardo
+pix/depósito bancário
+iara
+r$ 1.000,00
+59
+inviolavel - baixa nº51
+inviolavel palotina ltda me
+pix/depósito bancário
+iara
+-r$ 185,00
+totais movimento: 01/02/2023
+valor: r$ 5,809.66
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 02/02/2023
+60
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+61
+ref. a baixa nº52
+leticia formentini
+pix/depósito bancário
+iara
+r$ 20.573,00
+62
+ref. a baixa nº53
+saint-gobain do brasil produtos ind
+ustriais e para construc
+pix/depósito bancário
+iara
+-r$ 2.143,99
+totais movimento: 02/02/2023
+valor: r$
+21,429.01
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 03/02/2023
+63
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+64
+ref. a baixa nº54
+pix/depósito bancário
+iara
+-r$ 2.795,64
+65
+faxina mes fevereiro - baixa
+nº55
+iara bauermann revestimentos ltda
+pix/depósito bancário
+iara
+-r$ 680,00
+66
+ref. a baixa nº56
+ivair dreon
+cheque
+iara
+r$ 2.943,97
+67
+recebimento
+cheque
+iara
+-r$ 2.943,97
+68
+ref. a baixa nº57
+rodolfo augusto rossetto
+bilibio
+pix/depósito bancário
+iara
+r$ 6.392,00
+totais movimento: 03/02/2023
+valor: r$ 5,916.36
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 04/02/2023
+69
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+70
+ref. ao pedido nº 265 - baixa nº58
+janete klein
+dinheiro
+iara
+r$ 1.500,00
+totais movimento: 04/02/2023
+valor: r$ 4,500.00
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 06/02/2023
+71
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 4.500,00
+totais movimento: 06/02/2023
+valor: r$ 4,500.00
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 07/02/2023
+72
+pix
+dinheiro
+iara
+-r$ 1.500,00
+nexuscloud
+página 3 / 9
+livro caixa
+73
+salario alessandro fortes
+hartamann - baixa nº59
+iara bauermann revestimentos ltda
+pix/depósito bancário
+iara
+-r$ 723,11
+74
+ref. a baixa nº60
+duratex s.a.
+pix/depósito bancário
+iara
+-r$ 191,54
+75
+fgts - baixa nº61
+iara bauermann revestimentos ltda
+pix/depósito bancário
+iara
+-r$ 94,53
+76
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+totais movimento: 07/02/2023
+valor: r$ 490.82
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 08/02/2023
+77
+ref. a baixa nº62
+duratex s.a.
+pix/depósito bancário
+iara
+-r$ 57,54
+78
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+totais movimento: 08/02/2023
+valor: r$ 2,942.46
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 09/02/2023
+79
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+80
+ref. ao pedido nº 270 - baixa nº63
+jone paulo lazzaretti
+pix/depósito bancário
+iara
+r$ 1.206,36
+81
+ref. a baixa nº64
+verlaine sponchiado hein
+pix/depósito bancário
+iara
+r$ 4.553,00
+82
+ref. a baixa nº65
+comercio de combustiveis
+cauneto ltda
+pix/depósito bancário
+iara
+-r$ 478,60
+83
+ref. a baixa nº66
+trento de palotina ltda
+pix/depósito bancário
+iara
+-r$ 142,60
+84
+ref. a baixa nº67
+glaeser, paludo e cia ltda
+pix/depósito bancário
+iara
+-r$ 414,00
+85
+ref. a baixa nº68
+cardoso comercio de
+combustiveis ltda
+pix/depósito bancário
+iara
+-r$ 100,00
+86
+ref. a baixa nº69
+luiz antonio mariot roman
+pix/depósito bancário
+iara
+r$ 1.252,00
+87
+ref. a baixa nº70
+pix/depósito bancário
+iara
+-r$ 2.144,56
+totais movimento: 09/02/2023
+valor: r$ 6,731.60
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 10/02/2023
+88
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+89
+ref. a baixa nº71
+marcio anibal marafon
+pix/depósito bancário
+iara
+r$ 3.023,63
+90
+ref. a baixa nº72
+pix/depósito bancário
+iara
+-r$ 800,57
+91
+sistema - baixa nº73
+pix/depósito bancário
+iara
+-r$ 635,00
+92
+honorarios contabil - baixa
+nº74
+heuert contadores associados
+pix/depósito bancário
+iara
+-r$ 972,00
+totais movimento: 10/02/2023
+valor: r$ 3,616.06
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 14/02/2023
+93
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+94
+aluguel - baixa nº75
+pix/depósito bancário
+iara
+-r$ 4.000,00
+95
+ref. a baixa nº76
+joao carlos simon
+pix/depósito bancário
+iara
+r$ 4.405,05
+totais movimento: 14/02/2023
+valor: r$ 3,405.05
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 17/02/2023
+96
+ref. a baixa nº77
+lademir hendges
+pix/depósito bancário
+iara
+r$ 24.565,76
+97
+seguri montana - baixa nº78
+pix/depósito bancário
+iara
+-r$ 574,06
+98
+inss - baixa nº79
+pix/depósito bancário
+iara
+-r$ 814,82
+99
+ipva caminhao - baixa nº80
+pix/depósito bancário
+iara
+-r$ 116,84
+nexuscloud
+página 4 / 9
+livro caixa
+100
+ref. a baixa nº81
+cesar hwang
+pix/depósito bancário
+iara
+-r$ 39,90
+101
+ref. a baixa nº82
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 719,95
+102
+ref. a baixa nº83
+transportadora zanpie ltda
+pix/depósito bancário
+iara
+-r$ 50,00
+103
+ref. a baixa nº84
+dexco s.a.
+pix/depósito bancário
+iara
+-r$ 1.424,55
+104
+ref. a baixa nº85
+transportadora zanpie ltda
+pix/depósito bancário
+iara
+-r$ 290,00
+105
+ref. a baixa nº86
+duratex s.a.
+pix/depósito bancário
+iara
+-r$ 703,47
+106
+ref. a baixa nº87
+saint-gobain do brasil produtos ind
+ustriais e para construc
+pix/depósito bancário
+iara
+-r$ 487,27
+107
+ref. a baixa nº88
+leticia formentini
+pix/depósito bancário
+iara
+r$ 9.685,00
+totais movimento: 17/02/2023
+valor: r$
+29,029.90
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 20/02/2023
+108
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+109
+ref. a baixa nº89
+cassiana rossato
+pix/depósito bancário
+iara
+r$ 7.458,42
+110
+ref. a baixa nº90
+vitor todescatto
+pix/depósito bancário
+iara
+r$ 1.281,78
+111
+ref. a baixa nº91
+duratex s.a.
+pix/depósito bancário
+iara
+-r$ 191,54
+112
+ref. a baixa nº92
+dexco s.a.
+pix/depósito bancário
+iara
+-r$ 1.424,55
+113
+ref. a baixa nº93
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 267,31
+114
+ref. a baixa nº94
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 634,55
+115
+ref. a baixa nº95
+dexco s.a.
+pix/depósito bancário
+iara
+-r$ 1.341,27
+116
+ref. a baixa nº96
+dexco revestimentos ceramicos
+s.a
+pix/depósito bancário
+iara
+-r$ 719,96
+117
+ipva fusion - baixa nº97
+pix/depósito bancário
+iara
+-r$ 595,83
+118
+ipva montana - baixa nº98
+pix/depósito bancário
+iara
+-r$ 237,96
+120
+estorno ref. a baixa nº98
+pix/depósito bancário
+iara
+r$ 237,96
+121
+ipva montana - baixa nº100
+pix/depósito bancário
+iara
+-r$ 210,83
+122
+darf cofins - baixa nº101
+pix/depósito bancário
+iara
+-r$ 1.062,65
+123
+darf pis - baixa nº102
+pix/depósito bancário
+iara
+-r$ 237,96
+totais movimento: 20/02/2023
+valor: r$ 5,053.75
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 27/02/2023
+124
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 3.000,00
+125
+ref. a baixa nº103
+luiz antonio bagao
+pix/depósito bancário
+iara
+r$ 1.032,00
+126
+ref. a baixa nº104
+j o yoshida ltda
+pix/depósito bancário
+iara
+r$ 5.078,00
+127
+ref. a baixa nº105
+pix/depósito bancário
+iara
+-r$ 4.124,75
+128
+ref. a baixa nº106
+a estudantil livraria e papelaria
+me
+dinheiro
+iara
+-r$ 260,00
+129
+sanepar - baixa nº107
+pix/depósito bancário
+iara
+-r$ 15,00
+130
+copel - baixa nº108
+pix/depósito bancário
+iara
+-r$ 837,18
+totais movimento: 27/02/2023
+valor: r$ 3,873.07
+cód.
+descrição
+cliente/fornecedor
+forma
+usuário
+valor
+movimento: 28/02/2023
+131
+abertura de caixa - dinheiro
+dinheiro
+iara
+r$ 2.740,00
+132
+ref. ao pedido nº 287 - baixa nº109
+carlos alberto grygutsch
+dinheiro
+iara
+r$ 208,71
+133
+ref. a baixa nº110
+carlos alberto grygutsch
+pix/depósito bancário
+iara
+r$ 13.567,63
+nexuscloud
+página 5 / 9

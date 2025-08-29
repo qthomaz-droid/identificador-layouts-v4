@@ -1,0 +1,285 @@
+pagme pagamentos
+contapag
+1 de 2
+contas
+extrato da conta
+08/02/2023 - 08:26:23
+filtros utilizados no relatório
+6566929-3
+data inicial:
+01/01/2023
+data final:
+31/01/2023
+nome do cliente:
+sociedade catarinense de
+agência:
+8 - atf.credit
+cnpj:
+83.466.045/0001-83
+conta
+10001
+cod.
+saldo anterior
+r$ 0,00
+data
+número documento
+histórico
+lançamento (r$)
+saldo (r$)
+03/01/2023
+756-3258 - 110370
+tarifa de ted
+null
+-r$ 7,00
+r$ -7,00
+03/01/2023
+756-3258 - 110370
+débito ted
+sociedade catarinense de ensino
+-r$ 36.957,12
+r$ -36.964,12
+03/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 36.964,12
+r$ 0,00
+04/01/2023
+756.3258 - 110370
+crédito ted
+sociedade catarinense de ensino
+r$ 9.717,37
+r$ 9.717,37
+05/01/2023
+237.3708 - 81167
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 100.523,59
+r$ 110.240,96
+06/01/2023
+237.3708 - 43214
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 7.460,73
+r$ 117.701,69
+06/01/2023
+756-3258 - 110370
+tarifa de ted
+null
+-r$ 7,00
+r$ 117.694,69
+06/01/2023
+756-3258 - 110370
+débito ted
+sociedade catarinense de ensino
+-r$ 22.823,58
+r$ 94.871,11
+06/01/2023
+crédito transferência
+crédito transferência
+64021611
+r$ 18.830,77
+r$ 113.701,88
+06/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 3.999,81
+r$ 117.701,69
+06/01/2023
+756-3258 - 110370
+tarifa de ted
+null
+-r$ 7,00
+r$ 117.694,69
+06/01/2023
+756-3258 - 110370
+débito ted
+sociedade catarinense de ensino
+-r$ 42.152,16
+r$ 75.542,53
+06/01/2023
+débito transferência
+débito transferência
+64021611
+-r$ 68.081,80
+r$ 7.460,73
+09/01/2023
+756.3258 - 110370
+crédito ted
+sociedade catarinense de ensino
+r$ 5.228,17
+r$ 12.688,90
+09/01/2023
+756.3258 - 110370
+crédito ted
+sociedade catarinense de ensino
+r$ 14.730,05
+r$ 27.418,95
+09/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 4.189,63
+r$ 31.608,58
+10/01/2023
+756-3258 - 110370
+tarifa de ted
+null
+-r$ 7,00
+r$ 31.601,58
+10/01/2023
+756-3258 - 110370
+débito ted
+sociedade catarinense de ensino
+-r$ 95.439,29
+r$ -63.837,71
+10/01/2023
+crédito transferência
+crédito transferência
+64021611
+r$ 62.410,38
+r$ -1.427,33
+10/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 1.627,33
+r$ 200,00
+10/01/2023
+pacote srv
+pacote de serviços
+null
+-r$ 200,00
+r$ 0,00
+11/01/2023
+débito transferência
+débito transferência
+64021611
+-r$ 3.887,50
+r$ -3.887,50
+11/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 3.887,50
+r$ 0,00
+18/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 10.709,12
+r$ 10.709,12
+1.0.0
+89943686987
+fourbank
+ hi. atf.credit
+ e. atf.credit
+pagme pagamentos
+contapag
+2 de 2
+contas
+extrato da conta
+08/02/2023 - 08:26:23
+filtros utilizados no relatório
+6566929-3
+data inicial:
+01/01/2023
+data final:
+31/01/2023
+nome do cliente:
+sociedade catarinense de
+agência:
+8 - atf.credit
+cnpj:
+83.466.045/0001-83
+conta
+10001
+cod.
+saldo anterior
+r$ 0,00
+data
+número documento
+histórico
+lançamento (r$)
+saldo (r$)
+23/01/2023
+8 - 64021611
+débito transferência
+64021611
+-r$ 12.850,60
+r$ -2.141,48
+23/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 2.141,48
+r$ 0,00
+26/01/2023
+756.3258 - 110370
+crédito ted
+sociedade catarinense de ensino
+r$ 4.749,00
+r$ 4.749,00
+27/01/2023
+756-3258 - 110370
+tarifa de ted
+null
+-r$ 7,00
+r$ 4.742,00
+27/01/2023
+756-3258 - 110370
+débito ted
+sociedade catarinense de ensino
+-r$ 21.307,30
+r$ -16.565,30
+27/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 9.565,30
+r$ -7.000,00
+27/01/2023
+crédito transferência
+crédito transferência
+64021611
+r$ 7.000,00
+r$ 0,00
+30/01/2023
+756.3258 - 110370
+crédito ted
+sociedade catarinense de ensino
+r$ 4.934,23
+r$ 4.934,23
+31/01/2023
+8 - 64021611
+débito transferência
+64021611
+-r$ 9.912,02
+r$ -4.977,79
+31/01/2023
+237.3708 - 51519
+crédito ted
+alphatrade fundo de inv em dir c
+r$ 4.977,79
+r$ 0,00
+totais do período
+saldo em 31/01/2023
+r$ 0,00
+saldo atual
+r$ 0,15
+limite
+r$ 0,00
+tarifas pendentes
+r$ 0,00
+bloqueio pix devolução
+r$ 0,00
+bloqueio pix cautelar
+r$ 0,00
+dias negativo
+0
+1.0.0
+89943686987
+fourbank
+ hi. atf.credit
+ e. atf.credit

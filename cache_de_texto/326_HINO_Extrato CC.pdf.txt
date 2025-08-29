@@ -1,0 +1,301 @@
+conta corrente: 1156 - cef  - caixa economica federal
+saldo anterior: 3.950,07
+data
+nome
+histórico
+número
+tipo
+saída (r$)
+entrada (r$) acumulado (r$)
+03/01/2022
+deb iof
+iof
+56,93
+0,00
+3.893,14
+03/01/2022
+deb.juros
+tar/custas cobranca
+51,22
+0,00
+3.841,92
+05/01/2022
+ferramentas para manutencao
+cheque 900020 - viprimax
+cheque
+outros
+9.350,00
+0,00
+-5.508,08
+05/01/2022
+antecipacao de lucros
+padovani - cheque a compensar - caixa econômica construção
+outros
+5.511,31
+0,00
+-11.019,39
+05/01/2022
+seguradora
+tar/custas cobranca
+105,53
+0,00
+-11.124,92
+06/01/2022
+antecipacao de lucros
+padovani - cheque a compensar - caixa econômica construção
+outros
+1.306,08
+0,00
+-12.431,00
+06/01/2022
+banco caixa economica federal
+transferência entre bancos
+509
+transferência
+0,00
+12.000,00
+-431,00
+07/01/2022
+emprestimo itau - vidrak comercio
+capital de giro cef - parcela 01/60
+emprestimo
+cef
+outros
+10.829,64
+0,00
+-11.260,64
+07/01/2022
+banco caixa economica federal
+transferência entre bancos
+519
+transferência
+0,00
+12.000,00
+739,36
+10/01/2022
+finc negocios imobiliarios
+construção itu  padovani
+construção
+imobilizado construção
+1.748,70
+0,00
+-1.009,34
+10/01/2022
+antecipacao de lucros
+cpfl casa de itu pagar na cef
+cpfl itu
+márcio
+outros
+96,83
+0,00
+-1.106,17
+10/01/2022
+antecipacao de lucros
+cpfl casa de itu - ricardo sales
+cpfl itu.
+ricardo
+outros
+168,02
+0,00
+-1.274,19
+11/01/2022
+banco caixa economica federal
+transferência entre bancos
+521
+transferência
+0,00
+5.000,00
+3.725,81
+12/01/2022
+outras entradas - 01/2022
+rendimento
+0,00
+5,71
+3.731,52
+17/01/2022
+ferramentas para manutencao
+cheque padovani- 90014
+cheque -
+padovani
+outros
+2.008,34
+0,00
+1.723,18
+17/01/2022
+finc negocios imobiliarios
+casas de itu - construção padovani - ricardo
+sales
+construção
+imobilizado construção
+2.365,76
+0,00
+-642,58
+17/01/2022
+finc negocios imobiliarios
+padovani
+construção
+imobilizado construção
+1.689,47
+0,00
+-2.332,05
+19/01/2022
+banco caixa economica federal
+transferência entre bancos
+560
+transferência
+0,00
+8.000,00
+5.667,95
+20/01/2022
+antecipacao de lucros
+cheque padovani - construção casa de itu
+construção
+outros
+1.098,19
+0,00
+4.569,76
+20/01/2022
+vr beneficios e serviços de processamento ltda
+033141513
+nota fiscal de entrada
+4.700,00
+0,00
+-130,24
+21/01/2022
+ferramentas para manutencao
+cheque 900089 padovani
+construção
+outros
+4.996,65
+0,00
+-5.126,89
+21/01/2022
+banco caixa economica federal
+transferência entre bancos
+564
+transferência
+0,00
+1.000,00
+-4.126,89
+24/01/2022
+banco caixa economica federal
+transferência entre bancos
+568
+transferência
+0,00
+5.000,00
+873,11
+25/01/2022
+itulaje
+900098
+cheque emitido
+1.112,50
+0,00
+-239,39
+1/2
+02/02/2022 09:45
+hino erp - versão: 1.7.24.33
+usuário: daiane fernanda de souza
+http://www.hinosistemas.com.br
+vidrak visores de vidros industriais ltda
+conta corrente - extrato
+data: 02/02/2022
+moeda: real brasil
+periodo: 01/01/2022 á 31/01/2022
+estab:2
+22.633.336/0001-24
+cnpj:
+25/01/2022
+itulajes
+900099
+cheque emitido
+1.112,50
+0,00
+-1.351,89
+25/01/2022
+finc negocios imobiliarios
+cheques padovani -  total de (r$12.741,32)
+construção
+imobilizado construção
+1.415,70
+0,00
+-2.767,59
+25/01/2022
+debito cesta
+tar/custas cobranca
+99,00
+0,00
+-2.866,59
+26/01/2022
+banco itaucard s.a.
+despesas com cartão: 197 - forn.: caixa
+economica federal
+197
+outros
+21.580,17
+0,00
+-24.446,76
+26/01/2022
+banco caixa economica federal
+transferência entre bancos
+571
+transferência
+0,00
+30.000,00
+5.553,24
+27/01/2022
+finc negocios imobiliarios
+cheques padovani
+construção
+imobilizado construção
+1.240,20
+0,00
+4.313,04
+28/01/2022
+emprestimo itau - vidrak comercio
+capital de giro cef - financ. equipamento -
+maquina laser 48 parc.
+emprestimo
+cef - maq
+outros
+1.256,77
+0,00
+3.056,27
+28/01/2022
+prestacao de servicos
+cheques padovani - construção 9 parcelas
+cheque -
+padovani
+outros
+2.265,63
+0,00
+790,64
+saldo:
+790,64
+3.950,07
+saldo anterior:
+73.005,71
+total de entradas:
+76.165,14
+total de saídas:
+2/2
+02/02/2022 09:45
+hino erp - versão: 1.7.24.33
+usuário: daiane fernanda de souza
+http://www.hinosistemas.com.br
+vidrak visores de vidros industriais ltda
+conta corrente - extrato
+data: 02/02/2022
+moeda: real brasil
+periodo: 01/01/2022 á 31/01/2022
+estab:2
+22.633.336/0001-24
+cnpj:
+ ávidrak
+
+visores-de vidros industriais -as o.
+sistema de gestão da da quabrde 900f
+ ávidrak
+
+visores-de vidros industriais -as o.
+sistema de gestão da da quabrde 900f

@@ -1,0 +1,1903 @@
+15/06/2021
+1/29
+                                                  página 1
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     01/04/2021        0183  pagamento a fornecedores           010401                 24,35 c                   24,35
+                             cnpj 004740876000125     
+     01/04/2021        3819  pagamento cartao de debito         379440                988,59 c                1.012,94
+                             getnet-elo debito        
+     01/04/2021        3819  pagamento cartao de debito         379440                904,02 c                1.916,96
+                             getnet-visa electr       
+     01/04/2021        3819  pagamento cartao de debito         379440              1.481,09 c                3.398,05
+                             getnet-maestro           
+     01/04/2021        3818  pagamento cartao de credito        379440                115,31 c                3.513,36
+                             getnet-visa              
+     01/04/2021        3818  pagamento cartao de credito        379440                738,47 c                4.251,83
+                             getnet-master            
+     01/04/2021        3818  pagamento cartao de credito        379440                 32,64 c                4.284,47
+                             getnet-elo               
+     01/04/2021        0036  iof imposto operacoes financeiras                         -0,07 d                4.284,40
+                             periodo: 01/03 a 31/03/21
+     01/04/2021        2712  iof adicional - automatico                                -7,24 d                4.277,16
+                             periodo: 01/03 a 31/03/21
+     01/04/2021        3625  aplicacao aut contamax empresarial                    -4.277,16 d                    0,00
+                                                      
+     05/04/2021        0183  pagamento a fornecedores           010405                351,01 c                  351,01
+                             cnpj 004740876000125     
+     05/04/2021        3819  pagamento cartao de debito         379440              2.683,41 c                3.034,42
+                             getnet-elo debito        
+     05/04/2021        3819  pagamento cartao de debito         379440              3.708,70 c                6.743,12
+                             getnet-maestro           
+     05/04/2021        3819  pagamento cartao de debito         379440              4.100,77 c               10.843,89
+                             getnet-visa electr       
+     05/04/2021        3818  pagamento cartao de credito        379440              1.445,14 c               12.289,03
+                             getnet-visa              
+     05/04/2021        3818  pagamento cartao de credito        379440              2.223,85 c               14.512,88
+                             getnet-master            
+     05/04/2021        3818  pagamento cartao de credito        379440                379,47 c               14.892,35
+                             getnet-elo               
+     05/04/2021        3818  pagamento cartao de credito        379440                 46,92 c               14.939,27
+                             getnet-hipercard         
+     05/04/2021        3818  pagamento cartao de credito        379440                 33,28 c               14.972,55
+                             getnet-amex              
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -2.249,35 d               12.723,20
+                             frigorifico frilara ltda 
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -287,92 d               12.435,28
+                             lube distribuidora ltda  
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -285,17 d               12.150,11
+                             colina alimentos ltda    
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -372,00 d               11.778,11
+                             proteinorte   alimentos s
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -1.689,45 d               10.088,66
+                             trademaster servicos e pa
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -197,64 d                9.891,02
+                             atacadao s.a.            
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -147,61 d                9.743,41
+                             atacadao s.a.            
+ 
+15/06/2021
+2/29
+                                                  página 2
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -1.035,58 d                8.707,83
+                             atacadao s.a.            
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -2.748,72 d                5.959,11
+                             banco bocom bbm s.a      
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -3.021,74 d                2.937,37
+                             banco bocom bbm s.a      
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -351,37 d                2.586,00
+                             frigorifico frilara ltda 
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -199,98 d                2.386,02
+                             cgmp cen ges meios pagtos
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -1.867,71 d                  518,31
+                             rj refrescos ltda        
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -358,00 d                  160,31
+                             rio branco alimentos     
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -398,95 d                 -238,64
+                             miranda correia distribui
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -279,32 d                 -517,96
+                             colina alimentos ltda    
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -974,85 d               -1.492,81
+                             supergasbras energia ltda
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -1.263,55 d               -2.756,36
+                             colina alimentos ltda    
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -234,27 d               -2.990,63
+                             lube distribuidora ltda  
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -1.922,78 d               -4.913,41
+                             forte boi - industria de 
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -380,37 d               -5.293,78
+                             atacadao s.a.            
+     05/04/2021        2988  pgto titulo outro bco - internet   000000                -40,78 d               -5.334,56
+                             atacadao s.a.            
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -955,66 d               -6.290,22
+                             l p distribuidora de gela
+     05/04/2021        2988  pgto titulo outro bco - internet   000000                -87,06 d               -6.377,28
+                             banco bocom bbm s.a      
+     05/04/2021        2988  pgto titulo outro bco - internet   000000             -1.282,80 d               -7.660,08
+                             coop agroindustrial coope
+     05/04/2021        2988  pgto titulo outro bco - internet   000000               -838,08 d               -8.498,16
+                             companhia boi com.carnes 
+     05/04/2021        2988  pgto titulo outro bco - internet   000000                -69,90 d               -8.568,06
+                             bws telecomunicacoes ltda
+     05/04/2021        3627  resgate aut contamax empresarial                       7.902,51 c                 -665,55
+                                                      
+     06/04/2021        0183  pagamento a fornecedores           010406                 14,10 c                 -651,45
+                             cnpj 004740876000125     
+     06/04/2021        2988  pgto titulo outro bco - internet   240011               -918,00 d               -1.569,45
+                             proteinorte   alimentos s
+     06/04/2021        2988  pgto titulo outro bco - internet   239500             -1.055,52 d               -2.624,97
+                             companhia de alimentos un
+     06/04/2021        2988  pgto titulo outro bco - internet   239653               -827,53 d               -3.452,50
+                             cia boi com de carnes eir
+     06/04/2021        3819  pagamento cartao de debito         379440                504,28 c               -2.948,22
+                             getnet-maestro           
+ 
+15/06/2021
+3/29
+                                                  página 3
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     06/04/2021        3819  pagamento cartao de debito         379440                458,09 c               -2.490,13
+                             getnet-elo debito        
+     06/04/2021        3819  pagamento cartao de debito         379440                752,59 c               -1.737,54
+                             getnet-visa electr       
+     06/04/2021        3818  pagamento cartao de credito        379440              1.978,83 c                  241,29
+                             getnet-visa              
+     06/04/2021        3818  pagamento cartao de credito        379440              1.649,50 c                1.890,79
+                             getnet-master            
+     06/04/2021        3818  pagamento cartao de credito        379440                 45,84 c                1.936,63
+                             getnet-elo               
+     06/04/2021        3818  pagamento cartao de credito        379440                 13,54 c                1.950,17
+                             getnet-amex              
+     06/04/2021        3625  aplicacao aut contamax empresarial                    -1.950,17 d                    0,00
+                                                      
+     07/04/2021        0183  pagamento a fornecedores           010407                 33,84 c                   33,84
+                             cnpj 004740876000125     
+     07/04/2021        2988  pgto titulo outro bco - internet   240144             -1.487,43 d               -1.453,59
+                             colina alimentos ltda    
+     07/04/2021        3987  pix recebido - dif tit             204110              5.000,00 c                3.546,41
+                             33253409000179           
+     07/04/2021        3819  pagamento cartao de debito         379440                619,12 c                4.165,53
+                             getnet-visa electr       
+     07/04/2021        3819  pagamento cartao de debito         379440              1.022,50 c                5.188,03
+                             getnet-maestro           
+     07/04/2021        3819  pagamento cartao de debito         379440                734,49 c                5.922,52
+                             getnet-elo debito        
+     07/04/2021        3818  pagamento cartao de credito        379440                312,21 c                6.234,73
+                             getnet-visa              
+     07/04/2021        3818  pagamento cartao de credito        379440                353,46 c                6.588,19
+                             getnet-master            
+     07/04/2021        3818  pagamento cartao de credito        379440                 72,33 c                6.660,52
+                             getnet-elo               
+     07/04/2021        3625  aplicacao aut contamax empresarial                    -6.660,52 d                    0,00
+                                                      
+     08/04/2021        0183  pagamento a fornecedores           010408                 85,54 c                   85,54
+                             cnpj 004740876000125     
+     08/04/2021        3819  pagamento cartao de debito         379440                632,51 c                  718,05
+                             getnet-elo debito        
+     08/04/2021        3819  pagamento cartao de debito         379440                803,90 c                1.521,95
+                             getnet-visa electr       
+     08/04/2021        3819  pagamento cartao de debito         379440              1.649,23 c                3.171,18
+                             getnet-maestro           
+     08/04/2021        3818  pagamento cartao de credito        379440                129,62 c                3.300,80
+                             getnet-visa              
+     08/04/2021        3818  pagamento cartao de credito        379440                385,84 c                3.686,64
+                             getnet-master            
+     08/04/2021        3818  pagamento cartao de credito        379440                 60,60 c                3.747,24
+                             getnet-elo               
+     08/04/2021        0477  ted recebida dif titularidade str                         66,82 c                3.814,06
+                             69034668000156           
+     08/04/2021        0477  ted recebida dif titularidade str                         20,40 c                3.834,46
+                             69034668000156           
+ 
+15/06/2021
+4/29
+                                                  página 4
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     08/04/2021        0070  transf valor p/ conta dif titular  402456               -300,00 d                3.534,46
+                             15016495742              
+     08/04/2021        3625  aplicacao aut contamax empresarial                    -3.534,46 d                    0,00
+                                                      
+     09/04/2021        0183  pagamento a fornecedores           010409                 39,39 c                   39,39
+                             cnpj 004740876000125     
+     09/04/2021        3819  pagamento cartao de debito         379440              1.350,96 c                1.390,35
+                             getnet-maestro           
+     09/04/2021        3819  pagamento cartao de debito         379440                646,87 c                2.037,22
+                             getnet-visa electr       
+     09/04/2021        3819  pagamento cartao de debito         379440                642,48 c                2.679,70
+                             getnet-elo debito        
+     09/04/2021        3818  pagamento cartao de credito        379440                311,32 c                2.991,02
+                             getnet-visa              
+     09/04/2021        3818  pagamento cartao de credito        379440                646,47 c                3.637,49
+                             getnet-master            
+     09/04/2021        3818  pagamento cartao de credito        379440                 52,54 c                3.690,03
+                             getnet-elo               
+     09/04/2021        0836  ted diferente titularidade cip     000000             -2.400,00 d                1.290,03
+                             005.316.827-57           
+     09/04/2021        0006  cheque emitido/debitado            000294               -460,00 d                  830,03
+                                                      
+     09/04/2021        3625  aplicacao aut contamax empresarial                      -830,03 d                    0,00
+                                                      
+     12/04/2021        0274  tarifa sustacao de cheques                               -14,30 d                  -14,30
+                             29/03/2021               
+     12/04/2021        4012  tarifa avulsa envio pix                                   -7,50 d                  -21,80
+                                                      
+     12/04/2021        0183  pagamento a fornecedores           010412                408,46 c                  386,66
+                             cnpj 004740876000125     
+     12/04/2021        3819  pagamento cartao de debito         379440              1.786,49 c                2.173,15
+                             getnet-elo debito        
+     12/04/2021        3819  pagamento cartao de debito         379440              3.651,10 c                5.824,25
+                             getnet-maestro           
+     12/04/2021        3819  pagamento cartao de debito         379440              2.655,02 c                8.479,27
+                             getnet-visa electr       
+     12/04/2021        3818  pagamento cartao de credito        379440              1.637,76 c               10.117,03
+                             getnet-visa              
+     12/04/2021        3818  pagamento cartao de credito        379440              2.735,93 c               12.852,96
+                             getnet-master            
+     12/04/2021        3818  pagamento cartao de credito        379440                183,17 c               13.036,13
+                             getnet-elo               
+     12/04/2021        3818  pagamento cartao de credito        379440                 42,03 c               13.078,16
+                             getnet-amex              
+     12/04/2021        3818  pagamento cartao de credito        199402                 59,10 c               13.137,26
+                             sorocred-socred          
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -1.016,00 d               12.121,26
+                             cereais do nico ltda     
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -2.748,73 d                9.372,53
+                             banco bocom bbm s.a      
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -3.021,74 d                6.350,79
+                             banco bocom bbm s.a      
+ 
+15/06/2021
+5/29
+                                                  página 5
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -147,60 d                6.203,19
+                             banco bocom bbm s.a      
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -463,86 d                5.739,33
+                             nova dist de bebidas eire
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -130,26 d                5.609,07
+                             atacadao s.a.            
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -844,52 d                4.764,55
+                             atacadao s.a.            
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -326,24 d                4.438,31
+                             pepsico do brasil ltda   
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -256,45 d                4.181,86
+                             colina alimentos ltda    
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -1.637,16 d                2.544,70
+                             supergasbras energia ltda
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -1.487,43 d                1.057,27
+                             colina alimentos ltda    
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -980,74 d                   76,53
+                             cereais do nico ltda     
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -287,70 d                 -211,17
+                             atacadao s.a.            
+     12/04/2021        2988  pgto titulo outro bco - internet   000000                -72,78 d                 -283,95
+                             atacadao s.a.            
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -576,06 d                 -860,01
+                             l p distribuidora de gela
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -928,49 d               -1.788,50
+                             colina alimentos ltda    
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -919,38 d               -2.707,88
+                             cia boi com de carnes eir
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -878,00 d               -3.585,88
+                             proteinorte   alimentos s
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -358,00 d               -3.943,88
+                             rio branco alimentos     
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -1.578,09 d               -5.521,97
+                             rj refrescos ltda        
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -1.007,35 d               -6.529,32
+                             frigorifico cariacica s.a
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -962,10 d               -7.491,42
+                             coop agroindustrial coope
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -827,52 d               -8.318,94
+                             cia boi com de carnes eir
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -212,30 d               -8.531,24
+                             lube distribuidora ltda  
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -513,37 d               -9.044,61
+                             colina alimentos ltda    
+     12/04/2021        0688  pagamento de titulos - bce         000000             -1.170,03 d              -10.214,64
+                             60.409.075/0001-52       
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -1.366,19 d              -11.580,83
+                             forte boi - industria de 
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -763,68 d              -12.344,51
+                             colina alimentos ltda    
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -283,18 d              -12.627,69
+                             miranda correia distribui
+ 
+15/06/2021
+6/29
+                                                  página 6
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -424,47 d              -13.052,16
+                             companhia boi com.carnes 
+     12/04/2021        2988  pgto titulo outro bco - internet   000000               -539,40 d              -13.591,56
+                             comercial ks             
+     12/04/2021        2988  pgto titulo outro bco - internet   000000             -4.364,57 d              -17.956,13
+                             frisa nordeste           
+     12/04/2021        0836  ted diferente titularidade cip     000000             -4.010,00 d              -21.966,13
+                             20160323000150           
+     12/04/2021        0006  cheque emitido/debitado            000285             -1.040,00 d              -23.006,13
+                                                      
+     12/04/2021        3627  resgate aut contamax empresarial                      12.975,22 c              -10.030,91
+                                                      
+     13/04/2021        0183  pagamento a fornecedores           010413                268,86 c               -9.762,05
+                             cnpj 004740876000125     
+     13/04/2021        3819  pagamento cartao de debito         379440              1.014,03 c               -8.748,02
+                             getnet-visa electr       
+     13/04/2021        3819  pagamento cartao de debito         379440                940,26 c               -7.807,76
+                             getnet-elo debito        
+     13/04/2021        3819  pagamento cartao de debito         379440              1.417,57 c               -6.390,19
+                             getnet-maestro           
+     13/04/2021        3818  pagamento cartao de credito        379440              1.102,30 c               -5.287,89
+                             getnet-visa              
+     13/04/2021        3818  pagamento cartao de credito        379440              1.506,53 c               -3.781,36
+                             getnet-master            
+     13/04/2021        3818  pagamento cartao de credito        379440                160,31 c               -3.621,05
+                             getnet-elo               
+     13/04/2021        1070  transferencia entre contas         154513              8.380,00 c                4.758,95
+                             20160323000150           
+     13/04/2021        0746  pagamento fgts-canais              10                   -105,52 d                4.653,43
+                             internet fgts grrf eletro
+     13/04/2021        0006  cheque emitido/debitado            000299             -1.395,00 d                3.258,43
+                                                      
+     13/04/2021        3625  aplicacao aut contamax empresarial                    -3.258,43 d                    0,00
+                                                      
+     14/04/2021        0183  pagamento a fornecedores           010414                133,44 c                  133,44
+                             cnpj 004740876000125     
+     14/04/2021        3819  pagamento cartao de debito         379440              1.142,04 c                1.275,48
+                             getnet-elo debito        
+     14/04/2021        3819  pagamento cartao de debito         379440              1.189,05 c                2.464,53
+                             getnet-maestro           
+     14/04/2021        3819  pagamento cartao de debito         379440                838,69 c                3.303,22
+                             getnet-visa electr       
+     14/04/2021        3818  pagamento cartao de credito        379440                280,30 c                3.583,52
+                             getnet-visa              
+     14/04/2021        3818  pagamento cartao de credito        379440                627,61 c                4.211,13
+                             getnet-master            
+     14/04/2021        2988  pgto titulo outro bco - internet   000000               -381,92 d                3.829,21
+                             proteinorte - alimentos s
+     14/04/2021        0833  cheque compensado                  000295             -3.203,00 d                  626,21
+                                                      
+     14/04/2021        3625  aplicacao aut contamax empresarial                    -3.829,21 d               -3.203,00
+                                                      
+ 
+15/06/2021
+7/29
+                                                  página 7
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     14/04/2021        3562  cheque devolvido motivo            000295              3.203,00 c                    0,00
+                             21-sustado contra ordem  
+     15/04/2021        3819  pagamento cartao de debito         379440              1.144,72 c                1.144,72
+                             getnet-maestro           
+     15/04/2021        3819  pagamento cartao de debito         379440              1.047,54 c                2.192,26
+                             getnet-visa electr       
+     15/04/2021        3819  pagamento cartao de debito         379440                794,45 c                2.986,71
+                             getnet-elo debito        
+     15/04/2021        3818  pagamento cartao de credito        379440                118,95 c                3.105,66
+                             getnet-visa              
+     15/04/2021        3818  pagamento cartao de credito        379440                526,68 c                3.632,34
+                             getnet-master            
+     15/04/2021        3818  pagamento cartao de credito        379440                100,77 c                3.733,11
+                             getnet-elo               
+     15/04/2021        0932  debito aut. fat.cartao master card                    -4.450,38 d                 -717,27
+                             final 4944               
+     15/04/2021        0477  ted recebida dif titularidade str                         44,72 c                 -672,55
+                             69034668000156           
+     15/04/2021        0477  ted recebida dif titularidade str                         39,95 c                 -632,60
+                             69034668000156           
+     15/04/2021        0682  emissao de doc e via bce           181402               -400,00 d               -1.032,60
+                             005.316.827-57           
+     15/04/2021        3627  resgate aut contamax empresarial                       1.032,60 c                    0,00
+                                                      
+     16/04/2021        0183  pagamento a fornecedores           010416                 40,42 c                   40,42
+                             cnpj 004740876000125     
+     16/04/2021        3819  pagamento cartao de debito         379440              1.161,27 c                1.201,69
+                             getnet-maestro           
+     16/04/2021        3819  pagamento cartao de debito         379440                789,57 c                1.991,26
+                             getnet-elo debito        
+     16/04/2021        3819  pagamento cartao de debito         379440              1.561,91 c                3.553,17
+                             getnet-visa electr       
+     16/04/2021        3818  pagamento cartao de credito        379440                411,79 c                3.964,96
+                             getnet-visa              
+     16/04/2021        3818  pagamento cartao de credito        379440                689,87 c                4.654,83
+                             getnet-master            
+     16/04/2021        3818  pagamento cartao de credito        379440                 12,67 c                4.667,50
+                             getnet-elo               
+     16/04/2021        3818  pagamento cartao de credito        379440                 24,44 c                4.691,94
+                             getnet-hipercard         
+     16/04/2021        2988  pgto titulo outro bco - internet   000000               -732,60 d                3.959,34
+                             cora pagamentos ltda.    
+     16/04/2021        3625  aplicacao aut contamax empresarial                    -3.959,34 d                    0,00
+                                                      
+     19/04/2021        0183  pagamento a fornecedores           010419                 98,51 c                   98,51
+                             cnpj 004740876000125     
+     19/04/2021        3819  pagamento cartao de debito         379440              4.207,77 c                4.306,28
+                             getnet-maestro           
+     19/04/2021        3819  pagamento cartao de debito         379440              2.491,03 c                6.797,31
+                             getnet-elo debito        
+     19/04/2021        3819  pagamento cartao de debito         379440              3.541,52 c               10.338,83
+                             getnet-visa electr       
+ 
+15/06/2021
+8/29
+                                                  página 8
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     19/04/2021        3818  pagamento cartao de credito        379440              1.318,05 c               11.656,88
+                             getnet-visa              
+     19/04/2021        3818  pagamento cartao de credito        379440              2.051,55 c               13.708,43
+                             getnet-master            
+     19/04/2021        3818  pagamento cartao de credito        379440                 98,81 c               13.807,24
+                             getnet-elo               
+     19/04/2021        3818  pagamento cartao de credito        379440                 92,14 c               13.899,38
+                             getnet-hipercard         
+     19/04/2021        3818  pagamento cartao de credito        379440                 48,86 c               13.948,24
+                             getnet-amex              
+     19/04/2021        2988  pgto titulo outro bco - internet   000000             -3.021,75 d               10.926,49
+                             banco bocom bbm s.a      
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -424,47 d               10.502,02
+                             companhia boi com.carnes 
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -147,60 d               10.354,42
+                             banco bocom bbm s.a      
+     19/04/2021        2988  pgto titulo outro bco - internet   000000             -1.272,19 d                9.082,23
+                             trademaster servicos e pa
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -120,96 d                8.961,27
+                             nova dist de bebidas eire
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -209,90 d                8.751,37
+                             atacadao s.a.            
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -541,32 d                8.210,05
+                             atacadao s.a.            
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -928,48 d                7.281,57
+                             colina alimentos ltda    
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -642,80 d                6.638,77
+                             beba bem comercio de prod
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -734,40 d                5.904,37
+                             proteinorte   alimentos s
+     19/04/2021        2988  pgto titulo outro bco - internet   000000             -1.970,12 d                3.934,25
+                             frigorifico cariacica s.a
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -369,22 d                3.565,03
+                             l p distribuidora de gela
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -852,30 d                2.712,73
+                             cereais do nico ltda     
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -919,38 d                1.793,35
+                             cia boi com de carnes eir
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -513,37 d                1.279,98
+                             colina alimentos ltda    
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -708,83 d                  571,15
+                             colina alimentos ltda    
+     19/04/2021        2988  pgto titulo outro bco - internet   000000             -2.407,80 d               -1.836,65
+                             colina alimentos ltda    
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -209,25 d               -2.045,90
+                             atacadao s.a.            
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -332,73 d               -2.378,63
+                             atacadao s.a.            
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -962,10 d               -3.340,73
+                             coop agroindustrial coope
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -763,67 d               -4.104,40
+                             colina alimentos ltda    
+ 
+15/06/2021
+9/29
+                                                  página 9
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -208,65 d               -4.313,05
+                             atacadao s.a.            
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -414,65 d               -4.727,70
+                             atacadao s.a.            
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -715,69 d               -5.443,39
+                             banco bocom bbm s.a      
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -126,08 d               -5.569,47
+                             franciscana distribuidora
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -521,00 d               -6.090,47
+                             conti equipamentos u ltda
+     19/04/2021        2988  pgto titulo outro bco - internet   000000             -1.197,04 d               -7.287,51
+                             colina alimentos ltda    
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -343,86 d               -7.631,37
+                             colina alimentos ltda    
+     19/04/2021        2988  pgto titulo outro bco - internet   000000               -340,00 d               -7.971,37
+                             malharia cristmara ltda  
+     19/04/2021        3627  resgate aut contamax empresarial                       7.971,37 c                    0,00
+                                                      
+     20/04/2021        3987  pix recebido - dif tit             133414                 55,47 c                   55,47
+                             04740876000125           
+     20/04/2021        3819  pagamento cartao de debito         379440                551,77 c                  607,24
+                             getnet-elo debito        
+     20/04/2021        3819  pagamento cartao de debito         379440                705,57 c                1.312,81
+                             getnet-visa electr       
+     20/04/2021        3819  pagamento cartao de debito         379440                726,49 c                2.039,30
+                             getnet-maestro           
+     20/04/2021        3818  pagamento cartao de credito        379440                476,15 c                2.515,45
+                             getnet-visa              
+     20/04/2021        3818  pagamento cartao de credito        379440                419,31 c                2.934,76
+                             getnet-master            
+     20/04/2021        3818  pagamento cartao de credito        379440                183,31 c                3.118,07
+                             getnet-elo               
+     20/04/2021        3818  pagamento cartao de credito        379440                 27,36 c                3.145,43
+                             getnet-hipercard         
+     20/04/2021        3818  pagamento cartao de credito        199402                 54,12 c                3.199,55
+                             sorocred-socred          
+     20/04/2021        1070  transferencia entre contas         180755              2.722,00 c                5.921,55
+                             26294708818              
+     20/04/2021        0542  pgto guia prev social-canais                          -1.060,64 d                4.860,91
+                             internet gps             
+     20/04/2021        0542  pgto guia prev social-canais                          -1.660,82 d                3.200,09
+                             internet gps             
+     20/04/2021        3987  pix recebido - dif tit             455751             17.850,00 c               21.050,09
+                             20160323000150           
+     20/04/2021        2163  pagamento conta luz em canais      51                 -9.324,55 d               11.725,54
+                             internet escelsa espirito
+     20/04/2021        0658  pagamento darf em canais           36                -13.510,36 d               -1.784,82
+                             internet simples nacional
+     20/04/2021        0006  cheque emitido/debitado            000291               -800,00 d               -2.584,82
+                                                      
+     20/04/2021        3627  resgate aut contamax empresarial                       2.043,04 c                 -541,78
+                                                      
+ 
+15/06/2021
+10/29
+                                                  página 10
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     22/04/2021        0607  dep dinheiro terminal              093953              1.950,00 c                1.408,22
+                                                      
+     22/04/2021        0607  dep dinheiro terminal              094110              2.000,00 c                3.408,22
+                                                      
+     22/04/2021        0607  dep dinheiro terminal              094237              1.000,00 c                4.408,22
+                                                      
+     22/04/2021        3987  pix recebido - dif tit             093827                 16,45 c                4.424,67
+                             04740876000125           
+     22/04/2021        3819  pagamento cartao de debito         379440              1.502,85 c                5.927,52
+                             getnet-elo debito        
+     22/04/2021        3819  pagamento cartao de debito         379440              2.438,85 c                8.366,37
+                             getnet-maestro           
+     22/04/2021        3819  pagamento cartao de debito         379440              1.792,04 c               10.158,41
+                             getnet-visa electr       
+     22/04/2021        3818  pagamento cartao de credito        379440                768,62 c               10.927,03
+                             getnet-visa              
+     22/04/2021        3818  pagamento cartao de credito        379440              1.115,57 c               12.042,60
+                             getnet-master            
+     22/04/2021        3818  pagamento cartao de credito        379440                287,98 c               12.330,58
+                             getnet-elo               
+     22/04/2021        3818  pagamento cartao de credito        379440                 13,68 c               12.344,26
+                             getnet-hipercard         
+     22/04/2021        0477  ted recebida dif titularidade str                         99,20 c               12.443,46
+                             69034668000156           
+     22/04/2021        3625  aplicacao aut contamax empresarial                   -12.443,46 d                    0,00
+                                                      
+     23/04/2021        3987  pix recebido - dif tit             173140                 18,18 c                   18,18
+                             04740876000125           
+     23/04/2021        3987  pix recebido - dif tit             090511                  1,56 c                   19,74
+                             04740876000125           
+     23/04/2021        2988  pgto titulo outro bco - internet   239251             -4.620,46 d               -4.600,72
+                             minerva fundo de investim
+     23/04/2021        3819  pagamento cartao de debito         379440                585,78 c               -4.014,94
+                             getnet-elo debito        
+     23/04/2021        3819  pagamento cartao de debito         379440              1.438,10 c               -2.576,84
+                             getnet-maestro           
+     23/04/2021        3819  pagamento cartao de debito         379440                741,90 c               -1.834,94
+                             getnet-visa electr       
+     23/04/2021        3818  pagamento cartao de credito        379440                337,60 c               -1.497,34
+                             getnet-visa              
+     23/04/2021        3818  pagamento cartao de credito        379440                550,08 c                 -947,26
+                             getnet-master            
+     23/04/2021        3818  pagamento cartao de credito        379440                 34,01 c                 -913,25
+                             getnet-elo               
+     23/04/2021        3818  pagamento cartao de credito        379440                 15,48 c                 -897,77
+                             getnet-amex              
+     23/04/2021        3627  resgate aut contamax empresarial                         897,77 c                    0,00
+                                                      
+     26/04/2021        0722  debito titulo de capitalizacao                           -71,00 d                  -71,00
+                             santander cap            
+     26/04/2021        3987  pix recebido - dif tit             102409                  5,34 c                  -65,66
+                             04740876000125           
+ 
+15/06/2021
+11/29
+                                                  página 11
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     26/04/2021        3987  pix recebido - dif tit             114906                 44,42 c                  -21,24
+                             04740876000125           
+     26/04/2021        3819  pagamento cartao de debito         379440              4.436,92 c                4.415,68
+                             getnet-maestro           
+     26/04/2021        3819  pagamento cartao de debito         379440              2.331,81 c                6.747,49
+                             getnet-elo debito        
+     26/04/2021        3819  pagamento cartao de debito         379440              3.781,10 c               10.528,59
+                             getnet-visa electr       
+     26/04/2021        3818  pagamento cartao de credito        379440                740,46 c               11.269,05
+                             getnet-visa              
+     26/04/2021        3818  pagamento cartao de credito        379440              1.785,37 c               13.054,42
+                             getnet-master            
+     26/04/2021        3818  pagamento cartao de credito        379440                183,00 c               13.237,42
+                             getnet-elo               
+     26/04/2021        3818  pagamento cartao de credito        379440                  5,32 c               13.242,74
+                             getnet-amex              
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -747,98 d               12.494,76
+                             cora pagamentos ltda.    
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -244,12 d               12.250,64
+                             atacadao s.a.            
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -325,12 d               11.925,52
+                             atacadao s.a.            
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -191,62 d               11.733,90
+                             atacadao s.a.            
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -147,60 d               11.586,30
+                             banco bocom bbm s.a      
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -417,78 d               11.168,52
+                             rio branco alimentos     
+     26/04/2021        2988  pgto titulo outro bco - internet   000000             -2.251,00 d                8.917,52
+                             rj refrescos ltda        
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -120,95 d                8.796,57
+                             nova dist de bebidas eire
+     26/04/2021        2988  pgto titulo outro bco - internet   000000                -96,00 d                8.700,57
+                             cafe meridiano ind. e com
+     26/04/2021        2988  pgto titulo outro bco - internet   000000             -1.088,01 d                7.612,56
+                             companhia boi com.carnes 
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -708,82 d                6.903,74
+                             colina alimentos ltda    
+     26/04/2021        2988  pgto titulo outro bco - internet   000000             -2.407,80 d                4.495,94
+                             colina alimentos ltda    
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -547,19 d                3.948,75
+                             pepsico do brasil ltda   
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -183,60 d                3.765,15
+                             proteinorte   alimentos s
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -692,74 d                3.072,41
+                             l p distribuidora de gela
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -573,86 d                2.498,55
+                             colina alimentos ltda    
+     26/04/2021        2988  pgto titulo outro bco - internet   000000             -1.061,60 d                1.436,95
+                             proteinorte   alimentos s
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -479,40 d                  957,55
+                             cartorio do 1 oficio de l
+ 
+15/06/2021
+12/29
+                                                  página 12
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -715,69 d                  241,86
+                             banco bocom bbm s.a      
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -694,46 d                 -452,60
+                             banco bocom bbm s.a      
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -701,32 d               -1.153,92
+                             atacadao s.a.            
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -109,18 d               -1.263,10
+                             atacadao s.a.            
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -346,88 d               -1.609,98
+                             lube distribuidora ltda  
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -470,49 d               -2.080,47
+                             miranda correia distribui
+     26/04/2021        2988  pgto titulo outro bco - internet   000000             -1.197,04 d               -3.277,51
+                             colina alimentos ltda    
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -343,85 d               -3.621,36
+                             colina alimentos ltda    
+     26/04/2021        2988  pgto titulo outro bco - internet   000000             -3.711,58 d               -7.332,94
+                             frigorifico frilara ltda 
+     26/04/2021        2988  pgto titulo outro bco - internet   000000             -1.576,38 d               -8.909,32
+                             forte boi - industria de 
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -452,75 d               -9.362,07
+                             colina alimentos ltda    
+     26/04/2021        2988  pgto titulo outro bco - internet   000000             -1.103,86 d              -10.465,93
+                             trademaster servicos e pa
+     26/04/2021        2988  pgto titulo outro bco - internet   000000               -683,64 d              -11.149,57
+                             companhia de alimentos un
+     26/04/2021        3989  pix recebido outra inst - dif tit                         73,70 c              -11.075,87
+                             05449374577              
+     26/04/2021        3627  resgate aut contamax empresarial                      11.075,87 c                    0,00
+                                                      
+     27/04/2021        2988  pgto titulo outro bco - internet   239952               -391,16 d                 -391,16
+                             colina alimentos ltda    
+     27/04/2021        3819  pagamento cartao de debito         379440                871,46 c                  480,30
+                             getnet-maestro           
+     27/04/2021        3819  pagamento cartao de debito         379440                567,41 c                1.047,71
+                             getnet-elo debito        
+     27/04/2021        3819  pagamento cartao de debito         379440                903,55 c                1.951,26
+                             getnet-visa electr       
+     27/04/2021        3818  pagamento cartao de credito        379440                564,80 c                2.516,06
+                             getnet-visa              
+     27/04/2021        3818  pagamento cartao de credito        379440                788,36 c                3.304,42
+                             getnet-master            
+     27/04/2021        3818  pagamento cartao de credito        379440                 88,68 c                3.393,10
+                             getnet-elo               
+     27/04/2021        3989  pix recebido outra inst - dif tit                      1.116,37 c                4.509,47
+                             67435912700              
+     27/04/2021        3625  aplicacao aut contamax empresarial                    -4.509,47 d                    0,00
+                                                      
+     28/04/2021        3987  pix recebido - dif tit             135519                 70,80 c                   70,80
+                             04740876000125           
+     28/04/2021        3987  pix recebido - dif tit             294102                  4,22 c                   75,02
+                             04740876000125           
+ 
+15/06/2021
+13/29
+                                                  página 13
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     28/04/2021        3819  pagamento cartao de debito         379440                949,35 c                1.024,37
+                             getnet-maestro           
+     28/04/2021        3819  pagamento cartao de debito         379440                710,87 c                1.735,24
+                             getnet-visa electr       
+     28/04/2021        3819  pagamento cartao de debito         379440                669,11 c                2.404,35
+                             getnet-elo debito        
+     28/04/2021        3818  pagamento cartao de credito        379440                354,03 c                2.758,38
+                             getnet-visa              
+     28/04/2021        3818  pagamento cartao de credito        379440                499,77 c                3.258,15
+                             getnet-master            
+     28/04/2021        3818  pagamento cartao de credito        379440                176,87 c                3.435,02
+                             getnet-elo               
+     28/04/2021        3818  pagamento cartao de credito        379440                 32,31 c                3.467,33
+                             getnet-amex              
+     28/04/2021        3625  aplicacao aut contamax empresarial                    -3.467,33 d                    0,00
+                                                      
+     29/04/2021        3819  pagamento cartao de debito         379440                971,27 c                  971,27
+                             getnet-elo debito        
+     29/04/2021        3819  pagamento cartao de debito         379440                637,87 c                1.609,14
+                             getnet-visa electr       
+     29/04/2021        3819  pagamento cartao de debito         379440              1.146,05 c                2.755,19
+                             getnet-maestro           
+     29/04/2021        3818  pagamento cartao de credito        379440                390,18 c                3.145,37
+                             getnet-visa              
+     29/04/2021        3818  pagamento cartao de credito        379440                759,69 c                3.905,06
+                             getnet-master            
+     29/04/2021        3818  pagamento cartao de credito        379440                 15,38 c                3.920,44
+                             getnet-amex              
+     29/04/2021        0477  ted recebida dif titularidade str                        150,03 c                4.070,47
+                             69034668000156           
+     29/04/2021        3625  aplicacao aut contamax empresarial                    -4.070,47 d                    0,00
+                                                      
+     30/04/2021        2373  prestacao consorcio                                     -941,60 d                 -941,60
+                             pgto eventuais           
+     30/04/2021        2373  prestacao consorcio                                   -1.771,84 d               -2.713,44
+                             pgto eventuais           
+     30/04/2021        3819  pagamento cartao de debito         379440                949,19 c               -1.764,25
+                             getnet-elo debito        
+     30/04/2021        3819  pagamento cartao de debito         379440              1.114,61 c                 -649,64
+                             getnet-maestro           
+     30/04/2021        3819  pagamento cartao de debito         379440                879,23 c                  229,59
+                             getnet-visa electr       
+     30/04/2021        3818  pagamento cartao de credito        379440                449,68 c                  679,27
+                             getnet-visa              
+     30/04/2021        3818  pagamento cartao de credito        379440                868,71 c                1.547,98
+                             getnet-master            
+     30/04/2021        3818  pagamento cartao de credito        379440                114,22 c                1.662,20
+                             getnet-elo               
+     30/04/2021        3625  aplicacao aut contamax empresarial                    -1.662,20 d                    0,00
+                                                      
+     03/05/2021        3987  pix recebido - dif tit             122352                289,26 c                  289,26
+                             04740876000125           
+ 
+15/06/2021
+14/29
+                                                  página 14
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     03/05/2021        3819  pagamento cartao de debito         379440              2.511,43 c                2.800,69
+                             getnet-elo debito        
+     03/05/2021        3819  pagamento cartao de debito         379440              4.147,38 c                6.948,07
+                             getnet-maestro           
+     03/05/2021        3819  pagamento cartao de debito         379440              3.845,68 c               10.793,75
+                             getnet-visa electr       
+     03/05/2021        3818  pagamento cartao de credito        379440              1.034,04 c               11.827,79
+                             getnet-visa              
+     03/05/2021        3818  pagamento cartao de credito        379440              1.377,09 c               13.204,88
+                             getnet-master            
+     03/05/2021        3818  pagamento cartao de credito        379440                234,73 c               13.439,61
+                             getnet-elo               
+     03/05/2021        0469  ted diferente titularidade cip                        13.684,00 c               27.123,61
+                             16404287000155           
+     03/05/2021        3985  pix enviado outra inst - dif tit                      -9.000,00 d               18.123,61
+                             ederson antunes          
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -173,46 d               17.950,15
+                             armazens martins         
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -155,33 d               17.794,82
+                             atacadao s.a.            
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -555,68 d               17.239,14
+                             banco bocom bbm s.a      
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -2.293,73 d               14.945,41
+                             supergasbras energia ltda
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -2.021,87 d               12.923,54
+                             rj refrescos ltda        
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -224,71 d               12.698,83
+                             nova dist de bebidas eire
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -573,86 d               12.124,97
+                             colina alimentos ltda    
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -208,64 d               11.916,33
+                             colina alimentos ltda    
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -1.088,01 d               10.828,32
+                             companhia boi com.carnes 
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -918,00 d                9.910,32
+                             proteinorte   alimentos s
+     03/05/2021        0688  pagamento de titulos - bce         000000             -1.108,57 d                8.801,75
+                             36.327.385/0001-43       
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -1.007,13 d                7.794,62
+                             colina alimentos ltda    
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -516,21 d                7.278,41
+                             l p distribuidora de gela
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -415,80 d                6.862,61
+                             rio branco alimentos s a 
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -719,25 d                6.143,36
+                             atacadao s.a.            
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -715,70 d                5.427,66
+                             banco bocom bbm s.a      
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -597,54 d                4.830,12
+                             lube distribuidora ltda  
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -1.633,48 d                3.196,64
+                             minerva fundo de investim
+ 
+15/06/2021
+15/29
+                                                  página 15
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -694,46 d                2.502,18
+                             banco bocom bbm s.a      
+     03/05/2021        0688  pagamento de titulos - bce         000000               -901,16 d                1.601,02
+                             60.409.075/0001-52       
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -391,15 d                1.209,87
+                             colina alimentos ltda    
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -452,74 d                  757,13
+                             colina alimentos ltda    
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -2.410,04 d               -1.652,91
+                             forte boi - industria de 
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -437,56 d               -2.090,47
+                             cescom cesconeto comercia
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -1.216,68 d               -3.307,15
+                             frical frigorifico cariac
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -1.161,60 d               -4.468,75
+                             proteinorte   alimentos s
+     03/05/2021        2988  pgto titulo outro bco - internet   000000               -467,30 d               -4.936,05
+                             colina alimentos ltda    
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -1.151,96 d               -6.088,01
+                             companhia boi com.carnes 
+     03/05/2021        2988  pgto titulo outro bco - internet   000000                -69,90 d               -6.157,91
+                             bws telecomunicacoes ltda
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -3.788,25 d               -9.946,16
+                             jbs s a                  
+     03/05/2021        2988  pgto titulo outro bco - internet   000000             -3.853,70 d              -13.799,86
+                             jbs s a                  
+     03/05/2021        0559  juros saldo utiliz periodo excesso                       -70,17 d              -13.870,03
+                             periodo: 01/04 a 30/04/21
+     03/05/2021        0286  juros de mora - atraso                                    -5,12 d              -13.875,15
+                             periodo: 01/04 a 30/04/21
+     03/05/2021        3123  multa moratoria - atraso                                -200,62 d              -14.075,77
+                             periodo: 01/04 a 30/04/21
+     03/05/2021        0036  iof imposto operacoes financeiras                         -0,48 d              -14.076,25
+                             periodo: 01/04 a 30/04/21
+     03/05/2021        2712  iof adicional - automatico                               -42,68 d              -14.118,93
+                             periodo: 01/04 a 30/04/21
+     03/05/2021        3627  resgate aut contamax empresarial                      14.118,93 c                    0,00
+                                                      
+     04/05/2021        3987  pix recebido - dif tit             380166                 96,64 c                   96,64
+                             04740876000125           
+     04/05/2021        3819  pagamento cartao de debito         379440                906,74 c                1.003,38
+                             getnet-elo debito        
+     04/05/2021        3819  pagamento cartao de debito         379440              1.043,60 c                2.046,98
+                             getnet-maestro           
+     04/05/2021        3819  pagamento cartao de debito         379440                607,13 c                2.654,11
+                             getnet-visa electr       
+     04/05/2021        3818  pagamento cartao de credito        379440                456,32 c                3.110,43
+                             getnet-visa              
+     04/05/2021        3818  pagamento cartao de credito        379440                759,73 c                3.870,16
+                             getnet-master            
+     04/05/2021        3818  pagamento cartao de credito        379440                 71,55 c                3.941,71
+                             getnet-hipercard         
+ 
+15/06/2021
+16/29
+                                                  página 16
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     04/05/2021        0070  transf valor p/ conta dif titular  085711               -370,00 d                3.571,71
+                             20160323000150           
+     04/05/2021        3983  pix enviado - dif tit              042933               -300,00 d                3.271,71
+                             15016495742              
+     04/05/2021        3625  aplicacao aut contamax empresarial                    -3.271,71 d                    0,00
+                                                      
+     05/05/2021        3987  pix recebido - dif tit             183247                202,78 c                  202,78
+                             04740876000125           
+     05/05/2021        3819  pagamento cartao de debito         379440                718,97 c                  921,75
+                             getnet-maestro           
+     05/05/2021        3819  pagamento cartao de debito         379440              1.209,76 c                2.131,51
+                             getnet-visa electr       
+     05/05/2021        3819  pagamento cartao de debito         379440                523,85 c                2.655,36
+                             getnet-elo debito        
+     05/05/2021        3819  pagamento cartao de debito         040501                 92,20 c                2.747,56
+                             ben-ben vvale            
+     05/05/2021        3818  pagamento cartao de credito        379440                399,40 c                3.146,96
+                             getnet-visa              
+     05/05/2021        3818  pagamento cartao de credito        379440                300,95 c                3.447,91
+                             getnet-master            
+     05/05/2021        3818  pagamento cartao de credito        379440                173,16 c                3.621,07
+                             getnet-elo               
+     05/05/2021        3818  pagamento cartao de credito        379440                128,39 c                3.749,46
+                             getnet-amex              
+     05/05/2021        3625  aplicacao aut contamax empresarial                    -3.749,46 d                    0,00
+                                                      
+     06/05/2021        3987  pix recebido - dif tit             240312                 20,68 c                   20,68
+                             04740876000125           
+     06/05/2021        3819  pagamento cartao de debito         379440                534,17 c                  554,85
+                             getnet-elo debito        
+     06/05/2021        3819  pagamento cartao de debito         379440              1.120,23 c                1.675,08
+                             getnet-visa electr       
+     06/05/2021        3819  pagamento cartao de debito         379440              1.607,40 c                3.282,48
+                             getnet-maestro           
+     06/05/2021        3818  pagamento cartao de credito        379440                254,42 c                3.536,90
+                             getnet-visa              
+     06/05/2021        3818  pagamento cartao de credito        379440                528,33 c                4.065,23
+                             getnet-master            
+     06/05/2021        3818  pagamento cartao de credito        379440                 19,39 c                4.084,62
+                             getnet-elo               
+     06/05/2021        0469  ted diferente titularidade cip                           975,00 c                5.059,62
+                             13610525000190           
+     06/05/2021        3625  aplicacao aut contamax empresarial                    -5.059,62 d                    0,00
+                                                      
+     07/05/2021        3987  pix recebido - dif tit             251608                 47,38 c                   47,38
+                             04740876000125           
+     07/05/2021        0469  ted diferente titularidade cip                         2.677,70 c                2.725,08
+                             47741152000702           
+     07/05/2021        3819  pagamento cartao de debito         379440                841,36 c                3.566,44
+                             getnet-elo debito        
+     07/05/2021        3819  pagamento cartao de debito         379440              1.492,14 c                5.058,58
+                             getnet-maestro           
+ 
+15/06/2021
+17/29
+                                                  página 17
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     07/05/2021        3819  pagamento cartao de debito         379440              1.032,38 c                6.090,96
+                             getnet-visa electr       
+     07/05/2021        3818  pagamento cartao de credito        379440                379,58 c                6.470,54
+                             getnet-visa              
+     07/05/2021        3818  pagamento cartao de credito        379440                749,53 c                7.220,07
+                             getnet-master            
+     07/05/2021        3818  pagamento cartao de credito        379440                 91,89 c                7.311,96
+                             getnet-elo               
+     07/05/2021        3625  aplicacao aut contamax empresarial                    -7.311,96 d                    0,00
+                                                      
+     10/05/2021        0688  pagamento de titulos - bce         000000               -520,38 d                 -520,38
+                             47.960.950/0001-21       
+     10/05/2021        1070  transferencia entre contas         282508                521,00 c                    0,62
+                             33253409000179           
+     10/05/2021        0212  tarifa adiantamento depositante                          -74,00 d                  -73,38
+                             12/04/2021               
+     10/05/2021        4012  tarifa avulsa envio pix                                  -10,00 d                  -83,38
+                             03/05/2021               
+     10/05/2021        3987  pix recebido - dif tit             191016                 71,17 c                  -12,21
+                             04740876000125           
+     10/05/2021        3819  pagamento cartao de debito         379440              3.481,66 c                3.469,45
+                             getnet-elo debito        
+     10/05/2021        3819  pagamento cartao de debito         379440              5.401,75 c                8.871,20
+                             getnet-maestro           
+     10/05/2021        3819  pagamento cartao de debito         379440              5.220,53 c               14.091,73
+                             getnet-visa electr       
+     10/05/2021        3818  pagamento cartao de credito        379440              1.068,43 c               15.160,16
+                             getnet-visa              
+     10/05/2021        3818  pagamento cartao de credito        379440              2.364,96 c               17.525,12
+                             getnet-master            
+     10/05/2021        3818  pagamento cartao de credito        379440                202,79 c               17.727,91
+                             getnet-elo               
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -169,31 d               17.558,60
+                             atacadao s.a.            
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -344,12 d               17.214,48
+                             atacadao s.a.            
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.007,13 d               16.207,35
+                             colina alimentos ltda    
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -577,26 d               15.630,09
+                             lube distribuidora ltda  
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -555,68 d               15.074,41
+                             banco bocom bbm s.a      
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -477,22 d               14.597,19
+                             nova dist de bebidas eire
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -381,39 d               14.215,80
+                             pastificio santa amalia  
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.094,70 d               13.121,10
+                             cereais do nico ltda     
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -940,64 d               12.180,46
+                             basica cobranca e assess 
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.139,40 d               11.041,06
+                             companhia de alimentos un
+ 
+15/06/2021
+18/29
+                                                  página 18
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.007,23 d               10.033,83
+                             l p distribuidora de gela
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.266,48 d                8.767,35
+                             colina alimentos ltda    
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -3.380,00 d                5.387,35
+                             banco bocom bbm s.a      
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -415,80 d                4.971,55
+                             rio branco alimentos     
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -694,45 d                4.277,10
+                             banco bocom bbm s.a      
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -3.249,76 d                1.027,34
+                             forte boi - industria de 
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -240,55 d                  786,79
+                             colina alimentos ltda    
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.025,40 d                 -238,61
+                             companhia boi com.carnes 
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -918,00 d               -1.156,61
+                             proteinorte   alimentos s
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -173,70 d               -1.330,31
+                             franciscana distribuidora
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -504,23 d               -1.834,54
+                             market distribuidora de a
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -467,30 d               -2.301,84
+                             colina alimentos ltda    
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.305,83 d               -3.607,67
+                             trademaster servicos e pa
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.266,30 d               -4.873,97
+                             supergasbras energia ltda
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.837,08 d               -6.711,05
+                             forte boi - industria de 
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -3.788,26 d              -10.499,31
+                             jbs s a                  
+     10/05/2021        2988  pgto titulo outro bco - internet   000000             -1.151,95 d              -11.651,26
+                             companhia boi com.carnes 
+     10/05/2021        3985  pix enviado outra inst - dif tit                        -250,00 d              -11.901,26
+                             distribuidora vila velha 
+     10/05/2021        2988  pgto titulo outro bco - internet   000000               -341,89 d              -12.243,15
+                             banco csf s/a            
+     10/05/2021        0006  cheque emitido/debitado            000286             -1.040,00 d              -13.283,15
+                                                      
+     10/05/2021        0006  cheque emitido/debitado            000297               -649,00 d              -13.932,15
+                                                      
+     10/05/2021        0006  cheque emitido/debitado            000426             -1.000,00 d              -14.932,15
+                                                      
+     10/05/2021        3627  resgate aut contamax empresarial                      14.932,15 c                    0,00
+                                                      
+     11/05/2021        3819  pagamento cartao de debito         379440                788,60 c                  788,60
+                             getnet-maestro           
+     11/05/2021        3819  pagamento cartao de debito         379440                611,19 c                1.399,79
+                             getnet-elo debito        
+     11/05/2021        3819  pagamento cartao de debito         379440              1.180,41 c                2.580,20
+                             getnet-visa electr       
+ 
+15/06/2021
+19/29
+                                                  página 19
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     11/05/2021        3985  pix enviado outra inst - dif tit                        -600,00 d                1.980,20
+                             renato rangel loureiro   
+     11/05/2021        3818  pagamento cartao de credito        379440                891,14 c                2.871,34
+                             getnet-visa              
+     11/05/2021        3818  pagamento cartao de credito        379440                590,45 c                3.461,79
+                             getnet-master            
+     11/05/2021        3818  pagamento cartao de credito        379440                 12,67 c                3.474,46
+                             getnet-elo               
+     11/05/2021        0006  cheque emitido/debitado            000298             -3.800,00 d                 -325,54
+                                                      
+     11/05/2021        3627  resgate aut contamax empresarial                         325,54 c                    0,00
+                                                      
+     12/05/2021        2988  pgto titulo outro bco - internet   240084             -3.853,70 d               -3.853,70
+                             jbs s a                  
+     12/05/2021        3819  pagamento cartao de debito         379440                870,87 c               -2.982,83
+                             getnet-visa electr       
+     12/05/2021        3819  pagamento cartao de debito         379440              1.135,98 c               -1.846,85
+                             getnet-elo debito        
+     12/05/2021        3819  pagamento cartao de debito         379440              1.147,08 c                 -699,77
+                             getnet-maestro           
+     12/05/2021        3818  pagamento cartao de credito        379440                437,53 c                 -262,24
+                             getnet-visa              
+     12/05/2021        3818  pagamento cartao de credito        379440                718,06 c                  455,82
+                             getnet-master            
+     12/05/2021        3818  pagamento cartao de credito        379440                111,78 c                  567,60
+                             getnet-elo               
+     12/05/2021        0922  compra cartao maestro              570865             -1.334,86 d                 -767,26
+                             12/05 atacadao 093 as    
+     12/05/2021        3627  resgate aut contamax empresarial                         767,26 c                    0,00
+                                                      
+     13/05/2021        3987  pix recebido - dif tit             150156                 51,89 c                   51,89
+                             04740876000125           
+     13/05/2021        3819  pagamento cartao de debito         379440              1.204,17 c                1.256,06
+                             getnet-maestro           
+     13/05/2021        3819  pagamento cartao de debito         379440                697,14 c                1.953,20
+                             getnet-elo debito        
+     13/05/2021        3819  pagamento cartao de debito         040501                 36,13 c                1.989,33
+                             ben-ben vvale            
+     13/05/2021        3819  pagamento cartao de debito         379440              1.102,08 c                3.091,41
+                             getnet-visa electr       
+     13/05/2021        3818  pagamento cartao de credito        379440                384,25 c                3.475,66
+                             getnet-visa              
+     13/05/2021        3818  pagamento cartao de credito        379440                823,36 c                4.299,02
+                             getnet-master            
+     13/05/2021        3818  pagamento cartao de credito        379440                 49,11 c                4.348,13
+                             getnet-elo               
+     13/05/2021        3818  pagamento cartao de credito        379440                 81,08 c                4.429,21
+                             getnet-amex              
+     13/05/2021        0477  ted recebida dif titularidade str                         13,42 c                4.442,63
+                             69034668000156           
+     13/05/2021        3625  aplicacao aut contamax empresarial                    -4.442,63 d                    0,00
+                                                      
+ 
+15/06/2021
+20/29
+                                                  página 20
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     14/05/2021        3819  pagamento cartao de debito         379440                834,15 c                  834,15
+                             getnet-maestro           
+     14/05/2021        3819  pagamento cartao de debito         379440                781,75 c                1.615,90
+                             getnet-elo debito        
+     14/05/2021        3819  pagamento cartao de debito         379440                585,33 c                2.201,23
+                             getnet-visa electr       
+     14/05/2021        3818  pagamento cartao de credito        379440                302,05 c                2.503,28
+                             getnet-visa              
+     14/05/2021        3818  pagamento cartao de credito        379440                664,53 c                3.167,81
+                             getnet-master            
+     14/05/2021        3818  pagamento cartao de credito        379440                 38,89 c                3.206,70
+                             getnet-elo               
+     14/05/2021        3987  pix recebido - dif tit             380273              1.365,00 c                4.571,70
+                             33253409000179           
+     14/05/2021        2988  pgto titulo outro bco - internet   000000             -1.589,56 d                2.982,14
+                             rj refrescos ltda        
+     14/05/2021        3625  aplicacao aut contamax empresarial                    -2.982,14 d                    0,00
+                                                      
+     17/05/2021        3989  pix recebido outra inst - dif tit                         26,00 c                   26,00
+                             15345535760              
+     17/05/2021        3989  pix recebido outra inst - dif tit                         26,00 c                   52,00
+                             15886843779              
+     17/05/2021        3989  pix recebido outra inst - dif tit                        103,00 c                  155,00
+                             11408580764              
+     17/05/2021        3987  pix recebido - dif tit             142532                219,80 c                  374,80
+                             04740876000125           
+     17/05/2021        3819  pagamento cartao de debito         379440              4.114,58 c                4.489,38
+                             getnet-maestro           
+     17/05/2021        3819  pagamento cartao de debito         379440              3.461,09 c                7.950,47
+                             getnet-visa electr       
+     17/05/2021        3819  pagamento cartao de debito         040501                175,22 c                8.125,69
+                             ben-ben vvale            
+     17/05/2021        3819  pagamento cartao de debito         379440              3.141,25 c               11.266,94
+                             getnet-elo debito        
+     17/05/2021        0932  debito aut. fat.cartao master card                    -6.991,16 d                4.275,78
+                             final 4944               
+     17/05/2021        3818  pagamento cartao de credito        379440              1.701,72 c                5.977,50
+                             getnet-visa              
+     17/05/2021        3818  pagamento cartao de credito        379440              2.694,76 c                8.672,26
+                             getnet-master            
+     17/05/2021        3818  pagamento cartao de credito        379440                412,46 c                9.084,72
+                             getnet-elo               
+     17/05/2021        3818  pagamento cartao de credito        379440                 30,30 c                9.115,02
+                             getnet-hipercard         
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -242,80 d                8.872,22
+                             configure software ltda  
+     17/05/2021        0688  pagamento de titulos - bce         000000               -368,00 d                8.504,22
+                             18.679.897/0001-97       
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.100,00 d                7.404,22
+                             a  b contabilidade ltda -
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -800,00 d                6.604,22
+                             sistema linhares de radio
+ 
+15/06/2021
+21/29
+                                                  página 21
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -395,87 d                6.208,35
+                             atacadao s.a.            
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -126,45 d                6.081,90
+                             atacadao s.a.            
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -268,18 d                5.813,72
+                             atacadao s.a.            
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -424,80 d                5.388,92
+                             proteinorte   alimentos s
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.949,15 d                3.439,77
+                             rj refrescos ltda        
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -120,96 d                3.318,81
+                             nova dist de bebidas eire
+     17/05/2021        2988  pgto titulo outro bco - internet   000000                -29,27 d                3.289,54
+                             atacadao s.a.            
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -132,24 d                3.157,30
+                             atacadao s.a.            
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -555,68 d                2.601,62
+                             banco bocom bbm s.a      
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.266,47 d                1.335,15
+                             colina alimentos ltda    
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.726,31 d                 -391,16
+                             frigorifico cariacica s.a
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.061,60 d               -1.452,76
+                             proteinorte alimentos s.a
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.240,66 d               -2.693,42
+                             colina alimentos ltda    
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -407,19 d               -3.100,61
+                             colina alimentos ltda    
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -585,90 d               -3.686,51
+                             rio branco alimentos     
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -920,74 d               -4.607,25
+                             armazens martins         
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -240,55 d               -4.847,80
+                             colina alimentos ltda    
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -504,22 d               -5.352,02
+                             market distribuidora de a
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.550,10 d               -6.902,12
+                             forte boi - industria de 
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.025,40 d               -7.927,52
+                             companhia boi com.carnes 
+     17/05/2021        2988  pgto titulo outro bco - internet   000000             -1.069,32 d               -8.996,84
+                             cia boi com de carnes eir
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -952,52 d               -9.949,36
+                             frigorifico vitoria      
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -504,07 d              -10.453,43
+                             frigorifico frilara ltda 
+     17/05/2021        2988  pgto titulo outro bco - internet   000000               -105,46 d              -10.558,89
+                             distribuidora paraiso ltd
+     17/05/2021        0607  dep dinheiro terminal              155909              2.000,00 c               -8.558,89
+                                                      
+     17/05/2021        0607  dep dinheiro terminal              160013              1.700,00 c               -6.858,89
+                                                      
+ 
+15/06/2021
+22/29
+                                                  página 22
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     17/05/2021        3627  resgate aut contamax empresarial                       6.858,89 c                    0,00
+                                                      
+     18/05/2021        3987  pix recebido - dif tit             003577                 66,65 c                   66,65
+                             04740876000125           
+     18/05/2021        3819  pagamento cartao de debito         379440                542,71 c                  609,36
+                             getnet-visa electr       
+     18/05/2021        3819  pagamento cartao de debito         379440                866,80 c                1.476,16
+                             getnet-elo debito        
+     18/05/2021        3819  pagamento cartao de debito         379440              1.268,78 c                2.744,94
+                             getnet-maestro           
+     18/05/2021        3818  pagamento cartao de credito        379440                704,28 c                3.449,22
+                             getnet-visa              
+     18/05/2021        3818  pagamento cartao de credito        379440              1.469,85 c                4.919,07
+                             getnet-master            
+     18/05/2021        3818  pagamento cartao de credito        379440                 27,90 c                4.946,97
+                             getnet-elo               
+     18/05/2021        0922  compra cartao maestro              015965                -70,00 d                4.876,97
+                             18/05 pag.diegomedeiros  
+     18/05/2021        3989  pix recebido outra inst - dif tit                      1.118,71 c                5.995,68
+                             40735773000130           
+     18/05/2021        3625  aplicacao aut contamax empresarial                    -5.995,68 d                    0,00
+                                                      
+     19/05/2021        2988  pgto titulo outro bco - internet   239668             -3.380,00 d               -3.380,00
+                             banco bocom bbm s.a      
+     19/05/2021        3819  pagamento cartao de debito         379440              1.141,05 c               -2.238,95
+                             getnet-maestro           
+     19/05/2021        3819  pagamento cartao de debito         379440              1.226,16 c               -1.012,79
+                             getnet-visa electr       
+     19/05/2021        3819  pagamento cartao de debito         379440                649,81 c                 -362,98
+                             getnet-elo debito        
+     19/05/2021        3818  pagamento cartao de credito        379440                361,38 c                   -1,60
+                             getnet-visa              
+     19/05/2021        3818  pagamento cartao de credito        379440                718,44 c                  716,84
+                             getnet-master            
+     19/05/2021        3818  pagamento cartao de credito        379440                 50,48 c                  767,32
+                             getnet-elo               
+     19/05/2021        3989  pix recebido outra inst - dif tit                        104,50 c                  871,82
+                             27636269805              
+     19/05/2021        3625  aplicacao aut contamax empresarial                      -871,82 d                    0,00
+                                                      
+     20/05/2021        3987  pix recebido - dif tit             332336                 56,22 c                   56,22
+                             04740876000125           
+     20/05/2021        2988  pgto titulo outro bco - internet   239522             -2.536,00 d               -2.479,78
+                             banco bocom bbm s.a      
+     20/05/2021        3819  pagamento cartao de debito         379440              1.190,03 c               -1.289,75
+                             getnet-maestro           
+     20/05/2021        3819  pagamento cartao de debito         379440                722,22 c                 -567,53
+                             getnet-elo debito        
+     20/05/2021        3819  pagamento cartao de debito         379440              1.047,24 c                  479,71
+                             getnet-visa electr       
+     20/05/2021        3818  pagamento cartao de credito        379440                260,90 c                  740,61
+                             getnet-visa              
+ 
+15/06/2021
+23/29
+                                                  página 23
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     20/05/2021        3818  pagamento cartao de credito        379440                518,08 c                1.258,69
+                             getnet-master            
+     20/05/2021        3818  pagamento cartao de credito        379440                137,50 c                1.396,19
+                             getnet-elo               
+     20/05/2021        3818  pagamento cartao de credito        199402                 17,17 c                1.413,36
+                             sorocred-socred          
+     20/05/2021        0688  pagamento de titulos - bce         000000               -441,00 d                  972,36
+                             18.679.897/0001-97       
+     20/05/2021        3989  pix recebido outra inst - dif tit                         70,70 c                1.043,06
+                             16606331765              
+     20/05/2021        3987  pix recebido - dif tit             313055             15.200,00 c               16.243,06
+                             20160323000150           
+     20/05/2021        2163  pagamento conta luz em canais      25                 -8.818,24 d                7.424,82
+                             internet escelsa espirito
+     20/05/2021        0542  pgto guia prev social-canais       51                 -1.607,20 d                5.817,62
+                             internet gps             
+     20/05/2021        0607  dep dinheiro terminal              145925              1.950,00 c                7.767,62
+                                                      
+     20/05/2021        0607  dep dinheiro terminal              150042              1.950,00 c                9.717,62
+                                                      
+     20/05/2021        0607  dep dinheiro terminal              150207              1.400,00 c               11.117,62
+                                                      
+     20/05/2021        0607  dep dinheiro terminal              150328              2.000,00 c               13.117,62
+                                                      
+     20/05/2021        0607  dep dinheiro terminal              150435              2.000,00 c               15.117,62
+                                                      
+     20/05/2021        0607  dep dinheiro terminal              150539              1.150,00 c               16.267,62
+                                                      
+     20/05/2021        3625  aplicacao aut contamax empresarial                   -16.267,62 d                    0,00
+                                                      
+     21/05/2021        2988  pgto titulo outro bco - internet   239187               -485,58 d                 -485,58
+                             domingos costa           
+     21/05/2021        3819  pagamento cartao de debito         379440                576,26 c                   90,68
+                             getnet-visa electr       
+     21/05/2021        3819  pagamento cartao de debito         379440              1.028,79 c                1.119,47
+                             getnet-maestro           
+     21/05/2021        3819  pagamento cartao de debito         379440              1.027,35 c                2.146,82
+                             getnet-elo debito        
+     21/05/2021        3818  pagamento cartao de credito        379440                512,03 c                2.658,85
+                             getnet-visa              
+     21/05/2021        3818  pagamento cartao de credito        379440              1.378,16 c                4.037,01
+                             getnet-master            
+     21/05/2021        3818  pagamento cartao de credito        379440                 82,68 c                4.119,69
+                             getnet-elo               
+     21/05/2021        3625  aplicacao aut contamax empresarial                    -4.119,69 d                    0,00
+                                                      
+     24/05/2021        3989  pix recebido outra inst - dif tit                         45,00 c                   45,00
+                             04239022703              
+     24/05/2021        3987  pix recebido - dif tit             103726                 58,71 c                  103,71
+                             04740876000125           
+     24/05/2021        3819  pagamento cartao de debito         379440              5.818,18 c                5.921,89
+                             getnet-maestro           
+ 
+15/06/2021
+24/29
+                                                  página 24
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     24/05/2021        3819  pagamento cartao de debito         379440              5.341,72 c               11.263,61
+                             getnet-visa electr       
+     24/05/2021        3819  pagamento cartao de debito         379440              2.472,06 c               13.735,67
+                             getnet-elo debito        
+     24/05/2021        3818  pagamento cartao de credito        379440              1.219,40 c               14.955,07
+                             getnet-visa              
+     24/05/2021        3818  pagamento cartao de credito        379440              2.194,74 c               17.149,81
+                             getnet-master            
+     24/05/2021        3818  pagamento cartao de credito        379440                312,68 c               17.462,49
+                             getnet-elo               
+     24/05/2021        3818  pagamento cartao de credito        379440                 64,72 c               17.527,21
+                             getnet-amex              
+     24/05/2021        3983  pix enviado - dif tit              533550               -188,00 d               17.339,21
+                             16071199786              
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -257,60 d               17.081,61
+                             configure software ltda  
+     24/05/2021        0658  pagamento darf em canais           39                -15.265,30 d                1.816,31
+                             internet simples nacional
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -280,30 d                1.536,01
+                             cescom cesconeto comercia
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.116,00 d                  420,01
+                             proteinorte   alimentos s
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -521,00 d                 -100,99
+                             conti equipamentos u ltda
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -260,28 d                 -361,27
+                             miranda correia distribui
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -669,82 d               -1.031,09
+                             distribuidora paraiso ltd
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -306,98 d               -1.338,07
+                             nova dist de bebidas eire
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -3.087,54 d               -4.425,61
+                             frigorifico cariacica s a
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -3.261,59 d               -7.687,20
+                             forte boi - industria de 
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -139,28 d               -7.826,48
+                             atacadao s.a.            
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -147,90 d               -7.974,38
+                             atacadao s.a.            
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.240,65 d               -9.215,03
+                             colina alimentos ltda    
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -407,18 d               -9.622,21
+                             colina alimentos ltda    
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.141,26 d              -10.763,47
+                             pepsico do brasil ltda   
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -768,53 d              -11.532,00
+                             atacadao s.a.            
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.276,85 d              -12.808,85
+                             l p distribuidora de gela
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -903,14 d              -13.711,99
+                             colina alimentos ltda    
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -728,80 d              -14.440,79
+                             colina alimentos ltda    
+ 
+15/06/2021
+25/29
+                                                  página 25
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -938,00 d              -15.378,79
+                             proteinorte alimentos sa 
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -396,90 d              -15.775,69
+                             rio branco alimentos     
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.335,60 d              -17.111,29
+                             supergasbras energia ltda
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -3.379,99 d              -20.491,28
+                             banco bocom bbm s.a      
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.182,40 d              -21.673,68
+                             cereais do nico ltda     
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -468,17 d              -22.141,85
+                             atacadao s.a.            
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -773,55 d              -22.915,40
+                             atacadao s.a.            
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -617,88 d              -23.533,28
+                             atacadao s.a.            
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.069,32 d              -24.602,60
+                             cia boi com de carnes eir
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -952,52 d              -25.555,12
+                             frigorifico vitoria      
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.093,72 d              -26.648,84
+                             companhia do boi comercio
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -470,15 d              -27.118,99
+                             lube distribuidora ltda  
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.419,91 d              -28.538,90
+                             banco bocom bbm s.a      
+     24/05/2021        2988  pgto titulo outro bco - internet   000000             -1.878,91 d              -30.417,81
+                             trademaster servicos e pa
+     24/05/2021        2988  pgto titulo outro bco - internet   000000               -529,09 d              -30.946,90
+                             colina alimentos ltda    
+     24/05/2021        0607  dep dinheiro terminal              160322              2.000,00 c              -28.946,90
+                                                      
+     24/05/2021        0607  dep dinheiro terminal              160448              1.950,00 c              -26.996,90
+                                                      
+     24/05/2021        0607  dep dinheiro terminal              160518                 50,00 c              -26.946,90
+                                                      
+     24/05/2021        0006  cheque emitido/debitado            000430               -826,00 d              -27.772,90
+                                                      
+     24/05/2021        3627  resgate aut contamax empresarial                      27.772,90 c                    0,00
+                                                      
+     25/05/2021        3987  pix recebido - dif tit             141021                 36,66 c                   36,66
+                             04740876000125           
+     25/05/2021        3819  pagamento cartao de debito         379440              1.153,04 c                1.189,70
+                             getnet-visa electr       
+     25/05/2021        3819  pagamento cartao de debito         379440                618,36 c                1.808,06
+                             getnet-elo debito        
+     25/05/2021        3819  pagamento cartao de debito         379440              1.592,80 c                3.400,86
+                             getnet-maestro           
+     25/05/2021        3818  pagamento cartao de credito        379440                648,00 c                4.048,86
+                             getnet-visa              
+     25/05/2021        3818  pagamento cartao de credito        379440              1.933,88 c                5.982,74
+                             getnet-master            
+ 
+15/06/2021
+26/29
+                                                  página 26
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     25/05/2021        3818  pagamento cartao de credito        379440                115,09 c                6.097,83
+                             getnet-elo               
+     25/05/2021        3625  aplicacao aut contamax empresarial                    -6.097,83 d                    0,00
+                                                      
+     26/05/2021        0722  debito titulo de capitalizacao                           -71,00 d                  -71,00
+                             santander cap            
+     26/05/2021        3819  pagamento cartao de debito         379440                646,44 c                  575,44
+                             getnet-elo debito        
+     26/05/2021        3819  pagamento cartao de debito         379440              1.110,67 c                1.686,11
+                             getnet-maestro           
+     26/05/2021        3819  pagamento cartao de debito         379440                878,07 c                2.564,18
+                             getnet-visa electr       
+     26/05/2021        3818  pagamento cartao de credito        379440                325,82 c                2.890,00
+                             getnet-visa              
+     26/05/2021        3818  pagamento cartao de credito        379440                740,74 c                3.630,74
+                             getnet-master            
+     26/05/2021        3818  pagamento cartao de credito        379440                 94,23 c                3.724,97
+                             getnet-elo               
+     26/05/2021        3989  pix recebido outra inst - dif tit                         26,90 c                3.751,87
+                             86152763584              
+     26/05/2021        3985  pix enviado outra inst - dif tit                        -240,00 d                3.511,87
+                             bruno gomes de souza fern
+     26/05/2021        3625  aplicacao aut contamax empresarial                    -3.511,87 d                    0,00
+                                                      
+     27/05/2021        3987  pix recebido - dif tit             144426                 67,22 c                   67,22
+                             04740876000125           
+     27/05/2021        2988  pgto titulo outro bco - internet   239202             -2.136,11 d               -2.068,89
+                             frical frigorifico cariac
+     27/05/2021        2988  pgto titulo outro bco - internet   239398             -2.536,00 d               -4.604,89
+                             banco bocom bbm s.a      
+     27/05/2021        3819  pagamento cartao de debito         379440                976,62 c               -3.628,27
+                             getnet-visa electr       
+     27/05/2021        3819  pagamento cartao de debito         379440                815,99 c               -2.812,28
+                             getnet-elo debito        
+     27/05/2021        3819  pagamento cartao de debito         379440              1.387,75 c               -1.424,53
+                             getnet-maestro           
+     27/05/2021        0477  ted recebida dif titularidade str                         73,61 c               -1.350,92
+                             69034668000156           
+     27/05/2021        3818  pagamento cartao de credito        379440                304,86 c               -1.046,06
+                             getnet-visa              
+     27/05/2021        3818  pagamento cartao de credito        379440                548,87 c                 -497,19
+                             getnet-master            
+     27/05/2021        3818  pagamento cartao de credito        379440                 96,28 c                 -400,91
+                             getnet-elo               
+     27/05/2021        0477  ted recebida dif titularidade str                         28,64 c                 -372,27
+                             69034668000156           
+     27/05/2021        0477  ted recebida dif titularidade str                         13,35 c                 -358,92
+                             69034668000156           
+     27/05/2021        3987  pix recebido - dif tit             181857                122,70 c                 -236,22
+                             05890226797              
+     27/05/2021        3627  resgate aut contamax empresarial                         236,22 c                    0,00
+                                                      
+ 
+15/06/2021
+27/29
+                                                  página 27
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     28/05/2021        3987  pix recebido - dif tit             171821                 37,60 c                   37,60
+                             04740876000125           
+     28/05/2021        3819  pagamento cartao de debito         379440              1.476,70 c                1.514,30
+                             getnet-maestro           
+     28/05/2021        3819  pagamento cartao de debito         379440                834,47 c                2.348,77
+                             getnet-elo debito        
+     28/05/2021        3819  pagamento cartao de debito         379440                981,43 c                3.330,20
+                             getnet-visa electr       
+     28/05/2021        3818  pagamento cartao de credito        379440                587,18 c                3.917,38
+                             getnet-visa              
+     28/05/2021        3818  pagamento cartao de credito        379440                322,96 c                4.240,34
+                             getnet-master            
+     28/05/2021        3818  pagamento cartao de credito        379440                 48,62 c                4.288,96
+                             getnet-elo               
+     28/05/2021        3989  pix recebido outra inst - dif tit                         36,80 c                4.325,76
+                             41338464000190           
+     28/05/2021        3985  pix enviado outra inst - dif tit                        -814,02 d                3.511,74
+                             confronto distribuidora e
+     28/05/2021        3625  aplicacao aut contamax empresarial                    -3.511,74 d                    0,00
+                                                      
+     31/05/2021        0688  pagamento de titulos - bce         000000               -198,00 d                 -198,00
+                             17.948.578/0001-77       
+     31/05/2021        3989  pix recebido outra inst - dif tit                         82,80 c                 -115,20
+                             11327691000159           
+     31/05/2021        3989  pix recebido outra inst - dif tit                         95,50 c                  -19,70
+                             13036938796              
+     31/05/2021        2373  prestacao consorcio                                   -1.100,46 d               -1.120,16
+                             pgto eventuais           
+     31/05/2021        2373  prestacao consorcio                                   -1.887,60 d               -3.007,76
+                             pgto eventuais           
+     31/05/2021        3987  pix recebido - dif tit             140673                144,49 c               -2.863,27
+                             04740876000125           
+     31/05/2021        3819  pagamento cartao de debito         379440              5.638,58 c                2.775,31
+                             getnet-maestro           
+     31/05/2021        3819  pagamento cartao de debito         379440              3.400,14 c                6.175,45
+                             getnet-visa electr       
+     31/05/2021        3819  pagamento cartao de debito         379440              3.023,84 c                9.199,29
+                             getnet-elo debito        
+     31/05/2021        3818  pagamento cartao de credito        379440              1.541,47 c               10.740,76
+                             getnet-visa              
+     31/05/2021        3818  pagamento cartao de credito        379440              2.572,97 c               13.313,73
+                             getnet-master            
+     31/05/2021        3818  pagamento cartao de credito        379440                404,61 c               13.718,34
+                             getnet-elo               
+     31/05/2021        3818  pagamento cartao de credito        379440                 67,35 c               13.785,69
+                             getnet-hipercard         
+     31/05/2021        2988  pgto titulo outro bco - internet   000000             -2.519,69 d               11.266,00
+                             banco bocom bbm s.a      
+     31/05/2021        2988  pgto titulo outro bco - internet   000000             -2.425,86 d                8.840,14
+                             rj refrescos ltda        
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -390,75 d                8.449,39
+                             nova dist de bebidas eire
+ 
+15/06/2021
+28/29
+                                                  página 28
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -903,13 d                7.546,26
+                             colina alimentos ltda    
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -728,80 d                6.817,46
+                             colina alimentos ltda    
+     31/05/2021        2988  pgto titulo outro bco - internet   000000             -4.942,89 d                1.874,57
+                             frigorifico cariacica s.a
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -562,80 d                1.311,77
+                             proteinorte   alimentos s
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -891,29 d                  420,48
+                             atacadao s.a.            
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -401,64 d                   18,84
+                             atacadao s.a.            
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -428,85 d                 -410,01
+                             lube distribuidora ltda  
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -639,70 d               -1.049,71
+                             f l  embalagens ltda     
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -166,00 d               -1.215,71
+                             f l  embalagens ltda     
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -532,06 d               -1.747,77
+                             beba bem comercio de prod
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -970,65 d               -2.718,42
+                             colina alimentos ltda    
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -929,66 d               -3.648,08
+                             colina alimentos ltda    
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -396,90 d               -4.044,98
+                             rio branco alimentos s.a 
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -952,82 d               -4.997,80
+                             frigorifico vitoria      
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -843,00 d               -5.840,80
+                             cereais do nico ltda     
+     31/05/2021        2988  pgto titulo outro bco - internet   000000             -2.535,99 d               -8.376,79
+                             banco bocom bbm s.a      
+     31/05/2021        2988  pgto titulo outro bco - internet   000000             -1.303,14 d               -9.679,93
+                             forte boi - industria de 
+     31/05/2021        2988  pgto titulo outro bco - internet   000000             -1.093,72 d              -10.773,65
+                             companhia do boi comercio
+     31/05/2021        2988  pgto titulo outro bco - internet   000000             -1.566,48 d              -12.340,13
+                             frigorifico cariacica s a
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -417,69 d              -12.757,82
+                             lube distribuidora ltda  
+     31/05/2021        2988  pgto titulo outro bco - internet   000000             -1.419,91 d              -14.177,73
+                             banco bocom bbm s.a      
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -314,86 d              -14.492,59
+                             franciscana distribuidora
+     31/05/2021        0688  pagamento de titulos - bce         000000               -752,27 d              -15.244,86
+                             60.409.075/0001-52       
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -375,20 d              -15.620,06
+                             proteinorte   alimentos s
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -399,37 d              -16.019,43
+                             miranda correia distribui
+     31/05/2021        2988  pgto titulo outro bco - internet   000000               -244,57 d              -16.264,00
+                             colina alimentos ltda    
+ 
+15/06/2021
+29/29
+                                                  página 29
+     santander                   data 15/06/2021 hora 11:40  local 3345 reta da penha-vitoria-es
+                                           extrato de conta - consolidado    
+     conta 0033 4174 000130017084
+     vale churrascaria eireli me                                                     
+     data início 01/04/2021               data fim 31/05/2021
+     produto 22 conta corrente        subproduto 8518 santander master              
+ 
+     saldo anterior 0,00              
+     ------------------------------------------------------------------------------------------------------------------------
+     dt. contábil  *   hist. descrição                          nº doc.              valor d-c                  saldo
+     ------------------------------------------------------------------------------------------------------------------------
+     31/05/2021        3989  pix recebido outra inst - dif tit                         50,00 c              -16.214,00
+                             32506811000155           
+     31/05/2021        3989  pix recebido outra inst - dif tit                         56,70 c              -16.157,30
+                             10128078782              
+     31/05/2021        0607  dep dinheiro terminal              161132              1.000,00 c              -15.157,30
+                                                      
+     31/05/2021        0607  dep dinheiro terminal              161256              1.750,00 c              -13.407,30
+                                                      
+     31/05/2021        0607  dep dinheiro terminal              161419                250,00 c              -13.157,30
+                                                      
+     31/05/2021        3627  resgate aut contamax empresarial                      13.157,30 c                    0,00
+                                                      
+                                                                                                   preparado por tfuser?   

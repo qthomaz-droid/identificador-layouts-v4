@@ -1,0 +1,518 @@
+ato da conta de solucionis facilitadora de pagamento interna
+nome de usuário: 40274399000113
+membro desde: 06/12/2023
+cpf/cnpj: 40.274.399/0001-13
+agência: 0001
+conta: 4027439900011-3
+período para conferência: 01/07/2024 a 22/07/2024
+saldo inicial: r$ 0,00
+saldo final: r$ 332.929,36
+movimentações
+data:
+16/07/2024
+hora: 12:59:22
+valor: r$ 142,00
+saldo: r$ 142,00
+tipo de operação:
+pix cash-in
+recebido de:
+breno quevely lopes de sousa
+operador:
+documento:
+05063727310
+instituição financeira: banco inter
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 12:59:22  valor: r$ 142,00   informações do
+remetente:  nome/razão social: breno quevely lopes de sousa cpf/cnpj: 050.637.273-10 agência:
+1 conta: 66602033  número de identificação: e00416968202407161559mc0vsli5rgw end to end id:
+e00416968202407161559mc0vsli5rgw  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 12:59:27
+valor: r$ 100,00
+saldo: r$ 242,00
+tipo de operação:
+pix cash-in
+recebido de:
+fabiana naira da silva pereira
+operador:
+documento:
+98987496104
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 12:59:26  valor: r$ 100,00   informações do
+remetente:  nome/razão social: fabiana naira da silva pereira cpf/cnpj: 989.874.961-04 agência: 1 conta:
+337620561  número de identificação: e18236120202407161559s140221dc04 end to end id:
+e18236120202407161559s140221dc04  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 12:59:38
+valor: r$ 100,00
+saldo: r$ 342,00
+tipo de operação:
+pix cash-in
+recebido de:
+paulo cesar da silva
+operador:
+documento:
+03440216020
+instituição financeira: caixa economica federal
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 12:59:38  valor: r$ 100,00   informações do
+remetente:  nome/razão social: paulo cesar da silva cpf/cnpj: 034.402.160-20 agência: 703 conta:
+5937796540  número de identificação: e003603052024071615591593a92b4eb end to end id:
+e003603052024071615591593a92b4eb  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:00:13
+valor: r$ 20,00
+saldo: r$ 362,00
+tipo de operação:
+pix cash-in
+recebido de:
+rogerio alves simoes
+operador:
+documento:
+05294469600
+instituição financeira: picpay
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:00:13  valor: r$ 20,00   informações do
+remetente:  nome/razão social: rogerio alves simoes cpf/cnpj: 052.944.696-00 agência: 1 conta:
+62817671  número de identificação: e22896431202407161600gr700do8vzv end to end id:
+e22896431202407161600gr700do8vzv  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:01:43
+valor: r$ 1.000,00
+saldo: r$ 1.362,00
+tipo de operação:
+pix cash-in
+recebido de:
+wagner gomes dias
+operador:
+documento:
+18775364743
+instituição financeira: banco inter
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:01:42  valor: r$ 1000,00   informações do
+remetente:  nome/razão social: wagner gomes dias cpf/cnpj: 187.753.647-43 agência: 1 conta:
+134253906  número de identificação: e00416968202407161601cxil5m2p7o1 end to end id:
+e00416968202407161601cxil5m2p7o1  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:03:06
+valor: r$ 281,41
+saldo: r$ 1.643,41
+tipo de operação:
+pix cash-in
+recebido de:
+erick de oliveira marques
+operador:
+documento:
+87038447068
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:03:06  valor: r$ 281,41   informações do
+remetente:  nome/razão social: erick de oliveira marques cpf/cnpj: 870.384.470-68 agência: 1 conta:
+574908907  número de identificação: e18236120202407161602s157a347627 end to end id:
+e18236120202407161602s157a347627  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:03:30
+valor: r$ 20,00
+saldo: r$ 1.663,41
+tipo de operação:
+pix cash-in
+recebido de:
+paulo manoel pereira
+operador:
+documento:
+08591412842
+instituição financeira: itaú unibanco s.a.
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:03:30  valor: r$ 20,00   informações do
+remetente:  nome/razão social: paulo manoel pereira cpf/cnpj: 085.914.128-42 agência: 9114 conta:
+378145  número de identificação: e60701190202407161603dy5z6v58frz end to end id:
+e60701190202407161603dy5z6v58frz  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:05:44
+valor: r$ 199,00
+saldo: r$ 1.862,41
+tipo de operação:
+pix cash-in
+recebido de:
+marcelo carlos rici
+operador:
+documento:
+16473046879
+instituição financeira: banco inter
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:05:43  valor: r$ 199,00   informações do
+remetente:  nome/razão social: marcelo carlos rici cpf/cnpj: 164.730.468-79 agência: 1 conta:
+211187143  número de identificação: e004169682024071616050cutvobqxj5 end to end id:
+e004169682024071616050cutvobqxj5  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:05:49
+valor: r$ 15,00
+saldo: r$ 1.877,41
+tipo de operação:
+pix cash-in
+recebido de:
+luciano domingos gomes
+operador:
+documento:
+14211703617
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:05:49  valor: r$ 15,00   informações do
+remetente:  nome/razão social: luciano domingos gomes cpf/cnpj: 142.117.036-17 agência: 1 conta:
+940999504  número de identificação: e18236120202407161605s0529326c54 end to end id:
+e18236120202407161605s0529326c54  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:07:17
+valor: r$ 20,00
+saldo: r$ 1.897,41
+tipo de operação:
+pix cash-in
+recebido de:
+victor mateus nascimento da luz
+operador:
+documento:
+08732967969
+instituição financeira: picpay
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:07:16  valor: r$ 20,00   informações do
+remetente:  nome/razão social: victor mateus nascimento da luz cpf/cnpj: 087.329.679-69 agência: 1 conta:
+555716350  número de identificação: e22896431202407161607vqpjwlkdksd end to end id:
+e22896431202407161607vqpjwlkdksd  informações do destinatário: cpf/cnpj:
+40.274.399/0001-13 instituição financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:08:31
+valor: r$ 15,00
+saldo: r$ 1.912,41
+tipo de operação:
+pix cash-in
+recebido de:
+roberto soares dos reis
+operador:
+documento:
+00055703607
+instituição financeira: caixa economica federal
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:08:30  valor: r$ 15,00   informações do
+remetente:  nome/razão social: roberto soares dos reis cpf/cnpj: 000.557.036-07 agência:
+2983 conta: 7540750643  número de identificação: e00360305202407161608629c02e79cd end to end id:
+e00360305202407161608629c02e79cd  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:08:52
+valor: r$ 30,00
+saldo: r$ 1.942,41
+tipo de operação:
+pix cash-in
+recebido de:
+mateus soares dos santos
+operador:
+documento:
+09792949593
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:08:52  valor: r$ 30,00   informações do
+remetente:  nome/razão social: mateus soares dos santos cpf/cnpj: 097.929.495-93 agência: 1 conta:
+151652207  número de identificação: e18236120202407161608s0199bff758 end to end id:
+e18236120202407161608s0199bff758  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:09:18
+valor: r$ 300,00
+saldo: r$ 2.242,41
+tipo de operação:
+pix cash-in
+recebido de:
+david alves de sousa moreira
+operador:
+documento:
+34524574867
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:09:18  valor: r$ 300,00   informações do
+remetente:  nome/razão social: david alves de sousa moreira cpf/cnpj: 345.245.748-67 agência: 1 conta:
+413559109  número de identificação: e18236120202407161609s15f7cd7d7e end to end id:
+e18236120202407161609s15f7cd7d7e  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:09:28
+valor: r$ 15,00
+saldo: r$ 2.257,41
+tipo de operação:
+pix cash-in
+recebido de:
+henrique langame fagundes
+operador:
+documento:
+08091987625
+instituição financeira: bco do brasil s.a.
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:09:27  valor: r$ 15,00   informações do
+remetente:  nome/razão social: henrique langame fagundes cpf/cnpj: 080.919.876-25 agência:
+4991 conta: 109274  número de identificação: e0000000020240716160915688019244 end to end id:
+e0000000020240716160915688019244  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:10:00
+valor: r$ 20,00
+saldo: r$ 2.277,41
+tipo de operação:
+pix cash-in
+recebido de:
+thales freitas borges
+operador:
+documento:
+18330791670
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:10:00  valor: r$ 20,00   informações do
+remetente:  nome/razão social: thales freitas borges cpf/cnpj: 183.307.916-70 agência: 1 conta:
+253564533  número de identificação: e18236120202407161609s114539b262 end to end id:
+e18236120202407161609s114539b262  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:11:10
+valor: r$ 20,00
+saldo: r$ 2.297,41
+tipo de operação:
+pix cash-in
+recebido de:
+joao victor ferreira bernardo 
+operador:
+documento:
+70218038186
+instituição financeira: neon pagamentos
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:11:10  valor: r$ 20,00   informações do
+remetente:  nome/razão social: joao victor ferreira bernardo  cpf/cnpj: 702.180.381-86 agência: 655 conta:
+226040151  número de identificação: e2085587520240716161058617876406 end to end id:
+e2085587520240716161058617876406  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:11:43
+valor: r$ 390,00
+saldo: r$ 2.687,41
+tipo de operação:
+pix cash-in
+recebido de:
+breno quevely lopes de sousa
+operador:
+documento:
+05063727310
+instituição financeira: banco inter
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:11:43  valor: r$ 390,00   informações do
+remetente:  nome/razão social: breno quevely lopes de sousa cpf/cnpj: 050.637.273-10 agência:
+1 conta: 66602033  número de identificação: e00416968202407161611bwcgfg43eyz end to end id:
+e00416968202407161611bwcgfg43eyz  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:12:10
+valor: r$ 39,00
+saldo: r$ 2.726,41
+tipo de operação:
+pix cash-in
+recebido de:
+gilcelio conceicao barbosa
+operador:
+documento:
+12356604430
+instituição financeira: caixa economica federal
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:12:09  valor: r$ 39,00   informações do
+remetente:  nome/razão social: gilcelio conceicao barbosa cpf/cnpj: 123.566.044-30 agência:
+575 conta: 7611305728  número de identificação: e00360305202407161611f84b809bc2c end to end id:
+e00360305202407161611f84b809bc2c  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:12:12
+valor: r$ 500,00
+saldo: r$ 3.226,41
+tipo de operação:
+pix cash-in
+recebido de:
+jainor queiroz silva pereira
+operador:
+documento:
+13261504722
+instituição financeira: itaú unibanco s.a.
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:12:11  valor: r$ 500,00   informações do
+remetente:  nome/razão social: jainor queiroz silva pereira cpf/cnpj: 132.615.047-22 agência:
+6031 conta: 684431  número de identificação: e60701190202407161611dy5rb7p38qo end to end id:
+e60701190202407161611dy5rb7p38qo  informações do destinatário: cpf/cnpj:
+40.274.399/0001-13 instituição financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:12:51
+valor: r$ 11,46
+saldo: r$ 3.237,87
+tipo de operação:
+pix cash-in
+recebido de:
+ricardo manoel da silva
+operador:
+documento:
+04529796418
+instituição financeira: bco santander (brasil) s.a.
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:12:51  valor: r$ 11,46   informações do
+remetente:  nome/razão social: ricardo manoel da silva cpf/cnpj: 045.297.964-18 agência: 4017 conta:
+10436857  número de identificação: e9040088820240716161224523682440 end to end id:
+e9040088820240716161224523682440  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:13:18
+valor: r$ 7,00
+saldo: r$ 3.244,87
+tipo de operação:
+pix cash-in
+recebido de:
+gracia mussunda kasongo
+operador:
+documento:
+23920255844
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:13:18  valor: r$ 7,00   informações do
+remetente:  nome/razão social: gracia mussunda kasongo cpf/cnpj: 239.202.558-44 agência: 1 conta:
+650597998  número de identificação: e18236120202407161612s14a559b4bf end to end id:
+e18236120202407161612s14a559b4bf  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:13:36
+valor: r$ 30,00
+saldo: r$ 3.274,87
+tipo de operação:
+pix cash-in
+recebido de:
+josé pedro wielevski
+operador:
+documento:
+06848693901
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:13:36  valor: r$ 30,00   informações do
+remetente:  nome/razão social: josé pedro wielevski cpf/cnpj: 068.486.939-01 agência: 1 conta:
+670912085  número de identificação: e18236120202407161613s042758ba44 end to end id:
+e18236120202407161613s042758ba44  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:14:10
+valor: r$ 60,00
+saldo: r$ 3.334,87
+tipo de operação:
+pix cash-in
+recebido de:
+mario carlos silva porto
+operador:
+documento:
+39703023827
+instituição financeira: bco santander (brasil) s.a.
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:14:09  valor: r$ 60,00   informações do
+remetente:  nome/razão social: mario carlos silva porto cpf/cnpj: 397.030.238-27 agência: 652 conta:
+10407999  número de identificação: e9040088820240716161324523738321 end to end id:
+e9040088820240716161324523738321  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:14:46
+valor: r$ 15,00
+saldo: r$ 3.349,87
+tipo de operação:
+pix cash-in
+recebido de:
+gutemberg de souza norata
+operador:
+documento:
+09801078731
+instituição financeira: nu pagamentos - ip
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:14:46  valor: r$ 15,00   informações do
+remetente:  nome/razão social: gutemberg de souza norata cpf/cnpj: 098.010.787-31 agência: 1 conta:
+940614665  número de identificação: e18236120202407161614s0200b18302 end to end id:
+e18236120202407161614s0200b18302  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:14:48
+valor: r$ 215,00
+saldo: r$ 3.564,87
+tipo de operação:
+pix cash-in
+recebido de:
+breno quevely lopes de sousa
+operador:
+documento:
+05063727310
+instituição financeira: banco inter
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:14:47  valor: r$ 215,00   informações do
+remetente:  nome/razão social: breno quevely lopes de sousa cpf/cnpj: 050.637.273-10 agência:
+1 conta: 66602033  número de identificação: e00416968202407161614xq5pkpnjaf2 end to end id:
+e00416968202407161614xq5pkpnjaf2  informações do destinatário: cpf/cnpj: 40.274.399/0001-13 instituição
+financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:15:29
+valor: r$ 100,00
+saldo: r$ 3.664,87
+tipo de operação:
+pix cash-in
+recebido de:
+marco antonio granato menezes
+operador:
+documento:
+02172241725
+instituição financeira: itaú unibanco s.a.
+cupom:
+transferência eletrônica - pix  data: 16/07/2024 hora de brasília: 13:15:29  valor: r$ 100,00   informações do
+remetente:  nome/razão social: marco antonio granato menezes cpf/cnpj: 021.722.417-25 agência:
+769 conta: 491119  número de identificação: e60701190202407161614dy5herv7v1j end to end id:
+e60701190202407161614dy5herv7v1j  informações do destinatário: cpf/cnpj:
+40.274.399/0001-13 instituição financeira: ewally ip s.a. agência: 1 conta: 862318377
+data:
+16/07/2024
+hora: 13:15:54
+valor: r$ 36,00
+saldo: r$ 3.700,87
+tipo de operação:
+pix cash-in
+recebido de:
+elieser dos santos melo
+operador:
+documento:
+11688493816
+instituição financeira: itaú unibanco s.a.
+cupom:

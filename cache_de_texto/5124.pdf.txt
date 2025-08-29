@@ -1,0 +1,1784 @@
+     1
+04/08/2023
+radm140
+mix service ltda - me
+rpl segurança privada ltda
+lista lançamentos de caixa
+data:
+pag:
+gesoper:
+data documento
+origem
+destino
+valor chequeusuário
+dt.lan.
+lancto
+data operação
+período:
+a
+01/07/2023
+31/07/2023
+03/07/2023
+                 0
+  41
+mix sicoob cc 1400118
+aplicação mix sicoob conta capi
+  21
+         50,00
+       0 thiago
+05/07/2023
+     23141
+03/07/2023
+             72023
+2237
+mix sicoob cc 1400118
+despesas com cartão empresarial
+  21
+      2.475,81
+       0 thiago
+05/07/2023
+     23142
+ lançamento cp: 13237, título baixado: 072023 mix, credor: 275 (sicoobcard), vencimento: 03/07/23, valor pago: 2475.81
+03/07/2023
+              6496
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+      3.237,79
+       0 thiago
+05/07/2023
+     23146
+ movimento por retorno -  lançamento cr: 6496, título baixado: 2267, cliente: 22 (brazul transporte de veiculos ltda), vencim
+ento: 03/07/23, valor pago: 3237.79
+03/07/2023
+              6579
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      3.632,55
+       0 thiago
+05/07/2023
+     23147
+ movimento por retorno -  lançamento cr: 6579, título baixado: 2271, cliente: 4 (atacado sao paulo ltda), vencimento: 03/07/2
+3, valor pago: 3632.55
+03/07/2023
+              6580
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      8.627,99
+       0 thiago
+05/07/2023
+     23148
+ movimento por retorno -  lançamento cr: 6580, título baixado: 2272, cliente: 6 (cimental ltda), vencimento: 03/07/23, valor 
+pago: 8627.99
+03/07/2023
+              6601
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+     15.099,23
+       0 thiago
+05/07/2023
+     23152
+ movimento por retorno -  lançamento cr: 6601, título baixado: 2293, cliente: 15 (millenium comercial ltda), vencimento: 03/0
+7/23, valor pago: 15099.23
+03/07/2023
+              6591
+  21
+contratos portaria e conservação
+mix sicoob cc 1400118
+1033
+     12.832,21
+       0 thiago
+05/07/2023
+     23149
+ movimento por retorno -  lançamento cr: 6591, título baixado: 2283, cliente: 816 (gfl logistica ltda), vencimento: 03/07/23,
+ valor pago: 12832.21
+03/07/2023
+              6594
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     11.900,55
+       0 thiago
+05/07/2023
+     23150
+ movimento por retorno -  lançamento cr: 6594, título baixado: 2286, cliente: 1006 (c&m comercio e distribuição de generos al
+imenticio), vencimento: 03/07/23, valor pago: 11900.55
+03/07/2023
+              6597
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+      3.803,00
+       0 thiago
+05/07/2023
+     23151
+ movimento por retorno -  lançamento cr: 6597, título baixado: 2289, cliente: 1119 (vsg tecnologia e serviços ltda), vencimen
+to: 03/07/23, valor pago: 3803.00
+03/07/2023
+              6602
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     14.077,38
+       0 thiago
+05/07/2023
+     23153
+ movimento por retorno -  lançamento cr: 6602, título baixado: 2294, cliente: 15 (millenium comercial ltda), vencimento: 03/0
+7/23, valor pago: 14077.38
+03/07/2023
+              6605
+  21
+contratos portaria e conservação
+mix sicoob cc 1400118
+1033
+     10.729,72
+       0 thiago
+05/07/2023
+     23154
+ movimento por retorno -  lançamento cr: 6605, título baixado: 2295, cliente: 1220 (multi locacoes corporativas ltda), vencim
+ento: 03/07/23, valor pago: 10729.72
+03/07/2023
+              2282
+  20
+operador de cftv
+mix banestes cc 22787014
+1035
+     20.763,93
+       0 thiago
+06/07/2023
+     23214
+ lançamento cr: 6590, título baixado: 2282, cliente: 801 (gdl logistica integrada s.a), vencimento: 03/07/23, valor pago: 207
+63.93
+03/07/2023
+                 0
+2605
+mix banestes cc 22787014
+iof
+  20
+          0,06
+       0 thiago
+06/07/2023
+     23215
+03/07/2023
+                 0
+2605
+mix banestes cc 22787014
+iof
+  20
+          0,99
+       0 thiago
+06/07/2023
+     23216
+03/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+         13,60
+       0 thiago
+06/07/2023
+     23248
+tarifa bancaria 
+  107.244,81
+total do dia:
+04/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+          1,70
+       0 thiago
+05/07/2023
+     23139
+tarifa bancaria 
+        1,70
+total do dia:
+05/07/2023
+                 0
+2110
+mix banestes cc 22787014
+férias
+  20
+      2.011,83
+       0 thiago
+06/07/2023
+     23217
+ lançamento cp: 13230, título baixado: mat.0371 2223, credor: 50324 (bianca da silva matos cardozo), vencimento: 05/07/23, va
+lor pago: 2011.83
+05/07/2023
+                 0
+2600
+mix banestes cc 22787014
+cobrança bancária
+  20
+          1,50
+       0 thiago
+06/07/2023
+     23218
+tarifa folha pagto 
+05/07/2023
+              2259
+  20
+contratos de portaria
+mix banestes cc 22787014
+1031
+     20.382,32
+       0 thiago
+06/07/2023
+     23219
+ lançamento cr: 6463, título baixado: 2259, cliente: 627 (allied tecnologia sa), vencimento: 01/08/23, valor pago: 20382.32
+05/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+          1,70
+       0 thiago
+06/07/2023
+     23226
+tarifa bancaria 
+05/07/2023
+              2273
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     14.047,23
+       0 thiago
+06/07/2023
+     23227
+     2
+04/08/2023
+radm140
+mix service ltda - me
+rpl segurança privada ltda
+lista lançamentos de caixa
+data:
+pag:
+gesoper:
+data documento
+origem
+destino
+valor chequeusuário
+dt.lan.
+lancto
+data operação
+período:
+a
+01/07/2023
+31/07/2023
+ lançamento cr: 6581, título baixado: 2273, cliente: 27 (playvender do brasil s/a), vencimento: 03/07/23, valor pago: 14047.2
+3
+05/07/2023
+              2276
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      8.568,03
+       0 thiago
+06/07/2023
+     23228
+ lançamento cr: 6584, título baixado: 2276, cliente: 211 (supera log logistica eireli), vencimento: 05/07/23, valor pago: 856
+8.03
+05/07/2023
+              2278
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     15.926,41
+       0 thiago
+06/07/2023
+     23229
+ lançamento cr: 6586, título baixado: 2278, cliente: 374 (vitoria provedora logistica ltda), vencimento: 05/07/23, valor pago
+: 15926.41
+05/07/2023
+              2280
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      4.536,01
+       0 thiago
+06/07/2023
+     23230
+ lançamento cr: 6588, título baixado: 2280, cliente: 730 (acertaexpress transportes de cargas aereas e rodov), vencimento: 05
+/07/23, valor pago: 4536.01
+05/07/2023
+              2285
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     14.233,44
+       0 thiago
+06/07/2023
+     23231
+ lançamento cr: 6593, título baixado: 2285, cliente: 983 (ducloro comércio ltda), vencimento: 05/07/23, valor pago: 14233.44
+05/07/2023
+              2288
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      6.048,01
+       0 thiago
+06/07/2023
+     23232
+ lançamento cr: 6596, título baixado: 2288, cliente: 1079 (fio forte material eletrico ltda), vencimento: 05/07/23, valor pag
+o: 6048.01
+05/07/2023
+              2291
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+        935,15
+       0 thiago
+06/07/2023
+     23233
+ lançamento cr: 6599, título baixado: 2291, cliente: 1179 (i9 engenharia e tecnologia ltda), vencimento: 05/07/23, valor pago
+: 935.15
+05/07/2023
+                12
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      2.500,00
+       0 thiago
+06/07/2023
+     23236
+ lançamento cp: 13241, título baixado: 12, credor: 824 (antonio daniel de sousa costa), vencimento: 05/07/23, valor pago: 250
+0.00
+   89.191,63
+total do dia:
+06/07/2023
+            928155
+2102
+mix sicoob cc 1400118
+vale alimentação
+  21
+     63.776,92
+       0 thiago
+06/07/2023
+     23222
+ lançamento cp: 13267, título baixado: 928155, credor: 211 (comprocard), vencimento: 06/07/23, valor pago: 63776.92
+06/07/2023
+                 0
+  20
+mix sicoob cc 1400118
+mix banestes cc 22787014
+  21
+    130.000,00
+       0 thiago
+06/07/2023
+     23225
+06/07/2023
+            928217
+2102
+mix sicoob cc 1400118
+vale alimentação
+  21
+        645,37
+       0 thiago
+06/07/2023
+     23221
+ lançamento cp: 13268, título baixado: 928217, credor: 211 (comprocard), vencimento: 06/07/23, valor pago: 645.37
+06/07/2023
+                 4
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      3.500,00
+       0 thiago
+06/07/2023
+     23223
+ lançamento cp: 13239, título baixado: 4, credor: 822 (juvenal amarante de souza neto), vencimento: 06/07/23, valor pago: 350
+0.00
+06/07/2023
+                51
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      6.600,00
+       0 thiago
+06/07/2023
+     23224
+ lançamento cp: 13240, título baixado: 51, credor: 823 (halcantara desenvolvimento e consultoria em tecnol), vencimento: 06/0
+7/23, valor pago: 6600.00
+  204.522,29
+total do dia:
+07/07/2023
+                56
+2224
+mix sicoob cc 1400118
+consultoria
+  21
+      6.782,31
+       0 thiago
+07/07/2023
+     23266
+ lançamento cp: 13317, título baixado: 56, credor: 230 (marcus artur almeida bacalhau), vencimento: 07/07/23, valor pago: 678
+2.31
+07/07/2023
+            929041
+2102
+mix sicoob cc 1400118
+vale alimentação
+  21
+        612,09
+       0 thiago
+07/07/2023
+     23267
+ lançamento cp: 13313, título baixado: 929041, credor: 211 (comprocard), vencimento: 07/07/23, valor pago: 612.09
+07/07/2023
+             62023
+2115
+mix sicoob cc 1400118
+pensão alimentícia
+  21
+        262,49
+       0 thiago
+07/07/2023
+     23268
+ lançamento cp: 13295, título baixado: 062023 pensao, credor: 50396 (emille de jesus souza), vencimento: 07/07/23, valor pago
+: 262.49
+07/07/2023
+             62023
+2115
+mix sicoob cc 1400118
+pensão alimentícia
+  21
+        382,47
+       0 thiago
+07/07/2023
+     23269
+ lançamento cp: 13294, título baixado: 062023 pensao, credor: 326 (jeorge pereira vieira), vencimento: 07/07/23, valor pago: 
+382.47
+07/07/2023
+             62023
+2115
+mix sicoob cc 1400118
+pensão alimentícia
+  21
+        555,93
+       0 thiago
+07/07/2023
+     23270
+ lançamento cp: 13293, título baixado: 062023 pensao, credor: 325 (jocimar cristovao), vencimento: 07/07/23, valor pago: 555.
+93
+07/07/2023
+             62023
+2106
+mix sicoob cc 1400118
+fgts
+  21
+     21.059,63
+       0 thiago
+07/07/2023
+     23271
+ lançamento cp: 13291, título baixado: 062023 mix, credor: 249 (grf-guia de recolhimento do fgts), vencimento: 07/07/23, valo
+     3
+04/08/2023
+radm140
+mix service ltda - me
+rpl segurança privada ltda
+lista lançamentos de caixa
+data:
+pag:
+gesoper:
+data documento
+origem
+destino
+valor chequeusuário
+dt.lan.
+lancto
+data operação
+período:
+a
+01/07/2023
+31/07/2023
+r pago: 21059.63
+07/07/2023
+                 0
+2110
+mix banestes cc 22787014
+férias
+  20
+      2.312,58
+       0 thiago
+07/07/2023
+     23284
+ lançamento cp: 13232, título baixado: mat.0299 2223, credor: 50221 (joserlan dos santos viana), vencimento: 07/07/23, valor 
+pago: 2312.58
+07/07/2023
+                 0
+2110
+mix banestes cc 22787014
+férias
+  20
+      1.890,52
+       0 thiago
+07/07/2023
+     23285
+ lançamento cp: 13231, título baixado: mat.0363 2223, credor: 50296 (monique soares da silva), vencimento: 07/07/23, valor pa
+go: 1890.52
+07/07/2023
+                 0
+2612
+mix banestes cc 22787014
+tarifa folha de pagamento
+  20
+          1,50
+       0 thiago
+07/07/2023
+     23286
+tarifa folha pagto 
+07/07/2023
+             62023
+2101
+mix banestes cc 22787014
+salários líquidos
+  20
+    214.910,00
+       0 thiago
+07/07/2023
+     23282
+ lançamento cp: 13292, título baixado: 062023 folha, credor: 327 (mix service ltda), vencimento: 07/07/23, valor pago: 214910
+.00
+07/07/2023
+                 0
+2612
+mix banestes cc 22787014
+tarifa folha de pagamento
+  20
+        160,50
+       0 thiago
+07/07/2023
+     23283
+tarifa folha pagto 
+07/07/2023
+                 0
+2110
+mix banestes cc 22787014
+férias
+  20
+      1.992,54
+       0 thiago
+07/07/2023
+     23287
+ lançamento cp: 13301, título baixado: mat. 0405 2122, credor: 50417 (pedro lucas pereira neves), vencimento: 07/07/23, valor
+ pago: 1992.54
+07/07/2023
+                 0
+2612
+mix banestes cc 22787014
+tarifa folha de pagamento
+  20
+          1,50
+       0 thiago
+07/07/2023
+     23288
+tarifa folha pagto 
+07/07/2023
+                 0
+2612
+mix banestes cc 22787014
+tarifa folha de pagamento
+  20
+          1,50
+       0 thiago
+07/07/2023
+     23289
+tarifa antecipação de float 
+07/07/2023
+              2274
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     41.653,23
+       0 thiago
+10/07/2023
+     23327
+ lançamento cr: 6582, título baixado: 2274, cliente: 46 (tims terminal industrial e multimodal da serra), vencimento: 10/07/2
+3, valor pago: 41653.23
+07/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+          1,70
+       0 thiago
+11/07/2023
+     23383
+tarifa bancaria 
+  292.580,49
+total do dia:
+10/07/2023
+          48414500
+2105
+mix sicoob cc 1400118
+seguro de vida
+  21
+         18,02
+       0 thiago
+11/07/2023
+     23353
+ lançamento cp: 13251, título baixado: 48414500, credor: 665 (hapvida assitencia media s.a.), vencimento: 10/07/23, valor pag
+o: 18.02
+10/07/2023
+            929351
+2102
+mix sicoob cc 1400118
+vale alimentação
+  21
+        272,04
+       0 thiago
+11/07/2023
+     23354
+ lançamento cp: 13322, título baixado: 929351, credor: 211 (comprocard), vencimento: 10/07/23, valor pago: 272.04
+10/07/2023
+            110236
+2112
+mix sicoob cc 1400118
+contribuição sindical colaboradores
+  21
+      3.331,38
+       0 thiago
+11/07/2023
+     23357
+ lançamento cp: 13307, título baixado: 110236, credor: 328 (sindilimpe es), vencimento: 10/07/23, valor pago: 3331.38
+10/07/2023
+           2299904
+2135
+mix sicoob cc 1400118
+plano odontológico
+  21
+      1.150,00
+       0 thiago
+11/07/2023
+     23355
+ lançamento cp: 13310, título baixado: 2299904, credor: 330 (samp espirito santo assistencia medica ltda), vencimento: 10/07/
+23, valor pago: 1150.00
+10/07/2023
+             94593
+2128
+mix sicoob cc 1400118
+benefício social
+  21
+      1.085,00
+       0 thiago
+11/07/2023
+     23356
+ lançamento cp: 13308, título baixado: 94593, credor: 329 (instituto idesbre), vencimento: 10/07/23, valor pago: 1085.00
+10/07/2023
+          50462780
+2707
+mix sicoob cc 1400118
+contribuição sindical empresa
+  21
+         25,48
+       0 thiago
+11/07/2023
+     23358
+ lançamento cp: 13306, título baixado: 50462780, credor: 578 (trabalhadores rodoviarios no es), vencimento: 10/07/23, valor p
+ago: 25.48
+10/07/2023
+            589207
+2132
+mix sicoob cc 1400118
+cartão compras / comprocard
+  21
+      5.726,34
+       0 thiago
+11/07/2023
+     23352
+ lançamento cp: 13250, título baixado: 589207, credor: 211 (comprocard), vencimento: 09/07/23, valor pago: 5726.34
+10/07/2023
+              6529
+2116
+mix sicoob cc 1400118
+exames médicos
+  21
+        825,16
+       0 thiago
+11/07/2023
+     23359
+ lançamento cp: 13296, título baixado: 6529, credor: 162 (nc segurança do trabalho eireli), vencimento: 10/07/23, valor pago:
+ 825.16
+10/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+         11,90
+       0 thiago
+11/07/2023
+     23360
+tarifa bancaria 
+10/07/2023
+              6312
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     18.308,91
+       0 thiago
+11/07/2023
+     23361
+ movimento por retorno -  lançamento cr: 6312, título baixado: 2219, cliente: 560 (cpx distribuidora s/a), vencimento: 10/07/
+     4
+04/08/2023
+radm140
+mix service ltda - me
+rpl segurança privada ltda
+lista lançamentos de caixa
+data:
+pag:
+gesoper:
+data documento
+origem
+destino
+valor chequeusuário
+dt.lan.
+lancto
+data operação
+período:
+a
+01/07/2023
+31/07/2023
+23, valor pago: 18308.91
+10/07/2023
+              6313
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+      4.226,87
+       0 thiago
+11/07/2023
+     23362
+ movimento por retorno -  lançamento cr: 6313, título baixado: 2220, cliente: 560 (cpx distribuidora s/a), vencimento: 10/07/
+23, valor pago: 4226.87
+10/07/2023
+              6314
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     20.055,13
+       0 thiago
+11/07/2023
+     23363
+ movimento por retorno -  lançamento cr: 6314, título baixado: 2221, cliente: 1074 (itr comercio de pneus e peças sa), vencim
+ento: 10/07/23, valor pago: 20055.13
+10/07/2023
+              6583
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      6.909,57
+       0 thiago
+11/07/2023
+     23364
+ movimento por retorno -  lançamento cr: 6583, título baixado: 2275, cliente: 46 (tims terminal industrial e multimodal da se
+rra), vencimento: 10/07/23, valor pago: 6909.57
+10/07/2023
+              6587
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     17.229,02
+       0 thiago
+11/07/2023
+     23365
+ movimento por retorno -  lançamento cr: 6587, título baixado: 2279, cliente: 570 (clgv centro logistico grande vitoria), ven
+cimento: 10/07/23, valor pago: 17229.02
+10/07/2023
+              6589
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      3.874,74
+       0 thiago
+11/07/2023
+     23366
+ movimento por retorno -  lançamento cr: 6589, título baixado: 2281, cliente: 779 (zinzane comercio e confecções de vestuario
+ ltda), vencimento: 10/07/23, valor pago: 3874.74
+10/07/2023
+              6598
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      6.974,69
+       0 thiago
+11/07/2023
+     23367
+ movimento por retorno -  lançamento cr: 6598, título baixado: 2290, cliente: 1142 (maternidade santa paula ltda), vencimento
+: 10/07/23, valor pago: 6974.69
+10/07/2023
+              6609
+  21
+contratos portaria e conservação
+mix sicoob cc 1400118
+1033
+     11.779,14
+       0 thiago
+11/07/2023
+     23368
+ movimento por retorno -  lançamento cr: 6609, título baixado: 2296, cliente: 24 (condominio do edificio vicenza ltda), venci
+mento: 10/07/23, valor pago: 11779.14
+  101.803,39
+total do dia:
+11/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+          5,10
+       0 thiago
+12/07/2023
+     23399
+tarifa bancaria 
+11/07/2023
+                 0
+2110
+mix banestes cc 22787014
+férias
+  20
+      2.727,77
+       0 thiago
+12/07/2023
+     23396
+ lançamento cp: 13233, título baixado: mat.0089 2122, credor: 444 (italo fernandes pinheiro), vencimento: 10/07/23, valor pag
+o: 2727.77
+11/07/2023
+                 0
+2612
+mix banestes cc 22787014
+tarifa folha de pagamento
+  20
+          1,50
+       0 thiago
+12/07/2023
+     23397
+tarifa antecipação de float 
+11/07/2023
+                 1
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      1.255,00
+       0 thiago
+12/07/2023
+     23400
+ lançamento cp: 13335, título baixado: 1, credor: 825 (leonardo da costa sousa), vencimento: 11/07/23, valor pago: 1255.00
+    3.989,37
+total do dia:
+12/07/2023
+                 0
+2109
+mix banestes cc 22787014
+rescisões / a pedido
+  20
+        255,32
+       0 thiago
+12/07/2023
+     23394
+ lançamento cp: 13327, título baixado: mat.0533 rescis, credor: 50418 (christian dos santos ferreira), vencimento: 12/07/23, 
+valor pago: 255.32
+12/07/2023
+                 0
+2612
+mix banestes cc 22787014
+tarifa folha de pagamento
+  20
+          1,50
+       0 thiago
+12/07/2023
+     23395
+tarifa folha pagto 
+12/07/2023
+               702
+2238
+mix sicoob cc 1400118
+despesas com crachá
+  21
+        408,00
+       0 thiago
+12/07/2023
+     23402
+ lançamento cp: 13339, título baixado: 702, credor: 340 (anderson souza da silva), vencimento: 12/07/23, valor pago: 408.00
+      664,82
+total do dia:
+13/07/2023
+             18269
+2103
+mix banestes cc 22787014
+vale transporte
+  20
+        337,01
+       0 thiago
+17/07/2023
+     23418
+ lançamento cp: 13368, título baixado: 18269, credor: 252 (viacao planeta), vencimento: 13/07/23, valor pago: 337.01
+13/07/2023
+           1247173
+2103
+mix sicoob cc 1400118
+vale transporte
+  21
+         45,00
+       0 thiago
+17/07/2023
+     23447
+ lançamento cp: 13362, título baixado: 1247173, credor: 251 (gvbus-sindicato das empresas de transpor), vencimento: 13/07/23,
+ valor pago: 45.00
+13/07/2023
+           1248399
+2103
+mix sicoob cc 1400118
+vale transporte
+  21
+         45,00
+       0 thiago
+17/07/2023
+     23443
+ lançamento cp: 13373, título baixado: 1248399, credor: 251 (gvbus-sindicato das empresas de transpor), vencimento: 13/07/23,
+ valor pago: 45.00
+13/07/2023
+           1248828
+2103
+mix sicoob cc 1400118
+vale transporte
+  21
+        180,00
+       0 thiago
+17/07/2023
+     23444
+ lançamento cp: 13372, título baixado: 1248828, credor: 251 (gvbus-sindicato das empresas de transpor), vencimento: 13/07/23,
+     5
+04/08/2023
+radm140
+mix service ltda - me
+rpl segurança privada ltda
+lista lançamentos de caixa
+data:
+pag:
+gesoper:
+data documento
+origem
+destino
+valor chequeusuário
+dt.lan.
+lancto
+data operação
+período:
+a
+01/07/2023
+31/07/2023
+ valor pago: 180.00
+13/07/2023
+           1248460
+2103
+mix sicoob cc 1400118
+vale transporte
+  21
+      8.466,60
+       0 thiago
+17/07/2023
+     23445
+ lançamento cp: 13371, título baixado: 1248460, credor: 251 (gvbus-sindicato das empresas de transpor), vencimento: 13/07/23,
+ valor pago: 8466.60
+13/07/2023
+           1248811
+2103
+mix sicoob cc 1400118
+vale transporte
+  21
+      8.510,00
+       0 thiago
+17/07/2023
+     23446
+ lançamento cp: 13370, título baixado: 1248811, credor: 251 (gvbus-sindicato das empresas de transpor), vencimento: 13/07/23,
+ valor pago: 8510.00
+   17.583,61
+total do dia:
+14/07/2023
+                 0
+2110
+mix banestes cc 22787014
+férias
+  20
+      1.974,03
+       0 thiago
+17/07/2023
+     23419
+ lançamento cp: 13234, título baixado: mat.0132 2223, credor: 477 (marilda lithenelde), vencimento: 14/07/23, valor pago: 197
+4.03
+14/07/2023
+                 0
+2612
+mix banestes cc 22787014
+tarifa folha de pagamento
+  20
+          1,50
+       0 thiago
+17/07/2023
+     23420
+tarifa folha pagto 
+14/07/2023
+              2299
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+      3.839,91
+       0 thiago
+17/07/2023
+     23448
+ lançamento cr: 6621, título baixado: 2299, cliente: 49 (lippaus distribuição eireli), vencimento: 20/07/23, valor pago: 3839
+.91
+14/07/2023
+              2298
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      3.441,38
+       0 thiago
+17/07/2023
+     23449
+ lançamento cr: 6620, título baixado: 2298, cliente: 49 (lippaus distribuição eireli), vencimento: 20/07/23, valor pago: 3441
+.38
+14/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+          1,70
+       0 thiago
+17/07/2023
+     23450
+tarifa bancaria 
+    9.258,52
+total do dia:
+17/07/2023
+              2301
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+      3.839,91
+       0 thiago
+18/07/2023
+     23487
+ lançamento cr: 6623, título baixado: 2301, cliente: 595 (fluent logistica eireli), vencimento: 20/07/23, valor pago: 3839.91
+17/07/2023
+              2300
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      3.441,38
+       0 thiago
+18/07/2023
+     23486
+ lançamento cr: 6622, título baixado: 2300, cliente: 595 (fluent logistica eireli), vencimento: 20/07/23, valor pago: 3441.38
+17/07/2023
+              2316
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     10.411,57
+       0 thiago
+18/07/2023
+     23485
+ lançamento cr: 6681, título baixado: 2316, cliente: 967 (l.i.s.a logistica integrada sulamericana s.a), vencimento: 17/07/23
+, valor pago: 10411.57
+17/07/2023
+              2317
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+        421,66
+       0 thiago
+18/07/2023
+     23484
+ lançamento cr: 6682, título baixado: 2317, cliente: 967 (l.i.s.a logistica integrada sulamericana s.a), vencimento: 17/07/23
+, valor pago: 421.66
+17/07/2023
+              2315
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     11.102,84
+       0 thiago
+18/07/2023
+     23483
+ lançamento cr: 6680, título baixado: 2315, cliente: 649 (l.i.s.a logistica integrada sulamericana s.a), vencimento: 17/07/23
+, valor pago: 11102.84
+17/07/2023
+               121
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      8.000,00
+       0 thiago
+18/07/2023
+     23482
+ lançamento cp: 13390, título baixado: 121, credor: 821 (enter solucoes ambientais ltda), vencimento: 17/07/23, valor pago: 8
+000.00
+17/07/2023
+             37531
+2308
+mix sicoob cc 1400118
+material limpeza operação
+  21
+        424,04
+       0 thiago
+18/07/2023
+     23481
+ lançamento cp: 13196, título baixado: 37531, credor: 331 (d.a. rodrigues me), vencimento: 17/07/23, valor pago: 424.04
+17/07/2023
+             52023
+2705
+mix sicoob cc 1400118
+issqn pj
+  21
+         55,96
+       0 thiago
+18/07/2023
+     23480
+ lançamento cp: 13058, título baixado: 052023 mix, credor: 207 (prefeitura da serra), vencimento: 17/07/23, valor pago: 55.96
+17/07/2023
+           2305550
+2104
+mix sicoob cc 1400118
+convênio médico / plano de saúde
+  21
+     15.378,95
+       0 thiago
+18/07/2023
+     23479
+ lançamento cp: 13309, título baixado: 2305550, credor: 330 (samp espirito santo assistencia medica ltda), vencimento: 15/07/
+23, valor pago: 15378.95
+17/07/2023
+              3939
+2213
+mix sicoob cc 1400118
+escritório contábil
+  21
+      1.745,00
+       0 thiago
+18/07/2023
+     23478
+ lançamento cp: 13216, título baixado: 3939, credor: 217 (condate serviços de contabilidade eireli), vencimento: 15/07/23, va
+lor pago: 1745.00
+17/07/2023
+                 0
+2114
+mix sicoob cc 1400118
+pro labóre
+  21
+     45.107,72
+       0 thiago
+18/07/2023
+     23477
+17/07/2023
+                 0
+2114
+mix sicoob cc 1400118
+pro labóre
+  21
+     45.107,72
+       0 thiago
+18/07/2023
+     23476
+17/07/2023
+                 0
+2109
+mix banestes cc 22787014
+rescisões / a pedido
+  20
+      1.421,61
+       0 thiago
+17/07/2023
+     23421
+     6
+04/08/2023
+radm140
+mix service ltda - me
+rpl segurança privada ltda
+lista lançamentos de caixa
+data:
+pag:
+gesoper:
+data documento
+origem
+destino
+valor chequeusuário
+dt.lan.
+lancto
+data operação
+período:
+a
+01/07/2023
+31/07/2023
+ lançamento cp: 13328, título baixado: mat.0233 rescis, credor: 50034 (jhonni reis de souza), vencimento: 14/07/23, valor pag
+o: 1421.61
+  146.458,36
+total do dia:
+18/07/2023
+           1251004
+2103
+mix sicoob cc 1400118
+vale transporte
+  21
+        225,00
+       0 thiago
+19/07/2023
+     23502
+ lançamento cp: 13398, título baixado: 1251004, credor: 251 (gvbus-sindicato das empresas de transpor), vencimento: 18/07/23,
+ valor pago: 225.00
+      225,00
+total do dia:
+19/07/2023
+           1252524
+2103
+mix sicoob cc 1400118
+vale transporte
+  21
+        207,00
+       0 thiago
+24/07/2023
+     23550
+ lançamento cp: 13406, título baixado: 1252524, credor: 251 (gvbus-sindicato das empresas de transpor), vencimento: 19/07/23,
+ valor pago: 207.00
+      207,00
+total do dia:
+20/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+         42,50
+       0 thiago
+24/07/2023
+     23544
+tarifa bancaria 
+       42,50
+total do dia:
+21/07/2023
+               519
+2225
+mix sicoob cc 1400118
+serviços de terceiros pj
+  21
+      1.036,57
+       0 thiago
+24/07/2023
+     23548
+ lançamento cp: 13400, título baixado: 519, credor: 204 (andre carneiro de sousa), vencimento: 21/07/23, valor pago: 1036.57
+21/07/2023
+             52936
+2235
+mix sicoob cc 1400118
+material de limpeza
+  21
+        159,00
+       0 thiago
+24/07/2023
+     23547
+ lançamento cp: 13197, título baixado: 52936, credor: 43 (defagro defensivos agricolas ltda), vencimento: 21/07/23, valor pag
+o: 159.00
+21/07/2023
+            931821
+2102
+mix sicoob cc 1400118
+vale alimentação
+  21
+        287,04
+       0 thiago
+24/07/2023
+     23546
+ lançamento cp: 13407, título baixado: 931821, credor: 211 (comprocard), vencimento: 20/07/23, valor pago: 280.32
+21/07/2023
+             13381
+2308
+mix sicoob cc 1400118
+material limpeza operação
+  21
+        253,46
+       0 thiago
+24/07/2023
+     23545
+ lançamento cp: 13188, título baixado: 13381, credor: 752 (foral fornecedora alianca comercial eireli), vencimento: 20/07/23,
+ valor pago: 253.04
+21/07/2023
+             62023
+2107
+mix sicoob cc 1400118
+inss
+  21
+     42.073,37
+       0 thiago
+24/07/2023
+     23543
+ lançamento cp: 13410, título baixado: 062023 inss mix, credor: 224 (ministerio da previdencia e assistencia), vencimento: 21
+/07/23, valor pago: 42073.37
+21/07/2023
+          62023595
+2712
+mix sicoob cc 1400118
+csll/pis/cofins
+  21
+         17,44
+       0 thiago
+24/07/2023
+     23542
+ lançamento cp: 13392, título baixado: 062023 5952 mix, credor: 223 (ministerio da fazenda), vencimento: 20/07/23, valor pago
+: 17.39
+   43.826,88
+total do dia:
+24/07/2023
+                 0
+2119
+mix sicoob cc 1400118
+ações trabalhistas
+  21
+      1.800,00
+       0 thiago
+24/07/2023
+     23541
+ lançamento cp: 13329, título baixado: acao trabalhist, credor: 50397 (djamila de souza satyro), vencimento: 24/07/23, valor 
+pago: 1800.00
+    1.800,00
+total do dia:
+25/07/2023
+              6619
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     22.249,32
+       0 thiago
+28/07/2023
+     23584
+ movimento por retorno -  lançamento cr: 6619, título baixado: 2297, cliente: 25 (fucape pesquisa ensino e participações s/a)
+, vencimento: 25/07/23, valor pago: 22249.32
+25/07/2023
+              6595
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+      9.560,50
+       0 thiago
+28/07/2023
+     23583
+ movimento por retorno -  lançamento cr: 6595, título baixado: 2287, cliente: 1057 (enivix ltda), vencimento: 25/07/23, valor
+ pago: 9560.50
+25/07/2023
+              6585
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+      9.568,10
+       0 thiago
+28/07/2023
+     23582
+ movimento por retorno -  lançamento cr: 6585, título baixado: 2277, cliente: 332 (enivix tims filial), vencimento: 25/07/23,
+ valor pago: 9568.10
+25/07/2023
+              6493
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     14.779,27
+       0 thiago
+28/07/2023
+     23581
+ movimento por retorno -  lançamento cr: 6493, título baixado: 2264, cliente: 8 (sociedade regional de ensino e saude ltda), 
+vencimento: 25/07/23, valor pago: 14779.27
+25/07/2023
+             62023
+2702
+mix sicoob cc 1400118
+cofins pj
+  21
+      2.072,50
+       0 thiago
+28/07/2023
+     23572
+ lançamento cp: 13438, título baixado: 062023 cof mix, credor: 223 (ministerio da fazenda), vencimento: 25/07/23, valor pago:
+ 2072.50
+     7
+04/08/2023
+radm140
+mix service ltda - me
+rpl segurança privada ltda
+lista lançamentos de caixa
+data:
+pag:
+gesoper:
+data documento
+origem
+destino
+valor chequeusuário
+dt.lan.
+lancto
+data operação
+período:
+a
+01/07/2023
+31/07/2023
+25/07/2023
+             26080
+2200
+mix sicoob cc 1400118
+aluguel de imóveis
+  21
+        208,82
+       0 thiago
+28/07/2023
+     23578
+ lançamento cp: 13380, título baixado: 26080, credor: 262 (regus do brasil ltda), vencimento: 25/07/23, valor pago: 208.82
+25/07/2023
+             72023
+2205
+mix sicoob cc 1400118
+telefone celular
+  21
+        312,80
+       0 thiago
+28/07/2023
+     23577
+ lançamento cp: 13365, título baixado: 072023 chip, credor: 201 (telefonica brasil s.a.), vencimento: 25/07/23, valor pago: 3
+12.80
+25/07/2023
+             72023
+2205
+mix sicoob cc 1400118
+telefone celular
+  21
+      3.641,90
+       0 thiago
+28/07/2023
+     23576
+ lançamento cp: 13364, título baixado: 072023 postos, credor: 201 (telefonica brasil s.a.), vencimento: 25/07/23, valor pago:
+ 3641.90
+25/07/2023
+                 0
+2102
+mix sicoob cc 1400118
+vale alimentação
+  21
+      5.123,99
+       0 thiago
+28/07/2023
+     23575
+ lançamento cp: 13144, título baixado: negociacao mix, credor: 211 (comprocard), vencimento: 25/07/23, valor pago: 5123.99
+25/07/2023
+            967555
+2105
+mix sicoob cc 1400118
+seguro de vida
+  21
+        659,88
+       0 thiago
+28/07/2023
+     23574
+ lançamento cp: 13403, título baixado: 967555, credor: 273 (mapfre vida s.a.), vencimento: 25/07/23, valor pago: 659.88
+25/07/2023
+             62023
+2703
+mix sicoob cc 1400118
+pis pj
+  21
+        450,69
+       0 thiago
+28/07/2023
+     23573
+ lançamento cp: 13437, título baixado: 062023 pis mix, credor: 223 (ministerio da fazenda), vencimento: 25/07/23, valor pago:
+ 450.69
+25/07/2023
+                 0
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+        665,92
+       0 thiago
+28/07/2023
+     23571
+ lançamento cp: 13446, título baixado: e licitacoes, credor: 368 (banco do brasil s/a), vencimento: 25/07/23, valor pago: 665
+.92
+   69.293,69
+total do dia:
+26/07/2023
+                 0
+2612
+mix banestes cc 22787014
+tarifa folha de pagamento
+  20
+          1,50
+       0 thiago
+28/07/2023
+     23587
+tarifa folha pagto 
+26/07/2023
+                 0
+2109
+mix banestes cc 22787014
+rescisões / a pedido
+  20
+        807,39
+       0 thiago
+28/07/2023
+     23586
+ lançamento cp: 13402, título baixado: mat.0540 rescis, credor: 50419 (jose jorge silva de souza), vencimento: 26/07/23, valo
+r pago: 807.39
+26/07/2023
+              6627
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     13.687,74
+       0 thiago
+28/07/2023
+     23585
+ movimento por retorno -  lançamento cr: 6627, título baixado: 2305, cliente: 1141 (brasil outdoor ltda), vencimento: 31/07/2
+3, valor pago: 13687.74
+26/07/2023
+                 0
+  20
+mix sicoob cc 1400118
+mix banestes cc 22787014
+  21
+      5.000,00
+       0 thiago
+28/07/2023
+     23579
+   19.496,63
+total do dia:
+27/07/2023
+                 0
+2109
+mix banestes cc 22787014
+rescisões / a pedido
+  20
+        642,30
+       0 thiago
+28/07/2023
+     23588
+ lançamento cp: 13451, título baixado: mat.0553 rescis, credor: 50420 (veronica da silva costa de souza), vencimento: 27/07/2
+3, valor pago: 642.30
+27/07/2023
+            934515
+2102
+mix sicoob cc 1400118
+vale alimentação
+  21
+        311,09
+       0 thiago
+28/07/2023
+     23580
+ lançamento cp: 13454, título baixado: 934515, credor: 211 (comprocard), vencimento: 27/07/23, valor pago: 311.09
+      953,39
+total do dia:
+28/07/2023
+           1264814
+2103
+mix sicoob cc 1400118
+vale transporte
+  21
+         45,00
+       0 thiago
+31/07/2023
+     23618
+ lançamento cp: 13459, título baixado: 1264814, credor: 251 (gvbus-sindicato das empresas de transpor), vencimento: 28/07/23,
+ valor pago: 45.00
+28/07/2023
+              6686
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+     14.233,44
+       0 thiago
+31/07/2023
+     23612
+ movimento por retorno -  lançamento cr: 6686, título baixado: 2318, cliente: 964 (vivarella administração e participações sa
+), vencimento: 28/07/23, valor pago: 14233.44
+28/07/2023
+              6659
+  21
+contrato de motorista
+mix sicoob cc 1400118
+1034
+      8.998,29
+       0 thiago
+31/07/2023
+     23611
+ movimento por retorno -  lançamento cr: 6659, título baixado: 2310, cliente: 21 (termeletrica viana s/a), vencimento: 01/08/
+23, valor pago: 8998.29
+28/07/2023
+              6658
+  21
+contratos de conservação
+mix sicoob cc 1400118
+1030
+     69.374,08
+       0 thiago
+31/07/2023
+     23610
+ movimento por retorno -  lançamento cr: 6658, título baixado: 2309, cliente: 21 (termeletrica viana s/a), vencimento: 01/08/
+23, valor pago: 69374.08
+   92.650,81
+total do dia:
+31/07/2023
+              2319
+  21
+contratos de portaria
+mix sicoob cc 1400118
+1031
+      3.632,55
+       0 thiago
+01/08/2023
+     23623
+ lançamento cr: 6756, título baixado: 2319, cliente: 4 (atacado sao paulo ltda), vencimento: 01/08/23, valor pago: 3632.55
+31/07/2023
+                 0
+2600
+mix sicoob cc 1400118
+cobrança bancária
+  21
+          1,70
+       0 thiago
+01/08/2023
+     23622
+     8
+04/08/2023
+radm140
+mix service ltda - me
+rpl segurança privada ltda
+lista lançamentos de caixa
+data:
+pag:
+gesoper:
+data documento
+origem
+destino
+valor chequeusuário
+dt.lan.
+lancto
+data operação
+período:
+a
+01/07/2023
+31/07/2023
+tarifa bancaria 
+31/07/2023
+                15
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      2.500,00
+       0 thiago
+31/07/2023
+     23614
+ lançamento cp: 13463, título baixado: 15, credor: 824 (antonio daniel de sousa costa), vencimento: 31/07/23, valor pago: 250
+0.00
+31/07/2023
+                54
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      6.600,00
+       0 thiago
+31/07/2023
+     23613
+ lançamento cp: 13462, título baixado: 54, credor: 823 (halcantara desenvolvimento e consultoria em tecnol), vencimento: 31/0
+7/23, valor pago: 6600.00
+31/07/2023
+          13150091
+2105
+mix sicoob cc 1400118
+seguro de vida
+  21
+        188,48
+       0 thiago
+31/07/2023
+     23617
+ lançamento cp: 13387, título baixado: 13150091, credor: 582 (clube pasi de seguros), vencimento: 31/07/23, valor pago: 188.4
+8
+31/07/2023
+             39321
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      1.255,00
+       0 thiago
+31/07/2023
+     23616
+ lançamento cp: 13460, título baixado: 39321, credor: 829 (nelio lima da silva), vencimento: 31/07/23, valor pago: 1255.00
+31/07/2023
+                 5
+2211
+mix sicoob cc 1400118
+manutenção / aluguel software
+  21
+      3.500,00
+       0 thiago
+31/07/2023
+     23615
+ lançamento cp: 13461, título baixado: 5, credor: 822 (juvenal amarante de souza neto), vencimento: 31/07/23, valor pago: 350
+0.00
+   17.677,73
+total do dia:
+hora:
+fim do relatório
+total de lançamentos
+valor total de lançamentos
+       136
+15:13:06
+          1.219.472,62

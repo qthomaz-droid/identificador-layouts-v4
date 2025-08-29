@@ -1,0 +1,2572 @@
+up brasil 
+extrato de transações 
+ 
+data transacao
+estabelecimento
+produto
+nome lancamento
+meio captura
+data repasse
+autorizacao
+nome usuario
+nsu
+empresa 
+origem
+cartao
+terminal
+vl.crédito
+vl.débito
+vl.saldo
+repasse: 20/06/2025
+total:
+r$ 13462,85
+r$ 1916,68
+r$ 11546,17
+cartão adiantamento salarial
+total produto:
+r$ 240,21
+r$ -240,21
+r$ 0
+20/04/2025 03:16
+horti verde
+cartao 
+adiantamento 
+salarial
+guia policard
+lancamento programado(281122)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 0
+r$ 3,31
+r$ -3,31
+21/04/2025 09:56
+horti verde
+cartao 
+adiantamento 
+salarial
+estorno guia policard
+lancamento programado(281122)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 3,31
+r$ 0
+r$ 0,00
+21/04/2025 09:56
+horti verde
+cartao 
+adiantamento 
+salarial
+[r] guia policard
+lancamento programado(281122)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 0
+r$ 3,31
+r$ -3,31
+02/05/2025 03:07
+horti verde
+cartao 
+adiantamento 
+salarial
+mensalidade meios de captura
+cobranca por transacao (0 / qtd 
+transacoes: 101)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 0
+r$ 76,76
+r$ -80,07
+03/05/2025 05:41
+horti verde
+cartao 
+adiantamento 
+salarial
+estorno mensalidade meios de 
+captura transacao
+cobranca por transacao (0 / qtd 
+transacoes: 101)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 76,76
+r$ 0
+r$ -3,31
+03/05/2025 05:41
+horti verde
+cartao 
+adiantamento 
+salarial
+[r] mensalidade meios de captura
+cobranca por transacao (0 / qtd 
+transacoes: 101)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 0
+r$ 76,76
+r$ -80,07
+10/05/2025 03:53
+horti verde
+cartao 
+adiantamento 
+salarial
+transferencia de debito entre 
+produtos
+credito do produto cartao 
+adiantamento salarial referente ao 
+repasse 20/06/2025
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 80,07
+r$ 0
+r$ 0,00
+10/05/2025 06:40
+horti verde
+cartao 
+adiantamento 
+salarial
+[es] guia policard
+lancamento programado(281122)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 3,31
+r$ 0
+r$ 3,31
+10/05/2025 06:40
+horti verde
+cartao 
+adiantamento 
+salarial
+[ef] guia policard
+lancamento programado(281122)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 0
+r$ 3,31
+r$ 0,00
+10/05/2025 06:43
+horti verde
+cartao 
+adiantamento 
+salarial
+[es] mensalidade meios de captura
+cobranca por transacao (0 / qtd 
+transacoes: 101)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 76,76
+r$ 0
+r$ 76,76
+10/05/2025 06:43
+horti verde
+cartao 
+adiantamento 
+salarial
+[ef] mensalidade meios de captura
+cobranca por transacao (0 / qtd 
+transacoes: 101)
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 0
+r$ 76,76
+r$ 0,00
+alimentação up brasil
+total produto:
+r$ 5278,85
+r$ -718,18
+r$ 4560,67
+10/04/2025 04:06
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250410160606353
+sabrina dias linhares
+000003
+policard
+3083.45xx.xxxx.6650
+00010011
+r$ 156,21
+r$ 0
+r$ 156,21
+10/04/2025 04:06
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250410160606353
+sabrina dias linhares
+000003
+policard
+3083.45xx.xxxx.6650
+00010011
+r$ 0
+r$ 18,39
+r$ 137,82
+10/04/2025 04:23
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250410162312157
+wanderson togneri gomes
+000004
+policard
+3083.45xx.xxxx.5343
+00000012
+r$ 51,03
+r$ 0
+r$ 188,85
+10/04/2025 04:23
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250410162312157
+wanderson togneri gomes
+000004
+policard
+3083.45xx.xxxx.5343
+00000012
+r$ 0
+r$ 6,01
+r$ 182,84
+10/04/2025 04:53
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250410165352110
+alci matos araujo
+000005
+policard
+3083.45xx.xxxx.3440
+00010011
+r$ 179,93
+r$ 0
+r$ 362,77
+10/04/2025 04:53
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250410165352110
+alci matos araujo
+000005
+policard
+3083.45xx.xxxx.3440
+00010011
+r$ 0
+r$ 21,18
+r$ 341,59
+10/04/2025 05:10
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250410171050300
+leandra a h bortoloti
+000006
+policard
+3083.45xx.xxxx.7651
+00000012
+r$ 27,97
+r$ 0
+r$ 369,56
+10/04/2025 05:10
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250410171050300
+leandra a h bortoloti
+000006
+policard
+3083.45xx.xxxx.7651
+00000012
+r$ 0
+r$ 3,29
+r$ 366,27
+11/04/2025 03:41
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250411154126327
+ana amelia barbosa
+500005
+policard
+3083.45xx.xxxx.7656
+00000001
+r$ 34,59
+r$ 0
+r$ 400,86
+11/04/2025 03:41
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250411154126327
+ana amelia barbosa
+500005
+policard
+3083.45xx.xxxx.7656
+00000001
+r$ 0
+r$ 4,07
+r$ 396,79
+11/04/2025 04:24
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250411162445930
+wanderson togneri gomes
+500006
+policard
+3083.45xx.xxxx.5343
+00000001
+r$ 108,06
+r$ 0
+r$ 504,85
+11/04/2025 04:24
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250411162445930
+wanderson togneri gomes
+500006
+policard
+3083.45xx.xxxx.5343
+00000001
+r$ 0
+r$ 12,72
+r$ 492,13
+data transacao
+estabelecimento
+produto
+nome lancamento
+meio captura
+data repasse
+autorizacao
+nome usuario
+nsu
+empresa 
+origem
+cartao
+terminal
+vl.crédito
+vl.débito
+vl.saldo
+11/04/2025 04:30
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250411163001817
+jociane cardoso ribeiro
+500007
+policard
+3083.45xx.xxxx.7650
+00010011
+r$ 3,99
+r$ 0
+r$ 496,12
+11/04/2025 04:30
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250411163001817
+jociane cardoso ribeiro
+500007
+policard
+3083.45xx.xxxx.7650
+00010011
+r$ 0
+r$ 0,47
+r$ 495,65
+11/04/2025 04:56
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250411165643560
+jociane cardoso ribeiro
+500008
+policard
+3083.45xx.xxxx.7650
+00010011
+r$ 200
+r$ 0
+r$ 695,65
+11/04/2025 04:56
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250411165643560
+jociane cardoso ribeiro
+500008
+policard
+3083.45xx.xxxx.7650
+00010011
+r$ 0
+r$ 23,54
+r$ 672,11
+11/04/2025 05:40
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250411174043273
+elisangela a menezes koppe
+500011
+policard
+3083.45xx.xxxx.6655
+00000001
+r$ 15,99
+r$ 0
+r$ 688,10
+11/04/2025 05:40
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250411174043273
+elisangela a menezes koppe
+500011
+policard
+3083.45xx.xxxx.6655
+00000001
+r$ 0
+r$ 1,88
+r$ 686,22
+12/04/2025 08:17
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250412081745123
+sirlene v lameira
+000002
+policard
+3083.45xx.xxxx.7652
+00010011
+r$ 207,49
+r$ 0
+r$ 893,71
+12/04/2025 08:17
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250412081745123
+sirlene v lameira
+000002
+policard
+3083.45xx.xxxx.7652
+00010011
+r$ 0
+r$ 24,42
+r$ 869,29
+12/04/2025 09:05
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250412090529403
+delson geraldo deambrozi
+000003
+policard
+3083.45xx.xxxx.7343
+00010011
+r$ 399,77
+r$ 0
+r$ 1269,06
+12/04/2025 09:05
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250412090529403
+delson geraldo deambrozi
+000003
+policard
+3083.45xx.xxxx.7343
+00010011
+r$ 0
+r$ 47,05
+r$ 1222,01
+12/04/2025 10:12
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250412101252710
+christian pascoal 
+goncalves
+000004
+policard
+3083.45xx.xxxx.2143
+00010011
+r$ 74,12
+r$ 0
+r$ 1296,13
+12/04/2025 10:12
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250412101252710
+christian pascoal 
+goncalves
+000004
+policard
+3083.45xx.xxxx.2143
+00010011
+r$ 0
+r$ 8,72
+r$ 1287,41
+12/04/2025 10:53
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250412105304660
+marcos alexandre pereira
+000005
+policard
+3083.45xx.xxxx.6542
+00010011
+r$ 16,99
+r$ 0
+r$ 1304,40
+12/04/2025 10:53
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250412105304660
+marcos alexandre pereira
+000005
+policard
+3083.45xx.xxxx.6542
+00010011
+r$ 0
+r$ 2
+r$ 1302,40
+12/04/2025 11:57
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250412115730150
+cristiane dalmazio
+000006
+policard
+3083.45xx.xxxx.7652
+00000012
+r$ 195,99
+r$ 0
+r$ 1498,39
+12/04/2025 11:57
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250412115730150
+cristiane dalmazio
+000006
+policard
+3083.45xx.xxxx.7652
+00000012
+r$ 0
+r$ 23,07
+r$ 1475,32
+12/04/2025 12:06
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250412120650227
+cristiane dalmazio
+000007
+policard
+3083.45xx.xxxx.7652
+00000012
+r$ 35,65
+r$ 0
+r$ 1510,97
+12/04/2025 12:06
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250412120650227
+cristiane dalmazio
+000007
+policard
+3083.45xx.xxxx.7652
+00000012
+r$ 0
+r$ 4,2
+r$ 1506,77
+12/04/2025 01:44
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250412134458120
+delson geraldo deambrozi
+000008
+policard
+3083.45xx.xxxx.7343
+00000014
+r$ 99,66
+r$ 0
+r$ 1606,43
+12/04/2025 01:44
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250412134458120
+delson geraldo deambrozi
+000008
+policard
+3083.45xx.xxxx.7343
+00000014
+r$ 0
+r$ 11,73
+r$ 1594,70
+14/04/2025 10:36
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250414103639630
+aluizio r rohr
+000003
+policard
+3083.45xx.xxxx.1944
+00000001
+r$ 23,62
+r$ 0
+r$ 1618,32
+14/04/2025 10:36
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250414103639630
+aluizio r rohr
+000003
+policard
+3083.45xx.xxxx.1944
+00000001
+r$ 0
+r$ 2,78
+r$ 1615,54
+15/04/2025 05:56
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250415175601003
+delson geraldo deambrozi
+500005
+policard
+3083.45xx.xxxx.7343
+00010011
+r$ 127,18
+r$ 0
+r$ 1742,72
+15/04/2025 05:56
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250415175601003
+delson geraldo deambrozi
+500005
+policard
+3083.45xx.xxxx.7343
+00010011
+r$ 0
+r$ 14,97
+r$ 1727,75
+16/04/2025 09:25
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250416092543923
+aluizio r rohr
+000002
+policard
+3083.45xx.xxxx.1944
+00000012
+r$ 21,82
+r$ 0
+r$ 1749,57
+16/04/2025 09:25
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250416092543923
+aluizio r rohr
+000002
+policard
+3083.45xx.xxxx.1944
+00000012
+r$ 0
+r$ 2,57
+r$ 1747,00
+16/04/2025 11:29
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250416112928693
+christian pascoal 
+goncalves
+000004
+policard
+3083.45xx.xxxx.2143
+00000013
+r$ 10,48
+r$ 0
+r$ 1757,48
+16/04/2025 11:29
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250416112928693
+christian pascoal 
+goncalves
+000004
+policard
+3083.45xx.xxxx.2143
+00000013
+r$ 0
+r$ 1,23
+r$ 1756,25
+16/04/2025 11:41
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250416114134600
+christian pascoal 
+goncalves
+000005
+policard
+3083.45xx.xxxx.2143
+00000013
+r$ 28,19
+r$ 0
+r$ 1784,44
+16/04/2025 11:41
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250416114134600
+christian pascoal 
+goncalves
+000005
+policard
+3083.45xx.xxxx.2143
+00000013
+r$ 0
+r$ 3,32
+r$ 1781,12
+16/04/2025 05:26
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250416172645320
+felipe camargo ferreira
+000007
+policard
+3083.45xx.xxxx.6046
+00000001
+r$ 31,6
+r$ 0
+r$ 1812,72
+16/04/2025 05:26
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250416172645320
+felipe camargo ferreira
+000007
+policard
+3083.45xx.xxxx.6046
+00000001
+r$ 0
+r$ 3,72
+r$ 1809,00
+17/04/2025 09:02
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250417090209863
+christian pascoal 
+goncalves
+500003
+policard
+3083.45xx.xxxx.2143
+00000014
+r$ 15,16
+r$ 0
+r$ 1824,16
+data transacao
+estabelecimento
+produto
+nome lancamento
+meio captura
+data repasse
+autorizacao
+nome usuario
+nsu
+empresa 
+origem
+cartao
+terminal
+vl.crédito
+vl.débito
+vl.saldo
+17/04/2025 09:02
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250417090209863
+christian pascoal 
+goncalves
+500003
+policard
+3083.45xx.xxxx.2143
+00000014
+r$ 0
+r$ 1,78
+r$ 1822,38
+17/04/2025 09:29
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250417092949717
+ana amelia barbosa
+500004
+policard
+3083.45xx.xxxx.7656
+00000012
+r$ 11,61
+r$ 0
+r$ 1833,99
+17/04/2025 09:29
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250417092949717
+ana amelia barbosa
+500004
+policard
+3083.45xx.xxxx.7656
+00000012
+r$ 0
+r$ 1,37
+r$ 1832,62
+17/04/2025 11:29
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250417112904077
+aluizio r rohr
+500007
+policard
+3083.45xx.xxxx.1944
+00000012
+r$ 119,22
+r$ 0
+r$ 1951,84
+17/04/2025 11:29
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250417112904077
+aluizio r rohr
+500007
+policard
+3083.45xx.xxxx.1944
+00000012
+r$ 0
+r$ 14,03
+r$ 1937,81
+19/04/2025 10:44
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250419104435550
+aline a r silva
+500007
+policard
+3083.45xx.xxxx.7651
+00010011
+r$ 24,94
+r$ 0
+r$ 1962,75
+19/04/2025 10:44
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250419104435550
+aline a r silva
+500007
+policard
+3083.45xx.xxxx.7651
+00010011
+r$ 0
+r$ 2,94
+r$ 1959,81
+19/04/2025 11:18
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250419111851203
+aluizio r rohr
+500008
+policard
+3083.45xx.xxxx.1944
+00000013
+r$ 60,69
+r$ 0
+r$ 2020,50
+19/04/2025 11:18
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250419111851203
+aluizio r rohr
+500008
+policard
+3083.45xx.xxxx.1944
+00000013
+r$ 0
+r$ 7,14
+r$ 2013,36
+19/04/2025 01:00
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250419130049497
+wanderson togneri gomes
+500011
+policard
+3083.45xx.xxxx.5343
+00010011
+r$ 528,05
+r$ 0
+r$ 2541,41
+19/04/2025 01:00
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250419130049497
+wanderson togneri gomes
+500011
+policard
+3083.45xx.xxxx.5343
+00010011
+r$ 0
+r$ 62,15
+r$ 2479,26
+22/04/2025 11:21
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250422112136727
+aluizio r rohr
+000002
+policard
+3083.45xx.xxxx.1944
+00000012
+r$ 111,75
+r$ 0
+r$ 2591,01
+22/04/2025 11:21
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250422112136727
+aluizio r rohr
+000002
+policard
+3083.45xx.xxxx.1944
+00000012
+r$ 0
+r$ 13,15
+r$ 2577,86
+23/04/2025 10:35
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250423103550420
+ducino pereira barros
+500003
+policard
+3083.45xx.xxxx.4341
+00010011
+r$ 12,17
+r$ 0
+r$ 2590,03
+23/04/2025 10:35
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250423103550420
+ducino pereira barros
+500003
+policard
+3083.45xx.xxxx.4341
+00010011
+r$ 0
+r$ 1,43
+r$ 2588,60
+23/04/2025 01:13
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250423131307377
+aluizio r rohr
+500005
+policard
+3083.45xx.xxxx.1944
+00010011
+r$ 14,32
+r$ 0
+r$ 2602,92
+23/04/2025 01:13
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250423131307377
+aluizio r rohr
+500005
+policard
+3083.45xx.xxxx.1944
+00010011
+r$ 0
+r$ 1,69
+r$ 2601,23
+24/04/2025 11:24
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250424112427930
+ducino pereira barros
+000002
+policard
+3083.45xx.xxxx.4341
+00000012
+r$ 50,91
+r$ 0
+r$ 2652,14
+24/04/2025 11:24
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250424112427930
+ducino pereira barros
+000002
+policard
+3083.45xx.xxxx.4341
+00000012
+r$ 0
+r$ 5,99
+r$ 2646,15
+24/04/2025 11:38
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250424113851157
+ducino pereira barros
+000004
+policard
+3083.45xx.xxxx.4341
+00000012
+r$ 38,73
+r$ 0
+r$ 2684,88
+24/04/2025 11:38
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250424113851157
+ducino pereira barros
+000004
+policard
+3083.45xx.xxxx.4341
+00000012
+r$ 0
+r$ 4,56
+r$ 2680,32
+24/04/2025 11:43
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250424114314293
+aline a r silva
+000005
+policard
+3083.45xx.xxxx.7651
+00000001
+r$ 27,65
+r$ 0
+r$ 2707,97
+24/04/2025 11:43
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250424114314293
+aline a r silva
+000005
+policard
+3083.45xx.xxxx.7651
+00000001
+r$ 0
+r$ 3,25
+r$ 2704,72
+24/04/2025 05:09
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250424170944357
+aline a r silva
+000006
+policard
+3083.45xx.xxxx.7651
+00000012
+r$ 5,29
+r$ 0
+r$ 2710,01
+24/04/2025 05:09
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250424170944357
+aline a r silva
+000006
+policard
+3083.45xx.xxxx.7651
+00000012
+r$ 0
+r$ 0,62
+r$ 2709,39
+25/04/2025 11:57
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250425115755640
+aluizio r rohr
+500003
+policard
+3083.45xx.xxxx.1944
+00000013
+r$ 7,01
+r$ 0
+r$ 2716,40
+25/04/2025 11:57
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250425115755640
+aluizio r rohr
+500003
+policard
+3083.45xx.xxxx.1944
+00000013
+r$ 0
+r$ 0,83
+r$ 2715,57
+25/04/2025 05:22
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250425172249787
+delson geraldo deambrozi
+500005
+policard
+3083.45xx.xxxx.7343
+00000014
+r$ 105
+r$ 0
+r$ 2820,57
+25/04/2025 05:22
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250425172249787
+delson geraldo deambrozi
+500005
+policard
+3083.45xx.xxxx.7343
+00000014
+r$ 0
+r$ 12,36
+r$ 2808,21
+26/04/2025 10:49
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250426104915737
+aline a r silva
+000004
+policard
+3083.45xx.xxxx.7651
+00000013
+r$ 38,46
+r$ 0
+r$ 2846,67
+26/04/2025 10:49
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250426104915737
+aline a r silva
+000004
+policard
+3083.45xx.xxxx.7651
+00000013
+r$ 0
+r$ 4,53
+r$ 2842,14
+26/04/2025 12:36
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250426123636743
+wanderson togneri gomes
+000006
+policard
+3083.45xx.xxxx.5343
+00000001
+r$ 28,97
+r$ 0
+r$ 2871,11
+26/04/2025 12:36
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250426123636743
+wanderson togneri gomes
+000006
+policard
+3083.45xx.xxxx.5343
+00000001
+r$ 0
+r$ 3,41
+r$ 2867,70
+data transacao
+estabelecimento
+produto
+nome lancamento
+meio captura
+data repasse
+autorizacao
+nome usuario
+nsu
+empresa 
+origem
+cartao
+terminal
+vl.crédito
+vl.débito
+vl.saldo
+29/04/2025 04:00
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250429160053263
+aluizio r rohr
+500004
+policard
+3083.45xx.xxxx.1944
+00010011
+r$ 26,71
+r$ 0
+r$ 2894,41
+29/04/2025 04:00
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250429160053263
+aluizio r rohr
+500004
+policard
+3083.45xx.xxxx.1944
+00010011
+r$ 0
+r$ 3,14
+r$ 2891,27
+29/04/2025 04:47
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250429164739823
+wanderson togneri gomes
+500005
+policard
+3083.45xx.xxxx.5343
+00000013
+r$ 160,34
+r$ 0
+r$ 3051,61
+29/04/2025 04:47
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250429164739823
+wanderson togneri gomes
+500005
+policard
+3083.45xx.xxxx.5343
+00000013
+r$ 0
+r$ 18,87
+r$ 3032,74
+30/04/2025 09:52
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250430095200387
+aluizio r rohr
+000002
+policard
+3083.45xx.xxxx.1944
+00000001
+r$ 22,48
+r$ 0
+r$ 3055,22
+30/04/2025 09:52
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250430095200387
+aluizio r rohr
+000002
+policard
+3083.45xx.xxxx.1944
+00000001
+r$ 0
+r$ 2,65
+r$ 3052,57
+02/05/2025 10:27
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250502102726643
+rafael do amparo medeiros
+000003
+policard
+3083.45xx.xxxx.6041
+00010011
+r$ 275,73
+r$ 0
+r$ 3328,30
+02/05/2025 10:27
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250502102726643
+rafael do amparo medeiros
+000003
+policard
+3083.45xx.xxxx.6041
+00010011
+r$ 0
+r$ 32,45
+r$ 3295,85
+02/05/2025 01:26
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250502132620557
+marcelo p e santo
+000004
+policard
+3083.45xx.xxxx.6040
+00000014
+r$ 70,7
+r$ 0
+r$ 3366,55
+02/05/2025 01:26
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250502132620557
+marcelo p e santo
+000004
+policard
+3083.45xx.xxxx.6040
+00000014
+r$ 0
+r$ 8,32
+r$ 3358,23
+03/05/2025 10:50
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250503105017960
+elisangela a menezes koppe
+500004
+policard
+3083.45xx.xxxx.6655
+00000012
+r$ 172,5
+r$ 0
+r$ 3530,73
+03/05/2025 10:50
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250503105017960
+elisangela a menezes koppe
+500004
+policard
+3083.45xx.xxxx.6655
+00000012
+r$ 0
+r$ 20,3
+r$ 3510,43
+03/05/2025 11:04
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250503110444940
+elisangela a menezes koppe
+500005
+policard
+3083.45xx.xxxx.6655
+00000012
+r$ 55,25
+r$ 0
+r$ 3565,68
+03/05/2025 11:04
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250503110444940
+elisangela a menezes koppe
+500005
+policard
+3083.45xx.xxxx.6655
+00000012
+r$ 0
+r$ 6,5
+r$ 3559,18
+03/05/2025 11:27
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250503112749953
+aline a r silva
+500008
+policard
+3083.45xx.xxxx.7651
+00000001
+r$ 5,96
+r$ 0
+r$ 3565,14
+03/05/2025 11:27
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250503112749953
+aline a r silva
+500008
+policard
+3083.45xx.xxxx.7651
+00000001
+r$ 0
+r$ 0,7
+r$ 3564,44
+03/05/2025 12:21
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250503122126373
+ducino pereira barros
+500010
+policard
+3083.45xx.xxxx.4341
+00010011
+r$ 31
+r$ 0
+r$ 3595,44
+03/05/2025 12:21
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250503122126373
+ducino pereira barros
+500010
+policard
+3083.45xx.xxxx.4341
+00010011
+r$ 0
+r$ 3,65
+r$ 3591,79
+05/05/2025 04:41
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250505164153797
+aluizio r rohr
+500002
+policard
+3083.45xx.xxxx.1944
+00000001
+r$ 60,44
+r$ 0
+r$ 3652,23
+05/05/2025 04:41
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250505164153797
+aluizio r rohr
+500002
+policard
+3083.45xx.xxxx.1944
+00000001
+r$ 0
+r$ 7,11
+r$ 3645,12
+05/05/2025 05:14
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250505171437400
+aline a r silva
+500003
+policard
+3083.45xx.xxxx.7651
+00000012
+r$ 49,91
+r$ 0
+r$ 3695,03
+05/05/2025 05:14
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250505171437400
+aline a r silva
+500003
+policard
+3083.45xx.xxxx.7651
+00000012
+r$ 0
+r$ 5,87
+r$ 3689,16
+06/05/2025 08:49
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250506084911263
+eliomar costa dias
+000003
+policard
+3083.45xx.xxxx.7545
+00000014
+r$ 434,39
+r$ 0
+r$ 4123,55
+06/05/2025 08:49
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250506084911263
+eliomar costa dias
+000003
+policard
+3083.45xx.xxxx.7545
+00000014
+r$ 0
+r$ 51,13
+r$ 4072,42
+06/05/2025 05:17
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250506171747740
+aluizio r rohr
+000005
+policard
+3083.45xx.xxxx.1944
+00010011
+r$ 72,52
+r$ 0
+r$ 4144,94
+06/05/2025 05:17
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250506171747740
+aluizio r rohr
+000005
+policard
+3083.45xx.xxxx.1944
+00010011
+r$ 0
+r$ 8,54
+r$ 4136,40
+07/05/2025 03:07
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250507150731570
+alcebiades s cardoso
+500003
+policard
+3083.45xx.xxxx.0446
+00000001
+r$ 68,74
+r$ 0
+r$ 4205,14
+07/05/2025 03:07
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250507150731570
+alcebiades s cardoso
+500003
+policard
+3083.45xx.xxxx.0446
+00000001
+r$ 0
+r$ 8,09
+r$ 4197,05
+07/05/2025 05:11
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250507171102677
+aline a r silva
+500004
+policard
+3083.45xx.xxxx.7651
+00000012
+r$ 18,56
+r$ 0
+r$ 4215,61
+07/05/2025 05:11
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250507171102677
+aline a r silva
+500004
+policard
+3083.45xx.xxxx.7651
+00000012
+r$ 0
+r$ 2,18
+r$ 4213,43
+07/05/2025 05:46
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250507174654903
+delson geraldo deambrozi
+500007
+policard
+3083.45xx.xxxx.7343
+00000012
+r$ 299,66
+r$ 0
+r$ 4513,09
+07/05/2025 05:46
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250507174654903
+delson geraldo deambrozi
+500007
+policard
+3083.45xx.xxxx.7343
+00000012
+r$ 0
+r$ 35,27
+r$ 4477,82
+08/05/2025 10:15
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250508101551620
+aluizio r rohr
+000002
+policard
+3083.45xx.xxxx.1944
+00000012
+r$ 11,61
+r$ 0
+r$ 4489,43
+data transacao
+estabelecimento
+produto
+nome lancamento
+meio captura
+data repasse
+autorizacao
+nome usuario
+nsu
+empresa 
+origem
+cartao
+terminal
+vl.crédito
+vl.débito
+vl.saldo
+08/05/2025 10:15
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250508101551620
+aluizio r rohr
+000002
+policard
+3083.45xx.xxxx.1944
+00000012
+r$ 0
+r$ 1,37
+r$ 4488,06
+08/05/2025 12:41
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250508124123857
+alcebiades s cardoso
+000003
+policard
+3083.45xx.xxxx.0446
+00010011
+r$ 157,63
+r$ 0
+r$ 4645,69
+08/05/2025 12:41
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250508124123857
+alcebiades s cardoso
+000003
+policard
+3083.45xx.xxxx.0446
+00010011
+r$ 0
+r$ 18,55
+r$ 4627,14
+09/05/2025 10:38
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250509103812120
+aluizio r rohr
+500005
+policard
+3083.45xx.xxxx.1944
+00000014
+r$ 1,99
+r$ 0
+r$ 4629,13
+09/05/2025 10:38
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250509103812120
+aluizio r rohr
+500005
+policard
+3083.45xx.xxxx.1944
+00000014
+r$ 0
+r$ 0,23
+r$ 4628,90
+09/05/2025 12:12
+horti verde
+alimentacao up 
+brasil
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250509121210053
+provisorio 44
+500008
+policard
+3083.45xx.xxxx.0654
+00010011
+r$ 32,47
+r$ 0
+r$ 4661,37
+09/05/2025 12:12
+horti verde
+alimentacao up 
+brasil
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250509121210053
+provisorio 44
+500008
+policard
+3083.45xx.xxxx.0654
+00010011
+r$ 0
+r$ 3,82
+r$ 4657,55
+10/05/2025 03:53
+horti verde
+alimentacao up 
+brasil
+transferencia de debito entre 
+produtos
+debito lancado no produto 
+alimentacao up brasil referente ao 
+repasse 20/06/2025
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 0
+r$ 80,07
+r$ 4577,48
+10/05/2025 03:58
+horti verde
+alimentacao up 
+brasil
+tarifa operacional
+tarifa sob repasse 
+doc/ted/transf 20/06/2025 
+gerada automaticamente pelo 
+sistema
+20/06/2025 12:00
+- 
+- 
+policard
+- 
+- 
+r$ 0
+r$ 16,81
+r$ 4560,67
+auxílio alimentação
+total produto:
+r$ 1249,38
+r$ -120,88
+r$ 1128,5
+10/04/2025 06:22
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250410182207813
+carlos e w rossi
+000007
+policard
+3083.45xx.xxxx.3652
+00000012
+r$ 59,49
+r$ 0
+r$ 59,49
+10/04/2025 06:22
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250410182207813
+carlos e w rossi
+000007
+policard
+3083.45xx.xxxx.3652
+00000012
+r$ 0
+r$ 4,96
+r$ 54,53
+11/04/2025 02:06
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250411140624423
+urronilson maciel batista
+500002
+policard
+3083.45xx.xxxx.8441
+00000014
+r$ 119,55
+r$ 0
+r$ 174,08
+11/04/2025 02:06
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250411140624423
+urronilson maciel batista
+500002
+policard
+3083.45xx.xxxx.8441
+00000014
+r$ 0
+r$ 9,96
+r$ 164,12
+11/04/2025 05:17
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250411171738520
+joziane salvador gomes
+500010
+policard
+3083.45xx.xxxx.3653
+00000014
+r$ 7,38
+r$ 0
+r$ 171,50
+11/04/2025 05:17
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250411171738520
+joziane salvador gomes
+500010
+policard
+3083.45xx.xxxx.3653
+00000014
+r$ 0
+r$ 0,61
+r$ 170,89
+15/04/2025 09:09
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250415090928327
+amir ressoni freitas
+500002
+policard
+3083.45xx.xxxx.4653
+00010011
+r$ 225,62
+r$ 0
+r$ 396,51
+15/04/2025 09:09
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250415090928327
+amir ressoni freitas
+500002
+policard
+3083.45xx.xxxx.4653
+00010011
+r$ 0
+r$ 18,79
+r$ 377,72
+16/04/2025 06:13
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250416181324820
+carlos e w rossi
+000008
+policard
+3083.45xx.xxxx.3652
+00000001
+r$ 39,25
+r$ 0
+r$ 416,97
+16/04/2025 06:13
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250416181324820
+carlos e w rossi
+000008
+policard
+3083.45xx.xxxx.3652
+00000001
+r$ 0
+r$ 3,27
+r$ 413,70
+17/04/2025 10:20
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250417102049977
+urronilson maciel batista
+500005
+policard
+3083.45xx.xxxx.8441
+00010011
+r$ 62,12
+r$ 0
+r$ 475,82
+17/04/2025 10:20
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250417102049977
+urronilson maciel batista
+500005
+policard
+3083.45xx.xxxx.8441
+00010011
+r$ 0
+r$ 5,17
+r$ 470,65
+17/04/2025 06:46
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250417184606307
+amir ressoni freitas
+500011
+policard
+3083.45xx.xxxx.4653
+00000012
+r$ 6,87
+r$ 0
+r$ 477,52
+17/04/2025 06:46
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250417184606307
+amir ressoni freitas
+500011
+policard
+3083.45xx.xxxx.4653
+00000012
+r$ 0
+r$ 0,57
+r$ 476,95
+19/04/2025 10:23
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250419102317720
+antonio gabriel gomes
+500006
+policard
+3083.45xx.xxxx.3652
+00000014
+r$ 32,4
+r$ 0
+r$ 509,35
+19/04/2025 10:23
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250419102317720
+antonio gabriel gomes
+500006
+policard
+3083.45xx.xxxx.3652
+00000014
+r$ 0
+r$ 2,7
+r$ 506,65
+19/04/2025 11:31
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250419113130993
+urronilson maciel batista
+500009
+policard
+3083.45xx.xxxx.8441
+00000013
+r$ 52,06
+r$ 0
+r$ 558,71
+19/04/2025 11:31
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250419113130993
+urronilson maciel batista
+500009
+policard
+3083.45xx.xxxx.8441
+00000013
+r$ 0
+r$ 4,34
+r$ 554,37
+19/04/2025 12:06
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250419120600537
+urronilson maciel batista
+500010
+policard
+3083.45xx.xxxx.8441
+00000012
+r$ 52,98
+r$ 0
+r$ 607,35
+19/04/2025 12:06
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250419120600537
+urronilson maciel batista
+500010
+policard
+3083.45xx.xxxx.8441
+00000012
+r$ 0
+r$ 4,41
+r$ 602,94
+24/04/2025 06:12
+horti verde
+auxilio 
+alimentacao
+te - venda a vista
+rede policard - tef
+20/06/2025 12:00
+120250424181220017
+carlos e w rossi
+000008
+policard
+3083.45xx.xxxx.3652
+00000001
+r$ 44,7
+r$ 0
+r$ 647,64
+24/04/2025 06:12
+horti verde
+auxilio 
+alimentacao
+te - comissao
+rede policard - tef
+20/06/2025 12:00
+120250424181220017
+carlos e w rossi
+000008
+policard
+3083.45xx.xxxx.3652
+00000001
+r$ 0
+r$ 3,72
+r$ 643,92

@@ -1,0 +1,1888 @@
+gera construcao
+emissão: 30/04/2025
+pca. gilberto miranda,480 (74)3659-2064 centro varzea nova
+mega news informática - megaflex gestão 4.1.0.4603
+fluxo de caixa                      <<<  período: 01/01/2025 a 30/03/2025 >>>
+loja: 0001-gera construcao
+pag.:0001
+loja
+data
+espécie
+hist.
+descrição do lançamento
+receita
+despesa
+tipo relatório: somente despesa/banco - analíitco
+001
+02/01/2025
+dinheiro
+0011 capim ferro
+3.337,89
+001
+02/01/2025
+dinheiro
+0011 martins comercio
+471,66
+001
+02/01/2025
+dinheiro
+0011 ovd importadora
+311,39
+001
+02/01/2025
+banco
+0011 pg. 11-kep - tubos e conexoes
+3.347,94
+001
+02/01/2025
+banco
+0011 pg. 316-negao
+606,57
+001
+02/01/2025
+banco
+0011 pg. 376-inovacao
+370,93
+001
+02/01/2025
+banco
+0011 pg. 39-martins
+292,06
+001
+02/01/2025
+banco
+0011 pg. 639-amev importadora e distribuidora 
+589,49
+001
+02/01/2025
+banco
+0011 pg. 86-fortlev
+835,64
+001
+02/01/2025
+banco
+0011 pg. 86-fortlev
+853,83
+001
+02/01/2025
+dinheiro
+0048 cheque 850870
+658,67
+001
+03/01/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+413,12
+001
+03/01/2025
+banco
+0011 pg. 307-bartofil distribuidora
+505,38
+001
+03/01/2025
+banco
+0011 pg. 384-asperbras
+798,59
+001
+03/01/2025
+banco
+0011 pg. 500-********
+1.007,57
+001
+03/01/2025
+dinheiro
+0011 pix auto peças freire
+1.470,00
+001
+05/01/2025
+dinheiro
+0510 tarifa pag
+6,90
+001
+05/01/2025
+dinheiro
+0510 tarifa pag
+7,90
+001
+06/01/2025
+dinheiro
+0011 ovd importadora
+509,23
+001
+06/01/2025
+banco
+0011 pg. 100-tramontina
+585,35
+001
+06/01/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+1.681,98
+001
+06/01/2025
+banco
+0011 pg. 376-inovacao
+318,04
+001
+06/01/2025
+banco
+0011 pg. 48-dimacol
+537,46
+001
+06/01/2025
+banco
+0011 pg. 48-dimacol
+1.579,42
+001
+06/01/2025
+banco
+0011 pg. 500-********
+386,72
+001
+06/01/2025
+banco
+0011 pg. 500-********
+661,53
+001
+06/01/2025
+banco
+0011 pg. 750-nova casa dist mat const s/a ba f
+1.068,91
+001
+06/01/2025
+banco
+0011 pg. 750-nova casa dist mat const s/a ba f
+1.406,95
+001
+06/01/2025
+banco
+0011 pg. 837-bestfer
+1.135,66
+001
+06/01/2025
+banco
+0011 pg. 93-distac
+410,08
+001
+06/01/2025
+dinheiro
+0011 pisos
+6.230,95
+001
+07/01/2025
+dinheiro
+0048 cheque 850874
+3.578,36
+001
+08/01/2025
+dinheiro
+0048 devolução cheque
+581,25
+001
+08/01/2025
+dinheiro
+0510 venda cancelada pag
+201,21
+001
+09/01/2025
+dinheiro
+0011 ovd importadora
+349,05
+001
+09/01/2025
+dinheiro
+0011 ovd importadora
+840,66
+001
+09/01/2025
+banco
+0011 pg. 115-cesbap
+3.667,03
+001
+09/01/2025
+banco
+0011 pg. 307-bartofil distribuidora
+351,18
+001
+09/01/2025
+banco
+0011 pg. 376-inovacao
+505,15
+001
+09/01/2025
+banco
+0011 pg. 39-martins
+227,37
+001
+09/01/2025
+banco
+0011 pg. 48-dimacol
+645,28
+001
+09/01/2025
+banco
+0011 pg. 48-dimacol
+821,36
+001
+09/01/2025
+banco
+0011 pg. 724-vucan e-commerce industria e come
+420,33
+001
+09/01/2025
+banco
+0011 pg. 86-fortlev
+384,30
+001
+09/01/2025
+dinheiro
+0018 dae
+1.625,22
+001
+09/01/2025
+dinheiro
+0048 cheque 850883
+6.200,00
+001
+09/01/2025
+dinheiro
+0048 cheque 850885
+2.067,00
+001
+09/01/2025
+dinheiro
+0048 cheque 850905
+3.147,51
+001
+10/01/2025
+dinheiro
+0011 consorcio bb
+2.091,27
+001
+10/01/2025
+dinheiro
+0011 consorcio bb
+2.848,80
+001
+10/01/2025
+dinheiro
+0011 embasa
+74,12
+001
+10/01/2025
+banco
+0011 pg. 307-bartofil distribuidora
+220,59
+001
+10/01/2025
+banco
+0011 pg. 750-nova casa dist mat const s/a ba f
+415,13
+001
+10/01/2025
+banco
+0011 pg. 87-ajr
+2.222,00
+001
+10/01/2025
+dinheiro
+0027 hiper check
+213,69
+001
+10/01/2025
+dinheiro
+0048 rebloqueio de depósito cheque
+581,25
+001
+10/01/2025
+dinheiro
+0048 recloqueio de depósito
+17.000,00
+001
+10/01/2025
+dinheiro
+0060 tarifa bb
+122,30
+001
+13/01/2025
+dinheiro
+0011 capim ferro
+707,58
+001
+13/01/2025
+banco
+0011 pg. 10-mercante
+342,71
+001
+13/01/2025
+banco
+0011 pg. 100-tramontina
+345,34
+001
+13/01/2025
+banco
+0011 pg. 100-tramontina
+410,90
+001
+13/01/2025
+banco
+0011 pg. 100-tramontina
+1.368,19
+001
+13/01/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+542,39
+001
+13/01/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+969,48
+001
+13/01/2025
+banco
+0011 pg. 376-inovacao
+1.759,63
+001
+13/01/2025
+banco
+0011 pg. 48-dimacol
+1.008,22
+001
+13/01/2025
+banco
+0011 pg. 48-dimacol
+1.287,55
+001
+13/01/2025
+banco
+0011 pg. 546-almeida com dist mat const ltda
+644,30
+001
+13/01/2025
+banco
+0011 pg. 750-nova casa dist mat const s/a ba f
+1.362,10
+001
+13/01/2025
+banco
+0011 pg. 777-nasha ind. e com. ltda.
+597,86
+001
+13/01/2025
+banco
+0011 pg. 819-condor
+350,71
+001
+13/01/2025
+banco
+0011 pg. 834-repor - oper - estoque facil - vema
+294,16
+001
+13/01/2025
+banco
+0011 pg. 86-fortlev
+1.840,96
+001
+13/01/2025
+dinheiro
+0048 cheque 850904
+5.200,00
+001
+13/01/2025
+dinheiro
+0048 devolução de cheque
+581,25
+001
+13/01/2025
+dinheiro
+0048 devolução de cheque
+17.000,00
+001
+13/01/2025
+dinheiro
+0510 venda cancelada pag
+343,50
+001
+14/01/2025
+dinheiro
+0011 fdc transportes
+2.180,46
+gera construcao
+emissão: 30/04/2025
+pca. gilberto miranda,480 (74)3659-2064 centro varzea nova
+mega news informática - megaflex gestão 4.1.0.4603
+fluxo de caixa                      <<<  período: 01/01/2025 a 30/03/2025 >>>
+loja: 0001-gera construcao
+pag.:0002
+loja
+data
+espécie
+hist.
+descrição do lançamento
+receita
+despesa
+tipo relatório: somente despesa/banco - analíitco
+001
+14/01/2025
+dinheiro
+0011 ovd importadora
+311,38
+001
+14/01/2025
+dinheiro
+0011 ovd impotadora
+349,03
+001
+14/01/2025
+banco
+0011 pg. 307-bartofil distribuidora
+423,31
+001
+14/01/2025
+banco
+0011 pg. 39-martins
+227,35
+001
+14/01/2025
+banco
+0011 pg. 39-martins
+292,05
+001
+14/01/2025
+banco
+0011 pg. 834-repor - oper - estoque facil - vema
+310,28
+001
+14/01/2025
+dinheiro
+0026 mega news
+632,00
+001
+14/01/2025
+dinheiro
+0048 cheque 850914
+2.874,50
+001
+14/01/2025
+dinheiro
+0060 tarifa bb
+0,35
+001
+15/01/2025
+dinheiro
+0060 tarifa bb
+3,70
+001
+15/01/2025
+dinheiro
+0510 venda cancelada pag
+21,34
+001
+16/01/2025
+dinheiro
+0048 rebloqueio de depósito
+812,50
+001
+16/01/2025
+dinheiro
+0048 rebloqueio de depósito
+17.000,00
+001
+17/01/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+989,74
+001
+17/01/2025
+banco
+0011 pg. 307-bartofil distribuidora
+455,61
+001
+17/01/2025
+banco
+0011 pg. 376-inovacao
+664,80
+001
+17/01/2025
+banco
+0011 pg. 826-dht distribuidor de tintas - irece
+1.855,01
+001
+17/01/2025
+dinheiro
+0011 vc distribuidora
+4.074,81
+001
+17/01/2025
+dinheiro
+0048 cheque 850855
+1.515,00
+001
+20/01/2025
+banco
+0011
+377,08
+001
+20/01/2025
+dinheiro
+0011 econet
+629,64
+001
+20/01/2025
+dinheiro
+0011 joao albino
+470,68
+001
+20/01/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+1.677,66
+001
+20/01/2025
+banco
+0011 pg. 316-negao
+682,83
+001
+20/01/2025
+banco
+0011 pg. 48-dimacol
+1.674,79
+001
+20/01/2025
+banco
+0011 pg. 500-********
+883,44
+001
+20/01/2025
+banco
+0011 pg. 636-indústria de plásticos herc ltda
+270,38
+001
+20/01/2025
+banco
+0011 pg. 651-graciani & manfetoni ltda epp
+1.428,94
+001
+20/01/2025
+banco
+0011 pg. 750-nova casa dist mat const s/a ba f
+707,67
+001
+20/01/2025
+banco
+0011 pg. 777-nasha ind. e com. ltda.
+544,75
+001
+20/01/2025
+dinheiro
+0011 positiva
+4.859,40
+001
+20/01/2025
+dinheiro
+0021 fgts
+2.831,47
+001
+20/01/2025
+dinheiro
+0048 cheque 850840
+1.056,30
+001
+20/01/2025
+dinheiro
+0048 cheque 850863
+2.928,00
+001
+20/01/2025
+dinheiro
+0514 orcoma
+1.412,00
+001
+21/01/2025
+dinheiro
+0011 claro s/a
+96,63
+001
+21/01/2025
+dinheiro
+0011 claro s/a
+351,79
+001
+21/01/2025
+dinheiro
+0011 coelba
+108,22
+001
+21/01/2025
+banco
+0011 pg. 316-negao
+601,61
+001
+21/01/2025
+banco
+0011 pg. 500-********
+526,13
+001
+21/01/2025
+banco
+0011 pg. 826-dht distribuidor de tintas - irece
+547,05
+001
+21/01/2025
+banco
+0011 pg. 86-fortlev
+1.359,73
+001
+21/01/2025
+dinheiro
+0048 cheque 850898
+6.579,98
+001
+22/01/2025
+dinheiro
+0048 cheque 850901
+2.091,00
+001
+22/01/2025
+dinheiro
+0060 tarifa bb
+7,89
+001
+23/01/2025
+dinheiro
+0011 nw negocios
+1.648,59
+001
+23/01/2025
+dinheiro
+0011 ovd importadora
+349,03
+001
+23/01/2025
+dinheiro
+0011 ovd importadora
+840,66
+001
+23/01/2025
+banco
+0011 pg. 39-martins
+227,35
+001
+23/01/2025
+banco
+0011 pg. 48-dimacol
+821,36
+001
+23/01/2025
+banco
+0011 pg. 86-fortlev
+384,29
+001
+23/01/2025
+dinheiro
+0011 pix enviado para gustavo
+5.200,00
+001
+23/01/2025
+dinheiro
+0515 telefone oi
+50,29
+001
+23/01/2025
+dinheiro
+0515 telefone oi
+63,44
+001
+23/01/2025
+dinheiro
+0515 telefone oi
+93,37
+001
+23/01/2025
+dinheiro
+0515 telefone oi
+93,49
+001
+23/01/2025
+dinheiro
+0515 telefone oi
+121,75
+001
+23/01/2025
+dinheiro
+0515 telefone oi
+131,13
+001
+23/01/2025
+dinheiro
+0515 telefone oi
+143,44
+001
+27/01/2025
+dinheiro
+0048 cheque 850866
+1.079,80
+001
+27/01/2025
+dinheiro
+0060 tarifa bb
+6,50
+001
+27/01/2025
+dinheiro
+0060 tarifa bb
+64,80
+001
+27/01/2025
+dinheiro
+0061 tarifa caixa
+75,00
+001
+28/01/2025
+dinheiro
+0011 darf
+681,86
+001
+28/01/2025
+dinheiro
+0011 darf
+1.136,44
+001
+28/01/2025
+dinheiro
+0011 nw negocios
+133,73
+001
+28/01/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+484,67
+001
+28/01/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+989,73
+001
+28/01/2025
+banco
+0011 pg. 307-bartofil distribuidora
+220,58
+001
+28/01/2025
+banco
+0011 pg. 307-bartofil distribuidora
+351,18
+001
+28/01/2025
+banco
+0011 pg. 316-negao
+669,36
+001
+28/01/2025
+banco
+0011 pg. 48-dimacol
+504,75
+001
+28/01/2025
+banco
+0011 pg. 639-amev importadora e distribuidora 
+589,48
+001
+28/01/2025
+dinheiro
+0011 positiva
+4.859,40
+001
+30/01/2025
+dinheiro
+0048 cheque 850871
+658,66
+001
+30/01/2025
+dinheiro
+0510 venda cancelada pag
+77,41
+001
+31/01/2025
+dinheiro
+0011 dae ipva
+2.520,86
+001
+31/01/2025
+dinheiro
+0011 dae ipva
+3.344,76
+001
+03/02/2025
+dinheiro
+0011 capim ferro
+707,58
+gera construcao
+emissão: 30/04/2025
+pca. gilberto miranda,480 (74)3659-2064 centro varzea nova
+mega news informática - megaflex gestão 4.1.0.4603
+fluxo de caixa                      <<<  período: 01/01/2025 a 30/03/2025 >>>
+loja: 0001-gera construcao
+pag.:0003
+loja
+data
+espécie
+hist.
+descrição do lançamento
+receita
+despesa
+tipo relatório: somente despesa/banco - analíitco
+001
+03/02/2025
+dinheiro
+0011 capim ferro
+3.337,88
+001
+03/02/2025
+dinheiro
+0011 nw negocios
+2.287,29
+001
+03/02/2025
+banco
+0011 pg. 100-tramontina
+585,35
+001
+03/02/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+484,67
+001
+03/02/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+542,38
+001
+03/02/2025
+banco
+0011 pg. 12-armarinho bartolomeu
+669,17
+001
+03/02/2025
+banco
+0011 pg. 376-inovacao
+318,04
+001
+03/02/2025
+banco
+0011 pg. 48-dimacol
+325,38
+001
+03/02/2025
+banco
+0011 pg. 500-********
+386,84
+001
+03/02/2025
+banco
+0011 pg. 500-********
+661,53
+001
+03/02/2025
+banco
+0011 pg. 500-********
+1.007,87
+001
+03/02/2025
+banco
+0011 pg. 750-nova casa dist mat const s/a ba f
+1.068,91
+001
+03/02/2025
+banco
+0011 pg. 750-nova casa dist mat const s/a ba f
+1.406,95
+001
+03/02/2025
+banco
+0011 pg. 93-distac
+410,08
+001
+04/02/2025
+banco
+0011 pg. 307-bartofil distribuidora
+455,61
+001
+04/02/2025
+banco
+0011 pg. 376-inovacao
+1.608,13
+001
+04/02/2025
+banco
+0011 pg. 396-krona
+1.188,93
+001
+04/02/2025
+banco
+0011 pg. 624-fcc - industria e comercio ltda
+966,83
+001
+04/02/2025
+banco
+0011 pg. 837-bestfer
+1.084,86
+001
+04/02/2025
+dinheiro
+0048 cheque 850900
+1.309,83
+001
+04/02/2025
+dinheiro
+0048 cheque 850913
+2.820,50
+001
+04/02/2025
+dinheiro
+0510 tarifa itau
+2,43
+001
+05/02/2025
+dinheiro
+0048 cheque 850877
+3.330,00
+001
+05/02/2025
+dinheiro
+0510 tarifa pag
+6,90
+001
+05/02/2025
+dinheiro
+0510 tarifa pag
+7,90
+001
+06/02/2025
+dinheiro
+0025 pix virtual net
+139,99
+001
+07/02/2025
+dinheiro
+0011 capim ferro
+1.360,00
+001
+07/02/2025
+dinheiro
+0011 embasa
+215,11
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+484,67
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+669,17
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+645,27
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+821,36
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00087-a.j.rorato & cia. lt
+2.224,74
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00100-tramontina nordeste 
+345,33
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00100-tramontina nordeste 
+1.368,18
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00724-vucan e-commerce ind
+420,33
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00750-nova casa dist mat c
+1.362,10
+001
+07/02/2025
+dinheiro
+0011 pag. fatura 00819-condor atacadista de
+350,72
+001
+07/02/2025
+dinheiro
+0011 pix euvaldo
+5.400,00
+001
+07/02/2025
+dinheiro
+0018 dae
+859,95
+001
+07/02/2025
+dinheiro
+0048 cheque 850875
+3.578,36
+001
+07/02/2025
+dinheiro
+0048 cheque 850884
+6.200,00
+001
+10/02/2025
+dinheiro
+0011 consorcio
+2.091,27
+001
+10/02/2025
+dinheiro
+0011 consorcio 
+2.848,80
+001
+10/02/2025
+dinheiro
+0027 hiper check
+229,05
+001
+10/02/2025
+dinheiro
+0048 cheque 850886
+2.066,50
+001
+10/02/2025
+dinheiro
+0048 cheque 850906
+3.147,40
+001
+10/02/2025
+dinheiro
+0060 tarifa bb
+122,30
+001
+12/02/2025
+dinheiro
+0011 pag. fatura 00010-mercante dist. de ma
+342,72
+001
+12/02/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+969,48
+001
+12/02/2025
+dinheiro
+0011 pag. fatura 00039-martins comercio e s
+2.442,98
+001
+12/02/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+1.287,54
+001
+12/02/2025
+dinheiro
+0011 pag. fatura 00376-idb atacadista de ma
+664,80
+001
+12/02/2025
+dinheiro
+0011 pag. fatura 00376-idb atacadista de ma
+3.728,70
+001
+12/02/2025
+dinheiro
+0011 pag. fatura 00546-almeida com dist mat
+644,29
+001
+12/02/2025
+dinheiro
+0011 pag. fatura 00819-condor atacadista de
+357,00
+001
+14/02/2025
+dinheiro
+0021 fgts 
+145,42
+001
+14/02/2025
+dinheiro
+0048 cheque 850878
+3.330,00
+001
+17/02/2025
+dinheiro
+0011 capim ferro
+553,50
+001
+17/02/2025
+dinheiro
+0011 hidrotintas
+2.660,93
+001
+17/02/2025
+dinheiro
+0011 pag. fatura 00086-fortlev nordeste ind
+932,05
+001
+17/02/2025
+dinheiro
+0011 pag. fatura 00396-krona tubos e conexo
+1.650,35
+001
+17/02/2025
+dinheiro
+0011 pag. fatura 00546-almeida com dist mat
+538,40
+001
+17/02/2025
+dinheiro
+0011 pag. fatura 00651-graciani & manfetoni
+1.428,94
+001
+17/02/2025
+dinheiro
+0025 internet
+139,99
+001
+17/02/2025
+dinheiro
+0026 mega news
+679,00
+001
+18/02/2025
+dinheiro
+0011 econet
+629,64
+001
+18/02/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+1.677,66
+001
+18/02/2025
+dinheiro
+0011 pag. fatura 00086-fortlev nordeste ind
+999,73
+001
+18/02/2025
+dinheiro
+0011 pag. fatura 00086-fortlev nordeste ind
+1.360,13
+001
+18/02/2025
+dinheiro
+0011 pag. fatura 00337-lider esq.de alumini
+2.459,57
+001
+18/02/2025
+dinheiro
+0048 cheque 850902
+2.091,00
+001
+19/02/2025
+dinheiro
+0011 pag. fatura 00039-martins comercio e s
+2.442,98
+001
+19/02/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+1.674,78
+001
+19/02/2025
+dinheiro
+0011 pag. fatura 00500-ebara bombas america
+883,72
+001
+19/02/2025
+dinheiro
+0011 pag. fatura 00624-fcc - industria e co
+966,83
+001
+19/02/2025
+dinheiro
+0011 pag. fatura 00826-dht tintas e complem
+547,05
+001
+19/02/2025
+dinheiro
+0021 fgts
+1.845,27
+001
+20/02/2025
+dinheiro
+0048 cheque 850918
+5.200,00
+gera construcao
+emissão: 30/04/2025
+pca. gilberto miranda,480 (74)3659-2064 centro varzea nova
+mega news informática - megaflex gestão 4.1.0.4603
+fluxo de caixa                      <<<  período: 01/01/2025 a 30/03/2025 >>>
+loja: 0001-gera construcao
+pag.:0004
+loja
+data
+espécie
+hist.
+descrição do lançamento
+receita
+despesa
+tipo relatório: somente despesa/banco - analíitco
+001
+20/02/2025
+dinheiro
+0514 contabilidade orcoma
+1.518,00
+001
+21/02/2025
+dinheiro
+0048 cheque 850899
+6.581,96
+001
+24/02/2025
+dinheiro
+0011 capim ferro
+707,58
+001
+24/02/2025
+dinheiro
+0011 coelba
+112,57
+001
+24/02/2025
+dinheiro
+0011 kep industria
+3.364,68
+001
+24/02/2025
+dinheiro
+0011 montcheco
+1.785,00
+001
+24/02/2025
+dinheiro
+0011 pag. fatura 00115-cesbap - centro sul 
+2.192,34
+001
+24/02/2025
+dinheiro
+0011 pag. fatura 00750-nova casa dist mat c
+558,54
+001
+24/02/2025
+dinheiro
+0011 pag. fatura 00819-condor atacadista de
+357,00
+001
+24/02/2025
+dinheiro
+0011 pag. fatura 00826-dht tintas e complem
+557,32
+001
+24/02/2025
+dinheiro
+0011 pag. fatura 00838- esquadrias metal si
+922,95
+001
+24/02/2025
+dinheiro
+0048 cheque 850915
+2.467,10
+001
+24/02/2025
+dinheiro
+0048 cheque 850919
+2.475,00
+001
+24/02/2025
+dinheiro
+0060 tarifa bb
+7,89
+001
+25/02/2025
+dinheiro
+0011 ovd importadora
+786,34
+001
+25/02/2025
+dinheiro
+0011 pag. fatura 00039-martins comercio e s
+2.442,98
+001
+25/02/2025
+dinheiro
+0011 pag. fatura 00316-ferragens negao com 
+754,97
+001
+25/02/2025
+dinheiro
+0011 pag. fatura 00396-krona tubos e conexo
+795,67
+001
+25/02/2025
+dinheiro
+0011 pag. fatura 00719-intercement brasil s
+9.647,99
+001
+25/02/2025
+dinheiro
+0011 socio rubenildes
+500,00
+001
+25/02/2025
+dinheiro
+0060 tarifa bb
+6,50
+001
+25/02/2025
+dinheiro
+0061 tarifa cef
+75,00
+001
+05/03/2025
+dinheiro
+0011 nw negocios
+107,66
+001
+05/03/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+1.994,90
+001
+05/03/2025
+dinheiro
+0011 pag. fatura 00333-ccm maquinas e motor
+1.398,14
+001
+05/03/2025
+dinheiro
+0011 pag. fatura 00384-asperbras tubos e co
+559,54
+001
+05/03/2025
+dinheiro
+0011 pag. fatura 00445-rsb plasticos ltda
+1.002,00
+001
+05/03/2025
+dinheiro
+0011 pag. fatura 00500-ebara bombas america
+661,73
+001
+05/03/2025
+dinheiro
+0011 pag. fatura 00819-condor atacadista de
+357,00
+001
+05/03/2025
+dinheiro
+0011 pag. fatura 00834-amev importadora e d
+1.145,76
+001
+06/03/2025
+dinheiro
+0510 tarifa itaú
+1,13
+001
+07/03/2025
+dinheiro
+0011 transferência enviada francisco j s irece
+6.000,00
+001
+07/03/2025
+dinheiro
+0048 cheque 850893
+6.200,00
+001
+07/03/2025
+dinheiro
+0048 cheque devolvido sem nominal
+581,25
+001
+10/03/2025
+dinheiro
+0011 capim ferro
+553,50
+001
+10/03/2025
+dinheiro
+0011 consorcio
+1.131,00
+001
+10/03/2025
+dinheiro
+0011 consorcio 
+2.091,27
+001
+10/03/2025
+dinheiro
+0011 embasa
+215,11
+001
+10/03/2025
+dinheiro
+0011 isoplast
+494,13
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+1.067,69
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+489,05
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00086-fortlev nordeste ind
+1.513,51
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00532-buffalo motores e ac
+705,59
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00624-fcc - industria e co
+967,12
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00724-vucan e-commerce ind
+420,34
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00750-nova casa dist mat c
+1.362,10
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00837-rio chen's importado
+1.084,87
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00839-hidrotintas ltda
+1.282,13
+001
+10/03/2025
+dinheiro
+0011 pag. fatura 00840-isoplast industria e
+262,62
+001
+10/03/2025
+dinheiro
+0027 hiper check
+229,05
+001
+10/03/2025
+dinheiro
+0048 cheque 850887
+2.066,50
+001
+10/03/2025
+dinheiro
+0048 cheque 850907
+3.147,50
+001
+10/03/2025
+dinheiro
+0060 tarifa  bb
+128,90
+001
+10/03/2025
+dinheiro
+0061 tarifa caixa
+36,50
+001
+13/03/2025
+dinheiro
+0011 pag. fatura 00086-fortlev nordeste ind
+921,18
+001
+13/03/2025
+dinheiro
+0011 pag. fatura 00137-araforros ind. e com
+7.104,80
+001
+13/03/2025
+dinheiro
+0011 pag. fatura 00376-idb atacadista de ma
+369,21
+001
+13/03/2025
+dinheiro
+0011 pag. fatura 00396-krona tubos e conexo
+822,63
+001
+13/03/2025
+dinheiro
+0011 pag. fatura 00546-almeida com dist mat
+644,29
+001
+13/03/2025
+dinheiro
+0011 pag. fatura 00552-soprano industria el
+1.855,14
+001
+13/03/2025
+dinheiro
+0011 pag. fatura 00834-amev importadora e d
+1.145,76
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00010-mercante dist. de ma
+310,68
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+746,05
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+1.067,69
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+566,09
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00086-fortlev nordeste ind
+932,05
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00100-tramontina nordeste 
+1.820,08
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00316-ferragens negao com 
+754,94
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00396-krona tubos e conexo
+1.058,60
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00508-drip-plan industria 
+1.242,00
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00532-buffalo motores e ac
+947,13
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00546-almeida com dist mat
+401,56
+001
+17/03/2025
+dinheiro
+0011 pag. fatura 00750-nova casa dist mat c
+448,06
+001
+17/03/2025
+dinheiro
+0011 venda pag cancelada
+552,00
+001
+17/03/2025
+dinheiro
+0025 virtual net
+139,99
+001
+17/03/2025
+dinheiro
+0026 mega news
+679,00
+001
+17/03/2025
+dinheiro
+0048 cheque 850920
+2.475,00
+001
+18/03/2025
+dinheiro
+0011 documentos acello
+1.115,10
+001
+18/03/2025
+dinheiro
+0011 tacografo acello 
+540,09
+gera construcao
+emissão: 30/04/2025
+pca. gilberto miranda,480 (74)3659-2064 centro varzea nova
+mega news informática - megaflex gestão 4.1.0.4603
+fluxo de caixa                      <<<  período: 01/01/2025 a 30/03/2025 >>>
+loja: 0001-gera construcao
+pag.:0005
+loja
+data
+espécie
+hist.
+descrição do lançamento
+receita
+despesa
+tipo relatório: somente despesa/banco - analíitco
+001
+18/03/2025
+dinheiro
+0060 tarifa bb
+7,80
+001
+19/03/2025
+dinheiro
+0011 ovd importadora
+899,28
+001
+19/03/2025
+dinheiro
+0011 ovd importadora
+1.205,33
+001
+19/03/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+1.677,66
+001
+19/03/2025
+dinheiro
+0011 pag. fatura 00039-martins comercio e s
+230,48
+001
+19/03/2025
+dinheiro
+0011 pag. fatura 00307-bartofil distribuido
+532,18
+001
+19/03/2025
+dinheiro
+0011 pag. fatura 00316-ferragens negao com 
+703,90
+001
+19/03/2025
+dinheiro
+0011 pag. fatura 00445-rsb plasticos ltda
+1.002,00
+001
+19/03/2025
+dinheiro
+0021 fgts
+1.631,13
+001
+19/03/2025
+dinheiro
+0060 tarifa bb
+3,90
+001
+19/03/2025
+dinheiro
+0514 contabilidade
+1.518,00
+001
+20/03/2025
+dinheiro
+0048 rebloqueio depósito de cheque
+100,00
+001
+21/03/2025
+dinheiro
+0048 rebloqueio depósito de cheque 
+100,00
+001
+24/03/2025
+dinheiro
+0011 capim ferro
+1.360,00
+001
+24/03/2025
+dinheiro
+0011 montcheco acos e ligas ltda
+1.785,00
+001
+24/03/2025
+dinheiro
+0011 nw negocios
+1.461,82
+001
+24/03/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+1.067,69
+001
+24/03/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+354,65
+001
+24/03/2025
+dinheiro
+0011 pag. fatura 00100-tramontina nordeste 
+873,21
+001
+24/03/2025
+dinheiro
+0011 pag. fatura 00750-nova casa dist mat c
+719,00
+001
+24/03/2025
+dinheiro
+0011 pag. fatura 00826-dht tintas e complem
+547,05
+001
+24/03/2025
+dinheiro
+0011 pag. fatura 00826-dht tintas e complem
+688,63
+001
+24/03/2025
+dinheiro
+0011 pag. fatura 00838- esquadrias metal si
+922,95
+001
+24/03/2025
+dinheiro
+0011 vale rio claro securitizadora de crédito s.a
+1.301,13
+001
+24/03/2025
+dinheiro
+0011 vale rio claro securitizadora de crédito s.a
+9.706,32
+001
+24/03/2025
+dinheiro
+0011 viqua industria de plasticos
+1.855,27
+001
+25/03/2025
+dinheiro
+0011 pag. fatura 00010-mercante dist. de ma
+327,68
+001
+25/03/2025
+dinheiro
+0011 pag. fatura 00012-tecidos e armarinhos
+757,75
+001
+25/03/2025
+dinheiro
+0011 pag. fatura 00048-vs distribuidora ltd
+489,05
+001
+25/03/2025
+dinheiro
+0011 pag. fatura 00316-ferragens negao com 
+532,08
+001
+25/03/2025
+dinheiro
+0018 dae
+124,00
+001
+25/03/2025
+dinheiro
+0018 dae
+4.410,31
+001
+25/03/2025
+dinheiro
+0018 dae icms
+5.529,09
+001
+25/03/2025
+dinheiro
+0048 cheque num 850903
+2.091,00
+001
+25/03/2025
+dinheiro
+0048 cheque num 850916
+2.467,10
+001
+25/03/2025
+dinheiro
+0060 tarifa bb
+6,50
+001
+25/03/2025
+dinheiro
+0061 tarifa caixa
+75,00
+001
+27/03/2025
+dinheiro
+0011 coelba
+110,17
+001
+27/03/2025
+dinheiro
+0011 pag. fatura 00086-fortlev nordeste ind
+921,18
+001
+27/03/2025
+dinheiro
+0011 pag. fatura 00316-ferragens negao com 
+496,67
+001
+27/03/2025
+dinheiro
+0011 pag. fatura 00333-ccm maquinas e motor
+1.397,72
+001
+27/03/2025
+dinheiro
+0011 pag. fatura 00567-tigre materiais e so
+517,13
+001
+27/03/2025
+dinheiro
+0011 pag. fatura 00831-remadi importacao e 
+1.215,77
+001
+27/03/2025
+dinheiro
+0011 roca sanitarios brasil ltda
+1.185,29
+001
+27/03/2025
+dinheiro
+0060 tarifa bb
+3,90
+001
+28/03/2025
+dinheiro
+0011 lb transportes - frete telhas
+3.279,30
+total=>
+0,00
+493.003,54

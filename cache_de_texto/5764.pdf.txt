@@ -1,0 +1,3173 @@
+1220 - títulos recebidos - analítico por dt. pagamento
+24/09/2024 11:12:51
+período baixa
+período pagamento
+01/08/2024  até  31/08/2024
+00/00/0000  até  00/00/0000
+cobrança
+cliente
+rca
+filial virtual?
+supervisor
+1
+'bk'
+todos os rcas
+todos os clientes
+todos supervisores permitidos
+todos os títulos baixados no período
+página: 1
+cod. func. baixou
+todos
+cod bco/cx baixa
+todos bancos permitidos
+transações de baixa
+todas
+dias atraso
+nenhum
+período vencimento
+00/00/0000  até  00/00/0000
+dias antecipação
+nenhum
+rota
+todas
+praça
+todas
+todos
+cobrador
+todas moedas permitidas
+moeda
+profissional
+todos
+portador
+todos
+filtros
+¨
+data de pagamento: 31/07/2024
+cliente
+fil.
+duplicata 
+dt.pagto.
+rca
+vlr dupl.
+cob.
+baixa
+baixa
+vlr.total juros
+/despesas
+func.
+baixa
+banco moeda
+baixa
+dt.
+vlr pago
+desc.
+377 alessandra de jesus santos
+1
+63693
+1
+31/07/2024
+13
+432,38
+bk
+24
+756
+7,20
+01/08/2024
+d
+448,23
+-
+-
+0,00
+marciano be
+***
+2687 pamela fernanda de paula pereira 1
+63824
+1
+31/07/2024
+12
+5.266,70
+bk
+24
+756
+70,24
+01/08/2024
+d
+5.442,27
+-
+-
+0,00
+nelson vieir
+***
+1073 rosemeire dos santos martins 109 1
+63862
+1
+31/07/2024
+10
+482,44
+bk
+24
+756
+6,44
+01/08/2024
+d
+498,53
+-
+-
+0,00
+edirlandio o
+***
+1504 gustavo rubens nascimento olive 1
+63885
+1
+31/07/2024
+13
+4.835,65
+bk
+24
+756
+16,12
+01/08/2024
+d
+4.948,48
+-
+-
+0,00
+marciano be
+***
+170 pedro gaudensi dos santos sampa 1
+63890
+1
+31/07/2024
+23
+1.252,64
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.252,64
+-
+-
+0,00
+jaziel loure
+172 gisele janaina pereira da silva
+1
+63891
+1
+31/07/2024
+23
+805,28
+bk
+24
+756
+0,00
+01/08/2024
+d
+805,28
+-
+-
+0,00
+jaziel loure
+218 eduardo nascimento bittencurt
+1
+63892
+1
+31/07/2024
+23
+772,52
+bk
+24
+756
+0,00
+01/08/2024
+d
+772,52
+-
+-
+0,00
+jaziel loure
+1048 paulo cezar motta da silva
+1
+63893
+1
+31/07/2024
+23
+367,50
+bk
+24
+756
+0,00
+01/08/2024
+d
+367,50
+-
+-
+0,00
+jaziel loure
+1061 agna araujo viana santos 91570506 1
+63894
+1
+31/07/2024
+23
+1.150,10
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.150,10
+-
+-
+0,00
+jaziel loure
+1941 jose roberto da silva
+1
+63899
+1
+31/07/2024
+23
+2.759,00
+bk
+24
+756
+0,00
+01/08/2024
+d
+2.759,00
+-
+-
+0,00
+jaziel loure
+1944 rustico agua e gas ltda
+1
+63900
+1
+31/07/2024
+23
+1.825,51
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.825,51
+-
+-
+0,00
+jaziel loure
+3381 anaide pereira pires
+1
+63926
+1
+31/07/2024
+23
+691,46
+bk
+24
+756
+4,60
+01/08/2024
+d
+709,89
+-
+-
+0,00
+jaziel loure
+***
+471 jarbas alves moreira
+1
+63934
+1
+31/07/2024
+23
+1.131,07
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.131,07
+-
+-
+0,00
+jaziel loure
+472 arisvaldo santos nascimento
+1
+63935
+1
+31/07/2024
+23
+352,70
+bk
+24
+756
+0,00
+01/08/2024
+d
+352,70
+-
+-
+0,00
+jaziel loure
+616 maria das gracas mota da silva
+1
+63936
+1
+31/07/2024
+23
+389,26
+bk
+24
+756
+0,00
+01/08/2024
+d
+389,26
+-
+-
+0,00
+jaziel loure
+1028 senival antonio crema
+1
+63938
+1
+31/07/2024
+23
+389,85
+bk
+24
+756
+0,00
+01/08/2024
+d
+389,85
+-
+-
+0,00
+jaziel loure
+2039 cemijunior  carneiro  moreira
+1
+63949
+1
+31/07/2024
+10
+439,32
+bk
+24
+756
+0,00
+01/08/2024
+d
+439,32
+-
+-
+0,00
+edirlandio o
+628 arapongas bar e restaurante ltd 1
+63954
+1
+31/07/2024
+10
+2.886,71
+bk
+24
+756
+0,00
+01/08/2024
+d
+2.886,71
+-
+-
+0,00
+edirlandio o
+1105 marinalva gomes
+1
+63955
+1
+31/07/2024
+10
+648,76
+bk
+24
+756
+0,00
+01/08/2024
+d
+648,76
+-
+-
+0,00
+edirlandio o
+1115 teodoro silva & costa padaria e c 1
+63969
+1
+31/07/2024
+23
+1.099,88
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.099,88
+-
+-
+0,00
+jaziel loure
+1745 distribuidora de bebidas do mineir 1
+63970
+1
+31/07/2024
+23
+4.476,07
+bk
+24
+756
+0,00
+01/08/2024
+d
+4.476,07
+-
+-
+0,00
+jaziel loure
+2269 auto servico lorencao ltda
+1
+63979
+1
+31/07/2024
+12
+3.473,00
+bk
+24
+756
+0,00
+01/08/2024
+d
+3.473,00
+-
+-
+0,00
+nelson vieir
+2755 navsupply fornecedor de navios 1
+63982
+1
+31/07/2024
+12
+1.007,14
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.007,14
+-
+-
+0,00
+nelson vieir
+1986 elza gomes dos santos 04381705122 1
+63995
+1
+31/07/2024
+10
+645,93
+bk
+24
+756
+0,00
+01/08/2024
+d
+645,93
+-
+-
+0,00
+edirlandio o
+201 fabiula alves rocha
+1
+63999
+1
+31/07/2024
+23
+401,05
+bk
+24
+756
+0,00
+01/08/2024
+d
+401,05
+-
+-
+0,00
+jaziel loure
+1030 esequiel pereira de oliveira 11965
+1
+64002
+1
+31/07/2024
+23
+1.420,40
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.420,40
+-
+-
+0,00
+jaziel loure
+3086 paula delacenta peroni
+1
+64005
+1
+31/07/2024
+23
+396,22
+bk
+24
+756
+0,00
+01/08/2024
+d
+396,22
+-
+-
+0,00
+jaziel loure
+1216 valdemar jose pasolini
+1
+64008
+1
+31/07/2024
+12
+962,68
+bk
+24
+756
+0,00
+01/08/2024
+d
+962,68
+-
+-
+0,00
+nelson vieir
+1305 eduardo raimer coser
+1
+64009
+1
+31/07/2024
+12
+949,04
+bk
+24
+756
+0,00
+01/08/2024
+d
+949,04
+-
+-
+0,00
+nelson vieir
+1309 maria de lourdes pereira
+1
+64010
+1
+31/07/2024
+12
+1.351,55
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.351,55
+-
+-
+0,00
+nelson vieir
+1382 olivio camileti provedel
+1
+64011
+1
+31/07/2024
+12
+864,74
+bk
+24
+756
+0,00
+01/08/2024
+d
+864,74
+-
+-
+0,00
+nelson vieir
+1927 luzimara pinto bitencourt 11369296 1
+64012
+1
+31/07/2024
+12
+367,50
+bk
+24
+756
+0,00
+01/08/2024
+d
+367,50
+-
+-
+0,00
+nelson vieir
+1913 odete gasparini de araujo piculi 0 1
+64017
+1
+31/07/2024
+12
+1.217,43
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.217,43
+-
+-
+0,00
+nelson vieir
+1362 paulo eduardo silva mendes
+1
+64028
+1
+31/07/2024
+13
+496,35
+bk
+24
+756
+0,00
+01/08/2024
+d
+496,35
+-
+-
+0,00
+marciano be
+1220 - títulos recebidos - analítico por dt. pagamento
+24/09/2024 11:12:51
+período baixa
+período pagamento
+01/08/2024  até  31/08/2024
+00/00/0000  até  00/00/0000
+cobrança
+cliente
+rca
+filial virtual?
+supervisor
+1
+'bk'
+todos os rcas
+todos os clientes
+todos supervisores permitidos
+todos os títulos baixados no período
+página: 2
+cod. func. baixou
+todos
+cod bco/cx baixa
+todos bancos permitidos
+transações de baixa
+todas
+dias atraso
+nenhum
+período vencimento
+00/00/0000  até  00/00/0000
+dias antecipação
+nenhum
+rota
+todas
+praça
+todas
+todos
+cobrador
+todas moedas permitidas
+moeda
+profissional
+todos
+portador
+todos
+filtros
+¨
+data de pagamento: 31/07/2024
+cliente
+fil.
+duplicata 
+dt.pagto.
+rca
+vlr dupl.
+cob.
+baixa
+baixa
+vlr.total juros
+/despesas
+func.
+baixa
+banco moeda
+baixa
+dt.
+vlr pago
+desc.
+523 hortimercado sabor do campo
+1
+64049
+1
+31/07/2024
+10
+566,49
+bk
+24
+756
+0,00
+01/08/2024
+d
+566,49
+-
+-
+0,00
+edirlandio o
+961 deonizia maria meirelles herzo
+1
+64050
+1
+31/07/2024
+10
+364,74
+bk
+24
+756
+0,00
+01/08/2024
+d
+364,74
+-
+-
+0,00
+edirlandio o
+2138 maycon araújo barroso
+1
+64053
+1
+31/07/2024
+10
+392,70
+bk
+24
+756
+0,00
+01/08/2024
+d
+392,70
+-
+-
+0,00
+edirlandio o
+1530 ozias marvila cassimiro
+1
+64059
+1
+31/07/2024
+13
+1.200,32
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.200,32
+-
+-
+0,00
+marciano be
+1672 edi severino portela dias 11970101 1
+64077
+1
+31/07/2024
+12
+953,68
+bk
+24
+756
+0,00
+01/08/2024
+d
+953,68
+-
+-
+0,00
+nelson vieir
+2028 fernando cleverson da rocha laz 1
+64080
+1
+31/07/2024
+12
+1.704,23
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.704,23
+-
+-
+0,00
+nelson vieir
+551 edmar de souza ribeiro
+1
+64098
+1
+31/07/2024
+12
+554,54
+bk
+24
+756
+0,00
+01/08/2024
+d
+554,54
+-
+-
+0,00
+nelson vieir
+1907 suely barreira dos santos souza 1
+64153
+1
+31/07/2024
+23
+483,91
+bk
+24
+756
+0,00
+01/08/2024
+d
+483,91
+-
+-
+0,00
+jaziel loure
+2231 geraldo alves de lima
+1
+64157
+1
+31/07/2024
+23
+445,95
+bk
+24
+756
+0,00
+01/08/2024
+d
+445,95
+-
+-
+0,00
+jaziel loure
+2350 jose carlos dos santos 0788538675 1
+64159
+1
+31/07/2024
+23
+1.278,88
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.278,88
+-
+-
+0,00
+jaziel loure
+2455 portal distribuidora de bebidas lt 1
+64162
+1
+31/07/2024
+23
+932,22
+bk
+24
+756
+0,00
+01/08/2024
+d
+932,22
+-
+-
+0,00
+jaziel loure
+1330 tiago da silva moreira de oliveira 1
+64178
+1
+31/07/2024
+13
+355,13
+bk
+24
+756
+0,00
+01/08/2024
+d
+355,13
+-
+-
+0,00
+marciano be
+2505 ronaldo jose de souza
+1
+64218
+1
+31/07/2024
+23
+365,10
+bk
+24
+756
+0,00
+01/08/2024
+d
+365,10
+-
+-
+0,00
+jaziel loure
+3182 distribuidora alta horas
+1
+64238
+1
+31/07/2024
+10
+1.459,99
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.459,99
+-
+-
+0,00
+edirlandio o
+2265 guilherme da silva dos santos
+1
+64245
+1
+31/07/2024
+13
+643,79
+bk
+24
+756
+0,00
+01/08/2024
+d
+643,79
+-
+-
+0,00
+marciano be
+1969 bruno ferraz santana 15854940701
+1
+64276
+1
+31/07/2024
+12
+362,87
+bk
+24
+756
+0,00
+01/08/2024
+d
+362,87
+-
+-
+0,00
+nelson vieir
+618 daniel ferreira da silva filho 1296 1
+64527
+1
+31/07/2024
+23
+1.357,20
+bk
+24
+756
+0,00
+01/08/2024
+d
+1.357,20
+-
+-
+0,00
+jaziel loure
+total por dia:
+59.429,57
+59.768,34
+51
+prestações listadas
+104,60
+0,00
+data de pagamento: 01/08/2024
+cliente
+fil.
+duplicata 
+dt.pagto.
+rca
+vlr dupl.
+cob.
+baixa
+baixa
+vlr.total juros
+/despesas
+func.
+baixa
+banco moeda
+baixa
+dt.
+vlr pago
+desc.
+138 jlms lanchonete e restaurante lt 1
+63665
+1
+01/08/2024
+10
+1.960,06
+bk
+24
+756
+39,18
+02/08/2024
+d
+2.038,44
+-
+-
+0,00
+edirlandio o
+***
+2248 posto itapoa ltda
+1
+63769
+2
+01/08/2024
+12
+1.850,73
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.850,73
+-
+-
+0,00
+nelson vieir
+572 eni gotardo marques
+1
+64015
+1
+01/08/2024
+12
+499,40
+bk
+24
+756
+1,66
+02/08/2024
+d
+511,05
+-
+-
+0,00
+nelson vieir
+***
+433 j k supermercado eiteli
+1
+64023
+1
+01/08/2024
+13
+1.198,83
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.198,83
+-
+-
+0,00
+marciano be
+1365 andre david  da conceicao
+1
+64029
+1
+01/08/2024
+13
+505,96
+bk
+24
+756
+0,00
+02/08/2024
+d
+505,96
+-
+-
+0,00
+marciano be
+1536 marcos alexandre nazaro
+1
+64030
+1
+01/08/2024
+13
+383,75
+bk
+24
+756
+0,00
+02/08/2024
+d
+383,75
+-
+-
+0,00
+marciano be
+2273 posto divino ltda
+1
+64039
+1
+01/08/2024
+12
+3.881,90
+bk
+24
+756
+0,00
+02/08/2024
+d
+3.881,90
+-
+-
+0,00
+nelson vieir
+1370 lanchonete e restaurante flambo 1
+64041
+1
+01/08/2024
+12
+417,56
+bk
+24
+756
+0,00
+02/08/2024
+d
+417,56
+-
+-
+0,00
+nelson vieir
+1524 rodrigo ribeiro missias 08340607790 1
+64042
+1
+01/08/2024
+12
+884,18
+bk
+24
+756
+0,00
+02/08/2024
+d
+884,18
+-
+-
+0,00
+nelson vieir
+1713 edes barbosa
+1
+64043
+1
+01/08/2024
+12
+827,35
+bk
+24
+756
+0,00
+02/08/2024
+d
+827,35
+-
+-
+0,00
+nelson vieir
+1778 delmiro moreira dos santos
+1
+64044
+1
+01/08/2024
+12
+741,95
+bk
+24
+756
+0,00
+02/08/2024
+d
+741,95
+-
+-
+0,00
+nelson vieir
+221 tania assis santos vieira
+1
+64047
+1
+01/08/2024
+10
+621,92
+bk
+24
+756
+0,00
+02/08/2024
+d
+621,92
+-
+-
+0,00
+edirlandio o
+1220 - títulos recebidos - analítico por dt. pagamento
+24/09/2024 11:12:51
+período baixa
+período pagamento
+01/08/2024  até  31/08/2024
+00/00/0000  até  00/00/0000
+cobrança
+cliente
+rca
+filial virtual?
+supervisor
+1
+'bk'
+todos os rcas
+todos os clientes
+todos supervisores permitidos
+todos os títulos baixados no período
+página: 3
+cod. func. baixou
+todos
+cod bco/cx baixa
+todos bancos permitidos
+transações de baixa
+todas
+dias atraso
+nenhum
+período vencimento
+00/00/0000  até  00/00/0000
+dias antecipação
+nenhum
+rota
+todas
+praça
+todas
+todos
+cobrador
+todas moedas permitidas
+moeda
+profissional
+todos
+portador
+todos
+filtros
+¨
+data de pagamento: 01/08/2024
+cliente
+fil.
+duplicata 
+dt.pagto.
+rca
+vlr dupl.
+cob.
+baixa
+baixa
+vlr.total juros
+/despesas
+func.
+baixa
+banco moeda
+baixa
+dt.
+vlr pago
+desc.
+363 carlos henrique gomes leal
+1
+64055
+1
+01/08/2024
+13
+1.176,92
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.176,92
+-
+-
+0,00
+marciano be
+1259 robinson toncheff
+1
+64057
+1
+01/08/2024
+13
+562,13
+bk
+24
+756
+0,00
+02/08/2024
+d
+562,13
+-
+-
+0,00
+marciano be
+1426 r k conveniencia ltda me
+1
+64058
+1
+01/08/2024
+13
+638,53
+bk
+24
+756
+0,00
+02/08/2024
+d
+638,53
+-
+-
+0,00
+marciano be
+1841 jeniffer misseno barbosa
+1
+64060
+1
+01/08/2024
+13
+1.899,37
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.899,37
+-
+-
+0,00
+marciano be
+1929 adriano lapa cardozo
+1
+64061
+1
+01/08/2024
+13
+735,00
+bk
+24
+756
+0,00
+02/08/2024
+d
+735,00
+-
+-
+0,00
+marciano be
+1965 enilda pecanha marvila
+1
+64062
+1
+01/08/2024
+13
+1.901,45
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.901,45
+-
+-
+0,00
+marciano be
+629 rogerio brandao de aguiar
+1
+64064
+1
+01/08/2024
+13
+369,58
+bk
+24
+756
+0,00
+02/08/2024
+d
+369,58
+-
+-
+0,00
+marciano be
+1365 andre david  da conceicao
+1
+64065
+1
+01/08/2024
+13
+427,56
+bk
+24
+756
+0,00
+02/08/2024
+d
+427,56
+-
+-
+0,00
+marciano be
+2294 r v comercio de bebidas ltda
+1
+64070
+1
+01/08/2024
+12
+3.093,13
+bk
+24
+756
+0,00
+02/08/2024
+d
+3.093,13
+-
+-
+0,00
+nelson vieir
+2303 posto costa azul ltda
+1
+64071
+1
+01/08/2024
+12
+838,24
+bk
+24
+756
+0,00
+02/08/2024
+d
+838,24
+-
+-
+0,00
+nelson vieir
+272 darlan sattler
+1
+64073
+1
+01/08/2024
+12
+854,16
+bk
+24
+756
+0,00
+02/08/2024
+d
+854,16
+-
+-
+0,00
+nelson vieir
+1616 adivino selmo bazoni
+1
+64074
+1
+01/08/2024
+12
+2.334,24
+bk
+24
+756
+0,00
+02/08/2024
+d
+2.334,24
+-
+-
+0,00
+nelson vieir
+1664 pedro henrique lima formentini 14 1
+64075
+1
+01/08/2024
+12
+799,45
+bk
+24
+756
+0,00
+02/08/2024
+d
+799,45
+-
+-
+0,00
+nelson vieir
+1831 reinaldo del santo
+1
+64079
+1
+01/08/2024
+12
+943,14
+bk
+24
+756
+0,00
+02/08/2024
+d
+943,14
+-
+-
+0,00
+nelson vieir
+251 jair francisco de paula
+1
+64086
+1
+01/08/2024
+10
+389,26
+bk
+24
+756
+0,00
+02/08/2024
+d
+389,26
+-
+-
+0,00
+edirlandio o
+256 jolismar gomes de almeida
+1
+64087
+1
+01/08/2024
+10
+1.116,16
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.116,16
+-
+-
+0,00
+edirlandio o
+2140 49.120.094 crislane vieira coutinho 1
+64092
+1
+01/08/2024
+10
+2.076,25
+bk
+24
+756
+0,00
+02/08/2024
+d
+2.076,25
+-
+-
+0,00
+edirlandio o
+1924 beer grill express ltda
+1
+64099
+1
+01/08/2024
+12
+446,43
+bk
+24
+756
+0,00
+02/08/2024
+d
+446,43
+-
+-
+0,00
+nelson vieir
+1779 romualdo simoes dos santos 37965 1
+64101
+1
+01/08/2024
+12
+1.286,19
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.286,19
+-
+-
+0,00
+nelson vieir
+2242 renato augusto careri levoni
+1
+64104
+1
+01/08/2024
+12
+367,50
+bk
+24
+756
+0,00
+02/08/2024
+d
+367,50
+-
+-
+0,00
+nelson vieir
+253 valdivino botelho
+1
+64117
+1
+01/08/2024
+10
+360,89
+bk
+24
+756
+0,00
+02/08/2024
+d
+360,89
+-
+-
+0,00
+edirlandio o
+407 ormindo serino da silva
+1
+64125
+1
+01/08/2024
+13
+864,75
+bk
+24
+756
+0,00
+02/08/2024
+d
+864,75
+-
+-
+0,00
+marciano be
+1847 valdinete dos santos silva
+1
+64128
+1
+01/08/2024
+13
+367,50
+bk
+24
+756
+0,00
+02/08/2024
+d
+367,50
+-
+-
+0,00
+marciano be
+3073 padaria e confeitaria requinte do 1
+64168
+1
+01/08/2024
+23
+543,55
+bk
+24
+756
+0,00
+02/08/2024
+d
+543,55
+-
+-
+0,00
+jaziel loure
+571 yes motel e turismo ltda
+1
+64208
+1
+01/08/2024
+12
+1.079,87
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.079,87
+-
+-
+0,00
+nelson vieir
+1937 paulo cesar rangel rodrigues
+1
+64210
+1
+01/08/2024
+12
+589,01
+bk
+24
+756
+0,00
+02/08/2024
+d
+589,01
+-
+-
+0,00
+nelson vieir
+2724 natacha neves
+1
+64222
+1
+01/08/2024
+23
+569,08
+bk
+24
+756
+3,80
+02/08/2024
+d
+584,26
+-
+-
+0,00
+jaziel loure
+***
+1881 patricia louzada de sousa 13199717 1
+64253
+1
+01/08/2024
+12
+491,54
+bk
+24
+756
+0,00
+02/08/2024
+d
+491,54
+-
+-
+0,00
+nelson vieir
+1017 gelson pelissari
+1
+64269
+1
+01/08/2024
+10
+1.346,51
+bk
+24
+756
+0,00
+02/08/2024
+d
+1.346,51
+-
+-
+0,00
+edirlandio o
+294 daiani amorim canal
+1
+64591
+1
+01/08/2024
+10
+743,25
+bk
+24
+756
+0,00
+02/08/2024
+d
+743,25
+-
+-
+0,00
+edirlandio o
+608 l c maciel da rocha
+1
+64667
+1
+01/08/2024
+13
+557,15
+bk
+24
+756
+0,00
+02/08/2024
+d
+557,15
+-
+-
+0,00
+marciano be
+total por dia:
+43.541,38
+43.646,59
+43
+prestações listadas
+44,64
+0,00
+1220 - títulos recebidos - analítico por dt. pagamento
+24/09/2024 11:12:51
+período baixa
+período pagamento
+01/08/2024  até  31/08/2024
+00/00/0000  até  00/00/0000
+cobrança
+cliente
+rca
+filial virtual?
+supervisor
+1
+'bk'
+todos os rcas
+todos os clientes
+todos supervisores permitidos
+todos os títulos baixados no período
+página: 4
+cod. func. baixou
+todos
+cod bco/cx baixa
+todos bancos permitidos
+transações de baixa
+todas
+dias atraso
+nenhum
+período vencimento
+00/00/0000  até  00/00/0000
+dias antecipação
+nenhum
+rota
+todas
+praça
+todas
+todos
+cobrador
+todas moedas permitidas
+moeda
+profissional
+todos
+portador
+todos
+filtros
+¨
+data de pagamento: 02/08/2024
+cliente
+fil.
+duplicata 
+dt.pagto.
+rca
+vlr dupl.
+cob.
+baixa
+baixa
+vlr.total juros
+/despesas
+func.
+baixa
+banco moeda
+baixa
+dt.
+vlr pago
+desc.
+1280 mellyssa stephanny de jesus men 1
+63463
+1
+02/08/2024
+23
+958,10
+bk
+24
+756
+28,71
+05/08/2024
+d
+1.005,97
+-
+-
+0,00
+jaziel loure
+***
+982 josé mendes
+1
+63794
+2
+02/08/2024
+12
+539,94
+bk
+24
+756
+1,80
+05/08/2024
+d
+552,54
+-
+-
+0,00
+nelson vieir
+***
+1208 rogerio teixeira duarte
+1
+63863
+1
+02/08/2024
+10
+580,67
+bk
+24
+756
+5,82
+05/08/2024
+d
+598,10
+-
+-
+0,00
+edirlandio o
+***
+1808 wilsineia de assis  mischiatti
+1
+63865
+2
+02/08/2024
+10
+375,82
+bk
+24
+756
+0,00
+05/08/2024
+d
+375,82
+-
+-
+0,00
+edirlandio o
+2248 posto itapoa ltda
+1
+63873
+2
+02/08/2024
+12
+1.621,72
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.621,72
+-
+-
+0,00
+nelson vieir
+1853 roberto s. sousa - mercearia felix 1
+64091
+1
+02/08/2024
+10
+566,46
+bk
+24
+756
+1,89
+05/08/2024
+d
+579,68
+-
+-
+0,00
+edirlandio o
+***
+3292 gilbergues jacó de souza
+1
+64112
+1
+02/08/2024
+12
+516,19
+bk
+24
+756
+1,72
+05/08/2024
+d
+528,23
+-
+-
+0,00
+nelson vieir
+***
+243 mario dos santos junior
+1
+64115
+1
+02/08/2024
+10
+436,80
+bk
+24
+756
+1,46
+05/08/2024
+d
+447,00
+-
+-
+0,00
+edirlandio o
+***
+574 pedro souza franco
+1
+64142
+1
+02/08/2024
+23
+433,23
+bk
+24
+756
+0,00
+05/08/2024
+d
+433,23
+-
+-
+0,00
+jaziel loure
+635 guilherme santos passos 14772448 1
+64143
+1
+02/08/2024
+23
+2.036,12
+bk
+24
+756
+0,00
+05/08/2024
+d
+2.036,12
+-
+-
+0,00
+jaziel loure
+1117 ademar guilherme de krause 57546 1
+64145
+1
+02/08/2024
+23
+377,33
+bk
+24
+756
+0,00
+05/08/2024
+d
+377,33
+-
+-
+0,00
+jaziel loure
+1460 viviane bermirdes miranda
+1
+64149
+1
+02/08/2024
+23
+503,32
+bk
+24
+756
+0,00
+05/08/2024
+d
+503,32
+-
+-
+0,00
+jaziel loure
+1979 b b conveniencia ltda
+1
+64154
+1
+02/08/2024
+23
+4.610,62
+bk
+24
+756
+0,00
+05/08/2024
+d
+4.610,62
+-
+-
+0,00
+jaziel loure
+2018 joão adenildo broeschaldt
+1
+64160
+1
+02/08/2024
+23
+773,25
+bk
+24
+756
+0,00
+05/08/2024
+d
+773,25
+-
+-
+0,00
+jaziel loure
+1976 edson rodrigues dos santos 47494 1
+64175
+1
+02/08/2024
+23
+717,84
+bk
+24
+756
+0,00
+05/08/2024
+d
+717,84
+-
+-
+0,00
+jaziel loure
+1517 nayara da conceicao dias da silva 1
+64179
+1
+02/08/2024
+12
+389,26
+bk
+24
+756
+0,00
+05/08/2024
+d
+389,26
+-
+-
+0,00
+nelson vieir
+2434 eliane freire mattos
+1
+64182
+1
+02/08/2024
+13
+363,07
+bk
+24
+756
+0,00
+05/08/2024
+d
+363,07
+-
+-
+0,00
+marciano be
+583 valdeny e silva nogueira
+1
+64187
+1
+02/08/2024
+13
+626,58
+bk
+24
+756
+0,00
+05/08/2024
+d
+626,58
+-
+-
+0,00
+marciano be
+30 fagner borges savignon
+1
+64189
+1
+02/08/2024
+10
+1.837,01
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.837,01
+-
+-
+0,00
+edirlandio o
+287 anderson alves
+1
+64194
+1
+02/08/2024
+10
+432,37
+bk
+24
+756
+0,00
+05/08/2024
+d
+432,37
+-
+-
+0,00
+edirlandio o
+1434 caribe motel ltda
+1
+64196
+1
+02/08/2024
+10
+481,44
+bk
+24
+756
+0,00
+05/08/2024
+d
+481,44
+-
+-
+0,00
+edirlandio o
+1722 butter distribuidora de bebidas lt 1
+64197
+1
+02/08/2024
+10
+969,06
+bk
+24
+756
+0,00
+05/08/2024
+d
+969,06
+-
+-
+0,00
+edirlandio o
+1997 edvaldo nunes dos santos 0856000 1
+64203
+1
+02/08/2024
+10
+463,40
+bk
+24
+756
+0,00
+05/08/2024
+d
+463,40
+-
+-
+0,00
+edirlandio o
+105 joao da silva
+1
+64204
+1
+02/08/2024
+10
+760,96
+bk
+24
+756
+0,00
+05/08/2024
+d
+760,96
+-
+-
+0,00
+edirlandio o
+2273 posto divino ltda
+1
+64211
+1
+02/08/2024
+12
+1.234,06
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.234,06
+-
+-
+0,00
+nelson vieir
+1911 samuel barbosa pinheiro
+1
+64214
+1
+02/08/2024
+23
+2.034,65
+bk
+24
+756
+0,00
+05/08/2024
+d
+2.034,65
+-
+-
+0,00
+jaziel loure
+2352 nautico's comercio ltda
+1
+64217
+1
+02/08/2024
+23
+433,51
+bk
+24
+756
+0,00
+05/08/2024
+d
+433,51
+-
+-
+0,00
+jaziel loure
+67 alexandrina caldas
+1
+64230
+1
+02/08/2024
+10
+785,05
+bk
+24
+756
+0,00
+05/08/2024
+d
+785,05
+-
+-
+0,00
+edirlandio o
+1502 valsoni laia da silva
+1
+64233
+1
+02/08/2024
+10
+1.490,54
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.490,54
+-
+-
+0,00
+edirlandio o
+1517 nayara da conceicao dias da silva 1
+64239
+1
+02/08/2024
+12
+577,11
+bk
+24
+756
+0,00
+05/08/2024
+d
+577,11
+-
+-
+0,00
+nelson vieir
+612 paulo roberto da silva
+1
+64246
+1
+02/08/2024
+13
+827,47
+bk
+24
+756
+0,00
+05/08/2024
+d
+827,47
+-
+-
+0,00
+marciano be
+469 osias alves felix
+1
+64249
+1
+02/08/2024
+13
+398,94
+bk
+24
+756
+0,00
+05/08/2024
+d
+398,94
+-
+-
+0,00
+marciano be
+528 primos tabacaria ltda
+1
+64251
+1
+02/08/2024
+12
+544,75
+bk
+24
+756
+0,00
+05/08/2024
+d
+544,75
+-
+-
+0,00
+nelson vieir
+551 edmar de souza ribeiro
+1
+64252
+1
+02/08/2024
+12
+1.227,45
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.227,45
+-
+-
+0,00
+nelson vieir
+1220 - títulos recebidos - analítico por dt. pagamento
+24/09/2024 11:12:51
+período baixa
+período pagamento
+01/08/2024  até  31/08/2024
+00/00/0000  até  00/00/0000
+cobrança
+cliente
+rca
+filial virtual?
+supervisor
+1
+'bk'
+todos os rcas
+todos os clientes
+todos supervisores permitidos
+todos os títulos baixados no período
+página: 5
+cod. func. baixou
+todos
+cod bco/cx baixa
+todos bancos permitidos
+transações de baixa
+todas
+dias atraso
+nenhum
+período vencimento
+00/00/0000  até  00/00/0000
+dias antecipação
+nenhum
+rota
+todas
+praça
+todas
+todos
+cobrador
+todas moedas permitidas
+moeda
+profissional
+todos
+portador
+todos
+filtros
+¨
+data de pagamento: 02/08/2024
+cliente
+fil.
+duplicata 
+dt.pagto.
+rca
+vlr dupl.
+cob.
+baixa
+baixa
+vlr.total juros
+/despesas
+func.
+baixa
+banco moeda
+baixa
+dt.
+vlr pago
+desc.
+1924 beer grill express ltda
+1
+64254
+1
+02/08/2024
+12
+1.411,25
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.411,25
+-
+-
+0,00
+nelson vieir
+2293 conveniencia praia de itaparica lt 1
+64255
+1
+02/08/2024
+12
+447,62
+bk
+24
+756
+0,00
+05/08/2024
+d
+447,62
+-
+-
+0,00
+nelson vieir
+1089 francisca werneck vieira 07567052 1
+64257
+1
+02/08/2024
+23
+358,92
+bk
+24
+756
+0,00
+05/08/2024
+d
+358,92
+-
+-
+0,00
+jaziel loure
+80 rosiane lima alves
+1
+64265
+1
+02/08/2024
+10
+350,05
+bk
+24
+756
+0,00
+05/08/2024
+d
+350,05
+-
+-
+0,00
+edirlandio o
+1727 gilberto rodrigues da silva
+1
+64271
+1
+02/08/2024
+10
+766,56
+bk
+24
+756
+0,00
+05/08/2024
+d
+766,56
+-
+-
+0,00
+edirlandio o
+982 josé mendes
+1
+64274
+1
+02/08/2024
+12
+1.319,93
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.319,93
+-
+-
+0,00
+nelson vieir
+2016 posto rodovia do sol ltda
+1
+64277
+1
+02/08/2024
+12
+601,02
+bk
+24
+756
+4,00
+05/08/2024
+d
+617,04
+-
+-
+0,00
+nelson vieir
+***
+2088 eledielson wandermurem ferreir 1
+64284
+1
+02/08/2024
+13
+4.372,12
+bk
+24
+756
+0,00
+05/08/2024
+d
+4.372,12
+-
+-
+0,00
+marciano be
+1913 odete gasparini de araujo piculi 0 1
+64289
+1
+02/08/2024
+12
+1.217,43
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.217,43
+-
+-
+0,00
+nelson vieir
+551 edmar de souza ribeiro
+1
+64302
+1
+02/08/2024
+12
+598,55
+bk
+24
+756
+0,00
+05/08/2024
+d
+598,55
+-
+-
+0,00
+nelson vieir
+3244 arielto bezerra  santos
+1
+64310
+1
+02/08/2024
+10
+1.392,17
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.392,17
+-
+-
+0,00
+edirlandio o
+2163 leonardo santana de jesus 144723 1
+64345
+1
+02/08/2024
+13
+756,17
+bk
+24
+756
+0,00
+05/08/2024
+d
+756,17
+-
+-
+0,00
+marciano be
+2590 etelvina lopes de lima dos sa
+1
+64350
+1
+02/08/2024
+13
+426,30
+bk
+24
+756
+0,00
+05/08/2024
+d
+426,30
+-
+-
+0,00
+marciano be
+2680 geraldo rodrigues goncalves
+1
+64352
+1
+02/08/2024
+13
+1.458,97
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.458,97
+-
+-
+0,00
+marciano be
+3083 vinicius santana thomas
+1
+64597
+1
+02/08/2024
+10
+1.233,57
+bk
+24
+756
+0,00
+05/08/2024
+d
+1.233,57
+-
+-
+0,00
+edirlandio o
+2036 thiago patricio pimentel 179940337 1
+64710
+1
+02/08/2024
+23
+729,78
+bk
+24
+756
+0,00
+05/08/2024
+d
+729,78
+-
+-
+0,00
+jaziel loure
+total por dia:
+48.364,50
+48.493,88
+50
+prestações listadas
+45,40
+0,00
+data de pagamento: 05/08/2024
+cliente
+fil.
+duplicata 
+dt.pagto.
+rca
+vlr dupl.
+cob.
+baixa
+baixa
+vlr.total juros
+/despesas
+func.
+baixa
+banco moeda
+baixa
+dt.
+vlr pago
+desc.
+1422 washington campi
+1
+63761
+1
+05/08/2024
+13
+2.233,73
+bk
+24
+756
+74,50
+06/08/2024
+d
+2.352,90
+-
+-
+0,00
+marciano be
+***
+170 pedro gaudensi dos santos sampa 1
+63890
+2
+05/08/2024
+23
+1.252,64
+bk
+24
+756
+0,00
+06/08/2024
+d
+1.252,64
+-
+-
+0,00
+jaziel loure
+1799 spm lanchonete e churrascaria lt 1
+63947
+2
+05/08/2024
+10
+669,87
+bk
+24
+756
+0,00
+06/08/2024
+d
+669,87
+-
+-
+0,00
+edirlandio o
+2857 josilene aparecida bremenkamp
+1
+63963
+1
+05/08/2024
+10
+590,85
+bk
+24
+756
+9,85
+06/08/2024
+d
+612,52
+-
+-
+0,00
+edirlandio o
+***
+206 juliana de souza freire botelho
+1
+63977
+1
+05/08/2024
+12
+3.673,08
+bk
+24
+756
+61,20
+06/08/2024
+d
+3.807,74
+-
+-
+0,00
+nelson vieir
+***
+206 juliana de souza freire botelho
+1
+63977
+2
+05/08/2024
+12
+3.673,08
+bk
+24
+756
+0,00
+06/08/2024
+d
+3.673,08
+-
+-
+0,00
+nelson vieir
+363 carlos henrique gomes leal
+1
+64055
+2
+05/08/2024
+13
+1.176,92
+bk
+24
+756
+0,00
+06/08/2024
+d
+1.176,92
+-
+-
+0,00
+marciano be
+423 josé marcos oliveira gonçalves
+1
+64100
+2
+05/08/2024
+12
+1.150,22
+bk
+24
+756
+0,00
+06/08/2024
+d
+1.150,22
+-
+-
+0,00
+nelson vieir
+1488 gildo bispo de olanda
+1
+64127
+1
+05/08/2024
+13
+389,27
+bk
+24
+756
+5,20
+06/08/2024
+d
+402,26
+-
+-
+0,00
+marciano be
+***
+1745 distribuidora de bebidas do mineir 1
+64151
+1
+05/08/2024
+23
+2.699,68
+bk
+24
+756
+27,00
+06/08/2024
+d
+2.780,67
+-
+-
+0,00
+jaziel loure
+***
+1979 b b conveniencia ltda
+1
+64154
+2
+05/08/2024
+23
+4.610,62
+bk
+24
+756
+0,00
+06/08/2024
+d
+4.610,62
+-
+-
+0,00
+jaziel loure
+3073 padaria e confeitaria requinte do 1
+64168
+2
+05/08/2024
+23
+543,56
+bk
+24
+756
+0,00
+06/08/2024
+d
+543,56
+-
+-
+0,00
+jaziel loure
+1517 nayara da conceicao dias da silva 1
+64179
+2
+05/08/2024
+12
+389,26
+bk
+24
+756
+0,00
+06/08/2024
+d
+389,26
+-
+-
+0,00
+nelson vieir

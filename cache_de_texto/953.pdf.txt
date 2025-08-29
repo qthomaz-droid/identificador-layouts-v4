@@ -1,0 +1,393 @@
+13/06/2023 16:09:16 brt
+relatório de despesas
+alfa 2
+data inicial: 01/05/2023
+data final: 31/05/2023
+filtrando todas as contas cadastradas.
+tipo : ambos
+apurar despesas do caixa
+ordenar por nível
+agrupado por plano conta
+apuração: caixa
+19.235.227/0001-44
+resumo de despesas
+nível hierárquico
+plano de conta
+total
+combustivel
+2.01.01
+r$246.799,33
+salario
+2.03.02.001
+r$5.754,45
+imposto sindfesba
+2.03.02.006
+r$510,36
+fretes santos e  d´onofrio
+2.03.04.002
+r$6.630,00
+promoções
+2.03.04.006
+r$250,69
+tarifas bancárias
+2.03.04.008
+r$231,22
+honorários contabeis
+2.03.04.011
+r$579,98
+água e esgoto
+2.03.04.016
+r$105,85
+energia eletrica
+2.03.04.017
+r$163,50
+internet
+2.03.04.018
+r$199,80
+inss
+2.03.04.019
+r$4.746,92
+fgts
+2.03.04.020
+r$374,63
+imposto trimestral
+2.03.04.022
+r$43,55
+juros boletos pagos em atraso
+2.03.04.033
+r$73,50
+aluguel do imovel
+2.03.04.034
+r$1.338,00
+uso e consumo
+2.03.04.035
+r$277,79
+capital de giro
+2.03.04.037
+r$19.992,09
+seguros
+2.03.04.039
+r$143,40
+gestao pcmso
+2.03.04.044.001
+r$120,00
+renovação avcb
+2.03.04.044.002
+r$96,62
+financeiras
+2.03.05
+r$525,75
+materiais diversos
+2.03.07
+r$880,00
+emprestimos/ capital de giro
+2.12
+r$10.000,00
+emprestimos entre postos
+2.18
+r$41.902,54
+sub-total:
+r$341.739,97
+total geral:
+r$341.739,97
+valor
+data
+gasto
+plano de conta: 2.01.01 - combustivel
+ nfe: 182218 - parcela 1 de 1
+02/05/2023
+r$14.733,42
+ nfe: 182969 - parcela 1 de 1
+31/05/2023
+r$13.986,42
+alesat combustivel
+10/05/2023
+r$14.378,64
+alesat combustivel
+11/05/2023
+r$14.163,42
+ nfe: 182766 - parcela 1 de 1
+22/05/2023
+r$14.163,42
+ nfe: 182293 - parcela 1 de 1
+02/05/2023
+r$24.683,22
+ nfe: 182633 - parcela 1 de 1
+17/05/2023
+r$23.705,48
+ nfe: 182294 - parcela 1 de 1
+02/05/2023
+r$10.205,52
+ nfe: 182517 - parcela 1 de 1
+15/05/2023
+r$14.163,42
+ nfe: 182634 - parcela 1 de 1
+15/05/2023
+r$9.167,52
+ nfe: 182518 - parcela 1 de 1
+11/05/2023
+r$7.669,52
+ nfe: 394924 - parcela 1 de 1
+08/05/2023
+r$14.340,00
+ nfe: 182887 - parcela 1 de 1
+29/05/2023
+r$23.308,22
+ nfe: 182965 - parcela 1 de 1
+31/05/2023
+r$13.986,42
+alesat combustivel
+02/05/2023
+r$24.819,17
+ nfe: 182966 - parcela 1 de 1
+31/05/2023
+r$9.325,52
+subtotal: plano de conta: 2.01.01 - combustivel
+r$246.799,33
+plano de conta: 2.03.02.001 - salario
+ nfe: 19235227000144 - parcela 1 de 1
+04/05/2023
+r$1.208,73
+salario jo e jeferso
+18/05/2023
+r$1.454,08
+ nfe: 19235227000144 - parcela 1 de 1
+04/05/2023
+r$1.637,56
+ nfe: 19235227000144 - parcela 1 de 1
+19/05/2023
+r$677,04
+ nfe: 19235227000144 - parcela 1 de 1
+19/05/2023
+r$777,04
+usuário: orcoma cont
+quality automação
+página 1  de 4
+valor
+data
+gasto
+plano de conta: 2.03.02.001 - salario
+subtotal: plano de conta: 2.03.02.001 - salario
+r$5.754,45
+plano de conta: 2.03.02.006 - imposto sindfesba
+sindicato frentistas
+19/05/2023
+r$10,36
+sindicato combustive
+29/05/2023
+r$500,00
+subtotal: plano de conta: 2.03.02.006 - imposto sindfesba
+r$510,36
+plano de conta: 2.03.04.002 - fretes santos e  d´onofrio
+ref 5000lts gasolina
+22/05/2023
+r$850,00
+8000lts gasolina
+29/05/2023
+r$1.360,00
+gasolina 06/05
+11/05/2023
+r$850,00
+gasolina 8000lts  diesel s10 2000lts
+12/05/2023
+r$1.700,00
+ref 8000lts gasolina
+05/05/2023
+r$1.360,00
+ref gasolina 3000lts
+17/05/2023
+r$510,00
+subtotal: plano de conta: 2.03.04.002 - fretes santos e  d´onofrio
+r$6.630,00
+plano de conta: 2.03.04.006 - promoções
+ganhador promoçao dia das maes
+02/05/2023
+r$250,69
+subtotal: plano de conta: 2.03.04.006 - promoções
+r$250,69
+plano de conta: 2.03.04.008 - tarifas bancárias
+cobrança juros
+31/05/2023
+r$231,22
+subtotal: plano de conta: 2.03.04.008 - tarifas bancárias
+r$231,22
+plano de conta: 2.03.04.011 - honorários contabeis
+ nfe: 532 - parcela 1 de 1
+04/05/2023
+r$579,98
+subtotal: plano de conta: 2.03.04.011 - honorários contabeis
+r$579,98
+plano de conta: 2.03.04.016 - água e esgoto
+ nfe: 075254638 - parcela 1 de 1
+09/05/2023
+r$105,85
+subtotal: plano de conta: 2.03.04.016 - água e esgoto
+r$105,85
+plano de conta: 2.03.04.017 - energia eletrica
+ nfe: 691261412 - parcela 1 de 1
+16/05/2023
+r$163,50
+subtotal: plano de conta: 2.03.04.017 - energia eletrica
+r$163,50
+plano de conta: 2.03.04.018 - internet
+ nfe: 3317483 - parcela 1 de 1
+02/05/2023
+r$99,90
+ nfe: 3317504 - parcela 1 de 1
+29/05/2023
+r$99,90
+subtotal: plano de conta: 2.03.04.018 - internet
+r$199,80
+plano de conta: 2.03.04.019 - inss
+ nfe: 07162311403465732 - parcela 1 de 1
+19/05/2023
+r$4.746,92
+subtotal: plano de conta: 2.03.04.019 - inss
+r$4.746,92
+usuário: orcoma cont
+quality automação
+página 2  de 4
+valor
+data
+gasto
+plano de conta: 2.03.04.020 - fgts
+ nfe: 19235227000144 - parcela 1 de 1
+09/05/2023
+r$374,63
+subtotal: plano de conta: 2.03.04.020 - fgts
+r$374,63
+plano de conta: 2.03.04.022 - imposto trimestral
+ nfe: 0561 - parcela 1 de 1
+19/05/2023
+r$28,23
+irrf
+04/05/2023
+r$15,32
+subtotal: plano de conta: 2.03.04.022 - imposto trimestral
+r$43,55
+plano de conta: 2.03.04.033 - juros boletos pagos em atraso
+juros iof
+02/05/2023
+r$73,50
+subtotal: plano de conta: 2.03.04.033 - juros boletos pagos em atraso
+r$73,50
+plano de conta: 2.03.04.034 - aluguel do imovel
+ref notas de zito 01/04a30/04/2023
+11/05/2023
+r$1.338,00
+subtotal: plano de conta: 2.03.04.034 - aluguel do imovel
+r$1.338,00
+plano de conta: 2.03.04.035 - uso e consumo
+ref carro jo
+01/05/2023
+r$139,27
+ref carro jo
+30/05/2023
+r$138,52
+subtotal: plano de conta: 2.03.04.035 - uso e consumo
+r$277,79
+plano de conta: 2.03.04.037 - capital de giro
+giro rafael
+22/05/2023
+r$3.896,99
+giro donofrio
+22/05/2023
+r$16.095,10
+subtotal: plano de conta: 2.03.04.037 - capital de giro
+r$19.992,09
+plano de conta: 2.03.04.039 - seguros
+seguro
+02/05/2023
+r$69,90
+seguro
+02/05/2023
+r$73,50
+subtotal: plano de conta: 2.03.04.039 - seguros
+r$143,40
+plano de conta: 2.03.04.044.001 - gestao pcmso
+ nfe: 556787475 - parcela 1 de 1
+05/05/2023
+r$120,00
+subtotal: plano de conta: 2.03.04.044.001 - gestao pcmso
+r$120,00
+plano de conta: 2.03.04.044.002 - renovação avcb
+ nfe: 140000000557819127 - parcela 1 de 1
+19/05/2023
+r$96,62
+subtotal: plano de conta: 2.03.04.044.002 - renovação avcb
+r$96,62
+plano de conta: 2.03.05 - financeiras
+acréscimo referente ao título a pagar:  nfe: 182965 - parcela 1 de 1 - d2-182965a
+31/05/2023
+r$60,60
+acréscimo referente ao título a pagar:  nfe: 182969 - parcela 1 de 1 - d2-182969a
+31/05/2023
+r$60,60
+acréscimo referente ao título a pagar:  nfe: 182887 - parcela 1 de 1 - d2-182887a
+29/05/2023
+r$201,96
+acréscimo referente ao título a pagar:  nfe: 3317483 - parcela 1 de 1 - 331749/3
+02/05/2023
+r$2,64
+acréscimo referente ao título a pagar:  nfe: 182966 - parcela 1 de 1 - d2-182966a
+31/05/2023
+r$40,40
+acréscimo referente ao título a pagar:  nfe: 182218 - parcela 1 de 1 - d2-182218a
+02/05/2023
+r$159,55
+usuário: orcoma cont
+quality automação
+página 3  de 4
+valor
+data
+gasto
+plano de conta: 2.03.05 - financeiras
+subtotal: plano de conta: 2.03.05 - financeiras
+r$525,75
+plano de conta: 2.03.07 - materiais diversos
+zoop tecnologia
+25/05/2023
+r$200,00
+troca extintor
+26/05/2023
+r$150,00
+manuntençao de bombas
+11/05/2023
+r$530,00
+subtotal: plano de conta: 2.03.07 - materiais diversos
+r$880,00
+plano de conta: 2.12 - emprestimos/ capital de giro
+emprestimo donofrio
+25/05/2023
+r$10.000,00
+subtotal: plano de conta: 2.12 - emprestimos/ capital de giro
+r$10.000,00
+plano de conta: 2.18 - emprestimos entre postos
+emprestimo rafael
+04/05/2023
+r$102,54
+emprestimo transport
+02/05/2023
+r$400,00
+emprestimo donof
+09/05/2023
+r$14.000,00
+emprestimo matriz
+23/05/2023
+r$6.500,00
+emprestimo donofrio
+23/05/2023
+r$10.000,00
+devolucao riachao
+31/05/2023
+r$6.000,00
+emprestimo riachao
+19/05/2023
+r$4.900,00
+subtotal: plano de conta: 2.18 - emprestimos entre postos
+r$41.902,54
+total
+r$341.739,97
+usuário: orcoma cont
+quality automação
+página 4  de 4

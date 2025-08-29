@@ -1,0 +1,1840 @@
+millennium network ltda
+relatório n.º 430 pag. 1
+10/01/2025 08:07:12
+títulos a pagar
+mostrar ambos, data de filtro data de pagamento, data inicial 01/06/2024, data final 30/06/2024, ordenar por devedor/credor, 2º ordem por emissão, histórico não imprime histórico, paginas imprime relatório contínuo, valor líquido 
+sem linha descritiva, dados do documento não mostrar dados do documento, agrupa oficina não agrupa pagamentos de oficinas, agrupa comissão não agrupa comissao de representante, centro de custos 
+não visualiza centro de custos, visualiza ações não visualiza ações, efetuado/não efetuado efetuados, mostrar titulos substituidores, gerador fornecedor, filiais [01], tipo cobranca banco/carteira, tipo de endereço 001
+título
+emis.
+vl bruto
+filial
+vencto.
+tipo pgto.
+credor
+ticket
+bco conta
+pagto
+vlr pago
+n.fiscal
+situação cobrança
+desc.
+vl liq.
+atr
+status 
+tipo cta
+credor
+00032 - mixmetais industria e comercio de 
+endereço : rua professor ulysses lemos torres, 125, 125    cidade : sao paulo     fone : () 
+80320
+26/04/2024
+10/06/2024
+3711,00
+boleto
+01
+r340538
+001
+10/06/2024
+3.711,00
+80320
+carteira
+ 
+0,00
+0
+3.711,00
+c/cx
+00032 - mixmetais indust...
+80466
+06/05/2024
+20/06/2024
+3587,45
+boleto
+01
+r341487
+001
+20/06/2024
+3.587,45
+80466
+carteira
+ 
+0,00
+0
+3.587,45
+c/cx
+00032 - mixmetais indust...
+80626
+14/05/2024
+28/06/2024
+493,36
+boleto
+01
+r342759
+001
+28/06/2024
+493,36
+80626
+carteira
+ 
+0,00
+0
+493,36
+c/cx
+00032 - mixmetais indust...
+total do credor bruto
+7.791,81
+bruto:
+líquido:
+7.791,81
+pago:
+7.791,81
+a pagar:
+0,00
+credor
+00038 - excim importacao e exportacao s/a 
+endereço : rua herman stern, 136 - anexo g    cidade : serra     fone : (27) 3298-6200
+1931526
+17/03/2024
+16/05/2024
+7530,40
+boleto
+01
+r334412
+001
+17/06/2024
+7.530,40
+1931526
+carteira
+ 
+0,00
+32
+7.530,40
+c/cx
+00038 - excim importaca...
+total do credor bruto
+7.530,40
+bruto:
+líquido:
+7.530,40
+pago:
+7.530,40
+a pagar:
+0,00
+credor
+00040 - camelon mamut tinturaria e malharia 
+endereço : estrada municipal, 1295, 1295    cidade : guarulhos     fone : (11) 2823-8700
+192051
+04/03/2024
+03/06/2024
+13882,35
+boleto
+01
+r333887
+001
+03/06/2024
+13.882,35
+192051
+carteira
+ 
+0,00
+0
+13.882,35
+c/cx
+00040 - camelon mamut ...
+total do credor bruto
+13.882,35
+bruto:
+líquido:
+13.882,35
+pago:
+13.882,35
+a pagar:
+0,00
+credor
+00050 - alpino linhas e aviamentos ltda
+endereço : rua mato grosso, 676, 676    cidade : belo horizonte     fone : (31)  2102-7417
+68023
+06/05/2024
+03/06/2024
+3600,57
+boleto
+01
+r343054
+001
+03/06/2024
+3.600,57
+68023
+carteira
+ 
+0,00
+0
+3.600,57
+c/cx
+00050 - alpino linhas e a...
+68170
+14/05/2024
+05/06/2024
+2010,27
+boleto
+01
+r343659
+001
+05/06/2024
+2.010,27
+68170
+carteira
+ 
+0,00
+0
+2.010,27
+c/cx
+00050 - alpino linhas e a...
+68349
+22/05/2024
+12/06/2024
+5687,11
+boleto
+01
+r343376
+001
+12/06/2024
+5.687,11
+68349
+carteira
+ 
+0,00
+0
+5.687,11
+c/cx
+00050 - alpino linhas e a...
+68572
+03/06/2024
+27/06/2024
+5638,81
+boleto
+01
+r345521
+001
+27/06/2024
+5.638,81
+68572
+carteira
+ 
+0,00
+0
+5.638,81
+c/cx
+00050 - alpino linhas e a...
+total do credor bruto
+16.936,76
+bruto:
+líquido:
+16.936,76
+pago:
+16.936,76
+a pagar:
+0,00
+credor
+00052 - aviamentos barro preto ltda - me
+endereço : rua dos guajajaras, 2300, 2300    cidade : belo horizonte     fone : (31) 32950081
+5798
+16/05/2024
+15/06/2024
+295,50
+boleto
+01
+r343379
+001
+17/06/2024
+295,50
+5798
+carteira
+ 
+0,00
+2
+295,50
+c/cx
+00052 - aviamentos barr...
+total do credor bruto
+295,50
+bruto:
+líquido:
+295,50
+pago:
+295,50
+a pagar:
+0,00
+credor
+00060 - fios gabi comercio de aviamentos ltda
+endereço : rua evaristo barbi, 106, 106    cidade : belo horizonte     fone : () 
+10857
+14/05/2024
+11/06/2024
+1102,60
+boleto
+01
+r342758
+001
+11/06/2024
+1.102,60
+10857
+carteira
+ 
+0,00
+0
+1.102,60
+c/cx
+00060 - fios gabi comer...
+total do credor bruto
+1.102,60
+bruto:
+líquido:
+1.102,60
+pago:
+1.102,60
+a pagar:
+0,00
+millennium network ltda
+millennium network ltda
+relatório n.º 430 pag. 2
+10/01/2025 08:07:12
+títulos a pagar
+título
+emis.
+vl bruto
+filial
+vencto.
+tipo pgto.
+credor
+ticket
+bco conta
+pagto
+vlr pago
+n.fiscal
+situação cobrança
+desc.
+vl liq.
+atr
+status 
+tipo cta
+credor
+00062 - malhas menegotti industria textil ltda
+endereço : rua joaquim francisco de paula, 4850, 4850    cidade : jaragua do sul     fone : () 
+1292016
+14/06/2024
+14/06/2024
+11300,64
+deposito
+01
+r346177
+001
+14/06/2024
+11.300,64
+1292016
+carteira
+ 
+0,00
+0
+11.300,64
+c/cx
+00062 - malhas menegot...
+1295092
+25/06/2024
+25/06/2024
+1127,56
+pix 
+01
+r346816
+001
+25/06/2024
+1.127,56
+1295092
+carteira
+ 
+0,00
+0
+1.127,56
+c/cx
+00062 - malhas menegot...
+1295093
+25/06/2024
+25/06/2024
+0,10
+pix 
+01
+r347177
+001
+25/06/2024
+0,10
+1295093
+carteira
+ 
+0,00
+0
+0,10
+c/cx
+00062 - malhas menegot...
+total do credor bruto
+12.428,30
+bruto:
+líquido:
+12.428,30
+pago:
+12.428,30
+a pagar:
+0,00
+credor
+00068 - marles industria textil e comercio ltda - 
+endereço : alameda cleveland, 610, 610    cidade : sao paulo     fone : () 
+29133
+06/03/2024
+04/06/2024
+7082,25
+boleto
+01
+r333118
+001
+04/06/2024
+7.082,25
+29133
+carteira
+ 
+0,00
+0
+7.082,25
+c/cx
+00068 - marles industria...
+291886
+12/03/2024
+10/06/2024
+5545,50
+boleto
+01
+r333123
+001
+10/06/2024
+5.340,84
+291886
+carteira
+ 
+204,66
+0
+5.340,84
+c/cx
+00068 - marles industria...
+295323
+31/05/2024
+18/08/2024
+8481,17
+credito 
+01
+r344846
+001
+19/06/2024
+0,00
+295323
+carteira
+ 
+8481,17
+145
+0,00
+c/cx
+00068 - marles industria...
+295516
+05/06/2024
+20/06/2024
+141,83
+boleto
+01
+r344712
+001
+20/06/2024
+141,83
+295516
+carteira
+ 
+0,00
+0
+141,83
+c/cx
+00068 - marles industria...
+total do credor bruto
+21.250,75
+bruto:
+líquido:
+12.564,92
+pago:
+12.564,92
+a pagar:
+0,00
+credor
+00070 - kalimo textil ltda
+endereço : rua talmud thorá, 144    cidade : sao paulo     fone : (11) 3224-1244
+330652
+19/03/2024
+07/06/2024
+10384,69
+boleto
+01
+r334408
+001
+07/06/2024
+10.384,69
+330652
+carteira
+ 
+0,00
+0
+10.384,69
+c/cx
+00070 - kalimo textil ltda
+332542
+28/05/2024
+13/06/2024
+112,86
+boleto
+01
+r343780
+001
+13/06/2024
+112,86
+332542
+carteira
+ 
+0,00
+0
+112,86
+c/cx
+00070 - kalimo textil ltda
+332772
+04/06/2024
+14/06/2024
+377,58
+boleto
+01
+r344256
+001
+14/06/2024
+377,58
+332772
+carteira
+ 
+0,00
+0
+377,58
+c/cx
+00070 - kalimo textil ltda
+total do credor bruto
+10.875,13
+bruto:
+líquido:
+10.875,13
+pago:
+10.875,13
+a pagar:
+0,00
+credor
+00071 - estamparia diamante ltda - me
+endereço : rua magnólia, 2    cidade : belo horizonte     fone : () 
+3592
+10/05/2024
+10/06/2024
+7454,90
+boleto
+01
+r341474
+001
+10/06/2024
+7.454,90
+3592
+carteira
+ 
+0,00
+0
+7.454,90
+c/cx
+00071 - estamparia diam...
+3602
+29/05/2024
+28/06/2024
+508,00
+boleto
+01
+r343760
+001
+28/06/2024
+508,00
+3602
+carteira
+ 
+0,00
+0
+508,00
+c/cx
+00071 - estamparia diam...
+total do credor bruto
+7.962,90
+bruto:
+líquido:
+7.962,90
+pago:
+7.962,90
+a pagar:
+0,00
+credor
+00079 - santaconstancia  tecelagem ltda
+endereço : avenida tenente josé jerônimo de mesquita, 289, 289    cidade : sao paulo     fone : () 
+237154
+02/05/2024
+13/06/2024
+5760,96
+boleto
+01
+r342686
+001
+13/06/2024
+5.760,96
+237154
+carteira
+ 
+0,00
+0
+5.760,96
+c/cx
+00079 - santaconstanci...
+total do credor bruto
+5.760,96
+bruto:
+líquido:
+5.760,96
+pago:
+5.760,96
+a pagar:
+0,00
+credor
+00080 - textil renauxview sa
+endereço : rua do centenário, 215, 215    cidade : brusque     fone : () 
+317125
+03/06/2024
+21/06/2024
+123,90
+boleto
+01
+r344864
+001
+20/06/2024
+123,90
+317125
+carteira
+ 
+0,00
+0
+123,90
+c/cx
+00080 - textil renauxvie...
+317149
+04/06/2024
+20/06/2024
+5,00
+boleto
+01
+r344619
+001
+20/06/2024
+5,00
+317149
+carteira
+ 
+0,00
+0
+5,00
+c/cx
+00080 - textil renauxvie...
+total do credor bruto
+128,90
+bruto:
+líquido:
+128,90
+pago:
+128,90
+a pagar:
+0,00
+millennium network ltda
+millennium network ltda
+relatório n.º 430 pag. 3
+10/01/2025 08:07:12
+títulos a pagar
+título
+emis.
+vl bruto
+filial
+vencto.
+tipo pgto.
+credor
+ticket
+bco conta
+pagto
+vlr pago
+n.fiscal
+situação cobrança
+desc.
+vl liq.
+atr
+status 
+tipo cta
+credor
+00083 - textil e confecções otimotex ltda
+endereço : rua visconde de parnaíba, 2631/2639, 2631/2639    cidade : sao paulo     fone : () 
+193816
+11/03/2024
+09/06/2024
+19998,72
+boleto
+01
+r333533
+001
+10/06/2024
+19.998,72
+193816
+carteira
+ 
+0,00
+1
+19.998,72
+c/cx
+00083 - textil e confecç...
+total do credor bruto
+19.998,72
+bruto:
+líquido:
+19.998,72
+pago:
+19.998,72
+a pagar:
+0,00
+credor
+00098 - loja das festas ltda
+endereço : rua coronel antonio pereira da silva, 106    cidade : belo horizonte     fone : (31) 34819050
+loja das 
+01/06/2024
+05/06/2024
+252,00
+boleto
+01
+r0
+001
+05/06/2024
+252,00
+carteira
+ 
+0,00
+0
+252,00
+c/cx
+00098 - loja das festas ...
+total do credor bruto
+252,00
+bruto:
+líquido:
+252,00
+pago:
+252,00
+a pagar:
+0,00
+credor
+00131 - concept txtl impo. e com. de artigos 
+endereço : rua josé gall, 1115 - 27    cidade : itajai     fone : () 
+12194
+04/03/2024
+02/06/2024
+2023,90
+boleto
+01
+r333898
+001
+03/06/2024
+1.872,25
+12194
+carteira
+ 
+151,65
+1
+1.872,25
+c/cx
+00131 - concept txtl im...
+12348
+13/03/2024
+11/06/2024
+8054,90
+boleto
+01
+r334411
+001
+11/06/2024
+6.216,80
+12348
+carteira
+ 
+1838,10
+0
+6.216,80
+c/cx
+00131 - concept txtl im...
+12410
+19/03/2024
+17/06/2024
+13206,39
+boleto
+01
+r334637
+001
+17/06/2024
+5.203,29
+12410
+carteira
+ 
+8003,10
+0
+5.203,29
+c/cx
+00131 - concept txtl im...
+12431
+20/03/2024
+18/06/2024
+5050,33
+boleto
+01
+r335400
+001
+18/06/2024
+2.259,76
+12431
+carteira
+ 
+2790,57
+0
+2.259,76
+c/cx
+00131 - concept txtl im...
+12483
+27/03/2024
+25/06/2024
+1100,86
+boleto
+01
+r336989
+001
+25/06/2024
+1.100,86
+12483
+carteira
+ 
+0,00
+0
+1.100,86
+c/cx
+00131 - concept txtl im...
+total do credor bruto
+29.436,38
+bruto:
+líquido:
+16.652,96
+pago:
+16.652,96
+a pagar:
+0,00
+credor
+00253 - minaspel distribuidora  de papeis eireli- 
+endereço : rua das canoas, 1018    cidade : belo horizonte     fone : (31) 3383-1156
+13546
+10/05/2024
+14/06/2024
+1560,00
+boleto
+01
+r342753
+001
+14/06/2024
+1.560,00
+13546
+carteira
+ 
+0,00
+0
+1.560,00
+c/cx
+00253 - minaspel distrib...
+total do credor bruto
+1.560,00
+bruto:
+líquido:
+1.560,00
+pago:
+1.560,00
+a pagar:
+0,00
+credor
+00389 - issqn retencao
+endereço :     cidade :      fone : () 
+18/iss
+01/05/2024
+08/06/2024
+5,30
+boleto
+01
+r346141
+001
+10/06/2024
+5,30
+18
+carteira
+ 
+0,00
+2
+5,30
+c/cx
+00389 - issqn retencao
+1517/iss
+03/05/2024
+08/06/2024
+63,93
+boleto
+01
+r340158
+001
+10/06/2024
+63,93
+1517
+carteira
+ 
+0,00
+2
+63,93
+c/cx
+00389 - issqn retencao
+2391/iss
+07/05/2024
+08/06/2024
+4,55
+boleto
+01
+r340525
+001
+10/06/2024
+4,55
+2391
+carteira
+ 
+0,00
+2
+4,55
+c/cx
+00389 - issqn retencao
+25/iss
+08/05/2024
+08/06/2024
+141,91
+boleto
+01
+r340694
+001
+10/06/2024
+141,91
+25
+carteira
+ 
+0,00
+2
+141,91
+c/cx
+00389 - issqn retencao
+5/iss
+08/05/2024
+08/06/2024
+1000,00
+boleto
+01
+r340698
+001
+10/06/2024
+1.000,00
+5
+carteira
+ 
+0,00
+2
+1.000,00
+c/cx
+00389 - issqn retencao
+3381/iss
+08/05/2024
+08/06/2024
+3,02
+boleto
+01
+r340715
+001
+10/06/2024
+3,02
+3381
+carteira
+ 
+0,00
+2
+3,02
+c/cx
+00389 - issqn retencao
+3382/iss
+08/05/2024
+08/06/2024
+1,85
+boleto
+01
+r340719
+001
+10/06/2024
+1,85
+3382
+carteira
+ 
+0,00
+2
+1,85
+c/cx
+00389 - issqn retencao
+959/iss
+08/05/2024
+08/06/2024
+4,00
+boleto
+01
+r340745
+001
+10/06/2024
+4,00
+959
+carteira
+ 
+0,00
+2
+4,00
+c/cx
+00389 - issqn retencao
+11/iss
+08/05/2024
+08/06/2024
+231,15
+boleto
+01
+r340749
+001
+10/06/2024
+231,15
+11
+carteira
+ 
+0,00
+2
+231,15
+c/cx
+00389 - issqn retencao
+5/iss
+09/05/2024
+08/06/2024
+140,00
+boleto
+01
+r340895
+001
+10/06/2024
+140,00
+5
+carteira
+ 
+0,00
+2
+140,00
+c/cx
+00389 - issqn retencao
+11/iss
+10/05/2024
+08/06/2024
+923,10
+boleto
+01
+r341056
+001
+10/06/2024
+923,10
+11
+carteira
+ 
+0,00
+2
+923,10
+c/cx
+00389 - issqn retencao
+12/iss
+10/05/2024
+08/06/2024
+536,00
+boleto
+01
+r341205
+001
+10/06/2024
+536,00
+12
+carteira
+ 
+0,00
+2
+536,00
+c/cx
+00389 - issqn retencao
+millennium network ltda
+millennium network ltda
+relatório n.º 430 pag. 4
+10/01/2025 08:07:12
+títulos a pagar
+título
+emis.
+vl bruto
+filial
+vencto.
+tipo pgto.
+credor
+ticket
+bco conta
+pagto
+vlr pago
+n.fiscal
+situação cobrança
+desc.
+vl liq.
+atr
+status 
+tipo cta
+269/iss
+13/05/2024
+08/06/2024
+8,77
+boleto
+01
+r341426
+001
+10/06/2024
+8,77
+269
+carteira
+ 
+0,00
+2
+8,77
+c/cx
+00389 - issqn retencao
+767/iss
+13/05/2024
+08/06/2024
+14,67
+boleto
+01
+r341427
+001
+10/06/2024
+14,67
+767
+carteira
+ 
+0,00
+2
+14,67
+c/cx
+00389 - issqn retencao
+34/iss
+13/05/2024
+08/06/2024
+71,58
+boleto
+01
+r341488
+001
+10/06/2024
+71,58
+34
+carteira
+ 
+0,00
+2
+71,58
+c/cx
+00389 - issqn retencao
+20/iss
+16/05/2024
+08/06/2024
+24,93
+boleto
+01
+r341860
+001
+10/06/2024
+24,93
+20
+carteira
+ 
+0,00
+2
+24,93
+c/cx
+00389 - issqn retencao
+61/iss
+16/05/2024
+08/06/2024
+63,15
+boleto
+01
+r341865
+001
+10/06/2024
+63,15
+61
+carteira
+ 
+0,00
+2
+63,15
+c/cx
+00389 - issqn retencao
+4/iss
+23/05/2024
+08/06/2024
+2675,01
+boleto
+01
+r342737
+001
+10/06/2024
+2.675,01
+4
+carteira
+ 
+0,00
+2
+2.675,01
+c/cx
+00389 - issqn retencao
+33/iss
+23/05/2024
+08/06/2024
+95,95
+boleto
+01
+r342761
+001
+10/06/2024
+95,95
+33
+carteira
+ 
+0,00
+2
+95,95
+c/cx
+00389 - issqn retencao
+107/iss
+23/05/2024
+08/06/2024
+45,48
+boleto
+01
+r342792
+001
+10/06/2024
+45,48
+107
+carteira
+ 
+0,00
+2
+45,48
+c/cx
+00389 - issqn retencao
+17/iss
+23/05/2024
+08/06/2024
+111,00
+boleto
+01
+r342794
+001
+10/06/2024
+111,00
+17
+carteira
+ 
+0,00
+2
+111,00
+c/cx
+00389 - issqn retencao
+105/iss
+23/05/2024
+08/06/2024
+39,15
+boleto
+01
+r342795
+001
+10/06/2024
+39,15
+105
+carteira
+ 
+0,00
+2
+39,15
+c/cx
+00389 - issqn retencao
+139538/iss
+23/05/2024
+08/06/2024
+4,32
+boleto
+01
+r342917
+001
+08/06/2024
+4,32
+139538
+carteira
+ 
+0,00
+0
+4,32
+c/cx
+00389 - issqn retencao
+126998/iss
+23/05/2024
+08/06/2024
+3,66
+boleto
+01
+r342918
+001
+10/06/2024
+3,66
+126998
+carteira
+ 
+0,00
+2
+3,66
+c/cx
+00389 - issqn retencao
+142/iss
+28/05/2024
+08/06/2024
+12,06
+boleto
+01
+r343237
+001
+10/06/2024
+12,06
+142
+carteira
+ 
+0,00
+2
+12,06
+c/cx
+00389 - issqn retencao
+59/iss
+29/05/2024
+08/06/2024
+8,18
+boleto
+01
+r343338
+001
+10/06/2024
+8,18
+59
+carteira
+ 
+0,00
+2
+8,18
+c/cx
+00389 - issqn retencao
+289/iss
+29/05/2024
+08/06/2024
+3,37
+boleto
+01
+r343455
+001
+10/06/2024
+3,37
+289
+carteira
+ 
+0,00
+2
+3,37
+c/cx
+00389 - issqn retencao
+315/iss
+29/05/2024
+08/06/2024
+3,02
+boleto
+01
+r343468
+001
+10/06/2024
+3,02
+315
+carteira
+ 
+0,00
+2
+3,02
+c/cx
+00389 - issqn retencao
+108/iss
+29/05/2024
+08/06/2024
+60,64
+boleto
+01
+r343439
+001
+10/06/2024
+60,64
+108
+carteira
+ 
+0,00
+2
+60,64
+c/cx
+00389 - issqn retencao
+36/iss
+31/05/2024
+08/06/2024
+12,15
+boleto
+01
+r343693
+001
+10/06/2024
+12,15
+36
+carteira
+ 
+0,00
+2
+12,15
+c/cx
+00389 - issqn retencao
+146/iss
+06/06/2024
+08/06/2024
+7,24
+boleto
+01
+r344227
+001
+10/06/2024
+7,24
+146
+carteira
+ 
+0,00
+2
+7,24
+c/cx
+00389 - issqn retencao
+total do credor bruto
+6.319,14
+bruto:
+líquido:
+6.319,14
+pago:
+6.319,14
+a pagar:
+0,00
+credor
+00454 - consorcio otimo de bilhetagem 
+endereço : rua aquiles lobo, 504 - andar 6    cidade : belo horizonte     fone : () 
+4049680
+20/06/2024
+21/06/2024
+7981,11
+boleto
+01
+r0
+001
+21/06/2024
+7.981,11
+carteira
+ 
+0,00
+0
+7.981,11
+c/cx
+00454 - consorcio otim...
+total do credor bruto
+7.981,11
+bruto:
+líquido:
+7.981,11
+pago:
+7.981,11
+a pagar:
+0,00
+credor
+00455 - consorcio operacional do transporte 
+endereço : rua aquiles lobo, 504 - andar 10    cidade : belo horizonte     fone : () 
+5924038
+20/06/2024
+21/06/2024
+7788,29
+boleto
+01
+r0
+001
+21/06/2024
+7.788,29
+carteira
+ 
+0,00
+0
+7.788,29
+c/cx
+00455 - consorcio oper...
+total do credor bruto
+7.788,29
+bruto:
+líquido:
+7.788,29
+pago:
+7.788,29
+a pagar:
+0,00
+credor
+00468 - associacao mineira emp de moda
+endereço :     cidade :      fone : () 
+ass. mineira 
+07/06/2024
+20/06/2024
+210,00
+boleto
+01
+r0
+001
+20/06/2024
+210,00
+carteira
+ 
+0,00
+0
+210,00
+c/cx
+00468 - associacao minei...
+total do credor bruto
+210,00
+bruto:
+líquido:
+210,00
+pago:
+210,00
+a pagar:
+0,00
+millennium network ltda
+millennium network ltda
+relatório n.º 430 pag. 5
+10/01/2025 08:07:12
+títulos a pagar
+título
+emis.
+vl bruto
+filial
+vencto.
+tipo pgto.
+credor
+ticket
+bco conta
+pagto
+vlr pago
+n.fiscal
+situação cobrança
+desc.
+vl liq.
+atr
+status 
+tipo cta
+credor
+00477 - distribuidora triangulo ltda - matriz
+endereço : rua santa quitéria, 634    cidade : belo horizonte     fone : (31) 3469-6900
+348835
+07/06/2024
+07/06/2024
+2052,48
+cartao (2-12)
+01
+r358421
+001
+07/06/2024
+2.052,48
+348835
+carteira
+ 
+0,00
+0
+2.052,48
+c/cx
+00477 - distribuidora tri...
+total do credor bruto
+2.052,48
+bruto:
+líquido:
+2.052,48
+pago:
+2.052,48
+a pagar:
+0,00
+credor
+00482 - camillo sallum empreendimentos 
+endereço :     cidade :      fone : () 
+20307149
+21/05/2024
+01/06/2024
+4436,00
+boleto
+01
+r0
+001
+03/06/2024
+4.436,00
+carteira
+ 
+0,00
+2
+4.436,00
+c/cx
+00482 - camillo sallum e...
+total do credor bruto
+4.436,00
+bruto:
+líquido:
+4.436,00
+pago:
+4.436,00
+a pagar:
+0,00
+credor
+00491 - monge comercio de embalagens ltda
+endereço : rodovia br-040 km 688 - pav u lj 25    cidade : contagem     fone : (31) 3394-2433
+46994
+19/06/2024
+19/07/2024
+291,00
+cartao (2-12)
+01
+r349413
+001
+19/06/2024
+291,00
+46994
+carteira
+ 
+0,00
+0
+291,00
+c/cx
+00491 - monge comercio...
+total do credor bruto
+291,00
+bruto:
+líquido:
+291,00
+pago:
+291,00
+a pagar:
+0,00
+credor
+00500 - pensao alimenticia
+endereço :     cidade :      fone : () 
+pensao 
+01/06/2024
+10/06/2024
+454,00
+boleto
+01
+r0
+001
+10/06/2024
+454,00
+carteira
+ 
+0,00
+0
+454,00
+c/cx
+00500 - pensao alimenti...
+total do credor bruto
+454,00
+bruto:
+líquido:
+454,00
+pago:
+454,00
+a pagar:
+0,00
+credor
+00501 - promosystem telecomunicacoes 
+endereço : rua sete de abril, 985    cidade : belo horizonte     fone : () 
+105
+16/05/2024
+03/06/2024
+1306,35
+boleto
+01
+r342795
+001
+03/06/2024
+1.306,35
+105
+carteira
+ 
+0,00
+0
+1.306,35
+c/cx
+00501 - promosystem te...
+total do credor bruto
+1.306,35
+bruto:
+líquido:
+1.306,35
+pago:
+1.306,35
+a pagar:
+0,00
+credor
+00505 - gf maquinas e equip p confec ltda me
+endereço : rua botelhos, 33    cidade : belo horizonte     fone : (31) 34238990
+8306
+24/04/2024
+07/05/2024
+20,30
+pix 
+01
+r339441
+001
+03/06/2024
+20,30
+8306
+carteira
+ 
+0,00
+27
+20,30
+c/cx
+00505 - gf maquinas e eq...
+8313
+25/04/2024
+25/05/2024
+142,75
+pix 
+01
+r340101
+001
+03/06/2024
+142,75
+8313
+carteira
+ 
+0,00
+9
+142,75
+c/cx
+00505 - gf maquinas e eq...
+8425
+29/05/2024
+10/06/2024
+31,11
+pix 
+01
+r343653
+001
+10/06/2024
+31,11
+8425
+carteira
+ 
+0,00
+0
+31,11
+c/cx
+00505 - gf maquinas e eq...
+8426
+29/05/2024
+10/06/2024
+60,52
+pix 
+01
+r343657
+001
+10/06/2024
+60,52
+8426
+carteira
+ 
+0,00
+0
+60,52
+c/cx
+00505 - gf maquinas e eq...
+total do credor bruto
+254,68
+bruto:
+líquido:
+254,68
+pago:
+254,68
+a pagar:
+0,00
+credor
+00517 - ingram micro brasil ltda
+endereço : avenida piracema, 1341 - galpoes 03 e 04    cidade : barueri     fone : () 
+2095900
+24/05/2024
+21/06/2024
+447,06
+boleto
+01
+r343242
+001
+21/06/2024
+426,28
+2095900
+carteira
+ 
+20,78
+0
+426,28
+c/cx
+00517 - ingram micro br...
+total do credor bruto
+447,06
+bruto:
+líquido:
+426,28
+pago:
+426,28
+a pagar:
+0,00
+millennium network ltda

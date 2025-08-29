@@ -1,0 +1,1121 @@
+030 - cb tintas ltda me
+relatorio de resumo de caixa - analitico
+página: 1
+18:05:52
+04/12/2020
+referente ao periodo de 04/12/2020 a 04/12/2020
+sequencial de fechamento parcial: todos
+operador: todos    grupo de operador: todos
+visualizacao : especie do documento
+especie do documento : todos
+030 - clube das tintas cb
+docume.
+histórico
+dinheiro
+cartão chq.vista
+chq.pré ord.pag. valor.cred.
+valor
+saldo
+saldo inicial: 0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+ope.
+especie:
+if
+000000101708a
+00006980-ulicias pinheiro silva
+115,20
+0,00
+0,00
+0,00
+0,00
+0,00
+115,20
+115,20
+010
+000000102764a
+00001158-mirtes - leone mayrink
+paiva-predio costa
+0,00
+0,00
+0,00
+309,70
+0,00
+0,00
+79,79
+194,99
+010
+num.chq: 850418
+emitente: mirtes - leone mayrink paiva-predio cost
+data venc.: 07/12/2020
+309,70 dias cheque: 3
+valor:
+000000102811a
+00001158-mirtes - leone mayrink
+paiva-predio costa
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+229,91
+424,90
+010
+000000103097a
+00001361-marcel souza araujo -
+arquiteto
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+83,26
+508,16
+010
+000000103097a
+ref. a desconto if no. 000000103097
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+-0,01
+508,15
+010
+motivo do desconto:
+arredondamento
+000000103234a
+00000454-washington moreira lima
+181,00
+0,00
+0,00
+0,00
+0,00
+0,00
+181,00
+689,15
+010
+000000103235a
+30001709-giovani pachelli candico
+costa
+0,00
+247,31
+0,00
+0,00
+0,00
+0,00
+247,31
+936,46
+010
+000000103236a
+30000001-consumidor
+27,40
+0,00
+0,00
+0,00
+0,00
+0,00
+27,40
+963,86
+010
+000000103239a
+00001361-marcel souza araujo -
+arquiteto
+121,25
+0,00
+0,00
+0,00
+0,00
+0,00
+38,00
+1.001,86
+010
+000000103240a
+30001435-carleson jesus pereira
+379,45
+0,00
+0,00
+0,00
+0,00
+0,00
+379,45
+1.381,31
+010
+000000103240a
+30001435-carleson jesus pereira
+0,00
+379,45
+0,00
+0,00
+0,00
+0,00
+379,45
+1.760,76
+010
+000000103242a
+00001649-marcia martins castro
+0,00
+58,95
+0,00
+0,00
+0,00
+0,00
+58,95
+1.819,71
+010
+000000103243a
+30001735-charles martins silva santos
+34,75
+0,00
+0,00
+0,00
+0,00
+0,00
+34,75
+1.854,46
+010
+000000103244a
+00006612-denise de assis silva
+0,00
+242,25
+0,00
+0,00
+0,00
+0,00
+242,25
+2.096,71
+010
+000000103246a
+00004663-ian de castro andrade
+0,00
+1.080,66
+0,00
+0,00
+0,00
+0,00
+1.080,66
+3.177,37
+010
+000000103247a
+30000176-jacqueline cocco rosendo
+0,00
+148,80
+0,00
+0,00
+0,00
+0,00
+148,80
+3.326,17
+010
+000000103249a
+00001361-marcel souza araujo -
+arquiteto
+38,00
+0,00
+0,00
+0,00
+0,00
+0,00
+38,00
+3.364,17
+010
+000000103251a
+30001050-vilma alves vieira
+0,00
+66,50
+0,00
+0,00
+0,00
+0,00
+66,50
+3.430,67
+010
+000000103252a
+30000001-consumidor
+0,00
+63,80
+0,00
+0,00
+0,00
+0,00
+63,80
+3.494,47
+010
+000000103254a
+30001471-deywson almeida andrade
+0,00
+0,00
+0,00
+693,01
+0,00
+0,00
+693,01
+4.187,48
+010
+num.chq: 000343
+emitente: deywson almeida andrade
+data venc.: 04/01/2021
+693,01 dias cheque: 31
+valor:
+000000103256a
+00003821-gilson marinho de oliveira
+0,00
+366,62
+0,00
+0,00
+0,00
+0,00
+366,62
+4.554,10
+010
+total documentos:
+897,05
+2.654,34
+0,00
+1.002,71
+0,00
+0,00
+4.554,10
+4.554,10
+especie:
+lc
+ref. suprimento
+110,55
+0,00
+0,00
+0,00
+0,00
+0,00
+110,55
+4.664,65
+010
+total documentos:
+110,55
+0,00
+0,00
+0,00
+0,00
+0,00
+110,55
+4.664,65
+especie:
+ld
+ref. sangria
+-400,00
+0,00
+0,00
+0,00
+0,00
+0,00
+-400,00
+4.264,65
+010
+ref. sangria
+-50,00
+0,00
+0,00
+0,00
+0,00
+0,00
+-50,00
+4.214,65
+010
+ref. sangria
+-650,00
+0,00
+0,00
+0,00
+0,00
+0,00
+-650,00
+3.564,65
+010
+ref. sangria
+-12,50
+0,00
+0,00
+0,00
+0,00
+0,00
+-12,50
+3.552,15
+010
+ref. sangria
+-125,95
+0,00
+0,00
+0,00
+0,00
+0,00
+-125,95
+3.426,20
+010
+000000103240a
+ref. a estorno. cta. receber
+-379,45
+0,00
+0,00
+0,00
+0,00
+0,00
+-379,45
+3.046,75
+010
+total documentos:
+-1.617,90
+0,00
+0,00
+0,00
+0,00
+0,00
+-1.617,90
+3.046,75
+especie:
+nf
+000000042782a
+30001476-usi ret – usinagem e retífica
+ltda.
+610,30
+0,00
+0,00
+0,00
+0,00
+0,00
+610,27
+3.657,02
+010
+000000042782a
+ref. a juros nf no. 000000042782
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,03
+3.657,05
+010
+total documentos:
+610,30
+0,00
+0,00
+0,00
+0,00
+0,00
+610,30
+3.657,05
+especie:
+tf
+ref. transf. cx./port: 00017/
+0,00
+0,00
+0,00
+-309,70
+0,00
+0,00
+-309,70
+3.347,35
+010
+ref. transf. cx./port: 00017/
+0,00
+0,00
+0,00
+-693,01
+0,00
+0,00
+-693,01
+2.654,34
+010
+ref. transf. cx./port: 00018/
+0,00
+-2.654,34
+0,00
+0,00
+0,00
+0,00
+-2.654,34
+0,00
+010
+total documentos:
+0,00
+-2.654,34
+0,00
+-1.002,71
+0,00
+0,00
+-3.657,05
+0,00
+total geral dos documentos:
+0,00
+0,00
+frmrelrcxresumocaixa
+registros impressos: 33
+030 - cb tintas ltda me
+relatorio de resumo de caixa - analitico
+página: 2
+18:05:52
+04/12/2020
+referente ao periodo de 04/12/2020 a 04/12/2020
+sequencial de fechamento parcial: todos
+operador: todos    grupo de operador: todos
+visualizacao : especie do documento
+especie do documento : todos
+030 - clube das tintas cb
+dinheiro:
+1.617,90
+-1.617,90
+0,00
+cheque à vista:
+0,00
+0,00
+0,00
+cheque pré:
+1.002,71
+-1.002,71
+0,00
+ordem de pagamento:
+0,00
+0,00
+0,00
+cartão de crédito:
+2.654,34
+-2.654,34
+0,00
+outros:
+0,00
+0,00
+0,00
+totais:
+5.274,95
+-5.274,95
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+financiamento:
+0,00
+0,00
+0,00
+0,00
+operações
+entradas
+saídas saldo final
+saldo inicial
+dados informativos
+desconto:.....................................................................................
+juros:.............................................................................................
+-0,01
+0,03
+faturamento loja própria
+venda a vista:........................................................................
+901,41
+venda faturado:..................................................................
+2.047,01
+venda cartao de credito:................................................
+1.883,84
+entrega pelo cd
+venda a vista:........................................................................
+venda faturado:..................................................................
+venda cartao de credito:................................................
+pedido a vista:......................................................................
+pedido faturado:.................................................................
+pedido cartao de credito:..............................................
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+total de venda:...................................................................
+5.395,26
+0,00
+0,00
+0,00
+0,00
+frete
+venda a vista (015-a receber):.........................................
+563,00
+0,00
+pedido a vista (015-a receber):.......................................
+0,00
+venda a vista (015-a receber):.........................................
+0,00
+frmrelrcxresumocaixa
+registros impressos: 0
+030 - cb tintas ltda me
+relatorio de resumo de caixa - analitico
+página: 3
+18:05:52
+04/12/2020
+referente ao periodo de 04/12/2020 a 04/12/2020
+sequencial de fechamento parcial: todos
+operador: todos    grupo de operador: todos
+visualizacao : especie do documento
+especie do documento : todos
+030 - clube das tintas cb
+rep (%)
+rep (%)
+espécie
+qtd.docs vendas do dia
+acumulado
+média
+ticket média
+resumo de vendas
+if
+101
+5.395,26
+21.216,65
+5.304,16
+210,07
+100,00%
+65,53%
+nf
+7
+0,00
+11.159,12
+2.789,78
+1.594,16
+0,00%
+34,47%
+quantidade de dias uteis: 4
+totais
+5.395,26
+32.375,77
+8.093,94
+299,78
+108
+100,00%
+100,00%
+total de vendas do dia
+total de vendas acumulado
+a vista
+2.047,01
+3.348,25
+a vista
+21.319,05
+11.056,72
+a prazo
+a prazo
+frmrelrcxresumocaixa
+registros impressos: 2
+030 - cb tintas ltda me
+relatorio de resumo de caixa - analitico
+pagina: 4
+18:05:52
+04/12/2020
+referente ao periodo de 04/12/2020 a 04/12/2020
+operador: todos    grupo de operador: todos
+especie do documento : todos
+030 - clube das tintas cb
+espécie
+loja-001
+loja-030
+total
+descrição
+tf
+0,00
+-3657,05
+a vista
+juros
+descontos
+-3657,05
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+tf
+0,00
+0,00
+a prazo
+juros
+descontos
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+nf
+0,00
+0,00
+a vista
+juros
+descontos
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+nf
+0,00
+610,27
+a prazo
+juros
+descontos
+610,27
+0,00
+0,03
+0,03
+0,00
+0,00
+0,00
+ld
+0,00
+-1617,90
+a vista
+juros
+descontos
+-1617,90
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+ld
+0,00
+0,00
+a prazo
+juros
+descontos
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+lc
+0,00
+110,55
+a vista
+juros
+descontos
+110,55
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+frmrelrcxresumocaixa
+3
+030 - cb tintas ltda me
+relatorio de resumo de caixa - analitico
+pagina: 5
+18:05:52
+04/12/2020
+referente ao periodo de 04/12/2020 a 04/12/2020
+operador: todos    grupo de operador: todos
+especie do documento : todos
+030 - clube das tintas cb
+espécie
+loja-001
+loja-030
+total
+descrição
+lc
+0,00
+0,00
+a prazo
+juros
+descontos
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+if
+0,00
+3727,70
+a vista
+juros
+descontos
+3727,70
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+if
+0,00
+826,41
+a prazo
+juros
+descontos
+826,41
+0,00
+0,00
+0,00
+0,00
+-0,01
+-0,01
+total geral
+0,00
+0,00
+0,00
+frmrelrcxresumocaixa
+2
+030 - cb tintas ltda me
+relatorio de resumo de caixa - analitico
+pagina: 6
+18:05:52
+04/12/2020
+referente ao periodo de 04/12/2020 a 04/12/2020
+sequencial de fechamento parcial: todos
+operador: todos    grupo de operador: todos
+visualizacao : especie do documento
+especie do documento : todos
+030 - clube das tintas cb
+transferências
+rec. de titulos
+forma
+saldo inicial vendas à vista
+pagamentos
+outros pag
+saldo final
+resumo por forma de pagamento
+outros rec
+dinheiro
+0,00
+243,15
+0,00
+-1.617,90
+0,00
+884,75
+0,00
+490,00
+cheque a vista
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+cheque pre
+0,00
+693,01
+0,00
+0,00
+0,00
+309,70
+-1.002,71
+0,00
+ordem de pagamento
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+cartao de credito
+0,00
+2.412,09
+0,00
+0,00
+0,00
+242,25
+-2.654,34
+0,00
+outros
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+totais
+3.348,25
+0,00
+-1.617,90
+0,00
+0,00
+1.436,70
+-3.657,05
+utilização de cred. (informativo)
+0,00
+490,00
+demonstrativo analítico de outros pagamentos
+data
+hora
+esp
+descrição
+dinheiro
+valor
+04/12/2020
+11:19:29
+ld
+ref. a estorno. cta. receber
+-379,45
+04/12/2020
+11:23:16
+ld
+ref. sangria
+-400,00
+04/12/2020
+13:04:31
+ld
+ref. sangria
+-50,00
+04/12/2020
+14:17:32
+ld
+ref. sangria
+-650,00
+04/12/2020
+17:40:06
+ld
+ref. sangria
+-12,50
+04/12/2020
+18:05:41
+ld
+ref. sangria
+-125,95
+-1.617,90
+-1.617,90
+total de outros pagamentos
+frmrelrcxresumocaixa
+registros impressos: 12
+030 - cb tintas ltda me
+relatorio de resumo de caixa - analitico
+página: 7
+18:05:52
+04/12/2020
+referente ao periodo de 04/12/2020 a 04/12/2020
+030 - clube das tintas cb
+duplicatas com justificativa de desconto
+duplicata
+dta. ven.
+dta. rec.
+cliente
+forma pag.
+vr. orig.
+desc.
+vr. rec.
+justificativa
+000000101708-if
+06/11/2020
+04/12/2020
+00006980-ulicias pinheiro silva
+dinheiro
+115,20
+0,00
+115,20
+%
+000000102764-if
+11/12/2020
+04/12/2020
+00001158-mirtes - leone mayrink paiva-predio costa
+cheque a prazo
+79,79
+0,00
+79,79
+%
+000000102811-if
+13/12/2020
+04/12/2020
+00001158-mirtes - leone mayrink paiva-predio costa
+cheque a prazo
+229,91
+0,00
+229,91
+%
+000000102858-if
+17/12/2020
+04/12/2020
+00000048-gloria - number one
+11,60
+0,00
+11,60
+%
+000000102868-if
+17/12/2020
+04/12/2020
+00000048-gloria - number one
+10,90
+0,00
+10,90
+%
+000000042782-nf
+01/12/2020
+04/12/2020
+30001476-usi ret – usinagem e retífica ltda.
+dinheiro
+610,27
+0,00
+610,30
+%
+000000103097-if
+27/12/2020
+04/12/2020
+00001361-marcel souza araujo - arquiteto
+dinheiro
+83,26
+0,01
+83,25
+arredondamento
+%
+000000103234-if
+04/12/2020
+04/12/2020
+00000454-washington moreira lima
+dinheiro
+181,00
+0,00
+181,00
+%
+000000103235-if
+04/12/2020
+04/12/2020
+30001709-giovani pachelli candico costa
+cartao
+247,31
+0,00
+247,31
+%
+000000103236-if
+04/12/2020
+04/12/2020
+30000001-consumidor
+dinheiro
+27,40
+0,00
+27,40
+%
+000000103239-if
+03/01/2021
+04/12/2020
+00001361-marcel souza araujo - arquiteto
+dinheiro
+38,00
+0,00
+38,00
+arredondamento
+%
+000000103240-if
+04/12/2020
+04/12/2020
+30001435-carleson jesus pereira
+cartao
+379,45
+0,00
+379,45
+%
+000000103242-if
+04/12/2020
+04/12/2020
+00001649-marcia martins castro
+cartao
+58,95
+0,00
+58,95
+%
+000000103243-if
+04/12/2020
+04/12/2020
+30001735-charles martins silva santos
+dinheiro
+34,75
+0,00
+34,75
+%
+000000103244-if
+03/01/2021
+04/12/2020
+00006612-denise de assis silva
+cartao
+242,25
+0,00
+242,25
+%
+000000103246-if
+04/12/2020
+04/12/2020
+00004663-ian de castro andrade
+cartao
+1.080,66
+0,00
+1.080,66
+%
+000000103247-if
+04/12/2020
+04/12/2020
+30000176-jacqueline cocco rosendo
+cartao
+148,80
+0,00
+148,80
+%
+000000103249-if
+03/01/2021
+04/12/2020
+00001361-marcel souza araujo - arquiteto
+dinheiro
+38,00
+0,00
+38,00
+%
+000000103251-if
+04/12/2020
+04/12/2020
+30001050-vilma alves vieira
+cartao
+66,50
+0,00
+66,50
+%
+000000103252-if
+04/12/2020
+04/12/2020
+30000001-consumidor
+cartao
+63,80
+0,00
+63,80
+%
+000000103254-if
+04/12/2020
+04/12/2020
+30001471-deywson almeida andrade
+cheque a prazo
+693,01
+0,00
+693,01
+%
+000000103256-if
+04/12/2020
+04/12/2020
+00003821-gilson marinho de oliveira
+cartao
+366,62
+0,00
+366,62
+%
+frmrelrcxresumocaixa
+registros impressos: 22

@@ -1,0 +1,2395 @@
+todos os estabelecimentos
+relatório analítico das contas a pagar por duplicata (quitados)
+ordem: empresa + vencimento + fornecedor
+página 1
+emissão...08/01/2025 07:25:49
+pgto.:01/12/2024 a 31/12/2024
+portador:6.
+fornecedor (estab.)
+valor
+título
+emiss.
+vencto
+juros
+descontos
+pago
+saldo
+moeda
+pagto
+entrada
+interv. moedas: 0 a 99 - valores na moeda de cadastro.
+últ.
+jur. prov
+empresa......1
+rr sementes ltda
+2230
+indusfer - industria e comercio d1347-1
+16/10/24
+16/11/24
+400,00
+0,00
+0,00
+400,00
+0,00
+r$
+27/12/24
+16/10/24
+0,00
+     histórico:barro produção (01) - ch 1347     analítica:26-compra de materia prima     situação:cheques a compensar
+2424
+ivan frete - givanildo gusmão per1348-1
+16/10/24
+16/11/24
+300,00
+0,00
+0,00
+300,00
+0,00
+r$
+17/12/24
+16/10/24
+0,00
+     histórico:frete barro (01) - ch 1348     analítica:39-serviços de frete     situação:cheques a compensar
+147
+antonio jose de sa noleto (1)
+4214-1-5-
+23/10/24
+30/11/24
+7.340,00
+0,00
+0,00
+7.340,00
+0,00
+r$
+02/12/24
+23/10/24
+0,00
+     histórico:boleto custodiado - alteração de data original     analítica:369-pagamento de emprestimos     situação:boleto
+951
+nildioci rocha ferreira (lenha) (11356-
+14/11/24
+01/12/24
+3.800,00
+0,00
+0,00
+3.800,00
+0,00
+r$
+02/12/24
+14/11/24
+0,00
+     histórico:lenha para forno - ch 1356     analítica:26-compra de materia prima     situação:cheques a compensar
+53
+gustavo muniz ribas (1)
+02122024-
+30/11/24
+02/12/24
+3.122,95
+0,00
+0,00
+3.122,95
+0,00
+r$
+02/12/24
+30/11/24
+0,00
+     histórico:ajuda de custo     analítica:56-ajuda de custo     situação:pix
+56
+luma marques matos (1)
+02122024-
+30/11/24
+02/12/24
+1.647,57
+0,00
+0,00
+1.647,57
+0,00
+r$
+02/12/24
+30/11/24
+0,00
+     histórico:ajuda de custo     analítica:56-ajuda de custo     situação:pix
+1
+rr sementes ltda (1)
+02122024-
+02/12/24
+02/12/24
+70,00
+0,00
+0,00
+70,00
+0,00
+r$
+02/12/24
+02/12/24
+0,00
+     histórico:lubrificação     analítica:32-manutenção de veiculos     situação:pix
+1
+rr sementes ltda (1)
+01122024-
+01/12/24
+02/12/24
+100,00
+0,00
+0,00
+100,00
+0,00
+r$
+02/12/24
+01/12/24
+0,00
+     histórico:adto frete lem x  tx - robenilson vieira     analítica:39-serviços de frete     situação:pix
+3347
+sopet comercio e representacao02122024-
+30/11/24
+02/12/24
+499,77
+0,00
+0,00
+499,77
+0,00
+r$
+02/12/24
+30/11/24
+0,00
+     histórico:ajuda de custo     analítica:56-ajuda de custo     situação:pix
+57
+warley alves gomes (1)
+02122024-
+30/11/24
+02/12/24
+346,60
+0,00
+0,00
+346,60
+0,00
+r$
+02/12/24
+30/11/24
+0,00
+     histórico:ajuda de custo     analítica:56-ajuda de custo     situação:pix
+2697
+amazon aws serviços brasil ltda 1913666417-
+02/11/24
+03/12/24
+171,90
+0,00
+0,00
+171,90
+0,00
+r$
+03/12/24
+02/11/24
+0,00
+histórico:backup
+-
+01
+a
+31/10/2024
+-
+cac
+analítica:113-manutencao
+sistemas
+informacao
+-
+cpd
+situação:cartao
+de
+credito
+3513
+dell computadores do brasil ltd7071031-1/2
+06/11/24
+03/12/24
+65,49
+0,00
+0,00
+65,49
+0,00
+r$
+03/12/24
+06/11/24
+0,00
+histórico:nf
+número
+1-7071031
+nf
+sequência
+1361
+nota
+fiscal
+de
+entradapessoa
+3513-dell
+computadores
+do
+brasil
+ltda
+nf
+sequência -1  nf número  1-7.071.031     analítica:289-equipamentos de informática ecomunicaçã     situação:cartao de credito
+1973
+empresa brasileira de correios e6590-1
+29/10/24
+03/12/24
+51,12
+0,00
+0,00
+51,12
+0,00
+r$
+03/12/24
+29/10/24
+0,00
+     histórico:envio de etiquetas - cac     analítica:107-correios e malotes     situação:cartao de credito
+1866
+juliano aparecido lavado (1)
+38952-3
+11/09/24
+03/12/24
+101,25
+0,00
+0,00
+101,25
+0,00
+r$
+03/12/24
+11/09/24
+0,00
+     histórico:peneira     analítica:33-manutenção predial     situação:cartao de credito
+2345
+kap acessorios para veiculos ltd2463493-1
+13/11/24
+03/12/24
+73,33
+0,00
+0,00
+73,33
+0,00
+r$
+03/12/24
+13/11/24
+0,00
+     histórico:guia p/ choque diant - hilux     analítica:32-manutenção de veiculos     situação:cartao de credito
+2297
+leandro venturelli junior 013499 202432-4
+30/07/24
+03/12/24
+422,50
+0,00
+0,00
+422,50
+0,00
+r$
+03/12/24
+06/08/24
+0,00
+histórico:nf
+número
+1-202432
+nf
+sequência
+302
+nota
+fiscal
+de
+entradapessoa
+2297-leandro
+venturelli
+junior
+01349974684
+nf
+sequência -1  nf número  1-202.432     analítica:284-maquinas e equipamentos produtivos     situação:cartao de credito
+30
+mateus santos serapiao (1)
+11682-1
+01/11/24
+03/12/24
+1.494,00
+0,00
+0,00
+1.494,00
+0,00
+r$
+03/12/24
+01/11/24
+0,00
+     histórico:emprestimo - cac     analítica:369-pagamento de emprestimos     situação:cartao de credito
+1
+rr sementes ltda (1)
+0312-
+03/12/24
+03/12/24
+3.500,00
+0,00
+0,00
+3.500,00
+0,00
+r$
+03/12/24
+03/12/24
+0,00
+     histórico:saldo frete sementes lem - j a comercial rodrigues     analítica:39-serviços de frete     situação:pix
+1
+rr sementes ltda (1)
+5538-
+21/11/24
+03/12/24
+24,00
+0,00
+0,00
+24,00
+0,00
+r$
+03/12/24
+21/11/24
+0,00
+     histórico:agua destilada - laboratorio     analítica:50-material uso e consumo     situação:cartao de credito
+1
+rr sementes ltda (1)
+2677-1
+21/11/24
+03/12/24
+122,50
+0,00
+0,00
+122,50
+0,00
+r$
+03/12/24
+21/11/24
+0,00
+histórico:manutenção
+impressora
+gerencia
+(
+jd
+informatica)
+analítica:113-manutencao
+sistemas
+informacao
+-
+cpd
+situação:cartao de credito
+1
+rr sementes ltda (1)
+28102024-6
+28/10/24
+03/12/24
+150,00
+0,00
+0,00
+150,00
+0,00
+r$
+03/12/24
+28/10/24
+0,00
+     histórico:farinha - cac     analítica:94-alimentacao     situação:cartao de credito
+1
+rr sementes ltda (1)
+36624-1
+05/11/24
+03/12/24
+76,23
+0,00
+0,00
+76,23
+0,00
+r$
+03/12/24
+05/11/24
+0,00
+     histórico:soprador - manutenção fabrica - cac     analítica:33-manutenção predial     situação:cartao de credito
+1
+rr sementes ltda (1)
+172643-2
+18/10/24
+03/12/24
+93,62
+0,00
+0,00
+93,62
+0,00
+r$
+03/12/24
+18/10/24
+0,00
+     histórico:papel p/ substrato - cac     analítica:50-material uso e consumo     situação:cartao de credito
+2250
+sicoob extremo sul (1)
+30124-1-12
+03/01/24
+03/12/24
+3,20
+0,00
+0,00
+3,20
+0,00
+r$
+03/12/24
+03/01/24
+0,00
+     histórico:importada
+2
+tiago mororo monte (1)
+922-2
+03/10/24
+03/12/24
+146,40
+0,00
+0,00
+146,40
+0,00
+r$
+03/12/24
+03/10/24
+0,00
+     histórico:emprestimo - cac     analítica:369-pagamento de emprestimos     situação:cartao de credito
+2
+tiago mororo monte (1)
+46040-2
+04/10/24
+03/12/24
+172,50
+0,00
+0,00
+172,50
+0,00
+r$
+03/12/24
+04/11/24
+0,00
+     histórico:emprestimo - cac     analítica:369-pagamento de emprestimos     situação:cartao de credito
+2434
+uai brasil (1)
+57476-1
+05/11/24
+03/12/24
+67,57
+0,00
+0,00
+67,57
+0,00
+r$
+03/12/24
+05/11/24
+0,00
+     histórico:floreira - laboratorio/canteiros - cac     analítica:50-material uso e consumo     situação:cartao de credito
+2539
+wms supermercados do brasil lt16102-1/1
+13/11/24
+03/12/24
+2.036,08
+0,00
+0,00
+2.036,08
+0,00
+r$
+03/12/24
+15/11/24
+0,00
+histórico:nf
+número
+101-16102
+nf
+sequência
+1241
+nota
+fiscal
+de
+entradapessoa
+2539-wms
+supermercados
+do
+brasil
+ltda
+nf
+sequência -1  nf número  101-16.102     analítica:94-alimentacao     situação:cartao de credito
+3331
+wr automotiva ltda (1)
+1101-4
+01/08/24
+03/12/24
+1.379,83
+0,00
+0,00
+1.379,83
+0,00
+r$
+03/12/24
+15/08/24
+0,00
+histórico:nf
+número
+1-1101
+nf
+sequência
+411
+nota
+fiscal
+de
+entradapessoa
+3331-wr
+automotiva
+ltda
+nf
+sequência
+-1
+nf
+número
+1-1.101     analítica:32-manutenção de veiculos     situação:cartao de credito
+20
+erisvaldo costa gomes (1)
+0412-
+28/11/24
+04/12/24
+501,80
+0,00
+0,00
+501,80
+0,00
+r$
+04/12/24
+28/11/24
+0,00
+     histórico:acerto de viagem - embalagens     analítica:120-viagens e estadias     situação:pix
+25
+janio santos assis (1)
+0412-
+28/11/24
+04/12/24
+36,60
+0,00
+0,00
+36,60
+0,00
+r$
+04/12/24
+28/11/24
+0,00
+     histórico:acerto de viagem - es     analítica:120-viagens e estadias     situação:pix
+1068
+paulo sergio izoton (1)
+05092024-3
+05/09/24
+04/12/24
+52.250,00
+0,00
+0,00
+52.250,00
+0,00
+r$
+09/12/24
+05/09/24
+0,00
+     histórico:emprestimo - ch. 1331     analítica:369-pagamento de emprestimos     situação:cheques a compensar
+178
+albert dorleans a marinho (1)
+2024-5
+05/08/24
+05/12/24
+2.824,00
+0,00
+0,00
+2.824,00
+0,00
+r$
+05/12/24
+05/08/24
+0,00
+     histórico:engenheiro agronomo     analítica:125-assessoria ambiental     situação:pix
+1941
+confederacao nacional das coop2024-1-12
+31/12/23
+05/12/24
+392,82
+0,00
+0,00
+392,82
+0,00
+r$
+05/12/24
+31/12/23
+0,00
+     histórico:importada     analítica:88-seguro de vida     situação:debito em conta
+3335
+valter oliveira correia (1)
+0708-3
+07/08/24
+05/12/24
+20.000,00
+0,00
+0,00
+20.000,00
+0,00
+r$
+05/12/24
+07/08/24
+0,00
+     histórico:boleto custodiado     analítica:369-pagamento de emprestimos     situação:boletos em custódia
+2773
+viação aguia branca sa (1)
+82802-
+03/12/24
+05/12/24
+320,70
+0,00
+0,00
+320,70
+0,00
+r$
+05/12/24
+03/12/24
+0,00
+     histórico:frete fenpei nf 3795     analítica:184-fornecedores fretes     situação:pix
+13
+adriana da silva ferreira (1)
+06122024-
+04/12/24
+06/12/24
+1.453,01
+0,00
+0,00
+1.453,01
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+ sementes
+
+pr cane
+<=>
+todos os estabelecimentos
+relatório analítico das contas a pagar por duplicata (quitados)
+ordem: empresa + vencimento + fornecedor
+página 2
+emissão...08/01/2025 07:25:50
+pgto.:01/12/2024 a 31/12/2024
+portador:6.
+fornecedor (estab.)
+valor
+título
+emiss.
+vencto
+juros
+descontos
+pago
+saldo
+moeda
+pagto
+entrada
+interv. moedas: 0 a 99 - valores na moeda de cadastro.
+últ.
+jur. prov
+     histórico:salario 11/2024     analítica:70-salarios     situação:pix
+17
+cristiano marques resende (1)
+06122024-30
+04/12/24
+06/12/24
+400,00
+0,00
+0,00
+400,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:gratificação 11/2024     analítica:63-gratificacao e abonos     situação:pix
+18
+dionizio de jesus almeida (1)
+0612-
+04/12/24
+06/12/24
+30,00
+0,00
+0,00
+30,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+3493
+eduardo serapiao lima (1)
+0612-
+04/12/24
+06/12/24
+105,00
+0,00
+0,00
+105,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+3493
+eduardo serapiao lima (1)
+06122024-
+04/12/24
+06/12/24
+737,60
+0,00
+0,00
+737,60
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:salario 11/2024     analítica:70-salarios     situação:pix
+19
+ely jean costa de santana (1)
+0412-
+04/12/24
+06/12/24
+44,00
+0,00
+0,00
+44,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+20
+erisvaldo costa gomes (1)
+2811-
+06/12/24
+06/12/24
+1.557,50
+0,00
+0,00
+1.557,50
+0,00
+r$
+06/12/24
+06/12/24
+0,00
+     histórico:acerto de viagem - ba     analítica:120-viagens e estadias     situação:pix
+23
+hercules souza lago (1)
+0612-
+04/12/24
+06/12/24
+30,00
+0,00
+0,00
+30,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+24
+ivanilson santos cordeiro (1)
+0612-
+04/12/24
+06/12/24
+60,00
+0,00
+0,00
+60,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+25
+janio santos assis (1)
+06122024-
+04/12/24
+06/12/24
+1.383,66
+0,00
+0,00
+1.383,66
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:salario 11/2024     analítica:70-salarios     situação:pix
+26
+joabe salvino muniz (1)
+06122024-
+04/12/24
+06/12/24
+1.934,17
+0,00
+0,00
+1.934,17
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:salario 11/2024     analítica:70-salarios     situação:pix
+26
+joabe salvino muniz (1)
+0612-
+04/12/24
+06/12/24
+157,00
+0,00
+0,00
+157,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+3557
+kaio costa dos santos (1)
+06122024-26
+06/12/24
+06/12/24
+659,00
+0,00
+0,00
+659,00
+0,00
+r$
+06/12/24
+06/12/24
+0,00
+     histórico:salario 11/2024 - sem registro     analítica:70-salarios     situação:pix
+3557
+kaio costa dos santos (1)
+0612-27
+06/12/24
+06/12/24
+105,00
+0,00
+0,00
+105,00
+0,00
+r$
+06/12/24
+06/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:duplicatas em carteira
+30
+mateus santos serapiao (1)
+0612-
+04/12/24
+06/12/24
+44,00
+0,00
+0,00
+44,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+1048
+oberico rocha de andrade (1)
+06122024-
+04/12/24
+06/12/24
+650,53
+0,00
+0,00
+650,53
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:salario 11/2024     analítica:70-salarios     situação:pix
+1048
+oberico rocha de andrade (1)
+0612-
+04/12/24
+06/12/24
+30,00
+0,00
+0,00
+30,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+101
+rodrigo de freitas pereira (1)
+06122024-
+04/12/24
+06/12/24
+1.775,10
+0,00
+0,00
+1.775,10
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:salario 11/2024     analítica:70-salarios     situação:pix
+32
+rosilene felicio dos santos (1)
+06122024-31
+04/12/24
+06/12/24
+400,00
+0,00
+0,00
+400,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:gratificação 11/2024     analítica:63-gratificacao e abonos     situação:pix
+32
+rosilene felicio dos santos (1)
+0612-
+04/12/24
+06/12/24
+18,00
+0,00
+0,00
+18,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+1
+rr sementes ltda (1)
+0612-
+06/12/24
+06/12/24
+1.200,00
+0,00
+0,00
+1.200,00
+0,00
+r$
+06/12/24
+06/12/24
+0,00
+     histórico:descarga sementes tambasa     analítica:123-servicos de terceiros     situação:pix
+1
+rr sementes ltda (1)
+25124-
+06/12/24
+06/12/24
+250,00
+0,00
+0,00
+250,00
+0,00
+r$
+06/12/24
+06/12/24
+0,00
+     histórico:reparo banheiro sala walter - casa dos reparos     analítica:33-manutenção predial     situação:pix
+3359
+ythallo costa lopes (1)
+06122024-
+04/12/24
+06/12/24
+799,64
+0,00
+0,00
+799,64
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:salario 11/2024     analítica:70-salarios     situação:pix
+3359
+ythallo costa lopes (1)
+0612-
+04/12/24
+06/12/24
+30,00
+0,00
+0,00
+30,00
+0,00
+r$
+06/12/24
+04/12/24
+0,00
+     histórico:hora extra 11/2024     analítica:64-horas extras     situação:pix
+13
+adriana da silva ferreira (1)
+10122024-
+30/11/24
+10/12/24
+2.301,73
+0,00
+0,00
+2.301,73
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+14
+agdo da silva ferreira junior (1) 10122024-
+30/11/24
+10/12/24
+12.391,30
+0,00
+0,00
+12.391,30
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+20
+erisvaldo costa gomes (1)
+10122024-
+10/12/24
+10/12/24
+817,90
+0,00
+0,00
+817,90
+0,00
+r$
+10/12/24
+10/12/24
+0,00
+     histórico:acerto de viagem - ba     analítica:120-viagens e estadias     situação:pix
+22
+eucharliston sousa dos santos (10122024-
+30/11/24
+10/12/24
+1.238,28
+0,00
+0,00
+1.238,28
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+3325
+fernanda pereira cardoso (1)
+10122024-
+30/11/24
+10/12/24
+8.576,40
+0,00
+0,00
+8.576,40
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+998
+gabriel barros - argila (1)
+10122024-
+05/11/24
+10/12/24
+31,25
+0,00
+0,00
+31,25
+0,00
+r$
+10/12/24
+05/11/24
+0,00
+     histórico:comissão argila 11/2024     analítica:58-comissoes gratificacao     situação:pix
+53
+gustavo muniz ribas (1)
+10122024-
+30/11/24
+10/12/24
+2.232,67
+0,00
+0,00
+2.232,67
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+2584
+las conceito agronomico (1)
+2141-1/1
+18/11/24
+10/12/24
+2.700,00
+0,00
+0,00
+2.700,00
+0,00
+r$
+10/12/24
+20/11/24
+0,00
+histórico:nf
+número
+1-2141
+nf
+sequência
+1268
+nota
+fiscal
+de
+entradapessoa
+2584-las
+conceito
+agronomico
+nf
+sequência
+-1
+nf
+número  1-2.141     analítica:96-analises laboratoriais     situação:pix
+56
+luma marques matos (1)
+10122024-
+30/11/24
+10/12/24
+13.428,55
+0,00
+0,00
+13.428,55
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+2527
+mayra gas e agua ltda (1)
+468-1/1
+04/12/24
+10/12/24
+420,00
+0,00
+0,00
+420,00
+0,00
+r$
+10/12/24
+10/12/24
+0,00
+histórico:nf
+número
+1-468
+nf
+sequência
+1417
+nota
+fiscal
+de
+entradapessoa
+2527-mayra
+gas
+e
+agua
+ltda
+nf
+sequência
+-1
+nf
+número  1-468     analítica:94-alimentacao     situação:pix
+174
+paulo roberto uchoa (1)
+10122024-
+30/11/24
+10/12/24
+3.985,50
+0,00
+0,00
+3.985,50
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+11
+rafael de deus vieira (1)
+10122024-
+30/11/24
+10/12/24
+1.178,88
+0,00
+0,00
+1.178,88
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+29
+sandoval avelino de lima (1)
+10122024-
+30/11/24
+10/12/24
+2.372,45
+0,00
+0,00
+2.372,45
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+3303
+sergio antonio de souza 00775753 65867324-1/1
+26/11/24
+10/12/24
+681,00
+0,00
+0,00
+681,00
+0,00
+r$
+10/12/24
+27/11/24
+0,00
+histórico:nf
+número
+890-65867324
+nf
+sequência
+1332
+nota
+fiscal
+de
+entradapessoa
+3303-sergio
+antonio
+de
+souza
+00775753777
+nf
+sequência -1  nf número  890-65.867.324     analítica:94-alimentacao
+2250
+sicoob extremo sul (1)
+455131-1-28
+06/06/22
+10/12/24
+8.238,66
+0,00
+0,00
+8.238,66
+0,00
+r$
+10/12/24
+06/06/22
+0,00
+     histórico:importada
+ sementes
+
+pr cane
+<=>
+todos os estabelecimentos
+relatório analítico das contas a pagar por duplicata (quitados)
+ordem: empresa + vencimento + fornecedor
+página 3
+emissão...08/01/2025 07:25:50
+pgto.:01/12/2024 a 31/12/2024
+portador:6.
+fornecedor (estab.)
+valor
+título
+emiss.
+vencto
+juros
+descontos
+pago
+saldo
+moeda
+pagto
+entrada
+interv. moedas: 0 a 99 - valores na moeda de cadastro.
+últ.
+jur. prov
+3347
+sopet comercio e representacao10122024-
+30/11/24
+10/12/24
+3.160,13
+0,00
+0,00
+3.160,13
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+31
+tarcisio costa almendra (1)
+10122024-
+30/11/24
+10/12/24
+359,43
+0,00
+0,00
+359,43
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+208
+telefonica brasil s.a. (1)
+227-4
+10/09/24
+10/12/24
+227,00
+0,00
+0,00
+227,00
+0,00
+r$
+10/12/24
+10/09/24
+0,00
+     histórico:conta vivo junior     analítica:325-telefone movel     situação:pix
+2
+tiago mororo monte (1)
+10122024-
+30/11/24
+10/12/24
+2.301,73
+0,00
+0,00
+2.301,73
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+55
+vitor vilas boas brito (1)
+10122024-
+30/11/24
+10/12/24
+737,82
+0,00
+0,00
+737,82
+0,00
+r$
+10/12/24
+30/11/24
+0,00
+     histórico:comissão 11/2024     analítica:173-comissoes s/vendas     situação:pix
+8
+bruno laignier de oliveira carva 1109-4
+06/08/24
+11/12/24
+17.200,00
+0,00
+0,00
+17.200,00
+0,00
+r$
+11/12/24
+06/08/24
+0,00
+     histórico:boletos custodiados     analítica:369-pagamento de emprestimos     situação:boletos em custódia
+2920
+fenpei com. imp. e export. de maq. 3754-
+13/11/24
+11/12/24
+195,14
+1,00
+0,00
+196,14
+0,00
+r$
+11/12/24
+13/11/24
+0,00
+     histórico:filtro de ar do motor - pá carregadeira     analítica:43-manutenção de máquinas     situação:boleto
+200
+marinalva dias ferreira (1)
+0508-4
+06/08/24
+11/12/24
+13.750,00
+0,00
+0,00
+13.750,00
+0,00
+r$
+11/12/24
+06/08/24
+0,00
+     histórico:boletos custodiados     analítica:369-pagamento de emprestimos     situação:boletos em custódia
+2302
+silveira & esteves (1)
+2024988-1/1
+03/12/24
+11/12/24
+463,00
+0,00
+0,00
+463,00
+0,00
+r$
+11/12/24
+10/12/24
+0,00
+histórico:nf
+número
+1-2024988
+nf
+sequência
+1411
+nota
+fiscal
+de
+entradapessoa
+2302-silveira
+&
+esteves
+nf
+sequência
+-1
+nf
+número  -0     analítica:32-manutenção de veiculos     situação:pix
+39
+tecnoprint comercio e servicos 2024393-1/1
+29/11/24
+11/12/24
+445,00
+0,00
+0,00
+445,00
+0,00
+r$
+11/12/24
+10/12/24
+0,00
+histórico:nf
+número
+001-2024393
+nf
+sequência
+1412
+nota
+fiscal
+de
+entradapessoa
+39-tecnoprint
+comercio
+e
+servicos
+ltda
+nf
+sequência
+-1
+nf
+número
+001-2.024.393
+analítica:138-serviços
+conservacao
+eqptos
+informatica
+situação:duplicatas
+em
+carteira
+225
+bahia secretaria da fazenda (1)
+4545-
+12/12/24
+12/12/24
+46,87
+0,00
+0,00
+46,87
+0,00
+r$
+12/12/24
+12/12/24
+0,00
+     histórico:icms transfporte - nf 4545 / 4547     analítica:149-icms despesas     situação:boleto
+101
+rodrigo de freitas pereira (1)
+12122024-
+12/12/24
+12/12/24
+1.197,00
+0,00
+0,00
+1.197,00
+0,00
+r$
+12/12/24
+12/12/24
+0,00
+     histórico:acerto de viagem - tambasa     analítica:120-viagens e estadias     situação:pix
+1
+rr sementes ltda (1)
+12122024-
+12/12/24
+12/12/24
+240,00
+0,00
+0,00
+240,00
+0,00
+r$
+12/12/24
+12/12/24
+0,00
+histórico:adto
+frete
+tx
+x
+sto
+antonio
+de
+jesis
+-
+cliente
+gustavo
+analítica:178-fretes
+remessas
+mercadorias
+situação:pix
+1
+rr sementes ltda (1)
+12122024-3
+12/12/24
+12/12/24
+2.280,00
+0,00
+0,00
+2.280,00
+0,00
+r$
+12/12/24
+12/12/24
+0,00
+histórico:adto
+frete
+tx
+x
+joão
+pinheiro
+-
+cliente
+de
+paulo
+uchoa
+analítica:178-fretes
+remessas
+mercadorias
+situação:pix
+1
+rr sementes ltda (1)
+13122024-3
+13/12/24
+13/12/24
+160,00
+0,00
+0,00
+160,00
+0,00
+r$
+13/12/24
+13/12/24
+0,00
+histórico:saldo
+frete
+tx
+x
+sto
+antonio
+de
+jesus
+-
+cliente
+gustavo
+analítica:178-fretes
+remessas
+mercadorias
+situação:pix
+8
+bruno laignier de oliveira carva 150824-3
+15/08/24
+15/12/24
+23.000,00
+0,00
+0,00
+23.000,00
+0,00
+r$
+16/12/24
+15/08/24
+0,00
+     histórico:boleto custodiado     analítica:369-pagamento de emprestimos     situação:boletos em custódia
+1055
+rodrigo esteves da cruz (1)
+849-1-10
+14/03/24
+15/12/24
+1.412,00
+0,00
+0,00
+1.412,00
+0,00
+r$
+16/12/24
+14/03/24
+0,00
+     histórico:importada
+1
+rr sementes ltda (1)
+16122024-
+16/12/24
+16/12/24
+1.520,00
+0,00
+0,00
+1.520,00
+0,00
+r$
+16/12/24
+16/12/24
+0,00
+histórico:saldo
+frete
+sementes
+paulo
+uchoa
+-
+(leonardo
+aquino)
+analítica:178-fretes
+remessas
+mercadorias
+situação:pix
+2250
+sicoob extremo sul (1)
+471433-1-26
+29/09/22
+16/12/24
+6.898,31
+0,00
+0,00
+6.898,31
+0,00
+r$
+16/12/24
+29/09/22
+0,00
+     histórico:importada
+3335
+valter oliveira correia (1)
+15082024-3
+15/08/24
+16/12/24
+25.000,00
+0,00
+0,00
+25.000,00
+0,00
+r$
+16/12/24
+15/08/24
+0,00
+     histórico:boleto custodiado     analítica:369-pagamento de emprestimos     situação:boletos em custódia
+919
+rildo ferreira de andrade (1)
+1359-
+02/12/24
+17/12/24
+100.000,00
+0,00
+0,00
+100.000,00
+0,00
+r$
+18/12/24
+02/12/24
+0,00
+     histórico:pagto cheques brasil business     analítica:193-cheques a compensar     situação:cheques a compensar
+1066
+aucimar oliveira santos (1)
+18122024-2
+18/12/24
+18/12/24
+3.244,61
+0,00
+0,00
+3.244,61
+0,00
+r$
+18/12/24
+18/12/24
+0,00
+     histórico:comissão sementes - mg-5 / marandu     analítica:24-comissão sobre compra de sementes     situação:pix
+1114
+joão gilberto scarela (1)
+18122024-1
+18/12/24
+18/12/24
+216.307,16
+0,00
+0,00
+216.307,16
+0,00
+r$
+18/12/24
+18/12/24
+0,00
+     histórico:compra de sementes mg-5 (511.938pp) e marandu (517.110,8pp)     analítica:23-compra de sementes     situação:pix
+1
+rr sementes ltda (1)
+18122024-3
+18/12/24
+18/12/24
+130,00
+0,00
+0,00
+130,00
+0,00
+r$
+18/12/24
+18/12/24
+0,00
+histórico:guincho
+-
+hilux
+-
+oficina
+de
+binho
+p/
+oficina
+de
+helio
+analítica:144-serviços
+transporte
+e
+carregamento
+situação:pix
+20
+erisvaldo costa gomes (1)
+16122024-
+16/12/24
+19/12/24
+210,00
+0,00
+0,00
+210,00
+0,00
+r$
+19/12/24
+16/12/24
+0,00
+     histórico:acerto de viagem - ba     analítica:120-viagens e estadias     situação:pix
+749
+reinaldo martins de sousa (1)
+19122024-
+19/12/24
+19/12/24
+400,00
+0,00
+0,00
+400,00
+0,00
+r$
+19/12/24
+19/12/24
+0,00
+     histórico:adto de viagem     analítica:120-viagens e estadias     situação:pix
+1
+rr sementes ltda (1)
+19122024-
+19/12/24
+19/12/24
+5.500,00
+0,00
+0,00
+5.500,00
+0,00
+r$
+19/12/24
+19/12/24
+0,00
+histórico:bomba
+de
+alta
+hilux
+-
+(grupo
+jb
+com.
+transp.
+peças
+e
+serv.)
+analítica:32-manutenção
+de
+veiculos
+situação:pix
+1
+rr sementes ltda (1)
+1912-
+19/12/24
+19/12/24
+1.100,00
+0,00
+0,00
+1.100,00
+0,00
+r$
+19/12/24
+19/12/24
+0,00
+     histórico:conserto hilux - binho centro automotivo     analítica:32-manutenção de veiculos     situação:pix
+13
+adriana da silva ferreira (1)
+132024-
+13/12/24
+20/12/24
+1.174,31
+0,00
+0,00
+1.174,31
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:2ª parcela 13º salario     analítica:52-13 salario     situação:pix
+13
+adriana da silva ferreira (1)
+20122024-
+13/12/24
+20/12/24
+1.129,60
+0,00
+0,00
+1.129,60
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:adto salario 12/2024     analítica:368-adiantamento a colaborador     situação:pix
+2618
+agro norte representaçoes e ar201224-
+20/12/24
+20/12/24
+16.645,33
+0,00
+0,00
+16.645,33
+0,00
+r$
+20/12/24
+20/12/24
+0,00
+     histórico:acerto termo de acordo     analítica:328-despesas administrativas     situação:pix
+3515
+carlos de souza brito (1)
+1354-1
+13/11/24
+20/12/24
+2.500,00
+0,00
+0,00
+2.500,00
+0,00
+r$
+20/12/24
+13/11/24
+0,00
+histórico:patrocinio
+cafe
+rural
+agronegocios
+-
+cheques
+1353/1354
+analítica:165-patrocinios
+situação:cheques
+a
+compensar
+3493
+eduardo serapiao lima (1)
+132024-
+13/12/24
+20/12/24
+208,86
+0,00
+0,00
+208,86
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:2ª parcela 13º salario     analítica:52-13 salario     situação:pix
+3493
+eduardo serapiao lima (1)
+20122024-
+13/12/24
+20/12/24
+564,80
+0,00
+0,00
+564,80
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:adto salario 12/2024     analítica:368-adiantamento a colaborador     situação:pix
+25
+janio santos assis (1)
+132024-
+13/12/24
+20/12/24
+956,79
+0,00
+0,00
+956,79
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:2ª parcela 13º salario     analítica:52-13 salario     situação:pix
+25
+janio santos assis (1)
+20122024-
+13/12/24
+20/12/24
+1.071,81
+0,00
+0,00
+1.071,81
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+ sementes
+
+pr cane
+<=>
+todos os estabelecimentos
+relatório analítico das contas a pagar por duplicata (quitados)
+ordem: empresa + vencimento + fornecedor
+página 4
+emissão...08/01/2025 07:25:51
+pgto.:01/12/2024 a 31/12/2024
+portador:6.
+fornecedor (estab.)
+valor
+título
+emiss.
+vencto
+juros
+descontos
+pago
+saldo
+moeda
+pagto
+entrada
+interv. moedas: 0 a 99 - valores na moeda de cadastro.
+últ.
+jur. prov
+     histórico:adto salario 12/2024     analítica:368-adiantamento a colaborador     situação:pix
+26
+joabe salvino muniz (1)
+132024-
+13/12/24
+20/12/24
+889,59
+0,00
+0,00
+889,59
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:2ª parcela 13º salario     analítica:52-13 salario     situação:pix
+1048
+oberico rocha de andrade (1)
+132024-
+13/12/24
+20/12/24
+208,86
+0,00
+0,00
+208,86
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:2ª parcela 13º salario     analítica:52-13 salario     situação:pix
+1048
+oberico rocha de andrade (1)
+20122024-
+13/12/24
+20/12/24
+564,80
+0,00
+0,00
+564,80
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:adto salario 12/2024     analítica:368-adiantamento a colaborador     situação:pix
+749
+reinaldo martins de sousa (1)
+20122024-30
+20/12/24
+20/12/24
+400,00
+0,00
+0,00
+400,00
+0,00
+r$
+20/12/24
+20/12/24
+0,00
+     histórico:despesas de viagem     analítica:120-viagens e estadias     situação:pix
+101
+rodrigo de freitas pereira (1)
+132024-
+13/12/24
+20/12/24
+883,30
+0,00
+0,00
+883,30
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:2ª parcela 13º salario     analítica:52-13 salario     situação:pix
+101
+rodrigo de freitas pereira (1)
+20122024-
+13/12/24
+20/12/24
+1.339,92
+0,00
+0,00
+1.339,92
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:adto salario 12/2024     analítica:368-adiantamento a colaborador     situação:pix
+1
+rr sementes ltda (1)
+20122024-27
+20/12/24
+20/12/24
+380,00
+0,00
+0,00
+380,00
+0,00
+r$
+20/12/24
+20/12/24
+0,00
+     histórico:manutençao em viagem     analítica:32-manutenção de veiculos     situação:pix
+3359
+ythallo costa lopes (1)
+20122024-
+13/12/24
+20/12/24
+564,80
+0,00
+0,00
+564,80
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:adto salario 12/2024     analítica:368-adiantamento a colaborador     situação:pix
+3359
+ythallo costa lopes (1)
+132024-
+13/12/24
+20/12/24
+158,86
+0,00
+0,00
+158,86
+0,00
+r$
+20/12/24
+13/12/24
+0,00
+     histórico:2ª parcela 13º salario     analítica:52-13 salario     situação:pix
+2230
+indusfer - industria e comercio d1357-
+28/11/24
+22/12/24
+400,00
+0,00
+0,00
+400,00
+0,00
+r$
+27/12/24
+28/11/24
+0,00
+     histórico:barro (01) - cheque 1357     analítica:193-cheques a compensar     situação:cheques a compensar
+749
+reinaldo martins de sousa (1)
+23122024-
+23/12/24
+23/12/24
+344,00
+0,00
+0,00
+344,00
+0,00
+r$
+23/12/24
+23/12/24
+0,00
+     histórico:acerto de viagem - carbonato     analítica:120-viagens e estadias     situação:pix
+2250
+sicoob extremo sul (1)
+471426-1-27
+28/09/22
+23/12/24
+20.536,25
+0,00
+0,00
+20.536,25
+0,00
+r$
+23/12/24
+28/09/22
+0,00
+     histórico:importada
+14
+agdo da silva ferreira junior (1) 052024-6
+27/05/24
+24/12/24
+9.000,00
+0,00
+0,00
+9.000,00
+0,00
+r$
+24/12/24
+27/05/24
+0,00
+histórico:juros
+emprestimo
+(500.000,00)
+-
+ch
+1304
+analítica:227-juros
+emprestimos
+mutuos
+situação:cheques
+a
+compensar
+20
+erisvaldo costa gomes (1)
+23122024-
+23/12/24
+24/12/24
+968,50
+0,00
+0,00
+968,50
+0,00
+r$
+24/12/24
+23/12/24
+0,00
+     histórico:acerto de viagem - ba     analítica:120-viagens e estadias     situação:pix
+1
+rr sementes ltda (1)
+24122024-4
+24/12/24
+24/12/24
+300,00
+0,00
+0,00
+300,00
+0,00
+r$
+24/12/24
+24/12/24
+0,00
+     histórico:reparo no repara-choque - hilux (charles)     analítica:32-manutenção de veiculos     situação:pix
+1
+rr sementes ltda (1)
+724-
+23/10/24
+24/12/24
+930,00
+0,00
+0,00
+930,00
+0,00
+r$
+24/12/24
+23/10/24
+0,00
+     histórico:manutenção     analítica:32-manutenção de veiculos     situação:pix
+114
+sementes quiagro ltda (1)
+25122024-
+24/12/24
+26/12/24
+3.600,00
+0,00
+0,00
+3.600,00
+0,00
+r$
+26/12/24
+24/12/24
+0,00
+     histórico:nf - 20 ton     analítica:328-despesas administrativas     situação:pix
+2250
+sicoob extremo sul (1)
+398208-1-45
+15/04/21
+26/12/24
+9.178,38
+0,00
+0,00
+9.178,38
+0,00
+r$
+26/12/24
+15/04/21
+0,00
+     histórico:importada
+208
+telefonica brasil s.a. (1)
+627209341-
+04/12/24
+26/12/24
+300,00
+0,00
+0,00
+300,00
+0,00
+r$
+26/12/24
+04/12/24
+0,00
+     histórico:vivo 12/2024 - (99844-4040/99936-4334/99949-4945/99913-2212)     analítica:325-telefone movel     situação:boleto
+208
+telefonica brasil s.a. (1)
+273640747-
+12/12/24
+26/12/24
+144,88
+0,00
+0,00
+144,88
+0,00
+r$
+26/12/24
+12/12/24
+0,00
+     histórico:telefone fixo - 12/2024     analítica:321-telefone fixo     situação:boleto
+14
+agdo da silva ferreira junior (1) 27072024-6
+27/05/24
+27/12/24
+5.400,00
+0,00
+0,00
+5.400,00
+0,00
+r$
+27/12/24
+27/05/24
+0,00
+histórico:juros
+emprestimo
+(300.000,00)
+-
+ch
+1314
+analítica:227-juros
+emprestimos
+mutuos
+situação:cheques
+a
+compensar
+101
+rodrigo de freitas pereira (1)
+27122024-2
+20/12/24
+27/12/24
+2.808,10
+0,00
+0,00
+2.808,10
+0,00
+r$
+27/12/24
+20/12/24
+0,00
+     histórico:rescisão     analítica:68-outras verbas rescisórias     situação:pix
+total da empresa
+689.589,05
+1,00
+0,00
+689.590,05
+0,00
+rr sementes ltda
+0,00
+total geral
+689.589,05
+1,00
+0,00
+689.590,05
+0,00
+# - duplicatas com origem de devolução de venda / os.
+0,00
+ sementes
+
+pr cane
+<=>

@@ -1,0 +1,168 @@
+comprovante de pagamento de
+boleto
+operação realizada com sucesso conforme as informações fornecidas
+pelo cliente.
+banco recebedor:
+caixa econômica federal
+representação numérica do código de
+barras:
+34191.09016 58241.552932 
+83445.180009 2 
+91340000897097
+instituição emissora - nome do banco:
+itau unibanco s.a.
+código do banco:
+341
+código do ispb:
+60701190
+beneficiário original / cedente
+     nome fantasia:
+banco dll brasil sa
+     nome/razão social:
+banco dll brasil sa
+     cpf/cnpj:
+05.040.481/0001-82
+pagador sacado
+     nome/razão social:
+v g transportes e
+granitos ltd
+     cpf/cnpj:
+29.910.143/0001-12
+pagador final - correntista
+     nome/razão social:
+v g transportes e
+granitos ltda
+     cpf/cnpj:
+29.910.143/0001-12
+data do vencimento:
+10/10/2022
+data de efetivação do pagamento /
+agendamento:
+10/10/2022
+valor nominal do boleto:
+8.970,97
+juros (r$):
+0,00
+iof (r$):
+0,00
+multa (r$):
+0,00
+desconto (r$):
+0,00
+abatimento (r$):
+0,00
+valor calculado (r$):
+8.970,97
+valor pago (r$):
+8.970,97
+data/hora da operação:
+10/10/2022 09:17:34
+código da operação:
+083493205
+chave de segurança:
+hpppvh9nktzpq0xl
+* você poderá consultar futuramente essa e outras transações no item
+"transações", opção "consultas - comprovantes".
+24/10/2022 15:09
+i.nter_net___banki-ng...ca-ixa
+https://gerenciador.caixa.gov.br/siibc/imprime_transferencia.processa
+1/1
+comprovante de transferência entre contas da caixa - tev
+via gerenciador financeiro caixa
+emitente:
+phi loc eireli
+conta origem:
+1306 | 003 | 00001829-6
+conta destino:
+1539 | 1288 | 000853664761-0
+nome destinatário:
+alexandre goncalves teixeira
+valor:
+r$ 1.480,00
+data de débito:
+24/10/2022
+data/hora da operação:
+24/10/2022 15:09:19
+código da operação:
+03988590
+chave de segurança:
+fqshmw0qn4pjzh12
+debito realizado com sucesso. a previsao do credito na conta destino e de 30 minutos 
+sac caixa: 0800 726 0101
+pessoas com deficiência auditiva: 0800 726 2492
+ouvidoria: 0800 725 7474
+alô caixa: 0800 104 0104
+24/10/2022 15:08
+i:nt-ernet b-an:king caixa
+https://gerenciador.caixa.gov.br/siibc/imprime_transferencia.processa
+1/1
+comprovante de transferência entre contas da caixa - tev
+via gerenciador financeiro caixa
+emitente:
+phi loc eireli
+conta origem:
+1306 | 003 | 00001829-6
+conta destino:
+0590 | 013 | 00219564-0
+nome
+destinatário:
+antonio marassat
+valor:
+r$ 1.750,00
+data de débito:
+24/10/2022
+data/hora da operação:
+24/10/2022 15:08:14
+código da operação:
+03960356
+chave de segurança:
+tal5174hws2vgng2
+debito realizado com sucesso. a previsao do credito na conta destino e de 30 minutos 
+sac caixa: 0800 726 0101
+pessoas com deficiência auditiva: 0800 726 2492
+ouvidoria: 0800 725 7474
+alô caixa: 0800 104 0104
+25/10/2022
+comprovante de transação pix
+via gerenciador caixa
+detalhes do pagamento
+id da transação: 
+e0036030520221019000278dfe0f03fa
+situação: 
+efetivada
+data e hora: 
+18/10/2022 às 21:02:53
+valor original: 
+r$ 290,00
+valor atualizado: 
+r$ 290,00
+origem
+nome: 
+phi loc eireli
+cnpj: 
+26115382000192
+instituição: 
+caixa economica federal
+destino
+nome: 
+joselio da conceicao rocha
+cpf: 
+xxx.914.997-xx
+instituição: 
+banco inter
+chave pix: 
+03191499784
+código da operação: 
+12051764909
+chave de segurança: 
+10tvmsvqptvpawju
+em caso de dúvidas entre em contato através dos nossos canais de atendimento, e informe o id da transação presente neste
+comprovante. 
+
+alô caixa: 0800 104 0104 (capitais e regiões metropolitanas: 4004-0104) 
+
+sac caixa: 0800 726 0101 
+
+ouvidoria: 0800 725 7474 
+
+pessoas com deficiência auditiva: 0800 726 2492

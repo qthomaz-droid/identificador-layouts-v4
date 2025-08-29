@@ -1,0 +1,3214 @@
+fechamento de conta financeira
+pag.: 1 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estabelecimento:
+0004 - tec servicos e segurança eletronica ltda
+conta:
+0012 - fundo fixo administrativo
+saldo anterior:
+0,00
+0,00
+0,00
+0,00
+0,00
+total da conta(0012 - fundo fixo administrativo):
+0,00
+0,00
+conta:
+0015 - fundo fixo fibra
+saldo anterior:
+0,00
+0,00
+0,00
+0,00
+0,00
+total da conta(0015 - fundo fixo fibra):
+0,00
+0,00
+conta:
+0021 - cerus bank - tec segurança
+saldo anterior:
+103.040,96
+l - 00024
+222,99
+0,00
+103.263,95
+01/08/2023
+serviço de monitoramento
+l - 00018
+222,99
+0,00
+103.486,94
+01/08/2023
+serviço de monitoramento
+l - 00017
+155,55
+0,00
+103.642,49
+01/08/2023
+serviço de monitoramento
+l - 00016
+230,39
+0,00
+103.872,88
+01/08/2023
+serviço de monitoramento
+l - 00019
+367,93
+0,00
+104.240,81
+01/08/2023
+serviço de monitoramento
+l - 00015
+214,66
+0,00
+104.455,47
+01/08/2023
+serviço de monitoramento
+l - 00020
+445,96
+0,00
+104.901,43
+01/08/2023
+serviço de monitoramento
+l - 00022
+208,41
+0,00
+105.109,84
+01/08/2023
+serviço de monitoramento
+l - 00025
+230,39
+0,00
+105.340,23
+01/08/2023
+serviço de monitoramento
+l - 00030
+186,65
+0,00
+105.526,88
+01/08/2023
+serviço de monitoramento
+l - 00023
+230,39
+0,00
+105.757,27
+01/08/2023
+serviço de monitoramento
+l - 00021
+509,73
+0,00
+106.267,00
+01/08/2023
+serviço de monitoramento
+l - 00026
+439,49
+0,00
+106.706,49
+01/08/2023
+serviço de monitoramento
+l - 00014
+860,40
+0,00
+107.566,89
+01/08/2023
+serviço de monitoramento
+l - 00011
+215,65
+0,00
+107.782,54
+01/08/2023
+serviço de monitoramento
+l - 00003
+995,00
+0,00
+108.777,54
+01/08/2023
+serviço de monitoramento
+l - 00002
+4.123,74
+0,00
+112.901,28
+01/08/2023
+venda de itens
+l - 00029
+290,26
+0,00
+113.191,54
+01/08/2023
+serviço de monitoramento
+l - 00004
+291,76
+0,00
+113.483,30
+01/08/2023
+serviço de monitoramento
+l - 00013
+166,08
+0,00
+113.649,38
+01/08/2023
+serviço de monitoramento
+l - 00005
+573,59
+0,00
+114.222,97
+01/08/2023
+serviço de monitoramento
+l - 00007
+583,11
+0,00
+114.806,08
+01/08/2023
+serviço de monitoramento
+l - 00010
+196,17
+0,00
+115.002,25
+01/08/2023
+serviço de monitoramento
+l - 00009
+194,75
+0,00
+115.197,00
+01/08/2023
+serviço de monitoramento
+l - 00008
+217,37
+0,00
+115.414,37
+01/08/2023
+serviço de monitoramento
+l - 00006
+573,59
+0,00
+115.987,96
+01/08/2023
+serviço de monitoramento
+l - 00027
+295,46
+0,00
+116.283,42
+01/08/2023
+serviço de monitoramento
+l - 00028
+0,00
+67,50
+116.215,92
+01/08/2023
+tarifa de cobrança
+t - 00004
+0,00
+22.036,21
+94.179,71
+01/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00001
+0,00
+24.755,42
+69.424,29
+01/08/2023
+salários
+l - 00024
+248,56
+0,00
+69.672,85
+02/08/2023
+serviço de monitoramento
+l - 00023
+248,56
+0,00
+69.921,41
+02/08/2023
+serviço de monitoramento
+l - 00022
+215,65
+0,00
+70.137,06
+02/08/2023
+serviço de monitoramento
+l - 00021
+186,20
+0,00
+70.323,26
+02/08/2023
+serviço de monitoramento
+l - 00020
+278,11
+0,00
+70.601,37
+02/08/2023
+serviço de monitoramento
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 2 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00019
+166,16
+0,00
+70.767,53
+02/08/2023
+serviço de monitoramento
+l - 00025
+248,56
+0,00
+71.016,09
+02/08/2023
+serviço de monitoramento
+l - 00026
+248,56
+0,00
+71.264,65
+02/08/2023
+serviço de monitoramento
+l - 00027
+315,56
+0,00
+71.580,21
+02/08/2023
+serviço de monitoramento
+l - 00028
+134,80
+0,00
+71.715,01
+02/08/2023
+serviço de monitoramento
+l - 00034
+293,13
+0,00
+72.008,14
+02/08/2023
+serviço de monitoramento
+l - 00033
+170,89
+0,00
+72.179,03
+02/08/2023
+serviço de monitoramento
+l - 00018
+188,00
+0,00
+72.367,03
+02/08/2023
+serviço de monitoramento
+l - 00032
+167,19
+0,00
+72.534,22
+02/08/2023
+serviço de monitoramento
+l - 00030
+230,39
+0,00
+72.764,61
+02/08/2023
+serviço de monitoramento
+l - 00029
+631,21
+0,00
+73.395,82
+02/08/2023
+serviço de monitoramento
+l - 00031
+329,78
+0,00
+73.725,60
+02/08/2023
+serviço de monitoramento
+l - 00011
+355,58
+0,00
+74.081,18
+02/08/2023
+serviço de monitoramento
+l - 00016
+296,69
+0,00
+74.377,87
+02/08/2023
+serviço de monitoramento
+l - 00005
+215,00
+0,00
+74.592,87
+02/08/2023
+serviço de monitoramento
+l - 00004
+190,46
+0,00
+74.783,33
+02/08/2023
+serviço de monitoramento
+l - 00006
+332,36
+0,00
+75.115,69
+02/08/2023
+serviço de monitoramento
+l - 00003
+269,37
+0,00
+75.385,06
+02/08/2023
+serviço de monitoramento
+l - 00001
+162,44
+0,00
+75.547,50
+02/08/2023
+serviço de monitoramento
+l - 00017
+166,16
+0,00
+75.713,66
+02/08/2023
+serviço de monitoramento
+l - 00002
+169,76
+0,00
+75.883,42
+02/08/2023
+serviço de monitoramento
+l - 00007
+1.844,30
+0,00
+77.727,72
+02/08/2023
+serviço de monitoramento
+l - 00013
+211,66
+0,00
+77.939,38
+02/08/2023
+serviço de monitoramento
+l - 00014
+253,73
+0,00
+78.193,11
+02/08/2023
+serviço de monitoramento
+l - 00008
+987,14
+0,00
+79.180,25
+02/08/2023
+serviço de monitoramento
+l - 00012
+207,51
+0,00
+79.387,76
+02/08/2023
+serviço de monitoramento
+l - 00010
+186,91
+0,00
+79.574,67
+02/08/2023
+serviço de monitoramento
+l - 00009
+315,92
+0,00
+79.890,59
+02/08/2023
+serviço de monitoramento
+l - 00015
+192,43
+0,00
+80.083,02
+02/08/2023
+serviço de monitoramento
+l - 00037
+0,00
+2,50
+80.080,52
+02/08/2023
+tarifa de cobrança
+l - 00035
+0,00
+87,90
+79.992,62
+02/08/2023
+tarifa bancária
+l - 00001
+301,28
+0,00
+80.293,90
+03/08/2023
+serviço de monitoramento
+l - 00002
+2,00
+0,00
+80.295,90
+03/08/2023
+juros recebidos
+l - 00003
+0,00
+2,50
+80.293,40
+03/08/2023
+tarifa de cobrança
+l - 00001
+1.152,32
+0,00
+81.445,72
+04/08/2023
+venda de itens
+l - 00006
+2,00
+0,00
+81.447,72
+04/08/2023
+juros recebidos
+l - 00005
+254,05
+0,00
+81.701,77
+04/08/2023
+serviço de monitoramento
+l - 00004
+2,00
+0,00
+81.703,77
+04/08/2023
+juros recebidos
+l - 00002
+243,33
+0,00
+81.947,10
+04/08/2023
+serviço de monitoramento
+l - 00003
+126,97
+0,00
+82.074,07
+04/08/2023
+serviço de monitoramento
+l - 00009
+0,00
+10,00
+82.064,07
+04/08/2023
+tarifa de cobrança
+l - 00001
+190,55
+0,00
+82.254,62
+07/08/2023
+serviço de monitoramento
+l - 00003
+166,60
+0,00
+82.421,22
+07/08/2023
+serviço de monitoramento
+l - 00004
+231,48
+0,00
+82.652,70
+07/08/2023
+serviço de monitoramento
+l - 00007
+147,53
+0,00
+82.800,23
+07/08/2023
+serviço de monitoramento
+l - 00012
+500,00
+0,00
+83.300,23
+07/08/2023
+venda de itens
+l - 00011
+176,12
+0,00
+83.476,35
+07/08/2023
+serviço de monitoramento
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 3 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00005
+211,08
+0,00
+83.687,43
+07/08/2023
+serviço de monitoramento
+l - 00009
+0,00
+5,90
+83.681,53
+07/08/2023
+tarifa bancária
+l - 00008
+0,00
+17,50
+83.664,03
+07/08/2023
+tarifa de cobrança
+t - 00008
+0,00
+5.200,00
+78.464,03
+07/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00010
+0,00
+78.000,00
+464,03
+07/08/2023
+distribuição de lucro - rat. diversos
+l - 00002
+312,94
+0,00
+776,97
+08/08/2023
+serviço de monitoramento
+l - 00004
+2,00
+0,00
+778,97
+08/08/2023
+juros recebidos
+l - 00006
+169,72
+0,00
+948,69
+08/08/2023
+serviço de monitoramento
+l - 00003
+165,91
+0,00
+1.114,60
+08/08/2023
+serviço de monitoramento
+l - 00005
+126,97
+0,00
+1.241,57
+08/08/2023
+serviço de monitoramento
+l - 00008
+33.978,19
+0,00
+35.219,76
+08/08/2023
+serviço de monitoramento
+l - 00007
+0,00
+12,50
+35.207,26
+08/08/2023
+tarifa de cobrança
+l - 00001
+839,58
+0,00
+36.046,84
+09/08/2023
+serviço de monitoramento
+l - 00002
+0,00
+2,50
+36.044,34
+09/08/2023
+tarifa de cobrança
+l - 00008
+2,00
+0,00
+36.046,34
+10/08/2023
+juros recebidos
+l - 00014
+194,25
+0,00
+36.240,59
+10/08/2023
+serviço de monitoramento
+l - 00012
+233,37
+0,00
+36.473,96
+10/08/2023
+serviço de monitoramento
+l - 00010
+131,93
+0,00
+36.605,89
+10/08/2023
+serviço de monitoramento
+l - 00013
+143,02
+0,00
+36.748,91
+10/08/2023
+serviço de monitoramento
+l - 00007
+723,51
+0,00
+37.472,42
+10/08/2023
+serviço de monitoramento
+l - 00005
+479,82
+0,00
+37.952,24
+10/08/2023
+serviço de monitoramento
+l - 00006
+290,32
+0,00
+38.242,56
+10/08/2023
+serviço de monitoramento
+l - 00001
+632,45
+0,00
+38.875,01
+10/08/2023
+serviço de monitoramento
+l - 00004
+234,91
+0,00
+39.109,92
+10/08/2023
+serviço de monitoramento
+l - 00002
+184,53
+0,00
+39.294,45
+10/08/2023
+serviço de monitoramento
+l - 00011
+0,00
+22,50
+39.271,95
+10/08/2023
+tarifa de cobrança
+l - 00052
+451,75
+0,00
+39.723,70
+11/08/2023
+serviço de monitoramento
+l - 00054
+420,08
+0,00
+40.143,78
+11/08/2023
+serviço de monitoramento
+l - 00053
+397,54
+0,00
+40.541,32
+11/08/2023
+serviço de monitoramento
+l - 00055
+410,74
+0,00
+40.952,06
+11/08/2023
+serviço de monitoramento
+l - 00058
+415,61
+0,00
+41.367,67
+11/08/2023
+serviço de monitoramento
+l - 00057
+397,54
+0,00
+41.765,21
+11/08/2023
+serviço de monitoramento
+l - 00059
+442,71
+0,00
+42.207,92
+11/08/2023
+serviço de monitoramento
+l - 00060
+379,47
+0,00
+42.587,39
+11/08/2023
+serviço de monitoramento
+l - 00056
+406,58
+0,00
+42.993,97
+11/08/2023
+serviço de monitoramento
+l - 00041
+652,79
+0,00
+43.646,76
+11/08/2023
+serviço de monitoramento
+l - 00050
+379,47
+0,00
+44.026,23
+11/08/2023
+serviço de monitoramento
+l - 00043
+204,16
+0,00
+44.230,39
+11/08/2023
+serviço de monitoramento
+l - 00042
+655,82
+0,00
+44.886,21
+11/08/2023
+serviço de monitoramento
+l - 00070
+194,25
+0,00
+45.080,46
+11/08/2023
+serviço de monitoramento
+l - 00044
+1.040,93
+0,00
+46.121,39
+11/08/2023
+serviço de monitoramento
+l - 00045
+373,15
+0,00
+46.494,54
+11/08/2023
+serviço de monitoramento
+l - 00046
+405,67
+0,00
+46.900,21
+11/08/2023
+serviço de monitoramento
+l - 00049
+390,20
+0,00
+47.290,41
+11/08/2023
+serviço de monitoramento
+l - 00048
+406,58
+0,00
+47.696,99
+11/08/2023
+serviço de monitoramento
+l - 00047
+393,94
+0,00
+48.090,93
+11/08/2023
+serviço de monitoramento
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 4 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00051
+373,15
+0,00
+48.464,08
+11/08/2023
+serviço de monitoramento
+l - 00071
+350,00
+0,00
+48.814,08
+11/08/2023
+serviço de monitoramento
+l - 00087
+0,01
+0,00
+48.814,09
+11/08/2023
+serviço de monitoramento
+l - 00073
+263,14
+0,00
+49.077,23
+11/08/2023
+serviço de monitoramento
+l - 00088
+0,01
+0,00
+49.077,24
+11/08/2023
+serviço de monitoramento
+l - 00089
+0,01
+0,00
+49.077,25
+11/08/2023
+serviço de monitoramento
+l - 00090
+0,01
+0,00
+49.077,26
+11/08/2023
+serviço de monitoramento
+l - 00096
+600,00
+0,00
+49.677,26
+11/08/2023
+serviço de monitoramento
+l - 00091
+0,01
+0,00
+49.677,27
+11/08/2023
+venda de itens
+l - 00093
+0,01
+0,00
+49.677,28
+11/08/2023
+serviço de monitoramento
+l - 00094
+0,01
+0,00
+49.677,29
+11/08/2023
+serviço de monitoramento
+l - 00097
+316,23
+0,00
+49.993,52
+11/08/2023
+serviço de monitoramento
+l - 00092
+0,01
+0,00
+49.993,53
+11/08/2023
+serviço de monitoramento
+l - 00095
+1.161,72
+0,00
+51.155,25
+11/08/2023
+serviço de monitoramento
+l - 00086
+0,01
+0,00
+51.155,26
+11/08/2023
+venda de itens
+l - 00074
+616,07
+0,00
+51.771,33
+11/08/2023
+serviço de monitoramento
+l - 00075
+171,86
+0,00
+51.943,19
+11/08/2023
+serviço de monitoramento
+l - 00076
+559,17
+0,00
+52.502,36
+11/08/2023
+serviço de monitoramento
+l - 00072
+420,08
+0,00
+52.922,44
+11/08/2023
+serviço de monitoramento
+l - 00077
+350,00
+0,00
+53.272,44
+11/08/2023
+serviço de monitoramento
+l - 00082
+0,01
+0,00
+53.272,45
+11/08/2023
+serviço de monitoramento
+l - 00084
+0,01
+0,00
+53.272,46
+11/08/2023
+serviço de monitoramento
+l - 00085
+0,01
+0,00
+53.272,47
+11/08/2023
+serviço de monitoramento
+l - 00081
+0,01
+0,00
+53.272,48
+11/08/2023
+serviço de monitoramento
+l - 00005
+3.571,41
+0,00
+56.843,89
+11/08/2023
+venda de itens
+l - 00039
+248,45
+0,00
+57.092,34
+11/08/2023
+serviço de monitoramento
+l - 00007
+517,00
+0,00
+57.609,34
+11/08/2023
+serviço de monitoramento
+l - 00006
+245,04
+0,00
+57.854,38
+11/08/2023
+serviço de monitoramento
+l - 00004
+710,91
+0,00
+58.565,29
+11/08/2023
+serviço de monitoramento
+l - 00008
+279,77
+0,00
+58.845,06
+11/08/2023
+serviço de monitoramento
+l - 00009
+950,08
+0,00
+59.795,14
+11/08/2023
+serviço de monitoramento
+l - 00010
+207,86
+0,00
+60.003,00
+11/08/2023
+serviço de monitoramento
+l - 00014
+316,22
+0,00
+60.319,22
+11/08/2023
+serviço de monitoramento
+l - 00012
+264,52
+0,00
+60.583,74
+11/08/2023
+serviço de monitoramento
+l - 00011
+898,85
+0,00
+61.482,59
+11/08/2023
+serviço de monitoramento
+l - 00003
+1.152,91
+0,00
+62.635,50
+11/08/2023
+venda de itens
+l - 00002
+100,00
+0,00
+62.735,50
+11/08/2023
+serviço de monitoramento
+l - 00001
+248,17
+0,00
+62.983,67
+11/08/2023
+venda de itens
+l - 00063
+386,70
+0,00
+63.370,37
+11/08/2023
+serviço de monitoramento
+l - 00062
+343,33
+0,00
+63.713,70
+11/08/2023
+serviço de monitoramento
+l - 00061
+343,33
+0,00
+64.057,03
+11/08/2023
+serviço de monitoramento
+l - 00064
+140,16
+0,00
+64.197,19
+11/08/2023
+serviço de monitoramento
+l - 00040
+415,61
+0,00
+64.612,80
+11/08/2023
+serviço de monitoramento
+l - 00066
+283,26
+0,00
+64.896,06
+11/08/2023
+serviço de monitoramento
+l - 00069
+200,70
+0,00
+65.096,76
+11/08/2023
+serviço de monitoramento
+l - 00068
+200,70
+0,00
+65.297,46
+11/08/2023
+serviço de monitoramento
+l - 00067
+154,01
+0,00
+65.451,47
+11/08/2023
+serviço de monitoramento
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 5 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00015
+252,98
+0,00
+65.704,45
+11/08/2023
+serviço de monitoramento
+l - 00016
+227,48
+0,00
+65.931,93
+11/08/2023
+serviço de monitoramento
+l - 00065
+237,42
+0,00
+66.169,35
+11/08/2023
+serviço de monitoramento
+l - 00019
+239,89
+0,00
+66.409,24
+11/08/2023
+serviço de monitoramento
+l - 00031
+401,41
+0,00
+66.810,65
+11/08/2023
+serviço de monitoramento
+l - 00030
+576,00
+0,00
+67.386,65
+11/08/2023
+serviço de monitoramento
+l - 00029
+242,23
+0,00
+67.628,88
+11/08/2023
+serviço de monitoramento
+l - 00032
+174,33
+0,00
+67.803,21
+11/08/2023
+serviço de monitoramento
+l - 00033
+230,07
+0,00
+68.033,28
+11/08/2023
+serviço de monitoramento
+l - 00034
+207,60
+0,00
+68.240,88
+11/08/2023
+serviço de monitoramento
+l - 00018
+2.790,64
+0,00
+71.031,52
+11/08/2023
+serviço de monitoramento
+l - 00037
+260,13
+0,00
+71.291,65
+11/08/2023
+serviço de monitoramento
+l - 00036
+1.522,60
+0,00
+72.814,25
+11/08/2023
+serviço de monitoramento
+l - 00028
+265,31
+0,00
+73.079,56
+11/08/2023
+serviço de monitoramento
+l - 00035
+188,72
+0,00
+73.268,28
+11/08/2023
+serviço de monitoramento
+l - 00026
+159,13
+0,00
+73.427,41
+11/08/2023
+serviço de monitoramento
+l - 00021
+332,31
+0,00
+73.759,72
+11/08/2023
+serviço de monitoramento
+l - 00022
+813,15
+0,00
+74.572,87
+11/08/2023
+serviço de monitoramento
+l - 00027
+178,76
+0,00
+74.751,63
+11/08/2023
+serviço de monitoramento
+l - 00023
+294,05
+0,00
+75.045,68
+11/08/2023
+serviço de monitoramento
+l - 00025
+326,72
+0,00
+75.372,40
+11/08/2023
+serviço de monitoramento
+l - 00038
+271,05
+0,00
+75.643,45
+11/08/2023
+serviço de monitoramento
+l - 00024
+298,01
+0,00
+75.941,46
+11/08/2023
+serviço de monitoramento
+l - 00020
+485,42
+0,00
+76.426,88
+11/08/2023
+serviço de monitoramento
+l - 00080
+0,00
+2,50
+76.424,38
+11/08/2023
+tarifa de cobrança
+l - 00079
+0,00
+195,00
+76.229,38
+11/08/2023
+tarifa de cobrança
+l - 00001
+221,36
+0,00
+76.450,74
+14/08/2023
+serviço de monitoramento
+l - 00003
+0,00
+2,50
+76.448,24
+14/08/2023
+tarifa de cobrança
+l - 00002
+0,00
+5,90
+76.442,34
+14/08/2023
+tarifa bancária
+t - 00004
+0,00
+20.000,00
+56.442,34
+14/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00002
+170,70
+0,00
+56.613,04
+15/08/2023
+serviço de monitoramento
+l - 00001
+259,08
+0,00
+56.872,12
+15/08/2023
+serviço de monitoramento
+l - 00003
+0,00
+5,00
+56.867,12
+15/08/2023
+tarifa de cobrança
+l - 00022
+4.314,19
+0,00
+61.181,31
+16/08/2023
+serviço de monitoramento
+l - 00001
+310,57
+0,00
+61.491,88
+16/08/2023
+serviço de monitoramento
+l - 00003
+500,00
+0,00
+61.991,88
+16/08/2023
+serviço de monitoramento
+l - 00004
+250,00
+0,00
+62.241,88
+16/08/2023
+serviço de monitoramento
+l - 00008
+262,01
+0,00
+62.503,89
+16/08/2023
+serviço de monitoramento
+l - 00021
+143,77
+0,00
+62.647,66
+16/08/2023
+serviço de monitoramento
+l - 00009
+350,00
+0,00
+62.997,66
+16/08/2023
+serviço de monitoramento
+l - 00005
+250,00
+0,00
+63.247,66
+16/08/2023
+serviço de monitoramento
+l - 00013
+403,67
+0,00
+63.651,33
+16/08/2023
+serviço de monitoramento
+l - 00026
+868,00
+0,00
+64.519,33
+16/08/2023
+venda de itens
+l - 00012
+301,45
+0,00
+64.820,78
+16/08/2023
+serviço de monitoramento
+l - 00014
+532,93
+0,00
+65.353,71
+16/08/2023
+serviço de monitoramento
+l - 00011
+343,87
+0,00
+65.697,58
+16/08/2023
+serviço de monitoramento
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 6 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00015
+1.050,75
+0,00
+66.748,33
+16/08/2023
+serviço de monitoramento
+l - 00023
+482,27
+0,00
+67.230,60
+16/08/2023
+venda de itens
+l - 00019
+22.350,00
+0,00
+89.580,60
+16/08/2023
+serviço de monitoramento
+l - 00025
+295,74
+0,00
+89.876,34
+16/08/2023
+venda de itens
+l - 00024
+2.450,00
+0,00
+92.326,34
+16/08/2023
+venda de itens
+l - 00027
+1.080,44
+0,00
+93.406,78
+16/08/2023
+venda de itens
+l - 00020
+0,00
+47,50
+93.359,28
+16/08/2023
+tarifa de cobrança
+l - 00004
+2,00
+0,00
+93.361,28
+17/08/2023
+juros recebidos
+l - 00003
+384,06
+0,00
+93.745,34
+17/08/2023
+serviço de monitoramento
+l - 00001
+0,00
+2,50
+93.742,84
+17/08/2023
+tarifa de cobrança
+l - 00002
+0,00
+5,90
+93.736,94
+17/08/2023
+tarifa bancária
+t - 00003
+0,00
+20.000,00
+73.736,94
+17/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00001
+237,38
+0,00
+73.974,32
+18/08/2023
+serviço de monitoramento
+l - 00003
+0,00
+2,50
+73.971,82
+18/08/2023
+tarifa de cobrança
+l - 00002
+0,00
+114,90
+73.856,92
+18/08/2023
+tarifa bancária
+t - 00005
+0,00
+30.000,00
+43.856,92
+18/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00010
+100,00
+0,00
+43.956,92
+22/08/2023
+serviço de monitoramento
+l - 00012
+2.041,72
+0,00
+45.998,64
+22/08/2023
+venda de itens
+l - 00013
+652,54
+0,00
+46.651,18
+22/08/2023
+venda de itens
+l - 00007
+288,33
+0,00
+46.939,51
+22/08/2023
+serviço de monitoramento
+l - 00003
+1.688,71
+0,00
+48.628,22
+22/08/2023
+serviço de monitoramento
+l - 00001
+600,00
+0,00
+49.228,22
+22/08/2023
+serviço de monitoramento
+l - 00008
+470,00
+0,00
+49.698,22
+22/08/2023
+serviço de monitoramento
+l - 00004
+500,00
+0,00
+50.198,22
+22/08/2023
+serviço de monitoramento
+l - 00005
+253,40
+0,00
+50.451,62
+22/08/2023
+serviço de monitoramento
+l - 00006
+326,73
+0,00
+50.778,35
+22/08/2023
+serviço de monitoramento
+l - 00011
+0,00
+26,80
+50.751,55
+22/08/2023
+tarifa de cobrança
+t - 00005
+10.000,00
+0,00
+60.751,55
+24/08/2023
+transferência da sicoob tec segurança p/ cerus bank - tec 
+segurança
+l - 00001
+0,00
+0,90
+60.750,65
+25/08/2023
+tarifa de cobrança
+l - 00008
+2,00
+0,00
+60.752,65
+28/08/2023
+juros recebidos
+l - 00010
+2.130,99
+0,00
+62.883,64
+28/08/2023
+venda de itens
+l - 00007
+242,25
+0,00
+63.125,89
+28/08/2023
+serviço de monitoramento
+l - 00003
+1.890,53
+0,00
+65.016,42
+28/08/2023
+venda de itens
+l - 00002
+410,00
+0,00
+65.426,42
+28/08/2023
+serviço de monitoramento
+l - 00001
+214,13
+0,00
+65.640,55
+28/08/2023
+serviço de monitoramento
+l - 00005
+1.666,66
+0,00
+67.307,21
+28/08/2023
+serviço de monitoramento
+l - 00011
+147,70
+0,00
+67.454,91
+28/08/2023
+venda de itens
+l - 00009
+0,00
+17,50
+67.437,41
+28/08/2023
+tarifa de cobrança
+l - 00002
+995,00
+0,00
+68.432,41
+29/08/2023
+serviço de monitoramento
+l - 00001
+4.123,74
+0,00
+72.556,15
+29/08/2023
+venda de itens
+l - 00003
+0,00
+5,90
+72.550,25
+29/08/2023
+tarifa de cobrança
+l - 00002
+166,16
+0,00
+72.716,41
+30/08/2023
+serviço de monitoramento
+l - 00004
+0,00
+2,50
+72.713,91
+30/08/2023
+tarifa de cobrança
+l - 00003
+0,00
+5,90
+72.708,01
+30/08/2023
+tarifa bancária
+l - 00001
+0,00
+2.703,86
+70.004,15
+30/08/2023
+férias
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 7 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+t - 00007
+0,00
+69.615,85
+388,30
+30/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+t - 00005
+2.556,41
+0,00
+2.944,71
+31/08/2023
+transferência da itau cerus bank - tec seguranca p/ cerus bank - tec 
+segurança
+l - 00001
+0,00
+2.556,41
+388,30
+31/08/2023
+férias
+388,30
+total da conta(0021 - cerus bank - tec segurança):
+172.890,09
+275.542,75
+conta:
+0022 - sicoob tec segurança
+saldo anterior:
+2.427,68
+l - 00001
+211,91
+0,00
+2.639,59
+01/08/2023
+serviço de monitoramento
+l - 00002
+0,00
+25,85
+2.613,74
+01/08/2023
+tarifa bancária
+l - 00003
+0,00
+309,97
+2.303,77
+01/08/2023
+aquisição de equipamentos - revenda
+l - 00001
+155,82
+0,00
+2.459,59
+02/08/2023
+venda de itens
+l - 00002
+766,69
+0,00
+3.226,28
+03/08/2023
+venda de itens
+l - 00003
+257,50
+0,00
+3.483,78
+03/08/2023
+serviço de monitoramento
+l - 00001
+233,31
+0,00
+3.717,09
+03/08/2023
+serviço de monitoramento
+l - 00005
+0,00
+1.000,00
+2.717,09
+03/08/2023
+gratificações
+l - 00004
+0,00
+1.000,00
+1.717,09
+03/08/2023
+gratificações
+l - 00001
+380,00
+0,00
+2.097,09
+07/08/2023
+serviço de monitoramento
+l - 00005
+0,00
+84,81
+2.012,28
+07/08/2023
+taxas e anuidades
+l - 00003
+0,00
+146,68
+1.865,60
+07/08/2023
+taxas e anuidades
+l - 00006
+0,00
+146,99
+1.718,61
+07/08/2023
+telefone fixo
+l - 00002
+0,00
+200,00
+1.518,61
+07/08/2023
+materiais e serviços clientes
+l - 00007
+0,00
+310,50
+1.208,11
+07/08/2023
+materiais e serviços clientes
+l - 00004
+0,00
+753,51
+454,60
+07/08/2023
+taxas e anuidades
+l - 00002
+229,76
+0,00
+684,36
+08/08/2023
+serviço de monitoramento
+l - 00001
+229,76
+0,00
+914,12
+08/08/2023
+serviço de monitoramento
+l - 00001
+189,74
+0,00
+1.103,86
+09/08/2023
+serviço de monitoramento
+l - 00002
+0,00
+667,15
+436,71
+09/08/2023
+custas judiciais / honorários judiciais
+l - 00008
+150,78
+0,00
+587,49
+10/08/2023
+serviço de monitoramento
+l - 00001
+242,25
+0,00
+829,74
+10/08/2023
+serviço de monitoramento
+l - 00007
+150,78
+0,00
+980,52
+10/08/2023
+serviço de monitoramento
+l - 00002
+209,72
+0,00
+1.190,24
+10/08/2023
+serviço de monitoramento
+l - 00003
+150,78
+0,00
+1.341,02
+10/08/2023
+serviço de monitoramento
+l - 00006
+150,78
+0,00
+1.491,80
+10/08/2023
+serviço de monitoramento
+l - 00017
+142,50
+0,00
+1.634,30
+10/08/2023
+serviço de monitoramento
+l - 00005
+150,78
+0,00
+1.785,08
+10/08/2023
+serviço de monitoramento
+l - 00016
+150,78
+0,00
+1.935,86
+10/08/2023
+serviço de monitoramento
+l - 00014
+296,33
+0,00
+2.232,19
+10/08/2023
+serviço de monitoramento
+l - 00009
+150,78
+0,00
+2.382,97
+10/08/2023
+serviço de monitoramento
+l - 00010
+150,78
+0,00
+2.533,75
+10/08/2023
+serviço de monitoramento
+l - 00015
+296,33
+0,00
+2.830,08
+10/08/2023
+serviço de monitoramento
+l - 00011
+150,78
+0,00
+2.980,86
+10/08/2023
+serviço de monitoramento
+l - 00013
+296,33
+0,00
+3.277,19
+10/08/2023
+serviço de monitoramento
+l - 00012
+286,81
+0,00
+3.564,00
+10/08/2023
+serviço de monitoramento
+l - 00004
+150,78
+0,00
+3.714,78
+10/08/2023
+serviço de monitoramento
+l - 00018
+0,00
+1.603,71
+2.111,07
+10/08/2023
+capital de giro - sicob
+l - 00002
+248,46
+0,00
+2.359,53
+14/08/2023
+serviço de monitoramento
+l - 00001
+248,46
+0,00
+2.607,99
+14/08/2023
+serviço de monitoramento
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 8 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+t - 00005
+800,00
+0,00
+3.407,99
+14/08/2023
+transferência da itau cerus bank - tec seguranca p/ sicoob tec 
+segurança
+l - 00003
+0,00
+2.764,00
+643,99
+14/08/2023
+manutenção de sistema / rede
+l - 00001
+0,00
+150,00
+493,99
+15/08/2023
+materiais e serviços clientes
+l - 00001
+128,17
+0,00
+622,16
+18/08/2023
+venda de itens
+l - 00004
+229,28
+0,00
+851,44
+21/08/2023
+serviço de monitoramento
+l - 00001
+203,72
+0,00
+1.055,16
+21/08/2023
+serviço de monitoramento
+l - 00008
+130,33
+0,00
+1.185,49
+21/08/2023
+serviço de monitoramento
+l - 00007
+133,00
+0,00
+1.318,49
+21/08/2023
+serviço de monitoramento
+l - 00009
+4.422,83
+0,00
+5.741,32
+21/08/2023
+serviço de monitoramento
+l - 00006
+197,50
+0,00
+5.938,82
+21/08/2023
+serviço de monitoramento
+l - 00003
+130,33
+0,00
+6.069,15
+21/08/2023
+serviço de monitoramento
+l - 00002
+122,87
+0,00
+6.192,02
+21/08/2023
+serviço de monitoramento
+l - 00005
+155,70
+0,00
+6.347,72
+21/08/2023
+serviço de monitoramento
+l - 00010
+6.579,73
+0,00
+12.927,45
+21/08/2023
+serviço de monitoramento
+l - 00001
+248,46
+0,00
+13.175,91
+22/08/2023
+serviço de monitoramento
+l - 00002
+0,00
+550,75
+12.625,16
+23/08/2023
+aquisição de equipamentos - revenda
+l - 00001
+0,00
+2.536,01
+10.089,15
+23/08/2023
+capital de giro - sicob
+t - 00005
+0,00
+10.000,00
+89,15
+24/08/2023
+transferência da sicoob tec segurança p/ cerus bank - tec 
+segurança
+l - 00001
+225,67
+0,00
+314,82
+25/08/2023
+serviço de monitoramento
+l - 00002
+225,67
+0,00
+540,49
+25/08/2023
+serviço de monitoramento
+l - 00003
+0,00
+285,82
+254,67
+25/08/2023
+seguro de vida
+l - 00001
+130,00
+0,00
+384,67
+28/08/2023
+serviço de monitoramento
+l - 00001
+0,00
+355,74
+28,93
+29/08/2023
+aquisição de equipamentos - revenda
+l - 00002
+134,52
+0,00
+163,45
+30/08/2023
+serviço de monitoramento
+l - 00003
+236,07
+0,00
+399,52
+30/08/2023
+serviço de monitoramento
+l - 00001
+134,52
+0,00
+534,04
+30/08/2023
+serviço de monitoramento
+l - 00002
+860,40
+0,00
+1.394,44
+31/08/2023
+serviço de monitoramento
+l - 00001
+1.125,00
+0,00
+2.519,44
+31/08/2023
+serviço de monitoramento
+t - 00004
+3.000,00
+0,00
+5.519,44
+31/08/2023
+transferência da itau cerus bank - tec seguranca p/ sicoob tec 
+segurança
+l - 00004
+0,00
+914,83
+4.604,61
+31/08/2023
+impostos parcelados
+l - 00003
+0,00
+4.533,50
+71,11
+31/08/2023
+impostos parcelados
+71,11
+total da conta(0022 - sicoob tec segurança):
+25.983,25
+28.339,82
+conta:
+0026 - itau cerus bank - fibra negocios
+saldo anterior:
+0,00
+0,00
+0,00
+0,00
+0,00
+total da conta(0026 - itau cerus bank - fibra negocios):
+0,00
+0,00
+conta:
+0029 - itau cerus bank - tec seguranca
+saldo anterior:
+0,00
+t - 00004
+22.036,21
+0,00
+22.036,21
+01/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00004
+0,00
+145,00
+21.891,21
+01/08/2023
+aquisição equipamentos
+l - 00003
+0,00
+204,98
+21.686,23
+01/08/2023
+aquisição de equipamentos - revenda
+l - 00002
+0,00
+1.789,62
+19.896,61
+01/08/2023
+aquisição de equipamentos - revenda
+l - 00001
+0,00
+2.000,00
+17.896,61
+01/08/2023
+assessoria jurídica
+l - 00002
+0,00
+62,00
+17.834,61
+02/08/2023
+tarifa bancária
+l - 00001
+0,00
+650,00
+17.184,61
+02/08/2023
+materiais e serviços clientes
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 9 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00001
+0,00
+1,32
+17.183,29
+03/08/2023
+tarifa bancária
+l - 00009
+0,00
+7,00
+17.176,29
+03/08/2023
+tarifas cartões corporativos
+l - 00005
+0,00
+225,98
+16.950,31
+03/08/2023
+aquisição de equipamentos - revenda
+l - 00006
+0,00
+400,36
+16.549,95
+03/08/2023
+aquisição de equipamentos - revenda
+l - 00004
+0,00
+440,00
+16.109,95
+03/08/2023
+aquisição de ar condicionado
+l - 00008
+0,00
+539,70
+15.570,25
+03/08/2023
+aquisição equipamentos
+l - 00003
+0,00
+1.146,50
+14.423,75
+03/08/2023
+reforma / reparos
+l - 00007
+0,00
+2.916,91
+11.506,84
+03/08/2023
+aquisição de equipamentos - revenda
+l - 00002
+0,00
+3.064,36
+8.442,48
+03/08/2023
+manutenção móveis, máquinas e eqp
+l - 00002
+953,33
+0,00
+9.395,81
+04/08/2023
+serviço de monitoramento
+l - 00005
+6.542,16
+0,00
+15.937,97
+04/08/2023
+venda de itens
+l - 00003
+0,00
+2,22
+15.935,75
+04/08/2023
+tarifa bancária
+l - 00004
+0,00
+2.345,29
+13.590,46
+04/08/2023
+fgts
+t - 00008
+5.200,00
+0,00
+18.790,46
+07/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00001
+0,00
+750,00
+18.040,46
+07/08/2023
+materiais e serviços clientes
+l - 00004
+290,26
+0,00
+18.330,72
+08/08/2023
+serviço de monitoramento
+l - 00003
+0,00
+0,95
+18.329,77
+08/08/2023
+tarifa bancária
+l - 00002
+0,00
+8.253,78
+10.075,99
+08/08/2023
+comissões de vendas
+l - 00005
+285,97
+0,00
+10.361,96
+09/08/2023
+venda de itens
+l - 00004
+0,00
+0,95
+10.361,01
+09/08/2023
+tarifa bancária
+l - 00002
+0,00
+922,66
+9.438,35
+09/08/2023
+aquisição de equipamentos - revenda
+l - 00003
+0,00
+1.450,00
+7.988,35
+09/08/2023
+materiais e serviços clientes
+l - 00007
+0,00
+26,52
+7.961,83
+10/08/2023
+materiais e serviços clientes
+l - 00009
+0,00
+150,00
+7.811,83
+10/08/2023
+materiais e serviços clientes
+l - 00008
+0,00
+188,32
+7.623,51
+10/08/2023
+telefone fixo
+l - 00006
+0,00
+238,62
+7.384,89
+10/08/2023
+materiais e serviços clientes
+l - 00005
+0,00
+341,38
+7.043,51
+10/08/2023
+aquisição equipamentos
+l - 00004
+0,00
+356,88
+6.686,63
+10/08/2023
+custas judiciais / honorários judiciais
+l - 00010
+0,00
+389,82
+6.296,81
+10/08/2023
+iss s/faturamento
+l - 00002
+0,00
+978,15
+5.318,66
+10/08/2023
+materiais e serviços clientes
+l - 00003
+0,00
+1.504,00
+3.814,66
+10/08/2023
+aquisição software e eqp informática
+l - 00001
+0,00
+1.538,99
+2.275,67
+10/08/2023
+materiais e serviços clientes
+l - 00001
+181,39
+0,00
+2.457,06
+11/08/2023
+serviço de monitoramento
+l - 00007
+3.246,25
+0,00
+5.703,31
+11/08/2023
+venda de itens
+l - 00003
+753,75
+0,00
+6.457,06
+11/08/2023
+serviço de monitoramento
+l - 00006
+0,00
+2,85
+6.454,21
+11/08/2023
+tarifa bancária
+l - 00004
+0,00
+617,38
+5.836,83
+11/08/2023
+aquisição de equipamentos - revenda
+l - 00005
+0,00
+3.050,00
+2.786,83
+11/08/2023
+materiais e serviços clientes
+t - 00004
+20.000,00
+0,00
+22.786,83
+14/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00007
+0,00
+276,60
+22.510,23
+14/08/2023
+aquisição de equipamentos - revenda
+l - 00002
+0,00
+351,53
+22.158,70
+14/08/2023
+materiais e serviços clientes
+t - 00005
+0,00
+800,00
+21.358,70
+14/08/2023
+transferência da itau cerus bank - tec seguranca p/ sicoob tec 
+segurança
+l - 00005
+0,00
+1.343,09
+20.015,61
+14/08/2023
+acordos trabalhistas
+l - 00003
+0,00
+1.452,00
+18.563,61
+14/08/2023
+materiais e serviços clientes
+l - 00001
+0,00
+1.777,00
+16.786,61
+14/08/2023
+materiais e serviços clientes
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 10 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00004
+0,00
+2.616,77
+14.169,84
+14/08/2023
+aquisição de equipamentos - revenda
+l - 00006
+0,00
+3.380,27
+10.789,57
+14/08/2023
+aquisição de equipamentos - revenda
+l - 00001
+247,58
+0,00
+11.037,15
+15/08/2023
+serviço de monitoramento
+l - 00007
+0,00
+0,95
+11.036,20
+15/08/2023
+tarifa bancária
+l - 00003
+0,00
+38,54
+10.997,66
+15/08/2023
+materiais e serviços clientes
+l - 00005
+0,00
+242,45
+10.755,21
+15/08/2023
+materiais e serviços clientes
+l - 00004
+0,00
+346,87
+10.408,34
+15/08/2023
+materiais e serviços clientes
+l - 00006
+0,00
+478,92
+9.929,42
+15/08/2023
+plano odontológico
+l - 00002
+0,00
+1.700,04
+8.229,38
+15/08/2023
+materiais e serviços clientes
+l - 00025
+292,32
+0,00
+8.521,70
+16/08/2023
+venda de itens
+l - 00026
+1.179,99
+0,00
+9.701,69
+16/08/2023
+venda de itens
+l - 00027
+236,58
+0,00
+9.938,27
+16/08/2023
+venda de itens
+l - 00004
+301,28
+0,00
+10.239,55
+16/08/2023
+serviço de monitoramento
+l - 00003
+175,00
+0,00
+10.414,55
+16/08/2023
+serviço de monitoramento
+l - 00005
+250,00
+0,00
+10.664,55
+16/08/2023
+serviço de monitoramento
+l - 00022
+0,00
+0,01
+10.664,54
+16/08/2023
+juros - conta corrente
+l - 00020
+0,00
+5,70
+10.658,84
+16/08/2023
+tarifa bancária
+l - 00024
+0,00
+67,02
+10.591,82
+16/08/2023
+sistema de consulta /neg./ass.
+l - 00009
+0,00
+90,00
+10.501,82
+16/08/2023
+materiais e serviços clientes
+l - 00008
+0,00
+120,00
+10.381,82
+16/08/2023
+materiais e serviços clientes
+l - 00010
+0,00
+150,00
+10.231,82
+16/08/2023
+materiais e serviços clientes
+l - 00007
+0,00
+154,04
+10.077,78
+16/08/2023
+materiais e serviços clientes
+l - 00012
+0,00
+300,00
+9.777,78
+16/08/2023
+materiais e serviços clientes
+l - 00013
+0,00
+300,00
+9.477,78
+16/08/2023
+materiais e serviços clientes
+l - 00015
+0,00
+300,00
+9.177,78
+16/08/2023
+materiais e serviços clientes
+l - 00018
+0,00
+345,00
+8.832,78
+16/08/2023
+aquisição equipamentos
+l - 00023
+0,00
+1.066,21
+7.766,57
+16/08/2023
+aquisição de equipamentos - revenda
+l - 00019
+0,00
+1.475,72
+6.290,85
+16/08/2023
+aquisição de equipamentos - revenda
+l - 00021
+0,00
+2.088,05
+4.202,80
+16/08/2023
+aquisição de equipamentos - revenda
+l - 00011
+0,00
+2.646,00
+1.556,80
+16/08/2023
+materiais e serviços clientes
+t - 00003
+20.000,00
+0,00
+21.556,80
+17/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00008
+0,00
+1,19
+21.555,61
+17/08/2023
+juros - conta corrente
+l - 00004
+0,00
+41,81
+21.513,80
+17/08/2023
+provedor de internet
+l - 00003
+0,00
+195,00
+21.318,80
+17/08/2023
+provedor de internet
+l - 00001
+0,00
+400,00
+20.918,80
+17/08/2023
+manutenção de sistema / rede
+l - 00009
+0,00
+415,14
+20.503,66
+17/08/2023
+aquisição equipamentos
+l - 00005
+0,00
+450,87
+20.052,79
+17/08/2023
+provedor de internet
+l - 00002
+0,00
+694,55
+19.358,24
+17/08/2023
+materiais e serviços clientes
+l - 00007
+0,00
+721,03
+18.637,21
+17/08/2023
+aquisição equipamentos
+l - 00006
+0,00
+1.240,35
+17.396,86
+17/08/2023
+telefone fixo
+t - 00005
+30.000,00
+0,00
+47.396,86
+18/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00001
+0,00
+4.252,37
+43.144,49
+18/08/2023
+inss
+l - 00002
+0,00
+4.527,64
+38.616,85
+18/08/2023
+icms
+l - 00001
+1.606,85
+0,00
+40.223,70
+21/08/2023
+serviços terceirizados
+l - 00009
+0,00
+0,95
+40.222,75
+21/08/2023
+tarifa bancária
+l - 00003
+0,00
+99,90
+40.122,85
+21/08/2023
+aluguel
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 11 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00004
+0,00
+127,98
+39.994,87
+21/08/2023
+aluguel
+l - 00008
+0,00
+508,02
+39.486,85
+21/08/2023
+manutenção central telefônica
+l - 00005
+0,00
+584,75
+38.902,10
+21/08/2023
+aquisição de equipamentos - revenda
+l - 00007
+0,00
+1.982,78
+36.919,32
+21/08/2023
+aquisição software e eqp informática
+l - 00002
+0,00
+2.458,86
+34.460,46
+21/08/2023
+aquisição de equipamentos - revenda
+l - 00006
+0,00
+2.737,08
+31.723,38
+21/08/2023
+aquisição de equipamentos - revenda
+l - 00001
+0,00
+1.233,00
+30.490,38
+22/08/2023
+aquisição de equipamentos - revenda
+l - 00001
+0,00
+0,30
+30.490,08
+23/08/2023
+tarifa bancária
+l - 00007
+268,78
+0,00
+30.758,86
+25/08/2023
+venda de itens
+l - 00006
+0,00
+0,95
+30.757,91
+25/08/2023
+tarifa bancária
+l - 00002
+0,00
+136,13
+30.621,78
+25/08/2023
+aluguel de servidor (nuvem)
+l - 00003
+0,00
+620,66
+30.001,12
+25/08/2023
+pis s/faturamento
+l - 00005
+0,00
+1.665,00
+28.336,12
+25/08/2023
+materiais e serviços clientes
+l - 00004
+0,00
+2.864,43
+25.471,69
+25/08/2023
+cofins s/faturamento
+l - 00013
+222,79
+0,00
+25.694,48
+28/08/2023
+venda de itens
+l - 00001
+605,54
+0,00
+26.300,02
+28/08/2023
+serviço de monitoramento
+l - 00014
+306,61
+0,00
+26.606,63
+28/08/2023
+venda de itens
+l - 00011
+526,66
+0,00
+27.133,29
+28/08/2023
+venda de itens
+l - 00005
+80,00
+0,00
+27.213,29
+28/08/2023
+serviço de monitoramento
+l - 00010
+0,00
+4,90
+27.208,39
+28/08/2023
+tarifa bancária
+l - 00007
+0,00
+364,00
+26.844,39
+28/08/2023
+manutenção de sistema / rede
+l - 00008
+0,00
+667,99
+26.176,40
+28/08/2023
+aquisição de equipamentos - revenda
+l - 00006
+0,00
+1.116,51
+25.059,89
+28/08/2023
+provedor de internet
+l - 00012
+0,00
+3.048,23
+22.011,66
+28/08/2023
+aquisição de equipamentos - revenda
+l - 00001
+177,77
+0,00
+22.189,43
+29/08/2023
+serviço de monitoramento
+l - 00002
+196,18
+0,00
+22.385,61
+29/08/2023
+serviço de monitoramento
+l - 00004
+166,08
+0,00
+22.551,69
+29/08/2023
+serviço de monitoramento
+l - 00003
+0,00
+0,01
+22.551,68
+29/08/2023
+outras despesas
+l - 00005
+0,00
+2,85
+22.548,83
+29/08/2023
+tarifa bancária
+l - 00002
+188,00
+0,00
+22.736,83
+30/08/2023
+serviço de monitoramento
+l - 00001
+166,16
+0,00
+22.902,99
+30/08/2023
+serviço de monitoramento
+t - 00007
+69.615,85
+0,00
+92.518,84
+30/08/2023
+transferência da cerus bank - tec segurança p/ itau cerus bank - tec 
+seguranca
+l - 00006
+0,00
+2,05
+92.516,79
+30/08/2023
+tarifa bancária
+l - 00003
+0,00
+485,41
+92.031,38
+30/08/2023
+aquisição de equipamentos - revenda
+l - 00004
+0,00
+750,00
+91.281,38
+30/08/2023
+materiais e serviços clientes
+l - 00005
+0,00
+1.770,00
+89.511,38
+30/08/2023
+materiais e serviços clientes
+l - 00003
+301,45
+0,00
+89.812,83
+31/08/2023
+serviço de monitoramento
+l - 00002
+291,76
+0,00
+90.104,59
+31/08/2023
+serviço de monitoramento
+l - 00004
+5.374,34
+0,00
+95.478,93
+31/08/2023
+serviço de monitoramento
+l - 00001
+987,14
+0,00
+96.466,07
+31/08/2023
+serviço de monitoramento
+l - 00010
+0,00
+3,80
+96.462,27
+31/08/2023
+tarifa bancária
+l - 00011
+0,00
+284,93
+96.177,34
+31/08/2023
+aquisição de equipamentos - revenda
+l - 00008
+0,00
+285,40
+95.891,94
+31/08/2023
+aquisição de equipamentos - revenda
+l - 00005
+0,00
+837,23
+95.054,71
+31/08/2023
+impostos parcelados
+l - 00006
+0,00
+1.145,00
+93.909,71
+31/08/2023
+materiais e serviços clientes
+t - 00005
+0,00
+2.556,41
+91.353,30
+31/08/2023
+transferência da itau cerus bank - tec seguranca p/ cerus bank - tec 
+segurança
+segunda-feira, 23 de outubro de 2023
+continua...
+ 09:18:51
+fechamento de conta financeira
+pag.: 12 de 12
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 4.962.9
+usuário: gabriel
+estabelecimento(s): 0004 - tec servicos e segurança eletronica ltda
+período dos lançamentos: 01/08/2023 até 31/08/2023
+imprimir estabelecimentos/contas sem movimento no período (marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+t - 00004
+0,00
+3.000,00
+88.353,30
+31/08/2023
+transferência da itau cerus bank - tec seguranca p/ sicoob tec 
+segurança
+88.353,30
+total da conta(0029 - itau cerus bank - tec seguranca):
+193.254,03
+104.900,73
+total do estabelecimento(0004 - tec servicos e segurança eletronica ltda):
+88.812,71
+392.127,37
+408.783,30
+total geral:
+88.812,71
+105.468,64
+saldo anterior:
+392.127,37
+408.783,30
+cartão
+crédito
+débito
+faturas
+208.918,91
+cheque
+0,00
+208.763,09
+155,82
+faturas a prazo
+faturas a vista
+segunda-feira, 23 de outubro de 2023
+fim
+ 09:18:51

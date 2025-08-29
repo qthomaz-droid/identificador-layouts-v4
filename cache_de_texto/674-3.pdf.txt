@@ -1,0 +1,47 @@
+06/07/2022
+comprovante de agendamento pix
+via gerenciador caixa
+detalhes do pagamento
+id da transação: 
+e00360305202207081200529a93c5c1c
+descrição: 
+aluguel kitnet
+data e hora: 
+2022-07-06t08:59:19.301
+data efetivação: 
+08/07/2022
+valor: 
+r$ 550,00
+origem
+nome: 
+rolim machado piaui ltda me
+cpf/cnpj: 
+17649383000126
+instituição: 
+caixa economica federal
+destino
+nome: 
+ana carolina lopes rodrigues
+cpf/cnpj: 
+***.066.566-**
+instituição: 
+itaú unibanco s.a.
+código da operação: 
+9040415974
+chave de segurança: 
+kmrp51w2rrrf038h
+caso não haja saldo disponível na data da transferência, a operação não será realizada.
+
+agendamentos somente podem ser cancelados até o dia anterior a data programada. 
+
+em caso de dúvidas entre em contato através dos nossos canais de atendimento, e informe o id da transação
+presente neste comprovante. 
+
+alô caixa: 0800 104 0104 (capitais e regiões metropolitanas: 4004-0104) 
+
+sac caixa: 0800 726 0101 
+
+ouvidoria: 0800 725 7474 
+
+pessoas com deficiência auditiva: 0800 726 2492
+https://gerenciador.caixa.gov.br/empresa/dashboard/pix/pagamento/efetivar

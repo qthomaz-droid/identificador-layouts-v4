@@ -1,0 +1,1386 @@
+data:
+hora:
+04/04/2025
+18:19:23
+página: 1 / 7
+245 - cronológico de títulos a pagar
+1-mercearia martins
+ordem: data e número do titulo     periodo: 01/03/2025 a 31/03/2025     data de vencimento     situacao de titulos: liquidados     layout: g
+filtros:
+unidade(s) de negócio: todas
+data de vencimento - 01/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+145 - manutenção de sistema
+tipo
+1
+01/03/2025 480 - proton sistemas ltda
+267-1
+25/10/2024 682,50
+0,00
+0,00
+0,00
+28/02/2025
+1
+total de títulos do centro de custo 145: 1
+682,50
+valor total:
+total de títulos da data de vencimento 01/03/2025: 1
+682,50
+valor total:
+data de vencimento - 03/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+237 - internet
+tipo
+1
+03/03/2025 223 - eanet provedor ltda
+106847-1
+01/01/2025 64,99
+0,00
+0,00
+0,00
+10/03/2025
+1
+total de títulos do centro de custo 237: 1
+64,99
+valor total:
+total de títulos da data de vencimento 03/03/2025: 1
+64,99
+valor total:
+data de vencimento - 05/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+117 - outras despesas administr
+tipo
+1
+05/03/2025 208 -
+48225-1
+30/01/2025 1.251,30
+0,00
+0,00
+0,00
+28/02/2025
+1
+total de títulos do centro de custo 117: 1
+1.251,30
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+256 - despesas p santos
+tipo
+1
+05/03/2025 208 -
+48228-1
+25/02/2025 348,30
+0,00
+0,00
+0,00
+05/03/2025
+1
+total de títulos do centro de custo 256: 1
+348,30
+valor total:
+total de títulos da data de vencimento 05/03/2025: 2
+1.599,60
+valor total:
+data de vencimento - 07/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+115 - agua / esgoto
+tipo
+1
+07/03/2025 206 -
+101107439-1
+08/02/2025 298,28
+0,00
+0,00
+0,00
+05/03/2025
+1
+1
+07/03/2025 206 -
+101117329-1
+08/02/2025 105,35
+0,00
+0,00
+0,00
+05/03/2025
+1
+1
+07/03/2025 206 -
+185792383-1
+07/02/2025 41,18
+0,00
+0,00
+0,00
+05/03/2025
+1
+1
+07/03/2025 206 -
+4432201-1
+08/02/2025 160,69
+0,00
+0,00
+0,00
+05/03/2025
+1
+total de títulos do centro de custo 115: 4
+605,50
+valor total:
+total de títulos da data de vencimento 07/03/2025: 4
+605,50
+valor total:
+data de vencimento - 09/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+253 - dae
+tipo
+1
+09/03/2025 257 - governo do estado da ba
+24032025-1
+03/02/2025 55.964,26
+0,00
+0,00
+0,00
+10/03/2025
+1
+1
+09/03/2025 257 - governo do estado da ba
+25032025-1
+02/02/2025 466,22
+0,00
+0,00
+0,00
+10/03/2025
+1
+total de títulos do centro de custo 253: 2
+56.430,48
+valor total:
+total de títulos da data de vencimento 09/03/2025: 2
+56.430,48
+valor total:
+data de vencimento - 10/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+10/03/2025 22 - avinor avicola do nordeste ltda.
+678070-1
+05/03/2025 4.022,50
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+10/03/2025 26 - gujao alimentos s/a
+1300325-1
+05/03/2025 2.191,97
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+10/03/2025 26 - gujao alimentos s/a
+1300324-1
+05/03/2025 3.618,38
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+10/03/2025 26 - gujao alimentos s/a
+1300323-1
+05/03/2025 4.650,61
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+10/03/2025 26 - gujao alimentos s/a
+1300326-1
+05/03/2025 371,86
+0,00
+0,00
+0,00
+25/03/2025
+1
+total de títulos do centro de custo 216: 5
+14.855,32
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+237 - internet
+tipo
+data:
+hora:
+04/04/2025
+18:19:23
+página: 2 / 7
+245 - cronológico de títulos a pagar
+1-mercearia martins
+ordem: data e número do titulo     periodo: 01/03/2025 a 31/03/2025     data de vencimento     situacao de titulos: liquidados     layout: g
+1
+10/03/2025 223 - eanet provedor ltda
+83384-1
+01/01/2025 99,99
+0,00
+0,00
+0,00
+10/03/2025
+1
+1
+10/03/2025 445 - a a informatica e manutencao ltda
+585721-1
+01/01/2025 80,00
+0,00
+0,00
+0,00
+10/03/2025
+1
+total de títulos do centro de custo 237: 2
+179,99
+valor total:
+total de títulos da data de vencimento 10/03/2025: 7
+15.035,31
+valor total:
+data de vencimento - 11/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+108 - energia elétrica
+tipo
+1
+11/03/2025 205 -
+21542-1
+03/03/2025 63,83
+0,00
+0,00
+0,00
+17/03/2025
+1
+total de títulos do centro de custo 108: 1
+63,83
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+11/03/2025 8 - soldisbel distribuidora ltda
+1960154-1
+05/03/2025 3.500,00
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+11/03/2025 8 - soldisbel distribuidora ltda
+1960153-1
+05/03/2025 3.500,00
+0,00
+0,00
+0,00
+25/03/2025
+1
+total de títulos do centro de custo 216: 2
+7.000,00
+valor total:
+total de títulos da data de vencimento 11/03/2025: 3
+7.063,83
+valor total:
+data de vencimento - 12/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+94 - descontos obtidos fornecedor
+tipo
+1
+12/03/2025 10003 - dende light ind de prod
+13961-1
+12/03/2025 836,35
+0,00
+0,00
+0,00
+25/03/2025
+1
+total de títulos do centro de custo 94: 1
+836,35
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+108 - energia elétrica
+tipo
+1
+12/03/2025 205 -
+2580422-1
+26/02/2025 327,43
+0,00
+0,00
+0,00
+17/03/2025
+1
+1
+12/03/2025 205 -
+30001762-1
+26/02/2025 115,15
+0,00
+0,00
+0,00
+17/03/2025
+1
+total de títulos do centro de custo 108: 2
+442,58
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+12/03/2025 15 - dist de prod alim sao roque ltda
+3731670-1
+12/03/2025 29,34
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+12/03/2025 15 - dist de prod alim sao roque ltda
+3731669-1
+12/03/2025 20,57
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 2
+49,91
+valor total:
+total de títulos da data de vencimento 12/03/2025: 5
+1.328,84
+valor total:
+data de vencimento - 13/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+108 - energia elétrica
+tipo
+1
+13/03/2025 205 -
+202220-1
+26/02/2025 112,57
+0,00
+0,00
+0,00
+17/03/2025
+1
+total de títulos do centro de custo 108: 1
+112,57
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+13/03/2025 20 - nestle brasil ltda
+3186853-1
+06/03/2025 3.798,99
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+13/03/2025 20 - nestle brasil ltda
+3186692-1
+06/03/2025 68,74
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+13/03/2025 20 - nestle brasil ltda
+3186709-1
+06/03/2025 3.444,76
+0,00
+0,00
+0,00
+26/03/2025
+1
+total de títulos do centro de custo 216: 3
+7.312,49
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+256 - despesas p santos
+tipo
+1
+13/03/2025 257 - governo do estado da ba
+130320251-1
+05/03/2025 6.217,17
+0,00
+0,00
+0,00
+20/03/2025
+1
+1
+13/03/2025 257 - governo do estado da ba
+13032025-1
+01/03/2025 163,60
+0,00
+0,00
+0,00
+20/03/2025
+1
+total de títulos do centro de custo 256: 2
+6.380,77
+valor total:
+total de títulos da data de vencimento 13/03/2025: 6
+13.805,83
+valor total:
+data de vencimento - 14/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+14/03/2025 427 -
+104323-1
+07/03/2025 1.650,00
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+14/03/2025 427 -
+104322-1
+07/03/2025 4.402,80
+0,00
+0,00
+0,00
+25/03/2025
+1
+data:
+hora:
+04/04/2025
+18:19:23
+página: 3 / 7
+245 - cronológico de títulos a pagar
+1-mercearia martins
+ordem: data e número do titulo     periodo: 01/03/2025 a 31/03/2025     data de vencimento     situacao de titulos: liquidados     layout: g
+total de títulos do centro de custo 216: 2
+6.052,80
+valor total:
+total de títulos da data de vencimento 14/03/2025: 2
+6.052,80
+valor total:
+data de vencimento - 15/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+158 - outras despesas financeiras
+tipo
+1
+15/03/2025 482 - mix fiscal inteligencia tributaria
+81638-1
+11/03/2025 523,47
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 158: 1
+523,47
+valor total:
+total de títulos da data de vencimento 15/03/2025: 1
+523,47
+valor total:
+data de vencimento - 16/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+16/03/2025 8 - soldisbel distribuidora ltda
+1961826-1
+10/03/2025 4.968,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+16/03/2025 8 - soldisbel distribuidora ltda
+1961827-1
+10/03/2025 4.800,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 2
+9.768,00
+valor total:
+total de títulos da data de vencimento 16/03/2025: 2
+9.768,00
+valor total:
+data de vencimento - 17/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+108 - energia elétrica
+tipo
+1
+17/03/2025 205 -
+7089-1
+21/02/2025 112,57
+0,00
+0,00
+0,00
+17/03/2025
+1
+total de títulos do centro de custo 108: 1
+112,57
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+17/03/2025 26 - gujao alimentos s/a
+1304131-1
+13/03/2025 4.447,28
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+17/03/2025 99 -
+895956-1
+28/02/2025 541,41
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+17/03/2025 22 - avinor avicola do nordeste ltda.
+679162-1
+12/03/2025 2.337,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+17/03/2025 156 - o l industria de papeis ltda
+124916-1
+10/03/2025 8.116,17
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+17/03/2025 54 - arcom s/a
+3631791-1
+28/02/2025 828,56
+0,00
+0,00
+0,00
+25/03/2025
+1
+total de títulos do centro de custo 216: 5
+16.270,42
+valor total:
+total de títulos da data de vencimento 17/03/2025: 6
+16.382,99
+valor total:
+data de vencimento - 18/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+18/03/2025 26 - gujao alimentos s/a
+1304130-1
+13/03/2025 6.241,90
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+18/03/2025 8 - soldisbel distribuidora ltda
+1960124-1
+05/03/2025 382,00
+0,00
+0,00
+0,00
+25/03/2025
+1
+total de títulos do centro de custo 216: 2
+6.623,90
+valor total:
+total de títulos da data de vencimento 18/03/2025: 2
+6.623,90
+valor total:
+data de vencimento - 19/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+19/03/2025 400 -
+333446-1
+05/03/2025 566,70
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+19/03/2025 28 - rio branco alimentos s/a
+1323491-1
+04/03/2025 322,50
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+19/03/2025 28 - rio branco alimentos s/a
+1323492-1
+04/03/2025 8.137,38
+0,00
+0,00
+0,00
+26/03/2025
+1
+total de títulos do centro de custo 216: 3
+9.026,58
+valor total:
+total de títulos da data de vencimento 19/03/2025: 3
+9.026,58
+valor total:
+data de vencimento - 20/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+209 - outros impostos
+tipo
+1
+20/03/2025 257 - governo do estado da ba
+19032025-1
+05/03/2025 559,98
+0,00
+0,00
+0,00
+20/03/2025
+1
+total de títulos do centro de custo 209: 1
+559,98
+valor total:
+data:
+hora:
+04/04/2025
+18:19:23
+página: 4 / 7
+245 - cronológico de títulos a pagar
+1-mercearia martins
+ordem: data e número do titulo     periodo: 01/03/2025 a 31/03/2025     data de vencimento     situacao de titulos: liquidados     layout: g
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+20/03/2025 200 - divinus massas e salgados ltda
+60776-1
+28/02/2025 1.236,71
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+20/03/2025 15 - dist de prod alim sao roque ltda
+3725965-1
+27/02/2025 735,62
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+20/03/2025 65 - inbahia rep.e distribuicoes ltda
+898238-1
+12/03/2025 1.590,00
+0,00
+0,00
+0,00
+26/03/2025
+1
+total de títulos do centro de custo 216: 3
+3.562,33
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+256 - despesas p santos
+tipo
+1
+20/03/2025 257 - governo do estado da ba
+1434542-1
+05/03/2025 2.660,86
+0,00
+0,00
+0,00
+20/03/2025
+1
+1
+20/03/2025 257 - governo do estado da ba
+21245-1
+05/03/2025 3.436,09
+0,00
+0,00
+0,00
+20/03/2025
+1
+1
+20/03/2025 257 - governo do estado da ba
+14032025-1
+05/03/2025 4.386,28
+0,00
+0,00
+0,00
+20/03/2025
+1
+total de títulos do centro de custo 256: 3
+10.483,23
+valor total:
+total de títulos da data de vencimento 20/03/2025: 7
+14.605,54
+valor total:
+data de vencimento - 21/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+21/03/2025 10001 - gp7 jequie distribuidor de bebidas
+107218-1
+14/03/2025 4.502,83
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 1
+4.502,83
+valor total:
+total de títulos da data de vencimento 21/03/2025: 1
+4.502,83
+valor total:
+data de vencimento - 22/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+22/03/2025 52 -
+901941-1
+07/03/2025 595,72
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+22/03/2025 36 - unimarka distribuidora s/a
+1261896-1
+08/03/2025 752,80
+0,00
+0,00
+0,00
+26/03/2025
+1
+1
+22/03/2025 342 - p e l agroindustria de laticinios ltda
+1230775-1
+01/03/2025 1.136,32
+0,00
+0,00
+0,00
+25/03/2025
+1
+total de títulos do centro de custo 216: 3
+2.484,84
+valor total:
+total de títulos da data de vencimento 22/03/2025: 3
+2.484,84
+valor total:
+data de vencimento - 23/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+23/03/2025 8 - soldisbel distribuidora ltda
+1964404-1
+17/03/2025 236,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 1
+236,00
+valor total:
+total de títulos da data de vencimento 23/03/2025: 1
+236,00
+valor total:
+data de vencimento - 24/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+24/03/2025 95 - unimix com de frios e transp ltda
+287568-1
+10/03/2025 1.988,19
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+24/03/2025 57 - cabral & sousa ltda
+1845187-1
+17/03/2025 879,70
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+24/03/2025 26 - gujao alimentos s/a
+1306845-1
+19/03/2025 4.774,86
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+24/03/2025 26 - gujao alimentos s/a
+1306846-1
+19/03/2025 5.083,66
+0,00
+0,00
+0,00
+26/03/2025
+1
+1
+24/03/2025 22 - avinor avicola do nordeste ltda.
+680138-1
+19/03/2025 792,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 5
+13.518,41
+valor total:
+total de títulos da data de vencimento 24/03/2025: 5
+13.518,41
+valor total:
+data de vencimento - 25/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+25/03/2025 43 -
+596329-1
+18/03/2025 746,16
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+25/03/2025 124 -
+509-1
+25/03/2025 1.396,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 2
+2.142,16
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+253 - dae
+tipo
+1
+25/03/2025 257 - governo do estado da ba
+2175-1
+10/03/2025 2.430,55
+0,00
+0,00
+0,00
+25/03/2025
+1
+1
+25/03/2025 257 - governo do estado da ba
+2036-1
+10/03/2025 21,02
+0,00
+0,00
+0,00
+25/03/2025
+1
+data:
+hora:
+04/04/2025
+18:19:23
+página: 5 / 7
+245 - cronológico de títulos a pagar
+1-mercearia martins
+ordem: data e número do titulo     periodo: 01/03/2025 a 31/03/2025     data de vencimento     situacao de titulos: liquidados     layout: g
+total de títulos do centro de custo 253: 2
+2.451,57
+valor total:
+total de títulos da data de vencimento 25/03/2025: 4
+4.593,73
+valor total:
+data de vencimento - 26/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+26/03/2025 85 - armazem top alto ltda
+1615021-1
+12/03/2025 794,45
+0,00
+0,00
+0,00
+26/03/2025
+1
+1
+26/03/2025 15 - dist de prod alim sao roque ltda
+3728355-1
+05/03/2025 424,72
+0,00
+0,00
+0,00
+26/03/2025
+1
+1
+26/03/2025 338 - a pina dos santos delezzotte eireli
+221873-1
+10/03/2025 290,68
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+26/03/2025 222 - cervejaria petropolis s/a
+207455-1
+04/03/2025 3.212,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 4
+4.721,85
+valor total:
+total de títulos da data de vencimento 26/03/2025: 4
+4.721,85
+valor total:
+data de vencimento - 27/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+27/03/2025 64 - avigro avicola agroindustrial ltda.
+865120-1
+06/03/2025 422,80
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+27/03/2025 4 - vale bahia ind. e com. de alimentos ltda
+112633-1
+06/03/2025 177,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+27/03/2025 407 - jbs s/a
+973173-1
+06/03/2025 1.319,17
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+27/03/2025 15 - dist de prod alim sao roque ltda
+3725965-2
+27/02/2025 735,63
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+27/03/2025 414 - seara alimentos ltda
+309077-1
+06/03/2025 306,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+27/03/2025 414 - seara alimentos ltda
+309081-1
+06/03/2025 708,31
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+27/03/2025 15 - dist de prod alim sao roque ltda
+3725968-1
+27/02/2025 321,97
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 7
+3.990,88
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+240 - 13o salario de vendedores
+tipo
+1
+27/03/2025 15 - dist de prod alim sao roque ltda
+3725968-1
+27/02/2025 321,98
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 240: 1
+321,98
+valor total:
+total de títulos da data de vencimento 27/03/2025: 7
+4.312,86
+valor total:
+data de vencimento - 28/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+161 - publicidade
+tipo
+1
+28/03/2025 316 -
+47-1
+28/03/2025 170,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 161: 1
+170,00
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo
+1
+28/03/2025 52 -
+902965-1
+14/03/2025 4.013,70
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+28/03/2025 52 -
+902967-1
+14/03/2025 4.179,00
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+28/03/2025 28 - rio branco alimentos s/a
+1328618-1
+14/03/2025 3.625,09
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+28/03/2025 321 - decminas distribuicao e logistica sa
+697966-1
+07/03/2025 320,08
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+28/03/2025 20 - nestle brasil ltda
+3194489-1
+21/03/2025 1.923,04
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+28/03/2025 222 - cervejaria petropolis s/a
+208350-1
+06/03/2025 731,10
+0,00
+0,00
+0,00
+31/03/2025
+1
+1
+28/03/2025 427 -
+109878-1
+21/03/2025 10.605,34
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 216: 7
+25.397,35
+valor total:
+total de títulos da data de vencimento 28/03/2025: 8
+25.567,35
+valor total:
+data de vencimento - 29/03/2025
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+39 - iof
+tipo
+1
+29/03/2025 63 - laticinio marianna ltda
+1909920-1
+07/03/2025 106,41
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 39: 1
+106,41
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+143 - pessoa jurídica
+tipo
+1
+29/03/2025 63 - laticinio marianna ltda
+1909920-1
+07/03/2025 106,41
+0,00
+0,00
+0,00
+31/03/2025
+1
+total de títulos do centro de custo 143: 1
+106,41
+valor total:
+un vencimento cod - fornecedor
+título - parcela emissão
+valor c.custo
+juros título
+desconto título saldo título
+pagamento
+216 - fornecedores de mercadorias
+tipo

@@ -1,0 +1,3356 @@
+ 
+bh pecas - painel do contador - extrato
+ 
+ 
+emitido por contabil macrocont em 09/05/2023 17:19
+situação
+data
+cliente ou fornecedor (nome fantasia)
+tipo de
+documento
+documento
+valor (r$) saldo (r$) categoria
+conta corrente
+nota fiscal
+parcela nosso númeroorigem
+pedidovendedor
+projeto cliente ou fornecedor (razão social)
+cliente ou fornecedor
+(cnpj/cpf)
+observações
+incluído em
+31/12/2022 saldo anterior
+0
+-152931.92
+01/01/2023 saldo
+0
+-152931.92
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+526.66
+-152405.26clientes - revenda de mercadoria
+itaú unibanco
+00024891
+001/001
+recebimento
+23859
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 000116 dep chq
+30/12/2022
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152424.44tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152443.62tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152462.80tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-17.62
+-152480.42tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152499.60tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-17.58
+-152517.18tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152536.36tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152555.54tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152574.72tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152593.90tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152613.08tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152632.26tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152651.44tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-23.98
+-152675.42tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152694.60tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152713.78tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152732.96tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152752.14tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152771.32tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152790.50tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152809.68tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152828.86tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152848.04tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152867.22tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152886.40tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152905.58tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152924.76tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152943.94tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152963.12tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-19.18
+-152982.30tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023
+tarifa
+-34.38
+-153016.68tarifas bancárias
+mercado livre
+pagamento
+tarifa de venda mercado livre
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001320701/3
+-48.46
+-153065.14compras de mercadorias para revenda itaú unibanco
+001320701
+003/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001320276/3
+-58.44
+-153123.58compras de mercadorias para revenda itaú unibanco
+001320276
+003/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 ultrapress cargas ltda
+ct-e
+000858299/1
+-79.50
+-153203.08frete
+itaú unibanco
+000858299
+001/001
+pagamento
+ultrapress cargas ltda
+02.612.250/0003-70
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008289363/1
+-129.47
+-153332.55compras de mercadorias para revenda itaú unibanco
+008289363
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008289360/1
+-144.86
+-153477.41compras de mercadorias para revenda itaú unibanco
+008289360
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001320275/3
+-226.91
+-153704.32compras de mercadorias para revenda itaú unibanco
+001320275
+003/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008289364/1
+-232.67
+-153936.99compras de mercadorias para revenda itaú unibanco
+008289364
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 ultrapress cargas ltda
+ct-e
+000858357/1
+-721.84
+-154658.83frete
+itaú unibanco
+000858357
+001/001
+pagamento
+ultrapress cargas ltda
+02.612.250/0003-70
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008289361/1
+-742.71
+-155401.54compras de mercadorias para revenda itaú unibanco
+008289361
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008289359/1
+-900.35
+-156301.89compras de mercadorias para revenda itaú unibanco
+008289359
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001351108/1
+-1281.23
+-157583.12compras de mercadorias para revenda itaú unibanco
+001351108
+001/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sigma
+nota fiscal eletrônica
+000005583/5
+-1431.75
+-159014.87compras de mercadorias para revenda itaú unibanco
+000005583
+005/005
+pagamento
+sigma international brands brasil importacao e
+exportacao lt
+11.724.160/0001-08
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 plastjuca
+nota fiscal eletrônica
+000001198/1
+-1599.03
+-160613.90compras de mercadorias para revenda itaú unibanco
+000001198
+001/004
+pagamento
+plastjuca pecas plasticas ltda
+43.789.880/0001-30
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001320193/3
+-1703.87
+-162317.77compras de mercadorias para revenda itaú unibanco
+001320193
+003/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008289362/1
+-2763.95
+-165081.72compras de mercadorias para revenda itaú unibanco
+008289362
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 cp placas eletronicas
+nota fiscal eletrônica
+000091226/3
+-3969.26
+-169050.98compras de mercadorias para revenda itaú unibanco
+000091226
+003/003
+pagamento
+cp placas eletronicas ltda
+13.848.752/0001-59
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008289365/1
+-4060.80
+-173111.78compras de mercadorias para revenda itaú unibanco
+008289365
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001320192/3
+-6686.85
+-179798.63compras de mercadorias para revenda itaú unibanco
+001320192
+003/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 jose carlos bernardo gomes
+devolução
+342
+-179456.63clientes - revenda de mercadoria
+caixinha
+00026893
+001/002
+recebimento
+25757
+jairo fernandes gurgel
+jose carlos bernardo gomes
+268.214.786-00
+02/01/2023
+conciliado
+02/01/2023 eef vendas ltda
+devolução
+54
+-179402.63clientes - revenda de mercadoria
+caixinha
+00026889
+001/002
+recebimento
+25714
+eduardo soares
+eef vendas ltda
+47.805.144/0001-89
+02/01/2023
+conciliado
+02/01/2023 eef vendas ltda
+outros
+-54
+-179456.63clientes - revenda de mercadoria
+caixinha
+00026879
+001/001
+pagamento
+1067
+eduardo soares
+eef vendas ltda
+47.805.144/0001-89
+refere - se à devolução do pedido de venda nº 24612 - nota fiscal 00025750 (31221237531963000121550010000257501927863389)
+02/01/2023
+conciliado
+02/01/2023 rodrigo ferreira da conceicao
+depósito
+69.90
+-179386.73clientes - revenda de mercadoria
+mercado livre
+00026845
+001/001
+recebimento
+25715
+wanderson dos santos
+rodrigo ferreira da conceicao
+013.852.126-32
+02/01/2023
+conciliado
+02/01/2023 geovani cesar de farias torres
+depósito
+78.90
+-179307.83clientes - revenda de mercadoria
+mercado livre
+00026843
+001/001
+recebimento
+25712
+wanderson dos santos
+geovani cesar de farias torres
+277.784.956-00
+02/01/2023
+conciliado
+02/01/2023 alexandre mitidiero javarez
+depósito
+119.90
+-179187.93clientes - revenda de mercadoria
+mercado livre
+00026844
+001/001
+recebimento
+25713
+wanderson dos santos
+alexandre mitidiero javarez
+262.453.838-03
+02/01/2023
+conciliado
+02/01/2023 giuliana moraes goes
+depósito
+119.90
+-179068.03clientes - revenda de mercadoria
+mercado livre
+00026838
+001/001
+recebimento
+25708
+wanderson dos santos
+giuliana moraes goes
+387.975.398-99
+02/01/2023
+conciliado
+02/01/2023 the sense
+depósito
+119.90
+-178948.13clientes - revenda de mercadoria
+mercado livre
+00026841
+001/001
+recebimento
+25710
+wanderson dos santos
+caminha comercio varejista de produtos e artigos ltda
+45.959.835/0001-01
+02/01/2023
+conciliado
+02/01/2023 lucas de almeida brito
+depósito
+119.90
+-178828.23clientes - revenda de mercadoria
+mercado livre
+00026842
+001/001
+recebimento
+25711
+wanderson dos santos
+lucas de almeida brito
+090.550.206-05
+02/01/2023
+conciliado
+02/01/2023 aline duarte pires de avila
+depósito
+119.90
+-178708.33clientes - revenda de mercadoria
+mercado livre
+00026866
+001/001
+recebimento
+25738
+wanderson dos santos
+aline duarte pires de avila
+973.145.790-91
+02/01/2023
+conciliado
+02/01/2023 luciana helena bazolli
+depósito
+119.90
+-178588.43clientes - revenda de mercadoria
+mercado livre
+00026867
+001/001
+recebimento
+25739
+wanderson dos santos
+luciana helena bazolli
+131.299.148-89
+02/01/2023
+conciliado
+02/01/2023 matheus lucas da rosa
+depósito
+119.90
+-178468.53clientes - revenda de mercadoria
+mercado livre
+00026868
+001/001
+recebimento
+25741
+wanderson dos santos
+matheus lucas da rosa
+073.933.719-01
+02/01/2023
+conciliado
+02/01/2023 jainor sant helena da rosa
+depósito
+119.90
+-178348.63clientes - revenda de mercadoria
+mercado livre
+00026869
+001/001
+recebimento
+25742
+wanderson dos santos
+jainor sant helena da rosa
+439.671.249-91
+02/01/2023
+conciliado
+02/01/2023 rosinaldo da silva andrade
+depósito
+119.90
+-178228.73clientes - revenda de mercadoria
+mercado livre
+00026871
+001/001
+recebimento
+25745
+wanderson dos santos
+rosinaldo da silva andrade
+872.012.835-53
+02/01/2023
+conciliado
+02/01/2023 valeria muzy doretto do prado
+depósito
+119.90
+-178108.83clientes - revenda de mercadoria
+mercado livre
+00026873
+001/001
+recebimento
+25746
+wanderson dos santos
+valeria muzy doretto do prado
+052.166.898-00
+02/01/2023
+conciliado
+02/01/2023 rafaela aparecida de souza
+depósito
+119.90
+-177988.93clientes - revenda de mercadoria
+mercado livre
+00026884
+001/001
+recebimento
+25755
+wanderson dos santos
+rafaela aparecida de souza
+410.875.328-33
+02/01/2023
+conciliado
+02/01/2023 odair bernardino monteiro
+depósito
+119.90
+-177869.03clientes - revenda de mercadoria
+mercado livre
+00026846
+001/001
+recebimento
+25716
+wanderson dos santos
+odair bernardino monteiro
+028.585.284-11
+02/01/2023
+conciliado
+02/01/2023 walberio freitas costa
+depósito
+119.90
+-177749.13clientes - revenda de mercadoria
+mercado livre
+00026847
+001/001
+recebimento
+25717
+wanderson dos santos
+walberio freitas costa
+600.084.543-02
+02/01/2023
+conciliado
+02/01/2023 rogerio aparecido nogueira
+depósito
+119.90
+-177629.23clientes - revenda de mercadoria
+mercado livre
+00026848
+001/001
+recebimento
+25718
+wanderson dos santos
+rogerio aparecido nogueira
+944.068.719-34
+02/01/2023
+conciliado
+02/01/2023 sergio vieira fernandes
+depósito
+119.90
+-177509.33clientes - revenda de mercadoria
+mercado livre
+00026849
+001/001
+recebimento
+25719
+wanderson dos santos
+sergio vieira fernandes
+448.429.292-00
+02/01/2023
+conciliado
+02/01/2023 tamires araujo sanchez barros
+depósito
+119.90
+-177389.43clientes - revenda de mercadoria
+mercado livre
+00026850
+001/001
+recebimento
+25720
+wanderson dos santos
+tamires araujo sanchez barros
+405.591.348-60
+02/01/2023
+conciliado
+02/01/2023 christopher berwig
+depósito
+119.90
+-177269.53clientes - revenda de mercadoria
+mercado livre
+00026851
+001/001
+recebimento
+25721
+wanderson dos santos
+christopher berwig
+013.349.010-66
+02/01/2023
+conciliado
+02/01/2023 victoria praeiro macieski
+depósito
+119.90
+-177149.63clientes - revenda de mercadoria
+mercado livre
+00026852
+001/001
+recebimento
+25722
+wanderson dos santos
+victoria praeiro macieski
+057.208.121-99
+02/01/2023
+conciliado
+02/01/2023 adrielle pereira granato
+depósito
+119.90
+-177029.73clientes - revenda de mercadoria
+mercado livre
+00026854
+001/001
+recebimento
+25724
+wanderson dos santos
+adrielle pereira granato
+128.569.436-83
+02/01/2023
+conciliado
+02/01/2023 patricia de oliveira da silva
+depósito
+119.90
+-176909.83clientes - revenda de mercadoria
+mercado livre
+00026855
+001/001
+recebimento
+25725
+wanderson dos santos
+patricia de oliveira da silva
+349.161.208-09
+02/01/2023
+conciliado
+02/01/2023 maria de lourdes almeida dos santos
+depósito
+119.90
+-176789.93clientes - revenda de mercadoria
+mercado livre
+00026856
+001/001
+recebimento
+25726
+wanderson dos santos
+maria de lourdes almeida dos santos
+181.910.616-00
+02/01/2023
+conciliado
+02/01/2023 tiago alexandre de sousa ribeiro
+depósito
+119.90
+-176670.03clientes - revenda de mercadoria
+mercado livre
+00026857
+001/001
+recebimento
+25727
+wanderson dos santos
+tiago alexandre de sousa ribeiro
+313.409.148-83
+02/01/2023
+conciliado
+02/01/2023 andre aparecido hipolito
+depósito
+119.90
+-176550.13clientes - revenda de mercadoria
+mercado livre
+00026858
+001/001
+recebimento
+25732
+wanderson dos santos
+andre aparecido hipolito
+128.141.718-10
+02/01/2023
+conciliado
+02/01/2023 merci lopes de azevedo
+depósito
+119.90
+-176430.23clientes - revenda de mercadoria
+mercado livre
+00026859
+001/001
+recebimento
+25733
+wanderson dos santos
+merci lopes de azevedo
+707.937.608-44
+02/01/2023
+conciliado
+02/01/2023 thais keiko kinjo
+depósito
+119.90
+-176310.33clientes - revenda de mercadoria
+mercado livre
+00026861
+001/001
+recebimento
+25734
+wanderson dos santos
+thais keiko kinjo
+341.049.828-14
+02/01/2023
+conciliado
+02/01/2023 rafael catelli giannini
+depósito
+119.90
+-176190.43clientes - revenda de mercadoria
+mercado livre
+00026862
+001/001
+recebimento
+25735
+wanderson dos santos
+rafael catelli giannini
+212.788.178-83
+02/01/2023
+conciliado
+02/01/2023 thiago pimentel luiz vianna
+depósito
+119.90
+-176070.53clientes - revenda de mercadoria
+mercado livre
+00026863
+001/001
+recebimento
+25736
+wanderson dos santos
+thiago pimentel luiz vianna
+104.829.917-12
+02/01/2023
+conciliado
+02/01/2023 fabiana moreira de sousa
+depósito
+149.90
+-175920.63clientes - revenda de mercadoria
+mercado livre
+00026864
+001/001
+recebimento
+25737
+wanderson dos santos
+fabiana moreira de sousa
+346.571.318-42
+02/01/2023
+conciliado
+02/01/2023 cristiano hilario de oliveira
+depósito
+214.90
+-175705.73clientes - revenda de mercadoria
+mercado livre
+00026885
+001/001
+recebimento
+25756
+wanderson dos santos
+cristiano hilario de oliveira
+172.491.388-39
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003906184/1
+-17.45
+-175723.18frete
+mercado livre
+003906184
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003899903/1
+-19.45
+-175742.63frete
+mercado livre
+003899903
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003901342/1
+-19.45
+-175762.08frete
+mercado livre
+003901342
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003902036/1
+-19.45
+-175781.53frete
+mercado livre
+003902036
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003899429/1
+-19.45
+-175800.98frete
+mercado livre
+003899429
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900469/1
+-19.45
+-175820.43frete
+mercado livre
+003900469
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900413/1
+-19.45
+-175839.88frete
+mercado livre
+003900413
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900321/1
+-19.45
+-175859.33frete
+mercado livre
+003900321
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900628/1
+-19.45
+-175878.78frete
+mercado livre
+003900628
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900536/1
+-19.45
+-175898.23frete
+mercado livre
+003900536
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900734/1
+-19.45
+-175917.68frete
+mercado livre
+003900734
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003899312/1
+-19.45
+-175937.13frete
+mercado livre
+003899312
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003899360/1
+-19.45
+-175956.58frete
+mercado livre
+003899360
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900011/1
+-19.45
+-175976.03frete
+mercado livre
+003900011
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900098/1
+-19.45
+-175995.48frete
+mercado livre
+003900098
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900585/1
+-19.45
+-176014.93frete
+mercado livre
+003900585
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900816/1
+-19.45
+-176034.38frete
+mercado livre
+003900816
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900859/1
+-19.45
+-176053.83frete
+mercado livre
+003900859
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900149/1
+-19.45
+-176073.28frete
+mercado livre
+003900149
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003899564/1
+-20.60
+-176093.88frete
+mercado livre
+003899564
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900771/1
+-27.61
+-176121.49frete
+mercado livre
+003900771
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003906125/1
+-27.61
+-176149.10frete
+mercado livre
+003906125
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003902076/1
+-28.21
+-176177.31frete
+mercado livre
+003902076
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900041/1
+-28.21
+-176205.52frete
+mercado livre
+003900041
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900233/1
+-28.21
+-176233.73frete
+mercado livre
+003900233
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900195/1
+-28.21
+-176261.94frete
+mercado livre
+003900195
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003901390/1
+-28.21
+-176290.15frete
+mercado livre
+003901390
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003901310/1
+-28.21
+-176318.36frete
+mercado livre
+003901310
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003900129/1
+-33.41
+-176351.77frete
+mercado livre
+003900129
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 ebazarcombr ltda
+ct-e
+003901408/1
+-33.41
+-176385.18frete
+mercado livre
+003901408
+001/001
+pagamento
+ebazarcombr ltda
+03.007.331/0061-82
+incluído a partir do recebimento do ct - e.
+02/01/2023
+conciliado
+02/01/2023 jose carlos bernardo gomes
+outros
+-342
+-176727.18clientes - revenda de mercadoria
+caixinha
+00026886
+001/001
+pagamento
+1068
+william lopes
+jose carlos bernardo gomes
+268.214.786-00
+refere - se à devolução do pedido de venda nº 25540 - nota fiscal 00026665 (31221237531963000121550010000266651525152064)
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008292201/1
+-6288.31
+-183015.49compras de mercadorias para revenda itaú unibanco
+008292201
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 cp placas eletronicas
+nota fiscal eletrônica
+000091800/2
+-2616.63
+-185632.12compras de mercadorias para revenda itaú unibanco
+000091800
+002/003
+pagamento
+cp placas eletronicas ltda
+13.848.752/0001-59
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001340383/2
+-2045.23
+-187677.35compras de mercadorias para revenda itaú unibanco
+001340383
+002/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001360862/1
+-597.82
+-188275.17compras de mercadorias para revenda itaú unibanco
+001360862
+001/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008292199/1
+-547.45
+-188822.62compras de mercadorias para revenda itaú unibanco
+008292199
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 frigelar comercio e industria ltda
+nota fiscal eletrônica
+000383995/1
+-477.90
+-189300.52compras de mercadorias para revenda itaú unibanco
+000383995
+001/001
+pagamento
+frigelar comercio e industria ltda
+92.660.406/0032-15
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001361562/1
+-465.77
+-189766.29compras de mercadorias para revenda itaú unibanco
+001361562
+001/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001340804/2
+-419.19
+-190185.48compras de mercadorias para revenda itaú unibanco
+001340804
+002/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001342694/2
+-362.82
+-190548.30compras de mercadorias para revenda itaú unibanco
+001342694
+002/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sao paulo - sp
+nota fiscal eletrônica
+008292200/1
+-273.59
+-190821.89compras de mercadorias para revenda itaú unibanco
+008292200
+001/001
+pagamento
+whirlpool s.a.
+59.105.999/0028-04
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 friopecas
+nota fiscal eletrônica
+000236757/3
+-251.83
+-191073.72compras de mercadorias para revenda itaú unibanco
+000236757
+003/003
+pagamento
+maq lar refrigeracao ltda
+04.286.079/0001-10
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001341325/2
+-196.45
+-191270.17compras de mercadorias para revenda itaú unibanco
+001341325
+002/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001339924/2
+-99.32
+-191369.49compras de mercadorias para revenda itaú unibanco
+001339924
+002/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 icms difal
+imposto
+-83.77
+-191453.26icms
+itaú unibanco
+001/001
+pagamento
+icms difal
+555.555.555-55
+incluído pela importação a partir de um código de barras.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001323153/3
+-62.41
+-191515.67compras de mercadorias para revenda itaú unibanco
+001323153
+003/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001340805/2
+-37.38
+-191553.05compras de mercadorias para revenda itaú unibanco
+001340805
+002/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+02/01/2023
+ pay
+
+—im
+
+comércio de peças
+e refrigeração
+conciliado
+02/01/2023 dell computadores do brasil ltda
+nota fiscal eletrônica
+004184169/8
+-932.13
+-192485.18equipamentos de informática
+itaú unibanco
+004184169
+008/010
+pagamento
+dell computadores do brasil ltda
+72.381.189/0010-01
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 mercearia opcao
+recibo
+-11.18
+-192496.36lanches/refeições
+itaú unibanco
+001/001
+pagamento
+mariangela beatriz almeida de oliveira santos
+04400530647
+43.873.503/0001-84
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 dell computadores do brasil ltda
+nota fiscal de serviço
+202200001783569
+-25.83
+-192522.19compra de serviços
+itaú unibanco
+202200001783569008/010
+pagamento
+dell computadores do brasil ltda
+72.381.189/0001-10
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 mercearia opcao
+recibo
+77137
+-32.97
+-192555.16lanches/refeições
+itaú unibanco
+77137
+001/001
+pagamento
+mariangela beatriz almeida de oliveira santos
+04400530647
+43.873.503/0001-84
+comes e bebes festa da empresa
+02/01/2023
+conciliado
+02/01/2023 friominas
+nota fiscal eletrônica
+000199539/1
+-43.38
+-192598.54compras de mercadorias para revenda itaú unibanco
+000199539
+001/001
+pagamento
+friominas maquinas representacoes ltda
+17.249.095/0001-84
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 drogaria araujo s a
+cupom fiscal
+181415
+-50.45
+-192648.99material de consumo
+itaú unibanco
+181415
+001/001
+pagamento
+drogaria araujo s a
+17.256.512/0138-70
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 multi formato distribuidora sociedade anonima
+cupom fiscal
+44032
+-53.15
+-192702.14lanches/refeições
+itaú unibanco
+44032
+001/001
+pagamento
+multi formato distribuidora sociedade anonima
+10.319.375/0015-78
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 dell computadores do brasil ltda
+nota fiscal de serviço
+202200001784842
+-57.21
+-192759.35compra de serviços
+itaú unibanco
+202200001784842008/010
+pagamento
+dell computadores do brasil ltda
+72.381.189/0001-10
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 serasa s.a.
+nota fiscal eletrônica
+-65.50
+-192824.85compra de serviços
+itaú unibanco
+001/012
+pagamento
+serasa s.a.
+62.173.620/0093-06
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 frimaq ltda
+nota fiscal eletrônica
+000025281/1
+-69.50
+-192894.35compras de mercadorias para revenda itaú unibanco
+000025281
+001/001
+pagamento
+frimaq ltda
+16.633.976/0001-31
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 multi formato distribuidora sociedade anonima
+cupom fiscal
+75817
+-88.88
+-192983.23material de consumo
+itaú unibanco
+75817
+001/001
+pagamento
+multi formato distribuidora sociedade anonima
+10.319.375/0026-20
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 mgs distribuidora ltda
+cupom fiscal
+108095
+-107.55
+-193090.78material de consumo
+itaú unibanco
+108095
+001/001
+pagamento
+mgs distribuidora ltda
+00.931.341/0001-80
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 dell computadores do brasil ltda
+nota fiscal eletrônica
+004765653/1
+-141
+-193231.78equipamentos de informática
+itaú unibanco
+004765653
+001/002
+pagamento
+dell computadores do brasil ltda
+72.381.189/0010-01
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dell computadores do brasil ltda
+nota fiscal eletrônica
+004217970/7
+-165.99
+-193397.77equipamentos de informática
+itaú unibanco
+004217970
+007/010
+pagamento
+dell computadores do brasil ltda
+72.381.189/0010-01
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dell computadores do brasil ltda
+nota fiscal eletrônica
+000225201/1
+-182
+-193579.77equipamentos de informática
+itaú unibanco
+000225201
+001/002
+pagamento
+dell computadores do brasil ltda
+72.381.189/0010-01
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 mercearia opcao
+recibo
+recibo_manual
+-240
+-193819.77lanches/refeições
+itaú unibanco
+recibo_manual
+001/001
+pagamento
+mariangela beatriz almeida de oliveira santos
+04400530647
+43.873.503/0001-84
+comes e bebes para festa da empresa
+02/01/2023
+conciliado
+02/01/2023 conceito-a comercio de moveis ltda-me
+nota fiscal eletrônica
+000008694/3
+-624.33
+-194444.10compras de mercadorias para revenda itaú unibanco
+000008694
+003/003
+pagamento
+conceito-a comercio de moveis ltda-me
+07.058.908/0001-03
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 dell computadores do brasil ltda
+nota fiscal eletrônica
+004180708/8
+-664.93
+-195109.03equipamentos de informática
+itaú unibanco
+004180708
+008/010
+pagamento
+dell computadores do brasil ltda
+72.381.189/0010-01
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 multi formato distribuidora sociedade anonima
+cupom fiscal
+6361
+-708.37
+-195817.40lanches/refeições
+itaú unibanco
+6361
+001/001
+pagamento
+multi formato distribuidora sociedade anonima
+10.319.375/0015-78
+comes e bebes para festa da loja
+02/01/2023
+conciliado
+02/01/2023 serasa s.a.
+nota fiscal eletrônica
+-734.40
+-196551.80compra de serviços
+itaú unibanco
+001/001
+pagamento
+serasa s.a.
+62.173.620/0093-06
+sispag fornecedores
+02/01/2023
+conciliado
+02/01/2023 mercearia e comercio de bebidas big do nilton -
+eireli
+cupom fiscal
+33781
+-1390.32
+-197942.12lanches/refeições
+itaú unibanco
+33781
+001/001
+pagamento
+mercearia e comercio de bebidas big do nilton - eireli
+14.438.798/0002-43
+comes e bebes para a festa da empresa
+02/01/2023
+conciliado
+02/01/2023 alimentar carnes nobres ltda
+nota fiscal eletrônica
+000090498/1
+-1595.81
+-199537.93compras de mercadorias para revenda itaú unibanco
+000090498
+001/001
+pagamento
+alimentar carnes nobres ltda
+26.694.964/0001-70
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 2am comunicacao visual
+nota fiscal eletrônica
+000000001/3
+-2778.33
+-202316.26compras de mercadorias para revenda itaú unibanco
+000000001
+003/004
+pagamento
+maiara casumba de oliveira 11063584655
+26.112.352/0001-22
+incluído a partir do recebimento da nf - e.
+02/01/2023
+conciliado
+02/01/2023 sidney pontes de lima
+pix
+489.30
+-201826.96clientes - revenda de mercadoria
+banco inter
+00026875
+001/001
+recebimento
+25730
+william lopes
+sidney pontes de lima
+097.537.526-10
+pix recebido - cp :18236120-sidney pontes de lima
+02/01/2023
+conciliado
+02/01/2023 paulo roberto dias
+pix
+620
+-201206.96clientes - revenda de mercadoria
+banco inter
+00026894
+001/001
+recebimento
+25763
+william lopes
+paulo roberto dias
+286.946.786-91
+pix recebido - cp :10573521-amos da silva dias
+02/01/2023
+conciliado
+02/01/2023 sidney pontes de lima
+pix
+39.90
+-201167.06clientes - revenda de mercadoria
+banco inter
+00026904
+001/001
+recebimento
+25774
+william lopes
+sidney pontes de lima
+097.537.526-10
+pix recebido - cp :18236120-sidney pontes de lima
+02/01/2023
+conciliado
+02/01/2023 jefferson da silva cota
+pix
+229
+-200938.06clientes - revenda de mercadoria
+banco inter
+00026898
+001/001
+recebimento
+25765
+eduardo soares
+jefferson da silva cota
+102.779.706-79
+pix recebido - cp :91159764-jeﬀerson da silva cota 10277970679
+02/01/2023
+conciliado
+02/01/2023 eef vendas ltda
+pix
+258
+-200680.06clientes - revenda de mercadoria
+banco inter
+00026889
+002/002
+recebimento
+25714
+eduardo soares
+eef vendas ltda
+47.805.144/0001-89
+pix recebido interno - 00019 0254633340 eef vendas ltda
+02/01/2023
+conciliado
+02/01/2023 parcemaq comercio ltda
+devolução
+10
+-200670.06clientes - revenda de mercadoria
+caixinha
+00026916
+002/002
+recebimento
+25782
+jairo fernandes gurgel
+parcemaq comercio ltda
+48.475.304/0001-31
+02/01/2023
+conciliado
+02/01/2023 multi formato distribuidora sociedade anonima
+cupom fiscal
+75189
+-32.94
+-200703lanches/refeições
+caixinha
+75189
+001/001
+pagamento
+multi formato distribuidora sociedade anonima
+10.319.375/0026-20
+03/01/2023
+conciliado
+02/01/2023 julio cezar do nascimento
+cartão de débito
+9.90
+-200693.10clientes - revenda de mercadoria
+safrapay
+00026883
+001/001
+recebimento
+25750
+cleberson alves
+julio cezar do nascimento
+910.345.156-91
+03/01/2023
+conciliado
+02/01/2023 cleberson alves
+cartão de débito
+12
+-200681.10clientes - revenda de mercadoria
+safrapay
+00026874
+001/001
+recebimento
+25664
+cleberson alves
+cleberson alves
+057.212.016-81
+03/01/2023
+conciliado
+02/01/2023 anderson gomes de paiva
+cartão de débito
+64
+-200617.10clientes - revenda de mercadoria
+safrapay
+00026908
+001/001
+recebimento
+25776
+jairo fernandes gurgel
+anderson gomes de paiva
+598.150.196-00
+03/01/2023
+conciliado
+02/01/2023 edson marcos da silva
+cartão de débito
+89.70
+-200527.40clientes - revenda de mercadoria
+safrapay
+00026911
+001/001
+recebimento
+25781
+wesley franklyn rodrigues
+edson marcos da silva
+590.813.176-87
+03/01/2023
+conciliado
+02/01/2023 mauricio pereira
+cartão de débito
+89.90
+-200437.50clientes - revenda de mercadoria
+safrapay
+00026902
+001/001
+recebimento
+25771
+jairo fernandes gurgel
+mauricio pereira
+758.655.216-91
+03/01/2023
+conciliado
+02/01/2023 edmilson verissimo diniz
+cartão de crédito
+100
+-200337.50clientes - revenda de mercadoria
+safrapay
+00026933
+001/001
+recebimento
+25801
+wesley franklyn rodrigues
+edmilson verissimo diniz
+745.825.266-91
+03/01/2023
+conciliado
+02/01/2023 clezio da silva
+cartão de débito
+189.80
+-200147.70clientes - revenda de mercadoria
+safrapay
+00026865
+001/001
+recebimento
+25729
+cleberson alves
+clezio da silva
+709.225.436-15
+03/01/2023
+conciliado
+02/01/2023 mario lucio pereira arante
+cartão de débito
+335.90
+-199811.80clientes - revenda de mercadoria
+safrapay
+00026872
+001/001
+recebimento
+25744
+cleberson alves
+mario lucio pereira arante
+672.613.456-87
+03/01/2023
+conciliado
+02/01/2023 jackson teixeira de oliveira
+cartão de crédito
+354.60
+-199457.20clientes - revenda de mercadoria
+safrapay
+00026839
+001/001
+recebimento
+25704
+jairo fernandes gurgel
+jackson teixeira de oliveira
+075.190.476-79
+03/01/2023
+conciliado
+02/01/2023 adelson ferreira
+cartão de débito
+412.80
+-199044.40clientes - revenda de mercadoria
+safrapay
+00026833
+001/001
+recebimento
+25695
+wesley franklyn rodrigues
+adelson ferreira
+724.856.476-15
+03/01/2023
+conciliado
+02/01/2023 sidnei martins santana
+dinheiro
+20
+-199024.40clientes - revenda de mercadoria
+caixinha
+00026860
+001/001
+recebimento
+25731
+wesley franklyn rodrigues
+sidnei martins santana
+526.099.876-68
+03/01/2023
+conciliado
+02/01/2023 edson guariento gadelha
+dinheiro
+39.90
+-198984.50clientes - revenda de mercadoria
+caixinha
+00026900
+001/001
+recebimento
+25769
+jairo fernandes gurgel
+edson guariento gadelha
+344.205.256-49
+03/01/2023
+conciliado
+02/01/2023 bento jose filho
+dinheiro
+49.90
+-198934.60clientes - revenda de mercadoria
+caixinha
+00026832
+001/001
+recebimento
+25699
+eduardo soares
+bento jose filho
+507.809.806-20
+03/01/2023
+conciliado
+02/01/2023 rodrigo freitas mafra coelho teixeira
+dinheiro
+59.90
+-198874.70clientes - revenda de mercadoria
+caixinha
+00026876
+001/001
+recebimento
+25749
+cleberson alves
+rodrigo freitas mafra coelho teixeira
+055.064.786-40
+03/01/2023
+conciliado
+02/01/2023 wadson rene martins
+dinheiro
+118
+-198756.70clientes - revenda de mercadoria
+caixinha
+00026896
+001/001
+recebimento
+25764
+jairo fernandes gurgel
+wadson rene martins
+013.004.676-06
+03/01/2023
+conciliado
+02/01/2023 wtec refrigeracao
+dinheiro
+130
+-198626.70clientes - revenda de mercadoria
+caixinha
+00026901
+001/001
+recebimento
+25753
+wesley franklyn rodrigues
+wellington fabiano do nascimento 07509419603
+30.885.104/0001-91
+03/01/2023
+conciliado
+02/01/2023 mapri ltda.
+dinheiro
+140
+-198486.70clientes - revenda de mercadoria
+caixinha
+00026837
+001/001
+recebimento
+25706
+william lopes
+mapri ltda.
+02.842.891/0001-59
+03/01/2023
+conciliado
+02/01/2023 wilson jose dos santos
+dinheiro
+160
+-198326.70clientes - revenda de mercadoria
+caixinha
+00026840
+001/001
+recebimento
+25705
+jairo fernandes gurgel
+wilson jose dos santos
+219.556.896-87
+03/01/2023
+conciliado
+02/01/2023 rodrigo freitas mafra coelho teixeira
+dinheiro
+170
+-198156.70clientes - revenda de mercadoria
+caixinha
+00026910
+001/001
+recebimento
+25778
+cleberson alves
+rodrigo freitas mafra coelho teixeira
+055.064.786-40
+03/01/2023
+conciliado
+02/01/2023 lincoln de sousa ferraz
+dinheiro
+230.50
+-197926.20clientes - revenda de mercadoria
+caixinha
+00026897
+001/001
+recebimento
+25768
+cleberson alves
+lincoln de sousa ferraz
+043.388.836-93
+03/01/2023
+conciliado
+02/01/2023 carlos jose fraga
+dinheiro
+350
+-197576.20clientes - revenda de mercadoria
+caixinha
+00026887
+001/001
+recebimento
+25754
+cleberson alves
+carlos jose fraga
+033.704.416-32
+03/01/2023
+conciliado
+02/01/2023 rodrigo freitas mafra coelho teixeira
+pix
+164.90
+-197411.30clientes - revenda de mercadoria
+itaú unibanco
+00026881
+001/001
+recebimento
+25740
+jairo fernandes gurgel
+rodrigo freitas mafra coelho teixeira
+055.064.786-40
+pix transf rodrigo02/01
+03/01/2023
+conciliado
+02/01/2023 edmilson verissimo diniz
+pix
+49.90
+-197361.40clientes - revenda de mercadoria
+itaú unibanco
+00026918
+001/001
+recebimento
+25787
+wesley franklyn rodrigues
+edmilson verissimo diniz
+745.825.266-91
+pix transf refri m02/01
+03/01/2023
+conciliado
+02/01/2023 parcemaq comercio ltda
+pix
+49.90
+-197311.50clientes - revenda de mercadoria
+itaú unibanco
+00026916
+001/002
+recebimento
+25782
+jairo fernandes gurgel
+parcemaq comercio ltda
+48.475.304/0001-31
+pix transf lua alv02/01
+03/01/2023
+conciliado
+02/01/2023 sander daniel valle
+pix
+155
+-197156.50clientes - revenda de mercadoria
+itaú unibanco
+00026920
+001/001
+recebimento
+25789
+jairo fernandes gurgel
+sander daniel valle
+032.437.336-85
+pix transf jonatas02/01
+03/01/2023
+conciliado
+02/01/2023 jose carlos bernardo gomes
+pix
+329
+-196827.50clientes - revenda de mercadoria
+itaú unibanco
+00026893
+002/002
+recebimento
+25757
+jairo fernandes gurgel
+jose carlos bernardo gomes
+268.214.786-00
+pix transf edson d02/01
+03/01/2023
+conciliado
+02/01/2023 filipe lopes barbosa
+pix
+14.90
+-196812.60clientes - revenda de mercadoria
+itaú unibanco
+00026892
+001/001
+recebimento
+25761
+wesley franklyn rodrigues
+filipe lopes barbosa
+098.183.536-84
+pix transf filipe 02/01
+03/01/2023
+conciliado
+02/01/2023 diego passos faria
+pix
+190
+-196622.60clientes - revenda de mercadoria
+itaú unibanco
+00026829
+001/001
+recebimento
+25696
+cleberson alves
+diego passos faria
+078.575.906-90
+pix transf frederi02/01
+03/01/2023
+conciliado
+02/01/2023 jaime cesar dos santos
+depósito
+630
+-195992.60clientes - revenda de mercadoria
+itaú unibanco
+00026306
+001/001
+recebimento
+25203
+eduardo soares
+jaime cesar dos santos
+000.742.836-77
+pix transf jaime c31/12
+03/01/2023
+conciliado
+02/01/2023 sander daniel valle
+pix
+173
+-195819.60clientes - revenda de mercadoria
+itaú unibanco
+00026899
+001/001
+recebimento
+25767
+jairo fernandes gurgel
+sander daniel valle
+032.437.336-85
+pix transf jonatas02/01
+03/01/2023
+conciliado
+02/01/2023 ailton chagas
+pix
+30
+-195789.60clientes - revenda de mercadoria
+itaú unibanco
+00026895
+001/001
+recebimento
+25766
+wesley franklyn rodrigues
+ailton chagas
+317.761.756-20
+pix transf ailton 02/01
+03/01/2023
+conciliado
+02/01/2023 transf. adiantamento de cliente >> itaú unibanco
+pix
+-225
+-196014.60saída de transferência
+adiantamento de cliente
+transferência
+pix transf ana pau02/01
+03/01/2023
+conciliado
+02/01/2023 transf. adiantamento de cliente >> itaú unibanco
+pix
+225
+-195789.60entrada de transferência
+itaú unibanco
+transferência
+pix transf ana pau02/01
+03/01/2023
+conciliado
+02/01/2023 paulo sergio paiva
+crediário
+212.70
+-195576.90clientes - revenda de mercadoria
+itaú unibanco
+00026024
+001/001
+recebimento
+24940
+eduardo soares
+paulo sergio paiva
+000.437.156-99
+pix transf paulo s31/12
+03/01/2023
+conciliado
+02/01/2023 paulo sergio paiva
+crediário
+182.88
+-195394.02clientes - revenda de mercadoria
+itaú unibanco
+00026024
+001/001
+recebimento
+24940
+eduardo soares
+paulo sergio paiva
+000.437.156-99
+pix transf paulo s31/12
+03/01/2023
+conciliado
+02/01/2023 paulo sergio paiva
+crediário
+406.12
+-194987.90clientes - revenda de mercadoria
+itaú unibanco
+00026372
+001/001
+recebimento
+25264
+jairo fernandes gurgel
+paulo sergio paiva
+000.437.156-99
+pix transf paulo s31/12
+03/01/2023
+conciliado
+02/01/2023 transf. mercado livre >> itaú unibanco
+pix
+-1790.45
+-196778.35saída de transferência
+mercado livre
+transferência
+pix transf bh come02/01
+03/01/2023
+conciliado
+02/01/2023 transf. mercado livre >> itaú unibanco
+pix
+1790.45
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+pix transf bh come02/01
+03/01/2023
+conciliado
+02/01/2023 transf. banco inter >> itaú unibanco
+pix
+-1636.20
+-196624.10saída de transferência
+banco inter
+transferência
+pix transf bh come02/01
+03/01/2023
+conciliado
+02/01/2023 transf. banco inter >> itaú unibanco
+pix
+1636.20
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+pix transf bh come02/01
+03/01/2023
+conciliado
+02/01/2023 transf. itaú unibanco >> itaú unibanco
+transferência
+-26000
+-220987.90saída de transferência
+itaú unibanco
+transferência
+tbi 0573.25028-9 c/c
+03/01/2023
+conciliado
+02/01/2023 transf. itaú unibanco >> itaú unibanco
+transferência
+26000
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+tbi 0573.25028-9 c/c
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+-795.18
+-195783.08saída de transferência
+safrapay
+transferência
+transf 0573.21764-3
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+795.18
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+transf 0573.21764-3
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+-353.04
+-195340.94saída de transferência
+safrapay
+transferência
+rede visa db086827081
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+353.04
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+rede visa db086827081
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+-688.80
+-195676.70saída de transferência
+safrapay
+transferência
+rede mast db086827081
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+688.80
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+rede mast db086827081
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+-78.43
+-195066.33saída de transferência
+safrapay
+transferência
+rede elo db086827081
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+78.43
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+rede elo db086827081
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+-403.98
+-195391.88saída de transferência
+safrapay
+transferência
+transf 0573.21764-3
+03/01/2023
+conciliado
+02/01/2023 transf. safrapay >> itaú unibanco
+transferência
+403.98
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+transf 0573.21764-3
+03/01/2023
+conciliado
+02/01/2023 transf. caixinha >> itaú unibanco
+transferência
+-1250
+-196237.90saída de transferência
+caixinha
+transferência
+cei 000660 dinheiro
+03/01/2023
+conciliado
+02/01/2023 transf. caixinha >> itaú unibanco
+transferência
+1250
+-194987.90entrada de transferência
+itaú unibanco
+transferência
+cei 000660 dinheiro
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+5.90
+-194982clientes - revenda de mercadoria
+itaú unibanco
+00026379
+001/001
+recebimento
+25267
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+9
+-194973clientes - revenda de mercadoria
+itaú unibanco
+00026738
+001/001
+recebimento
+25608
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+9.90
+-194963.10clientes - revenda de mercadoria
+itaú unibanco
+00025893
+001/001
+recebimento
+24817
+william lopes
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+9.90
+-194953.20clientes - revenda de mercadoria
+itaú unibanco
+00025316
+001/001
+recebimento
+24258
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+10.90
+-194942.30clientes - revenda de mercadoria
+itaú unibanco
+00025021
+001/001
+recebimento
+23981
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+9.90
+-194932.40clientes - revenda de mercadoria
+itaú unibanco
+00025479
+001/001
+recebimento
+24405
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+11.90
+-194920.50clientes - revenda de mercadoria
+itaú unibanco
+00026818
+001/001
+recebimento
+25678
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+29.90
+-194890.60clientes - revenda de mercadoria
+itaú unibanco
+00026697
+001/001
+recebimento
+25486
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+31.69
+-194858.91clientes - revenda de mercadoria
+itaú unibanco
+00025075
+001/001
+recebimento
+24028
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+39.80
+-194819.11clientes - revenda de mercadoria
+itaú unibanco
+00026713
+001/001
+recebimento
+25584
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+39.90
+-194779.21clientes - revenda de mercadoria
+itaú unibanco
+00026566
+001/001
+recebimento
+25447
+wesley franklyn rodrigues
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+39.90
+-194739.31clientes - revenda de mercadoria
+itaú unibanco
+00026427
+001/001
+recebimento
+25313
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+45.90
+-194693.41clientes - revenda de mercadoria
+itaú unibanco
+00025485
+001/001
+recebimento
+24407
+wesley franklyn rodrigues
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+54.20
+-194639.21clientes - revenda de mercadoria
+itaú unibanco
+00025295
+001/001
+recebimento
+24236
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+59.80
+-194579.41clientes - revenda de mercadoria
+itaú unibanco
+00025778
+001/001
+recebimento
+24695
+wesley franklyn rodrigues
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+59.90
+-194519.51clientes - revenda de mercadoria
+itaú unibanco
+00025085
+001/001
+recebimento
+24039
+william lopes
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+69.90
+-194449.61clientes - revenda de mercadoria
+itaú unibanco
+00025943
+001/001
+recebimento
+24849
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+79.80
+-194369.81clientes - revenda de mercadoria
+itaú unibanco
+00026032
+001/001
+recebimento
+24946
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+61.91
+-194307.90clientes - revenda de mercadoria
+itaú unibanco
+00025493
+001/001
+recebimento
+24414
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 000516 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+17.89
+-194290.01clientes - revenda de mercadoria
+itaú unibanco
+00025493
+001/001
+recebimento
+24414
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+79.90
+-194210.11clientes - revenda de mercadoria
+itaú unibanco
+00025353
+001/001
+recebimento
+24283
+wesley franklyn rodrigues
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+79.90
+-194130.21clientes - revenda de mercadoria
+itaú unibanco
+00026822
+001/001
+recebimento
+25687
+wesley franklyn rodrigues
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+79.90
+-194050.31clientes - revenda de mercadoria
+itaú unibanco
+00026592
+001/001
+recebimento
+25370
+eduardo soares
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+99.80
+-193950.51clientes - revenda de mercadoria
+itaú unibanco
+00025825
+001/001
+recebimento
+24714
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+99.90
+-193850.61clientes - revenda de mercadoria
+itaú unibanco
+00025954
+001/001
+recebimento
+24868
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+111.90
+-193738.71clientes - revenda de mercadoria
+itaú unibanco
+00026103
+001/001
+recebimento
+25018
+wesley franklyn rodrigues
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+114.70
+-193624.01clientes - revenda de mercadoria
+itaú unibanco
+00025890
+001/001
+recebimento
+24805
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+124.80
+-193499.21clientes - revenda de mercadoria
+itaú unibanco
+00025300
+001/001
+recebimento
+24240
+wesley franklyn rodrigues
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+129.80
+-193369.41clientes - revenda de mercadoria
+itaú unibanco
+00025089
+001/001
+recebimento
+24043
+william lopes
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+129.90
+-193239.51clientes - revenda de mercadoria
+itaú unibanco
+00026548
+001/001
+recebimento
+25438
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+139.40
+-193100.11clientes - revenda de mercadoria
+itaú unibanco
+00026623
+001/001
+recebimento
+25502
+eduardo soares
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+139.90
+-192960.21clientes - revenda de mercadoria
+itaú unibanco
+00026099
+001/001
+recebimento
+24967
+jairo fernandes gurgel
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 genario duarte ribeiro
+crediário
+42.31
+-192917.90clientes - revenda de mercadoria
+itaú unibanco
+00026712
+001/001
+recebimento
+25580
+cleberson alves
+genario duarte ribeiro
+319.651.216-91
+app 850881 dep chq
+03/01/2023
+conciliado
+02/01/2023 dsj
+nota fiscal eletrônica
+001339923/2
+-46.58
+-192964.48compras de mercadorias para revenda itaú unibanco
+001339923
+002/003
+pagamento
+electrolux do brasil s/a
+76.487.032/0019-54
+incluído a partir do recebimento da nf - e.
+03/01/2023
+conciliado
+02/01/2023 parcemaq comercio ltda
+outros
+-119.90
+-193084.38clientes - revenda de mercadoria
+caixinha
+00026915
+001/001
+pagamento
+1069
+william lopes
+parcemaq comercio ltda
+48.475.304/0001-31
+refere - se à devolução do pedido de venda nº 25013 - nota fiscal 00026113 (31221237531963000121550010000261131744891926)
+03/01/2023
+conciliado
+02/01/2023 aspen refrigeração ltda
+nota fiscal eletrônica
+000008477/1
+-97.50
+-193181.88compras de mercadorias para revenda itaú unibanco
+000008477
+001/001
+pagamento
+aspen refrigeração ltda
+04.600.994/0001-38
+incluído a partir do recebimento da nf - e.
+03/01/2023
+conciliado
+02/01/2023 gilson aparecido ferreira braga
+pix
+200
+-192981.88clientes - revenda de mercadoria
+banco inter
+00026924
+001/001
+recebimento
+25775
+eduardo soares
+gilson aparecido ferreira braga
+012.887.736-76
+pix recebido - cp :00360305-gilson aparecido ferreira braga
+04/01/2023
+conciliado
+02/01/2023 antonio vicente filho
+boleto
+1026.03
+-191955.85clientes - revenda de mercadoria
+banco inter
+00025646
+002/003
+112000000000009-4recebimento
+24541
+eduardo soares
+antonio vicente filho
+636.396.106-87
+recebimento titulo - 112/00913524668
+04/01/2023
+conciliado
+02/01/2023 parcemaq comercio ltda
+devolução
+99.90
+-191855.95clientes - revenda de mercadoria
+caixinha
+00026909
+001/001
+recebimento
+25779
+jairo fernandes gurgel
+parcemaq comercio ltda
+48.475.304/0001-31
+04/01/2023
+02/01/2023 saldo
+0
+-191855.95
+ pay
+
+—im
+
+comércio de peças
+e refrigeração

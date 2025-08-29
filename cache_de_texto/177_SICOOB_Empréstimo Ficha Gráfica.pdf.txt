@@ -1,0 +1,1012 @@
+ficha gráfica da operação
+data emissão:
+29/12/2020
+data processamento:
+14:12:34
+hora emissão:
+29/12/2020
+cooperativa: 3007
+sisbr 2.0 - empréstimo
+histórico
+dt. ref.
+débito
+dt. lanc.
+crédito
+saldo
+d/c
+0,00
+308.983,14
+liberação da operação
+d
+308.983,14
+19/06/2020
+10/06/2020
+0,00
+5.000,00
+liberação da operação
+d
+313.983,14
+23/06/2020
+23/06/2020
+0,00
+16.000,00
+liberação da operação
+d
+329.983,14
+25/06/2020
+25/06/2020
+0,00
+5.000,00
+liberação da operação
+d
+334.983,14
+29/06/2020
+29/06/2020
+0,00
+3.000,00
+liberação da operação
+d
+337.983,14
+30/06/2020
+30/06/2020
+0,00
+189,21
+remuneração básica
+d
+338.172,35
+30/06/2020
+30/06/2020
+189,21
+0,00
+debito de remun.básica apropriada
+d
+337.983,14
+30/06/2020
+30/06/2020
+0,00
+1.169,89
+apropriação de juros
+d
+339.153,03
+30/06/2020
+30/06/2020
+1.169,89
+0,00
+debito de juros apropriados
+d
+337.983,14
+30/06/2020
+30/06/2020
+0,00
+15.000,00
+liberação da operação
+d
+352.983,14
+01/07/2020
+01/07/2020
+0,00
+26.000,00
+liberação da operação
+d
+378.983,14
+03/07/2020
+03/07/2020
+0,00
+8.000,00
+liberação da operação
+d
+386.983,14
+06/07/2020
+06/07/2020
+0,00
+6.000,00
+liberação da operação
+d
+392.983,14
+07/07/2020
+07/07/2020
+0,00
+6.000,00
+liberação da operação
+d
+398.983,14
+08/07/2020
+08/07/2020
+180.000,00
+0,00
+liquidação na operação
+d
+218.983,14
+22/07/2020
+22/07/2020
+0,00
+3.000,00
+liberação da operação
+d
+221.983,14
+23/07/2020
+23/07/2020
+0,00
+6.000,00
+liberação da operação
+d
+227.983,14
+24/07/2020
+24/07/2020
+0,00
+4.000,00
+liberação da operação
+d
+231.983,14
+28/07/2020
+28/07/2020
+0,00
+5.000,00
+liberação da operação
+d
+236.983,14
+29/07/2020
+29/07/2020
+205.000,00
+0,00
+liquidação na operação
+d
+31.983,14
+30/07/2020
+30/07/2020
+0,00
+23.000,00
+liberação da operação
+d
+54.983,14
+31/07/2020
+31/07/2020
+0,00
+641,15
+remuneração básica
+d
+55.624,29
+31/07/2020
+31/07/2020
+0,00
+3.466,78
+apropriação de juros
+d
+59.091,07
+31/07/2020
+31/07/2020
+0,00
+15.000,00
+liberação da operação
+d
+74.091,07
+03/08/2020
+03/08/2020
+0,00
+5.000,00
+liberação da operação
+d
+79.091,07
+04/08/2020
+04/08/2020
+0,00
+7.000,00
+liberação da operação
+d
+86.091,07
+05/08/2020
+05/08/2020
+0,00
+30.000,00
+liberação da operação
+d
+116.091,07
+06/08/2020
+06/08/2020
+0,00
+18.000,00
+liberação da operação
+d
+134.091,07
+07/08/2020
+07/08/2020
+0,00
+11.000,00
+liberação da operação
+d
+145.091,07
+10/08/2020
+10/08/2020
+0,00
+25.000,00
+liberação da operação
+d
+170.091,07
+12/08/2020
+12/08/2020
+0,00
+5.000,00
+liberação da operação
+d
+175.091,07
+13/08/2020
+13/08/2020
+0,00
+3.000,00
+liberação da operação
+d
+178.091,07
+14/08/2020
+14/08/2020
+0,00
+17.000,00
+liberação da operação
+d
+195.091,07
+17/08/2020
+17/08/2020
+0,00
+14.000,00
+liberação da operação
+d
+209.091,07
+18/08/2020
+18/08/2020
+0,00
+21.000,00
+liberação da operação
+d
+230.091,07
+19/08/2020
+19/08/2020
+:
+:
+% correção
+taxa juros
+a
+vlr. juros
+prorrogação
+grupo origem de recurso
+recursos próprios livres
+:
+modalidade
+:
+índice correção :
+rrf
+:
+%
+15.112,45
+2,00
+:
+0,00
+spread da operação
+13.143,40
+contrato mãe
+:
+sicoob leste capixaba
+cliente
+10-rot
+100,00
+:
+:
+taxa multa
+10-cdi
+rrf60
+:
+:
+não
+não
+vlr. a apropriar
+modalidade bacen
+10-cdi
+:
+vlr. apropriado no dia :
+:
+:
+0,00
+:
+1,0000
+vlr. apropriado
+:
+ %
+nível risco
+% correção atraso
+:
+:
+cooperativa
+índice corats.
+op. passiva
+205982 - construtora soeiro & tristao ltda me
+217
+0,00
+:
+:
+data mov. entrada
+critério de iof
+situação
+400.000,00
+data vencimento
+valor iof
+:
+0,00
+10/06/2020
+cobrar iof
+crédito rotativo c/ juros mensais pj*
+:
+08/06/2021
+em aberto
+prazo
+115010-3
+1
+finalidade
+conta corrente
+parcelas
+:
+363 dias
+19/06/2020
+valor operação
+:
+data operação
+:
+:
+:
+:
+:
+:
+:
+173009-8
+contrato
+contrato antigo
+:
+10002 - recursos próprios livres*
+:
+origem recurso
+ a.a %
+taxa selic contratação
+0,00
+repactuação taxa
+sem repactuação de juros
+:
+contrato conversão funcafé :
+:
+:
+conta vinculada
+caract. especial bacen
+:
+data venc. 1ª parc
+: 08/06/2021
+0,00
+:
+0,00
+taxa mora
+01035 - crédito rotativo*
+:
+ % a.m.
+:
+indicador de cálculo
+100,00
+1,00
+contrato anterior
+:
+:
+juros inad
+2,00
+ % a.m.
+ % a.acdi
+27,24
+:
+ % a.mcdi
+2,00
+custo efetivo total
+|
+:
+saldo contábil
+62.760,28
+data caract. espec. bacen
+:
+josiasc3007_10
+cnd - 048
+pág.:
+/
+1
+3
+ficha gráfica da operação
+data emissão:
+29/12/2020
+data processamento:
+14:12:34
+hora emissão:
+29/12/2020
+cooperativa: 3007
+sisbr 2.0 - empréstimo
+205982 - construtora soeiro & tristao ltda me
+173009-8
+cliente
+contrato
+:
+:
+histórico
+dt. ref.
+débito
+dt. lanc.
+crédito
+saldo
+d/c
+0,00
+34.000,00
+liberação da operação
+d
+264.091,07
+20/08/2020
+20/08/2020
+0,00
+10.000,00
+liberação da operação
+d
+274.091,07
+21/08/2020
+21/08/2020
+0,00
+22.000,00
+liberação da operação
+d
+296.091,07
+24/08/2020
+24/08/2020
+0,00
+22.000,00
+liberação da operação
+d
+318.091,07
+25/08/2020
+25/08/2020
+0,00
+4.000,00
+liberação da operação
+d
+322.091,07
+27/08/2020
+27/08/2020
+0,00
+5.000,00
+liberação da operação
+d
+327.091,07
+28/08/2020
+28/08/2020
+0,00
+15.000,00
+liberação da operação
+d
+342.091,07
+31/08/2020
+31/08/2020
+0,00
+6.000,00
+liberação da operação
+d
+348.091,07
+31/08/2020
+31/08/2020
+0,00
+310,49
+remuneração básica
+d
+348.401,56
+31/08/2020
+31/08/2020
+310,49
+0,00
+debito de remun.básica apropriada
+d
+348.091,07
+31/08/2020
+31/08/2020
+0,00
+2.020,27
+apropriação de juros
+d
+350.111,34
+31/08/2020
+31/08/2020
+2.020,27
+0,00
+debito de juros apropriados
+d
+348.091,07
+31/08/2020
+31/08/2020
+0,00
+4.000,00
+liberação da operação
+d
+352.091,07
+01/09/2020
+01/09/2020
+0,00
+13.000,00
+liberação da operação
+d
+365.091,07
+02/09/2020
+02/09/2020
+0,00
+34.908,93
+liberação da operação
+d
+400.000,00
+03/09/2020
+03/09/2020
+90.000,00
+0,00
+liquidação na operação
+d
+310.000,00
+11/09/2020
+11/09/2020
+113.000,00
+0,00
+liquidação na operação
+d
+197.000,00
+14/09/2020
+14/09/2020
+0,00
+11.000,00
+liberação da operação
+d
+208.000,00
+15/09/2020
+15/09/2020
+0,00
+7.000,00
+liberação da operação
+d
+215.000,00
+17/09/2020
+17/09/2020
+0,00
+36.000,00
+liberação da operação
+d
+251.000,00
+18/09/2020
+18/09/2020
+0,00
+13.000,00
+liberação da operação
+d
+264.000,00
+21/09/2020
+21/09/2020
+0,00
+5.000,00
+liberação da operação
+d
+269.000,00
+23/09/2020
+23/09/2020
+0,00
+13.000,00
+liberação da operação
+d
+282.000,00
+25/09/2020
+25/09/2020
+0,00
+17.000,00
+liberação da operação
+d
+299.000,00
+28/09/2020
+28/09/2020
+0,00
+10.000,00
+liberação da operação
+d
+309.000,00
+29/09/2020
+29/09/2020
+0,00
+479,07
+remuneração básica
+d
+309.479,07
+30/09/2020
+30/09/2020
+479,07
+0,00
+debito de remun.básica apropriada
+d
+309.000,00
+30/09/2020
+30/09/2020
+0,00
+3.098,50
+apropriação de juros
+d
+312.098,50
+30/09/2020
+30/09/2020
+3.098,50
+0,00
+debito de juros apropriados
+d
+309.000,00
+30/09/2020
+30/09/2020
+93.000,00
+0,00
+liquidação na operação
+d
+216.000,00
+02/10/2020
+02/10/2020
+0,00
+17.000,00
+liberação da operação
+d
+233.000,00
+05/10/2020
+05/10/2020
+0,00
+25.000,00
+liberação da operação
+d
+258.000,00
+06/10/2020
+06/10/2020
+0,00
+5.000,00
+liberação da operação
+d
+263.000,00
+07/10/2020
+07/10/2020
+0,00
+3.000,00
+liberação da operação
+d
+266.000,00
+08/10/2020
+08/10/2020
+266.898,09
+0,00
+liquidação na operação
+c
+-898,09
+09/10/2020
+09/10/2020
+0,00
+8.000,00
+liberação da operação
+d
+7.101,91
+16/10/2020
+16/10/2020
+0,00
+8.000,00
+liberação da operação
+d
+15.101,91
+19/10/2020
+19/10/2020
+0,00
+15.000,00
+liberação da operação
+d
+30.101,91
+20/10/2020
+20/10/2020
+0,00
+21.000,00
+liberação da operação
+d
+51.101,91
+20/10/2020
+20/10/2020
+45.000,00
+0,00
+liquidação na operação
+d
+6.101,91
+21/10/2020
+21/10/2020
+0,00
+28.000,00
+liberação da operação
+d
+34.101,91
+22/10/2020
+22/10/2020
+0,00
+12.000,00
+liberação da operação
+d
+46.101,91
+23/10/2020
+23/10/2020
+0,00
+11.000,00
+liberação da operação
+d
+57.101,91
+26/10/2020
+26/10/2020
+0,00
+8.000,00
+liberação da operação
+d
+65.101,91
+27/10/2020
+27/10/2020
+0,00
+27.000,00
+liberação da operação
+d
+92.101,91
+29/10/2020
+29/10/2020
+0,00
+60.000,00
+liberação da operação
+d
+152.101,91
+30/10/2020
+30/10/2020
+0,00
+1.167,72
+apropriação de juros
+d
+153.269,63
+31/10/2020
+30/10/2020
+269,63
+0,00
+debito de juros apropriados
+d
+153.000,00
+31/10/2020
+30/10/2020
+0,00
+9.000,00
+liberação da operação
+d
+162.000,00
+03/11/2020
+03/11/2020
+josiasc3007_10
+cnd - 048
+pág.:
+/
+2
+3
+ficha gráfica da operação
+data emissão:
+29/12/2020
+data processamento:
+14:12:34
+hora emissão:
+29/12/2020
+cooperativa: 3007
+sisbr 2.0 - empréstimo
+205982 - construtora soeiro & tristao ltda me
+173009-8
+cliente
+contrato
+:
+:
+histórico
+dt. ref.
+débito
+dt. lanc.
+crédito
+saldo
+d/c
+0,00
+9.000,00
+liberação da operação
+d
+171.000,00
+04/11/2020
+04/11/2020
+0,00
+21.000,00
+liberação da operação
+d
+192.000,00
+05/11/2020
+05/11/2020
+0,00
+15.000,00
+liberação da operação
+d
+207.000,00
+06/11/2020
+06/11/2020
+0,00
+9.000,00
+liberação da operação
+d
+216.000,00
+09/11/2020
+09/11/2020
+0,00
+10.000,00
+liberação da operação
+d
+226.000,00
+10/11/2020
+10/11/2020
+0,00
+15.000,00
+liberação da operação
+d
+241.000,00
+11/11/2020
+11/11/2020
+0,00
+20.000,00
+liberação da operação
+d
+261.000,00
+13/11/2020
+13/11/2020
+0,00
+5.000,00
+liberação da operação
+d
+266.000,00
+13/11/2020
+13/11/2020
+0,00
+23.000,00
+liberação da operação
+d
+289.000,00
+16/11/2020
+16/11/2020
+0,00
+6.000,00
+liberação da operação
+d
+295.000,00
+17/11/2020
+17/11/2020
+0,00
+10.000,00
+liberação da operação
+d
+305.000,00
+18/11/2020
+18/11/2020
+0,00
+10.000,00
+liberação da operação
+d
+315.000,00
+19/11/2020
+19/11/2020
+0,00
+55.000,00
+liberação da operação
+d
+370.000,00
+20/11/2020
+20/11/2020
+0,00
+25.000,00
+liberação da operação
+d
+395.000,00
+23/11/2020
+23/11/2020
+90.000,00
+0,00
+liquidação na operação
+d
+305.000,00
+24/11/2020
+24/11/2020
+0,00
+18.000,00
+liberação da operação
+d
+323.000,00
+25/11/2020
+25/11/2020
+323.000,00
+0,00
+liquidação na operação
+0,00
+26/11/2020
+26/11/2020
+0,00
+10.000,00
+liberação da operação
+d
+10.000,00
+30/11/2020
+30/11/2020
+0,00
+349,13
+remuneração básica
+d
+10.349,13
+30/11/2020
+30/11/2020
+0,00
+2.220,24
+apropriação de juros
+d
+12.569,37
+30/11/2020
+30/11/2020
+0,00
+5.000,00
+liberação da operação
+d
+17.569,37
+01/12/2020
+01/12/2020
+0,00
+23.000,00
+liberação da operação
+d
+40.569,37
+02/12/2020
+02/12/2020
+0,00
+20.000,00
+liberação da operação
+d
+60.569,37
+15/12/2020
+15/12/2020
+60.809,09
+0,00
+liquidação na operação
+c
+-239,72
+16/12/2020
+16/12/2020
+0,00
+20.000,00
+liberação da operação
+d
+19.760,28
+21/12/2020
+21/12/2020
+0,00
+13.000,00
+liberação da operação
+d
+32.760,28
+22/12/2020
+22/12/2020
+0,00
+10.000,00
+liberação da operação
+d
+42.760,28
+24/12/2020
+24/12/2020
+0,00
+20.000,00
+liberação da operação
+d
+62.760,28
+28/12/2020
+28/12/2020
+josiasc3007_10
+cnd - 048
+pág.:
+/
+3
+3
+ w'sicoob
+ tsicoob
+ w'sicoob
+ tsicoob
+ w'sicoob
+ tsicoob

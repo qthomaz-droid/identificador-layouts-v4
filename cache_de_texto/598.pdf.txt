@@ -1,0 +1,1420 @@
+01/06/2022 a 30/06/2022
+tipo: cálculo mensal
+período:
+ficha financeira  junho 2022
+pág.:
+0001 trevisan equip agroindustriais ltda
+   1
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 146 - adenir trevisan
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+14/10/1987
+admissão:
+f. reg.: 000000146
+nível:
+classe:
+000
+estr.:
+      1.212,00
+salário base:
+50 - adenir trevisan
+c.custo:
+0135 - socio administrador
+cargo:
+pró-labore
+inss
+1600
+01
+2000
+03
+        220,00
+         11,00
+      1.212,00
+        133,32
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+        133,32
+          0,00
+      1.212,00
+vantagens:
+inss proc:
+descontos:
+          0,00
+      1.212,00
+líquido:
+      1.078,68
+ipe proc:
+      1.212,00
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 213 - adilson alves ferreira
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+11/10/2021
+admissão:
+f. reg.: 000000213
+nível:
+classe:
+000
+estr.:
+      2.500,00
+salário base:
+190 - metalúrgica
+c.custo:
+1050 - servicos gerais
+cargo:
+horas normais
+inss
+   1
+01
+2000
+03
+        220,00
+         12,00
+      2.500,00
+        261,40
+horas extras c/ 50%
+irrf
+ 257
+01
+2004
+03
+         21,35
+          7,50
+        363,92
+         57,85
+dsr reflexo h.extras
+adiantamento salarial
+ 265
+01
+2466
+03
+          6,40
+         72,78
+         96,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        234,93
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+        420,85
+          0,00
+      2.936,70
+vantagens:
+inss proc:
+descontos:
+      2.936,70
+      2.936,70
+líquido:
+      2.515,85
+ipe proc:
+      2.936,70
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 150 - adriano augusto zacharias
+trabalhando
+sit:
+dep. sf: 01
+01
+dep. ir:
+03/06/2013
+admissão:
+f. reg.: 000000150
+nível:
+classe:
+000
+estr.:
+      3.321,89
+salário base:
+200 - montagem
+c.custo:
+0043 - servicos gerais
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        220,00
+         11,68
+      3.321,89
+        176,41
+horas extras c/ 50%
+vale mercado c vale
+ 257
+01
+302
+03
+          4,55
+        103,05
+        535,76
+dsr reflexo h.extras
+inss
+ 265
+01
+2000
+03
+          1,35
+         12,00
+         20,61
+        301,29
+irrf
+2004
+03
+          7,50
+         65,57
+vale parcelado
+2462
+03
+         72,33
+adiantamento salarial
+2466
+03
+        184,00
+empréstimo consignado sic
+2469
+03
+        645,38
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        261,53
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+      1.986,34
+          0,00
+      3.445,55
+vantagens:
+inss proc:
+descontos:
+      3.269,14
+      3.269,14
+líquido:
+      1.459,21
+ipe proc:
+      3.269,14
+          0,00
+  fprf001.ope  -  04/07/2022  -  14:47:40                                                                                       trevisan equipamentos agro-industriais ltda                                                                                        usuário: silvia.ongaratto
+01/06/2022 a 30/06/2022
+tipo: cálculo mensal
+período:
+ficha financeira  junho 2022
+pág.:
+0001 trevisan equip agroindustriais ltda
+   2
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 128 - alcione breier
+trabalhando
+sit:
+dep. sf: 01
+01
+dep. ir:
+21/03/2016
+admissão:
+f. reg.: 000000128
+nível:
+classe:
+000
+estr.:
+      4.444,00
+salário base:
+200 - montagem
+c.custo:
+1033 - auxiliar de montador
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        146,67
+          9,27
+      2.962,67
+        187,19
+horas férias diurnas
+inss
+   5
+01
+2000
+03
+         73,33
+         14,00
+      1.481,33
+        359,03
+horas extras c/ 50%
+inss férias
+ 257
+01
+2002
+03
+          2,05
+          9,00
+         62,12
+        172,03
+dsr reflexo h.extras
+irrf
+ 265
+01
+2004
+03
+          0,60
+          7,50
+         12,42
+         29,81
+média horas extras férias
+contrib confederativa
+ 551
+01
+2055
+03
+          5,12
+          1,50
+        103,58
+         50,00
+média variáveis férias
+desconto adto férias
+ 552
+01
+2101
+03
+         73,33
+          0,19
+      2.998,17
+1/3 férias
+adiantamento salarial
+ 558
+01
+2466
+03
+        528,37
+        216,00
+abono pecuniário férias
+desc 1% vale alimentacao
+ 600
+01
+5240
+03
+         36,67
+        740,67
+          5,60
+média h.extras abono pec.
+fgts
+ 601
+01
+2500
+04
+          2,55
+          8,00
+         51,79
+        397,07
+média v.variáv.abono pec.
+ 602
+01
+         36,67
+          0,09
+1/3 abono pecuniário fér
+ 609
+01
+        264,18
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+      4.017,83
+          0,00
+      6.207,41
+vantagens:
+inss proc:
+descontos:
+      4.963,49
+      2.850,02
+líquido:
+      2.189,58
+ipe proc:
+      4.963,49
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 100 - alessandro horn
+trabalhando
+sit:
+dep. sf: 01
+01
+dep. ir:
+14/02/2012
+admissão:
+f. reg.: 000000100
+nível:
+classe:
+000
+estr.:
+      4.866,18
+salário base:
+160 - usinagem
+c.custo:
+1046 - operador de torno cnc
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        198,00
+          0,18
+      4.379,56
+          4,06
+hrs atestado até 15 dias
+inss
+  14
+01
+2000
+03
+         22,00
+         14,00
+        486,62
+        629,28
+horas extras c/ 50%
+irrf
+ 257
+01
+2004
+03
+         20,17
+         27,50
+        669,10
+        463,34
+dsr reflexo h.extras
+adiantamento salarial
+ 265
+01
+2466
+03
+          6,05
+        133,82
+         64,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        453,20
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+      1.166,28
+          0,00
+      5.669,10
+vantagens:
+inss proc:
+descontos:
+      5.665,04
+      5.665,04
+líquido:
+      4.502,82
+ipe proc:
+      5.665,04
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 194 - alexandre jaques da costa lagasse
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+08/02/2021
+admissão:
+f. reg.: 000000194
+nível:
+classe:
+000
+estr.:
+      2.000,00
+salário base:
+200 - montagem
+c.custo:
+0353 - auxiliar de servicos gerais
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        220,00
+          7,68
+      2.000,00
+         69,85
+horas extras c/ 50%
+inss
+ 257
+01
+2000
+03
+          8,63
+          9,00
+        117,73
+        168,24
+dsr reflexo h.extras
+adiantamento salarial
+ 265
+01
+2466
+03
+          2,58
+         23,55
+         64,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        165,71
+  fprf001.ope  -  04/07/2022  -  14:47:40                                                                                       trevisan equipamentos agro-industriais ltda                                                                                        usuário: silvia.ongaratto
+01/06/2022 a 30/06/2022
+tipo: cálculo mensal
+período:
+ficha financeira  junho 2022
+pág.:
+0001 trevisan equip agroindustriais ltda
+   3
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+        307,69
+          0,00
+      2.141,28
+vantagens:
+inss proc:
+descontos:
+      2.071,43
+      2.071,43
+líquido:
+      1.833,59
+ipe proc:
+      2.071,43
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 91 - alexsandro siebert
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+03/11/2010
+admissão:
+f. reg.: 000000091
+nível:
+classe:
+000
+estr.:
+      4.590,74
+salário base:
+170 - corte e dobra
+c.custo:
+0318 - operador de maquinas
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        220,00
+          8,08
+      4.590,74
+        178,42
+produtividade
+inss
+5219
+01
+2000
+03
+        211,92
+         14,00
+        265,32
+        491,04
+irrf
+2004
+03
+         22,50
+        305,86
+contrib confederativa
+2055
+03
+          1,50
+         50,00
+adiantamento salarial
+2466
+03
+        440,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        374,21
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+      1.470,92
+          0,00
+      4.856,06
+vantagens:
+inss proc:
+descontos:
+      4.677,64
+      4.677,64
+líquido:
+      3.385,14
+ipe proc:
+      4.677,64
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 188 - alisson bilibio da silva
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+14/09/2020
+admissão:
+f. reg.: 000000188
+nível:
+classe:
+000
+estr.:
+      1.794,60
+salário base:
+200 - montagem
+c.custo:
+0353 - auxiliar de servicos gerais
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        187,03
+         29,05
+      1.525,68
+        236,97
+hrs atestado até 15 dias
+inss
+  14
+01
+2000
+03
+         32,97
+          9,00
+        268,92
+        122,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        124,61
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+        364,57
+          0,00
+      1.794,60
+vantagens:
+inss proc:
+descontos:
+      1.557,63
+      1.557,63
+líquido:
+      1.430,03
+ipe proc:
+      1.557,63
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 116 - anderson agostini
+trabalhando
+sit:
+dep. sf: 02
+02
+dep. ir:
+01/10/2013
+admissão:
+f. reg.: 000000116
+nível:
+classe:
+000
+estr.:
+      4.632,87
+salário base:
+200 - montagem
+c.custo:
+0321 - montador de maquinas
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        220,00
+          0,27
+      4.632,87
+          5,62
+horas extras c/ 50%
+vale farmacia ac farma
+ 257
+01
+300
+03
+         33,73
+      1.065,56
+        143,17
+dsr reflexo h.extras
+inss
+ 265
+01
+2000
+03
+         10,12
+         14,00
+        213,11
+        663,00
+irrf
+2004
+03
+         27,50
+        468,17
+adiantamento salarial
+2466
+03
+         64,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        472,47
+  fprf001.ope  -  04/07/2022  -  14:47:41                                                                                       trevisan equipamentos agro-industriais ltda                                                                                        usuário: silvia.ongaratto
+01/06/2022 a 30/06/2022
+tipo: cálculo mensal
+período:
+ficha financeira  junho 2022
+pág.:
+0001 trevisan equip agroindustriais ltda
+   4
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+      1.349,56
+          0,00
+      5.911,54
+vantagens:
+inss proc:
+descontos:
+      5.905,92
+      5.905,92
+líquido:
+      4.561,98
+ipe proc:
+      5.905,92
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 191 - anderson jose de sousa
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+08/02/2021
+admissão:
+f. reg.: 000000191
+nível:
+classe:
+000
+estr.:
+      3.500,00
+salário base:
+250 - engenharia
+c.custo:
+1154 - assistente em aquicultura
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        220,00
+         17,97
+      3.500,00
+        285,83
+horas extras c/ 50%
+inss
+ 257
+01
+2000
+03
+          1,37
+         12,00
+         32,61
+        299,39
+dsr reflexo h.extras
+irrf
+ 265
+01
+2004
+03
+          0,40
+         15,00
+          6,52
+         88,29
+plano odontológico
+2455
+03
+         24,93
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        260,26
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+        704,04
+          0,00
+      3.539,13
+vantagens:
+inss proc:
+descontos:
+      3.253,30
+      3.253,30
+líquido:
+      2.835,09
+ipe proc:
+      3.253,30
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 149 - andre castanha
+trabalhando
+sit:
+dep. sf: 01
+02
+dep. ir:
+01/06/2007
+admissão:
+f. reg.: 000000149
+nível:
+classe:
+000
+estr.:
+      6.068,57
+salário base:
+200 - montagem
+c.custo:
+0043 - servicos gerais
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        220,00
+          7,77
+      6.068,57
+        226,64
+horas extras c/ 50%
+inss
+ 257
+01
+2000
+03
+         14,37
+         14,00
+        628,85
+        808,87
+dsr reflexo h.extras
+irrf
+ 265
+01
+2004
+03
+          4,30
+         27,50
+        125,77
+        714,58
+produtividade
+contrib confederativa
+5219
+01
+2055
+03
+        212,23
+          1,50
+        351,27
+         50,00
+adiantamento salarial
+2466
+03
+        120,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        555,82
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+      1.925,69
+          0,00
+      7.174,46
+vantagens:
+inss proc:
+descontos:
+      6.947,82
+      6.947,82
+líquido:
+      5.248,77
+ipe proc:
+      6.947,82
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 151 - antonio marcos dos santos
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+01/03/2003
+admissão:
+f. reg.: 000000151
+nível:
+classe:
+000
+estr.:
+      5.083,35
+salário base:
+130 - fibra
+c.custo:
+0141 - preparador de fibras
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        146,67
+         11,27
+      3.388,90
+        274,75
+horas férias diurnas
+vale farmacia ac farma
+   5
+01
+300
+03
+         73,33
+      1.694,45
+         93,52
+média horas extras férias
+vale mercado c vale
+ 551
+01
+302
+03
+          9,08
+        210,14
+        800,00
+média variáveis férias
+inss
+ 552
+01
+2000
+03
+         73,33
+         14,00
+         88,61
+        442,59
+1/3 férias
+inss férias
+ 558
+01
+2002
+03
+         12,00
+        664,40
+        227,91
+abono pecuniário férias
+irrf
+ 600
+01
+2004
+03
+         36,67
+         15,00
+        847,23
+         74,09
+média h.extras abono pec.
+irrf férias
+ 601
+01
+2014
+03
+          4,53
+          7,50
+        105,07
+         39,43
+  fprf001.ope  -  04/07/2022  -  14:47:41                                                                                       trevisan equipamentos agro-industriais ltda                                                                                        usuário: silvia.ongaratto
+01/06/2022 a 30/06/2022
+tipo: cálculo mensal
+período:
+ficha financeira  junho 2022
+pág.:
+0001 trevisan equip agroindustriais ltda
+   5
+média v.variáv.abono pec.
+contrib confederativa
+ 602
+01
+2055
+03
+         36,67
+          1,50
+         44,31
+         50,00
+1/3 abono pecuniário fér
+desconto adto férias
+ 609
+01
+2101
+03
+        332,20
+      3.719,07
+produtividade
+vale parcelado
+5219
+01
+2462
+03
+        135,40
+        187,72
+        233,33
+adiantamento salarial
+2466
+03
+        293,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        476,75
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+      6.253,29
+          0,00
+      7.563,03
+vantagens:
+inss proc:
+descontos:
+      5.959,47
+      3.301,87
+líquido:
+      1.309,74
+ipe proc:
+      5.959,47
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 112 - arlindo dos reis souza
+auxílio doenç
+sit:
+dep. sf: 00
+00
+dep. ir:
+03/06/2013
+admissão:
+f. reg.: 000000000
+nível:
+classe:
+000
+estr.:
+      2.851,24
+salário base:
+190 - metalúrgica
+c.custo:
+0084 - soldador
+cargo:
+horas auxílio doença
+  7
+04
+        220,00
+      2.851,24
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+          0,00
+          0,00
+          0,00
+vantagens:
+inss proc:
+descontos:
+          0,00
+          0,00
+líquido:
+          0,00
+ipe proc:
+          0,00
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 129 - bruno ribeiro zacharias
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+01/02/2017
+admissão:
+f. reg.: 000000129
+nível:
+classe:
+000
+estr.:
+      3.499,65
+salário base:
+160 - usinagem
+c.custo:
+0069 - aux de servicos gerais
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        220,00
+          1,38
+      3.499,65
+         22,01
+inss
+2000
+03
+         12,00
+        326,31
+irrf
+2004
+03
+         15,00
+        117,90
+adiantamento salarial
+2466
+03
+        120,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        278,21
+totais:
+bases irrf proc:
+proventos:
+fgts proc:
+        591,82
+          0,00
+      3.499,65
+vantagens:
+inss proc:
+descontos:
+      3.477,64
+      3.477,64
+líquido:
+      2.907,83
+ipe proc:
+      3.477,64
+          0,00
+referência
+cod.
+1
+tp
+descrição
+valor
+cod.
+tp
+descrição
+referência
+valor
+tipo:
+colaborador: 206 - cassio cabral garcia
+trabalhando
+sit:
+dep. sf: 00
+00
+dep. ir:
+14/06/2021
+admissão:
+f. reg.: 000000206
+nível:
+classe:
+000
+estr.:
+      3.569,64
+salário base:
+200 - montagem
+c.custo:
+1050 - servicos gerais
+cargo:
+horas normais
+horas faltas
+   1
+01
+  3
+03
+        220,00
+         40,20
+      3.569,64
+        652,27
+inss
+2000
+03
+         12,00
+        259,08
+irrf
+2004
+03
+          7,50
+         56,57
+vale parcelado
+2462
+03
+        303,00
+desc 1% vale alimentacao
+5240
+03
+          5,60
+fgts
+2500
+04
+          8,00
+        233,38
+  fprf001.ope  -  04/07/2022  -  14:47:42                                                                                       trevisan equipamentos agro-industriais ltda                                                                                        usuário: silvia.ongaratto

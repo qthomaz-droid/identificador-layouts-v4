@@ -1,0 +1,412 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+ 
+data: 04/04/2022
+comprovante de pagamento de convênio
+hora: 08:38:01
+cooperativa:
+3003 / sicoob sul
+conta:
+34.811-2 / potencial pedras do brasil ltda
+convênio:
+banestes
+código de barras:
+85880000001 63730007202 20303400153 56351260018
+no. agendamento:
+18.122.888
+nsu:
+220620296576
+data agendamento:
+03/03/2022-13:55:34
+data pagamento:
+03/03/2022
+valor do documento:
+163,73
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+163,73
+autenticação:
+d86eac7b-b7e3-44fd-a904-cc369807be46
+ouvidoria sicoob: 08007250996
+data: 04/04/2022
+sisbr – sistema de informatica do sicoob
+hora: 08:25:57
+conta debitada:
+348112
+nome:
+potencial pedras do brasil ltda
+código de barras:
+85880000000202401792203076620500193904330001
+cnpj/cei empresa:
+19.390.433/0001-29
+cod. convênio:
+0179
+data de vencimento:
+07/03/2022
+competência:
+02/2022
+valor recolhido:
+20,24
+descrição do pagamento:
+fgts 022022
+còdigo da operação:
+1
+pagamento efetuado em :
+07/03/2022
+autenticação:
+c607a3bf-1047-42a8-8ec2-00114a2d502f
+data: 04/04/2022
+sisbr – sistema de informatica do sicoob
+hora: 08:25:57
+conta debitada:
+348112
+nome:
+potencial pedras do brasil ltda
+código de barras:
+85820000054956401792203076620508193904330001
+cnpj/cei empresa:
+19.390.433/0001-29
+cod. convênio:
+0179
+data de vencimento:
+07/03/2022
+competência:
+02/2022
+valor recolhido:
+5.495,64
+descrição do pagamento:
+fgts 022022
+còdigo da operação:
+1
+pagamento efetuado em :
+07/03/2022
+autenticação:
+33ea0b3d-f02c-4606-b270-ff519f995bad
+data: 04/04/2022
+sisbr – sistema de informatica do sicoob
+hora: 08:25:57
+conta debitada:
+348112
+nome:
+potencial pedras do brasil ltda
+código de barras:
+85890000011063002392022031506722893993904332
+cnpj/cei empresa:
+--
+cod. convênio:
+0239
+data de vencimento:
+15/03/2022
+competência:
+--
+identificador:
+06722893993904332
+valor recolhido:
+1.106,30
+descrição do pagamento:
+fgts março
+còdigo da operação:
+1
+pagamento efetuado em :
+11/03/2022
+autenticação:
+52002da0-9869-42e3-9330-529f263e9f7b
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 04/04/2022
+comprovante de pagamento darf
+hora: 08:25:57
+número do agendamento:
+18349742
+data pagamento:
+15/03/2022
+período apuração:
+15/03/2022
+número do cpf ou cnpj:
+19390433000129
+código receita:
+1708
+data vencimento:
+15/03/2022
+valor principal:
+24,90
+valor da multa:
+1,88
+valor dos juros:
+0,24
+valor total:
+27,02
+ci:
+3003/348112 - potencial pedras do brasil ltda
+autenticação:
+d3901a7b-9c42-4394-b35e-422eecffca59
+bancoob 08006464001
+data: 04/04/2022
+comprovante de pagamento darf
+hora: 08:25:57
+número do agendamento:
+18349865
+data pagamento:
+15/03/2022
+período apuração:
+15/03/2022
+número do cpf ou cnpj:
+19390433000129
+código receita:
+5952
+data vencimento:
+15/03/2022
+valor principal:
+77,19
+valor da multa:
+5,85
+valor dos juros:
+0,77
+valor total:
+83,81
+ci:
+3003/348112 - potencial pedras do brasil ltda
+autenticação:
+e8ecd3d7-d900-4073-bf7d-9827f0f6286b
+bancoob 08006464001
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 04/04/2022
+sisbr – sistema de informatica do sicoob
+hora: 08:25:57
+conta debitada:
+348112
+nome:
+potencial pedras do brasil ltda
+código de barras:
+85850000005958302392022031807622962593904332
+cnpj/cei empresa:
+--
+cod. convênio:
+0239
+data de vencimento:
+18/03/2022
+competência:
+--
+identificador:
+07622962593904332
+valor recolhido:
+595,83
+descrição do pagamento:
+fgts março
+còdigo da operação:
+1
+pagamento efetuado em :
+18/03/2022
+autenticação:
+98fda599-956d-499e-9573-578a56c790ff
+data: 04/04/2022
+comprovante de pagamento darf
+hora: 08:25:57
+número do agendamento:
+18395118
+data pagamento:
+18/03/2022
+código de barras:
+85880000321125903852207707162206886884260189
+valor total:
+32.112,59
+ci:
+3003/348112 - potencial pedras do brasil ltda
+autenticação:
+6013198a-969d-4943-97ab-69bc854babfc
+bancoob 08006464001
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 04/04/2022
+comprovante de pagamento darf
+hora: 08:25:57
+número do agendamento:
+18395202
+data pagamento:
+18/03/2022
+período apuração:
+18/03/2022
+número do cpf ou cnpj:
+19390433000129
+código receita:
+1708
+data vencimento:
+18/03/2022
+valor principal:
+104,40
+valor total:
+104,40
+ci:
+3003/348112 - potencial pedras do brasil ltda
+autenticação:
+61ce82e9-9405-43ef-afad-21ff73eb6de4
+bancoob 08006464001
+data: 04/04/2022
+comprovante de pagamento darf
+hora: 08:25:57
+número do agendamento:
+18395228
+data pagamento:
+18/03/2022
+período apuração:
+28/02/2022
+número do cpf ou cnpj:
+19390433000129
+código receita:
+561
+data vencimento:
+18/03/2022
+valor principal:
+1.679,90
+valor total:
+1.679,90
+ci:
+3003/348112 - potencial pedras do brasil ltda
+autenticação:
+ea6c2d78-86d6-47ee-bfd8-35bd6111cab3
+bancoob 08006464001
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 04/04/2022
+comprovante de pagamento darf
+hora: 08:25:57
+número do agendamento:
+18395271
+data pagamento:
+18/03/2022
+período apuração:
+28/02/2022
+número do cpf ou cnpj:
+19390433000129
+código receita:
+5952
+data vencimento:
+18/03/2022
+valor principal:
+323,64
+valor total:
+323,64
+ci:
+3003/348112 - potencial pedras do brasil ltda
+autenticação:
+d8ffda7c-9f57-4b17-8faa-107b77a50139
+bancoob 08006464001
+data: 04/04/2022
+comprovante de pagamento de convênio
+hora: 08:38:01
+cooperativa:
+3003 / sicoob sul
+conta:
+34.811-2 / potencial pedras do brasil ltda
+convênio:
+banestes
+código de barras:
+85850000001 97480007202 20318400159 44371210018
+no. agendamento:
+18.395.299
+nsu:
+220770067940
+data agendamento:
+18/03/2022-08:32:07
+data pagamento:
+18/03/2022
+valor do documento:
+0,00
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+197,48
+autenticação:
+a9d8d8ee-99b1-463e-a9cd-8cfc3634a5dd
+ouvidoria sicoob: 08007250996
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 04/04/2022
+comprovante de pagamento de convênio
+hora: 08:38:01
+cooperativa:
+3003 / sicoob sul
+conta:
+34.811-2 / potencial pedras do brasil ltda
+convênio:
+banestes
+código de barras:
+85850000000 61980007202 20318400159 43901210018
+no. agendamento:
+18.395.562
+nsu:
+220770076202
+data agendamento:
+18/03/2022-08:43:30
+data pagamento:
+18/03/2022
+valor do documento:
+0,00
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+61,98
+autenticação:
+0936d582-d99f-40a8-875b-5deaf8b66827
+ouvidoria sicoob: 08007250996
+data: 04/04/2022
+comprovante de pagamento darf
+hora: 08:25:57
+número do agendamento:
+18507398
+data pagamento:
+25/03/2022
+período apuração:
+28/02/2022
+número do cpf ou cnpj:
+19390433000129
+código receita:
+5123
+data vencimento:
+25/03/2022
+valor principal:
+4.644,87
+valor total:
+4.644,87
+ci:
+3003/348112 - potencial pedras do brasil ltda
+autenticação:
+2b941dd0-49b0-468b-959d-3f3a3dd87532
+bancoob 08006464001

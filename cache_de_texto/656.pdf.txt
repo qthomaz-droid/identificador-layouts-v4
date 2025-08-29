@@ -1,0 +1,1379 @@
+dt.oper.: 01/01/22 até 31/10/22
+dt.vencto.: 01/10/22 até 31/10/22
+data
+emissão
+tipo serie seq.
+número
+data
+vencimento
+valor
+título
+valor
+data
+saldo
+------ documento ------
+------------- liquidação ------------
+versão
+página
+1
+1/16
+identificação 
+consulta contas a receber - agrupado por cliente
+7007-1
+empresa: todas as empresas
+desc.
+juros
+cliente: 3.274 - alzira da costa souza
+11
+9
+2236 05/02/22
+03/10/22
+40,00
+0,00
+40,00
+65
+0,00
+0,00
+totais cliente
+40,00
+40,00
+0,00
+0,00
+0,00
+cliente: 20.267 - ana julia de pádua chaves
+11
+2
+3410 13/09/22
+13/10/22
+91,00
+0,00
+91,00
+65
+0,00
+0,00
+totais cliente
+91,00
+91,00
+0,00
+0,00
+0,00
+cliente: 14.179 - ana paula rodrigues de souza calafiori
+11
+5
+2938 20/06/22
+18/10/22
+267,00
+0,00
+267,00
+65
+0,00
+0,00
+totais cliente
+267,00
+267,00
+0,00
+0,00
+0,00
+cliente: 19.965 - angelica cristina geronimo costa
+11
+4
+3055 11/07/22
+09/10/22
+252,00
+0,00
+252,00
+65
+0,00
+0,00
+totais cliente
+252,00
+252,00
+0,00
+0,00
+0,00
+cliente: 12.499 - antonio carlos silva
+11
+4
+3056 11/07/22
+09/10/22
+293,00
+0,00
+293,00
+65
+0,00
+0,00
+totais cliente
+293,00
+293,00
+0,00
+0,00
+0,00
+cliente: 20.514 - antonio garcia
+1
+1
+566 22/10/22
+22/10/22
+2.879,00
+0,00
+2.879,00
+55
+0,00
+0,00
+totais cliente
+2.879,00
+2.879,00
+0,00
+0,00
+0,00
+cliente: 17.156 - aparecida vargas francisco moreira
+11
+6
+2838 01/06/22
+29/10/22
+300,00
+0,00
+300,00
+65
+0,00
+0,00
+totais cliente
+300,00
+300,00
+0,00
+0,00
+0,00
+cliente: 5.643 - bruno caparelli semenzi silva
+11
+10
+2108 19/01/22
+16/10/22
+100,00
+0,00
+100,00
+65
+0,00
+0,00
+totais cliente
+100,00
+100,00
+0,00
+0,00
+0,00
+cliente: 19.704 - carla aparecida costa carvalho
+11
+9
+2239 05/02/22
+03/10/22
+161,00
+0,00
+161,00
+65
+0,00
+0,00
+totais cliente
+161,00
+161,00
+0,00
+0,00
+0,00
+cliente: 7.884 - carlos alberto rodrigues
+11
+1
+3520 08/10/22
+09/10/22
+475,00
+0,00
+475,00
+65
+0,00
+0,00
+totais cliente
+475,00
+475,00
+0,00
+0,00
+0,00
+cliente: 5.577 - carlos augusto dizaro
+11
+1
+3544 10/10/22
+11/10/22
+128,00
+0,00
+128,00
+65
+0,00
+0,00
+totais cliente
+128,00
+128,00
+0,00
+0,00
+0,00
+cliente: 16.443 - celia regina goncalves mafra
+11
+9
+2242 05/02/22
+03/10/22
+60,00
+0,00
+60,00
+65
+0,00
+0,00
+totais cliente
+60,00
+60,00
+0,00
+0,00
+0,00
+cliente: 19.685 - cicero bezerra da rocha
+11
+6
+2834 01/06/22
+29/10/22
+81,90
+0,00
+81,90
+65
+0,00
+0,00
+totais cliente
+81,90
+81,90
+0,00
+0,00
+0,00
+cliente: 18.376 - daniela cortez aguiar
+11
+7
+2558 05/04/22
+02/10/22
+429,00
+0,00
+429,00
+65
+0,00
+0,00
+totais cliente
+429,00
+429,00
+0,00
+0,00
+0,00
+data/hora emissão: 19/11/22  08:22:03
+usuário: bruno
+dt.oper.: 01/01/22 até 31/10/22
+dt.vencto.: 01/10/22 até 31/10/22
+data
+emissão
+tipo serie seq.
+número
+data
+vencimento
+valor
+título
+valor
+data
+saldo
+------ documento ------
+------------- liquidação ------------
+versão
+página
+1
+2/16
+identificação 
+consulta contas a receber - agrupado por cliente
+7007-1
+empresa: todas as empresas
+desc.
+juros
+cliente: 21.857 - danusa lourenco abreu
+11
+4
+3046 11/07/22
+09/10/22
+125,00
+0,00
+125,00
+65
+0,00
+0,00
+totais cliente
+125,00
+125,00
+0,00
+0,00
+0,00
+cliente: 15.469 - debora adriana alves
+11
+4
+3137 25/07/22
+23/10/22
+326,80
+0,00
+326,80
+65
+0,00
+0,00
+totais cliente
+326,80
+326,80
+0,00
+0,00
+0,00
+cliente: 10.694 - dilma lucia da silveira
+11
+1
+3536 10/10/22
+11/10/22
+55,00
+0,00
+55,00
+65
+0,00
+0,00
+11
+1
+3537 10/10/22
+11/10/22
+70,00
+0,00
+70,00
+65
+0,00
+0,00
+totais cliente
+125,00
+125,00
+0,00
+0,00
+0,00
+cliente: 21.763 - dirce helena silva
+11
+3
+3258 17/08/22
+16/10/22
+260,00
+0,00
+260,00
+65
+0,00
+0,00
+totais cliente
+260,00
+260,00
+0,00
+0,00
+0,00
+cliente: 1.445 - dulce lopes moreira
+11
+1
+3546 10/10/22
+11/10/22
+79,33
+0,00
+79,33
+65
+0,00
+0,00
+totais cliente
+79,33
+79,33
+0,00
+0,00
+0,00
+cliente: 7.561 - edilson ferreira nunes
+11
+1
+3531 10/10/22
+11/10/22
+200,00
+0,00
+200,00
+65
+0,00
+0,00
+totais cliente
+200,00
+200,00
+0,00
+0,00
+0,00
+cliente: 7.415 - elaine aparecida rodrigues silveira
+11
+5
+2908 13/06/22
+11/10/22
+44,00
+0,00
+44,00
+65
+0,00
+0,00
+totais cliente
+44,00
+44,00
+0,00
+0,00
+0,00
+cliente: 6.044 - eliane damiao da silva
+11
+6
+2814 26/05/22
+23/10/22
+295,00
+0,00
+295,00
+65
+0,00
+0,00
+totais cliente
+295,00
+295,00
+0,00
+0,00
+0,00
+cliente: 21.590 - gerson aparecido rissotti
+11
+4
+3167 30/07/22
+28/10/22
+459,00
+0,00
+459,00
+65
+0,00
+0,00
+totais cliente
+459,00
+459,00
+0,00
+0,00
+0,00
+cliente: 19.796 - gildete dos santos luiz
+11
+1
+3597 14/10/22
+15/10/22
+400,00
+0,00
+400,00
+65
+0,00
+0,00
+totais cliente
+400,00
+400,00
+0,00
+0,00
+0,00
+cliente: 15.681 - helena maria silva
+11
+1
+3540 10/10/22
+11/10/22
+151,00
+0,00
+151,00
+65
+0,00
+0,00
+totais cliente
+151,00
+151,00
+0,00
+0,00
+0,00
+cliente: 20.269 - ilva fernanda de lima
+11
+4
+2766 20/05/22
+24/10/22
+159,00
+0,00
+159,00
+65
+0,00
+0,00
+totais cliente
+159,00
+159,00
+0,00
+0,00
+0,00
+cliente: 4.190 - irene naves andrade
+11
+1
+3605 15/10/22
+16/10/22
+269,67
+0,00
+269,67
+65
+0,00
+0,00
+totais cliente
+269,67
+269,67
+0,00
+0,00
+0,00
+cliente: 3.012 - izabel de souza amaral
+11
+9
+2230 05/02/22
+03/10/22
+150,00
+0,00
+150,00
+65
+0,00
+0,00
+totais cliente
+150,00
+150,00
+0,00
+0,00
+0,00
+data/hora emissão: 19/11/22  08:22:03
+usuário: bruno
+dt.oper.: 01/01/22 até 31/10/22
+dt.vencto.: 01/10/22 até 31/10/22
+data
+emissão
+tipo serie seq.
+número
+data
+vencimento
+valor
+título
+valor
+data
+saldo
+------ documento ------
+------------- liquidação ------------
+versão
+página
+1
+3/16
+identificação 
+consulta contas a receber - agrupado por cliente
+7007-1
+empresa: todas as empresas
+desc.
+juros
+cliente: 17.973 - jairo ramos de oliveira
+11
+4
+3103 19/07/22
+17/10/22
+75,00
+0,00
+75,00
+65
+0,00
+0,00
+totais cliente
+75,00
+75,00
+0,00
+0,00
+0,00
+cliente: 20.993 - jeovana aparecida volpe moreira
+11
+8
+2504 24/03/22
+20/10/22
+265,50
+0,00
+265,50
+65
+0,00
+0,00
+totais cliente
+265,50
+265,50
+0,00
+0,00
+0,00
+cliente: 13.689 - jesser esper
+11
+4
+3005 04/07/22
+02/10/22
+131,00
+0,00
+131,00
+65
+0,00
+0,00
+totais cliente
+131,00
+131,00
+0,00
+0,00
+0,00
+cliente: 21.785 - joana francisca bernardes martins
+11
+4
+3052 11/07/22
+09/10/22
+83,00
+0,00
+83,00
+65
+0,00
+0,00
+totais cliente
+83,00
+83,00
+0,00
+0,00
+0,00
+cliente: 12.646 - josé carlos de souza 22/5/62
+11
+1
+3535 10/10/22
+11/10/22
+45,00
+0,00
+45,00
+65
+0,00
+0,00
+totais cliente
+45,00
+45,00
+0,00
+0,00
+0,00
+cliente: 21.542 - jose luiz de souza
+11
+6
+2811 25/05/22
+22/10/22
+75,00
+0,00
+75,00
+65
+0,00
+0,00
+totais cliente
+75,00
+75,00
+0,00
+0,00
+0,00
+cliente: 21.814 - josiana de jesus rodrigues
+11
+1
+3541 10/10/22
+11/10/22
+30,00
+0,00
+30,00
+65
+0,00
+0,00
+totais cliente
+30,00
+30,00
+0,00
+0,00
+0,00
+cliente: 16.995 - jucelia aparecida manoel araujo
+11
+1
+3644 21/10/22
+22/10/22
+475,80
+0,00
+475,80
+65
+0,00
+0,00
+totais cliente
+475,80
+475,80
+0,00
+0,00
+0,00
+cliente: 1.686 - kellen de paula
+11
+4
+3162 29/07/22
+27/10/22
+241,00
+0,00
+241,00
+65
+0,00
+0,00
+totais cliente
+241,00
+241,00
+0,00
+0,00
+0,00
+cliente: 19.308 - leidejane pereira costa
+11
+10
+2089 13/01/22
+10/10/22
+175,00
+0,00
+175,00
+65
+0,00
+0,00
+11
+6
+2833 01/06/22
+29/10/22
+100,00
+0,00
+100,00
+65
+0,00
+0,00
+totais cliente
+275,00
+275,00
+0,00
+0,00
+0,00
+cliente: 16.801 - liceria silverio
+11
+1
+3381 06/09/22
+06/10/22
+830,00
+0,00
+830,00
+65
+0,00
+0,00
+totais cliente
+830,00
+830,00
+0,00
+0,00
+0,00
+cliente: 20.089 - lucilene lopes da silva ernesto
+11
+10
+2077 11/01/22
+08/10/22
+99,00
+0,00
+99,00
+65
+0,00
+0,00
+totais cliente
+99,00
+99,00
+0,00
+0,00
+0,00
+cliente: 21.965 - lucimar silva
+11
+2
+3406 12/09/22
+12/10/22
+125,00
+0,00
+125,00
+65
+0,00
+0,00
+totais cliente
+125,00
+125,00
+0,00
+0,00
+0,00
+cliente: 9.717 - luiz de souza
+11
+8
+2466 18/03/22
+14/10/22
+314,00
+0,00
+314,00
+65
+0,00
+0,00
+totais cliente
+314,00
+314,00
+0,00
+0,00
+0,00
+data/hora emissão: 19/11/22  08:22:03
+usuário: bruno
+dt.oper.: 01/01/22 até 31/10/22
+dt.vencto.: 01/10/22 até 31/10/22
+data
+emissão
+tipo serie seq.
+número
+data
+vencimento
+valor
+título
+valor
+data
+saldo
+------ documento ------
+------------- liquidação ------------
+versão
+página
+1
+4/16
+identificação 
+consulta contas a receber - agrupado por cliente
+7007-1
+empresa: todas as empresas
+desc.
+juros
+cliente: 19.317 - marcelo silva ribeiro
+11
+3
+3257 17/08/22
+16/10/22
+165,17
+0,00
+165,17
+65
+0,00
+0,00
+totais cliente
+165,17
+165,17
+0,00
+0,00
+0,00
+cliente: 3.271 - marcia das dores medeiros
+11
+5
+2856 03/06/22
+01/10/22
+316,00
+0,00
+316,00
+65
+0,00
+0,00
+11
+6
+2856 03/06/22
+31/10/22
+316,00
+0,00
+316,00
+65
+0,00
+0,00
+totais cliente
+632,00
+632,00
+0,00
+0,00
+0,00
+cliente: 16.359 - marciano moreira alvarenga
+11
+1
+3556 10/10/22
+11/10/22
+142,00
+0,00
+142,00
+65
+0,00
+0,00
+totais cliente
+142,00
+142,00
+0,00
+0,00
+0,00
+cliente: 9.678 - maria antonia da silva de medeiros
+11
+4
+3156 27/07/22
+25/10/22
+459,00
+0,00
+459,00
+65
+0,00
+0,00
+totais cliente
+459,00
+459,00
+0,00
+0,00
+0,00
+cliente: 21.819 - maria aparecida alvarenga da costa
+11
+1
+3543 10/10/22
+11/10/22
+42,00
+0,00
+42,00
+65
+0,00
+0,00
+totais cliente
+42,00
+42,00
+0,00
+0,00
+0,00
+cliente: 5.753 - maria aparecida de jesus dias
+11
+3
+3259 17/08/22
+16/10/22
+160,25
+0,00
+160,25
+65
+0,00
+0,00
+totais cliente
+160,25
+160,25
+0,00
+0,00
+0,00
+cliente: 8.368 - maria concebida martins de oliveira
+11
+5
+2688 06/05/22
+05/10/22
+110,00
+0,00
+110,00
+65
+0,00
+0,00
+totais cliente
+110,00
+110,00
+0,00
+0,00
+0,00
+cliente: 21.715 - maria gabriela de oliveira souza
+11
+4
+2839 01/06/22
+01/10/22
+260,00
+0,00
+260,00
+65
+0,00
+0,00
+totais cliente
+260,00
+260,00
+0,00
+0,00
+0,00
+cliente: 16.280 - maria helena dos santos 18/02/60
+11
+6
+2791 25/05/22
+22/10/22
+153,00
+0,00
+153,00
+65
+0,00
+0,00
+totais cliente
+153,00
+153,00
+0,00
+0,00
+0,00
+cliente: 8.590 - maria lucia pereira
+11
+4
+3026 06/07/22
+04/10/22
+158,00
+0,00
+158,00
+65
+0,00
+0,00
+totais cliente
+158,00
+158,00
+0,00
+0,00
+0,00
+cliente: 20.563 - maria sonia de sousa prates
+11
+3
+3261 17/08/22
+16/10/22
+113,17
+0,00
+113,17
+65
+0,00
+0,00
+totais cliente
+113,17
+113,17
+0,00
+0,00
+0,00
+cliente: 6.542 - maria tereza pereira de moraes
+11
+4
+3161 29/07/22
+27/10/22
+334,00
+0,00
+334,00
+65
+0,00
+0,00
+totais cliente
+334,00
+334,00
+0,00
+0,00
+0,00
+cliente: 11.285 - mariana margarida de jesus batista
+11
+5
+2935 20/06/22
+18/10/22
+135,00
+0,00
+135,00
+65
+0,00
+0,00
+totais cliente
+135,00
+135,00
+0,00
+0,00
+0,00
+cliente: 11.098 - marilza aparecida marques
+11
+6
+2796 25/05/22
+22/10/22
+63,00
+0,00
+63,00
+65
+0,00
+0,00
+totais cliente
+63,00
+63,00
+0,00
+0,00
+0,00
+data/hora emissão: 19/11/22  08:22:03
+usuário: bruno
+dt.oper.: 01/01/22 até 31/10/22
+dt.vencto.: 01/10/22 até 31/10/22
+data
+emissão
+tipo serie seq.
+número
+data
+vencimento
+valor
+título
+valor
+data
+saldo
+------ documento ------
+------------- liquidação ------------
+versão
+página
+1
+5/16
+identificação 
+consulta contas a receber - agrupado por cliente
+7007-1
+empresa: todas as empresas
+desc.
+juros
+cliente: 20.430 - marilza aparecida marques
+11
+6
+2795 25/05/22
+22/10/22
+26,50
+0,00
+26,50
+65
+0,00
+0,00
+totais cliente
+26,50
+26,50
+0,00
+0,00
+0,00
+cliente: 2.807 - marlene bessa rodrigues
+11
+4
+3016 05/07/22
+03/10/22
+169,00
+0,00
+169,00
+65
+0,00
+0,00
+totais cliente
+169,00
+169,00
+0,00
+0,00
+0,00
+cliente: 15.219 - mayara niria caetano
+11
+4
+3175 01/08/22
+30/10/22
+676,00
+0,00
+676,00
+65
+0,00
+0,00
+totais cliente
+676,00
+676,00
+0,00
+0,00
+0,00
+cliente: 11.060 - monica aparecida pacheco da rocha
+11
+6
+2832 01/06/22
+29/10/22
+252,90
+0,00
+252,90
+65
+0,00
+0,00
+totais cliente
+252,90
+252,90
+0,00
+0,00
+0,00
+cliente: 19.164 - natalia edwirges alves macedo
+11
+10
+2198 01/02/22
+29/10/22
+122,00
+0,00
+122,00
+65
+0,00
+0,00
+totais cliente
+122,00
+122,00
+0,00
+0,00
+0,00
+cliente: 17.286 - neide alves corsi
+11
+1
+3530 10/10/22
+11/10/22
+173,00
+0,00
+173,00
+65
+0,00
+0,00
+totais cliente
+173,00
+173,00
+0,00
+0,00
+0,00
+cliente: 14.473 - nilsa goncalves barbosa
+11
+2
+3450 22/09/22
+22/10/22
+272,00
+0,00
+272,00
+65
+0,00
+0,00
+11
+2
+3452 22/09/22
+22/10/22
+311,00
+0,00
+311,00
+65
+0,00
+0,00
+totais cliente
+583,00
+583,00
+0,00
+0,00
+0,00
+cliente: 20.473 - nilson aparecido de padua
+11
+4
+3139 25/07/22
+23/10/22
+223,12
+0,00
+223,12
+65
+0,00
+0,00
+totais cliente
+223,12
+223,12
+0,00
+0,00
+0,00
+cliente: 5.204 - oswaldo claudino
+11
+4
+3009 05/07/22
+03/10/22
+59,33
+0,00
+59,33
+65
+0,00
+0,00
+totais cliente
+59,33
+59,33
+0,00
+0,00
+0,00
+cliente: 6.504 - pamela alves ribeiro
+11
+4
+3008 05/07/22
+03/10/22
+245,00
+0,00
+245,00
+65
+0,00
+0,00
+totais cliente
+245,00
+245,00
+0,00
+0,00
+0,00
+cliente: 19.196 - patricia de godoy bueno
+11
+4
+3010 05/07/22
+03/10/22
+93,20
+0,00
+93,20
+65
+0,00
+0,00
+11
+1
+3558 10/10/22
+11/10/22
+140,00
+0,00
+140,00
+65
+0,00
+0,00
+totais cliente
+233,20
+233,20
+0,00
+0,00
+0,00
+cliente: 4.714 - pedro bernardes costa
+11
+1
+3554 10/10/22
+11/10/22
+125,00
+0,00
+125,00
+65
+0,00
+0,00
+11
+5
+2978 28/06/22
+26/10/22
+170,00
+0,00
+170,00
+65
+0,00
+0,00
+totais cliente
+295,00
+295,00
+0,00
+0,00
+0,00
+cliente: 21.705 - pollyanna dos reis nascimento
+11
+6
+2679 04/05/22
+01/10/22
+203,00
+0,00
+203,00
+65
+0,00
+0,00
+totais cliente
+203,00
+203,00
+0,00
+0,00
+0,00
+cliente: 21.743 - pricila daniele de brito
+11
+5
+2922 15/06/22
+13/10/22
+221,40
+0,00
+221,40
+65
+0,00
+0,00
+data/hora emissão: 19/11/22  08:22:03
+usuário: bruno

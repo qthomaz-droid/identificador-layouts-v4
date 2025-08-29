@@ -1,0 +1,60 @@
+extrato bancário (saldo no banco)                                      periodo de 01/11/2023 a 30/11/2023                                      pagina:      0001
+conta: [03]   banco: [341-0]   número: [1469-6      ]   titular: [banco itau                    ]                                              hora..:     15:33
+eletrotecnica gulgielmin ltda                                                                                                       ban400la   data..:06/12/2023
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+vencimento  emissão    mov.operação                 complemento                                        cheque  série          débito       crédito         saldo
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                 saldo anterior:       11.682,86
+01/11/2023  01/11/2023 0001 07-débito em conta      i.f.c ind. com. de condutore doc:377569                                 7.061,09          0,00      4.621,77
+01/11/2023  01/11/2023 0002 11-credito              rend pago aplic aut apr                                                     0,00          0,22      4.621,99
+                                                                                                  total em  01/11/2023      7.061,09          0,22      4.621,99
+03/11/2023  03/11/2023 0001 11-credito              rend pago aplic aut apr                                                     0,00          0,01      4.622,00
+03/11/2023  03/11/2023 0002 12-debito               tar conta certa 10/2023                                                   135,10          0,00      4.486,90
+                                                                                                  total em  03/11/2023        135,10          0,01      4.486,90
+06/11/2023  06/11/2023 0001 07-débito em conta      anderson martins de jesus                                               1.873,20          0,00      2.613,70
+06/11/2023  06/11/2023 0002 11-credito              rend. pago aplic aut apr                                                    0,00          0,10      2.613,80
+06/11/2023  06/11/2023 0003 12-debito               tar contr renov cta gar                                                   165,00          0,00      2.448,80
+                                                                                                  total em  06/11/2023      2.038,20          0,10      2.448,80
+08/11/2023  08/11/2023 0001 12-debito               suprimento de caixa ch 1710                                             4.500,00          0,00     -2.051,20
+08/11/2023  08/11/2023 0002 02-depósito da empresa  efetuado pelo caixa                                                         0,00      2.500,00        448,80
+08/11/2023  08/11/2023 0003 11-credito              rend pago aplic aut apr                                                     0,00          0,14        448,94
+                                                                                                  total em  08/11/2023      4.500,00      2.500,14        448,94
+10/11/2023  10/11/2023 0001 03-depósito do cliente  dep. cargil 70887                                                           0,00      2.000,00      2.448,94
+                                                                                                  total em  10/11/2023          0,00      2.000,00      2.448,94
+14/11/2023  14/11/2023 0006 03-depósito do cliente  dep. marino franz 71780                                                     0,00        467,32      2.916,26
+14/11/2023  14/11/2023 0001 03-depósito do cliente  dep. marino franz 71549                                                     0,00        899,68      3.815,94
+14/11/2023  14/11/2023 0002 03-depósito do cliente  dep. marino franz 71749                                                     0,00        242,06      4.058,00
+14/11/2023  14/11/2023 0003 03-depósito do cliente  dep. marino franz 71751                                                     0,00      2.113,05      6.171,05
+14/11/2023  14/11/2023 0004 03-depósito do cliente  dep. marino franz 71469                                                     0,00        303,14      6.474,19
+14/11/2023  14/11/2023 0005 03-depósito do cliente  dep. marino franz 71518                                                     0,00         87,37      6.561,56
+14/11/2023  14/11/2023 0007 03-depósito do cliente  dep. marino franz 71522                                                     0,00        480,00      7.041,56
+14/11/2023  14/11/2023 0008 03-depósito do cliente  dep. marino franz 71246                                                     0,00        655,30      7.696,86
+                                                                                                  total em  14/11/2023          0,00      5.247,92      7.696,86
+16/11/2023  16/11/2023 0001 03-depósito do cliente  dep. bunge alimentos 71596                                                  0,00        241,20      7.938,06
+16/11/2023  16/11/2023 0002 03-depósito do cliente  dep. amanda franz 71422                                                     0,00        644,79      8.582,85
+16/11/2023  16/11/2023 0003 03-depósito do cliente  dep. franciele franz 71730                                                  0,00        297,96      8.880,81
+                                                                                                  total em  16/11/2023          0,00      1.183,95      8.880,81
+17/11/2023  17/11/2023 0001 07-débito em conta      anderson martins de jesus                                               1.350,54          0,00      7.530,27
+17/11/2023  17/11/2023 0002 03-depósito do cliente  dep. marino franz 71750                                                     0,00         23,00      7.553,27
+17/11/2023  17/11/2023 0003 03-depósito do cliente  dep. marino franz 71685                                                     0,00      1.912,61      9.465,88
+17/11/2023  17/11/2023 0004 03-depósito do cliente  dep. marino franz 71613                                                     0,00      2.107,15     11.573,03
+                                                                                                  total em  17/11/2023      1.350,54      4.042,76     11.573,03
+21/11/2023  21/11/2023 0001 03-depósito do cliente  dep. marino franz 72112                                                     0,00        816,93     12.389,96
+                                                                                                  total em  21/11/2023          0,00        816,93     12.389,96
+22/11/2023  22/11/2023 0001 11-credito              rend. pago aplic aut apr                                                    0,00          0,09     12.390,05
+22/11/2023  22/11/2023 0002 12-debito               emprestimo                                                              5.000,00          0,00      7.390,05
+                                                                                                  total em  22/11/2023      5.000,00          0,09      7.390,05
+24/11/2023  24/11/2023 0001 11-credito              dep. black & decker 2023340                                                 0,00         38,00      7.428,05
+24/11/2023  24/11/2023 0002 11-credito              dep. black & decker extrato nº: 645051                                      0,00          0,40      7.428,45
+24/11/2023  24/11/2023 0003 03-depósito do cliente  dep. marino franz 71710                                                     0,00     10.420,59     17.849,04
+                                                                                                  total em  24/11/2023          0,00     10.458,99     17.849,04
+27/11/2023  27/11/2023 0008 11-credito              rend aplic aut mais                                                         0,00          0,16     17.849,20
+27/11/2023  27/11/2023 0001 12-debito               ref 1° parc 13° sal 11/23 anderson martins de jesu                      1.986,49          0,00     15.862,71
+27/11/2023  27/11/2023 0002 12-debito               ref 1° parc do 13° sal 11/23 alex junior cunico                         3.319,72          0,00     12.542,99
+27/11/2023  27/11/2023 0003 12-debito               ref 1° parc do 13° sal 11/23 claudinei alexandre r                      5.093,10          0,00      7.449,89
+27/11/2023  27/11/2023 0004 12-debito               ref 1° parc do 13° sal 11/23 diones da silva                            2.121,58          0,00      5.328,31
+27/11/2023  27/11/2023 0005 12-debito               ref 1° parc do 13° sal 11/23 erik tarcio de souza                       1.581,63          0,00      3.746,68
+27/11/2023  27/11/2023 0006 12-debito               ref 1° parc do 13° sal 11/23 marcio rodrigo vougad                      6.061,84          0,00     -2.315,16
+27/11/2023  27/11/2023 0007 03-depósito do cliente  dep. cargil 71247                                                           0,00      2.585,82        270,66
+                                                                                                  total em  27/11/2023     20.164,36      2.585,98        270,66
+                                                                                                  total geral              40.249,29     28.837,09        270,66

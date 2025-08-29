@@ -1,0 +1,932 @@
+                                                                                                                               
+ 
+data: 1 de setembro de 2022 
+código do cliente: 28246296. cnpj:: 20708360000150 - baterias maxion 
+histórico de vendas 
+página:1
+moeda: brl
+ 
+ 
+data da
+transação
+código do
+cliente
+comprovan
+te
+produto
+tipo de
+transação
+parcelas
+autorização num.
+cartão
+seu
+número
+codigo eci terminal
+tipo de
+captura
+tipo de
+cartão
+valor plano valor bruto
+parcela
+desc.
+valor
+líquido
+resumo de vendas: 00223010291023
+data de crédito: 31/08/22
+01/08/22
+28246296
+000019822
+visa crédito compra com
+02 parcelas
+1/2
+061430
+427167******
+5033
+pgw08cf6  pos wifi
+gprs
+doméstico -
+br
+190,00
+95,00
+2,38
+92,62
+ 
+resumo de vendas: 00223010291023
+data de crédito: 30/09/22
+01/08/22
+28246296
+000019822
+visa crédito compra com
+02 parcelas
+2/2
+061430
+427167******
+5033
+pgw08cf6  pos wifi
+gprs
+doméstico -
+br
+190,00
+95,00
+2,38
+92,62
+ 
+resumo de vendas: 00223010291030
+data de crédito: 31/08/22
+01/08/22
+28246296
+000007409
+visa crédito compra com
+02 parcelas
+1/2
+109037
+485464******
+7885
+pgw08e6d  pos wifi
+gprs
+doméstico -
+br
+120,00
+60,00
+1,50
+58,50
+ 
+resumo de vendas: 00223010291030
+data de crédito: 30/09/22
+01/08/22
+28246296
+000007409
+visa crédito compra com
+02 parcelas
+2/2
+109037
+485464******
+7885
+pgw08e6d  pos wifi
+gprs
+doméstico -
+br
+120,00
+60,00
+1,50
+58,50
+ 
+resumo de vendas: 00223010848856
+data de crédito: 31/08/22
+01/08/22
+28246296
+000004883
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+042886
+531705******
+0577
+pgw08cf4  pos wifi
+gprs
+doméstico -
+br
+230,00
+115,00
+2,88
+112,12
+ 
+resumo de vendas: 00223010848856
+data de crédito: 30/09/22
+01/08/22
+28246296
+000004883
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+042886
+531705******
+0577
+pgw08cf4  pos wifi
+gprs
+doméstico -
+br
+230,00
+115,00
+2,88
+112,12
+ 
+resumo de vendas: 00223014145845
+data de crédito: 01/09/22
+02/08/22
+28246296
+000005749
+visa crédito compra com
+02 parcelas
+1/2
+220034
+406441******
+1677
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+260,00
+130,00
+3,25
+126,75
+ 
+resumo de vendas: 00223014145845
+data de crédito: 03/10/22
+ + sicredi
+                                                                                                                               
+ 
+data: 1 de setembro de 2022 
+código do cliente: 28246296. cnpj:: 20708360000150 - baterias maxion 
+histórico de vendas 
+página:2
+02/08/22
+28246296
+000005749
+visa crédito compra com
+02 parcelas
+2/2
+220034
+406441******
+1677
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+260,00
+130,00
+3,25
+126,75
+ 
+resumo de vendas: 00223016591354
+data de crédito: 02/09/22
+03/08/22
+28246296
+000019823
+visa crédito compra com
+02 parcelas
+1/2
+695637
+455183******
+0755
+pgw08cf6  pos wifi
+gprs
+doméstico -
+br
+185,00
+92,50
+2,31
+90,19
+ 
+resumo de vendas: 00223016591354
+data de crédito: 03/10/22
+03/08/22
+28246296
+000019823
+visa crédito compra com
+02 parcelas
+2/2
+695637
+455183******
+0755
+pgw08cf6  pos wifi
+gprs
+doméstico -
+br
+185,00
+92,50
+2,31
+90,19
+ 
+resumo de vendas: 00223016975074
+data de crédito: 02/09/22
+03/08/22
+28246296
+000005750
+visa crédito compra com
+02 parcelas
+1/2
+707826
+410749******
+4119
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+310,00
+155,00
+3,88
+151,12
+ 
+resumo de vendas: 00223016975074
+data de crédito: 03/10/22
+03/08/22
+28246296
+000005750
+visa crédito compra com
+02 parcelas
+2/2
+707826
+410749******
+4119
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+310,00
+155,00
+3,88
+151,12
+ 
+resumo de vendas: 00223018093684
+data de crédito: 02/09/22
+03/08/22
+28246296
+000015746
+visa crédito compra com
+02 parcelas
+1/2
+028711
+415274******
+5128
+pgw08e6b  pos wifi
+gprs
+doméstico -
+br
+316,00
+158,00
+3,95
+154,05
+ 
+resumo de vendas: 00223018093684
+data de crédito: 03/10/22
+03/08/22
+28246296
+000015746
+visa crédito compra com
+02 parcelas
+2/2
+028711
+415274******
+5128
+pgw08e6b  pos wifi
+gprs
+doméstico -
+br
+316,00
+158,00
+3,95
+154,05
+ 
+resumo de vendas: 00223024734237
+data de crédito: 05/09/22
+05/08/22
+28246296
+000013267
+visa crédito compra com
+02 parcelas
+1/2
+662447
+455183******
+4777
+pgw08e6a  pos wifi
+gprs
+doméstico -
+br
+250,00
+125,00
+3,13
+121,87
+ 
+resumo de vendas: 00223024734237
+data de crédito: 04/10/22
+05/08/22
+28246296
+000013267
+visa crédito compra com
+02 parcelas
+2/2
+662447
+455183******
+4777
+pgw08e6a  pos wifi
+gprs
+doméstico -
+br
+250,00
+125,00
+3,13
+121,87
+ + sicredi
+                                                                                                                               
+ 
+data: 1 de setembro de 2022 
+código do cliente: 28246296. cnpj:: 20708360000150 - baterias maxion 
+histórico de vendas 
+página:3
+ 
+resumo de vendas: 00223127623562
+data de crédito: 05/09/22
+06/08/22
+28246296
+000024801
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+005974
+535081******
+0915
+pgw08e69  pos wifi
+gprs
+doméstico -
+br
+250,00
+125,00
+3,13
+121,87
+ 
+resumo de vendas: 00223127623562
+data de crédito: 05/10/22
+06/08/22
+28246296
+000024801
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+005974
+535081******
+0915
+pgw08e69  pos wifi
+gprs
+doméstico -
+br
+250,00
+125,00
+3,13
+121,87
+ 
+resumo de vendas: 00223134675228
+data de crédito: 08/09/22
+08/08/22
+28246296
+000005753
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+303570
+542820******
+2340
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+137,50
+68,75
+1,72
+67,03
+ 
+resumo de vendas: 00223134675228
+data de crédito: 07/10/22
+08/08/22
+28246296
+000005753
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+303570
+542820******
+2340
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+137,50
+68,75
+1,72
+67,03
+ 
+resumo de vendas: 00223137988947
+data de crédito: 08/09/22
+09/08/22
+28246296
+000005756
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+023119
+530599******
+9198
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+430,00
+215,00
+5,38
+209,62
+ 
+resumo de vendas: 00223137988947
+data de crédito: 10/10/22
+09/08/22
+28246296
+000005756
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+023119
+530599******
+9198
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+430,00
+215,00
+5,38
+209,62
+ 
+resumo de vendas: 00223140161104
+data de crédito: 09/09/22
+10/08/22
+28246296
+000005758
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+378032
+550209******
+3526
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+240,00
+120,00
+3,00
+117,00
+10/08/22
+28246296
+000005757
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+869946
+550209******
+5414
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+380,00
+190,00
+4,75
+185,25
+ 
+resumo de vendas: 00223140161104
+data de crédito: 10/10/22
+10/08/22
+28246296
+000005758
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+378032
+550209******
+3526
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+240,00
+120,00
+3,00
+117,00
+ + sicredi
+                                                                                                                               
+ 
+data: 1 de setembro de 2022 
+código do cliente: 28246296. cnpj:: 20708360000150 - baterias maxion 
+histórico de vendas 
+página:4
+10/08/22
+28246296
+000005757
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+869946
+550209******
+5414
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+380,00
+190,00
+4,75
+185,25
+ 
+resumo de vendas: 00223257123798
+data de crédito: 14/09/22
+15/08/22
+28246296
+000004897
+visa crédito compra com
+02 parcelas
+1/2
+673689
+453211******
+1162
+pgw08cf4  pos wifi
+gprs
+doméstico -
+br
+180,00
+90,00
+2,25
+87,75
+ 
+resumo de vendas: 00223257123798
+data de crédito: 14/10/22
+15/08/22
+28246296
+000004897
+visa crédito compra com
+02 parcelas
+2/2
+673689
+453211******
+1162
+pgw08cf4  pos wifi
+gprs
+doméstico -
+br
+180,00
+90,00
+2,25
+87,75
+ 
+resumo de vendas: 00223259937498
+data de crédito: 15/09/22
+16/08/22
+28246296
+000024558
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+026891
+516292******
+8190
+pgw08e67  pos wifi
+gprs
+doméstico -
+br
+450,00
+225,00
+5,63
+219,37
+ 
+resumo de vendas: 00223259937498
+data de crédito: 17/10/22
+16/08/22
+28246296
+000024558
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+026891
+516292******
+8190
+pgw08e67  pos wifi
+gprs
+doméstico -
+br
+450,00
+225,00
+5,63
+219,37
+ 
+resumo de vendas: 00223260308211
+data de crédito: 15/09/22
+16/08/22
+28246296
+000005771
+visa crédito compra com
+02 parcelas
+1/2
+681383
+455183******
+1397
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+260,00
+130,00
+3,25
+126,75
+ 
+resumo de vendas: 00223260308211
+data de crédito: 17/10/22
+16/08/22
+28246296
+000005771
+visa crédito compra com
+02 parcelas
+2/2
+681383
+455183******
+1397
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+260,00
+130,00
+3,25
+126,75
+ 
+resumo de vendas: 00223261394719
+data de crédito: 15/09/22
+16/08/22
+28246296
+000015777
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+210768
+552693******
+8678
+pgw08e6b  pos wifi
+gprs
+doméstico -
+br
+2.739,60
+1.369,80
+34,25
+1.335,55
+ 
+resumo de vendas: 00223261394719
+data de crédito: 17/10/22
+16/08/22
+28246296
+000015777
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+210768
+552693******
+8678
+pgw08e6b  pos wifi
+gprs
+doméstico -
+br
+2.739,60
+1.369,80
+34,25
+1.335,55
+ + sicredi
+                                                                                                                               
+ 
+data: 1 de setembro de 2022 
+código do cliente: 28246296. cnpj:: 20708360000150 - baterias maxion 
+histórico de vendas 
+página:5
+ 
+resumo de vendas: 00223263581487
+data de crédito: 16/09/22
+17/08/22
+28246296
+000021550
+mastercard
+crédito
+compra com
+02 parcelas
+1/2
+r08267
+549738******
+3542
+pgw08cf5  pos wifi
+gprs
+doméstico -
+br
+495,00
+247,50
+6,19
+241,31
+ 
+resumo de vendas: 00223263581487
+data de crédito: 17/10/22
+17/08/22
+28246296
+000021550
+mastercard
+crédito
+compra com
+02 parcelas
+2/2
+r08267
+549738******
+3542
+pgw08cf5  pos wifi
+gprs
+doméstico -
+br
+495,00
+247,50
+6,19
+241,31
+ 
+resumo de vendas: 00223263581490
+data de crédito: 16/09/22
+17/08/22
+28246296
+000013273
+elo crédito compra com
+02 parcelas
+1/2
+640244
+650907******
+9681
+pgw08e6a  pos wifi
+gprs
+doméstico -
+br
+575,00
+287,50
+7,19
+280,31
+ 
+resumo de vendas: 00223263581490
+data de crédito: 17/10/22
+17/08/22
+28246296
+000013273
+elo crédito compra com
+02 parcelas
+2/2
+640244
+650907******
+9681
+pgw08e6a  pos wifi
+gprs
+doméstico -
+br
+575,00
+287,50
+7,19
+280,31
+ 
+resumo de vendas: 00223264148522
+data de crédito: 16/09/22
+17/08/22
+28246296
+000021554
+elo crédito compra com
+02 parcelas
+1/2
+692733
+650486******
+7933
+pgw08cf5  pos wifi
+gprs
+doméstico -
+br
+351,00
+175,50
+4,39
+171,11
+ 
+resumo de vendas: 00223264148522
+data de crédito: 17/10/22
+17/08/22
+28246296
+000021554
+elo crédito compra com
+02 parcelas
+2/2
+692733
+650486******
+7933
+pgw08cf5  pos wifi
+gprs
+doméstico -
+br
+351,00
+175,50
+4,39
+171,11
+ 
+resumo de vendas: 00223268029567
+data de crédito: 19/09/22
+18/08/22
+28246296
+000005772
+visa crédito compra com
+02 parcelas
+1/2
+416480
+498453******
+3147
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+240,00
+120,00
+3,00
+117,00
+ 
+resumo de vendas: 00223268029567
+data de crédito: 17/10/22
+18/08/22
+28246296
+000005772
+visa crédito compra com
+02 parcelas
+2/2
+416480
+498453******
+3147
+pgw08e6c  pos wifi
+gprs
+doméstico -
+br
+240,00
+120,00
+3,00
+117,00
+ 
+ + sicredi

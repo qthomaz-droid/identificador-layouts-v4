@@ -1,0 +1,810 @@
+titulos de credito liquidados             114 usr:bia 28/01/2025 17:26  pg   1
+criobras ar gas ltda                              
+periodo: 01/01/2024 a 31/12/2024
+titulos:    /zzz
+operacoes:    /999
+tipo de documento:    /zzz
+historico(s):     /9999
+agente financeiro/banco: 0000/0000
+emissao: 01/01/2020 a 31/12/2024
+titulo
+vencim
+sacado
+valor liq  bco dd/mm doc
+-------------------------------------------------------------------------------------
+dp0 nfe 138004-01 30/01/24 sociedade benef. dom dani
+   358.80 0000 02/01 107528 lq
+dpv e09 025465-01 29/12/23 isabella de lorenzi canev
+   120.00 0000 02/01 107520 lq
+dpv e09 025469-01 29/12/23 adelinda consoni carara  
+   450.00 0000 02/01 107520 lq
+dm2 e03 027366-01 16/01/24 refaz implementos rodovia
+   128.00 0000 03/01 107572 lq
+dm2 e07 024802-01 20/12/23 industria metalurgica mil
+  1900.00 0000 03/01 107568 lq
+dm2 e07 024803-01 20/12/23 industria metalurgica mil
+    85.00 0000 03/01 107568 lq
+dm2 e07 024834-01 22/12/23 industria metalurgica mil
+   216.00 0000 03/01 107568 lq
+dm2 e07 024878-01 27/12/23 industria metalurgica mil
+   199.00 0000 03/01 107568 lq
+dpv e04 005697-01 02/01/24 sidnei fontana simao     
+   190.00 0000 03/01 107567 lq
+dpv e06 014861-01 02/01/24 darcio alberton menegasso
+    70.00 0000 03/01 107569 lq
+dpv e13 002227-01 27/12/23 posto de molas imbituba l
+    90.00 0000 03/01 107574 lq
+dpv e13 002234-01 27/12/23 brunelli comercio de ferr
+   220.00 0000 03/01 107574 lq
+dpv e13 002238-01 27/12/23 marlene auzira mendes    
+   120.00 0000 03/01 107574 lq
+dpv e45 032742-01 02/01/24 giro comercio de ferragen
+    55.00 0000 03/01 107573 lq
+dpv e45 032757-01 02/01/24 marcelo da silva         
+   100.00 0000 03/01 107573 lq
+dpv e76 003305-01 28/12/23 valdemar dal pont e cia l
+   300.00 0000 03/01 107575 lq
+dpv e76 003318-01 28/12/23 stolk borracharia e lavac
+   128.00 0000 03/01 107575 lq
+dpv e76 003326-01 02/01/24 tiago gaspar inacio 06221
+    75.00 0000 03/01 107575 lq
+dpv nfe 137987-01 02/01/24 emerson santos bittencour
+   104.00 0000 03/01 107570 lq
+dpv nfe 138008-01 02/01/24 jose ailton bombazar     
+    50.00 0000 03/01 107570 lq
+dm2 e03 027184-01 04/01/24 awc reforma de carretas l
+   380.50 0000 04/01 107634 lq
+dm2 e03 027278-01 11/01/24 awc reforma de carretas l
+   984.00 0000 04/01 107634 lq
+dm2 e03 027420-01 19/01/24 awc reforma de carretas l
+   270.00 0000 04/01 107634 lq
+dm2 e03 027459-01 26/01/24 awc reforma de carretas l
+   732.00 0000 04/01 107634 lq
+dm2 e07 024944-01 31/01/24 rematur recuperadora de m
+   295.00 0000 04/01 107641 lq
+dm2 e45 032326-01 25/12/23 wolmar freitas           
+   642.00 0000 04/01 107637 lq
+dm2 e45 032507-01 05/01/24 wolmar freitas           
+   396.00 0000 04/01 107637 lq
+dm2 e45 032774-01 31/01/24 wolmar freitas           
+   262.00 0000 04/01 107637 lq
+dpv e01 028302-01 02/01/24 refrigeracao peter ltda  
+    70.00 0000 04/01 107635 lq
+dpv e13 002241-01 03/01/24 posto de molas imbituba l
+    90.00 0000 04/01 107640 lq
+dpv e13 002247-01 03/01/24 comercial hkf ltda me    
+   306.50 0000 04/01 107640 lq
+dpv e45 032765-01 03/01/24 pet bask comercio de prod
+   240.00 0000 04/01 107637 lq
+dpv e45 032768-01 03/01/24 adriana pet shop ltda me 
+   120.00 0000 04/01 107637 lq
+dpv nfe 138054-01 03/01/24 claudio gomes silvano    
+    75.00 0000 04/01 107642 lq
+dpv nfe 138074-01 03/01/24 nilton mendes nunes      
+    60.00 0000 04/01 107642 lq
+dpv nfe 138145-01 04/01/24 casa das baterias amr ltd
+  1800.00 0000 04/01 107673 lq
+dm2 e02 009615-01 29/11/23 adao rodrigues           
+   377.00 0000 05/01 107695 lq
+dm2 e02 009704-01 14/12/23 adao rodrigues           
+   290.00 0000 05/01 107695 lq
+dm2 e02 009723-01 20/12/23 adao rodrigues           
+   478.00 0000 05/01 107695 lq
+dm2 e06 014391-01 23/11/23 adao rodrigues           
+    51.50 0000 05/01 107695 lq
+dm2 e06 014493-01 07/12/23 adao rodrigues           
+   348.00 0000 05/01 107695 lq
+dm2 e06 014538-01 12/12/23 phillipe oliveira caetano
+    75.00 0000 05/01 107696 lq
+dm2 e06 014589-01 22/12/23 adao rodrigues           
+   348.00 0000 05/01 107695 lq
+dm2 e06 014646-01 28/12/23 adao rodrigues           
+   362.50 0000 05/01 107695 lq
+dp0 e03 026358-01 07/11/23 sergio escapamentos e aut
+   752.50 0000 05/01 107699 lq
+dp0 e03 026834-01 12/12/23 sergio escapamentos e aut
+   807.50 0000 05/01 107699 lq
+dp0 e03 027079-01 28/12/23 sergio escapamentos e aut
+    40.00 0000 05/01 107699 lq
+dpv e03 027502-01 04/01/24 metalurgica rartec       
+    78.00 0000 05/01 107698 lq
+dpv e45 032789-01 04/01/24 construcoes vitoria ltda 
+   128.00 0000 05/01 107697 lq
+dpv nfe 138132-01 04/01/24 calegari e cia ltda - me 
+    75.00 0000 05/01 107700 lq
+bl0 e07 024738-01 06/01/24 ronaldo bitencourt marcel
+   360.00 0000 08/01 107758 lq
+bl0 e07 024831-01 13/01/24 ronaldo bitencourt marcel
+   436.00 0000 08/01 107758 lq
+bl0 e07 024889-01 20/01/24 ronaldo bitencourt marcel
+   464.00 0000 08/01 107758 lq
+bl0 e07 024925-01 26/01/24 ronaldo bitencourt marcel
+   180.00 0000 08/01 107758 lq
+dm0 e07 024972-01 02/02/24 fabio savi costa 03419078
+   200.00 0000 08/01 107757 lq
+dm0 e07 024982-01 26/01/24 marcos andres nunes      
+   128.00 0000 08/01 107757 lq
+dm0 e45 032618-01 05/01/24 juarez pereira           
+   130.00 0000 08/01 107804 lq
+dm0 nfe 134065-01 10/11/23 ouse centro estetico avan
+    90.00 0000 08/01 107859 lq
+dm0 ref 005760-01 15/12/23 ronaldo bitencourt marcel
+  2356.00 0000 08/01 107758 lq
+dm2 e02 009675-01 11/12/23 antonio miranda junior   
+   336.00 0000 08/01 107763 lq
+dm2 e02 009745-01 25/12/23 antonio miranda junior   
+   838.00 0000 08/01 107763 lq
+dm2 e03 027003-01 25/12/23 metta servicos de chassi 
+   632.00 0000 08/01 107761 lq
+dm2 e03 027186-01 04/01/24 metta servicos de chassi 
+   487.00 0000 08/01 107761 lq
+dm2 e03 027424-01 19/01/24 metta servicos de chassi 
+   110.00 0000 08/01 107761 lq
+dm2 e04 005468-01 17/11/23 roberto carlos laureano d
+   184.00 0000 08/01 107764 lq
+dm2 e04 005621-01 29/12/23 roberto carlos laureano d
+    16.00 0000 08/01 107764 lq
+dm2 e06 014579-01 21/12/23 antonio miranda junior   
+   386.00 0000 08/01 107763 lq
+dm2 e06 014666-01 29/12/23 antonio miranda junior   
+   484.00 0000 08/01 107763 lq
+dm2 e06 014748-01 09/01/24 antonio miranda junior   
+   938.00 0000 08/01 107763 lq
+dm2 e07 024983-01 02/02/24 rematur recuperadora de m
+   807.50 0000 08/01 107757 lq
+dpv e01 028329-01 04/01/24 feliciane dos santos     
+   120.00 0000 08/01 107760 lq
+dpv e01 028347-01 05/01/24 fernando belmiro silvano 
+    85.00 0000 08/01 107760 lq
+dpv e01 028352-01 05/01/24 fabricio pereira pietsch 
+    75.00 0000 08/01 107760 lq
+dpv e06 014898-01 05/01/24 darcio alberton menegasso
+   320.00 0000 08/01 107763 lq
+titulos de credito liquidados             114 usr:bia 28/01/25 17:26:0  pg   2
+criobras ar gas ltda                              
+periodo: 01/01/24 a 31/12/24
+titulos:    /zzz
+operacoes:    /999
+tipo de documento:    /zzz
+historico(s):     /9999
+agente financeiro/banco: 0000/0000
+emissao: 01/01/20 a 31/12/24
+titulo
+vencim
+sacado
+valor liq  bco dd/mm doc
+-------------------------------------------------------------------------------------
+dpv e09 025510-01 05/01/24 fg materiais para constru
+   110.00 0000 08/01 107765 lq
+dpv e09 025515-01 05/01/24 guilherme quaioto jung   
+   150.00 0000 08/01 107765 lq
+dpv e09 025522-01 05/01/24 jayme joao mufatto       
+    75.00 0000 08/01 107765 lq
+dpv e09 025528-01 05/01/24 della ramos manutencao e 
+   240.00 0000 08/01 107765 lq
+dpv e45 032806-01 05/01/24 valdemar dal pont e cia l
+   500.00 0000 08/01 107759 lq
+dpv e45 032810-01 05/01/24 antonio manoel cesario   
+   104.00 0000 08/01 107759 lq
+dpv e45 032813-01 05/01/24 cedro engenharia e minera
+   384.00 0000 08/01 107759 lq
+dpv e45 032817-01 05/01/24 pak soldas               
+   492.00 0000 08/01 107759 lq
+dpv nfe 138262-01 08/01/24 adelinda consoni carara  
+   180.00 0000 08/01 107755 lq
+pix e01 028350-01 05/01/24 rafael borges            
+   200.00 0000 08/01 107760 lq
+dm0 e07 024987-01 05/02/24 vilson ney toreti        
+   200.00 0000 09/01 107806 lq
+dm2 e45 031772-01 14/11/23 paulo cezar izidoro      
+   738.00 0000 09/01 107807 lq
+dm2 e45 031974-01 28/11/23 paulo cezar izidoro      
+   738.00 0000 09/01 107807 lq
+dm2 e45 032385-01 28/12/23 paulo cezar izidoro      
+   492.00 0000 09/01 107807 lq
+dm2 e45 032606-01 12/01/24 paulo cezar izidoro      
+   984.00 0000 09/01 107807 lq
+dpv e03 027533-01 08/01/24 08.981.986 sebastiao silv
+   220.00 0000 09/01 107819 lq
+dpv e03 027541-01 08/01/24 ana paula alves pinheiro 
+   700.00 0000 09/01 107819 lq
+dpv e09 025544-01 08/01/24 adelinda consoni carara  
+   180.00 0000 09/01 107821 lq
+dpv e45 032824-01 08/01/24 marivaldo hidraulicos ltd
+   110.00 0000 09/01 107807 lq
+dpv e45 032833-01 08/01/24 paulo cezar izidoro      
+   492.00 0000 09/01 107807 lq
+dpv nfe 138252-01 08/01/24 pedro buss               
+   220.00 0000 09/01 107822 lq
+dpv nfe 138265-01 08/01/24 jose ailton bombazar     
+    50.00 0000 09/01 107822 lq
+dm2 e02 009730-01 25/12/23 marcio ascari            
+    70.00 0000 10/01 107887 lq
+dm2 e02 009790-01 01/01/24 marcio ascari            
+   180.00 0000 10/01 107887 lq
+dm2 e02 009807-01 03/01/24 marcio ascari            
+   160.00 0000 10/01 107887 lq
+dm2 e02 009854-01 15/01/24 marcio ascari            
+   180.00 0000 10/01 107887 lq
+dm2 e06 014524-01 08/12/23 marcio ascari            
+   180.00 0000 10/01 107887 lq
+dm2 e06 014585-01 22/12/23 marcio ascari            
+    70.00 0000 10/01 107887 lq
+dm2 e06 014638-01 28/12/23 marcio ascari            
+   360.00 0000 10/01 107887 lq
+dm2 e06 014692-01 02/01/24 marcio ascari            
+   360.00 0000 10/01 107887 lq
+dm2 e06 014761-01 11/01/24 marcio ascari            
+   180.00 0000 10/01 107887 lq
+dm2 e06 014792-01 16/01/24 marcio ascari            
+   180.00 0000 10/01 107887 lq
+dm2 e06 014848-01 25/01/24 marcio ascari            
+   360.00 0000 10/01 107887 lq
+dm2 e06 014865-01 30/01/24 marcio ascari            
+   245.00 0000 10/01 107887 lq
+dpv e01 028384-01 08/01/24 oziel costa caetano      
+   275.00 0000 10/01 107892 lq
+dpv e01 028405-01 09/01/24 clinica med. dr. waldiere
+   120.00 0000 10/01 107892 lq
+dpv e03 027564-01 09/01/24 refaz implementos rodovia
+   374.00 0000 10/01 107890 lq
+dpv e05 005211-01 09/01/24 comercial hkf ltda me    
+   378.00 0000 10/01 107888 lq
+dpv e05 005212-01 09/01/24 jalisson de couto        
+   200.00 0000 10/01 107888 lq
+dpv e05 005220-01 09/01/24 marlene auzira mendes    
+   120.00 0000 10/01 107888 lq
+dpv e06 014812-01 21/12/23 big jack beer eireli     
+   100.00 0000 10/01 107922 lq
+dpv e07 025023-01 09/01/24 ronaldo zanette cibien   
+   100.00 0000 10/01 107885 lq
+dpv e45 032844-01 09/01/24 joao batista da rosa     
+   280.00 0000 10/01 107886 lq
+dpv e45 032847-01 09/01/24 adon iron mariani cabral 
+   100.00 0000 10/01 107886 lq
+dpv e76 003342-01 08/01/24 valdemar dal pont e cia l
+   500.00 0000 10/01 107891 lq
+dpv e76 003349-01 09/01/24 joel pires do prado      
+   104.00 0000 10/01 107891 lq
+dpv nfe 138326-01 09/01/24 sandro redivo moretto    
+    75.00 0000 10/01 107884 lq
+pag e01 028397-01 10/01/24 diego dos santos tristao 
+    85.00 0000 10/01 107892 lq
+pix e01 028389-01 09/01/24 felipe de albuquerque ant
+   275.00 0000 10/01 107892 lq
+dm0 e02 009907-01 07/02/24 magri pecas agricolas ltd
+   530.00 0000 11/01 107949 lq
+dm0 nfe 137165-01 03/01/24 jose da silva motta      
+   246.00 0000 11/01 107947 lq
+dm2 e07 024202-01 22/11/23 colombo ind. e com. de im
+   262.25 0000 11/01 107954 lq
+dm2 e07 024246-01 27/11/23 colombo ind. e com. de im
+   583.75 0000 11/01 107954 lq
+dm2 e07 024305-01 29/11/23 colombo ind. e com. de im
+   297.50 0000 11/01 107954 lq
+dm2 e07 024368-01 06/12/23 colombo ind. e com. de im
+   522.00 0000 11/01 107954 lq
+dm2 e07 024397-01 08/12/23 colombo ind. e com. de im
+   409.75 0000 11/01 107954 lq
+dm2 e07 024470-01 15/12/23 colombo ind. e com. de im
+   348.00 0000 11/01 107954 lq
+dm2 e07 024479-01 18/12/23 colombo ind. e com. de im
+   174.00 0000 11/01 107954 lq
+dm2 e07 024547-01 22/12/23 colombo ind. e com. de im
+  1128.25 0000 11/01 107954 lq
+dm2 e07 024664-01 29/12/23 colombo ind. e com. de im
+   757.75 0000 11/01 107954 lq
+dm2 e07 024707-01 03/01/24 colombo ind. e com. de im
+   366.75 0000 11/01 107954 lq
+dpv e02 009891-01 10/01/24 adilson ferreira         
+   150.00 0000 11/01 107949 lq
+dpv e07 025038-01 10/01/24 paulo machado            
+   100.00 0000 11/01 107953 lq
+dpv e07 025039-01 10/01/24 luiz clenio vieira macedo
+   130.00 0000 11/01 107953 lq
+dpv e09 025579-01 10/01/24 antiracha conector ltda  
+   120.00 0000 11/01 107951 lq
+dpv e45 032848-01 10/01/24 jv tornearia me          
+   100.00 0000 11/01 107950 lq
+dpv nfe 138428-01 10/01/24 saulo labres             
+    85.00 0000 11/01 107947 lq
+dpv nfe 138429-01 10/01/24 ricardo silva preve      
+    60.00 0000 11/01 107947 lq
+dpv nfe 138431-01 10/01/24 claudinei florentino card
+   248.00 0000 11/01 107947 lq
+dm0 nfe 134131-01 06/11/23 clinica veterinaria vetca
+   140.00 0000 12/01 108079 lq
+dm0 nfs 000717-01 15/11/23 clinica veterinaria vetca
+   120.00 0000 12/01 108079 lq
+dpv e03 027600-01 11/01/24 dinamica manutencao de ma
+   660.00 0000 12/01 108014 lq
+dpv e06 014929-01 11/01/24 putrikus ltda - me       
+   100.00 0000 12/01 108012 lq
+dpv e06 014930-01 11/01/24 darcio alberton menegasso
+   393.00 0000 12/01 108012 lq
+titulos de credito liquidados             114 usr:bia 28/01/25 17:26:0  pg   3
+criobras ar gas ltda                              
+periodo: 01/01/24 a 31/12/24
+titulos:    /zzz
+operacoes:    /999
+tipo de documento:    /zzz
+historico(s):     /9999
+agente financeiro/banco: 0000/0000
+emissao: 01/01/20 a 31/12/24
+titulo
+vencim
+sacado
+valor liq  bco dd/mm doc
+-------------------------------------------------------------------------------------
+dpv e09 025597-01 11/01/24 selesio vargas           
+    75.00 0000 12/01 108013 lq
+dpv e76 003375-01 11/01/24 casaforma-industria de mo
+   110.00 0000 12/01 108015 lq
+dpv nfe 138469-01 11/01/24 valdemar dal pont e cia l
+   900.00 0000 12/01 108011 lq
+dpv nfe 138477-01 11/01/24 casa das baterias amr ltd
+  2300.00 0000 12/01 108010 lq
+dpv nfe 138486-01 11/01/24 jose ailton bombazar     
+    50.00 0000 12/01 108011 lq
+dm2 e03 026064-01 17/10/23 fam metal industria metal
+  1160.00 0000 15/01 104827 lq
+dm2 e03 026132-01 20/10/23 fam metal industria metal
+   840.00 0000 15/01 104827 lq
+dm2 e03 026169-01 24/10/23 fam metal industria metal
+   960.00 0000 15/01 104827 lq
+dm2 e03 026188-01 25/10/23 fam metal industria metal
+   750.00 0000 15/01 104827 lq
+dm2 e03 026231-01 27/10/23 fam metal industria metal
+  1737.50 0000 15/01 104827 lq
+dm2 e03 026252-01 30/10/23 fam metal industria metal
+   560.00 0000 15/01 104827 lq
+dm2 e03 026295-01 01/11/23 fam metal industria metal
+   320.00 0000 15/01 104827 lq
+dm2 e03 026335-01 03/11/23 fam metal industria metal
+   642.50 0000 15/01 104827 lq
+dm2 e76 002467-01 20/10/23 fam metal industria metal
+   800.00 0000 15/01 104827 lq
+dm2 nfe 133109-01 23/10/23 fam metal industria metal
+   530.00 0000 15/01 104827 lq
+dpv e01 028426-01 11/01/24 tornomaqui tornearia ltda
+   180.00 0000 15/01 108062 lq
+dpv e01 028429-01 11/01/24 fernando belmiro silvano 
+    85.00 0000 15/01 108062 lq
+dpv e01 028437-01 11/01/24 dva veiculos ltda        
+   128.00 0000 15/01 108062 lq
+dpv e01 028453-01 12/01/24 erian bristot da silva   
+   210.00 0000 15/01 108062 lq
+dpv e01 028464-01 12/01/24 ana paula da silva duarte
+   456.00 0000 15/01 108062 lq
+dpv e04 005736-01 12/01/24 djalma souza vitoreti    
+   200.00 0000 15/01 108065 lq
+dpv e06 014948-01 12/01/24 jair correa da rosa      
+   350.00 0000 15/01 108061 lq
+dpv e06 014965-01 12/01/24 eletro baschiroto ltda   
+   100.00 0000 15/01 108061 lq
+dpv e09 025623-01 12/01/24 adelinda consoni carara  
+   270.00 0000 15/01 108063 lq
+dpv e45 032902-01 12/01/24 adon iron mariani cabral 
+   100.00 0000 15/01 108059 lq
+dpv e45 032906-01 12/01/24 jefferson goncalves fermi
+   245.00 0000 15/01 108059 lq
+dpv e45 032907-01 12/01/24 luciano leandro damasio  
+   145.00 0000 15/01 108059 lq
+dpv nfe 138530-01 12/01/24 pedro buss               
+   220.00 0000 15/01 108066 lq
+dpv nfe 138531-01 12/01/24 pedro buss               
+   200.00 0000 15/01 108066 lq
+dpv nfe 138548-01 12/01/24 marivalda da silva antune
+    75.00 0000 15/01 108066 lq
+dpv nfe 138568-01 12/01/24 renan mateus cascaes     
+    82.63 0000 15/01 108066 lq
+pix e01 028460-01 12/01/24 altamir camilo           
+    75.00 0000 15/01 108062 lq
+dm2 e02 009305-01 02/10/23 bruno della giustina ghis
+    58.00 0000 16/01 108159 lq
+dm2 e02 009367-01 16/10/23 bruno della giustina ghis
+   130.00 0000 16/01 108159 lq
+dm2 e02 009524-01 15/11/23 bruno della giustina ghis
+   162.00 0000 16/01 108159 lq
+dm2 e45 032138-01 08/12/23 volnei gomes             
+   441.00 0000 16/01 108155 lq
+dm2 e45 032255-01 19/12/23 volnei gomes             
+   128.00 0000 16/01 108155 lq
+dm2 e45 032434-01 01/01/24 volnei gomes             
+   128.00 0000 16/01 108155 lq
+dm2 e45 032896-01 09/02/24 volnei gomes             
+   128.00 0000 16/01 108155 lq
+dp0 e45 032694-01 17/01/24 hidropol equip. hidraulic
+   568.00 0000 16/01 108157 lq
+dp0 e45 032796-01 01/02/24 hidropol equip. hidraulic
+    89.50 0000 16/01 108157 lq
+dp0 e76 003149-01 01/01/24 hidropol equip. hidraulic
+   229.50 0000 16/01 108157 lq
+dp0 e76 003235-01 09/01/24 hidropol equip. hidraulic
+   580.00 0000 16/01 108157 lq
+dpv e04 005763-01 15/01/24 rodrigo rabelo           
+    75.00 0000 16/01 108160 lq
+dpv e09 025642-01 15/01/24 pro diesel com de autopec
+   136.00 0000 16/01 108156 lq
+dpv e45 032927-01 15/01/24 adon iron mariani cabral 
+   100.00 0000 16/01 108155 lq
+dpv e76 003396-01 12/01/24 valdemar dal pont e cia l
+   500.00 0000 16/01 108158 lq
+pix e03 027640-01 15/01/24 rodrigo rosa da motta jos
+   750.00 0000 16/01 108154 lq
+dm2 e03 026677-01 29/11/23 harilton eufrazio baldoin
+   107.00 0000 17/01 108240 lq
+dm2 e03 026915-01 19/12/23 fam metal industria metal
+  1305.00 0000 17/01 108239 lq
+dm2 e03 026957-01 21/12/23 extintores cidade azul co
+   110.00 0000 17/01 108242 lq
+dm2 e03 026965-01 21/12/23 fam metal industria metal
+  2335.00 0000 17/01 108239 lq
+dm2 e03 026984-01 22/12/23 fam metal industria metal
+  1820.00 0000 17/01 108239 lq
+dm2 e03 026985-01 22/12/23 fam metal industria metal
+   450.00 0000 17/01 108239 lq
+dm2 e03 027013-01 25/12/23 harilton eufrazio baldoin
+   328.00 0000 17/01 108240 lq
+dm2 e03 027029-01 26/12/23 extintores cidade azul co
+   110.00 0000 17/01 108242 lq
+dm2 e03 027034-01 26/12/23 fam metal industria metal
+  1987.50 0000 17/01 108239 lq
+dm2 e03 027056-01 27/12/23 extintores cidade azul co
+   110.00 0000 17/01 108242 lq
+dm2 e03 027057-01 27/12/23 fam metal industria metal
+  1460.00 0000 17/01 108239 lq
+dm2 e03 027058-01 27/12/23 harilton eufrazio baldoin
+    65.00 0000 17/01 108240 lq
+dm2 e03 027108-01 29/12/23 fam metal industria metal
+  1380.00 0000 17/01 108239 lq
+dm2 e03 027133-01 01/01/24 fam metal industria metal
+   400.00 0000 17/01 108239 lq
+dm2 e03 027151-01 02/01/24 fam metal industria metal
+  1280.00 0000 17/01 108239 lq
+dm2 e03 027190-01 04/01/24 fam metal industria metal
+   925.00 0000 17/01 108239 lq
+dm2 e03 027213-01 05/01/24 fam metal industria metal
+   830.00 0000 17/01 108239 lq
+dm2 e03 027261-01 09/01/24 fam metal industria metal
+   882.50 0000 17/01 108239 lq
+dm2 e03 027277-01 10/01/24 fam metal industria metal
+   600.00 0000 17/01 108239 lq
+dm2 e03 027324-01 12/01/24 fam metal industria metal
+   690.00 0000 17/01 108239 lq
+dm2 e76 003068-01 25/12/23 fam metal industria metal
+   937.50 0000 17/01 108239 lq
+dm2 nfe 136023-01 20/12/23 extintores cidade azul co
+   560.00 0000 17/01 108242 lq
+dm2 nfe 136178-01 22/12/23 extintores cidade azul co
+   675.00 0000 17/01 108242 lq
+dm2 nfe 136720-01 01/01/24 fam metal industria metal
+  1590.00 0000 17/01 108239 lq
+dpv e01 028469-01 15/01/24 refrigeracao peter ltda  
+    70.00 0000 17/01 108236 lq
+dpv e01 028477-01 15/01/24 dangelo guelere cantelli 
+    85.00 0000 17/01 108236 lq
+titulos de credito liquidados             114 usr:bia 28/01/25 17:26:0  pg   4
+criobras ar gas ltda                              
+periodo: 01/01/24 a 31/12/24
+titulos:    /zzz
+operacoes:    /999
+tipo de documento:    /zzz
+historico(s):     /9999
+agente financeiro/banco: 0000/0000
+emissao: 01/01/20 a 31/12/24
+titulo
+vencim
+sacado
+valor liq  bco dd/mm doc
+-------------------------------------------------------------------------------------
+dpv e01 028482-01 15/01/24 leandro acordi borges    
+   492.00 0000 17/01 108236 lq
+dpv e01 028485-01 15/01/24 everton luis da rocha lop
+    50.00 0000 17/01 108236 lq
+dpv e05 005234-01 16/01/24 comercial hkf ltda me    
+   581.50 0000 17/01 108241 lq
+dpv e09 025652-01 16/01/24 claudinei ferreira       
+   240.00 0000 17/01 108238 lq
+dpv e45 032935-01 16/01/24 adon iron mariani cabral 
+   100.00 0000 17/01 108237 lq
+dpv e45 032943-01 16/01/24 jose luiz escaini        
+   100.00 0000 17/01 108237 lq
+dpv nfe 138711-01 16/01/24 alexandre amadeu mendes-r
+   103.88 0000 17/01 108230 lq
+dpv nfe 138750-01 17/01/24 claudinei florentino card
+   128.00 0000 17/01 108230 lq
+dpv e02 009932-01 17/01/24 alexandre tramotin       
+   240.00 0000 18/01 108337 lq
+dpv e03 027678-01 17/01/24 metalurgica rartec       
+    70.00 0000 18/01 108340 lq
+dpv e09 025677-01 17/01/24 mg car mecanica limitada 
+    75.00 0000 18/01 108339 lq
+dpv e09 025687-01 17/01/24 renato vieira jacinto    
+    75.00 0000 18/01 108339 lq
+dpv e45 032961-01 17/01/24 pet bask comercio de prod
+   360.00 0000 18/01 108338 lq
+dpv e45 032965-01 17/01/24 adriano fernandes        
+   100.00 0000 18/01 108338 lq
+dpv e45 032966-01 17/01/24 adon iron mariani cabral 
+   100.00 0000 18/01 108338 lq
+dpv e45 032968-01 17/01/24 adriana pet shop ltda me 
+   120.00 0000 18/01 108338 lq
+dpv e76 003421-01 16/01/24 cedro engenharia e minera
+   502.00 0000 18/01 108335 lq
+dpv e76 003423-01 16/01/24 luciano reus araujo      
+    75.00 0000 18/01 108335 lq
+dpv e76 003429-01 16/01/24 valdinei pedro pires     
+   104.00 0000 18/01 108335 lq
+dpv nfe 138760-01 17/01/24 ademir costa             
+   114.00 0000 18/01 108341 lq
+dpv nfe 138844-01 18/01/24 casa das baterias amr ltd
+  3000.00 0000 18/01 108342 lq
+dp0 e07 020980-01 23/03/23 equipamentos thor eireli 
+   168.00 0000 19/01 108370 lq
+dpv e07 025136-01 18/01/24 fabio savi costa 03419078
+   200.00 0000 19/01 108368 lq
+dpv e07 025144-01 18/01/24 afonso donato bendo      
+   150.00 0000 19/01 108368 lq
+dpv e09 025629-01 12/01/24 hospital de caridade sao 
+   711.80 0000 19/01 108367 lq
+dpv e09 025684-01 17/01/24 hospital de caridade sao 
+   427.08 0000 19/01 108367 lq
+dpv e45 032982-01 18/01/24 danielle zanatta         
+    50.00 0000 19/01 108369 lq
+dpv e45 032987-01 18/01/24 nartmag comercio servicos
+   128.00 0000 19/01 108369 lq
+dpv e45 032994-01 18/01/24 jocemar simao cardoso    
+   246.00 0000 19/01 108369 lq
+dm2 e05 005076-01 28/11/23 molas ricardo eireli     
+   444.50 0000 20/01 107461 lq
+dm2 e05 005095-01 05/12/23 molas ricardo eireli     
+   284.00 0000 20/01 107461 lq
+dm2 e05 005112-01 12/12/23 molas ricardo eireli     
+   349.00 0000 20/01 107461 lq
+dm2 e05 005140-01 26/12/23 molas ricardo eireli     
+   529.00 0000 20/01 107461 lq
+dm2 e05 005152-01 02/01/24 molas ricardo eireli     
+   361.12 0000 20/01 107461 lq
+dm2 e13 002132-01 22/11/23 molas ricardo eireli     
+    82.66 0000 20/01 107461 lq
+dm2 e13 002167-01 20/12/23 molas ricardo eireli     
+   464.00 0000 20/01 107461 lq
+dpv e01 028528-01 18/01/24 rafael de borba          
+   160.00 0000 22/01 108416 lq
+dpv e01 028559-01 19/01/24 diego dos santos tristao 
+    75.00 0000 22/01 108416 lq
+dpv e06 015013-01 19/01/24 helio apolinario vidal 78
+   340.00 0000 22/01 108415 lq
+dpv e06 015015-01 19/01/24 dauri warmling           
+    70.00 0000 22/01 108415 lq
+dpv e09 025709-01 19/01/24 sinezio sebastiao pereira
+   340.00 0000 22/01 108418 lq
+dpv e45 033004-01 19/01/24 luciano leandro damasio  
+    75.00 0000 22/01 108419 lq
+dpv e45 033008-01 19/01/24 adon iron mariani cabral 
+   100.00 0000 22/01 108419 lq
+dpv e76 003454-01 18/01/24 mbm estruturas metalicas 
+   246.00 0000 22/01 108420 lq
+dpv nfe 138891-01 19/01/24 agrocampo mariano com de 
+    99.04 0000 22/01 108414 lq
+dpv nfe 138914-01 19/01/24 michael braga            
+    60.00 0000 22/01 108414 lq
+dpv nfe 138951-01 22/01/24 pedro buss               
+   220.00 0000 22/01 108413 lq
+dm2 e02 009414-01 25/10/23 nazareno warmeling       
+    37.15 0000 23/01 108466 lq
+dm2 e02 009462-01 06/11/23 nazareno warmeling       
+   492.00 0000 23/01 108466 lq
+dm2 e02 009596-01 22/11/23 nazareno warmeling       
+   246.00 0000 23/01 108466 lq
+dm2 e03 026939-01 20/12/23 vargas leandro com. varej
+   302.00 0000 23/01 108471 lq
+dm2 e03 027001-01 25/12/23 vargas leandro com. varej
+   512.00 0000 23/01 108471 lq
+dm2 e03 027059-01 27/12/23 vargas leandro com. varej
+   384.00 0000 23/01 108471 lq
+dm2 e03 027377-01 17/01/24 vargas leandro com. varej
+   604.00 0000 23/01 108471 lq
+dm2 e06 014355-01 16/11/23 nazareno warmeling       
+   246.00 0000 23/01 108466 lq
+dm2 e06 014480-01 07/12/23 nazareno warmeling       
+   214.85 0000 23/01 108466 lq
+dm2 e45 032511-01 05/01/24 valmir elias             
+   104.00 0000 23/01 108462 lq
+dm2 e45 032690-01 17/01/24 valmir elias             
+    96.00 0000 23/01 108462 lq
+dpv e02 009956-01 22/01/24 diogo batista stange     
+   160.00 0000 23/01 108465 lq
+dpv e07 025184-01 22/01/24 antonio fernandes mateus 
+   120.00 0000 23/01 108463 lq
+dpv e09 025743-01 22/01/24 rodrifer esquadrias de fe
+   240.00 0000 23/01 108469 lq
+dpv e45 033030-01 22/01/24 adriana pet shop ltda me 
+   120.00 0000 23/01 108462 lq
+dpv e76 003484-01 22/01/24 daniel nunes martins     
+   246.00 0000 23/01 108464 lq
+dpv e76 003490-01 22/01/24 parana auto pecas ltda   
+   140.00 0000 23/01 108464 lq
+dpv nfe 138998-01 22/01/24 jose dos passos martins  
+    90.00 0000 23/01 108467 lq
+dpv nfs 000758-01 23/01/24 giro comercio de ferragen
+   200.00 0000 23/01 108532 lq
+din nfe 139090-01 22/01/24 ederson antonio biava de 
+   100.00 0000 24/01 108581 lq
+dm2 e45 032463-01 03/01/24 ines barichello me       
+   246.00 0000 24/01 108551 lq
+dpv e05 005247-01 23/01/24 comercial hkf ltda me    
+   687.50 0000 24/01 108556 lq
+dpv e07 025196-01 23/01/24 rematur recuperadora de m
+   400.00 0000 24/01 108549 lq
+dpv e09 025768-01 23/01/24 joao antonio fontanella  
+   246.00 0000 24/01 108550 lq
+dpv e45 033053-01 23/01/24 adon iron mariani cabral 
+   100.00 0000 24/01 108551 lq
+pix e03 027733-01 23/01/24 rodrigo rosa da motta jos
+   600.00 0000 24/01 108554 lq
+dm2 e07 024878-01 27/12/23 industria metalurgica mil
+    56.00 0000 25/01 108614 lq
+titulos de credito liquidados             114 usr:bia 28/01/25 17:26:0  pg   5
+criobras ar gas ltda                              
+periodo: 01/01/24 a 31/12/24
+titulos:    /zzz
+operacoes:    /999
+tipo de documento:    /zzz
+historico(s):     /9999
+agente financeiro/banco: 0000/0000
+emissao: 01/01/20 a 31/12/24
+titulo
+vencim
+sacado
+valor liq  bco dd/mm doc
+-------------------------------------------------------------------------------------
+dm2 e07 024902-01 29/12/23 industria metalurgica mil
+   499.50 0000 25/01 108614 lq
+dm2 e07 025150-01 26/01/24 industria metalurgica mil
+   216.00 0000 25/01 108614 lq
+dm2 e07 025151-01 26/01/24 industria metalurgica mil
+   641.00 0000 25/01 108614 lq
+dpv e01 028573-01 22/01/24 refrigeracao peter ltda  
+   140.00 0000 25/01 108606 lq
+dpv e01 028574-01 22/01/24 marcelo florencio da la s
+   270.00 0000 25/01 108606 lq
+dpv e01 028623-01 24/01/24 veronei pereira alexandre
+   275.00 0000 25/01 108605 lq
+dpv e01 028625-01 24/01/24 jose rodrigues azevedo   
+   150.00 0000 25/01 108605 lq
+dpv e02 009991-01 24/01/24 jucemar souza            
+   240.00 0000 25/01 108609 lq
+dpv e02 009996-01 24/01/24 magri pecas agricolas ltd
+   220.00 0000 25/01 108609 lq
+dpv e03 027759-01 24/01/24 terezinha marcon me      
+   180.00 0000 25/01 108607 lq
+dpv e07 025210-01 24/01/24 industria metalurgica mil
+   216.00 0000 25/01 108614 lq
+dpv e07 025211-01 24/01/24 industria metalurgica mil
+   671.50 0000 25/01 108614 lq
+dpv e13 002293-01 24/01/24 comercial hkf ltda me    
+   300.00 0000 25/01 108610 lq
+dpv e45 033054-01 24/01/24 antonio manoel cesario   
+   246.00 0000 25/01 108611 lq
+dpv e76 003495-01 23/01/24 cedro engenharia e minera
+   246.00 0000 25/01 108613 lq
+dpv nfe 139086-01 24/01/24 maria aparecida goulart d
+    50.00 0000 25/01 108604 lq
+dpv nfe 139151-01 25/01/24 casa das baterias amr ltd
+  3000.00 0000 25/01 108603 lq
+dpv nfs 000759-01 24/01/24 brazusa manutencao e com 
+   250.00 0000 25/01 108658 lq
+pix e01 028575-01 22/01/24 andre alves              
+   275.00 0000 25/01 108606 lq
+pix e01 028603-01 23/01/24 joao ramos de oliveira   
+   128.00 0000 25/01 108606 lq
+pix e01 028608-01 23/01/24 brazusa manutencao e com 
+   160.00 0000 25/01 108606 lq
+dpv e06 015050-01 25/01/24 darcio alberton menegasso
+   556.00 0000 26/01 108727 lq
+dpv e07 025228-01 25/01/24 fabio savi costa 03419078
+   100.00 0000 26/01 108728 lq
+dpv e07 025247-01 25/01/24 serralheria afonso ltda -
+   240.00 0000 26/01 108728 lq
+dpv e45 033076-01 25/01/24 de ferreira industria e c
+    75.00 0000 26/01 108725 lq
+dpv nfe 139163-01 25/01/24 deyvid pereira mehl      
+   128.00 0000 26/01 108723 lq
+dpv nfe 139165-01 25/01/24 jose ailton bombazar     
+    50.00 0000 26/01 108723 lq
+dpv nfe 139171-01 25/01/24 samuel matiola vargas    
+    85.00 0000 26/01 108723 lq
+dm0 e03 027792-01 23/02/24 roberto vieira de farias 
+   210.00 0000 29/01 108826 lq
+dm2 e45 032690-01 17/01/24 valmir elias             
+   200.00 0000 29/01 108816 lq
+dm2 e76 003089-01 27/12/23 colombo comercio atacadis
+   168.00 0000 29/01 108821 lq
+dm2 e76 003109-01 28/12/23 colombo comercio atacadis
+   280.00 0000 29/01 108821 lq
+dm2 e76 003134-01 29/12/23 colombo comercio atacadis
+   112.00 0000 29/01 108821 lq
+dm2 e76 003150-01 01/01/24 colombo comercio atacadis
+   280.00 0000 29/01 108821 lq
+dm2 e76 003158-01 02/01/24 colombo comercio atacadis
+   168.00 0000 29/01 108821 lq
+dm2 e76 003172-01 03/01/24 colombo comercio atacadis
+   210.00 0000 29/01 108821 lq
+dm2 e76 003193-01 04/01/24 colombo comercio atacadis
+   224.00 0000 29/01 108821 lq
+dm2 e76 003194-01 04/01/24 colombo comercio atacadis
+   246.00 0000 29/01 108821 lq
+dm2 e76 003209-01 05/01/24 colombo comercio atacadis
+   280.00 0000 29/01 108821 lq
+dm2 e76 003230-01 09/01/24 colombo comercio atacadis
+   414.00 0000 29/01 108821 lq
+dm2 e76 003264-01 11/01/24 colombo comercio atacadis
+   168.00 0000 29/01 108821 lq
+dm2 e76 003344-01 05/02/24 colombo comercio atacadis
+   224.00 0000 29/01 108821 lq
+dm2 e76 003366-01 07/02/24 colombo comercio atacadis
+   224.00 0000 29/01 108821 lq
+dm2 e76 003407-01 12/02/24 colombo comercio atacadis
+   246.00 0000 29/01 108821 lq
+dpv e01 028630-01 25/01/24 elio domingos goncalves  
+   120.00 0000 29/01 108822 lq
+dpv e01 028662-01 26/01/24 antonio da silva         
+   338.00 0000 29/01 108822 lq
+dpv e01 028667-01 26/01/24 clinica med. dr. waldiere
+   120.00 0000 29/01 108822 lq
+dpv e07 025257-01 26/01/24 luiz clenio vieira macedo
+   195.00 0000 29/01 108819 lq
+dpv e09 025821-01 26/01/24 peritoplast              
+   240.00 0000 29/01 108825 lq
+dpv e45 033104-01 26/01/24 adon iron mariani cabral 
+   100.00 0000 29/01 108816 lq
+dpv e76 003524-01 25/01/24 cedro engenharia e minera
+   384.00 0000 29/01 108820 lq
+dpv e76 003554-01 26/01/24 valdemar dal pont e cia l
+   500.00 0000 29/01 108820 lq
+dpv nfe 139245-01 26/01/24 everton dos santos       
+    90.00 0000 29/01 108815 lq
+chq ref 005788-01 19/01/24 wolmar freitas           
+  2500.00 0000 30/01 108879 lq
+din e03 027830-01 30/01/24 rodrigo rosa da motta jos
+   100.00 0000 30/01 108951 lq
+dm2 e07 024610-01 26/12/23 mecatur mec. ltda me     
+   198.00 0000 30/01 108957 lq
+dm2 e07 024866-01 16/01/24 mecatur mec. ltda me     
+   400.00 0000 30/01 108957 lq
+dm2 e07 024943-01 31/01/24 mecatur mec. ltda me     
+   198.00 0000 30/01 108957 lq
+dp0 e04 005382-01 27/10/23 djalma souza vitoreti    
+   291.01 0000 30/01 108927 lq
+dp0 e04 005411-01 03/11/23 djalma souza vitoreti    
+   128.00 0000 30/01 108927 lq
+dp0 e04 005520-01 01/12/23 djalma souza vitoreti    
+   104.00 0000 30/01 108927 lq
+dp0 e04 005568-01 15/12/23 djalma souza vitoreti    
+   144.99 0000 30/01 108927 lq
+dp0 e05 005061-01 24/11/23 djalma souza vitoreti    
+   104.00 0000 30/01 108927 lq
+dp0 nfe 134422-01 17/11/23 djalma souza vitoreti    
+   128.00 0000 30/01 108927 lq
+dpv e01 028711-01 30/01/24 refrigeracao peter ltda  
+   140.00 0000 30/01 108953 lq
+dpv e02 010010-01 29/01/24 baggio auto socorro ltda 
+   104.00 0000 30/01 108881 lq
+dpv e03 027814-01 29/01/24 truckfer com. pcs. acess.
+   110.00 0000 30/01 108878 lq
+dpv e03 027816-01 30/01/24 gustavo maria bressan    
+   220.00 0000 30/01 108951 lq
+dpv e03 027825-01 30/01/24 marombas mvgs eireli     
+   260.00 0000 30/01 108951 lq
+dpv e04 005814-01 26/01/24 jucemar fontana simao me 
+   968.00 0000 30/01 108872 lq
+dpv e04 005815-01 29/01/24 sidnei fontana simao     
+    90.00 0000 30/01 108877 lq
+dpv e05 005259-01 30/01/24 posto de molas imbituba l
+    90.00 0000 30/01 108969 lq
+dpv e05 005270-01 30/01/24 comercial hkf ltda me    
+   221.50 0000 30/01 108969 lq
+dpv e06 015098-01 30/01/24 luiz gercino geraldo     
+   145.00 0000 30/01 108955 lq

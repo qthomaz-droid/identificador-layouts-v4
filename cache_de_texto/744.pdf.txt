@@ -1,0 +1,123 @@
+------------------------------------------------------------------------------------------------------------------------------------
+* cabral multimarcas comercio de a *                contas correntes ( bancos )                 * data : 25/11/2022 * pág.:      1 *
+*    sinc - centro distribuicao    *      lancamentos bancarios - 01/09/2022 a 30/09/2022       * hora : 11:45:04   * scb301       *
+------------------------------------------------------------------------------------------------------------------------------------
+referencia ..  00/00/0000 a 31/12/2999                          historico ................ 0 a 999
+documentos ..             a zzzzzzzz                            lancamentos .............. todos
+ 
+grupo ....... 91 cabral                                         agencia .................. 1178   sorocaba
+conta ....... 99885-0  itaú -                                   saldo anterior ...........                           14.019,86  c
+ 
+lancamen seq.   r / d  -arquivos- ------ descricao do historico ---- concilia ---- debito ---- ---- credito -----
+02/09/22 0001                     recebimento.                                                           1.908,11
+02/09/22 0002          09020002   iof                                                     7,14
+02/09/22 0003          09020003   tarifas bancárias (c/c) - tarifa                      122,00
+                                    conta certa
+02/09/22 0004          09020004   aplicacação financeira (cred) -                                            0,02
+                                    aplic aut
+06/09/22 0001                     pagamento documento 21469668, de                   18.537,12
+                                    02/09/2022, de cabral multimarca
+                                  s   comercio de automoveis ltda, b
+                                  orderonumero 000001, banco itaú
+06/09/22 0003          09060043   transferencia crédito                                                 10.000,00
+                                    .
+06/09/22 0004          09060004   aplicacação financeira (cred)                                              0,09
+08/09/22 0001                     cartao rede elaine                                                       156,42
+09/09/22 0001                     cartao rede elaine                                                       677,23
+09/09/22 0002                     cartao rede elaine                                                       186,22
+09/09/22 0003                     cartao rede elaine                                                       186,22
+12/09/22 0001                     cartao rede elaine                                                       171,92
+12/09/22 0002                     cartao rede elaine                                                       690,08
+12/09/22 0004                     pagamento documento 21472504, de                      150,00
+                                    02/09/2022, de sistema nota fisc
+                                  al, bordero numero 000002, banco i
+                                  taú
+13/09/22 0001                     boleto gcw5438                                                         6.925,00
+14/09/22 0001                     cartao rede elaine                                                       225,42
+15/09/22 0001                     cartao rede elaine                                                        83,31
+15/09/22 0002                     pagamento documento 403, de                           440,00
+                                    31/08/2022, de confimed medicina
+                                      ocupacional, bordero numero 00
+                                  0003, banco itaú
+15/09/22 0003          09150003   aplicacação financeira (cred)                                              0,02
+19/09/22 0001                     recebimento. , ref doc 21400165                                          172,82
+                                    valor 172,82 cliente tatiane lof
+                                  iego
+19/09/22 0002                     recebimento. , ref doc 21400145                                          288,03
+                                    valor 288,03 cliente jose anselm
+                                  o   araujo
+20/09/22 0001                     pagamento documento vale/09.22, de                    700,00
+                                    20/09/2022, de aldivani de olive
+                                  ira silva, bordero numero 000004,
+                                  banco itaú
+20/09/22 0002                     pagamento documento vale/09.22, de                    750,00
+                                    20/09/2022, de maria aparecida d
+                                  os  santos, bordero numero 000004,
+                                   bancoitaú
+20/09/22 0003                     pagamento documento vale/09.22, de                  1.750,00
+                                    20/09/2022, de marcio rodrigues
+                                      argozo, bordero numero 000004,
+                                   bancoitaú
+20/09/22 0004                     pagamento documento vale/09.22, de                  1.650,00
+                                    20/09/2022, de catulino marques
+                                  de  oliveira, bordero numero 00000
+                                  4,    banco itaú
+20/09/22 0005                     pagamento documento 21469673, de                    3.300,04
+                                    02/09/2022, de receita federal,
+                                      bordero numero 000005, banco i
+                                  taú
+20/09/22 0006                     pagamento documento simplesnaciona                 19.232,87
+                                  l,de 20/09/2022, de secretaria da
+                                      receita federal do brasil, bor
+                                  dero  numero 000005, banco itaú
+20/09/22 0007                     pagamento documento inss/08.2022,                  20.261,04
+ ------------------------------------------------------------------------------------------------------------------------------------
+* cabral multimarcas comercio de a *                contas correntes ( bancos )                 * data : 25/11/2022 * pág.:      2 *
+*    sinc - centro distribuicao    *      lancamentos bancarios - 01/09/2022 a 30/09/2022       * hora : 11:45:04   * scb301       *
+------------------------------------------------------------------------------------------------------------------------------------
+referencia ..  00/00/0000 a 31/12/2999                          historico ................ 0 a 999
+documentos ..             a zzzzzzzz                            lancamentos .............. todos
+ 
+grupo ....... 91 cabral                                         agencia .................. 1178   sorocaba
+conta ....... 99885-0  itaú -                                   saldo de transporte ......        31.209,44  d
+ 
+lancamen seq.   r / d  -arquivos- ------ descricao do historico ---- concilia ---- debito ---- ---- credito -----
+                                  de31/08/2022, de receita federal,
+                                      bordero numero 000005, banco i
+                                  taú
+20/09/22 0008          09200012   transferencia crédi.                                                  50.000,00
+22/09/22 0001                     recebimento. , ref doc cartao parc                                       359,70
+                                   1valor 359,70 cliente edmar luiz
+                                  da  silva
+23/09/22 0001                     pagamento documento 18862, de                       2.204,23
+                                    22/09/2022, de alcance
+                                      contabilidade, bordero numero
+                                        000006, banco itaú
+23/09/22 0002          09230002   aplicacação financeira (cred) apli                                         0,20
+                                  c aut
+27/09/22 0001                     recebimento. , ref doc fbq7e51 par                                       186,22
+                                  c 1 valor 186,22 cliente lais elen
+                                  a   rubinato carneiro
+27/09/22 0002                     recebimento# , ref doc 20920519                                          156,88
+                                    valor 156,88 cliente mauricio
+                                      aparecido rodrigues de moraes
+29/09/22 0001                     recebimento. , ref doc 000001099                                         186,22
+                                    valor 186,22 cliente lucas dos
+                                      santos tuani
+29/09/22 0002                     recebimento# , ref doc 21277471                                          449,06
+                                    valor 449,06 cliente redecard s/
+                                  a
+29/09/22 0003                     recebimento# , ref doc 21445935                                          385,09
+                                    valor 385,09 cliente redecard s/
+                                  a
+29/09/22 0004                     pagamento documento 21458005, de                    3.920,00
+                                    31/08/2022, de cbs cestas basica
+                                  s   sorocaba - eireli, bordero num
+                                  ero   000007, banco itaú
+29/09/22 0005          09290005   aplicacação financeira (cred) -                                            0,40
+                                    aplic aut
+ 
+                                  debitos / creditos movimentados .......            73.024,44          73.394,68
+                                  debitos / creditos nao conciliados ....            73.024,44          73.394,68
+ 
+                                  saldo atual ............                                             14.390,10 c

@@ -1,0 +1,842 @@
+banestes s/a
+emprestimos em conta corrente
+referencia: 01/01/2023 a 30/06/2023
+pag.:
+1
+ccg081.0 - historico do contrato
+emissao...: 29/08/23 14:46:58
+0/5203
+contrato : 0087-00514-22-000102-22
+operacao .: 01 - conta garantida
+cliente .: fpb p de s com de m ltda
+18.747.516/0001-60
+avalistas : denny janne dos s ferreira
+887.315.532-49
+conta corrente:
+23.609.886
+data contrato :
+04/03/2022
+produto...........: 0078-0002
+valor emprestimo :
+70.000,00
+data vencto ..:
+27/11/2023
+moeda ............: r$
+taxa de juros ...:
+5,4000
+prazo ........:
+0630
+tipo movimentacao : automatica
+taxa de mora ....:
+8,9900
+cac...........:
+1.000,00
+indice ...........:
+0 -
+percentual indice:
+0,00
+------------------------------------------------------------------------------------------------------------------------------------
+data
+descricao
+credito
+debito
+saldo devedor
+------------------------------------------------------------------------------------------------------------------------------------
+02/01/2023
+iof
+0,00
+76,01
+55.022,02
+02/01/2023
+iof adicional
+0,00
+141,36
+55.163,38
+02/01/2023
+pagamento de iof adicional
+141,36
+0,00
+55.022,02
+02/01/2023
+pagamento de iof
+76,01
+0,00
+54.946,01
+02/01/2023
+pagamento de principal
+1.078,91
+0,00
+53.867,10
+03/01/2023
+pagamento de principal
+580,80
+0,00
+53.286,30
+04/01/2023
+pagamento de principal
+548,31
+0,00
+52.737,99
+05/01/2023
+liberacao
+0,00
+5.548,27
+58.286,26
+06/01/2023
+liberacao
+0,00
+8.208,58
+66.494,84
+09/01/2023
+liberacao
+0,00
+2.813,67
+69.308,51
+10/01/2023
+pagamento de principal
+6.486,98
+0,00
+62.821,53
+11/01/2023
+pagamento de principal
+5.974,19
+0,00
+56.847,34
+12/01/2023
+pagamento de principal
+7.329,38
+0,00
+49.517,96
+13/01/2023
+liberacao
+0,00
+1.898,57
+51.416,53
+16/01/2023
+liberacao
+0,00
+4.944,19
+56.360,72
+17/01/2023
+liberacao
+0,00
+2.812,27
+59.172,99
+18/01/2023
+liberacao
+0,00
+3.658,89
+62.831,88
+19/01/2023
+pagamento de principal
+2.804,76
+0,00
+60.027,12
+20/01/2023
+pagamento de principal
+1.453,34
+0,00
+58.573,78
+23/01/2023
+pagamento de principal
+2.099,99
+0,00
+56.473,79
+24/01/2023
+liberacao
+0,00
+2.585,23
+59.059,02
+25/01/2023
+pagamento de principal
+1.662,48
+0,00
+57.396,54
+26/01/2023
+liberacao
+0,00
+3.759,26
+61.155,80
+27/01/2023
+pagamento de principal
+4.541,41
+0,00
+56.614,39
+30/01/2023
+pagamento de principal
+2.910,47
+0,00
+53.703,92
+31/01/2023
+juros
+0,00
+3.119,12
+56.823,04
+31/01/2023
+pagamento de juros atualizacao mone
+3.119,12
+0,00
+53.703,92
+31/01/2023
+pagamento de principal
+1.223,79
+0,00
+52.480,13
+01/02/2023
+iof
+0,00
+75,57
+52.555,70
+01/02/2023
+iof adicional
+0,00
+138,49
+52.694,19
+01/02/2023
+pagamento de iof adicional
+138,49
+0,00
+52.555,70
+01/02/2023
+pagamento de iof
+75,57
+0,00
+52.480,13
+01/02/2023
+pagamento de principal
+366,20
+0,00
+52.113,93
+02/02/2023
+liberacao
+0,00
+1.390,26
+53.504,19
+03/02/2023
+liberacao
+0,00
+6.321,52
+59.825,71
+06/02/2023
+liberacao
+0,00
+6.269,74
+66.095,45
+07/02/2023
+liberacao
+0,00
+1.687,05
+67.782,50
+08/02/2023
+liberacao
+0,00
+206,36
+67.988,86
+09/02/2023
+pagamento de principal
+6.706,12
+0,00
+61.282,74
+10/02/2023
+pagamento de principal
+7.451,55
+0,00
+53.831,19
+13/02/2023
+liberacao
+0,00
+4.058,79
+57.889,98
+14/02/2023
+pagamento de principal
+7.083,53
+0,00
+50.806,45
+15/02/2023
+pagamento de principal
+1.804,59
+0,00
+49.001,86
+16/02/2023
+pagamento de principal
+26.218,26
+0,00
+22.783,60
+banestes s/a
+emprestimos em conta corrente
+referencia: 01/01/2023 a 30/06/2023
+pag.:
+2
+ccg081.0 - historico do contrato
+emissao...: 29/08/23 14:46:58
+0/5203
+contrato : 0087-00514-22-000102-22
+operacao .: 01 - conta garantida
+cliente .: fpb p de s com de m ltda
+18.747.516/0001-60
+avalistas : denny janne dos s ferreira
+887.315.532-49
+conta corrente:
+23.609.886
+------------------------------------------------------------------------------------------------------------------------------------
+data
+descricao
+credito
+debito
+saldo devedor
+------------------------------------------------------------------------------------------------------------------------------------
+17/02/2023
+liberacao
+0,00
+3.898,20
+26.681,80
+22/02/2023
+pagamento de principal
+2.438,58
+0,00
+24.243,22
+23/02/2023
+pagamento de principal
+10.768,95
+0,00
+13.474,27
+24/02/2023
+liberacao
+0,00
+9.052,54
+22.526,81
+24/02/2023
+renovacao de contrato
+0,00
+0,00
+22.526,81
+27/02/2023
+liberacao
+0,00
+8.779,57
+31.306,38
+28/02/2023
+juros
+0,00
+2.512,32
+33.818,70
+28/02/2023
+pagamento de juros atualizacao mone
+2.512,32
+0,00
+31.306,38
+28/02/2023
+pagamento de principal
+2.072,31
+0,00
+29.234,07
+01/03/2023
+iof
+0,00
+51,60
+29.285,67
+01/03/2023
+iof adicional
+0,00
+158,33
+29.444,00
+01/03/2023
+pagamento de iof adicional
+158,33
+0,00
+29.285,67
+01/03/2023
+pagamento de iof
+51,60
+0,00
+29.234,07
+01/03/2023
+pagamento de principal
+575,23
+0,00
+28.658,84
+02/03/2023
+pagamento de principal
+6.223,21
+0,00
+22.435,63
+03/03/2023
+liberacao
+0,00
+2.111,18
+24.546,81
+06/03/2023
+liberacao
+0,00
+25.012,41
+49.559,22
+07/03/2023
+liberacao
+0,00
+143,92
+49.703,14
+08/03/2023
+pagamento de principal
+7.482,40
+0,00
+42.220,74
+09/03/2023
+pagamento de principal
+7.688,53
+0,00
+34.532,21
+10/03/2023
+pagamento de principal
+8.427,30
+0,00
+26.104,91
+13/03/2023
+pagamento de principal
+1.398,13
+0,00
+24.706,78
+14/03/2023
+liberacao
+0,00
+2.850,32
+27.557,10
+15/03/2023
+pagamento de principal
+4.663,28
+0,00
+22.893,82
+16/03/2023
+pagamento de principal
+4.307,30
+0,00
+18.586,52
+17/03/2023
+pagamento de principal
+3.051,29
+0,00
+15.535,23
+20/03/2023
+liberacao
+0,00
+20.109,98
+35.645,21
+21/03/2023
+pagamento de principal
+1.197,74
+0,00
+34.447,47
+22/03/2023
+pagamento de principal
+3.729,62
+0,00
+30.717,85
+23/03/2023
+pagamento de principal
+425,44
+0,00
+30.292,41
+24/03/2023
+pagamento de principal
+1.223,61
+0,00
+29.068,80
+27/03/2023
+pagamento de principal
+8.873,05
+0,00
+20.195,75
+28/03/2023
+liberacao
+0,00
+3.295,86
+23.491,61
+29/03/2023
+liberacao
+0,00
+4.554,59
+28.046,20
+30/03/2023
+pagamento de principal
+4.673,76
+0,00
+23.372,44
+31/03/2023
+juros
+0,00
+798,00
+24.170,44
+31/03/2023
+juros
+0,00
+781,10
+24.951,54
+31/03/2023
+pagamento de juros atualizacao mone
+798,00
+0,00
+24.153,54
+03/04/2023
+liberacao
+0,00
+889,62
+25.043,16
+03/04/2023
+iof
+0,00
+36,42
+25.079,58
+03/04/2023
+iof adicional
+0,00
+220,69
+25.300,27
+04/04/2023
+liberacao
+0,00
+4.916,81
+30.217,08
+05/04/2023
+pagamento de iof adicional
+220,69
+0,00
+29.996,39
+05/04/2023
+pagamento de iof
+36,42
+0,00
+29.959,97
+05/04/2023
+pagamento de juros atualizacao mone
+781,10
+0,00
+29.178,87
+05/04/2023
+pagamento de principal
+29.178,87
+0,00
+0,00
+06/04/2023
+liberacao
+0,00
+31.592,21
+31.592,21
+10/04/2023
+pagamento de principal
+4.363,78
+0,00
+27.228,43
+11/04/2023
+pagamento de principal
+10.351,26
+0,00
+16.877,17
+12/04/2023
+pagamento de principal
+7.441,36
+0,00
+9.435,81
+13/04/2023
+pagamento de principal
+8.241,59
+0,00
+1.194,22
+14/04/2023
+pagamento de principal
+1.194,22
+0,00
+0,00
+20/04/2023
+liberacao
+0,00
+7.354,89
+7.354,89
+banestes s/a
+emprestimos em conta corrente
+referencia: 01/01/2023 a 30/06/2023
+pag.:
+3
+ccg081.0 - historico do contrato
+emissao...: 29/08/23 14:46:58
+0/5203
+contrato : 0087-00514-22-000102-22
+operacao .: 01 - conta garantida
+cliente .: fpb p de s com de m ltda
+18.747.516/0001-60
+avalistas : denny janne dos s ferreira
+887.315.532-49
+conta corrente:
+23.609.886
+------------------------------------------------------------------------------------------------------------------------------------
+data
+descricao
+credito
+debito
+saldo devedor
+------------------------------------------------------------------------------------------------------------------------------------
+24/04/2023
+pagamento de principal
+3.634,74
+0,00
+3.720,15
+25/04/2023
+pagamento de principal
+2.726,50
+0,00
+993,65
+26/04/2023
+pagamento de principal
+993,65
+0,00
+0,00
+27/04/2023
+liberacao
+0,00
+2.753,86
+2.753,86
+28/04/2023
+liberacao
+0,00
+11.539,44
+14.293,30
+28/04/2023
+juros
+0,00
+550,20
+14.843,50
+02/05/2023
+iof
+0,00
+15,90
+14.859,40
+02/05/2023
+iof adicional
+0,00
+230,42
+15.089,82
+02/05/2023
+pagamento de iof adicional
+230,42
+0,00
+14.859,40
+02/05/2023
+pagamento de iof
+15,90
+0,00
+14.843,50
+02/05/2023
+pagamento de juros atualizacao mone
+550,20
+0,00
+14.293,30
+02/05/2023
+pagamento de principal
+6.483,01
+0,00
+7.810,29
+03/05/2023
+pagamento de principal
+1.698,68
+0,00
+6.111,61
+04/05/2023
+liberacao
+0,00
+9.016,58
+15.128,19
+05/05/2023
+liberacao
+0,00
+13.510,51
+28.638,70
+08/05/2023
+pagamento de principal
+3.857,55
+0,00
+24.781,15
+09/05/2023
+pagamento de principal
+11.670,71
+0,00
+13.110,44
+10/05/2023
+pagamento de principal
+6.714,89
+0,00
+6.395,55
+11/05/2023
+pagamento de principal
+6.395,55
+0,00
+0,00
+12/05/2023
+liberacao
+0,00
+7.156,19
+7.156,19
+15/05/2023
+pagamento de principal
+2.595,62
+0,00
+4.560,57
+16/05/2023
+pagamento de principal
+4.091,82
+0,00
+468,75
+17/05/2023
+pagamento de principal
+468,75
+0,00
+0,00
+19/05/2023
+liberacao
+0,00
+738,02
+738,02
+22/05/2023
+liberacao
+0,00
+3.882,50
+4.620,52
+23/05/2023
+pagamento de principal
+4.620,52
+0,00
+0,00
+24/05/2023
+liberacao
+0,00
+24,74
+24,74
+25/05/2023
+pagamento de principal
+24,74
+0,00
+0,00
+26/05/2023
+renovacao de contrato
+0,00
+0,00
+0,00
+31/05/2023
+juros
+0,00
+334,93
+334,93
+31/05/2023
+pagamento de juros atualizacao mone
+334,93
+0,00
+0,00
+01/06/2023
+liberacao
+0,00
+2.838,48
+2.838,48
+01/06/2023
+iof
+0,00
+9,46
+2.847,94
+01/06/2023
+iof adicional
+0,00
+131,38
+2.979,32
+02/06/2023
+liberacao
+0,00
+1.329,51
+4.308,83
+05/06/2023
+liberacao
+0,00
+17.230,17
+21.539,00
+06/06/2023
+pagamento de iof adicional
+131,38
+0,00
+21.407,62
+06/06/2023
+pagamento de iof
+9,46
+0,00
+21.398,16
+06/06/2023
+pagamento de principal
+8.674,59
+0,00
+12.723,57
+07/06/2023
+pagamento de principal
+9.972,39
+0,00
+2.751,18
+09/06/2023
+pagamento de principal
+2.654,29
+0,00
+96,89
+12/06/2023
+pagamento de principal
+96,89
+0,00
+0,00
+21/06/2023
+liberacao
+0,00
+12.583,47
+12.583,47
+22/06/2023
+pagamento de principal
+44,76
+0,00
+12.538,71
+23/06/2023
+pagamento de principal
+2.247,21
+0,00
+10.291,50
+26/06/2023
+pagamento de principal
+1.919,02
+0,00
+8.372,48
+27/06/2023
+pagamento de principal
+6.071,02
+0,00
+2.301,46
+28/06/2023
+pagamento de principal
+2.301,46
+0,00
+0,00
+30/06/2023
+juros
+0,00
+233,33
+233,33
+30/06/2023
+pagamento de juros atualizacao mone
+233,33
+0,00
+0,00
+29/08/2023
+iof a apropriar
+0,00
+13,63
+13,63
+29/08/2023
+iof adicional a apropriar
+0,00
+190,57
+204,20
+29/08/2023
+juros a apropriar
+0,00
+502,94
+707,14
+------------------------------------------------------------------------------------------------------------------------------------
+.

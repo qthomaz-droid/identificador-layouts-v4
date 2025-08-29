@@ -1,0 +1,390 @@
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00001
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+                                                                                                      saldo anterior                                 17.520,47 
+ 03/04/23    23.204  94.976/06                                    509-liquidacao de parcela             94976/06 hexagon matriz                     -1.529,62
+                                                                                                      (06/08)                                                
+ 03/04/23    23.205 272.669/06                                    509-liquidacao de parcela            272669/06 ortosintese                        -2.289,14
+                                                                                                      (06/06)                                                
+ 03/04/23    23.206 274.434/05                                    509-liquidacao de parcela            274434/05 ortosintese                          -384,79
+                                                                                                      (05/06)                                                
+ 03/04/23    23.207 278.437/02                                    509-liquidacao de parcela            278437/02 ortosintese                          -179,24
+                                                                                                      (02/06)                                                
+ 03/04/23    23.208 278.438/02                                    509-liquidacao de parcela            278438/02 ortosintese                          -716,95
+                                                                                                      (02/03)                                                
+ 03/04/23    23.209 278.439/02                                    509-liquidacao de parcela            278439/02 ortosintese                          -199,82
+                                                                                                      (02/05)                                                
+ 03/04/23    23.210  52.091/01                                    509-liquidacao de parcela             52091/01 toride                               -517,16
+                                                                                                      (01/01)                                                
+ 03/04/23    23.211  45.262/02                                    509-liquidacao de parcela             45262/02 sartori                            -1.543,44
+                                                                                                      (02/02)                                                
+ 03/04/23    23.212 195.298/02                                    509-liquidacao de parcela            195298/02 vincula                              -626,71
+                                                                                                      (02/03)                                                
+ 03/04/23    23.213 196.238/01                                    509-liquidacao de parcela            196238/01 vincula                            -1.309,00
+                                                                                                      (01/03)                                                
+ 03/04/23    23.214  19.354/10                                    509-liquidacao de parcela             19354/10 amplitude                          -7.003,15
+                                                                                                      (10/10)                                                
+ 03/04/23    23.215  20.660/06                                    509-liquidacao de parcela             20660/06 amplitude                         -16.726,61
+                                                                                                      (06/06)                                                
+ 03/04/23    23.216  21.453/03                                    509-liquidacao de parcela             21453/03 amplitude                          -6.829,86
+                                                                                                      (03/04)                                                
+ 03/04/23    23.217  21.780/02                                    509-liquidacao de parcela             21780/02 amplitude                          -1.559,13
+                                                                                                      (02/04)                                                
+ 03/04/23    23.218  22.069/01                                    509-liquidacao de parcela             22069/01 amplitude                          -4.365,07
+                                                                                                      (01/02)                                                
+ 03/04/23    23.219   2.921/01                                    509-liquidacao de parcela              2921/01 visao implantes                    -9.509,32
+                                                                                                      (01/07)                                                
+ 03/04/23    23.220   2.923/01                                    509-liquidacao de parcela              2923/01 visao implantes                   -19.070,48
+                                                                                                      (01/07)                                                
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00002
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+ 03/04/23    23.221   9.573/02                                    509-liquidacao de parcela              9573/02 hortron produtos medicos           -1.750,00
+                                                                                                      (02/04)                                                
+ 03/04/23    23.222     275/02                                    509-liquidacao de parcela               275/02 lasting life medical               -8.906,62
+                                                                                                      (02/04)                                                
+ 03/04/23    23.223     436/01                                    509-liquidacao de parcela               436/01 arantes e neto ltda me             -8.000,00
+                                                                                                      (01/01)                                                
+ 03/04/23    23.224     438/01                                    509-liquidacao de parcela               438/01 arantes e neto ltda me             -2.344,75
+                                                                                                      (01/04)                                                
+ 03/04/23    23.225   9.228/01                                    509-liquidacao de parcela              9228/01 injet car rio preto centro aut       -642,60
+                                                                                                      (01/05)nota de serv 9400                               
+ 03/04/23    23.226  14.267/01                                    509-liquidacao de parcela             14267/01 bracom estacionamentos ltda- p       -380,00
+                                                                                                      (01/01)                                                
+ 03/04/23    23.227   2.609/01                                    509-liquidacao de parcela              2609/01 limpeza total am                     -586,83
+                                                                                                      (01/01)                                                
+ 03/04/23    23.228  40.907/01                                    509-liquidacao de parcela             40907/01 engimplan                          -1.587,29
+                                                                                                      (01/02)                                                
+ 03/04/23    23.229       2/01                                    616-pix pagto eletronico                  2/01 bionnovation                       -3.550,00
+                                                                                                      (01/01) titulo:       2-bionnovation pro               
+                                                                                                      dutos biomedicos lt                                    
+ 03/04/23    23.230          1                                     23-pix recebimento eletronico       pix entre contas                             85.000,00
+ 03/04/23    23.231          1                                    508-tarifa bancaria                  tarifa serv cobranca                            -20,00
+ 03/04/23    23.232          1                                     17-cobranca                         medical 14041,42,44,45,46,47,49,50,51,52     42.832,00
+                                                                                                      ,53,54,55,65                                           
+ 03/04/23    23.233  57.202/01                                      2-rec.duplicata                    duplicata:  57.202/01/0                         541,00
+                                                                                                      unimed de ribeirao preto coop trab                     
+ 03/04/23    23.234  57.220/01                                      2-rec.duplicata                    duplicata:  57.220/01/0                       1.631,00
+                                                                                                      unimed de ribeirao preto coop trab                     
+ 03/04/23    23.235  57.508/01                                      2-rec.duplicata                    duplicata:  57.508/01/0                       1.462,50
+                                                                                                      hb saude prestacao de servicos med.                    
+ 03/04/23    23.236  57.222/01                                      2-rec.duplicata                    duplicata:  57.222/01/0                       2.132,10
+                                                                                                      unimed de catanduva - cooperativa d                    
+ 03/04/23    23.237  57.213/01                                      2-rec.duplicata                    duplicata:  57.213/01/0                       3.391,52
+                                                                                                      unimed de catanduva - cooperativa d                    
+ 03/04/23    23.238  57.219/01                                      2-rec.duplicata                    duplicata:  57.219/01/0                       8.532,60
+                                                                                                      unimed de catanduva - cooperativa d                    
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00003
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+ 03/04/23    23.239  57.221/01                                      2-rec.duplicata                    duplicata:  57.221/01/0                       1.577,64
+                                                                                                      unimed de catanduva - cooperativa d                    
+                                                                                                      saldo em 03/04/23                              62.493,25 
+ 04/04/23    23.240  19.807/02                                    509-liquidacao de parcela             19807/02 optika                             -7.328,63
+                                                                                                      (02/03)                                                
+ 04/04/23    23.241  21.583/02                                    509-liquidacao de parcela             21583/02 bramsys                            -6.995,80
+                                                                                                      (02/04)                                                
+ 04/04/23    23.242   1.478/01                                    509-liquidacao de parcela              1478/01 hallvechi manut e distr equip        -550,00
+                                                                                                      (01/01)                                                
+ 04/04/23    23.243  21.256/04                                    509-liquidacao de parcela             21256/04 amplitude                          -4.875,88
+                                                                                                      (04/05)                                                
+ 04/04/23    23.244  21.267/04                                    509-liquidacao de parcela             21267/04 amplitude                          -4.449,74
+                                                                                                      (04/04)                                                
+ 04/04/23    23.245  21.814/02                                    509-liquidacao de parcela             21814/02 amplitude                         -13.434,15
+                                                                                                      (02/06)                                                
+ 04/04/23    23.246   8.633/02                                    509-liquidacao de parcela              8633/02 danialex tec material medico       -5.500,00
+                                                                                                      (02/02)pa                                              
+ 04/04/23    23.247   9.262/03                                    509-liquidacao de parcela              9262/03 hortron produtos medicos           -2.050,00
+                                                                                                      (03/04)                                                
+ 04/04/23    23.248          1                                    508-tarifa bancaria                  tarifa serv cobranca                            -30,00
+                                                                                                      saldo em 04/04/23                              17.279,05 
+ 05/04/23    23.249 275.746/04                                    509-liquidacao de parcela            275746/04 ortosintese                          -657,34
+                                                                                                      (04/06)                                                
+ 05/04/23    23.250 275.747/04                                    509-liquidacao de parcela            275747/04 ortosintese                          -488,05
+                                                                                                      (04/06)                                                
+ 05/04/23    23.251  21.477/03                                    509-liquidacao de parcela             21477/03 amplitude                            -584,54
+                                                                                                      (03/04)                                                
+ 05/04/23    23.252  22.090/01                                    509-liquidacao de parcela             22090/01 amplitude                         -23.531,52
+                                                                                                      (01/10)                                                
+ 05/04/23    23.253  22.091/01                                    509-liquidacao de parcela             22091/01 amplitude                         -18.525,95
+                                                                                                      (01/10)                                                
+ 05/04/23    23.254   7.782/03                                    509-liquidacao de parcela              7782/03 implantec materiais medicos        -1.843,84
+                                                                                                      (03/03)                                                
+ 05/04/23    23.255       1/01                                    616-pix pagto eletronico                  1/01 gemco                              -4.468,00
+                                                                                                      (01/01) titulo:       1-j b gemaque come               
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00004
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+                                                                                                      rcio de materiais c                                    
+ 05/04/23    23.256      75/01                                    616-pix pagto eletronico                 75/01 pro labore - bruno garisto jun     -1.158,78
+                                                                                                      titulo:      75-pro labore - bruno garis               
+                                                                                                      to junior                                              
+ 05/04/23    23.257      84/01                                    616-pix pagto eletronico                 84/01 brumed rio verde - despesas        -2.000,00
+                                                                                                      (01/01)                                                
+ 05/04/23    23.258      90/01                                    616-pix pagto eletronico                 90/01 brumed rio verde - despesas          -150,00
+                                                                                                      mateus oliveira free lance                             
+ 05/04/23    23.259      26/01                                    616-pix pagto eletronico                 26/01 henrique kenji cervo               -1.727,86
+                                                                                                      (01/01) titulo:      26-henrique kenji c               
+                                                                                                      ervo                                                   
+ 05/04/23    23.260      26/01                                    616-pix pagto eletronico                 26/01 fabio augusto bispo                -2.425,07
+                                                                                                      (01/01) titulo:      26-fabio augusto bi               
+                                                                                                      spo                                                    
+ 05/04/23    23.261       2/01                                    616-pix pagto eletronico                  2/01 alice galdolfi - doces                -40,00
+                                                                                                      (01/01) titulo:       2-alice galdolfi -               
+                                                                                                       doces                                                 
+ 05/04/23    23.262      15/01                                    616-pix pagto eletronico                 15/01 daniela cypriani                   -2.396,28
+                                                                                                      (01/01) titulo:      15-daniela cypriani               
+ 05/04/23    23.263     157/01                                    616-pix pagto eletronico                157/01 cristiane maria dotore             -2.991,10
+                                                                                                      (01/01) titulo:     157-cristiane maria                
+                                                                                                      dotore                                                 
+ 05/04/23    23.264     192/01                                    616-pix pagto eletronico                192/01 franciely marques                  -4.480,41
+                                                                                                      (01/01) titulo:     192-franciely marque               
+                                                                                                      s                                                      
+ 05/04/23    23.265     274/01                                    616-pix pagto eletronico                274/01 gilto buosi                        -4.901,41
+                                                                                                      (01/01) titulo:     274-gilto buosi                    
+ 05/04/23    23.266      80/01                                    616-pix pagto eletronico                 80/01 eldiney brito                      -2.500,00
+                                                                                                      (01/01) titulo:      80-eldiney brito                  
+ 05/04/23    23.267      15/01                                    616-pix pagto eletronico                 15/01 keylla da cunha dantas             -3.165,53
+                                                                                                      (01/01) titulo:      15-keylla da cunha                
+                                                                                                      dantas                                                 
+ 05/04/23    23.268     133/01                                    616-pix pagto eletronico                133/01 camila pacini                      -4.268,59
+                                                                                                      (01/01) titulo:     133-camila pacini                  
+ 05/04/23    23.269     180/01                                    616-pix pagto eletronico                180/01 cilay aparecida lunardello         -5.972,74
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00005
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+                                                                                                      (01/01) titulo:     180-cilay aparecida                
+                                                                                                      lunardello                                             
+ 05/04/23    23.270     115/01                                    616-pix pagto eletronico                115/01 regina ganzella                    -1.414,48
+                                                                                                      (01/01) titulo:     115-regina ganzella                
+ 05/04/23    23.271       8/01                                    616-pix pagto eletronico                  8/01 felipe fernandes mateus            -2.298,93
+                                                                                                      (01/01) titulo:       8-felipe fernandes               
+                                                                                                       mateus                                                
+ 05/04/23    23.272   9.981/01                                    509-liquidacao de parcela              9981/01 hortron produtos medicos           -1.933,90
+                                                                                                      (01/05)                                                
+ 05/04/23    23.273      88/01                                    509-liquidacao de parcela                88/01 abraidi - assoc. bras. import.       -961,00
+                                                                                                      (01/01)                                                
+ 05/04/23    23.274   1.943/01                                    510-transf. debito                     1943/01 lucro distribuido (bruno garis    -10.000,00
+                                                                                                      (01/01) titulo:   1.943-lucro distribuid               
+                                                                                                      o (bruno garisto)                                      
+ 05/04/23    23.275          1                                    520-emprestimo debito                b90432123                                    -9.264,84
+ 05/04/23    23.276  57.515/01                                      2-rec.duplicata                    duplicata:  57.515/01/0 -orthomaxx hospi        713,00
+                                                                                                      talar eireli - epp                                     
+ 05/04/23    23.277          1                                    508-tarifa bancaria                  tarifa serv cobranca                            -22,50
+ 05/04/23    23.278          1                                     23-pix recebimento eletronico       pix entre contas                             97.000,00
+                                                                                                      saldo em 05/04/23                                 819,39 
+ 06/04/23    23.279       1/01                                    616-pix pagto eletronico                  1/01 lucas felipe de lima ferreira      -1.758,00
+                                                                                                      (01/01) titulo:       1-lucas felipe de                
+                                                                                                      lima ferreira                                          
+ 06/04/23    23.280     149/01                                    616-pix pagto eletronico                149/01 laud jorge ribeiro                 -5.537,82
+                                                                                                      (01/01) titulo:     149-laud jorge ribei               
+                                                                                                      ro                                                     
+ 06/04/23    23.281      40/01                                    616-pix pagto eletronico                 40/01 patrine aslen rodrigues            -1.806,26
+                                                                                                      (01/01) titulo:      40-patrine aslen ro               
+                                                                                                      drigues                                                
+ 06/04/23    23.282      57/01                                    616-pix pagto eletronico                 57/01 pedro william neves silva          -3.387,06
+                                                                                                      (01/01) titulo:      57-pedro william ne               
+                                                                                                      ves silva                                              
+ 06/04/23    23.283      33/01                                    616-pix pagto eletronico                 33/01 aline batista silva de lima           -96,06
+                                                                                                      (01/01) titulo:      33-aline batista si               
+                                                                                                      lva de lima                                            
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00006
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+ 06/04/23    23.284      17/01                                    616-pix pagto eletronico                 17/01 claudia oliveira maia              -1.901,04
+                                                                                                      (01/01) titulo:      17-claudia oliveira               
+                                                                                                       maia                                                  
+ 06/04/23    23.285      17/01                                    616-pix pagto eletronico                 17/01 maria do socorro da cruz           -3.403,66
+                                                                                                      (01/01) titulo:      17-maria do socorro               
+                                                                                                       da cruz                                               
+ 06/04/23    23.286      13/01                                    616-pix pagto eletronico                 13/01 gabriela raquel costa silva        -4.186,24
+                                                                                                      (01/01) titulo:      13-gabriela raquel                
+                                                                                                      costa silva                                            
+ 06/04/23    23.287      32/01                                    616-pix pagto eletronico                 32/01 jairo gabriel duarte silva         -3.608,50
+                                                                                                      (01/01) titulo:      32-jairo gabriel du               
+                                                                                                      arte silva                                             
+ 06/04/23    23.288      11/01                                    616-pix pagto eletronico                 11/01 adeladio alves de sousa junior     -2.275,18
+                                                                                                      (01/01) titulo:      11-adeladio alves d               
+                                                                                                      e sousa junior                                         
+ 06/04/23    23.289      10/01                                    616-pix pagto eletronico                 10/01 marleson souza neves                 -529,42
+                                                                                                      (01/01) titulo:      10-marleson souza n               
+                                                                                                      eves                                                   
+ 06/04/23    23.290       9/01                                    616-pix pagto eletronico                  9/01 uriel tadeu pinto                  -2.987,45
+                                                                                                      (01/01) titulo:       9-uriel tadeu pint               
+                                                                                                      o                                                      
+ 06/04/23    23.291       9/01                                    616-pix pagto eletronico                  9/01 rafaela da silva franco            -2.034,60
+                                                                                                      (01/01) titulo:       9-rafaela da silva               
+                                                                                                       franco                                                
+ 06/04/23    23.292      10/01                                    616-pix pagto eletronico                 10/01 jessica araujo doroteu             -1.750,85
+                                                                                                      (01/01) titulo:      10-jessica araujo d               
+                                                                                                      oroteu                                                 
+ 06/04/23    23.293       8/01                                    616-pix pagto eletronico                  8/01 averaldo campelo da conceicao      -2.370,40
+                                                                                                      (01/01) titulo:       8-averaldo campelo               
+                                                                                                       da conceicao                                          
+ 06/04/23    23.294 280.583/01                                    509-liquidacao de parcela            280583/01 ortosintese                           -22,09
+                                                                                                      (01/06)                                                
+ 06/04/23    23.295 280.584/01                                    509-liquidacao de parcela            280584/01 ortosintese                           -32,40
+                                                                                                      (01/06)                                                
+ 06/04/23    23.296 280.585/01                                    509-liquidacao de parcela            280585/01 ortosintese                          -324,39
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00007
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+                                                                                                      (01/04)                                                
+ 06/04/23    23.297 280.586/01                                    509-liquidacao de parcela            280586/01 ortosintese                        -1.435,82
+                                                                                                      (01/05)                                                
+ 06/04/23    23.298 280.640/01                                    509-liquidacao de parcela            280640/01 ortosintese                          -397,78
+                                                                                                      (01/05)                                                
+ 06/04/23    23.299   3.915/01                                    509-liquidacao de parcela              3915/01 abimade                            -1.047,23
+                                                                                                      (01/01)                                                
+ 06/04/23    23.300  21.488/03                                    509-liquidacao de parcela             21488/03 amplitude                          -6.197,11
+                                                                                                      (03/04)                                                
+ 06/04/23    23.301   6.276/07                                    509-liquidacao de parcela              6276/07 sintegra surgical sciencies lt       -151,61
+                                                                                                      (07/12)                                                
+ 06/04/23    23.302     934/01                                    509-liquidacao de parcela               934/01 brasspress transp. urgentes lt       -157,36
+                                                                                                      (01/01)                                                
+ 06/04/23    23.303     935/01                                    509-liquidacao de parcela               935/01 brasspress transp. urgentes lt       -216,56
+                                                                                                      (01/01)                                                
+ 06/04/23    23.304     936/01                                    509-liquidacao de parcela               936/01 brasspress transp. urgentes lt       -160,34
+                                                                                                      (01/01)                                                
+ 06/04/23    23.305     938/01                                    509-liquidacao de parcela               938/01 brasspress transp. urgentes lt       -192,58
+                                                                                                      (01/01)                                                
+ 06/04/23    23.306  15.290/01                                    509-liquidacao de parcela             15290/01 viacao estrela                       -611,96
+                                                                                                      (01/01) titulo:  15.290-viacao estrela l               
+                                                                                                      tda                                                    
+ 06/04/23    23.307 118.807/01                                    509-liquidacao de parcela            118807/01 ativa distr e logistica ltda         -100,75
+                                                                                                      (01/01)                                                
+ 06/04/23    23.308   5.774/01                                    509-liquidacao de parcela              5774/01 forte auto posto -am               -1.000,00
+                                                                                                      (01/01) titulo:   5.774-forte auto posto               
+                                                                                                       -am                                                   
+ 06/04/23    23.309      14/01                                    616-pix pagto eletronico                 14/01 isaac cidronio de lima             -3.032,87
+                                                                                                      (01/01) titulo:      14-isaac cidronio d               
+                                                                                                      e lima                                                 
+ 06/04/23    23.310          1                                     23-pix recebimento eletronico       pix entre contas                             60.000,00
+ 06/04/23    23.313          1                                    508-tarifa bancaria                  manutencao de titulos                            -2,50
+ 06/04/23    23.314          1                                    508-tarifa bancaria                  tarifa serv cobranca                            -10,00
+                                                                                                      saldo em 06/04/23                               8.093,50 
+ 10/04/23    23.311      45/01                                    616-pix pagto eletronico             ch.000000001     45/01 global world part     -5.000,00
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00008
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+                                                                                                      (01/01) titulo:      45-global world par               
+                                                                                                      ticipacoes ltda                                        
+ 10/04/23    23.312     137/01                                    616-pix pagto eletronico             ch.000000002    137/01 brumed medical be     -2.000,00
+                                                                                                      (01/01) ivan jose                                      
+ 10/04/23    23.315  57.542/01                                      2-rec.duplicata                    duplicata:  57.542/01/0 -associacao port      1.316,96
+                                                                                                      uguesa de benef de s                                   
+ 10/04/23    23.316          1                                     17-cobranca                         medical 15091                                 9.300,00
+ 10/04/23    23.317  89.315/08                                    509-liquidacao de parcela             89315/08 hexagon matriz                     -3.113,34
+                                                                                                      (08/09)                                                
+ 10/04/23    23.318 136.293/01                                    509-liquidacao de parcela            136293/01 razek equipamentos ltda            -5.117,80
+                                                                                                      (01/02)                                                
+ 10/04/23    23.319 136.353/01                                    509-liquidacao de parcela            136353/01 razek equipamentos ltda            -3.325,00
+                                                                                                      (01/02) (05/05)                                        
+ 10/04/23    23.320  40.611/01                                    509-liquidacao de parcela             40611/01 impol                              -2.318,64
+                                                                                                      (01/05)                                                
+ 10/04/23    23.321  12.126/01                                    509-liquidacao de parcela             12126/01 quantum                            -1.441,55
+                                                                                                      (01/01)                                                
+ 10/04/23    23.322  21.845/02                                    509-liquidacao de parcela             21845/02 amplitude                         -10.924,38
+                                                                                                      (02/05)                                                
+ 10/04/23    23.323  21.859/02                                    509-liquidacao de parcela             21859/02 amplitude                         -28.911,31
+                                                                                                      (02/07)                                                
+ 10/04/23    23.324   6.944/02                                    509-liquidacao de parcela              6944/02 sintegra surgical sciencies lt    -10.923,35
+                                                                                                      (02/03)                                                
+ 10/04/23    23.325      18/02                                    509-liquidacao de parcela                18/02 mabe comercio de material hosp    -10.000,00
+                                                                                                      (02/03)pa                                              
+ 10/04/23    23.326   7.488/01                                    509-liquidacao de parcela              7488/01 viman sistemas                     -6.795,60
+                                                                                                      (01/01) titulo:   7.488-sca informatica                
+                                                                                                      ltda - epp                                             
+ 10/04/23    23.327  12.317/01                                    509-liquidacao de parcela             12317/01 framor comercio de prod infor        -548,80
+                                                                                                      (01/01) titulo:  12.317-framor comercio                
+                                                                                                      de prod infor ltda                                     
+ 10/04/23    23.328      73/01                                    509-liquidacao de parcela                73/01 unimed sao jose do rio preto c     -8.191,56
+                                                                                                      (01/01) titulo:      73-unimed sao jose                
+                                                                                                      do rio preto coop                                      
+ 10/04/23    23.329     440/01                                    509-liquidacao de parcela               440/01 arantes e neto ltda me             -4.490,00
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00009
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+                                                                                                      (01/01)                                                
+ 10/04/23    23.330   5.507/01                                    509-liquidacao de parcela              5507/01 fabio rodrigues contabilidade      -5.800,00
+                                                                                                      (01/01) titulo:   5.507-fabio rodrigues                
+                                                                                                      contabilidade me                                       
+ 10/04/23    23.331     163/01                                    616-pix pagto eletronico                163/01 ascon assessoria contabil s/c      -3.250,00
+                                                                                                      (01/01) titulo:     163-ascon assessoria               
+                                                                                                       contabil s/c ltda.                                    
+ 10/04/23    23.332          1                                    508-tarifa bancaria                  manuntecao de titulos                            -2,50
+ 10/04/23    23.333          1                                    508-tarifa bancaria                  capital integral subscrito                      -50,00
+ 10/04/23    23.334          1                                    508-tarifa bancaria                  tarifa serv cobranca                             -7,50
+ 10/04/23    23.335          1                                     23-pix recebimento eletronico       pix entre contas                             95.000,00
+ 10/04/23    23.336  57.235/01                                      2-rec.duplicata                    duplicata:  57.235/01/0                       2.660,00
+                                                                                                      unimed de ribeirao preto coop trab                     
+ 10/04/23    23.337  57.236/01                                      2-rec.duplicata                    duplicata:  57.236/01/0                         541,00
+                                                                                                      unimed de ribeirao preto coop trab                     
+ 10/04/23    23.338  57.286/01                                      2-rec.duplicata                    duplicata:  57.286/01/0                         381,60
+                                                                                                      unimed de ribeirao preto coop trab                     
+ 10/04/23    23.339  57.287/01                                      2-rec.duplicata                    duplicata:  57.287/01/0                         572,40
+                                                                                                      unimed de ribeirao preto coop trab                     
+ 10/04/23    23.340  57.289/01                                      2-rec.duplicata                    duplicata:  57.289/01/0                         541,00
+                                                                                                      unimed de ribeirao preto coop trab                     
+ 10/04/23    23.341  57.301/01                                      2-rec.duplicata                    duplicata:  57.301/01/0                         541,00
+                                                                                                      unimed de ribeirao preto coop trab                     
+ 10/04/23    23.342  57.277/01                                      2-rec.duplicata                    duplicata:  57.277/01/0                         787,82
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.343  57.309/01                                      2-rec.duplicata                    duplicata:  57.309/01/0                         560,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.344  57.484/01                                      2-rec.duplicata                    duplicata:  57.484/01/0                       4.786,10
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.345  57.526/01                                      2-rec.duplicata                    duplicata:  57.526/01/0                       1.040,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.346  57.527/01                                      2-rec.duplicata                    duplicata:  57.527/01/0                         518,49
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.347  57.528/01                                      2-rec.duplicata                    duplicata:  57.528/01/0                       1.040,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ data       nr.mvto documento                                    tipo do movimento                    histórico                                vlr.movimento
+te0491-brumed medical ltda.                         viman sistemas     gestao administrativa - 'te'       emissão: 15/05/23 - 16:19:59hs       página: 00010
+extrato de movimento de caixa
+05-sicredi                                          tipo do movimento:   0 a 999                                                período: 01/04/23 a 30/04/23
+ 10/04/23    23.348  57.529/01                                      2-rec.duplicata                    duplicata:  57.529/01/0                         611,47
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.349  57.530/01                                      2-rec.duplicata                    duplicata:  57.530/01/0                         164,67
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.350  57.531/01                                      2-rec.duplicata                    duplicata:  57.531/01/0                          82,34
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.351  57.532/01                                      2-rec.duplicata                    duplicata:  57.532/01/0                         118,72
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.352  57.533/01                                      2-rec.duplicata                    duplicata:  57.533/01/0                         147,03
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.353  57.564/01                                      2-rec.duplicata                    duplicata:  57.564/01/0                         777,97
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.354  57.567/01                                      2-rec.duplicata                    duplicata:  57.567/01/0                       1.065,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.355  57.568/01                                      2-rec.duplicata                    duplicata:  57.568/01/0                       1.065,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.356  57.569/01                                      2-rec.duplicata                    duplicata:  57.569/01/0                       1.065,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.357  57.576/01                                      2-rec.duplicata                    duplicata:  57.576/01/0                       1.065,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.358  57.577/01                                      2-rec.duplicata                    duplicata:  57.577/01/0                       1.065,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.359  57.578/01                                      2-rec.duplicata                    duplicata:  57.578/01/0                       1.040,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.360  57.579/01                                      2-rec.duplicata                    duplicata:  57.579/01/0                          49,09
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.361  57.580/01                                      2-rec.duplicata                    duplicata:  57.580/01/0                          82,34
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.362  57.581/01                                      2-rec.duplicata                    duplicata:  57.581/01/0                       1.000,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.363  57.582/01                                      2-rec.duplicata                    duplicata:  57.582/01/0                       1.040,00
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.364  57.583/01                                      2-rec.duplicata                    duplicata:  57.583/01/0                         518,49
+                                                                                                      fundacao faculdade reg medicin sjrp                    
+ 10/04/23    23.365  57.584/01                                      2-rec.duplicata                    duplicata:  57.584/01/0                         518,49

@@ -1,0 +1,2111 @@
+farmacia economica
+página:1
+contas à pagar -  pagamento:[01/08/2022 a 31/08/2022]
+data:27/10/2022
+usuário:[leandro] - 16:21:58
+situação:[somente quitadas] tipo documento:[cheque,cartao,duplicata,outros,promissoria,boleto]
+parc.
+código nome
+tp.doc.
+bco
+documento
+emissão
+vlr.parcela
+vlr.pago
+restante
+vencimento
+pago? dt.pgto
+historico
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 32518               
+10/06/2022
+        177,82
+        177,82
+          0,00
+05/08/2022
+sim
+05/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 759760              
+13/06/2022
+      1.235,62
+      1.235,62
+          0,00
+08/08/2022
+sim
+03/08/2022
+1/3
+    482 santa cruz                                                                 
+duplicata
+caixa 911601              
+18/07/2022
+         28,34
+         28,34
+          0,00
+08/08/2022
+sim
+08/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4834061             
+06/06/2022
+        347,75
+        347,75
+          0,00
+08/08/2022
+sim
+03/08/2022
+1/3
+    551 prati donaduzzi                                                       
+duplicata
+caixa 156849              
+09/07/2022
+        265,65
+        265,65
+          0,00
+08/08/2022
+sim
+03/08/2022
+1/1
+    551 prati donaduzzi                                                       
+duplicata
+caixa 150402              
+09/06/2022
+        599,57
+        599,57
+          0,00
+08/08/2022
+sim
+03/08/2022
+1/1
+    551 prati donaduzzi                                                       
+duplicata
+caixa 151359              
+13/06/2022
+        383,22
+        383,22
+          0,00
+08/08/2022
+sim
+03/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 32565               
+13/06/2022
+        244,66
+        244,66
+          0,00
+08/08/2022
+sim
+03/08/2022
+1/1
+    567 cimed remédios                                                        
+duplicata
+caixa 58563               
+13/06/2022
+        352,17
+        352,17
+          0,00
+08/08/2022
+sim
+03/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7553245             
+13/07/2022
+         93,21
+         93,21
+          0,00
+09/08/2022
+sim
+03/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7427779             
+10/06/2022
+         45,15
+         45,15
+          0,00
+09/08/2022
+sim
+03/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7303632             
+11/05/2022
+        138,68
+        138,68
+          0,00
+09/08/2022
+sim
+03/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 762611              
+14/06/2022
+        203,39
+        203,39
+          0,00
+09/08/2022
+sim
+03/08/2022
+2/3
+    353 mix farma                                                                    
+duplicata
+caixa 1883301             
+10/06/2022
+        188,09
+        188,09
+          0,00
+09/08/2022
+sim
+03/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 785175              
+10/06/2022
+        250,41
+        250,41
+          0,00
+09/08/2022
+sim
+03/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 678775              
+11/05/2022
+         57,21
+         57,21
+          0,00
+09/08/2022
+sim
+03/08/2022
+1/1
+    514 unimarka - t.freitas                                               
+duplicata
+caixa 1262260             
+26/07/2022
+        849,04
+        849,04
+          0,00
+09/08/2022
+sim
+03/08/2022
+1/1
+    538 orgafarma ba                                                           
+duplicata
+caixa 481561              
+10/06/2022
+        268,51
+        268,51
+          0,00
+09/08/2022
+sim
+03/08/2022
+1/3
+    353 mix farma                                                                    
+duplicata
+caixa 1907960             
+11/07/2022
+        209,41
+        209,41
+          0,00
+10/08/2022
+sim
+03/08/2022
+1/3
+    482 santa cruz                                                                 
+duplicata
+caixa 920382              
+20/07/2022
+         38,55
+         38,55
+          0,00
+10/08/2022
+sim
+03/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4819939             
+27/05/2022
+         69,81
+         69,81
+          0,00
+10/08/2022
+sim
+03/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4838610             
+08/06/2022
+        382,81
+        382,81
+          0,00
+10/08/2022
+sim
+03/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7563365             
+15/07/2022
+        486,97
+        486,97
+          0,00
+11/08/2022
+sim
+10/08/2022
+1/1
+    146 total                                                                            
+duplicata
+caixa 787805              
+12/07/2022
+        233,79
+        233,79
+          0,00
+11/08/2022
+sim
+10/08/2022
+2/3
+    353 mix farma                                                                    
+duplicata
+caixa 1894105             
+27/06/2022
+        141,40
+        141,40
+          0,00
+11/08/2022
+sim
+10/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 834064              
+27/06/2022
+      1.148,82
+      1.148,82
+          0,00
+11/08/2022
+sim
+10/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 486782              
+13/07/2022
+         24,17
+         24,17
+          0,00
+11/08/2022
+sim
+10/08/2022
+1/1
+    507 dpc - feira de santana                                          
+duplicata
+caixa 2078178             
+25/07/2022
+        552,65
+        552,65
+          0,00
+11/08/2022
+sim
+10/08/2022
+1/1
+    567 cimed remédios                                                        
+duplicata
+caixa 67089               
+12/07/2022
+        548,49
+        548,49
+          0,00
+11/08/2022
+sim
+10/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 768770              
+17/06/2022
+        999,00
+        999,00
+          0,00
+12/08/2022
+sim
+10/08/2022
+1/2
+    353 mix farma                                                                    
+duplicata
+caixa 1910599             
+13/07/2022
+        271,53
+        271,53
+          0,00
+12/08/2022
+sim
+10/08/2022
+1/1
+    353 mix farma                                                                    
+duplicata
+caixa 1884241             
+13/06/2022
+        232,90
+        232,90
+          0,00
+12/08/2022
+sim
+10/08/2022
+3/3
+    437 golfarma distribuidora farmacêutica        
+duplicata
+caixa 383670              
+03/06/2022
+        131,63
+        131,63
+          0,00
+12/08/2022
+sim
+10/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 790565              
+13/06/2022
+        130,20
+        130,20
+          0,00
+12/08/2022
+sim
+10/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 838023              
+28/06/2022
+        298,19
+        298,19
+          0,00
+12/08/2022
+sim
+10/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4843640             
+10/06/2022
+        272,76
+        272,76
+          0,00
+12/08/2022
+sim
+10/08/2022
+1/2
+    482 santa cruz                                                                 
+duplicata
+caixa 843167              
+29/06/2022
+      2.897,13
+      2.897,13
+          0,00
+13/08/2022
+sim
+10/08/2022
+1/1
+    500 plusfarma                                                                  
+duplicata
+caixa 362852              
+14/06/2022
+        367,88
+        367,88
+          0,00
+13/08/2022
+sim
+10/08/2022
+1/2
+    505 alianca                                                                         
+duplicata
+caixa 652448              
+14/07/2022
+        271,74
+        271,74
+          0,00
+13/08/2022
+sim
+10/08/2022
+2/4
+    553 dilana farmacos e suplementos ltda           
+duplicata
+caixa 74983               
+14/06/2022
+        178,92
+        178,92
+          0,00
+13/08/2022
+sim
+10/08/2022
+1/2
+    353 mix farma                                                                    
+duplicata
+caixa 1913592             
+15/07/2022
+         32,31
+         32,31
+          0,00
+14/08/2022
+sim
+10/08/2022
+1/2
+    567 cimed remédios                                                        
+duplicata
+caixa 68635               
+15/07/2022
+        367,79
+        367,79
+          0,00
+14/08/2022
+sim
+10/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 773079              
+20/06/2022
+        192,84
+        192,84
+          0,00
+15/08/2022
+sim
+10/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 772534              
+20/06/2022
+      1.028,66
+      1.028,66
+          0,00
+15/08/2022
+sim
+17/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 772443              
+20/06/2022
+        170,32
+        170,32
+          0,00
+15/08/2022
+sim
+10/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 854795              
+01/07/2022
+      2.008,79
+      2.008,79
+          0,00
+15/08/2022
+sim
+17/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4846539             
+13/06/2022
+        348,14
+        348,14
+          0,00
+15/08/2022
+sim
+17/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 33050               
+20/06/2022
+        336,62
+        336,62
+          0,00
+15/08/2022
+sim
+17/08/2022
+3/3
+    353 mix farma                                                                    
+duplicata
+caixa 1861130             
+18/05/2022
+        335,14
+        335,14
+          0,00
+16/08/2022
+sim
+17/08/2022
+ bitfarma
+
+software para drogarias
+farmacia economica
+página:2
+contas à pagar -  pagamento:[01/08/2022 a 31/08/2022]
+data:27/10/2022
+usuário:[leandro] - 16:21:58
+situação:[somente quitadas] tipo documento:[cheque,cartao,duplicata,outros,promissoria,boleto]
+parc.
+código nome
+tp.doc.
+bco
+documento
+emissão
+vlr.parcela
+vlr.pago
+restante
+vencimento
+pago? dt.pgto
+historico
+1/1
+    353 mix farma                                                                    
+duplicata
+caixa 1889037             
+17/06/2022
+        407,44
+        407,44
+          0,00
+16/08/2022
+sim
+17/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 702291              
+18/05/2022
+        130,41
+        130,41
+          0,00
+16/08/2022
+sim
+10/08/2022
+1/1
+    531 unisul                                                                           
+duplicata
+caixa 858359              
+09/08/2022
+        226,65
+        226,65
+          0,00
+16/08/2022
+sim
+15/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 780818              
+22/06/2022
+      1.954,95
+      1.954,95
+          0,00
+17/08/2022
+sim
+17/08/2022
+1/2
+    482 santa cruz                                                                 
+duplicata
+caixa 860975              
+04/07/2022
+      1.454,86
+      1.454,86
+          0,00
+18/08/2022
+sim
+17/08/2022
+1/1
+    507 dpc - feira de santana                                          
+duplicata
+caixa 2082030             
+01/08/2022
+      1.210,48
+      1.210,48
+          0,00
+18/08/2022
+sim
+17/08/2022
+1/3
+    567 cimed remédios                                                        
+duplicata
+caixa 71144               
+19/07/2022
+        281,55
+        281,55
+          0,00
+18/08/2022
+sim
+10/08/2022
+1/1
+    146 total                                                                            
+duplicata
+caixa 781859              
+20/06/2022
+        381,34
+        381,34
+          0,00
+19/08/2022
+sim
+10/08/2022
+2/3
+    291 profarma                                                                   
+duplicata
+caixa 772345              
+20/06/2022
+         19,19
+         19,19
+          0,00
+19/08/2022
+sim
+10/08/2022
+2/2
+    353 mix farma                                                                    
+duplicata
+caixa 1889319             
+20/06/2022
+        247,69
+        247,69
+          0,00
+19/08/2022
+sim
+17/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 864929              
+05/07/2022
+         53,05
+         53,05
+          0,00
+19/08/2022
+sim
+10/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 811898              
+20/06/2022
+        428,15
+        428,15
+          0,00
+19/08/2022
+sim
+10/08/2022
+1/1
+    500 plusfarma                                                                  
+duplicata
+caixa 363024              
+20/06/2022
+        345,17
+        345,17
+          0,00
+19/08/2022
+sim
+17/08/2022
+1/1
+    514 unimarka - t.freitas                                               
+duplicata
+caixa 1267867             
+05/08/2022
+      2.499,33
+      2.499,33
+          0,00
+19/08/2022
+sim
+10/08/2022
+1/2
+    482 santa cruz                                                                 
+duplicata
+caixa 869665              
+06/07/2022
+      2.780,27
+      2.780,27
+          0,00
+20/08/2022
+sim
+10/08/2022
+1/1
+    514 unimarka - t.freitas                                               
+duplicata
+caixa 1269225             
+06/08/2022
+        189,53
+        189,53
+          0,00
+20/08/2022
+sim
+17/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7349602             
+23/05/2022
+         47,20
+         47,20
+          0,00
+21/08/2022
+sim
+17/08/2022
+1/1
+    353 mix farma                                                                    
+duplicata
+caixa 1892861             
+22/06/2022
+        508,67
+        508,67
+          0,00
+21/08/2022
+sim
+17/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 874695              
+07/07/2022
+        644,45
+        644,45
+          0,00
+21/08/2022
+sim
+17/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 716056              
+23/05/2022
+         48,22
+         48,22
+          0,00
+21/08/2022
+sim
+17/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 823180              
+22/06/2022
+         56,77
+         56,77
+          0,00
+21/08/2022
+sim
+17/08/2022
+2/2
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4862373             
+22/06/2022
+         63,10
+         63,10
+          0,00
+21/08/2022
+sim
+17/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 785162              
+27/06/2022
+      1.104,46
+      1.104,46
+          0,00
+22/08/2022
+sim
+24/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 785962              
+27/06/2022
+        897,62
+        897,62
+          0,00
+22/08/2022
+sim
+24/08/2022
+3/3
+    353 mix farma                                                                    
+duplicata
+caixa 1866712             
+24/05/2022
+        339,49
+        339,49
+          0,00
+22/08/2022
+sim
+17/08/2022
+1/1
+    437 golfarma distribuidora farmacêutica        
+duplicata
+caixa 389770              
+27/06/2022
+        360,25
+        360,25
+          0,00
+22/08/2022
+sim
+17/08/2022
+2/3
+    482 santa cruz                                                                 
+duplicata
+caixa 879720              
+08/07/2022
+      2.051,71
+      2.051,71
+          0,00
+22/08/2022
+sim
+24/08/2022
+1/1
+    507 dpc - feira de santana                                          
+duplicata
+caixa 2084294             
+04/08/2022
+      1.200,19
+      1.200,19
+          0,00
+22/08/2022
+sim
+24/08/2022
+1/1
+    507 dpc - feira de santana                                          
+duplicata
+caixa 2084186             
+04/08/2022
+        526,71
+        526,71
+          0,00
+22/08/2022
+sim
+24/08/2022
+1/1
+    527 reconcavo                                                                
+duplicata
+caixa 551611              
+22/06/2022
+        634,72
+        634,72
+          0,00
+22/08/2022
+sim
+24/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 33574               
+27/06/2022
+        311,22
+        311,22
+          0,00
+22/08/2022
+sim
+24/08/2022
+1/1
+    567 cimed remédios                                                        
+duplicata
+caixa 62642               
+27/06/2022
+        370,78
+        370,78
+          0,00
+22/08/2022
+sim
+24/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7607309             
+27/07/2022
+        241,31
+        241,31
+          0,00
+23/08/2022
+sim
+17/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 789518              
+28/06/2022
+        849,88
+        849,88
+          0,00
+23/08/2022
+sim
+24/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 832140              
+24/06/2022
+         97,87
+         97,87
+          0,00
+23/08/2022
+sim
+17/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 793200              
+29/06/2022
+      1.006,32
+      1.006,32
+          0,00
+24/08/2022
+sim
+24/08/2022
+1/3
+    353 mix farma                                                                    
+duplicata
+caixa 1920545             
+25/07/2022
+        185,65
+        185,65
+          0,00
+24/08/2022
+sim
+17/08/2022
+1/1
+    514 unimarka - t.freitas                                               
+duplicata
+caixa 1270412             
+10/08/2022
+        713,89
+        713,89
+          0,00
+24/08/2022
+sim
+24/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 889231              
+11/07/2022
+      1.478,27
+      1.478,27
+          0,00
+25/08/2022
+sim
+17/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 735391              
+27/05/2022
+         14,63
+         14,63
+          0,00
+25/08/2022
+sim
+17/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 735392              
+27/05/2022
+         23,23
+         23,23
+          0,00
+25/08/2022
+sim
+17/08/2022
+1/1
+    507 dpc - feira de santana                                          
+duplicata
+caixa 2090847             
+16/08/2022
+        303,84
+        303,84
+          0,00
+25/08/2022
+sim
+24/08/2022
+1/1
+    507 dpc - feira de santana                                          
+duplicata
+caixa 2086547             
+09/08/2022
+        302,65
+        302,65
+          0,00
+25/08/2022
+sim
+24/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7479960             
+27/06/2022
+         28,80
+         28,80
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/1
+    146 total                                                                            
+duplicata
+caixa 783289              
+27/06/2022
+        319,90
+        319,90
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/1
+    146 total                                                                            
+duplicata
+caixa 783290              
+27/06/2022
+        315,56
+        315,56
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 800278              
+01/07/2022
+        232,46
+        232,46
+          0,00
+26/08/2022
+sim
+24/08/2022
+3/3
+    353 mix farma                                                                    
+duplicata
+caixa 1894105             
+27/06/2022
+        141,40
+        141,40
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/1
+    353 mix farma                                                                    
+duplicata
+caixa 1894027             
+27/06/2022
+        205,13
+        205,13
+          0,00
+26/08/2022
+sim
+17/08/2022
+ bitfarma
+
+software para drogarias
+farmacia economica
+página:3
+contas à pagar -  pagamento:[01/08/2022 a 31/08/2022]
+data:27/10/2022
+usuário:[leandro] - 16:21:58
+situação:[somente quitadas] tipo documento:[cheque,cartao,duplicata,outros,promissoria,boleto]
+parc.
+código nome
+tp.doc.
+bco
+documento
+emissão
+vlr.parcela
+vlr.pago
+restante
+vencimento
+pago? dt.pgto
+historico
+1/2
+    353 mix farma                                                                    
+duplicata
+caixa 1922670             
+27/07/2022
+        106,90
+        106,90
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 893185              
+12/07/2022
+        411,61
+        411,61
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 833915              
+27/06/2022
+        264,48
+        264,48
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/1
+    500 plusfarma                                                                  
+duplicata
+caixa 363267              
+27/06/2022
+        139,38
+        139,38
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/3
+    525 acripel ba                                                                   
+duplicata
+caixa 1141940             
+27/07/2022
+        211,48
+        211,48
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 34150               
+01/07/2022
+        202,21
+        202,21
+          0,00
+26/08/2022
+sim
+17/08/2022
+1/2
+    482 santa cruz                                                                 
+duplicata
+caixa 898260              
+13/07/2022
+      1.412,19
+      1.412,19
+          0,00
+27/08/2022
+sim
+17/08/2022
+2/2
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4871334             
+28/06/2022
+         20,97
+         20,97
+          0,00
+27/08/2022
+sim
+17/08/2022
+1/1
+    514 unimarka - t.freitas                                               
+duplicata
+caixa 1272961             
+13/08/2022
+        317,42
+        317,42
+          0,00
+27/08/2022
+sim
+24/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7626896             
+01/08/2022
+        241,67
+        241,67
+          0,00
+28/08/2022
+sim
+17/08/2022
+1/2
+    353 mix farma                                                                    
+duplicata
+caixa 1926465             
+29/07/2022
+         60,02
+         60,02
+          0,00
+28/08/2022
+sim
+17/08/2022
+1/1
+    353 mix farma                                                                    
+duplicata
+caixa 1896773             
+29/06/2022
+        332,79
+        332,79
+          0,00
+28/08/2022
+sim
+17/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 843167              
+29/06/2022
+         87,29
+         87,29
+          0,00
+28/08/2022
+sim
+17/08/2022
+3/4
+    553 dilana farmacos e suplementos ltda           
+duplicata
+caixa 74983               
+14/06/2022
+        178,92
+        178,92
+          0,00
+28/08/2022
+sim
+17/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 802208              
+04/07/2022
+      1.404,51
+      1.404,51
+          0,00
+29/08/2022
+sim
+17/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 907347              
+15/07/2022
+      1.266,34
+      1.266,34
+          0,00
+29/08/2022
+sim
+17/08/2022
+1/1
+    551 prati donaduzzi                                                       
+duplicata
+caixa 155260              
+30/06/2022
+        918,29
+        918,29
+          0,00
+29/08/2022
+sim
+17/08/2022
+2/2
+    567 cimed remédios                                                        
+duplicata
+caixa 68635               
+15/07/2022
+        367,78
+        367,78
+          0,00
+29/08/2022
+sim
+17/08/2022
+1/1
+    567 cimed remédios                                                        
+duplicata
+caixa 76689               
+30/07/2022
+        387,69
+        387,69
+          0,00
+29/08/2022
+sim
+17/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7637661             
+03/08/2022
+        463,30
+        463,30
+          0,00
+30/08/2022
+sim
+24/08/2022
+1/1
+    353 mix farma                                                                    
+duplicata
+caixa 1899767             
+01/07/2022
+        509,17
+        509,17
+          0,00
+30/08/2022
+sim
+24/08/2022
+3/3
+    353 mix farma                                                                    
+duplicata
+caixa 1875354             
+01/06/2022
+        200,23
+        200,23
+          0,00
+30/08/2022
+sim
+24/08/2022
+1/1
+    538 orgafarma ba                                                           
+duplicata
+caixa 492533              
+01/07/2022
+        236,26
+        236,26
+          0,00
+30/08/2022
+sim
+24/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 809347              
+06/07/2022
+      1.374,82
+      1.374,82
+          0,00
+31/08/2022
+sim
+24/08/2022
+1/3
+    353 mix farma                                                                    
+duplicata
+caixa 1927984             
+01/08/2022
+        402,09
+        402,09
+          0,00
+31/08/2022
+sim
+24/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4872943             
+29/06/2022
+      1.247,80
+      1.247,80
+          0,00
+31/08/2022
+sim
+24/08/2022
+1/1
+    503 gama                                                                             
+duplicata
+caixa 411731              
+01/08/2022
+        599,94
+        599,94
+          0,00
+31/08/2022
+sim
+24/08/2022
+1/1
+    514 unimarka - t.freitas                                               
+duplicata
+caixa 1274307             
+17/08/2022
+      1.334,17
+      1.334,17
+          0,00
+31/08/2022
+sim
+24/08/2022
+1/1
+    525 acripel ba                                                                   
+duplicata
+caixa 1141918             
+27/07/2022
+        322,20
+        322,20
+          0,00
+31/08/2022
+sim
+24/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 34526               
+06/07/2022
+        878,14
+        878,14
+          0,00
+31/08/2022
+sim
+24/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7648177             
+05/08/2022
+        540,82
+        540,82
+          0,00
+01/09/2022
+sim
+24/08/2022
+2/3
+    482 santa cruz                                                                 
+duplicata
+caixa 911601              
+18/07/2022
+      1.994,89
+      1.994,89
+          0,00
+01/09/2022
+sim
+31/08/2022
+1/1
+    482 distrib de medicamentos santa cruz             
+duplicata
+caixa 0760742             
+03/06/2022
+        133,63
+        133,63
+          0,00
+01/09/2022
+sim
+24/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4933670             
+02/08/2022
+         56,72
+         56,72
+          0,00
+01/09/2022
+sim
+24/08/2022
+1/1
+    507 dpc - feira de santana                                          
+duplicata
+caixa 2090729             
+16/08/2022
+        363,54
+        363,54
+          0,00
+01/09/2022
+sim
+24/08/2022
+1/3
+    538 orgafarma ba                                                           
+duplicata
+caixa 510754              
+02/08/2022
+        139,64
+        139,64
+          0,00
+01/09/2022
+sim
+24/08/2022
+1/2
+    146 total                                                                            
+duplicata
+caixa 788713              
+14/07/2022
+        129,80
+        129,80
+          0,00
+02/09/2022
+sim
+24/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 815957              
+08/07/2022
+        548,18
+        548,18
+          0,00
+02/09/2022
+sim
+24/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 814911              
+08/07/2022
+        129,30
+        129,30
+          0,00
+02/09/2022
+sim
+24/08/2022
+2/2
+    353 mix farma                                                                    
+duplicata
+caixa 1900559             
+04/07/2022
+        250,57
+        250,57
+          0,00
+02/09/2022
+sim
+24/08/2022
+1/2
+    353 mix farma                                                                    
+duplicata
+caixa 1929888             
+03/08/2022
+        163,00
+        163,00
+          0,00
+02/09/2022
+sim
+24/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 860975              
+04/07/2022
+         78,06
+         78,06
+          0,00
+02/09/2022
+sim
+24/08/2022
+1/3
+    512 ff distribuidora - salvador                               
+duplicata
+caixa 269909              
+03/08/2022
+        188,58
+        188,58
+          0,00
+02/09/2022
+sim
+24/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 34736               
+08/07/2022
+        424,34
+        424,34
+          0,00
+02/09/2022
+sim
+24/08/2022
+2/3
+    567 cimed remédios                                                        
+duplicata
+caixa 71144               
+19/07/2022
+        281,46
+        281,46
+          0,00
+02/09/2022
+sim
+24/08/2022
+3/3
+    291 profarma                                                                   
+duplicata
+caixa 772345              
+20/06/2022
+         19,18
+         19,18
+          0,00
+03/09/2022
+sim
+24/08/2022
+1/1
+    353 mix farma distribuidora ltda                            
+duplicata
+caixa                     
+05/07/2022
+        334,07
+        334,07
+          0,00
+03/09/2022
+sim
+24/08/2022
+2/3
+    482 santa cruz                                                                 
+duplicata
+caixa 920382              
+20/07/2022
+      2.748,60
+      2.748,60
+          0,00
+03/09/2022
+sim
+24/08/2022
+1/1
+    503 gama                                                                             
+duplicata
+caixa 412231              
+04/08/2022
+        352,63
+        352,63
+          0,00
+03/09/2022
+sim
+24/08/2022
+ bitfarma
+
+software para drogarias
+farmacia economica
+página:4
+contas à pagar -  pagamento:[01/08/2022 a 31/08/2022]
+data:27/10/2022
+usuário:[leandro] - 16:21:58
+situação:[somente quitadas] tipo documento:[cheque,cartao,duplicata,outros,promissoria,boleto]
+parc.
+código nome
+tp.doc.
+bco
+documento
+emissão
+vlr.parcela
+vlr.pago
+restante
+vencimento
+pago? dt.pgto
+historico
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7521900             
+06/07/2022
+         51,09
+         51,09
+          0,00
+04/09/2022
+sim
+24/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7653365             
+08/08/2022
+        154,65
+        154,65
+          0,00
+04/09/2022
+sim
+24/08/2022
+2/3
+    353 mix farma                                                                    
+duplicata
+caixa 1903332             
+06/07/2022
+        304,69
+        304,69
+          0,00
+04/09/2022
+sim
+24/08/2022
+1/1
+    353 mix farma distribuidora ltda                            
+duplicata
+caixa                     
+06/07/2022
+        170,33
+        170,33
+          0,00
+04/09/2022
+sim
+24/08/2022
+1/2
+    353 mix farma                                                                    
+duplicata
+caixa 1932375             
+05/08/2022
+         73,59
+         73,59
+          0,00
+04/09/2022
+sim
+24/08/2022
+2/2
+    482 santa cruz                                                                 
+duplicata
+caixa 869665              
+06/07/2022
+        545,23
+        545,23
+          0,00
+04/09/2022
+sim
+24/08/2022
+1/1
+    552 lafmed                                                                         
+duplicata
+caixa 180470              
+06/07/2022
+        263,35
+        263,35
+          0,00
+04/09/2022
+sim
+24/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 818851              
+11/07/2022
+        685,51
+        685,51
+          0,00
+05/09/2022
+sim
+31/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 929620              
+22/07/2022
+        202,30
+        202,30
+          0,00
+05/09/2022
+sim
+31/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa 4880012             
+04/07/2022
+        712,24
+        712,24
+          0,00
+05/09/2022
+sim
+31/08/2022
+1/1
+    533 gil farma comercial farm. ltda                       
+duplicata
+caixa 282888              
+07/07/2022
+        550,24
+        550,24
+          0,00
+05/09/2022
+sim
+31/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 34996               
+11/07/2022
+        390,14
+        390,14
+          0,00
+05/09/2022
+sim
+31/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7665727             
+10/08/2022
+        199,29
+        199,29
+          0,00
+06/09/2022
+sim
+31/08/2022
+3/3
+    482 santa cruz                                                                 
+duplicata
+caixa 879720              
+08/07/2022
+         53,62
+         53,62
+          0,00
+06/09/2022
+sim
+31/08/2022
+1/1
+    491 nazaria dist.de produtos farma.ltda           
+duplicata
+caixa                     
+16/07/2022
+          4,68
+          4,68
+          0,00
+06/09/2022
+sim
+31/08/2022
+1/1
+    538 orgafarma ba                                                           
+duplicata
+caixa 496110              
+08/07/2022
+        148,59
+        148,59
+          0,00
+06/09/2022
+sim
+31/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 824453              
+13/07/2022
+      1.226,34
+      1.226,34
+          0,00
+07/09/2022
+sim
+31/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 824220              
+13/07/2022
+        239,33
+        239,33
+          0,00
+07/09/2022
+sim
+31/08/2022
+1/1
+    353 mix farma                                                                    
+duplicata
+caixa 1906892             
+09/07/2022
+        258,02
+        258,02
+          0,00
+07/09/2022
+sim
+31/08/2022
+1/3
+    353 mix farma                                                                    
+duplicata
+caixa 1933356             
+08/08/2022
+        208,98
+        208,98
+          0,00
+07/09/2022
+sim
+31/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 35420               
+13/07/2022
+        429,18
+        429,18
+          0,00
+07/09/2022
+sim
+31/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7677213             
+12/08/2022
+        222,66
+        222,66
+          0,00
+08/09/2022
+sim
+31/08/2022
+2/3
+    353 mix farma                                                                    
+duplicata
+caixa 1920545             
+25/07/2022
+        185,61
+        185,61
+          0,00
+08/09/2022
+sim
+31/08/2022
+3/3
+    353 mix farma                                                                    
+duplicata
+caixa 1883301             
+10/06/2022
+        188,09
+        188,09
+          0,00
+08/09/2022
+sim
+31/08/2022
+1/2
+    482 santa cruz                                                                 
+duplicata
+caixa 934989              
+25/07/2022
+      2.175,90
+      2.175,90
+          0,00
+08/09/2022
+sim
+31/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 785261              
+10/06/2022
+         54,35
+         54,35
+          0,00
+08/09/2022
+sim
+31/08/2022
+1/1
+    507 dpc - feira de santana                                          
+duplicata
+caixa 2094066             
+23/08/2022
+      1.589,96
+      1.589,96
+          0,00
+08/09/2022
+sim
+31/08/2022
+2/3
+    551 prati donaduzzi                                                       
+duplicata
+caixa 156849              
+09/07/2022
+        265,57
+        265,57
+          0,00
+08/09/2022
+sim
+31/08/2022
+1/1
+     22 panpharma distr de medicamentos ltda      
+duplicata
+caixa 7540366             
+11/07/2022
+         12,14
+         12,14
+          0,00
+09/09/2022
+sim
+31/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 830645              
+15/07/2022
+      1.398,22
+      1.398,22
+          0,00
+09/09/2022
+sim
+31/08/2022
+1/1
+    291 profarma                                                                   
+duplicata
+caixa 830287              
+15/07/2022
+        241,00
+        241,00
+          0,00
+09/09/2022
+sim
+31/08/2022
+2/3
+    353 mix farma                                                                    
+duplicata
+caixa 1907960             
+11/07/2022
+        209,40
+        209,40
+          0,00
+09/09/2022
+sim
+31/08/2022
+1/1
+    353 mix farma                                                                    
+duplicata
+caixa 1935692             
+10/08/2022
+        115,78
+        115,78
+          0,00
+09/09/2022
+sim
+31/08/2022
+1/1
+    482 santa cruz                                                                 
+duplicata
+caixa 889235              
+11/07/2022
+        259,72
+        259,72
+          0,00
+09/09/2022
+sim
+31/08/2022
+1/1
+    538 orgafarma ba                                                           
+duplicata
+caixa 497454              
+11/07/2022
+        260,23
+        260,23
+          0,00
+09/09/2022
+sim
+31/08/2022
+1/1
+    564 millenium comercial                                              
+duplicata
+caixa 35716               
+15/07/2022
+        190,06
+        190,06
+          0,00
+09/09/2022
+sim
+31/08/2022
+1/2
+    482 santa cruz                                                                 
+duplicata
+caixa 945775              
+27/07/2022
+      1.665,37
+      1.665,37
+          0,00
+10/09/2022
+sim
+31/08/2022
+     89.356,78
+     89.356,78
+          0,00
+ bitfarma
+
+software para drogarias

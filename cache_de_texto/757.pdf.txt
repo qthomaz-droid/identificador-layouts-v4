@@ -1,0 +1,1831 @@
+extrato de crédito e débito
+período: de 01/12/2022 até 31/12/2022
+emitido em: 04/01/2023 18:07:36
+trontec automacao
+data
+saldo
+favorecido/pagador
+histórico
+c/d
+crédito
+débito
+banco itaú
+conta:
+saldo em 01/12/2022
+46.887,47
+depósito itaú
+01/12/2022
+85,00
+tag /controle
+c
+46.972,47
+depósito itaú
+01/12/2022
+60,00
+tag /controle
+c
+47.032,47
+depósito itaú
+01/12/2022
+60,00
+tag /controle
+c
+47.092,47
+mensalidade 11/2022
+01/12/2022
+730,28
+cond. res. loft park 
+c
+47.822,75
+mensalidade 11/2022
+01/12/2022
+628,91
+cond. res. loft park 
+c
+48.451,66
+cobrança 
+01/12/2022
+banco itaú - tafifa bancária
+c
+48.448,78
+(2,88)
+depósito itaú
+02/12/2022
+50,00
+tag /controle
+c
+48.498,78
+depósito itaú
+02/12/2022
+25,00
+tag /controle
+c
+48.523,78
+depósito itaú
+02/12/2022
+110,00
+tag /controle
+c
+48.633,78
+depósito itaú
+02/12/2022
+170,00
+tag /controle
+c
+48.803,78
+depósito itaú
+02/12/2022
+110,00
+tag /controle
+c
+48.913,78
+depósito itaú
+02/12/2022
+280,00
+tag /controle
+c
+49.193,78
+depósito itaú
+02/12/2022
+25,00
+tag /controle
+c
+49.218,78
+depósito itaú
+05/12/2022
+50,00
+tag /controle
+c
+49.268,78
+depósito itaú
+05/12/2022
+25,00
+tag /controle
+c
+49.293,78
+pix
+05/12/2022
+[para: caixa econômica federal]
+c
+9.293,78
+(40.000,00)
+depósito itaú
+06/12/2022
+85,00
+tag /controle
+c
+9.378,78
+depósito itaú
+06/12/2022
+60,00
+tag /controle
+c
+9.438,78
+depósito itaú
+06/12/2022
+60,00
+tag /controle
+c
+9.498,78
+depósito itaú
+06/12/2022
+60,00
+tag /controle
+c
+9.558,78
+11/2022-  conta certa 
+06/12/2022
+banco itaú - tafifa bancária
+c
+9.336,78
+(222,00)
+rendimentos
+07/12/2022
+6,11
+itaú - juros
+c
+9.342,89
+depósito itaú
+07/12/2022
+60,00
+tag /controle
+c
+9.402,89
+depósito itaú
+07/12/2022
+25,00
+tag /controle
+c
+9.427,89
+pix
+07/12/2022
+20.000,00
+[de: banco sicoob]
+c
+29.427,89
+depósito itaú
+08/12/2022
+85,00
+tag /controle
+c
+29.512,89
+jardim independência
+08/12/2022
+baixa de títulos
+c
+24.848,79
+(4.664,10)
+cobrança
+09/12/2022
+banco itaú - tafifa bancária
+c
+24.845,91
+(2,88)
+pix
+09/12/2022
+18.000,00
+[de: banco santander brasil s/a]
+c
+42.845,91
+lis / juros 
+12/12/2022
+itaú - juros
+c
+42.099,78
+(746,13)
+cobrança
+12/12/2022
+banco itaú - tafifa bancária
+c
+42.092,58
+(7,20)
+rendimentos
+13/12/2022
+0,01
+itaú - juros
+c
+42.092,59
+depósito itaú
+13/12/2022
+25,00
+tag /controle
+c
+42.117,59
+depósito itaú
+13/12/2022
+280,00
+tag /controle
+c
+42.397,59
+depósito itaú
+14/12/2022
+60,00
+tag /controle
+c
+42.457,59
+depósito itaú
+14/12/2022
+25,00
+tag /controle
+c
+42.482,59
+rendimentos
+15/12/2022
+0,01
+itaú - juros
+c
+42.482,60
+depósito itaú
+15/12/2022
+85,00
+tag /controle
+c
+42.567,60
+depósito itaú
+15/12/2022
+60,00
+tag /controle
+c
+42.627,60
+juros clos du soleil
+15/12/2022
+baixa de títulos
+c
+42.612,82
+(14,78)
+clos du soleil - novo valor reajuste
+15/12/2022
+baixa de títulos
+c
+38.377,82
+(4.235,00)
+cobrança
+15/12/2022
+banco itaú - tafifa bancária
+c
+38.373,50
+(4,32)
+depósito itaú
+16/12/2022
+60,00
+tag /controle
+c
+38.433,50
+mensalidade 11/2022
+16/12/2022
+1.855,00
+condomínio ed. garagem bragança
+c
+40.288,50
+cobrança
+16/12/2022
+banco itaú - tafifa bancária
+c
+40.287,06
+(1,44)
+pix
+16/12/2022
+[para: banrisul]
+c
+23.287,06
+(17.000,00)
+pix
+16/12/2022
+20.000,00
+[de: banco do brasil]
+c
+43.287,06
+depósito itaú
+19/12/2022
+25,00
+tag /controle
+c
+43.312,06
+depósito itaú
+19/12/2022
+50,00
+tag /controle
+c
+43.362,06
+depósito itaú
+20/12/2022
+60,00
+tag /controle
+c
+43.422,06
+depósito itaú
+20/12/2022
+60,00
+tag /controle
+c
+43.482,06
+depósito itaú
+21/12/2022
+60,00
+tag /controle
+c
+43.542,06
+depósito itaú
+21/12/2022
+25,00
+tag /controle
+c
+43.567,06
+depósito itaú
+21/12/2022
+60,00
+tag /controle
+c
+43.627,06
+rendimentos
+21/12/2022
+0,01
+itaú - juros
+c
+43.627,07
+depósito itaú
+22/12/2022
+60,00
+tag /controle
+c
+43.687,07
+depósito itaú
+22/12/2022
+25,00
+tag /controle
+c
+43.712,07
+rendimentos
+23/12/2022
+0,03
+itaú - juros
+c
+43.712,10
+abastecimentos nf 43409731- feito transf, pois o 
+26/12/2022
+ticket log
+c
+37.408,33
+(6.303,77)
+depósito itaú
+27/12/2022
+50,00
+tag /controle
+c
+37.458,33
+rendimentos
+27/12/2022
+0,02
+itaú - juros
+c
+37.458,35
+(parcela 8)tiago e diego
+27/12/2022
+banco itaú - seguro de vida
+c
+37.055,56
+(402,79)
+pix
+28/12/2022
+4.000,00
+[de: banco santander brasil s/a]
+c
+41.055,56
+página 1
+https://tech.iob.com.br/
+start
+extrato de crédito e débito
+período: de 01/12/2022 até 31/12/2022
+emitido em: 04/01/2023 18:07:37
+trontec automacao
+data
+saldo
+favorecido/pagador
+histórico
+c/d
+crédito
+débito
+depósito itaú
+29/12/2022
+60,00
+tag /controle
+c
+41.115,56
+cobrança
+29/12/2022
+banco itaú - tafifa bancária
+c
+41.114,12
+(1,44)
+pix
+29/12/2022
+[para: caixa econômica federal]
+c
+21.114,12
+(20.000,00)
+mensalidade 12/2022
+30/12/2022
+730,28
+cond. res. loft park 
+c
+21.844,40
+mensalidade 12/2022
+30/12/2022
+628,91
+cond. res. loft park 
+c
+22.473,31
+cobrança 
+30/12/2022
+banco itaú - tafifa bancária
+c
+22.468,99
+(4,32)
+resumo
+banco itaú
+total de créditos:
+69.194,57
+(93.613,05)
+total de débitos:
+saldo final:
+22.468,99
+total lançamentos: 69
+banco sicoob
+conta:
+saldo em 01/12/2022
+4.386,51
+dsconto de título
+07/12/2022
+144.607,61
+sicoob desconto de duplicatas
+c
+148.994,12
+tac
+07/12/2022
+sicoob desconto de duplicatas
+c
+148.983,62
+(10,50)
+iof
+07/12/2022
+sicoob desconto de duplicatas
+c
+147.554,99
+(1.428,63)
+juros
+07/12/2022
+sicoob desconto de duplicatas
+c
+133.609,71
+(13.945,28)
+tarifa ted
+07/12/2022
+sicoob desconto de duplicatas
+c
+133.579,71
+(30,00)
+cobrança
+07/12/2022
+sicoob - tarifa bancária
+c
+133.525,31
+(54,40)
+pix
+07/12/2022
+[para: banrisul]
+c
+125.525,31
+(8.000,00)
+pix
+07/12/2022
+[para: banco itaú]
+c
+105.525,31
+(20.000,00)
+pix
+07/12/2022
+[para: banco santander brasil s/a]
+c
+88.525,31
+(17.000,00)
+pix
+07/12/2022
+[para: caixa econômica federal]
+c
+33.525,31
+(55.000,00)
+aplicação
+08/12/2022
+sicoob - aplicação
+c
+31.025,31
+(2.500,00)
+pix
+09/12/2022
+[para: banrisul]
+c
+27.025,31
+(4.000,00)
+pix
+09/12/2022
+[para: banco do brasil]
+c
+23.025,31
+(4.000,00)
+pix
+09/12/2022
+[para: caixa econômica federal]
+c
+3.025,31
+(20.000,00)
+tarifa de pacote
+12/12/2022
+sicoob - tarifa bancária
+c
+2.939,99
+(85,32)
+cobrança
+13/12/2022
+sicoob - tarifa bancária
+c
+2.938,39
+(1,60)
+mensaliade 11/2022
+15/12/2022
+750,00
+sergio pinós alves - res. apollo
+c
+3.688,39
+(parcela 2)sala 201
+16/12/2022
+sicoob - seguro imóvel
+c
+3.368,55
+(319,84)
+renovação conta garantia
+20/12/2022
+sicoob - tarifa bancária
+c
+3.348,55
+(20,00)
+(parcela 2)nf 1172 - câmeras + dvr
+29/12/2022
+540,32
+cond. ed. chácara flora
+c
+3.888,87
+cobrança
+30/12/2022
+sicoob - tarifa bancária
+c
+3.876,87
+(12,00)
+resumo
+banco sicoob
+total de créditos:
+145.897,93
+(146.407,57)
+total de débitos:
+saldo final:
+3.876,87
+total lançamentos: 21
+banco santander brasil s/a
+conta:
+saldo em 01/12/2022
+45.363,94
+contrato 290000001530
+01/12/2022
+santander - empréstimo
+c
+41.873,14
+(3.490,80)
+iof
+01/12/2022
+santander - tarifas bancárias
+c
+41.750,14
+(123,00)
+iof
+01/12/2022
+santander - tarifas bancárias
+c
+41.747,96
+(2,18)
+iof 01/11 a 30/11
+01/12/2022
+santander - tarifas bancárias
+c
+41.676,87
+(71,09)
+deconto de títulos
+02/12/2022
+125.414,99
+santander desconto duplicata
+c
+167.091,86
+desconto de títulos
+02/12/2022
+santander desconto duplicata
+c
+145.344,88
+(21.746,98)
+desconto de títulos - encargos
+02/12/2022
+santander desconto duplicata
+c
+145.344,86
+(0,02)
+tarifas de serviço
+02/12/2022
+santander desconto duplicatas
+c
+145.223,97
+(120,89)
+pix
+02/12/2022
+[para: caixa econômica federal]
+c
+45.223,97
+(100.000,00)
+devolução consórcio
+05/12/2022
+5,92
+santander  
+c
+45.229,89
+pix
+05/12/2022
+santander - tarifas bancárias
+c
+45.220,29
+(9,60)
+cobrança
+05/12/2022
+santander - tarifas bancárias
+c
+45.121,69
+(98,60)
+rendimentos
+06/12/2022
+56,18
+santander - juros
+c
+45.177,87
+chacara das flores - novo vencto
+06/12/2022
+baixa de títulos
+c
+38.046,21
+(7.131,66)
+valor acerto que era do sr. paulo (depósito em sua 
+06/12/2022
+diego bernardes nunes
+c
+26.046,21
+(12.000,00)
+iof
+06/12/2022
+santander desconto duplicata
+c
+26.044,66
+(1,55)
+pix
+06/12/2022
+[para: caixa econômica federal]
+c
+11.044,66
+(15.000,00)
+pix
+07/12/2022
+santander - tarifas bancárias
+c
+11.038,46
+(6,20)
+pix
+07/12/2022
+santander - tarifas bancárias
+c
+11.028,86
+(9,60)
+pix
+07/12/2022
+17.000,00
+[de: banco sicoob]
+c
+28.028,86
+rendimentos
+09/12/2022
+0,01
+santander - juros
+c
+28.028,87
+página 2
+https://tech.iob.com.br/
+start
+extrato de crédito e débito
+período: de 01/12/2022 até 31/12/2022
+emitido em: 04/01/2023 18:07:37
+trontec automacao
+data
+saldo
+favorecido/pagador
+histórico
+c/d
+crédito
+débito
+deconto de títulos
+09/12/2022
+96.445,70
+santander desconto duplicata
+c
+124.474,57
+dividendo - 11/2022 10.497,50
+09/12/2022
+tiago ribeiro xavier
+c
+113.977,07
+(10.497,50)
+pro labore - 11/2022
+09/12/2022
+tiago ribeiro xavier
+c
+111.974,57
+(2.002,50)
+distribuição - 11/2022 10.497,50
+09/12/2022
+diego bernardes nunes
+c
+101.477,07
+(10.497,50)
+pro-labore - 11/2022
+09/12/2022
+diego bernardes nunes
+c
+99.474,57
+(2.002,50)
+pix
+09/12/2022
+[para: banco itaú]
+c
+81.474,57
+(18.000,00)
+pix
+09/12/2022
+[para: caixa econômica federal]
+c
+46.474,57
+(35.000,00)
+(parcela 10)vida grupo
+12/12/2022
+santander - seguro
+c
+46.091,57
+(383,00)
+pix
+12/12/2022
+santander - tarifas bancárias
+c
+46.072,37
+(19,20)
+11/2022
+12/12/2022
+santander - pacote serviço
+c
+45.948,37
+(124,00)
+cobrança
+12/12/2022
+santander - tarifas bancárias
+c
+45.853,17
+(95,20)
+pix
+12/12/2022
+[para: caixa econômica federal]
+c
+15.853,17
+(30.000,00)
+cobrança
+13/12/2022
+santander - tarifas bancárias
+c
+15.843,57
+(9,60)
+rendimentos
+20/12/2022
+0,01
+santander - juros
+c
+15.843,58
+avaliação clinica rodrigo pix 28333234000170
+20/12/2022
+ragat saúde & segurança
+c
+15.773,58
+(70,00)
+pix
+20/12/2022
+32.000,00
+[de: banco do brasil]
+c
+47.773,58
+vila rica -
+22/12/2022
+baixa de títulos
+c
+41.813,19
+(5.960,39)
+vila rica - imposto
+22/12/2022
+baixa de títulos
+c
+41.811,70
+(1,49)
+golden park - valor errado (imposto)
+22/12/2022
+baixa de títulos
+c
+41.811,26
+(0,44)
+(parcela 4)golden park center
+22/12/2022
+baixa de títulos
+c
+40.049,41
+(1.761,85)
+cobrança
+23/12/2022
+santander - tarifas bancárias
+c
+40.037,01
+(12,40)
+pix
+27/12/2022
+santander - tarifas bancárias
+c
+40.027,41
+(9,60)
+pix
+27/12/2022
+[para: caixa econômica federal]
+c
+20.027,41
+(20.000,00)
+deconto de títulos
+28/12/2022
+89.243,20
+santander desconto duplicatas
+c
+109.270,61
+juros duplicatas
+28/12/2022
+santander desconto duplicatas
+c
+92.151,39
+(17.119,22)
+cobrança
+28/12/2022
+santander - tarifas bancárias
+c
+92.083,39
+(68,00)
+pix
+28/12/2022
+[para: banco itaú]
+c
+88.083,39
+(4.000,00)
+pix
+28/12/2022
+[para: caixa econômica federal]
+c
+45.083,39
+(43.000,00)
+pix
+29/12/2022
+santander - tarifas bancárias
+c
+45.064,19
+(19,20)
+pix
+29/12/2022
+[para: caixa econômica federal]
+c
+20.064,19
+(25.000,00)
+pix
+30/12/2022
+santander - tarifas bancárias
+c
+20.054,59
+(9,60)
+resumo
+banco santander brasil s/a
+total de créditos:
+360.166,01
+(385.475,36)
+total de débitos:
+saldo final:
+20.054,59
+total lançamentos: 52
+banco do brasil
+conta:
+saldo em 01/12/2022
+12.407,95
+pix
+01/12/2022
+bb - tarifas bancárias
+c
+12.406,95
+(1,00)
+rendimento
+05/12/2022
+13,81
+bb -juros
+c
+12.420,76
+rendimento
+06/12/2022
+0,05
+bb -juros
+c
+12.420,81
+(parcela 1)nf-e 59723(dois 
+09/12/2022
+magazine luiza s/a
+c
+12.261,91
+(158,90)
+coolers /tampers
+09/12/2022
+comercial mattos
+c
+12.137,91
+(124,00)
+(parcela 3)nf-e 31360
+09/12/2022
+mga comercio e servicos
+c
+11.993,58
+(144,33)
+(parcela 3)nf-e 43593 (drigon)
+09/12/2022
+m
+c
+11.918,60
+(74,98)
+gsuite tiago
+09/12/2022
+google -
+c
+11.246,12
+(672,48)
+anuidade cartão bb
+09/12/2022
+anuidade
+c
+11.242,12
+(4,00)
+controle - vivo ura
+09/12/2022
+vivo ura
+c
+11.191,13
+(50,99)
+iof
+09/12/2022
+bb -juros
+c
+11.148,23
+(42,90)
+tim*maisbax3h2d rio janeiro
+09/12/2022
+tim brasil
+c
+11.100,76
+(47,47)
+(parcela 4)nf-e 9409
+09/12/2022
+mercado livre
+c
+10.958,21
+(142,55)
+(parcela 5)nf-e 9137 / 9135
+09/12/2022
+mercado livre
+c
+10.820,27
+(137,94)
+(parcela 5)nf-e 4580 conversores
+09/12/2022
+mercado livre
+c
+10.611,94
+(208,33)
+(parcela 3)nf-e 4892 ( conversor 3a )
+09/12/2022
+mercado livre
+c
+10.486,94
+(125,00)
+(parcela 4)nf-e 53641 (refletores 100w)
+09/12/2022
+mercado livre
+c
+10.421,05
+(65,89)
+(parcela 3)nf-e 2644313 ( cel zelador agosto)
+09/12/2022
+mercado livre
+c
+10.320,06
+(100,99)
+recarga
+09/12/2022
+oi - ura - 98628-6501
+c
+10.283,34
+(36,72)
+nf 2022/202
+09/12/2022
+ipanema com e serv de pneus
+c
+10.123,34
+(160,00)
+pix
+09/12/2022
+4.000,00
+[de: banco sicoob]
+c
+14.123,34
+rendimento
+12/12/2022
+0,25
+bb -juros
+c
+14.123,59
+cobrança
+12/12/2022
+bb - tarifas bancárias
+c
+14.069,23
+(54,36)
+consórcio - onix - parcela 58/84
+12/12/2022
+bb - consórcio
+c
+13.645,59
+(423,64)
+consórcio - onix - parcela 64/84
+12/12/2022
+bb - consórcio
+c
+12.957,50
+(688,09)
+mensalidade 11/2022
+13/12/2022
+5.684,79
+cond. res. maison classic
+c
+18.642,29
+página 3
+https://tech.iob.com.br/
+start
+extrato de crédito e débito
+período: de 01/12/2022 até 31/12/2022
+emitido em: 04/01/2023 18:07:38
+trontec automacao
+data
+saldo
+favorecido/pagador
+histórico
+c/d
+crédito
+débito
+rendimento
+13/12/2022
+0,15
+bb -juros
+c
+18.642,44
+maison classic- valor errado
+14/12/2022
+baixa de títulos
+c
+12.952,53
+(5.689,91)
+rendimento
+15/12/2022
+0,04
+bb -juros
+c
+12.952,57
+cobrança
+15/12/2022
+bb - tarifas bancárias
+c
+12.934,45
+(18,12)
+pacote de serviço
+15/12/2022
+bb tarifas bancárias
+c
+12.781,45
+(153,00)
+iptu casa diego
+15/12/2022
+prefeitura municipal de porto 
+c
+12.583,35
+(198,10)
+iptu sala 201 parte 2022
+15/12/2022
+prefeitura municipal de porto 
+c
+12.527,38
+(55,97)
+mensalidade 11/2022
+16/12/2022
+3.681,97
+cond. ed. vila rica 
+c
+16.209,35
+mensalidade 11/2022
+16/12/2022
+5.929,95
+cond. ed. vila rica 
+c
+22.139,30
+rendimento
+16/12/2022
+0,43
+bb -juros
+c
+22.139,73
+desconto de títulos 
+16/12/2022
+209.051,82
+bb desconto duplicatas
+c
+231.191,55
+bloco c mensalidade 09/2022 vlaor já com juros
+16/12/2022
+2.321,25
+cond. ed. vila rica 
+c
+233.512,80
+cobrança
+16/12/2022
+bb - tarifas bancárias
+c
+233.509,78
+(3,02)
+cobrança
+16/12/2022
+bb - tarifas bancárias
+c
+233.257,78
+(252,00)
+juros desconto de títulos +100
+16/12/2022
+bb desconto duplicatas
+c
+208.525,48
+(24.732,30)
+pix
+16/12/2022
+[para: banco itaú]
+c
+188.525,48
+(20.000,00)
+pix
+16/12/2022
+[para: caixa econômica federal]
+c
+108.525,48
+(80.000,00)
+(parcela 1)nf 1172 - câmeras + dvr
+19/12/2022
+497,82
+cond. ed. chácara flora
+c
+109.023,30
+mensalidade 11/2022
+19/12/2022
+4.099,09
+clos du soleil
+c
+113.122,39
+rendimento
+19/12/2022
+0,74
+bb -juros
+c
+113.123,13
+ honorários encerramento de ano - tron tecnologia
+20/12/2022
+pauleski 
+c
+109.505,13
+(3.618,00)
+pix
+20/12/2022
+[para: banco santander brasil s/a]
+c
+77.505,13
+(32.000,00)
+pix
+20/12/2022
+[para: caixa econômica federal]
+c
+27.505,13
+(50.000,00)
+pix
+20/12/2022
+[para: banrisul]
+c
+15.505,13
+(12.000,00)
+rendimento
+23/12/2022
+0,28
+bb -juros
+c
+15.505,41
+cobrança
+26/12/2022
+bb - tarifas bancárias
+c
+15.502,39
+(3,02)
+rendimento
+27/12/2022
+0,20
+bb -juros
+c
+15.502,59
+pix
+28/12/2022
+[para: caixa econômica federal]
+c
+11.002,59
+(4.500,00)
+cobrança
+29/12/2022
+bb - tarifas bancárias
+c
+10.966,35
+(36,24)
+rendimento
+30/12/2022
+0,13
+bb -juros
+c
+10.966,48
+resumo
+banco do brasil
+total de créditos:
+235.282,77
+(236.724,24)
+total de débitos:
+saldo final:
+10.966,48
+total lançamentos: 56
+banrisul
+conta:
+saldo em 01/12/2022
+10.865,55
+iof
+01/12/2022
+banrisul - juros
+c
+10.864,58
+(0,97)
+iof adicional
+02/12/2022
+banrisul - juros
+c
+10.827,95
+(36,63)
+pacote mensalidade
+02/12/2022
+banrisul - tarifas bancárias
+c
+10.762,95
+(65,00)
+(parcela 2)nf-e 352209 ( banricompras 5x )
+05/12/2022
+bortolini
+c
+10.664,95
+(98,00)
+11/2022
+05/12/2022
+banrisul - seguro de vida
+c
+10.596,85
+(68,10)
+saque
+05/12/2022
+[para: caixa]
+c
+10.216,85
+(380,00)
+saque
+05/12/2022
+[para: caixa]
+c
+9.936,85
+(280,00)
+saque
+05/12/2022
+[para: caixa]
+c
+9.546,85
+(390,00)
+rendimento
+07/12/2022
+0,05
+banrisul - juros
+c
+9.546,90
+(parcela 2)nf-e 352244 (banricompras 5x)
+07/12/2022
+bortolini
+c
+9.385,83
+(161,07)
+(parcela 17)mensalidade
+07/12/2022
+banrisul - consórcio
+c
+8.768,46
+(617,37)
+(parcela 8)proposta 0000305587
+07/12/2022
+banrisul - consórcio
+c
+7.344,13
+(1.424,33)
+mensalidade
+07/12/2022
+banrisul - consórcio
+c
+6.375,08
+(969,05)
+(parcela 12)mensalidade
+07/12/2022
+banrisul - consórcio
+c
+5.502,34
+(872,74)
+(parcela 2)proposta 0000314265
+07/12/2022
+banrisul - consórcio
+c
+4.796,09
+(706,25)
+pix
+07/12/2022
+8.000,00
+[de: banco sicoob]
+c
+12.796,09
+nf-e 76531  (alugel talhadeira poste predio 
+08/12/2022
+bortolini
+c
+12.666,09
+(130,00)
+pro labore
+09/12/2022
+paulo lomando nunes 
+c
+7.160,47
+(5.505,62)
+pix
+09/12/2022
+4.000,00
+[de: banco sicoob]
+c
+11.160,47
+nf-e 3809 (banricompras 30d)
+12/12/2022
+luz e lustres
+c
+11.065,57
+(94,90)
+(parcela 2)cond. montmatre
+12/12/2022
+reembolso - bicicleta
+c
+10.415,58
+(649,99)
+(parcela 23)valor 30.000,00
+12/12/2022
+banrisul - empréstimo
+c
+8.717,88
+(1.697,70)
+ponto
+12/12/2022
+tiquetaque serviços de tecnologia s.a.
+c
+8.504,13
+(213,75)
+(parcela 2)nf-e 54153
+12/12/2022
+upperseg
+c
+8.438,44
+(65,69)
+(parcela 3)voyage - placa iwz 8590 -1º parc. pix:51 
+12/12/2022
+mecânica joão antunes
+c
+8.225,90
+(212,54)
+(parcela 10)notebook - sr. paulo
+12/12/2022
+magazine luiza s/a
+c
+7.836,00
+(389,90)
+(parcela 9)computadores novos 201
+12/12/2022
+magazine luiza s/a
+c
+7.472,52
+(363,48)
+página 4
+https://tech.iob.com.br/
+start
+extrato de crédito e débito
+período: de 01/12/2022 até 31/12/2022
+emitido em: 04/01/2023 18:07:38
+trontec automacao
+data
+saldo
+favorecido/pagador
+histórico
+c/d
+crédito
+débito
+(parcela 4)compra de uniformes recepção - 8 
+12/12/2022
+majoleh uniformes ind e com de 
+c
+6.358,89
+(1.113,63)
+(parcela 4)nf-e 5866768 (pneus sandero ) 
+12/12/2022
+empresarial gato preto
+c
+6.225,17
+(133,72)
+(parcela 4)nf-e 29046 (mochilas tecnica)
+12/12/2022
+mercado livre
+c
+6.158,90
+(66,27)
+(parcela 2)reembolso bicicleta demoiselle - bruna 
+12/12/2022
+cia do ciclista
+c
+5.971,53
+(187,37)
+(parcela 3)sapatos/sapatilhas concierges
+12/12/2022
+paquetá calçados ltda
+c
+5.787,95
+(183,58)
+(parcela 4)curso de solda (fabio e marcos)entrada 
+12/12/2022
+ciatec treinamento e consultoria
+c
+5.629,95
+(158,00)
+(parcela 10)celular diego
+12/12/2022
+magazine luiza s/a
+c
+5.110,05
+(519,90)
+saque
+12/12/2022
+[para: caixa]
+c
+3.610,05
+(1.500,00)
+(parcela 2)175.000,00
+16/12/2022
+banrisul - empréstimo
+d
+(2.898,86)
+(6.508,91)
+(parcela 6)valor 225.000,00
+16/12/2022
+banrisul - empréstimo
+d
+(11.082,62)
+(8.183,76)
+pix
+16/12/2022
+17.000,00
+[de: banco itaú]
+c
+5.917,38
+(parcela 10)rg capitalização
+19/12/2022
+banrisul - capitalização
+c
+5.817,38
+(100,00)
+(parcela 1)nf-e 59029 (banricompras 30/60)
+19/12/2022
+ponto frio
+c
+5.727,88
+(89,50)
+(parcela 2)nf-e 352861 (banricompras)
+19/12/2022
+bortolini
+c
+5.487,88
+(240,00)
+(parcela 3)buchas e parafusos (banricompras 
+19/12/2022
+sergio parafusos ltda
+c
+5.410,09
+(77,79)
+(parcela 33)parcela - 1-48
+19/12/2022
+banrisul - capitalização
+c
+5.179,27
+(230,82)
+(parcela 34)parcela - 1-48
+19/12/2022
+banrisul - capitalização
+c
+4.948,45
+(230,82)
+saque
+19/12/2022
+[para: caixa]
+c
+3.948,45
+(1.000,00)
+pix
+20/12/2022
+12.000,00
+[de: banco do brasil]
+c
+15.948,45
+manual do hb20
+21/12/2022
+dijon com. de veículos
+c
+15.898,45
+(50,00)
+(parcela 2)sapatilha numero 39 ananda 
+21/12/2022
+gaston calçados
+c
+15.838,46
+(59,99)
+(parcela 2)pendrive/cabos hdmi 
+26/12/2022
+cs celular
+c
+15.755,96
+(82,50)
+11/2022
+26/12/2022
+banrisul - seguro de vida
+c
+15.621,25
+(134,71)
+saque
+26/12/2022
+[para: caixa]
+c
+15.321,25
+(300,00)
+rendimento
+27/12/2022
+0,05
+banrisul - juros
+c
+15.321,30
+rendimento
+30/12/2022
+0,03
+banrisul - juros
+c
+15.321,33
+(parcela 5)nf-e 348672 (banricompras 5x)
+30/12/2022
+bortolini
+c
+15.071,53
+(249,80)
+juros
+30/12/2022
+banrisul - juros
+c
+14.615,82
+(455,71)
+resumo
+banrisul
+total de créditos:
+41.000,13
+(37.249,86)
+total de débitos:
+saldo final:
+14.615,82
+total lançamentos: 55
+caixa
+conta:
+saldo em 01/12/2022
+359,40
+garagem bragança box 303
+01/12/2022
+60,00
+tag /controle
+c
+419,40
+rafael 5,00 de troco para zelador do hyde bordini
+01/12/2022
+troco condomínios
+c
+414,40
+(5,00)
+serviços prestados -trontec 01/12/22
+01/12/2022
+luiz de sousa
+c
+114,40
+(300,00)
+armário transportado da base para o loft 
+01/12/2022
+frete armários 
+d
+(85,60)
+(200,00)
+saque
+01/12/2022
+500,00
+[de: caixa econômica federal]
+c
+414,40
+troco para ativação de condomínio  - op vitória silva
+02/12/2022
+troco condomínios
+c
+364,40
+(50,00)
+envio conserto siam
+02/12/2022
+correios e telégrafos
+c
+317,20
+(47,20)
+conserto pneu 
+03/12/2022
+borracharia camaquã
+c
+217,20
+(100,00)
+03 e 04/12
+05/12/2022
+sobreaviso ti
+c
+17,20
+(200,00)
+guilherme  28/11 dom luciano
+05/12/2022
+extra ronda
+d
+(107,80)
+(125,00)
+ketlin -  landmark 29/11 (teste)
+05/12/2022
+extra recepção
+d
+(212,80)
+(105,00)
+felipe rosa  04/12 saint louis
+05/12/2022
+extra portaria
+d
+(362,80)
+(150,00)
+vitoria silva 02/12
+05/12/2022
+extra monitoramento
+d
+(487,80)
+(125,00)
+luan foltz-  landmark 29/11 e 01/12
+05/12/2022
+extra recepção
+d
+(767,80)
+(280,00)
+andriel -  landmark 29/11- 01 e 03/12
+05/12/2022
+extra recepção
+d
+(1.122,80)
+(355,00)
+matheus -  landmark 29/11 , 01 e 03/12
+05/12/2022
+extra recepção
+d
+(1.497,80)
+(375,00)
+fabio -  landmark 28/11- 30/11 e 02/12
+05/12/2022
+extra recepção
+d
+(2.007,80)
+(510,00)
+lucas -  landmark 29/11 - 01/12 e 03/12
+05/12/2022
+extra recepção
+d
+(2.517,80)
+(510,00)
+larissa villa -  landmark 30/11, 02/12 e 04/12
+05/12/2022
+extra recepção
+d
+(2.872,80)
+(355,00)
+saque
+05/12/2022
+380,00
+[de: banrisul]
+d
+(2.492,80)
+saque
+05/12/2022
+280,00
+[de: banrisul]
+d
+(2.212,80)
+saque
+05/12/2022
+390,00
+[de: banrisul]
+d
+(1.822,80)
+saque
+05/12/2022
+999,00
+[de: caixa econômica federal]
+d
+(823,80)
+saque
+05/12/2022
+1.001,00
+[de: caixa econômica federal]
+c
+177,20
+vila rica
+06/12/2022
+85,00
+tag /controle
+c
+262,20
+vila nova de gaia
+06/12/2022
+25,00
+tag /controle
+c
+287,20
+serviços prestados - lagoa negra 01/12/22
+06/12/2022
+luiz de sousa
+d
+(12,80)
+(300,00)
+saque
+06/12/2022
+500,00
+[de: caixa econômica federal]
+c
+487,20
+pateo lisboa
+08/12/2022
+50,00
+tag /controle
+c
+537,20
+página 5
+https://tech.iob.com.br/
+start

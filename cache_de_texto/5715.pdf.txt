@@ -1,0 +1,310 @@
+khrys tec epp
+                                                                                                         loja   : 00-khrys tec
+icompany rt - sistema de gestao comercial - versao 23.12                                                 emissao: 27/08/2024   13:12
+relatorio de movimento bancario no periodo de 01/01/24 a 31/01/24
+                                                                                                         folha  : 0001
+------------------------------------------------------------------------------------------------------------------------------------
+                           banco: sicredi     agencia: 2201-29     conta: 05057-9          descr: sicredi                           
+------------------------------------------------------------------------------------------------------------------------------------
+data     historico dos lancamentos                          n.docto    cc lj c.fin d/c       creditos        debitos           saldo
+------------------------------------------------------------------------------------------------------------------------------------
+data do movimento : 02/01/24                                                                                              41.136,20c
+02/01/24 tl monteiro ltda                                   18141         00 00721  c          313,54                     41.449,74c
+02/01/24 aurelia alves de araujo                            3893          00 00721  c          418,22                     41.867,96c
+02/01/24 ref.cr.doc.px no.compra cadei felipe do monte pere 26432      02 00 00008  c          600,00                     42.467,96c
+02/01/24 ref.cr.doc.px no.140018150 cristiano rodrigues de  26433      04 00 00008  c           35,00                     42.502,96c
+02/01/24 ref.cr.doc.px no.140018155 sheyla regina marques c 26434      04 00 00013  c          350,00                     42.852,96c
+02/01/24 ref.cr.doc.px no.140018160 leandro ferreira frade  26435      04 00 00013  c           10,50                     42.863,46c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         242,13      42.621,33c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         148,42      42.472,91c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         150,00      42.322,91c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                          24,00      42.298,91c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         194,00      42.104,91c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         505,50      41.599,41c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                          40,00      41.559,41c
+02/01/24 tarifa baixa de titulos                            tarifa        00 00847  d                           0,50      41.558,91c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         185,00      41.373,91c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         459,00      40.914,91c
+02/01/24 pix pagamento belly                                pix           00 00028  d                         400,00      40.514,91c
+02/01/24 pix pagamento mesa reveillon                       pix           00 00028  d                         400,00      40.114,91c
+02/01/24 pix pagamento despesas praia                       pix           00 00028  d                         145,00      39.969,91c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         607,08      39.362,83c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                          54,53      39.308,30c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         243,01      39.065,29c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                          50,00      39.015,29c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                          35,00      38.980,29c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                          50,00      38.930,29c
+02/01/24 pagamento cartao                                   cartao        00 00028  d                         245,27      38.685,02c
+02/01/24 pix despesa pessoal                                pix           00 00028  d                         200,00      38.485,02c
+02/01/24 pix para pagar cleunice                            pix           00 00028  d                         200,00      38.285,02c
+02/01/24 pix pagamento capa maquina de lavar                pix           00 00028  d                          41,99      38.243,03c
+02/01/24 tarifa lib.credito                                 tarifa        00        d                         280,00      37.963,03c
+02/01/24 pix pagamento grelhados                            pix           00 00028  d                          45,95      37.917,08c
+02/01/24 pix pagamento antecipacao cartao inter belly       pix           00 00028  d                         500,00      37.417,08c
+02/01/24 pix despesas viagem tecnico                        pix           00 00450  d                         350,00      37.067,08c
+02/01/24 pix pagamento cadeiras                             pix           00 00028  d                          50,00      37.017,08c
+02/01/24 pix frete cliente nf 18151                         pix           00 00466  d                          40,00      36.977,08c
+02/01/24 pix pagamento despesa pessoal                      pix           00 00028  d                          50,00      36.927,08c
+02/01/24 ref.cp.doc.cc no.ferias 2023 antonia josiane feito            13 00 00449  d                       3.561,22      33.365,86c
+02/01/24 pix pagamento plantas                              pix           00 00028  d                         120,00      33.245,86c
+02/01/24 ref.cp.doc.cc no.invest.dez23 paulo henrique gomes            01 00 00712  d                      10.097,42      23.148,44c
+02/01/24 tarifa com r liquidacao                            tarifa        00 00844  d                          35,70      23.112,74c
+total de lancamentos : 40                                                                    1.727,26      19.750,72      23.112,74c
+------------------------------------------------------------------------------------------------------------------------------------
+data do movimento : 03/01/24                                                                                              23.112,74c
+03/01/24 ref.cr.doc.px no.90orc 9169 melissa costa sardinha 26436      10 00 00013  c           80,00                     23.192,74c
+03/01/24 ref.cr.doc.px no.140017583/b juliana formighieri t 26437      05 00 00004  c          576,55                     23.769,29c
+03/01/24 ref.cr.doc.bl no.140017491/c med imagem ltda       26444      05 00 00004  c        4.230,05                     27.999,34c
+03/01/24 ref.cr.doc.bl no.140017695/b dicorel distrib.de me 26445      05 00 00004  c        1.130,12                     29.129,46c
+03/01/24 ref.cr.doc.bl no.140017696/b clin.proanalises      26446      05 00 00004  c          754,17                     29.883,63c
+03/01/24 ref.cr.doc.bl no.140017750/b centro citologico de  26447      05 00 00004  c          659,74                     30.543,37c
+03/01/24 ref.cr.doc.bl no.140017798/b saraiva & queiroz ltd 26448      05 00 00004  c          756,26                     31.299,63c
+03/01/24 ref.cr.doc.bl no.140017802/b r7 distribuidora de m 26449      05 00 00004  c          635,13                     31.934,76c
+khrys tec epp
+                                                                                                         loja   : 00-khrys tec
+icompany rt - sistema de gestao comercial - versao 23.12                                                 emissao: 27/08/2024   13:12
+relatorio de movimento bancario no periodo de 01/01/24 a 31/01/24
+                                                                                                         folha  : 0002
+------------------------------------------------------------------------------------------------------------------------------------
+data     historico dos lancamentos                          n.docto    cc lj c.fin d/c       creditos        debitos           saldo
+------------------------------------------------------------------------------------------------------------------------------------
+03/01/24 ref.cr.doc.bl no.140017815/a j. fonseca ribeiro &  26450      05 00 00004  c          596,33                     32.531,09c
+03/01/24 ref.cr.doc.bl no.140017815/b j. fonseca ribeiro &  26451      05 00 00004  c          514,09                     33.045,18c
+03/01/24 ref.cr.doc.bl no.140017853/a medicar med ltda      26452      05 00 00004  c        2.550,54                     35.595,72c
+03/01/24 ref.cr.doc.bl no.140017915/a prime dist.de medi.e  26453      05 00 00004  c          889,73                     36.485,45c
+03/01/24 ref.cr.doc.bl no.140017942/a avanco dist. de medic 26454      05 00 00004  c          702,87                     37.188,32c
+03/01/24 ref.cr.doc.bl no.140017944/a ybm distribuidora ltd 26455      05 00 00004  c        1.405,39                     38.593,71c
+03/01/24 ref.cr.doc.bl no.140017948/a clin.e lab.sao goncal 26456      04 00 00004  c          582,76                     39.176,47c
+03/01/24 ref.cr.doc.bl no.140017983/a centro citologico de  26457      05 00 00004  c          532,09                     39.708,56c
+03/01/24 ref.cr.doc.bl no.140018050/a centro diagnostico ci 26458      04 00 00004  c           63,05                     39.771,61c
+03/01/24 ref.cr.doc.bl no.140018052/a maria borges santana  26459      04 00 00004  c          233,60                     40.005,21c
+03/01/24 ref.cr.doc.bl no.140018064/a bio magistral farmaci 26460      05 00 00004  c          259,34                     40.264,55c
+03/01/24 ref.cr.doc.bl no.140018072/a j de a b dos santos e 26461      05 00 00004  c          303,14                     40.567,69c
+03/01/24 ref.cr.doc.bl no.140018074/a farmacia equilibrio l 26462      05 00 00004  c          380,62                     40.948,31c
+03/01/24 ref.cr.doc.bl no.140018075/a casa saude matern.cax 26463      04 00 00004  c          241,45                     41.189,76c
+03/01/24 ref.cr.doc.bl no.140018076/a dicorel distrib.de me 26464      05 00 00004  c          398,20                     41.587,96c
+03/01/24 ref.cp.doc.bl no.b09   dez/23 condominio terras al            14 00 00028  d                       1.003,69      40.584,27c
+03/01/24 ref.cp.doc.cc no.pix 03/01/24 big carimbos                    01 00 00450  d                         100,00      40.484,27c
+03/01/24 pix troca de oleo moto cargo vi                    pix           00 00450  d                          30,00      40.454,27c
+03/01/24 pagamento cartao                                   cartao        00 00028  d                         343,47      40.110,80c
+03/01/24 pagamento cartao                                   cartao        00 00028  d                         110,00      40.000,80c
+03/01/24 tarifa com r liquidacao                            tarifa        00 00844  d                           8,50      39.992,30c
+total de lancamentos : 29                                                                   18.475,22       1.595,66      39.992,30c
+------------------------------------------------------------------------------------------------------------------------------------
+data do movimento : 04/01/24                                                                                              39.992,30c
+04/01/24 luis francisoc cavalcante                          5241          00 00721  c          358,14                     40.350,44c
+04/01/24 lais rocha lima                                    5242          00 00721  c           74,39                     40.424,83c
+04/01/24 ref.cr.doc.px no.90orc 9174 cibelle sousa veras ca 26438      10 00 00013  c           80,00                     40.504,83c
+04/01/24 ref.cr.doc.px no.140017794/b l.c.martins filho     26439      05 00 00004  c          282,58                     40.787,41c
+04/01/24 ref.cr.doc.px no.900003911 beatriz da luz sousa li 26440      10 00 00013  c          139,43                     40.926,84c
+04/01/24 ref.cr.doc.px no.dev.viagem emanoel de jesus rocha 26441      10 00 00827  c          272,25                     41.199,09c
+04/01/24 ref.cr.doc.bl no.140017498/c jose airton andrade(l 26465      05 00 00004  c          648,42                     41.847,51c
+04/01/24 ref.cr.doc.bl no.140017965/a laboratorio adala att 26466      05 00 00004  c          564,73                     42.412,24c
+04/01/24 ref.cr.doc.bl no.140018084/a distribuidora de medi 26467      04 00 00004  c          154,20                     42.566,44c
+04/01/24 ref.cr.doc.bl no.140018085/a imperio med.e materia 26468      05 00 00004  c          279,00                     42.845,44c
+04/01/24 ref.cr.doc.bl no.140018088/a pronto baby-atendimen 26469      05 00 00004  c          190,42                     43.035,86c
+04/01/24 pagamento cartao                                   cartao        00 00028  d                       1.695,22      41.340,64c
+04/01/24 pagamento cartao                                   cartao        00 00028  d                          69,19      41.271,45c
+04/01/24 tarifa com r liquidacao                            tarifa        00 00844  d                          13,60      41.257,85c
+total de lancamentos : 14                                                                    3.043,56       1.778,01      41.257,85c
+------------------------------------------------------------------------------------------------------------------------------------
+data do movimento : 05/01/24                                                                                              41.257,85c
+05/01/24 homero batista da rocha                            5245          00 00721  c          103,18                     41.361,03c
+05/01/24 leandro josuel da costa santos                     5244          00 00721  c           10,32                     41.371,35c
+05/01/24 alexsandro rodrigues de carvalho                   18174         00 00721  c           60,65                     41.432,00c
+05/01/24 ref.cr.doc.px no.140018191 l.f.c.s. farias & cia l 26442      05 00 00013  c           41,05                     41.473,05c
+05/01/24 ref.cr.doc.px no.140018207 gilvana maria da silva  26443      05 00 00013  c           30,00                     41.503,05c
+05/01/24 ref.cr.doc.bl no.140017745/b costa & braga servico 26470      05 00 00004  c          706,43                     42.209,48c
+05/01/24 ref.cr.doc.bl no.140017826/b lab.vieira ltda       26471      05 00 00004  c          366,76                     42.576,24c
+05/01/24 ref.cr.doc.bl no.140017974/a biotest-inst.de anal. 26472      05 00 00004  c        1.006,93                     43.583,17c
+05/01/24 ref.cr.doc.bl no.140017981/a lab.de analises clin. 26473      05 00 00004  c          517,87                     44.101,04c
+05/01/24 ref.cr.doc.bl no.140017982/a a r de abreu ltda     26474      05 00 00004  c        2.938,53                     47.039,57c
+05/01/24 ref.cr.doc.bl no.140017991/a assoc.piauiense de co 26475      05 00 00004  c          952,61                     47.992,18c
+05/01/24 ref.cr.doc.bl no.140018098/a verbras indus. e come 26476      05 00 00004  c          383,47                     48.375,65c
+khrys tec epp
+                                                                                                         loja   : 00-khrys tec
+icompany rt - sistema de gestao comercial - versao 23.12                                                 emissao: 27/08/2024   13:12
+relatorio de movimento bancario no periodo de 01/01/24 a 31/01/24
+                                                                                                         folha  : 0003
+------------------------------------------------------------------------------------------------------------------------------------
+data     historico dos lancamentos                          n.docto    cc lj c.fin d/c       creditos        debitos           saldo
+------------------------------------------------------------------------------------------------------------------------------------
+05/01/24 ref.cr.doc.bl no.140018102/a clinvidas             26477      05 00 00004  c          207,28                     48.582,93c
+05/01/24 despesa klab ch:458168                             klab          00 00737  d                         498,61      48.084,32c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 belly hellen gomes a            13 00 00415  d                       1.320,00      46.764,32c
+05/01/24 pix passado p/ belly pagar e-mail klab             klab          00 00737  d                       1.167,08      45.597,24c
+05/01/24 pix pagamento lanche belly                         pix           00 00028  d                          18,00      45.579,24c
+05/01/24 pagamento cartao                                   cartao        00 00028  d                         450,00      45.129,24c
+05/01/24 pix pagamento faxina clarice                       pix           00 00028  d                          80,00      45.049,24c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 abilio alves de vasc            13 00 00415  d                       1.474,76      43.574,48c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 antonia josiane feit            13 00 00415  d                       2.866,35      40.708,13c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 danilo muniz silva              13 00 00415  d                       2.489,46      38.218,67c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 edvaldo francisco fe            13 00 00415  d                       1.754,98      36.463,69c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 ana kallyne brito sa            13 00 00415  d                       1.081,26      35.382,43c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 andre rodrigues gome            13 00 00415  d                       1.445,87      33.936,56c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 cristiano rodrigues             13 00 00415  d                       1.705,15      32.231,41c
+05/01/24 ref.cp.doc.cc no.rescisao weyvison rona lima carne            13 00 00485  d                         964,65      31.266,76c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 sueleny ribeiro da s            13 00 00415  d                       1.776,37      29.490,39c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 leandro vitor moreir            13 00 00415  d                       1.446,75      28.043,64c
+05/01/24 pix pagamento bruna                                pix           00 00028  d                         439,57      27.604,07c
+05/01/24 ref.cp.doc.cc no.salar.jan/24 emanoel de jesus roc            01 00 00415  d                       1.864,37      25.739,70c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 lucineia alves de so            13 00 00415  d                       2.986,35      22.753,35c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 felipe carvalho de s            13 00 00415  d                       1.432,38      21.320,97c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 thalita da silva cha            13 00 00415  d                       1.965,32      19.355,65c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 rafael costa oliveir            13 00 00415  d                       1.316,23      18.039,42c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 jose wilson de sousa            13 00 00415  d                       1.446,75      16.592,67c
+05/01/24 ref.cp.doc.cc no.salar.dez/23 jose anderson de sou            01 00 00415  d                       1.580,84      15.011,83c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 joao dos santos brag            13 00 00044  d                         670,53      14.341,30c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 julia maria pereira             13 00 00444  d                         672,00      13.669,30c
+05/01/24 ref.cp.doc.cc no.sal.  dez/23 guibson da silva per            13 00 00415  d                       1.415,14      12.254,16c
+05/01/24 ref.cp.doc.cc no.salar. dez23 francisco daniel do             13 00 00444  d                         672,00      11.582,16c
+05/01/24 ref.cp.doc.cc no.ticket jan24 francisca kaylanne s            13 00 00419  d                         338,00      11.244,16c
+05/01/24 ref.cp.doc.cc no.vale jan24 francisca kaylanne soa            13 00 00445  d                         248,00      10.996,16c
+05/01/24 pix instalacao cortina clarice                     pix           00 00028  d                         100,00      10.896,16c
+05/01/24 pagamento cartao                                   cartao        00 00028  d                         141,87      10.754,29c
+05/01/24 pix pagamento abastecimento yaris                  pix           00 00028  d                         218,27      10.536,02c
+05/01/24 ref.cp.doc.cc no.inst.cameras emanoel de jesus roc            13 00 00450  d                          50,00      10.486,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 abilio alves de vasc            13 00 00419  d                         286,00      10.200,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 andre rodrigues gome            13 00 00419  d                         286,00       9.914,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 sueleny ribeiro da s            13 00 00419  d                         273,00       9.641,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 leandro vitor moreir            13 00 00419  d                         286,00       9.355,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 thalita da silva cha            13 00 00419  d                         286,00       9.069,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 felipe carvalho de s            13 00 00419  d                         286,00       8.783,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 guibson da silva per            13 00 00419  d                         286,00       8.497,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 jose wilson de sousa            13 00 00419  d                         286,00       8.211,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 weyvison rona lima c            13 00 00419  d                         338,00       7.873,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 rafael costa oliveir            13 00 00419  d                         286,00       7.587,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 ana kallyne brito sa            13 00 00419  d                         247,00       7.340,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 edvaldo francisco fe            13 00 00419  d                         286,00       7.054,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 antonia josiane feit            13 00 00416  d                         143,00       6.911,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 emanoel de jesus roc            13 00 00419  d                         273,00       6.638,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 cristiano rodrigues             13 00 00419  d                         286,00       6.352,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 jose anderson de sou            13 00 00419  d                          50,00       6.302,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 lucineia alves de so            13 00 00419  d                         286,00       6.016,02c
+05/01/24 ref.cp.doc.cc no.ticket jan24 danilo muniz silva              13 00 00419  d                         104,00       5.912,02c
+05/01/24 ref.cp.doc.cc no.vale jan24 weyvison rona lima car            13 00 00445  d                         248,00       5.664,02c
+05/01/24 tarifa com r liquidacao                            tarifa        00 00844  d                          10,20       5.653,82c
+05/01/24 ref.cp.doc.dr no.tvi nf116480 governo do estado do            12 00 00489  d                         526,81       5.127,01c
+khrys tec epp
+                                                                                                         loja   : 00-khrys tec
+icompany rt - sistema de gestao comercial - versao 23.12                                                 emissao: 27/08/2024   13:12
+relatorio de movimento bancario no periodo de 01/01/24 a 31/01/24
+                                                                                                         folha  : 0004
+------------------------------------------------------------------------------------------------------------------------------------
+data     historico dos lancamentos                          n.docto    cc lj c.fin d/c       creditos        debitos           saldo
+------------------------------------------------------------------------------------------------------------------------------------
+total de lancamentos : 68                                                                    7.325,08      43.455,92       5.127,01c
+------------------------------------------------------------------------------------------------------------------------------------
+data do movimento : 08/01/24                                                                                               5.127,01c
+08/01/24 r morais ferreira vieira eireli - me               18184         00 00721  c          250,69                      5.377,70c
+08/01/24 ref.cr.doc.px no.140018192 paulo guimaraes de azev 26495      05 00 00013  c          350,00                      5.727,70c
+08/01/24 ref.cr.doc.px no.140018201 heliciano rego          26496      05 00 00013  c           21,00                      5.748,70c
+08/01/24 ref.cr.doc.px no.140017968/a clinica dr vilmar fil 26497      05 00 00004  c          780,40                      6.529,10c
+08/01/24 ref.cr.doc.px no.140018193 edigar augusto de sousa 26498      05 00 00013  c           27,00                      6.556,10c
+08/01/24 ref.cr.doc.px no.estorno clie wanderson patryck pi 26499      02 00 00013  c          376,61                      6.932,71c
+08/01/24 ref.cr.doc.px no.140018197 hospital sao pedro ltda 26500      05 00 00013  c          377,00                      7.309,71c
+08/01/24 ref.cr.doc.px no.140018204 irisvaldo lima guedes   26501      05 00 00013  c          110,31                      7.420,02c
+08/01/24 ref.cr.doc.px no.140018194 luciano bandeira peres  26502      05 00 00013  c           30,00                      7.450,02c
+08/01/24 ref.cr.doc.px no.140018196 servico em materiais in 26503      05 00 00013  c           77,18                      7.527,20c
+08/01/24 ref.cr.doc.px no.140018195 daniel de sousa silva   26504      05 00 00013  c           20,00                      7.547,20c
+08/01/24 ref.cr.doc.ac no.20 clinica de saude chaves ltda   26511      01 00 00004  c          872,76                      8.419,96c
+08/01/24 ref.cr.doc.bl no.140017995/a clinison diagnosticos 26512      05 00 00004  c          934,51                      9.354,47c
+08/01/24 ref.cr.doc.bl no.140017998/a saraiva & queiroz ltd 26513      05 00 00004  c        1.000,79                     10.355,26c
+08/01/24 ref.cr.doc.bl no.140017999/a grande moinho cearens 26514      05 00 00004  c          465,00                     10.820,26c
+08/01/24 ref.cr.doc.bl no.140018003/a angela maria de barro 26515      05 00 00004  c          480,27                     11.300,53c
+08/01/24 ref.cr.doc.bl no.140018108/a dex lab centro inte.d 26516      05 00 00004  c          293,00                     11.593,53c
+08/01/24 tarifa baixa de titulos                            tarifa        00 00847  d                           2,00      11.591,53c
+08/01/24 ref.cp.doc.cc no.ferias 2023 jose anderson de sous            13 00 00449  d                       2.777,84       8.813,69c
+08/01/24 pix pagamento almoco rei do frango                 pix           00 00028  d                         109,00       8.704,69c
+08/01/24 pix pagamento pintura vazamento clarice            pix           00 00028  d                         150,00       8.554,69c
+08/01/24 ref.cp.doc.cc no.pix 08/01/24 raimundo alves lopes            14 00 00028  d                       1.000,00       7.554,69c
+08/01/24 pix estorno cliente                                estorno       00 00450  f                         376,61       7.178,08c
+08/01/24 pix pagamento almoco                               pix           00 00028  d                         113,90       7.064,18c
+08/01/24 ref.cp.doc.cc no.2973 anadona comercio e confeccoe            02 00 00421  d                       1.459,00       5.605,18c
+08/01/24 ref.cp.doc.cc no.pix 08/01/23 joquebed goncalves d            01 00 00450  d                         350,00       5.255,18c
+08/01/24 despesa klab ch:458223                             klab          00 00737  d                         308,15       4.947,03c
+08/01/24 pix referente entrada nf 3912                      entrada    10 00 00013  c        4.550,00                      9.497,03c
+08/01/24 pix frete cliente nf 18189                         pix           00 00466  d                          40,00       9.457,03c
+08/01/24 pagamento cartao                                   cartao        00 00028  d                           7,00       9.450,03c
+08/01/24 tarifa com r liquidacao                            tarifa        00 00844  d                          23,80       9.426,23c
+08/01/24 ref.cp.doc.dr no.tvi 2 nfs governo do estado do pi            12 00 00489  d                         885,64       8.540,59c
+08/01/24 ref.cp.doc.dr no.tvi nf 14389 governo do estado do            12 00 00489  d                         702,69       7.837,90c
+total de lancamentos : 33                                                                   11.016,52       7.929,02       7.837,90c
+------------------------------------------------------------------------------------------------------------------------------------
+data do movimento : 09/01/24                                                                                               7.837,90c
+09/01/24 luana da costa pinho                               17469         00 00721  c          217,58                      8.055,48c
+09/01/24 ref.cr.doc.px no.140018208 d v araujo rios ltda    26505      05 00 00013  c        1.479,24                      9.534,72c
+09/01/24 ref.cr.doc.px no.140018209 new-lab labor.analises  26506      05 00 00013  c          124,00                      9.658,72c
+09/01/24 ref.cr.doc.px no.140018216 ambev-sa                26507      05 00 00013  c          120,00                      9.778,72c
+09/01/24 ref.cr.doc.px no.140018213 lab.biodiagnostico      26508      05 00 00013  c           32,50                      9.811,22c
+09/01/24 ref.cr.doc.px no.140018218 jose ferreira da silva  26509      04 00 00013  c           60,00                      9.871,22c
+09/01/24 ref.cr.doc.px no.140018221 amazonia hospitalar ltd 26510      05 00 00013  c          480,00                     10.351,22c
+09/01/24 ref.cr.doc.bl no.140017522/c bioanalises ltda      26526      05 00 00004  c        4.083,34                     14.434,56c
+09/01/24 ref.cr.doc.bl no.140017525/c dicorel distrib.de me 26527      05 00 00004  c        1.464,75                     15.899,31c
+09/01/24 ref.cr.doc.bl no.140017536/c lima e raposo ltda    26528      05 00 00004  c          888,00                     16.787,31c
+09/01/24 ref.cr.doc.bl no.140017752/b centro terapeutico la 26529      05 00 00004  c          743,86                     17.531,17c
+09/01/24 ref.cr.doc.bl no.140017753/b saraiva & queiroz ltd 26530      05 00 00004  c        1.129,93                     18.661,10c
+09/01/24 ref.cr.doc.bl no.140017757/b lab.de analises clin. 26531      05 00 00004  c          576,28                     19.237,38c
+09/01/24 ref.cr.doc.bl no.140017760/c prime dist.de medi.e  26532      05 00 00004  c          993,89                     20.231,27c
+09/01/24 ref.cr.doc.bl no.140017762/c r7 distribuidora de m 26533      05 00 00004  c          761,67                     20.992,94c
+khrys tec epp
+                                                                                                         loja   : 00-khrys tec
+icompany rt - sistema de gestao comercial - versao 23.12                                                 emissao: 27/08/2024   13:12
+relatorio de movimento bancario no periodo de 01/01/24 a 31/01/24
+                                                                                                         folha  : 0005
+------------------------------------------------------------------------------------------------------------------------------------
+data     historico dos lancamentos                          n.docto    cc lj c.fin d/c       creditos        debitos           saldo
+------------------------------------------------------------------------------------------------------------------------------------
+09/01/24 ref.cr.doc.bl no.140018006/a dex lab centro inte.d 26534      05 00 00004  c          312,00                     21.304,94c
+09/01/24 ref.cr.doc.bl no.140018012/a med.hosp.prod.medicos 26535      05 00 00004  c          711,29                     22.016,23c
+09/01/24 ref.cr.doc.bl no.140018020/a saude agora ltda      26536      05 00 00004  c          276,51                     22.292,74c
+09/01/24 ref.cr.doc.bl no.140018059/a joe alves de alcantar 26537      05 00 00004  c          638,86                     22.931,60c
+09/01/24 ref.cr.doc.bl no.140018077/a thalita da silva chav 26538      04 00 00004  c          134,44                     23.066,04c
+09/01/24 ref.cr.doc.bl no.140018149/a weyvison rona lima ca 26539      04 00 00004  c           35,00                     23.101,04c
+09/01/24 pagamento cartao                                   cartao        00 00028  d                         279,00      22.822,04c
+09/01/24 pagamento cartao                                   cartao        00 00028  d                         716,37      22.105,67c
+09/01/24 ref.cp.doc.bl no.renovacao pf fundo nacional antid            01 00 00701  d                       1.013,38      21.092,29c
+09/01/24 despesa klab ch:456655                             klab          00 00737  d                         486,89      20.605,40c
+09/01/24 ref.cp.doc.bl no.386765 rodocargas nordeste  ltda             02 00 00420  d                         200,00      20.405,40c
+09/01/24 ref.cp.doc.bl no.hilux  07/48 banco toyota do bras            14 00 00028  d                       5.913,30      14.492,10c
+09/01/24 despesa pessoal lancada na klab ch:457351          klab          00 00028  d                       1.186,18      13.305,92c
+09/01/24 ref.cp.doc.bl no.471609 gramado transportes de car            02 00 00466  d                         295,94      13.009,98c
+09/01/24 ref.cp.doc.bl no.2311092718 braspress brasil trans            02 00 00420  d                         124,55      12.885,43c
+09/01/24 despesa klab ch:458190                             klab          00 00737  d                         310,03      12.575,40c
+09/01/24 pagamento cartao                                   cartao        00 00028  d                         150,00      12.425,40c
+09/01/24 ref.cp.doc.cc no.915 a & l estruturas metalicas lt            01 00 00450  d                         214,00      12.211,40c
+09/01/24 ref.cp.doc.bl no.104 dez.23 condominio clarice lis            14 00 00028  d                         748,00      11.463,40c
+09/01/24 ref.cp.doc.bl no.2-13g4/002 condominio clarice lis            14 00 00028  d                         125,50      11.337,90c
+09/01/24 pagamento cartao                                   cartao        00 00028  d                         814,16      10.523,74c
+09/01/24 tarifa com r liquidacao                            tarifa        00 00844  d                           5,10      10.518,64c
+09/01/24 ref.cp.doc.cc no.273254 ibramed industria brasilei            02 00 00421  d                         248,74      10.269,90c
+09/01/24 ref.cp.doc.dr no.tvi nf103209 governo do estado do            12 00 00489  d                          92,56      10.177,34c
+total de lancamentos : 39                                                                   15.263,14      12.923,70      10.177,34c
+------------------------------------------------------------------------------------------------------------------------------------
+data do movimento : 10/01/24                                                                                              10.177,34c
+10/01/24 lauro barbosa lima maciel                          18219         00 00721  c          120,95                     10.298,29c
+10/01/24 lauro barbosa lima maciel                          18220         00 00721  c           62,12                     10.360,41c
+10/01/24 ref.cr.doc.px no.140018227 carlos e. m. s. rebelo  26540      04 00 00013  c          405,56                     10.765,97c
+10/01/24 ref.cr.doc.px no.140018241 total distribuidora de  26541      04 00 00013  c          201,00                     10.966,97c
+10/01/24 ref.cr.doc.bl no.140018019/a bioexame ltda - me    26542      05 00 00004  c          469,04                     11.436,01c
+10/01/24 ref.cr.doc.bl no.140018029/a e.soares de sousa ser 26543      04 00 00004  c          223,54                     11.659,55c
+10/01/24 ref.cr.doc.bl no.140018109/a lourivan leal de sous 26544      05 00 00004  c          387,00                     12.046,55c
+10/01/24 pix pagamento bruna                                pix           00 00028  d                         400,00      11.646,55c
+10/01/24 pagamento cartao                                   cartao        00 00028  d                           6,00      11.640,55c
+10/01/24 pagamento cartao                                   cartao        00 00028  d                         167,93      11.472,62c
+10/01/24 pagamento cartao                                   cartao        00 00028  d                          43,66      11.428,96c
+10/01/24 pix pagamento almoco belly                         pix           00 00028  d                          28,00      11.400,96c
+10/01/24 ref.cp.doc.dr no.fgts  out/23 fgts-min.trab.e empr            12 00 00428  d                       3.733,50       7.667,46c
+10/01/24 ref.cp.doc.dr no.fgts  dez/23 fgts-min.trab.e empr            12 00 00428  d                       4.634,09       3.033,37c
+10/01/24 ref.cp.doc.cc no.4798492 braspress brasil transpor            02 00 00420  d                         297,06       2.736,31c
+10/01/24 ref.cp.doc.bl no.email jan/24 webplusbrasil                   01 00 00781  d                         108,50       2.627,81c
+10/01/24 pix frete cliente nf 18235                         pix           00 00466  d                          70,00       2.557,81c
+10/01/24 ref.cp.doc.bl no.cappta 12/23 linx sistemas e cons            01 00 00487  d                         180,14       2.377,67c
+10/01/24 pagamento cartao                                   cartao        00 00028  d                         675,00       1.702,67c
+10/01/24 pagamento cartao                                   cartao        00 00028  d                          29,20       1.673,47c
+10/01/24 pagamento cartao                                   cartao        00 00028  d                          75,70       1.597,77c
+10/01/24 tarifa com r liquidacao                            tarifa        00 00844  d                           3,40       1.594,37c
+total de lancamentos : 22                                                                    1.869,21      10.452,18       1.594,37c
+------------------------------------------------------------------------------------------------------------------------------------
+data do movimento : 11/01/24                                                                                               1.594,37c
+11/01/24 construtora jurema ltda                            18205         00 00721  c          190,08                      1.784,45c

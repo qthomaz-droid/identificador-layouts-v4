@@ -1,0 +1,1313 @@
+informe a(s) empresa(s) = ( 1 )
+ data de pagamento inicial = '01-01-2024'
+ data de pagamento final = '31-01-2024'
+ informe a conta contábil = 
+ 
+1 rhota da carne
+868-contas a pagar liquidadas por local de pagamento
+financeiro
+v. ciss 10
+01/02/2024 10:15:38
+desc
+vencim.
+fornecedor
+código
+titulo
+emp
+juros
+valor
+pago
+valor
+titulo
+1110201
+c/c banco bradesco
+-
+conta contábil:
+data de pagamento:
+02/01/2024
+01
+100349 h.m coelho industria e comercio de cafe
+1
+22480
+0/12/2023
+,00
+,00
+1.616,80
+1.616,80
+total dia p/conta
+,00
+,00
+1.616,80
+1.616,80
+data de pagamento:
+03/01/2024
+02
+10056 comercial de alhos e condimentos matto
+1
+88999
+4/01/2024
+,00
+,00
+316,67
+316,67
+01
+100024 r de paula rodrigues distribuidora
+1
+130349
+3/01/2024
+,00
+,00
+182,96
+182,96
+03
+100027 tres coraçoes alimentos s.a
+1
+529995
+3/01/2024
+,00
+,00
+1.620,11
+1.620,11
+01
+100034 2  j citrus comercio atacadista de suco e
+1
+15262
+3/01/2024
+,00
+,00
+795,00
+795,00
+01
+100035 atacadao s.a.
+1
+793909
+4/01/2024
+,00
+,00
+2.796,80
+2.796,80
+01
+100035 atacadao s.a.
+1
+793761
+3/01/2024
+,00
+,00
+1.612,65
+1.612,65
+01
+100035 atacadao s.a.
+1
+793838
+4/01/2024
+,00
+,00
+1.035,90
+1.035,90
+01
+100062 w.w. soares
+1
+162331
+4/01/2024
+,00
+,00
+1.190,48
+1.190,48
+01
+100080 panetins industria e comercio de alimen
+1
+97045
+3/01/2024
+,00
+,00
+220,50
+220,50
+01
+100101 distribuidora floriano eireli-me
+1
+7092
+3/01/2024
+,00
+,00
+475,00
+475,00
+01
+100159 ind e com de carnes e deriv boi brasil lt
+1
+342228
+2/01/2024
+,00
+,00
+10.028,20
+10.028,20
+01
+100159 ind e com de carnes e deriv boi brasil lt
+1
+342464
+3/01/2024
+,00
+,00
+11.757,60
+11.757,60
+01
+100159 ind e com de carnes e deriv boi brasil lt
+1
+342354
+2/01/2024
+,00
+,00
+2.933,34
+2.933,34
+01
+100161 atacadao s.a.
+1 1550987
+3/01/2024
+,00
+,00
+4.482,00
+4.482,00
+01
+100161 atacadao s.a.
+1 1557045
+3/01/2024
+,00
+,00
+7.470,00
+7.470,00
+02
+100175 rosa de ouro distribuicao e logistica ei
+1
+82126
+3/01/2024
+,00
+,00
+1.205,54
+1.205,54
+03
+100182 dom jason atacadista de prod. alim. e beb
+1
+262919
+4/01/2024
+,00
+,00
+479,57
+479,57
+03
+100262 gsa - gama sucos e alimentos ltda - to
+1
+134856
+3/01/2024
+,00
+,00
+142,82
+142,82
+03
+100506 ducal alimentos ltda
+1
+10485
+4/01/2024
+,00
+,00
+512,15
+512,15
+02
+100506 ducal alimentos ltda
+1
+10717
+3/01/2024
+,00
+,00
+536,99
+536,99
+02
+100514 mix alimentos ltda
+1
+304706
+4/01/2024
+,00
+,00
+404,40
+404,40
+03
+100514 mix alimentos ltda
+1
+300910
+4/01/2024
+,00
+,00
+1.205,11
+1.205,11
+01
+100533 comercio de sorvetes palmas ltda
+1
+273
+4/01/2024
+,00
+,00
+852,00
+852,00
+total dia p/conta
+,00
+,00
+52.255,79
+52.255,79
+data de pagamento:
+05/01/2024
+01
+17 izadora beltrao lopes monteiro barros
+1
+69399
+5/01/2024
+,00
+,00
+778,63
+778,63
+total dia p/conta
+,00
+,00
+778,63
+778,63
+data de pagamento:
+08/01/2024
+01
+100025 costa e maciel ltda - epp
+1
+70187
+8/01/2024
+,00
+,00
+534,76
+534,76
+03
+100033 cardoso transporte e distribuicao ltda
+1
+839009
+8/01/2024
+,00
+,00
+285,82
+285,82
+03
+100043 provarejo distribuidora ltda
+1
+488093
+8/01/2024
+,00
+,00
+363,87
+363,87
+03
+100056 destaque do norte log. e dist. ltda
+1
+398412
+8/01/2024
+,00
+,00
+956,96
+956,96
+01
+100057 nestle brasil ltda
+1
+488166
+8/01/2024
+,00
+,00
+904,70
+904,70
+01
+100161 atacadao s.a.
+1 1555494
+8/01/2024
+,00
+,00
+558,00
+558,00
+01
+100161 atacadao s.a.
+1 1538632
+8/01/2024
+,00
+,00
+538,80
+538,80
+01
+100161 atacadao s.a.
+1 1557049
+8/01/2024
+,00
+,00
+2.401,26
+2.401,26
+01
+100248 homrich distribuidora ltda-me
+1
+8861
+8/01/2024
+,00
+,00
+140,00
+140,00
+01
+100248 homrich distribuidora ltda-me
+1
+8865
+8/01/2024
+,00
+,00
+280,00
+280,00
+01
+100249 veranni comercio de sorvetes eireli
+1
+5784
+8/01/2024
+,00
+,00
+505,18
+505,18
+01
+100267 distr.aguia de ouro ltda
+1
+107213
+8/01/2024
+,00
+,00
+353,23
+353,23
+01
+100267 distr.aguia de ouro ltda
+1
+107212
+8/01/2024
+,00
+,00
+413,95
+413,95
+02
+100279 gilmar martinazzo
+1
+298743
+8/01/2024
+,00
+,00
+921,39
+921,39
+02
+100316 marcelo de jesus oliveira dos santos 63
+1 5888995
+8/01/2024
+,00
+,00
+2.129,94
+2.129,94
+03
+100340 armazem mateus s.a. - cd87
+1
+2372
+8/01/2024
+,00
+,00
+418,01
+418,01
+01
+100395 sta - distribuidora de alimentos ltda
+1
+26196
+8/01/2024
+,00
+,00
+737,63
+737,63
+03
+100395 sta - distribuidora de alimentos ltda
+1
+25625
+8/01/2024
+,00
+,00
+460,12
+460,12
+02
+100395 sta - distribuidora de alimentos ltda
+1
+25872
+8/01/2024
+,00
+,00
+717,46
+717,46
+o software cisspoder está licenciado para comercial de alimentos rhota da carne ltda me                - cnpj: 32.225.993/0001-96
+página 1 de 14
+informe a(s) empresa(s) = ( 1 )
+ data de pagamento inicial = '01-01-2024'
+ data de pagamento final = '31-01-2024'
+ informe a conta contábil = 
+ 
+1 rhota da carne
+868-contas a pagar liquidadas por local de pagamento
+financeiro
+v. ciss 10
+01/02/2024 10:15:38
+desc
+vencim.
+fornecedor
+código
+titulo
+emp
+juros
+valor
+pago
+valor
+titulo
+1110201
+c/c banco bradesco
+-
+conta contábil:
+data de pagamento:
+08/01/2024
+01
+1000001 ciss consultoria em informatica, servic
+1
+506023
+8/01/2024
+,00
+,00
+700,55
+700,55
+total dia p/conta
+,00
+,00
+14.321,63
+14.321,63
+data de pagamento:
+09/01/2024
+01
+100023 temar distribuidora de bebidas ltda.
+1
+90124
+9/01/2024
+,00
+,00
+4.379,09
+4.379,09
+01
+1000076 secretaria de estado da fazenda de toca
+1
+67682
+9/01/2024
+,00
+,00
+25.004,48
+25.004,48
+total dia p/conta
+,00
+,00
+29.383,57
+29.383,57
+data de pagamento:
+10/01/2024
+01
+122 joao vitor t.i
+1
+10
+0/01/2024
+,00
+,00
+500,00
+500,00
+01
+100005 palmas atacado de embalagens
+1
+114874
+0/01/2024
+,00
+,00
+138,00
+138,00
+01
+100007 ferpam com. de ferramentas parafusos 
+1
+881829
+0/01/2024
+,00
+,00
+242,38
+242,38
+01
+100009 fenix distribuidora de bebidas ltda
+1 1728138
+0/01/2024
+,00
+,00
+8.077,51
+8.077,51
+01
+100035 atacadao s.a.
+1
+794723
+0/01/2024
+,00
+,00
+1.083,01
+1.083,01
+01
+100035 atacadao s.a.
+1
+792966
+0/01/2024
+,00
+,00
+39,13
+39,13
+01
+100035 atacadao s.a.
+1
+792960
+0/01/2024
+,00
+,00
+4.866,42
+4.866,42
+01
+100035 atacadao s.a.
+1
+792962
+0/01/2024
+,00
+,00
+199,00
+199,00
+01
+100046 assai  atacadista
+1
+138444
+0/01/2024
+,00
+,00
+976,86
+976,86
+01
+100046 assai  atacadista
+1
+138865
+0/01/2024
+,00
+,00
+1.346,20
+1.346,20
+01
+100080 panetins industria e comercio de alimen
+1
+97214
+0/01/2024
+,00
+,00
+202,56
+202,56
+02
+100101 distribuidora floriano eireli-me
+1
+7092
+0/01/2024
+,00
+,00
+475,00
+475,00
+01
+100159 ind e com de carnes e deriv boi brasil lt
+1
+343051
+0/01/2024
+,00
+,00
+11.115,50
+11.115,50
+01
+100161 atacadao s.a.
+1 1557046
+0/01/2024
+,00
+,00
+5.584,00
+5.584,00
+03
+100175 rosa de ouro distribuicao e logistica ei
+1
+82126
+0/01/2024
+,00
+,00
+1.205,54
+1.205,54
+01
+100231 comercio de gelo brandao eireli
+1
+9737
+0/01/2024
+,00
+,00
+1.660,00
+1.660,00
+01
+100297 c r industria com. e dist. ltda
+1
+25153
+0/01/2024
+,00
+,00
+541,05
+541,05
+01
+100376 br comercio de eletro e eletronicos eir
+1
+48073
+0/01/2024
+,00
+,00
+205,80
+205,80
+01
+100392 precito atacado importacao e exportac
+1
+2449
+0/01/2024
+,00
+,00
+227,40
+227,40
+01
+100392 precito atacado importacao e exportac
+1
+2494
+0/01/2024
+,00
+,00
+244,08
+244,08
+01
+100392 precito atacado importacao e exportac
+1
+2439
+0/01/2024
+,00
+,00
+1.618,20
+1.618,20
+01
+100434 irmaos meurer ltda
+1
+396700
+0/01/2024
+,00
+,00
+144,90
+144,90
+01
+100436 m p tolentino alimentos  eireli
+1
+7838
+0/01/2024
+,00
+,00
+730,13
+730,13
+03
+100506 ducal alimentos ltda
+1
+10717
+0/01/2024
+,00
+,00
+536,98
+536,98
+01
+100566 frigorifico jatoba ltda
+1
+62213
+0/01/2024
+,00
+,00
+6.701,51
+6.701,51
+01
+100576 provoz gravacoes de som ltda
+1
+1631
+0/01/2024
+,00
+,00
+250,00
+250,00
+01
+1000017 receita federal do brasil
+1
+52201
+0/01/2024
+,00
+,00
+2.948,45
+2.948,45
+total dia p/conta
+,00
+,00
+51.859,61
+51.859,61
+data de pagamento:
+11/01/2024
+01
+10034 caixa cartoes pre pagos sa
+1 8604456
+1/01/2024
+,00
+,00
+53,22
+53,22
+01
+10034 caixa cartoes pre pagos sa
+1 8604045
+1/01/2024
+,00
+,00
+73,25
+73,25
+01
+10034 caixa cartoes pre pagos sa
+1 8604133
+1/01/2024
+,00
+,00
+87,59
+87,59
+01
+10047 casa elegance moveis e decor ltda
+1
+53
+1/01/2024
+,00
+,00
+585,00
+585,00
+03
+10056 comercial de alhos e condimentos matto
+1
+88999
+1/01/2024
+,00
+,00
+316,67
+316,67
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+758976
+1/01/2024
+,00
+,00
+1.377,41
+1.377,41
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+758971
+1/01/2024
+,00
+,00
+15,12
+15,12
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+758974
+1/01/2024
+,00
+,00
+1.155,26
+1.155,26
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+758973
+1/01/2024
+,00
+,00
+1.266,48
+1.266,48
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+758975
+1/01/2024
+,00
+,00
+1.162,48
+1.162,48
+01
+100040 jerry martins pereira
+1 5947158
+1/01/2024
+,00
+,00
+525,00
+525,00
+01
+100163 bqz industria e comercio de bebidas ltda
+1
+17620
+1/01/2024
+,00
+,00
+684,00
+684,00
+01
+100231 comercio de gelo brandao eireli
+1
+9793
+1/01/2024
+,00
+,00
+596,00
+596,00
+01
+100468 serrana comercial de refrigerados ltd
+1
+2301
+1/01/2024
+,00
+,00
+1.182,08
+1.182,08
+01
+100506 ducal alimentos ltda
+1
+11164
+1/01/2024
+,00
+,00
+453,61
+453,61
+o software cisspoder está licenciado para comercial de alimentos rhota da carne ltda me                - cnpj: 32.225.993/0001-96
+página 2 de 14
+informe a(s) empresa(s) = ( 1 )
+ data de pagamento inicial = '01-01-2024'
+ data de pagamento final = '31-01-2024'
+ informe a conta contábil = 
+ 
+1 rhota da carne
+868-contas a pagar liquidadas por local de pagamento
+financeiro
+v. ciss 10
+01/02/2024 10:15:38
+desc
+vencim.
+fornecedor
+código
+titulo
+emp
+juros
+valor
+pago
+valor
+titulo
+1110201
+c/c banco bradesco
+-
+conta contábil:
+data de pagamento:
+11/01/2024
+03
+100514 mix alimentos ltda
+1
+304706
+1/01/2024
+,00
+,00
+404,40
+404,40
+01
+100515 santa izabel alimentos ltda
+1
+13113
+1/01/2024
+,00
+,00
+1.406,08
+1.406,08
+01
+1000050 vr beneficios e servicos de processame
+159572984
+1/01/2024
+,00
+,00
+6,88
+6,88
+01
+1000050 vr beneficios e servicos de processame
+159572970
+1/01/2024
+,00
+,00
+38,75
+38,75
+01
+1000050 vr beneficios e servicos de processame
+159573526
+1/01/2024
+,00
+,00
+27,95
+27,95
+total dia p/conta
+,00
+,00
+11.417,23
+11.417,23
+data de pagamento:
+12/01/2024
+01
+100030 spa industria e comercio de alimentos lt
+1
+402981
+2/01/2024
+,00
+,00
+2.443,72
+2.443,72
+02
+100068 alvo-to distribuidora produtos aliment
+1
+197450
+2/01/2024
+,00
+,00
+761,88
+761,88
+01
+100147 sao salvador alimentos s/a
+1
+146660
+2/01/2024
+,00
+,00
+3.893,00
+3.893,00
+02
+100211 martins com serv distr sa
+1
+170011
+2/01/2024
+,00
+,00
+290,54
+290,54
+total dia p/conta
+,00
+,00
+7.389,14
+7.389,14
+data de pagamento:
+16/01/2024
+01
+100002 frigorifico providencia ltda me
+1
+107753
+6/01/2024
+,00
+,00
+4.351,20
+4.351,20
+01
+100011 energisa tocantins - distribuidora de en
+1 4825286
+6/01/2024
+,00
+,00
+680,69
+680,69
+01
+100030 spa industria e comercio de alimentos lt
+1
+403338
+6/01/2024
+,00
+,00
+2.192,38
+2.192,38
+01
+100033 cardoso transporte e distribuicao ltda
+1
+845529
+6/01/2024
+,00
+,00
+225,13
+225,13
+01
+100062 w.w. soares
+1
+163405
+6/01/2024
+,00
+,00
+708,90
+708,90
+02
+100071 lebam-comercio de prod. alim. ltda
+1
+441032
+6/01/2024
+,00
+,00
+560,73
+560,73
+01
+100157 plena alimentos s/a
+1
+100614
+6/01/2024
+,00
+,00
+3.851,27
+3.851,27
+03
+100177 real distribuidora e logistica ltda
+1 5353082
+6/01/2024
+,00
+,00
+126,96
+126,96
+01
+100436 m p tolentino alimentos  eireli
+1
+7942
+6/01/2024
+,00
+,00
+438,07
+438,07
+01
+1000050 vr beneficios e servicos de processame
+159621850
+6/01/2024
+,00
+,00
+19,59
+19,59
+total dia p/conta
+,00
+,00
+13.154,92
+13.154,92
+data de pagamento:
+17/01/2024
+01
+100037 vilela e vilela ltda
+1
+105011
+7/01/2024
+,00
+,00
+477,00
+477,00
+01
+100057 nestle brasil ltda
+1
+491288
+7/01/2024
+,00
+,00
+931,99
+931,99
+01
+100080 panetins industria e comercio de alimen
+1
+97552
+7/01/2024
+,00
+,00
+385,91
+385,91
+01
+100161 atacadao s.a.
+1 1557047
+7/01/2024
+,00
+,00
+2.367,45
+2.367,45
+02
+100436 m p tolentino alimentos  eireli
+1
+7838
+7/01/2024
+,00
+,00
+730,12
+730,12
+total dia p/conta
+,00
+,00
+4.892,47
+4.892,47
+data de pagamento:
+18/01/2024
+01
+10059 distribuidora de veiculos palmas ltda
+1
+149082
+0/01/2024
+,00
+,00
+1.115,36
+1.115,36
+01
+10059 distribuidora de veiculos palmas ltda
+1
+6355
+0/01/2024
+,00
+,00
+339,64
+339,64
+01
+100012 distribuidora de verduras damaso - eire
+1
+32328
+8/01/2024
+,00
+,00
+2.147,00
+2.147,00
+01
+100025 costa e maciel ltda - epp
+1
+70839
+8/01/2024
+,00
+,00
+436,26
+436,26
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+765006
+8/01/2024
+,00
+,00
+161,28
+161,28
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+765005
+8/01/2024
+,00
+,00
+253,45
+253,45
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+765002
+8/01/2024
+,00
+,00
+1.488,00
+1.488,00
+01
+100028 refrescos bandeirantes ind. e com. ltda
+1
+765003
+8/01/2024
+,00
+,00
+506,90
+506,90
+01
+100034 2  j citrus comercio atacadista de suco e
+1
+15524
+8/01/2024
+,00
+,00
+339,00
+339,00
+01
+100248 homrich distribuidora ltda-me
+1
+8928
+8/01/2024
+,00
+,00
+840,00
+840,00
+02
+100506 ducal alimentos ltda
+1
+11164
+8/01/2024
+,00
+,00
+453,61
+453,61
+01
+100514 mix alimentos ltda
+1
+313322
+8/01/2024
+,00
+,00
+347,31
+347,31
+total dia p/conta
+,00
+,00
+8.427,81
+8.427,81
+data de pagamento:
+19/01/2024
+01
+100025 costa e maciel ltda - epp
+1
+70929
+9/01/2024
+,00
+,00
+251,01
+251,01
+01
+100030 spa industria e comercio de alimentos lt
+1
+403934
+9/01/2024
+,00
+,00
+2.633,94
+2.633,94
+01
+100040 jerry martins pereira
+1 5957329
+9/01/2024
+,00
+,00
+350,00
+350,00
+01
+100147 sao salvador alimentos s/a
+1
+147438
+9/01/2024
+,00
+,00
+645,30
+645,30
+03
+100178 banco bradesco financiamentos s.a.
+1 1139786
+9/01/2024
+,00
+,00
+11.397,86
+11.397,86
+o software cisspoder está licenciado para comercial de alimentos rhota da carne ltda me                - cnpj: 32.225.993/0001-96
+página 3 de 14

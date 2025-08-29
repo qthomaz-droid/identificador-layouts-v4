@@ -1,0 +1,427 @@
+borderô de pagto/depósito/saque/transf./adiantamento
+r m b m moveis eireli
+ordem:
+emissão: 14/04/2025 08:27:43
+código
+borderô: 23526
+data acerto: 02/01/2025
+3 - r m b m sicoob 89406-0
+tipo: 2-acerto em conta
+conta:
+usuário: alexsandra
+c o m p l e m e n t o s
+descrição do complemento
+valor
+descrição da conta
+retirada para pagamentos - mp estofados ltda
+7.508,94
+3 r m b m sicoob 89406-0
+t o t a l i z a ç ã o
+duplicatas baixad.:
+juros (0% ao mês):
+0,00
+0,00
+prorrogações......:
+0,00
+cheques devolvidos:
+0,00
+total de débitos:
+outros débitos....:
+0,00
+0,00
+dupl. créditos....:
+complementos......:
+outros créditos...:
+0,00
+7.508,94
+0,00
+cheques próprios..:
+0,00
+cheques terceiros.:
+0,00
+total de créditos:
+7.508,94
+descontos.........:
+0,00
+dupl. de clientes.:
+0,00
+prazo médio créditos:
+0,00
+prazo médio débitos.:
+0,00
+diferença...........:
+0,00
+diferença:
+-7.508,94
+débitos
+créditos
+prazos médios
+destino da diferença: gerar nota de crédito 3-mp estofados ltda
+02 de janeiro de 2025    _______________________________________
+página: 1/104
+controle financeiro
+usuário: alexsandra
+ r m móveis
+borderô de pagto/depósito/saque/transf./adiantamento
+r m b m moveis eireli
+ordem:
+emissão: 14/04/2025 08:27:43
+código
+borderô: 23533
+data acerto: 02/01/2025
+9 - r m b m banco do brasil 85 x
+tipo: 2-acerto em conta
+conta:
+usuário: alexsandra
+emp
+fornecedor
+emissão
+vencto
+d u p l i c a t a s     a     p a g a r
+documento
+dias
+vlr baixado
+vlr nominal
+001
+26/12/24 31/12/24
+14364 1-1
+-2
+1.172,84
+1.172,84
+00248 super posto jequitiba
+001
+04/12/24 30/12/24
+pro nov/2024
+-3
+1.256,68
+1.256,68
+00518 pro-labore
+001
+12/12/24 31/12/24
+646.852 2-3
+-2
+1.292,67
+1.292,67
+01030 amazonas industria e comercio
+001
+25/11/24 31/12/24
+sd22573-01
+-2
+3.500,00
+3.500,00
+00019 mp estofados ltda
+c o m p l e m e n t o s
+descrição do complemento
+valor
+descrição da conta
+retirada para pagamentos
+7.222,19
+9 r m b m banco do brasil 85 x
+t o t a l i z a ç ã o
+duplicatas baixad.:
+juros (0% ao mês):
+7.222,19
+0,00
+prorrogações......:
+0,00
+cheques devolvidos:
+0,00
+total de débitos:
+outros débitos....:
+0,00
+7.222,19
+dupl. créditos....:
+complementos......:
+outros créditos...:
+0,00
+7.222,19
+0,00
+cheques próprios..:
+0,00
+cheques terceiros.:
+0,00
+total de créditos:
+7.222,19
+descontos.........:
+0,00
+dupl. de clientes.:
+0,00
+prazo médio créditos:
+0,00
+prazo médio débitos.:
+-2,00
+diferença...........:
+2,00
+diferença:
+0,00
+débitos
+créditos
+prazos médios
+    duplicatas a pagar: 4
+02 de janeiro de 2025    _______________________________________
+página: 2/104
+controle financeiro
+usuário: alexsandra
+ r m móveis
+borderô de pagto/depósito/saque/transf./adiantamento
+r m b m moveis eireli
+ordem:
+emissão: 14/04/2025 08:27:43
+código
+borderô: 23535
+data acerto: 02/01/2025
+3 - r m b m sicoob 89406-0
+tipo: 2-acerto em conta
+conta:
+usuário: alexsandra
+emp
+fornecedor
+emissão
+vencto
+d u p l i c a t a s     a     p a g a r
+documento
+dias
+vlr baixado
+vlr nominal
+001
+09/10/24 01/01/25
+120070 3-3
+-1
+1.999,85
+1.999,85
+00043 x trade importadora e comercio
+001
+22/10/24 01/01/25
+16.821 2-3
+-1
+3.727,00
+3.727,00
+00844 colchomais industria e comercio
+c o m p l e m e n t o s
+descrição do complemento
+valor
+descrição da conta
+retirada para pagamentos
+5.726,85
+3 r m b m sicoob 89406-0
+t o t a l i z a ç ã o
+duplicatas baixad.:
+juros (0% ao mês):
+5.726,85
+0,00
+prorrogações......:
+0,00
+cheques devolvidos:
+0,00
+total de débitos:
+outros débitos....:
+0,00
+5.726,85
+dupl. créditos....:
+complementos......:
+outros créditos...:
+0,00
+5.726,85
+0,00
+cheques próprios..:
+0,00
+cheques terceiros.:
+0,00
+total de créditos:
+5.726,85
+descontos.........:
+0,00
+dupl. de clientes.:
+0,00
+prazo médio créditos:
+0,00
+prazo médio débitos.:
+-1,00
+diferença...........:
+1,00
+diferença:
+0,00
+débitos
+créditos
+prazos médios
+    duplicatas a pagar: 2
+02 de janeiro de 2025    _______________________________________
+página: 3/104
+controle financeiro
+usuário: alexsandra
+ r m móveis
+borderô de pagto/depósito/saque/transf./adiantamento
+r m b m moveis eireli
+ordem:
+emissão: 14/04/2025 08:27:43
+código
+borderô: 23536
+data acerto: 02/01/2025
+3 - r m b m sicoob 89406-0
+tipo: 2-acerto em conta
+conta:
+usuário: alexsandra
+emp
+fornecedor
+emissão
+vencto
+d u p l i c a t a s     a     p a g a r
+documento
+dias
+vlr baixado
+vlr nominal
+001
+30/12/24 02/01/25
+fat 223378
+0
+296,00
+296,00
+00326 viacao joana darc - s/a
+001
+16/12/24 02/01/25
+66464 1-1
+0
+413,97
+413,97
+00088 iguacu log transportes ltda -
+001
+17/12/24 02/01/25
+125653 1-3
+0
+733,33
+733,33
+01258 neoprene brasil ltda
+001
+21/11/24 02/01/25
+67153 2-5
+0
+881,00
+881,00
+00151 leggett & platt do brasil ltd
+001
+29/11/24 02/01/25
+554309 2-3
+0
+1.316,95
+1.316,95
+00351 formiline industria de
+001
+14/08/24 02/01/25
+313747 4-4
+0
+1.630,35
+1.630,35
+00009 rozac comercio e exportacao de
+001
+17/10/24 02/01/25
+20525 3-4
+0
+1.677,65
+1.677,65
+00005 soldati ind.e com. de moveis
+001
+13/12/24 02/01/25
+127642 1-3
+0
+1.700,00
+1.700,00
+00771 fitaflex industria e comercio
+001
+11/10/24 02/01/25
+21337 3-3
+0
+2.489,67
+2.489,67
+00014 maken industria e com. de
+001
+31/10/24 02/01/25
+20688 2-4
+0
+2.707,61
+2.707,61
+00005 soldati ind.e com. de moveis
+c o m p l e m e n t o s
+descrição do complemento
+valor
+descrição da conta
+retirada para pagamentos
+15.846,53
+3 r m b m sicoob 89406-0
+t o t a l i z a ç ã o
+duplicatas baixad.:
+juros (0% ao mês):
+13.846,53
+0,00
+prorrogações......:
+0,00
+cheques devolvidos:
+0,00
+total de débitos:
+outros débitos....:
+0,00
+13.846,53
+dupl. créditos....:
+complementos......:
+outros créditos...:
+0,00
+15.846,53
+0,00
+cheques próprios..:
+0,00
+cheques terceiros.:
+0,00
+total de créditos:
+15.846,53
+descontos.........:
+0,00
+dupl. de clientes.:
+0,00
+prazo médio créditos:
+0,00
+prazo médio débitos.:
+0,00
+diferença...........:
+0,00
+diferença:
+-2.000,00
+débitos
+créditos
+prazos médios
+    duplicatas a pagar: 10
+destino da diferença: gerar nota de crédito 271-ticket serviços s.a
+02 de janeiro de 2025    _______________________________________
+página: 4/104
+controle financeiro
+usuário: alexsandra
+ r m móveis
+borderô de pagto/depósito/saque/transf./adiantamento
+r m b m moveis eireli
+ordem:
+emissão: 14/04/2025 08:27:43
+código
+borderô: 23540
+data acerto: 02/01/2025
+9 - r m b m banco do brasil 85 x
+tipo: 6-saque ou transferên
+conta:
+usuário: alexsandra
+c o m p l e m e n t o s
+descrição do complemento
+valor
+descrição da conta
+saque ou transferência em dinheiro
+7.222,19
+12 r m b m bb aplicacao rende facil
+t o t a l i z a ç ã o
+complementos:
+7.222,19
+0 cheque(s) próprio(s):
+0,00
+total de créditos:
+7.222,19
+créditos
+02 de janeiro de 2025    _______________________________________
+página: 5/104
+controle financeiro
+usuário: alexsandra
+ r m móveis

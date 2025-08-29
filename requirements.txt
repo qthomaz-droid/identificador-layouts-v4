@@ -10,3 +10,4 @@ scikit-learn
 joblib
 tqdm
 py-trello
+func-timeout

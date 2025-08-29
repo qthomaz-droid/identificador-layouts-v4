@@ -1,0 +1,206 @@
+   todas empresas selecionadas (geral)            resumo gerencial analitico              competencia 31/08/2022          folha 0001/0010
+                                                                                                          ativos / desligados / afastados
+                                                                                                                     emissao : 08/05/2023
+                                                                                                                     hora    :      17:37
+   total da empresa
+   cod   provento        refer       ativos   desligados        total  cod   desconto        refer       ativos   desligados        total
+   00001 salario ba   4.210,00   225.273,92         0,00   225.273,92  00450 inss s/ sa               22.969,38       863,78    23.833,16
+   00004 saldo de s     148,00         0,00     8.071,66     8.071,66  00451 inss s/ fe                3.628,69        38,65     3.667,34
+   00005 ferias                   13.223,58       343,50    13.567,08  00452 inss s/ 13                    0,00       623,50       623,50
+   00008 periculosi                  472,41         0,00       472,41  00455 irrf s/ sa                2.786,59        93,30     2.879,89
+   00022 repouso re                5.865,72       278,63     6.144,35  00456 irrf s/ fe                  239,30         0,00       239,30
+   00031 ferias ind                    0,00       551,34       551,34  00458 irrf feria                    0,00        47,91        47,91
+   00032 aviso prev                    0,00     3.611,16     3.611,16  00459 liquido fe               19.779,45       515,55    20.295,00
+   00034 decimo ter                    0,00       333,12       333,12  00461 falta dias      14,00       504,95       128,82       633,77
+   00035 decimo ter                    0,00     7.926,57     7.926,57  00463 desc adian               88.719,00     2.684,00    91.403,00
+   00036 ferias pro                    0,00     5.710,24     5.710,24  00465 desc av. p                    0,00     6.471,08     6.471,08
+   00038 1/3 de fer                4.407,44       114,50     4.521,94  00469 arredondam                   68,89         5,80        74,69
+   00042 salario fa                1.889,02       107,48     1.996,50  00470 indenizaca      13,50         0,00       733,05       733,05
+   00045 h.e 50% -    3.552,29    34.735,99     1.246,28    35.982,27  00472 vale trans                3.895,97       238,68     4.134,65
+   00048 arredondam                   68,76         0,00        68,76  00473 vales                    10.089,06       680,00    10.769,06
+   00051 pro-labore                3.552,50         0,00     3.552,50  00477 pensao ali                  393,71         0,00       393,71
+   00059 insufic de                    0,00     1.522,03     1.522,03  00480 plano de s                1.079,13       144,35     1.223,48
+   00075 ferias ven                    0,00     5.104,69     5.104,69  00493 desconto t                    0,00     3.009,74     3.009,74
+   00076 adici notu   2.639,27     3.568,91       108,63     3.677,54  00965 liquido re                    0,00    24.671,70    24.671,70
+   00077 h.e 100%-2      87,12     1.288,54         0,00     1.288,54
+   00078 liq negati                   96,69         0,00        96,69
+   00104 media feri                1.814,85        43,16     1.858,01
+   00119 premios                   8.460,78        93,75     8.554,53
+   00121 1/3 media                   604,88        14,39       619,27
+   00125 aviso prev                    0,00       674,59       674,59
+   00135 grat. temp               10.700,00       100,00    10.800,00
+   00180 devolução                   435,57         0,00       435,57
+   00253 pag rpa                   7.087,22         0,00     7.087,22
+   00691 he b.hr 50      57,27         0,00       525,81       525,81
+   00972 1/3 férias                    0,00     1.701,39     1.701,39
+   00973 1/3 férias                    0,00     2.086,99     2.086,99
+   00974 pernoite (                6.667,00       680,00     7.347,00
+   *** totais proventos          330.213,78    40.949,91   371.163,69  *** totais descontos          154.154,12    40.949,91   195.104,03
+   todas empresas selecionadas (geral)            resumo gerencial analitico              competencia 31/08/2022          folha 0002/0010
+                                                                                                          ativos / desligados / afastados
+                                                                                                                     emissao : 08/05/2023
+                                                                                                                     hora    :      17:37
+   total da empresa (cont)
+                                                              ativos          desligados           afastados               total
+                ** liquido a pagar                        176.059,66                0,00                0,00          176.059,66             
+                ** deposito fgts                           24.115,41              778,87                0,00           24.894,28             
+                ** deposito fgts (categoria 07)                 0,00                0,00                0,00                0,00             
+                ** deposito fgts (contr. social)                0,00                0,00                0,00                0,00             
+                ** base fgts depositado                   301.451,29            9.736,41                0,00          311.187,70             
+                ** base fgts (categoria 07)                     0,00                0,00                0,00                0,00             
+                ** base imposto de renda                  245.822,06           21.184,41                0,00          267.006,47             
+                ** base imposto de renda (ferias)          39.564,70                0,00                0,00           39.564,70             
+                ** salario contribuicao clt               301.451,29           11.392,33                0,00          312.843,62             
+                ** salario contribuicao clt (13o.)              0,00            8.259,69                0,00            8.259,69
+                ** salario contribuicao empresa           301.451,29           11.392,33                0,00          312.843,62
+                ** salario contribuicao empresa (13o.)          0,00                0,00                0,00                0,00
+                ** salario contribuicao autonomos           7.087,22                0,00                0,00            7.087,22             
+                ** salario contribuicao pro-labore          3.552,50                0,00                0,00            3.552,50             
+                ** inss retido dos funcionarios            26.162,50            1.525,93                0,00           27.688,43             
+                ** inss da empresa                              0,00                0,00                0,00                0,00             
+                ** acidente de trabalho                     4.521,76              294,78                0,00            4.816,54             
+                ** acidente de trabalho ag.nocivo               0,00                0,00                0,00                0,00             
+                ** terceiros                                9.947,88              648,50                0,00           10.596,38             
+                ** salario educacao                         7.536,28              491,30                0,00            8.027,58             
+                ** sest/senat (autonomos cat 15)                0,00                0,00                0,00                0,00             
+                ** deducoes inss                            1.889,02              107,48                0,00            1.996,50             
+                ** total inss                              46.279,40            2.853,03                0,00           49.132,43
+   
+                ** resumo da grrf                       mes anterior   mes rescisao     verbas ind          multa          total
+                   ** remuneracao (sem 13º salario)             0,00       5.203,52       4.285,75                      9.489,27
+                   ** remuneracao (13º salario)                 0,00       3.704,38         333,12                      4.037,50
+                   ** recolhimento fgts                         0,00         712,63         369,47       3.067,24       4.149,34
+                ****** qtd de colaboradores   funcs    pro  auton  estag               ********** contribuicao de inss *********
+                   ** ativos (inclus. ferias):  154      1      1      0               aliquota          total      qtd  qtd 13º
+                   ** admitidos..............:   11      0      0      0                  7,50%           0,00        0        0
+                      ** transferencias......:    0                                       9,00%           0,00        0        0
+                   ** desligados.............:   11      0      0      0                  9,00%           0,00        0        0
+                      002 demissao sem justa :    2                                      11,00%      10.639,72        2        0
+                      003 termino de contrato:    3                                      12,00%           0,00        0        0
+                      005 antec termino de co:    1                                      14,00%           0,00        0        0
+                      007 pedido de demissao.:    4                                       acima           0,00        0        0
+                      013 termino de contrato:    1
+                      ** transferencias......:   11
+                   ** ferias.................:   21
+                   ** afastados..............:    0
+                ** total de colaboradores....:  165      1      1      0
+   006 super transportes e logistica ltda         resumo gerencial analitico              competencia 31/08/2022          folha 0003/0010
+                                                                                              ativos / desligados / afastados / encerrado
+                                                                                                                     emissao : 08/05/2023
+                                                                                                                     hora    :      17:37
+   total da empresa
+   cod   provento        refer       ativos   desligados        total  cod   desconto        refer       ativos   desligados        total
+   00001 salario ba   4.210,00   225.273,92         0,00   225.273,92  00450 inss s/ sa               22.969,38       863,78    23.833,16
+   00004 saldo de s     148,00         0,00     8.071,66     8.071,66  00451 inss s/ fe                3.628,69        38,65     3.667,34
+   00005 ferias                   13.223,58       343,50    13.567,08  00452 inss s/ 13                    0,00       623,50       623,50
+   00008 periculosi                  472,41         0,00       472,41  00455 irrf s/ sa                2.786,59        93,30     2.879,89
+   00022 repouso re                5.865,72       278,63     6.144,35  00456 irrf s/ fe                  239,30         0,00       239,30
+   00031 ferias ind                    0,00       551,34       551,34  00458 irrf feria                    0,00        47,91        47,91
+   00032 aviso prev                    0,00     3.611,16     3.611,16  00459 liquido fe               19.779,45       515,55    20.295,00
+   00034 decimo ter                    0,00       333,12       333,12  00461 falta dias      14,00       504,95       128,82       633,77
+   00035 decimo ter                    0,00     7.926,57     7.926,57  00463 desc adian               88.719,00     2.684,00    91.403,00
+   00036 ferias pro                    0,00     5.710,24     5.710,24  00465 desc av. p                    0,00     6.471,08     6.471,08
+   00038 1/3 de fer                4.407,44       114,50     4.521,94  00469 arredondam                   68,89         5,80        74,69
+   00042 salario fa                1.889,02       107,48     1.996,50  00470 indenizaca      13,50         0,00       733,05       733,05
+   00045 h.e 50% -    3.552,29    34.735,99     1.246,28    35.982,27  00472 vale trans                3.895,97       238,68     4.134,65
+   00048 arredondam                   68,76         0,00        68,76  00473 vales                    10.089,06       680,00    10.769,06
+   00051 pro-labore                3.552,50         0,00     3.552,50  00477 pensao ali                  393,71         0,00       393,71
+   00059 insufic de                    0,00     1.522,03     1.522,03  00480 plano de s                1.079,13       144,35     1.223,48
+   00075 ferias ven                    0,00     5.104,69     5.104,69  00493 desconto t                    0,00     3.009,74     3.009,74
+   00076 adici notu   2.639,27     3.568,91       108,63     3.677,54  00965 liquido re                    0,00    24.671,70    24.671,70
+   00077 h.e 100%-2      87,12     1.288,54         0,00     1.288,54
+   00078 liq negati                   96,69         0,00        96,69
+   00104 media feri                1.814,85        43,16     1.858,01
+   00119 premios                   8.460,78        93,75     8.554,53
+   00121 1/3 media                   604,88        14,39       619,27
+   00125 aviso prev                    0,00       674,59       674,59
+   00135 grat. temp               10.700,00       100,00    10.800,00
+   00180 devolução                   435,57         0,00       435,57
+   00253 pag rpa                   7.087,22         0,00     7.087,22
+   00691 he b.hr 50      57,27         0,00       525,81       525,81
+   00972 1/3 férias                    0,00     1.701,39     1.701,39
+   00973 1/3 férias                    0,00     2.086,99     2.086,99
+   00974 pernoite (                6.667,00       680,00     7.347,00
+   *** totais proventos          330.213,78    40.949,91   371.163,69  *** totais descontos          154.154,12    40.949,91   195.104,03
+   006 super transportes e logistica ltda         resumo gerencial analitico              competencia 31/08/2022          folha 0004/0010
+                                                                                                          ativos / desligados / afastados
+                                                                                                                     emissao : 08/05/2023
+                                                                                                                     hora    :      17:37
+   total da empresa (cont)                                    ativos          desligados           afastados               total
+                ** liquido a pagar                        176.059,66                0,00                0,00          176.059,66             
+                ** deposito fgts                           24.115,41              778,87                0,00           24.894,28             
+                ** deposito fgts (categoria 07)                 0,00                0,00                0,00                0,00             
+                ** deposito fgts (contr. social)                0,00                0,00                0,00                0,00             
+                ** base fgts depositado                   301.451,29            9.736,41                0,00          311.187,70             
+                ** base fgts (categoria 07)                     0,00                0,00                0,00                0,00             
+                ** base imposto de renda                  245.822,06           21.184,41                0,00          267.006,47             
+                ** base imposto de renda (ferias)          39.564,70                0,00                0,00           39.564,70             
+                ** salario contribuicao clt               301.451,29           11.392,33                0,00          312.843,62             
+                ** salario contribuicao clt (13o.)              0,00            8.259,69                0,00            8.259,69
+                ** salario contribuicao empresa           301.451,29           11.392,33                0,00          312.843,62
+                ** salario contribuicao empresa (13o.)          0,00                0,00                0,00                0,00
+                ** salario contribuicao autonomos           7.087,22                0,00                0,00            7.087,22             
+                ** salario contribuicao pro-labore          3.552,50                0,00                0,00            3.552,50             
+                ** inss retido dos funcionarios            26.162,50            1.525,93                0,00           27.688,43             
+                ** inss da empresa                              0,00                0,00                0,00                0,00             
+                ** acidente de trabalho                     4.521,76              294,78                0,00            4.816,54             
+                ** acidente de trabalho ag.nocivo               0,00                0,00                0,00                0,00             
+                ** terceiros                                9.947,88              648,50                0,00           10.596,38             
+                ** salario educacao                         7.536,28              491,30                0,00            8.027,58             
+                ** sest/senat (autonomos cat 15)                0,00                0,00                0,00                0,00             
+                ** deducoes inss                            1.889,02              107,48                0,00            1.996,50             
+                ** total inss                              46.279,40            2.853,03                0,00           49.132,43
+   
+                ** resumo da grrf                       mes anterior   mes rescisao     verbas ind          multa          total
+                   ** remuneracao (sem 13º salario)             0,00       5.203,52       4.285,75                      9.489,27
+                   ** remuneracao (13º salario)                 0,00       3.704,38         333,12                      4.037,50
+                   ** recolhimento fgts                         0,00         712,63         369,47       3.067,24       4.149,34
+                ****** qtd de colaboradores   funcs    pro  auton  estag               ********** contribuicao de inss *********
+                   ** ativos (inclus. ferias):  154      1      1      0               aliquota          total      qtd  qtd 13º
+                   ** admitidos..............:   11      0      0      0                  7,50%           0,00        0        0
+                      ** transferencias......:    0                                       9,00%           0,00        0        0
+                   ** desligados.............:   11      0      0      0                  9,00%           0,00        0        0
+                      002 demissao sem justa :    2                                      11,00%      10.639,72        2        0
+                      003 termino de contrato:    3                                      12,00%           0,00        0        0
+                      005 antec termino de co:    1                                      14,00%           0,00        0        0
+                      007 pedido de demissao.:    4                                       acima           0,00        0        0
+                      013 termino de contrato:    1
+                      ** transferencias......:   11
+                   ** ferias.................:   21
+                   ** afastados..............:    0
+                ** total de colaboradores....:  165      1      1      0
+   006 super transportes e logistica ltda         resumo gerencial analitico              competencia 31/08/2022          folha 0005/0010
+   emp/fil/fap: 006/001/0,5000
+                                                                                              ativos / desligados / afastados / encerrado
+                                                                                                                     emissao : 08/05/2023
+                                                                                                                     hora    :      17:37
+   divisao: 001 - super log
+   cod   provento        refer       ativos   desligados        total  cod   desconto        refer       ativos   desligados        total
+   00001 salario ba   1.139,00    60.079,06         0,00    60.079,06  00450 inss s/ sa                6.007,38       285,64     6.293,02
+   00004 saldo de s      57,00         0,00     2.663,33     2.663,33  00451 inss s/ fe                  601,50        19,97       621,47
+   00005 ferias                    3.091,40       171,75     3.263,15  00452 inss s/ 13                    0,00       300,50       300,50
+   00022 repouso re                1.699,63       107,64     1.807,27  00455 irrf s/ sa                  383,41        47,36       430,77
+   00031 ferias ind                    0,00       192,51       192,51  00458 irrf feria                    0,00        47,91        47,91
+   00032 aviso prev                    0,00     1.896,09     1.896,09  00459 liquido fe                4.408,46       266,36     4.674,82
+   00034 decimo ter                    0,00       185,43       185,43  00461 falta dias       2,00        42,94        42,94        85,88
+   00035 decimo ter                    0,00     3.767,23     3.767,23  00463 desc adian               23.331,00       516,00    23.847,00
+   00036 ferias pro                    0,00     1.536,41     1.536,41  00465 desc av. p                    0,00     2.924,54     2.924,54
+   00038 1/3 de fer                1.030,37        57,25     1.087,62  00469 arredondam                   18,44         2,23        20,67
+   00042 salario fa                  661,25       107,48       768,73  00472 vale trans                2.392,41       238,68     2.631,09
+   00045 h.e 50% -    1.046,34     9.944,53       457,34    10.401,87  00473 vales                       166,08         0,00       166,08
+   00048 arredondam                   20,12         0,00        20,12  00477 pensao ali                  393,71         0,00       393,71
+   00059 insufic de                    0,00       708,96       708,96  00480 plano de s                  472,75       144,35       617,10
+   00075 ferias ven                    0,00     3.465,53     3.465,53  00493 desconto t                    0,00     1.628,22     1.628,22
+   00076 adici notu     945,00     1.163,21        20,39     1.183,60  00965 liquido re                    0,00    11.273,45    11.273,45
+   00077 h.e 100%-2      24,39       364,72         0,00       364,72
+   00078 liq negati                   37,31         0,00        37,31
+   00104 media feri                  413,17        28,02       441,19
+   00119 premios                   3.671,13        93,75     3.764,88
+   00121 1/3 media                   137,71         9,34       147,05
+   00125 aviso prev                    0,00       189,61       189,61
+   00135 grat. temp                1.700,00       100,00     1.800,00
+   00180 devolução                    55,47         0,00        55,47
+   00691 he b.hr 50      26,02         0,00       248,79       248,79
+   00972 1/3 férias                    0,00     1.155,06     1.155,06
+   00973 1/3 férias                    0,00       576,24       576,24
+   *** totais proventos           84.069,08    17.738,15   101.807,23  *** totais descontos           38.218,08    17.738,15    55.956,23

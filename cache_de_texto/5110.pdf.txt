@@ -1,0 +1,4469 @@
+contas a receber
+página 1 de 1
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+14/07/2022
+29/06/2022
+16.825,00
+85558
+bn
+45088
+auto posto arapucana ltda
+al
+16.825,00
+0,00
+0,00
+22/07/2022
+07/07/2022
+12.800,00
+85791
+bn
+45768
+auto posto arapucana ltda
+al
+12.800,00
+0,00
+0,00
+22/07/2022
+07/07/2022
+13.940,00
+85792
+bn
+45770
+auto posto arapucana ltda
+al
+13.940,00
+0,00
+0,00
+21/07/2022
+11/07/2022
+17.150,00
+85911
+bn
+46131
+auto posto arapucana ltda
+al
+17.150,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+17.150,00
+85911
+bn
+46132
+auto posto arapucana ltda
+al
+17.150,00
+0,00
+0,00
+21/07/2022
+11/07/2022
+17.625,00
+85912
+bn
+46133
+auto posto arapucana ltda
+al
+17.625,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+17.625,00
+85912
+bn
+46134
+auto posto arapucana ltda
+al
+17.625,00
+0,00
+0,00
+113.115,00
+113.115,00
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 2 de 2
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+04/09/2021
+27/08/2021
+8.865,78
+78408
+bn
+24869
+auto posto bom alcool ltda
+al
+190,00
+8.675,78
+0,00
+19/08/2022
+20/07/2022
+69.000,00
+86227
+bn
+47084
+auto posto bom alcool ltda
+al
+12.147,00
+56.853,00
+0,00
+21/08/2022
+22/07/2022
+69.000,00
+86338
+bn
+47390
+auto posto bom alcool ltda
+al
+69.000,00
+0,00
+0,00
+24/08/2022
+25/07/2022
+69.000,00
+86445
+bn
+47665
+auto posto bom alcool ltda
+al
+16.307,00
+52.693,00
+0,00
+28/08/2022
+29/07/2022
+103.500,00
+86659
+bn
+48273
+auto posto bom alcool ltda
+al
+103.500,00
+0,00
+0,00
+16/08/2022
+01/08/2022
+11.068,88
+86762
+bn
+48544
+auto posto bom alcool ltda
+al
+11.068,88
+0,00
+0,00
+09/08/2022
+06/08/2022
+6.016,06
+87065
+bn
+49251
+auto posto bom alcool ltda
+al
+6.016,06
+0,00
+0,00
+12/08/2022
+06/08/2022
+6.016,06
+87065
+bn
+49252
+auto posto bom alcool ltda
+al
+6.016,06
+0,00
+0,00
+15/08/2022
+06/08/2022
+6.017,88
+87065
+bn
+49253
+auto posto bom alcool ltda
+al
+6.017,88
+0,00
+0,00
+07/09/2022
+23/08/2022
+30.500,00
+87826
+bn
+51174
+auto posto bom alcool ltda
+al
+25.292,95
+5.207,05
+0,00
+05/10/2022
+19/09/2022
+30.650,00
+89060
+bn
+54416
+auto posto bom alcool ltda
+al
+30.650,00
+0,00
+0,00
+04/10/2022
+19/09/2022
+9.918,64
+89061
+bn
+54419
+auto posto bom alcool ltda
+al
+9.918,64
+0,00
+0,00
+30/09/2022
+20/09/2022
+13.998,60
+89087
+bn
+54544
+auto posto bom alcool ltda
+al
+13.998,60
+0,00
+0,00
+05/10/2022
+20/09/2022
+9.835,30
+89088
+bn
+54548
+auto posto bom alcool ltda
+al
+9.835,30
+0,00
+0,00
+03/10/2022
+23/09/2022
+9.632,37
+89235
+bn
+54946
+auto posto bom alcool ltda
+al
+9.632,37
+0,00
+0,00
+03/10/2022
+23/09/2022
+7.149,28
+89249
+bn
+54977
+auto posto bom alcool ltda
+al
+7.149,28
+0,00
+0,00
+04/10/2022
+24/09/2022
+7.149,28
+89268
+bn
+55017
+auto posto bom alcool ltda
+al
+7.149,28
+0,00
+0,00
+11/10/2022
+26/09/2022
+7.049,30
+89293
+bn
+55131
+auto posto bom alcool ltda
+al
+4.423,19
+2.626,11
+0,00
+06/10/2022
+26/09/2022
+7.049,30
+89293
+bn
+55132
+auto posto bom alcool ltda
+al
+7.049,30
+0,00
+0,00
+01/10/2022
+26/09/2022
+9.599,04
+89294
+bn
+55134
+auto posto bom alcool ltda
+al
+9.599,04
+0,00
+0,00
+06/10/2022
+26/09/2022
+9.599,04
+89294
+bn
+55135
+auto posto bom alcool ltda
+al
+9.599,04
+0,00
+0,00
+02/10/2022
+27/09/2022
+7.082,62
+89354
+bn
+55303
+auto posto bom alcool ltda
+al
+7.082,62
+0,00
+0,00
+07/10/2022
+27/09/2022
+7.082,62
+89354
+bn
+55304
+auto posto bom alcool ltda
+al
+7.082,62
+0,00
+0,00
+03/10/2022
+28/09/2022
+7.165,95
+89396
+bn
+55414
+auto posto bom alcool ltda
+al
+7.165,95
+0,00
+0,00
+03/10/2022
+28/09/2022
+9.665,70
+89397
+bn
+55417
+auto posto bom alcool ltda
+al
+9.665,70
+0,00
+0,00
+04/10/2022
+29/09/2022
+9.549,04
+89416
+bn
+55483
+auto posto bom alcool ltda
+al
+9.549,04
+0,00
+0,00
+09/10/2022
+29/09/2022
+9.549,04
+89416
+bn
+55484
+auto posto bom alcool ltda
+al
+9.549,04
+0,00
+0,00
+05/10/2022
+30/09/2022
+7.165,95
+89448
+bn
+55551
+auto posto bom alcool ltda
+al
+7.165,95
+0,00
+0,00
+10/10/2022
+30/09/2022
+7.165,95
+89448
+bn
+55552
+auto posto bom alcool ltda
+al
+7.165,95
+0,00
+0,00
+08/10/2022
+03/10/2022
+7.165,95
+89537
+bn
+55805
+auto posto bom alcool ltda
+al
+7.165,95
+0,00
+0,00
+08/10/2022
+03/10/2022
+9.549,04
+89538
+bn
+55808
+auto posto bom alcool ltda
+al
+9.549,04
+0,00
+0,00
+10/10/2022
+03/10/2022
+19.070,48
+89539
+bn
+55867
+auto posto bom alcool ltda
+gu
+19.070,48
+0,00
+0,00
+17/10/2022
+03/10/2022
+19.064,76
+89539
+bn
+55868
+auto posto bom alcool ltda
+gu
+19.064,76
+0,00
+0,00
+10/10/2022
+05/10/2022
+7.132,62
+89584
+bn
+56040
+auto posto bom alcool ltda
+al
+7.132,62
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 3 de 3
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+10/10/2022
+05/10/2022
+7.132,62
+89603
+bn
+56098
+auto posto bom alcool ltda
+al
+7.132,62
+0,00
+0,00
+13/10/2022
+08/10/2022
+7.132,62
+89725
+bn
+56471
+auto posto bom alcool ltda
+al
+7.132,62
+0,00
+0,00
+20/10/2022
+13/10/2022
+19.337,20
+89821
+el
+56887
+auto posto bom alcool ltda
+gu
+19.337,20
+0,00
+0,00
+27/10/2022
+13/10/2022
+19.331,40
+89821
+el
+56888
+auto posto bom alcool ltda
+gu
+19.331,40
+0,00
+0,00
+18/10/2022
+13/10/2022
+9.665,70
+89837
+bn
+56942
+auto posto bom alcool ltda
+al
+9.665,70
+0,00
+0,00
+20/10/2022
+15/10/2022
+15.728,43
+89976
+bn
+57239
+auto posto bom alcool ltda
+al
+15.728,43
+0,00
+0,00
+24/10/2022
+19/10/2022
+9.665,70
+90129
+bn
+57622
+auto posto bom alcool ltda
+al
+9.665,70
+0,00
+0,00
+27/10/2022
+19/10/2022
+19.837,30
+90192
+bn
+57847
+auto posto bom alcool ltda
+gu
+19.837,30
+0,00
+0,00
+16/11/2022
+01/11/2022
+10.002,00
+90775
+el
+59517
+auto posto bom alcool ltda
+al
+10.002,00
+0,00
+0,00
+24/11/2022
+03/11/2022
+20.331,30
+90779
+el
+59596
+auto posto bom alcool ltda
+al
+20.331,30
+0,00
+0,00
+10/11/2022
+05/11/2022
+5.749,42
+90938
+el
+60051
+auto posto bom alcool ltda
+al
+5.749,42
+0,00
+0,00
+15/11/2022
+05/11/2022
+5.749,42
+90938
+el
+60052
+auto posto bom alcool ltda
+al
+5.749,42
+0,00
+0,00
+10/11/2022
+05/11/2022
+7.199,28
+90942
+bn
+60057
+auto posto bom alcool ltda
+al
+7.199,28
+0,00
+0,00
+16/11/2022
+11/11/2022
+7.199,28
+91186
+el
+60766
+auto posto bom alcool ltda
+al
+7.199,28
+0,00
+0,00
+16/11/2022
+11/11/2022
+7.199,28
+91187
+el
+60769
+auto posto bom alcool ltda
+al
+7.199,28
+0,00
+0,00
+07/12/2022
+16/11/2022
+19.998,00
+91318
+el
+61084
+auto posto bom alcool ltda
+gu
+19.998,00
+0,00
+0,00
+28/11/2022
+18/11/2022
+9.999,00
+91503
+el
+61600
+auto posto bom alcool ltda
+al
+9.999,00
+0,00
+0,00
+10/12/2022
+05/12/2022
+33,33
+92139
+s1
+63540
+auto posto bom alcool ltda
+al
+33,33
+0,00
+0,00
+15/12/2022
+05/12/2022
+33,33
+92139
+s1
+63541
+auto posto bom alcool ltda
+al
+33,33
+0,00
+0,00
+20/12/2022
+05/12/2022
+33,34
+92139
+s1
+63542
+auto posto bom alcool ltda
+al
+33,34
+0,00
+0,00
+30/12/2022
+15/12/2022
+9.351,88
+92540
+el
+64658
+auto posto bom alcool ltda
+al
+9.351,88
+0,00
+0,00
+30/12/2022
+15/12/2022
+3.459,02
+92541
+el
+64661
+auto posto bom alcool ltda
+al
+3.459,02
+0,00
+0,00
+26/12/2022
+16/12/2022
+33,33
+92607
+s1
+64889
+auto posto bom alcool ltda
+al
+33,33
+0,00
+0,00
+31/12/2022
+16/12/2022
+33,34
+92607
+s1
+64890
+auto posto bom alcool ltda
+al
+33,34
+0,00
+0,00
+30/12/2022
+20/12/2022
+4.582,88
+92695
+el
+65216
+auto posto bom alcool ltda
+al
+4.582,88
+0,00
+0,00
+30/12/2022
+20/12/2022
+9.165,75
+92719
+el
+65378
+auto posto bom alcool ltda
+al
+9.165,75
+0,00
+0,00
+30/12/2022
+20/12/2022
+13.831,95
+92720
+el
+65381
+auto posto bom alcool ltda
+al
+13.831,95
+0,00
+0,00
+24/01/2023
+09/01/2023
+7.001,40
+93269
+el
+68843
+auto posto bom alcool ltda
+al
+7.001,40
+0,00
+0,00
+19/01/2023
+09/01/2023
+9.332,40
+93274
+el
+68861
+auto posto bom alcool ltda
+al
+9.332,40
+0,00
+0,00
+27/01/2023
+12/01/2023
+9.335,20
+93386
+el
+69350
+auto posto bom alcool ltda
+al
+9.335,20
+0,00
+0,00
+24/01/2023
+19/01/2023
+6.932,64
+93630
+el
+70563
+auto posto bom alcool ltda
+al
+6.932,64
+0,00
+0,00
+25/01/2023
+20/01/2023
+6.932,64
+93667
+el
+70976
+auto posto bom alcool ltda
+al
+6.932,64
+0,00
+0,00
+25/01/2023
+20/01/2023
+6.899,31
+93707
+el
+71268
+auto posto bom alcool ltda
+al
+6.899,31
+0,00
+0,00
+25/02/2023
+10/02/2023
+7.151,44
+94552
+el
+74006
+auto posto bom alcool ltda
+al
+7.151,44
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 4 de 4
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+25/02/2023
+10/02/2023
+7.151,44
+94553
+el
+74009
+auto posto bom alcool ltda
+al
+7.151,44
+0,00
+0,00
+25/02/2023
+10/02/2023
+8.635,06
+94554
+el
+74012
+auto posto bom alcool ltda
+al
+8.635,06
+0,00
+0,00
+26/02/2023
+11/02/2023
+8.635,06
+94622
+el
+74235
+auto posto bom alcool ltda
+al
+8.635,06
+0,00
+0,00
+27/02/2023
+17/02/2023
+7.165,95
+94872
+el
+74971
+auto posto bom alcool ltda
+al
+7.165,95
+0,00
+0,00
+27/02/2023
+17/02/2023
+7.165,95
+94873
+el
+74974
+auto posto bom alcool ltda
+al
+7.165,95
+0,00
+0,00
+27/02/2023
+17/02/2023
+8.632,47
+94874
+el
+74977
+auto posto bom alcool ltda
+al
+8.632,47
+0,00
+0,00
+23/02/2023
+18/02/2023
+8.632,47
+94933
+el
+75165
+auto posto bom alcool ltda
+al
+8.632,47
+0,00
+0,00
+25/02/2023
+20/02/2023
+5.549,44
+94991
+el
+75308
+auto posto bom alcool ltda
+al
+5.549,44
+0,00
+0,00
+25/02/2023
+20/02/2023
+7.165,95
+95000
+el
+75341
+auto posto bom alcool ltda
+al
+7.165,95
+0,00
+0,00
+27/02/2023
+22/02/2023
+8.632,47
+95045
+el
+75457
+auto posto bom alcool ltda
+al
+8.632,47
+0,00
+0,00
+26/03/2023
+21/03/2023
+7.715,90
+96216
+el
+80443
+auto posto bom alcool ltda
+al
+7.715,90
+0,00
+0,00
+05/04/2023
+21/03/2023
+7.718,20
+96216
+el
+80445
+auto posto bom alcool ltda
+al
+7.718,20
+0,00
+0,00
+31/03/2023
+21/03/2023
+8.349,16
+96217
+el
+80447
+auto posto bom alcool ltda
+al
+8.349,16
+0,00
+0,00
+28/03/2023
+23/03/2023
+5.482,78
+96334
+el
+80833
+auto posto bom alcool ltda
+al
+5.482,78
+0,00
+0,00
+02/04/2023
+23/03/2023
+5.482,78
+96334
+el
+80834
+auto posto bom alcool ltda
+al
+5.482,78
+0,00
+0,00
+03/04/2023
+29/03/2023
+7.715,90
+96623
+el
+81560
+auto posto bom alcool ltda
+al
+7.715,90
+0,00
+0,00
+04/04/2023
+30/03/2023
+24.325,00
+96639
+el
+81576
+auto posto bom alcool ltda
+al
+24.325,00
+0,00
+0,00
+14/04/2023
+30/03/2023
+25.400,00
+96640
+el
+81577
+auto posto bom alcool ltda
+ri
+25.400,00
+0,00
+0,00
+04/04/2023
+30/03/2023
+8.099,19
+96642
+el
+81578
+auto posto bom alcool ltda
+al
+8.099,19
+0,00
+0,00
+04/04/2023
+30/03/2023
+7.715,90
+96648
+el
+81593
+auto posto bom alcool ltda
+al
+7.715,90
+0,00
+0,00
+06/04/2023
+01/04/2023
+15.598,44
+96755
+el
+81843
+auto posto bom alcool ltda
+al
+15.598,44
+0,00
+0,00
+19/04/2023
+04/04/2023
+8.297,66
+96859
+el
+82179
+auto posto bom alcool ltda
+al
+8.297,66
+0,00
+0,00
+16/04/2023
+06/04/2023
+8.199,18
+96927
+el
+82340
+auto posto bom alcool ltda
+al
+8.199,18
+0,00
+0,00
+21/04/2023
+06/04/2023
+8.201,64
+96927
+el
+82341
+auto posto bom alcool ltda
+al
+8.201,64
+0,00
+0,00
+21/04/2023
+14/04/2023
+11.975,00
+97286
+el
+83473
+auto posto bom alcool ltda
+al
+11.975,00
+0,00
+0,00
+22/04/2023
+18/04/2023
+23.150,00
+97390
+el
+83739
+auto posto bom alcool ltda
+al
+23.150,00
+0,00
+0,00
+24/04/2023
+20/04/2023
+11.575,00
+97517
+el
+84003
+auto posto bom alcool ltda
+al
+11.575,00
+0,00
+0,00
+24/04/2023
+20/04/2023
+11.575,00
+97518
+el
+84005
+auto posto bom alcool ltda
+al
+11.575,00
+0,00
+0,00
+1.206.368,65
+1.080.313,71
+126.054,94
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 5 de 5
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+04/07/2022
+01/07/2022
+64.000,00
+84559
+84559
+el
+45353
+auto posto fazenda velha brasileira 
+al
+64.000,00
+0,00
+0,00
+64.000,00
+64.000,00
+0,00
+0,00
+28/10/2022
+03/10/2022
+5.413,71
+popular
+88
+el
+55824
+auto posto popular ii ltda
+al
+5.413,71
+0,00
+0,00
+04/11/2022
+03/10/2022
+5.413,71
+popular
+88
+el
+55825
+auto posto popular ii ltda
+al
+5.413,71
+0,00
+0,00
+11/11/2022
+03/10/2022
+5.413,71
+popular
+88
+el
+55826
+auto posto popular ii ltda
+al
+5.413,71
+0,00
+0,00
+18/11/2022
+03/10/2022
+5.413,71
+popular
+88
+el
+55827
+auto posto popular ii ltda
+al
+5.413,71
+0,00
+0,00
+25/11/2022
+03/10/2022
+5.413,71
+popular
+88
+el
+55828
+auto posto popular ii ltda
+al
+5.413,71
+0,00
+0,00
+02/12/2022
+03/10/2022
+5.413,63
+popular
+88
+el
+55829
+auto posto popular ii ltda
+al
+5.413,63
+0,00
+0,00
+32.482,18
+32.482,18
+0,00
+0,00
+03/02/2021
+15/01/2021
+5.332,80
+73005
+bn
+9227
+auto posto stella maris ii ltda
+fa
+2.332,80
+3.000,00
+0,00
+5.332,80
+2.332,80
+3.000,00
+0,00
+28/10/2022
+28/10/2022
+21.150,00
+90654
+pa
+59064
+l. menegatti & cia ltda
+al
+50,00
+21.100,00
+0,00
+21.150,00
+50,00
+21.100,00
+0,00
+22/07/2022
+07/07/2022
+12.800,00
+85789
+bn
+45764
+master petro - comercio de combustiv
+al
+12.800,00
+0,00
+0,00
+22/07/2022
+07/07/2022
+13.560,00
+85790
+bn
+45766
+master petro - comercio de combustiv
+al
+13.560,00
+0,00
+0,00
+21/07/2022
+11/07/2022
+12.900,00
+85920
+bn
+46150
+master petro - comercio de combustiv
+al
+12.900,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+12.900,00
+85920
+bn
+46151
+master petro - comercio de combustiv
+al
+12.900,00
+0,00
+0,00
+52.160,00
+52.160,00
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 6 de 6
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+02/02/2021
+02/02/2021
+18.736,29
+1
+4052022
+bn
+40638
+maxsula auto posto comercio de combu
+fa
+18.736,29
+0,00
+0,00
+18.736,29
+18.736,29
+0,00
+0,00
+01/10/2022
+24/09/2022
+33.000,00
+89252
+bn
+54989
+posto toquio ltda
+al
+21.522,45
+11.477,55
+0,00
+01/10/2022
+24/09/2022
+33.075,00
+89253
+bn
+54990
+posto toquio ltda
+al
+33.075,00
+0,00
+0,00
+66.075,00
+54.597,45
+11.477,55
+0,00
+09/02/2023
+29/12/2022
+28.250,00
+safra
+92303
+sf
+67137
+comercio de combustivel noroeste ltd
+al
+28.250,00
+0,00
+0,00
+09/02/2023
+29/12/2022
+28.250,00
+safra
+92303
+sf
+67138
+comercio de combustivel noroeste ltd
+al
+28.250,00
+0,00
+0,00
+09/03/2023
+29/12/2022
+28.250,00
+safra
+92303
+sf
+67139
+comercio de combustivel noroeste ltd
+al
+28.250,00
+0,00
+0,00
+84.750,00
+84.750,00
+0,00
+0,00
+31/08/2022
+17/08/2022
+374.114,20
+1
+87541
+bn
+50496
+petroalcool distribuidora de petrole
+al
+305.213,20
+68.901,00
+0,00
+31/08/2022
+17/08/2022
+378.435,60
+1
+87542
+bn
+50497
+petroalcool distribuidora de petrole
+al
+378.435,60
+0,00
+0,00
+19/08/2022
+19/08/2022
+61.900,00
+87656
+cr
+50763
+petroalcool distribuidora de petrole
+al
+1.000,00
+60.900,00
+0,00
+31/08/2022
+25/08/2022
+371.380,00
+1
+87999
+bn
+51564
+petroalcool distribuidora de petrole
+al
+371.380,00
+0,00
+0,00
+31/10/2022
+30/09/2022
+230.010,00
+1
+89485
+bn
+55669
+petroalcool distribuidora de petrole
+al
+230.010,00
+0,00
+0,00
+08/03/2023
+08/03/2023
+316.200,00
+1
+95492
+pa
+77530
+petroalcool distribuidora de petrole
+al
+162.557,00
+153.643,00
+0,00
+1.732.039,80
+1.448.595,80
+283.444,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 7 de 7
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+12/09/2022
+05/09/2022
+22.075,00
+88449
+bn
+52688
+posto c j k ltda
+al
+14.402,57
+7.672,43
+0,00
+12/09/2022
+05/09/2022
+15.437,50
+88450
+bn
+52689
+posto c j k ltda
+al
+15.437,50
+0,00
+0,00
+12/09/2022
+05/09/2022
+15.487,50
+88451
+bn
+52690
+posto c j k ltda
+al
+15.487,50
+0,00
+0,00
+15/09/2022
+08/09/2022
+14.935,00
+88592
+bn
+53000
+posto c j k ltda
+al
+14.935,00
+0,00
+0,00
+15/09/2022
+08/09/2022
+11.125,00
+88593
+bn
+53001
+posto c j k ltda
+al
+11.125,00
+0,00
+0,00
+15/09/2022
+08/09/2022
+11.150,00
+88594
+bn
+53002
+posto c j k ltda
+al
+11.150,00
+0,00
+0,00
+29/09/2022
+22/09/2022
+14.875,00
+89193
+bn
+54813
+posto c j k ltda
+al
+14.875,00
+0,00
+0,00
+105.085,00
+97.412,57
+7.672,43
+0,00
+09/09/2021
+09/02/2021
+20.687,50
+1
+4052022
+bn
+40639
+auto posto marques ltda. - epp
+fa
+20.687,50
+0,00
+0,00
+20.687,50
+20.687,50
+0,00
+0,00
+09/02/2021
+09/02/2021
+91.135,00
+1
+4052022
+bn
+40637
+comercio de combustiveis maanaim ltd
+fa
+91.135,00
+0,00
+0,00
+91.135,00
+91.135,00
+0,00
+0,00
+23/02/2023
+15/02/2023
+7.299,27
+94760
+bn
+74708
+pastinha auto posto - eireli
+al
+7.299,27
+0,00
+0,00
+27/02/2023
+15/02/2023
+7.301,46
+94760
+bn
+74709
+pastinha auto posto - eireli
+al
+7.301,46
+0,00
+0,00
+24/02/2023
+20/02/2023
+7.299,27
+94965
+fd
+75270
+pastinha auto posto - eireli
+al
+7.299,27
+0,00
+0,00
+28/02/2023
+20/02/2023
+7.299,27
+94965
+fd
+75271
+pastinha auto posto - eireli
+al
+7.299,27
+0,00
+0,00
+04/03/2023
+20/02/2023
+7.301,46
+94965
+fd
+75272
+pastinha auto posto - eireli
+al
+7.301,46
+0,00
+0,00
+36.500,73
+36.500,73
+0,00
+0,00
+21/07/2022
+11/07/2022
+13.000,00
+85913
+bn
+46135
+jose eduardo romagnoli
+al
+13.000,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+13.000,00
+85913
+bn
+46136
+jose eduardo romagnoli
+al
+13.000,00
+0,00
+0,00
+26.000,00
+26.000,00
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 8 de 8
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+23/08/2022
+13/07/2022
+19.986,00
+86021
+fd
+46495
+alr comercio varejista de combustive
+al
+19.986,00
+0,00
+0,00
+16/08/2022
+01/08/2022
+7.834,90
+86763
+bn
+48547
+alr comercio varejista de combustive
+al
+7.834,90
+0,00
+0,00
+13/08/2022
+08/08/2022
+10.615,60
+87066
+bn
+49259
+alr comercio varejista de combustive
+gu
+10.615,60
+0,00
+0,00
+18/08/2022
+08/08/2022
+10.615,60
+87066
+bn
+49260
+alr comercio varejista de combustive
+gu
+10.615,60
+0,00
+0,00
+23/08/2022
+08/08/2022
+10.618,80
+87066
+bn
+49261
+alr comercio varejista de combustive
+gu
+10.618,80
+0,00
+0,00
+24/08/2022
+18/08/2022
+10.198,98
+87609
+bn
+50662
+alr comercio varejista de combustive
+gu
+10.198,98
+0,00
+0,00
+29/08/2022
+18/08/2022
+10.198,98
+87609
+bn
+50663
+alr comercio varejista de combustive
+gu
+10.198,98
+0,00
+0,00
+18/02/2023
+08/02/2023
+17.464,92
+94452
+el
+73551
+alr comercio varejista de combustive
+al
+17.464,92
+0,00
+0,00
+23/02/2023
+08/02/2023
+17.470,16
+94452
+el
+73552
+alr comercio varejista de combustive
+al
+17.470,16
+0,00
+0,00
+24/02/2023
+09/02/2023
+8.635,06
+94480
+el
+73785
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+14/02/2023
+09/02/2023
+8.732,46
+94481
+el
+73786
+alr comercio varejista de combustive
+al
+8.732,46
+0,00
+0,00
+24/02/2023
+09/02/2023
+8.735,08
+94481
+el
+73788
+alr comercio varejista de combustive
+al
+8.735,08
+0,00
+0,00
+24/02/2023
+09/02/2023
+8.735,08
+94482
+el
+73791
+alr comercio varejista de combustive
+al
+8.735,08
+0,00
+0,00
+24/02/2023
+09/02/2023
+8.635,06
+94483
+el
+73794
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+24/02/2023
+09/02/2023
+8.735,08
+94484
+el
+73797
+alr comercio varejista de combustive
+al
+8.735,08
+0,00
+0,00
+24/02/2023
+09/02/2023
+8.735,08
+94485
+el
+73800
+alr comercio varejista de combustive
+al
+8.735,08
+0,00
+0,00
+24/02/2023
+09/02/2023
+8.735,08
+94486
+el
+73803
+alr comercio varejista de combustive
+al
+8.735,08
+0,00
+0,00
+24/02/2023
+09/02/2023
+7.134,76
+94489
+el
+73827
+alr comercio varejista de combustive
+al
+7.134,76
+0,00
+0,00
+20/02/2023
+10/02/2023
+8.532,48
+94597
+el
+74163
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+10/02/2023
+8.535,04
+94597
+el
+74164
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+20/02/2023
+10/02/2023
+8.532,48
+94598
+el
+74166
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+10/02/2023
+8.535,04
+94598
+el
+74167
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+20/02/2023
+10/02/2023
+8.532,48
+94599
+el
+74169
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+10/02/2023
+8.535,04
+94599
+el
+74170
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+20/02/2023
+10/02/2023
+8.532,48
+94600
+el
+74172
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+10/02/2023
+8.535,04
+94600
+el
+74173
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+20/02/2023
+10/02/2023
+8.632,47
+94601
+el
+74175
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+25/02/2023
+10/02/2023
+8.635,06
+94601
+el
+74176
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+20/02/2023
+10/02/2023
+8.632,47
+94602
+el
+74178
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+25/02/2023
+10/02/2023
+8.635,06
+94602
+el
+74179
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+20/02/2023
+10/02/2023
+8.632,47
+94603
+el
+74181
+alr comercio varejista de combustive
+al
+8.551,87
+80,60
+0,00
+25/02/2023
+10/02/2023
+8.635,06
+94603
+el
+74182
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+26/02/2023
+11/02/2023
+7.134,76
+94639
+el
+74277
+alr comercio varejista de combustive
+al
+7.134,76
+0,00
+0,00
+26/02/2023
+11/02/2023
+8.535,04
+94640
+el
+74280
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 9 de 9
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+21/02/2023
+11/02/2023
+8.632,47
+94641
+el
+74282
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+26/02/2023
+11/02/2023
+8.635,06
+94641
+el
+74283
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+26/02/2023
+11/02/2023
+8.535,04
+94642
+el
+74286
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+21/02/2023
+11/02/2023
+8.632,47
+94643
+el
+74288
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+26/02/2023
+11/02/2023
+8.635,06
+94643
+el
+74289
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+24/02/2023
+14/02/2023
+8.582,48
+94739
+el
+74631
+alr comercio varejista de combustive
+al
+8.582,48
+0,00
+0,00
+24/02/2023
+14/02/2023
+25.597,44
+94740
+el
+74634
+alr comercio varejista de combustive
+al
+25.597,44
+0,00
+0,00
+20/02/2023
+15/02/2023
+7.165,95
+94789
+el
+74767
+alr comercio varejista de combustive
+al
+7.165,95
+0,00
+0,00
+25/02/2023
+15/02/2023
+7.165,95
+94789
+el
+74768
+alr comercio varejista de combustive
+al
+7.165,95
+0,00
+0,00
+20/02/2023
+15/02/2023
+8.632,47
+94790
+el
+74770
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+25/02/2023
+15/02/2023
+8.632,47
+94790
+el
+74771
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+25/02/2023
+15/02/2023
+8.532,48
+94791
+el
+74774
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+20/02/2023
+15/02/2023
+8.532,48
+94791
+el
+74773
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+20/02/2023
+15/02/2023
+8.532,48
+94792
+el
+74776
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+15/02/2023
+8.532,48
+94792
+el
+74777
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+20/02/2023
+15/02/2023
+8.532,48
+94793
+el
+74779
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+15/02/2023
+8.532,48
+94793
+el
+74780
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+26/02/2023
+16/02/2023
+8.532,48
+94818
+el
+74841
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+21/02/2023
+16/02/2023
+8.532,48
+94858
+el
+74915
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+26/02/2023
+16/02/2023
+8.632,47
+94859
+el
+74919
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+04/03/2023
+17/02/2023
+7.168,10
+94887
+el
+75045
+alr comercio varejista de combustive
+al
+7.168,10
+0,00
+0,00
+22/02/2023
+17/02/2023
+8.532,48
+94888
+el
+75046
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+04/03/2023
+17/02/2023
+8.535,04
+94888
+el
+75048
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+22/02/2023
+17/02/2023
+8.532,48
+94889
+el
+75049
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+04/03/2023
+17/02/2023
+8.535,04
+94889
+el
+75051
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+22/02/2023
+17/02/2023
+8.632,47
+94890
+el
+75052
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+04/03/2023
+17/02/2023
+8.635,06
+94890
+el
+75054
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+22/02/2023
+17/02/2023
+8.632,47
+94891
+el
+75055
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+04/03/2023
+17/02/2023
+8.635,06
+94891
+el
+75057
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+22/02/2023
+17/02/2023
+8.532,48
+94892
+el
+75058
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+04/03/2023
+17/02/2023
+8.535,04
+94892
+el
+75060
+alr comercio varejista de combustive
+al
+8.535,04
+0,00
+0,00
+22/02/2023
+17/02/2023
+8.632,47
+94893
+el
+75061
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+04/03/2023
+17/02/2023
+8.635,06
+94893
+el
+75063
+alr comercio varejista de combustive
+al
+8.635,06
+0,00
+0,00
+23/02/2023
+18/02/2023
+7.165,95
+94927
+el
+75147
+alr comercio varejista de combustive
+al
+7.165,95
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 10 de 10
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+05/03/2023
+18/02/2023
+7.168,10
+94927
+el
+75149
+alr comercio varejista de combustive
+al
+7.168,10
+0,00
+0,00
+23/02/2023
+18/02/2023
+8.632,47
+94931
+el
+75159
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+23/02/2023
+18/02/2023
+18.991,43
+94934
+el
+75168
+alr comercio varejista de combustive
+al
+18.991,43
+0,00
+0,00
+23/02/2023
+18/02/2023
+18.771,46
+94935
+el
+75171
+alr comercio varejista de combustive
+al
+18.771,46
+0,00
+0,00
+25/02/2023
+20/02/2023
+8.532,48
+94963
+el
+75264
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+20/02/2023
+8.532,48
+94964
+el
+75267
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+20/02/2023
+8.532,48
+95014
+el
+75375
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+25/02/2023
+20/02/2023
+8.632,47
+95015
+el
+75378
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+25/02/2023
+20/02/2023
+8.632,47
+95016
+el
+75381
+alr comercio varejista de combustive
+al
+8.632,47
+0,00
+0,00
+25/02/2023
+20/02/2023
+8.532,48
+95018
+el
+75387
+alr comercio varejista de combustive
+al
+8.532,48
+0,00
+0,00
+27/02/2023
+22/02/2023
+7.165,95
+95057
+el
+75497
+alr comercio varejista de combustive
+al
+7.165,95
+0,00
+0,00
+04/03/2023
+22/02/2023
+7.165,95
+95057
+el
+75498
+alr comercio varejista de combustive
+al
+7.165,95
+0,00
+0,00
+24/03/2023
+22/02/2023
+85.360,00
+95065
+el
+75519
+alr comercio varejista de combustive
+al
+76.834,71
+8.525,29
+0,00
+05/03/2023
+23/02/2023
+8.449,16
+95097
+el
+75585
+alr comercio varejista de combustive
+al
+8.449,16
+0,00
+0,00
+05/03/2023
+23/02/2023
+8.449,16
+95098
+el
+75588
+alr comercio varejista de combustive
+al
+8.449,16
+0,00
+0,00
+05/03/2023
+23/02/2023
+8.449,16
+95099
+el
+75591
+alr comercio varejista de combustive
+al
+8.449,16
+0,00
+0,00
+05/03/2023
+23/02/2023
+8.449,16
+95100
+el
+75594
+alr comercio varejista de combustive
+al
+8.449,16
+0,00
+0,00
+05/03/2023
+23/02/2023
+8.499,15
+95101
+el
+75597
+alr comercio varejista de combustive
+al
+8.499,15
+0,00
+0,00
+02/03/2023
+27/02/2023
+23.650,00
+95268
+el
+76049
+alr comercio varejista de combustive
+al
+23.650,00
+0,00
+0,00
+07/04/2023
+08/03/2023
+83.200,00
+95663
+el
+77306
+alr comercio varejista de combustive
+al
+83.200,00
+0,00
+0,00
+14/04/2023
+15/03/2023
+75.450,00
+95978
+el
+79844
+alr comercio varejista de combustive
+al
+75.450,00
+0,00
+0,00
+21/03/2023
+15/03/2023
+16.798,32
+95992
+el
+79875
+alr comercio varejista de combustive
+al
+16.798,32
+0,00
+0,00
+21/04/2023
+22/03/2023
+75.450,00
+96305
+el
+80635
+alr comercio varejista de combustive
+al
+75.450,00
+0,00
+0,00
+27/04/2023
+28/03/2023
+76.500,00
+96542
+el
+81414
+alr comercio varejista de combustive
+al
+76.500,00
+0,00
+0,00
+16/04/2023
+31/03/2023
+51.200,00
+96683
+el
+81693
+alr comercio varejista de combustive
+al
+51.200,00
+0,00
+0,00
+16/04/2023
+31/03/2023
+25.600,00
+96684
+el
+81694
+alr comercio varejista de combustive
+al
+25.600,00
+0,00
+0,00
+18/04/2023
+03/04/2023
+16.269,92
+96779
+el
+81939
+alr comercio varejista de combustive
+al
+16.269,92
+0,00
+0,00
+15/04/2023
+10/04/2023
+11.829,48
+97017
+el
+82688
+alr comercio varejista de combustive
+al
+11.829,48
+0,00
+0,00
+19/04/2023
+14/04/2023
+15.898,41
+97296
+el
+83501
+alr comercio varejista de combustive
+al
+15.898,41
+0,00
+0,00
+24/04/2023
+14/04/2023
+15.898,41
+97296
+el
+83502
+alr comercio varejista de combustive
+al
+15.898,41
+0,00
+0,00
+19/04/2023
+15/04/2023
+11.675,00
+97312
+el
+83538
+alr comercio varejista de combustive
+al
+11.675,00
+0,00
+0,00
+26/05/2023
+26/04/2023
+70.950,00
+97746
+el
+84748
+alr comercio varejista de combustive
+al
+70.950,00
+0,00
+0,00
+1.447.953,07
+1.439.347,18
+8.605,89
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 11 de 11
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+26/07/2022
+11/07/2022
+10.320,00
+85917
+bn
+46145
+pitanga petro comercio de combustive
+al
+10.320,00
+0,00
+0,00
+10.320,00
+10.320,00
+0,00
+0,00
+21/07/2022
+11/07/2022
+13.980,00
+85921
+bn
+46152
+mip comercio de combustiveis ltda
+al
+13.980,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+13.980,00
+85921
+bn
+46153
+mip comercio de combustiveis ltda
+al
+13.980,00
+0,00
+0,00
+27.960,00
+27.960,00
+0,00
+0,00
+22/07/2022
+07/07/2022
+10.240,00
+85793
+bn
+45772
+auto posto petrocombo ltda
+al
+10.240,00
+0,00
+0,00
+23/07/2022
+08/07/2022
+12.875,00
+85856
+bn
+45962
+auto posto petrocombo ltda
+al
+12.875,00
+0,00
+0,00
+14/08/2022
+04/08/2022
+12.050,00
+86935
+bn
+48960
+auto posto petrocombo ltda
+al
+12.050,00
+0,00
+0,00
+19/08/2022
+04/08/2022
+12.050,00
+86935
+bn
+48961
+auto posto petrocombo ltda
+al
+12.050,00
+0,00
+0,00
+19/08/2022
+08/08/2022
+11.975,00
+87104
+bn
+49359
+auto posto petrocombo ltda
+al
+11.975,00
+0,00
+0,00
+24/08/2022
+08/08/2022
+11.975,00
+87104
+bn
+49360
+auto posto petrocombo ltda
+al
+11.975,00
+0,00
+0,00
+20/08/2022
+10/08/2022
+12.050,00
+87191
+bn
+49537
+auto posto petrocombo ltda
+al
+12.050,00
+0,00
+0,00
+25/08/2022
+10/08/2022
+12.050,00
+87191
+bn
+49538
+auto posto petrocombo ltda
+al
+12.050,00
+0,00
+0,00
+29/08/2022
+19/08/2022
+11.525,00
+87690
+bn
+50833
+auto posto petrocombo ltda
+al
+11.525,00
+0,00
+0,00
+03/09/2022
+19/08/2022
+11.525,00
+87690
+bn
+50834
+auto posto petrocombo ltda
+al
+11.525,00
+0,00
+0,00
+05/09/2022
+25/08/2022
+11.525,00
+88004
+so
+51569
+auto posto petrocombo ltda
+al
+11.525,00
+0,00
+0,00
+10/09/2022
+25/08/2022
+11.525,00
+88004
+so
+51570
+auto posto petrocombo ltda
+al
+11.525,00
+0,00
+0,00
+141.365,00
+141.365,00
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 12 de 12
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+21/07/2022
+11/07/2022
+26.000,00
+85914
+bn
+46137
+comercio de combustiveis jardim aleg
+al
+26.000,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+26.000,00
+85914
+bn
+46138
+comercio de combustiveis jardim aleg
+al
+26.000,00
+0,00
+0,00
+21/07/2022
+11/07/2022
+17.150,00
+85915
+bn
+46139
+comercio de combustiveis jardim aleg
+al
+17.150,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+17.150,00
+85915
+bn
+46140
+comercio de combustiveis jardim aleg
+al
+17.150,00
+0,00
+0,00
+21/07/2022
+11/07/2022
+17.625,00
+85916
+bn
+46141
+comercio de combustiveis jardim aleg
+al
+17.625,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+17.625,00
+85916
+bn
+46142
+comercio de combustiveis jardim aleg
+al
+17.625,00
+0,00
+0,00
+121.550,00
+121.550,00
+0,00
+0,00
+21/07/2022
+11/07/2022
+10.320,00
+85918
+bn
+46146
+ivaipetro comercio de combustiveis l
+al
+10.320,00
+0,00
+0,00
+26/07/2022
+11/07/2022
+10.320,00
+85918
+bn
+46147
+ivaipetro comercio de combustiveis l
+al
+10.320,00
+0,00
+0,00
+20.640,00
+20.640,00
+0,00
+0,00
+14/11/2022
+14/11/2022
+23.000,00
+91283
+pa
+60994
+metro engenharia e empreendimentos l
+23.000,00
+0,00
+0,00
+23.000,00
+23.000,00
+0,00
+0,00
+19/11/2022
+19/11/2022
+32.290,72
+91555
+pa
+61708
+rhodoss implementos rodoviarios ltda
+32.290,72
+0,00
+0,00
+26/11/2022
+26/11/2022
+12.109,02
+91835
+pa
+62574
+rhodoss implementos rodoviarios ltda
+12.109,02
+0,00
+0,00
+26/11/2022
+26/11/2022
+12.109,02
+91853
+pa
+62602
+rhodoss implementos rodoviarios ltda
+12.109,02
+0,00
+0,00
+07/12/2022
+07/12/2022
+8.072,68
+92217
+pa
+63779
+rhodoss implementos rodoviarios ltda
+8.072,68
+0,00
+0,00
+64.581,44
+64.581,44
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 13 de 13
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:46
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+15/02/2028
+15/02/2023
+13.221,53
+0
+db
+97982
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/01/2028
+15/02/2023
+13.221,53
+0
+db
+97983
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/12/2027
+15/02/2023
+13.221,53
+0
+db
+97984
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/11/2027
+15/02/2023
+13.221,53
+0
+db
+97985
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/10/2027
+15/02/2023
+13.221,53
+0
+db
+97986
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/09/2027
+15/02/2023
+13.221,53
+0
+db
+97987
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/08/2027
+15/02/2023
+13.221,53
+0
+db
+97988
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/07/2027
+15/02/2023
+13.221,53
+0
+db
+97989
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/06/2027
+15/02/2023
+13.221,53
+0
+db
+97990
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/05/2027
+15/02/2023
+13.221,53
+0
+db
+97991
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/04/2027
+15/02/2023
+13.221,53
+0
+db
+97992
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/03/2027
+15/02/2023
+13.221,53
+0
+db
+97993
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/02/2027
+15/02/2023
+13.221,53
+0
+db
+97994
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/01/2027
+15/02/2023
+13.221,53
+0
+db
+97995
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/12/2026
+15/02/2023
+13.221,53
+0
+db
+97996
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/11/2026
+15/02/2023
+13.221,53
+0
+db
+97997
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/10/2026
+15/02/2023
+13.221,53
+0
+db
+97998
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/09/2026
+15/02/2023
+13.221,53
+0
+db
+97999
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/08/2026
+15/02/2023
+13.221,53
+0
+db
+98000
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/07/2026
+15/02/2023
+13.221,53
+0
+db
+98001
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/06/2026
+15/02/2023
+13.221,53
+0
+db
+98002
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/05/2026
+15/02/2023
+13.221,53
+0
+db
+98003
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/04/2026
+15/02/2023
+13.221,53
+0
+db
+98004
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/03/2026
+15/02/2023
+13.221,53
+0
+db
+98005
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/02/2026
+15/02/2023
+13.221,53
+0
+db
+98006
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/01/2026
+15/02/2023
+13.221,53
+0
+db
+98007
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/12/2025
+15/02/2023
+13.221,53
+0
+db
+98008
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/11/2025
+15/02/2023
+13.221,53
+0
+db
+98009
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/10/2025
+15/02/2023
+13.221,53
+0
+db
+98010
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/09/2025
+15/02/2023
+13.221,53
+0
+db
+98011
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/08/2025
+15/02/2023
+13.221,53
+0
+db
+98012
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/07/2025
+15/02/2023
+13.221,53
+0
+db
+98013
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/06/2025
+15/02/2023
+13.221,53
+0
+db
+98014
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/05/2025
+15/02/2023
+13.221,53
+0
+db
+98015
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+relatórios / financeiro / contas pagar receber
+fi00042
+contas a receber
+página 14 de 14
+dt.vencto
+dt.emissão
+razao social 
+valor orig
+#dcto.
+#nf
+tpcobr
+#lancto
+saldo
+valor pago
+13/09/2023 13:26:47
+vendedor
+seq.
+recor.
+unidade de negócios:
+1 - n esperanca
+cliente:
+todos
+tipo entidade:
+entidade faturada
+data de emissão:
+01/01/2000 a 30/06/2023
+data de vencimento:
+tudo
+tipo de lançamento:
+pendentes
+títulos considerados:
+portador:
+todos
+tipo de documento:
+todos
+vendedor:
+todos
+imprime baixas:
+não
+ordem:
+somente efetivos
+comprador
+inclui previstos:
+não
+art petro distribuidora ltda
+tipo de cobrança:
+todos
+juros
+não aplica filtro
+tipos de vendor:
+#contr.
+vendedor assist:
+todos
+15/04/2025
+15/02/2023
+13.221,53
+0
+db
+98016
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/03/2025
+15/02/2023
+13.221,53
+0
+db
+98017
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/02/2025
+15/02/2023
+13.221,53
+0
+db
+98018
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/01/2025
+15/02/2023
+13.221,53
+0
+db
+98019
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/12/2024
+15/02/2023
+13.221,53
+0
+db
+98020
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/11/2024
+15/02/2023
+13.221,53
+0
+db
+98021
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/10/2024
+15/02/2023
+13.221,53
+0
+db
+98022
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/09/2024
+15/02/2023
+13.221,53
+0
+db
+98023
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/08/2024
+15/02/2023
+13.221,53
+0
+db
+98024
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/07/2024
+15/02/2023
+13.221,53
+0
+db
+98025
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/06/2024
+15/02/2023
+13.221,53
+0
+db
+98026
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/05/2024
+15/02/2023
+13.221,53
+0
+db
+98027
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/04/2024
+15/02/2023
+13.221,53
+0
+db
+98028
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/03/2024
+15/02/2023
+13.221,53
+0
+db
+98029
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/02/2024
+15/02/2023
+13.221,53
+0
+db
+98030
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/01/2024
+15/02/2023
+13.221,53
+0
+db
+98031
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/12/2023
+15/02/2023
+13.221,53
+0
+db
+98032
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/11/2023
+15/02/2023
+13.221,53
+0
+db
+98033
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/10/2023
+15/02/2023
+13.221,53
+0
+db
+98034
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/09/2023
+15/02/2023
+13.221,53
+0
+db
+98035
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/08/2023
+15/02/2023
+13.221,53
+0
+db
+98036
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+15/07/2023
+15/02/2023
+13.221,53
+0
+db
+98037
+venda c/ entrega futura veiculo - se
+1
+13.221,53
+0,00
+0,00
+740.405,68
+740.405,68
+0,00
+0,00
+total geral saldo
+5.812.038,33
+total geral pago
+461.354,81
+total geral original
+6.273.393,14
+relatórios / financeiro / contas pagar receber
+fi00042

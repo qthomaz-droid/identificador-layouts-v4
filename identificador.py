@@ -1,11 +1,10 @@
-# Arquivo: identificador.py (VERSÃO FINAL COM RETREINAMENTO INTELIGENTE)
+# Arquivo: identificador.py (VERSÃO COM TIMEOUT GRANULAR NO OCR)
 
 import os
 import fitz
 import pandas as pd
 import joblib
 import json
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import xml.etree.ElementTree as ET
 import pytesseract
@@ -14,6 +13,11 @@ import io
 import re
 from collections import defaultdict
 from tqdm import tqdm
+
+# --- CONFIGURAÇÕES ---
+# Limite de tempo (em segundos) para o OCR de UMA ÚNICA imagem.
+TIMEOUT_OCR_IMAGEM = 15
+MAX_PAGINAS_PDF = 5
 
 # ... (Configuração do Tesseract e STOPWORDS permanecem os mesmos) ...
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -33,7 +37,6 @@ ARQUIVO_VECTORIZER = 'vectorizer.joblib'
 ARQUIVO_MATRIZ_TFIDF = 'tfidf_matrix.joblib'
 ARQUIVO_LABELS = 'layout_labels.joblib'
 ARQUIVO_METADADOS = 'layouts_meta.json'
-PASTA_CACHE = 'cache_de_texto'
 VECTORIZER, TFIDF_MATRIX, LAYOUT_LABELS, METADADOS_LAYOUTS = None, None, None, {}
 MODELO_CARREGADO = False
 def carregar_modelo_e_meta():
@@ -56,13 +59,15 @@ carregar_modelo_e_meta()
 SENHAS_COMUNS = ["", "123456", "0000"]
 
 def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
-    # ... (Esta função não muda)
     texto_completo = ""
     extensao = os.path.splitext(caminho_arquivo)[1].lower()
+    nome_arquivo = os.path.basename(caminho_arquivo)
+    
     try:
         if extensao == '.pdf':
             with fitz.open(caminho_arquivo) as doc:
                 if doc.is_encrypted:
+                    # ... (lógica de senha não muda)
                     desbloqueado = False
                     if senha_manual is not None:
                         if doc.authenticate(senha_manual) > 0: desbloqueado = True
@@ -71,18 +76,33 @@ def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
                         for senha in SENHAS_COMUNS:
                             if doc.authenticate(senha) > 0: desbloqueado = True; break
                     if not desbloqueado: return "SENHA_NECESSARIA"
-                for pagina in doc:
-                    texto_completo += pagina.get_text()
+
                 for i, pagina in enumerate(doc):
-                    for img_info in pagina.get_images(full=True):
-                        xref = img_info[0]
-                        base_image = doc.extract_image(xref)
-                        image_bytes = base_image["image"]
-                        imagem = Image.open(io.BytesIO(image_bytes))
-                        texto_da_imagem = pytesseract.image_to_string(imagem, lang='por')
-                        if texto_da_imagem:
-                            texto_completo += " " + texto_da_imagem
+                    if i >= MAX_PAGINAS_PDF:
+                        break
+                    
+                    texto_completo += pagina.get_text()
+                    
+                    for img_index, img_info in enumerate(pagina.get_images(full=True)):
+                        try:
+                            xref = img_info[0]
+                            base_image = doc.extract_image(xref)
+                            image_bytes = base_image["image"]
+                            imagem = Image.open(io.BytesIO(image_bytes))
+                            
+                            # --- MUDANÇA PRINCIPAL: Timeout aplicado diretamente na chamada do OCR ---
+                            texto_da_imagem = pytesseract.image_to_string(imagem, lang='por', timeout=TIMEOUT_OCR_IMAGEM)
+                            
+                            if texto_da_imagem:
+                                texto_completo += " " + texto_da_imagem
+                        except (RuntimeError, Exception) as ocr_error:
+                            # Se o Tesseract exceder o tempo limite, ele gera um RuntimeError
+                            print(f"\n    -> AVISO: OCR de uma imagem no arquivo '{nome_arquivo}' (pág {i+1}) excedeu o tempo limite de {TIMEOUT_OCR_IMAGEM}s. Continuando com o texto já extraído.")
+                            continue # Pula para a próxima imagem
+
                 return texto_completo.lower()
+
+        # ... (código para outros formatos permanece o mesmo) ...
         elif extensao in ['.xlsx', '.xls']:
             excel_file = pd.ExcelFile(caminho_arquivo)
             for sheet_name in excel_file.sheet_names:
@@ -96,22 +116,23 @@ def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
             root = tree.getroot()
             for elem in root.iter():
                 if elem.text: texto_completo += elem.text.strip() + ' '
+
     except Exception as e:
-        nome_arquivo = os.path.basename(caminho_arquivo)
         if "partial block in aes filter" in str(e):
-            print(f"    -> AVISO: O arquivo '{nome_arquivo}' parece estar corrompido. Será ignorado.")
+            print(f"    -> AVISO: O arquivo '{nome_arquivo}' parece estar corrompido (erro de filtro AES). Ele será ignorado.")
         else:
-            print(f"    -> AVISO: Falha ao processar o arquivo '{nome_arquivo}'. Erro: {e}. Será ignorado.")
+            print(f"    -> AVISO: Falha ao processar o arquivo '{nome_arquivo}'. Erro: {e}. Ele será ignorado.")
         return None
+        
     return texto_completo.lower()
 
+
+# ... (O resto do arquivo, com as funções identificar_layout, recarregar_modelo, etc., permanece o mesmo) ...
 def normalizar_extensao(ext):
     if ext in ['xls', 'xlsx']: return 'excel'
     if ext in ['txt', 'csv']: return 'txt'
     return ext
-
 def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, senha_manual=None):
-    # ... (Esta função não muda)
     if not MODELO_CARREGADO: return {"erro": "Modelo de ML não foi treinado."}
     texto_arquivo = extrair_texto_do_arquivo(caminho_arquivo_cliente, senha_manual=senha_manual)
     if texto_arquivo in ["SENHA_NECESSARIA", "SENHA_INCORRETA"]: return texto_arquivo
@@ -146,47 +167,31 @@ def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, senha_manual=
                 "pontuacao": round(score * 100, 2)
             })
     return top_resultados
-
 def recarregar_modelo():
     print("Recarregando modelo e metadados...")
     return carregar_modelo_e_meta()
-
-# --- NOVA FUNÇÃO DE RETREINAMENTO COMPLETO ---
 def retreinar_modelo_completo():
-    """
-    Função que o bot irá chamar. Lê todo o cache, recria o corpus e
-    retreina o modelo de ML do zero, garantindo que todo o conhecimento
-    seja incluído.
-    """
     print("\n--- Iniciando Retreinamento Completo do Modelo de ML ---")
     if not os.path.exists(PASTA_CACHE):
         print("ERRO: Pasta de cache não encontrada. Não é possível retreinar.")
         return False
-
     textos_por_layout = defaultdict(str)
-    
     print("Lendo textos do cache...")
-    # O nome do arquivo no cache é 'nome_original.txt'
     for nome_arquivo_cache in tqdm(os.listdir(PASTA_CACHE), desc="Lendo cache"):
-        # Extrai o nome original para encontrar o código do layout
         nome_original = os.path.splitext(nome_arquivo_cache)[0]
         match = re.search(r'\d+', nome_original)
         if match:
             codigo_layout = match.group(0)
             with open(os.path.join(PASTA_CACHE, nome_arquivo_cache), 'r', encoding='utf-8') as f:
                 textos_por_layout[codigo_layout] += " " + f.read()
-
     if not textos_por_layout:
         print("Nenhum texto encontrado no cache para treinamento.")
         return False
-
     labels = list(textos_por_layout.keys())
     corpus = [textos_por_layout[label] for label in labels]
-    
     print("\nTreinando o vetorizador TF-IDF...")
     vectorizer = TfidfVectorizer(stop_words=STOPWORDS, norm='l2', ngram_range=(1, 2))
     tfidf_matrix = vectorizer.fit_transform(corpus)
-
     print("Salvando os novos arquivos do modelo de ML...")
     joblib.dump(vectorizer, ARQUIVO_VECTORIZER)
     joblib.dump(tfidf_matrix, ARQUIVO_MATRIZ_TFIDF)

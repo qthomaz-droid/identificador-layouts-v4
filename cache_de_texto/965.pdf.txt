@@ -1,0 +1,2322 @@
+numero
+cod
+cliente
+bc data emis data venc data paga dias pgto.
+valor
+multa
+juros
+desc
+devol
+var. (-)
+var. (+)
+correção
+líquido
+plano contas
+23170-1
+3330 correias rubbermax 
+industria e comercio 
+ltda
+13
+01/03/2023
+01/03/2023
+01/03/2023
+0
+3.408,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+3.408,00 369 - imobilizado máquina
+3790-1
+1972 mondo irrigacao 
+comercio, importacao e 
+exportacao eireli - e
+13
+01/03/2023
+01/03/2023
+01/03/2023
+0
+200,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+200,00 292 - revenda nacional
+4-1
+3452 49.189.198 maria de fatima 
+rodrigues do amaral
+4
+01/03/2023
+03/03/2023
+03/03/2023
+0
+5.416,66
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+5.416,66 325 - adm pj
+647-1
+987 grav laser corte e 
+gravacoes ltda
+6
+03/03/2023
+03/03/2023
+03/03/2023
+0
+700,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+700,00 412 - serviço industrialização terceiro
+1280-1
+3455 kbl outsourcing 
+contabil ltda
+4
+03/03/2023
+03/03/2023
+03/03/2023
+0
+5.280,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+5.280,00 274 - contabilidade
+18-1
+1230 welinton berto de souza 
+paula 04424885135
+4
+03/03/2023
+03/03/2023
+03/03/2023
+0
+4.333,33
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+4.333,33 325 - adm pj
+151415149-1
+3126 banco do brasil sa
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+16,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+16,00 93 - tarifa de cartão
+305994-1
+819 censi industria de 
+produtos 
+hidrossanitarios ltda
+4
+17/02/2023
+03/03/2023
+06/03/2023
+3
+827,42
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+827,42 292 - revenda nacional
+022023-1
+1913 claudione dos reis 
+fernandes evangelista
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+1.402,20
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.402,20 327 - adm salário
+532-1
+3191 contronweb tecnologia 
+ltda
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+4.082,84
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+4.082,84 397 - sistema de gestão
+3-1
+4421 d c de sousa maded 
+digital ltda
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+2.010,20
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.010,20 338 - marketing pj
+4043-1
+468 dalcamp industria 
+tecnica ltda
+4
+28/02/2023
+10/03/2023
+06/03/2023
+-4
+2.565,66
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.565,66 412 - serviço industrialização terceiro
+022023-1
+566 denise batista dos 
+santos braga
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+1.239,28
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.239,28 215 - comercial salario
+022023-1
+3195 eraldo melo do carmo
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+2.298,91
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.298,91 162 - indústria salário
+3196-1
+3196 fausto locacao e 
+comercio de informatica 
+ltda
+4
+03/01/2023
+03/03/2023
+06/03/2023
+3
+440,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+440,00 292 - revenda nacional
+50048-1
+3507 fermaqui comercio eireli
+4
+10/02/2023
+09/03/2023
+06/03/2023
+-3
+262,63
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+262,63 308 - esocial/epi
+7680-1
+944 industria e comercio de 
+conexoes catarinense 
+ltda
+4
+27/01/2023
+10/03/2023
+06/03/2023
+-4
+690,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+690,00 292 - revenda nacional
+7721-1
+944 industria e comercio de 
+conexoes catarinense 
+ltda
+4
+08/02/2023
+08/03/2023
+06/03/2023
+-2
+380,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+380,00 292 - revenda nacional
+20527-1
+673 irrigaplan industria e 
+comercio de 
+equipamentos de 
+irrigacao ltda
+4
+13/02/2023
+09/03/2023
+06/03/2023
+-3
+989,50
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+989,50 292 - revenda nacional
+022023-1
+1348 jessica silva paiva
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+867,17
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+867,17 215 - comercial salario
+171623-1
+652 patola eletroplasticos 
+ind e com ltda
+4
+31/01/2023
+08/03/2023
+06/03/2023
+-2
+2.115,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.115,00 413 - remotus
+35854-1
+367 plasnova louveira 
+industria e comercio 
+ltda
+4
+13/02/2023
+08/03/2023
+06/03/2023
+-2
+1.542,75
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.542,75 292 - revenda nacional
+022023-1
+400 receita federal
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+203,20
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+203,20 311 - fgts
+022023-2
+400 receita federal
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+355,88
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+355,88 311 - fgts
+5148153-3-1
+400 receita federal
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+10,61
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+10,61 313 - irrf
+05/05/2023 10:58:14
+pag: 1 de 8
+relação de baixas a pagar
+ pluvi
+
+tem pluv: tem água
+953-1
+1448 restaurante botanico 
+ltda
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+617,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+617,00 316 - vale alimentação
+022023-1
+309 rosane maria dos santos
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+1.158,78
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.158,78 366 - prolabore rosane
+309-1
+309 rosane maria dos santos
+6
+17/06/2022
+19/06/2023
+06/03/2023
+-105
+2.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.000,00 362 - mutuo despesa
+309-1
+309 rosane maria dos santos
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+270,19
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+270,19 350 - viagem compra
+2279-1
+3503 thermo- pa industria e 
+comãƒâ€°rcio ltda- me
+4
+08/02/2023
+08/03/2023
+06/03/2023
+-2
+1.500,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.500,00 292 - revenda nacional
+13391-1-1
+1636 tripar bsb 
+administradora de 
+cartoes ltda
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+1.900,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.900,00 251 - consultoria
+13391-1-2
+1636 tripar bsb 
+administradora de 
+cartoes ltda
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+1.400,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.400,00 162 - indústria salário
+13391-1-3
+1636 tripar bsb 
+administradora de 
+cartoes ltda
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+500,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+500,00 365 - diretoria combustível
+13391-1-4
+1636 tripar bsb 
+administradora de 
+cartoes ltda
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+38,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+38,00 93 - tarifa de cartão
+022023-1
+3198 wbegne ferreira de 
+freitas
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+600,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+600,00 327 - adm salário
+18795489-1
+3132 yapay pagamentos online 
+ltda
+4
+06/03/2023
+06/03/2023
+06/03/2023
+0
+139,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+139,00 341 - sistema tray
+83-1
+388 santana representantes 
+ltda
+6
+06/03/2023
+07/03/2023
+07/03/2023
+0
+7.991,65
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+7.991,65 122 - comercial pj
+ped-97-1
+3481 marcus vinicius zavarez
+13
+08/03/2023
+08/03/2023
+08/03/2023
+0
+19,20
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19,20 375 - receita venda de imobilizado
+4353-1
+3499 alexandre borges dos 
+santos
+3
+28/02/2023
+28/02/2023
+09/03/2023
+9
+2,55
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2,55 408 - devolucoes de clientes
+104-1
+711 acquatec urupes 
+irrigacao ltda
+14
+09/03/2023
+09/03/2023
+10/03/2023
+1
+1.084,65
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.084,65 375 - receita venda de imobilizado
+46986313-1
+806 celg distribuicao s.a. - 
+celg d
+4
+24/02/2023
+12/03/2023
+10/03/2023
+-2
+439,47
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+439,47 213 - energia
+181-1
+2896 mix solucoes de 
+informatica ltda
+4
+10/03/2023
+10/03/2023
+10/03/2023
+0
+440,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+440,00 377 - receita emprestimo
+43-1
+505 patricia da silva simao 
+01892160188
+4
+10/03/2023
+10/03/2023
+10/03/2023
+0
+1.500,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.500,00 304 - comissão vendedor externo
+9029-1
+1075 paulo rodrigues da silva 
+eireli
+14
+10/03/2023
+10/03/2023
+10/03/2023
+0
+951,71
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+951,71 375 - receita venda de imobilizado
+29-1
+969 pedro paulo filizzola 
+francalacci 01321520107
+4
+10/03/2023
+10/03/2023
+10/03/2023
+0
+2.200,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.200,00 338 - marketing pj
+022023-1
+681 prefeitura municipal 
+municipio de goiania
+4
+10/03/2023
+10/03/2023
+10/03/2023
+0
+100,47
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+100,47 294 - iss
+2192229278-
+1
+816 saneamento de goias s/a
+4
+17/02/2023
+28/02/2023
+10/03/2023
+10
+178,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+178,00 133 - água
+73968-1
+1307 suasvendas pagamentos 
+ltda
+4
+02/03/2023
+10/03/2023
+10/03/2023
+0
+129,31
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+129,31 340 - sistema comercial
+14169-1
+1636 tripar bsb 
+administradora de 
+cartoes ltda
+4
+10/03/2023
+10/03/2023
+10/03/2023
+0
+195,92
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+195,92 316 - vale alimentação
+14169-2
+1636 tripar bsb 
+administradora de 
+cartoes ltda
+4
+10/03/2023
+10/03/2023
+10/03/2023
+0
+500,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+500,00 365 - diretoria combustível
+14169-3
+1636 tripar bsb 
+administradora de 
+cartoes ltda
+4
+10/03/2023
+10/03/2023
+10/03/2023
+0
+5,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+5,00 93 - tarifa de cartão
+05/05/2023 10:58:14
+pag: 2 de 8
+relação de baixas a pagar
+ pluvi
+
+tem pluv: tem água
+46402-1
+494 a.l materiais para 
+irrigacao, maquinas e 
+ferragens eireli
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+26,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+26,00 369 - imobilizado máquina
+66939-1
+1253 ajel construtora ltda
+4
+31/01/2023
+13/03/2023
+13/03/2023
+0
+1.314,16
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.314,16 369 - imobilizado máquina
+69383-1
+1253 ajel construtora ltda
+4
+15/02/2023
+15/03/2023
+13/03/2023
+-2
+820,14
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+820,14 369 - imobilizado máquina
+784748-1
+165 ajel materiais eletricos 
+ltda
+4
+18/01/2023
+14/03/2023
+13/03/2023
+-1
+553,86
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+553,86 292 - revenda nacional
+792971-1
+165 ajel materiais eletricos 
+ltda
+4
+17/02/2023
+15/03/2023
+13/03/2023
+-2
+1.142,01
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.142,01 369 - imobilizado máquina
+154552-1
+1315 ajel montagem e 
+automacao ind. ltda
+4
+18/01/2023
+14/03/2023
+13/03/2023
+-1
+1.162,95
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.162,95 369 - imobilizado máquina
+39115-1
+480 akato industria de 
+produtos para 
+construcao civil ltda
+4
+24/01/2023
+14/03/2023
+13/03/2023
+-1
+7.890,75
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+7.890,75 292 - revenda nacional
+86-1
+1757 alex de oliveira 
+carvalho souza 
+82456488172
+6
+13/03/2023
+13/03/2023
+13/03/2023
+0
+120,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+120,00 284 - etiqueta/ribbon/adesivo
+64664-1
+2609 azurelog transportes 
+ltda
+4
+28/02/2023
+13/03/2023
+13/03/2023
+0
+982,43
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+982,43 292 - revenda nacional
+900-1
+900 banco itaucard s.a.
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+18,75
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+18,75 93 - tarifa de cartão
+96-1
+4960 bruno gomes vieira 
+02636084177
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+34,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+34,00 316 - vale alimentação
+10896-1
+899 bsv comercio de 
+valvulas e controles 
+industriais ltda
+4
+27/01/2023
+13/03/2023
+13/03/2023
+0
+1.853,53
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.853,53 292 - revenda nacional
+879803-2
+497 caiapo cargas - sao
+4
+22/02/2023
+09/03/2023
+13/03/2023
+4
+128,77
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+128,77 292 - revenda nacional
+305994-2
+819 censi industria de 
+produtos 
+hidrossanitarios ltda
+4
+17/02/2023
+10/03/2023
+13/03/2023
+3
+827,42
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+827,42 292 - revenda nacional
+271874-1
+1237 devintex cosmeticos ltda
+4
+01/03/2023
+17/03/2023
+13/03/2023
+-4
+29,58
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+29,58 371 - imobilizado móveis/utensílios
+271875-1
+1237 devintex cosmeticos ltda
+4
+01/03/2023
+17/03/2023
+13/03/2023
+-4
+29,61
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+29,61 371 - imobilizado móveis/utensílios
+75023-2
+12 duro pvc ltda
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+21,21
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+21,21 369 - imobilizado máquina
+75037-1
+12 duro pvc ltda
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+274,55
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+274,55 369 - imobilizado máquina
+9327-1
+3340 edificon engenharia e 
+energia ltda
+14
+10/03/2023
+10/03/2023
+13/03/2023
+3
+786,13
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+786,13 375 - receita venda de imobilizado
+652-1
+3454 fernando atie sociedade 
+individual de advocacia
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+1.500,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.500,00 161 - advogado
+466750-4
+2938 fujioka eletro imagem 
+s.a.
+4
+24/11/2022
+13/03/2023
+13/03/2023
+0
+114,94
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+114,94 371 - imobilizado móveis/utensílios
+5-1
+2538 gigantes da agua const. 
+de redes hidraulicas 
+ltda.
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+921,73
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+921,73 304 - comissão vendedor externo
+4910-1
+4910 google brasil internet 
+ltda.
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+800,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+800,00 342 - tráfego google
+1348-1
+1348 jessica silva paiva
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+500,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+500,00 215 - comercial salario
+3183-1
+3183 meets tecnologia da 
+informacao ltda
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+510,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+510,00 377 - receita emprestimo
+16127-1
+4707 mercado do marceneiro 
+ltda
+4
+01/03/2023
+17/03/2023
+13/03/2023
+-4
+198,35
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+198,35 369 - imobilizado máquina
+181-1
+2896 mix solucoes de 
+informatica ltda
+14
+13/03/2023
+13/03/2023
+13/03/2023
+0
+440,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+440,00 397 - sistema de gestão
+14757-1
+4863 moema comercial de 
+borrachas ltda
+4
+02/03/2023
+17/03/2023
+13/03/2023
+-4
+14,37
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+14,37 369 - imobilizado máquina
+05/05/2023 10:58:14
+pag: 3 de 8
+relação de baixas a pagar
+ pluvi
+
+tem pluv: tem água
+16357-3
+4863 moema comercial de 
+borrachas ltda
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+6,65
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+6,65 369 - imobilizado máquina
+13845-1
+3502 multi embalagens eireli
+8
+02/02/2023
+04/03/2023
+13/03/2023
+9
+156,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+156,00 286 - fita gomada
+235913-1
+1024 ouro verde locacao e 
+servico s.a.
+4
+10/02/2023
+13/03/2023
+13/03/2023
+0
+2.748,90
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.748,90 345 - veículo aluguel
+35897-1
+367 plasnova louveira 
+industria e comercio 
+ltda
+4
+22/02/2023
+15/03/2023
+13/03/2023
+-2
+1.792,75
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.792,75 292 - revenda nacional
+552787-1
+881 plastilit prod. plasticos 
+do parana s a
+4
+14/02/2023
+17/03/2023
+13/03/2023
+-4
+439,70
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+439,70 292 - revenda nacional
+553323-1
+881 plastilit prod. plasticos 
+do parana s a
+4
+13/02/2023
+06/03/2023
+13/03/2023
+7
+1.052,86
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.052,86 292 - revenda nacional
+1-1
+1 pluvi tecnologia e 
+irrigacao ltda
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+0,46
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,46 411 - tarifa cobrança
+1-1
+1 pluvi tecnologia e 
+irrigacao ltda
+8
+13/03/2023
+13/03/2023
+13/03/2023
+0
+772,57
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+772,57 346 - veículo combustivel
+38567465-3
+374 rodonaves transportes 
+e encomendas ltda
+4
+24/02/2023
+06/03/2023
+13/03/2023
+7
+224,67
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+224,67 407 - frete compra
+2745-1
+2745 rodrigo brito ferreira
+8
+13/03/2023
+13/03/2023
+13/03/2023
+0
+1.525,01
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.525,01 350 - viagem compra
+2745-1
+2745 rodrigo brito ferreira
+8
+13/03/2023
+13/03/2023
+13/03/2023
+0
+1.452,22
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.452,22 365 - diretoria combustível
+309-1
+309 rosane maria dos santos
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+511,94
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+511,94 369 - imobilizado máquina
+4893-1
+3376 s de s silva
+8
+16/02/2023
+18/03/2023
+13/03/2023
+-5
+316,50
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+316,50 369 - imobilizado máquina
+4901-1
+4901 sem parar instituicao de 
+pagamento ltda
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+200,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+200,00 347 - veículo pedágio
+1800914655
+9-1
+3193 sompo seguros s.a.
+4
+10/02/2023
+15/03/2023
+13/03/2023
+-2
+139,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+139,00 292 - revenda nacional
+1149-1
+370 tecgesco - tecnologia 
+para gestao do 
+conhecimento
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+298,48
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+298,48 397 - sistema de gestão
+289367-1
+901 tg transportes gerais e 
+distribuicao ltda
+4
+13/03/2023
+13/03/2023
+13/03/2023
+0
+256,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+256,00 391 - frete venda
+2285-2
+3503 thermo- pa industria e 
+comãƒâ€°rcio ltda- me
+4
+24/02/2023
+17/03/2023
+13/03/2023
+-4
+1.345,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.345,00 330 - manutenção equipamentos diversos
+331-2
+3512 vitrine moveis e 
+equipamentos ltda
+4
+28/02/2023
+13/03/2023
+13/03/2023
+0
+360,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+360,00 371 - imobilizado móveis/utensílios
+92-1
+811 belo atacado 
+distribuidora e 
+representacoes ltda
+14
+10/03/2023
+13/03/2023
+14/03/2023
+1
+1.389,60
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.389,60 375 - receita venda de imobilizado
+77-1
+3275 rosembergue hubner 
+pereira 03639073606
+14
+10/03/2023
+10/03/2023
+15/03/2023
+5
+4.120,39
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+4.120,39 375 - receita venda de imobilizado
+140-1
+1131 victor hugo araujo do 
+vale ltda
+14
+13/03/2023
+13/03/2023
+15/03/2023
+2
+15.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+15.000,00 375 - receita venda de imobilizado
+140-1
+1131 victor hugo araujo do 
+vale ltda
+14
+13/03/2023
+13/03/2023
+15/03/2023
+2
+246,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+246,00 375 - receita venda de imobilizado
+174-1
+732 camila santos pereira 
+marques 13027726781
+14
+14/03/2023
+14/03/2023
+16/03/2023
+2
+6.672,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+6.672,00 375 - receita venda de imobilizado
+30603795-1
+3184 alternativa marcas e 
+patentes ltda
+4
+14/03/2023
+17/03/2023
+17/03/2023
+0
+651,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+651,00 415 - integralizacao de capital sicoob
+2051-1
+1486 dolci nonna panificadora 
+eireli
+4
+17/03/2023
+17/03/2023
+17/03/2023
+0
+305,51
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+305,51 110 - copa/lanche
+1-1
+12 duro pvc ltda
+4
+17/03/2023
+17/03/2023
+17/03/2023
+0
+2.480,58
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.480,58 377 - receita emprestimo
+3-1
+1156 eli verli silverol junior 
+04667217308
+4
+17/03/2023
+17/03/2023
+17/03/2023
+0
+767,70
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+767,70 304 - comissão vendedor externo
+3550-1
+721 hm assessoria contabil 
+ss ltda
+4
+17/03/2023
+17/03/2023
+17/03/2023
+0
+1.302,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.302,00 274 - contabilidade
+05/05/2023 10:58:14
+pag: 4 de 8
+relação de baixas a pagar
+ pluvi
+
+tem pluv: tem água
+7783-1
+2789 instituto nacional da 
+propriedade industrial
+4
+14/03/2023
+17/03/2023
+17/03/2023
+0
+298,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+298,00 415 - integralizacao de capital sicoob
+1348-1
+1348 jessica silva paiva
+4
+17/03/2023
+17/03/2023
+17/03/2023
+0
+574,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+574,00 414 - adiantamento salarial
+10043900-1
+400 receita federal
+4
+17/03/2023
+17/03/2023
+17/03/2023
+0
+26,66
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+26,66 420 - pis/ cofins/ csll a recolher - pcc 5952
+64382014-1
+400 receita federal
+4
+17/03/2023
+17/03/2023
+17/03/2023
+0
+2.727,85
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.727,85 312 - inss
+139-1
+1918 zm cavalcante e siqueira 
+ltda
+14
+16/03/2023
+16/03/2023
+17/03/2023
+1
+525,87
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+525,87 375 - receita venda de imobilizado
+35670-3
+363 algcom industria e 
+servicos em 
+telecomunicacoes ltda
+6
+26/01/2023
+19/03/2023
+20/03/2023
+1
+4.283,96
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+4.283,96 292 - revenda nacional
+75021-1
+12 duro pvc ltda
+14
+20/03/2023
+20/03/2023
+20/03/2023
+0
+2.480,58
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.480,58 292 - revenda nacional
+27739-1
+1309 guard sistemas de 
+seguranca ltda-me
+6
+20/03/2023
+20/03/2023
+20/03/2023
+0
+330,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+330,00 395 - monitoramento
+52921-1
+1416 pivot equipamentos 
+agricolas e irrigacao 
+ltda.
+6
+22/02/2023
+19/03/2023
+20/03/2023
+1
+525,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+525,00 292 - revenda nacional
+20-1
+3194 ramos solucoes 
+industriais ltda
+6
+20/03/2023
+20/03/2023
+20/03/2023
+0
+1.663,20
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.663,20 369 - imobilizado máquina
+077-1
+2936 replast industria e 
+comercio ltda
+6
+20/03/2023
+20/03/2023
+20/03/2023
+0
+25.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+25.000,00 377 - receita emprestimo
+4742-1
+281 terra molhada irrigacao 
+e distribuicao de agua 
+ltda.
+6
+28/02/2023
+18/03/2023
+20/03/2023
+2
+288,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+288,00 292 - revenda nacional
+290076-1
+901 tg transportes gerais e 
+distribuicao ltda
+6
+20/03/2023
+20/03/2023
+20/03/2023
+0
+230,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+230,00 391 - frete venda
+134155-1
+953 ebara bombas america do 
+sul ltda
+6
+26/01/2023
+21/03/2023
+21/03/2023
+0
+303,30
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+303,30 369 - imobilizado máquina
+139-1
+3256 eliano câmara dias
+5
+20/03/2023
+20/03/2023
+21/03/2023
+1
+958,92
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+958,92 304 - comissão vendedor externo
+228-1
+1352 washington temoteo 
+ferras
+14
+20/03/2023
+20/03/2023
+21/03/2023
+1
+752,25
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+752,25 375 - receita venda de imobilizado
+35854-1
+367 plasnova louveira 
+industria e comercio 
+ltda
+6
+13/02/2023
+22/03/2023
+22/03/2023
+0
+1.542,75
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.542,75 292 - revenda nacional
+958-1
+1448 restaurante botanico 
+ltda
+6
+20/03/2023
+22/03/2023
+22/03/2023
+0
+1.200,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.200,00 316 - vale alimentação
+290576-1
+901 tg transportes gerais e 
+distribuicao ltda
+6
+22/03/2023
+22/03/2023
+22/03/2023
+0
+170,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+170,00 391 - frete venda
+46399-1
+494 a.l materiais para 
+irrigacao, maquinas e 
+ferragens eireli
+6
+23/03/2023
+23/03/2023
+23/03/2023
+0
+257,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+257,00 369 - imobilizado máquina
+20527-2
+673 irrigaplan industria e 
+comercio de 
+equipamentos de 
+irrigacao ltda
+6
+13/02/2023
+23/03/2023
+23/03/2023
+0
+989,50
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+989,50 292 - revenda nacional
+237-1
+4553 joaquim antonio araujo
+14
+22/03/2023
+22/03/2023
+23/03/2023
+1
+470,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+470,00 375 - receita venda de imobilizado
+134294-2
+953 ebara bombas america do 
+sul ltda
+5
+26/01/2023
+24/03/2023
+24/03/2023
+0
+1.514,84
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.514,84 369 - imobilizado máquina
+20404-1
+673 irrigaplan industria e 
+comercio de 
+equipamentos de 
+irrigacao ltda
+5
+31/01/2023
+24/03/2023
+24/03/2023
+0
+707,98
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+707,98 292 - revenda nacional
+50878833-1
+400 receita federal
+5
+24/03/2023
+24/03/2023
+24/03/2023
+0
+257,21
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+257,21 297 - pis
+50944518-1
+400 receita federal
+5
+24/03/2023
+24/03/2023
+24/03/2023
+0
+1.187,08
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.187,08 293 - cofins
+05/05/2023 10:58:14
+pag: 5 de 8
+relação de baixas a pagar
+ pluvi
+
+tem pluv: tem água

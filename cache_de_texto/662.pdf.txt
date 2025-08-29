@@ -1,0 +1,1561 @@
+ 
+data da transação: 01/08/2022 até
+31/08/2022 
+status da transação: 
+todas 
+todos estabelecimentos: não 
+valor líquido da transação contempla somente o desconto de taxa
+administrativa, estando sujeito à aplicação das demais taxas
+contratuais. 
+  legenda
+código
+autorização:  
+   ( v )
+transacão
+válida
+   ( p )
+transação
+pendente
+   (c)
+transação
+cancelada
+estab.
+código
+autorização
+data /
+hora
+qtd.
+parc.
+lote
+data de
+pagamento
+status
+pagamento
+número
+d o
+reembolso
+cartão
+cliente
+produto
+rede
+captura
+tipo de
+combustível
+qtde
+litros
+valor
+bruto da
+transação
+taxa
+adm.
+valor
+descontado
+valor
+líquido da
+transação
+compra
+22556662000185
+795371440 01/08/2022
+10:50:44
+1 142260025 
+02/08/2022
+pago
+194828493 603574******6630
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+40.00
+223,60
+4,40 %
++ r$
+0,08 
+13,04
+210,56 
+22556662000185
+795465010 01/08/2022
+16:41:15
+1 142260025 
+02/08/2022
+pago
+194828493 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+45.41
+336,03
+4,40 %
++ r$
+0,07 
+17,97
+318,06 
+22556662000185
+795506255 01/08/2022
+20:49:44
+1 142260025 
+02/08/2022
+pago
+194828493 603574******3558
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+48.91
+361,93
+4,40 %
++ r$
+0,07 
+19,34
+342,59 
+22556662000185
+795542063 02/08/2022
+07:49:22
+1 142275701 
+03/08/2022
+pago
+195028645 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+24.00
+134,16
+4,40 %
++ r$
+0,08 
+7,82
+126,34 
+22556662000185
+795575914 02/08/2022
+09:37:44
+1 142275701 
+03/08/2022
+pago
+195028645 603574******8457
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+69.00
+510,60
+4,40 %
++ r$
+0,07 
+27,30
+483,30 
+22556662000185
+795651929 02/08/2022
+15:11:40
+1 142275701 
+03/08/2022
+pago
+195028645 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+44.83
+331,74
+4,40 %
++ r$
+0,07 
+17,74
+314,00 
+22556662000185
+795708913 02/08/2022
+20:01:19
+1 142275701 
+03/08/2022
+pago
+195028645 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+47.00
+347,80
+4,40 %
++ r$
+0,07 
+18,59
+329,21 
+22556662000185
+795805009 03/08/2022
+11:25:02
+1 142290706 
+04/08/2022
+pago
+195233190 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+37.51
+277,57
+4,40 %
++ r$
+0,07 
+14,84
+262,73 
+22556662000185
+795836245 03/08/2022
+13:56:36
+1 142290706 
+04/08/2022
+pago
+195233190 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+34.00
+183,07
+4,40 %
++ r$
+0,08 
+10,78
+172,29 
+22556662000185
+795877846 03/08/2022
+16:53:41
+1 142290706 
+04/08/2022
+pago
+195233190 603574******3558
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+40.00
+296,00
+4,40 %
++ r$
+0,07 
+15,82
+280,18 
+22556662000185
+795893728 03/08/2022
+17:59:26
+1 142290706 
+04/08/2022
+pago
+195233190 603574******1416
+j a teixeira
+veterinaria
+ltda
+cargo software
+express
+gasolina
+comum
+29.00
+157,07
+2,70 %
++ r$
+0,08 
+6,56
+150,51 
+22556662000185
+795914932 03/08/2022
+20:14:36
+1 142290706 
+04/08/2022
+pago
+195233190 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+27.00
+199,80
+4,40 %
++ r$
+0,07 
+10,68
+189,12 
+22556662000185
+796027879 04/08/2022
+13:03:12
+1 142304665 
+05/08/2022
+pago
+195431748 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+34.19
+253,01
+4,40 %
++ r$
+0,07 
+13,52
+239,49 
+22556662000185
+796032424 04/08/2022
+13:20:40
+1 142304665 
+05/08/2022
+pago
+195431748 603574******3558
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+16.21
+119,95
+4,40 %
++ r$
+0,07 
+6,41
+113,54 
+22556662000185
+796034066 04/08/2022
+13:31:06
+1 142304665 
+05/08/2022
+pago
+195431748 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+44.00
+239,80
+4,40 %
++ r$
+0,08 
+14,07
+225,73 
+22556662000185
+796048156 04/08/2022
+14:35:33
+1 142304665 
+05/08/2022
+pago
+195431748 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+30.31
+224,29
+4,40 %
++ r$
+0,07 
+11,99
+212,30 
+22556662000185
+796113052 04/08/2022
+19:25:28
+1 142304665 
+05/08/2022
+pago
+195431748 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+29.00
+158,05
+4,40 %
++ r$
+0,08 
+9,27
+148,78 
+22556662000185
+796186908 05/08/2022
+09:32:51
+1 142340351 
+08/08/2022
+pago
+195778137 603574******3558
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+31.00
+229,40
+4,40 %
++ r$
+0,07 
+12,26
+217,14 
+22556662000185
+796240799 05/08/2022
+13:33:17
+1 142340351 
+08/08/2022
+pago
+195778137 603574******8457
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+39.01
+283,21
+4,40 %
++ r$
+0,07 
+15,19
+268,02 
+22556662000185
+796241294 05/08/2022
+13:37:34
+1 142340351 
+08/08/2022
+pago
+195778137 603574******2974
+fundacao
+instit bras de
+geografia e
+estatistica ibge
+fleet software
+express
+gasolina
+comum
+6.00
+30,02
+4,40 %
++ r$
+0,08 
+1,80
+28,22 
+22556662000185
+796248971 05/08/2022
+14:07:21
+1 142340351 
+08/08/2022
+pago
+195778137 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+29.57
+214,68
+4,40 %
++ r$
+0,07 
+11,52
+203,16 
+22556662000185
+796274139 05/08/2022
+14:47:10
+1 142340351 
+08/08/2022
+pago
+195778137 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+35.00
+190,75
+4,40 %
++ r$
+0,08 
+11,19
+179,56 
+22556662000185
+796332730 05/08/2022
+18:32:37
+1 142340351 
+08/08/2022
+pago
+195778137 603574******3558
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+25.50
+185,13
+4,40 %
++ r$
+0,07 
+9,94
+175,19 
+22556662000185
+796375219 06/08/2022
+07:29:05
+1 142340351 
+08/08/2022
+pago
+195778137 603574******3558
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+41.00
+297,66
+4,40 %
++ r$
+0,07 
+15,97
+281,69 
+22556662000185
+796402607 06/08/2022
+10:25:11
+1 142340351 
+08/08/2022
+pago
+195778137 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+34.00
+185,30
+4,40 %
++ r$
+0,08 
+10,87
+174,43 
+22556662000185
+796409495 06/08/2022
+11:16:13
+1 142340351 
+08/08/2022
+pago
+195778137 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+30.51
+221,50
+4,40 %
++ r$
+0,07 
+11,89
+209,61 
+22556662000185
+796426453 06/08/2022
+14:12:41
+1 142340351 
+08/08/2022
+pago
+195778137 603574******9599
+auto mecanica
+ibiruba sa
+fleet software
+express
+diesel s-10
+comum
+61.99
+450,05
+2,70 %
++ r$
+0,07 
+16,49
+433,56 
+22556662000185
+796451122 06/08/2022
+18:21:54
+1 142340351 
+08/08/2022
+pago
+195778137 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+37.00
+201,65
+4,40 %
++ r$
+0,08 
+11,83
+189,82 
+22556662000185
+796487207 07/08/2022
+12:00:56
+1 142340351 
+08/08/2022
+pago
+195778137 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+42.29
+307,03
+4,40 %
++ r$
+0,07 
+16,47
+290,56 
+22556662000185
+796495735 07/08/2022
+15:05:25
+1 142340351 
+08/08/2022
+pago
+195778137 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+32.92
+239,00
+4,40 %
++ r$
+0,07 
+12,82
+226,18 
+22556662000185
+796510996 07/08/2022
+19:33:32
+1 142340351 
+08/08/2022
+pago
+195778137 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+26.00
+141,70
+4,40 %
++ r$
+0,08 
+8,31
+133,39 
+22556662000185
+796582315 08/08/2022
+09:06:08
+1 142362989 
+09/08/2022
+pago
+196024333 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+30.00
+163,50
+4,40 %
++ r$
+0,08 
+9,59
+153,91 
+22556662000185
+796639930 08/08/2022
+12:13:38
+1 142362989 
+09/08/2022
+pago
+196024333 603574******1935
+tribunal de
+justica do rs
+fleet software
+express
+gasolina
+comum
+57.00
+310,10
+4,40 %
++ r$
+0,08 
+18,20
+291,90 
+22556662000185
+796726089 08/08/2022
+18:43:15
+1 142362989 
+09/08/2022
+pago
+196024333 603574******9104
+pepsico do
+brasil ltda
+fleet software
+express
+diesel s-10
+comum
+92.00
+667,92
+2,70 %
++ r$
+0,07 
+24,47
+643,45 
+22556662000185
+796739249 08/08/2022
+20:31:51
+1 142362989 
+09/08/2022
+pago
+196024333 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+32.00
+174,40
+4,40 %
++ r$
+0,08 
+10,23
+164,17 
+22556662000185
+796898155 09/08/2022
+17:13:08
+1 142378619 
+10/08/2022
+pago
+196252162 603574******7473
+topflex
+distribuidor
+de alimentos
+ltda
+cargo software
+express
+gasolina
+comum
+29.00
+156,09
+2,70 %
++ r$
+0,08 
+6,53
+149,56 
+22556662000185
+796911293 09/08/2022
+18:16:18
+1 142378619 
+10/08/2022
+pago
+196252162 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+46.00
+250,70
+4,40 %
++ r$
+0,08 
+14,71
+235,99 
+22556662000185
+796912346 09/08/2022
+18:22:15
+1 142378619 
+10/08/2022
+pago
+196252162 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+49.00
+265,09
+4,40 %
++ r$
+0,08 
+15,58
+249,51 
+22556662000185
+796962638 10/08/2022
+07:51:46
+1 142391898 
+11/08/2022
+pago
+196434520 603574******9784
+eqs
+engenharia sa
+fleet software
+express
+gasolina
+comum
+37.00
+200,00
+2,70 %
++ r$
+0,08 
+8,36
+191,64 
+22556662000185
+797019254 10/08/2022
+11:27:53
+1 142391898 
+11/08/2022
+pago
+196434520 603574******9079
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+58.27
+423,04
+4,40 %
++ r$
+0,07 
+22,69
+400,35 
+22556662000185
+797067142 10/08/2022
+15:29:49
+1 142391898 
+11/08/2022
+pago
+196434520 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+61.25
+444,67
+4,40 %
++ r$
+0,07 
+23,86
+420,81 
+22556662000185
+797082266 10/08/2022
+16:34:41
+1 142391898 
+11/08/2022
+pago
+196434520 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+60.06
+436,03
+4,40 %
++ r$
+0,07 
+23,39
+412,64 
+22556662000185
+797096525 10/08/2022
+17:36:23
+1 142391898 
+11/08/2022
+pago
+196434520 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+38.00
+206,28
+4,40 %
++ r$
+0,08 
+12,12
+194,16 
+22556662000185
+797123066 10/08/2022
+20:05:54
+1 142391898 
+11/08/2022
+pago
+196434520 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+31.00
+168,95
+4,40 %
++ r$
+0,08 
+9,91
+159,04 
+22556662000185
+797125427 10/08/2022
+20:33:43
+1 142391898 
+11/08/2022
+pago
+196434520 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+56.00
+406,56
+4,40 %
++ r$
+0,07 
+21,81
+384,75 
+22556662000185
+797154139 11/08/2022
+07:35:26
+1 142405449 
+12/08/2022
+pago
+196639697 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+60.00
+435,60
+4,40 %
++ r$
+0,07 
+23,37
+412,23 
+22556662000185
+797194145 11/08/2022
+09:44:03
+1 142405449 
+12/08/2022
+pago
+196639697 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+48.63
+353,05
+4,40 %
++ r$
+0,07 
+18,93
+334,12 
+22556662000185
+797267270 11/08/2022
+14:33:46
+1 142405449 
+12/08/2022
+pago
+196639697 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+65.64
+476,55
+4,40 %
++ r$
+0,07 
+25,56
+450,99 
+22556662000185
+797392956 12/08/2022
+08:54:37
+1 142443680 
+15/08/2022
+pago
+196979853 603574******9784
+eqs
+engenharia sa
+fleet software
+express
+gasolina
+comum
+30.00
+156,04
+2,70 %
++ r$
+0,08 
+6,61
+149,43 
+22556662000185
+797408950 12/08/2022
+09:50:38
+1 142443680 
+15/08/2022
+pago
+196979853 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+35.27
+256,06
+4,40 %
++ r$
+0,07 
+13,74
+242,32 
+22556662000185
+797548612 12/08/2022
+19:26:27
+1 142443680 
+15/08/2022
+pago
+196979853 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+63.00
+438,48
+4,40 %
++ r$
+0,07 
+23,70
+414,78 
+22556662000185
+797549161 12/08/2022
+19:29:30
+1 142443680 
+15/08/2022
+pago
+196979853 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet
+sysdata
+diesel s-10
+comum
+40.43
+293,52
+4,40 %
++ r$
+0,07 
+15,74
+277,78 
+22556662000185
+797552000 12/08/2022
+19:49:14
+1 142443680 
+15/08/2022
+pago
+196979853 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet
+sysdata
+gasolina
+comum
+47.01
+256,20
+4,40 %
++ r$
+0,08 
+15,03
+241,17 
+22556662000185
+797557181 12/08/2022
+20:22:23
+1 142443680 
+15/08/2022
+pago
+196979853 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+40.00
+218,00
+4,40 %
++ r$
+0,08 
+12,79
+205,21 
+22556662000185
+797605521 13/08/2022
+10:21:16
+1 142443680 
+15/08/2022
+pago
+196979853 603574******0989
+sociedade
+meridional de
+educacao some
+fleet software
+express
+gasolina
+comum
+50.00
+272,50
+2,70 %
++ r$
+0,08 
+11,36
+261,14 
+22556662000185
+797637700 13/08/2022
+15:25:01
+1 142443680 
+15/08/2022
+pago
+196979853 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+51.56
+360,40
+4,40 %
++ r$
+0,07 
+19,47
+340,93 
+22556662000185
+797661333 13/08/2022
+20:12:06
+1 142443680 
+15/08/2022
+pago
+196979853 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+36.00
+196,20
+4,40 %
++ r$
+0,08 
+11,51
+184,69 
+22556662000185
+797695843 14/08/2022
+14:40:23
+1 142443680 
+15/08/2022
+pago
+196979853 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+19.65
+137,35
+4,40 %
++ r$
+0,07 
+7,42
+129,93 
+22556662000185
+797704439 14/08/2022
+17:34:53
+1 142443680 
+15/08/2022
+pago
+196979853 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+35.00
+190,75
+4,40 %
++ r$
+0,08 
+11,19
+179,56 
+22556662000185
+797710533 14/08/2022
+19:52:41
+1 142443680 
+15/08/2022
+pago
+196979853 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+38.30
+267,72
+4,40 %
++ r$
+0,07 
+14,46
+253,26 
+22556662000185
+797736827 15/08/2022
+07:31:31
+1 142466890 
+16/08/2022
+pago
+197201891 603574******4318
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+39.84
+278,48
+4,40 %
++ r$
+0,07 
+15,04
+263,44 
+22556662000185
+797745782 15/08/2022
+07:50:58
+1 142466890 
+16/08/2022
+pago
+197201891 603574******8491
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+40.00
+218,00
+4,40 %
++ r$
+0,08 
+12,79
+205,21 
+22556662000185
+797851169 15/08/2022
+13:45:16
+1 142466890 
+16/08/2022
+pago
+197201891 603574******8776
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+48.00
+335,52
+4,40 %
++ r$
+0,07 
+18,12
+317,40 
+22556662000185
+797938317 15/08/2022
+19:51:08
+1 142556000 
+22/08/2022
+pago
+198098479 603574******1416
+j a teixeira
+veterinaria
+ltda
+cargo software
+express
+gasolina
+comum
+34.00
+185,03
+2,70 %
++ r$
+0,08 
+7,72
+177,31 
+22556662000185
+798050096 16/08/2022
+12:27:29
+1 142483312 
+17/08/2022
+pago
+197416733 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+41.00
+223,45
+4,40 %
++ r$
+0,08 
+13,11
+210,34 
+22556662000185
+798079766 16/08/2022
+14:53:14
+1 142483312 
+17/08/2022
+pago
+197416733 603574******4282
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+49.23
+344,12
+4,40 %
++ r$
+0,07 
+18,59
+325,53 
+22556662000185
+798144314 16/08/2022
+20:48:44
+1 142483312 
+17/08/2022
+pago
+197416733 603574******2198
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+43.00
+233,91
+4,40 %
++ r$
+0,08 
+13,73
+220,18 
+22556662000185
+798275063 17/08/2022
+14:26:08
+1 142499838 
+18/08/2022
+pago
+197608146 603574******2840
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+diesel s-10
+comum
+33.07
+231,16
+4,40 %
++ r$
+0,07 
+12,48
+218,68 
+22556662000185
+798278194 17/08/2022
+14:37:20
+1 142499838 
+18/08/2022
+pago
+197608146 603574******1645
+secretaria de
+planejamento
+governanca e
+gestao
+fleet software
+express
+gasolina
+comum
+30.00
+163,50
+4,40 %
++ r$
+0,08 
+9,59
+153,91 

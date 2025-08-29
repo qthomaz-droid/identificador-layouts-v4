@@ -1,0 +1,3781 @@
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+*se distribuidora de alimentos ltda
+34
+4
+,00
+,00
+,00
+5,13
+01/06/2024
+5,13
+03/06/2024
+avu
+2550370
+1
+,00
+,00
+,00
+793,77
+01/06/2024
+793,77
+03/06/2024
+avu
+2560589
+3
+,00
+,00
+,00
+366,11
+01/06/2024
+366,11
+03/06/2024
+avu
+2550289
+3
+,00
+,00
+,00
+689,24
+01/06/2024
+689,24
+03/06/2024
+avu
+2550369
+3
+,00
+,00
+,00
+529,02
+01/06/2024
+529,02
+03/06/2024
+avu
+2550372
+4
+,00
+,00
+,00
+388,54
+01/06/2024
+388,54
+03/06/2024
+avu
+2550799
+2
+,00
+,00
+,00
+651,38
+01/06/2024
+651,38
+03/06/2024
+avu
+2560588
+4
+,00
+,00
+,00
+258,43
+01/06/2024
+258,43
+03/06/2024
+avu
+2550797
+2
+,00
+,00
+,00
+928,49
+01/06/2024
+928,49
+03/06/2024
+avu
+2560590
+3
+,00
+,00
+,00
+410,01
+01/06/2024
+410,01
+03/06/2024
+avu
+2553961
+3
+,00
+,00
+,00
+77,26
+01/06/2024
+77,26
+03/06/2024
+avu
+2550798
+3
+,00
+,00
+,00
+159,19
+01/06/2024
+159,19
+03/06/2024
+avu
+2550371
+total por cliente : *se distribuidora de alimentos ltda
+,00
+,00
+,00
+5.256,57
+cliente/ fornecedor :
+a. m. bonfa
+33644
+3
+,00
+,00
+,00
+515,93
+03/06/2024
+515,93
+03/06/2024
+avu
+534
+total por cliente : a. m. bonfa
+,00
+,00
+,00
+515,93
+cliente/ fornecedor :
+alimentos masson ltda
+83
+2
+,00
+,00
+,00
+5.697,20
+03/06/2024
+5.697,20
+03/06/2024
+avu
+279461
+total por cliente : alimentos masson ltda
+,00
+,00
+,00
+5.697,20
+cliente/ fornecedor :
+arcom s a
+60
+1
+,00
+,00
+,00
+2.192,81
+03/06/2024
+2.192,81
+03/06/2024
+avu
+290524
+3
+,00
+,00
+,00
+1.473,30
+03/06/2024
+1.473,30
+03/06/2024
+avu
+270424
+total por cliente : arcom s a
+,00
+,00
+,00
+3.666,11
+cliente/ fornecedor :
+bello alimentos ltda
+2273
+3
+,00
+,00
+,00
+789,03
+03/06/2024
+789,03
+03/06/2024
+avu
+473654
+2
+,00
+,00
+,00
+625,26
+03/06/2024
+625,26
+03/06/2024
+avu
+475010
+total por cliente : bello alimentos ltda
+,00
+,00
+,00
+1.414,29
+cliente/ fornecedor :
+borges de carvalho e cia ltda me
+2541
+1
+,00
+,00
+,00
+2.693,02
+03/06/2024
+2.693,02
+03/06/2024
+avu
+29701
+2
+,00
+,00
+,00
+3.232,60
+03/06/2024
+3.232,60
+03/06/2024
+avu
+29481
+1
+,00
+,00
+,00
+3.158,54
+01/06/2024
+3.158,54
+03/06/2024
+avu
+29664
+total por cliente : borges de carvalho e cia ltda me
+,00
+,00
+,00
+9.084,16
+cliente/ fornecedor :
+brf s.a.
+151
+3
+,00
+,00
+,00
+582,14
+01/06/2024
+582,14
+03/06/2024
+avu
+2182996
+1
+,00
+,00
+,00
+1.722,12
+01/06/2024
+1.722,12
+03/06/2024
+avu
+2189276
+3
+,00
+,00
+,00
+140,27
+03/06/2024
+140,27
+03/06/2024
+avu
+2182995
+2
+19,85
+,00
+,00
+473,97
+03/06/2024
+493,82
+03/06/2024
+avu
+2186478
+total por cliente : brf s.a.
+19,85
+,00
+,00
+2.918,50
+cliente/ fornecedor :
+cafe favo de mel ltda
+66
+1
+,00
+,00
+,00
+2.941,00
+03/06/2024
+2.941,00
+03/06/2024
+avu
+18784
+total por cliente : cafe favo de mel ltda
+,00
+,00
+,00
+2.941,00
+cliente/ fornecedor :
+candelaria egues flores
+33109
+1
+,00
+,00
+,00
+3.240,00
+03/06/2024
+3.240,00
+03/06/2024
+avu
+1220
+total por cliente : candelaria egues flores
+,00
+,00
+,00
+3.240,00
+cliente/ fornecedor :
+comercial agricola magaretto ltda
+33680
+1
+,00
+,00
+,00
+3.480,00
+03/06/2024
+3.480,00
+03/06/2024
+avu
+174151
+total por cliente : comercial agricola magaretto ltda
+,00
+,00
+,00
+3.480,00
+cliente/ fornecedor :
+coroado comercio de generos alimenticios
+534
+1
+,00
+,00
+,00
+1.600,00
+01/06/2024
+1.600,00
+03/06/2024
+avu
+98437
+total por cliente : coroado comercio de generos aliment
+,00
+,00
+,00
+1.600,00
+página 1 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+d r tambarussi e cia ltda epp
+2220
+3
+,00
+,00
+,00
+942,75
+03/06/2024
+942,75
+03/06/2024
+avu
+117611
+total por cliente : d r tambarussi e cia ltda epp
+,00
+,00
+,00
+942,75
+cliente/ fornecedor :
+d. g. r. representacoes ltda
+33701
+2
+,00
+,00
+,00
+330,00
+01/06/2024
+330,00
+03/06/2024
+avu
+310
+2
+,00
+,00
+,00
+396,00
+01/06/2024
+396,00
+03/06/2024
+avu
+311
+1
+,00
+,00
+,00
+753,71
+03/06/2024
+753,71
+03/06/2024
+avu
+328
+total por cliente : d. g. r. representacoes ltda
+,00
+,00
+,00
+1.479,71
+cliente/ fornecedor :
+dac-distribuidora de alimentos cuiaba lt
+33352
+1
+,00
+,00
+,00
+406,71
+01/06/2024
+406,71
+03/06/2024
+avu
+385259
+1
+,00
+,00
+,00
+2.030,16
+01/06/2024
+2.030,16
+03/06/2024
+avu
+381808
+total por cliente : dac-distribuidora de alimentos cuia
+,00
+,00
+,00
+2.436,87
+cliente/ fornecedor :
+dacdistribuidora de alimentos cuiaba ltd
+1045
+3
+,00
+,00
+,00
+958,93
+01/06/2024
+958,93
+03/06/2024
+avu
+1081415
+1
+,00
+,00
+,00
+352,83
+01/06/2024
+352,83
+03/06/2024
+avu
+1087179
+1
+,00
+,00
+,00
+382,35
+01/06/2024
+382,35
+03/06/2024
+avu
+1087177
+total por cliente : dacdistribuidora de alimentos cuiab
+,00
+,00
+,00
+1.694,11
+cliente/ fornecedor :
+dist bebidas miatello lt
+33125
+1
+,00
+,00
+,00
+4.862,01
+03/06/2024
+4.862,01
+03/06/2024
+avu
+61774
+total por cliente : dist bebidas miatello lt
+,00
+,00
+,00
+4.862,01
+cliente/ fornecedor :
+distribuidora de carnes e frios jp ltda
+2548
+1
+,00
+,00
+,00
+490,63
+01/06/2024
+490,63
+03/06/2024
+avu
+46208
+3
+,00
+,00
+,00
+3.508,32
+01/06/2024
+3.508,32
+03/06/2024
+avu
+45876
+1
+,00
+,00
+,00
+2.126,53
+01/06/2024
+2.126,53
+03/06/2024
+avu
+46293
+2
+,00
+,00
+,00
+416,77
+02/06/2024
+416,77
+03/06/2024
+avu
+46115
+2
+,00
+,00
+,00
+2.685,19
+01/06/2024
+2.685,19
+03/06/2024
+avu
+46082
+4
+,00
+,00
+,00
+2.577,99
+01/06/2024
+2.577,99
+03/06/2024
+avu
+45654
+total por cliente : distribuidora de carnes e frios jp 
+,00
+,00
+,00
+11.805,43
+cliente/ fornecedor :
+distribuidora nortao ltda
+33775
+1
+,00
+,00
+,00
+699,93
+03/06/2024
+699,93
+03/06/2024
+avu
+5310
+total por cliente : distribuidora nortao ltda
+,00
+,00
+,00
+699,93
+cliente/ fornecedor :
+doni comercial agricola ltda
+33679
+1
+,00
+,00
+,00
+640,00
+01/06/2024
+640,00
+03/06/2024
+avu
+196953
+total por cliente : doni comercial agricola ltda
+,00
+,00
+,00
+640,00
+cliente/ fornecedor :
+eduardo bonfim dela costa- dona nanica
+33616
+1
+,00
+,00
+,00
+1.260,00
+03/06/2024
+1.260,00
+03/06/2024
+avu
+1219
+1
+,00
+,00
+,00
+750,00
+01/06/2024
+750,00
+03/06/2024
+avu
+1190
+total por cliente : eduardo bonfim dela costa- dona nan
+,00
+,00
+,00
+2.010,00
+cliente/ fornecedor :
+elcio duran lima- hugo
+2011
+1
+,00
+,00
+,00
+480,00
+03/06/2024
+480,00
+03/06/2024
+avu
+1869
+total por cliente : elcio duran lima- hugo
+,00
+,00
+,00
+480,00
+cliente/ fornecedor :
+formula distribuidora de alimentos ltda
+888
+2
+,00
+,00
+,00
+580,66
+01/06/2024
+580,66
+03/06/2024
+avu
+318897
+3
+,00
+,00
+,00
+2.705,07
+01/06/2024
+2.705,07
+03/06/2024
+avu
+318899
+total por cliente : formula distribuidora de alimentos 
+,00
+,00
+,00
+3.285,73
+cliente/ fornecedor :
+frigorifico nutribras s.a.
+2475
+1
+,00
+,00
+,00
+5.028,51
+03/06/2024
+5.028,51
+03/06/2024
+avu
+413424
+2
+,00
+,00
+,00
+5.756,96
+03/06/2024
+5.756,96
+03/06/2024
+avu
+412186
+total por cliente : frigorifico nutribras s.a.
+,00
+,00
+,00
+10.785,47
+cliente/ fornecedor :
+frutania comercio de frutas ltda
+33676
+1
+,00
+,00
+,00
+1.200,00
+01/06/2024
+1.200,00
+03/06/2024
+avu
+630596
+total por cliente : frutania comercio de frutas ltda
+,00
+,00
+,00
+1.200,00
+página 2 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+g. m. de aguiar eireli
+33144
+4
+,00
+,00
+,00
+352,31
+03/06/2024
+352,31
+03/06/2024
+avu
+6524
+4
+,00
+,00
+,00
+242,50
+03/06/2024
+242,50
+03/06/2024
+avu
+6523
+total por cliente : g. m. de aguiar eireli
+,00
+,00
+,00
+594,81
+cliente/ fornecedor :
+gilvanete de souza bezerra frutas
+33674
+1
+,00
+,00
+,00
+390,00
+01/06/2024
+390,00
+03/06/2024
+avu
+86675
+total por cliente : gilvanete de souza bezerra frutas
+,00
+,00
+,00
+390,00
+cliente/ fornecedor :
+gmm atacadista ltda
+33754
+3
+,00
+,00
+,00
+503,66
+03/06/2024
+503,66
+03/06/2024
+avu
+46343
+total por cliente : gmm atacadista ltda
+,00
+,00
+,00
+503,66
+cliente/ fornecedor :
+green agronegocios eireli
+33712
+1
+,00
+,00
+,00
+1.530,00
+01/06/2024
+1.530,00
+03/06/2024
+avu
+149204
+total por cliente : green agronegocios eireli
+,00
+,00
+,00
+1.530,00
+cliente/ fornecedor :
+j goncalves- comercio de embalagens
+33493
+1
+,00
+,00
+,00
+316,00
+03/06/2024
+316,00
+03/06/2024
+avu
+971
+total por cliente : j goncalves- comercio de embalagens
+,00
+,00
+,00
+316,00
+cliente/ fornecedor :
+j.p.d comercio de embalagens ltda me
+227
+3
+,00
+,00
+,00
+1.821,85
+03/06/2024
+1.821,85
+03/06/2024
+avu
+59597
+total por cliente : j.p.d comercio de embalagens ltda m
+,00
+,00
+,00
+1.821,85
+cliente/ fornecedor :
+luis f m lopes eirelli
+33112
+1
+,10
+,00
+,00
+1.499,90
+27/05/2024
+1.500,00
+03/06/2024
+avu
+888
+total por cliente : luis f m lopes eirelli
+,10
+,00
+,00
+1.499,90
+cliente/ fornecedor :
+manga rosa disdrituidora de produtos de
+33074
+3
+,00
+,00
+,00
+375,05
+03/06/2024
+375,05
+03/06/2024
+avu
+32987
+total por cliente : manga rosa disdrituidora de produto
+,00
+,00
+,00
+375,05
+cliente/ fornecedor :
+mape frutas hortifruti ltda
+33389
+2
+,00
+,00
+,00
+3.471,57
+03/06/2024
+3.471,57
+03/06/2024
+avu
+43901
+1
+,00
+,00
+,00
+2.774,14
+03/06/2024
+2.774,14
+03/06/2024
+avu
+45342
+total por cliente : mape frutas hortifruti ltda
+,00
+,00
+,00
+6.245,71
+cliente/ fornecedor :
+marques de queiroz ltda
+897
+3
+,00
+,00
+,00
+307,00
+03/06/2024
+307,00
+03/06/2024
+avu
+2803
+total por cliente : marques de queiroz ltda
+,00
+,00
+,00
+307,00
+cliente/ fornecedor :
+martins - martins neto ltda
+2207
+1
+,00
+,00
+,00
+4.496,91
+02/06/2024
+4.496,91
+03/06/2024
+avu
+1825854
+2
+,00
+,00
+,00
+5.634,83
+03/06/2024
+5.634,83
+03/06/2024
+avu
+1822470
+total por cliente : martins - martins neto ltda
+,00
+,00
+,00
+10.131,74
+cliente/ fornecedor :
+metalurgica sao matheus ltda
+640
+1
+,00
+,00
+,00
+2.062,08
+03/06/2024
+2.062,08
+03/06/2024
+avu
+49641
+total por cliente : metalurgica sao matheus ltda
+,00
+,00
+,00
+2.062,08
+cliente/ fornecedor :
+moveis molina eirelli - ltda
+33514
+46
+,00
+,00
+,00
+2.380,95
+03/06/2024
+2.380,95
+03/06/2024
+avu
+3815
+total por cliente : moveis molina eirelli - ltda
+,00
+,00
+,00
+2.380,95
+cliente/ fornecedor :
+nestle brasil ltda
+733
+1
+,00
+,00
+,00
+1.772,12
+03/06/2024
+1.772,12
+03/06/2024
+avu
+889417
+1
+,00
+,00
+,00
+3.644,35
+03/06/2024
+3.644,35
+03/06/2024
+avu
+890686
+total por cliente : nestle brasil ltda
+,00
+,00
+,00
+5.416,47
+cliente/ fornecedor :
+norsa refrigerantes s.a.
+1697
+1
+,00
+,00
+,00
+1.023,54
+03/06/2024
+1.023,54
+03/06/2024
+avu
+404390
+total por cliente : norsa refrigerantes s.a.
+,00
+,00
+,00
+1.023,54
+cliente/ fornecedor :
+norte sul real distr e logist ltda
+267
+2
+,00
+,00
+,00
+2.093,28
+03/06/2024
+2.093,28
+03/06/2024
+avu
+2158797
+3
+,00
+,00
+,00
+604,04
+03/06/2024
+604,04
+03/06/2024
+avu
+2156852
+3
+,00
+,00
+,00
+497,50
+03/06/2024
+497,50
+03/06/2024
+avu
+2156849
+página 3 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+norte sul real distr e logist ltda
+267
+1
+,00
+,00
+,00
+1.893,84
+03/06/2024
+1.893,84
+03/06/2024
+avu
+2168499
+1
+,00
+,00
+,00
+452,16
+03/06/2024
+452,16
+03/06/2024
+avu
+2168500
+3
+,00
+,00
+,00
+607,14
+03/06/2024
+607,14
+03/06/2024
+avu
+2156853
+total por cliente : norte sul real distr e logist ltda
+,00
+,00
+,00
+6.147,96
+cliente/ fornecedor :
+o bianchi industria - me
+2048
+3
+,00
+,00
+,00
+5.210,89
+03/06/2024
+5.210,89
+03/06/2024
+avu
+7640
+total por cliente : o bianchi industria - me
+,00
+,00
+,00
+5.210,89
+cliente/ fornecedor :
+pastificio selmi s/a
+88
+3
+,00
+,00
+,00
+8.554,01
+03/06/2024
+8.554,01
+03/06/2024
+avu
+135019
+total por cliente : pastificio selmi s/a
+,00
+,00
+,00
+8.554,01
+cliente/ fornecedor :
+pura polpa redez ltda
+1781
+1
+,00
+,00
+,00
+2.931,00
+02/06/2024
+2.931,00
+03/06/2024
+avu
+9529
+total por cliente : pura polpa redez ltda
+,00
+,00
+,00
+2.931,00
+cliente/ fornecedor :
+quimica amparo ltda.
+149
+1
+,00
+,00
+,00
+294,48
+03/06/2024
+294,48
+03/06/2024
+avu
+3507532
+1
+,00
+,00
+,00
+467,99
+03/06/2024
+467,99
+03/06/2024
+avu
+3507531
+1
+,00
+,00
+,00
+231,51
+03/06/2024
+231,51
+03/06/2024
+avu
+3507530
+1
+,00
+,00
+,00
+1.454,46
+03/06/2024
+1.454,46
+03/06/2024
+avu
+3507528
+1
+,00
+,00
+,00
+426,95
+03/06/2024
+426,95
+03/06/2024
+avu
+3507529
+total por cliente : quimica amparo ltda.
+,00
+,00
+,00
+2.875,39
+cliente/ fornecedor :
+r. garcia vicente ltda
+33611
+1
+,00
+,00
+,00
+2.319,00
+02/06/2024
+2.319,00
+03/06/2024
+avu
+634
+total por cliente : r. garcia vicente ltda
+,00
+,00
+,00
+2.319,00
+cliente/ fornecedor :
+rb distribuidora de prod de limpeza ltda
+2478
+2
+,00
+,00
+,00
+408,00
+03/06/2024
+408,00
+03/06/2024
+avu
+56421
+total por cliente : rb distribuidora de prod de limpeza
+,00
+,00
+,00
+408,00
+cliente/ fornecedor :
+recol distribuicao e comercio ltda
+20
+4
+,00
+,00
+,00
+1.781,90
+03/06/2024
+1.781,90
+03/06/2024
+avu
+574237
+total por cliente : recol distribuicao e comercio ltda
+,00
+,00
+,00
+1.781,90
+cliente/ fornecedor :
+rio vermelho distribuicao de alimentos l
+2376
+1
+,00
+,00
+,00
+228,65
+01/06/2024
+228,65
+03/06/2024
+avu
+399407
+3
+,00
+,00
+,00
+2.080,98
+01/06/2024
+2.080,98
+03/06/2024
+avu
+398689
+1
+,00
+,00
+,00
+3.302,80
+01/06/2024
+3.302,80
+03/06/2024
+avu
+399917
+total por cliente : rio vermelho distribuicao de alimen
+,00
+,00
+,00
+5.612,43
+cliente/ fornecedor :
+samar comercio e distribuicao ltda
+33734
+1
+,85
+,00
+,00
+3.499,15
+27/05/2024
+3.500,00
+03/06/2024
+avu
+107
+total por cliente : samar comercio e distribuicao ltda
+,85
+,00
+,00
+3.499,15
+cliente/ fornecedor :
+sepex distribuidora ltda
+33301
+1
+,00
+,00
+,00
+285,99
+01/06/2024
+285,99
+03/06/2024
+avu
+226185
+2
+,00
+,00
+,00
+721,56
+01/06/2024
+721,56
+03/06/2024
+avu
+228766
+total por cliente : sepex distribuidora ltda
+,00
+,00
+,00
+1.007,55
+cliente/ fornecedor :
+sical distribuidora de produtos alimenti
+33121
+2
+,00
+,00
+,00
+550,34
+03/06/2024
+550,34
+03/06/2024
+avu
+31546
+1
+,00
+,00
+,00
+1.399,86
+03/06/2024
+1.399,86
+03/06/2024
+avu
+31674
+total por cliente : sical distribuidora de produtos ali
+,00
+,00
+,00
+1.950,20
+cliente/ fornecedor :
+star fruit comercio de frutas ltda
+33678
+1
+,00
+,00
+,00
+2.125,00
+01/06/2024
+2.125,00
+03/06/2024
+avu
+17903
+total por cliente : star fruit comercio de frutas ltda
+,00
+,00
+,00
+2.125,00
+cliente/ fornecedor :
+triunfante matogrossense alimentos ltda
+25
+1
+,00
+,00
+,00
+722,35
+03/06/2024
+722,35
+03/06/2024
+avu
+763694
+total por cliente : triunfante matogrossense alimentos 
+,00
+,00
+,00
+722,35
+página 4 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+unique comercio de verduras e legumes lt
+33675
+1
+,00
+,00
+,00
+1.305,00
+03/06/2024
+1.305,00
+03/06/2024
+avu
+64980
+total por cliente : unique comercio de verduras e legum
+,00
+,00
+,00
+1.305,00
+cliente/ fornecedor :
+wms supermercados do brasil ltda
+33741
+1
+,00
+,00
+,00
+874,30
+03/06/2024
+874,30
+03/06/2024
+avu
+59602
+1
+,00
+,00
+,00
+1.771,78
+03/06/2024
+1.771,78
+03/06/2024
+avu
+59546
+1
+,00
+,00
+,00
+874,30
+03/06/2024
+874,30
+03/06/2024
+avu
+59604
+1
+,00
+,00
+,00
+1.444,35
+03/06/2024
+1.444,35
+03/06/2024
+avu
+47865
+1
+,00
+,00
+,00
+874,30
+03/06/2024
+874,30
+03/06/2024
+avu
+59600
+total por cliente : wms supermercados do brasil ltda
+,00
+,00
+,00
+5.839,03
+cliente/ fornecedor :
+*se distribuidora de alimentos ltda
+34
+2
+,00
+,00
+,00
+965,12
+04/06/2024
+965,12
+04/06/2024
+avu
+2561852
+2
+,00
+,00
+,00
+264,16
+04/06/2024
+264,16
+04/06/2024
+avu
+2561729
+total por cliente : *se distribuidora de alimentos ltda
+,00
+,00
+,00
+1.229,28
+cliente/ fornecedor :
+angelo aparecido domelici
+33688
+1
+,00
+,00
+,00
+404,00
+20/05/2024
+404,00
+04/06/2024
+avu
+110524
+1
+,00
+,00
+,00
+393,20
+27/05/2024
+393,20
+04/06/2024
+avu
+200524
+1
+,00
+,00
+,00
+171,72
+27/05/2024
+171,72
+04/06/2024
+avu
+230524
+total por cliente : angelo aparecido domelici
+,00
+,00
+,00
+968,92
+cliente/ fornecedor :
+borges de carvalho e cia ltda me
+2541
+1
+,00
+,00
+,00
+1.615,77
+04/06/2024
+1.615,77
+04/06/2024
+avu
+29730
+total por cliente : borges de carvalho e cia ltda me
+,00
+,00
+,00
+1.615,77
+cliente/ fornecedor :
+c. g. correa ltda
+33543
+1
+,00
+,00
+,00
+1.620,00
+04/06/2024
+1.620,00
+04/06/2024
+avu
+572
+total por cliente : c. g. correa ltda
+,00
+,00
+,00
+1.620,00
+cliente/ fornecedor :
+cetap distribuicao de prod alim
+756
+3
+,00
+,00
+,00
+1.213,03
+04/06/2024
+1.213,03
+04/06/2024
+avu
+650970
+total por cliente : cetap distribuicao de prod alim
+,00
+,00
+,00
+1.213,03
+cliente/ fornecedor :
+comercio de panificacao docura ltda
+2083
+1
+,00
+,00
+,00
+204,35
+03/06/2024
+204,35
+04/06/2024
+avu
+4202
+total por cliente : comercio de panificacao docura ltda
+,00
+,00
+,00
+204,35
+cliente/ fornecedor :
+distribuidora de carnes e frios jp ltda
+2548
+4
+,00
+,00
+,00
+2.419,24
+04/06/2024
+2.419,24
+04/06/2024
+avu
+45717
+3
+,00
+,00
+,00
+637,02
+04/06/2024
+637,02
+04/06/2024
+avu
+45904
+3
+,00
+,00
+,00
+1.531,75
+04/06/2024
+1.531,75
+04/06/2024
+avu
+45954
+1
+,00
+,00
+,00
+1.105,47
+04/06/2024
+1.105,47
+04/06/2024
+avu
+46349
+2
+,00
+,00
+,00
+3.928,25
+04/06/2024
+3.928,25
+04/06/2024
+avu
+46157
+total por cliente : distribuidora de carnes e frios jp 
+,00
+,00
+,00
+9.621,73
+cliente/ fornecedor :
+eduardo bonfim dela costa- dona nanica
+33616
+1
+,00
+,00
+,00
+750,00
+04/06/2024
+750,00
+04/06/2024
+avu
+1208
+total por cliente : eduardo bonfim dela costa- dona nan
+,00
+,00
+,00
+750,00
+cliente/ fornecedor :
+eliana ferreira da silva santos-nia
+33523
+1
+,00
+,00
+,00
+127,50
+03/06/2024
+127,50
+04/06/2024
+avu
+270524
+1
+,00
+,00
+,00
+232,00
+03/06/2024
+232,00
+04/06/2024
+avu
+300524
+1
+,00
+,00
+,00
+68,00
+03/06/2024
+68,00
+04/06/2024
+avu
+310524
+1
+,00
+,00
+,00
+212,50
+03/06/2024
+212,50
+04/06/2024
+avu
+280524
+1
+,00
+,00
+,00
+225,50
+03/06/2024
+225,50
+04/06/2024
+avu
+290524
+1
+,00
+,00
+,00
+195,50
+03/06/2024
+195,50
+04/06/2024
+avu
+250524
+1
+,00
+,00
+,00
+122,00
+03/06/2024
+122,00
+04/06/2024
+avu
+260524
+total por cliente : eliana ferreira da silva santos-nia
+,00
+,00
+,00
+1.183,00
+cliente/ fornecedor :
+flavio azarite
+268
+1
+,00
+,00
+,00
+1.430,50
+13/05/2024
+1.430,50
+04/06/2024
+avu
+80524
+1
+,00
+,00
+,00
+570,57
+20/05/2024
+570,57
+04/06/2024
+avu
+150524
+página 5 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+flavio azarite
+268
+1
+,00
+,00
+,00
+1.141,90
+06/05/2024
+1.141,90
+04/06/2024
+avu
+300424
+total por cliente : flavio azarite
+,00
+,00
+,00
+3.142,97
+cliente/ fornecedor :
+frigorifico santa rita ltda me
+2357
+1
+,00
+,00
+,00
+484,00
+04/06/2024
+484,00
+04/06/2024
+avu
+450522
+total por cliente : frigorifico santa rita ltda me
+,00
+,00
+,00
+484,00
+cliente/ fornecedor :
+helmer c dos santos ferreira
+33571
+01
+,00
+,00
+,00
+200,00
+26/06/2024
+200,00
+04/06/2024
+11877
+total por cliente : helmer c dos santos ferreira
+,00
+,00
+,00
+200,00
+cliente/ fornecedor :
+j.p.d comercio de embalagens ltda me
+227
+1
+,00
+,00
+,00
+735,83
+04/06/2024
+735,83
+04/06/2024
+avu
+59887
+1
+,00
+,00
+,00
+1.275,86
+04/06/2024
+1.275,86
+04/06/2024
+avu
+59888
+total por cliente : j.p.d comercio de embalagens ltda m
+,00
+,00
+,00
+2.011,69
+cliente/ fornecedor :
+la gandria industria e com. de produtos
+33558
+4
+,00
+,00
+,00
+1.625,00
+04/06/2024
+1.625,00
+04/06/2024
+avu
+8357
+total por cliente : la gandria industria e com. de prod
+,00
+,00
+,00
+1.625,00
+cliente/ fornecedor :
+martins - martins neto ltda
+2207
+3
+,00
+,00
+,00
+4.366,01
+04/06/2024
+4.366,01
+04/06/2024
+avu
+17052024
+total por cliente : martins - martins neto ltda
+,00
+,00
+,00
+4.366,01
+cliente/ fornecedor :
+norsa refrigerantes s.a.
+1697
+1
+,00
+,00
+,00
+7.845,19
+03/06/2024
+7.845,19
+04/06/2024
+avu
+404587
+1
+,00
+,00
+,00
+141,15
+04/06/2024
+141,15
+04/06/2024
+avu
+401230
+total por cliente : norsa refrigerantes s.a.
+,00
+,00
+,00
+7.986,34
+cliente/ fornecedor :
+norte sul real distr e logist ltda
+267
+2
+,00
+,00
+,00
+1.509,19
+04/06/2024
+1.509,19
+04/06/2024
+avu
+2165360
+2
+,00
+,00
+,00
+1.089,00
+04/06/2024
+1.089,00
+04/06/2024
+avu
+2165361
+2
+,00
+,00
+,00
+1.072,75
+04/06/2024
+1.072,75
+04/06/2024
+avu
+2165359
+total por cliente : norte sul real distr e logist ltda
+,00
+,00
+,00
+3.670,94
+cliente/ fornecedor :
+panificadora pao de acucar
+33330
+1
+,00
+,00
+,00
+45,00
+06/05/2024
+45,00
+04/06/2024
+avu
+20524
+1
+,00
+,00
+,00
+45,00
+20/05/2024
+45,00
+04/06/2024
+avu
+160524
+1
+,00
+,00
+,00
+54,00
+13/05/2024
+54,00
+04/06/2024
+avu
+80524
+1
+,00
+,00
+,00
+45,00
+29/04/2024
+45,00
+04/06/2024
+avu
+240424
+1
+,00
+,00
+,00
+54,00
+27/05/2024
+54,00
+04/06/2024
+avu
+220524
+total por cliente : panificadora pao de acucar
+,00
+,00
+,00
+243,00
+cliente/ fornecedor :
+perez & cia ltda - me
+2263
+1
+,00
+,00
+,00
+700,30
+03/06/2024
+700,30
+04/06/2024
+avu
+4317
+total por cliente : perez  cia ltda - me
+,00
+,00
+,00
+700,30
+cliente/ fornecedor :
+radio jornal de s.j. quatro marcos ltda
+33783
+01
+,00
+,00
+,00
+600,00
+01/06/2024
+600,00
+04/06/2024
+1153
+total por cliente : radio jornal de s.j. quatro marcos 
+,00
+,00
+,00
+600,00
+cliente/ fornecedor :
+v. orlando de almeida-epp
+33053
+3
+,00
+,00
+,00
+470,10
+04/06/2024
+470,10
+04/06/2024
+avu
+16723
+total por cliente : v. orlando de almeida-epp
+,00
+,00
+,00
+470,10
+cliente/ fornecedor :
+*se distribuidora de alimentos ltda
+34
+3
+,00
+,00
+,00
+219,32
+05/06/2024
+219,32
+05/06/2024
+avu
+2556482
+total por cliente : *se distribuidora de alimentos ltda
+,00
+,00
+,00
+219,32
+cliente/ fornecedor :
+a.f garcia e cia ltda
+468
+01
+,00
+,00
+,00
+785,81
+05/06/2024
+785,81
+05/06/2024
+42
+8947
+total por cliente : a.f garcia e cia ltda
+,00
+,00
+,00
+785,81
+cliente/ fornecedor :
+borges de carvalho e cia ltda me
+2541
+2
+,00
+,00
+,00
+2.695,95
+05/06/2024
+2.695,95
+05/06/2024
+avu
+29554
+total por cliente : borges de carvalho e cia ltda me
+,00
+,00
+,00
+2.695,95
+página 6 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+brf s.a.
+151
+3
+,00
+,00
+,00
+69,34
+05/06/2024
+69,34
+05/06/2024
+avu
+2184072
+total por cliente : brf s.a.
+,00
+,00
+,00
+69,34
+cliente/ fornecedor :
+coopnoroeste cooperativa agrop do oeste
+44
+3
+,00
+,00
+,00
+1.656,31
+05/06/2024
+1.656,31
+05/06/2024
+avu
+471594
+total por cliente : coopnoroeste cooperativa agrop do o
+,00
+,00
+,00
+1.656,31
+cliente/ fornecedor :
+d r tambarussi e cia ltda epp
+2220
+1
+,00
+,00
+,00
+1.147,10
+05/06/2024
+1.147,10
+05/06/2024
+avu
+118784
+total por cliente : d r tambarussi e cia ltda epp
+,00
+,00
+,00
+1.147,10
+cliente/ fornecedor :
+distribuidora de carnes e frios jp ltda
+2548
+4
+,00
+,00
+,00
+1.700,95
+05/06/2024
+1.700,95
+05/06/2024
+avu
+45768
+3
+,00
+,00
+,00
+1.181,40
+05/06/2024
+1.181,40
+05/06/2024
+avu
+45978
+1
+,00
+,00
+,00
+2.974,18
+05/06/2024
+2.974,18
+05/06/2024
+avu
+46386
+total por cliente : distribuidora de carnes e frios jp 
+,00
+,00
+,00
+5.856,53
+cliente/ fornecedor :
+frigorifico santa rita ltda me
+2357
+2
+,00
+,00
+,00
+1.174,00
+05/06/2024
+1.174,00
+05/06/2024
+avu
+449288
+total por cliente : frigorifico santa rita ltda me
+,00
+,00
+,00
+1.174,00
+cliente/ fornecedor :
+g. m. de aguiar eireli
+33144
+1
+,00
+,00
+,00
+695,00
+05/06/2024
+695,00
+05/06/2024
+avu
+6869
+2
+,00
+,00
+,00
+418,61
+05/06/2024
+418,61
+05/06/2024
+avu
+6767
+total por cliente : g. m. de aguiar eireli
+,00
+,00
+,00
+1.113,61
+cliente/ fornecedor :
+irmaos domingos ltda
+38
+2
+,00
+,00
+,00
+1.302,67
+05/06/2024
+1.302,67
+05/06/2024
+avu
+1027302
+total por cliente : irmaos domingos ltda
+,00
+,00
+,00
+1.302,67
+cliente/ fornecedor :
+joao martins bonfim
+33786
+1
+,00
+,00
+,00
+998,55
+20/05/2024
+998,55
+05/06/2024
+avu
+150524
+1
+,00
+,00
+,00
+243,60
+27/05/2024
+243,60
+05/06/2024
+avu
+180524
+1
+,00
+,00
+,00
+256,80
+03/06/2024
+256,80
+05/06/2024
+avu
+240524
+1
+,00
+,00
+,00
+358,80
+03/06/2024
+358,80
+05/06/2024
+avu
+270524
+1
+,00
+,00
+,00
+273,80
+03/06/2024
+273,80
+05/06/2024
+avu
+250524
+1
+,00
+,00
+,00
+949,75
+27/05/2024
+949,75
+05/06/2024
+avu
+200524
+total por cliente : joao martins bonfim
+,00
+,00
+,00
+3.081,30
+cliente/ fornecedor :
+m. de f. santana ltda
+33562
+1
+,00
+,00
+,00
+3.207,27
+05/06/2024
+3.207,27
+05/06/2024
+avu
+909
+total por cliente : m. de f. santana ltda
+,00
+,00
+,00
+3.207,27
+cliente/ fornecedor :
+m.b. de almeida e almeida ltda - me
+735
+2
+,00
+,00
+,00
+908,09
+05/06/2024
+908,09
+05/06/2024
+avu
+7017
+total por cliente : m.b. de almeida e almeida ltda - me
+,00
+,00
+,00
+908,09
+cliente/ fornecedor :
+mape frutas hortifruti ltda
+33389
+2
+,00
+,00
+,00
+3.459,84
+05/06/2024
+3.459,84
+05/06/2024
+avu
+44415
+1
+,00
+,00
+,00
+1.598,34
+05/06/2024
+1.598,34
+05/06/2024
+avu
+45813
+total por cliente : mape frutas hortifruti ltda
+,00
+,00
+,00
+5.058,18
+cliente/ fornecedor :
+marques e caetano ltda.
+42
+4
+,00
+,00
+,00
+759,00
+05/06/2024
+759,00
+05/06/2024
+avu
+323344
+total por cliente : marques e caetano ltda.
+,00
+,00
+,00
+759,00
+cliente/ fornecedor :
+mercodata engenharia de sistema ltda
+33085
+1
+,00
+,00
+,00
+847,20
+05/06/2024
+847,20
+05/06/2024
+avu
+2105
+total por cliente : mercodata engenharia de sistema ltd
+,00
+,00
+,00
+847,20
+cliente/ fornecedor :
+quimica amparo ltda.
+149
+2
+,00
+,00
+,00
+9.476,86
+05/06/2024
+9.476,86
+05/06/2024
+avu
+3504454
+total por cliente : quimica amparo ltda.
+,00
+,00
+,00
+9.476,86
+página 7 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+roseli do salgado
+33548
+1
+,00
+,00
+,00
+412,50
+20/05/2024
+412,50
+05/06/2024
+avu
+160524
+total por cliente : roseli do salgado
+,00
+,00
+,00
+412,50
+cliente/ fornecedor :
+rupeho distribuidora de alimentos ltda
+33423
+2
+,00
+,00
+,00
+1.168,00
+05/06/2024
+1.168,00
+05/06/2024
+avu
+16813
+total por cliente : rupeho distribuidora de alimentos l
+,00
+,00
+,00
+1.168,00
+cliente/ fornecedor :
+s de oliveira reis rangel
+33533
+1
+,00
+,00
+,00
+195,00
+05/06/2024
+195,00
+05/06/2024
+avu
+1550
+total por cliente : s de oliveira reis rangel
+,00
+,00
+,00
+195,00
+cliente/ fornecedor :
+sdb comercio de alimentos ltda
+2476
+1
+,00
+,00
+,00
+1.434,60
+05/06/2024
+1.434,60
+05/06/2024
+avu
+41791
+total por cliente : sdb comercio de alimentos ltda
+,00
+,00
+,00
+1.434,60
+cliente/ fornecedor :
+sepex distribuidora ltda
+33301
+1
+,00
+,00
+,00
+229,77
+05/06/2024
+229,77
+05/06/2024
+avu
+231110
+2
+,00
+,00
+,00
+442,14
+05/06/2024
+442,14
+05/06/2024
+avu
+227107
+total por cliente : sepex distribuidora ltda
+,00
+,00
+,00
+671,91
+cliente/ fornecedor :
+sul do oeste distribuidor de alimentos l
+2024
+1
+,00
+,00
+,00
+6.925,10
+05/06/2024
+6.925,10
+05/06/2024
+avu
+19354
+total por cliente : sul do oeste distribuidor de alimen
+,00
+,00
+,00
+6.925,10
+cliente/ fornecedor :
+wms supermercados do brasil ltda
+33741
+1
+,00
+,00
+,00
+874,30
+05/06/2024
+874,30
+05/06/2024
+avu
+59596
+1
+,00
+,00
+,00
+874,30
+05/06/2024
+874,30
+05/06/2024
+avu
+59598
+total por cliente : wms supermercados do brasil ltda
+,00
+,00
+,00
+1.748,60
+cliente/ fornecedor :
+yoki distribuidora de alimentos ltd
+33614
+1
+27,10
+,00
+,00
+2.612,86
+05/06/2024
+2.639,96
+05/06/2024
+avu
+71041
+total por cliente : yoki distribuidora de alimentos ltd
+27,10
+,00
+,00
+2.612,86
+total por forma de pagamento : compra a prazo
+47,90
+,00
+,00
+267.456,93
+forma de pagamento :
+2
+a prazo
+cliente/ fornecedor :
+lima e pergher industria e comercio s/a
+33453
+01
+,00
+,00
+,00
+3.709,76
+06/06/2024
+3.709,76
+06/06/2024
+avu
+22
+total por cliente : lima e pergher industria e comercio
+,00
+,00
+,00
+3.709,76
+total por forma de pagamento : a prazo
+,00
+,00
+,00
+3.709,76
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+adm do brasil ltda
+68
+2
+,00
+,00
+,00
+6.385,48
+06/06/2024
+6.385,48
+06/06/2024
+avu
+446431
+total por cliente : adm do brasil ltda
+,00
+,00
+,00
+6.385,48
+cliente/ fornecedor :
+brf s.a.
+151
+2
+39,56
+,00
+,00
+2.484,19
+06/06/2024
+2.523,75
+06/06/2024
+avu
+2188404
+2
+,00
+,00
+,00
+1.722,12
+06/06/2024
+1.722,12
+06/06/2024
+avu
+2189276
+total por cliente : brf s.a.
+39,56
+,00
+,00
+4.206,31
+cliente/ fornecedor :
+comercial kumbuca de cereais ltda
+62
+2
+,00
+,00
+,00
+4.500,00
+06/06/2024
+4.500,00
+06/06/2024
+avu
+153818
+total por cliente : comercial kumbuca de cereais ltda
+,00
+,00
+,00
+4.500,00
+cliente/ fornecedor :
+coroado comercio de generos alimenticios
+534
+3
+,00
+,00
+,00
+2.003,66
+06/06/2024
+2.003,66
+06/06/2024
+avu
+98309
+total por cliente : coroado comercio de generos aliment
+,00
+,00
+,00
+2.003,66
+cliente/ fornecedor :
+distribuidora de carnes e frios jp ltda
+2548
+4
+,00
+,00
+,00
+1.403,25
+06/06/2024
+1.403,25
+06/06/2024
+avu
+45803
+3
+,00
+,00
+,00
+2.020,88
+06/06/2024
+2.020,88
+06/06/2024
+avu
+46021
+1
+,00
+,00
+,00
+3.330,90
+06/06/2024
+3.330,90
+06/06/2024
+avu
+46422
+1
+,00
+,00
+,00
+548,64
+06/06/2024
+548,64
+06/06/2024
+avu
+46365
+página 8 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+distribuidora de carnes e frios jp ltda
+2548
+2
+,00
+,00
+,00
+1.063,30
+06/06/2024
+1.063,30
+06/06/2024
+avu
+46216
+total por cliente : distribuidora de carnes e frios jp 
+,00
+,00
+,00
+8.366,97
+cliente/ fornecedor :
+eliel marques de queiroz
+33495
+4
+,00
+,00
+,00
+836,20
+01/06/2024
+836,20
+06/06/2024
+avu
+503
+total por cliente : eliel marques de queiroz
+,00
+,00
+,00
+836,20
+cliente/ fornecedor :
+elton cesar marques de queiroz (doação)
+33643
+12
+,00
+,00
+,00
+1.500,00
+01/07/2024
+1.500,00
+06/06/2024
+avu
+308
+total por cliente : elton cesar marques de queiroz (doa
+,00
+,00
+,00
+1.500,00
+cliente/ fornecedor :
+fonte distribuidora de alimentos ltda - mancha
+33620
+1
+1,08
+,00
+,00
+1.678,92
+27/05/2024
+1.680,00
+06/06/2024
+avu
+180524
+1
+1,14
+,00
+,00
+1.898,86
+03/06/2024
+1.900,00
+06/06/2024
+avu
+250524
+total por cliente : fonte distribuidora de alimentos lt
+2,22
+,00
+,00
+3.577,78
+cliente/ fornecedor :
+jose antonio camargo - granja kokodeco
+261
+1
+,00
+,00
+,00
+960,00
+06/06/2024
+960,00
+06/06/2024
+avu
+2292
+total por cliente : jose antonio camargo - granja kokod
+,00
+,00
+,00
+960,00
+cliente/ fornecedor :
+ks coml de produto agricola ltda
+33682
+1
+,00
+,00
+,00
+900,00
+06/06/2024
+900,00
+06/06/2024
+avu
+171411
+total por cliente : ks coml de produto agricola ltda
+,00
+,00
+,00
+900,00
+cliente/ fornecedor :
+la gandria industria e com. de produtos
+33558
+1
+,00
+,00
+,00
+1.325,00
+06/06/2024
+1.325,00
+06/06/2024
+avu
+8879
+total por cliente : la gandria industria e com. de prod
+,00
+,00
+,00
+1.325,00
+cliente/ fornecedor :
+marques de queiroz ltda
+897
+1
+,00
+,00
+,00
+246,00
+06/06/2024
+246,00
+06/06/2024
+avu
+4165
+6
+,00
+,00
+,00
+4.350,00
+01/06/2024
+4.350,00
+06/06/2024
+avu
+2912
+2
+,00
+,00
+,00
+1.013,00
+06/06/2024
+1.013,00
+06/06/2024
+avu
+4146
+total por cliente : marques de queiroz ltda
+,00
+,00
+,00
+5.609,00
+cliente/ fornecedor :
+mika da amazonia alimentos ltda
+33124
+1
+,00
+,00
+,00
+5.082,30
+06/06/2024
+5.082,30
+06/06/2024
+avu
+245485
+total por cliente : mika da amazonia alimentos ltda
+,00
+,00
+,00
+5.082,30
+cliente/ fornecedor :
+mika da amazonia alimentos ltda
+36
+1
+,00
+,00
+,00
+457,53
+06/06/2024
+457,53
+06/06/2024
+avu
+477094
+total por cliente : mika da amazonia alimentos ltda
+,00
+,00
+,00
+457,53
+cliente/ fornecedor :
+mks comercio de legumes ltda
+33681
+1
+,00
+,00
+,00
+640,00
+06/06/2024
+640,00
+06/06/2024
+avu
+153169
+total por cliente : mks comercio de legumes ltda
+,00
+,00
+,00
+640,00
+cliente/ fornecedor :
+multipla utilidades
+33113
+2
+,00
+,00
+,00
+1.748,77
+06/06/2024
+1.748,77
+06/06/2024
+avu
+1333
+total por cliente : multipla utilidades
+,00
+,00
+,00
+1.748,77
+cliente/ fornecedor :
+norte sul real distr e logist ltda
+267
+3
+,00
+,00
+,00
+4.547,91
+06/06/2024
+4.547,91
+06/06/2024
+avu
+2162703
+3
+,00
+,00
+,00
+4.132,14
+06/06/2024
+4.132,14
+06/06/2024
+avu
+2162702
+1
+,00
+,00
+,00
+3.109,45
+06/06/2024
+3.109,45
+06/06/2024
+avu
+2172132
+total por cliente : norte sul real distr e logist ltda
+,00
+,00
+,00
+11.789,50
+cliente/ fornecedor :
+recol distribuicao e comercio ltda
+20
+3
+,00
+,00
+,00
+720,36
+06/06/2024
+720,36
+06/06/2024
+avu
+575391
+total por cliente : recol distribuicao e comercio ltda
+,00
+,00
+,00
+720,36
+cliente/ fornecedor :
+sical distribuidora de produtos alimenti
+33121
+2
+,00
+,00
+,00
+428,02
+06/06/2024
+428,02
+06/06/2024
+avu
+31673
+total por cliente : sical distribuidora de produtos ali
+,00
+,00
+,00
+428,02
+cliente/ fornecedor :
+t.s. intermedia?oes de servi?os ltda
+33554
+01
+,00
+,00
+,00
+2.521,10
+07/06/2024
+2.521,10
+06/06/2024
+97
+total por cliente : t.s. intermedia?oes de servi?os ltd
+,00
+,00
+,00
+2.521,10
+página 9 de 49
+informe a(s) empresa(s) = ( 2 )
+ informe o fornecedor ou branco para todos = 
+ informe a(s) forma(s) de pagto ou branco p/ todas  = 
+ data de pagamento inicial = '01-06-2024'
+ data de pagamento final = '30-06-2024'
+11/07/2024 09:45:05
+2 supermercado queiroz
+415-relatório de pagamentos efetuados
+título
+descontos 
+concedido
+juros 
+ postergados
+juros 
+cobrados
+valor pago
+vencimento
+valor título
+data
+ pagamento
+série
+v. ciss 06
+financeiro
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+uniao distribuidora e representacao ltda
+33785
+2
+,00
+,00
+,00
+797,01
+06/06/2024
+797,01
+06/06/2024
+avu
+585
+total por cliente : uniao distribuidora e representacao
+,00
+,00
+,00
+797,01
+cliente/ fornecedor :
+v. orlando de almeida-epp
+33053
+2
+,00
+,00
+,00
+777,00
+06/06/2024
+777,00
+06/06/2024
+avu
+16748
+total por cliente : v. orlando de almeida-epp
+,00
+,00
+,00
+777,00
+total por forma de pagamento : compra a prazo
+41,78
+,00
+,00
+65.131,99
+forma de pagamento :
+25
+dev de venda - gera credito
+cliente/ fornecedor :
+rosileia oliveira souza soares
+10010
+01
+,00
+,00
+,00
+32,77
+06/07/2024
+32,87
+06/06/2024
+1
+2734
+total por cliente : rosileia oliveira souza soares
+,00
+,00
+,00
+32,77
+total por forma de pagamento : dev de venda - gera credito
+,00
+,00
+,00
+32,77
+forma de pagamento :
+24
+compra a prazo
+cliente/ fornecedor :
+agil distribuidora de alimentos ltda
+33122
+2
+,00
+,00
+,00
+349,76
+07/06/2024
+349,76
+07/06/2024
+avu
+1916294
+1
+,00
+,00
+,00
+139,68
+07/06/2024
+139,68
+07/06/2024
+avu
+1916293
+1
+,00
+,00
+,00
+227,42
+07/06/2024
+227,42
+07/06/2024
+avu
+1919102
+4
+,00
+,00
+,00
+1.109,49
+07/06/2024
+1.109,49
+07/06/2024
+avu
+1910305
+3
+,00
+,00
+,00
+209,91
+07/06/2024
+209,91
+07/06/2024
+avu
+1913115
+2
+,00
+,00
+,00
+1.083,99
+07/06/2024
+1.083,99
+07/06/2024
+avu
+1916295
+total por cliente : agil distribuidora de alimentos ltd
+,00
+,00
+,00
+3.120,25
+cliente/ fornecedor :
+alimentos masson ltda
+83
+5
+,00
+,00
+,00
+1.920,00
+07/06/2024
+1.920,00
+07/06/2024
+avu
+277994
+total por cliente : alimentos masson ltda
+,00
+,00
+,00
+1.920,00
+cliente/ fornecedor :
+arlete do carmo - doce deca
+2074
+1
+,00
+,00
+,00
+510,00
+03/06/2024
+510,00
+07/06/2024
+avu
+3777175
+total por cliente : arlete do carmo - doce deca
+,00
+,00
+,00
+510,00
+cliente/ fornecedor :
+borges de carvalho e cia ltda me
+2541
+2
+,00
+,00
+,00
+4.188,06
+07/06/2024
+4.188,06
+07/06/2024
+avu
+29600
+total por cliente : borges de carvalho e cia ltda me
+,00
+,00
+,00
+4.188,06
+cliente/ fornecedor :
+cafe brasileiro alimentos ltda
+156
+1
+,00
+,00
+,00
+710,37
+07/06/2024
+710,37
+07/06/2024
+avu
+275434
+total por cliente : cafe brasileiro alimentos ltda
+,00
+,00
+,00
+710,37
+cliente/ fornecedor :
+cetap distribuicao de prod alim
+756
+2
+,00
+,00
+,00
+379,18
+07/06/2024
+379,18
+07/06/2024
+avu
+656062
+total por cliente : cetap distribuicao de prod alim
+,00
+,00
+,00
+379,18
+cliente/ fornecedor :
+claumar alimentos ltda
+67
+1
+,00
+,00
+,00
+1.928,04
+07/06/2024
+1.928,04
+07/06/2024
+avu
+512405
+total por cliente : claumar alimentos ltda
+,00
+,00
+,00
+1.928,04
+cliente/ fornecedor :
+coroado comercio de generos alimenticios
+534
+1
+,00
+,00
+,00
+2.841,72
+07/06/2024
+2.841,72
+07/06/2024
+avu
+98585
+2
+,00
+,00
+,00
+1.299,06
+07/06/2024
+1.299,06
+07/06/2024
+avu
+100524
+total por cliente : coroado comercio de generos aliment
+,00
+,00
+,00
+4.140,78
+cliente/ fornecedor :
+d r tambarussi e cia ltda epp
+2220
+1
+,00
+,00
+,00
+315,10
+07/06/2024
+315,10
+07/06/2024
+avu
+118112
+total por cliente : d r tambarussi e cia ltda epp
+,00
+,00
+,00
+315,10
+cliente/ fornecedor :
+deycon comercio e distribuicao ltda
+89
+3
+,00
+,00
+,00
+4.173,33
+07/06/2024
+4.173,33
+07/06/2024
+avu
+769809
+total por cliente : deycon comercio e distribuicao ltda
+,00
+,00
+,00
+4.173,33
+cliente/ fornecedor :
+disnorte atacadista e distribuidora de a
+33126
+1
+,00
+,00
+,00
+455,57
+07/06/2024
+455,57
+07/06/2024
+avu
+457487
+2
+,00
+,00
+,00
+489,62
+07/06/2024
+489,62
+07/06/2024
+avu
+455290
+página 10 de 49

@@ -1,0 +1,2517 @@
+relação de pagamentos agrupada por fornecedor com forma de pagamento
+gestores
+data: 06/08/2025 15:13:29
+usuário: ruan
+filial "igual" : 1 brazil especiarias ltda
+data pagamento "entre" : 01/07/2025 a 31/07/2025
+fornecedor: compra de pimenta do reino 
+dt. venc.
+dt. emis.
+nf
+documento histórico
+espécie
+valor-r$ valor pago dt. pagto
+agência
+nº conta
+conta
+banco
+forma pgto
+01/07/2025
+01/07/2025
+6638
+rondinele de freitas
+tranferênci
+a
+4.320,00
+4.320,00
+01/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+01/07/2025
+01/07/2025
+6639
+cristiane alves
+tranferênci
+a
+1.350,00
+1.350,00
+01/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+02/07/2025
+02/07/2025
+6640
+sebastião raimundo
+tranferênci
+a
+15.012,00
+15.012,00
+02/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+03/07/2025
+03/07/2025
+6637
+braz grillo
+tranferênci
+a
+25.984,00
+25.984,00
+03/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+03/07/2025
+03/07/2025
+6644
+edmilson alves
+tranferênci
+a
+5.040,00
+5.040,00
+03/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+04/07/2025
+04/07/2025
+6576
+otaviano caran
+tranferênci
+a
+32.000,00
+32.000,00
+04/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+04/07/2025
+04/07/2025
+6646
+antonio putin
+tranferênci
+a
+9.800,00
+9.800,00
+04/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+04/07/2025
+04/07/2025
+6647
+alan carlos
+tranferênci
+a
+980,00
+980,00
+04/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+04/07/2025
+04/07/2025
+6649
+fabio raymundo
+tranferênci
+a
+1.876,00
+1.876,00
+04/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+04/07/2025
+04/07/2025
+6650
+gustavo frigerio
+tranferênci
+a
+12.825,00
+12.825,00
+04/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+07/07/2025
+07/07/2025
+6656
+reginaldo neves
+tranferênci
+a
+1.711,00
+1.711,00
+07/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+08/07/2025
+08/07/2025
+1705
+eugenio grillo
+cheque
+826,50
+826,50
+08/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+08/07/2025
+08/07/2025
+6657
+edilton amaral
+tranferênci
+a
+3.584,00
+3.584,00
+08/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+08/07/2025
+08/07/2025
+6659
+thiago guide
+tranferênci
+a
+5.432,00
+5.432,00
+08/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+08/07/2025
+08/07/2025
+6665
+leonardo pereira
+tranferênci
+a
+7.924,00
+7.924,00
+08/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+08/07/2025
+08/07/2025
+6667
+bruno viana
+tranferênci
+a
+6.583,50
+6.583,50
+08/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+08/07/2025
+08/07/2025
+6668
+sergio cremasco
+tranferênci
+a
+5.236,00
+5.236,00
+08/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+09/07/2025
+09/07/2025
+6670
+rosa adelia pontes
+tranferênci
+a
+2.184,00
+2.184,00
+09/07/2025
+0556
+3103-6
+compra de
+pimenta
+caixa econômica
+federal
+banco
+09/07/2025
+09/07/2025
+6671
+jardel
+tranferênci
+a
+2.212,00
+2.212,00
+09/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+09/07/2025
+09/07/2025
+6672
+dormenia pereira
+tranferênci
+a
+10.920,00
+10.920,00
+09/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+10/07/2025
+10/07/2025
+6674
+jose nivaldo
+boldrine
+tranferênci
+a
+14.000,00
+14.000,00
+10/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+10/07/2025
+10/07/2025
+6675
+katia aparecida 2
+tranferênci
+a
+1.344,00
+1.344,00
+10/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+10/07/2025
+10/07/2025
+6676
+katia aparecida
+tranferênci
+a
+4.648,00
+4.648,00
+10/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+10/07/2025
+10/07/2025
+6686
+jovacir marin zanon 1 tranferênci
+a
+140.000,00
+140.000,00
+10/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+10/07/2025
+10/07/2025
+6687
+sebastião raimundo
+tranferênci
+a
+750,00
+750,00
+10/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+11/07/2025
+11/07/2025
+6681
+nildo zanon
+tranferênci
+a
+1.375,00
+1.375,00
+11/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+11/07/2025
+11/07/2025
+6683
+josimar leite 1
+tranferênci
+a
+936,10
+936,10
+11/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+11/07/2025
+11/07/2025
+6686
+jovacir marin zanon
+tranferênci
+a
+99.000,00
+99.000,00
+11/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+11/07/2025
+11/07/2025
+6686
+jovacir marin zanon 2 tranferênci
+a
+41.000,00
+41.000,00
+11/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+brajan sistemas
+www.brajan.com.br
+página: 1
+14/07/2025
+14/07/2025
+6576
+otaviano caran 1
+tranferênci
+a
+4.422,00
+4.422,00
+14/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+14/07/2025
+14/07/2025
+6576
+otaviano caran 2
+tranferênci
+a
+4.346,00
+4.346,00
+14/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+14/07/2025
+14/07/2025
+6748
+leomar buzato
+tranferênci
+a
+10.000,00
+10.000,00
+14/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+16/07/2025
+16/07/2025
+6692
+reginaldo dos
+santos
+tranferênci
+a
+1.690,00
+1.690,00
+16/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+16/07/2025
+16/07/2025
+6696
+sebastião raimundo
+tranferênci
+a
+12.012,00
+12.012,00
+16/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+17/07/2025
+17/07/2025
+1706
+rosimar biral
+cheque
+8.008,00
+8.008,00
+17/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+17/07/2025
+17/07/2025
+6698
+sergio cremasco
+tranferênci
+a
+4.394,00
+4.394,00
+17/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+17/07/2025
+17/07/2025
+6700
+joão bastista
+tranferênci
+a
+6.552,00
+6.552,00
+17/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+17/07/2025
+17/07/2025
+6705
+edno contarato
+tranferênci
+a
+13.000,00
+13.000,00
+17/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+17/07/2025
+17/07/2025
+6706
+juceia
+tranferênci
+a
+609,50
+609,50
+17/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+17/07/2025
+17/07/2025
+6708
+mariana nascimento
+tranferênci
+a
+10.547,00
+10.547,00
+17/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+17/07/2025
+17/07/2025
+6853
+daiane teixeira
+tranferênci
+a
+4.982,00
+4.982,00
+17/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+18/07/2025
+18/07/2025
+001
+batista dos santos
+sebim
+tranferênci
+a
+6.572,00
+6.572,00
+18/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+18/07/2025
+18/07/2025
+6709
+edilton amaral
+tranferênci
+a
+4.319,50
+4.319,50
+18/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+18/07/2025
+18/07/2025
+6711
+osvaldinho
+bastianello
+tranferênci
+a
+3.445,00
+3.445,00
+18/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+18/07/2025
+18/07/2025
+6716
+edson barros
+tranferênci
+a
+1.192,50
+1.192,50
+18/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+18/07/2025
+18/07/2025
+6718
+edson santos
+tranferênci
+a
+18.020,00
+18.020,00
+18/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+18/07/2025
+18/07/2025
+6719
+jose lucas pezzin
+tranferênci
+a
+1.722,50
+1.722,50
+18/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+18/07/2025
+18/07/2025
+6720
+noel soares
+tranferênci
+a
+874,50
+874,50
+18/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+21/07/2025
+21/07/2025
+6726
+mauro buge
+tranferênci
+a
+16.430,00
+16.430,00
+21/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+22/07/2025
+22/07/2025
+6529
+elenilson bergamim
+tranferênci
+a
+12.846,00
+12.846,00
+22/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+22/07/2025
+22/07/2025
+6734
+sebastião raimundo
+tranferênci
+a
+3.710,00
+3.710,00
+22/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+22/07/2025
+22/07/2025
+6737
+noel soares lopes
+tranferênci
+a
+848,00
+848,00
+22/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+22/07/2025
+22/07/2025
+6738
+levina
+tranferênci
+a
+556,50
+556,50
+22/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+22/07/2025
+22/07/2025
+6739
+thiago guide
+tranferênci
+a
+10.091,20
+10.091,20
+22/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+22/07/2025
+22/07/2025
+6741
+sergio cremasco
+tranferênci
+a
+1.822,40
+1.822,40
+23/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+23/07/2025
+23/07/2025
+6736
+bruno viana
+tranferênci
+a
+11.340,00
+11.340,00
+23/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+23/07/2025
+23/07/2025
+6743
+edilton amaral
+tranferênci
+a
+2.187,00
+2.187,00
+23/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+23/07/2025
+23/07/2025
+6744
+solange
+tranferênci
+a
+1.269,00
+1.269,00
+23/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+23/07/2025
+23/07/2025
+6745
+juvenil santos
+pinheiros
+tranferênci
+a
+7.263,00
+7.263,00
+23/07/2025
+0556
+3103-6
+compra de
+pimenta
+caixa econômica
+federal
+banco
+23/07/2025
+23/07/2025
+6746
+rafael dos santos
+tranferênci
+a
+1.404,00
+1.404,00
+23/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+23/07/2025
+23/07/2025
+6747
+eliana dos santos
+tranferênci
+a
+1.242,00
+1.242,00
+23/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+24/07/2025
+24/07/2025
+1707
+rosimar biral
+cheque
+4.158,00
+4.158,00
+24/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+24/07/2025
+24/07/2025
+6749
+rosa adelia
+tranferênci
+a
+1.350,00
+1.350,00
+24/07/2025
+0556
+3103-6
+compra de
+pimenta
+caixa econômica
+federal
+banco
+24/07/2025
+24/07/2025
+6751
+damião alves
+tranferênci
+a
+10.000,00
+10.000,00
+24/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+24/07/2025
+24/07/2025
+6751
+damião alves
+tranferênci
+a
+14.300,00
+14.300,00
+24/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+brajan sistemas
+www.brajan.com.br
+página: 2
+24/07/2025
+24/07/2025
+6757
+jose da silva santos
+tranferênci
+a
+2.511,00
+2.511,00
+24/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+25/07/2025
+24/07/2025
+6764
+edson
+tranferênci
+a
+4.611,00
+4.611,00
+25/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+25/07/2025
+25/07/2025
+6770
+rayner
+tranferênci
+a
+12.925,00
+12.925,00
+25/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+25/07/2025
+25/07/2025
+6773
+julio cesar
+tranferênci
+a
+1.612,00
+1.612,00
+25/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+26/07/2025
+26/07/2025
+6779
+fabio raimundo
+tranferênci
+a
+1.508,00
+1.508,00
+26/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+26/07/2025
+26/07/2025
+6780
+admilson barbosa
+tranferênci
+a
+2.600,00
+2.600,00
+26/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+28/07/2025
+28/07/2025
+6776
+mauro buge
+tranferênci
+a
+54.513,00
+54.513,00
+28/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+28/07/2025
+28/07/2025
+6782
+bruno viana
+tranferênci
+a
+927,50
+927,50
+28/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+28/07/2025
+28/07/2025
+6783
+jean lopes ferreira
+tranferênci
+a
+1.166,00
+1.166,00
+28/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+28/07/2025
+28/07/2025
+6785
+jose daniel da silva
+tranferênci
+a
+6.696,00
+6.696,00
+28/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+29/07/2025
+29/07/2025
+1709
+almir roque
+cheque
+3.348,00
+3.348,00
+29/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+29/07/2025
+29/07/2025
+6794
+elioas zanon sebim
+tranferênci
+a
+44.955,00
+44.955,00
+29/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+29/07/2025
+29/07/2025
+6795
+marco antonio 
+oliveira
+tranferênci
+a
+1.377,00
+1.377,00
+29/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+29/07/2025
+29/07/2025
+6798
+luciano do carmo
+tranferênci
+a
+2.700,00
+2.700,00
+29/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+30/07/2025
+30/07/2025
+6809
+romildo zavarize
+tranferênci
+a
+3.942,00
+3.942,00
+30/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+30/07/2025
+30/07/2025
+6810
+gustavo frigerio
+tranferênci
+a
+8.370,00
+8.370,00
+30/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+30/07/2025
+30/07/2025
+6811
+luciano do carmo
+tranferênci
+a
+2.700,00
+2.700,00
+30/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+30/07/2025
+30/07/2025
+6812
+gecy bueno
+tranferênci
+a
+3.510,00
+3.510,00
+30/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+30/07/2025
+30/07/2025
+6813
+joão batista
+tranferênci
+a
+10.746,00
+10.746,00
+30/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+30/07/2025
+30/07/2025
+6817
+clarindo panseire
+tranferênci
+a
+2.970,00
+2.970,00
+30/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+1710
+paulo kripper
+cheque
+10.611,00
+10.611,00
+31/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+31/07/2025
+31/07/2025
+6707
+laircio buzato
+tranferênci
+a
+20.000,00
+20.000,00
+31/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+31/07/2025
+31/07/2025
+6818
+jose daniel da silva
+tranferênci
+a
+6.669,00
+6.669,00
+31/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+6821
+jocimar andrelino
+tranferênci
+a
+1.188,00
+1.188,00
+31/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+31/07/2025
+31/07/2025
+6822
+erivelton biral
+tranferênci
+a
+837,00
+837,00
+31/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+31/07/2025
+31/07/2025
+6824
+luciano do carmo 2
+tranferênci
+a
+7.884,00
+7.884,00
+31/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+31/07/2025
+31/07/2025
+6826
+sebastião raimundo
+tranferênci
+a
+5.360,00
+5.360,00
+31/07/2025
+1481
+29726
+compra de
+pimenta
+banco bradesco s.a.
+banco
+31/07/2025
+31/07/2025
+6828
+edilton amaral
+tranferênci
+a
+2.020,00
+2.020,00
+31/07/2025
+0702
+307718
+compra de
+pimenta
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+6829
+sergio pettine
+tranferênci
+a
+378,00
+378,00
+31/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+31/07/2025
+31/07/2025
+6819
+adailson costa
+tranferênci
+a
+8.316,00
+8.316,00
+31/07/2025
+3007
+366073-7
+compra de
+pimenta
+banco cooperativo do
+brasil s a
+bancoob
+banco
+total:
+913.329,20
+913.329,20
+fornecedor: impostos 
+dt. venc.
+dt. emis.
+nf
+documento histórico
+espécie
+valor-r$ valor pago dt. pagto
+agência
+nº conta
+conta
+banco
+forma pgto
+18/07/2025
+18/07/2025
+001
+darf
+boleto
+1.692,40
+1.692,40
+18/07/2025
+0702
+307718
+dam -
+doculmento
+banco do brasil s.a.
+banco
+18/07/2025
+18/07/2025
+001
+fgts
+boleto
+240,00
+240,00
+18/07/2025
+0702
+307718
+fgts
+banco do brasil s.a.
+banco
+18/07/2025
+18/07/2025
+001
+icms
+boleto
+666,88
+666,88
+18/07/2025
+0702
+307718
+icms
+banco do brasil s.a.
+banco
+brajan sistemas
+www.brajan.com.br
+página: 3
+21/07/2025
+21/07/2025
+001
+imposto
+boleto
+1.465,34
+1.465,34
+21/07/2025
+0702
+307718
+dam -
+doculmento
+banco do brasil s.a.
+banco
+25/07/2025
+25/07/2025
+001
+cofins
+boleto
+2.227,31
+2.227,31
+25/07/2025
+0702
+307718
+cofins
+banco do brasil s.a.
+banco
+25/07/2025
+25/07/2025
+001
+pis
+boleto
+483,56
+483,56
+25/07/2025
+0702
+307718
+pis
+banco do brasil s.a.
+banco
+total:
+6.775,49
+6.775,49
+fornecedor: tarifa bancária
+dt. venc.
+dt. emis.
+nf
+documento histórico
+espécie
+valor-r$ valor pago dt. pagto
+agência
+nº conta
+conta
+banco
+forma pgto
+01/07/2025
+01/07/2025
+001
+seguro sicoob
+debitado
+1.136,13
+1.136,13
+01/07/2025
+3007
+366073-7
+seguro
+sicoob
+banco cooperativo do
+brasil s a
+bancoob
+banco
+01/07/2025
+01/07/2025
+001
+tarifas cx
+debitado
+291,83
+291,83
+01/07/2025
+0556
+3103-6
+tarifas
+caixa econômica
+federal
+banco
+02/07/2025
+02/07/2025
+001
+cap g peac fgi
+debitado
+2.614,86
+2.614,86
+02/07/2025
+0702
+307718
+capital de
+giro bb 1
+banco do brasil s.a.
+banco
+07/07/2025
+01/07/2025
+001
+prest emp
+debitado
+1.922,00
+1.922,00
+07/07/2025
+0556
+3103-6
+caixa
+econômica
+caixa econômica
+federal
+banco
+07/07/2025
+07/07/2025
+001
+cap g pronampe
+debitado
+1.963,97
+1.963,97
+07/07/2025
+0702
+307718
+capital de
+giro bb 2
+banco do brasil s.a.
+banco
+07/07/2025
+07/07/2025
+001
+db cx cap
+debitado
+250,00
+250,00
+07/07/2025
+0556
+3103-6
+caixa
+econômica
+caixa econômica
+federal
+banco
+07/07/2025
+07/07/2025
+001
+db cx cap 2
+debitado
+250,00
+250,00
+07/07/2025
+0556
+3103-6
+caixa
+econômica
+caixa econômica
+federal
+banco
+07/07/2025
+07/07/2025
+001
+db t cesta
+debitado
+125,00
+125,00
+07/07/2025
+0556
+3103-6
+caixa
+econômica
+caixa econômica
+federal
+banco
+10/07/2025
+07/07/2025
+001
+consorcio cx
+debitado
+2.163,26
+2.163,26
+10/07/2025
+0556
+3103-6
+caixa
+econômica
+caixa econômica
+federal
+banco
+10/07/2025
+10/07/2025
+001
+concorcio bb
+debitado
+1.628,39
+1.628,39
+10/07/2025
+0702
+307718
+banco do
+brasil
+banco do brasil s.a.
+banco
+10/07/2025
+10/07/2025
+001
+consorcio bd
+debitado
+1.605,87
+1.605,87
+10/07/2025
+1481
+29726
+tarifas
+banco bradesco s.a.
+banco
+10/07/2025
+10/07/2025
+001
+seguro de vida
+debitado
+152,65
+152,65
+10/07/2025
+3007
+366073-7
+seguro
+sicoob
+banco cooperativo do
+brasil s a
+bancoob
+banco
+15/07/2025
+10/07/2025
+001
+cartao cx
+debitado
+12,50
+12,50
+15/07/2025
+0556
+3103-6
+caixa
+econômica
+caixa econômica
+federal
+banco
+21/07/2025
+21/07/2025
+001
+cap g bradesco
+debitado
+8.464,18
+8.464,18
+21/07/2025
+1481
+29726
+capital de
+giro
+banco bradesco s.a.
+banco
+21/07/2025
+21/07/2025
+001
+pres emp
+debitado
+6.121,09
+6.121,09
+21/07/2025
+0556
+3103-6
+caixa
+econômica
+caixa econômica
+federal
+banco
+28/07/2025
+28/07/2025
+001
+prest emp
+debitado
+6.642,26
+6.642,26
+28/07/2025
+0556
+3103-6
+caixa
+econômica
+caixa econômica
+federal
+banco
+28/07/2025
+28/07/2025
+001
+seguro bb
+debitado
+165,85
+165,85
+28/07/2025
+0702
+307718
+seguro de
+vida bb
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+001
+tarifa bb
+debitado
+401,72
+401,72
+31/07/2025
+0702
+307718
+tarifa bb
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+001
+tarifas bradrsco
+debitado
+410,90
+410,90
+31/07/2025
+1481
+29726
+tarifas
+banco bradesco s.a.
+banco
+total:
+36.322,46
+36.322,46
+fornecedor: insumos
+dt. venc.
+dt. emis.
+nf
+documento histórico
+espécie
+valor-r$ valor pago dt. pagto
+agência
+nº conta
+conta
+banco
+forma pgto
+14/07/2025
+14/07/2025
+001
+ted bd sicoob
+tranferênci
+a
+50.000,00
+50.000,00
+14/07/2025
+1481
+29726
+ted
+bradesco p/
+banco bradesco s.a.
+banco
+15/07/2025
+15/07/2025
+001
+exames
+boleto
+305,00
+305,00
+15/07/2025
+1481
+29726
+mtrab
+banco bradesco s.a.
+banco
+16/07/2025
+16/07/2025
+001
+elevador
+boleto
+614,00
+614,00
+16/07/2025
+1481
+29726
+palini alves
+banco bradesco s.a.
+banco
+16/07/2025
+16/07/2025
+001
+ted bd/sicoob
+tranferênci
+a
+50.000,00
+50.000,00
+16/07/2025
+1481
+29726
+ted
+bradesco p/
+banco bradesco s.a.
+banco
+17/07/2025
+17/07/2025
+001
+armario
+boleto
+624,50
+624,50
+17/07/2025
+3007
+366073-7
+j e k
+tecnologia e
+banco cooperativo do
+brasil s a
+bancoob
+banco
+17/07/2025
+17/07/2025
+001
+uniformes
+tranferênci
+a
+403,20
+403,20
+17/07/2025
+3007
+366073-7
+almaci
+industria e
+banco cooperativo do
+brasil s a
+bancoob
+banco
+18/07/2025
+18/07/2025
+001
+posto ferrari
+boleto
+502,68
+502,68
+18/07/2025
+0702
+307718
+combustíveis
+e
+banco do brasil s.a.
+banco
+brajan sistemas
+www.brajan.com.br
+página: 4
+18/07/2025
+18/07/2025
+001
+posto ferrari 2
+boleto
+285,06
+285,06
+18/07/2025
+0702
+307718
+combustíveis
+e
+banco do brasil s.a.
+banco
+21/07/2025
+21/07/2025
+001
+ted bb sicoob
+tranferênci
+a
+50.000,00
+50.000,00
+21/07/2025
+0702
+307718
+ted bb p/
+sicoob
+banco do brasil s.a.
+banco
+24/07/2025
+24/07/2025
+001
+empilhadeira
+boleto
+10.500,00
+10.500,00
+24/07/2025
+1481
+29726
+material de
+uso e
+banco bradesco s.a.
+banco
+28/07/2025
+28/07/2025
+001
+ted bd / socoob
+tranferênci
+a
+50.000,00
+50.000,00
+28/07/2025
+1481
+29726
+ted bb p/
+sicoob
+banco bradesco s.a.
+banco
+30/07/2025
+30/07/2025
+001
+tranferênci
+a
+178,20
+178,20
+30/07/2025
+3007
+366073-7
+grafica
+cricare
+banco cooperativo do
+brasil s a
+bancoob
+banco
+30/07/2025
+30/07/2025
+001
+papel e tonel detinta tranferênci
+a
+116,38
+116,38
+30/07/2025
+3007
+366073-7
+j e k
+tecnologia e
+banco cooperativo do
+brasil s a
+bancoob
+banco
+total:
+213.529,02
+213.529,02
+fornecedor: custo fixo
+dt. venc.
+dt. emis.
+nf
+documento histórico
+espécie
+valor-r$ valor pago dt. pagto
+agência
+nº conta
+conta
+banco
+forma pgto
+02/07/2025
+02/07/2025
+001
+internet marcos
+junho
+boleto
+233,01
+233,01
+02/07/2025
+0702
+307718
+lidercom
+provedor
+banco do brasil s.a.
+banco
+03/07/2025
+03/07/2025
+001
+vale  alimentação
+boleto
+3.000,00
+3.000,00
+03/07/2025
+0702
+307718
+vale
+alimentação
+banco do brasil s.a.
+banco
+04/07/2025
+04/07/2025
+001
+aluguel galpão 1
+tranferênci
+a
+5.000,00
+5.000,00
+04/07/2025
+0702
+307718
+aluguel
+banco do brasil s.a.
+banco
+07/07/2025
+07/07/2025
+001
+contabilidade filial
+boleto
+500,00
+500,00
+07/07/2025
+1481
+29726
+contabilidad
+e
+banco bradesco s.a.
+banco
+07/07/2025
+07/07/2025
+001
+contabilidade matriz boleto
+2.727,00
+2.727,00
+07/07/2025
+1481
+29726
+contabilidad
+e
+banco bradesco s.a.
+banco
+10/07/2025
+10/07/2025
+001
+sistema filial
+boleto
+345,00
+345,00
+10/07/2025
+0702
+307718
+brajan
+sistemas
+banco do brasil s.a.
+banco
+10/07/2025
+10/07/2025
+001
+strada 2
+boleto
+1.745,53
+1.745,53
+10/07/2025
+0702
+307718
+financiament
+o fiat strada
+banco do brasil s.a.
+banco
+14/07/2025
+14/07/2025
+001
+plano de saude
+marcos
+tranferênci
+a
+1.267,65
+1.267,65
+14/07/2025
+1481
+29726
+unimed
+banco bradesco s.a.
+banco
+15/07/2025
+15/07/2025
+001
+adiantamento
+gustavo
+tranferênci
+a
+774,19
+774,19
+15/07/2025
+1481
+29726
+adiantament
+o
+banco bradesco s.a.
+banco
+15/07/2025
+15/07/2025
+001
+adiantamento ruan
+tranferênci
+a
+1.200,00
+1.200,00
+15/07/2025
+1481
+29726
+adiantament
+o
+banco bradesco s.a.
+banco
+15/07/2025
+15/07/2025
+001
+adiantamento
+solivan
+tranferênci
+a
+774,19
+774,19
+15/07/2025
+1481
+29726
+adiantament
+o
+banco bradesco s.a.
+banco
+15/07/2025
+15/07/2025
+001
+sistema matriz
+boleto
+345,00
+345,00
+18/07/2025
+1481
+29726
+brajan
+sistemas
+banco bradesco s.a.
+banco
+17/07/2025
+17/07/2025
+001
+conta de agua
+galpão 1
+boleto
+30,80
+30,80
+17/07/2025
+3007
+366073-7
+cesan
+banco cooperativo do
+brasil s a
+bancoob
+banco
+18/07/2025
+18/07/2025
+001
+internet
+boleto
+119,90
+119,90
+18/07/2025
+0702
+307718
+internet
+banco do brasil s.a.
+banco
+18/07/2025
+18/07/2025
+001
+internet marcos
+boleto
+219,90
+219,90
+18/07/2025
+0702
+307718
+internet
+banco do brasil s.a.
+banco
+18/07/2025
+18/07/2025
+001
+internet marcos
+boleto
+209,90
+209,90
+18/07/2025
+0702
+307718
+lidercom
+provedor
+banco do brasil s.a.
+banco
+22/07/2025
+22/07/2025
+001
+energia galpão
+boleto
+969,34
+969,34
+22/07/2025
+1481
+29726
+edp escelsa
+banco bradesco s.a.
+banco
+22/07/2025
+22/07/2025
+001
+energia galpão 2
+boleto
+94,93
+94,93
+22/07/2025
+1481
+29726
+edp escelsa
+banco bradesco s.a.
+banco
+22/07/2025
+22/07/2025
+001
+terreno
+boleto
+2.075,98
+2.075,98
+22/07/2025
+1481
+29726
+incorporado
+ra masarin
+banco bradesco s.a.
+banco
+25/07/2025
+25/07/2025
+001
+financiamento toro
+boleto
+3.496,58
+3.496,58
+25/07/2025
+0702
+307718
+financiament
+o fiat toro
+banco do brasil s.a.
+banco
+29/07/2025
+29/07/2025
+001
+strada 1
+boleto
+1.804,98
+1.804,98
+29/07/2025
+0702
+307718
+financiament
+o fiat strada
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+001
+aluguel galpão 2
+tranferênci
+a
+1.650,00
+1.650,00
+31/07/2025
+0702
+307718
+aluguel
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+001
+gustavo da
+conceição mendes
+tranferênci
+a
+1.523,58
+1.523,58
+31/07/2025
+0702
+307718
+salario de
+funcionarios
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+001
+ruan david miranda
+tranferênci
+a
+1.946,44
+1.946,44
+31/07/2025
+0702
+307718
+salario de
+funcionarios
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+001
+solivan leite
+tranferênci
+a
+1.376,81
+1.376,81
+31/07/2025
+0702
+307718
+salario de
+funcionarios
+banco do brasil s.a.
+banco
+31/07/2025
+31/07/2025
+001
+vale alimentação
+boleto
+3.000,00
+3.000,00
+31/07/2025
+3007
+366073-7
+vale
+alimentação
+banco cooperativo do
+brasil s a
+bancoob
+banco
+total:
+36.430,71
+36.430,71
+brajan sistemas
+www.brajan.com.br
+página: 5

@@ -1,0 +1,1743 @@
+várias empresas selecionadas
+empresa/filial: todas
+relatórios contas a pagar - por 020 - fornecedor
+seleções:  data baixa: 01/01/2024 à 31/03/2024 carteira:  filiais: 1 baixados portador: , títulos não cancelados 
+ordenação:documento crescente
+sglinear: 24.09.05 (pagar02) - usuário: reg - data/hora impres.: 31/10/2024 19:10:00
+página 1 de 13
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: agregar comercio atacadista e distri
+emis.
+vencto. baixa
+natureza
+histórico
+001
+36360
+1
+6.807,60
+756
+31/01/24 10/02/24 09/02/24
+2 despesas
+208 31/01/24 agregar com
+6.807,60
+quant. títulos:
+1
+6.807,60
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: alianca atacadista ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+1432415
+1
+1.666,35
+756
+30/12/23 08/01/24 05/01/24
+2 despesas
+594 30/12/23 alianca ataca
+001
+1436847
+1
+1.226,56
+756
+13/01/24 24/01/24 23/01/24
+2 despesas
+594 13/01/24 alianca ataca
+001
+1439583
+1
+2.216,97
+756
+20/01/24 29/01/24 29/01/24
+2 despesas
+594 20/01/24 alianca ataca
+001
+1444474
+1
+1.199,02
+756
+03/02/24 12/02/24 09/02/24
+2 despesas
+594 03/02/24 alianca ataca
+001
+1446888
+1
+1.385,33
+756
+10/02/24 19/02/24 19/02/24
+2 despesas
+594 10/02/24 alianca ataca
+001
+1451661
+1
+1.462,74
+756
+24/02/24 04/03/24 04/03/24
+2 despesas
+594 24/02/24 alianca ataca
+001
+1454132
+1
+1.647,41
+020
+02/03/24 11/03/24 11/03/24
+2 despesas
+594 02/03/24 alianca ataca
+001
+1458727
+1
+2.617,06
+756
+16/03/24 25/03/24 25/03/24
+2 despesas
+594 16/03/24 alianca ataca
+13.421,44
+quant. títulos:
+8
+13.421,44
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: aloe baf comercio de cosmeticos ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+59977
+1
+2.106,82
+756
+13/01/24 31/01/24 29/01/24
+2 despesas
+841 13/01/24 aloe baf com
+001
+62022
+1
+478,36
+756
+09/03/24 23/03/24 20/03/24
+2 despesas
+841 09/03/24 aloe baf com
+2.585,18
+quant. títulos:
+2
+2.585,18
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: anchieta comercio e servicos de distr
+emis.
+vencto. baixa
+natureza
+histórico
+001
+1071571
+1
+482,00
+756
+22/12/23 02/01/24 02/01/24
+2 despesas
+700 22/12/23 anchieta com
+001
+1078811
+1
+2.345,50
+756
+22/01/24 29/01/24 25/01/24
+2 despesas
+700 22/01/24 anchieta com
+001
+1093012
+1
+2.203,89
+020
+01/03/24 11/03/24 11/03/24
+2 despesas
+700 01/03/24 anchieta com
+5.031,39
+quant. títulos:
+3
+5.031,39
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: arcom s/a
+emis.
+vencto. baixa
+natureza
+histórico
+001
+20013449
+3
+167,76
+756
+12/12/23 02/01/24 02/01/24
+2 despesas
+3 12/12/23 arcom s/a 20013
+001
+20039446
+1
+482,31
+756
+19/12/23 03/01/24 02/01/24
+2 despesas
+3 19/12/23 arcom s/a 20039
+001
+20072357
+1
+225,67
+756
+30/12/23 08/01/24 05/01/24
+2 despesas
+3 30/12/23 arcom s/a 20072
+001
+20072357
+2
+225,67
+756
+30/12/23 15/01/24 12/01/24
+2 despesas
+3 30/12/23 arcom s/a 20072
+001
+20072357
+3
+225,69
+756
+30/12/23 22/01/24 18/01/24
+2 despesas
+3 30/12/23 arcom s/a 20072
+001
+20086703
+1
+868,59
+756
+06/01/24 22/01/24 18/01/24
+2 despesas
+3 06/01/24 arcom s/a 20086
+001
+20122486
+1
+4.773,98
+756
+16/01/24 23/01/24 23/01/24
+2 despesas
+3 16/01/24 arcom s/a 20122
+001
+20122486
+2
+4.773,98
+756
+16/01/24 30/01/24 29/01/24
+2 despesas
+3 16/01/24 arcom s/a 20122
+001
+20122486
+3
+4.774,00
+756
+16/01/24 06/02/24 06/02/24
+2 despesas
+3 16/01/24 arcom s/a 20122
+001
+20146731
+1
+628,89
+756
+23/01/24 07/02/24 07/02/24
+2 despesas
+3 23/01/24 arcom s/a 20146
+001
+20194094
+1
+1.478,61
+756
+04/02/24 19/02/24 15/02/24
+2 despesas
+3 04/02/24 arcom s/a 20194
+001
+20227197
+1
+1.172,08
+756
+12/02/24 27/02/24 26/02/24
+2 despesas
+3 12/02/24 arcom s/a 20227
+001
+20268140
+1
+1.011,25
+020
+24/02/24 11/03/24 11/03/24
+2 despesas
+3 24/02/24 arcom s/a 20268
+001
+20289928
+1
+1.242,13
+756
+29/02/24 18/03/24 14/03/24
+2 despesas
+3 29/02/24 arcom s/a 20289
+22.050,61
+quant. títulos:
+14
+22.050,61
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: arruda alimentos ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+293644
+1
+2.240,45
+756
+23/01/24 01/02/24 01/02/24
+2 despesas
+57 23/01/24 arruda alimen
+2.240,45
+quant. títulos:
+1
+2.240,45
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: astral ind e com de paes e massas esp l
+emis.
+vencto. baixa
+natureza
+histórico
+001
+467092
+1
+283,10
+756
+22/12/23 05/01/24 05/01/24
+2 despesas
+532 22/12/23 astral ind e c
+001
+467873
+1
+317,10
+756
+29/12/23 12/01/24 12/01/24
+2 despesas
+532 29/12/23 astral ind e c
+001
+468778
+1
+129,63
+756
+05/01/24 18/01/24 18/01/24
+2 despesas
+532 05/01/24 astral ind e c
+várias empresas selecionadas
+empresa/filial: todas
+relatórios contas a pagar - por 020 - fornecedor
+seleções:  data baixa: 01/01/2024 à 31/03/2024 carteira:  filiais: 1 baixados portador: , títulos não cancelados 
+ordenação:documento crescente
+sglinear: 24.09.05 (pagar02) - usuário: reg - data/hora impres.: 31/10/2024 19:10:00
+página 2 de 13
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: astral ind e com de paes e massas esp l
+emis.
+vencto. baixa
+natureza
+histórico
+001
+470535
+1
+326,57
+756
+19/01/24 01/02/24 01/02/24
+2 despesas
+532 19/01/24 astral ind e c
+001
+471569
+1
+312,42
+756
+26/01/24 08/02/24 07/02/24
+2 despesas
+532 26/01/24 astral ind e c
+001
+472385
+1
+305,20
+756
+02/02/24 14/02/24 09/02/24
+2 despesas
+532 02/02/24 astral ind e c
+001
+474176
+1
+282,26
+756
+16/02/24 28/02/24 26/02/24
+2 despesas
+532 16/02/24 astral ind e c
+001
+475127
+1
+297,31
+756
+23/02/24 07/03/24 06/03/24
+2 despesas
+532 23/02/24 astral ind e c
+001
+476021
+1
+392,00
+756
+01/03/24 14/03/24 14/03/24
+2 despesas
+532 01/03/24 astral ind e c
+001
+476936
+1
+143,45
+756
+08/03/24 21/03/24 20/03/24
+2 despesas
+532 08/03/24 astral ind e c
+2.789,04
+quant. títulos:
+10
+2.789,04
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: atacadao s.a.
+emis.
+vencto. baixa
+natureza
+histórico
+001
+160429
+1
+605,40
+756
+18/11/23 08/01/24 05/01/24
+2 despesas
+967 18/11/23 atacadao s.
+001
+165854
+1
+1.131,05
+756
+06/12/23 03/01/24 03/01/24
+2 despesas
+967 06/12/23 atacadao s.
+001
+167493
+1
+410,40
+756
+12/12/23 09/01/24 09/01/24
+2 despesas
+967 12/12/23 atacadao s.
+001
+167494
+1
+664,13
+756
+12/12/23 09/01/24 09/01/24
+2 despesas
+967 12/12/23 atacadao s.
+001
+169176
+1
+14.076,40
+756
+15/12/23 22/01/24 22/01/24
+2 despesas
+967 15/12/23 atacadao s.
+001
+174854
+1
+164,85
+756
+06/01/24 05/02/24 01/02/24
+2 despesas
+967 06/01/24 atacadao s.
+001
+177971
+1
+2.938,17
+756
+20/01/24 19/02/24 19/02/24
+2 despesas
+967 20/01/24 atacadao s.
+001
+178815
+1
+845,00
+756
+24/01/24 21/02/24 21/02/24
+2 despesas
+967 24/01/24 atacadao s.
+001
+181251
+1
+1.312,90
+756
+31/01/24 28/02/24 26/02/24
+2 despesas
+967 31/01/24 atacadao s.
+001
+183698
+1
+521,10
+756
+14/02/24 13/03/24 13/03/24
+2 despesas
+967 14/02/24 atacadao s.
+22.669,40
+quant. títulos:
+10
+22.669,40
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: atacarejo e laticinios veloso ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+30638
+1
+1.036,30
+756
+20/12/23 17/01/24 17/02/24
+2 despesas
+336 20/12/23 atacarejo e l
+001
+30841
+1
+755,13
+756
+03/01/24 31/01/24 29/01/24
+2 despesas
+336 03/01/24 atacarejo e l
+001
+31091
+1
+489,03
+756
+17/01/24 07/02/24 07/02/24
+2 despesas
+336 17/01/24 atacarejo e l
+001
+31209
+1
+581,80
+756
+24/01/24 07/02/24 07/02/24
+2 despesas
+336 24/01/24 atacarejo e l
+001
+31422
+1
+749,40
+756
+07/02/24 08/03/24 06/03/24
+2 despesas
+336 07/02/24 atacarejo e l
+001
+31643
+1
+1.790,42
+756
+21/02/24 20/03/24 20/03/24
+2 despesas
+336 21/02/24 atacarejo e l
+001
+31882
+1
+1.153,78
+756
+06/03/24 20/03/24 20/03/24
+2 despesas
+336 06/03/24 atacarejo e l
+001
+31996
+1
+2.069,72
+756
+13/03/24 27/03/24 25/03/24
+2 despesas
+336 13/03/24 atacarejo e l
+8.625,58
+quant. títulos:
+8
+8.625,58
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: avivar alimentos s/a
+emis.
+vencto. baixa
+natureza
+histórico
+001
+2961205
+1
+1.349,70
+756
+16/12/23 02/01/24 02/01/24
+2 despesas
+671 16/12/23 avivar alimen
+001
+2970682
+1
+515,76
+756
+23/12/23 08/01/24 05/01/24
+2 despesas
+671 23/12/23 avivar alimen
+001
+2978073
+1
+580,11
+756
+30/12/23 15/01/24 12/01/24
+2 despesas
+671 30/12/23 avivar alimen
+001
+2984780
+1
+1.543,26
+756
+06/01/24 22/01/24 18/01/24
+2 despesas
+671 06/01/24 avivar alimen
+001
+2994122
+1
+564,97
+756
+13/01/24 29/01/24 25/01/24
+2 despesas
+671 13/01/24 avivar alimen
+001
+3003241
+1
+672,90
+756
+20/01/24 05/02/24 01/02/24
+2 despesas
+671 20/01/24 avivar alimen
+001
+3011957
+1
+534,36
+756
+27/01/24 14/02/24 09/02/24
+2 despesas
+671 27/01/24 avivar alimen
+001
+3021250
+1
+1.332,74
+756
+03/02/24 19/02/24 15/02/24
+2 despesas
+671 03/02/24 avivar alimen
+001
+3030771
+1
+2.037,80
+756
+10/02/24 27/02/24 26/02/24
+2 despesas
+671 10/02/24 avivar alimen
+001
+3047073
+1
+1.369,41
+020
+24/02/24 11/03/24 11/03/24
+2 despesas
+671 24/02/24 avivar alimen
+001
+3055456
+1
+1.184,22
+756
+02/03/24 18/03/24 14/03/24
+2 despesas
+671 02/03/24 avivar alimen
+001
+3055459
+1
+581,40
+756
+02/03/24 18/03/24 14/03/24
+2 despesas
+671 02/03/24 avivar alimen
+12.266,63
+quant. títulos:
+12
+12.266,63
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: biscoitos barbieri ind. alemnticia ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+288036
+1
+1.903,92
+756
+17/02/24 05/03/24 01/03/24
+2 despesas
+610 17/02/24 biscoitos bar
+1.903,92
+quant. títulos:
+1
+1.903,92
+abertos:
+baixados:
+várias empresas selecionadas
+empresa/filial: todas
+relatórios contas a pagar - por 020 - fornecedor
+seleções:  data baixa: 01/01/2024 à 31/03/2024 carteira:  filiais: 1 baixados portador: , títulos não cancelados 
+ordenação:documento crescente
+sglinear: 24.09.05 (pagar02) - usuário: reg - data/hora impres.: 31/10/2024 19:10:00
+página 3 de 13
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: bompet comercio e distribuicao de cos
+emis.
+vencto. baixa
+natureza
+histórico
+001
+39285
+1
+158,05
+756
+11/03/24 21/03/24 20/03/24
+2 despesas
+853 11/03/24 bompet come
+158,05
+quant. títulos:
+1
+158,05
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: brl alimentos ltda  epp
+emis.
+vencto. baixa
+natureza
+histórico
+001
+158820
+1
+559,60
+756
+07/02/24 21/02/24 21/02/24
+2 despesas
+988 07/02/24 brl alimento
+559,60
+quant. títulos:
+1
+559,60
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: cafe jequitinhonha industri e comerci
+emis.
+vencto. baixa
+natureza
+histórico
+001
+181163
+1
+240,00
+756
+07/12/23 01/01/24 02/01/24
+2 despesas
+702 07/12/23 cafe jequitin
+001
+183789
+1
+402,60
+756
+19/01/24 26/02/24 26/02/24
+2 despesas
+702 19/01/24 cafe jequitin
+642,60
+quant. títulos:
+2
+642,60
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: cafe taiobeiras ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+12331
+1
+3.900,00
+756
+11/12/23 10/01/24 10/02/24
+2 despesas
+110 11/12/23 cafe taiobeira
+001
+12486
+1
+2.600,00
+756
+19/01/24 18/02/24 15/02/24
+2 despesas
+110 19/01/24 cafe taiobeir
+001
+12638
+1
+2.600,00
+756
+28/02/24 28/03/24 27/03/24
+2 despesas
+110 28/02/24 cafe taiobeir
+9.100,00
+quant. títulos:
+3
+9.100,00
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: cafe tres coracoes sa
+emis.
+vencto. baixa
+natureza
+histórico
+001
+373332
+1
+5.338,14
+756
+26/01/24 25/02/24 21/02/24
+2 despesas
+538 26/01/24 cafe tres co
+001
+376010
+1
+5.834,30
+756
+23/02/24 24/03/24 25/03/24
+2 despesas
+538 23/02/24 cafe tres co
+11.172,44
+quant. títulos:
+2
+11.172,44
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: cdcb comercio e representacoes ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+16405
+1
+254,76
+756
+09/02/24 16/03/24 14/03/24
+2 despesas
+995 09/02/24 cdcb comerc
+254,76
+quant. títulos:
+1
+254,76
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: cem comercio e distribuicao de genero
+emis.
+vencto. baixa
+natureza
+histórico
+001
+20264
+1
+1.888,65
+756
+17/01/24 31/01/24 29/01/24
+2 despesas
+1019 17/01/24 cem comerc
+1.888,65
+quant. títulos:
+1
+1.888,65
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: center frios comercio e ind ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+1093065
+1
+2.282,59
+756
+18/12/23 01/01/24 02/01/24
+2 despesas
+685 18/12/23 center frio
+001
+1093478
+1
+567,60
+756
+20/12/23 04/01/24 02/01/24
+2 despesas
+685 20/12/23 center frio
+001
+1095153
+1
+234,27
+756
+03/01/24 18/01/24 18/01/24
+2 despesas
+685 03/01/24 center frio
+001
+1097347
+1
+164,70
+756
+22/01/24 05/02/24 01/02/24
+2 despesas
+685 22/01/24 center frio
+001
+1098228
+1
+241,53
+756
+29/01/24 12/02/24 09/02/24
+2 despesas
+685 29/01/24 center frio
+001
+1099003
+1
+1.740,35
+756
+05/02/24 19/02/24 15/02/24
+2 despesas
+685 05/02/24 center frio
+001
+1101613
+1
+299,80
+020
+26/02/24 11/03/24 11/03/24
+2 despesas
+685 26/02/24 center frio
+001
+1103233
+1
+1.763,68
+756
+11/03/24 25/03/24 25/03/24
+2 despesas
+685 11/03/24 center frio
+7.294,52
+quant. títulos:
+8
+7.294,52
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: cereais celia ltda fl mg
+emis.
+vencto. baixa
+natureza
+histórico
+001
+26174
+3
+1.491,66
+756
+23/11/23 01/01/24 02/01/24
+2 despesas
+724 23/11/23 cereais celi
+1.491,66
+quant. títulos:
+1
+1.491,66
+abertos:
+baixados:
+várias empresas selecionadas
+empresa/filial: todas
+relatórios contas a pagar - por 020 - fornecedor
+seleções:  data baixa: 01/01/2024 à 31/03/2024 carteira:  filiais: 1 baixados portador: , títulos não cancelados 
+ordenação:documento crescente
+sglinear: 24.09.05 (pagar02) - usuário: reg - data/hora impres.: 31/10/2024 19:10:00
+página 4 de 13
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: cervejaria petropolis s/a
+emis.
+vencto. baixa
+natureza
+histórico
+001
+104924
+1
+172,20
+756
+15/03/24 23/03/24 20/03/24
+2 despesas
+844 15/03/24 cervejaria p
+001
+69824
+1
+1.201,85
+756
+31/12/23 12/01/24 12/01/24
+2 despesas
+844 31/12/23 cervejaria p
+001
+89183
+1
+100,41
+756
+09/02/24 19/02/24 19/02/24
+2 despesas
+844 09/02/24 cervejaria p
+1.474,46
+quant. títulos:
+3
+1.474,46
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: cfx ind. e com. de calcados    38.615.091
+emis.
+vencto. baixa
+natureza
+histórico
+001
+7613
+1
+2.103,99
+756
+15/02/24 29/02/24 26/02/24
+2 despesas
+915 15/02/24 cfx ind. e com
+2.103,99
+quant. títulos:
+1
+2.103,99
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: codil alimentos ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+1104949
+1
+974,15
+756
+21/01/24 12/02/24 09/02/24
+2 despesas
+28 21/01/24 codil alimento
+001
+1104949
+2
+974,15
+756
+21/01/24 26/02/24 26/02/24
+2 despesas
+28 21/01/24 codil alimento
+001
+1112329
+1
+1.079,96
+756
+21/02/24 27/03/24 25/03/24
+2 despesas
+28 21/02/24 codil alimento
+3.028,26
+quant. títulos:
+3
+3.028,26
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: comercial de alimentos asa ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+268858
+1
+1.265,04
+756
+26/12/23 09/01/24 09/01/24
+2 despesas
+829 26/12/23 comercial d
+1.265,04
+quant. títulos:
+1
+1.265,04
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: comercial de alimentos esthampa eire
+emis.
+vencto. baixa
+natureza
+histórico
+001
+482831
+1
+381,77
+756
+19/12/23 02/01/24 02/01/24
+2 despesas
+740 19/12/23 comercial d
+001
+486757
+1
+679,12
+756
+02/01/24 16/01/24 12/01/24
+2 despesas
+740 02/01/24 comercial d
+001
+492830
+1
+547,91
+756
+23/01/24 06/02/24 06/02/24
+2 despesas
+740 23/01/24 comercial d
+001
+497959
+1
+255,71
+756
+05/02/24 19/02/24 15/02/24
+2 despesas
+740 05/02/24 comercial d
+001
+500057
+1
+704,40
+756
+14/02/24 28/02/24 26/02/24
+2 despesas
+740 14/02/24 comercial d
+001
+502247
+1
+1.446,67
+756
+20/02/24 05/03/24 01/03/24
+2 despesas
+740 20/02/24 comercial d
+001
+506910
+1
+303,12
+756
+04/03/24 18/03/24 14/03/24
+2 despesas
+740 04/03/24 comercial d
+4.318,70
+quant. títulos:
+7
+4.318,70
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: comercial de farinha ki-sabor ltda - m
+emis.
+vencto. baixa
+natureza
+histórico
+001
+16435
+1
+1.450,00
+756
+05/02/24 27/02/24 26/02/24
+2 despesas
+598 05/02/24 comercial d
+1.450,00
+quant. títulos:
+1
+1.450,00
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: coop. mista agro pecuaria de patos de 
+emis.
+vencto. baixa
+natureza
+histórico
+001
+1145966
+1
+2.188,21
+756
+05/01/24 15/01/24 12/01/24
+2 despesas
+773 05/01/24 cooperativa 
+001
+1149287
+1
+1.119,05
+756
+19/01/24 29/01/24 25/01/24
+2 despesas
+773 19/01/24 cooperativa 
+001
+1155624
+1
+1.278,00
+756
+16/02/24 26/02/24 26/02/24
+2 despesas
+773 16/02/24 cooperativa 
+001
+1158644
+1
+410,26
+020
+01/03/24 11/03/24 11/03/24
+2 despesas
+773 01/03/24 cooperativa 
+4.995,52
+quant. títulos:
+4
+4.995,52
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: deusdete soares da silva e cia ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+17455
+1
+251,20
+756
+14/12/23 04/01/24 02/01/24
+2 despesas
+958 14/12/23 deusdete soa
+001
+17658
+1
+365,50
+756
+02/01/24 22/01/24 22/01/24
+2 despesas
+958 02/01/24 deusdete soa
+001
+18110
+1
+567,22
+756
+31/01/24 21/02/24 21/02/24
+2 despesas
+958 31/01/24 deusdete soa
+001
+18541
+1
+775,86
+756
+28/02/24 20/03/24 20/03/24
+2 despesas
+958 28/02/24 deusdete soa
+1.959,78
+quant. títulos:
+4
+1.959,78
+abertos:
+baixados:
+várias empresas selecionadas
+empresa/filial: todas
+relatórios contas a pagar - por 020 - fornecedor
+seleções:  data baixa: 01/01/2024 à 31/03/2024 carteira:  filiais: 1 baixados portador: , títulos não cancelados 
+ordenação:documento crescente
+sglinear: 24.09.05 (pagar02) - usuário: reg - data/hora impres.: 31/10/2024 19:10:00
+página 5 de 13
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: diony prestacao de servicos ltda me
+emis.
+vencto. baixa
+natureza
+histórico
+001
+19
+1
+4.706,00
+756
+02/01/24 10/01/24 10/02/24
+2 despesas
+430 02/01/24 diony presta
+001
+2101
+1
+4.706,00
+756
+02/01/24 10/01/24 12/03/24
+2 despesas
+430 02/01/24 diony presta
+001
+2244
+1
+2.520,00
+756
+01/02/24 19/02/24 19/02/24
+2 despesas
+430 01/02/24 diony presta
+001
+2418
+1
+2.520,00
+020
+04/03/24 11/03/24 11/03/24
+2 despesas
+430 04/03/24 diony presta
+14.452,00
+quant. títulos:
+4
+14.452,00
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: distribuidora gama ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+2041611
+1
+568,99
+756
+17/01/24 29/01/24 25/01/24
+2 despesas
+985 17/01/24 distribuidor
+568,99
+quant. títulos:
+1
+568,99
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: distribuidora modenuti com de utensil
+emis.
+vencto. baixa
+natureza
+histórico
+001
+1237567
+1
+8.492,44
+756
+03/02/24 24/02/24 23/02/24
+2 despesas
+225 03/02/24 distribuidor
+8.492,44
+quant. títulos:
+1
+8.492,44
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: distrinorte distribuidora de produto
+emis.
+vencto. baixa
+natureza
+histórico
+001
+1166501
+1
+5.368,26
+756
+29/11/23 02/01/24 02/02/24
+2 despesas
+150 29/11/23 distrinorte d
+001
+1171273
+1
+340,23
+756
+14/12/23 17/01/24 17/02/24
+2 despesas
+150 14/12/23 distrinorte d
+001
+1176396
+1
+1.915,20
+756
+29/12/23 01/02/24 01/02/24
+2 despesas
+150 29/12/23 distrinorte d
+001
+1176397
+1
+431,20
+756
+29/12/23 01/02/24 01/02/24
+2 despesas
+150 29/12/23 distrinorte d
+001
+1176398
+1
+443,70
+756
+29/12/23 01/02/24 01/02/24
+2 despesas
+150 29/12/23 distrinorte d
+001
+1176400
+1
+1.227,31
+756
+29/12/23 01/02/24 01/02/24
+2 despesas
+150 29/12/23 distrinorte d
+001
+1182521
+1
+1.255,07
+756
+24/01/24 27/02/24 26/02/24
+2 despesas
+150 24/01/24 distrinorte d
+001
+1193404
+1
+313,32
+756
+24/02/24 29/03/24 27/03/24
+2 despesas
+150 24/02/24 distrinorte d
+11.294,29
+quant. títulos:
+8
+11.294,29
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: domingos costa industrias alimenticia
+emis.
+vencto. baixa
+natureza
+histórico
+001
+3956883
+1
+6.437,05
+756
+17/01/24 07/02/24 07/02/24
+2 despesas
+2 17/01/24 domingos cost
+001
+3956883
+2
+6.437,05
+756
+17/01/24 14/02/24 09/02/24
+2 despesas
+2 17/01/24 domingos cost
+12.874,10
+quant. títulos:
+2
+12.874,10
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: dpc distribuidor atacadista s/a.
+emis.
+vencto. baixa
+natureza
+histórico
+001
+4734552
+1
+2.582,15
+756
+30/11/23 01/01/24 02/01/24
+2 despesas
+341 30/11/23 dpc distribuid
+001
+4746445
+1
+995,53
+756
+08/12/23 09/01/24 09/01/24
+2 despesas
+341 08/12/23 dpc distribui
+001
+4776312
+1
+561,75
+756
+29/12/23 30/01/24 29/01/24
+2 despesas
+341 29/12/23 dpc distribui
+001
+4789853
+1
+1.642,83
+756
+10/01/24 08/02/24 07/02/24
+2 despesas
+341 10/01/24 dpc distribui
+001
+4807088
+1
+1.137,33
+756
+22/01/24 20/02/24 19/02/24
+2 despesas
+341 22/01/24 dpc distribui
+001
+4824605
+1
+1.104,93
+756
+01/02/24 01/03/24 01/03/24
+2 despesas
+341 01/02/24 dpc distribui
+001
+4839166
+1
+442,63
+756
+09/02/24 13/03/24 13/03/24
+2 despesas
+341 09/02/24 dpc distribui
+001
+4859184
+1
+1.223,69
+756
+22/02/24 22/03/24 20/03/24
+2 despesas
+341 22/02/24 dpc distribui
+9.690,84
+quant. títulos:
+8
+9.690,84
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: embalanorte de janauba ltda
+emis.
+vencto. baixa
+natureza
+histórico
+001
+2226
+1
+843,00
+756
+22/01/24 20/02/24 19/02/24
+2 despesas
+927 22/01/24 embalanort
+843,00
+quant. títulos:
+1
+843,00
+abertos:
+baixados:
+cheque
+valor
+banco
+filial doc.
+parc.
+fornecedor: epoca comer e distri de prod alime ind 
+emis.
+vencto. baixa
+natureza
+histórico
+001
+5611476
+1
+442,81
+756
+28/12/23 04/01/24 02/01/24
+2 despesas
+378 28/12/23 epoca come
+001
+5619813
+1
+793,36
+756
+09/01/24 16/01/24 12/01/24
+2 despesas
+378 09/01/24 epoca come

@@ -1,0 +1,207 @@
+extrato consolidado de movimentação 
+dados cliente e conta 
+documento: 4.961.098/0001-02 
+nome cliente: indepe inhapim derivados de petroleo ltda 
+banco: 0246 - banco abc brasil 
+agência: 0001-9 
+conta: 0022461363 
+total dos saldos (r$) em 06/07/2022 às 14:55 
+*valor inclui limites disponíveis 
+saldo da conta corrente
+25.177,53  
+saldo bloqueado
+0,00  
+limite disponível cheque empresa
+200.000,00  
+taxa (% a.m.)
+4,00  
+cpmf
+0,00  
+valor bloqueado
+0,00  
+saldo aplicado
+124.796,56  
+saldo total disponível*
+349.974,09  
+periodo demonstrativo: 01/06/2022 a 30/06/2022 
+emitido em: 06/07/2022 às 14:55     
+extrato consolidado 
+data
+ qtde.registros histórico
+operação
+ valor (r$)
+ saldo diário (r$)
+21/06/2022
+-
+saldo anterior
+-
+-
+0,00
+21/06/2022
+1 cadastro 
+débito (-)
+-100,00
+21/06/2022
+1 transferencia entre c/c 
+crédito (+)
+710,16
+21/06/2022
+1 estorno lancamento 
+crédito (+)
+100,00
+21/06/2022
+2 tarifa sobre cobranca 
+débito (-)
+-1,98
+708,18
+22/06/2022
+2 cadastro 
+débito (-)
+-200,00
+22/06/2022
+1 estorno lancamento 
+crédito (+)
+200,00
+22/06/2022
+1 tarifa liquidacao de cobranca 
+débito (-)
+-20,00
+22/06/2022
+1 tarifa sobre cobranca 
+débito (-)
+-0,99
+687,19
+23/06/2022
+1 estorno tarifa cobranca 
+crédito (+)
+20,99
+23/06/2022
+84 tarifa sobre cobranca 
+débito (-)
+-83,16
+625,02
+data
+ qtde.registros histórico
+operação
+ valor (r$)
+ saldo diário (r$)
+os saldos e lançamentos apresentados acima são baseados nas informações disponíveis e atualizadas até 06/07/2022 às 14:55. as informações poderão sofrer alterações em função de novos lançamentos.  
+ 
+ 
+24/06/2022
+1 transferencia entre c/c 
+crédito (+)
+2.043,48
+24/06/2022
+1 transferencia entre c/c 
+débito (-)
+-1.007.000,00
+24/06/2022
+1 aplicacao  
+débito (-)
+-1.095.268,49
+24/06/2022
+1 pagto.ficha compe inferior 
+débito (-)
+-100,00
+24/06/2022
+1 liquidacao contrato cambio 
+crédito (+)
+2.099.999,96
+24/06/2022
+303 tarifa sobre cobranca 
+débito (-)
+-299,97
+27/06/2022
+1 transferencia entre c/c 
+crédito (+)
+1.008.332,09
+27/06/2022
+1 aplicacao  
+débito (-)
+-505.209,94
+27/06/2022
+3 pagto.ficha compe inferior 
+débito (-)
+-304.387,63
+27/06/2022
+1 pagamento pix  
+débito (-)
+-198.739,48
+27/06/2022
+1 recebimento de cobranca 
+crédito (+)
+100,00
+27/06/2022
+96 tarifa sobre cobranca 
+débito (-)
+-95,04
+28/06/2022
+1 transferencia entre c/c 
+crédito (+)
+8.804,20
+28/06/2022
+1 resg.aplicacao  
+crédito (+)
+639.952,94
+28/06/2022
+1 pagto.ficha compe superior 
+débito (-)
+-648.316,59
+28/06/2022
+639 tarifa sobre cobranca 
+débito (-)
+-632,61
+29/06/2022
+1 transferencia entre c/c 
+crédito (+)
+44.632,43
+29/06/2022
+1 resg.aplicacao  
+crédito (+)
+138.255,65
+29/06/2022
+1 pagto.ficha compe inferior 
+débito (-)
+-181.815,89
+29/06/2022
+1 tarifa pagto. pix 
+débito (-)
+-2,00
+29/06/2022
+1 juros s/ saldo devedor 
+débito (-)
+-0,78
+29/06/2022
+992 tarifa sobre cobranca 
+débito (-)
+-982,08
+30/06/2022
+1 transferencia entre c/c 
+crédito (+)
+70.356,62
+30/06/2022
+2 resg.aplicacao  
+crédito (+)
+822.282,33
+30/06/2022
+2 pagamento pix  
+débito (-)
+-1.600.000,00
+30/06/2022
+1 estorno lancto indevido pix c 
+crédito (+)
+800.000,00
+30/06/2022
+1 juros s/ saldo devedor 
+débito (-)
+-0,42
+30/06/2022
+81 tarifa sobre cobranca 
+débito (-)
+-80,19
+92.453,61
+gerado em: 06/07/2022 às 14:55      versão: 2.0.0.0 
+canal: internet banking
+ banco
+

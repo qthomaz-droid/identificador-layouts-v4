@@ -1,0 +1,10100 @@
+títulos pagos por negociação
+dados do título
+id do produto
+conta do produto
+nome do cliente
+data e hora da consulta
+9
+2366 38756
+anfer comercio de ferro e aco ltda
+01 novembro 2021 - 09h59
+tipo
+seu número
+pagador
+dt de venc.
+dt de pag.
+valor do título
+valor cobrado
+car
+valor da osci.
+2
+119442
+oal maquinas
+industriais ltda.
+18/09/2021
+30/09/2021
+2.394,17
+2.394,17
+sim
++0,00
+2
+120213
+trade serv eireli
+me
+19/09/2021
+05/10/2021
+4.934,56
+4.934,56
+sim
++0,00
+2
+121728
+oal maquinas
+industriais ltda.
+20/09/2021
+04/10/2021
+488,90
+488,90
+sim
++0,00
+2
+121726
+oal maquinas
+industriais ltda.
+22/09/2021
+01/10/2021
+34,30
+34,30
+sim
++0,00
+2
+121725
+oal maquinas
+industriais ltda.
+22/09/2021
+01/10/2021
+127,59
+127,59
+sim
++0,00
+2
+121724
+oal maquinas
+industriais ltda.
+22/09/2021
+01/10/2021
+807,43
+807,43
+sim
++0,00
+2
+121727
+oal maquinas
+industriais ltda.
+22/09/2021
+01/10/2021
+2.223,00
+2.223,00
+sim
++0,00
+2
+121767
+oal maquinas
+industriais ltda.
+22/09/2021
+01/10/2021
+2.538,00
+2.538,00
+sim
++0,00
+2
+121043
+f3 eletric
+solutions eireli
+23/09/2021
+06/10/2021
+2.150,00
+2.150,00
+sim
++0,00
+2
+122060
+edilson
+guilherme
+perreira
+sorocaba me
+24/09/2021
+06/10/2021
+1.420,00
+1.420,00
+sim
++0,00
+2
+122041
+jde engenharia e
+const. ltda me
+26/09/2021
+11/10/2021
+864,00
+864,00
+sim
++0,00
+2
+122045
+tk logistica do
+brasil ltda
+26/09/2021
+14/10/2021
+1.053,00
+1.053,00
+sim
++0,00
+2
+121569
+luis gomes do
+nascimento me
+27/09/2021
+01/10/2021
+2.785,00
+2.818,44
+n?o
++33,44
+2
+120605
+lvs
+empreendimentos
+imobiliarios ltda
+28/09/2021
+14/10/2021
+521,58
+521,58
+sim
++0,00
+2
+120612
+edilson
+guilherme
+perreira
+sorocaba me
+28/09/2021
+14/10/2021
+1.693,00
+1.693,00
+sim
++0,00
+2
+123290
+lumajax serv em
+construcao civil
+ltda
+01/10/2021
+04/10/2021
+88,00
+88,78
+n?o
++0,78
+2
+122333
+gotesp
+equipamentos p
+embalagens ltda
+01/10/2021
+01/10/2021
+149,43
+149,43
+n?o
++0,00
+2
+122343
+projetta
+desenvolvimentos
+ltda
+01/10/2021
+01/10/2021
+272,00
+272,00
+n?o
++0,00
+2
+122204
+martt quimica
+industria e
+comercio ltda.
+01/10/2021
+01/10/2021
+389,56
+389,56
+n?o
++0,00
+2
+122337
+gotesp
+equipamentos p
+embalagens ltda
+01/10/2021
+01/10/2021
+423,10
+423,10
+n?o
++0,00
+2
+120699
+metafilm
+embalagens
+plasticas ltda
+01/10/2021
+01/10/2021
+433,34
+433,34
+n?o
++0,00
+2
+122317
+oal maquinas
+industriais ltda.
+01/10/2021
+01/10/2021
+453,00
+453,00
+n?o
++0,00
+2
+122217
+lordtech
+polimeros ltda
+01/10/2021
+01/10/2021
+465,40
+465,40
+n?o
++0,00
+2
+122370
+toldos maravilha
+com. e ser. ltda
+01/10/2021
+01/10/2021
+483,00
+483,00
+n?o
++0,00
+2
+122341
+techno safe
+solucoes
+industriais ltda
+01/10/2021
+01/10/2021
+500,00
+500,00
+n?o
++0,00
+2
+120722
+sorocaba serv.
+de manut. de maq.
+ltda
+01/10/2021
+01/10/2021
+516,67
+516,67
+n?o
++0,00
+2
+120719
+cbr cald.
+conceito em
+metalurgia ltda
+01/10/2021
+01/10/2021
+522,00
+522,00
+n?o
++0,00
+2
+122198
+alcabos com. e
+serv. eirelli-me
+01/10/2021
+01/10/2021
+537,50
+537,50
+n?o
++0,00
+2
+122188
+art-metal
+industria e
+comercio ltda
+01/10/2021
+01/10/2021
+560,00
+560,00
+n?o
++0,00
+2
+p419096
+vodamed
+metalurgica
+eireli
+01/10/2021
+01/10/2021
+571,34
+571,34
+n?o
++0,00
+2
+122331
+gotesp
+equipamentos p
+embalagens ltda
+01/10/2021
+01/10/2021
+576,14
+576,14
+n?o
++0,00
+2
+120955
+acos nobre
+ferro e metais
+ltda
+01/10/2021
+01/10/2021
+612,50
+612,50
+n?o
++0,00
+2
+122211
+proteq protecao
+e qualidade ltda
+me
+01/10/2021
+19/10/2021
+614,50
+614,50
+sim
++0,00
+2
+120645
+m e i comercio e
+servicos ltda
+01/10/2021
+01/10/2021
+638,33
+638,33
+n?o
++0,00
+2
+122328
+gotesp
+equipamentos p
+embalagens ltda
+01/10/2021
+01/10/2021
+651,16
+651,16
+n?o
++0,00
+2
+120713
+viva construcoes
+e servicos ltda
+01/10/2021
+01/10/2021
+685,00
+685,00
+n?o
++0,00
+2
+122229
+onix cient brasil
+in e co de equip
+ltda
+01/10/2021
+01/10/2021
+685,90
+685,90
+n?o
++0,00
+2
+122189
+mineradora ilha
+ltda
+01/10/2021
+01/10/2021
+735,00
+735,00
+n?o
++0,00
+2
+122187
+gama-tec
+equipamentos
+industriais ltda
+01/10/2021
+01/10/2021
+760,00
+760,00
+n?o
++0,00
+2
+120718
+perfil color
+pinturas
+eletrostatica
+ltda
+01/10/2021
+01/10/2021
+784,73
+784,73
+n?o
++0,00
+2
+122338
+global
+engenharia e
+mont. ind. ltda
+01/10/2021
+01/10/2021
+798,95
+798,95
+n?o
++0,00
+2
+122207
+vidrak visores de
+vidro industriais
+ltda
+01/10/2021
+01/10/2021
+802,26
+802,26
+n?o
++0,00
+2
+122186
+mineradora ilha
+ltda
+01/10/2021
+01/10/2021
+806,00
+806,00
+n?o
++0,00
+2
+122223
+andrade e costa
+sorocaba ltda
+01/10/2021
+01/10/2021
+806,00
+806,00
+n?o
++0,00
+2
+120947
+auto posto rse
+ltda
+01/10/2021
+04/10/2021
+859,80
+867,54
+n?o
++7,74
+2
+122199
+primax
+transportes
+pesados ltda
+01/10/2021
+01/10/2021
+869,00
+869,00
+n?o
++0,00
+2
+120692
+romano
+caldeiraria e
+serralheria ltda
+01/10/2021
+01/10/2021
+894,25
+894,25
+n?o
++0,00
+2
+122176
+partservice
+equip miner exp.
+imp. eireli
+01/10/2021
+04/10/2021
+940,00
+948,46
+n?o
++8,46
+2
+120673
+lbg logistica
+ltda epp
+01/10/2021
+01/10/2021
+957,00
+957,00
+n?o
++0,00
+2
+120648
+b'four usin.fab.
+de pec.usi. ltda-
+epp
+01/10/2021
+01/10/2021
+1.014,33
+1.014,33
+n?o
++0,00
+2
+120701
+igor souza godoy
+sorocaba
+01/10/2021
+04/10/2021
+1.250,00
+1.261,25
+n?o
++11,25
+2
+122194
+steelmax constr.
+ind. e com. ltda
+01/10/2021
+01/10/2021
+1.288,00
+1.288,00
+n?o
++0,00
+2
+120725
+engeviti
+progetos e
+usinagem ltda me'
+01/10/2021
+01/10/2021
+1.309,72
+1.309,72
+n?o
++0,00
+2
+122230
+onix cient brasil
+in e co de equip
+ltda
+01/10/2021
+01/10/2021
+1.335,04
+1.335,04
+n?o
++0,00
+2
+122180
+nova saltiense
+ind mecanica ltda
+01/10/2021
+01/10/2021
+1.470,00
+1.470,00
+n?o
++0,00
+2
+122171
+sccam equip. ind.
+eireli me
+01/10/2021
+01/10/2021
+1.577,34
+1.577,34
+n?o
++0,00
+2
+p405332
+ziz maquinas p
+constr civil ltda
+epp
+01/10/2021
+01/10/2021
+1.675,00
+1.675,00
+n?o
++0,00
+2
+120671
+jvr industria e
+metal mecanica
+ltda
+01/10/2021
+01/10/2021
+1.680,00
+1.680,00
+n?o
++0,00
+2
+122172
+netsu
+equipamentos
+industriais ltda
+01/10/2021
+01/10/2021
+1.684,98
+1.684,98
+n?o
++0,00
+2
+120661
+claudemir cleto
+e cia ltda me
+01/10/2021
+01/10/2021
+1.790,00
+1.790,00
+n?o
++0,00
+2
+p418083
+vtech servicos
+em valvulas e
+acess ltda
+01/10/2021
+01/10/2021
+1.920,00
+1.920,00
+n?o
++0,00
+2
+122170
+associacao
+brasil sgi.
+01/10/2021
+01/10/2021
+2.233,34
+2.233,34
+n?o
++0,00
+2
+120733
+macro
+fabricacao de
+maq. e perfis
+eireli
+01/10/2021
+04/10/2021
+2.293,01
+2.313,65
+n?o
++20,64
+2
+120726
+metalur brasil
+ind. e com. d
+metais ltda
+01/10/2021
+01/10/2021
+2.472,00
+2.472,00
+n?o
++0,00
+2
+120724
+aspmaq
+fabricacao d maq.
+e equip. eireli
+01/10/2021
+01/10/2021
+2.520,00
+2.520,00
+n?o
++0,00
+2
+120657
+tecstamp
+metalurgica
+ltda-epp
+01/10/2021
+01/10/2021
+2.691,23
+2.691,23
+n?o
++0,00
+2
+120741
+jvr industria e
+metal mecanica
+ltda
+01/10/2021
+01/10/2021
+3.328,00
+3.328,00
+n?o
++0,00
+2
+120658
+tecstamp
+metalurgica
+ltda-epp
+01/10/2021
+01/10/2021
+3.564,67
+3.564,67
+n?o
++0,00
+2
+122209
+oef equip. e pecas
+p. mineracao
+eireli
+01/10/2021
+06/10/2021
+8.088,75
+8.210,10
+n?o
++121,35
+2
+122926
+conspre
+estruturas
+metalicas ltda
+02/10/2021
+04/10/2021
+112,00
+112,00
+n?o
++0,00
+2
+122934
+m.e com. e
+prestacao de
+serv. ltda
+02/10/2021
+04/10/2021
+139,98
+139,98
+n?o
++0,00
+2
+122939
+soc d
+melhoramento
+jardim granja
+olga ii
+02/10/2021
+01/10/2021
+196,80
+196,80
+n?o
++0,00
+2
+121564
+jmo industria
+mecanica ltda
+02/10/2021
+04/10/2021
+252,50
+252,50
+n?o
++0,00
+2
+122927
+cp tech com, fab
+e serv. em pec ind
+ltda
+02/10/2021
+04/10/2021
+284,77
+284,77
+n?o
++0,00
+2
+121557
+alexandra
+rodrigues dos
+santos
+02/10/2021
+04/10/2021
+356,00
+356,00
+n?o
++0,00
+2
+121583
+ajp industria e
+com de moveis
+eireli epp
+02/10/2021
+04/10/2021
+515,25
+515,25
+n?o
++0,00
+2
+121533
+supermix
+concreto s/a
+02/10/2021
+04/10/2021
+617,00
+617,00
+n?o
++0,00
+2
+122326
+usiprema
+industria
+mecanica ltda
+02/10/2021
+04/10/2021
+917,34
+917,34
+n?o
++0,00
+2
+121545
+lordtech
+polimeros ltda
+02/10/2021
+04/10/2021
+970,67
+970,67
+n?o
++0,00
+2
+121577
+meta comercial
+ltda
+02/10/2021
+04/10/2021
+1.450,00
+1.450,00
+n?o
++0,00
+2
+120085
+techno safe
+solucoes
+industriais ltda
+02/10/2021
+04/10/2021
+2.009,41
+2.009,41
+n?o
++0,00
+2
+121582
+sccam equip. ind.
+eireli me
+02/10/2021
+04/10/2021
+8.347,80
+8.347,80
+n?o
++0,00
+2
+120083
+oef equip. e pecas
+p. mineracao
+eireli
+02/10/2021
+06/10/2021
+20.757,75
+21.006,83
+n?o
++249,08
+2
+122318
+oal maquinas
+industriais ltda.
+03/10/2021
+01/10/2021
+30,57
+30,57
+n?o
++0,00
+2
+122366
+martt quimica
+industria e
+comercio ltda.
+03/10/2021
+04/10/2021
+436,66
+436,66
+n?o
++0,00
+2
+122329
+rds smart
+welding
+caldeiraria ltda
+03/10/2021
+04/10/2021
+511,18
+511,18
+n?o
++0,00
+2
+122345
+kone inox
+construcoes
+metalicas ltda
+03/10/2021
+20/10/2021
+511,34
+511,34
+sim
++0,00
+2
+122320
+jvr industria e
+metal mecanica
+ltda
+03/10/2021
+04/10/2021
+586,00
+586,00
+n?o
++0,00
+2
+120821
+eg perfil
+de aluminio
+sorocaba ltda
+03/10/2021
+04/10/2021
+706,00
+706,00
+n?o
++0,00
+2
+122355
+lumajax serv em
+construcao civil
+ltda
+03/10/2021
+01/10/2021
+747,00
+747,00
+n?o
++0,00
+2
+120838
+mc components
+c para moldes e
+maq ltda
+03/10/2021
+04/10/2021
+783,44
+783,44
+n?o
++0,00
+2
+122353
+raul augusto de
+mello sorocaba
+me
+03/10/2021
+04/10/2021
+810,00
+810,00
+n?o
++0,00
+2
+122344
+ibrav acessorios
+industriais ltda
+03/10/2021
+04/10/2021
+928,00
+928,00
+n?o
++0,00
+2
+120845
+romano
+caldeiraria e
+serralheria ltda
+03/10/2021
+01/10/2021
+933,50
+933,50
+n?o
++0,00
+2
+122347
+sysbuilding
+const e
+empreend ltda
+03/10/2021
+04/10/2021
+960,00
+960,00
+n?o
++0,00
+2
+120829
+andre vinicius
+mancz romero
+03/10/2021
+04/10/2021
+966,17
+966,17
+n?o
++0,00
+2
+120816
+viclauzer ind
+e com de prod
+metalurgicos
+03/10/2021
+04/10/2021
+972,67
+972,67
+n?o
++0,00
+2
+120844
+eplastic com de
+mat plast ltda me
+03/10/2021
+01/10/2021
+986,67
+986,67
+n?o
++0,00
+2
+122319
+oal maquinas
+industriais ltda.
+03/10/2021
+01/10/2021
+1.010,21
+1.010,21
+n?o
++0,00
+2
+120805
+magma ind com
+e imp de prod
+texteis ltda
+03/10/2021
+04/10/2021
+1.040,00
+1.040,00
+n?o
++0,00
+2
+122322
+jvr industria e
+metal mecanica
+ltda
+03/10/2021
+04/10/2021
+1.161,91
+1.161,91
+n?o
++0,00
+2
+120861
+motech industria
+ltda
+03/10/2021
+04/10/2021
+1.280,00
+1.280,00
+n?o
++0,00
+2
+120833
+vanderlei souza
+primo sorocaba
+me
+03/10/2021
+04/10/2021
+1.302,40
+1.302,40
+n?o
++0,00
+2
+120853
+oef equip. e pecas
+p. mineracao
+eireli
+03/10/2021
+06/10/2021
+1.389,33
+1.401,84
+n?o
++12,51
+2
+120807
+oal maquinas
+industriais ltda.
+03/10/2021
+01/10/2021
+1.683,48
+1.683,48
+n?o
++0,00
+2
+120812
+tecstamp
+metalurgica
+ltda-epp
+03/10/2021
+04/10/2021
+1.970,61
+1.970,61
+n?o
++0,00
+2
+122314
+beauty supply
+cosmetics soc.
+uni. ltda
+03/10/2021
+04/10/2021
+2.026,35
+2.026,35
+n?o
++0,00
+2
+122316
+eliane mendes da
+silva bilhiere me
+03/10/2021
+01/10/2021
+2.090,95
+2.090,95
+n?o
++0,00
+2
+120817
+general roller
+equip industriais
+ltda
+03/10/2021
+04/10/2021
+2.216,82
+2.216,82
+n?o
++0,00
+2
+122339
+ellenco loc e
+com de veiculos e
+maq ltda
+03/10/2021
+04/10/2021
+3.546,84
+3.546,84
+n?o
++0,00
+2
+122340
+silva e barbosa
+co. de alimentos
+ltda..
+03/10/2021
+04/10/2021
+3.800,00
+3.800,00
+n?o
++0,00
+2
+120854
+sccam equip. ind.
+eireli me
+03/10/2021
+04/10/2021
+4.724,50
+4.724,50
+n?o
++0,00
+2
+120843
+tempo operacoes
+industriais ltda
+03/10/2021
+04/10/2021
+9.195,60
+9.195,60
+n?o
++0,00
+2
+122409
+rochaforte
+transportes e
+servicos eireli
+04/10/2021
+05/10/2021
+156,50
+156,97
+n?o
++0,47
+2
+122413
+metal works
+usinagem de
+precisao ltda
+04/10/2021
+04/10/2021
+265,00
+265,00
+n?o
++0,00
+2
+122411
+dmv pecas
+de precisao
+industrial ltda
+me
+04/10/2021
+04/10/2021
+284,41
+284,41
+n?o
++0,00
+2
+121687
+link cold ind e
+com ltda epp
+04/10/2021
+04/10/2021
+338,00
+338,00
+n?o
++0,00
+2
+123368
+zucca alimentos
+ltda
+04/10/2021
+04/10/2021
+360,00
+360,00
+n?o
++0,00
+2
+122412
+tectyres ind.
+com. ltda
+04/10/2021
+04/10/2021
+431,00
+431,00
+n?o
++0,00
+2
+122395
+koerich eng e
+telecomunicacoes
+s/a
+04/10/2021
+04/10/2021
+683,20
+683,20
+n?o
++0,00
+2
+122406
+cp multimetais
+ltda-me
+04/10/2021
+06/10/2021
+746,00
+750,48
+n?o
++4,48
+2
+121663
+onix cient brasil
+in e co de equip
+ltda
+04/10/2021
+04/10/2021
+1.147,21
+1.147,21
+n?o
++0,00
+2
+121685
+perfil color
+pinturas
+eletrostatica
+ltda
+04/10/2021
+04/10/2021
+1.294,67
+1.294,67
+n?o
++0,00
+2
+121681
+metafilm
+embalagens
+plasticas ltda
+04/10/2021
+04/10/2021
+1.333,33
+1.333,33
+n?o
++0,00
+2
+121661
+onix cient brasil
+in e co de equip
+ltda
+04/10/2021
+04/10/2021
+1.631,43
+1.631,43
+n?o
++0,00
+2
+120359
+almeida e
+camar.sol. em
+aut. ind. eireli
+04/10/2021
+04/10/2021
+2.360,55
+2.360,55
+n?o
++0,00
+2
+121686
+gotesp
+equipamentos p
+embalagens ltda
+04/10/2021
+04/10/2021
+2.676,34
+2.676,34
+n?o
++0,00
+2
+123061
+usiprema
+industria
+mecanica ltda
+05/10/2021
+05/10/2021
+21,38
+21,38
+n?o
++0,00
+2
+123067
+usiprema
+industria
+mecanica ltda
+05/10/2021
+05/10/2021
+23,96
+23,96
+n?o
++0,00
+2
+123065
+padrao mov ind
+com e inst de mob
+ltda
+05/10/2021
+01/10/2021
+63,41
+63,41
+n?o
++0,00
+2
+p420924
+robson lopes de
+lima
+05/10/2021
+05/10/2021
+493,34
+493,34
+n?o
++0,00
+2
+123055
+tecama moveis
+para escritorio
+ltda
+05/10/2021
+05/10/2021
+544,00
+544,00
+n?o
++0,00
+2
+120972
+usimais usinagem
+geral ltda me
+05/10/2021
+05/10/2021
+672,00
+672,00
+n?o
++0,00
+2
+121306
+valcom comercio
+de equipamentos
+ltda.
+05/10/2021
+05/10/2021
+874,00
+874,00
+n?o
++0,00
+2
+120949
+multy metal com.
+e serv. de manut
+ltda
+05/10/2021
+05/10/2021
+879,93
+879,93
+n?o
++0,00
+2
+120958
+art-metal
+industria e
+comercio ltda
+05/10/2021
+08/10/2021
+962,00
+970,67
+n?o
++8,67
+2
+120951
+usisol comercio
+de aluminio ltda
+me
+05/10/2021
+05/10/2021
+963,00
+963,00
+n?o
++0,00
+2
+120849
+rps spool
+service - fab. e
+ref. ind ltda
+05/10/2021
+06/10/2021
+1.042,67
+1.045,80
+n?o
++3,13
+2
+120962
+meta comercial
+ltda
+05/10/2021
+05/10/2021
+1.450,00
+1.450,00
+n?o
++0,00
+2
+120975
+mar de minas
+neg.nauticos e
+atr. ltda
+05/10/2021
+05/10/2021
+1.797,00
+1.797,00
+n?o
++0,00
+2
+120528
+rps spool
+service - fab. e
+ref. ind ltda
+05/10/2021
+05/10/2021
+4.911,11
+4.911,11
+n?o
++0,00
+2
+122441
+modelacao
+sorocabana ltda
+06/10/2021
+06/10/2021
+100,00
+100,00
+n?o
++0,00
+2
+122405
+jetech
+metalurgica ltda
+- me
+06/10/2021
+06/10/2021
+108,00
+108,00
+n?o
++0,00
+2
+122491
+metafilm
+embalagens
+plasticas ltda
+06/10/2021
+06/10/2021
+450,00
+450,00
+n?o
++0,00
+2
+122484
+flt alves filtros
+me
+06/10/2021
+06/10/2021
+484,00
+484,00
+n?o
++0,00
+2
+122489
+clarios energy
+solutions brasil
+ltda
+06/10/2021
+07/10/2021
+520,00
+520,00
+n?o
++0,00
+2
+122417
+irineu dias
+camargo - epp
+06/10/2021
+04/10/2021
+532,00
+532,00
+n?o
++0,00
+2
+122494
+bericap do brasil
+ltda
+06/10/2021
+06/10/2021
+558,00
+558,00
+n?o
++0,00
+2
+122462
+ind pgg tecnol em
+arames e cabos
+esp
+06/10/2021
+06/10/2021
+568,00
+568,00
+n?o
++0,00
+2
+122402
+kg2 engenharia
+ltda
+06/10/2021
+06/10/2021
+602,94
+602,94
+n?o
++0,00
+2
+122416
+fexcolor com
+e ind de mat
+metalicos ltda
+06/10/2021
+06/10/2021
+624,43
+624,43
+n?o
++0,00
+2
+122414
+mcb patrimonial
+ltda
+06/10/2021
+06/10/2021
+710,36
+710,36
+n?o
++0,00
+2
+122463
+rv solucoes
+industriais ltda
+06/10/2021
+06/10/2021
+720,00
+720,00
+n?o
++0,00
+2
+122433
+lucas lima aguiar
+22780036826
+06/10/2021
+06/10/2021
+784,00
+784,00
+n?o
++0,00
+2
+p418150
+igor souza godoy
+sorocaba
+06/10/2021
+06/10/2021
+828,00
+828,00
+n?o
++0,00
+2
+122461
+usiprema
+industria
+mecanica ltda
+06/10/2021
+06/10/2021
+830,00
+830,00
+n?o
++0,00
+2
+122424
+arquidoicese de
+sorocaba
+06/10/2021
+06/10/2021
+889,80
+889,80
+n?o
++0,00
+2
+122418
+nutrialfa
+alimentos ltda
+06/10/2021
+06/10/2021
+892,66
+892,66
+n?o
++0,00
+2
+122233
+marton tech
+industria e
+comercio ltda
+06/10/2021
+06/10/2021
+949,00
+949,00
+n?o
++0,00
+2
+122401
+basseifer ind
+e co. de mat. p
+const ltda
+06/10/2021
+06/10/2021
+993,00
+993,00
+n?o
++0,00
+2
+122428
+metalur brasil
+ind. e com. metais
+ltda
+06/10/2021
+06/10/2021
+1.000,00
+1.000,00
+n?o
++0,00
+2
+122423
+maqfriger
+industria de
+refrigeracao
+ltda
+06/10/2021
+06/10/2021
+1.015,00
+1.015,00
+n?o
++0,00
+2
+122493
+bericap do brasil
+ltda
+06/10/2021
+06/10/2021
+1.025,00
+1.025,00
+n?o
++0,00
+2
+122420
+unicerpa uniao
+das ceram. e
+partic. ltda
+06/10/2021
+06/10/2021
+1.028,20
+1.028,20
+n?o
++0,00
+2
+122407
+mauricio bonfim
+de oliveira
+ferragens me
+06/10/2021
+05/10/2021
+1.030,84
+1.030,84
+n?o
++0,00
+2
+122467
+ferreira develes
+ltda
+06/10/2021
+01/10/2021
+1.070,00
+1.070,00
+n?o
++0,00
+2
+122495
+bericap do brasil
+ltda
+06/10/2021
+06/10/2021
+1.140,00
+1.140,00
+n?o
++0,00
+2
+122820
+avk - valvulas do
+brasil ltda
+06/10/2021
+06/10/2021
+1.254,00
+1.254,00
+n?o
++0,00
+2
+122436
+condex industria
+e comercio ltda
+06/10/2021
+06/10/2021
+1.296,34
+1.296,34
+n?o
++0,00
+2
+122432
+cascadura
+industrial s/a
+06/10/2021
+06/10/2021
+1.338,60
+1.338,60
+n?o
++0,00
+2
+122404
+clima
+metalurgica ltda
+me
+06/10/2021
+06/10/2021
+1.340,50
+1.340,50
+n?o
++0,00
+2
+120310
+onix cient brasil
+in e co de equip
+ltda
+06/10/2021
+06/10/2021
+1.450,03
+1.450,03
+n?o
++0,00
+2
+120309
+onix cient brasil
+in e co de equip
+ltda
+06/10/2021
+06/10/2021
+1.761,51
+1.761,51
+n?o
++0,00
+2
+120319
+a.t petroff
+empreendimentos
+06/10/2021
+11/10/2021
+1.800,00
+1.827,00
+n?o
++27,00
+2
+121916
+aluxa aluminio
+ltda
+06/10/2021
+06/10/2021
+1.806,25
+1.806,25
+n?o
++0,00
+2
+122410
+padrao mov ind
+com e inst de mob
+ltda
+06/10/2021
+06/10/2021
+1.833,34
+1.833,34
+n?o
++0,00
+2
+122429
+metalur brasil
+ind. e com. metais
+ltda
+06/10/2021
+06/10/2021
+1.889,66
+1.889,66
+n?o
++0,00
+2
+122421
+dibloco ind. com.
+a .c. m .mat.cont
+ltda
+06/10/2021
+06/10/2021
+2.588,20
+2.588,20
+n?o
++0,00
+2
+122397
+ga engenharia e
+comercio ltda
+06/10/2021
+06/10/2021
+2.617,00
+2.617,00
+n?o
++0,00
+2
+122499
+transportadora
+vantroba ltda.
+06/10/2021
+06/10/2021
+3.320,00
+3.320,00
+n?o
++0,00
+2
+122438
+steelmax constr.
+ind. e com. ltda
+06/10/2021
+05/10/2021
+3.353,20
+3.353,20
+n?o
++0,00
+2
+123643
+gk 108 ind de
+partes de auto
+pecas ltda
+06/10/2021
+06/10/2021
+3.939,00
+3.939,00
+n?o
++0,00
+2
+122422
+premetal pre-
+mold em concr e
+aco ltda
+06/10/2021
+06/10/2021
+4.541,86
+4.541,86
+n?o
++0,00
+2
+120336
+vitrum com de
+vidro tec e serv
+eireli me
+06/10/2021
+06/10/2021
+9.250,00
+9.250,00
+n?o
++0,00
+2
+123179
+itangua soldas
+ltda epp
+07/10/2021
+07/10/2021
+76,50
+76,50
+n?o
++0,00
+2
+123196
+magma ind com
+e imp de prod
+texteis ltda
+07/10/2021
+07/10/2021
+119,60
+119,60
+n?o
++0,00
+2
+122966
+ibraspack tec
+embalagem ind
+com ltda epp
+07/10/2021
+07/10/2021
+176,00
+176,00
+n?o
++0,00
+2
+121720
+motech industria
+ltda
+07/10/2021
+07/10/2021
+281,67
+281,67
+n?o
++0,00
+2
+121722
+motech industria
+ltda
+07/10/2021
+07/10/2021
+432,00
+432,00
+n?o
++0,00
+2
+121723
+mauricio bonfim
+de oliveira
+ferragens me
+07/10/2021
+05/10/2021
+449,33
+449,33
+n?o
++0,00
+2
+121746
+dl industria
+comercio e
+servicos eireli
+07/10/2021
+07/10/2021
+473,00
+473,00
+n?o
++0,00
+2
+121759
+usinagem
+romanha ltda me
+07/10/2021
+07/10/2021
+503,00
+503,00
+n?o
++0,00
+2
+121778
+onix cient brasil
+in e co de equip
+ltda
+07/10/2021
+07/10/2021
+566,70
+566,70
+n?o
++0,00
+2
+122182
+cobsen ltda
+07/10/2021
+07/10/2021
+567,67
+567,67
+n?o
++0,00
+2
+122183
+cobsen ltda
+07/10/2021
+07/10/2021
+620,33
+383,17
+n?o
+-237,16
+2
+121716
+lordtech
+polimeros ltda
+07/10/2021
+07/10/2021
+666,67
+666,67
+n?o
++0,00
+2
+121548
+multy metal com.
+e serv. de manut
+ltda
+07/10/2021
+07/10/2021
+690,00
+690,00
+n?o
++0,00
+2
+121733
+douglas roberto
+vieira nunes me
+07/10/2021
+05/10/2021
+838,50
+838,50
+n?o
++0,00
+2
+121752
+tecstamp
+metalurgica
+ltda-epp
+07/10/2021
+07/10/2021
+855,33
+855,33
+n?o
++0,00
+2
+121760
+metalur brasil
+ind. e com. metais
+ltda
+07/10/2021
+07/10/2021
+1.000,00
+1.000,00
+n?o
++0,00
+2
+121732
+maxima usinagem
+industrial eireli
+07/10/2021
+07/10/2021
+1.075,20
+1.075,20
+n?o
++0,00
+2
+121792
+tecstamp
+metalurgica
+ltda-epp
+07/10/2021
+07/10/2021
+1.097,33
+1.097,33
+n?o
++0,00
+2
+121747
+steelmax constr.
+ind. e com. ltda
+07/10/2021
+07/10/2021
+1.130,67
+1.130,67
+n?o
++0,00
+2
+121783
+carbotex quimica
+ind com e part
+ltda
+07/10/2021
+07/10/2021
+1.156,00
+1.156,00
+n?o
++0,00
+2
+121718
+vitrum com de
+vidro tec e serv
+eireli me
+07/10/2021
+07/10/2021
+1.300,67
+1.300,67
+n?o
++0,00
+2
+121740
+tecstamp
+metalurgica
+ltda-epp
+07/10/2021
+07/10/2021
+1.452,95
+1.452,95
+n?o
++0,00
+2
+121714
+kg2 engenharia
+ltda
+07/10/2021
+07/10/2021
+1.640,67
+1.640,67
+n?o
++0,00
+2
+121779
+onix cient brasil
+in e co de equip
+ltda
+07/10/2021
+07/10/2021
+1.655,21
+1.655,21
+n?o
++0,00
+2
+121717
+sorocaba serv.
+de manut. de maq.
+ltda
+07/10/2021
+07/10/2021
+2.133,33
+2.133,33
+n?o
++0,00
+2
+121764
+vf brasil
+comercio e
+servicos ltda
+07/10/2021
+07/10/2021
+2.168,40
+2.168,40
+n?o
++0,00
+2
+121745
+irineu dias
+camargo - epp
+07/10/2021
+04/10/2021
+6.969,50
+6.969,50
+n?o
++0,00
+2
+121734
+drmack ind e com
+de maq ind ltda-
+epp
+07/10/2021
+07/10/2021
+7.000,00
+7.000,00
+n?o
++0,00
+2
+121762
+dental morelli
+ltda
+07/10/2021
+07/10/2021
+16.672,81
+16.672,81
+n?o
++0,00
+2
+122555
+metalac sps ind. e
+com. ltda
+08/10/2021
+08/10/2021
+30,00
+30,00
+n?o
++0,00
+2
+122556
+metalac sps ind. e
+com. ltda
+08/10/2021
+08/10/2021
+30,00
+30,00
+n?o
++0,00
+2
+122324
+sorocaba serv.
+de manut. de maq.
+ltda
+08/10/2021
+08/10/2021
+110,00
+110,00
+n?o
++0,00
+2
+122558
+itangua soldas
+ltda epp
+08/10/2021
+08/10/2021
+117,00
+117,00
+n?o
++0,00
+2
+122599
+vidrak visores de
+vidro industriais
+ltda
+08/10/2021
+08/10/2021
+200,00
+200,00
+n?o
++0,00
+2
+122579
+usifor mont. de
+estrut. metalicas
+ltda
+08/10/2021
+20/10/2021
+220,00
+220,00
+sim
++0,00
+2
+122559
+sat sistema de
+automacao e
+tecn ltda
+08/10/2021
+07/10/2021
+224,00
+224,00
+n?o
++0,00
+2
+122567
+uhp comercio
+de sistemas
+especiais ltda
+08/10/2021
+08/10/2021
+303,49
+303,49
+n?o
++0,00
+2
+122466
+tagiza
+empreendimentos
+ltda
+08/10/2021
+08/10/2021
+337,00
+337,00
+n?o
++0,00
+2
+122451
+raul augusto de
+mello sorocaba
+me
+08/10/2021
+08/10/2021
+354,00
+354,00
+n?o
++0,00
+2
+122560
+solutec jcf com
+e servicos ltda
+me
+08/10/2021
+05/10/2021
+360,00
+360,00
+n?o
++0,00
+2
+122471
+trr comercio
+atacadista de
+metais eireli
+08/10/2021
+08/10/2021
+366,66
+366,66
+n?o
++0,00
+2
+122449
+rds smart
+welding
+caldeiraria ltda
+08/10/2021
+08/10/2021
+422,00
+422,00
+n?o
++0,00
+2
+122490
+usifor mont. de
+estrut. metalicas
+ltda
+08/10/2021
+13/10/2021
+499,00
+506,50
+n?o
++7,50
+2
+121011
+imelux industria
+metalurgica ltda
+08/10/2021
+07/10/2021
+518,40
+518,40
+n?o
++0,00
+2
+121066
+mgt bolina
+engenharia ltda
+08/10/2021
+08/10/2021
+521,33
+521,33
+n?o
++0,00
+2
+122492
+dl industria
+comercio e
+servicos eireli
+08/10/2021
+08/10/2021
+546,66
+546,66
+n?o
++0,00
+2
+121033
+impacto com. e
+serv. ind. ltda
+08/10/2021
+25/10/2021
+553,10
+553,10
+sim
++0,00
+2
+122569
+rubens a. bruno
+08/10/2021
+07/10/2021
+585,80
+585,80
+n?o
++0,00
+2
+121016
+rds smart
+welding
+caldeiraria ltda
+08/10/2021
+08/10/2021
+615,00
+615,00
+n?o
++0,00
+2
+122600
+tectyres ind.
+com. ltda
+08/10/2021
+08/10/2021
+642,00
+642,00
+n?o
++0,00
+2
+122472
+kubik containers
+ltda
+08/10/2021
+08/10/2021
+676,57
+676,57
+n?o
++0,00
+2
+122468
+sampa
+saneamento
+ambiental ltda
+08/10/2021
+08/10/2021
+699,20
+699,20
+n?o
++0,00
+2
+122586
+multicel
+pigmentos indus e
+comer ltda
+08/10/2021
+08/10/2021
+778,00
+778,00
+n?o
++0,00
+2
+122457
+fiorella brasil
+ind. e com. textil
+ltda
+08/10/2021
+08/10/2021
+811,00
+811,00
+n?o
++0,00
+2
+122469
+metaliza
+revestimentos
+ind ltda epp
+08/10/2021
+08/10/2021
+850,00
+850,00
+n?o
++0,00
+2
+122450
+douglas roberto
+vieira nunes me
+08/10/2021
+05/10/2021
+858,00
+858,00
+n?o
++0,00
+2
+122602
+onix cient brasil
+in e co de equip
+ltda
+08/10/2021
+11/10/2021
+901,62
+909,72
+n?o
++8,10
+2
+122487
+quimica
+industrial supply
+ltda
+08/10/2021
+08/10/2021
+931,00
+931,00
+n?o
++0,00
+2
+122479
+pipeworks
+construcoes
+ltda
+08/10/2021
+08/10/2021
+1.053,06
+1.053,06
+n?o
++0,00
+2
+121057
+jateamento peixe
+com e serv ltda
+epp
+08/10/2021
+14/10/2021
+1.072,00
+1.091,32
+n?o
++19,32
+2
+121006
+cozimaq artigos
+p hotelaria e pani
+ltda
+08/10/2021
+07/10/2021
+1.075,50
+1.075,50
+n?o
++0,00
+2
+122485
+ls locacoes
+eireli epp
+08/10/2021
+06/10/2021
+1.290,00
+1.290,00
+n?o
++0,00
+2
+122496
+transportadora
+vantroba ltda.
+08/10/2021
+08/10/2021
+1.330,00
+1.330,00
+n?o
++0,00
+2
+121013
+lucas lima aguiar
+22780036826
+08/10/2021
+08/10/2021
+1.332,67
+1.332,67
+n?o
++0,00
+2
+121024
+lumadae com d
+mat hidraulicos e
+ser ltda
+08/10/2021
+04/10/2021
+1.353,33
+1.353,33
+n?o
++0,00
+2
+121055
+jateamento peixe
+com e serv ltda
+epp
+08/10/2021
+14/10/2021
+1.408,00
+1.433,32
+n?o
++25,32
+2
+122456
+kation raiden do
+brasil ltda
+08/10/2021
+08/10/2021
+1.458,64
+1.458,64
+n?o
++0,00
+2
+122231
+onix cient brasil
+in e co de equip
+ltda
+08/10/2021
+08/10/2021
+1.513,73
+1.513,73
+n?o
++0,00
+2
+121026
+claudemir cleto
+e cia ltda me
+08/10/2021
+08/10/2021
+1.622,00
+1.622,00
+n?o
++0,00
+2
+122476
+progresso
+ituano educacao
+ltda
+08/10/2021
+08/10/2021
+1.677,54
+1.677,54
+n?o
++0,00
+2
+122474
+transsal
+comercio e
+transporte ltda
+08/10/2021
+08/10/2021
+1.730,00
+1.730,00
+n?o
++0,00
+2
+121027
+douglas roberto
+vieira nunes me
+08/10/2021
+05/10/2021
+1.921,00
+1.921,00
+n?o
++0,00
+2
+122448
+novaes
+engenharia e
+construcoes
+ltda
+08/10/2021
+04/10/2021
+2.000,00
+2.000,00
+n?o
++0,00
+2
+121043
+f3 eletric
+solutions eireli
+08/10/2021
+08/10/2021
+2.150,00
+2.150,00
+n?o
++0,00
+2
+122473
+transsal
+comercio e
+transporte ltda
+08/10/2021
+08/10/2021
+2.275,34
+2.275,34
+n?o
++0,00
+2
+122446
+alfa engenharia,
+serv. e locacoes
+ltda
+08/10/2021
+25/10/2021
+2.700,00
+2.700,00
+sim
++0,00
+2
+122481
+tecstamp
+metalurgica
+ltda-epp
+08/10/2021
+08/10/2021
+3.322,34
+3.322,34
+n?o
++0,00
+2
+122445
+carlito ferreira
+dos reis
+08/10/2021
+11/10/2021
+3.787,00
+3.821,08
+n?o
++34,08
+2
+122439
+gdefi solucoes
+equip. ind. ltda
+08/10/2021
+07/10/2021
+3.950,00
+3.950,00
+n?o
++0,00
+2
+122459
+marcio jean
+arcuri-me
+08/10/2021
+08/10/2021
+4.697,50
+4.697,50
+n?o
++0,00
+2
+121039
+esseco do brasil
+ind e com de
+produtos q
+08/10/2021
+08/10/2021
+4.766,67
+4.766,67
+n?o
++0,00
+2
+121025
+tmp tecnol em
+mecanica de
+precisao ltda
+08/10/2021
+08/10/2021
+4.960,00
+4.960,00
+n?o
++0,00
+2
+121021
+ligga equip e
+ferramentaria
+eireli epp
+08/10/2021
+08/10/2021
+5.758,33
+5.758,33
+n?o
++0,00
+2
+121065
+ga engenharia e
+comercio ltda
+08/10/2021
+08/10/2021
+6.061,50
+6.061,50
+n?o
++0,00
+2
+121054
+sanovo
+greenpack
+embalagens do
+brasil
+08/10/2021
+08/10/2021
+6.659,00
+6.659,00
+n?o
++0,00
+2
+122578
+drytech sistemas
+termicos ltda.
+08/10/2021
+08/10/2021
+7.656,00
+7.656,00
+n?o
++0,00
+2
+121694
+kubik containers
+ltda
+08/10/2021
+08/10/2021
+7.833,28
+7.833,28
+n?o
++0,00
+2
+123759
+raphael juliano
+09/10/2021
+07/10/2021
+66,00
+66,00
+n?o
++0,00
+2
+p422005
+jl bottosi ltda me
+09/10/2021
+05/10/2021
+168,00
+168,00
+n?o
++0,00
+2
+123327
+melida comercio
+e industria ltda
+09/10/2021
+11/10/2021
+172,00
+172,00
+n?o
++0,00
+2
+121925
+metalsales ltda
+09/10/2021
+11/10/2021
+511,50
+511,50
+n?o
++0,00
+2
+121868
+multy metal com.
+e serv. de manut
+ltda
+09/10/2021
+11/10/2021
+523,40
+523,40
+n?o
++0,00
+2
+121895
+mekra lang do
+brasil ltda
+09/10/2021
+11/10/2021
+590,00
+590,00
+n?o
++0,00
+2
+122580
+tecstamp
+metalurgica
+ltda-epp
+09/10/2021
+11/10/2021
+700,25
+700,25
+n?o
++0,00
+2
+121927
+espas brasil
+desenvolvimento
+aut ltda
+09/10/2021
+11/10/2021
+773,33
+773,33
+n?o
++0,00
+2
+120491
+kubik containers
+ltda
+09/10/2021
+08/10/2021
+798,63
+798,63
+n?o
++0,00
+2
+121389
+kubik containers
+ltda
+09/10/2021
+08/10/2021
+804,64
+804,64
+n?o
++0,00
+2
+121917
+ls locacoes
+eireli epp
+09/10/2021
+08/10/2021
+902,33
+902,33
+n?o
++0,00
+2
+121872
+onix cient brasil
+in e co de equip
+ltda
+09/10/2021
+11/10/2021
+1.344,01
+1.344,01
+n?o
++0,00
+2
+120653
+kubik containers
+ltda
+09/10/2021
+08/10/2021
+1.519,51
+1.519,51
+n?o
++0,00
+2
+121881
+onix cient brasil
+in e co de equip
+ltda
+09/10/2021
+11/10/2021
+1.621,26
+1.621,26
+n?o
++0,00
+2
+121904
+link cold ind e
+com ltda epp
+09/10/2021
+11/10/2021
+1.622,50
+1.622,50
+n?o
++0,00
+2
+121865
+tmp tecnol em
+mecanica de
+precisao ltda
+09/10/2021
+11/10/2021
+1.679,00
+1.679,00
+n?o
++0,00
+2
+121880
+s.a. cavalcanti
+ltda
+09/10/2021
+13/10/2021
+2.012,00
+2.036,16
+n?o
++24,16
+2
+121929
+metalgregorio
+galvanoplastia
+ltda
+09/10/2021
+11/10/2021
+2.776,00
+2.776,00
+n?o
++0,00
+2
+123324
+marcia gomes
+stancker leal me
+09/10/2021
+04/10/2021
+2.976,25
+2.976,25
+n?o
++0,00
+2
+123031
+coating e silva
+servicos eireli
+10/10/2021
+08/10/2021
+123,00
+123,00
+n?o
++0,00
+2
+122562
+ventilar
+industria, com. e
+serv. eireli
+10/10/2021
+08/10/2021
+306,90
+306,90
+n?o
++0,00
+2
+122587
+rps spool
+service - fab. e
+ref. ind ltda
+10/10/2021
+11/10/2021
+350,00
+350,00
+n?o
++0,00
+2
+122597
+mcb patrimonial
+ltda
+10/10/2021
+11/10/2021
+465,00
+465,00
+n?o
++0,00
+2
+121157
+cp multimetais
+ltda-me
+10/10/2021
+11/10/2021
+505,00
+505,00
+n?o
++0,00
+2
+121188
+tecnofix ind.
+e come. de
+parafusos ltda
+10/10/2021
+11/10/2021
+525,67
+525,67
+n?o
++0,00
+2
+122572
+design somma
+moveis e
+decoracoes ltda
+10/10/2021
+11/10/2021
+528,00
+528,00
+n?o
++0,00
+2
+121174
+romano
+caldeiraria e
+serralheria ltda
+10/10/2021
+08/10/2021
+533,50
+533,50
+n?o
++0,00
+2
+121189
+usinagem
+romanha ltda me
+10/10/2021
+13/10/2021
+605,00
+610,46
+n?o
++5,46
+2
+121142
+edilson
+guilherme
+perreira
+sorocaba me
+10/10/2021
+22/10/2021
+653,50
+653,50
+sim
++0,00
+2
+121169
+alexandra
+rodrigues dos
+santos
+10/10/2021
+11/10/2021
+662,50
+662,50
+n?o
++0,00
+2
+122564
+bfsor forros e
+divisorias eirelli-
+me
+10/10/2021
+08/10/2021
+704,00
+704,00
+n?o
++0,00
+2
+122571
+douglas roberto
+vieira nunes me
+10/10/2021
+05/10/2021
+773,34
+773,34
+n?o
++0,00
+2
+p418429
+s.f. caldeiraria,
+mont. manut. ind.
+ltda
+10/10/2021
+11/10/2021
+775,00
+775,00
+n?o
++0,00
+2
+121190
+itaya engenharia
+const. e manu.
+ltda.
+10/10/2021
+11/10/2021
+796,93
+796,93
+n?o
++0,00
+2
+122565
+gama-tec
+equipamentos
+industriais ltda
+10/10/2021
+11/10/2021
+926,49
+926,49
+n?o
++0,00
+2
+122585
+flash ind com
+de prod e sist
+eletro ltda
+10/10/2021
+11/10/2021
+942,50
+942,50
+n?o
++0,00
+2
+121137
+art-metal
+industria e
+comercio ltda
+10/10/2021
+15/10/2021
+1.078,33
+1.094,48
+n?o
++16,15
+2
+122584
+perfil color
+pinturas
+eletrostatica
+ltda
+10/10/2021
+11/10/2021
+1.156,00
+1.156,00
+n?o
++0,00
+2
+121179
+viclauzer ind
+e com de prod
+metalurgicos
+10/10/2021
+11/10/2021
+1.279,83
+1.279,83
+n?o
++0,00
+2
+122582
+steelmax constr.
+ind. e com. ltda
+10/10/2021
+13/10/2021
+1.309,50
+1.321,29
+n?o
++11,79
+2
+121134
+marina m3 ltda
+10/10/2021
+08/10/2021
+1.325,00
+1.325,00
+n?o
++0,00
+2
+119724
+ohm
+construcoes
+eletricas eirele
+me
+10/10/2021
+11/10/2021
+1.366,67
+1.366,67
+n?o
++0,00
+2
+122589
+onix cient brasil
+in e co de equip
+ltda
+10/10/2021
+11/10/2021
+1.468,07
+1.468,07
+n?o
++0,00
+2
+122557
+cristiano
+campanhol
+callegari.
+10/10/2021
+13/10/2021
+1.547,60
+1.561,52
+n?o
++13,92
+2
+122603
+onix cient brasil
+in e co de equip
+ltda
+10/10/2021
+11/10/2021
+1.581,74
+1.581,74
+n?o
++0,00
+2
+122577
+ferrmane com de
+ferro e aco ltda
+epp
+10/10/2021
+08/10/2021
+1.641,00
+1.641,00
+n?o
++0,00
+2
+121140
+eg perfil
+de aluminio
+sorocaba ltda
+10/10/2021
+11/10/2021
+1.950,43
+1.950,43
+n?o
++0,00
+2
+121201
+jateamento peixe
+com e serv ltda
+epp
+10/10/2021
+11/10/2021
+2.143,80
+2.143,80
+n?o
++0,00
+2
+122415
+bds comercio
+de produtos de
+metal ltda
+10/10/2021
+11/10/2021
+2.228,75
+2.228,75
+n?o
++0,00
+2
+122594
+ibanhez servicos
+industriais eireli
+me
+10/10/2021
+11/10/2021
+2.401,20
+2.401,20
+n?o
++0,00
+2
+121200
+jateamento peixe
+com e serv ltda
+epp
+10/10/2021
+14/10/2021
+2.516,00
+2.546,20
+n?o
++30,20
+2
+121197
+rondon ind. com.
+de equip. p. avi.
+ltda
+10/10/2021
+11/10/2021
+2.663,06
+2.663,06
+n?o
++0,00
+2
+p416030
+associacao
+graton marina
+belas artes
+10/10/2021
+11/10/2021
+3.033,33
+3.033,33
+n?o
++0,00
+2
+121163
+sorocaps
+industri
+farmaceutica
+ltda
+10/10/2021
+08/10/2021
+3.078,53
+3.078,53
+n?o
++0,00
+2
+121194
+nhs
+terraplenagem e
+demolicoes ltda
+epp
+10/10/2021
+11/10/2021
+3.444,00
+3.444,00
+n?o
++0,00
+2
+121153
+douglas roberto
+vieira nunes me
+10/10/2021
+05/10/2021
+3.923,33
+3.923,33
+n?o
++0,00
+2
+123025
+donizete
+pecanha-me
+10/10/2021
+13/10/2021
+4.870,00
+4.913,83
+n?o
++43,83
+2
+122431
+apex tool group
+ind e com de
+ferramentas
+10/10/2021
+11/10/2021
+6.152,00
+6.152,00
+n?o
++0,00
+2
+122570
+sysbuilding
+const e
+empreend ltda
+10/10/2021
+11/10/2021
+6.200,00
+6.200,00
+n?o
++0,00
+2
+121187
+tempermax
+ind.comer.vidros
+temp.ltda
+10/10/2021
+11/10/2021
+9.275,00
+9.275,00
+n?o
++0,00
+2
+122669
+kg2 engenharia
+ltda
+11/10/2021
+11/10/2021
+70,00
+70,00
+n?o
++0,00
+2
+123397
+tecama moveis
+para escritorio
+ltda
+11/10/2021
+11/10/2021
+181,36
+181,36
+n?o
++0,00
+2
+122694
+ciclo ligas ind
+com rec meta e
+plas ltda
+11/10/2021
+07/10/2021
+316,60
+316,60
+n?o
++0,00
+2
+122677
+carbotex quimica
+ind com e part
+ltda
+11/10/2021
+11/10/2021
+352,00
+352,00
+n?o
++0,00
+2
+122029
+vmx do brasil
+industria e
+comercio ltda
+11/10/2021
+11/10/2021
+379,33
+379,33
+n?o
++0,00
+2
+122679
+martt quimica
+industria e
+comercio ltda.
+11/10/2021
+11/10/2021
+380,00
+380,00
+n?o
++0,00
+2
+122673
+guerra custom
+design pecas e
+ser. eireli
+11/10/2021
+11/10/2021
+384,28
+384,28
+n?o
++0,00
+2
+122684
+mpd service com
+e servicos eireli
+me
+11/10/2021
+11/10/2021
+398,95
+398,95
+n?o
++0,00
+2
+122044
+metalurgica
+indumepi eireli
+11/10/2021
+11/10/2021
+406,67
+406,67
+n?o
++0,00
+2
+122040
+metalgregorio
+galvanoplastia
+ltda
+11/10/2021
+11/10/2021
+408,00
+408,00
+n?o
++0,00
+2
+122028
+vmx do brasil
+industria e
+comercio ltda
+11/10/2021
+11/10/2021
+465,00
+465,00
+n?o
++0,00
+2
+122033
+wesley felipe
+pinto
+11/10/2021
+11/10/2021
+559,00
+559,00
+n?o
++0,00
+2
+121409
+espas brasil
+desenvolvimento
+aut ltda
+11/10/2021
+11/10/2021
+775,50
+775,50
+n?o
++0,00
+2
+122653
+brio lar londres
+incorporadora
+spe ltda
+11/10/2021
+07/10/2021
+808,00
+808,00
+n?o
++0,00
+2
+121395
+rv solucoes
+industriais ltda
+11/10/2021
+11/10/2021
+900,00
+900,00
+n?o
++0,00
+2
+122676
+aspmaq
+fabricacao d maq.
+e equip. eireli
+11/10/2021
+08/10/2021
+914,00
+914,00
+n?o
++0,00
+2
+122672
+clesse do brasil
+cap c e con d
+ener ltda
+11/10/2021
+11/10/2021
+930,00
+930,00
+n?o
++0,00
+2
+122635
+sant d santa rita
+d cassia empr
+imob spe
+11/10/2021
+08/10/2021
+1.100,00
+1.100,00
+n?o
++0,00
+2
+122032
+dmv pecas
+de precisao
+industrial ltda
+me
+11/10/2021
+13/10/2021
+1.256,70
+1.264,24
+n?o
++7,54
+2
+122034
+montag servicos
+de eletricidade
+eireli
+11/10/2021
+27/10/2021
+1.267,67
+1.267,67
+sim
++0,00
+2
+122026
+irineu dias
+camargo - epp
+11/10/2021
+04/10/2021
+1.478,80
+1.478,80
+n?o
++0,00
+2
+122043
+perfil color
+pinturas
+eletrostatica
+ltda
+11/10/2021
+11/10/2021
+2.548,00
+2.548,00
+n?o
++0,00
+2
+122638
+metalac sps ind. e
+com. ltda
+11/10/2021
+11/10/2021
+2.959,00
+2.959,00
+n?o
++0,00
+2
+122498
+transportadora
+vantroba ltda.
+11/10/2021
+11/10/2021
+4.600,00
+4.600,00
+n?o
++0,00
+2
+122687
+metalac sps ind. e
+com. ltda
+11/10/2021
+11/10/2021
+4.655,00
+4.655,00
+n?o
++0,00
+2
+122681
+metalur brasil
+ind. e com. d
+metais ltda
+11/10/2021
+11/10/2021
+6.028,65
+6.028,65
+n?o
++0,00
+2
+123378
+solutec jcf com
+e servicos ltda
+me
+12/10/2021
+05/10/2021
+172,00
+172,00
+n?o
++0,00
+2
+121289
+mpd service com
+e servicos eireli
+me
+12/10/2021
+13/10/2021
+518,07
+518,07
+n?o
++0,00
+2
+121330
+tecstamp
+metalurgica
+ltda-epp
+12/10/2021
+13/10/2021
+643,20
+643,20
+n?o
++0,00
+2
+121321
+msa ltda me
+12/10/2021
+13/10/2021
+697,56
+697,56
+n?o
++0,00
+2
+121254
+unika ind e com
+atac de emb de
+aluminio
+12/10/2021
+13/10/2021
+768,53
+768,53
+n?o
++0,00
+2
+121294
+atlanta ind.e
+com.de acesso.e
+equip.ltda
+12/10/2021
+13/10/2021
+1.036,67
+1.036,67
+n?o
++0,00
+2
+121318
+jvr industria e
+metal mecanica
+ltda
+12/10/2021
+13/10/2021
+1.353,33
+1.353,33
+n?o
++0,00
+2
+121287
+label ind de etiq
+rot adesivos e
+editora
+12/10/2021
+11/10/2021
+1.695,50
+1.695,50
+n?o
++0,00
+2
+121281
+juliano oseias
+oliveira eireli
+12/10/2021
+11/10/2021
+1.926,00
+1.926,00
+n?o
++0,00
+2
+121283
+brusin ind com e
+usinagem de pc
+ltda
+12/10/2021
+11/10/2021
+1.926,67
+1.926,67
+n?o
++0,00
+2
+121290
+mpd service com
+e servicos eireli
+me
+12/10/2021
+13/10/2021
+2.401,34
+2.401,34
+n?o
++0,00
+2
+122419
+ambipar env. sol-
+soluc. amb. ltda
+12/10/2021
+13/10/2021
+2.565,00
+2.565,00
+n?o
++0,00
+2
+121286
+h d neto ltda
+12/10/2021
+13/10/2021
+5.538,51
+5.538,51
+n?o
++0,00
+2
+122769
+clarios energy
+solutions brasil
+ltda
+12/10/2021
+13/10/2021
+10.673,00
+10.673,00
+n?o
++0,00
+2
+122839
+dplastic ind. e
+com. de plasticos
+eireli
+13/10/2021
+13/10/2021
+186,00
+186,00
+n?o
++0,00
+2
+123174
+dplastic ind. e
+com. de plasticos
+eireli
+13/10/2021
+13/10/2021
+186,00
+186,00
+n?o
++0,00
+2
+122808
+almeida e
+camar.sol. em
+aut. ind. eireli
+13/10/2021
+13/10/2021
+249,67
+249,67
+n?o
++0,00
+2
+122823
+solange maria
+yamawaka sales
+13/10/2021
+08/10/2021
+276,00
+276,00
+n?o
++0,00
+2
+122827
+hr solucoes em
+embalagens ltda
+13/10/2021
+13/10/2021
+297,00
+297,00
+n?o
++0,00
+2
+122650
+vtech servicos
+em valvulas e
+acess ltda
+13/10/2021
+13/10/2021
+307,00
+307,00
+n?o
++0,00
+2
+122826
+ctm - contim
+tecnol. e maq.
+eireli
+13/10/2021
+13/10/2021
+393,24
+393,24
+n?o
++0,00
+2
+122641
+rm usinagem e
+ferramentaria
+ltda
+13/10/2021
+11/10/2021
+483,00
+483,00
+n?o
++0,00
+2
+122643
+brusin ind com e
+usinagem de pc
+ltda
+13/10/2021
+13/10/2021
+486,66
+486,66
+n?o
++0,00
+2
+122675
+joao carlos
+lisboa
+serralheria me
+13/10/2021
+13/10/2021
+530,00
+530,00
+n?o
++0,00
+2
+122696
+fogliene eng de
+equipamento ind
+ltda
+13/10/2021
+13/10/2021
+543,00
+543,00
+n?o
++0,00
+2
+122812
+unimed de
+sorocaba
+cooperativa tr
+medico
+13/10/2021
+13/10/2021
+552,00
+552,00
+n?o
++0,00
+2
+122688
+garrafeiros
+eireli
+13/10/2021
+13/10/2021
+672,85
+672,85
+n?o
++0,00
+2
+122632
+mea modul ltda
+epp
+13/10/2021
+13/10/2021
+699,98
+699,98
+n?o
++0,00
+2
+122463
+rv solucoes
+industriais ltda
+13/10/2021
+13/10/2021
+720,00
+720,00
+n?o
++0,00
+2
+122661
+emc dispositivos
+e acessorios
+ltda
+13/10/2021
+13/10/2021
+726,00
+726,00
+n?o
++0,00
+2
+122671
+pl moveis e
+decoracoes ltda
+13/10/2021
+13/10/2021
+764,00
+764,00
+n?o
++0,00
+2
+122654
+raul augusto de
+mello sorocaba
+me
+13/10/2021
+14/10/2021
+801,16
+803,56
+n?o
++2,40
+2
+122664
+marcia gomes
+stancker leal me
+13/10/2021
+04/10/2021
+843,34
+843,34
+n?o
++0,00
+2
+121578
+ecopel gestao
+global de
+residuos ltda
+13/10/2021
+13/10/2021
+861,00
+861,00
+n?o
++0,00
+2
+122674
+sergio francisco
+dos santos me
+13/10/2021
+13/10/2021
+891,00
+891,00
+n?o
++0,00
+2
+122663
+mar de minas
+neg.nauticos e
+atr. ltda
+13/10/2021
+13/10/2021
+900,00
+900,00
+n?o
++0,00
+2
+122668
+ban maq com e
+locacao de bens
+e moveis
+13/10/2021
+11/10/2021
+935,00
+935,00
+n?o
++0,00
+2
+122651
+ipanema
+distribuidora
+ltda
+13/10/2021
+13/10/2021
+1.050,00
+1.050,00
+n?o
++0,00
+2
+122652
+ipanema
+distribuidora
+ltda
+13/10/2021
+13/10/2021
+1.050,00
+1.050,00
+n?o
++0,00
+2
+122670
+pl moveis e
+decoracoes ltda
+13/10/2021
+13/10/2021
+1.087,50
+1.087,50
+n?o
++0,00
+2
+122698
+usiprema
+industria
+mecanica ltda
+13/10/2021
+13/10/2021
+1.283,34
+1.283,34
+n?o
++0,00
+2
+122634
+usisol comercio
+de aluminio ltda
+me
+13/10/2021
+13/10/2021
+1.288,00
+1.288,00
+n?o
++0,00
+2
+122642
+oal maquinas
+industriais ltda.
+13/10/2021
+13/10/2021
+1.447,07
+1.447,07
+n?o
++0,00
+2
+122686
+agua brasil com
+e manut de pocos
+artesia
+13/10/2021
+11/10/2021
+1.496,60
+1.496,60
+n?o
++0,00
+2
+122655
+usiprema
+industria
+mecanica ltda
+13/10/2021
+13/10/2021
+1.799,85
+1.799,85
+n?o
++0,00
+2
+122695
+oef equip. e pecas
+p. mineracao
+eireli
+13/10/2021
+13/10/2021
+1.815,00
+1.815,00
+n?o
++0,00
+2
+122631
+padrao mov ind
+com e inst de mob
+ltda
+13/10/2021
+08/10/2021
+1.933,53
+1.933,53
+n?o
++0,00
+2
+122640
+athox con. eng.
+em p. m.c.a. m. de
+m. in
+13/10/2021
+14/10/2021
+1.974,00
+1.979,92
+n?o
++5,92
+2
+122693
+ciclo ligas ind
+com rec meta e
+plas ltda
+13/10/2021
+08/10/2021
+3.411,34
+3.411,34
+n?o
++0,00
+2
+122658
+metal works
+usinagem de
+precisao ltda
+13/10/2021
+13/10/2021
+3.659,48
+3.659,48
+n?o
++0,00
+2
+122659
+carlito ferreira
+dos reis
+13/10/2021
+13/10/2021
+4.516,50
+4.516,50
+n?o
++0,00
+2
+122683
+viclauzer ind
+e com de prod
+metalurgicos
+13/10/2021
+13/10/2021
+4.986,31
+4.986,31
+n?o
++0,00
+2
+123537
+lapidary
+usinagem ltda
+14/10/2021
+14/10/2021
+108,16
+108,16
+n?o
++0,00
+2
+123516
+soc d
+melhoramento
+jardim granja
+olga ii
+14/10/2021
+13/10/2021
+118,70
+118,70
+n?o
++0,00
+2
+123314
+onix cient brasil
+in e co de equip
+ltda
+14/10/2021
+14/10/2021
+158,00
+158,00
+n?o
++0,00
+2
+123336
+proteq protecao
+e qualidade ltda
+me
+14/10/2021
+14/10/2021
+241,15
+241,15
+n?o
++0,00
+2
+122101
+gama-tec
+equipamentos
+industriais ltda
+14/10/2021
+13/10/2021
+545,67
+545,67
+n?o
++0,00
+2
+122182
+cobsen ltda
+14/10/2021
+14/10/2021
+567,67
+567,67
+n?o
++0,00
+2
+122183
+cobsen ltda
+14/10/2021
+14/10/2021
+620,33
+383,17
+n?o
+-237,16
+2
+122117
+wesley felipe
+pinto
+14/10/2021
+14/10/2021
+685,33
+685,33
+n?o
++0,00
+2
+122768
+serg paulista
+constru e serv.
+tec. ltda
+14/10/2021
+14/10/2021
+863,50
+863,50
+n?o
++0,00
+2
+122098
+onix cient brasil
+in e co de equip
+ltda
+14/10/2021
+14/10/2021
+1.509,37
+1.509,37
+n?o
++0,00
+2
+122126
+resolution
+constr. e
+montagens ind.
+eire
+14/10/2021
+14/10/2021
+1.701,50
+1.701,50
+n?o
++0,00
+2
+122755
+linhanyl s/a
+- linhas para
+coser
+14/10/2021
+14/10/2021
+2.032,00
+2.032,00
+n?o
++0,00
+2
+122090
+vimam
+projetos serv
+equipamentos
+eireli
+14/10/2021
+14/10/2021
+2.133,51
+2.133,51
+n?o
++0,00
+2
+122103
+techtextil
+tecidos tecnicos
+ltda
+14/10/2021
+13/10/2021
+2.434,67
+2.434,67
+n?o
++0,00
+2
+122541
+clube pro-vida
+14/10/2021
+14/10/2021
+2.925,00
+2.925,00
+n?o
++0,00
+2
+122129
+oal maquinas
+industriais ltda.
+14/10/2021
+14/10/2021
+3.760,24
+3.760,24
+n?o
++0,00
+2
+122110
+vg goncalves
+participacoes
+ltda.
+14/10/2021
+14/10/2021
+12.454,96
+12.454,96
+n?o
++0,00
+2
+122978
+modelacao
+sorocabana ltda
+15/10/2021
+15/10/2021
+100,00
+100,00
+n?o
++0,00
+2
+122964
+coating e silva
+servicos eireli
+15/10/2021
+13/10/2021
+205,00
+205,00
+n?o
++0,00
+2
+122981
+valul service ind.
+e com. ltda epp
+15/10/2021
+15/10/2021
+211,00
+211,00
+n?o
++0,00
+2
+122956
+lu plastic ind e
+comerc de plast
+ltda
+15/10/2021
+15/10/2021
+213,75
+213,75
+n?o
++0,00
+2
+122941
+plasved
+poliuretano e
+vedacoes ltda me
+15/10/2021
+15/10/2021
+229,25
+229,25
+n?o
++0,00
+2
+122932
+new safes
+industria
+metalurgica ltda
+15/10/2021
+15/10/2021
+318,50
+318,50
+n?o
++0,00
+2
+122833
+bombas paulo de
+sorocaba ltda
+15/10/2021
+14/10/2021
+336,00
+336,00
+n?o
++0,00
+2
+122930
+asprocon
+engenharia ltda
+15/10/2021
+15/10/2021
+343,00
+343,00
+n?o
++0,00
+2
+122798
+antonio a r de
+paula me
+15/10/2021
+15/10/2021
+400,00
+400,00
+n?o
++0,00
+2
+122337
+gotesp
+equipamentos p
+embalagens ltda
+15/10/2021
+15/10/2021
+423,10
+423,10
+n?o
++0,00
+2
+122943
+romano
+caldeiraria e
+serralheria ltda
+15/10/2021
+15/10/2021
+471,00
+471,00
+n?o
++0,00
+2
+121361
+lordtech
+polimeros ltda
+15/10/2021
+15/10/2021
+483,39
+483,39
+n?o
++0,00
+2
+122817
+vanusa tieko
+coral me
+15/10/2021
+15/10/2021
+486,09
+486,09
+n?o
++0,00
+2
+122341
+techno safe
+solucoes
+industriais ltda
+15/10/2021
+15/10/2021
+500,00
+500,00
+n?o
++0,00
+2
+121407
+matema ma
+servicos e
+locacao eireli
+15/10/2021
+08/10/2021
+516,50
+516,50
+n?o
++0,00
+2
+122810
+ferrmane com de
+ferro e aco ltda
+epp
+15/10/2021
+08/10/2021
+519,00
+519,00
+n?o
++0,00
+2
+122800
+multy metal com.
+e serv. de manut
+ltda
+15/10/2021
+15/10/2021
+520,00
+520,00
+n?o
++0,00
+2
+121413
+tls usinagem
+ferramentaria
+eireli epp
+15/10/2021
+15/10/2021
+532,00
+532,00
+n?o
++0,00
+2
+121396
+mauricio bonfim
+de oliveira
+ferragens me
+15/10/2021
+14/10/2021
+573,50
+573,50
+n?o
++0,00
+2
+122979
+sampa
+saneamento
+ambiental ltda
+15/10/2021
+15/10/2021
+575,00
+575,00
+n?o
++0,00
+2
+122331
+gotesp
+equipamentos p
+embalagens ltda
+15/10/2021
+15/10/2021
+576,14
+576,14
+n?o
++0,00
+2
+122803
+tagiza
+empreendimentos
+ltda
+15/10/2021
+15/10/2021
+600,00
+600,00
+n?o
++0,00
+2
+121424
+motech industria
+ltda
+15/10/2021
+15/10/2021
+638,33
+638,33
+n?o
++0,00
+2
+122797
+antonio a r de
+paula me
+15/10/2021
+15/10/2021
+656,89
+656,89
+n?o
++0,00
+2
+122821
+dmv pecas
+de precisao
+industrial ltda
+me
+15/10/2021
+15/10/2021
+667,35
+667,35
+n?o
++0,00
+2
+122809
+msa ltda me
+15/10/2021
+15/10/2021
+697,58
+697,58
+n?o
++0,00
+2
+122982
+carlos eduardo
+fonseca pires
+15/10/2021
+11/10/2021
+701,00
+701,00
+n?o
++0,00
+2
+122690
+rps spool
+service - fab. e
+ref. ind ltda
+15/10/2021
+15/10/2021
+704,00
+704,00
+n?o
++0,00
+2
+122846
+differ usinagem
+e ferramentaria
+eireli
+15/10/2021
+08/10/2021
+709,03
+709,03
+n?o
++0,00
+2
+122806
+wyda industria de
+embalagens ltda
+15/10/2021
+15/10/2021
+714,00
+714,00
+n?o
++0,00
+2
+122811
+tecnofix ind.
+e come. de
+parafusos ltda
+15/10/2021
+15/10/2021
+717,00
+717,00
+n?o
++0,00
+2
+122804
+andre vinicius
+mancz romero
+15/10/2021
+19/10/2021
+719,34
+727,98
+n?o
++8,64
+2
+122974
+unica usinagem
+e ferramentaria
+eireli
+15/10/2021
+15/10/2021
+723,35
+723,35
+n?o
++0,00
+2
+122799
+multy metal com.
+e serv. de manut
+ltda
+15/10/2021
+15/10/2021
+796,75
+796,75
+n?o
++0,00
+2
+122975
+preformaster ind
+e com serv eireli
+me
+15/10/2021
+15/10/2021
+814,99
+814,99
+n?o
++0,00
+2
+122787
+sjt comercio e
+servicos ltda
+15/10/2021
+15/10/2021
+820,00
+820,00
+n?o
++0,00
+2
+121406
+l.pinheiro e cia
+ltda me
+15/10/2021
+15/10/2021
+821,34
+821,34
+n?o
++0,00
+2
+122849
+wyda industria de
+embalagens ltda
+15/10/2021
+15/10/2021
+826,75
+826,75
+n?o
++0,00
+2
+121401
+shift machines
+servicos e
+comercio ltda
+15/10/2021
+15/10/2021
+828,54
+828,54
+n?o
++0,00
+2
+122837
+douglas roberto
+vieira nunes me
+15/10/2021
+14/10/2021
+901,00
+901,00
+n?o
++0,00
+2
+122814
+jrv logistica ltda
+15/10/2021
+15/10/2021
+908,33
+908,33
+n?o
++0,00
+2
+122605
+rps spool
+service - fab. e
+ref. ind ltda
+15/10/2021
+15/10/2021
+930,00
+930,00
+n?o
++0,00
+2
+122847
+roberto de
+castro eirelli
+15/10/2021
+15/10/2021
+960,00
+960,00
+n?o
++0,00
+2
+122829
+pallet film
+embalagens
+plasticas ltda
+15/10/2021
+08/10/2021
+1.013,00
+1.013,00
+n?o
++0,00
+2
+121390
+steelmax constr.
+ind. e com. ltda
+15/10/2021
+15/10/2021
+1.050,00
+1.050,00
+n?o
++0,00
+2
+122801
+gdefi solucoes
+equip. ind. ltda
+15/10/2021
+15/10/2021
+1.106,02
+1.106,02
+n?o
++0,00
+2
+122818
+vanusa tieko
+coral me
+15/10/2021
+15/10/2021
+1.117,18
+1.117,18
+n?o
++0,00
+2
+122815
+jvr industria e
+metal mecanica
+ltda
+15/10/2021
+15/10/2021
+1.122,00
+1.122,00
+n?o
++0,00
+2
+122830
+magma ind com
+e imp de prod
+texteis ltda
+15/10/2021
+15/10/2021
+1.139,00
+1.139,00
+n?o
++0,00
+2
+122929
+asprocon
+engenharia ltda
+15/10/2021
+15/10/2021
+1.360,00
+1.360,00
+n?o
++0,00
+2
+122805
+lord solutions
+polimeros ltda
+15/10/2021
+15/10/2021
+1.425,00
+1.425,00
+n?o
++0,00
+2
+121380
+wesley felipe
+pinto
+15/10/2021
+15/10/2021
+1.480,00
+1.480,00
+n?o
++0,00
+2
+121364
+juri consultoria
+empresarial ltda
+15/10/2021
+15/10/2021
+1.531,00
+1.531,00
+n?o
++0,00
+2
+122813
+meta comercial
+ltda
+15/10/2021
+18/10/2021
+1.750,00
+1.765,75
+n?o
++15,75
+2
+122836
+ind pgg tecnol em
+arames e cabos
+esp
+15/10/2021
+15/10/2021
+1.866,66
+1.866,66
+n?o
++0,00
+2
+121372
+marcia gomes
+stancker leal me
+15/10/2021
+14/10/2021
+1.890,83
+1.890,83
+n?o
++0,00
+2
+p420227
+associacao
+graton marina
+belas artes
+15/10/2021
+15/10/2021
+2.558,75
+2.558,75
+n?o
++0,00
+2
+121381
+wace industria e
+com de maquinas
+ltda
+15/10/2021
+15/10/2021
+2.594,05
+2.594,05
+n?o
++0,00
+2
+122834
+bombas paulo de
+sorocaba ltda
+15/10/2021
+14/10/2021
+2.688,00
+2.688,00
+n?o
++0,00
+2
+122601
+onix cient brasil
+in e co de equip
+ltda
+15/10/2021
+18/10/2021
+2.865,30
+2.891,10
+n?o
++25,80
+2
+122819
+agnaldo lisboa
+xavier
+15/10/2021
+15/10/2021
+3.333,34
+1.701,94
+n?o
+-1.631,40
+2
+122848
+quimica
+industrial supply
+ltda
+15/10/2021
+15/10/2021
+3.631,00
+3.631,00
+n?o
++0,00
+2
+121293
+rps spool
+service - fab. e
+ref. ind ltda
+15/10/2021
+15/10/2021
+3.984,33
+3.984,33
+n?o
++0,00
+2
+121384
+reinaldo
+chicarolli
+15/10/2021
+18/10/2021
+4.301,25
+4.339,95
+n?o
++38,70
+martins sup.
+eireili
+2
+122828
+sorolix
+transportes
+especiais ltda
+15/10/2021
+15/10/2021
+5.083,34
+5.083,34
+n?o
++0,00
+2
+122957
+brio lar londres
+incorporadora
+spe ltda
+15/10/2021
+15/10/2021
+7.980,00
+7.980,00
+n?o
++0,00
+2
+121397
+oef equip. e pecas
+p. mineracao
+eireli
+15/10/2021
+15/10/2021
+9.911,39
+9.133,35
+n?o
+-778,04
+2
+123857
+basseifer ind
+e co. de mat. p
+const ltda
+16/10/2021
+18/10/2021
+46,70
+46,70
+n?o
++0,00
+2
+123678
+link cold ind e
+com ltda epp
+16/10/2021
+18/10/2021
+159,00
+159,00
+n?o
++0,00
+2
+123683
+valul service ind.
+e com. ltda epp
+16/10/2021
+18/10/2021
+172,00
+172,00
+n?o
++0,00
+2
+122204
+martt quimica
+industria e
+comercio ltda.
+16/10/2021
+18/10/2021
+389,57
+389,57
+n?o
++0,00
+2
+122208
+label ind de etiq
+rot adesivos e
+editora
+16/10/2021
+18/10/2021
+506,33
+506,33
+n?o
++0,00
+2
+122188
+art-metal
+industria e
+comercio ltda
+16/10/2021
+21/10/2021
+560,00
+568,40
+n?o
++8,40
+2
+p419096
+vodamed
+metalurgica
+eireli
+16/10/2021
+18/10/2021
+571,33
+571,33
+n?o
++0,00
+2
+122229
+onix cient brasil
+in e co de equip
+ltda
+16/10/2021
+18/10/2021
+685,90
+685,90
+n?o
++0,00
+2
+122187
+gama-tec
+equipamentos
+industriais ltda
+16/10/2021
+18/10/2021
+760,00
+760,00
+n?o
++0,00
+2
+122207
+vidrak visores de
+vidro industriais
+ltda
+16/10/2021
+18/10/2021
+802,27
+802,27
+n?o
++0,00
+2
+122193
+l.pinheiro e cia
+ltda me
+16/10/2021
+18/10/2021
+908,93
+908,93
+n?o
++0,00
+2
+122176
+partservice
+equip miner exp.
+imp. eireli
+16/10/2021
+18/10/2021
+940,00
+940,00
+n?o
++0,00
+2
+122185
+brio lar londres
+incorporadora
+spe ltda
+16/10/2021
+15/10/2021
+1.119,33
+1.119,33
+n?o
++0,00
+2
+121523
+preformaster ind
+e com serv eireli
+me
+16/10/2021
+18/10/2021
+1.150,00
+1.150,00
+n?o
++0,00
+2
+120701
+igor souza godoy
+sorocaba
+16/10/2021
+18/10/2021
+1.250,00
+1.250,00
+n?o
++0,00
+2
+122230
+onix cient brasil
+in e co de equip
+ltda
+16/10/2021
+20/10/2021
+1.335,05
+1.351,09
+n?o
++16,04
+2
+122180
+nova saltiense
+ind mecanica ltda
+16/10/2021
+18/10/2021
+1.470,00
+1.470,00
+n?o
++0,00
+2
+122192
+kubik containers
+ltda
+16/10/2021
+15/10/2021
+1.529,92
+1.529,92
+n?o
++0,00
+2
+122171
+sccam equip. ind.
+eireli me
+16/10/2021
+18/10/2021
+1.577,33
+1.577,33
+n?o
++0,00
+2
+p405332
+ziz maquinas p
+constr civil ltda
+epp
+16/10/2021
+18/10/2021
+1.675,00
+1.675,00
+n?o
++0,00
+2
+122170
+associacao
+brasil sgi.
+16/10/2021
+15/10/2021
+2.233,33
+2.233,33
+n?o
++0,00
+2
+120694
+ibanhez servicos
+industriais eireli
+me
+16/10/2021
+18/10/2021
+4.551,04
+4.551,04
+n?o
++0,00
+2
+122969
+oal maquinas
+industriais ltda.
+17/10/2021
+18/10/2021
+77,94
+77,94
+n?o
++0,00
+2
+123168
+gotesp
+equipamentos p
+embalagens ltda
+17/10/2021
+18/10/2021
+182,13
+182,13
+n?o
++0,00
+2
+122980
+raul augusto de
+mello sorocaba
+me
+17/10/2021
+22/10/2021
+345,00
+350,20
+n?o
++5,20
+2
+121557
+alexandra
+rodrigues dos
+santos
+17/10/2021
+18/10/2021
+356,00
+356,00
+n?o
++0,00
+2
+122973
+moraes e ruberti
+manutencao ltda
+me
+17/10/2021
+18/10/2021
+473,59
+473,59
+n?o
++0,00
+2
+121533
+supermix
+concreto s/a
+17/10/2021
+18/10/2021
+617,00
+617,00
+n?o
++0,00
+2
+122944
+ferrmane com de
+ferro e aco ltda
+epp
+17/10/2021
+15/10/2021
+636,48
+636,48
+n?o
++0,00
+2
+122972
+arsi mat. para
+constr. e transp.
+eireli
+17/10/2021
+22/10/2021
+638,00
+647,55
+n?o
++9,55
+2
+121551
+ez esquadrias de
+aluminio ltda
+17/10/2021
+18/10/2021
+651,00
+651,00
+n?o
++0,00
+2
+121524
+mz usinafer
+usinagem ltda
+epp
+17/10/2021
+18/10/2021
+674,00
+674,00
+n?o
++0,00
+2
+122968
+oal maquinas
+industriais ltda.
+17/10/2021
+18/10/2021
+681,95
+681,95
+n?o
++0,00
+2
+121580
+pallet film
+embalagens
+plasticas ltda
+17/10/2021
+13/10/2021
+723,00
+723,00
+n?o
++0,00
+2
+122925
+nutri flavor ind e
+com alimentacao
+ltda
+17/10/2021
+18/10/2021
+771,80
+771,80
+n?o
++0,00
+2
+121589
+exchange
+logistica ltda
+17/10/2021
+18/10/2021
+785,90
+785,90
+n?o
++0,00
+2
+122953
+luis dos santos
+votorantim
+17/10/2021
+18/10/2021
+801,50
+801,50
+n?o
++0,00
+2
+122960
+rps spool
+service - fab. e
+ref. ind ltda
+17/10/2021
+18/10/2021
+837,00
+837,00
+n?o
++0,00
+2
+122326
+usiprema
+industria
+mecanica ltda
+17/10/2021
+18/10/2021
+917,33
+917,33
+n?o
++0,00
+2
+121540
+usiprema
+industria
+mecanica ltda
+17/10/2021
+18/10/2021
+941,57
+941,57
+n?o
++0,00
+2
+122965
+sampagua ltda
+17/10/2021
+18/10/2021
+952,00
+952,00
+n?o
++0,00
+2
+121545
+lordtech
+polimeros ltda
+17/10/2021
+18/10/2021
+970,67
+970,67
+n?o
++0,00
+2
+122937
+retenbras
+service ltda epp
+17/10/2021
+18/10/2021
+1.202,00
+1.202,00
+n?o
++0,00
+2
+121577
+meta comercial
+ltda
+17/10/2021
+21/10/2021
+1.450,00
+1.467,40
+n?o
++17,40
+2
+121571
+eletrotau
+solucoes
+industriais ltda
+17/10/2021
+18/10/2021
+1.698,00
+1.698,00
+n?o
++0,00
+2
+121586
+engefort sist.
+avancado de seg.
+ltda
+17/10/2021
+18/10/2021
+1.942,50
+1.942,50
+n?o
++0,00
+2
+121566
+bf transporte de
+cargas sorocaba
+eireli
+17/10/2021
+18/10/2021
+2.010,00
+2.010,00
+n?o
++0,00
+2
+122940
+athox con. eng.
+em p. m.c.a. m. de
+m. in
+17/10/2021
+18/10/2021
+2.142,00
+2.142,00
+n?o
++0,00
+2
+121588
+quimica
+industrial supply
+ltda
+17/10/2021
+18/10/2021
+2.347,50
+2.347,50
+n?o
++0,00
+2
+122938
+sampa
+saneamento
+ambiental ltda
+17/10/2021
+18/10/2021
+4.891,34
+4.891,34
+n?o
++0,00
+2
+121582
+sccam equip. ind.
+eireli me
+17/10/2021
+18/10/2021
+8.347,80
+8.347,80
+n?o
++0,00
+2
+p401928
+persiplast fab de
+cort, per. tela
+eireli
+18/10/2021
+18/10/2021
+207,00
+207,00
+n?o
++0,00
+2
+123043
+marcio jean
+arcuri-me
+18/10/2021
+18/10/2021
+220,00
+220,00
+n?o
++0,00
+2
+123021
+marcelo leandro
+de carvalho
+26470318860
+18/10/2021
+04/10/2021
+230,00
+230,00
+n?o
++0,00
+2
+123053
+prettl ind. de
+compon. aut. do
+br ltda
+18/10/2021
+18/10/2021
+234,46
+234,46
+n?o
++0,00
+2
+123050
+efd inducao
+brasil ltda
+18/10/2021
+18/10/2021
+240,00
+240,00
+n?o
++0,00
+2
+123070
+heat a c com imp
+serv de eqp pro
+al ltda
+18/10/2021
+18/10/2021
+286,92
+286,92
+n?o
++0,00
+2
+123024
+guerra custom
+design pecas e
+ser. eireli
+18/10/2021
+18/10/2021
+287,53
+287,53
+n?o
++0,00
+2
+123040
+label ind de etiq
+rot adesivos e
+editora
+18/10/2021
+18/10/2021
+295,00
+295,00
+n?o
++0,00
+2
+122366
+martt quimica
+industria e
+comercio ltda.
+18/10/2021
+18/10/2021
+436,67
+436,67
+n?o
++0,00
+2
+121761
+gtsm1 com. imp. e
+exp. de bicicleta
+ltda
+18/10/2021
+15/10/2021
+519,90
+519,90
+n?o
++0,00
+2
+123018
+acos nobre
+ferro e metais
+ltda
+18/10/2021
+18/10/2021
+575,43
+575,43
+n?o
++0,00
+2
+123037
+so madeiras
+eireli epp
+18/10/2021
+18/10/2021
+676,00
+676,00
+n?o
++0,00
+2
+123049
+dibloco ind e com
+art cimentos pre-
+molda
+18/10/2021
+18/10/2021
+776,00
+776,00
+n?o
++0,00
+2
+123042
+label ind de etiq
+rot adesivos e
+editora
+18/10/2021
+18/10/2021
+900,00
+900,00
+n?o
++0,00
+2
+123029
+sysbuilding
+const e
+empreend ltda
+18/10/2021
+18/10/2021
+1.112,00
+1.112,00
+n?o
++0,00
+2
+122231
+onix cient brasil
+in e co de equip
+ltda
+18/10/2021
+21/10/2021
+1.513,72
+1.527,34
+n?o
++13,62
+2
+123030
+maxima usinagem
+industrial eireli
+18/10/2021
+18/10/2021
+1.649,30
+1.649,30
+n?o
++0,00
+2
+122340
+silva e barbosa
+co. de alimentos
+ltda..
+18/10/2021
+18/10/2021
+3.800,00
+3.800,00
+n?o
++0,00
+2
+120854
+sccam equip. ind.
+eireli me
+18/10/2021
+18/10/2021
+4.724,50
+4.724,50
+n?o
++0,00
+2
+122681
+metalur brasil
+ind. e com. d
+metais ltda
+18/10/2021
+18/10/2021
+6.028,67
+6.028,67
+n?o
++0,00
+2
+123757
+valul service ind.
+e com. ltda epp
+19/10/2021
+19/10/2021
+86,00
+86,00
+n?o
++0,00
+2
+123765
+efd inducao
+brasil ltda
+19/10/2021
+19/10/2021
+134,95
+134,95
+n?o
++0,00
+2
+123717
+teodora cecilia
+florido
+19/10/2021
+18/10/2021
+182,00
+182,00
+n?o
++0,00
+2
+121687
+link cold ind e
+com ltda epp
+19/10/2021
+19/10/2021
+338,00
+338,00
+n?o
++0,00
+2
+123178
+seiren do brasil
+ind textil ltda
+19/10/2021
+19/10/2021
+431,00
+431,00
+n?o
++0,00
+2
+123200
+textil itaja ltda
+19/10/2021
+19/10/2021
+633,00
+633,00
+n?o
++0,00
+2
+122822
+valcom comercio
+de equipamentos
+ltda.
+19/10/2021
+19/10/2021
+838,00
+838,00
+n?o
++0,00
+2
+122116
+lanzili comercio
+de moveis ltda
+19/10/2021
+19/10/2021
+891,00
+891,00
+n?o
++0,00
+2
+121658
+jde engenharia e
+const. ltda me
+19/10/2021
+19/10/2021
+1.107,72
+1.107,72
+n?o
++0,00
+2
+121663
+onix cient brasil
+in e co de equip
+ltda
+19/10/2021
+21/10/2021
+1.147,21
+1.154,09
+n?o
++6,88
+2
+121669
+mauricio bonfim
+de oliveira
+ferragens me
+19/10/2021
+18/10/2021
+1.184,90
+1.184,90
+n?o
++0,00
+2
+121685
+perfil color
+pinturas
+eletrostatica
+ltda
+19/10/2021
+19/10/2021
+1.294,67
+1.294,67
+n?o
++0,00
+2
+121681
+metafilm
+embalagens
+plasticas ltda
+19/10/2021
+19/10/2021
+1.333,33
+1.333,33
+n?o
++0,00
+2
+121670
+ibanhez servicos
+industriais eireli
+me
+19/10/2021
+18/10/2021
+1.626,20
+1.626,20
+n?o
++0,00
+2
+121661
+onix cient brasil
+in e co de equip
+ltda
+19/10/2021
+21/10/2021
+1.631,43
+1.641,21
+n?o
++9,78
+2
+121686
+gotesp
+equipamentos p
+embalagens ltda
+19/10/2021
+19/10/2021
+2.676,34
+2.676,34
+n?o
++0,00
+2
+121677
+transsal
+comercio e
+transporte ltda
+19/10/2021
+19/10/2021
+3.114,00
+3.114,00
+n?o
++0,00
+2
+120213
+trade serv eireli
+me
+19/10/2021
+19/10/2021
+4.934,56
+4.934,56
+n?o
++0,00
+2
+123560
+new garden
+empreend. imob.
+spe ltda
+19/10/2021
+20/10/2021
+4.965,90
+4.980,80
+n?o
++14,90
+2
+123071
+heat a c com imp
+serv de eqp pro
+al ltda
+20/10/2021
+18/10/2021
+51,47
+51,47
+n?o
++0,00
+2
+124084
+obragen
+engenharia e
+construcoes
+ltda
+20/10/2021
+20/10/2021
+56,00
+56,00
+n?o
++0,00
+2
+123016
+oal maquinas
+industriais ltda.
+20/10/2021
+20/10/2021
+95,66
+95,66
+n?o
++0,00
+2
+123163
+antonio a r de
+paula me
+20/10/2021
+20/10/2021
+96,36
+96,36
+n?o
++0,00
+2
+123203
+tectyres ind.
+com. ltda
+20/10/2021
+20/10/2021
+151,35
+151,35
+n?o
++0,00
+2
+123188
+inovadoris
+usinagem ind e
+com eireli
+20/10/2021
+20/10/2021
+204,92
+204,92
+n?o
++0,00
+2
+123158
+s a paulista
+construcoes e
+comercio
+20/10/2021
+20/10/2021
+312,00
+312,00
+n?o
++0,00
+2
+123227
+rochel industria
+e comercio eireli
+20/10/2021
+20/10/2021
+322,58
+322,58
+n?o
++0,00
+2
+123044
+ajp industria e
+com de moveis
+eireli epp
+20/10/2021
+20/10/2021
+364,50
+364,50
+n?o
++0,00
+2
+124229
+gk 108 ind de
+partes de auto
+pecas ltda
+20/10/2021
+20/10/2021
+392,00
+392,00
+n?o
++0,00
+2
+123166
+viclauzer ind
+e com de prod
+metalurgicos
+20/10/2021
+20/10/2021
+404,50
+404,50
+n?o
++0,00
+2
+123191
+euromobile
+interiores s/a.
+20/10/2021
+20/10/2021
+405,00
+405,00
+n?o
++0,00
+2
+123216
+metalac sps ind. e
+com. ltda
+20/10/2021
+20/10/2021
+415,00
+415,00
+n?o
++0,00
+2
+123057
+wyda industria de
+embalagens ltda
+20/10/2021
+20/10/2021
+471,00
+471,00
+n?o
++0,00
+2
+123064
+stell work
+solucoes
+inteligentes
+eireli
+20/10/2021
+20/10/2021
+490,00
+490,00
+n?o
++0,00
+2
+123062
+ipanema
+distribuidora
+ltda
+20/10/2021
+20/10/2021
+525,00
+525,00
+n?o
++0,00
+2
+123220
+brasitec
+usinagem ltda -
+epp
+20/10/2021
+18/10/2021
+639,00
+639,00
+n?o
++0,00
+2
+123073
+rps spool
+service - fab. e
+ref. ind ltda
+20/10/2021
+20/10/2021
+649,00
+649,00
+n?o
++0,00
+2
+123047
+ra equipamentos
+industriais ltda
+me
+20/10/2021
+20/10/2021
+677,50
+677,50
+n?o
++0,00
+2
+122463
+rv solucoes
+industriais ltda
+20/10/2021
+20/10/2021
+720,00
+720,00
+n?o
++0,00
+2
+123056
+sorolix
+transportes
+especiais ltda
+20/10/2021
+20/10/2021
+730,00
+730,00
+n?o
++0,00
+2
+123059
+tubokraft
+industria com de
+tubetes ltda
+20/10/2021
+20/10/2021
+879,00
+879,00
+n?o
++0,00
+2
+123041
+label ind de etiq
+rot adesivos e
+editora
+20/10/2021
+18/10/2021
+882,50
+882,50
+n?o
++0,00
+2
+123230
+metalfast
+industria e
+comercio eireli
+20/10/2021
+19/10/2021
+894,00
+894,00
+n?o
++0,00
+2
+123023
+msa ltda me
+20/10/2021
+20/10/2021
+975,50
+975,50
+n?o
++0,00
+2
+123218
+ass.cult.ren.tec.sorocabana-
+acrts
+20/10/2021
+20/10/2021
+1.032,00
+1.032,00
+n?o
++0,00
+2
+123060
+usiprema
+industria
+mecanica ltda
+20/10/2021
+20/10/2021
+1.146,33
+1.146,33
+n?o
++0,00
+2
+123026
+smi - solucoes
+em manut. e inst.
+ltda
+20/10/2021
+19/10/2021
+1.209,84
+1.209,84
+n?o
++0,00
+2
+123063
+ff solucoes ind.
+de maq. e equip.
+eireli
+20/10/2021
+20/10/2021
+1.260,66
+1.260,66
+n?o
++0,00
+2
+121908
+construal
+sorocaba ltda
+20/10/2021
+19/10/2021
+1.375,00
+1.375,00
+n?o
++0,00
+2
+123045
+meta comercial
+ltda
+20/10/2021
+20/10/2021
+1.450,00
+1.450,00
+n?o
++0,00
+2
+123019
+marcelo leandro
+de carvalho
+26470318860
+20/10/2021
+04/10/2021
+1.468,00
+1.468,00
+n?o
++0,00
+2
+123039
+hp fix industria e
+comercio eireli
+20/10/2021
+20/10/2021
+1.624,66
+1.624,66
+n?o
++0,00
+2
+123229
+sant d santa rita
+d cassia empr
+imob spe
+20/10/2021
+20/10/2021
+1.800,00
+1.800,00
+n?o
++0,00
+2
+123054
+reinaldo
+chicarolli
+martins sup.
+eireili
+20/10/2021
+21/10/2021
+1.912,50
+1.918,24
+n?o
++5,74
+2
+123058
+kg2 engenharia
+ltda
+20/10/2021
+20/10/2021
+2.847,30
+2.847,30
+n?o
++0,00
+2
+123068
+inst. paulista
+adv. de edu. ass.
+social
+20/10/2021
+15/10/2021
+3.145,00
+3.145,00
+n?o
++0,00
+2
+123036
+ciclo ligas ind
+com rec meta e
+plas ltda
+20/10/2021
+18/10/2021
+4.203,34
+4.203,34
+n?o
++0,00
+2
+123038
+usisol comercio
+de aluminio ltda
+me
+20/10/2021
+20/10/2021
+5.791,75
+5.791,75
+n?o
++0,00
+2
+121887
+rv solucoes
+industriais ltda
+20/10/2021
+20/10/2021
+10.132,00
+10.132,00
+n?o
++0,00
+2
+123020
+mca com. e distr.
+frutas e legumes
+ltda
+20/10/2021
+18/10/2021
+15.000,00
+15.000,00
+n?o
++0,00
+2
+123862
+m.e com. e
+prestacao de
+serv. ltda
+21/10/2021
+19/10/2021
+56,32
+56,32
+n?o
++0,00
+2
+123892
+romano
+caldeiraria e
+serralheria ltda
+21/10/2021
+20/10/2021
+164,00
+164,00
+n?o
++0,00
+2
+123077
+cobsen ltda
+21/10/2021
+21/10/2021
+255,00
+255,00
+n?o
++0,00
+2
+123332
+usiprema
+industria
+mecanica ltda
+21/10/2021
+21/10/2021
+490,00
+490,00
+n?o
++0,00
+2
+122402
+kg2 engenharia
+ltda
+21/10/2021
+21/10/2021
+602,93
+602,93
+n?o
++0,00
+2
+122416
+fexcolor com
+e ind de mat
+metalicos ltda
+21/10/2021
+21/10/2021
+624,44
+624,44
+n?o
++0,00
+2
+123033
+cobsen ltda
+21/10/2021
+21/10/2021
+642,00
+642,00
+n?o
++0,00
+2
+122424
+arquidoicese de
+sorocaba
+21/10/2021
+21/10/2021
+889,80
+889,80
+n?o
++0,00
+2
+122418
+nutrialfa
+alimentos ltda
+21/10/2021
+21/10/2021
+892,67
+892,67
+n?o
++0,00
+2
+122428
+metalur brasil
+ind. e com. metais
+ltda
+21/10/2021
+21/10/2021
+1.000,00
+1.000,00
+n?o
++0,00
+2
+122423
+maqfriger
+industria de
+refrigeracao
+ltda
+21/10/2021
+21/10/2021
+1.015,00
+1.015,00
+n?o
++0,00
+2
+122420
+unicerpa uniao
+das ceram. e
+partic. ltda
+21/10/2021
+22/10/2021
+1.028,20
+1.031,28
+n?o
++3,08
+2
+122407
+mauricio bonfim
+de oliveira
+ferragens me
+21/10/2021
+21/10/2021
+1.030,83
+1.030,83
+n?o
++0,00
+2
+123078
+cobsen ltda
+21/10/2021
+21/10/2021
+1.188,00
+1.188,00
+n?o
++0,00
+2
+122436
+condex industria
+e comercio ltda
+21/10/2021
+21/10/2021
+1.296,33
+1.296,33
+n?o
++0,00
+2
+122410
+padrao mov ind
+com e inst de mob
+ltda
+21/10/2021
+20/10/2021
+1.833,33
+1.833,33
+n?o
++0,00
+2
+122429
+metalur brasil
+ind. e com. metais
+ltda
+21/10/2021
+21/10/2021
+1.889,67
+1.889,67
+n?o
++0,00
+2
+122422
+premetal pre-
+mold em concr e
+aco ltda
+21/10/2021
+21/10/2021
+4.541,87
+4.541,87
+n?o
++0,00
+2
+123328
+mc components
+c para moldes e
+maq ltda
+22/10/2021
+20/10/2021
+134,62
+134,62
+n?o
++0,00
+2
+123313
+onix cient brasil
+in e co de equip
+ltda
+22/10/2021
+22/10/2021
+223,39
+223,39
+n?o
++0,00
+2
+121720
+motech industria
+ltda
+22/10/2021
+22/10/2021
+281,67
+281,67
+n?o
++0,00
+2
+123320
+label ind de etiq
+rot adesivos e
+editora
+22/10/2021
+18/10/2021
+310,00
+310,00
+n?o
++0,00
+2
+123164
+antonio a r de
+paula me
+22/10/2021
+22/10/2021
+336,09
+336,09
+n?o
++0,00
+2
+121741
+ricardo - serv.
+de limpeza e
+jardinagem
+22/10/2021
+22/10/2021
+434,33
+434,33
+n?o
++0,00
+2
+121723
+mauricio bonfim
+de oliveira
+ferragens me
+22/10/2021
+22/10/2021
+449,33
+449,33
+n?o
++0,00
+2
+123161
+almeida e
+camar.sol. em
+aut. ind. eireli
+22/10/2021
+22/10/2021
+458,50
+458,50
+n?o
++0,00
+2
+121746
+dl industria
+comercio e
+servicos eireli
+22/10/2021
+22/10/2021
+473,00
+473,00
+n?o
++0,00
+2
+123206
+luiz carlos
+salvador me
+22/10/2021
+22/10/2021
+527,50
+527,50
+n?o
++0,00
+2
+123211
+mecanica famma
+ltda
+22/10/2021
+22/10/2021
+584,88
+584,88
+n?o
++0,00
+2
+123193
+multy metal com.
+e serv. de manut
+ltda
+22/10/2021
+22/10/2021
+611,30
+611,30
+n?o
++0,00
+2
+123226
+steelmax constr.
+ind. e com. ltda
+22/10/2021
+22/10/2021
+612,00
+612,00
+n?o
++0,00
+2
+123184
+agile solucoes
+em pecas ind ltda
+epp
+22/10/2021
+22/10/2021
+660,00
+660,00
+n?o
++0,00
+2
+121716
+lordtech
+polimeros ltda
+22/10/2021
+22/10/2021
+666,67
+666,67
+n?o
++0,00
+2
+123162
+dmv pecas
+de precisao
+industrial ltda
+me
+22/10/2021
+22/10/2021
+711,19
+711,19
+n?o
++0,00
+2
+121752
+tecstamp
+metalurgica
+ltda-epp
+22/10/2021
+22/10/2021
+855,33
+855,33
+n?o
++0,00
+2
+122602
+onix cient brasil
+in e co de equip
+ltda
+22/10/2021
+22/10/2021
+901,63
+901,63
+n?o
++0,00
+2
+123172
+transsal
+comercio e
+transporte ltda
+22/10/2021
+22/10/2021
+906,60
+906,60
+n?o
++0,00
+2
+123180
+colegio portal
+ltda me
+22/10/2021
+29/10/2021
+957,00
+977,09
+n?o
++20,09
+2
+123223
+flash ind com
+de prod e sist
+eletro ltda
+22/10/2021
+22/10/2021
+960,00
+960,00
+n?o
++0,00
+2
+123171
+magneto brasil
+ltda
+22/10/2021
+22/10/2021
+965,35
+965,35
+n?o
++0,00
+2
+123195
+claudio carrilho
+de moraes me
+22/10/2021
+20/10/2021
+990,00
+990,00
+n?o
++0,00
+2
+123292
+luis gomes do
+nascimento me
+22/10/2021
+14/10/2021
+1.055,70
+1.055,70
+n?o
++0,00
+2
+121792
+tecstamp
+metalurgica
+ltda-epp
+22/10/2021
+22/10/2021
+1.097,33
+1.097,33
+n?o
++0,00
+2
+121747
+steelmax constr.
+ind. e com. ltda
+22/10/2021
+22/10/2021
+1.130,67
+1.130,67
+n?o
++0,00
+2
+123182
+brusin ind com e
+usinagem de pc
+ltda
+22/10/2021
+22/10/2021
+1.145,00
+1.145,00
+n?o
++0,00
+2
+121783
+carbotex quimica
+ind com e part
+ltda
+22/10/2021
+22/10/2021
+1.156,00
+1.156,00
+n?o
++0,00
+2
+123222
+vitrum com de
+vidro tec e serv
+eireli me
+22/10/2021
+22/10/2021
+1.160,00
+1.160,00
+n?o
++0,00
+2
+123219
+eg perfil
+de aluminio
+sorocaba ltda
+22/10/2021
+21/10/2021
+1.181,24
+1.181,24
+n?o
++0,00
+2
+123325
+dms metal
+mecanica eireli
+22/10/2021
+21/10/2021
+1.261,00
+1.261,00
+n?o
++0,00
+2
+123186
+romani metal ind
+com ltda
+22/10/2021
+22/10/2021
+1.298,20
+1.298,20
+n?o
++0,00
+2
+121718
+vitrum com de
+vidro tec e serv
+eireli me
+22/10/2021
+22/10/2021
+1.300,67
+1.300,67
+n?o
++0,00
+2
+123217
+sete quality
+standard ltda
+22/10/2021
+22/10/2021
+1.439,20
+545,20
+n?o
+-894,00
+2
+121740
+tecstamp
+metalurgica
+ltda-epp
+22/10/2021
+22/10/2021
+1.452,95
+1.452,95
+n?o
++0,00
+2
+121714
+kg2 engenharia
+ltda
+22/10/2021
+22/10/2021
+1.640,67
+1.640,67
+n?o
++0,00
+2
+121779
+onix cient brasil
+in e co de equip
+ltda
+22/10/2021
+22/10/2021
+1.655,21
+1.655,21
+n?o
++0,00
+2
+121765
+valmetal
+usinagem e
+caldeiraria ltda
+22/10/2021
+22/10/2021
+1.700,00
+1.700,00
+n?o
++0,00
+2
+123221
+sccam equip. ind.
+eireli me
+22/10/2021
+22/10/2021
+1.706,55
+1.706,55
+n?o
++0,00
+2
+123173
+meta comercial
+ltda
+22/10/2021
+22/10/2021
+1.737,50
+1.737,50
+n?o
++0,00
+2
+123300
+rv solucoes
+industriais ltda
+22/10/2021
+22/10/2021
+1.873,20
+1.873,20
+n?o
++0,00
+2
+123228
+rochel industria
+e comercio eireli
+22/10/2021
+22/10/2021
+2.129,69
+2.129,69
+n?o
++0,00
+2
+121717
+sorocaba serv.
+de manut. de maq.
+ltda
+22/10/2021
+22/10/2021
+2.133,33
+2.133,33
+n?o
++0,00
+2
+121764
+vf brasil
+comercio e
+servicos ltda
+22/10/2021
+22/10/2021
+2.168,40
+2.168,40
+n?o
++0,00
+2
+121727
+oal maquinas
+industriais ltda.
+22/10/2021
+20/10/2021
+2.223,00
+2.223,00
+n?o
++0,00
+2
+121773
+cp multimetais
+ltda-me
+22/10/2021
+22/10/2021
+2.737,50
+2.737,50
+n?o
++0,00
+2
+123208
+mecanica famma
+ltda
+22/10/2021
+22/10/2021
+2.888,66
+2.888,66
+n?o
++0,00
+2
+123210
+mecanica famma
+ltda
+22/10/2021
+22/10/2021
+3.162,69
+3.162,69
+n?o
++0,00
+2
+123176
+rafael moreira
+da silva projetos
+22/10/2021
+22/10/2021
+3.291,98
+3.291,98
+n?o
++0,00
+2
+123165
+viclauzer ind
+e com de prod
+metalurgicos
+22/10/2021
+22/10/2021
+3.310,74
+3.310,74
+n?o
++0,00
+2
+p421970
+associacao
+graton marina
+belas artes
+22/10/2021
+22/10/2021
+5.425,00
+5.425,00
+n?o
++0,00
+2
+121745
+irineu dias
+camargo - epp
+22/10/2021
+04/10/2021
+6.969,50
+6.969,50
+n?o
++0,00
+2
+121734
+drmack ind e com
+de maq ind ltda-
+epp
+22/10/2021
+22/10/2021
+7.000,00
+7.000,00
+n?o
++0,00
+2
+121762
+dental morelli
+ltda
+22/10/2021
+22/10/2021
+16.672,81
+16.672,81
+n?o
++0,00
+2
+124080
+enginstrel
+engematic
+instrum. ltda
+23/10/2021
+19/10/2021
+7,86
+7,86
+n?o
++0,00
+2
+124092
+rv solucoes
+industriais ltda
+23/10/2021
+25/10/2021
+43,00
+43,00
+n?o
++0,00
+2
+124074
+enginstrel
+engematic
+instrum. ltda
+23/10/2021
+15/10/2021
+64,78
+64,78
+n?o
++0,00
+2
+123980
+multy metal com.
+e serv. de manut
+ltda
+23/10/2021
+25/10/2021
+124,00
+124,00
+n?o
++0,00
+2
+122466
+tagiza
+empreendimentos
+ltda
+23/10/2021
+25/10/2021
+337,00
+337,00
+n?o
++0,00
+2
+122451
+raul augusto de
+mello sorocaba
+me
+23/10/2021
+25/10/2021
+354,00
+354,00
+n?o
++0,00
+2
+123998
+unica usinagem
+e ferramentaria
+eireli
+23/10/2021
+25/10/2021
+356,40
+356,40
+n?o
++0,00
+2
+122471
+trr comercio
+atacadista de
+metais eireli
+23/10/2021
+25/10/2021
+366,67
+366,67
+n?o
++0,00
+2
+122492
+dl industria
+comercio e
+servicos eireli
+23/10/2021
+25/10/2021
+546,67
+546,67
+n?o
++0,00
+2
+122468
+sampa
+saneamento
+ambiental ltda
+23/10/2021
+25/10/2021
+699,20
+699,20
+n?o
++0,00
+2
+123304
+jeronimo com. e
+manut. ind. eireli
+23/10/2021
+25/10/2021
+794,50
+794,50
+n?o
++0,00
+2
+122479
+pipeworks
+construcoes
+ltda
+23/10/2021
+25/10/2021
+1.053,05
+1.053,05
+n?o
++0,00
+2
+120492
+hydronics
+projetos e
+equipamentos
+ltda
+23/10/2021
+25/10/2021
+1.205,33
+1.205,33
+n?o
++0,00
+2
+122485
+ls locacoes
+eireli epp
+23/10/2021
+25/10/2021
+1.290,00
+1.290,00
+n?o
++0,00
+2
+122456
+kation raiden do
+brasil ltda
+23/10/2021
+25/10/2021
+1.458,63
+1.458,63
+n?o
++0,00
+2
+122476
+progresso
+ituano educacao
+ltda
+23/10/2021
+25/10/2021
+1.677,53
+1.677,53
+n?o
++0,00
+2
+122474
+transsal
+comercio e
+transporte ltda
+23/10/2021
+25/10/2021
+1.730,00
+1.730,00
+n?o
++0,00
+2
+122473
+transsal
+comercio e
+transporte ltda
+23/10/2021
+25/10/2021
+2.275,33
+2.275,33
+n?o
++0,00
+2
+122481
+tecstamp
+metalurgica
+ltda-epp
+23/10/2021
+25/10/2021
+3.322,33
+3.322,33
+n?o
++0,00
+2
+122439
+gdefi solucoes
+equip. ind. ltda
+23/10/2021
+21/10/2021
+3.950,00
+3.950,00
+n?o
++0,00
+2
+122459
+marcio jean
+arcuri-me
+23/10/2021
+25/10/2021
+4.697,50
+4.697,50
+n?o
++0,00
+2
+121025
+tmp tecnol em
+mecanica de
+precisao ltda
+23/10/2021
+25/10/2021
+4.960,00
+4.960,00
+n?o
++0,00
+2
+p411611
+roberto
+goulart pereira
+sorocaba-me
+23/10/2021
+25/10/2021
+5.320,20
+5.320,20
+n?o
++0,00
+2
+121054
+sanovo
+greenpack
+embalagens do
+brasil
+23/10/2021
+25/10/2021
+6.659,00
+6.659,00
+n?o
++0,00
+2
+121694
+kubik containers
+ltda
+23/10/2021
+25/10/2021
+7.833,28
+7.833,28
+n?o
++0,00
+2
+123338
+usimeca usinagem
+industrial ltda
+24/10/2021
+25/10/2021
+176,00
+176,00
+n?o
++0,00
+2
+123318
+metal works
+usinagem de
+precisao ltda
+24/10/2021
+22/10/2021
+325,00
+325,00
+n?o
++0,00
+2
+121895
+mekra lang do
+brasil ltda
+24/10/2021
+25/10/2021
+590,00
+590,00
+n?o
++0,00
+2
+p422304
+uilson pereira do
+santos
+24/10/2021
+25/10/2021
+595,30
+595,30
+n?o
++0,00
+2
+p418363
+associacao
+graton marina
+belas artes
+24/10/2021
+25/10/2021
+615,00
+615,00
+n?o
++0,00
+2
+123296
+rds smart
+welding
+caldeiraria ltda
+24/10/2021
+25/10/2021
+730,00
+730,00
+n?o
++0,00
+2
+121927
+espas brasil
+desenvolvimento
+aut ltda
+24/10/2021
+25/10/2021
+773,33
+773,33
+n?o
++0,00
+2
+123339
+fogliene eng de
+equipamento ind
+ltda
+24/10/2021
+25/10/2021
+775,00
+620,00
+n?o
+-155,00
+2
+123326
+danilo iris
+rodrigues
+camargo - me
+24/10/2021
+29/10/2021
+839,68
+852,28
+n?o
++12,60
+2
+123337
+metrocon
+engenh.e
+construcoes
+ltda
+24/10/2021
+25/10/2021
+897,00
+897,00
+n?o
++0,00
+2
+121917
+ls locacoes
+eireli epp
+24/10/2021
+25/10/2021
+902,33
+902,33
+n?o
++0,00
+2
+123340
+claudemir cleto
+e cia ltda me
+24/10/2021
+26/10/2021
+931,00
+936,58
+n?o
++5,58
+2
+123316
+onix cient brasil
+in e co de equip
+ltda
+24/10/2021
+26/10/2021
+1.054,67
+1.060,99
+n?o
++6,32
+2
+123291
+fundacao sao
+paulo -hosp.
+santa lucinda
+24/10/2021
+25/10/2021
+1.104,50
+1.104,50
+n?o
++0,00
+2
+123333
+ferrmane com de
+ferro e aco ltda
+epp
+24/10/2021
+22/10/2021
+1.188,25
+1.188,25
+n?o
++0,00
+2
+123308
+onix cient brasil
+in e co de equip
+ltda
+24/10/2021
+26/10/2021
+1.254,66
+1.262,18
+n?o
++7,52
+2
+123323
+usifor mont. de
+estrut. metalicas
+ltda
+24/10/2021
+26/10/2021
+1.305,66
+1.313,50
+n?o
++7,84
+2
+123306
+onix cient brasil
+in e co de equip
+ltda
+24/10/2021
+26/10/2021
+1.312,87
+1.320,75
+n?o
++7,88
+2
+121872
+onix cient brasil
+in e co de equip
+ltda
+24/10/2021
+26/10/2021
+1.344,01
+1.352,07
+n?o
++8,06
+2
+121894
+magma ind com
+e imp de prod
+texteis ltda
+24/10/2021
+25/10/2021
+1.505,00
+1.505,00
+n?o
++0,00
+2
+123317
+basseifer ind
+e co. de mat. p
+const ltda
+24/10/2021
+25/10/2021
+1.582,50
+1.582,50
+n?o
++0,00
+2
+121881
+onix cient brasil
+in e co de equip
+ltda
+24/10/2021
+26/10/2021
+1.621,26
+1.630,98
+n?o
++9,72
+2
+121904
+link cold ind e
+com ltda epp
+24/10/2021
+25/10/2021
+1.622,50
+1.622,50
+n?o
++0,00
+2
+121865
+tmp tecnol em
+mecanica de
+precisao ltda
+24/10/2021
+25/10/2021
+1.679,00
+1.679,00
+n?o
++0,00
+2
+121918
+magma ind com
+e imp de prod
+texteis ltda
+24/10/2021
+25/10/2021
+1.862,40
+1.862,40
+n?o
++0,00
+2
+121880
+s.a. cavalcanti
+ltda
+24/10/2021
+25/10/2021
+2.012,00
+2.012,00
+n?o
++0,00
+2
+123312
+logpartner
+tecnologia em
+manutencao ltda
+24/10/2021
+25/10/2021
+2.145,87
+2.145,87
+n?o
++0,00
+2
+123334
+kation raiden do
+brasil ltda
+24/10/2021
+25/10/2021
+2.175,60
+2.175,60
+n?o
++0,00
+2
+123301
+seiren do brasil
+ind textil ltda
+24/10/2021
+25/10/2021
+2.288,00
+2.288,00
+n?o
++0,00
+2
+123319
+metal works
+usinagem de
+precisao ltda
+24/10/2021
+22/10/2021
+2.481,18
+2.481,18
+n?o
++0,00
+2
+121929
+metalgregorio
+galvanoplastia
+ltda
+24/10/2021
+25/10/2021
+2.776,00
+2.776,00
+n?o
++0,00
+2
+123324
+marcia gomes
+stancker leal me
+24/10/2021
+18/10/2021
+2.976,25
+2.976,25
+n?o
++0,00
+2
+123298
+clube de campo
+de sorocaba
+24/10/2021
+25/10/2021
+3.168,00
+3.168,00
+n?o
++0,00
+2
+123343
+l.pinheiro e cia
+ltda me
+24/10/2021
+25/10/2021
+3.266,20
+3.266,20
+n?o
++0,00
+2
+124314
+wyda industria de
+embalagens ltda
+25/10/2021
+25/10/2021
+80,40
+80,40
+n?o
++0,00
+2
+124310
+interativa
+ind. e com.
+representacoes
+l
+25/10/2021
+25/10/2021
+100,00
+100,00
+n?o
++0,00
+2
+123374
+dms metal
+mecanica eireli
+25/10/2021
+25/10/2021
+166,00
+166,00
+n?o
++0,00
+2
+123723
+rps spool
+service - fab. e
+ref. ind ltda
+25/10/2021
+25/10/2021
+198,00
+198,00
+n?o
++0,00
+2
+123371
+tecstamp
+metalurgica
+ltda-epp
+25/10/2021
+25/10/2021
+225,46
+225,46
+n?o
++0,00
+2
+123370
+tecstamp
+metalurgica
+ltda-epp
+25/10/2021
+25/10/2021
+264,00
+264,00
+n?o
++0,00
+2
+123395
+american air
+filter brasil ltda
+25/10/2021
+25/10/2021
+285,37
+285,37
+n?o
++0,00
+2
+123422
+carbotex quimica
+ind com e part
+ltda
+25/10/2021
+25/10/2021
+299,12
+299,12
+n?o
++0,00
+2
+123746
+a 4e gestao
+integrada ltda.
+25/10/2021
+25/10/2021
+433,00
+433,00
+n?o
++0,00
+2
+p420924
+robson lopes de
+lima
+25/10/2021
+25/10/2021
+493,33
+493,33
+n?o
++0,00
+2
+123418
+enginstrel
+engematic
+instrum. ltda
+25/10/2021
+05/10/2021
+564,00
+564,00
+n?o
++0,00
+2
+123426
+roberto
+goulart pereira
+sorocaba-me
+25/10/2021
+25/10/2021
+614,00
+614,00
+n?o
++0,00
+2
+123066
+padrao mov ind
+com e inst de mob
+ltda
+25/10/2021
+20/10/2021
+630,77
+630,77
+n?o
++0,00
+2
+p418429
+s.f. caldeiraria,
+mont. manut. ind.
+ltda
+25/10/2021
+25/10/2021
+775,00
+775,00
+n?o
++0,00
+2
+123404
+andrea anholeto
+artes
+25/10/2021
+25/10/2021
+854,00
+854,00
+n?o
++0,00
+2
+123035
+alutal controles
+industriais ltda
+25/10/2021
+25/10/2021
+854,27
+854,27
+n?o
++0,00
+2
+122585
+flash ind com
+de prod e sist
+eletro ltda
+25/10/2021
+25/10/2021
+942,50
+942,50
+n?o
++0,00
+2
+122582
+steelmax constr.
+ind. e com. ltda
+25/10/2021
+25/10/2021
+1.309,50
+1.309,50
+n?o
++0,00
+2
+123307
+onix cient brasil
+in e co de equip
+ltda
+25/10/2021
+27/10/2021
+1.363,56
+1.371,74
+n?o
++8,18
+2
+122589
+onix cient brasil
+in e co de equip
+ltda
+25/10/2021
+27/10/2021
+1.468,07
+1.476,87
+n?o
++8,80
+2
+123398
+industria
+brasileira de
+baloes ltda.
+25/10/2021
+25/10/2021
+1.505,00
+1.505,00
+n?o
++0,00
+2
+122557
+cristiano
+campanhol
+callegari.
+25/10/2021
+25/10/2021
+1.547,60
+1.547,60
+n?o
++0,00
+2
+122603
+onix cient brasil
+in e co de equip
+ltda
+25/10/2021
+27/10/2021
+1.581,76
+1.591,26
+n?o
++9,50
+2
+123396
+american air
+filter brasil ltda
+25/10/2021
+25/10/2021
+1.656,03
+1.656,03
+n?o
++0,00
+2
+122594
+ibanhez servicos
+industriais eireli
+me
+25/10/2021
+22/10/2021
+2.401,20
+2.401,20
+n?o
++0,00
+2
+121197
+rondon ind. com.
+de equip. p. avi.
+ltda
+25/10/2021
+25/10/2021
+2.663,06
+2.663,06
+n?o
++0,00
+2
+p416030
+associacao
+graton marina
+belas artes
+25/10/2021
+25/10/2021
+3.033,33
+3.033,33
+n?o
++0,00
+2
+123369
+escola nova
+lourenco
+castanho ltda
+25/10/2021
+25/10/2021
+3.048,00
+3.048,00
+n?o
++0,00
+2
+122681
+metalur brasil
+ind. e com. d
+metais ltda
+25/10/2021
+25/10/2021
+6.028,67
+6.028,67
+n?o
++0,00
+2
+122570
+sysbuilding
+const e
+empreend ltda
+25/10/2021
+25/10/2021
+6.200,00
+6.200,00
+n?o
++0,00
+2
+121187
+tempermax
+ind.comer.vidros
+temp.ltda
+25/10/2021
+25/10/2021
+9.275,00
+9.275,00
+n?o
++0,00
+2
+124663
+prime esquadrias
+de aluminio- eireli
+26/10/2021
+26/10/2021
+150,00
+150,00
+n?o
++0,00
+2
+122029
+vmx do brasil
+industria e
+comercio ltda
+26/10/2021
+26/10/2021
+379,33
+379,33
+n?o
++0,00
+2
+122044
+metalurgica
+indumepi eireli
+26/10/2021
+26/10/2021
+406,67
+406,67
+n?o
++0,00
+2
+122040
+metalgregorio
+galvanoplastia
+ltda
+26/10/2021
+26/10/2021
+408,00
+408,00
+n?o
++0,00
+2
+122028
+vmx do brasil
+industria e
+comercio ltda
+26/10/2021
+26/10/2021
+465,00
+465,00
+n?o
++0,00
+2
+122033
+wesley felipe
+pinto
+26/10/2021
+26/10/2021
+559,00
+559,00
+n?o
++0,00
+2
+122030
+nla
+latinoamerica
+logistica ltda
+26/10/2021
+26/10/2021
+625,00
+625,00
+n?o
++0,00
+2
+p418721
+vlademir paes
+servicos
+26/10/2021
+26/10/2021
+1.225,00
+1.225,00
+n?o
++0,00
+2
+122032
+dmv pecas
+de precisao
+industrial ltda
+me
+26/10/2021
+22/10/2021
+1.256,70
+1.256,70
+n?o
++0,00
+2
+122034
+montag servicos
+de eletricidade
+eireli
+26/10/2021
+28/10/2021
+1.267,67
+1.275,27
+n?o
++7,60
+2
+122026
+irineu dias
+camargo - epp
+26/10/2021
+18/10/2021
+1.478,80
+1.478,80
+n?o
++0,00
+2
+122043
+perfil color
+pinturas
+eletrostatica
+ltda
+26/10/2021
+26/10/2021
+2.548,00
+2.548,00
+n?o
++0,00
+2
+124443
+ind pgg tecnol em
+arames e cabos
+esp
+27/10/2021
+27/10/2021
+84,00
+84,00
+n?o
++0,00
+2
+123505
+rv solucoes
+industriais ltda
+27/10/2021
+27/10/2021
+116,00
+116,00
+n?o
++0,00
+2
+123889
+ferraduras
+brasil ind e com
+ltda
+27/10/2021
+27/10/2021
+156,08
+156,08
+n?o
++0,00
+2
+123413
+boni fab. de pecas
+e equip. ind. ltda
+27/10/2021
+27/10/2021
+156,97
+156,97
+n?o
++0,00
+2
+123503
+biolub quimica
+ltda epp
+27/10/2021
+27/10/2021
+174,50
+174,50
+n?o
++0,00
+2
+123554
+tubokraft
+industria com de
+tubetes ltda
+27/10/2021
+27/10/2021
+209,54
+209,54
+n?o
++0,00
+2
+123535
+label ind de etiq
+rot adesivos e
+editora
+27/10/2021
+26/10/2021
+263,00
+263,00
+n?o
++0,00
+2
+123540
+pl moveis e
+decoracoes ltda
+27/10/2021
+27/10/2021
+265,00
+265,00
+n?o
++0,00
+2
+123405
+rochaforte
+transportes e
+servicos eireli
+27/10/2021
+27/10/2021
+275,00
+275,00
+n?o
++0,00
+2
+123393
+link cold ind e
+com ltda epp
+27/10/2021
+27/10/2021
+427,00
+427,00
+n?o
++0,00
+2
+123417
+ciclo ligas ind
+com rec meta e
+plas ltda
+27/10/2021
+22/10/2021
+438,34
+438,34
+n?o
++0,00
+2
+123382
+cozimaq artigos
+p hotelaria e pani
+ltda
+27/10/2021
+27/10/2021
+450,00
+450,00
+n?o
++0,00
+2
+123379
+salim ind. e com.
+de moveis ltda
+27/10/2021
+27/10/2021
+454,06
+454,06
+n?o
++0,00
+2
+123372
+luis gomes do
+nascimento me
+27/10/2021
+25/10/2021
+489,50
+489,50
+n?o
++0,00
+2
+122224
+valfermold ind.
+de ferramentas
+eireli
+27/10/2021
+27/10/2021
+512,00
+512,00
+n?o
++0,00
+2
+123551
+rv solucoes
+industriais ltda
+27/10/2021
+27/10/2021
+516,00
+516,00
+n?o
++0,00
+2
+123386
+bruver ind
+mecanica ltda me
+27/10/2021
+27/10/2021
+576,23
+576,23
+n?o
++0,00
+2
+123377
+metalurgica
+indumepi eireli
+27/10/2021
+27/10/2021
+610,00
+610,00
+n?o
++0,00
+2
+123205
+tectyres ind.
+com. ltda
+27/10/2021
+27/10/2021
+666,93
+666,93
+n?o
++0,00
+2
+123387
+jvr industria e
+metal mecanica
+ltda
+27/10/2021
+27/10/2021
+695,00
+695,00
+n?o
++0,00
+2
+123389
+rps spool
+service - fab. e
+ref. ind ltda
+27/10/2021
+28/10/2021
+733,34
+735,54
+n?o
++2,20
+2
+123531
+metalac sps ind. e
+com. ltda
+27/10/2021
+27/10/2021
+744,00
+744,00
+n?o
++0,00
+2
+123391
+usiprema
+industria
+mecanica ltda
+27/10/2021
+27/10/2021
+820,00
+820,00
+n?o
++0,00
+2
+123383
+wts - water
+treatment syst
+eng c equip
+27/10/2021
+25/10/2021
+835,00
+835,00
+n?o
++0,00
+2
+123532
+siqueira campos
+construcoes
+ltda me
+27/10/2021
+27/10/2021
+872,00
+872,00
+n?o
++0,00
+2
+123565
+prettl ind. de
+compon. aut. do
+br ltda
+27/10/2021
+28/10/2021
+892,05
+892,05
+n?o
++0,00
+2
+123390
+b'four usin.fab.
+de pec.usi. ltda-
+epp
+27/10/2021
+27/10/2021
+899,16
+899,16
+n?o
++0,00
+2
+123394
+ind pgg tecnol em
+arames e cabos
+esp
+27/10/2021
+27/10/2021
+948,40
+948,40
+n?o
++0,00
+2
+123416
+granimar ltda me
+27/10/2021
+27/10/2021
+1.015,66
+1.015,66
+n?o
++0,00
+2
+123392
+usiprema
+industria
+mecanica ltda
+27/10/2021
+27/10/2021
+1.026,47
+1.026,47
+n?o
++0,00
+2
+122200
+rv solucoes
+industriais ltda
+27/10/2021
+27/10/2021
+1.080,00
+1.080,00
+n?o
++0,00
+2
+123550
+endy inspecao e
+servicos eireli
+27/10/2021
+27/10/2021
+1.155,00
+1.155,00
+n?o
++0,00
+2
+123399
+fersol industria
+e comercio s/a
+27/10/2021
+26/10/2021
+1.185,00
+1.185,00
+n?o
++0,00
+2
+123414
+andrade e costa
+sorocaba ltda
+27/10/2021
+27/10/2021
+1.267,34
+1.267,34
+n?o
++0,00
+2
+123401
+aspmaq
+fabricacao d maq.
+e equip. eireli
+27/10/2021
+27/10/2021
+1.271,66
+1.271,66
+n?o
++0,00
+2
+123400
+carbotex quimica
+ind com e part
+ltda
+27/10/2021
+27/10/2021
+1.344,00
+1.344,00
+n?o
++0,00
+2
+123407
+4m comercio de
+toldos ltda - me
+27/10/2021
+27/10/2021
+1.481,25
+1.481,25
+n?o
++0,00
+2
+123411
+souzaesantos
+trade and
+service eireli me
+27/10/2021
+27/10/2021
+1.643,22
+1.643,22
+n?o
++0,00
+2
+123381
+tecstamp
+metalurgica
+ltda-epp
+27/10/2021
+27/10/2021
+1.760,66
+1.760,66
+n?o
++0,00
+2
+121775
+mettral
+componentes
+industriais ltda
+27/10/2021
+27/10/2021
+1.844,00
+1.844,00
+n?o
++0,00
+2
+123415
+sat sistema de
+automacao e
+tecn ltda
+27/10/2021
+26/10/2021
+2.700,00
+2.700,00
+n?o
++0,00
+2
+123384
+metal works
+usinagem de
+precisao ltda
+27/10/2021
+26/10/2021
+2.798,37
+2.798,37
+n?o
++0,00
+2
+122430
+varroc do brasil
+ind. e com. ltda
+27/10/2021
+27/10/2021
+3.380,00
+3.380,00
+n?o
++0,00
+2
+123412
+teodoro alberto
+spina e outros
+27/10/2021
+27/10/2021
+3.900,00
+3.900,00
+n?o
++0,00
+2
+123376
+mpd service com
+e servicos eireli
+me
+27/10/2021
+27/10/2021
+4.187,00
+4.187,00
+n?o
++0,00
+2
+123375
+transsal
+comercio e
+transporte ltda
+27/10/2021
+27/10/2021
+4.354,34
+4.354,34
+n?o
++0,00
+2
+123385
+usinagem fort ind
+come prod met
+ltda me
+27/10/2021
+27/10/2021
+4.987,46
+4.987,46
+n?o
++0,00
+2
+123427
+m.e. holding
+administracao de
+bens ltda
+27/10/2021
+25/10/2021
+6.693,34
+6.693,34
+n?o
++0,00
+2
+123402
+ibanhez servicos
+industriais eireli
+me
+27/10/2021
+27/10/2021
+7.396,60
+7.396,60
+n?o
++0,00
+2
+124322
+enginstrel
+engematic
+instrum. ltda
+28/10/2021
+28/10/2021
+11,72
+11,72
+n?o
++0,00
+2
+124299
+basseifer ind
+e co. de mat. p
+const ltda
+28/10/2021
+28/10/2021
+75,00
+75,00
+n?o
++0,00
+2
+124094
+msa ltda me
+28/10/2021
+28/10/2021
+146,14
+146,14
+n?o
++0,00
+2
+124090
+onerom empre
+e participacoes
+ltda
+28/10/2021
+26/10/2021
+152,00
+152,00
+n?o
++0,00
+2
+123509
+valcom comercio
+de equipamentos
+ltda.
+28/10/2021
+28/10/2021
+264,00
+264,00
+n?o
++0,00
+2
+123419
+cobsen ltda
+28/10/2021
+28/10/2021
+470,00
+470,00
+n?o
++0,00
+2
+122675
+joao carlos
+lisboa
+serralheria me
+28/10/2021
+28/10/2021
+530,00
+530,00
+n?o
++0,00
+2
+123033
+cobsen ltda
+28/10/2021
+28/10/2021
+642,00
+642,00
+n?o
++0,00
+2
+122632
+mea modul ltda
+epp
+28/10/2021
+28/10/2021
+699,99
+699,99
+n?o
++0,00
+2
+122664
+marcia gomes
+stancker leal me
+28/10/2021
+25/10/2021
+843,33
+843,33
+n?o
++0,00
+2
+122651
+ipanema
+distribuidora
+ltda
+28/10/2021
+28/10/2021
+1.050,00
+1.050,00
+n?o
++0,00
+2
+122652
+ipanema
+distribuidora
+ltda
+28/10/2021
+28/10/2021
+1.050,00
+1.050,00
+n?o
++0,00
+2
+122698
+usiprema
+industria
+mecanica ltda
+28/10/2021
+28/10/2021
+1.283,33
+1.283,33
+n?o
++0,00
+2
+122642
+oal maquinas
+industriais ltda.
+28/10/2021
+27/10/2021
+1.447,06
+1.447,06
+n?o
++0,00
+2
+122686
+agua brasil com
+e manut de pocos
+artesia
+28/10/2021
+27/10/2021
+1.496,60
+1.496,60
+n?o
++0,00
+2
+122655
+usiprema
+industria
+mecanica ltda
+28/10/2021
+28/10/2021
+1.799,85
+1.799,85
+n?o
++0,00
+2
+122640
+athox con. eng.
+em p. m.c.a. m. de
+m. in
+28/10/2021
+28/10/2021
+1.974,00
+1.974,00
+n?o
++0,00
+2
+122693
+ciclo ligas ind
+com rec meta e
+plas ltda
+28/10/2021
+25/10/2021
+3.411,33
+3.411,33
+n?o
++0,00
+2
+122683
+viclauzer ind
+e com de prod
+metalurgicos
+28/10/2021
+28/10/2021
+4.986,30
+4.986,30
+n?o
++0,00
+2
+123668
+metalac sps ind. e
+com. ltda
+29/10/2021
+29/10/2021
+21,00
+21,00
+n?o
++0,00
+2
+123647
+itangua soldas
+ltda epp
+29/10/2021
+29/10/2021
+143,87
+143,87
+n?o
++0,00
+2
+123508
+antonio a r de
+paula me
+29/10/2021
+29/10/2021
+293,68
+293,68
+n?o
++0,00
+2
+123658
+tecnagem
+industria e com
+ltda me
+29/10/2021
+29/10/2021
+296,34
+296,34
+n?o
++0,00
+2
+123652
+gotesp
+equipamentos p
+embalagens ltda
+29/10/2021
+29/10/2021
+333,80
+333,80
+n?o
++0,00
+2
+123635
+luis gomes do
+nascimento me
+29/10/2021
+26/10/2021
+395,00
+395,00
+n?o
++0,00
+2
+123672
+delpak
+embalagens ltda
+29/10/2021
+29/10/2021
+408,00
+408,00
+n?o
++0,00
+2
+123562
+mc components
+c para moldes e
+maq ltda
+29/10/2021
+26/10/2021
+420,85
+420,85
+n?o
++0,00
+2
+122337
+gotesp
+equipamentos p
+embalagens ltda
+29/10/2021
+29/10/2021
+423,10
+423,10
+n?o
++0,00
+2
+123539
+construcoes
+j. cardoso
+sorocaba ltda.
+29/10/2021
+29/10/2021
+432,34
+432,34
+n?o
++0,00
+2
+123641
+mpd service com
+e servicos eireli
+me
+29/10/2021
+29/10/2021
+441,40
+441,40
+n?o
++0,00
+2
+123559
+lucas lima aguiar
+22780036826
+29/10/2021
+29/10/2021
+446,00
+446,00
+n?o
++0,00
+2
+123673
+delpak
+embalagens ltda
+29/10/2021
+29/10/2021
+458,00
+458,00
+n?o
++0,00
+2
+123502
+municipio
+de salto de
+pirapora
+29/10/2021
+29/10/2021
+480,00
+480,00
+n?o
++0,00
+2
+123561
+mc components
+c para moldes e
+maq ltda
+29/10/2021
+26/10/2021
+509,92
+509,92
+n?o
++0,00
+2
+123549
+uniron industria
+e comercio ltda
+29/10/2021
+29/10/2021
+530,00
+530,00
+n?o
++0,00
+2
+123566
+design somma
+moveis e
+decoracoes ltda
+29/10/2021
+29/10/2021
+534,50
+534,50
+n?o
++0,00
+2
+122101
+gama-tec
+equipamentos
+industriais ltda
+29/10/2021
+29/10/2021
+545,67
+545,67
+n?o
++0,00
+2
+122331
+gotesp
+equipamentos p
+embalagens ltda
+29/10/2021
+29/10/2021
+576,14
+576,14
+n?o
++0,00
+2
+122122
+wts - water
+treatment syst
+eng c equip
+29/10/2021
+29/10/2021
+592,00
+592,00
+n?o
++0,00
+2
+123648
+itangua soldas
+ltda epp
+29/10/2021
+29/10/2021
+610,18
+610,18
+n?o
++0,00
+2
+123677
+rochaforte
+transportes e
+servicos eireli
+29/10/2021
+28/10/2021
+617,00
+617,00
+n?o
++0,00
+2
+123504
+multy metal com.
+e serv. de manut
+ltda
+29/10/2021
+29/10/2021
+649,50
+649,50
+n?o
++0,00
+2
+123659
+oal maquinas
+industriais ltda.
+29/10/2021
+29/10/2021
+682,50
+682,50
+n?o
++0,00
+2
+122580
+tecstamp
+metalurgica
+ltda-epp
+29/10/2021
+29/10/2021
+700,25
+700,25
+n?o
++0,00
+2
+122111
+usiprema
+industria
+mecanica ltda
+29/10/2021
+29/10/2021
+767,46
+767,46
+n?o
++0,00
+2
+123506
+telas metalicas
+telmetal ltda
+29/10/2021
+29/10/2021
+768,00
+768,00
+n?o
++0,00
+2
+123533
+raul augusto de
+mello sorocaba
+me
+29/10/2021
+29/10/2021
+780,00
+780,00
+n?o
++0,00
+2
+123654
+sant d santa rita
+d cassia empr
+imob spe
+29/10/2021
+29/10/2021
+800,00
+800,00
+n?o
++0,00
+2
+123679
+alves fogaca e
+cia ltda
+29/10/2021
+29/10/2021
+825,00
+825,00
+n?o
++0,00
+2
+123520
+macedo e
+trindade
+equip.rodov.ltda
+epp
+29/10/2021
+29/10/2021
+841,80
+841,80
+n?o
++0,00
+2
+123546
+cozimaq artigos
+p hotelaria e pani
+ltda
+29/10/2021
+28/10/2021
+845,00
+845,00
+n?o
++0,00
+2
+122091
+vimam
+projetos serv
+equipamentos
+eireli
+29/10/2021
+28/10/2021
+891,50
+891,50
+n?o
++0,00
+2
+123527
+tecnofix ind.
+e come. de
+parafusos ltda
+29/10/2021
+29/10/2021
+896,00
+896,00
+n?o
++0,00
+2
+123567
+metalurgica
+metaltru ltda
+29/10/2021
+29/10/2021
+952,00
+952,00
+n?o
++0,00
+2
+123526
+tecstamp
+metalurgica
+ltda-epp
+29/10/2021
+29/10/2021
+1.040,00
+1.040,00
+n?o
++0,00
+2
+123558
+edificio unique
+jardini spe ltda
+29/10/2021
+29/10/2021
+1.058,50
+1.058,50
+n?o
++0,00
+2
+123515
+matsuko
+industria ltda
+29/10/2021
+29/10/2021
+1.295,00
+1.295,00
+n?o
++0,00
+2
+123514
+condex industria
+e comercio ltda
+29/10/2021
+29/10/2021
+1.383,00
+1.383,00
+n?o
++0,00
+2
+123507
+meta comercial
+ltda
+29/10/2021
+28/10/2021
+1.450,00
+1.450,00
+n?o
++0,00
+2
+122088
+ntec usinagens
+ltda me
+29/10/2021
+29/10/2021
+1.602,58
+1.602,58
+n?o
++0,00
+2
+122126
+resolution
+constr. e
+montagens ind.
+eire
+29/10/2021
+29/10/2021
+1.701,50
+1.701,50
+n?o
++0,00
+2
+122090
+vimam
+projetos serv
+equipamentos
+eireli
+29/10/2021
+28/10/2021
+2.133,51
+2.133,51
+n?o
++0,00
+2
+122103
+techtextil
+tecidos tecnicos
+ltda
+29/10/2021
+27/10/2021
+2.434,67
+2.434,67
+n?o
++0,00
+2
+123563
+rondon ind. com.
+de equip. p. avi.
+ltda
+29/10/2021
+29/10/2021
+3.107,20
+3.107,20
+n?o
++0,00
+2
+122129
+oal maquinas
+industriais ltda.
+29/10/2021
+29/10/2021
+3.760,24
+3.760,24
+n?o
++0,00
+2
+123541
+gdefi solucoes
+equip. ind. ltda
+29/10/2021
+29/10/2021
+4.320,80
+4.320,80
+n?o
++0,00
+2
+123536
+heat a c com imp
+serv de eqp pro
+al ltda
+29/10/2021
+29/10/2021
+4.414,42
+4.414,42
+n?o
++0,00
+2
+123522
+igor souza godoy
+sorocaba
+29/10/2021
+29/10/2021
+5.915,00
+5.915,00
+n?o
++0,00
+2
+122110
+vg goncalves
+participacoes
+ltda.
+29/10/2021
+29/10/2021
+12.454,96
+12.454,96
+n?o
++0,00
+2
+123543
+magnanimo com.
+importacao e exp.
+ltda
+29/10/2021
+29/10/2021
+13.607,50
+13.607,50
+n?o
++0,00
+2
+124241
+crivalaro
+ferramentaria
+ltda
+30/10/2021
+29/10/2021
+117,60
+117,60
+n?o
++0,00
+2
+122801
+gdefi solucoes
+equip. ind. ltda
+30/10/2021
+29/10/2021
+1.106,01
+1.106,01
+n?o
++0,00
+2
+123662
+oal maquinas
+industriais ltda.
+31/10/2021
+29/10/2021
+195,77
+195,77
+n?o
++0,00
+2
+123663
+oal maquinas
+industriais ltda.
+31/10/2021
+29/10/2021
+220,78
+220,78
+n?o
++0,00
+2
+123660
+oal maquinas
+industriais ltda.
+31/10/2021
+29/10/2021
+272,26
+272,26
+n?o
++0,00
+2
+123675
+crivalaro
+ferramentaria
+ltda
+31/10/2021
+29/10/2021
+450,28
+450,28
+n?o
++0,00
+2
+123664
+oal maquinas
+industriais ltda.
+31/10/2021
+29/10/2021
+535,23
+535,23
+n?o
++0,00
+2
+123633
+ass. part. do
+complex. fazenda
+boa vista
+31/10/2021
+29/10/2021
+558,00
+558,00
+n?o
++0,00
+2
+122211
+proteq protecao
+e qualidade ltda
+me
+31/10/2021
+26/10/2021
+614,50
+614,50
+n?o
++0,00
+2
+123665
+oal maquinas
+industriais ltda.
+31/10/2021
+29/10/2021
+668,05
+668,05
+n?o
++0,00
+2
+123656
+retentores
+sorocaba ltda
+31/10/2021
+29/10/2021
+710,00
+710,00
+n?o
++0,00
+2
+123670
+coop fer
+comercial ltda
+epp
+31/10/2021
+28/10/2021
+727,50
+727,50
+n?o
++0,00
+2
+123636
+brusin ind com e
+usinagem de pc
+ltda
+31/10/2021
+29/10/2021
+1.088,00
+1.088,00
+n?o
++0,00
+2
+122185
+brio lar londres
+incorporadora
+spe ltda
+31/10/2021
+29/10/2021
+1.119,33
+1.119,33
+n?o
++0,00
+2
+123661
+oal maquinas
+industriais ltda.
+31/10/2021
+29/10/2021
+1.215,73
+1.215,73
+n?o
++0,00
+2
+122194
+steelmax constr.
+ind. e com. ltda
+31/10/2021
+29/10/2021
+1.288,00
+1.288,00
+n?o
++0,00
+2
+123645
+vmc rubber
+ind. e com. de
+borrachas ltda
+31/10/2021
+29/10/2021
+1.438,00
+1.438,00
+n?o
++0,00
+2
+122192
+kubik containers
+ltda
+31/10/2021
+28/10/2021
+1.529,92
+1.529,92
+n?o
++0,00
+2
+122170
+associacao
+brasil sgi.
+31/10/2021
+29/10/2021
+2.233,33
+2.233,33
+n?o
++0,00
+2
+124578
+clayton roberto
+gimenes epp
+01/11/2021
+25/10/2021
+99,00
+99,00
+n?o
++0,00
+2
+123524
+w.s.g.v - consult.
+e manut. ind. ltda
+01/11/2021
+27/10/2021
+1.226,66
+1.226,66
+n?o
++0,00
+2
+121902
+th investimentos
+imobiliarios ltda
+03/11/2021
+05/10/2021
+10.955,00
+10.955,00
+n?o
++0,00
+2
+123975
+igreja evang
+assembleia de
+deus
+04/11/2021
+29/10/2021
+1.009,00
+1.009,00
+n?o
++0,00
+2
+123885
+marcia gomes
+stancker leal me
+05/11/2021
+26/10/2021
+975,00
+975,00
+n?o
++0,00
+2
+122451
+raul augusto de
+mello sorocaba
+me
+07/11/2021
+07/10/2021
+354,00
+354,00
+n?o
++0,00
+2
+122448
+novaes
+engenharia e
+construcoes
+ltda
+07/11/2021
+29/10/2021
+2.000,00
+2.000,00
+n?o
++0,00
+2
+124056
+ferreira develes
+ltda
+08/11/2021
+29/10/2021
+323,24
+323,24
+n?o
++0,00
+2
+123758
+raul augusto de
+mello sorocaba
+me
+18/11/2021
+19/10/2021
+705,00
+705,00
+n?o
++0,00
+2
+124588
+pert servicos em
+obras ltda
+19/11/2021
+27/10/2021
+355,00
+355,00
+n?o
++0,00
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco
+ bradesco

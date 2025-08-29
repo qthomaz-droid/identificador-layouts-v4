@@ -1,0 +1,3289 @@
+estabelecimento:
+sindu - sistemas industriais
+27/08/2024
+emitido em:
+03:20
+às:
+relatório de duplicatas à pagar por centro de custo e despesas
+refn_dcd
+data  inicial:
+01/01/2024
+data final: 31/12/2024
+1
+c.custo inicial: 0
+c.custo final: 99999
+despesa inicial: 0
+despesa final: 99999
+página 
+de
+1
+7
+estabelecimento:
+1 - vds metalurgica ltda
+1 - rh                            
+2 - vendas                        
+3 - administrativo                
+centro de custo:
+centro de custo:
+centro de custo:
+5
+1
+ 41,040.52
+ 305,894.21
+52
+4
+1 - salarios
+4 - convenio saude
+7 - fgts
+8 - gps
+14 - epi
+1 - vendas
+4 - honorarios
+despesa
+despesa
+despesa
+11/12/2023
+11/12/2023
+30/01/2024
+24/01/2024
+02/02/2024
+26/01/2024
+26/01/2024
+26/01/2024
+28/03/2024
+02/04/2024
+20/05/2024
+22/05/2024
+23/04/2024
+30/04/2024
+28/05/2024
+12/07/2024
+11/07/2024
+13/06/2024
+19/06/2024
+09/07/2024
+01/07/2024
+05/07/2024
+09/07/2024
+09/08/2024
+13/08/2024
+08/01/2024
+07/12/2023
+11/01/2024
+15/02/2024
+13/03/2024
+12/04/2024
+15/05/2024
+11/06/2024
+12/07/2024
+31/12/2023
+15/01/2024
+31/01/2024
+29/02/2024
+31/03/2024
+30/04/2024
+31/05/2024
+30/06/2024
+31/07/2024
+31/12/2023
+31/01/2024
+29/02/2024
+31/03/2024
+30/04/2024
+31/05/2024
+30/06/2024
+31/01/2024
+16/05/2024
+15/05/2024
+31/05/2024
+30/06/2024
+31/07/2024
+04/12/2023
+24/01/2024
+22/02/2024
+21/03/2024
+dt emissão
+dt emissão
+dt emissão
+4415/1
+4415/2
+7337/1
+4589/1
+7350/1
+4606/1
+4606/2
+4606/3
+4999/1
+79555/1
+20976/1
+281/1
+80133/1
+23498/1
+5384/1
+890/1
+8708579/1
+81651/1
+5514/1
+1067/1
+82163/1
+460391/1
+1067/2
+9473/1
+8833424/1
+4486/1
+24666/1
+25046/1
+25468/1
+25890/1
+26346/1
+26788/13
+27249/1
+27727/1
+122023/1
+28657/1
+12024/1
+22024/1
+32024/1
+42024/1
+52024/1
+62024/1
+72024/1
+122023/1
+12024/1
+22024/1
+32024/1
+42024/1
+52024/1
+62024/1
+771612/1
+3603/1
+367008/1
+168896/1
+170516/1
+171953/1
+9325/1
+9524/1
+9727/1
+9926/1
+duplic
+duplic
+duplic
+05/01/2024
+12/01/2024
+26/01/2024
+20/02/2024
+22/02/2024
+22/02/2024
+29/02/2024
+07/03/2024
+25/04/2024
+01/05/2024
+21/05/2024
+22/05/2024
+23/05/2024
+28/05/2024
+25/06/2024
+12/07/2024
+12/07/2024
+13/07/2024
+17/07/2024
+24/07/2024
+31/07/2024
+02/08/2024
+08/08/2024
+09/08/2024
+14/08/2024
+05/12/2024
+10/01/2024
+10/02/2024
+10/03/2024
+10/04/2024
+10/05/2024
+10/06/2024
+10/07/2024
+10/08/2024
+07/01/2024
+19/01/2024
+20/02/2024
+07/03/2024
+19/04/2024
+20/05/2024
+20/06/2024
+19/07/2024
+20/08/2024
+19/01/2024
+20/02/2024
+20/03/2024
+19/04/2024
+20/05/2024
+20/06/2024
+19/07/2024
+27/02/2024
+13/06/2024
+20/05/2024
+12/06/2024
+10/07/2024
+10/08/2024
+10/01/2024
+15/02/2024
+10/03/2024
+15/04/2024
+dt venc
+dt venc
+dt venc
+ 2,074.79
+ 2,074.78
+ 33.96
+ 265.00
+ 553.92
+ 1,759.09
+ 1,759.09
+ 1,759.09
+ 897.60
+ 237.17
+ 879.99
+ 1,000.00
+ 54.62
+ 298.58
+ 372.00
+ 480.00
+ 480.00
+ 22.50
+ 580.00
+ 1,702.90
+ 140.00
+ 1,605.36
+ 1,660.00
+ 120.00
+ 552.00
+ 1,799.62
+ 92.70
+ 92.70
+ 92.70
+ 92.70
+ 123.60
+ 308.55
+ 123.60
+ 92.70
+ 683.23
+ 629.30
+ 515.36
+ 402.40
+ 486.74
+ 680.68
+ 655.29
+ 456.41
+ 519.65
+ 629.30
+ 734.56
+ 637.74
+ 717.15
+ 991.70
+ 3,758.17
+ 2,882.88
+ 838.65
+ 640.00
+ 88.00
+ 108,011.07
+ 99,530.16
+ 98,264.99
+ 660.00
+ 706.00
+ 706.00
+ 706.00
+valor(r$)
+valor(r$)
+valor(r$)
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+juros(r$)
+juros(r$)
+juros(r$)
+235
+228
+214
+189
+187
+187
+180
+173
+124
+118
+98
+97
+96
+91
+63
+46
+46
+45
+41
+34
+27
+25
+19
+18
+13
+-100
+230
+199
+170
+139
+109
+78
+48
+17
+233
+221
+189
+173
+130
+99
+68
+39
+7
+221
+189
+160
+130
+99
+68
+39
+182
+75
+99
+76
+48
+17
+230
+194
+170
+134
+atraso
+atraso
+atraso
+fornecedor
+fornecedor
+fornecedor
+550 - riopack embalagens ind com e r
+550 - riopack embalagens ind com e r
+563 - inox mundial comercio de metai
+550 - riopack embalagens ind com e r
+563 - inox mundial comercio de metai
+550 - riopack embalagens ind com e r
+550 - riopack embalagens ind com e r
+550 - riopack embalagens ind com e r
+550 - riopack embalagens ind com e r
+294 - je ferragens ltda
+700 - vulcanshop moto pecas e acesso
+702 - olanda felicio de campos de fr
+294 - je ferragens ltda
+696 - phg automacao industrial ltda.
+550 - riopack embalagens ind com e r
+463 - rango in box restaurante ltda
+463 - rango in box restaurante ltda
+294 - je ferragens ltda
+550 - riopack embalagens ind com e r
+726 - tuboarte hidraulicos ltda
+294 - je ferragens ltda
+722 - conte distribuidora de acos sa
+726 - tuboarte hidraulicos ltda
+730 - alvo visual impressao e transp
+463 - rango in box restaurante ltda
+550 - riopack embalagens ind com e r
+86 - centro medico oxford ltda
+86 - centro medico oxford ltda
+86 - centro medico oxford ltda
+86 - centro medico oxford ltda
+86 - centro medico oxford ltda
+86 - centro medico oxford ltda
+86 - centro medico oxford ltda
+86 - centro medico oxford ltda
+43 - fgts - ministerio da fazendo
+43 - fgts - ministerio da fazendo
+43 - fgts - ministerio da fazendo
+43 - fgts - ministerio da fazendo
+43 - fgts - ministerio da fazendo
+43 - fgts - ministerio da fazendo
+43 - fgts - ministerio da fazendo
+43 - fgts - ministerio da fazendo
+43 - fgts - ministerio da fazendo
+40 - gps guia da previdencia social
+40 - gps guia da previdencia social
+40 - gps guia da previdencia social
+40 - gps guia da previdencia social
+40 - gps guia da previdencia social
+40 - gps guia da previdencia social
+40 - gps guia da previdencia social
+412 - wurth do brasil pecas de fixac
+501 - dimex produtos e serviços ltda
+229 - expresso sao miguel ltda - sar
+34 - companhia de gas de santa cata
+34 - companhia de gas de santa cata
+34 - companhia de gas de santa cata
+465 - sucesso contabilidade ltda
+465 - sucesso contabilidade ltda
+465 - sucesso contabilidade ltda
+465 - sucesso contabilidade ltda
+total (r$)
+total (r$)
+duplicatas:
+duplicatas:
+total por centro de custo:
+total por centro de custo:
+despesas:
+despesas:
+22/12/2023
+09/01/2024
+05/02/2024
+15/02/2024
+16/02/2024
+16/02/2024
+16/02/2024
+27/02/2024
+24/04/2024
+25/05/2024
+23/05/2024
+21/05/2024
+10/06/2024
+23/05/2024
+21/06/2024
+12/07/2024
+12/07/2024
+15/07/2024
+15/07/2024
+24/07/2024
+24/07/2024
+29/07/2024
+06/08/2024
+14/08/2024
+14/08/2024
+05/02/2024
+08/01/2024
+07/02/2024
+08/03/2024
+08/04/2024
+08/05/2024
+05/06/2024
+08/07/2024
+06/08/2024
+08/01/2024
+15/01/2024
+09/02/2024
+08/03/2024
+16/04/2024
+15/05/2024
+18/06/2024
+18/07/2024
+15/08/2024
+16/01/2024
+15/02/2024
+08/03/2024
+16/04/2024
+15/05/2024
+18/06/2024
+18/07/2024
+16/02/2024
+10/06/2024
+15/05/2024
+10/06/2024
+10/07/2024
+12/08/2024
+08/01/2024
+14/02/2024
+08/03/2024
+08/04/2024
+dt pagto
+dt pagto
+dt pagto
+status
+status
+status
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+estabelecimento:
+sindu - sistemas industriais
+27/08/2024
+emitido em:
+03:20
+às:
+relatório de duplicatas à pagar por centro de custo e despesas
+refn_dcd
+data  inicial:
+01/01/2024
+data final: 31/12/2024
+1
+c.custo inicial: 0
+c.custo final: 99999
+despesa inicial: 0
+despesa final: 99999
+página 
+de
+2
+7
+estabelecimento:
+1 - vds metalurgica ltda
+3 - administrativo                
+4 - fabrica                       
+centro de custo:
+centro de custo:
+3
+ 30,244.14
+18
+4 - honorarios
+12 - multa transito
+13 - comissao de venda
+1 - ferramentas manutencao
+2 - ferramentas para ind
+despesa
+despesa
+22/04/2024
+04/06/2024
+22/05/2024
+26/06/2024
+01/08/2024
+01/08/2024
+10/01/2024
+10/01/2024
+10/01/2024
+28/03/2024
+21/05/2024
+21/05/2024
+04/06/2024
+08/07/2024
+19/01/2024
+27/02/2024
+17/05/2024
+07/12/2023
+19/12/2023
+18/12/2023
+20/12/2023
+15/01/2024
+18/01/2024
+18/01/2024
+25/01/2024
+30/01/2024
+15/02/2024
+09/02/2024
+02/02/2024
+08/02/2024
+19/02/2024
+19/02/2024
+05/03/2024
+21/02/2024
+27/02/2024
+01/03/2024
+12/03/2024
+02/04/2024
+08/03/2024
+13/03/2024
+15/03/2024
+15/03/2024
+10/04/2024
+18/03/2024
+21/03/2024
+21/03/2024
+12/04/2024
+01/04/2024
+01/04/2024
+05/04/2024
+02/04/2024
+09/04/2024
+05/04/2024
+12/04/2024
+12/04/2024
+16/04/2024
+17/04/2024
+17/04/2024
+17/04/2024
+24/04/2024
+24/04/2024
+23/04/2024
+24/04/2024
+22/04/2024
+24/04/2024
+22/04/2024
+dt emissão
+dt emissão
+10118/1
+473/1
+10309/1
+10513/1
+6977/1
+10705/1
+40536/1
+40537/1
+42547/1
+690/1
+2105/1
+2105/2
+4/1
+9/1
+38516/1
+38824/1
+39551/1
+1967/1
+1996/1
+2005/1
+2022/1
+173337/1
+2084/1
+2085/1
+2112/1
+174602/1
+2126/1
+2137/1
+2155/1
+2166/1
+2192/1
+2197/1
+177179/1
+2222/1
+2251/1
+2264/1
+2275/1
+178507/1
+2781/1
+2827/1
+2849/1
+2857/1
+2316/1
+2881/1
+2331/1
+2340/1
+180571/1
+2360/1
+81335/1
+2382/1
+3026/1
+2397/1
+3077/1
+2424/1
+3153/1
+83330/1
+2444/1
+2446/1
+83537/1
+2455/1
+2461/1
+182699/1
+2463/1
+3247/1
+2479/1
+3283/1
+duplic
+duplic
+15/05/2024
+03/06/2024
+10/06/2024
+10/07/2024
+10/08/2024
+15/08/2024
+31/01/2024
+31/01/2024
+31/01/2024
+28/03/2024
+05/04/2024
+11/04/2024
+04/06/2024
+08/07/2024
+15/02/2024
+22/03/2024
+07/06/2024
+02/01/2024
+09/01/2024
+11/01/2024
+16/01/2024
+07/02/2024
+13/02/2024
+14/02/2024
+20/02/2024
+21/02/2024
+22/02/2024
+27/02/2024
+29/02/2024
+05/03/2024
+11/03/2024
+13/03/2024
+20/03/2024
+20/03/2024
+26/03/2024
+28/03/2024
+01/04/2024
+03/04/2024
+07/04/2024
+09/04/2024
+11/04/2024
+11/04/2024
+11/04/2024
+12/04/2024
+16/04/2024
+18/04/2024
+24/04/2024
+24/04/2024
+25/04/2024
+30/04/2024
+01/05/2024
+03/05/2024
+04/05/2024
+09/05/2024
+11/05/2024
+13/05/2024
+14/05/2024
+15/05/2024
+15/05/2024
+16/05/2024
+16/05/2024
+17/05/2024
+17/05/2024
+18/05/2024
+21/05/2024
+22/05/2024
+dt venc
+dt venc
+ 706.00
+ 318.00
+ 706.00
+ 706.00
+ 700.00
+ 706.00
+ 130.16
+ 130.16
+ 133.82
+ 5,680.00
+ 3,900.00
+ 4,650.00
+ 7,350.00
+ 1,650.00
+ 819.20
+ 103.99
+ 95.88
+ 385.70
+ 226.88
+ 362.18
+ 270.61
+ 195.70
+ 206.46
+ 294.95
+ 159.66
+ 391.40
+ 412.93
+ 319.32
+ 294.95
+ 749.55
+ 159.66
+ 294.95
+ 255.98
+ 909.21
+ 159.66
+ 294.95
+ 294.95
+ 391.40
+ 80.00
+ 53.48
+ 212.27
+ 55.00
+ 454.61
+ 86.09
+ 159.66
+ 454.61
+ 531.40
+ 884.85
+ 478.98
+ 366.12
+ 165.62
+ 454.61
+ 120.75
+ 367.22
+ 163.00
+ 550.82
+ 339.19
+ 1,426.97
+ 339.19
+ 367.22
+ 183.61
+ 394.78
+ 367.22
+ 238.15
+ 183.61
+ 259.42
+valor(r$)
+valor(r$)
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+juros(r$)
+juros(r$)
+104
+85
+78
+48
+17
+12
+209
+209
+209
+152
+144
+138
+84
+50
+194
+158
+81
+238
+231
+229
+224
+202
+196
+195
+189
+188
+187
+182
+180
+175
+169
+167
+160
+160
+154
+152
+148
+146
+142
+140
+138
+138
+138
+137
+133
+131
+125
+125
+124
+119
+118
+116
+115
+110
+108
+106
+105
+104
+104
+103
+103
+102
+102
+101
+98
+97
+atraso
+atraso
+fornecedor
+fornecedor
+465 - sucesso contabilidade ltda
+708 - prosperar sucessus ltda
+465 - sucesso contabilidade ltda
+465 - sucesso contabilidade ltda
+16 - lbo documentos e serviços espe
+465 - sucesso contabilidade ltda
+239 - detran sc
+239 - detran sc
+239 - detran sc
+677 - j m hanysz e cia ltda
+1 - luciano hanysz
+1 - luciano hanysz
+1 - luciano hanysz
+1 - luciano hanysz
+131 - mario mattei rolamentos e ferr
+131 - mario mattei rolamentos e ferr
+131 - mario mattei rolamentos e ferr
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+639 - kapdima comercio
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+639 - kapdima comercio
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+639 - kapdima comercio
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+639 - kapdima comercio
+523 - parafer comercial ltda - (0001
+523 - parafer comercial ltda - (0001
+523 - parafer comercial ltda - (0001
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+488 - white martins gases industriai
+639 - kapdima comercio
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+639 - kapdima comercio
+488 - white martins gases industriai
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+523 - parafer comercial ltda - (0001
+total (r$)
+duplicatas:
+total por centro de custo:
+despesas:
+08/05/2024
+03/06/2024
+05/06/2024
+08/07/2024
+06/08/2024
+13/08/2024
+17/01/2024
+17/01/2024
+17/01/2024
+28/03/2024
+21/05/2024
+21/05/2024
+25/05/2024
+13/06/2024
+15/02/2024
+20/03/2024
+28/05/2024
+22/12/2023
+08/01/2024
+09/01/2024
+15/01/2024
+07/02/2024
+14/02/2024
+14/02/2024
+15/02/2024
+16/02/2024
+16/02/2024
+16/02/2024
+16/02/2024
+27/02/2024
+08/03/2024
+13/03/2024
+16/03/2024
+16/03/2024
+22/03/2024
+26/03/2024
+28/03/2024
+03/04/2024
+08/04/2024
+08/04/2024
+10/04/2024
+10/04/2024
+10/04/2024
+10/04/2024
+15/04/2024
+08/04/2024
+24/04/2024
+24/04/2024
+24/04/2024
+24/04/2024
+26/04/2024
+26/04/2024
+29/04/2024
+08/05/2024
+08/05/2024
+14/05/2024
+14/05/2024
+14/05/2024
+14/05/2024
+14/05/2024
+14/05/2024
+14/05/2024
+14/05/2024
+15/05/2024
+15/05/2024
+18/05/2024
+dt pagto
+dt pagto
+status
+status
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+estabelecimento:
+sindu - sistemas industriais
+27/08/2024
+emitido em:
+03:20
+às:
+relatório de duplicatas à pagar por centro de custo e despesas
+refn_dcd
+data  inicial:
+01/01/2024
+data final: 31/12/2024
+1
+c.custo inicial: 0
+c.custo final: 99999
+despesa inicial: 0
+despesa final: 99999
+página 
+de
+3
+7
+estabelecimento:
+1 - vds metalurgica ltda
+4 - fabrica                       
+centro de custo:
+2 - ferramentas para ind
+3 - conservacao veiculo
+4 - combustiveis e lubrificantes
+5 - conservacao instalções
+6 - conservacao de maquinas
+despesa
+23/04/2024
+14/05/2024
+25/04/2024
+30/04/2024
+24/04/2024
+26/04/2024
+02/05/2024
+02/04/2024
+03/05/2024
+05/04/2024
+06/05/2024
+09/05/2024
+12/04/2024
+14/05/2024
+15/05/2024
+23/04/2024
+16/05/2024
+23/04/2024
+15/05/2024
+22/04/2024
+20/05/2024
+22/05/2024
+23/05/2024
+17/05/2024
+28/05/2024
+04/06/2024
+05/06/2024
+17/05/2024
+11/06/2024
+13/06/2024
+13/06/2024
+15/05/2024
+22/04/2024
+20/06/2024
+17/05/2024
+25/06/2024
+27/06/2024
+27/06/2024
+01/07/2024
+02/07/2024
+10/07/2024
+15/07/2024
+18/07/2024
+02/07/2024
+26/07/2024
+31/07/2024
+01/08/2024
+02/04/2024
+21/05/2024
+01/04/2024
+26/04/2024
+10/06/2024
+02/04/2024
+02/04/2024
+02/04/2024
+15/03/2024
+02/04/2024
+15/03/2024
+19/04/2024
+02/04/2024
+15/03/2024
+02/04/2024
+19/04/2024
+17/04/2024
+23/04/2024
+25/04/2024
+02/04/2024
+17/05/2024
+23/04/2024
+17/05/2024
+17/05/2024
+17/05/2024
+dt emissão
+3291/1
+32911/1
+2481/1
+2490/1
+3312/1
+232838/1
+3391/1
+3026/2
+3410/1
+3077/2
+2524/1
+2541/1
+3153/2
+2555/1
+185078/1
+3291/2
+2574/1
+182699/2
+3557/1
+3247/2
+2580/1
+3680/1
+2602/1
+946/1
+2609/1
+2642/1
+187050/1
+946/2
+2673/1
+2676/1
+3970/1
+3557/2
+3247/3
+2711/1
+946/3
+2728/1
+2743/1
+2748/1
+4214/1
+2759/1
+190636/1
+2805/1
+2828/1
+4218/1
+96328/1
+192704/1
+2884/1
+7218/1
+118417/1
+11801/1
+11842/1
+21098/1
+331869/1
+481950/1
+261/1
+1960045/1
+261/2
+19600045/2
+23172/1
+331869/2
+1960045/3
+261/3
+23203/1
+32291/1
+23215/1
+32467/1
+261/4
+214/1
+23215/2
+1988575/1
+1988575/2
+1988575/3
+duplic
+23/05/2024
+23/05/2024
+23/05/2024
+23/05/2024
+24/05/2024
+26/05/2024
+30/05/2024
+31/05/2024
+01/06/2024
+03/06/2024
+03/06/2024
+06/06/2024
+10/06/2024
+11/06/2024
+12/06/2024
+12/06/2024
+13/06/2024
+14/06/2024
+14/06/2024
+17/06/2024
+17/06/2024
+19/06/2024
+20/06/2024
+21/06/2024
+25/06/2024
+02/07/2024
+03/07/2024
+06/07/2024
+09/07/2024
+11/07/2024
+13/07/2024
+14/07/2024
+17/07/2024
+18/07/2024
+21/07/2024
+23/07/2024
+25/07/2024
+25/07/2024
+29/07/2024
+30/07/2024
+07/08/2024
+12/08/2024
+15/08/2024
+16/08/2024
+23/08/2024
+28/08/2024
+29/08/2024
+12/04/2024
+12/05/2024
+17/04/2024
+26/04/2024
+08/07/2024
+04/04/2024
+08/04/2024
+11/04/2024
+11/04/2024
+26/04/2024
+26/04/2024
+01/05/2024
+02/05/2024
+11/05/2024
+13/05/2024
+13/05/2024
+14/05/2024
+17/05/2024
+22/05/2024
+27/05/2024
+29/05/2024
+31/05/2024
+16/06/2024
+01/07/2024
+16/07/2024
+dt venc
+ 127.80
+ 127.80
+ 0.00
+ 734.43
+ 52.00
+ 113.60
+ 95.00
+ 165.62
+ 55.00
+ 120.75
+ 678.38
+ 367.22
+ 163.01
+ 1,073.62
+ 240.00
+ 127.80
+ 522.80
+ 394.78
+ 362.25
+ 238.15
+ 183.61
+ 75.00
+ 706.41
+ 1,128.30
+ 1,257.23
+ 1,229.20
+ 528.00
+ 1,128.30
+ 339.19
+ 734.43
+ 67.00
+ 362.25
+ 238.15
+ 367.22
+ 1,128.30
+ 522.80
+ 183.61
+ 522.80
+ 55.16
+ 522.80
+ 240.00
+ 183.61
+ 183.61
+ 367.56
+ 861.99
+ 187.06
+ 339.19
+ 4,144.00
+ 3,377.37
+ 1,116.00
+ 462.00
+ 540.00
+ 341.25
+ 272.16
+ 1,100.00
+ 1,680.00
+ 1,100.00
+ 1,405.87
+ 596.55
+ 341.25
+ 1,405.87
+ 1,123.10
+ 17.45
+ 420.80
+ 1,015.00
+ 420.80
+ 1,100.00
+ 630.00
+ 1,015.00
+ 1,722.15
+ 1,441.14
+ 1,441.14
+valor(r$)
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 23.10
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+juros(r$)
+96
+96
+96
+96
+95
+93
+89
+88
+87
+85
+85
+82
+78
+77
+76
+76
+75
+74
+74
+71
+71
+69
+68
+67
+63
+56
+55
+52
+49
+47
+45
+44
+41
+40
+37
+35
+33
+33
+29
+28
+20
+15
+12
+11
+4
+-1
+-2
+137
+107
+132
+123
+50
+145
+141
+138
+138
+123
+123
+118
+117
+108
+106
+106
+105
+102
+97
+92
+90
+88
+72
+57
+42
+atraso
+fornecedor
+558 - parafer comercial ltda (0003-9
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+488 - white martins gases industriai
+523 - parafer comercial ltda - (0001
+4 - corsul com. e representações d
+523 - parafer comercial ltda - (0001
+523 - parafer comercial ltda - (0001
+558 - parafer comercial ltda (0003-9
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+488 - white martins gases industriai
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+639 - kapdima comercio
+558 - parafer comercial ltda (0003-9
+488 - white martins gases industriai
+639 - kapdima comercio
+558 - parafer comercial ltda (0003-9
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+558 - parafer comercial ltda (0003-9
+488 - white martins gases industriai
+666 - iron fundição
+488 - white martins gases industriai
+488 - white martins gases industriai
+639 - kapdima comercio
+666 - iron fundição
+488 - white martins gases industriai
+488 - white martins gases industriai
+558 - parafer comercial ltda (0003-9
+558 - parafer comercial ltda (0003-9
+523 - parafer comercial ltda - (0001
+488 - white martins gases industriai
+666 - iron fundição
+488 - white martins gases industriai
+488 - white martins gases industriai
+488 - white martins gases industriai
+558 - parafer comercial ltda (0003-9
+488 - white martins gases industriai
+639 - kapdima comercio
+488 - white martins gases industriai
+488 - white martins gases industriai
+558 - parafer comercial ltda (0003-9
+488 - white martins gases industriai
+639 - kapdima comercio
+488 - white martins gases industriai
+681 - centro automotivo serpneus
+699 - bransales atacadista
+679 - oxlub peças e lub
+679 - oxlub peças e lub
+176 - extintores sao bento
+682 - lf comercial de bens
+682 - lf comercial de bens
+683 - b2 torno e solda
+673 - cia industrial h. carlos
+683 - b2 torno e solda
+673 - cia industrial h. carlos
+691 - klein automação ltda
+682 - lf comercial de bens
+673 - cia industrial h. carlos
+683 - b2 torno e solda
+691 - klein automação ltda
+689 - ct comercial ltda
+691 - klein automação ltda
+689 - ct comercial ltda
+683 - b2 torno e solda
+588 - automaservice manut industrial
+691 - klein automação ltda
+673 - cia industrial h. carlos
+673 - cia industrial h. carlos
+673 - cia industrial h. carlos
+23/05/2024
+14/05/2024
+21/05/2024
+21/05/2024
+21/05/2024
+25/05/2024
+23/05/2024
+23/05/2024
+25/05/2024
+25/05/2024
+25/05/2024
+25/05/2024
+05/06/2024
+05/06/2024
+10/06/2024
+21/06/2024
+13/06/2024
+13/06/2024
+13/06/2024
+13/06/2024
+13/06/2024
+18/06/2024
+18/06/2024
+20/06/2024
+21/06/2024
+02/07/2024
+27/06/2024
+27/06/2024
+02/07/2024
+08/07/2024
+08/07/2024
+15/07/2024
+15/07/2024
+15/07/2024
+18/07/2024
+18/07/2024
+22/07/2024
+22/07/2024
+22/07/2024
+24/07/2024
+06/08/2024
+06/08/2024
+14/08/2024
+06/08/2024
+16/08/2024
+21/08/2024
+21/08/2024
+10/04/2024
+21/05/2024
+15/04/2024
+26/04/2024
+02/07/2024
+03/04/2024
+08/04/2024
+10/04/2024
+10/04/2024
+24/04/2024
+24/04/2024
+26/04/2024
+26/04/2024
+08/05/2024
+14/05/2024
+25/05/2024
+14/05/2024
+14/05/2024
+18/05/2024
+21/05/2024
+23/05/2024
+23/05/2024
+13/06/2024
+27/06/2024
+15/07/2024
+dt pagto
+status
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+estabelecimento:
+sindu - sistemas industriais
+27/08/2024
+emitido em:
+03:20
+às:
+relatório de duplicatas à pagar por centro de custo e despesas
+refn_dcd
+data  inicial:
+01/01/2024
+data final: 31/12/2024
+1
+c.custo inicial: 0
+c.custo final: 99999
+despesa inicial: 0
+despesa final: 99999
+página 
+de
+4
+7
+estabelecimento:
+1 - vds metalurgica ltda
+4 - fabrica                       
+centro de custo:
+9
+ 166,034.86
+194
+6 - conservacao de maquinas
+7 - frete
+9 - destinação final
+10 - reposicao ou reparo
+despesa
+24/07/2024
+11/12/2023
+13/12/2023
+24/01/2024
+13/02/2024
+22/03/2024
+28/03/2024
+28/03/2024
+15/03/2024
+13/03/2024
+16/04/2024
+02/04/2024
+21/03/2024
+07/05/2024
+19/04/2024
+15/05/2024
+29/04/2024
+25/04/2024
+13/05/2024
+21/08/2024
+12/04/2024
+22/05/2024
+13/03/2024
+02/04/2024
+02/04/2024
+15/03/2024
+15/03/2024
+10/04/2024
+02/04/2024
+15/03/2024
+15/03/2024
+25/03/2024
+11/03/2024
+15/03/2024
+15/03/2024
+10/04/2024
+25/03/2024
+11/03/2024
+15/03/2024
+15/03/2024
+25/03/2024
+11/03/2024
+05/04/2024
+02/04/2024
+11/03/2024
+08/05/2024
+02/04/2024
+02/04/2024
+29/04/2024
+11/03/2024
+02/04/2024
+26/04/2024
+02/04/2024
+29/04/2024
+02/04/2024
+26/04/2024
+06/05/2024
+29/04/2024
+26/04/2024
+29/04/2024
+26/04/2024
+29/04/2024
+26/04/2024
+29/04/2024
+26/04/2024
+04/06/2024
+29/05/2024
+26/04/2024
+29/05/2024
+29/05/2024
+dt emissão
+226/1
+455115/1
+456122/1
+464688/1
+470183/1
+203313/1
+135977/1
+204173/1
+96257/1
+478168/1
+206700/1
+96925/1
+480138/1
+388568/1
+487562/1
+4/1
+142055/1
+2694455/1
+208697/1
+408686/1
+1/1
+5/1
+16031/1
+19600/1
+19627/1
+462401/1
+462402/1
+16106/1
+19605/1
+462401/2
+462402/2
+463105/1
+829/1
+462401/3
+462402/3
+16106/2
+36961/1
+829/2
+462401/4
+462402/4
+463105/2
+829/3
+37058/1
+866/1
+829/4
+829005/1
+11034/1
+866/2
+37113/1
+829/5
+866/3
+465941/1
+866/4
+911/1
+866/5
+922/1
+37266/1
+911/2
+465941/2
+911/3
+922/2
+911/4
+465941/3
+911/5
+922/3
+37401/1
+962/1
+465941/4
+962/2
+962/3
+duplic
+19/08/2024
+06/01/2024
+11/01/2024
+15/02/2024
+20/02/2024
+22/03/2024
+01/04/2024
+01/04/2024
+05/04/2024
+05/04/2024
+16/04/2024
+20/04/2024
+20/04/2024
+07/05/2024
+15/05/2024
+15/05/2024
+20/05/2024
+20/05/2024
+05/06/2024
+21/08/2024
+10/04/2024
+22/05/2024
+12/03/2024
+18/03/2024
+19/03/2024
+01/04/2024
+01/04/2024
+01/04/2024
+03/04/2024
+08/04/2024
+08/04/2024
+10/04/2024
+12/04/2024
+15/04/2024
+15/04/2024
+16/04/2024
+18/04/2024
+19/04/2024
+22/04/2024
+22/04/2024
+24/04/2024
+26/04/2024
+30/04/2024
+02/05/2024
+03/05/2024
+08/05/2024
+08/05/2024
+09/05/2024
+09/05/2024
+10/05/2024
+16/05/2024
+22/05/2024
+23/05/2024
+28/05/2024
+30/05/2024
+31/05/2024
+03/06/2024
+04/06/2024
+05/06/2024
+11/06/2024
+15/06/2024
+18/06/2024
+19/06/2024
+25/06/2024
+30/06/2024
+02/07/2024
+03/07/2024
+03/07/2024
+18/07/2024
+02/08/2024
+dt venc
+ 250.00
+ 81.50
+ 119.50
+ 82.50
+ 169.00
+ 238.00
+ 227.00
+ 257.00
+ 96.00
+ 382.50
+ 405.50
+ 141.50
+ 149.00
+ 88.00
+ 110.50
+ 2,586.00
+ 387.00
+ 63.00
+ 418.50
+ 84.00
+ 4,302.00
+ 2,190.00
+ 5,732.54
+ 578.20
+ 2,312.80
+ 2,006.78
+ 228.96
+ 4,110.97
+ 1,239.00
+ 2,006.78
+ 228.96
+ 1,933.38
+ 1,094.04
+ 2,006.78
+ 228.96
+ 4,110.97
+ 455.74
+ 1,094.04
+ 2,006.77
+ 228.97
+ 1,933.38
+ 1,094.04
+ 619.24
+ 1,415.19
+ 1,094.04
+ 1,094.03
+ 6,277.60
+ 1,415.19
+ 438.44
+ 1,094.03
+ 1,415.19
+ 4,471.74
+ 1,415.19
+ 2,101.41
+ 1,415.17
+ 1,314.10
+ 269.04
+ 2,101.41
+ 4,471.74
+ 2,101.41
+ 1,314.10
+ 2,101.41
+ 4,471.74
+ 2,101.39
+ 1,314.10
+ 255.24
+ 866.80
+ 4,471.74
+ 866.80
+ 867.06
+valor(r$)
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+juros(r$)
+8
+234
+229
+194
+189
+158
+148
+148
+144
+144
+133
+129
+129
+112
+104
+104
+99
+99
+83
+6
+139
+97
+168
+162
+161
+148
+148
+148
+146
+141
+141
+139
+137
+134
+134
+133
+131
+130
+127
+127
+125
+123
+119
+117
+116
+111
+111
+110
+110
+109
+103
+97
+96
+91
+89
+88
+85
+84
+83
+77
+73
+70
+69
+63
+58
+56
+55
+55
+40
+25
+atraso
+fornecedor
+588 - automaservice manut industrial
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+17 - expresso sao miguel ltda
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+497 - expresso sao miguel s/a sao cr
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+685 - lucas alves schwirkowski
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+540 - expresso sao miguel s/a
+685 - lucas alves schwirkowski
+685 - lucas alves schwirkowski
+669 - steelmast met ltda
+680 - rodasul  ind
+680 - rodasul  ind
+672 - mkraft comercio metais ltda
+672 - mkraft comercio metais ltda
+669 - steelmast met ltda
+680 - rodasul  ind
+672 - mkraft comercio metais ltda
+672 - mkraft comercio metais ltda
+672 - mkraft comercio metais ltda
+666 - iron fundição
+672 - mkraft comercio metais ltda
+672 - mkraft comercio metais ltda
+669 - steelmast met ltda
+667 - lsn metais ltda epp
+666 - iron fundição
+672 - mkraft comercio metais ltda
+672 - mkraft comercio metais ltda
+672 - mkraft comercio metais ltda
+666 - iron fundição
+667 - lsn metais ltda epp
+666 - iron fundição
+666 - iron fundição
+666 - iron fundição
+680 - rodasul  ind
+666 - iron fundição
+667 - lsn metais ltda epp
+666 - iron fundição
+666 - iron fundição
+672 - mkraft comercio metais ltda
+666 - iron fundição
+666 - iron fundição
+666 - iron fundição
+666 - iron fundição
+667 - lsn metais ltda epp
+666 - iron fundição
+672 - mkraft comercio metais ltda
+666 - iron fundição
+666 - iron fundição
+666 - iron fundição
+672 - mkraft comercio metais ltda
+666 - iron fundição
+666 - iron fundição
+667 - lsn metais ltda epp
+666 - iron fundição
+672 - mkraft comercio metais ltda
+666 - iron fundição
+666 - iron fundição
+total (r$)
+duplicatas:
+total por centro de custo:
+despesas:
+14/08/2024
+06/01/2024
+25/12/2023
+05/02/2024
+15/02/2024
+22/03/2024
+28/03/2024
+28/03/2024
+22/03/2024
+22/03/2024
+16/04/2024
+08/04/2024
+28/03/2024
+07/05/2024
+24/04/2024
+15/05/2024
+07/05/2024
+07/05/2024
+15/05/2024
+21/08/2024
+12/04/2024
+23/05/2024
+13/03/2024
+02/04/2024
+02/04/2024
+08/04/2024
+28/03/2024
+01/04/2024
+03/04/2024
+28/03/2024
+08/04/2024
+08/04/2024
+10/04/2024
+10/04/2024
+10/04/2024
+15/04/2024
+15/04/2024
+15/04/2024
+22/04/2024
+16/04/2024
+24/04/2024
+24/04/2024
+24/04/2024
+26/04/2024
+26/04/2024
+08/05/2024
+08/05/2024
+08/05/2024
+08/05/2024
+26/04/2024
+14/05/2024
+21/05/2024
+21/05/2024
+23/05/2024
+23/05/2024
+25/05/2024
+25/05/2024
+25/05/2024
+28/05/2024
+05/06/2024
+13/06/2024
+13/06/2024
+18/06/2024
+21/06/2024
+21/06/2024
+27/06/2024
+02/07/2024
+27/06/2024
+15/07/2024
+29/07/2024
+dt pagto
+status
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+estabelecimento:
+sindu - sistemas industriais
+27/08/2024
+emitido em:
+03:20
+às:
+relatório de duplicatas à pagar por centro de custo e despesas
+refn_dcd
+data  inicial:
+01/01/2024
+data final: 31/12/2024
+1
+c.custo inicial: 0
+c.custo final: 99999
+despesa inicial: 0
+despesa final: 99999
+página 
+de
+5
+7
+estabelecimento:
+1 - vds metalurgica ltda
+5 - imposto                       
+7 - materia prima                 
+centro de custo:
+centro de custo:
+8
+ 93,880.79
+21
+1 - icms simples
+2 - dare-sc
+4 - crf
+6 - cofins
+7 - pis
+8 - irpj
+9 - csll
+11 - ipva
+1 - tinta pó
+despesa
+despesa
+30/12/2023
+31/01/2024
+29/02/2024
+31/03/2024
+30/04/2024
+31/05/2024
+31/01/2024
+29/02/2024
+31/03/2024
+30/04/2024
+11/06/2024
+31/05/2024
+31/07/2024
+30/06/2024
+31/07/2024
+31/05/2024
+30/06/2024
+31/07/2024
+30/06/2024
+30/06/2024
+30/04/2024
+11/12/2023
+27/11/2023
+13/12/2023
+30/11/2023
+13/12/2023
+16/11/2023
+30/11/2023
+20/11/2023
+20/11/2023
+27/11/2023
+30/11/2023
+13/12/2023
+30/11/2023
+13/12/2023
+18/01/2024
+24/01/2024
+18/01/2024
+26/01/2024
+02/02/2024
+02/02/2024
+26/01/2024
+07/02/2024
+02/02/2024
+02/02/2024
+26/01/2024
+08/02/2024
+13/02/2024
+02/02/2024
+15/02/2024
+16/02/2024
+13/02/2024
+20/02/2024
+07/02/2024
+15/02/2024
+27/02/2024
+08/02/2024
+27/02/2024
+20/02/2024
+15/02/2024
+16/02/2024
+27/02/2024
+07/02/2024
+06/03/2024
+08/02/2024
+27/02/2024
+dt emissão
+dt emissão
+30122023/1
+12024/1
+2902/1
+32024/1
+42024/1
+52024/1
+12024/1
+342186/1
+32024/1
+2836/1
+25515/1
+52024/1
+72024/1
+62024/3
+72024/3
+52024/2
+62024/4
+72024/2
+62024/1
+62024/2
+54131/1
+237004/1
+236452/2
+237232/1
+236627/2
+237237/1
+236149/3
+236783/2
+236264/3
+236265/3
+236452/3
+236627/3
+237237/2
+236783/3
+237237/3
+237808/1
+237964/1
+237808/2
+238046/1
+238285/1
+238286/1
+238046/2
+238447/1
+238285/2
+238286/2
+238046/3
+238529/1
+238639/1
+238286/3
+238702/1
+238782/1
+238639/2
+238872/1
+238447/2
+238702/2
+23861/1
+238529/2
+238962/1
+238872/2
+238102/3
+238782/2
+238962/2
+238447/3
+239379/1
+238529/3
+238961/2
+duplic
+duplic
+22/01/2024
+20/02/2024
+20/03/2024
+22/04/2024
+20/05/2024
+25/06/2024
+20/02/2024
+20/03/2024
+22/04/2024
+20/05/2024
+11/06/2024
+20/06/2024
+20/08/2024
+25/07/2024
+23/08/2024
+25/06/2024
+25/07/2024
+23/08/2024
+31/07/2024
+31/07/2024
+30/04/2024
+01/01/2024
+03/01/2024
+07/01/2024
+08/01/2024
+08/01/2024
+09/01/2024
+10/01/2024
+12/01/2024
+12/01/2024
+17/01/2024
+22/01/2024
+22/01/2024
+24/01/2024
+05/02/2024
+13/02/2024
+18/02/2024
+20/02/2024
+21/02/2024
+27/02/2024
+27/02/2024
+28/02/2024
+04/03/2024
+05/03/2024
+05/03/2024
+06/03/2024
+06/03/2024
+08/03/2024
+12/03/2024
+12/03/2024
+13/03/2024
+15/03/2024
+15/03/2024
+18/03/2024
+19/03/2024
+20/03/2024
+20/03/2024
+20/03/2024
+22/03/2024
+26/03/2024
+27/03/2024
+27/03/2024
+01/04/2024
+01/04/2024
+03/04/2024
+03/04/2024
+dt venc
+dt venc
+ 8,009.05
+ 13,952.77
+ 12,328.36
+ 14,838.19
+ 9,456.19
+ 9,780.85
+ 53.40
+ 3.64
+ 28.05
+ 28.36
+ 29.00
+ 15.05
+ 3,163.61
+ 3,971.86
+ 3,357.86
+ 2,119.19
+ 860.56
+ 727.54
+ 5,587.34
+ 5,028.61
+ 541.31
+ 725.33
+ 4,767.50
+ 2,563.18
+ 1,919.58
+ 3,965.63
+ 1,888.91
+ 1,701.03
+ 2,425.00
+ 1,452.50
+ 4,767.50
+ 1,919.59
+ 3,613.33
+ 1,701.04
+ 3,613.34
+ 3,045.03
+ 725.33
+ 2,859.17
+ 3,067.51
+ 3,065.98
+ 2,502.82
+ 2,795.00
+ 2,094.39
+ 2,878.85
+ 2,280.47
+ 2,795.00
+ 1,647.57
+ 1,843.78
+ 2,280.46
+ 3,067.51
+ 1,515.92
+ 1,731.25
+ 2,976.68
+ 1,908.33
+ 2,795.00
+ 4,119.28
+ 1,501.20
+ 4,606.76
+ 2,795.00
+ 2,795.00
+ 1,381.25
+ 4,197.50
+ 1,908.34
+ 2,073.36
+ 1,501.20
+ 3,753.33
+valor(r$)
+valor(r$)
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+ 0.00
+juros(r$)
+juros(r$)
+218
+189
+160
+127
+99
+63
+189
+160
+127
+99
+77
+68
+7
+33
+4
+63
+33
+4
+27
+27
+119
+239
+237
+233
+232
+232
+231
+230
+228
+228
+223
+218
+218
+216
+204
+196
+191
+189
+188
+182
+182
+181
+176
+175
+175
+174
+174
+172
+168
+168
+167
+165
+165
+162
+161
+160
+160
+160
+158
+154
+153
+153
+148
+148
+146
+146
+atraso
+atraso
+fornecedor
+fornecedor
+74 - simples nacional
+74 - simples nacional
+74 - simples nacional
+74 - simples nacional
+74 - simples nacional
+74 - simples nacional
+75 - secretaria de estado da fazend
+75 - secretaria de estado da fazend
+75 - secretaria de estado da fazend
+75 - secretaria de estado da fazend
+75 - secretaria de estado da fazend
+489 - receita federal
+489 - receita federal
+489 - receita federal
+489 - receita federal
+489 - receita federal
+489 - receita federal
+489 - receita federal
+489 - receita federal
+489 - receita federal
+239 - detran sc
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+5 - w3 industria metalurica ltda
+total (r$)
+duplicatas:
+total por centro de custo:
+despesas:
+16/01/2024
+15/02/2024
+19/03/2024
+22/04/2024
+15/05/2024
+21/06/2024
+15/02/2024
+19/03/2024
+22/04/2024
+15/05/2024
+11/06/2024
+18/06/2024
+15/08/2024
+24/07/2024
+16/08/2024
+21/06/2024
+24/07/2024
+15/08/2024
+29/07/2024
+29/07/2024
+26/04/2024
+22/12/2023
+28/12/2023
+28/12/2023
+28/12/2023
+28/12/2023
+08/01/2024
+08/01/2024
+09/01/2024
+09/01/2024
+15/01/2024
+16/01/2024
+16/01/2024
+16/01/2024
+05/02/2024
+14/02/2024
+15/02/2024
+15/02/2024
+16/02/2024
+16/02/2024
+16/02/2024
+16/02/2024
+27/02/2024
+27/02/2024
+27/02/2024
+27/02/2024
+27/02/2024
+27/02/2024
+08/03/2024
+08/03/2024
+13/03/2024
+15/03/2024
+15/03/2024
+16/03/2024
+16/03/2024
+19/03/2024
+19/03/2024
+19/03/2024
+20/03/2024
+22/03/2024
+22/03/2024
+26/03/2024
+28/03/2024
+28/03/2024
+02/04/2024
+02/04/2024
+dt pagto
+dt pagto
+status
+status
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.
+baixada tot. man.

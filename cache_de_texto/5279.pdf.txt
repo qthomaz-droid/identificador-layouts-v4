@@ -1,0 +1,2837 @@
+04/01/2024 14:36:53 brt
+recebimentos
+posto caiçara matriz
+agrupamento: cliente
+data inicial: 01/12/2023
+data final: 31/12/2023
+tipo período: pagamento
+27.179.654/0001-80
+cliente: 35.718.278 jackson fonseca baliano
+nfe000000003866
+04/09/2023
+r$4.973,72
+r$0,00
+r$0,00
+r$4.973,72
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+01/12/2023
+r$1.600,00
+35.718.278 jackson fonseca baliano
+rec trc 01/12/2023 - jakim transpo
+dinheiro
+banco do brasil
+11/12/2023
+r$2.000,00
+35.718.278 jackson fonseca baliano
+rec trc 11/12/2023 - jakim transpo
+r$3.600,00
+subtotal recebido:
+r$3.600,00
+cliente: aamol - associacao ambiental monte libano
+nfe000000004453
+01/12/2023
+r$273,62
+r$0,00
+r$0,00
+r$273,62
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$273,62
+aamol - associacao ambiental monte libano
+rec trc 15/12/2023 - aamol - asso
+r$273,62
+subtotal recebido:
+r$273,62
+cliente: a c b engenharia ltda
+nfe000000004452
+01/12/2023
+r$567,43
+r$0,00
+r$0,00
+r$567,43
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$567,43
+a c b engenharia ltda
+rec trc 15/12/2023 - a c b engenh
+r$567,43
+subtotal recebido:
+r$567,43
+cliente: alexandre das neves de almeida 08195916708
+nfe000000004261
+01/11/2023
+r$2.080,89
+r$0,00
+r$0,00
+r$2.080,89
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+01/12/2023
+r$2.080,89
+alexandre das neves de almeida 08195916708
+rec trc 01/12/2023 - m&b fretes e
+r$2.080,89
+nfe000000004476
+06/12/2023
+r$2.734,03
+r$0,00
+r$0,00
+r$2.734,03
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+30/12/2023
+r$2.734,03
+alexandre das neves de almeida 08195916708
+transferencia bancária - 42597658-e6
+r$2.734,03
+subtotal recebido:
+r$4.814,92
+cliente: alexandre vieira nascimento 05813010726
+849196849849644
+01/11/2023
+r$4.774,81
+r$0,00
+r$0,00
+r$4.774,81
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+02/12/2023
+r$2.774,81
+alexandre vieira nascimento 05813010726
+rec trc 04/12/2023 - furioso tran
+dinheiro
+banco do brasil
+05/12/2023
+r$2.000,00
+alexandre vieira nascimento 05813010726
+rec trc 05/12/2023 - furioso tran
+r$4.774,81
+849196849849945
+06/12/2023
+r$4.033,76
+r$0,00
+r$0,00
+r$4.033,76
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+20/12/2023
+r$2.896,46
+alexandre vieira nascimento 05813010726
+rec trc 20/12/2023 - furioso tran
+r$2.896,46
+subtotal recebido:
+r$7.671,27
+cliente: a. m. i. mecanica industrial ltda
+849196849849818
+01/12/2023
+r$2.382,73
+r$0,00
+r$0,00
+r$2.382,73
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$2.382,73
+a. m. i. mecanica industrial ltda
+rec trc 15/12/2023 - a. m. i. mecani
+r$2.382,73
+subtotal recebido:
+r$2.382,73
+cliente: antonio auto peças ltda
+nfe000000001610
+01/12/2023
+r$507,44
+r$0,00
+r$0,00
+r$507,44
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+15/12/2023
+r$507,44
+antonio auto peças ltda
+rec trc 15/12/2023 - antonio auto
+r$507,44
+usuário: philippea
+quality automação
+página 1  de 11
+subtotal recebido:
+r$507,44
+cliente: auto lanternagem e mecbnica vagalume ltda
+849196849849817
+01/12/2023
+r$2.931,95
+r$0,00
+r$0,00
+r$2.931,95
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+12/12/2023
+r$816,75
+auto lanternagem e mecbnica vagalume ltda
+cheque - 850728
+cheque
+12/12/2023
+r$1.917,79
+auto lanternagem e mecbnica vagalume ltda
+cheque - 852200
+dinheiro
+caixa(posto)
+12/12/2023
+r$197,41
+auto lanternagem e mecbnica vagalume ltda
+rec trc 12/12/2023 - mecanica vag
+r$2.931,95
+subtotal recebido:
+r$2.931,95
+cliente: bap bressan auto pecas ltda
+849196849849825
+01/12/2023
+r$5.038,00
+r$0,00
+r$0,00
+r$5.038,00
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$5.038,00
+bap bressan auto pecas ltda
+rec trc 15/12/2023 - bap bressan
+r$5.038,00
+subtotal recebido:
+r$5.038,00
+cliente: bedim materiais eletricos ltda - me
+849196849849964
+14/12/2023
+r$316,40
+r$0,00
+r$0,00
+r$316,40
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+28/12/2023
+r$316,40
+bedim materiais eletricos ltda - me
+rec trc 28/12/2023 - eletrolight
+r$316,40
+nfe000000001613
+04/12/2023
+r$710,24
+r$0,00
+r$0,00
+r$710,24
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+15/12/2023
+r$710,24
+bedim materiais eletricos ltda - me
+rec trc 15/12/2023 - eletrolight
+r$710,24
+subtotal recebido:
+r$1.026,64
+cliente: bernardo paier
+849196849849649
+01/11/2023
+r$836,03
+r$0,00
+r$0,00
+r$836,03
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+caixa(posto)
+18/12/2023
+r$836,03
+bernardo paier
+rec trc 18/12/2023 - bernardo pai
+r$836,03
+849196849849826
+01/12/2023
+r$940,41
+r$0,00
+r$0,00
+r$940,41
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+caixa(posto)
+18/12/2023
+r$940,41
+bernardo paier
+rec trc 18/12/2023 - bernardo pai
+r$940,41
+subtotal recebido:
+r$1.776,44
+cliente: betumes itabira concreto asfalto ltda
+849196849849860
+04/12/2023
+r$6.217,21
+r$0,00
+r$0,00
+r$6.217,21
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$6.217,21
+betumes itabira concreto asfalto ltda
+rec trc 15/12/2023 - betumes itabi
+r$6.217,21
+subtotal recebido:
+r$6.217,21
+cliente: b&l manutencoes e servicos ltda
+nfe000000004454
+01/12/2023
+r$186,45
+r$0,00
+r$0,00
+r$186,45
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$186,45
+b&l manutencoes e servicos ltda
+rec trc 15/12/2023 - b&l manuten
+r$186,45
+subtotal recebido:
+r$186,45
+cliente: brasgraex brasil granitos e exportacao ltda - epp
+nfe000000003117
+05/06/2023
+r$3.561,63
+r$0,00
+r$0,00
+r$3.561,63
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+28/12/2023
+r$1.730,00
+brasgraex brasil granitos e exportacao ltd
+cheque - 000065
+cheque
+28/12/2023
+r$1.730,00
+brasgraex brasil granitos e exportacao ltd
+cheque - 000066
+cheque
+28/12/2023
+r$4.800,00
+brasgraex brasil granitos e exportacao ltd
+cheque - 000193
+cheque
+28/12/2023
+r$4.325,00
+brasgraex brasil granitos e exportacao ltd
+cheque - 901361
+cheque
+28/12/2023
+r$3.000,00
+brasgraex brasil granitos e exportacao ltd
+cheque - 901449
+usuário: philippea
+quality automação
+página 2  de 11
+vale
+28/12/2023
+-r$12.023,37
+brasgraex brasil granitos e exportacao ltd
+troco: vale gerado - 137
+r$3.561,63
+subtotal recebido:
+r$3.561,63
+cliente: bruna bittencourt ramos dos santos
+nfe000000004458
+04/12/2023
+r$783,02
+r$0,00
+r$0,00
+r$783,02
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+20/12/2023
+r$1.500,00
+bruna bittencourt ramos dos santos
+rec trc 20/12/2023 - bruna bitten
+vale
+20/12/2023
+-r$716,98
+bruna bittencourt ramos dos santos
+troco: vale gerado - 135
+r$783,02
+subtotal recebido:
+r$783,02
+cliente: bruno lima correa 13901936750
+nfe000000004267
+01/11/2023
+r$769,19
+r$0,00
+r$17,91
+r$787,10
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+01/12/2023
+r$787,10
+bruno lima correa 13901936750
+transferencia bancária - bc9dca4a-ffa
+r$787,10
+nfe000000004461
+04/12/2023
+r$869,51
+r$0,00
+r$0,00
+r$869,51
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$869,51
+bruno lima correa 13901936750
+transferencia bancária - 2278402a-7f
+r$869,51
+subtotal recebido:
+r$1.656,61
+cliente: capixaba distribuidora e logistica de alimentos ltda
+849196849849837
+04/12/2023
+r$1.144,61
+r$0,00
+r$0,00
+r$1.144,61
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$1.144,61
+capixaba distribuidora e logistica de aliment
+rec trc 15/12/2023 - capixaba dist
+r$1.144,61
+subtotal recebido:
+r$1.144,61
+cliente: carbomix minerais ltda
+nfe000000001612
+04/12/2023
+r$285,41
+r$0,00
+r$0,00
+r$285,41
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$285,41
+carbomix minerais ltda
+rec trc 15/12/2023 - carbomix min
+r$285,41
+subtotal recebido:
+r$285,41
+cliente: clara auto servico ltda
+nfe000000004457
+04/12/2023
+r$1.423,19
+r$0,00
+r$0,00
+r$1.423,19
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$1.423,19
+clara auto servico ltda
+rec trc 15/12/2023 - clara auto s
+r$1.423,19
+subtotal recebido:
+r$1.423,19
+cliente: clinicop soluções ltda
+nfe000000004101
+04/10/2023
+r$2.868,93
+r$0,00
+r$0,00
+r$2.868,93
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+01/12/2023
+r$768,93
+clinicop soluções ltda
+rec trc 01/12/2023 - clinicop solu
+transferencia bancária
+banco do brasil
+07/12/2023
+r$700,00
+clinicop soluções ltda
+transferencia bancária - rec duplica
+r$1.468,93
+nfe000000004263
+01/11/2023
+r$2.800,00
+r$0,00
+r$0,00
+r$2.800,00
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+26/12/2023
+r$2.800,00
+clinicop soluções ltda
+rec trc 26/12/2023 - clinicop solu
+r$2.800,00
+subtotal recebido:
+r$4.268,93
+cliente: c n duarte ltda
+849196849849839
+04/12/2023
+r$709,46
+r$0,00
+r$0,00
+r$709,46
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+15/12/2023
+r$709,46
+c n duarte ltda
+rec trc 15/12/2023 - c n duarte lt
+r$709,46
+usuário: philippea
+quality automação
+página 3  de 11
+subtotal recebido:
+r$709,46
+cliente: daniely clara da silva
+849196849849850
+04/12/2023
+r$509,70
+r$0,00
+r$0,00
+r$509,70
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$509,70
+daniely clara da silva
+rec trc 15/12/2023 - daniely clar
+r$509,70
+subtotal recebido:
+r$509,70
+cliente: d & c materiais eletricos ltda
+849196849849838
+04/12/2023
+r$1.744,80
+r$316,52
+r$0,00
+r$1.428,28
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+20/12/2023
+-r$316,52
+d & c materiais eletricos ltda
+desconto referente à duplicata 84919
+dinheiro
+banco do brasil
+20/12/2023
+r$1.744,80
+d & c materiais eletricos ltda
+rec trc 03/01/2024 - d & c materia
+r$1.428,28
+subtotal recebido:
+r$1.428,28
+cliente: digrapel distribuidora papel e grafica ltda epp
+849196849849853
+04/12/2023
+r$1.490,08
+r$0,00
+r$0,00
+r$1.490,08
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$1.490,08
+digrapel distribuidora papel e grafica ltda e
+rec trc 15/12/2023 - digrapel dist
+r$1.490,08
+subtotal recebido:
+r$1.490,08
+cliente: disferro comercio de ferragens ltda
+849196849849852
+04/12/2023
+r$1.216,49
+r$0,00
+r$0,00
+r$1.216,49
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$1.216,49
+disferro comercio de ferragens ltda
+transferencia bancária - 0afd04c4-6e
+r$1.216,49
+subtotal recebido:
+r$1.216,49
+cliente: d l sturiao informatica - me
+nfe000000001611
+04/12/2023
+r$150,00
+r$0,00
+r$0,00
+r$150,00
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$150,00
+d l sturiao informatica - me
+rec trc 15/12/2023 - sturiao
+r$150,00
+subtotal recebido:
+r$150,00
+cliente: edgar pizetta 00241480752
+nfe000000004540
+18/12/2023
+r$726,44
+r$0,00
+r$0,00
+r$726,44
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+21/12/2023
+r$726,44
+edgar pizetta 00241480752
+transferencia bancária - ed4eb311-a8
+r$726,44
+subtotal recebido:
+r$726,44
+cliente: edivan silva ribeiro
+849196849849799
+17/11/2023
+r$6.231,77
+r$0,00
+r$0,00
+r$6.231,77
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+banco do brasil
+08/12/2023
+r$6.231,77
+edivan silva ribeiro
+transferencia bancária - rec duplica
+r$6.231,77
+849196849849864
+04/12/2023
+r$6.499,54
+r$0,00
+r$0,00
+r$6.499,54
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+20/12/2023
+r$6.499,54
+edivan silva ribeiro
+rec trc 20/12/2023 - edivan silva
+r$6.499,54
+subtotal recebido:
+r$12.731,31
+cliente: filipe papaceni da silva
+nfe000000004459
+04/12/2023
+r$558,86
+r$0,00
+r$29,61
+r$588,47
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+25/12/2023
+r$588,47
+filipe papaceni da silva
+transferencia bancária - 64c068ab-59
+r$588,47
+usuário: philippea
+quality automação
+página 4  de 11
+subtotal recebido:
+r$588,47
+cliente: fiori representacoes ltda
+000187710881123
+01/12/2023
+r$90,80
+r$0,00
+r$0,00
+r$90,80
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+01/12/2023
+r$90,80
+fiori representacoes ltda
+rec trc 01/12/2023 - fiori represe
+r$90,80
+849196849849827
+01/12/2023
+r$114,43
+r$0,00
+r$0,00
+r$114,43
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+01/12/2023
+r$114,43
+fiori representacoes ltda
+rec trc 01/12/2023 - fiori represe
+r$114,43
+subtotal recebido:
+r$205,23
+cliente: frigorifico cofril ltda
+nfe000000001614
+04/12/2023
+r$1.066,32
+r$0,00
+r$0,00
+r$1.066,32
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$1.066,32
+frigorifico cofril ltda
+rec trc 15/12/2023 - frigorifico c
+r$1.066,32
+nfe000000004474
+05/12/2023
+r$2.856,70
+r$0,00
+r$0,00
+r$2.856,70
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$2.856,70
+frigorifico cofril ltda
+rec trc 15/12/2023 - frigorifico c
+r$2.856,70
+subtotal recebido:
+r$3.923,02
+cliente: giovani marvila pereira
+849196849849689
+03/11/2023
+r$1.271,28
+r$0,00
+r$92,54
+r$1.363,82
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+16/12/2023
+r$1.363,82
+giovani marvila pereira
+transferencia bancária - 35e2642a-81
+r$1.363,82
+subtotal recebido:
+r$1.363,82
+cliente: hellen silva patricio
+nfe000000004477
+06/12/2023
+r$793,35
+r$0,00
+r$0,00
+r$793,35
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$793,35
+hellen silva patricio
+transferencia bancária - a3e3e0d6-b6
+r$793,35
+subtotal recebido:
+r$793,35
+cliente: igreja evangelica sion
+nfe000000004464
+04/12/2023
+r$842,42
+r$0,00
+r$0,00
+r$842,42
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+20/12/2023
+r$842,42
+igreja evangelica sion
+rec trc 20/12/2023 - igreja evange
+r$842,42
+subtotal recebido:
+r$842,42
+cliente: irmãos fontoura ltda - epp
+nfe000000004462
+04/12/2023
+r$728,50
+r$0,00
+r$0,00
+r$728,50
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$728,50
+irmãos fontoura ltda - epp
+transferencia bancária - 5556287e-a0
+r$728,50
+subtotal recebido:
+r$728,50
+cliente: joão gonçalves torres bandeira
+849196849849877
+04/12/2023
+r$762,89
+r$0,00
+r$0,00
+r$762,89
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$762,89
+joão gonçalves torres bandeira
+rec trc 15/12/2023 - joão gonçalv
+r$762,89
+subtotal recebido:
+r$762,89
+cliente: jocelia marques 09703687717
+849196849849866
+04/12/2023
+r$1.138,24
+r$0,00
+r$0,00
+r$1.138,24
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+usuário: philippea
+quality automação
+página 5  de 11
+dinheiro
+caixa(posto)
+04/12/2023
+r$1.138,24
+jocelia marques 09703687717
+rec trc 04/12/2023 - jocelia marq
+r$1.138,24
+subtotal recebido:
+r$1.138,24
+cliente: jonas alves rodrigues
+849196849849702
+03/11/2023
+r$973,28
+r$0,00
+r$0,00
+r$973,28
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+13/12/2023
+r$300,00
+jonas alves rodrigues
+rec trc 13/12/2023 - jonas alves r
+dinheiro
+banco do brasil
+15/12/2023
+r$1.000,00
+jonas alves rodrigues
+rec trc 15/12/2023 - jonas alves r
+vale
+15/12/2023
+-r$747,50
+jonas alves rodrigues
+troco: vale gerado - 133
+r$552,50
+849196849849876
+04/12/2023
+r$1.114,53
+r$0,00
+r$0,00
+r$1.114,53
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+vale
+15/12/2023
+r$747,50
+jonas alves rodrigues
+vale - 133
+r$747,50
+subtotal recebido:
+r$1.300,00
+cliente: jones dutra da silva
+849196849849828
+01/12/2023
+r$236,73
+r$0,00
+r$0,00
+r$236,73
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+caixa(posto)
+01/12/2023
+r$236,73
+jones dutra da silva
+rec trc 01/12/2023 - jones dutra
+r$236,73
+subtotal recebido:
+r$236,73
+cliente: julio cesar souza pimenta
+849196849849884
+04/12/2023
+r$197,04
+r$0,00
+r$0,00
+r$197,04
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$197,04
+julio cesar souza pimenta
+rec trc 15/12/2023 - julio cesar s
+r$197,04
+subtotal recebido:
+r$197,04
+cliente: leonardo batista neves 10746422792
+nfe000000004275
+03/11/2023
+r$1.382,72
+r$0,00
+r$32,21
+r$1.414,93
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+01/12/2023
+r$1.414,93
+leonardo batista neves 10746422792
+transferencia bancária - 19062b15-80
+r$1.414,93
+nfe000000004463
+04/12/2023
+r$796,96
+r$0,00
+r$0,00
+r$796,96
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+26/12/2023
+r$796,96
+leonardo batista neves 10746422792
+transferencia bancária - dad9b3d4-05
+r$796,96
+subtotal recebido:
+r$2.211,89
+cliente: lider veiculos s. a.
+849196849849928
+05/12/2023
+r$627,03
+r$0,00
+r$0,00
+r$627,03
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+06/12/2023
+r$627,03
+lider veiculos s. a.
+rec trc 06/12/2023 - cvc cachoeir
+r$627,03
+subtotal recebido:
+r$627,03
+cliente: lubril lubrificantes ltda
+849196849849878
+04/12/2023
+r$873,91
+r$0,00
+r$0,00
+r$873,91
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$873,91
+lubril lubrificantes ltda
+rec trc 15/12/2023 - lubril
+r$873,91
+subtotal recebido:
+r$873,91
+cliente: luiz carlos pereira da silveira
+849196849849880
+04/12/2023
+r$3.833,61
+r$0,00
+r$0,00
+r$3.833,61
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$3.833,61
+luiz carlos pereira da silveira
+rec trc 15/12/2023 - luiz carlos p
+r$3.833,61
+usuário: philippea
+quality automação
+página 6  de 11
+subtotal recebido:
+r$3.833,61
+cliente: marcelo garruth preato 09934292700
+849196849849770
+03/11/2023
+r$2.711,92
+r$0,00
+r$233,21
+r$2.945,13
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+20/12/2023
+r$2.945,13
+marcelo garruth preato 09934292700
+transferencia bancária - 9e900ea7-ca
+r$2.945,13
+subtotal recebido:
+r$2.945,13
+cliente: marcio borges amaral
+849196849849726
+03/11/2023
+r$1.643,17
+r$0,00
+r$146,73
+r$1.789,90
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+21/12/2023
+r$1.789,90
+marcio borges amaral
+transferencia bancária - 01cea2d5-1e
+r$1.789,90
+subtotal recebido:
+r$1.789,90
+cliente: marcos felipe romualdo pereira da silva 14196680720
+849196849849886
+04/12/2023
+r$2.785,82
+r$0,00
+r$0,00
+r$2.785,82
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+19/12/2023
+r$2.785,82
+marcos felipe romualdo pereira da silva 141
+transferencia bancária - 4d6f203a-83
+r$2.785,82
+subtotal recebido:
+r$2.785,82
+cliente: marcos kope faria
+849196849849724
+03/11/2023
+r$1.721,11
+r$0,00
+r$45,77
+r$1.766,88
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+02/12/2023
+r$1.766,88
+marcos kope faria
+transferencia bancária - 38eba4f4-da
+r$1.766,88
+subtotal recebido:
+r$1.766,88
+cliente: margeral marmores e granitos
+849196849849888
+04/12/2023
+r$1.997,02
+r$0,00
+r$0,00
+r$1.997,02
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+19/12/2023
+r$1.059,00
+margeral marmores e granitos
+cheque - 700004
+cheque
+19/12/2023
+r$935,00
+margeral marmores e granitos
+cheque - 817494
+dinheiro
+caixa(posto)
+19/12/2023
+r$3,02
+margeral marmores e granitos
+rec trc 19/12/2023 - margeral ma
+r$1.997,02
+subtotal recebido:
+r$1.997,02
+cliente: maria rita barachi
+849196849849890
+04/12/2023
+r$978,22
+r$0,00
+r$0,00
+r$978,22
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$978,22
+maria rita barachi
+rec trc 15/12/2023 - maria rita ba
+r$978,22
+subtotal recebido:
+r$978,22
+cliente: matheus cardoso pereira
+849196849849937
+05/12/2023
+r$1.331,00
+r$0,00
+r$0,00
+r$1.331,00
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+18/12/2023
+r$1.331,00
+matheus cardoso pereira
+rec trc 18/12/2023 - matheus car
+r$1.331,00
+subtotal recebido:
+r$1.331,00
+cliente: m. b. partelli & cia ltda
+000187710881136
+05/12/2023
+r$200,00
+r$0,00
+r$0,00
+r$200,00
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+caixa(posto)
+13/12/2023
+r$200,00
+m. b. partelli & cia ltda
+rec trc 13/12/2023 - v. j. partelli
+r$200,00
+849196849849930
+05/12/2023
+r$3.753,97
+r$0,00
+r$1.200,00
+r$4.953,97
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+13/12/2023
+r$1.460,00
+m. b. partelli & cia ltda
+cheque - 000642
+cheque
+13/12/2023
+r$850,00
+m. b. partelli & cia ltda
+cheque - 002324
+usuário: philippea
+quality automação
+página 7  de 11
+cheque
+13/12/2023
+r$2.400,00
+m. b. partelli & cia ltda
+cheque - 850171
+vale
+13/12/2023
+-r$52,37
+m. b. partelli & cia ltda
+troco: vale gerado - 132
+vale
+13/12/2023
+r$296,34
+m. b. partelli & cia ltda
+vale - 130
+r$4.953,97
+849196849849981
+18/12/2023
+r$5.035,94
+r$0,00
+r$0,00
+r$5.035,94
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+22/12/2023
+r$5.000,00
+m. b. partelli & cia ltda
+cheque - 001085
+vale
+22/12/2023
+-r$16,43
+m. b. partelli & cia ltda
+troco: vale gerado - 136
+vale
+22/12/2023
+r$52,37
+m. b. partelli & cia ltda
+vale - 132
+r$5.035,94
+subtotal recebido:
+r$10.189,91
+cliente: nacional maquinas e equipamentos industriais ltda
+849196849849939
+05/12/2023
+r$1.907,85
+r$0,00
+r$0,00
+r$1.907,85
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$1.907,85
+nacional maquinas e equipamentos industriai
+transferencia bancária - 7f92e8bd-b1
+r$1.907,85
+subtotal recebido:
+r$1.907,85
+cliente: nagano motos ltda
+nfe000000004465
+04/12/2023
+r$149,32
+r$0,00
+r$0,00
+r$149,32
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$149,32
+nagano motos ltda
+rec trc 15/12/2023 - nagano moto
+r$149,32
+subtotal recebido:
+r$149,32
+cliente: nova stone ltda
+849196849849902
+04/12/2023
+r$1.909,89
+r$0,00
+r$0,00
+r$1.909,89
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$1.909,89
+nova stone ltda
+rec trc 15/12/2023 - nova stone l
+r$1.909,89
+subtotal recebido:
+r$1.909,89
+cliente: paulo roberto marques 07859964783
+849196849849947
+06/12/2023
+r$4.894,50
+r$0,00
+r$0,00
+r$4.894,50
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+20/12/2023
+r$4.894,50
+paulo roberto marques 07859964783
+transferencia bancária - 97fac1cb-afa
+r$4.894,50
+subtotal recebido:
+r$4.894,50
+cliente: pedro pansini de souza
+849196849849727
+03/11/2023
+r$3.253,25
+r$0,00
+r$0,00
+r$3.253,25
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+11/12/2023
+r$2.800,00
+pedro pansini de souza
+rec trc 11/12/2023 - pedro pansini
+dinheiro
+banco do brasil
+18/12/2023
+r$453,25
+pedro pansini de souza
+rec trc 18/12/2023 - pedro pansini
+r$3.253,25
+subtotal recebido:
+r$3.253,25
+cliente: posto de molas cachoeiro ltda
+849196849849900
+04/12/2023
+r$557,13
+r$0,00
+r$0,00
+r$557,13
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$557,13
+posto de molas cachoeiro ltda
+rec trc 15/12/2023 - posto de mol
+r$557,13
+subtotal recebido:
+r$557,13
+cliente: posto de molas denadai ltda
+nfe000000004468
+04/12/2023
+r$450,71
+r$0,00
+r$0,00
+r$450,71
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$450,71
+posto de molas denadai ltda
+transferencia bancária - 1471f56f-93
+r$450,71
+subtotal recebido:
+r$450,71
+usuário: philippea
+quality automação
+página 8  de 11
+cliente: premobras-premoldados brasileiros ltda currais e cochos itab
+nfe000000004466
+04/12/2023
+r$459,70
+r$0,00
+r$0,00
+r$459,70
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$459,70
+premobras-premoldados brasileiros ltda cu
+transferencia bancária - 0ec7c414-f8
+r$459,70
+nfe000000004467
+04/12/2023
+r$1.343,93
+r$0,00
+r$0,00
+r$1.343,93
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$1.343,93
+premobras-premoldados brasileiros ltda cu
+transferencia bancária - 47895dfc-5b
+r$1.343,93
+subtotal recebido:
+r$1.803,63
+cliente: ps de luca
+849196849849903
+04/12/2023
+r$3.061,97
+r$0,00
+r$0,00
+r$3.061,97
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+11/12/2023
+r$1.160,00
+ps de luca
+cheque - 000088
+cheque
+11/12/2023
+r$1.127,00
+ps de luca
+cheque - 000378
+cheque
+11/12/2023
+r$910,00
+ps de luca
+cheque - 000696
+vale
+11/12/2023
+-r$135,03
+ps de luca
+troco: vale gerado - 131
+r$3.061,97
+849196849849976
+18/12/2023
+r$2.569,31
+r$0,00
+r$0,00
+r$2.569,31
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+20/12/2023
+r$1.300,00
+ps de luca
+cheque - 000534
+cheque
+20/12/2023
+r$1.000,00
+ps de luca
+cheque - 001516
+cheque
+20/12/2023
+r$279,00
+ps de luca
+cheque - 850005
+vale
+20/12/2023
+-r$9,69
+ps de luca
+troco: vale gerado - 134
+r$2.569,31
+subtotal recebido:
+r$5.631,28
+cliente: resultgran industria e comercio de abrasivos ltda
+nfe000000004469
+05/12/2023
+r$2.004,13
+r$0,00
+r$0,00
+r$2.004,13
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$2.004,13
+resultgran industria e comercio de abrasiv
+rec trc 15/12/2023 - resultgran i
+r$2.004,13
+subtotal recebido:
+r$2.004,13
+cliente: r & r engenharia ltda
+849196849849796
+17/11/2023
+r$54.313,40
+r$0,00
+r$0,00
+r$54.313,40
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+06/12/2023
+r$54.313,40
+r & r engenharia ltda
+rec trc 06/12/2023 - r & r engenh
+r$54.313,40
+849196849849955
+06/12/2023
+r$44.985,89
+r$0,00
+r$0,00
+r$44.985,89
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+20/12/2023
+r$44.985,89
+r & r engenharia ltda
+rec trc 20/12/2023 - r & r engenh
+r$44.985,89
+subtotal recebido:
+r$99.299,29
+cliente: santa rita industria e comercio de abrasivos ltda
+nfe000000004470
+05/12/2023
+r$1.015,28
+r$0,00
+r$0,00
+r$1.015,28
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$1.015,28
+santa rita industria e comercio de abrasivos
+rec trc 15/12/2023 - santa rita in
+r$1.015,28
+subtotal recebido:
+r$1.015,28
+cliente: supermercado monte cristo alimentos eireli
+849196849849913
+05/12/2023
+r$2.622,72
+r$0,00
+r$0,00
+r$2.622,72
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+11/12/2023
+r$2.622,72
+supermercado monte cristo alimentos eireli
+cheque - 304318
+r$2.622,72
+subtotal recebido:
+r$2.622,72
+cliente: tanea fontoura souza coelho
+usuário: philippea
+quality automação
+página 9  de 11
+849196849849910
+05/12/2023
+r$1.197,35
+r$0,00
+r$0,00
+r$1.197,35
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$1.197,35
+tanea fontoura souza coelho
+rec trc 15/12/2023 - tanea fonto
+r$1.197,35
+subtotal recebido:
+r$1.197,35
+cliente: trajano coelho neto
+849196849849915
+05/12/2023
+r$688,33
+r$0,00
+r$0,00
+r$688,33
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$688,33
+trajano coelho neto
+rec trc 15/12/2023 - trajano coel
+r$688,33
+subtotal recebido:
+r$688,33
+cliente: trans cachoeiro transp. de cargas ltda
+849196849849959
+06/12/2023
+r$33.347,30
+r$0,00
+r$0,00
+r$33.347,30
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 335280
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901081
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901082
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901083
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901084
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901085
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901086
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901087
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901088
+cheque
+11/12/2023
+r$3.334,73
+trans cachoeiro transp. de cargas ltda
+cheque - 901089
+r$33.347,30
+849196849849989
+18/12/2023
+r$31.069,84
+r$0,00
+r$0,00
+r$31.069,84
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335306
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335307
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335308
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335309
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335310
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335311
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335312
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335313
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335314
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335315
+cheque
+22/12/2023
+r$2.589,15
+trans cachoeiro transp. de cargas ltda
+cheque - 335316
+cheque
+22/12/2023
+r$2.589,19
+trans cachoeiro transp. de cargas ltda
+cheque - 335317
+r$31.069,84
+subtotal recebido:
+r$64.417,14
+cliente: transportadora continental ltda
+849196849849918
+05/12/2023
+r$11.501,01
+r$0,00
+r$0,00
+r$11.501,01
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$11.501,01
+transportadora continental ltda
+rec trc 15/12/2023 - transportad
+r$11.501,01
+subtotal recebido:
+r$11.501,01
+cliente: trator-maq comercio e servicos ltda
+nfe000000001615
+05/12/2023
+r$2.037,73
+r$0,00
+r$0,00
+r$2.037,73
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$2.037,73
+trator-maq comercio e servicos ltda
+rec trc 15/12/2023 - trator-maq c
+r$2.037,73
+nfe000000004473
+05/12/2023
+r$2.104,22
+r$0,00
+r$0,00
+r$2.104,22
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+15/12/2023
+r$2.104,22
+trator-maq comercio e servicos ltda
+rec trc 15/12/2023 - trator-maq c
+r$2.104,22
+subtotal recebido:
+r$4.141,95
+cliente: valdinei dos santos
+usuário: philippea
+quality automação
+página 10  de 11
+nfe000000004291
+03/11/2023
+r$1.600,33
+r$0,00
+r$0,00
+r$1.600,33
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+15/12/2023
+r$1.600,33
+valdinei dos santos
+rec trc 15/12/2023 - valdinei dos
+r$1.600,33
+subtotal recebido:
+r$1.600,33
+cliente: viação real ita ltda
+849196849849926
+05/12/2023
+r$390,93
+r$0,00
+r$0,00
+r$390,93
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+transferencia bancária
+bankquality
+15/12/2023
+r$390,93
+viação real ita ltda
+transferencia bancária - be556aa3-a8
+r$390,93
+subtotal recebido:
+r$390,93
+cliente: willian barbosa da silva
+nfe000000004286
+03/11/2023
+r$1.798,02
+r$0,00
+r$0,00
+r$1.798,02
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+banco do brasil
+20/12/2023
+r$1.798,02
+willian barbosa da silva
+rec trc 20/12/2023 - willian barb
+r$1.798,02
+subtotal recebido:
+r$1.798,02
+cliente: yathon do brasil industria importacao e exportacao eireli
+849196849849925
+05/12/2023
+r$691,61
+r$0,00
+r$0,00
+r$691,61
+movimentação
+cliente
+forma receb.
+conta/adm.
+data pgt
+vl recebido
+vl líquido:
+acréscimo:
+desconto:
+vl bruto:
+data:
+doc:
+dinheiro
+sicoob
+18/12/2023
+r$691,61
+yathon do brasil industria importacao e exp
+rec trc 18/12/2023 - yathon do br
+r$691,61
+subtotal recebido:
+r$691,61
+total recebido:
+r$324.414,94
+subtotais
+static text
+acréscimo
+boleto
+static text
+cartão
+cheque
+static text
+cheque troco
+desconto
+dinheiro
+static text
+nota
+pré pago
+static text
+transf. banc.
+vale
+total pago
+r$102.839,40
+r$37.686,72
+-r$12.605,16
+r$0,00
+r$0,00
+r$196.493,98
+r$316,52
+r$0,00
+r$0,00
+r$0,00
+r$1.797,98
+r$324.414,94
+usuário: philippea
+quality automação
+página 11  de 11

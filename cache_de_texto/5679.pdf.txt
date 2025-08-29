@@ -1,0 +1,6070 @@
+movimento caixa/bancos
+01/08/2024
+1
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+30/06/2024
+0,00
+0,00
+207.476,84
+saldo nesta data
+0
+01/07/2024
+20
+889,76
+0,00
+208.366,60
+recebimento cliente cobranca eletronica
+390 frizzo comercio de vidros e esquadr
+219,76
+2033
+1
+rec
+001
+fil.
+1
+dupl.
+566 posto vaca
+170,00
+2024
+1
+rec
+001
+fil.
+1
+dupl.
+756 condominio edificio victoria regia
+500,00
+1996
+1
+rec
+001
+fil.
+1
+dupl.
+total
+889,76
+nao
+1
+01/07/2024
+19
+30,00
+0,00
+208.396,60
+recebimento em pix - conta banco filial : 1 pedido : 8675 / nfce destino 1 -
+consumidor final
+nao
+2
+8675/nfce-1
+01/07/2024
+19
+80,00
+0,00
+208.476,60
+recebimento em pix - conta banco filial : 1 pedido : 8676 / nfce destino 1 -
+consumidor final
+nao
+3
+8676/nfce-1
+01/07/2024
+19
+31,00
+0,00
+208.507,60
+recebimento em pix - conta banco - agromeque industria
+sim
+4
+2901/nfce
+01/07/2024
+19
+4.558,09
+0,00
+213.065,69
+recebimento em pix - conta banco filial : 1 pedido : 2587 / pev destino 20 -
+luiz ferla e outro
+nao
+5
+2587/pev-20
+01/07/2024
+39
+0,00
+5,88
+213.059,81
+tarifa bancaria tarifas - pgto folha cta. salario p/ outros banc
+sim
+6
+0
+01/07/2024
+36
+0,00
+9,36
+213.050,45
+tarifa serv. cobrança titulos
+sim
+7
+0
+01/07/2024
+19
+2.434,50
+0,00
+215.484,95
+recebimento em pix - conta banco - recebimento pix sicredi 79153054172
+alcionir paulo - compra apenas atraves de pedidio - baixa a vulsa no
+estoque
+sim
+8
+0
+01/07/2024
+19
+22,00
+0,00
+215.506,95
+recebimento em pix - conta banco - recebimento pix 02984149106 rivair beira
+dos san pix_cred
+sim
+9
+0
+01/07/2024
+74
+0,00
+0,01
+215.506,94
+emprestimos/financiamento - pagto cm contr rotativo c40634736
+sim
+10
+0
+01/07/2024
+74
+0,00
+0,01
+215.506,93
+emprestimos/financiamento - pagto juros contr rotativ c40634736
+sim
+11
+0
+01/07/2024
+21
+0,00
+181,49
+215.325,44
+frete
+1421 solidez transportes ltda
+181,49
+709425
+1
+pag
+1
+fil.
+1
+dupl.
+total
+181,49
+nao
+12
+0
+01/07/2024
+47
+0,00
+865,90
+214.459,54
+fornecedor
+354 multi-fix do brasil ind com paraf ltda
+865,90
+90942
+2
+pag
+1
+fil.
+1
+dupl.
+total
+865,90
+nao
+13
+0
+01/07/2024
+47
+0,00
+1.424,55
+213.034,99
+fornecedor - diasa comercio cnpj: 139044200001-54
+sim
+14
+0
+01/07/2024
+47
+0,00
+806,16
+212.228,83
+fornecedor - iguassu distribuidora cnpj: 30855676/0001-54
+sim
+15
+0
+01/07/2024
+70
+0,00
+3.484,53
+208.744,30
+royalties - tuuls franchise - cnpj: 31074194/0001-01
+sim
+16
+0
+01/07/2024
+84
+1.711,40
+0,00
+210.455,70
+baixa recebimento em cartao
+1 consumidor final
+16,00
+8623
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+108,80
+8625
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+302,50
+8626
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+80,00
+8629
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+45,00
+8633
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+115,78
+8634
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+17,58
+8635
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+12,00
+8636
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+98,85
+8637
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+55,90
+8638
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+29,90
+8639
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+15,90
+8640
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+60,00
+8641
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+120,00
+8642
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+90,00
+8643
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+20,49
+8645
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+33,90
+8646
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+150,00
+8648
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+94,00
+8649
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+22,00
+8650
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+80,00
+8655
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+27,40
+8658
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+15,00
+8663
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+19,00
+8664
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+54,50
+8666
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+26,90
+8667
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+1.711,40
+nao
+17
+0
+01/07/2024
+84
+415,90
+0,00
+210.871,60
+baixa recebimento em cartao
+1 consumidor final
+60,00
+8611
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+65,90
+8613
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+50,00
+8614
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+46,00
+8616
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+114,00
+8618
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+80,00
+8619
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+415,90
+nao
+18
+0
+01/07/2024
+90
+0,00
+93,00
+210.778,60
+taxa maquina de cartão
+sim
+19
+0
+01/07/2024
+86
+0,00
+31,28
+210.747,32
+taxa cartão debito
+sim
+20
+0
+01/07/2024
+81
+0,00
+43,91
+210.703,41
+taxa cartão de crédito
+sim
+21
+0
+01/07/2024
+84
+880,11
+0,00
+211.583,52
+baixa recebimento em cartao
+1 consumidor final
+187,80
+8208
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+71,00
+8222
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+156,00
+8225
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+110,00
+8234
+1
+rec
+crtrec
+fil.
+1
+dupl.
+78 gramavia hidrossemeadura ltda
+345,31
+2728
+1
+rec
+crtrec
+fil.
+1
+dupl.
+173 everton domingos
+10,00
+2757
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+880,11
+nao
+23
+0
+movimento caixa/bancos
+01/08/2024
+2
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+01/07/2024
+84
+520,00
+0,00
+212.103,52
+baixa recebimento em cartao
+1 consumidor final
+110,00
+8251
+1
+rec
+crtrec
+fil.
+1
+dupl.
+743 dilceu rossato
+410,00
+2760
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+520,00
+nao
+24
+0
+01/07/2024
+90
+0,00
+42,96
+212.060,56
+taxa maquina de cartão
+sim
+25
+0
+02/07/2024
+19
+90,00
+0,00
+212.150,56
+recebimento em pix - conta banco filial : 1 pedido : 8689 / nfce destino 1 -
+consumidor final
+nao
+1
+8689/nfce-1
+02/07/2024
+19
+110,00
+0,00
+212.260,56
+recebimento em pix - conta banco filial : 1 pedido : 8690 / nfce destino 1 -
+consumidor final
+nao
+2
+8690/nfce-1
+02/07/2024
+20
+1.028,21
+0,00
+213.288,77
+recebimento cliente cobranca eletronica
+116 thiago fabris e outra
+503,40
+1963
+1
+rec
+001
+fil.
+1
+dupl.
+232 claudinei tomaz
+188,00
+1960
+1
+rec
+001
+fil.
+1
+dupl.
+644 brastelha industrial ltda
+142,10
+2013
+1
+rec
+001
+fil.
+1
+dupl.
+670 terraplenagem frizzo ltda
+194,71
+2011
+1
+rec
+001
+fil.
+1
+dupl.
+total
+1.028,21
+nao
+3
+02/07/2024
+19
+19,00
+0,00
+213.307,77
+recebimento em pix - conta banco filial : 1 pedido : 8698 / nfce destino 1 -
+consumidor final
+nao
+5
+8698/nfce-1
+02/07/2024
+19
+40,00
+0,00
+213.347,77
+recebimento em pix - conta banco filial : 1 pedido : 8702 / nfce destino 1 -
+consumidor final
+nao
+6
+8702/nfce-1
+02/07/2024
+19
+90,00
+0,00
+213.437,77
+recebimento em pix - conta banco filial : 1 pedido : 8694 / nfce destino 702 -
+agrolub peças e serviços ltda
+nao
+7
+8694/nfce-702
+02/07/2024
+84
+8,30
+0,00
+213.446,07
+baixa recebimento em cartao
+1 consumidor final
+8,30
+8610
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+8,30
+nao
+8
+0
+02/07/2024
+81
+0,00
+16,33
+213.429,74
+taxa cartão de crédito
+sim
+10
+taxa cartão
+02/07/2024
+84
+148,31
+0,00
+213.578,05
+baixa recebimento em cartao
+sim
+11
+02/07/2024
+36
+0,00
+1,56
+213.576,49
+tarifa serv. cobrança titulos
+sim
+12
+tarifa serv.c
+02/07/2024
+84
+929,20
+0,00
+214.505,69
+baixa recebimento em cartao
+1 consumidor final
+85,00
+8621
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+33,35
+8671
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+84,95
+8672
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+45,00
+8673
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+55,00
+8679
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+11,00
+8680
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+39,60
+8681
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+373,30
+8686
+1
+rec
+crtrec
+fil.
+1
+dupl.
+111 jaco catalisadores e escapamentos l
+100,00
+2937
+1
+rec
+crtrec
+fil.
+1
+dupl.
+763 flavio krzyzanski
+22,00
+2944
+1
+rec
+crtrec
+fil.
+1
+dupl.
+775  aleixo morgem
+80,00
+2941
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+929,20
+nao
+13
+0
+03/07/2024
+20
+1.270,71
+0,00
+215.776,40
+recebimento cliente cobranca eletronica
+30 3r artesanatos e transportes ltda
+893,04
+1915
+2
+rec
+001
+fil.
+1
+dupl.
+243 altek mecanica industrial ltda
+276,31
+1934
+1
+rec
+001
+fil.
+1
+dupl.
+614 andrade autocenter e transportes l
+101,36
+2032
+1
+rec
+001
+fil.
+1
+dupl.
+total
+1.270,71
+nao
+1
+03/07/2024
+19
+1.000,00
+0,00
+216.776,40
+recebimento em pix - conta banco filial : 1 pedido : 2950 / pev destino 536 -
+construtora dalmolin ltda
+nao
+2
+2950/pev-536
+03/07/2024
+19
+130,00
+0,00
+216.906,40
+recebimento em pix - conta banco filial : 1 pedido : 8729 / nfce destino 1 -
+consumidor final
+nao
+4
+8729/nfce-1
+03/07/2024
+47
+0,00
+1.670,96
+215.235,44
+fornecedor
+1502 bsb produtora de equipamentos de p
+1.670,96
+11055
+1
+pag
+1
+fil.
+1
+dupl.
+total
+1.670,96
+nao
+5
+0
+03/07/2024
+62
+0,00
+1,56
+215.233,88
+manutenção de titulos
+sim
+6
+03/07/2024
+84
+325,12
+0,00
+215.559,00
+baixa recebimento em cartao
+1 consumidor final
+30,00
+8695
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+75,00
+8699
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+4,00
+8700
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+18,00
+8701
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+42,90
+8703
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+24,00
+8728
+1
+rec
+crtrec
+fil.
+1
+dupl.
+702 agrolub peças e serviços ltda
+131,22
+8693
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+325,12
+nao
+7
+0
+03/07/2024
+84
+761,31
+0,00
+216.320,31
+baixa recebimento em cartao
+1 consumidor final
+50,00
+8279
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+65,00
+8288
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+4,40
+8669
+1
+rec
+crtrec
+fil.
+1
+dupl.
+660 ricardo zunarelli armelinda
+190,00
+2378
+3
+rec
+crtrec
+fil.
+1
+dupl.
+746 flavio krzyzanski
+451,91
+2765
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+761,31
+nao
+8
+0
+03/07/2024
+81
+0,00
+21,74
+216.298,57
+taxa cartão de crédito
+sim
+9
+taxa cartão
+03/07/2024
+86
+0,00
+4,56
+216.294,01
+taxa cartão debito
+sim
+10
+taxa cartão
+03/07/2024
+19
+300,00
+0,00
+216.594,01
+recebimento em pix - conta banco
+sim
+11
+8714/nfce
+04/07/2024
+20
+6.041,68
+0,00
+222.635,69
+recebimento cliente cobranca eletronica
+56 jose alberto favaretto
+5.056,44
+1671
+1
+rec
+1
+fil.
+1
+dupl.
+693 calhas brasil ltda
+985,24
+1702
+2
+rec
+001
+fil.
+1
+dupl.
+total
+6.041,68
+nao
+1
+04/07/2024
+19
+38,90
+0,00
+222.674,59
+recebimento em pix - conta banco filial : 1 pedido : 8736 / nfce destino 1 -
+consumidor final
+nao
+3
+8736/nfce-1
+04/07/2024
+19
+63,50
+0,00
+222.738,09
+recebimento em pix - conta banco filial : 1 pedido : 8741 / nfce destino 1 -
+nao
+5
+8741/nfce-1
+movimento caixa/bancos
+01/08/2024
+3
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+consumidor final
+04/07/2024
+47
+0,00
+934,05
+221.804,04
+fornecedor
+1494 diasa comercio e distribuicao ltda
+934,05
+241935
+3
+pag
+3
+fil.
+1
+dupl.
+total
+934,05
+nao
+6
+0
+04/07/2024
+36
+0,00
+15,60
+221.788,44
+tarifa serv. cobrança titulos
+sim
+7
+taxa tarifa
+04/07/2024
+81
+0,00
+33,18
+221.755,26
+taxa cartão de crédito
+sim
+12
+taxa cartão
+04/07/2024
+84
+311,00
+0,00
+222.066,26
+baixa recebimento em cartao
+1 consumidor final
+11,00
+8708
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+70,00
+8715
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+16,00
+8716
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+34,00
+8717
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+95,00
+8719
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+85,00
+8725
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+311,00
+nao
+13
+0
+04/07/2024
+84
+404,39
+0,00
+222.470,65
+baixa recebimento em cartao
+1 consumidor final
+28,00
+8306
+1
+rec
+crtrec
+fil.
+1
+dupl.
+629 hcm engenharia ltda
+376,39
+2770
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+404,39
+nao
+14
+0
+04/07/2024
+84
+558,66
+0,00
+223.029,31
+baixa recebimento em cartao
+1 consumidor final
+100,00
+7396
+3
+rec
+crtrec
+fil.
+1
+dupl.
+662 willian lima da silva
+458,66
+2382
+3
+rec
+crtrec
+fil.
+1
+dupl.
+total
+558,66
+nao
+15
+0
+05/07/2024
+19
+29,30
+0,00
+223.058,61
+recebimento em pix - conta banco filial : 1 pedido : 8747 / nfce destino 1 -
+consumidor final
+nao
+1
+8747/nfce-1
+05/07/2024
+19
+199,00
+0,00
+223.257,61
+recebimento em pix - conta banco filial : 1 pedido : 2958 / pev destino 780 -
+plottar grafica e comunicacao visual ltda
+nao
+2
+2958/pev-780
+05/07/2024
+20
+5.900,70
+0,00
+229.158,31
+recebimento cliente cobranca eletronica
+694 gran reserva residence spe ltda
+5.900,70
+1708
+1
+rec
+001
+fil.
+1
+dupl.
+total
+5.900,70
+nao
+3
+05/07/2024
+19
+56,00
+0,00
+229.214,31
+recebimento em pix - conta banco filial : 1 pedido : 8749 / nfce destino 1 -
+consumidor final
+nao
+4
+8749/nfce-1
+05/07/2024
+19
+131,65
+0,00
+229.345,96
+recebimento em pix - conta banco filial : 1 pedido : 8753 / nfce destino 81 -
+joao batista junior
+nao
+5
+8753/nfce-81
+05/07/2024
+62
+0,00
+1,56
+229.344,40
+manutenção de titulos
+sim
+6
+manutenção 
+05/07/2024
+48
+0,00
+1,56
+229.342,84
+tarifa baixa de titulos
+sim
+7
+tarifa baixa d
+05/07/2024
+27
+0,00
+18,65
+229.324,19
+cesta de relacionamento
+sim
+8
+cesta de rel
+05/07/2024
+76
+0,00
+81,63
+229.242,56
+seguros-seguro prestamista
+sim
+9
+seguro pres
+05/07/2024
+29
+0,00
+18.223,38
+211.019,18
+folha de pagamento- referente ao mês junho
+sim
+10
+folha pgto
+05/07/2024
+44
+0,00
+8.500,00
+202.519,18
+pro-labore- everton
+sim
+11
+pro labore
+05/07/2024
+47
+0,00
+226,33
+202.292,85
+fornecedor
+1252 black & decker do brasil ltda
+60,40
+1743471
+4
+pag
+23
+fil.
+1
+dupl.
+1553 aguas de sorriso
+78,89
+52024
+1
+pag
+1
+fil.
+1
+dupl.
+1553 aguas de sorriso
+87,04
+62024
+1
+pag
+1
+fil.
+1
+dupl.
+total
+226,33
+nao
+12
+fornecedor
+05/07/2024
+21
+0,00
+206,45
+202.086,40
+frete- nf 181440 mastiflex
+sim
+13
+fornecedor
+05/07/2024
+47
+0,00
+3.266,90
+198.819,50
+fornecedor-honorario
+sim
+14
+fornecedor
+05/07/2024
+84
+587,59
+0,00
+199.407,09
+baixa recebimento em cartao
+1 consumidor final
+35,00
+8730
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+55,00
+8731
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+217,94
+8734
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+34,00
+8735
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+24,00
+8737
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+20,00
+8739
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+109,80
+8742
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+16,00
+8743
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+30,00
+8744
+1
+rec
+crtrec
+fil.
+1
+dupl.
+776 reginaldo bassani
+45,85
+2954
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+587,59
+nao
+15
+0
+05/07/2024
+84
+579,47
+0,00
+199.986,56
+baixa recebimento em cartao
+1 consumidor final
+236,67
+7403
+3
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+45,00
+8313
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+24,00
+8704
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+54,80
+8706
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+22,00
+8723
+1
+rec
+crtrec
+fil.
+1
+dupl.
+629 hcm engenharia ltda
+170,00
+2779
+1
+rec
+crtrec
+fil.
+1
+dupl.
+646 hernandes piccoli
+27,00
+2780
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+579,47
+nao
+16
+0
+05/07/2024
+81
+0,00
+26,12
+199.960,44
+taxa cartão de crédito
+sim
+17
+taxa cartão
+06/07/2024
+19
+28,50
+0,00
+199.988,94
+recebimento em pix - conta banco filial : 1 pedido : 8763 / nfce destino 1 -
+consumidor final
+nao
+1
+8763/nfce-1
+06/07/2024
+19
+103,50
+0,00
+200.092,44
+recebimento em pix - conta banco filial : 1 pedido : 8771 / nfce destino 1 -
+consumidor final
+nao
+2
+8771/nfce-1
+08/07/2024
+20
+2.200,78
+0,00
+202.293,22
+recebimento cliente cobranca eletronica
+39 nilson bedin e outros - fazenda lagoa
+337,57
+2092
+1
+rec
+001
+fil.
+1
+dupl.
+260 max turbo diesel mecanica ltda
+455,26
+2014
+2
+rec
+001
+fil.
+1
+dupl.
+332 conselho da comunidade da comarca
+596,40
+1952
+1
+rec
+001
+fil.
+1
+dupl.
+332 conselho da comunidade da comarca
+312,30
+2070
+1
+rec
+001
+fil.
+1
+dupl.
+596 alianca engenharia e pre moldados
+499,25
+2104
+1
+rec
+001
+fil.
+1
+dupl.
+nao
+1
+movimento caixa/bancos
+01/08/2024
+4
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+total
+2.200,78
+08/07/2024
+19
+383,83
+0,00
+202.677,05
+recebimento em pix - conta banco filial : 1 pedido : 2966 / pev destino 747 -
+jose roberto corcine
+nao
+2
+2966/pev-747
+08/07/2024
+19
+340,13
+0,00
+203.017,18
+recebimento em pix - conta banco filial : 1 pedido : 2967 / pev destino 764 -
+agro jato ltda
+nao
+3
+2967/pev-764
+08/07/2024
+19
+156,00
+0,00
+203.173,18
+recebimento em pix - conta banco filial : 1 pedido : 2968 / pev destino 364 -
+destak placas automotivas ltda
+nao
+4
+2968/pev-364
+08/07/2024
+19
+273,00
+0,00
+203.446,18
+recebimento em pix - conta banco filial : 1 pedido : 8784 / nfce destino 1 -
+consumidor final
+nao
+5
+8784/nfce-1
+08/07/2024
+19
+22,00
+0,00
+203.468,18
+recebimento em pix - conta banco filial : 1 pedido : 8785 / nfce destino 1 -
+consumidor final
+nao
+6
+8785/nfce-1
+08/07/2024
+19
+37,00
+0,00
+203.505,18
+recebimento em pix - conta banco filial : 1 pedido : 8788 / nfce destino 1 -
+consumidor final
+nao
+7
+8788/nfce-1
+08/07/2024
+19
+1.699,45
+0,00
+205.204,63
+recebimento em pix - conta banco
+101 alvaro oberdam pereira
+562,26
+898
+1
+rec
+001
+fil.
+1
+dupl.
+101 alvaro oberdam pereira
+568,82
+1201
+1
+rec
+001
+fil.
+1
+dupl.
+101 alvaro oberdam pereira
+568,37
+1201
+2
+rec
+001
+fil.
+1
+dupl.
+total
+1.699,45
+nao
+8
+0
+08/07/2024
+19
+18,00
+0,00
+205.222,63
+recebimento em pix - conta banco filial : 1 pedido : 8795 / nfce destino 1 -
+consumidor final
+nao
+9
+8795/nfce-1
+08/07/2024
+47
+0,00
+8.142,32
+197.080,31
+fornecedor
+1379 dmm lopes & filhos ltda
+510,65
+501371
+2
+pag
+1
+fil.
+1
+dupl.
+1477 certa comunicacao visual ltda
+6.164,00
+5206
+4
+pag
+1
+fil.
+1
+dupl.
+1494 diasa comercio e distribuicao ltda
+662,55
+250664
+1
+pag
+3
+fil.
+1
+dupl.
+1515 alpi distribuidora de tintas ltda
+805,12
+217354
+1
+pag
+1
+fil.
+1
+dupl.
+total
+8.142,32
+nao
+10
+fornecedor
+08/07/2024
+84
+1.046,96
+0,00
+198.127,27
+baixa recebimento em cartao
+1 consumidor final
+85,00
+8750
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+62,01
+8754
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+78,00
+8755
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+147,00
+8758
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+50,40
+8759
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+35,91
+8760
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+136,00
+8761
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+20,00
+8762
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+117,00
+8764
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+22,00
+8766
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+130,00
+8769
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+6,00
+8770
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+45,00
+8775
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+5,00
+8776
+1
+rec
+crtrec
+fil.
+1
+dupl.
+732 fabiano rodrigo fiut
+107,64
+2959
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+1.046,96
+nao
+11
+0
+08/07/2024
+84
+939,34
+0,00
+199.066,61
+baixa recebimento em cartao
+1 consumidor final
+18,38
+8330
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+63,00
+8340
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+20,00
+8353
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+18,00
+8354
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+89,65
+8360
+2
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+40,00
+8362
+1
+rec
+crtrec
+fil.
+1
+dupl.
+707 eduardo pereira de jesus
+300,00
+2598
+2
+rec
+crtrec
+fil.
+1
+dupl.
+718 fernando marchi de campos
+390,31
+8328
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+939,34
+nao
+12
+0
+08/07/2024
+84
+162,00
+0,00
+199.228,61
+baixa recebimento em cartao
+sim
+13
+0
+08/07/2024
+81
+0,00
+45,32
+199.183,29
+taxa cartão de crédito
+sim
+14
+0
+08/07/2024
+36
+0,00
+7,80
+199.175,49
+tarifa serv. cobrança titulos
+sim
+15
+tarifa
+09/07/2024
+20
+2.293,60
+0,00
+201.469,09
+recebimento cliente cobranca eletronica
+478 fenix comercio e manutencao em car
+350,92
+1958
+1
+rec
+001
+fil.
+1
+dupl.
+554 braviello sorriso empreendimentos 
+626,34
+2063
+1
+rec
+001
+fil.
+1
+dupl.
+558 iso aco
+965,94
+2035
+2
+rec
+001
+fil.
+1
+dupl.
+642 lindones lourenci
+350,40
+2112
+1
+rec
+001
+fil.
+1
+dupl.
+total
+2.293,60
+nao
+1
+09/07/2024
+19
+22,00
+0,00
+201.491,09
+recebimento em pix - conta banco filial : 1 pedido : 8797 / nfce destino 1 -
+consumidor final
+nao
+2
+8797/nfce-1
+09/07/2024
+19
+22,00
+0,00
+201.513,09
+recebimento em pix - conta banco filial : 1 pedido : 8799 / nfce destino 1 -
+consumidor final
+nao
+3
+8799/nfce-1
+09/07/2024
+19
+30,00
+0,00
+201.543,09
+recebimento em pix - conta banco filial : 1 pedido : 8801 / nfce destino 1 -
+consumidor final
+nao
+4
+8801/nfce-1
+09/07/2024
+19
+22,00
+0,00
+201.565,09
+recebimento em pix - conta banco filial : 1 pedido : 8804 / nfce destino 1 -
+consumidor final
+nao
+5
+8804/nfce-1
+09/07/2024
+19
+18,50
+0,00
+201.583,59
+recebimento em pix - conta banco filial : 1 pedido : 8805 / nfce destino 1 -
+consumidor final
+nao
+6
+8805/nfce-1
+09/07/2024
+19
+23,91
+0,00
+201.607,50
+recebimento em pix - conta banco filial : 1 pedido : 8816 / nfce destino 603 -
+machado carniel & cia ltda
+nao
+7
+8816/nfce-603
+09/07/2024
+19
+105,00
+0,00
+201.712,50
+recebimento em pix - conta banco filial : 1 pedido : 8819 / nfce destino 1 -
+consumidor final
+nao
+8
+8819/nfce-1
+09/07/2024
+19
+295,23
+0,00
+202.007,73
+recebimento em pix - conta banco
+171 open door design comercio de porta
+295,23
+1547
+3
+rec
+001
+fil.
+1
+dupl.
+total
+295,23
+nao
+9
+0
+09/07/2024
+76
+0,00
+84,02
+201.923,71
+seguros- seguro prestamista
+sim
+10
+seguro
+09/07/2024
+47
+0,00
+1.527,53
+200.396,18
+fornecedor
+nao
+11
+0
+movimento caixa/bancos
+01/08/2024
+5
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+1381 stoky comercio e distribuidora de ma
+769,62
+479594
+2
+pag
+1
+fil.
+1
+dupl.
+1516 expressu com. imp. e exp. de adesivos 
+757,91
+30069
+1
+pag
+1
+fil.
+1
+dupl.
+total
+1.527,53
+09/07/2024
+51
+0,00
+1.444,03
+198.952,15
+energia
+sim
+12
+0
+09/07/2024
+38
+0,00
+1.252,87
+197.699,28
+impostos- icms ct: 875557
+sim
+13
+0
+09/07/2024
+84
+563,92
+0,00
+198.263,20
+baixa recebimento em cartao
+1 consumidor final
+72,00
+8777
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+144,00
+8779
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+4,50
+8781
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+80,00
+8782
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+66,42
+8786
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+143,00
+8789
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+7,00
+8790
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+47,00
+8791
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+563,92
+nao
+14
+0
+09/07/2024
+84
+318,90
+0,00
+198.582,10
+baixa recebimento em cartao
+1 consumidor final
+38,90
+8373
+1
+rec
+crtrec
+fil.
+1
+dupl.
+269 luciano maraschin e outros
+280,00
+2798
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+318,90
+nao
+15
+0
+09/07/2024
+81
+0,00
+18,53
+198.563,57
+taxa cartão de crédito
+sim
+16
+taxa cartão
+09/07/2024
+51
+0,00
+106,46
+198.457,11
+energia
+sim
+17
+energia
+10/07/2024
+20
+1.215,86
+0,00
+199.672,97
+recebimento cliente cobranca eletronica
+536 construtora dalmolin ltda
+649,13
+1982
+1
+rec
+1
+fil.
+1
+dupl.
+677 gilberto gehm transportes ltda
+335,84
+2037
+1
+rec
+001
+fil.
+1
+dupl.
+727 jonathan zardo
+230,89
+1872
+2
+rec
+001
+fil.
+1
+dupl.
+total
+1.215,86
+nao
+1
+10/07/2024
+19
+43,00
+0,00
+199.715,97
+recebimento em pix - conta banco filial : 1 pedido : 8822 / nfce destino 1 -
+consumidor final
+nao
+2
+8822/nfce-1
+10/07/2024
+19
+110,00
+0,00
+199.825,97
+recebimento em pix - conta banco filial : 1 pedido : 8829 / nfce destino 1 -
+consumidor final
+nao
+4
+8829/nfce-1
+10/07/2024
+19
+33,00
+0,00
+199.858,97
+recebimento em pix - conta banco filial : 1 pedido : 8830 / nfce destino 1 -
+consumidor final
+nao
+5
+8830/nfce-1
+10/07/2024
+47
+0,00
+615,95
+199.243,02
+fornecedor
+1463 blr service sva ltda
+160,00
+1007
+1
+pag
+1
+fil.
+1
+dupl.
+1470 sinodet produtos de limpeza ltda epp
+455,95
+239174
+1
+pag
+1
+fil.
+1
+dupl.
+total
+615,95
+nao
+6
+0
+10/07/2024
+84
+719,36
+0,00
+199.962,38
+baixa recebimento em cartao
+1 consumidor final
+50,00
+8800
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+22,00
+8806
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+16,00
+8812
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+85,00
+8815
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+239,00
+8817
+1
+rec
+crtrec
+fil.
+1
+dupl.
+525 agropecuária celeiro ltda
+2,70
+8798
+1
+rec
+crtrec
+fil.
+1
+dupl.
+535 tornearia eldorado
+19,00
+8807
+1
+rec
+crtrec
+fil.
+1
+dupl.
+727 jonathan zardo
+285,66
+8814
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+719,36
+nao
+7
+0
+10/07/2024
+84
+192,83
+0,00
+200.155,21
+baixa recebimento em cartao
+1 consumidor final
+137,33
+7918
+2
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+18,00
+8384
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+20,00
+8386
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+17,50
+8794
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+192,83
+nao
+8
+0
+10/07/2024
+81
+0,00
+16,48
+200.138,73
+taxa cartão de crédito
+sim
+9
+taxa cartão
+11/07/2024
+20
+4.552,81
+0,00
+204.691,54
+recebimento cliente cobranca eletronica
+176 transportes pai heroi ltda me
+178,30
+2027
+1
+rec
+001
+fil.
+1
+dupl.
+423 hubner & hubner ltda me
+143,34
+2048
+1
+rec
+001
+fil.
+1
+dupl.
+616 tam lajes e estruturas metalicas ltd
+600,00
+1871
+4
+rec
+001
+fil.
+1
+dupl.
+646 hernandes piccoli
+2.893,58
+2115
+1
+rec
+001
+fil.
+1
+dupl.
+651 jose edemir guareschi
+619,60
+2114
+1
+rec
+001
+fil.
+1
+dupl.
+736 terra agri maquinas agricolas ltda
+117,99
+2053
+1
+rec
+001
+fil.
+1
+dupl.
+total
+4.552,81
+nao
+1
+11/07/2024
+19
+430,69
+0,00
+205.122,23
+recebimento em pix - conta banco filial : 1 pedido : 8844 / nfce destino 1 -
+consumidor final
+nao
+2
+8844/nfce-1
+11/07/2024
+19
+8,00
+0,00
+205.130,23
+recebimento em pix - conta banco filial : 1 pedido : 8849 / nfce destino 1 -
+consumidor final
+nao
+4
+8849/nfce-1
+11/07/2024
+19
+8,00
+0,00
+205.138,23
+recebimento em pix - conta banco filial : 1 pedido : 8852 / nfce destino 427 -
+eloir antonio scariot
+nao
+5
+8852/nfce-427
+11/07/2024
+19
+297,00
+0,00
+205.435,23
+recebimento em pix - conta banco filial : 1 pedido : 8853 / nfce destino 1 -
+consumidor final
+nao
+6
+8853/nfce-1
+11/07/2024
+84
+2.002,50
+0,00
+207.437,73
+baixa recebimento em cartao
+1 consumidor final
+25,00
+8820
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+20,00
+8821
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+28,50
+8824
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+170,00
+8825
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+46,00
+8826
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+121,50
+8827
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+15,00
+8828
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+87,00
+8832
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+202,50
+8835
+1
+rec
+crtrec
+fil.
+1
+dupl.
+nao
+7
+0
+movimento caixa/bancos
+01/08/2024
+6
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+1 consumidor final
+167,00
+8836
+1
+rec
+crtrec
+fil.
+1
+dupl.
+322 t. leticia tennroller
+940,00
+2977
+1
+rec
+crtrec
+fil.
+1
+dupl.
+787 stanley wade schultz
+180,00
+2978
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+2.002,50
+11/07/2024
+84
+476,91
+0,00
+207.914,64
+baixa recebimento em cartao
+529 alcione sandro barbieri
+127,59
+2809
+1
+rec
+crtrec
+fil.
+1
+dupl.
+757 fs transportes
+349,32
+2808
+2
+rec
+crtrec
+fil.
+1
+dupl.
+total
+476,91
+nao
+8
+0
+11/07/2024
+81
+0,00
+42,81
+207.871,83
+taxa cartão de crédito
+sim
+9
+taxa
+11/07/2024
+19
+339,57
+0,00
+208.211,40
+recebimento em pix - conta banco filial : 1 pedido : 2981 / pev destino 764 -
+agro jato ltda
+nao
+10
+2981/pev-764
+11/07/2024
+19
+175,50
+0,00
+208.386,90
+recebimento em pix - conta banco filial : 1 pedido : 8842 / nfce destino 764 -
+agro jato ltda
+nao
+11
+8842/nfce-764
+12/07/2024
+19
+190,00
+0,00
+208.576,90
+recebimento em pix - conta banco filial : 1 pedido : 8858 / nfce destino 1 -
+consumidor final
+nao
+1
+8858/nfce-1
+12/07/2024
+19
+35,90
+0,00
+208.612,80
+recebimento em pix - conta banco filial : 1 pedido : 2777 / pev destino 172 -
+amazonia maquinas e implementos ltda
+nao
+2
+2777/pev-172
+12/07/2024
+19
+127,00
+0,00
+208.739,80
+recebimento em pix - conta banco filial : 1 pedido : 8865 / nfce destino 1 -
+consumidor final
+nao
+3
+8865/nfce-1
+12/07/2024
+84
+278,78
+0,00
+209.018,58
+baixa recebimento em cartao
+1 consumidor final
+23,00
+8838
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+27,00
+8839
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+30,00
+8840
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+26,00
+8841
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+9,00
+8843
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+41,78
+8848
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+122,00
+8854
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+278,78
+nao
+4
+0
+12/07/2024
+84
+888,56
+0,00
+209.907,14
+baixa recebimento em cartao
+1 consumidor final
+183,50
+7952
+2
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+26,00
+8411
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+27,90
+8412
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+91,16
+8417
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+250,00
+8420
+1
+rec
+crtrec
+fil.
+1
+dupl.
+629 hcm engenharia ltda
+310,00
+2813
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+888,56
+nao
+5
+0
+12/07/2024
+81
+0,00
+29,51
+209.877,63
+taxa cartão de crédito
+sim
+6
+taxa cartão
+12/07/2024
+21
+0,00
+158,14
+209.719,49
+frete- transportadora cristina nf-181934 mastiflex
+sim
+7
+frete
+12/07/2024
+80
+0,00
+561,00
+209.158,49
+consorcios
+sim
+8
+consorcio
+12/07/2024
+19
+16,00
+0,00
+209.174,49
+recebimento em pix - conta banco
+sim
+9
+0
+13/07/2024
+19
+3,00
+0,00
+209.177,49
+recebimento em pix - conta banco filial : 1 pedido : 8884 / nfce destino 1 -
+consumidor final
+nao
+1
+8884/nfce-1
+13/07/2024
+19
+4,50
+0,00
+209.181,99
+recebimento em pix - conta banco filial : 1 pedido : 8889 / nfce destino 1 -
+consumidor final
+nao
+2
+8889/nfce-1
+13/07/2024
+19
+26,00
+0,00
+209.207,99
+recebimento em pix - conta banco filial : 1 pedido : 8890 / nfce destino 1 -
+consumidor final
+nao
+3
+8890/nfce-1
+13/07/2024
+19
+135,00
+0,00
+209.342,99
+recebimento em pix - conta banco filial : 1 pedido : 8898 / nfce destino 1 -
+consumidor final
+nao
+4
+8898/nfce-1
+15/07/2024
+20
+851,48
+0,00
+210.194,47
+recebimento cliente cobranca eletronica
+440 francisco alberto lermenn
+710,48
+2095
+1
+rec
+001
+fil.
+1
+dupl.
+648 condominio residencial felicita
+141,00
+2083
+1
+rec
+001
+fil.
+1
+dupl.
+total
+851,48
+nao
+1
+15/07/2024
+19
+180,00
+0,00
+210.374,47
+recebimento em pix - conta banco filial : 1 pedido : 8902 / nfce destino 1 -
+consumidor final
+nao
+2
+8902/nfce-1
+15/07/2024
+19
+7,50
+0,00
+210.381,97
+recebimento em pix - conta banco filial : 1 pedido : 8908 / nfce destino 1 -
+consumidor final
+nao
+3
+8908/nfce-1
+15/07/2024
+19
+323,41
+0,00
+210.705,38
+recebimento em pix - conta banco filial : 1 pedido : 3018 / pev destino 656 -
+rambo pecas agricolas ltda
+nao
+6
+3018/pev-656
+15/07/2024
+19
+207,50
+0,00
+210.912,88
+recebimento em pix - conta banco filial : 1 pedido : 8915 / nfce destino 1 -
+consumidor final
+nao
+7
+8915/nfce-1
+15/07/2024
+84
+967,69
+0,00
+211.880,57
+baixa recebimento em cartao
+1 consumidor final
+32,00
+8856
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+113,19
+8857
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+22,00
+8860
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+68,50
+8864
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+200,00
+8866
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+10,00
+8867
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+38,00
+8869
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+28,00
+8871
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+5,00
+8872
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+7,50
+8873
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+22,00
+8874
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+145,00
+8879
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+12,50
+8881
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+36,00
+8885
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+23,00
+8892
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+70,00
+8893
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+25,00
+8894
+1
+rec
+crtrec
+fil.
+1
+dupl.
+790 agricola sao luiz ltda
+110,00
+2989
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+967,69
+nao
+8
+0
+15/07/2024
+84
+1.224,21
+0,00
+213.104,78
+baixa recebimento em cartao
+nao
+9
+0
+movimento caixa/bancos
+01/08/2024
+7
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+1 consumidor final
+153,90
+8421
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+221,00
+8434
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+150,00
+8452
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+133,75
+8454
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+40,00
+8458
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+12,00
+8462
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+41,00
+8464
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+130,00
+8469
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+100,00
+8472
+1
+rec
+crtrec
+fil.
+1
+dupl.
+394 darlei jose de oliveira
+168,56
+2830
+1
+rec
+crtrec
+fil.
+1
+dupl.
+746 flavio krzyzanski
+74,00
+2817
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+1.224,21
+15/07/2024
+81
+0,00
+53,35
+213.051,43
+taxa cartão de crédito
+sim
+10
+taxa cartão
+15/07/2024
+62
+0,00
+1,56
+213.049,87
+manutenção de titulos
+sim
+11
+manutenção 
+15/07/2024
+31
+0,00
+0,11
+213.049,76
+ajuste- ref venda 3018/pev-656 no valor r$ 323,41 pg no banco
+19,30+304,00=323,30
+sim
+12
+3018/pev-656
+15/07/2024
+47
+0,00
+2.454,79
+210.594,97
+fornecedor
+1503 wm comercio de lubrificantes ltda
+1.318,83
+131700
+1
+pag
+1
+fil.
+1
+dupl.
+1532 iguassu distribuidor de peca ltda
+806,16
+7516
+5
+pag
+1
+fil.
+1
+dupl.
+1550 l.silva pinto epp
+329,80
+25052
+1
+pag
+2
+fil.
+1
+dupl.
+total
+2.454,79
+nao
+13
+0
+15/07/2024
+19
+50,47
+0,00
+210.645,44
+recebimento em pix - conta banco
+sim
+14
+0
+15/07/2024
+36
+0,00
+67,08
+210.578,36
+tarifa serv. cobrança titulos
+sim
+15
+tarifa serv.c
+15/07/2024
+19
+5,90
+0,00
+210.584,26
+recebimento em pix - conta banco- pedido : 8910 / nfce destino 1 -
+consumidor final valor r$ 5,90 recebido ref a diferença do pedido
+8910
+sim
+16
+0
+16/07/2024
+20
+12.272,63
+0,00
+222.856,89
+recebimento cliente cobranca eletronica
+160 norte brasil servicos hidraulicos lt
+67,00
+2091
+1
+rec
+001
+fil.
+1
+dupl.
+165 ca sistemas e servicos hidraulicos lt
+490,00
+2051
+1
+rec
+1
+fil.
+1
+dupl.
+166 d. r. novello e a. m. de alencar neto l
+154,07
+2080
+1
+rec
+1
+fil.
+1
+dupl.
+171 open door design comercio de porta
+155,60
+2093
+1
+rec
+001
+fil.
+1
+dupl.
+261 eletro e metalurgica rovaris ltda
+3.264,60
+2076
+1
+rec
+001
+fil.
+1
+dupl.
+261 eletro e metalurgica rovaris ltda
+1.632,62
+2113
+1
+rec
+001
+fil.
+1
+dupl.
+296 posto aldo sorriso ltda
+425,00
+2111
+1
+rec
+001
+fil.
+1
+dupl.
+337 cella e baggio energias renovaveis l
+73,80
+2106
+1
+rec
+001
+fil.
+1
+dupl.
+345 elizania raquel furtuoso
+148,00
+2096
+1
+rec
+001
+fil.
+1
+dupl.
+536 construtora dalmolin ltda
+1.165,88
+2062
+1
+rec
+001
+fil.
+1
+dupl.
+554 braviello sorriso empreendimentos 
+948,00
+2008
+1
+rec
+001
+fil.
+1
+dupl.
+558 iso aco
+584,11
+2099
+1
+rec
+001
+fil.
+1
+dupl.
+567 ilene c. fabian me
+127,90
+2089
+1
+rec
+001
+fil.
+1
+dupl.
+616 tam lajes e estruturas metalicas ltd
+493,10
+2097
+1
+rec
+001
+fil.
+1
+dupl.
+668 armetal solucoes industriais ltda
+1.000,00
+2102
+1
+rec
+001
+fil.
+1
+dupl.
+677 gilberto gehm transportes ltda
+392,95
+2071
+1
+rec
+001
+fil.
+1
+dupl.
+720 retifica sorriso comercio e distribui
+372,00
+2116
+1
+rec
+001
+fil.
+1
+dupl.
+751 rena camara
+593,00
+1984
+1
+rec
+001
+fil.
+1
+dupl.
+766 jones mauro ferronatto
+185,00
+2094
+1
+rec
+001
+fil.
+1
+dupl.
+total
+12.272,63
+nao
+1
+16/07/2024
+19
+270,00
+0,00
+223.126,89
+recebimento em pix - conta banco filial : 1 pedido : 8921 / nfce destino 1 -
+consumidor final
+nao
+2
+8921/nfce-1
+16/07/2024
+19
+4,00
+0,00
+223.130,89
+recebimento em pix - conta banco filial : 1 pedido : 8929 / nfce destino 1 -
+consumidor final
+nao
+3
+8929/nfce-1
+16/07/2024
+19
+133,02
+0,00
+223.263,91
+recebimento em pix - conta banco filial : 1 pedido : 8933 / nfce destino 1 -
+consumidor final
+nao
+5
+8933/nfce-1
+16/07/2024
+19
+283,31
+0,00
+223.547,22
+recebimento em pix - conta banco
+612  marcelo aparecido alves
+283,31
+1972
+1
+rec
+001
+fil.
+1
+dupl.
+total
+283,31
+nao
+6
+0
+16/07/2024
+47
+0,00
+2.735,73
+220.811,49
+fornecedor
+1494 diasa comercio e distribuicao ltda
+687,02
+247544
+2
+pag
+3
+fil.
+1
+dupl.
+1494 diasa comercio e distribuicao ltda
+256,99
+247564
+2
+pag
+3
+fil.
+1
+dupl.
+1494 diasa comercio e distribuicao ltda
+591,72
+247985
+2
+pag
+3
+fil.
+1
+dupl.
+1500 mastiflex ind de selantes e massas lt
+1.200,00
+181440
+1
+pag
+1
+fil.
+1
+dupl.
+total
+2.735,73
+nao
+7
+0
+16/07/2024
+84
+528,89
+0,00
+221.340,38
+baixa recebimento em cartao
+1 consumidor final
+222,00
+8901
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+186,30
+8905
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+30,00
+8906
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+6,60
+8907
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+29,63
+8909
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+6,36
+8912
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+48,00
+8913
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+528,89
+nao
+8
+0
+16/07/2024
+84
+395,12
+0,00
+221.735,50
+baixa recebimento em cartao
+1 consumidor final
+85,00
+8863
+1
+rec
+crtrec
+fil.
+1
+dupl.
+684 ivan adalberto krebs
+310,12
+2468
+3
+rec
+crtrec
+fil.
+1
+dupl.
+total
+395,12
+nao
+9
+0
+16/07/2024
+81
+0,00
+20,18
+221.715,32
+taxa cartão de crédito
+sim
+10
+taxa cartão
+17/07/2024
+19
+571,00
+0,00
+222.286,32
+recebimento em pix - conta banco filial : 1 pedido : 3029 / pev destino 134 -
+aluizio fernandes de oliveira
+nao
+1
+3029/pev-134
+17/07/2024
+20
+1.321,39
+0,00
+223.607,71
+recebimento cliente cobranca eletronica
+nao
+2
+movimento caixa/bancos
+01/08/2024
+8
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+178 sipal industria e comercio ltda
+363,41
+2109
+1
+rec
+001
+fil.
+1
+dupl.
+440 francisco alberto lermenn
+710,48
+2095
+2
+rec
+001
+fil.
+1
+dupl.
+733 fly internet sorriso ltda
+247,50
+2202
+1
+rec
+001
+fil.
+1
+dupl.
+total
+1.321,39
+17/07/2024
+19
+175,00
+0,00
+223.782,71
+recebimento em pix - conta banco filial : 1 pedido : 8934 / nfce destino 1 -
+consumidor final
+nao
+3
+8934/nfce-1
+17/07/2024
+19
+70,00
+0,00
+223.852,71
+recebimento em pix - conta banco filial : 1 pedido : 3031 / pev destino 795 -
+bandeirante transportes ltda me
+nao
+4
+3031/pev-795
+17/07/2024
+19
+64,00
+0,00
+223.916,71
+recebimento em pix - conta banco filial : 1 pedido : 3032 / pev destino 703 -
+escal construtora ltda
+nao
+5
+3032/pev-703
+17/07/2024
+19
+8,00
+0,00
+223.924,71
+recebimento em pix - conta banco filial : 1 pedido : 8937 / nfce destino 1 -
+consumidor final
+nao
+6
+8937/nfce-1
+17/07/2024
+62
+0,00
+9,36
+223.915,35
+manutenção de titulos
+sim
+7
+manutenção 
+17/07/2024
+84
+702,05
+0,00
+224.617,40
+baixa recebimento em cartao
+1 consumidor final
+53,00
+8916
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+13,80
+8917
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+14,59
+8918
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+160,33
+8922
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+160,33
+8924
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+140,00
+8925
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+92,00
+8927
+1
+rec
+crtrec
+fil.
+1
+dupl.
+642 lindones lourenci
+68,00
+8919
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+702,05
+nao
+8
+0
+17/07/2024
+84
+174,00
+0,00
+224.791,40
+baixa recebimento em cartao
+1 consumidor final
+30,00
+8479
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+136,00
+8491
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+8,00
+8903
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+174,00
+nao
+9
+0
+17/07/2024
+81
+0,00
+14,60
+224.776,80
+taxa cartão de crédito
+sim
+10
+taxa cartão
+17/07/2024
+19
+80,00
+0,00
+224.856,80
+recebimento em pix - conta banco filial : 1 pedido : 8931 / nfce destino 1 -
+consumidor final
+nao
+11
+8931/nfce-1
+17/07/2024
+19
+30,00
+0,00
+224.886,80
+recebimento em pix - conta banco filial : 1 pedido : 8943 / nfce destino 1 -
+consumidor final
+sim
+12
+18/07/2024
+20
+3.591,89
+0,00
+228.478,69
+recebimento cliente cobranca eletronica
+30 3r artesanatos e transportes ltda
+895,71
+1915
+3
+rec
+001
+fil.
+1
+dupl.
+30 3r artesanatos e transportes ltda
+561,68
+2088
+1
+rec
+001
+fil.
+1
+dupl.
+76 s c esquadrias ltda
+110,87
+2107
+1
+rec
+001
+fil.
+1
+dupl.
+117 jatoba agronegocios ltda
+836,00
+2050
+1
+rec
+001
+fil.
+1
+dupl.
+636 ana c. c. c. souza ltda
+696,17
+1456
+3
+rec
+001
+fil.
+1
+dupl.
+636 ana c. c. c. souza ltda
+491,46
+1930
+1
+rec
+001
+fil.
+1
+dupl.
+total
+3.591,89
+nao
+1
+18/07/2024
+19
+80,10
+0,00
+228.558,79
+recebimento em pix - conta banco filial : 1 pedido : 8945 / nfce destino 1 -
+consumidor final
+nao
+3
+8945/nfce-1
+18/07/2024
+19
+70,00
+0,00
+228.628,79
+recebimento em pix - conta banco filial : 1 pedido : 8947 / nfce destino 1 -
+consumidor final
+nao
+4
+8947/nfce-1
+18/07/2024
+19
+33,00
+0,00
+228.661,79
+recebimento em pix - conta banco filial : 1 pedido : 8948 / nfce destino 1 -
+consumidor final
+nao
+5
+8948/nfce-1
+18/07/2024
+19
+547,50
+0,00
+229.209,29
+recebimento em pix - conta banco filial : 1 pedido : 3035 / pev destino 764 -
+agro jato ltda
+nao
+6
+3035/pev-764
+18/07/2024
+19
+16,00
+0,00
+229.225,29
+recebimento em pix - conta banco filial : 1 pedido : 8958 / nfce destino 1 -
+consumidor final
+nao
+8
+8958/nfce-1
+18/07/2024
+19
+25,00
+0,00
+229.250,29
+recebimento em pix - conta banco filial : 1 pedido : 8959 / nfce destino 1 -
+consumidor final
+nao
+9
+8959/nfce-1
+18/07/2024
+88
+0,00
+18,38
+229.231,91
+custas de protesto
+sim
+10
+custas de pr
+18/07/2024
+89
+0,00
+10,40
+229.221,51
+tarifa protesto
+sim
+11
+tarifa de pro
+18/07/2024
+84
+82,00
+0,00
+229.303,51
+baixa recebimento em cartao
+1 consumidor final
+11,00
+8938
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+6,00
+8939
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+10,00
+8941
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+55,00
+8942
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+82,00
+nao
+12
+0
+18/07/2024
+84
+603,00
+0,00
+229.906,51
+baixa recebimento em cartao
+1 consumidor final
+100,00
+8494
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+37,50
+8495
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+4,50
+8923
+1
+rec
+crtrec
+fil.
+1
+dupl.
+599 concresampa comercio de artefatos
+299,00
+2855
+1
+rec
+crtrec
+fil.
+1
+dupl.
+629 hcm engenharia ltda
+88,00
+2857
+1
+rec
+crtrec
+fil.
+1
+dupl.
+763 flavio krzyzanski
+74,00
+2854
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+603,00
+nao
+13
+0
+18/07/2024
+81
+0,00
+17,85
+229.888,66
+taxa cartão de crédito
+sim
+14
+taxa cartão
+19/07/2024
+19
+210,00
+0,00
+230.098,66
+recebimento em pix - conta banco filial : 1 pedido : 8960 / nfce destino 1 -
+consumidor final
+nao
+1
+8960/nfce-1
+19/07/2024
+20
+920,83
+0,00
+231.019,49
+recebimento cliente cobranca eletronica
+10 fina flor presentes e decoracoes lt
+29,69
+1911
+1
+rec
+001
+fil.
+1
+dupl.
+10 fina flor presentes e decoracoes lt
+55,14
+2101
+1
+rec
+001
+fil.
+1
+dupl.
+332 conselho da comunidade da comarca
+656,00
+2131
+1
+rec
+001
+fil.
+1
+dupl.
+767 svl incorporacoes imobiliarias ltda
+180,00
+2052
+1
+rec
+001
+fil.
+1
+dupl.
+total
+920,83
+nao
+2
+19/07/2024
+19
+200,00
+0,00
+231.219,49
+recebimento em pix - conta banco filial : 1 pedido : 8971 / nfce destino 1 -
+consumidor final
+nao
+3
+8971/nfce-1
+19/07/2024
+84
+931,38
+0,00
+232.150,87
+baixa recebimento em cartao
+nao
+4
+0
+movimento caixa/bancos
+01/08/2024
+9
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+1 consumidor final
+25,98
+8950
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+3,00
+8952
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+410,40
+8954
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+352,00
+8956
+1
+rec
+crtrec
+fil.
+1
+dupl.
+727 jonathan zardo
+140,00
+8949
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+931,38
+19/07/2024
+84
+1.756,81
+0,00
+233.907,68
+baixa recebimento em cartao
+1 consumidor final
+82,00
+8507
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+38,00
+8508
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+5,25
+8516
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+5,25
+8516
+2
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+23,00
+8935
+1
+rec
+crtrec
+fil.
+1
+dupl.
+746 flavio krzyzanski
+1.490,00
+2858
+1
+rec
+crtrec
+fil.
+1
+dupl.
+746 flavio krzyzanski
+113,31
+2859
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+1.756,81
+nao
+5
+0
+19/07/2024
+81
+0,00
+66,17
+233.841,51
+taxa cartão de crédito
+sim
+6
+taxa cartão
+19/07/2024
+47
+0,00
+3.224,82
+230.616,69
+fornecedor
+1252 black & decker do brasil ltda
+60,40
+1743471
+5
+pag
+23
+fil.
+1
+dupl.
+1252 black & decker do brasil ltda
+1.624,78
+1793730
+1
+pag
+23
+fil.
+1
+dupl.
+1381 stoky comercio e distribuidora de ma
+639,60
+480943
+2
+pag
+1
+fil.
+1
+dupl.
+1552 collins ferramentas comercial ltda
+900,04
+2312
+1
+pag
+1
+fil.
+1
+dupl.
+total
+3.224,82
+nao
+7
+0
+19/07/2024
+38
+0,00
+666,49
+229.950,20
+impostos
+1399 receita federal
+666,49
+1107
+1
+pag
+1
+fil.
+1
+dupl.
+total
+666,49
+nao
+8
+0
+19/07/2024
+38
+0,00
+507,98
+229.442,22
+impostos
+1399 receita federal
+507,98
+49557029
+1
+pag
+1
+fil.
+1
+dupl.
+total
+507,98
+nao
+9
+0
+19/07/2024
+56
+0,00
+54,60
+229.387,62
+despesas diversas
+sim
+10
+0
+20/07/2024
+19
+303,30
+0,00
+229.690,92
+recebimento em pix - conta banco filial : 1 pedido : 8982 / nfce destino 1 -
+consumidor final
+nao
+1
+8982/nfce-1
+22/07/2024
+20
+3.072,27
+0,00
+232.763,19
+recebimento cliente cobranca eletronica
+38 luciano bedin e outros - fazenda vitó
+2.490,00
+2138
+1
+rec
+001
+fil.
+1
+dupl.
+695 agropecuaria cafundo ltda
+282,27
+1907
+1
+rec
+001
+fil.
+1
+dupl.
+726 alumifer distribuidora de aluminios e
+300,00
+2082
+1
+rec
+001
+fil.
+1
+dupl.
+total
+3.072,27
+nao
+1
+22/07/2024
+19
+80,00
+0,00
+232.843,19
+recebimento em pix - conta banco filial : 1 pedido : 8992 / nfce destino 1 -
+consumidor final
+nao
+2
+8992/nfce-1
+22/07/2024
+19
+30,00
+0,00
+232.873,19
+recebimento em pix - conta banco filial : 1 pedido : 8965 / nfce destino 1 -
+consumidor final
+nao
+3
+8965/nfce-1
+22/07/2024
+19
+32,00
+0,00
+232.905,19
+recebimento em pix - conta banco filial : 1 pedido : 8993 / nfce destino 21 -
+mecanica 163 - dl mecanica ltda
+nao
+4
+8993/nfce-21
+22/07/2024
+19
+100,00
+0,00
+233.005,19
+recebimento em pix - conta banco filial : 1 pedido : 8995 / nfce destino 1 -
+consumidor final
+nao
+5
+8995/nfce-1
+22/07/2024
+19
+95,62
+0,00
+233.100,81
+recebimento em pix - conta banco filial : 1 pedido : 8999 / nfce destino 747 -
+jose roberto corcine
+nao
+6
+8999/nfce-747
+22/07/2024
+84
+1.902,48
+0,00
+235.003,29
+baixa recebimento em cartao
+1 consumidor final
+9,00
+8962
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+122,00
+8963
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+30,00
+8968
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+6,50
+8969
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+160,00
+8970
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+39,51
+8974
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+8,00
+8977
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+165,00
+8980
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+27,00
+8981
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+20,00
+8983
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+15,00
+8984
+1
+rec
+crtrec
+fil.
+1
+dupl.
+478 fenix comercio e manutencao em car
+1.300,47
+3044
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+1.902,48
+nao
+7
+0
+22/07/2024
+84
+1.646,95
+0,00
+236.650,24
+baixa recebimento em cartao
+1 consumidor final
+126,35
+8097
+2
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+103,50
+8120
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+24,50
+8524
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+248,00
+8528
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+648,00
+8538
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+43,09
+8541
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+32,00
+8545
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+115,00
+8549
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+9,00
+8553
+1
+rec
+crtrec
+fil.
+1
+dupl.
+763 flavio krzyzanski
+297,51
+2873
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+1.646,95
+nao
+8
+0
+22/07/2024
+84
+8,90
+0,00
+236.659,14
+baixa recebimento em cartao
+sim
+9
+0
+22/07/2024
+81
+0,00
+73,13
+236.586,01
+taxa cartão de crédito
+sim
+10
+taxa cartão
+22/07/2024
+62
+0,00
+1,56
+236.584,45
+manutenção de titulos
+sim
+11
+manut titulo
+22/07/2024
+36
+0,00
+21,84
+236.562,61
+tarifa serv. cobrança titulos
+sim
+12
+tarifa serv c
+22/07/2024
+48
+0,00
+1,56
+236.561,05
+tarifa baixa de titulos
+sim
+13
+tarifa baixa d
+22/07/2024
+38
+0,00
+8.631,95
+227.929,10
+impostos- das simples nacional
+1399 receita federal
+8.631,95
+62024
+1
+pag
+1
+fil.
+1
+dupl.
+nao
+14
+0
+movimento caixa/bancos
+01/08/2024
+10
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/07/2024
+período:
+31/07/2024
+a
+folha:
+avul.
+data:
+hora: 10:30:30
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+sicredi-748-1-85824
+total
+8.631,95
+22/07/2024
+47
+0,00
+1.994,50
+225.934,60
+fornecedor
+1334 kl vitoria com de ferragens e ferram
+1.260,11
+42745
+1
+pag
+1
+fil.
+1
+dupl.
+1359 lynus industria, comercio, importaca
+734,39
+185274
+1
+pag
+2
+fil.
+1
+dupl.
+total
+1.994,50
+nao
+15
+0
+22/07/2024
+47
+0,00
+720,78
+225.213,82
+fornecedor- branco motores
+sim
+16
+fornedor
+22/07/2024
+19
+770,00
+0,00
+225.983,82
+recebimento em pix - conta banco
+sim
+17
+0
+23/07/2024
+20
+2.902,66
+0,00
+228.886,48
+recebimento cliente cobranca eletronica
+171 open door design comercio de porta
+257,49
+2061
+1
+rec
+001
+fil.
+1
+dupl.
+518 valdir daroit
+1.700,00
+1868
+2
+rec
+001
+fil.
+1
+dupl.
+668 armetal solucoes industriais ltda
+945,17
+2056
+1
+rec
+001
+fil.
+1
+dupl.
+total
+2.902,66
+nao
+2
+23/07/2024
+19
+25,00
+0,00
+228.911,48
+recebimento em pix - conta banco filial : 1 pedido : 9004 / nfce destino 1 -
+consumidor final
+nao
+4
+9004/nfce-1
+23/07/2024
+19
+456,39
+0,00
+229.367,87
+recebimento em pix - conta banco filial : 1 pedido : 3051 / pev destino 764 -
+agro jato ltda
+nao
+5
+3051/pev-764
+23/07/2024
+19
+7,00
+0,00
+229.374,87
+recebimento em pix - conta banco filial : 1 pedido : 9010 / nfce destino 1 -
+consumidor final
+nao
+6
+9010/nfce-1
+23/07/2024
+19
+3,00
+0,00
+229.377,87
+recebimento em pix - conta banco filial : 1 pedido : 9016 / nfce destino 1 -
+consumidor final
+nao
+7
+9016/nfce-1
+23/07/2024
+32
+0,00
+20,00
+229.357,87
+integralização
+sim
+8
+plano int cap
+23/07/2024
+47
+0,00
+1.189,90
+228.167,97
+fornecedor
+1500 mastiflex ind de selantes e massas lt
+432,00
+181934
+1
+pag
+1
+fil.
+1
+dupl.
+1516 expressu com. imp. e exp. de adesivos 
+757,90
+30069
+2
+pag
+1
+fil.
+1
+dupl.
+total
+1.189,90
+nao
+9
+0
+23/07/2024
+84
+222,40
+0,00
+228.390,37
+baixa recebimento em cartao
+1 consumidor final
+22,00
+8985
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+14,00
+8986
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+12,40
+8988
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+93,00
+8991
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+81,00
+8994
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+222,40
+nao
+10
+0
+23/07/2024
+84
+22,00
+0,00
+228.412,37
+baixa recebimento em cartao
+1 consumidor final
+22,00
+8556
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+22,00
+nao
+11
+0
+23/07/2024
+81
+0,00
+4,90
+228.407,47
+taxa cartão de crédito
+sim
+12
+taxa cartão
+23/07/2024
+48
+0,00
+3,12
+228.404,35
+tarifa baixa de titulos
+sim
+13
+tarifa baixa t
+24/07/2024
+20
+1.513,16
+0,00
+229.917,51
+recebimento cliente cobranca eletronica
+566 posto vaca
+340,00
+2201
+1
+rec
+001
+fil.
+1
+dupl.
+654 condominio residencial porto seguro
+581,65
+2210
+1
+rec
+1
+fil.
+1
+dupl.
+693 calhas brasil ltda
+591,51
+2042
+1
+rec
+001
+fil.
+1
+dupl.
+total
+1.513,16
+nao
+1
+24/07/2024
+19
+1,10
+0,00
+229.918,61
+recebimento em pix - conta banco filial : 1 pedido : 9023 / nfce destino 1 -
+consumidor final
+nao
+3
+9023/nfce-1
+24/07/2024
+19
+203,00
+0,00
+230.121,61
+recebimento em pix - conta banco filial : 1 pedido : 9035 / nfce destino 1 -
+consumidor final
+nao
+5
+9035/nfce-1
+24/07/2024
+84
+321,66
+0,00
+230.443,27
+baixa recebimento em cartao
+1 consumidor final
+17,00
+9002
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+43,00
+9003
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+18,00
+9006
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+4,50
+9009
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+46,00
+9011
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+110,00
+9015
+1
+rec
+crtrec
+fil.
+1
+dupl.
+114 jean carlos de souza moreira
+83,16
+9013
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+321,66
+nao
+6
+0
+24/07/2024
+84
+532,18
+0,00
+230.975,45
+baixa recebimento em cartao
+1 consumidor final
+14,00
+5397
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+78,00
+8557
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+43,00
+8559
+1
+rec
+crtrec
+fil.
+1
+dupl.
+1 consumidor final
+24,50
+8560
+1
+rec
+crtrec
+fil.
+1
+dupl.
+768 kaina teixeira marques
+372,68
+2880
+1
+rec
+crtrec
+fil.
+1
+dupl.
+total
+532,18
+nao
+7
+0
+24/07/2024
+81
+0,00
+20,69
+230.954,76
+taxa cartão de crédito
+sim
+8
+taxa cartão
+24/07/2024
+47
+0,00
+1.000,00
+229.954,76
+fornecedor
+1499 galzer importacao e exportacao ltd
+1.000,00
+11421
+1
+pag
+1
+fil.
+1
+dupl.
+total
+1.000,00
+nao
+9
+0
+24/07/2024
+78
+0,00
+105,98
+229.848,78
+taxas municipais- referente alteração conforme protocolo
+mtp2400039068
+sim
+10
+taxa prefeit
+24/07/2024
+78
+0,00
+412,80
+229.435,98
+taxas municipais- referente alteração de metragem de 200m° para
+589,51m° conforme protocolo mtp2400039068
+sim
+11
+taxa prefeit
+24/07/2024
+19
+54,00
+0,00
+229.489,98
+recebimento em pix - conta banco-  filial : 1 pedido : 9028 / nfce destino 1 -
+consumidor final
+sim
+12
+0
+24/07/2024
+19
+1,50
+0,00
+229.491,48
+recebimento em pix - conta banco- teste novo sistema maquinha
+sicredi
+sim
+13
+0
+24/07/2024
+72
+0,00
+1,50
+229.489,98
+estornos-teste novo sistema maquinha sicredi
+sim
+14
+estorno
+24/07/2024
+19
+4,00
+0,00
+229.493,98
+recebimento em pix - conta banco- teste novo sistema maquinha
+sicredi
+sim
+15
+teste
+24/07/2024
+19
+10,00
+0,00
+229.503,98
+recebimento em pix - conta banco- filial : 1 pedido : 9035 / nfce destino 1 -
+consumidor final- recebimento a mais do cliente r$ 10,00
+sim
+17
+0
+estornos-teste novo sistema maquinha sicredi

@@ -1,0 +1,744 @@
+extrato de conta
+filtro:  
+tipo
+data
+valor
+descrição
+débito
+19/09/2023
+11h:13
+r$ 2.900,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+crédito
+19/09/2023
+09h:53
+r$ 3.500,00
+estorno recebido 
+tipo: crédito interno
+débito
+19/09/2023
+09h:09
+r$ 3.500,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+crédito
+18/09/2023
+17h:01
+r$ 1.780,00
+estorno recebido 
+tipo: crédito interno
+crédito
+18/09/2023
+17h:01
+r$ 7.800,00
+estorno recebido 
+tipo: crédito interno
+débito
+18/09/2023
+16h:09
+r$ 1.780,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+18/09/2023
+15h:12
+r$ 1.600,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+18/09/2023
+14h:58
+r$ 7.800,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+18/09/2023
+09h:04
+r$ 3.200,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+15/09/2023
+12h:14
+r$ 2.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+crédito
+13/09/2023
+17h:02
+r$ 14.000,00
+estorno recebido 
+tipo: crédito interno
+débito
+13/09/2023
+08h:13
+r$ 14.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+crédito
+08/09/2023
+17h:01
+r$ 4.000,00
+estorno recebido 
+tipo: crédito interno
+débito
+08/09/2023
+12h:44
+r$ 4.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+08/09/2023
+12h:37
+r$ 3.000,00
+pagamento de conta 
+tipo: pagamento de boleto
+crédito
+06/09/2023
+17h:01
+r$ 4.000,00
+estorno recebido 
+tipo: crédito interno
+débito
+06/09/2023
+13h:30
+r$ 4.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+06/09/2023
+09h:18
+r$ 5.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+05/09/2023
+09h:04
+r$ 15.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+04/09/2023
+09h:03
+r$ 9.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+crédito
+01/09/2023
+17h:01
+r$ 50.000,00
+estorno recebido 
+tipo: crédito interno
+página 1/6
+página 2/6
+crédito
+01/09/2023
+17h:01
+r$ 7.000,00
+estorno recebido 
+tipo: crédito interno
+débito
+01/09/2023
+13h:10
+r$ 50.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+01/09/2023
+12h:16
+r$ 7.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+31/08/2023
+09h:24
+r$ 30.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+crédito
+30/08/2023
+17h:01
+r$ 24.000,00
+estorno recebido 
+tipo: crédito interno
+débito
+30/08/2023
+16h:08
+r$ 24.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+24/08/2023
+10h:25
+r$ 8.065,55
+pagamento de conta 
+tipo: pagamento de boleto
+débito
+24/08/2023
+10h:06
+r$ 15.026,96
+pagamento de conta 
+tipo: pagamento de boleto
+débito
+21/08/2023
+08h:59
+r$ 5,90
+taxa de transferência bancária (ted) 
+tipo: transferência interna
+débito
+21/08/2023
+08h:59
+r$ 6.200,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+19/08/2023
+21h:31
+r$ 19,00
+pagamento do contrato para o plano - pacote bronze pj 170 
+tipo: transferência interna
+débito
+09/08/2023
+12h:23
+r$ 5,90
+taxa de transferência bancária (ted) 
+tipo: transferência interna
+débito
+09/08/2023
+12h:23
+r$ 9.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+09/08/2023
+09h:08
+r$ 5,90
+taxa de transferência bancária (ted) 
+tipo: transferência interna
+débito
+09/08/2023
+09h:08
+r$ 11.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+19/07/2023
+12h:02
+r$ 5,90
+taxa de transferência bancária (ted) 
+tipo: transferência interna
+débito
+19/07/2023
+12h:02
+r$ 5.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+18/07/2023
+21h:31
+r$ 19,00
+pagamento do contrato para o plano - pacote bronze pj 170 
+tipo: transferência interna
+débito
+10/07/2023
+10h:50
+r$ 3.400,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+10/07/2023
+08h:59
+r$ 200.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+página 2/6
+página 3/6
+débito
+28/06/2023
+12h:58
+r$ 5,90
+taxa de transferência bancária (ted) 
+tipo: transferência interna
+débito
+28/06/2023
+12h:58
+r$ 3.000,00
+transferência enviada para premier comercio de alimentos 
+tipo: transferência bancária
+débito
+18/06/2023
+21h:31
+r$ 19,00
+pagamento do contrato para o plano - pacote bronze pj 170 
+tipo: transferência interna
+débito
+31/05/2023
+10h:50
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+31/05/2023
+10h:50
+r$ 5.000,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+17/05/2023
+21h:31
+r$ 19,00
+pagamento do contrato para o plano - pacote bronze pj 170 
+tipo: transferência interna
+débito
+02/05/2023
+12h:53
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+02/05/2023
+12h:53
+r$ 4.000,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+19/04/2023
+13h:20
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+19/04/2023
+13h:20
+r$ 2.000,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+18/04/2023
+08h:20
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+18/04/2023
+08h:20
+r$ 1.300,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+17/04/2023
+21h:30
+r$ 19,00
+pagamento do contrato para o plano - pacote bronze pj 170 
+tipo: transferência interna
+débito
+06/04/2023
+11h:13
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+06/04/2023
+11h:13
+r$ 4.000,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+crédito
+05/04/2023
+18h:05
+r$ 2,80
+taxa estornada 
+tipo: transferência interna
+crédito
+05/04/2023
+18h:05
+r$ 6.000,00
+estorno recebido 
+tipo: crédito interno
+débito
+05/04/2023
+17h:55
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+05/04/2023
+17h:55
+r$ 6.000,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+05/04/2023
+16h:00
+r$ 2.040,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+página 3/6
+página 4/6
+crédito
+05/04/2023
+14h:54
+r$ 120.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+05/04/2023
+14h:36
+r$ 2.210,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+05/04/2023
+14h:24
+r$ 130.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+05/04/2023
+10h:14
+r$ 1.360,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+05/04/2023
+10h:14
+r$ 80.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+05/04/2023
+08h:54
+r$ 1.700,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+05/04/2023
+08h:54
+r$ 100.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+05/04/2023
+07h:39
+r$ 1.700,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+05/04/2023
+07h:39
+r$ 100.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+29/03/2023
+18h:33
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+29/03/2023
+18h:33
+r$ 2.200,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+29/03/2023
+15h:09
+r$ 153,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+29/03/2023
+15h:09
+r$ 9.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+27/03/2023
+18h:39
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+27/03/2023
+18h:39
+r$ 3.000,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+27/03/2023
+09h:29
+r$ 357,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+27/03/2023
+09h:29
+r$ 21.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+24/03/2023
+12h:44
+r$ 510,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+24/03/2023
+12h:44
+r$ 30.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+23/03/2023
+16h:57
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+página 4/6
+página 5/6
+débito
+23/03/2023
+16h:57
+r$ 2.500,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+22/03/2023
+21h:00
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+22/03/2023
+21h:00
+r$ 550,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+17/03/2023
+16h:14
+r$ 374,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+17/03/2023
+16h:14
+r$ 22.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+13/03/2023
+17h:02
+r$ 500,00
+transferência entre contas taxa id 32366 - 02/03/23 
+tipo: débito interno
+débito
+13/03/2023
+16h:53
+r$ 420,00
+transferência entre contas taxa id 32161 - 01/03/23 
+tipo: débito interno
+débito
+13/03/2023
+16h:49
+r$ 760,00
+transferência entre contas taxa id 30709 - 17/02/23 
+tipo: débito interno
+débito
+13/03/2023
+16h:45
+r$ 1.000,00
+transferência entre contas taxa id 30360 - 16/02/23 
+tipo: débito interno
+débito
+13/03/2023
+16h:39
+r$ 102,00
+transferência entre contas taxa id 29938 - 14/02/23 
+tipo: débito interno
+débito
+13/03/2023
+16h:32
+r$ 300,00
+transferência entre contas taxa id 28831 - 08/02/23 
+tipo: débito interno
+débito
+13/03/2023
+16h:28
+r$ 600,00
+transferência entre contas taxa id 27686 - 01/02/23 
+tipo: débito interno
+débito
+13/03/2023
+16h:14
+r$ 100,00
+transferência entre contas taxa id 26302 - 23/01/23 
+tipo: débito interno
+débito
+08/03/2023
+12h:49
+r$ 480,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+08/03/2023
+12h:49
+r$ 24.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+07/03/2023
+14h:39
+r$ 600,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+07/03/2023
+14h:39
+r$ 30.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+06/03/2023
+14h:29
+r$ 600,00
+taxa de transferência bancária (ted) recebida 
+tipo: transferência interna
+crédito
+06/03/2023
+14h:29
+r$ 30.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+06/03/2023
+11h:07
+r$ 19,00
+mensalidade da conta, ref. março/2023 
+tipo: débito interno
+página 5/6
+página 6/6
+crédito
+02/03/2023
+12h:59
+r$ 25.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+crédito
+01/03/2023
+13h:39
+r$ 21.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+24/02/2023
+15h:36
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+24/02/2023
+15h:36
+r$ 3.500,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+crédito
+24/02/2023
+12h:34
+r$ 40.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+23/02/2023
+21h:30
+r$ 19,00
+pagamento do contrato para o plano - pacote bronze pj 
+tipo: transferência interna
+crédito
+22/02/2023
+16h:29
+r$ 32.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+17/02/2023
+16h:41
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+17/02/2023
+16h:41
+r$ 2.500,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+crédito
+17/02/2023
+16h:24
+r$ 38.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+crédito
+16/02/2023
+13h:19
+r$ 50.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+16/02/2023
+13h:12
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+16/02/2023
+13h:12
+r$ 2.500,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+débito
+15/02/2023
+18h:47
+r$ 2,80
+taxa para transferência pelo pix 
+tipo: transferência interna
+débito
+15/02/2023
+18h:47
+r$ 1.000,00
+pix enviado para +5521964887049 
+tipo: transferência pix
+crédito
+14/02/2023
+14h:59
+r$ 5.100,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+crédito
+08/02/2023
+13h:09
+r$ 15.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+crédito
+01/02/2023
+13h:29
+r$ 30.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+débito
+23/01/2023
+10h:53
+r$ 19,00
+pagamento do contrato para o plano - pacote bronze pj 
+tipo: transferência interna
+crédito
+23/01/2023
+10h:35
+r$ 5.000,00
+transferência bancária (ted) recebida de premier comercio de alimen
+tipo: ted recebida
+página 6/6
+página 7/6

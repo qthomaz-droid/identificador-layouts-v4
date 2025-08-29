@@ -1,0 +1,1460 @@
+relatório de pagamentos de fornecedor
+empresa:
+1
+página:
+período de 01/08/2022 à 31/08/2022 por ordem de data e sub-ordem de documento
+tatiana de paula costa - epp                                
+filial inicial:
+filial documento inicial:
+portador inicial:
+banco inicial:
+conta caixa inicial:
+usuário inicial:
+fornecedor:
+filial final:
+filial documento final:
+portador final:
+banco final:
+conta caixa final:
+usuário final:
+complemento:
+0099 - creditos                                
+01 - tatiana de paula costa 
+02 - tatiana de paula costa 
+01 - tatiana de paula costa 
+02 - tatiana de paula costa 
+0001 - carteira                                
+000001 - caixa                                             
+999999 - atual 
+000154 - revenda de 
+000001 - fundo de caixa (credito)
+000001 - banco do 
+100000 - carteira                                
+ fornecedor, serviço, imposto, 
+todos os fornecedores
+0001 - geral                    
+centro apuração final:
+0001 - geral                    
+centro apuração inicial:
+exc
+fornecedor
+documento
+fl
+pc
+pagto.
+vr pago
+multa
+j uros
+desc.
+vr total
+complemento
+ 1
+ 5713,24
+ 5713,24
+ 1
+ 254
+lukaliam moveis ltda
+1730772
+não
+01/08/22
+ 1
+ 4314,60
+ 4314,60
+ 3
+ 44
+panan- industria de 
+409793
+não
+01/08/22
+ 1
+ 1116,29
+ 1116,29
+ 3
+409794
+não
+01/08/22
+ 1
+ 3638,03
+ 3638,03
+ 3
+409795
+não
+01/08/22
+ 1
+ 1881,51
+ 1881,51
+ 3
+409796
+não
+01/08/22
+ 1
+ 2003,00
+ 2003,00
+ 2
+ 143
+industria de moveis 
+410989
+não
+01/08/22
+ 18666,67
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 18666,67
+ 18666,67
+ 14684
+recibo:
+ 1
+ 813,33
+ 813,33
+ 2
+ 1046
+r m b m moveis eireli
+1482
+não
+01/08/22
+ 1
+ 2130,67
+ 2130,67
+ 2
+1483
+não
+01/08/22
+ 1
+ 585,76
+ 585,76
+ 2
+ 931
+electrolux do brasil 
+170566
+não
+01/08/22
+ 1
+ 959,12
+ 959,12
+ 1
+ 254
+lukaliam moveis ltda
+173077/cte
+não
+01/08/22
+ 1
+ 1016,00
+ 1016,00
+ 2
+ 1048
+aguia moveis ind com 
+2238
+não
+01/08/22
+ 1
+ 1845,98
+ 1845,98
+ 3
+ 127
+industria de moveis 
+302350
+não
+01/08/22
+ 1
+ 4646,00
+ 4646,00
+ 1
+ 66
+ind. e comercio copas 
+367562
+não
+01/08/22
+ 1
+ 4948,35
+ 4948,35
+ 1
+ 740
+electrolux do brasil 
+397481
+não
+01/08/22
+ 1
+ 310,00
+ 310,00
+ 3
+ 493
+compuflex com serv 
+5418
+não
+01/08/22
+ 17255,21
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 17255,21
+ 17255,21
+ 14685
+recibo:
+ 1
+ 1216,77
+ 1216,77
+ 1
+ 277
+patrimar moveis ltda.
+226293
+não
+03/08/22
+ 1
+ 1867,00
+ 1867,00
+ 3
+ 24
+rimo s/a ind. e 
+784978
+não
+03/08/22
+ 1
+ 967,21
+ 967,21
+ 1
+ 893
+unionlog 
+96985
+não
+03/08/22
+ 4050,98
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 4050,98
+ 4050,98
+ 14686
+recibo:
+ 1
+ 2738,44
+ 2738,44
+ 3
+ 787
+electrolux do brasil 
+676561
+não
+04/08/22
+ 1
+ 1433,60
+ 1433,60
+ 3
+676562
+não
+04/08/22
+ 1
+ 749,00
+ 749,00
+ 3
+676563
+não
+04/08/22
+ 4921,04
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 4921,04
+ 4921,04
+ 14687
+recibo:
+ 1
+ 1431,13
+ 1431,13
+ 4
+ 127
+industria de moveis 
+283429
+não
+05/08/22
+ 1
+ 3009,21
+ 3009,21
+ 1
+ 52
+orthocrin industria e 
+319057
+não
+05/08/22
+ 1
+ 2053,84
+ 2053,84
+ 3
+ 787
+electrolux do brasil 
+677110
+não
+05/08/22
+ 1
+ 1465,17
+ 1465,17
+ 1
+ 138
+polar industria e 
+76604
+não
+05/08/22
+ 7959,35
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 7959,35
+ 7959,35
+ 14688
+recibo:
+ 1
+ 4318,56
+ 4318,56
+ 3
+ 52
+orthocrin industria e 
+316180
+não
+05/08/22
+ 1
+ 738,01
+ 738,01
+ 3
+316184
+não
+05/08/22
+[rforbax] - atual sistemas
+gerado em 29/09/2022 as 10:25:22
+estação: caixa - usuário: mobnv
+relatório de pagamentos de fornecedor
+empresa:
+2
+página:
+período de 01/08/2022 à 31/08/2022 por ordem de data e sub-ordem de documento
+tatiana de paula costa - epp                                
+exc
+fornecedor
+documento
+fl
+pc
+pagto.
+vr pago
+multa
+j uros
+desc.
+vr total
+complemento
+ 1
+ 297,68
+ 297,68
+ 1
+ 723
+j s deus transportes 
+50208
+não
+05/08/22
+ 1
+ 4169,00
+ 4169,00
+ 2
+ 24
+rimo s/a ind. e 
+784977
+não
+05/08/22
+ 1
+ 5130,26
+ 5130,26
+ 1
+ 64
+atlas industria de 
+90894449
+não
+05/08/22
+ 14653,51
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 14653,51
+ 14653,51
+ 14689
+recibo:
+ 1
+ 724,43
+ 724,43
+ 1
+ 143
+industria de moveis 
+418395
+não
+09/08/22
+ 1
+ 8065,00
+ 8065,00
+ 2
+ 42
+moveis lopas com. 
+916261
+não
+09/08/22
+ 8789,43
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 8789,43
+ 8789,43
+ 14690
+recibo:
+ 1
+ 3883,12
+ 3883,12
+ 1
+ 903
+soldati ind. e com. de 
+22665
+não
+10/08/22
+ 1
+ 2100,00
+ 2100,00
+ 5
+ 784
+siri comercio e 
+388398
+não
+10/08/22
+ 1
+ 1912,01
+ 1912,01
+ 3
+ 836
+black decker do 
+460179108
+não
+10/08/22
+ 1
+ 2857,75
+ 2857,75
+ 1
+ 38
+moveis dalla costa 
+562614
+não
+10/08/22
+ 1
+ 2130,94
+ 2130,94
+ 1
+ 710
+kr moveis ltda
+58543
+não
+10/08/22
+ 1
+ 1305,46
+ 1305,46
+ 1
+ 24
+rimo s/a ind. e 
+788935
+não
+10/08/22
+ 14189,28
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 14189,28
+ 14189,28
+ 14691
+recibo:
+ 1
+ 285,80
+ 285,80
+ 1
+ 893
+unionlog 
+97546
+não
+11/08/22
+ 285,80
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 285,80
+ 285,80
+ 14692
+recibo:
+ 1
+ 3251,56
+ 3251,56
+ 5
+ 903
+soldati ind. e com. de 
+21648
+não
+12/08/22
+ 1
+ 2366,00
+ 2366,00
+ 2
+ 1067
+bertolini s/a
+41073
+não
+12/08/22
+ 1
+ 660,43
+ 660,43
+ 1
+ 1066
+kaise transportes 
+42348
+não
+12/08/22
+ 1
+ 2104,00
+ 2104,00
+ 6
+ 42
+moveis lopas com. 
+864682
+não
+12/08/22
+ 1
+ 4163,26
+ 4163,26
+ 3
+ 64
+atlas industria de 
+90860824
+não
+12/08/22
+ 12545,25
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 12545,25
+ 12545,25
+ 14693
+recibo:
+ 1
+ 684,00
+ 684,00
+ 3
+ 868
+pollo industria e 
+13504
+não
+15/08/22
+ 1
+ 1643,48
+ 1643,48
+ 1
+ 1055
+casa d industria de 
+177510
+não
+15/08/22
+ 1
+ 1599,83
+ 1599,83
+ 3
+ 162
+almar industria e 
+19674
+não
+15/08/22
+ 1
+ 533,13
+ 533,13
+ 1
+ 554
+mecanica e auto 
+40630
+não
+15/08/22
+ 1
+ 605,00
+ 605,00
+ 2
+ 1067
+bertolini s/a
+41139
+não
+15/08/22
+ 1
+ 7392,76
+ 7392,76
+ 1
+ 44
+panan- industria de 
+413202
+não
+15/08/22
+ 1
+ 2930,66
+ 2930,66
+ 1
+ 983
+mixtel distribuidora 
+51023
+não
+15/08/22
+ 1
+ 1113,49
+ 1113,49
+ 2
+ 838
+britania eletronicos 
+652393
+não
+15/08/22
+ 16502,35
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 16502,35
+ 16502,35
+ 14694
+recibo:
+ 1
+ 1694,00
+ 1694,00
+ 1
+ 442
+casa nobre ind com 
+13886
+não
+16/08/22
+ 1
+ 12005,52
+ 12005,52
+ 1
+ 826
+tcil moveis ltda
+602436
+não
+16/08/22
+ 1
+ 2087,34
+ 2087,34
+ 3
+ 138
+polar industria e 
+75376
+não
+16/08/22
+ 15786,86
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 15786,86
+ 15786,86
+ 14695
+recibo:
+ 1
+ 434,13
+ 434,13
+ 2
+ 554
+mecanica e auto 
+40314
+não
+17/08/22
+[rforbax] - atual sistemas
+gerado em 29/09/2022 as 10:25:22
+estação: caixa - usuário: mobnv
+relatório de pagamentos de fornecedor
+empresa:
+3
+página:
+período de 01/08/2022 à 31/08/2022 por ordem de data e sub-ordem de documento
+tatiana de paula costa - epp                                
+exc
+fornecedor
+documento
+fl
+pc
+pagto.
+vr pago
+multa
+j uros
+desc.
+vr total
+complemento
+ 1
+ 6064,14
+ 6064,14
+ 1
+ 983
+mixtel distribuidora 
+51657
+não
+17/08/22
+ 1
+ 1105,00
+ 1105,00
+ 1
+ 838
+britania eletronicos 
+663685
+não
+17/08/22
+ 1
+ 2001,34
+ 2001,34
+ 1
+ 632
+mueller fogoes ltda
+90159954
+não
+17/08/22
+ 9604,61
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 9604,61
+ 9604,61
+ 14696
+recibo:
+ 1
+ 839,03
+ 839,03
+ 1
+ 38
+moveis dalla costa 
+563714
+não
+18/08/22
+ 1
+ 4528,54
+ 4528,54
+ 1
+ 770
+electrolux do brasil 
+8108735062
+não
+18/08/22
+ 1
+ 2133,00
+ 2133,00
+ 2
+ 42
+moveis lopas com. 
+923659
+não
+18/08/22
+ 1
+ 478,96
+ 478,96
+ 1
+ 893
+unionlog 
+97968
+não
+18/08/22
+ 7979,53
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 7979,53
+ 7979,53
+ 14697
+recibo:
+ 1
+ 813,33
+ 813,33
+ 3
+ 1046
+r m b m moveis eireli
+1482
+não
+19/08/22
+ 1
+ 2130,67
+ 2130,67
+ 3
+1483
+não
+19/08/22
+ 1
+ 3095,00
+ 3095,00
+ 2
+ 1067
+bertolini s/a
+40331
+não
+19/08/22
+ 6039,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 6039,00
+ 6039,00
+ 14698
+recibo:
+ 1
+ 321,32
+ 321,32
+ 1
+ 905
+valenmoveis ind e 
+23810
+não
+22/08/22
+ 1
+ 11331,00
+ 11331,00
+ 1
+ 870
+seb comercial de 
+254094
+não
+22/08/22
+ 1
+ 623,10
+ 623,10
+ 1
+ 976
+electrolux do brasil 
+315545
+não
+22/08/22
+ 1
+ 2445,00
+ 2445,00
+ 1
+315546
+não
+22/08/22
+ 1
+ 3009,21
+ 3009,21
+ 2
+ 52
+orthocrin industria e 
+319057
+não
+22/08/22
+ 1
+ 6736,01
+ 6736,01
+ 2
+ 44
+panan- industria de 
+413202
+não
+22/08/22
+ 1
+ 3917,76
+ 3917,76
+ 2
+ 714
+moveis rafana ltda
+50258
+não
+22/08/22
+ 1
+ 1507,00
+ 1507,00
+ 2
+ 1039
+pradel moveis ltda
+50895
+não
+22/08/22
+ 1
+ 2313,00
+ 2313,00
+ 5
+ 24
+rimo s/a ind. e 
+772139
+não
+22/08/22
+ 1
+ 2224,53
+ 2224,53
+ 1
+ 138
+polar industria e 
+77223
+não
+22/08/22
+ 1
+ 552,28
+ 552,28
+ 1
+77224
+não
+22/08/22
+ 34980,21
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 34980,21
+ 34980,21
+ 14699
+recibo:
+ 1
+ 4955,27
+ 4955,27
+ 1
+ 414
+moveis matos & 
+30564
+não
+23/08/22
+ 4955,27
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 4955,27
+ 4955,27
+ 14700
+recibo:
+ 1
+ 2347,63
+ 2347,63
+ 1
+ 790
+transportadora 
+329396
+não
+24/08/22
+ 1
+ 408,00
+ 408,00
+ 2
+ 1067
+bertolini s/a
+41653
+não
+24/08/22
+ 2755,63
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 2755,63
+ 2755,63
+ 14701
+recibo:
+ 1
+ 5882,25
+ 5882,25
+ 1
+ 11
+cimol -comercio 
+305156
+não
+25/08/22
+ 1
+ 1217,38
+ 1217,38
+ 1
+ 1039
+pradel moveis ltda
+55012
+não
+25/08/22
+ 1
+ 1465,17
+ 1465,17
+ 2
+ 138
+polar industria e 
+76604
+não
+25/08/22
+ 8564,80
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 8564,80
+ 8564,80
+ 14702
+recibo:
+ 1
+ 4582,21
+ 4582,21
+ 1
+ 144
+rondomoveis ltda
+190910
+não
+26/08/22
+ 1
+ 2682,88
+ 2682,88
+ 1
+ 127
+industria de moveis 
+309750
+não
+26/08/22
+[rforbax] - atual sistemas
+gerado em 29/09/2022 as 10:25:22
+estação: caixa - usuário: mobnv
+relatório de pagamentos de fornecedor
+empresa:
+4
+página:
+período de 01/08/2022 à 31/08/2022 por ordem de data e sub-ordem de documento
+tatiana de paula costa - epp                                
+exc
+fornecedor
+documento
+fl
+pc
+pagto.
+vr pago
+multa
+j uros
+desc.
+vr total
+complemento
+ 1
+ 1303,59
+ 1303,59
+ 1
+ 127
+industria de moveis 
+309751
+não
+26/08/22
+ 1
+ 417,05
+ 417,05
+ 1
+ 1066
+kaise transportes 
+42878
+não
+26/08/22
+ 1
+ 5998,34
+ 5998,34
+ 1
+ 983
+mixtel distribuidora 
+53090
+não
+26/08/22
+ 1
+ 11928,63
+ 11928,63
+ 1
+ 744
+itatiaia moveis s/a
+569358
+não
+26/08/22
+ 1
+ 2183,17
+ 2183,17
+ 1
+ 24
+rimo s/a ind. e 
+793918
+não
+26/08/22
+ 29095,87
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 29095,87
+ 29095,87
+ 14703
+recibo:
+ 1
+ 1636,26
+ 1636,26
+ 3
+ 931
+electrolux do brasil 
+170375
+não
+30/08/22
+ 1
+ 585,79
+ 585,79
+ 3
+170566
+não
+30/08/22
+ 1
+ 2853,00
+ 2853,00
+ 1
+ 54
+moveis plataforma 
+21853
+não
+30/08/22
+ 1
+ 1016,00
+ 1016,00
+ 3
+ 1048
+aguia moveis ind com 
+2238
+não
+30/08/22
+ 1
+ 3262,00
+ 3262,00
+ 2
+2239
+não
+30/08/22
+ 1
+ 277,00
+ 277,00
+ 2
+ 905
+valenmoveis ind e 
+23810
+não
+30/08/22
+ 1
+ 4648,00
+ 4648,00
+ 2
+ 66
+ind. e comercio copas 
+367562
+não
+30/08/22
+ 1
+ 1362,00
+ 1362,00
+ 3
+ 224
+daniel paiva de 
+37366
+não
+30/08/22
+ 1
+ 948,00
+ 948,00
+ 2
+ 807
+lufer ind. e com. de 
+41259
+não
+30/08/22
+ 1
+ 6736,01
+ 6736,01
+ 3
+ 44
+panan- industria de 
+413202
+não
+30/08/22
+ 1
+ 310,00
+ 310,00
+ 4
+ 493
+compuflex com serv 
+5418
+não
+30/08/22
+ 1
+ 10180,72
+ 10180,72
+ 1
+ 42
+moveis lopas com. 
+944558
+não
+30/08/22
+ 33814,78
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 33814,78
+ 33814,78
+ 14704
+recibo:
+ 1
+ 2769,40
+ 2769,40
+ 1
+ 9
+acp industria de 
+188161
+não
+31/08/22
+ 1
+ 2881,85
+ 2881,85
+ 1
+ 52
+orthocrin industria e 
+321604
+não
+31/08/22
+ 1
+ 10439,60
+ 10439,60
+ 2
+ 826
+tcil moveis ltda
+602436
+não
+31/08/22
+ 16090,85
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 16090,85
+ 16090,85
+ 14705
+recibo:
+ 289486,28
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 289486,28
+total do mês
+08/2022
+total do período
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 289486,28
+ 289486,28
+dinheiro:
+outros:
+banco:
+electron:
+cartão:
+chq pré:
+chq:
+ 289486,28
+[rforbax] - atual sistemas
+gerado em 29/09/2022 as 10:25:22
+estação: caixa - usuário: mobnv

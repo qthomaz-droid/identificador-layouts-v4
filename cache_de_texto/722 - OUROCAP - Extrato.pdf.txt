@@ -1,0 +1,29 @@
+----------------------------- ourocap - extrato ------------------------------
+plano .........: ourocap negocios 24pua-10 serie ......: aa titulo:     2877158
+nome ..........: vimetal comercial ltda                                       
+vigencia ......: 30.03.2022 à 30.03.2024   cpf/cnpj ...:   741491000121       
+parcelas pagas :  1 /  1                   fim carencia: 30.04.2022           
+periodo extrato: 01.08.2021 à 30.09.2023   situacao....: ativo                
+                                               capitaliz.   correcao          
+s    data    historico                   valor                /juros     saldo
+- ---------- ---------------------- ---------- ---------- ---------- ---------
+  30.06.2021 saldo anterior capital       0,00       0,00       0,00      0,00
+_ 30.03.2022 parcela 1/1             10.000,00   8.872,00       0,00  8.872,00
+  30.04.2022 correcao/juros               0,00       0,00      64,07  8.936,07
+  30.05.2022 correcao/juros               0,00       0,00      54,25  8.990,32  
+_ 30.06.2022 correcao/juros               0,00       0,00      60,38  9.050,70
+_ 30.07.2022 correcao/juros               0,00       0,00      63,44  9.114,14
+_ 30.08.2022 correcao/juros               0,00       0,00      61,61  9.175,75
+_ 30.09.2022 correcao/juros               0,00       0,00      65,00  9.240,75
+_ 30.10.2022 correcao/juros               0,00       0,00      60,05  9,300.80
+_ 30.11.2022 correcao/juros               0,00       0,00      60,52  9,361,32
+_ 30.12.2022 correcao/juros               0,00       0,00      66,38  9,427.70
+_ 30.01.2023 correcao/juros               0,00       0,00      63,65  9,491.35
+_ 28.02.2023 correcao/juros               0,00       0,00      61,58  9,552.93
+_ 30.03.2023 correcao/juros               0,00       0,00      64,44  9,617.37
+_ 30.04.2023 correcao/juros               0,00       0,00      62,19  9,679.56
+_ 30.05.2023 correcao/juros               0,00       0,00      62,90  9,742.46
+_ 30.06.2023 correcao/juros               0,00       0,00      59,19  9,801.65
+_ 30.07.2023 correcao/juros               0,00       0,00      64,66  9,866.31
+_ 30.08.2023 correcao/juros               0,00       0,00      68,04  9,934.35
+_ 30.09.2023 correcao/juros               0,00       0,00      67,02 10.001,37

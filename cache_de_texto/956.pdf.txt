@@ -1,0 +1,1296 @@
+código
+extrato de conta corrente
+folha
+revisão
+000
+1 / 5
+banco: 756 - sicoob
+saldo anterior:
+-108.374,84
+nº c. corrente:
+166
+data
+documento
+valor
+saldo
+histórico
+02/05/2023
+14049/4568-c/03
+3.514,89
+-104.859,95
+rec oliv silva 14049/4568-c
+c
+02/05/2023
+jd14049/4503/03
+99,54
+-104.760,41
+juros recebido do cliente
+c
+02/05/2023
+transf
+250,00
+-104.510,41
+transf. 237/8213 para 756/166
+c
+02/05/2023
+26811-s/01
+4,60
+-104.515,01
+tarifa cobrança
+d
+02/05/2023
+26812-s/01
+556,38
+-105.071,39
+deb. iof
+d
+03/05/2023
+td00972
+81.814,90
+-23.256,49
+desc. dupls
+c
+03/05/2023
+04-2023/42
+6.091,75
+-29.348,24
+02 ton. de granalha/semana.
+d
+03/05/2023
+26813-s/01
+1.965,15
+-31.313,39
+deb juros desc. dupls
+d
+03/05/2023
+26814-s/01
+2.595,79
+-33.909,18
+deb tit desc. ica de sousa 13708/4392-e
+d
+03/05/2023
+26815-s/01
+14.108,95
+-48.018,13
+deb tit desc. ica de sousa 004
+d
+03/05/2023
+26816-s/01
+5.821,39
+-53.839,52
+deb tit desc. vr ind. 30245-d
+d
+03/05/2023
+26817-s/01
+540,99
+-54.380,51
+deb tarifa td + deb iof
+d
+03/05/2023
+26818-s/01
+45,70
+-54.426,21
+custas cartorárias
+d
+03/05/2023
+26819-s/01
+70,20
+-54.496,41
+tarifa cobrança
+d
+03/05/2023
+lt0011080
+35.402,92
+-89.899,33
+pagt dupls
+d
+03/05/2023
+pagtarthur/01
+401,37
+-90.300,70
+saldo salario arthur
+d
+03/05/2023
+transf
+10.000,00
+-100.300,70
+transf. 756/166 para 237/2157
+d
+03/05/2023
+transf
+350,00
+-100.650,70
+transf. 756/166 para 237/8213
+d
+04/05/2023
+td00990
+25.952,53
+-74.698,17
+desc dupls.
+c
+04/05/2023
+12841/01
+5.113,85
+-79.812,02
+b.g. black diamond nb- bkzrnn -te transportes
+d
+04/05/2023
+26827-s/01
+1.050,86
+-80.862,88
+deb tit desc. marmozan 30337-b
+d
+04/05/2023
+26828-s/01
+713,93
+-81.576,81
+deb tit desc. vm comercio 30331-c
+d
+04/05/2023
+26829-s/01
+201,17
+-81.777,98
+deb iof + deb tar td
+d
+04/05/2023
+26830-s/01
+797,87
+-82.575,85
+juros desc. dupls
+d
+04/05/2023
+26831-s/01
+45,00
+-82.620,85
+lavagem carro da claudia
+d
+04/05/2023
+26832-s/01
+500,00
+-83.120,85
+icatu capitalizações
+d
+04/05/2023
+26833-s/01
+657,74
+-83.778,59
+lanç. custas cartorarias + tar cobrança
+d
+04/05/2023
+jd1284101/01
+615,66
+-84.394,25
+juros pagos a fornecedor
+d
+04/05/2023
+transf
+16.000,00
+-100.394,25
+transf. 756/166 para 237/2157
+d
+05/05/2023
+0030294-a/71
+2.575,00
+-97.819,25
+rec rosyvam 9733-d
+c
+05/05/2023
+0030294-a/71
+2.575,00
+-100.394,25
+estorno ref. cobrança descontada
+d
+05/05/2023
+26834-s/01
+21,64
+-100.415,89
+custas protesto+tar cobrança
+d
+08/05/2023
+0030294-a/56
+3.522,50
+-96.893,39
+rec lider com 9819-c
+c
+08/05/2023
+td00985
+32.949,54
+-63.943,85
+desc dupls
+c
+08/05/2023
+transf
+50,00
+-63.893,85
+transf. 756/314 para 756/166
+c
+08/05/2023
+0030294-a/56
+3.522,50
+-67.416,35
+estorno ref. cobrança descontada
+d
+08/05/2023
+17/02
+1.100,00
+-68.516,35
+m da s soares
+d
+08/05/2023
+26835-s/01
+657,85
+-69.174,20
+juros desc. dupls
+d
+08/05/2023
+26836-s/01
+5.179,68
+-74.353,88
+deb tit desc. art minas 14234-a
+d
+08/05/2023
+26837-s/01
+5.968,15
+-80.322,03
+deb tit desc. art minas 14350-a
+d
+08/05/2023
+26838-s/01
+3.422,60
+-83.744,63
+deb tit desc. ms marmopoly 14352-a
+d
+08/05/2023
+26839-s/01
+219,24
+-83.963,87
+deb iof+deb tarifa td
+d
+08/05/2023
+26840-s/01
+54,85
+-84.018,72
+deb pacote serviços
+d
+08/05/2023
+26841-s/01
+26,24
+-84.044,96
+custas cartorárias+tarifa cobrança
+d
+08/05/2023
+cartfilh-23/05
+1.971,28
+-86.016,24
+cartão credito isabelle/cibele ref. 2023.
+d
+08/05/2023
+jd1702/02
+32,27
+-86.048,51
+juros pagos a fornecedor
+d
+08/05/2023
+lt0011083
+13.957,68
+-100.006,19
+pagt dupls
+d
+09/05/2023
+0030291-b/02
+3.215,34
+-96.790,85
+rec oliveira silva 30291-b
+c
+09/05/2023
+0030354-b/02
+7.264,75
+-89.526,10
+rec marm imperatriz 30354-b
+c
+09/05/2023
+jd0030354-02/02
+72,61
+-89.453,49
+juros recebido do cliente
+c
+15/08/2023 16:04:17
+id: 94
+código
+extrato de conta corrente
+folha
+revisão
+000
+2 / 5
+banco: 756 - sicoob
+saldo anterior:
+-108.374,84
+nº c. corrente:
+166
+data
+documento
+valor
+saldo
+histórico
+09/05/2023
+transf
+13.192,00
+-76.261,49
+transf. 756/314 para 756/166
+c
+09/05/2023
+0905/01
+6.091,75
+-82.353,24
+01 ton de granalha
+d
+09/05/2023
+26842-s/01
+3,40
+-82.356,64
+tarifa cobrança
+d
+09/05/2023
+35311/01
+7.350,00
+-89.706,64
+concreto para galpao
+d
+09/05/2023
+jd3531101/01
+202,12
+-89.908,76
+juros pagos a fornecedor
+d
+09/05/2023
+transf
+10.000,00
+-99.908,76
+transf. 756/166 para 237/2157
+d
+10/05/2023
+0014234-a/01
+5.027,15
+-94.881,61
+rec art minas 14234-a
+c
+10/05/2023
+8847509
+27.000,00
+-67.881,61
+cred desconto
+c
+10/05/2023
+jd0014234-01/01
+120,65
+-67.760,96
+juros recebido do cliente
+c
+10/05/2023
+td00991
+36.593,92
+-31.167,04
+desc dupls.
+c
+10/05/2023
+26843-s/01
+1.162,80
+-32.329,84
+juros desc chqs
+d
+10/05/2023
+26844-s/01
+882,08
+-33.211,92
+juros desc dupls
+d
+10/05/2023
+26845-s/01
+228,69
+-33.440,61
+deb iof+deb tarifa td
+d
+10/05/2023
+26846-s/01
+247,78
+-33.688,39
+deb iof+deb tarifa td
+d
+10/05/2023
+26847-s/01
+30,40
+-33.718,79
+ted internet+tarifa cobrança
+d
+10/05/2023
+alug-vit2023/05
+2.750,00
+-36.468,79
+aluguel apartamento de vitoria ref ano/2023.
+d
+10/05/2023
+lt0011085
+10.464,16
+-46.932,95
+pagt dupls.
+d
+10/05/2023
+transf
+20.000,00
+-66.932,95
+transf. 756/166 para 237/2157
+d
+10/05/2023
+transf
+32.100,00
+-99.032,95
+transf. 756/166 para 756/314
+d
+10/05/2023
+transf
+350,00
+-99.382,95
+transf. 756/166 para 756/934348
+d
+11/05/2023
+0030136-a/01
+9.679,66
+-89.703,29
+rec lider 9967-a (26.287,50)
+c
+11/05/2023
+0030138-a/01
+13.572,02
+-76.131,27
+rec lider 9967-a (26.287,50)
+c
+11/05/2023
+0030294-a/66
+3.035,82
+-73.095,45
+rec lider 9967-a (26.287,50)
+c
+11/05/2023
+0030136-a/01
+9.679,66
+-82.775,11
+estorno ref. cobrança descontada
+d
+11/05/2023
+0030138-a/01
+13.572,02
+-96.347,13
+estorno ref. cobrança descontada
+d
+11/05/2023
+0030294-a/66
+3.035,82
+-99.382,95
+estorno ref. cobrança descontada
+d
+11/05/2023
+26857-s/01
+14,00
+-99.396,95
+ted internet
+d
+12/05/2023
+td00986
+42.160,39
+-57.236,56
+desc dupls
+c
+12/05/2023
+transf
+250,00
+-56.986,56
+transf. 237/8213 para 756/166
+c
+12/05/2023
+2459rm/66
+3.899,00
+-60.885,56
+g.p.s. gabriel  11049transcostalonga
+d
+12/05/2023
+26849-s/01
+1.367,21
+-62.252,77
+juros desc dupls
+d
+12/05/2023
+26850-s/01
+6.539,53
+-68.792,30
+deb tit. desc. marines 14112/4604-d
+d
+12/05/2023
+26851-s/01
+1.902,87
+-70.695,17
+deb tit. desc. marines 30301-c
+d
+12/05/2023
+26852-s/01
+5.457,94
+-76.153,11
+deb tit. desc. ms marmopolt 30349-b
+d
+12/05/2023
+26853-s/01
+1.231,92
+-77.385,03
+deb tit. desc. oliveira silva 30291-c
+d
+12/05/2023
+26854-s/01
+28,80
+-77.413,83
+tarifa cobrança
+d
+12/05/2023
+26855-s/01
+915,00
+-78.328,83
+manut. t.i. rodrigo da thomazini
+d
+12/05/2023
+26856-s/01
+300,38
+-78.629,21
+deb iof+deb tar td
+d
+12/05/2023
+lt0011089
+21.343,36
+-99.972,57
+pagt dupls
+d
+15/05/2023
+0030136-a/41
+970,00
+-99.002,57
+rec marm marcossil 9939-a
+c
+15/05/2023
+0030136-a/51
+7.530,00
+-91.472,57
+rec lider 9839-c
+c
+15/05/2023
+0030291-c/03
+1.197,80
+-90.274,77
+rec oliveira silva 30291-c
+c
+15/05/2023
+0030397-a/01
+5.290,47
+-84.984,30
+rec cart m de s batista30397a
+c
+15/05/2023
+0030404-a/01
+1.824,01
+-83.160,29
+rec cart rafael zamp 30404-a
+c
+15/05/2023
+desc
+2.575,00
+-80.585,29
+desc dupl/belem
+c
+15/05/2023
+jd0030291-03/03
+17,95
+-80.567,34
+juros recebido do cliente
+c
+15/05/2023
+td00999
+23.060,99
+-57.506,35
+desc dupls
+c
+15/05/2023
+0030136-a/51
+7.530,00
+-65.036,35
+estorno ref. cobrança descontada
+d
+15/05/2023
+26858-s/01
+637,26
+-65.673,61
+seguros mapfre
+d
+15/05/2023
+26859-s/01
+500,00
+-66.173,61
+icatu capitalização
+d
+15/08/2023 16:04:17
+id: 94
+código
+extrato de conta corrente
+folha
+revisão
+000
+3 / 5
+banco: 756 - sicoob
+saldo anterior:
+-108.374,84
+nº c. corrente:
+166
+data
+documento
+valor
+saldo
+histórico
+15/05/2023
+26860-s/01
+75,76
+-66.249,37
+custas protesto + tar cobrança
+d
+15/05/2023
+26861-s/01
+207,90
+-66.457,27
+renovação certificados digitais
+d
+15/05/2023
+26862-s/01
+192,26
+-66.649,53
+deb iof+deb tar td
+d
+15/05/2023
+26863-s/01
+676,07
+-67.325,60
+juros desc dupls
+d
+15/05/2023
+lt0011097
+5.000,00
+-72.325,60
+dep carlito/sicoob
+d
+15/05/2023
+lt0011098
+27.631,98
+-99.957,58
+pagt dupls.
+d
+16/05/2023
+0014352-a/01
+3.337,04
+-96.620,54
+rec ms marmopoly 14352-a
+c
+16/05/2023
+0030136-a/56
+700,00
+-95.920,54
+rec acordo luis maria02
+c
+16/05/2023
+0030569-a/1/01
+34.847,51
+-61.073,03
+rec gran zucchi 30569-a
+c
+16/05/2023
+0030570-a/1/01
+35.928,58
+-25.144,45
+rec gran zucchi 30570-a
+c
+16/05/2023
+0030571-a/1/01
+23.963,94
+-1.180,51
+rec gran zucchi 30571-a
+c
+16/05/2023
+desc/belem
+26.287,50
+25.106,99
+desc dupl/belem
+c
+16/05/2023
+jd0014352-01/01
+100,11
+25.207,10
+juros recebido do cliente
+c
+16/05/2023
+26864-s/01
+1.266,17
+23.940,93
+juros desc dupl
+d
+16/05/2023
+26865-s/01
+232,28
+23.708,65
+deb iof+deb tar td
+d
+16/05/2023
+26866-s/01
+11,60
+23.697,05
+cuastas cartorio+tarifacobrança
+d
+16/05/2023
+lt0011104
+32.132,53
+-8.435,48
+pagt dupls.
+d
+16/05/2023
+lt0011105
+74.213,06
+-82.648,54
+pagt energia mtz/filial
+d
+16/05/2023
+transf
+66.780,00
+-149.428,54
+transf. 756/166 para 237/8213
+d
+17/05/2023
+0030267-b/02
+6.379,83
+-143.048,71
+rec cart mar imperatriz 30267b
+c
+17/05/2023
+0030349-b/02
+5.302,03
+-137.746,68
+rec ms marmpopoly 30349-b
+c
+17/05/2023
+0030354-a/01
+7.264,76
+-130.481,92
+rec cart mar imperatriz 30354a
+c
+17/05/2023
+jd0030349-02/02
+123,71
+-130.358,21
+juros recebido do cliente
+c
+17/05/2023
+26867-s/01
+1,80
+-130.360,01
+tarifa cobrança
+d
+17/05/2023
+26868-s/01
+40,92
+-130.400,93
+custas cartorárias + tarifa cobrança
+d
+19/05/2023
+td00993
+35.798,41
+-94.602,52
+desc. dupls
+c
+19/05/2023
+13-03/23/48
+990,80
+-95.593,32
+fita equiipamentos
+d
+19/05/2023
+26869-s/01
+1.258,68
+-96.852,00
+juros desc dupls
+d
+19/05/2023
+26870-s/01
+268,82
+-97.120,82
+deb iof+deb tar td
+d
+19/05/2023
+26871-s/01
+7,00
+-97.127,82
+ted internet
+d
+19/05/2023
+26872-s/01
+48,00
+-97.175,82
+adiant depositante
+d
+19/05/2023
+26873-s/01
+12,40
+-97.188,22
+tarifa cobrança
+d
+19/05/2023
+jdtx exc0104/04
+7,68
+-97.195,90
+juros pagos a fornecedor
+d
+19/05/2023
+tx exc0123/04
+334,43
+-97.530,33
+taxa excedente gmg
+d
+22/05/2023
+transf
+2.460,00
+-99.990,33
+transf. 756/166 para 756/314
+d
+23/05/2023
+0030502-a/01
+3.508,45
+-96.481,88
+rec wf viana 30502-a
+c
+23/05/2023
+04-2023/01
+840,00
+-97.321,88
+07 dias faxina em abril/2023.
+d
+23/05/2023
+26874-s/01
+198,00
+-97.519,88
+agua para escritorio
+d
+23/05/2023
+26875-s/01
+1,80
+-97.521,68
+tarifa cobrança
+d
+23/05/2023
+pagt 04-23/01
+1.047,93
+-98.569,61
+rest pagt 04/23 sergio santana
+d
+23/05/2023
+pagt 04-23/01
+1.402,21
+-99.971,82
+pagt 04/2023 alexandre rezende
+d
+24/05/2023
+td00989
+49.227,55
+-50.744,27
+desc dupls
+c
+24/05/2023
+26876-s/01
+240,10
+-50.984,37
+juros desc dupls
+d
+24/05/2023
+26877-s/01
+10.763,15
+-61.747,52
+deb tit desc. marines 30283-c
+d
+24/05/2023
+26878-s/01
+717,17
+-62.464,69
+deb tit desc. vm com. 30331-d
+d
+24/05/2023
+26879-s/01
+3.628,14
+-66.092,83
+deb tit desc. oliveira silva 14049/4568-d
+d
+24/05/2023
+26880-s/01
+3.559,53
+-69.652,36
+deb tit desc. orlando bussolotto 30392-b
+d
+24/05/2023
+26881-s/01
+5.441,06
+-75.093,42
+deb tit desc. m de s batista 30397-b
+d
+24/05/2023
+26882-s/01
+253,37
+-75.346,79
+deb iof+deb tar td
+d
+24/05/2023
+26883-s/01
+12,40
+-75.359,19
+ted internet+tarifa cobrança
+d
+15/08/2023 16:04:17
+id: 94
+código
+extrato de conta corrente
+folha
+revisão
+000
+4 / 5
+banco: 756 - sicoob
+saldo anterior:
+-108.374,84
+nº c. corrente:
+166
+data
+documento
+valor
+saldo
+histórico
+24/05/2023
+lt0011114
+24.566,96
+-99.926,15
+pagt dupls
+d
+25/05/2023
+0030337-b/02
+1.021,76
+-98.904,39
+rec. marmozan 30337-b
+c
+25/05/2023
+td01003
+48.529,67
+-50.374,72
+desc. dupls
+c
+25/05/2023
+26884-s/01
+1.504,02
+-51.878,74
+juros desc dupls
+d
+25/05/2023
+26885-s/01
+333,84
+-52.212,58
+deb iof+deb tarifa td
+d
+25/05/2023
+26886-s/01
+35,80
+-52.248,38
+tarifa cobrança
+d
+25/05/2023
+26887-s/01
+500,00
+-52.748,38
+icatu capitalizações
+d
+25/05/2023
+lt0011115
+44.086,44
+-96.834,82
+pagt dupls
+d
+25/05/2023
+transf
+1.100,00
+-97.934,82
+transf. 756/166 para 756/934348
+d
+25/05/2023
+transf
+2.000,00
+-99.934,82
+transf. 756/166 para 237/2157
+d
+26/05/2023
+td01005
+20.952,51
+-78.982,31
+desc dupls
+c
+26/05/2023
+26888-s/01
+141,29
+-79.123,60
+deb iof+tarifa td
+d
+26/05/2023
+26889-s/01
+31,44
+-79.155,04
+tarifas cobranças
+d
+26/05/2023
+26890-s/01
+551,74
+-79.706,78
+juros desc dupls
+d
+26/05/2023
+26891-s/01
+1.456,14
+-81.162,92
+deb tit desc. rafael zamp 14291-b
+d
+26/05/2023
+transf
+17.000,00
+-98.162,92
+transf. 756/166 para 237/2157
+d
+26/05/2023
+transf
+1.850,00
+-100.012,92
+transf. 756/166 para 756/934348
+d
+29/05/2023
+0014390-a/01
+1.691,65
+-98.321,27
+rec marmozan 14390-a
+c
+29/05/2023
+td01008
+14.408,27
+-83.913,00
+desc. dupls
+c
+29/05/2023
+transf
+6.980,00
+-76.933,00
+transf. 237/8213 para 756/166
+c
+29/05/2023
+26892-s/01
+405,96
+-77.338,96
+juros desc dupls
+d
+29/05/2023
+26893-s/01
+106,67
+-77.445,63
+deb iof+deb tarifa td
+d
+29/05/2023
+26894-s/01
+12,60
+-77.458,23
+tarifa cobrança
+d
+29/05/2023
+554/02
+21.512,73
+-98.970,96
+g. arabescato nb 493 guia 138 transp scheidegg
+d
+29/05/2023
+jd55402/02
+1.037,05
+-100.008,01
+juros pagos a fornecedor
+d
+30/05/2023
+0030605-a/1/01
+37.146,90
+-62.861,11
+rec gran zucchi 30605-a
+c
+30/05/2023
+0030607-a/1/01
+37.146,90
+-25.714,21
+rec gran zucchi 30607-a
+c
+30/05/2023
+0030608-a/1/01
+24.994,41
+-719,80
+rec gran zucchi 30608-a
+c
+30/05/2023
+td01009
+78.572,65
+77.852,85
+desc dupls
+c
+30/05/2023
+26895-s/01
+3.411,83
+74.441,02
+juros desc. dupls
+d
+30/05/2023
+26896-s/01
+621,29
+73.819,73
+deb iof+deb tarifa td
+d
+30/05/2023
+26897-s/01
+5.756,69
+68.063,04
+deb tit desc. vr com. 30245-e
+d
+30/05/2023
+26898-s/01
+16,14
+68.046,90
+ted internet+custa cartorio
+d
+30/05/2023
+26900-s/01
+53,10
+67.993,80
+tarifa cobrança
+d
+30/05/2023
+428389/03
+974,67
+67.019,13
+antonio auto peças
+d
+30/05/2023
+ircarlito23/01
+690,85
+66.328,28
+ref. declaração i.r. carlito 2022/2023.
+d
+30/05/2023
+lt0011119
+119.904,43
+-53.576,15
+pagt dupls.
+d
+30/05/2023
+transf
+25.000,00
+-78.576,15
+transf. 756/166 para 237/2157
+d
+31/05/2023
+transf
+4.900,00
+-73.676,15
+transf. 756/314 para 756/166
+c
+31/05/2023
+04-2023/03
+5.885,25
+-79.561,40
+02 ton. de granalha/semana.
+d
+31/05/2023
+107432/02
+2.359,77
+-81.921,17
+mesa para vendas/comercial
+d
+31/05/2023
+26901-s/01
+22,64
+-81.943,81
+custa protesto+tarifa cobrança
+d
+31/05/2023
+26902-s/01
+755,52
+-82.699,33
+juros adiant. depositante
+d
+31/05/2023
+26903-s/01
+6.506,42
+-89.205,75
+juros conta garantida
+d
+31/05/2023
+54/02
+8.000,00
+-97.205,75
+b. verde perola- 362-363-364-366-368-370-371
+d
+31/05/2023
+jd10743202/02
+7,08
+-97.212,83
+juros pagos a fornecedor
+d
+31/05/2023
+lt0011118
+10.000,00
+-107.212,83
+metisa
+d
+15/08/2023 16:04:17
+id: 94
+código
+extrato de conta corrente
+folha
+revisão
+000
+5 / 5
+banco: 756 - sicoob
+saldo anterior:
+-108.374,84
+nº c. corrente:
+166
+data
+documento
+valor
+saldo
+histórico
+197
+total de registros:
+saldo atual ---->
+-107.212,83
+limite da conta ---->
+0,00
+saldo com limite ---->
+-107.212,83
+limite desconto duplicata->
+duplicata já descontada->
+saldo disponível p/ desc->
+limite desconto cheque->
+cheque já descontado->
+saldo disponível p/ desc->
+0,00
+2.197.747,25
+-2.197.747,25
+0,00
+945.317,46
+-945.317,46
+total de crédito ---->
+863.493,57
+total de débito ---->
+862.331,56
+15/08/2023 16:04:17
+id: 94

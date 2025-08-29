@@ -1,0 +1,181 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+ 
+ 
+recebimentos
+data/hora de emissão:
+11/03/2024 10:46:42
+cooperativa:
+3003
+conta:
+5.956-0  oficina irmaos bazoni ltda
+período:
+01/01/2024 - 31/01/2024
+tipo de movimentação:
+recebimentos
+data/hora movimento
+id transação
+histórico
+nome do pagador
+instituição do
+pagador
+descrição
+identificador (txid)
+valor
+02/01/2024 16:55:50
+e318049662024010
+21955piqr3fqmi7n
+recebimento
+pix via
+chave
+vitoria prime rental
+car - locacao e
+comercio de a
+sicoob coopermais
+94356
+-
+r$ 702,10
+08/01/2024 12:59:57
+e904008882024010
+81558yl023824388
+recebimento
+pix via
+manual
+allianz seguros sa
+bco santander
+(brasil) s.a.
+-
+-
+r$ 6.835,46
+09/01/2024 16:04:23
+e227539822024010
+91903fclxxbdaf6i
+recebimento
+pix via
+chave
+associacao de
+caminhoneiros prime
+truck
+cc credisete ltda
+oficina irmaos
+bazoni
+-
+r$ 3.250,00
+15/01/2024 11:31:14
+e318049662024011
+51431rkvnaryonh
+p
+recebimento
+pix via
+chave
+vitoria prime rental
+car - locacao e
+comercio de a
+sicoob coopermais
+95361
+-
+r$ 720,00
+19/01/2024 12:46:35
+e904008882024011
+91544yl071326615
+recebimento
+pix via
+manual
+allianz seguros sa
+bco santander
+(brasil) s.a.
+-
+-
+r$ 6.786,61
+22/01/2024 10:05:44
+e904008882024012
+2130517955111173
+recebimento
+pix via
+chave
+marcio de oliveira
+bco santander
+(brasil) s.a.
+-
+-
+r$ 300,00
+23/01/2024 12:54:48
+e033589142024012
+31554bsvcbfmego
+0
+recebimento
+pix via
+chave
+granexpo do brasil
+granitos ltda
+sicoob credirochas
+oficina bazoni
+-
+r$ 10.000,00
+24/01/2024 13:24:38
+e033589142024012
+416233paidgxtxbo
+recebimento
+pix via
+chave
+marcelo novaes
+bernabé
+sicoob credirochas
+-
+-
+r$ 150,00
+24/01/2024 18:49:57
+e000000002024012
+4214942973624171
+ pix via
+chave
+marieli vital
+pongeluppe
+bco do brasil s.a.
+-
+-
+r$ 1.200,00
+26/01/2024 09:25:15
+e227539822024012
+61224lfwfb2rjyqh
+recebimento
+pix via
+chave
+associacao de
+caminhoneiros prime
+truck
+cc credisete ltda
+oficina irmaos
+bazoni
+-
+r$ 3.250,00
+29/01/2024 13:33:39
+e904008882024012
+91633yl061630060
+recebimento
+pix via
+manual
+allianz seguros sa
+bco santander
+(brasil) s.a.
+-
+-
+r$ 10.305,84
+31/01/2024 12:29:20
+e904008882024013
+11528yl027961937
+recebimento
+pix via
+manual
+allianz seguros sa
+bco santander
+(brasil) s.a.
+-
+-
+r$ 10.761,26
+resumo
+valor total:
+r$ 54.261,27
+quantidade de registros:
+12
+ouvidoria sicoob: 08007250996

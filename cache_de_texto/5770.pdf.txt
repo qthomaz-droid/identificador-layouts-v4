@@ -1,0 +1,564 @@
+critérios para pesquisa:
+conta: 'igual' 0429053013
+cheques:  inclui cheques 
+declaração data : absoluta de 08/01/2024 para 08/31/2024
+número de
+conta
+номер на
+клон
+nome da
+agência
+declaração
+de data
+moeda
+saldo
+disponível
+atual / saldo
+disponível
+abrindo ledger
+balance
+registro de balanco
+fechado
+calculado os
+saldos
+сума
+data
+entrada
+valor
+data
+banco de
+referência
+referência do
+cliente
+narrativa
+transação
+descrição
+número iban
+0429053013
+076
+brazil
+citibank
+08/23/2024
+brl
+0.00
+100,000.00
+0.00
+0.00
+no
+100,000.00
+08/23/2024
+08/23/2024
+0000000831397783
+spkr midias e
+eventos ltda
+spkr midias e eventos ltda 
+bco 0237 ag 0138 c/c 00001798391 
+cnpj 19829371000109 
+ted recebido
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/23/2024
+brl
+0.00
+100,000.00
+0.00
+0.00
+no
+-
+100,000.00
+08/23/2024
+08/23/2024
+9022001
+nonref
+debito
+sweep
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/29/2024
+brl
+100,001.55
+98,107.87
+0.00
+0.48
+no
+1,895.00
+08/29/2024
+08/29/2024
+9022002
+nonref
+cred sweep
+princ
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/29/2024
+brl
+100,001.55
+98,107.87
+0.00
+0.48
+no
+-1,805.89
+08/29/2024
+08/29/2024
+156804544
+nonref
+deb ref a 0001 pgtos neste dia
+pgto de
+titulo
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/29/2024
+brl
+100,001.55
+98,107.87
+0.00
+0.48
+no
+0.05
+08/29/2024
+08/29/2024
+9022002
+nonref
+cred sweep
+juros
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/29/2024
+brl
+100,001.55
+98,107.87
+0.00
+0.48
+no
+-88.68
+08/29/2024
+08/29/2024
+5635627
+242400829089976
+ref 242400829089976 
+eletropaulo
+aes sul 
+00 
+pag de
+impostos
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-14,950.00
+08/30/2024
+08/30/2024
+9160404010
+243400831227999
+jonathan da silva alves
+e2eide33479023202 
+408301459pasjivl1mkp bco18236120
+ag0001 cc19656136 
+cpf 41836475845 
+alias 41836475845 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-4,440.00
+08/30/2024
+08/30/2024
+0237249750
+243400831200669
+gabriel de almeida caldeira cape
+e2eide33479023202 
+408301445pambo3bo30c bco18236120
+ag0001 cc29789854
+pix enviado
+chave
+br6433479023000010090038239c1
+consulta de extrato de conta
+22 de 22 linhas impresso
+você pode ter que ajustar o número de colunas selecionadas para ter dados na grade resumo aparecem na página impressa de forma legível. a fim de imprimir todas as colunas na grelha , pode ser necessário para a exportação para xls ou csv
+página 1 de 4
+impresso em 09/02/2024 em 11:17:52 (gmt-03:00) brasilia
+ag0001 cc29789854 
+1 cnpj48494222000134 alias
+48494222000134 
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-16,000.00
+08/30/2024
+08/30/2024
+7212862606
+243400831144692
+fuentes publicidade
+e2eide33479023202 
+408301423paaf1aegbu9 bco31872495
+ag0001 cc28691949 
+4 cnpj34532084000126 alias
+34532084000126 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-5,000.00
+08/30/2024
+08/30/2024
+3183838264
+243400831251558
+bernardino servicos de internet
+e2eide33479023202 
+408301508pa9adyqdqit bco90400888
+ag3829 cc13005240 
+1 cnpj08490324000167 alias
+08490324000167 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-2,500.00
+08/30/2024
+08/30/2024
+7888942268
+243400831251550
+matheus rossetto rodovalho
+e2eide33479023202 
+408301507paaf0nlf11h bco60701190
+ag9054 cc00214631 
+cpf 38020312889 
+alias 38020312889 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-4,000.00
+08/30/2024
+08/30/2024
+1321713205
+243400831200659
+emanuella fernanda cardoso
+limer e2eide33479023202 
+408301441pax4jjgg5m5 bco60746948
+ag2146 cc7835809 
+cpf 06550496659 
+alias 06550496659 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-2,623.48
+08/30/2024
+08/30/2024
+5640051
+243400083114469
+ref 2434000831144695 
+darf numerado
+00 cnpj 394460005887 
+pag de
+impostos
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+200,000.00
+08/30/2024
+08/30/2024
+0000000832274551
+spkr midias e
+eventos ltda
+spkr midias e eventos ltda 
+bco 0237 ag 0138 c/c 00001798391 
+cnpj 19829371000109 
+ted recebido
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-
+118,391.00
+08/30/2024
+08/30/2024
+6020501
+nonref
+debito
+sweep
+br6433479023000010090038239c1
+consulta de extrato de conta
+22 de 22 linhas impresso
+você pode ter que ajustar o número de colunas selecionadas para ter dados na grade resumo aparecem na página impressa de forma legível. a fim de imprimir todas as colunas na grelha , pode ser necessário para a exportação para xls ou csv
+página 2 de 4
+impresso em 09/02/2024 em 11:17:52 (gmt-03:00) brasilia
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-6,000.00
+08/30/2024
+08/30/2024
+6200507463
+243400831200662
+flavio del valle junior
+e2eide33479023202 
+408301443pamrsd388xw bco60746948
+ag0095 cc5326214 
+cpf 29277755830 
+alias flavio delvalle
+gmail 
+com 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-568.41
+08/30/2024
+08/30/2024
+5640050
+243400083114470
+ref 2434000831144708 
+darf numerado
+00 cnpj 394460005887 
+pag de
+impostos
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-4,290.00
+08/30/2024
+08/30/2024
+0502286983
+243400831251561
+samuel estevam reuse
+e2eide33479023202 
+408301510pacl4fx9wf3 bco00000000
+ag3273 cc1108921 
+cpf 03407119909 
+alias 03407119909 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-6,190.00
+08/30/2024
+08/30/2024
+9635994834
+243400831228046
+liberali design ltda 
+e2eide33479023202 
+408301505pafac0ghcjs bco37880206
+ag0001 cc48077558 
+cnpj28296020000170 alias liberalidesign
+gmail 
+com 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-247.50
+08/30/2024
+08/30/2024
+9987612348
+243400831144715
+diego leonardo de andrade
+e2eide33479023202 
+408301432pawlfo6zhzw bco60746948
+ag0126 cc927147 
+cpf 22802036858 
+alias 22802036858 
+pix enviado
+chave
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-3,800.00
+08/30/2024
+08/30/2024
+156852892
+nonref
+deb ref a 0001 pgtos neste dia
+pgto de
+titulo
+br6433479023000010090038239c1
+0429053013
+076
+brazil
+citibank
+08/30/2024
+brl
+98,107.87
+216,499.68
+0.48
+0.09
+no
+-11,000.00
+08/30/2024
+08/30/2024
+7188665872
+243400831144719
+minhas nerdices ltda
+e2eide33479023202 
+408301433panvw1n03bi bco18236120
+ag0001 cc11089843 
+77 cnpj54511923000137 alias
+54511923000137 
+pix enviado
+chave
+br6433479023000010090038239c1
+consulta de extrato de conta
+22 de 22 linhas impresso
+você pode ter que ajustar o número de colunas selecionadas para ter dados na grade resumo aparecem na página impressa de forma legível. a fim de imprimir todas as colunas na grelha , pode ser necessário para a exportação para xls ou csv
+página 3 de 4
+impresso em 09/02/2024 em 11:17:52 (gmt-03:00) brasilia
+consulta de extrato de conta
+22 de 22 linhas impresso
+você pode ter que ajustar o número de colunas selecionadas para ter dados na grade resumo aparecem na página impressa de forma legível. a fim de imprimir todas as colunas na grelha , pode ser necessário para a exportação para xls ou csv
+página 4 de 4
+impresso em 09/02/2024 em 11:17:52 (gmt-03:00) brasilia

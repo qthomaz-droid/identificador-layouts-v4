@@ -1,0 +1,995 @@
+modobank - 35.716.518/0001-00
+cliente: aranet comunicacao ltda - agência: 0001 - conta: 11779 
+pág. 1
+lançamentos
+de 01/08/2024 00:00:00 até 10/08/2024 23:59:59 - gerado em: 03/09/2024 09:54:42
+descrição
+valor
+saldo na conta
+tipo
+referência
+data/hora
+saldo anterior
+---
+r$ 25.343,95
+saldo
+---
+01/08/2024 00:00:00
+recebimento pix (crédito)  - transação #2914551023
+r$ 102,36
+r$ 25.446,31
+crédito
+e0000000020240801030945418754600
+01/08/2024 00:09:51
+serviços débito - transação #2914551171
+-r$ 0,45
+r$ 25.445,86
+débito
+---
+01/08/2024 00:09:52
+recebimento pix (crédito)  - transação #2914621137
+r$ 102,51
+r$ 25.548,37
+crédito
+e18236120202408010316s0823dac968
+01/08/2024 00:17:32
+serviços débito - transação #2914621292
+-r$ 0,45
+r$ 25.547,92
+débito
+---
+01/08/2024 00:17:32
+recebimento pix (crédito)  - transação #2914793831
+r$ 120,00
+r$ 25.667,92
+crédito
+e60746948202408010337a5460tr1ido
+01/08/2024 00:37:44
+serviços débito - transação #2914793925
+-r$ 0,45
+r$ 25.667,47
+débito
+---
+01/08/2024 00:37:45
+recebimento pix (crédito)  - transação #2915531550
+r$ 100,00
+r$ 25.767,47
+crédito
+e18236120202408010658s15cb2f98fb
+01/08/2024 03:59:18
+serviços débito - transação #2915531568
+-r$ 0,45
+r$ 25.767,02
+débito
+---
+01/08/2024 03:59:18
+recebimento pix (crédito)  - transação #2915562993
+r$ 100,00
+r$ 25.867,02
+crédito
+e0036030520240801071806c81bfc285
+01/08/2024 04:18:39
+serviços débito - transação #2915563016
+-r$ 0,45
+r$ 25.866,57
+débito
+---
+01/08/2024 04:18:39
+recebimento pix (crédito)  - transação #2915590974
+r$ 102,66
+r$ 25.969,23
+crédito
+e60746948202408010736a9190vjuk2y
+01/08/2024 04:37:06
+serviços débito - transação #2915590992
+-r$ 0,45
+r$ 25.968,78
+débito
+---
+01/08/2024 04:37:07
+recebimento pix (crédito)  - transação #2915660971
+r$ 100,00
+r$ 26.068,78
+crédito
+e18236120202408010831s056706ee9f
+01/08/2024 05:32:02
+serviços débito - transação #2915660989
+-r$ 0,45
+r$ 26.068,33
+débito
+---
+01/08/2024 05:32:03
+recebimento pix (crédito)  - transação #2915678431
+r$ 160,00
+r$ 26.228,33
+crédito
+e003603052024080108446432cb083ee
+01/08/2024 05:45:05
+serviços débito - transação #2915678449
+-r$ 0,45
+r$ 26.227,88
+débito
+---
+01/08/2024 05:45:05
+recebimento pix (crédito)  - transação #2915700497
+r$ 100,00
+r$ 26.327,88
+crédito
+e60746948202408010859a3291gc8tpi
+01/08/2024 06:00:02
+serviços débito - transação #2915700525
+-r$ 0,45
+r$ 26.327,43
+débito
+---
+01/08/2024 06:00:02
+recebimento pix (crédito)  - transação #2915748931
+r$ 102,36
+r$ 26.429,79
+crédito
+e18236120202408010925s12ef122711
+01/08/2024 06:26:16
+serviços débito - transação #2915748969
+-r$ 0,45
+r$ 26.429,34
+débito
+---
+01/08/2024 06:26:16
+recebimento pix (crédito)  - transação #2915762051
+r$ 133,46
+r$ 26.562,80
+crédito
+e18236120202408010931s019dc5b166
+01/08/2024 06:31:29
+serviços débito - transação #2915762086
+-r$ 0,45
+r$ 26.562,35
+débito
+---
+01/08/2024 06:31:30
+recebimento pix (crédito)  - transação #2915782932
+r$ 122,83
+r$ 26.685,18
+crédito
+e9040088820240801093925132938007
+01/08/2024 06:39:29
+serviços débito - transação #2915782971
+-r$ 0,45
+r$ 26.684,73
+débito
+---
+01/08/2024 06:39:30
+recebimento pix (crédito)  - transação #2915821433
+r$ 102,66
+r$ 26.787,39
+crédito
+e003603052024080109539d66af3e0da
+01/08/2024 06:53:32
+serviços débito - transação #2915821476
+-r$ 0,45
+r$ 26.786,94
+débito
+---
+01/08/2024 06:53:33
+recebimento pix (crédito)  - transação #2915825223
+r$ 153,54
+r$ 26.940,48
+crédito
+e60746948202408010954a3291cmqdyk
+01/08/2024 06:54:54
+serviços débito - transação #2915825270
+-r$ 0,45
+r$ 26.940,03
+débito
+---
+01/08/2024 06:54:55
+recebimento pix (crédito)  - transação #2915834978
+r$ 102,66
+r$ 27.042,69
+crédito
+e18236120202408010958s1008473cab
+01/08/2024 06:58:24
+modobank - 35.716.518/0001-00
+cliente: aranet comunicacao ltda - agência: 0001 - conta: 11779 
+pág. 2
+descrição
+valor
+saldo na conta
+tipo
+referência
+data/hora
+serviços débito - transação #2915835006
+-r$ 0,45
+r$ 27.042,24
+débito
+---
+01/08/2024 06:58:24
+recebimento pix (crédito)  - transação #2915841340
+r$ 102,36
+r$ 27.144,60
+crédito
+e18236120202408011000s139074bb17
+01/08/2024 07:00:43
+serviços débito - transação #2915841377
+-r$ 0,45
+r$ 27.144,15
+débito
+---
+01/08/2024 07:00:43
+recebimento pix (crédito)  - transação #2915842427
+r$ 100,00
+r$ 27.244,15
+crédito
+e0000000020240801100101216503712
+01/08/2024 07:01:08
+serviços débito - transação #2915842463
+-r$ 0,45
+r$ 27.243,70
+débito
+---
+01/08/2024 07:01:08
+recebimento pix (crédito)  - transação #2915845882
+r$ 100,00
+r$ 27.343,70
+crédito
+e18236120202408011002s0066671a41
+01/08/2024 07:02:19
+serviços débito - transação #2915845919
+-r$ 0,45
+r$ 27.343,25
+débito
+---
+01/08/2024 07:02:19
+recebimento pix (crédito)  - transação #2915847762
+r$ 82,01
+r$ 27.425,26
+crédito
+e60746948202408011002a9190htq54u
+01/08/2024 07:02:57
+serviços débito - transação #2915847774
+-r$ 0,45
+r$ 27.424,81
+débito
+---
+01/08/2024 07:02:58
+recebimento pix (crédito)  - transação #2915850577
+r$ 110,00
+r$ 27.534,81
+crédito
+e003603052024080110036e05e42b2ad
+01/08/2024 07:03:57
+serviços débito - transação #2915850601
+-r$ 0,45
+r$ 27.534,36
+débito
+---
+01/08/2024 07:03:57
+recebimento pix (crédito)  - transação #2915862318
+r$ 100,00
+r$ 27.634,36
+crédito
+e003603052024080110076959e3bc781
+01/08/2024 07:08:01
+serviços débito - transação #2915862401
+-r$ 0,45
+r$ 27.633,91
+débito
+---
+01/08/2024 07:08:02
+recebimento pix (crédito)  - transação #2915864948
+r$ 100,00
+r$ 27.733,91
+crédito
+e0000000020240801100843870325857
+01/08/2024 07:08:54
+serviços débito - transação #2915864993
+-r$ 0,45
+r$ 27.733,46
+débito
+---
+01/08/2024 07:08:55
+recebimento pix (crédito)  - transação #2915871382
+r$ 102,36
+r$ 27.835,82
+crédito
+e18236120202408011010s18a047f99e
+01/08/2024 07:11:03
+serviços débito - transação #2915871429
+-r$ 0,45
+r$ 27.835,37
+débito
+---
+01/08/2024 07:11:03
+recebimento pix (crédito)  - transação #2915873519
+r$ 100,00
+r$ 27.935,37
+crédito
+e37395399202408011500ys4qjnp1cwm
+01/08/2024 07:11:47
+serviços débito - transação #2915873654
+-r$ 0,45
+r$ 27.934,92
+débito
+---
+01/08/2024 07:11:47
+recebimento pix (crédito)  - transação #2915877266
+r$ 102,51
+r$ 28.037,43
+crédito
+e60746948202408011012a3291tvngpm
+01/08/2024 07:12:59
+serviços débito - transação #2915877299
+-r$ 0,45
+r$ 28.036,98
+débito
+---
+01/08/2024 07:12:59
+recebimento pix (crédito)  - transação #2915879529
+r$ 102,81
+r$ 28.139,79
+crédito
+e17192451202408011013dy53d6wuw3b
+01/08/2024 07:13:43
+serviços débito - transação #2915879578
+-r$ 0,45
+r$ 28.139,34
+débito
+---
+01/08/2024 07:13:43
+recebimento pix (crédito)  - transação #2915888985
+r$ 102,54
+r$ 28.241,88
+crédito
+e00360305202408011016237accc81e2
+01/08/2024 07:16:49
+serviços débito - transação #2915889026
+-r$ 0,45
+r$ 28.241,43
+débito
+---
+01/08/2024 07:16:50
+recebimento pix (crédito)  - transação #2915892737
+r$ 102,51
+r$ 28.343,94
+crédito
+e60746948202408011017a3291tdihnk
+01/08/2024 07:17:59
+serviços débito - transação #2915892775
+-r$ 0,45
+r$ 28.343,49
+débito
+---
+01/08/2024 07:17:59
+recebimento pix (crédito)  - transação #2915897842
+r$ 100,00
+r$ 28.443,49
+crédito
+e18236120202408011019s10084771a1
+01/08/2024 07:19:34
+serviços débito - transação #2915897879
+-r$ 0,45
+r$ 28.443,04
+débito
+---
+01/08/2024 07:19:35
+recebimento pix (crédito)  - transação #2915899853
+r$ 100,00
+r$ 28.543,04
+crédito
+e0036030520240801101994b2b2f21d3
+01/08/2024 07:20:13
+serviços débito - transação #2915899894
+-r$ 0,45
+r$ 28.542,59
+débito
+---
+01/08/2024 07:20:13
+recebimento pix (crédito)  - transação #2915904726
+r$ 102,51
+r$ 28.645,10
+crédito
+e0000000020240801102136522914492
+01/08/2024 07:21:43
+modobank - 35.716.518/0001-00
+cliente: aranet comunicacao ltda - agência: 0001 - conta: 11779 
+pág. 3
+descrição
+valor
+saldo na conta
+tipo
+referência
+data/hora
+serviços débito - transação #2915904773
+-r$ 0,45
+r$ 28.644,65
+débito
+---
+01/08/2024 07:21:44
+recebimento pix (crédito)  - transação #2915905207
+r$ 110,00
+r$ 28.754,65
+crédito
+e0000000020240801102141881181473
+01/08/2024 07:21:52
+serviços débito - transação #2915905253
+-r$ 0,45
+r$ 28.754,20
+débito
+---
+01/08/2024 07:21:52
+recebimento pix (crédito)  - transação #2915909432
+r$ 102,51
+r$ 28.856,71
+crédito
+e9040088820240801102225133794307
+01/08/2024 07:23:08
+serviços débito - transação #2915909464
+-r$ 0,45
+r$ 28.856,26
+débito
+---
+01/08/2024 07:23:09
+recebimento pix (crédito)  - transação #2915924378
+r$ 102,51
+r$ 28.958,77
+crédito
+e18236120202408011027s149c880527
+01/08/2024 07:27:17
+serviços débito - transação #2915924432
+-r$ 0,45
+r$ 28.958,32
+débito
+---
+01/08/2024 07:27:17
+recebimento pix (crédito)  - transação #2915931194
+r$ 100,00
+r$ 29.058,32
+crédito
+e60701190202408011028dy5ic0mnpel
+01/08/2024 07:29:13
+serviços débito - transação #2915931258
+-r$ 0,45
+r$ 29.057,87
+débito
+---
+01/08/2024 07:29:13
+recebimento pix (crédito)  - transação #2915932476
+r$ 100,00
+r$ 29.157,87
+crédito
+e60746948202408011029a3291qczjjy
+01/08/2024 07:29:34
+serviços débito - transação #2915932536
+-r$ 0,45
+r$ 29.157,42
+débito
+---
+01/08/2024 07:29:35
+recebimento pix (crédito)  - transação #2915946050
+r$ 81,67
+r$ 29.239,09
+crédito
+e9040088820240801103225134052527
+01/08/2024 07:33:24
+serviços débito - transação #2915946096
+-r$ 0,45
+r$ 29.238,64
+débito
+---
+01/08/2024 07:33:24
+recebimento pix (crédito)  - transação #2915951826
+r$ 102,51
+r$ 29.341,15
+crédito
+e0000000020240801103501954339669
+01/08/2024 07:35:08
+serviços débito - transação #2915951867
+-r$ 0,45
+r$ 29.340,70
+débito
+---
+01/08/2024 07:35:08
+recebimento pix (crédito)  - transação #2915955668
+r$ 139,99
+r$ 29.480,69
+crédito
+e37395399202408011036kpb2k4egdik
+01/08/2024 07:36:15
+serviços débito - transação #2915955713
+-r$ 0,45
+r$ 29.480,24
+débito
+---
+01/08/2024 07:36:15
+recebimento pix (crédito)  - transação #2915969409
+r$ 100,00
+r$ 29.580,24
+crédito
+e0000000020240801104009064916545
+01/08/2024 07:40:15
+serviços débito - transação #2915969472
+-r$ 0,45
+r$ 29.579,79
+débito
+---
+01/08/2024 07:40:15
+recebimento pix (crédito)  - transação #2915983493
+r$ 140,00
+r$ 29.719,79
+crédito
+e00360305202408011043137435c6afb
+01/08/2024 07:44:08
+serviços débito - transação #2915983522
+-r$ 0,45
+r$ 29.719,34
+débito
+---
+01/08/2024 07:44:09
+recebimento pix (crédito)  - transação #2915986156
+r$ 120,00
+r$ 29.839,34
+crédito
+e18236120202408011044s1027dd6c21
+01/08/2024 07:44:53
+serviços débito - transação #2915986198
+-r$ 0,45
+r$ 29.838,89
+débito
+---
+01/08/2024 07:44:53
+recebimento pix (crédito)  - transação #2915999753
+r$ 150,00
+r$ 29.988,89
+crédito
+e0000000020240801104826550317811
+01/08/2024 07:48:35
+serviços débito - transação #2915999815
+-r$ 0,45
+r$ 29.988,44
+débito
+---
+01/08/2024 07:48:35
+recebimento pix (crédito)  - transação #2916002340
+r$ 102,51
+r$ 30.090,95
+crédito
+e0000000020240801104901603077751
+01/08/2024 07:49:17
+serviços débito - transação #2916002389
+-r$ 0,45
+r$ 30.090,50
+débito
+---
+01/08/2024 07:49:18
+recebimento pix (crédito)  - transação #2916006030
+r$ 120,00
+r$ 30.210,50
+crédito
+e60746948202408011049a3291gg546u
+01/08/2024 07:50:15
+serviços débito - transação #2916006089
+-r$ 0,45
+r$ 30.210,05
+débito
+---
+01/08/2024 07:50:16
+recebimento pix (crédito)  - transação #2916035835
+r$ 79,90
+r$ 30.289,95
+crédito
+e10573521202408011058fivl0yz5zvx
+01/08/2024 07:58:17
+serviços débito - transação #2916035876
+-r$ 0,45
+r$ 30.289,50
+débito
+---
+01/08/2024 07:58:17
+recebimento pix (crédito)  - transação #2916038957
+r$ 79,90
+r$ 30.369,40
+crédito
+e0000000020240801105900765500851
+01/08/2024 07:59:08
+modobank - 35.716.518/0001-00
+cliente: aranet comunicacao ltda - agência: 0001 - conta: 11779 
+pág. 4
+descrição
+valor
+saldo na conta
+tipo
+referência
+data/hora
+serviços débito - transação #2916039009
+-r$ 0,45
+r$ 30.368,95
+débito
+---
+01/08/2024 07:59:09
+recebimento pix (crédito)  - transação #2916051327
+r$ 100,00
+r$ 30.468,95
+crédito
+e60701190202408011102dy5g241161a
+01/08/2024 08:02:26
+serviços débito - transação #2916051394
+-r$ 0,45
+r$ 30.468,50
+débito
+---
+01/08/2024 08:02:26
+recebimento pix (crédito)  - transação #2916059370
+r$ 100,00
+r$ 30.568,50
+crédito
+e0036030520240801110480792b50853
+01/08/2024 08:04:29
+serviços débito - transação #2916059411
+-r$ 0,45
+r$ 30.568,05
+débito
+---
+01/08/2024 08:04:29
+recebimento pix (crédito)  - transação #2916075723
+r$ 102,54
+r$ 30.670,59
+crédito
+e60746948202408011108a6386jyncha
+01/08/2024 08:08:36
+serviços débito - transação #2916075789
+-r$ 0,45
+r$ 30.670,14
+débito
+---
+01/08/2024 08:08:36
+recebimento pix (crédito)  - transação #2916078410
+r$ 102,51
+r$ 30.772,65
+crédito
+e0000000020240801110906445383451
+01/08/2024 08:09:15
+serviços débito - transação #2916078483
+-r$ 0,45
+r$ 30.772,20
+débito
+---
+01/08/2024 08:09:16
+recebimento pix (crédito)  - transação #2916094421
+r$ 100,00
+r$ 30.872,20
+crédito
+e0000000020240801111306306467253
+01/08/2024 08:13:11
+serviços débito - transação #2916094484
+-r$ 0,45
+r$ 30.871,75
+débito
+---
+01/08/2024 08:13:12
+recebimento pix (crédito)  - transação #2916103161
+r$ 100,00
+r$ 30.971,75
+crédito
+e0000000020240801111515317762526
+01/08/2024 08:15:22
+serviços débito - transação #2916103221
+-r$ 0,45
+r$ 30.971,30
+débito
+---
+01/08/2024 08:15:22
+recebimento pix (crédito)  - transação #2916110288
+r$ 79,90
+r$ 31.051,20
+crédito
+e00360305202408011116957905ea47b
+01/08/2024 08:17:09
+serviços débito - transação #2916110341
+-r$ 0,45
+r$ 31.050,75
+débito
+---
+01/08/2024 08:17:09
+recebimento pix (crédito)  - transação #2916116477
+r$ 100,00
+r$ 31.150,75
+crédito
+e18236120202408011118s190706473c
+01/08/2024 08:18:42
+serviços débito - transação #2916116540
+-r$ 0,45
+r$ 31.150,30
+débito
+---
+01/08/2024 08:18:42
+recebimento pix (crédito)  - transação #2916124025
+r$ 49,90
+r$ 31.200,20
+crédito
+e60746948202408011100p3291034330
+01/08/2024 08:20:34
+serviços débito - transação #2916124095
+-r$ 0,45
+r$ 31.199,75
+débito
+---
+01/08/2024 08:20:34
+recebimento pix (crédito)  - transação #2916132416
+r$ 102,21
+r$ 31.301,96
+crédito
+e10573521202408011122wtah24jpglf
+01/08/2024 08:22:33
+serviços débito - transação #2916132479
+-r$ 0,45
+r$ 31.301,51
+débito
+---
+01/08/2024 08:22:34
+recebimento pix (crédito)  - transação #2916147323
+r$ 130,00
+r$ 31.431,51
+crédito
+e60746948202408011125a91909epmgu
+01/08/2024 08:25:56
+serviços débito - transação #2916147400
+-r$ 0,45
+r$ 31.431,06
+débito
+---
+01/08/2024 08:25:56
+recebimento pix (crédito)  - transação #2916154479
+r$ 100,00
+r$ 31.531,06
+crédito
+e10573521202408011127umppw5jbzcv
+01/08/2024 08:27:31
+serviços débito - transação #2916154544
+-r$ 0,45
+r$ 31.530,61
+débito
+---
+01/08/2024 08:27:31
+recebimento pix (crédito)  - transação #2916170756
+r$ 100,00
+r$ 31.630,61
+crédito
+e0000000020240801113102199694208
+01/08/2024 08:31:13
+serviços débito - transação #2916170846
+-r$ 0,45
+r$ 31.630,16
+débito
+---
+01/08/2024 08:31:13
+recebimento pix (crédito)  - transação #2916174353
+r$ 153,77
+r$ 31.783,93
+crédito
+e60701190202408011131dy5s1ccqv1s
+01/08/2024 08:32:02
+serviços débito - transação #2916174459
+-r$ 0,45
+r$ 31.783,48
+débito
+---
+01/08/2024 08:32:02
+recebimento pix (crédito)  - transação #2916181370
+r$ 102,66
+r$ 31.886,14
+crédito
+e0856170120240801113330545015663
+01/08/2024 08:33:36
+serviços débito - transação #2916181468
+-r$ 0,45
+r$ 31.885,69
+débito
+---
+01/08/2024 08:33:36
+recebimento pix (crédito)  - transação #2916203045
+r$ 100,00
+r$ 31.985,69
+crédito
+e00360305202408011138ee657319010
+01/08/2024 08:38:31
+modobank - 35.716.518/0001-00
+cliente: aranet comunicacao ltda - agência: 0001 - conta: 11779 
+pág. 5
+descrição
+valor
+saldo na conta
+tipo
+referência
+data/hora
+serviços débito - transação #2916203138
+-r$ 0,45
+r$ 31.985,24
+débito
+---
+01/08/2024 08:38:31
+recebimento pix (crédito)  - transação #2916203386
+r$ 102,51
+r$ 32.087,75
+crédito
+e003603052024080111386d4bf1d4b09
+01/08/2024 08:38:35
+serviços débito - transação #2916203430
+-r$ 0,45
+r$ 32.087,30
+débito
+---
+01/08/2024 08:38:35
+recebimento pix (crédito)  - transação #2916206356
+r$ 102,54
+r$ 32.189,84
+crédito
+e22896431202408011138fzlszx9owvs
+01/08/2024 08:39:16
+serviços débito - transação #2916206441
+-r$ 0,45
+r$ 32.189,39
+débito
+---
+01/08/2024 08:39:16
+recebimento pix (crédito)  - transação #2916225567
+r$ 100,00
+r$ 32.289,39
+crédito
+e0856170120240801114327442604608
+01/08/2024 08:43:32
+serviços débito - transação #2916225633
+-r$ 0,45
+r$ 32.288,94
+débito
+---
+01/08/2024 08:43:32
+recebimento pix (crédito)  - transação #2916233405
+r$ 102,21
+r$ 32.391,15
+crédito
+e2465488120240801114413ssgcrgocj
+01/08/2024 08:45:18
+serviços débito - transação #2916233454
+-r$ 0,45
+r$ 32.390,70
+débito
+---
+01/08/2024 08:45:18
+recebimento pix (crédito)  - transação #2916249832
+r$ 100,00
+r$ 32.490,70
+crédito
+e0000000020240801114850076823218
+01/08/2024 08:49:01
+serviços débito - transação #2916249957
+-r$ 0,45
+r$ 32.490,25
+débito
+---
+01/08/2024 08:49:01
+recebimento pix (crédito)  - transação #2916257245
+r$ 100,00
+r$ 32.590,25
+crédito
+e592854112024080111501d4mr1dyl0c
+01/08/2024 08:50:37
+serviços débito - transação #2916257336
+-r$ 0,45
+r$ 32.589,80
+débito
+---
+01/08/2024 08:50:38
+recebimento pix (crédito)  - transação #2916257495
+r$ 100,00
+r$ 32.689,80
+crédito
+e2465488120240801115025iwmq1yjpl
+01/08/2024 08:50:41
+serviços débito - transação #2916257616
+-r$ 0,45
+r$ 32.689,35
+débito
+---
+01/08/2024 08:50:41
+recebimento pix (crédito)  - transação #2916264208
+r$ 100,00
+r$ 32.789,35
+crédito
+e9040088820240801115125136670455
+01/08/2024 08:52:07
+serviços débito - transação #2916264296
+-r$ 0,45
+r$ 32.788,90
+débito
+---
+01/08/2024 08:52:07
+recebimento pix (crédito)  - transação #2916267644
+r$ 102,66
+r$ 32.891,56
+crédito
+e18236120202408011152s05876c91be
+01/08/2024 08:52:50
+serviços débito - transação #2916267701
+-r$ 0,45
+r$ 32.891,11
+débito
+---
+01/08/2024 08:52:50
+recebimento pix (crédito)  - transação #2916286261
+r$ 102,51
+r$ 32.993,62
+crédito
+e22896431202408011156xbbkp23am3r
+01/08/2024 08:56:46
+serviços débito - transação #2916286337
+-r$ 0,45
+r$ 32.993,17
+débito
+---
+01/08/2024 08:56:47
+recebimento pix (crédito)  - transação #2916289044
+r$ 100,00
+r$ 33.093,17
+crédito
+e60701190202408011157dy59a20iq74
+01/08/2024 08:57:23
+serviços débito - transação #2916289089
+-r$ 0,45
+r$ 33.092,72
+débito
+---
+01/08/2024 08:57:24
+recebimento pix (crédito)  - transação #2916295425
+r$ 49,90
+r$ 33.142,62
+crédito
+e60746948202408011158a3291fi08i4
+01/08/2024 08:58:45
+serviços débito - transação #2916295508
+-r$ 0,45
+r$ 33.142,17
+débito
+---
+01/08/2024 08:58:45
+recebimento pix (crédito)  - transação #2916307295
+r$ 100,00
+r$ 33.242,17
+crédito
+e0856170120240801120053334833418
+01/08/2024 09:01:13
+serviços débito - transação #2916307354
+-r$ 0,45
+r$ 33.241,72
+débito
+---
+01/08/2024 09:01:14
+recebimento pix (crédito)  - transação #2916307608
+r$ 123,01
+r$ 33.364,73
+crédito
+e37880206202408011201d7jnefn6gwu
+01/08/2024 09:01:18
+serviços débito - transação #2916307695
+-r$ 0,45
+r$ 33.364,28
+débito
+---
+01/08/2024 09:01:19
+recebimento pix (crédito)  - transação #2916317241
+r$ 100,00
+r$ 33.464,28
+crédito
+e0000000020240801120242077816660
+01/08/2024 09:03:25
+serviços débito - transação #2916317328
+-r$ 0,45
+r$ 33.463,83
+débito
+---
+01/08/2024 09:03:26
+recebimento pix (crédito)  - transação #2916324763
+r$ 103,24
+r$ 33.567,07
+crédito
+e60746948202408011204a2555b4f8z4
+01/08/2024 09:05:03

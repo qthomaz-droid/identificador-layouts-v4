@@ -1,0 +1,2016 @@
+#externo.confidencial
+sihex
+sistema de histórico de extratos
+data: 14/11/2023
+página: 1 de 4
+cliente: brancoslar construtora eireli
+cpf/cnpj: 32.243.555/0001-50
+agência: 3148 - cidade nobre, mg
+operação: 003 - corrente pessoa jurídica
+conta: 00003217 - 2
+período de solicitação do extrato: 01/2023 à 10/2023
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+03/01/2023
+032130
+saque atm
+2.000,00 d
+03/01/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+04/01/2023
+040859
+saque atm
+2.000,00 d
+04/01/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+06/01/2023
+000000
+saq cartao
+5.000,00 d
+06/01/2023
+061209
+saque atm
+1.500,00 d
+06/01/2023
+061210
+saque atm
+500,00 d
+06/01/2023
+000135
+tar saq ag
+3,30 d
+06/01/2023
+727220
+resg autom
+7.003,30 c
+0,00 d
+09/01/2023
+091657
+saque atm
+1.000,00 d
+09/01/2023
+091501
+cp electro
+614,60 d
+09/01/2023
+727220
+resg autom
+1.614,60 c
+0,00 d
+10/01/2023
+000000
+saq cartao
+5.000,00 d
+10/01/2023
+101100
+saque atm
+2.000,00 d
+10/01/2023
+000000
+deb pag
+2.310,00 d
+10/01/2023
+329493
+seguradora
+234,08 d
+10/01/2023
+000135
+tar saq ag
+3,30 d
+10/01/2023
+727220
+resg autom
+9.547,38 c
+0,00 d
+11/01/2023
+111804
+cred pix
+750,00 c
+11/01/2023
+111159
+cp electro
+199,00 d
+11/01/2023
+000020
+manut cad
+36,50 d
+514,50 c
+12/01/2023
+000000
+saq cartao
+5.000,00 d
+12/01/2023
+121056
+saque atm
+2.000,00 d
+12/01/2023
+000135
+tar saq ag
+3,30 d
+12/01/2023
+727220
+resg autom
+6.488,80 c
+0,00 d
+13/01/2023
+131305
+saque atm
+1.500,00 d
+13/01/2023
+727220
+resg autom
+1.500,00 c
+0,00 d
+16/01/2023
+161023
+cred pix
+235,00 c
+16/01/2023
+160418
+devrec pix
+218,85 c
+16/01/2023
+151103
+envio pix
+218,85 d
+16/01/2023
+152315
+envio pix
+235,00 d
+0,00 d
+17/01/2023
+170959
+saque atm
+2.000,00 d
+17/01/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+18/01/2023
+181510
+saque atm
+1.500,00 d
+18/01/2023
+181512
+saque atm
+500,00 d
+18/01/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+19/01/2023
+191543
+saque atm
+2.000,00 d
+19/01/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+20/01/2023
+558924
+pag agua
+238,79 d
+20/01/2023
+727220
+resg autom
+238,79 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+30/01/2023
+280738
+saque atm
+300,00 d
+30/01/2023
+301029
+saque atm
+2.000,00 d
+30/01/2023
+000136
+tar sq atm
+2,90 d
+30/01/2023
+000136
+tar sq atm
+2,90 d
+756,02 c
+31/01/2023
+000000
+saq cartao
+5.000,00 d
+31/01/2023
+310720
+saque atm
+2.000,00 d
+31/01/2023
+000000
+deb pag
+782,00 d
+31/01/2023
+000000
+deb pag
+129,91 d
+31/01/2023
+000000
+deb pag
+403,62 d
+31/01/2023
+000000
+deb pag
+1.650,00 d
+31/01/2023
+311449
+envio pix
+7.500,00 d
+31/01/2023
+000135
+tar saq ag
+3,30 d
+31/01/2023
+000136
+tar sq atm
+2,90 d
+31/01/2023
+727220
+resg autom
+16.715,71 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+02/02/2023
+000000
+saq cartao
+5.000,00 d
+02/02/2023
+021411
+envio pix
+5.000,00 d
+02/02/2023
+000135
+tar saq ag
+3,30 d
+02/02/2023
+727220
+resg autom
+10.003,30 c
+0,00 d
+03/02/2023
+031057
+cp electro
+129,00 d
+03/02/2023
+031151
+cp electro
+45,47 d
+03/02/2023
+031813
+cp electro
+38,37 d
+03/02/2023
+030904
+envio pix
+1.500,00 d
+03/02/2023
+727220
+resg autom
+1.712,84 c
+0,00 d
+06/02/2023
+060924
+saque atm
+2.000,00 d
+06/02/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+08/02/2023
+081716
+saque atm
+1.000,00 d
+08/02/2023
+081755
+cp electro
+3.557,91 d
+08/02/2023
+727220
+resg autom
+4.557,91 c
+0,00 d
+09/02/2023
+090753
+saque atm
+1.500,00 d
+09/02/2023
+090755
+saque atm
+500,00 d
+09/02/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+10/02/2023
+000000
+saq cartao
+5.000,00 d
+10/02/2023
+100826
+cp electro
+265,75 d
+10/02/2023
+329493
+seguradora
+234,08 d
+10/02/2023
+000135
+tar saq ag
+3,30 d
+10/02/2023
+727220
+resg autom
+5.503,13 c
+0,00 d
+14/02/2023
+141948
+saque atm
+2.000,00 d
+14/02/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+firefox
+https://sihex.caixa/pages/consultaextrato/consultaextratolist.cef
+1 of 8
+14/11/2023 14:07
+23/01/2023
+231337
+saque atm
+2.000,00 d
+23/01/2023
+221050
+envio pix
+2.351,34 d
+23/01/2023
+221056
+envio pix
+853,36 d
+23/01/2023
+727220
+resg autom
+5.204,70 c
+0,00 d
+24/01/2023
+241707
+saque atm
+1.500,00 d
+24/01/2023
+727220
+resg autom
+1.500,00 c
+0,00 d
+25/01/2023
+251331
+saque atm
+2.000,00 d
+25/01/2023
+251309
+envio pix
+3.168,00 d
+25/01/2023
+122022
+db cest pj
+99,00 d
+25/01/2023
+727220
+resg autom
+5.267,00 c
+0,00 d
+26/01/2023
+261805
+cred pix
+30.000,00 c
+26/01/2023
+261032
+saque atm
+2.000,00 d
+26/01/2023
+000136
+tar sq atm
+2,90 d
+27.997,10 c
+27/01/2023
+371412
+aplicacao
+50.000,00 d
+27/01/2023
+271140
+cred tev
+50.000,00 c
+27/01/2023
+271947
+cred pix
+20.000,00 c
+27/01/2023
+000000
+saq cartao
+5.000,00 d
+27/01/2023
+270900
+saque atm
+2.000,00 d
+27/01/2023
+000000
+deb pag
+12.800,00 d
+27/01/2023
+000000
+deb pag
+3.129,08 d
+27/01/2023
+000135
+tar saq ag
+3,30 d
+27/01/2023
+000136
+tar sq atm
+2,90 d
+25.061,82 c
+30/01/2023
+532058
+aplicacao
+22.000,00 d
+15/02/2023
+151543
+saque atm
+1.500,00 d
+15/02/2023
+151545
+saque atm
+500,00 d
+15/02/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+16/02/2023
+160911
+saque atm
+2.000,00 d
+16/02/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+22/02/2023
+221153
+saque atm
+2.000,00 d
+22/02/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+23/02/2023
+525585
+aplicacao
+148.000,00 d
+23/02/2023
+000001
+cred ted
+150.000,00 c
+23/02/2023
+230834
+saque atm
+2.000,00 d
+0,00 d
+24/02/2023
+000000
+saq cartao
+3.500,00 d
+24/02/2023
+108914
+envio ted
+8.100,00 d
+24/02/2023
+241322
+envio tev
+50.000,00 d
+24/02/2023
+108914
+tedag cip
+22,00 d
+24/02/2023
+000135
+tar saq ag
+3,30 d
+24/02/2023
+000138
+tar tev ag
+6,90 d
+24/02/2023
+727220
+resg autom
+61.632,20 c
+0,00 d
+27/02/2023
+270838
+saque atm
+2.000,00 d
+27/02/2023
+000000
+deb pag
+782,00 d
+27/02/2023
+000000
+deb pag
+403,62 d
+27/02/2023
+271338
+envio pix
+433,22 d
+27/02/2023
+271427
+envio tev
+30.000,00 d
+27/02/2023
+012023
+db cest pj
+105,00 d
+firefox
+https://sihex.caixa/pages/consultaextrato/consultaextratolist.cef
+2 of 8
+14/11/2023 14:07
+#externo.confidencial
+sihex
+sistema de histórico de extratos
+data: 14/11/2023
+página: 2 de 4
+cliente: brancoslar construtora eireli
+cpf/cnpj: 32.243.555/0001-50
+agência: 3148 - cidade nobre, mg
+operação: 003 - corrente pessoa jurídica
+conta: 00003217 - 2
+período de solicitação do extrato: 01/2023 à 10/2023
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+27/02/2023
+000138
+tar tev ag
+6,90 d
+27/02/2023
+727220
+resg autom
+33.730,74 c
+0,00 d
+28/02/2023
+280902
+saque atm
+1.000,00 d
+28/02/2023
+282006
+saque atm
+1.000,00 d
+28/02/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+01/03/2023
+000000
+saq cartao
+5.000,00 d
+01/03/2023
+010859
+saque atm
+1.500,00 d
+01/03/2023
+010901
+saque atm
+500,00 d
+01/03/2023
+000135
+tar saq ag
+3,30 d
+01/03/2023
+727220
+resg autom
+7.003,30 c
+0,00 d
+02/03/2023
+000000
+saq cartao
+3.500,00 d
+02/03/2023
+020727
+saque atm
+2.000,00 d
+02/03/2023
+000135
+tar saq ag
+3,30 d
+02/03/2023
+727220
+resg autom
+5.503,30 c
+0,00 d
+03/03/2023
+030759
+saque atm
+500,00 d
+03/03/2023
+727220
+resg autom
+500,00 c
+0,00 d
+06/03/2023
+060805
+saque atm
+1.000,00 d
+06/03/2023
+727220
+resg autom
+1.000,00 c
+0,00 d
+07/03/2023
+000000
+saq cartao
+5.000,00 d
+07/03/2023
+071640
+saque atm
+500,00 d
+07/03/2023
+000135
+tar saq ag
+3,30 d
+07/03/2023
+727220
+resg autom
+5.503,30 c
+0,00 d
+08/03/2023
+549992
+aplicacao
+28.000,00 d
+08/03/2023
+081033
+cred pix
+30.200,00 c
+08/03/2023
+080831
+saque atm
+1.500,00 d
+08/03/2023
+080834
+saque atm
+500,00 d
+200,00 c
+09/03/2023
+090748
+saque atm
+2.000,00 d
+09/03/2023
+727220
+resg autom
+1.800,00 c
+0,00 d
+10/03/2023
+100812
+saque atm
+1.500,00 d
+10/03/2023
+100813
+saque atm
+500,00 d
+10/03/2023
+329493
+seguradora
+234,08 d
+10/03/2023
+727220
+resg autom
+2.234,08 c
+0,00 d
+13/03/2023
+130744
+saque atm
+500,00 d
+13/03/2023
+727220
+resg autom
+500,00 c
+0,00 d
+14/03/2023
+141033
+saque atm
+1.000,00 d
+14/03/2023
+000000
+deb pag
+4.934,86 d
+14/03/2023
+000000
+deb pag
+1.702,05 d
+14/03/2023
+000000
+deb pag
+341,81 d
+14/03/2023
+000000
+deb pag
+438,27 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+24/03/2023
+727220
+resg autom
+1.002,90 c
+0,00 d
+27/03/2023
+270802
+saque atm
+1.000,00 d
+27/03/2023
+022023
+db cest pj
+105,00 d
+27/03/2023
+000136
+tar sq atm
+2,90 d
+27/03/2023
+727220
+resg autom
+1.107,90 c
+0,00 d
+28/03/2023
+280814
+saque atm
+1.950,00 d
+28/03/2023
+000136
+tar sq atm
+2,90 d
+28/03/2023
+727220
+resg autom
+1.952,90 c
+0,00 d
+29/03/2023
+000000
+saq cartao
+5.000,00 d
+29/03/2023
+000135
+tar saq ag
+3,30 d
+29/03/2023
+727220
+resg autom
+5.003,30 c
+0,00 d
+30/03/2023
+300819
+saque atm
+1.000,00 d
+30/03/2023
+000136
+tar sq atm
+2,90 d
+30/03/2023
+727220
+resg autom
+1.002,90 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+03/04/2023
+030818
+saque atm
+1.000,00 d
+03/04/2023
+727220
+resg autom
+1.000,00 c
+0,00 d
+04/04/2023
+040935
+saque atm
+2.000,00 d
+04/04/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+05/04/2023
+050701
+saque atm
+2.000,00 d
+05/04/2023
+051443
+cp electro
+73,21 d
+05/04/2023
+727220
+resg autom
+2.073,21 c
+0,00 d
+06/04/2023
+000000
+saq cartao
+2.500,00 d
+06/04/2023
+060808
+saque atm
+2.000,00 d
+06/04/2023
+000135
+tar saq ag
+3,30 d
+06/04/2023
+727220
+resg autom
+4.503,30 c
+0,00 d
+10/04/2023
+100802
+saque atm
+1.500,00 d
+10/04/2023
+100803
+saque atm
+500,00 d
+10/04/2023
+329493
+seguradora
+234,08 d
+10/04/2023
+727220
+resg autom
+2.234,08 c
+0,00 d
+11/04/2023
+110841
+saque atm
+2.000,00 d
+11/04/2023
+111424
+cp electro
+221,50 d
+11/04/2023
+727220
+resg autom
+2.221,50 c
+0,00 d
+12/04/2023
+120659
+saque atm
+2.000,00 d
+12/04/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+13/04/2023
+131319
+saque atm
+1.500,00 d
+13/04/2023
+131321
+saque atm
+500,00 d
+13/04/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+14/04/2023
+141111
+saque atm
+2.000,00 d
+14/04/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+firefox
+https://sihex.caixa/pages/consultaextrato/consultaextratolist.cef
+3 of 8
+14/11/2023 14:07
+14/03/2023
+141954
+envio pix
+300,00 d
+14/03/2023
+727220
+resg autom
+8.716,99 c
+0,00 d
+16/03/2023
+000000
+saq cartao
+5.000,00 d
+16/03/2023
+160821
+saque atm
+2.000,00 d
+16/03/2023
+000135
+tar saq ag
+3,30 d
+16/03/2023
+727220
+resg autom
+7.003,30 c
+0,00 d
+17/03/2023
+170749
+saque atm
+1.600,00 d
+17/03/2023
+727220
+resg autom
+1.600,00 c
+0,00 d
+20/03/2023
+201355
+saque atm
+2.000,00 d
+20/03/2023
+202310
+envio pix
+300,00 d
+20/03/2023
+000136
+tar sq atm
+2,90 d
+20/03/2023
+727220
+resg autom
+2.302,90 c
+0,00 d
+21/03/2023
+211418
+saque atm
+2.000,00 d
+21/03/2023
+114428
+envio ted
+1.640,00 d
+21/03/2023
+114428
+tedag cip
+22,00 d
+21/03/2023
+000136
+tar sq atm
+2,90 d
+21/03/2023
+727220
+resg autom
+3.664,90 c
+0,00 d
+23/03/2023
+230833
+saque atm
+2.000,00 d
+23/03/2023
+000136
+tar sq atm
+2,90 d
+23/03/2023
+727220
+resg autom
+2.002,90 c
+0,00 d
+24/03/2023
+240817
+saque atm
+1.000,00 d
+24/03/2023
+000136
+tar sq atm
+2,90 d
+17/04/2023
+171159
+saque atm
+1.500,00 d
+17/04/2023
+727220
+resg autom
+1.500,00 c
+0,00 d
+18/04/2023
+181245
+saque atm
+1.500,00 d
+18/04/2023
+727220
+resg autom
+1.500,00 c
+0,00 d
+19/04/2023
+190821
+saque atm
+2.000,00 d
+19/04/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+20/04/2023
+200752
+saque atm
+2.000,00 d
+20/04/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+24/04/2023
+240806
+saque atm
+2.000,00 d
+24/04/2023
+000136
+tar sq atm
+2,90 d
+24/04/2023
+727220
+resg autom
+2.002,90 c
+0,00 d
+25/04/2023
+250911
+saque atm
+2.000,00 d
+25/04/2023
+251417
+envio pix
+500,00 d
+25/04/2023
+032023
+db cest pj
+105,00 d
+25/04/2023
+000136
+tar sq atm
+2,90 d
+25/04/2023
+727220
+resg autom
+2.607,90 c
+0,00 d
+26/04/2023
+261625
+saque atm
+1.500,00 d
+26/04/2023
+262027
+saque atm
+500,00 d
+26/04/2023
+261606
+cp electro
+2.390,00 d
+26/04/2023
+261609
+cp electro
+540,00 d
+26/04/2023
+000136
+tar sq atm
+2,90 d
+26/04/2023
+000136
+tar sq atm
+2,90 d
+firefox
+https://sihex.caixa/pages/consultaextrato/consultaextratolist.cef
+4 of 8
+14/11/2023 14:07
+#externo.confidencial
+sihex
+sistema de histórico de extratos
+data: 14/11/2023
+página: 3 de 4
+cliente: brancoslar construtora eireli
+cpf/cnpj: 32.243.555/0001-50
+agência: 3148 - cidade nobre, mg
+operação: 003 - corrente pessoa jurídica
+conta: 00003217 - 2
+período de solicitação do extrato: 01/2023 à 10/2023
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+26/04/2023
+727220
+resg autom
+4.935,80 c
+0,00 d
+27/04/2023
+270717
+saque atm
+1.500,00 d
+27/04/2023
+000136
+tar sq atm
+2,90 d
+27/04/2023
+727220
+resg autom
+1.502,90 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+02/05/2023
+012107 saque atm
+2.000,00 d
+02/05/2023
+021124 saque atm
+1.000,00 d
+02/05/2023
+301237 envio pix
+700,00 d
+02/05/2023
+727220 resg autom
+3.700,00 c
+0,00 d
+03/05/2023
+031115 saque atm
+2.000,00 d
+03/05/2023
+727220 resg autom
+2.000,00 c
+0,00 d
+04/05/2023
+040815 saque atm
+1.000,00 d
+04/05/2023
+727220 resg autom
+1.000,00 c
+0,00 d
+05/05/2023
+051519 cred pix
+100.000,00 c
+100.000,00 c
+08/05/2023
+080753 saque atm
+1.000,00 d
+99.000,00 c
+09/05/2023
+000000 saq cartao
+5.000,00 d
+09/05/2023
+091048 saque atm
+1.500,00 d
+09/05/2023
+000000 deb pag
+602,68 d
+09/05/2023
+000000 deb pag
+1.132,95 d
+09/05/2023
+000000 deb pag
+2.273,88 d
+09/05/2023
+000000 deb pag
+77,92 d
+09/05/2023
+000000 deb pag
+403,62 d
+09/05/2023
+000135 tar saq ag
+3,30 d
+88.005,65 c
+10/05/2023
+101233 saque atm
+600,00 d
+10/05/2023
+101547 envio pix
+300,00 d
+10/05/2023
+329493 deb.autom.
+234,08 d
+86.871,57 c
+11/05/2023
+111354 envio pix
+129,70 d
+86.741,87 c
+15/05/2023
+151633 saque atm
+240,00 d
+86.501,87 c
+16/05/2023
+161325 saque atm
+300,00 d
+86.201,87 c
+17/05/2023
+280197 aplicacao
+86.000,00 d
+201,87 c
+18/05/2023
+180708 saque atm
+1.500,00 d
+18/05/2023
+180710 saque atm
+500,00 d
+18/05/2023
+727220 resg autom
+1.798,13 c
+0,00 d
+19/05/2023
+190657 saque atm
+500,00 d
+19/05/2023
+191238 saque atm
+800,00 d
+19/05/2023
+727220 resg autom
+1.300,00 c
+0,00 d
+22/05/2023
+220902 saque atm
+2.000,00 d
+22/05/2023
+727220 resg autom
+2.000,00 c
+0,00 d
+23/05/2023
+000000 deb pag
+650,00 d
+23/05/2023
+000000 deb pag
+3.000,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+31/05/2023
+727220
+resg autom
+1.008,70 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+05/06/2023
+051526
+cred pix
+50.000,00 c
+50.000,00 c
+07/06/2023
+071041
+saque atm
+1.500,00 d
+07/06/2023
+071042
+saque atm
+500,00 d
+48.000,00 c
+09/06/2023
+234397
+aplicacao
+47.000,00 d
+1.000,00 c
+12/06/2023
+120923
+saque atm
+600,00 d
+12/06/2023
+121300
+saque atm
+400,00 d
+12/06/2023
+100818
+envio pix
+300,00 d
+12/06/2023
+329493
+seguradora
+242,24 d
+12/06/2023
+727220
+resg autom
+542,24 c
+0,00 d
+13/06/2023
+131902
+saque atm
+600,00 d
+13/06/2023
+727220
+resg autom
+600,00 c
+0,00 d
+14/06/2023
+141146
+saque atm
+2.000,00 d
+14/06/2023
+727220
+resg autom
+2.000,00 c
+0,00 d
+15/06/2023
+151501
+saque atm
+930,00 d
+15/06/2023
+114013
+envio ted
+100.000,00 d
+15/06/2023
+114013
+tedag cip
+22,00 d
+15/06/2023
+727220
+resg autom
+100.952,00 c
+0,00 d
+16/06/2023
+000000
+saq cartao
+5.500,00 d
+16/06/2023
+160723
+saque atm
+1.500,00 d
+16/06/2023
+160740
+saque atm
+500,00 d
+16/06/2023
+000135
+tar saq ag
+3,30 d
+16/06/2023
+727220
+resg autom
+7.503,30 c
+0,00 d
+19/06/2023
+190804
+saque atm
+500,00 d
+19/06/2023
+727220
+resg autom
+500,00 c
+0,00 d
+20/06/2023
+200844
+saque atm
+1.100,00 d
+20/06/2023
+727220
+resg autom
+1.100,00 c
+0,00 d
+26/06/2023
+052023
+db cest pj
+105,00 d
+26/06/2023
+727220
+resg autom
+105,00 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+06/07/2023
+000001
+cred ted
+62.500,00 c
+06/07/2023
+114517
+envio ted
+125.000,00 d
+06/07/2023
+114517
+tedag cip
+22,00 d
+06/07/2023
+727220
+resg autom
+62.522,00 c
+0,00 d
+10/07/2023
+101507
+saque atm
+400,00 d
+10/07/2023
+081544
+cp electro
+85,00 d
+10/07/2023
+329493
+seguradora
+242,24 d
+firefox
+https://sihex.caixa/pages/consultaextrato/consultaextratolist.cef
+5 of 8
+14/11/2023 14:07
+23/05/2023
+727220 resg autom
+3.650,00 c
+0,00 d
+24/05/2023
+241559 envio pix
+528,15 d
+24/05/2023
+241605 envio pix
+528,15 d
+24/05/2023
+727220 resg autom
+1.056,30 c
+0,00 d
+25/05/2023
+000000 saq cartao
+4.000,00 d
+25/05/2023
+250728 saque atm
+2.000,00 d
+25/05/2023
+042023 db cest pj
+105,00 d
+25/05/2023
+000135 tar saq ag
+3,30 d
+25/05/2023
+727220 resg autom
+6.108,30 c
+0,00 d
+26/05/2023
+260807 saque atm
+2.000,00 d
+26/05/2023
+000136 tar sq atm
+2,90 d
+26/05/2023
+727220 resg autom
+2.002,90 c
+0,00 d
+29/05/2023
+291229 saque atm
+2.000,00 d
+29/05/2023
+000136 tar sq atm
+2,90 d
+29/05/2023
+727220 resg autom
+2.002,90 c
+29/05/2023
+000000 cred empr
+68.000,00 c
+68.000,00 c
+30/05/2023
+727220 eres autom
+2.002,90 d
+65.997,10 c
+31/05/2023
+517807 aplicacao
+65.000,00 d
+31/05/2023
+311625 saque atm
+1.000,00 d
+31/05/2023
+311759 saque atm
+1.000,00 d
+31/05/2023
+000136 tar sq atm
+2,90 d
+31/05/2023
+000136 tar sq atm
+2,90 d
+10/07/2023
+727220
+resg autom
+727,24 c
+0,00 d
+11/07/2023
+000000
+dep ch 24h
+35.970,00 c
+35.970,00 c
+13/07/2023
+105256
+envio ted
+23.983,14 d
+13/07/2023
+105256
+tedag cip
+22,00 d
+11.964,86 c
+14/07/2023
+266166
+aplicacao
+11.000,00 d
+964,86 c
+17/07/2023
+000000
+dep ch 24h
+25.000,00 c
+25.964,86 c
+18/07/2023
+000062
+est dep ch
+25.000,00 d
+964,86 c
+19/07/2023
+000000
+dp dinh ag
+25.000,00 c
+19/07/2023
+000000
+dep ch 24h
+21.930,00 c
+19/07/2023
+104763
+envio ted
+25.000,00 d
+19/07/2023
+104763
+tedag cip
+22,00 d
+19/07/2023
+000064
+tr d ch ag
+1,80 d
+22.871,06 c
+21/07/2023
+228683
+aplicacao
+22.000,00 d
+871,06 c
+25/07/2023
+062023
+db cest pj
+105,00 d
+766,06 c
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+766,06 c
+03/08/2023
+000000
+deb pag
+792,00 d
+03/08/2023
+000000
+deb pag
+1.403,59 d
+03/08/2023
+000000
+deb pag
+1.244,77 d
+03/08/2023
+727220
+resg autom
+2.674,30 c
+0,00 d
+10/08/2023
+329493
+seguradora
+242,24 d
+firefox
+https://sihex.caixa/pages/consultaextrato/consultaextratolist.cef
+6 of 8
+14/11/2023 14:07
+#externo.confidencial
+sihex
+sistema de histórico de extratos
+data: 14/11/2023
+página: 4 de 4
+cliente: brancoslar construtora eireli
+cpf/cnpj: 32.243.555/0001-50
+agência: 3148 - cidade nobre, mg
+operação: 003 - corrente pessoa jurídica
+conta: 00003217 - 2
+período de solicitação do extrato: 01/2023 à 10/2023
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+10/08/2023
+727220
+resg autom
+242,24 c
+0,00 d
+14/08/2023
+000000
+dep ch 48h
+14.030,00 c
+14.030,00 c
+16/08/2023
+000000
+dep ch 24h
+25.000,00 c
+39.030,00 c
+17/08/2023
+171827
+cred pix
+1,00 c
+17/08/2023
+171833
+cred pix
+5.000,00 c
+17/08/2023
+171906
+cred pix
+10.000,00 c
+17/08/2023
+103992
+envio ted
+10.000,00 d
+17/08/2023
+171825
+envio pix
+1,00 d
+17/08/2023
+103992
+tedag cip
+22,00 d
+17/08/2023
+000106
+est dep ch
+25.000,00 d
+19.008,00 c
+18/08/2023
+000000
+dp dinh ag
+14.000,00 c
+18/08/2023
+000000
+dp dinh ag
+6.600,00 c
+18/08/2023
+181201
+cred pix
+11.000,00 c
+18/08/2023
+181229
+cred pix
+45.000,00 c
+95.608,00 c
+21/08/2023
+000000
+deb pag
+130.612,00 d
+21/08/2023
+727220
+resg autom
+35.004,00 c
+0,00 d
+25/08/2023
+250841
+saque atm
+200,00 d
+25/08/2023
+072023
+db cest pj
+105,00 d
+25/08/2023
+727220
+resg autom
+305,00 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+01/09/2023
+010809
+cred pix
+12.140,00 c
+01/09/2023
+010834
+saque atm
+210,00 d
+11.930,00 c
+04/09/2023
+042141
+envio pix
+1.173,60 d
+10.756,40 c
+05/09/2023
+051051
+saque atm
+200,00 d
+10.556,40 c
+11/09/2023
+111145
+saque atm
+500,00 d
+11/09/2023
+329493
+seguradora
+242,24 d
+9.814,16 c
+12/09/2023
+121054
+cred tev
+2.150,00 c
+11.964,16 c
+15/09/2023
+150806
+saque atm
+1.000,00 d
+15/09/2023
+634430
+pg org gov
+2.047,77 d
+8.916,39 c
+18/09/2023
+000000
+dp dinh ag
+7.100,00 c
+18/09/2023
+000000
+deb pag
+5.000,00 d
+18/09/2023
+181055
+envio pix
+130,00 d
+10.886,39 c
+21/09/2023
+271063
+aplicacao
+10.900,00 d
+21/09/2023
+727220
+resg autom
+13,61 c
+0,00 d
+22/09/2023
+220727
+cred pix
+18.000,00 c
+18.000,00 c
+25/09/2023
+664610
+aplicacao
+17.600,00 d
+25/09/2023
+251337
+envio pix
+200,00 d
+25/09/2023
+082023
+db cest pj
+105,00 d
+95,00 c
+27/09/2023
+271031
+cred pix
+103,90 c
+27/09/2023
+109607
+envio ted
+5.390,80 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+13/10/2023
+131902
+envio pix
+120,00 d
+13/10/2023
+727220
+resg autom
+120,00 c
+0,00 d
+16/10/2023
+141310
+envio pix
+53,00 d
+16/10/2023
+727220
+resg autom
+53,00 c
+0,00 d
+19/10/2023
+000000
+dp dinh ag
+940,00 c
+19/10/2023
+103564
+envio ted
+785,51 d
+19/10/2023
+000000
+deb pag
+1.490,51 d
+19/10/2023
+000000
+deb pag
+1.494,37 d
+19/10/2023
+000000
+deb pag
+838,50 d
+19/10/2023
+000000
+deb pag
+3.870,00 d
+19/10/2023
+103564
+tedag cip
+22,00 d
+19/10/2023
+727220
+resg autom
+7.560,89 c
+0,00 d
+23/10/2023
+000000
+dp dinh ag
+6.000,00 c
+23/10/2023
+000000
+deb pag
+6.000,00 d
+0,00 d
+25/10/2023
+092023
+db cest pj
+105,00 d
+25/10/2023
+727220
+resg autom
+105,00 c
+0,00 d
+firefox
+https://sihex.caixa/pages/consultaextrato/consultaextratolist.cef
+7 of 8
+14/11/2023 14:07
+27/09/2023
+109607
+tedag cip
+22,00 d
+27/09/2023
+727220
+resg autom
+5.213,90 c
+0,00 d
+28/09/2023
+280748
+envio pix
+642,00 d
+28/09/2023
+727220
+resg autom
+642,00 c
+0,00 d
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+saldo anterior
+0,00 d
+03/10/2023
+032116
+envio pix
+828,48 d
+03/10/2023
+727220
+resg autom
+828,48 c
+0,00 d
+04/10/2023
+040721
+cred pix
+50,00 c
+50,00 c
+05/10/2023
+051453
+envio pix
+170,00 d
+05/10/2023
+727220
+resg autom
+120,00 c
+0,00 d
+06/10/2023
+061527
+saque atm
+200,00 d
+06/10/2023
+061644
+envio pix
+500,00 d
+06/10/2023
+727220
+resg autom
+700,00 c
+0,00 d
+09/10/2023
+071548
+saque atm
+100,00 d
+09/10/2023
+071928
+envio pix
+10,00 d
+09/10/2023
+727220
+resg autom
+110,00 c
+0,00 d
+10/10/2023
+000000
+dep ch 24h
+15.000,00 c
+10/10/2023
+329493
+seguradora
+242,24 d
+10/10/2023
+727220
+resg autom
+242,24 c
+15.000,00 c
+13/10/2023
+121910
+envio pix
+15.000,00 d
+firefox
+https://sihex.caixa/pages/consultaextrato/consultaextratolist.cef
+8 of 8
+14/11/2023 14:07
+ caixa
+ caixa
+ caixa
+ caixa

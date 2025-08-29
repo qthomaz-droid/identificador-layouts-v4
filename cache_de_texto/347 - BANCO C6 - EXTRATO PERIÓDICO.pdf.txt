@@ -1,0 +1,758 @@
+0001
+banco c6 s.a.
+dr:
+aberto
+07/03/2022
+07/03/2022 09:03:31
+pág. 1
+rel. de extrato periódico
+sistema de conta corrente
+dp:
+agência:
+00000751
+conta:
+dnc agricola ltda
+19.705.101/0001-96
+rua joao francisco calmon
+loja a
+linhares
+es
+29900-141
+situação: liberada
+1499
+categoria de conta:
+gerente: gerente geral
+garantida
+data inicial: 08/09/2021
+data final: 30/11/2021
+agência:
+conta corrente:
+situação:
+0001
+000007512395-
+liberada
+data
+descrição
+doc
+valor d/c
+valor
+dnc agricola ltda
+06/09/2021 saldo disponivel inicial
+362,97
+06/09/2021 saldo vinculado inicial
+0,00
+06/09/2021 saldo bloqueado inicial
+0,00
+08/09/2021 debito de cartao -posto caliman          venda nova do bra
+000000000000
+131,27
+d
+08/09/2021 pix recebido-shyrley silvia lyra da co
+000000000000
+800,00
+c
+08/09/2021 debito de cartao -parada obrigatoria     venda nova do bra
+000000000000
+22,50
+d
+08/09/2021 debito de cartao -a c silva pousada      alegre        bra
+000000000000
+11,98
+d
+08/09/2021 saldo disponivel
+997,22
+09/09/2021 debito de cartao -hotel pousada vovo zin guacui        bra
+000000000000
+134,50
+d
+09/09/2021 debito de cartao -pag*sofiazorzal        venda nova do bra
+000000000000
+17,00
+d
+09/09/2021 transf enviada pix
+000000000000
+300,00
+d
+09/09/2021 saldo disponivel
+545,72
+13/09/2021 transf enviada pix
+000000000000
+380,00
+d
+13/09/2021 saldo disponivel
+165,72
+14/09/2021 debito de cartao -rede marcela           viana         bra
+000000000000
+150,00
+d
+14/09/2021 saldo disponivel
+15,72
+15/09/2021 pix recebido-pedro albino da costa neto
+000000000000
+100,00
+c
+15/09/2021 recebimento de doc-oligos biotecnologia fab de def agricola
+000000649964
+2.955,00
+c
+15/09/2021 saldo disponivel
+3.070,72
+16/09/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+6,50
+d
+16/09/2021 debito de cartao -abs comercial de comb  ibatiba       bra
+000000000000
+80,00
+d
+16/09/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+29,65
+d
+16/09/2021 saldo disponivel
+2.954,57
+17/09/2021 debito de cartao -hotel venturim         venda nova do bra
+000000000000
+69,00
+d
+17/09/2021 debito de cartao -posto caliman          venda nova do bra
+000000000000
+200,02
+d
+17/09/2021 debito de cartao -lanc rest aguia branca domingos mart bra
+000000000000
+25,97
+d
+17/09/2021 debito de cartao -klein sabores          domingos mart bra
+000000000000
+44,50
+d
+17/09/2021 transf enviada pix
+000000000000
+60,00
+d
+17/09/2021 transf enviada pix
+000000000000
+1.100,00
+d
+17/09/2021 transf enviada pix
+000000000000
+75,00
+d
+17/09/2021 saldo disponivel
+1.380,08
+20/09/2021 transf enviada pix
+000000000000
+50,00
+d
+20/09/2021 transf enviada pix
+000000000000
+100,00
+d
+20/09/2021 transf enviada pix
+000000000000
+100,00
+d
+20/09/2021 transf enviada pix
+000000000000
+20,00
+d
+20/09/2021 saldo disponivel
+1.110,08
+página 1
+0001
+banco c6 s.a.
+dr:
+aberto
+07/03/2022
+07/03/2022 09:03:31
+pág. 2
+rel. de extrato periódico
+sistema de conta corrente
+dp:
+agência:
+00000751
+conta:
+dnc agricola ltda
+19.705.101/0001-96
+rua joao francisco calmon
+loja a
+linhares
+es
+29900-141
+situação: liberada
+1499
+categoria de conta:
+gerente:
+data inicial: 08/09/2021
+data final: 30/11/2021
+21/09/2021 debito de cartao -pag*sofiazorzal        venda nova do bra
+000000000000
+19,00
+d
+21/09/2021 debito de cartao -panific lanch bel pan  venda nova do bra
+000000000000
+10,00
+d
+21/09/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+27,96
+d
+21/09/2021 saldo disponivel
+1.053,12
+22/09/2021 debito de cartao -hotel venturim         venda nova do bra
+000000000000
+75,00
+d
+22/09/2021 debito de cartao -padaria mageski        afonso claudi bra
+000000000000
+22,50
+d
+22/09/2021 transf enviada pix
+000000000000
+30,00
+d
+22/09/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+6,50
+d
+22/09/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+23,43
+d
+22/09/2021 saldo disponivel
+895,69
+23/09/2021 debito de cartao -hotel venturim         venda nova do bra
+000000000000
+69,00
+d
+23/09/2021 debito de cartao -posto caliman          venda nova do bra
+000000000000
+172,91
+d
+23/09/2021 debito de cartao -cafe das montanhas     marechal flor bra
+000000000000
+23,00
+d
+23/09/2021 transf enviada pix
+000000000000
+250,00
+d
+23/09/2021 saldo disponivel
+380,78
+24/09/2021 transf enviada pix
+000000000000
+20,00
+d
+24/09/2021 saldo disponivel
+360,78
+27/09/2021 transf enviada pix
+000000000000
+30,00
+d
+27/09/2021 transf enviada pix
+000000000000
+50,00
+d
+27/09/2021 transf enviada pix
+000000000000
+20,00
+d
+27/09/2021 transf enviada pix
+000000000000
+20,00
+d
+27/09/2021 transf enviada pix
+000000000000
+20,00
+d
+27/09/2021 debito de cartao -pag*vilmarlavacar      domingos mart bra
+000000000000
+50,00
+d
+27/09/2021 saldo disponivel
+170,78
+28/09/2021 debito de cartao -irene schaffel         domingos mart bra
+000000000000
+30,36
+d
+28/09/2021 recebimento de ted-68384148000100-alternativa agricola e in
+000000000000
+2.955,00
+c
+28/09/2021 debito de cartao -klein sabores          domingos mart bra
+000000000000
+14,00
+d
+28/09/2021 saldo disponivel
+3.081,42
+29/09/2021 transf enviada pix
+000000000000
+420,00
+d
+29/09/2021 transf enviada pix
+000000000000
+550,00
+d
+29/09/2021 pgto boleto-boleto
+000000000000
+199,97
+d
+29/09/2021 pgto boleto-boleto
+000000000000
+144,60
+d
+29/09/2021 transf enviada pix
+000000000000
+50,00
+d
+29/09/2021 saldo disponivel
+1.716,85
+30/09/2021 debito de cartao -casa da bica lanchonet marechal flor bra
+000000000000
+103,06
+d
+30/09/2021 transf enviada pix
+000000000000
+100,00
+d
+30/09/2021 saldo disponivel
+1.513,79
+01/10/2021 transf enviada pix
+000000000000
+55,00
+d
+01/10/2021 saldo disponivel
+1.458,79
+04/10/2021 transf enviada pix
+000000000000
+58,00
+d
+04/10/2021 saldo disponivel
+1.400,79
+página 2
+0001
+banco c6 s.a.
+dr:
+aberto
+07/03/2022
+07/03/2022 09:03:31
+pág. 3
+rel. de extrato periódico
+sistema de conta corrente
+dp:
+agência:
+00000751
+conta:
+dnc agricola ltda
+19.705.101/0001-96
+rua joao francisco calmon
+loja a
+linhares
+es
+29900-141
+situação: liberada
+1499
+categoria de conta:
+gerente:
+data inicial: 08/09/2021
+data final: 30/11/2021
+05/10/2021 transf enviada pix
+000000000000
+400,00
+d
+05/10/2021 saldo disponivel
+1.000,79
+07/10/2021 transf enviada pix
+000000000000
+190,00
+d
+07/10/2021 saldo disponivel
+810,79
+08/10/2021 debito de cartao -ox station             cariacica     bra
+000000000000
+90,09
+d
+08/10/2021 debito de cartao -rede marcela           sao paulo     bra
+000000000000
+235,09
+d
+08/10/2021 saldo disponivel
+485,61
+14/10/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+8,45
+d
+14/10/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+32,11
+d
+14/10/2021 saldo disponivel
+445,05
+15/10/2021 debito de cartao -hotel venturim         venda nova do bra
+000000000000
+69,00
+d
+15/10/2021 transf enviada pix
+000000000000
+20,00
+d
+15/10/2021 transf enviada pix
+000000000000
+10,00
+d
+15/10/2021 debito de cartao -parada obrigatoria     venda nova do bra
+000000000000
+15,00
+d
+15/10/2021 saldo disponivel
+331,05
+18/10/2021 transf enviada pix
+000000000000
+192,00
+d
+18/10/2021 pix recebido-marcio rogerio simeão da costa
+000000000000
+700,00
+c
+18/10/2021 saldo disponivel
+839,05
+19/10/2021 transf enviada pix
+000000000000
+50,00
+d
+19/10/2021 saldo disponivel
+789,05
+21/10/2021 debito de cartao -pousada recanto das fl nova friburgo bra
+000000000000
+142,00
+d
+21/10/2021 debito de cartao -rest cheiro verde      nova friburgo bra
+000000000000
+34,38
+d
+21/10/2021 saldo disponivel
+612,67
+22/10/2021 debito de cartao -emporio dei nonni ltda arace         bra
+000000000000
+11,00
+d
+22/10/2021 debito de cartao -parada obrigatoria     venda nova do bra
+000000000000
+20,00
+d
+22/10/2021 debito de cartao -posto caliman          venda nova do bra
+000000000000
+211,62
+d
+22/10/2021 transf enviada pix
+000000000000
+40,00
+d
+22/10/2021 transf enviada pix
+000000000000
+5,00
+d
+22/10/2021 saldo disponivel
+325,05
+25/10/2021 transf enviada pix
+000000000000
+50,00
+d
+25/10/2021 transf enviada pix
+000000000000
+50,00
+d
+25/10/2021 transf enviada pix
+000000000000
+25,00
+d
+25/10/2021 saldo disponivel
+200,05
+26/10/2021 transf enviada pix
+000000000000
+55,00
+d
+26/10/2021 transf enviada pix
+000000000000
+50,00
+d
+26/10/2021 transf enviada pix
+000000000000
+5,00
+d
+26/10/2021 saldo disponivel
+90,05
+27/10/2021 transf enviada pix
+000000000000
+90,00
+d
+27/10/2021 saldo disponivel
+0,05
+28/10/2021 recebimento de ted-68384148000100-alternativa agricola e in
+000000000000
+2.955,00
+c
+28/10/2021 transf enviada pix
+000000000000
+420,00
+d
+página 3
+0001
+banco c6 s.a.
+dr:
+aberto
+07/03/2022
+07/03/2022 09:03:31
+pág. 4
+rel. de extrato periódico
+sistema de conta corrente
+dp:
+agência:
+00000751
+conta:
+dnc agricola ltda
+19.705.101/0001-96
+rua joao francisco calmon
+loja a
+linhares
+es
+29900-141
+situação: liberada
+1499
+categoria de conta:
+gerente:
+data inicial: 08/09/2021
+data final: 30/11/2021
+28/10/2021 transf enviada pix
+000000000000
+529,00
+d
+28/10/2021 transf enviada pix
+000000000000
+550,00
+d
+28/10/2021 transf enviada pix
+000000000000
+371,00
+d
+28/10/2021 saldo disponivel
+1.085,05
+29/10/2021 transf enviada pix
+000000000000
+76,00
+d
+29/10/2021 transf enviada pix
+000000000000
+70,00
+d
+29/10/2021 transf enviada pix
+000000000000
+39,00
+d
+29/10/2021 saldo disponivel
+900,05
+01/11/2021 debito de cartao -emporio dei nonni ltda arace         bra
+000000000000
+9,00
+d
+01/11/2021 debito de cartao -jorge luiz zanetti bon venda nova do bra
+000000000000
+26,84
+d
+01/11/2021 saldo disponivel
+864,21
+03/11/2021 debito de cartao -rede marcela           sao paulo     bra
+000000000000
+183,46
+d
+03/11/2021 debito de cartao -parada ibiracu         ibiracu       bra
+000000000000
+14,00
+d
+03/11/2021 debito de cartao -churrascaria recanto d jaguare       bra
+000000000000
+27,30
+d
+03/11/2021 debito de cartao -sushilin culinaria ori linhares      bra
+000000000000
+39,90
+d
+03/11/2021 saldo disponivel
+599,55
+04/11/2021 debito de cartao -n1 chicken             linhares      bra
+000000000000
+20,00
+d
+04/11/2021 saldo disponivel
+579,55
+05/11/2021 debito de cartao -pratti hoteis ltda     linhares      bra
+000000000000
+248,00
+d
+05/11/2021 debito de cartao -fogao a lenha          colatina      bra
+000000000000
+18,00
+d
+05/11/2021 debito de cartao -posto arnaldo ltda     colatina      bra
+000000000000
+150,00
+d
+05/11/2021 debito de cartao -restaurante casa brasi joao neiva    bra
+000000000000
+11,20
+d
+05/11/2021 debito de cartao -rede marcela           sao paulo     bra
+000000000000
+100,00
+d
+05/11/2021 saldo disponivel
+52,35
+08/11/2021 pix recebido-marcio r simeao costa
+000000000000
+530,00
+c
+08/11/2021 transf enviada pix
+000000000000
+389,00
+d
+08/11/2021 saldo disponivel
+193,35
+09/11/2021 debito de cartao -parada obrigatoria     venda nova do bra
+000000000000
+26,00
+d
+09/11/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+8,45
+d
+09/11/2021 debito de cartao -restaurante venturim   venda nova do bra
+000000000000
+18,20
+d
+09/11/2021 saldo disponivel
+140,70
+10/11/2021 debito de cartao -hotel venturim         venda nova do bra
+000000000000
+69,00
+d
+10/11/2021 debito de cartao -pag*saleboi            manhuacu      bra
+000000000000
+16,46
+d
+10/11/2021 saldo disponivel
+55,24
+11/11/2021 debito de cartao -lanc rest aguia branca domingos mart bra
+000000000000
+21,70
+d
+11/11/2021 saldo disponivel
+33,54
+12/11/2021 debito de cartao -vital christ filho     marechal flor bra
+000000000000
+22,98
+d
+12/11/2021 pix recebido-marcio r simeao costa
+000000000000
+40,00
+c
+12/11/2021 saldo disponivel
+50,56
+17/11/2021 pix recebido-oligos biotecnologia ltda epp
+000000000000
+216,00
+c
+17/11/2021 saldo disponivel
+266,56
+página 4
+0001
+banco c6 s.a.
+dr:
+aberto
+07/03/2022
+07/03/2022 09:03:31
+pág. 5
+rel. de extrato periódico
+sistema de conta corrente
+dp:
+agência:
+00000751
+conta:
+dnc agricola ltda
+19.705.101/0001-96
+rua joao francisco calmon
+loja a
+linhares
+es
+29900-141
+situação: liberada
+1499
+categoria de conta:
+gerente:
+data inicial: 08/09/2021
+data final: 30/11/2021
+18/11/2021 transf enviada pix
+000000000000
+216,00
+d
+18/11/2021 debito de cartao -emporio dei nonni ltda arace         bra
+000000000000
+28,00
+d
+18/11/2021 saldo disponivel
+22,56
+22/11/2021 debito de cartao -restaurante santo ant  pedro canario bra
+000000000000
+10,00
+d
+22/11/2021 saldo disponivel
+12,56
+29/11/2021 recebimento de ted-68384148000100-alternativa agricola e in
+000000000000
+2.955,00
+c
+29/11/2021 transf enviada pix
+000000000000
+60,00
+d
+29/11/2021 debito de cartao -rm - p rm viana        viana         bra
+000000000000
+260,05
+d
+29/11/2021 debito de cartao -b c comercial ltda     mimoso do sul bra
+000000000000
+16,00
+d
+29/11/2021 saldo disponivel
+2.631,51
+30/11/2021 transf enviada pix
+000000000000
+100,00
+d
+30/11/2021 pgto boleto-boleto
+000000000000
+310,25
+d
+30/11/2021 debito de cartao -posto sao geraldo-shel nova friburgo bra
+000000000000
+238,53
+d
+30/11/2021 debito de cartao -rest cheiro verde      nova friburgo bra
+000000000000
+31,16
+d
+30/11/2021 saldo disponivel final
+1.951,57
+30/11/2021 saldo vinculado final
+0,00
+30/11/2021 saldo bloqueado final
+0,00
+30/11/2021 limite total
+0,00
+30/11/2021 limite utilizado
+0,00
+30/11/2021 total disponível para saque (disponivel + limite + aplicacao)
+1.951,57
+taxa de juros
+15/07/2021  -     08.0000 %
+página 5

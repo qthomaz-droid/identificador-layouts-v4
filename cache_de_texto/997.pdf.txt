@@ -1,0 +1,357 @@
+sicoob
+sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob – sisbr
+ 
+10/07/2023
+extrato de aplicações
+12:06:04
+dados do cliente
+cliente  : saude renal servicos medicos ltda
+endereço :itália   245   
+bairro   :bela vista
+cep      :45.990-136  teixeira de freitas  ba
+telefone : (73)3292-9890
+cpf/cgc  :12.546.754/0001-20
+conta    :20.928-7
+dados da aplicação
+número da aplicação : 3
+valor inicial  :600.000,00
+modalidade          :rdc - longo pós cdi
+data aplicação    :22/12/2022
+data carência/venc. :  
+4999 dias
+taxa inicial(%a.a)  :0,00
+indice cm :cdi perc indice cm :96,00
+histórico de movimentação
+data
+histórico
+valor
+saldo atual
+22/12/2022
+aplicação financeira
+600.000,00
+04/01/2023
+capitalização de correção monetária
+421,34 c
+600.421,34
+04/01/2023
+resgate de aplicação financeira
+95.976,25 d
+504.445,09
+04/01/2023
+retenção de iof
+235,95 d
+504.209,14
+04/01/2023
+retenção de irrf
+41,71 d
+504.167,43
+05/01/2023
+capitalização de correção monetária
+239,06 c
+504.406,49
+05/01/2023
+resgate de aplicação financeira
+49.012,24 d
+455.394,25
+05/01/2023
+retenção de iof
+126,70 d
+455.267,55
+05/01/2023
+retenção de irrf
+25,28 d
+455.242,27
+06/01/2023
+capitalização de correção monetária
+66,88 c
+455.309,15
+06/01/2023
+resgate de aplicação financeira
+12.466,25 d
+442.842,90
+06/01/2023
+retenção de iof
+33,44 d
+442.809,46
+06/01/2023
+retenção de irrf
+7,52 d
+442.801,94
+09/01/2023
+capitalização de correção monetária
+32,35 c
+442.834,29
+09/01/2023
+resgate de aplicação financeira
+5.529,40 d
+437.304,89
+09/01/2023
+retenção de iof
+12,94 d
+437.291,95
+09/01/2023
+retenção de irrf
+4,37 d
+437.287,58
+10/01/2023
+capitalização de correção monetária
+37,36 c
+437.324,94
+10/01/2023
+resgate de aplicação financeira
+5.896,02 d
+431.428,92
+10/01/2023
+retenção de iof
+13,45 d
+431.415,47
+10/01/2023
+retenção de irrf
+5,38 d
+431.410,09
+12/01/2023
+capitalização de correção monetária
+84,25 c
+431.494,34
+12/01/2023
+resgate de aplicação financeira
+11.525,70 d
+419.968,64
+12/01/2023
+retenção de iof
+25,28 d
+419.943,36
+12/01/2023
+retenção de irrf
+13,27 d
+419.930,09
+13/01/2023
+capitalização de correção monetária
+139,23 c
+420.069,32
+13/01/2023
+resgate de aplicação financeira
+17.861,27 d
+402.208,05
+13/01/2023
+retenção de iof
+36,20 d
+402.171,85
+13/01/2023
+retenção de irrf
+23,18 d
+402.148,67
+16/01/2023
+capitalização de correção monetária
+149,40 c
+402.298,07
+16/01/2023
+resgate de aplicação financeira
+18.052,50 d
+384.245,57
+16/01/2023
+retenção de iof
+23,90 d
+384.221,67
+16/01/2023
+retenção de irrf
+28,24 d
+384.193,43
+17/01/2023
+capitalização de correção monetária
+48,43 c
+384.241,86
+17/01/2023
+resgate de aplicação financeira
+5.527,84 d
+378.714,02
+17/01/2023
+retenção de iof
+6,30 d
+378.707,72
+17/01/2023
+retenção de irrf
+9,48 d
+378.698,24
+18/01/2023
+capitalização de correção monetária
+27,50 c
+378.725,74
+18/01/2023
+resgate de aplicação financeira
+2.974,42 d
+375.751,32
+18/01/2023
+retenção de iof
+2,75 d
+375.748,57
+18/01/2023
+retenção de irrf
+5,57 d
+375.743,00
+19/01/2023
+capitalização de correção monetária
+97,98 c
+375.840,98
+19/01/2023
+resgate de aplicação financeira
+10.072,67 d
+365.768,31
+19/01/2023
+retenção de iof
+5,88 d
+365.762,43
+19/01/2023
+retenção de irrf
+20,72 d
+365.741,71
+20/01/2023
+capitalização de correção monetária
+556,67 c
+366.298,38
+20/01/2023
+resgate de aplicação financeira
+54.522,30 d
+311.776,08
+20/01/2023
+retenção de iof
+16,70 d
+311.759,38
+20/01/2023
+retenção de irrf
+121,49 d
+311.637,89
+23/01/2023
+capitalização de correção monetária
+125,16 c
+311.763,05
+23/01/2023
+resgate de aplicação financeira
+11.705,37 d
+300.057,68
+23/01/2023
+retenção de irrf
+28,16 d
+300.029,52
+24/01/2023
+capitalização de correção monetária
+33,40 c
+300.062,92
+24/01/2023
+resgate de aplicação financeira
+2.988,49 d
+297.074,43
+24/01/2023
+retenção de irrf
+7,52 d
+297.066,91
+25/01/2023
+capitalização de correção monetária
+843,27 c
+297.910,18
+25/01/2023
+resgate de aplicação financeira
+72.314,64 d
+225.595,54
+25/01/2023
+retenção de irrf
+189,74 d
+225.405,80
+30/01/2023
+capitalização de correção monetária
+1.480,05 c
+226.885,85
+30/01/2023
+resgate de aplicação financeira
+112.865,52 d
+114.020,33
+30/01/2023
+retenção de irrf
+333,01 d
+113.687,32
+31/01/2023
+capitalização de correção monetária
+1.060,04 c
+114.747,36
+31/01/2023
+resgate de aplicação financeira
+77.959,68 d
+36.787,68
+31/01/2023
+retenção de irrf
+238,51 d
+36.549,17
+01/02/2023
+capitalização de correção monetária
+176,30 c
+36.725,47
+01/02/2023
+resgate de aplicação financeira
+12.520,02 d
+24.205,45
+01/02/2023
+retenção de irrf
+39,67 d
+24.165,78
+02/02/2023
+capitalização de correção monetária
+31,51 c
+24.197,29
+02/02/2023
+resgate de aplicação financeira
+2.163,38 d
+22.033,91
+02/02/2023
+retenção de irrf
+7,09 d
+22.026,82
+03/02/2023
+capitalização de correção monetária
+99,21 c
+22.126,03
+03/02/2023
+resgate de aplicação financeira
+6.592,86 d
+15.533,17
+03/02/2023
+retenção de irrf
+22,32 d
+15.510,85
+06/02/2023
+capitalização de correção monetária
+243,84 c
+15.754,69
+06/02/2023
+resgate de aplicação financeira
+15.699,83 d
+54,86
+06/02/2023
+retenção de irrf
+54,86 d
+0,00
+resumo do extrato
+(+) rendimentos brutos previstos..:
+0,00c
+(-) iof previsto..................:
+0,00d
+(-) ir previsto...................:
+0,00d
+(+) rendimentos liquidos previstos:
+0,00c
+(-) bloqueado ....................:
+0,00d
+saldo disponível em 06/02/2023....:
+0,00c
+...........................................................................
+juros pago........................:
+0,00c
+c.m. pago.........................:
+5.993,23c
+iof retido........................:
+539,49d
+ir retido.........................:
+1.227,09d
+resgatado.........................:
+604.226,65d
+ouvidoria sicoob: 08007250996

@@ -1,0 +1,232 @@
+empresa: 001 guerino seiscento transportes s.a.                                                         emissao: 17/07/2024 13:44:35
+cnpj:    72.543.978/0001-00                                                                                              folha: 0001
+                                                                 n                                                                  
+                                                periodo de 01/03/2024 ate 31/03/2024                                                
+fil data       lot documento  item cpart historico                                          debito          credito      saldo atual
+conta 11204.6 - 1.1.01.01.03.004 - caixa econ. federal - c/c 208-2                                  saldo anterior           -516,56
+001 01/03/2024 bco 0000000241 0001 11115 venda de fretes agencia de lins - sp               250,00                                  
+001 01/03/2024 bco 0000000251 0002 52112 aviso de débito - iof                                                 2,61                 
+001 01/03/2024 bco 0000000252 0002 52106 aviso de débito - deb juros                                         172,82                 
+001 01/03/2024 bco 0000000379 0001 11114 venda de bilhetes de passagens                     327,00                                  
+                                                               totais do dia 01:            577,00           175,43          -114,99
+001 04/03/2024 bco 0000000343 0001 11115 venda de fretes agencia de lins - sp                60,00                                  
+001 04/03/2024 bco 0000000344 0001 11115 venda de fretes agencia de quatá - sp              110,55                                  
+001 04/03/2024 bco 0000000345 0001 11115 venda de fretes agencia de quatá - sp              112,95                                  
+001 04/03/2024 bco 0000000346 0001 11115 venda de fretes agencia de franca - sp             120,00                                  
+001 04/03/2024 bco 0000000347 0001 11115 venda de fretes agencia de tupã - sp               656,00                                  
+                                                               totais do dia 04:          1.059,50             0,00           944,51
+001 05/03/2024 bco 0000000209 0001 11115 venda de fretes agencia de lins - sp               230,00                                  
+001 05/03/2024 bco 0000000222 0001 11115 venda de fretes agencia de osvaldo cruz            145,00                                  
+- sp
+                                                               totais do dia 05:            375,00             0,00         1.319,51
+001 06/03/2024 bco 0000000239 0002 11207 transferencia (d) banco 341 agência 0652                          1.500,00                 
+8 conta 01572.
+001 06/03/2024 bco 0000000247 0001 11115 venda de fretes agencia de tupã - sp               489,00                                  
+001 06/03/2024 bco 0000000250 0001 11114 venda de bilhetes de passagens                      45,00                                  
+                                                               totais do dia 06:            534,00         1.500,00           353,51
+001 07/03/2024 bco 0000000297 0001 11115 venda de fretes agencia de quatá - sp              141,80                                  
+001 07/03/2024 bco 0000000298 0001 11115 venda de fretes agencia de quatá - sp              188,25                                  
+001 07/03/2024 bco 0000000299 0001 11115 venda de fretes agencia de franca - sp             100,00                                  
+001 07/03/2024 bco 0000000347 0002 11114 pagamento crbp n 15161 - aurora francisc                            332,96                 
+a silva bispo
+001 07/03/2024 bco 0000000348 0002 11114 pagamento crbp n 13131 - anuar nagiber n                            281,34                 
+aife mamede
+001 07/03/2024 bco 0000000349 0002 11114 pagamento crbp n 5739 - valmir santos ca                            161,42                 
+mpos
+001 07/03/2024 cpg 0000000374 0002 21425 pagamento de docto conf bordero 000646                              104,13                 
+                                                               totais do dia 07:            430,05           879,85           -96,29
+001 08/03/2024 bco 0000000211 0001 11115 venda de fretes agencia de franca - sp             185,00                                  
+001 08/03/2024 bco 0000000212 0001 11115 venda de fretes agencia de franca - sp           1.216,55                                  
+001 08/03/2024 bco 0000000213 0001 11115 venda de fretes agencia de tupã - sp             1.220,00                                  
+001 08/03/2024 bco 0000000214 0001 11115 venda de fretes agencia de osvaldo cruz            100,00                                  
+- sp
+001 08/03/2024 bco 0000000215 0001 11115 venda de fretes agencia de osvaldo cruz             65,00                                  
+- sp
+001 08/03/2024 bco 0000000216 0001 11115 venda de fretes agencia de itapolis -sp            100,00                                  
+001 08/03/2024 bco 0000000217 0001 11115 venda de fretes agencia de itapolis -sp            205,22                                  
+001 08/03/2024 cpg 0000000330 0002 21410 pagamento de docto conf bordero 000594                            3.650,51                 
+001 08/03/2024 bco 0000000335 0002 15416 aviso de débito - bloq. saldo                                     1.008,75                 
+001 08/03/2024 bco 0000000336 0001 11114 venda de bilhetes de passagens                     380,00                                  
+                                                               totais do dia 08:          3.471,77         4.659,26        -1.283,78
+001 09/03/2024 bco 0000000095 0001 11115 venda de fretes agencia de quatá - sp               71,00                                  
+001 09/03/2024 bco 0000000096 0001 11115 venda de fretes agencia de quatá - sp              316,60                                  
+001 09/03/2024 bco 0000000097 0001 11115 venda de fretes agencia de franca - sp             410,40                                  
+                                                               totais do dia 09:            798,00             0,00          -485,78
+001 11/03/2024 bco 0000000190 0001 11115 venda de fretes agencia de quatá - sp              164,20                                  
+001 11/03/2024 bco 0000000191 0001 11115 venda de fretes agencia são carlos - sp            167,00                                  
+001 11/03/2024 cpg 0000000272 0002 51602 pagamento de docto conf bordero 000580                            1.066,61                 
+001 11/03/2024 cpg 0000000273 0002 51602 pagamento de docto conf bordero 000581                            1.051,93                 
+001 11/03/2024 cpg 0000000275 0002 51602 pagamento de docto conf bordero 000583                              445,24                 
+001 11/03/2024 bco 0000000302 0001 11114 venda de bilhetes de passagens                   2.033,16                                  
+praxio tecnologia
+praxio tecnologia
+empresa: 001 guerino seiscento transportes s.a.                                                         emissao: 17/07/2024 13:44:35
+cnpj:    72.543.978/0001-00                                                                                              folha: 0002
+                                                                 n                                                                  
+                                                periodo de 01/03/2024 ate 31/03/2024                                                
+fil data       lot documento  item cpart historico                                          debito          credito      saldo atual
+001 11/03/2024 bco 0000000303 0002 52111 aviso de débito - deb cesta pj                                      105,00                 
+                                                               totais do dia 11:          2.364,36         2.668,78          -790,20
+001 12/03/2024 bco 0000000190 0001 11115 venda de fretes agencia de franca - sp             100,40                                  
+001 12/03/2024 cpg 0000000274 0002 04180 pagamento de docto conf bordero 000585                            8.227,45                 
+001 12/03/2024 cpg 0000000275 0002 05586 pagamento de docto conf bordero 000586                              142,02                 
+001 12/03/2024 bco 0000000277 0001 11207 transferencia (c) banco 341 agência 0652         8.000,00                                  
+8 conta 01572.
+                                                               totais do dia 12:          8.100,40         8.369,47        -1.059,27
+001 13/03/2024 cpg 0000000051 0002 53205 pagamento de docto conf bordero 000524                              964,85                 
+001 13/03/2024 crc 0000000121 0002 11114 marcos luiz passagens nf nº.  0000000122         1.077,00                                  
+001 13/03/2024 bco 0000000221 0001 11115 venda de fretes agencia de lins - sp                50,00                                  
+001 13/03/2024 bco 0000000222 0001 11115 venda de fretes agencia de lins - sp               100,00                                  
+001 13/03/2024 bco 0000000223 0001 11115 venda de fretes agencia de osvaldo cruz            320,00                                  
+- sp
+001 13/03/2024 bco 0000000224 0001 11115 venda de fretes agencia de osvaldo cruz             80,00                                  
+- sp
+001 13/03/2024 bco 0000000225 0001 11115 venda de fretes agencia de itapolis -sp            205,00                                  
+                                                               totais do dia 13:          1.832,00           964,85          -192,12
+001 14/03/2024 cpg 0000000063 0002 05365 pagamento de docto conf bordero 000525                            1.345,00                 
+001 14/03/2024 bco 0000000252 0001 11115 venda de fretes agencia de lins - sp               220,00                                  
+001 14/03/2024 bco 0000000253 0001 11115 venda de fretes agencia de quatá - sp              151,90                                  
+001 14/03/2024 bco 0000000254 0001 11115 venda de fretes agencia de tupã - sp               805,00                                  
+                                                               totais do dia 14:          1.176,90         1.345,00          -360,22
+001 15/03/2024 bco 0000000156 0001 11115 venda de fretes agencia de tupã - sp               305,00                                  
+001 15/03/2024 bco 0000000157 0001 11115 venda de fretes agencia de tupã - sp               867,00                                  
+001 15/03/2024 cpg 0000000278 0002 22047 pagamento de docto conf bordero 000576                           10.295,91                 
+001 15/03/2024 cpg 0000000279 0002 22047 pagamento de docto conf bordero 000577                           10.295,91                 
+001 15/03/2024 cpg 0000000280 0002 22047 pagamento de docto conf bordero 000578                            7.721,93                 
+001 15/03/2024 bco 0000000290 0002 11114 pagamento crbp 15282 - glaucelene araujo                             26,47                 
+de lima
+001 15/03/2024 bco 0000000291 0002 11114 pagamento crbp 13357 - renata cristina m                             14,30                 
+enegate
+001 15/03/2024 bco 0000000292 0002 11114 pagamento crbp 15601 - enyr jacques ramo                             70,72                 
+s
+001 15/03/2024 bco 0000000293 0002 21674 pagamento geraldo vitor da silva - proco                          1.200,00                 
+n f.a. 35.095.0001.24-000042
+001 15/03/2024 bco 0000000296 0001 11207 transferencia (c) banco 341 agência 0652        28.000,00                                  
+8 conta 01572.
+001 15/03/2024 bco 0000000422 0002 11114 pagamento crbp 15112 - gerseir alves                                128,45                 
+                                                               totais do dia 15:         29.172,00        29.753,69          -941,91
+001 16/03/2024 bco 0000000081 0001 11115 venda de fretes agencia de quatá - sp              116,50                                  
+001 16/03/2024 bco 0000000082 0001 11115 venda de fretes agencia de franca - sp              65,00                                  
+001 16/03/2024 bco 0000000083 0001 11115 venda de fretes agencia de osvaldo cruz            185,00                                  
+- sp
+001 16/03/2024 bco 0000000084 0001 11115 venda de fretes agencia de osvaldo cruz             50,00                                  
+- sp
+                                                               totais do dia 16:            416,50             0,00          -525,41
+001 17/03/2024 bco 0000000039 0001 11115 venda de fretes agencia de lins - sp               236,00                                  
+001 17/03/2024 bco 0000000040 0001 11115 venda de fretes agencia de lins - sp               115,00                                  
+                                                               totais do dia 17:            351,00             0,00          -174,41
+001 18/03/2024 bco 0000000282 0001 11115 venda de fretes agencia de lins - sp               276,00                                  
+001 18/03/2024 bco 0000000283 0001 11115 venda de fretes agencia de quatá - sp               64,10                                  
+001 18/03/2024 bco 0000000284 0001 11115 venda de fretes agencia são carlos - sp             70,00                                  
+                                                               totais do dia 18:            410,10             0,00           235,69
+001 19/03/2024 bco 0000000227 0001 11115 venda de fretes agencia de lins - sp               108,00                                  
+001 19/03/2024 bco 0000000228 0001 11115 venda de fretes agencia de lins - sp                85,00                                  
+praxio tecnologia
+praxio tecnologia
+empresa: 001 guerino seiscento transportes s.a.                                                         emissao: 17/07/2024 13:44:35
+cnpj:    72.543.978/0001-00                                                                                              folha: 0003
+                                                                 n                                                                  
+                                                periodo de 01/03/2024 ate 31/03/2024                                                
+fil data       lot documento  item cpart historico                                          debito          credito      saldo atual
+001 19/03/2024 bco 0000000229 0001 11115 venda de fretes agencia de franca - sp             520,79                                  
+001 19/03/2024 bco 0000000230 0001 11115 venda de fretes agencia de tupã - sp               520,00                                  
+001 19/03/2024 bco 0000000231 0001 11115 venda de fretes agencia de tupã - sp                90,00                                  
+001 19/03/2024 bco 0000000232 0001 11115 venda de fretes agencia são carlos - sp            100,40                                  
+001 19/03/2024 bco 0000000233 0001 11115 venda de fretes agencia são carlos - sp            100,00                                  
+001 19/03/2024 bco 0000000234 0001 11115 venda de fretes agencia são carlos - sp            100,40                                  
+                                                               totais do dia 19:          1.624,59             0,00         1.860,28
+001 20/03/2024 cpg 0000000072 0002 51602 pagamento de docto conf bordero 000526                              461,67                 
+001 20/03/2024 cpg 0000000073 0002 51602 pagamento de docto conf bordero 000527                               87,98                 
+001 20/03/2024 cpg 0000000074 0002 53205 pagamento de docto conf bordero 000528                              429,00                 
+001 20/03/2024 cpg 0000000075 0002 53205 pagamento de docto conf bordero 000529                              994,10                 
+001 20/03/2024 bco 0000000249 0001 11115 venda de fretes agencia de lins - sp               200,00                                  
+001 20/03/2024 bco 0000000340 0001 11114 venda de bilhetes de passagens                     487,10                                  
+                                                               totais do dia 20:            687,10         1.972,75           574,63
+001 21/03/2024 cpg 0000000079 0002 41802 pagamento de docto conf bordero 000530                              556,56                 
+001 21/03/2024 cpg 0000000080 0002 53305 pagamento de docto conf bordero 000531                              145,26                 
+001 21/03/2024 cpg 0000000081 0002 51830 pagamento de docto conf bordero 000532                               55,00                 
+001 21/03/2024 bco 0000000281 0001 11115 venda de fretes agencia de lins - sp               145,00                                  
+001 21/03/2024 bco 0000000282 0002 15416 aviso de débito - bloq saldo                                        100,20                 
+001 21/03/2024 bco 0000000283 0001 11114 venda de bilhetes de passagens                     100,20                                  
+                                                               totais do dia 21:            245,20           857,02           -37,19
+001 22/03/2024 cpg 0000000098 0002 04010 pagamento de docto conf bordero 000533                              359,46                 
+001 22/03/2024 cpg 0000000099 0002 04010 pagamento de docto conf bordero 000534                              122,49                 
+001 22/03/2024 cpg 0000000100 0002 04010 pagamento de docto conf bordero 000535                               99,81                 
+001 22/03/2024 cpg 0000000101 0002 04057 pagamento de docto conf bordero 000536                                5,12                 
+001 22/03/2024 cpg 0000000102 0002 04057 pagamento de docto conf bordero 000537                               88,65                 
+001 22/03/2024 bco 0000000104 0002 11114 pagamento crbp 15287/15288 - alesson bru                            133,94                 
+no de jesus
+001 22/03/2024 bco 0000000105 0002 11114 pagamento crbp 15285 - jose fernandes al                             90,79                 
+meida
+001 22/03/2024 bco 0000000106 0002 11114 pagamento crbp 13613 - samuel souza torr                             38,24                 
+es
+001 22/03/2024 cpg 0000000266 0002 04010 pagamento de docto conf bordero 000575                               64,02                 
+001 22/03/2024 bco 0000000269 0001 11115 venda de fretes agencia de lins - sp               306,00                                  
+001 22/03/2024 bco 0000000270 0001 11115 venda de fretes agencia de osvaldo cruz            180,00                                  
+- sp
+001 22/03/2024 bco 0000000271 0001 11115 venda de fretes agencia de osvaldo cruz             75,00                                  
+- sp
+001 22/03/2024 bco 0000000275 0001 15416 credito desbloqueio saldo                          100,20                                  
+001 22/03/2024 bco 0000000276 0002 11114 aviso de débito - estorno de deposito                               100,20                 
+                                                               totais do dia 22:            661,20         1.102,72          -478,71
+001 23/03/2024 bco 0000000142 0001 11115 venda de fretes agencia de quatá - sp              226,65                                  
+001 23/03/2024 bco 0000000143 0001 11115 venda de fretes agencia de franca - sp           1.220,00                                  
+001 23/03/2024 bco 0000000144 0001 11115 venda de fretes agencia de tupã - sp             1.170,00                                  
+001 23/03/2024 bco 0000000145 0001 11115 venda de fretes agencia de tupã - sp                55,00                                  
+                                                               totais do dia 23:          2.671,65             0,00         2.192,94
+001 25/03/2024 bco 0000000252 0001 11115 venda de fretes agencia de lins - sp                65,00                                  
+001 25/03/2024 bco 0000000253 0001 11115 venda de fretes agencia de lins - sp               352,00                                  
+001 25/03/2024 bco 0000000254 0001 11115 venda de fretes agencia de lins - sp               320,00                                  
+001 25/03/2024 bco 0000000255 0001 11115 venda de fretes agencia de quatá - sp               85,15                                  
+001 25/03/2024 bco 0000000256 0001 11115 venda de fretes agencia de quatá - sp               55,45                                  
+001 25/03/2024 bco 0000000257 0001 11115 venda de fretes agencia de franca - sp             566,30                                  
+001 25/03/2024 bco 0000000258 0001 11115 venda de fretes agencia de osvaldo cruz             50,00                                  
+- sp
+001 25/03/2024 cpg 0000000335 0002 21425 pagamento de docto conf bordero 000591                              104,12                 
+001 25/03/2024 cpg 0000000336 0002 51830 pagamento de docto conf bordero 000592                            4.125,66                 
+praxio tecnologia
+praxio tecnologia
+empresa: 001 guerino seiscento transportes s.a.                                                         emissao: 17/07/2024 13:44:35
+cnpj:    72.543.978/0001-00                                                                                              folha: 0004
+                                                                 n                                                                  
+                                                periodo de 01/03/2024 ate 31/03/2024                                                
+fil data       lot documento  item cpart historico                                          debito          credito      saldo atual
+001 25/03/2024 bco 0000000386 0002 15416 aviso de débito - bloq saldo                                        100,20                 
+001 25/03/2024 bco 0000000387 0001 11114 venda de bilhetes de passagens                     100,20                                  
+001 25/03/2024 bco 0000000811 0001 11115 venda de fretes                                    201,00                                  
+                                                               totais do dia 25:          1.795,10         4.329,98          -341,94
+001 26/03/2024 bco 0000000237 0001 11115 venda de fretes agencia de lins - sp                50,00                                  
+001 26/03/2024 bco 0000000238 0001 11115 venda de fretes agencia são carlos - sp            206,00                                  
+001 26/03/2024 bco 0000000239 0001 11115 venda de fretes agencia são carlos - sp             90,00                                  
+001 26/03/2024 bco 0000000240 0001 11115 venda de fretes agencia são carlos - sp            120,00                                  
+001 26/03/2024 cpg 0000000301 0002 53205 pagamento de docto conf bordero 000587                            1.011,15                 
+001 26/03/2024 cpg 0000000302 0002 53205 pagamento de docto conf bordero 000588                            1.210,48                 
+001 26/03/2024 cpg 0000000303 0002 53205 pagamento de docto conf bordero 000589                            1.275,80                 
+001 26/03/2024 bco 0000000304 0001 15416 credito desbloq de saldo                           100,20                                  
+001 26/03/2024 bco 0000000393 0001 11207 transferencia (c) banco 341 agência 0652         3.200,00                                  
+8 conta 01572.
+                                                               totais do dia 26:          3.766,20         3.497,43           -73,17
+001 27/03/2024 bco 0000000245 0001 11115 venda de fretes agencia de lins - sp               419,00                                  
+001 27/03/2024 bco 0000000246 0001 11115 venda de fretes agencia de osvaldo cruz            350,00                                  
+- sp
+001 27/03/2024 bco 0000000247 0001 11115 venda de fretes agencia de itapolis -sp            100,40                                  
+001 27/03/2024 bco 0000000248 0001 11115 venda de fretes agencia de itapolis -sp            105,17                                  
+                                                               totais do dia 27:            974,57             0,00           901,40
+001 28/03/2024 cpg 0000000141 0002 51830 pagamento de docto conf bordero 000540                              104,52                 
+001 28/03/2024 cpg 0000000142 0002 51830 pagamento de docto conf bordero 000541                              119,57                 
+001 28/03/2024 cpg 0000000143 0002 51830 pagamento de docto conf bordero 000542                              102,17                 
+001 28/03/2024 cpg 0000000144 0002 51830 pagamento de docto conf bordero 000543                              102,00                 
+001 28/03/2024 cpg 0000000145 0002 51830 pagamento de docto conf bordero 000544                              122,34                 
+001 28/03/2024 cpg 0000000146 0002 51830 pagamento de docto conf bordero 000545                               99,99                 
+001 28/03/2024 cpg 0000000147 0002 51830 pagamento de docto conf bordero 000546                               26,06                 
+001 28/03/2024 cpg 0000000148 0002 51830 pagamento de docto conf bordero 000547                              117,44                 
+001 28/03/2024 cpg 0000000149 0002 51830 pagamento de docto conf bordero 000548                              117,63                 
+001 28/03/2024 cpg 0000000150 0002 53208 pagamento de docto conf bordero 000549                              148,58                 
+001 28/03/2024 bco 0000000330 0001 11115 venda de fretes agencia de osvaldo cruz             70,00                                  
+- sp
+001 28/03/2024 bco 0000000331 0001 11115 venda de fretes agencia de itapolis -sp            150,00                                  
+                                                               totais do dia 28:            220,00         1.060,30            61,10
+                                                          totais do mes 03/2024:         63.714,19        63.136,53            61,10
+                                                                         totais:         63.714,19        63.136,53            61,10
+praxio tecnologia
+praxio tecnologia

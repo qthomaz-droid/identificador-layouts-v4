@@ -1,0 +1,329 @@
+associado:
+cooperativa:
+conta:
+data
+descrição
+documento
+valor (r$)
+saldo (r$)
+saldo anterior
+(r$99,997.91)
+01/02/2024
+credito cob caucionada 
+liq310124
+r$12,453.85
+(r$87,544.06)
+01/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$12,400.00)
+(r$99,944.06)
+01/02/2024
+iof adicional pj-ad. dep. 
+iof.adic.
+(r$0.25)
+(r$99,944.31)
+01/02/2024
+iof adicional pj-ch. espe 
+iof.adic.
+(r$38.43)
+(r$99,982.74)
+01/02/2024
+iof basico ad pj 
+iof.basic
+(r$0.01)
+(r$99,982.75)
+01/02/2024
+iof basico ch pj 
+iof.basic
+(r$126.64)
+(r$100,109.39)
+02/02/2024
+credito cob caucionada 
+liq010224
+r$5,400.00
+(r$94,709.39)
+02/02/2024
+credito cob caucionada 
+liq010224
+r$8,500.00
+(r$86,209.39)
+02/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$13,790.00)
+(r$99,999.39)
+02/02/2024
+juros cheque inadimplente 
+enc131
+(r$0.61)
+(r$100,000.00)
+05/02/2024
+amortizacao contrato 
+c25430553
+(r$0.61)
+(r$100,000.61)
+05/02/2024
+credito cob caucionada 
+liq020224
+r$14,000.00
+(r$86,000.61)
+05/02/2024
+amortizacao contrato 
+c25430553
+(r$14,000.00)
+(r$100,000.61)
+06/02/2024
+credito cob caucionada 
+liq050224
+r$31,000.00
+(r$69,000.61)
+06/02/2024
+amortizacao contrato 
+c25430553
+(r$30,999.39)
+(r$100,000.00)
+07/02/2024
+credito cob caucionada 
+liq060224
+r$14,495.00
+(r$85,505.00)
+07/02/2024
+liquidacao de parcela 
+c25430553
+(r$2,491.14)
+(r$87,996.14)
+07/02/2024
+juros cheque inadimplente 
+rep013
+(r$229.39)
+(r$88,225.53)
+07/02/2024
+juros utiliz.ch.especial 
+rep029
+(r$5,877.93)
+(r$94,103.46)
+07/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$5,890.00)
+(r$99,993.46)
+07/02/2024
+tarifa com r liquidacao 
+cob000002
+(r$3.40)
+(r$99,996.86)
+08/02/2024
+credito cob caucionada 
+liq070224
+r$11,218.27
+(r$88,778.59)
+08/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$11,200.00)
+(r$99,978.59)
+08/02/2024
+tarifa com r liquidacao 
+cob000007
+(r$11.90)
+(r$99,990.49)
+09/02/2024
+tarifa com r liquidacao 
+cob000001
+(r$1.70)
+(r$99,992.19)
+14/02/2024
+credito cob caucionada 
+liq090224
+r$14,000.00
+(r$85,992.19)
+14/02/2024
+pagamento pix 18693212000167 p. k. comercio de c
+pix_deb
+(r$2,000.00)
+(r$87,992.19)
+14/02/2024
+pagamento pix 08249921720 roberto amorim henriqu
+pix_deb
+(r$2,300.00)
+(r$90,292.19)
+14/02/2024
+pagamento pix 47054372000164 one
+pix_deb
+(r$3,072.52)
+(r$93,364.71)
+14/02/2024
+pagamento pix 13062641703 sharles batista de pau
+pix_deb
+(r$2,608.00)
+(r$95,972.71)
+14/02/2024
+pagamento pix 18693212000167 p. k. comercio de c
+pix_deb
+(r$4,000.00)
+(r$99,972.71)
+14/02/2024
+tarifa com r liquidacao 
+cob000002
+(r$3.40)
+(r$99,976.11)
+15/02/2024
+credito cob caucionada 
+liq140224
+r$22,500.00
+(r$77,476.11)
+15/02/2024
+pagamento pix 10700395784 wallace moreira da sil
+pix_deb
+(r$8,000.00)
+(r$85,476.11)
+15/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$14,500.00)
+(r$99,976.11)
+19/02/2024
+tarifa com r liquidacao 
+cob000001
+(r$1.70)
+(r$99,977.81)
+19/02/2024
+tarifa com r liquidacao 
+cob000002
+(r$3.40)
+(r$99,981.21)
+20/02/2024
+credito cob caucionada 
+liq190224
+r$25,900.00
+(r$74,081.21)
+20/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$25,900.00)
+(r$99,981.21)
+21/02/2024
+tarifa com r liquidacao 
+cob000001
+(r$1.70)
+(r$99,982.91)
+22/02/2024
+credito cob caucionada 
+liq210224
+r$14,000.00
+(r$85,982.91)
+22/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$14,000.00)
+(r$99,982.91)
+vip truck transportes ltda
+0167
+49691-8
+extrato
+dados referentes ao período de 01/02/2024 a 29/02/2024.
+22/02/2024
+tarifa com r liquidacao 
+cob000001
+(r$1.70)
+(r$99,984.61)
+23/02/2024
+credito cob caucionada 
+liq220224
+r$9,095.00
+(r$90,889.61)
+23/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$9,100.00)
+(r$99,989.61)
+23/02/2024
+tarifa com r liquidacao 
+cob000001
+(r$1.70)
+(r$99,991.31)
+26/02/2024
+credito cob caucionada 
+liq230224
+r$10,142.36
+(r$89,848.95)
+26/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$10,100.00)
+(r$99,948.95)
+26/02/2024
+cesta de relacionamento 
+ 
+(r$39.90)
+(r$99,988.85)
+26/02/2024
+tarifa com r liquidacao 
+cob000003
+(r$5.10)
+(r$99,993.95)
+27/02/2024
+credito cob caucionada 
+liq260224
+r$29,728.05
+(r$70,265.90)
+27/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$29,700.00)
+(r$99,965.90)
+28/02/2024
+tarifa com r liquidacao 
+cob000001
+(r$1.70)
+(r$99,967.60)
+29/02/2024
+credito cob caucionada 
+liq280224
+r$11,183.25
+(r$88,784.35)
+29/02/2024
+pagamento pix 34624906000107 vip truck
+pix_deb
+(r$11,200.00)
+(r$99,984.35)
+29/02/2024
+juros adto. credito 
+enc227
+(r$0.57)
+(r$99,984.92)
+(r$99,801.91)
+r$0.00
+r$0.00
+r$0.00
+r$100,000.00
+r$198.09
+5.90%
+6.90%
+22/04/2024
+109.81%
+data
+descrição
+02/04/2024
+juros cheque especial inad.
+31/03/2024
+juros ad
+lançamentos futuros (próximos 30 dias)
+valor (r$)
+(r$476.34)
+(r$1.65)
+valores das operações dos produtos de crédito sujeitos a alterações.
+taxa de juros mensal do cheque especial
+taxa de inadimplência do cheque especial
+vencimento do cheque especial
+custo efetivo total (cet) - anual
+caro associado, lembramos que o produto cheque especial/empresarial é ideal para uso temporário e emergencial.
+temos opções de crédito mais vantajosas aprovadas para você. contate seu gerente de negócios e conheça.
+saldo atual (disponível em conta)
+saldo bloqueado
+lançamentos a conferir
+saldo de investimentos com resgate automático
+limite cheque especial
+limite disponível do cheque especial
+saldo da conta em 05/03/2024

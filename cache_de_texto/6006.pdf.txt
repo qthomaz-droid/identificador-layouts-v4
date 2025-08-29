@@ -1,0 +1,1240 @@
+prata distribuidora ltda. - relatório de conferência de lotes de baixa do contas a
+pagar
+hora: 10:09:43
+pagina: 1
+data: 17/02/2025
+ordem: número do lote
+data de digitacao:  01/01/2025 à 31/01/25  
+status selecionado(s): 'ab', 'lb', 'fe', 'ca'
+unidade(s): 1
+lote: 
+historico:
+centro(s) de custo:
+8595
+ - 
+132 - mercadoria  258 - frete  580 - auto peças  626 - diversos  
+data de digitacao:  02/01/2025
+usuario digitação:
+85 - cristiane de souza silva
+situação: liberado
+conta: 37 - caixa empresa
+forma de pagamento:
+ou - outros
+codigo
+tp numero
+pc
+fornecedor
+bx
+por
+dt.venc.
+dt. pag.
+vlr titulo
+juros
+desconto
+credito
+vlr pagto
+saldo tit.
+un
+1
+57231
+1
+810619
+3
+2 - copapa companhia
+paduana de papeis
+341 03/01/2025
+02/01/2025
+to
+22.064,66
+0,00
+0,00
+0,00
+22.064,66
+0,00
+1
+57276
+1
+6758
+2
+1059 - sirley da silva
+aguiar
+756 01/01/2025
+02/01/2025
+to
+430,00
+0,00
+0,00
+0,00
+430,00
+0,00
+1
+58092
+1
+181350
+2
+448 - iplac industria
+plastica caetes ltda
+341 02/01/2025
+02/01/2025
+to
+11.345,29
+0,00
+0,00
+0,00
+11.345,29
+0,00
+1
+58089
+1
+53307
+1
+887 - ultraplast ind. e
+com. de sacolas
+341 27/12/2024
+02/01/2025
+to
+10.785,68
+0,00
+0,00
+0,00
+10.785,68
+0,00
+1
+58088
+1
+181467
+2
+448 - iplac industria
+plastica caetes ltda
+341 03/01/2025
+02/01/2025
+to
+11.463,00
+0,00
+0,00
+0,00
+11.463,00
+0,00
+1
+58086
+1
+128446
+1
+1202 - express tcm ltda
+748 03/01/2025
+02/01/2025
+to
+502,66
+0,00
+0,00
+0,00
+502,66
+0,00
+1
+57311
+1
+850551
+1
+655 - isoplast ind e com e
+plasticos ltda
+29
+02/01/2025
+02/01/2025
+to
+266,00
+0,00
+0,00
+0,00
+266,00
+0,00
+1
+57636
+1
+187020
+5
+512 - bm3 importacao e
+exportacao ltda
+341 02/01/2025
+02/01/2025
+to
+1.944,12
+0,00
+0,00
+0,00
+1.944,12
+0,00
+1
+57799
+1
+211041
+2
+181 - strawplast ind e
+com ltda
+341 02/01/2025
+02/01/2025
+to
+10.070,73
+0,00
+0,00
+0,00
+10.070,73
+0,00
+1
+57833
+1
+615708
+2
+899 - adere produtos
+auto adesivos ltda
+341 02/01/2025
+02/01/2025
+to
+3.226,12
+0,00
+0,00
+0,00
+3.226,12
+0,00
+1
+57850
+1
+53833
+2
+66 - m.t.industria e
+comercio de produtos
+237 02/01/2025
+02/01/2025
+to
+2.340,00
+0,00
+0,00
+0,00
+2.340,00
+0,00
+1
+57852
+1
+108761
+1
+83 - segplast industria e
+com de embalagens
+341 01/01/2025
+02/01/2025
+to
+47.711,57
+0,00
+0,00
+0,00
+47.711,57
+0,00
+1
+57869
+1
+17130
+3
+1104 - intertape do
+brasil ltda
+341 02/01/2025
+02/01/2025
+to
+950,00
+0,00
+0,00
+0,00
+950,00
+0,00
+1
+57877
+1
+539718
+1
+1097 - elo distribuidora
+de alimentos ltda
+341 01/01/2025
+02/01/2025
+to
+5.550,00
+0,00
+0,00
+0,00
+5.550,00
+0,00
+1
+57897
+1
+848
+1
+858 - fortbras
+autopeças s.a.
+237 03/01/2025
+02/01/2025
+to
+71,51
+0,00
+0,00
+0,00
+71,51
+0,00
+1
+57921
+1
+221224
+1
+141 - comolimpa
+ind.quimica ltda
+4
+02/01/2025
+02/01/2025
+to
+61.721,86
+0,00
+0,00
+0,00
+61.721,86
+0,00
+1
+58002
+1
+221348
+1
+141 - comolimpa
+ind.quimica ltda
+4
+02/01/2025
+02/01/2025
+to
+13.853,78
+0,00
+0,00
+0,00
+13.853,78
+0,00
+1
+58021
+1
+70032
+1
+625 - lanchero alimentos
+do brasil ltda
+104 01/01/2025
+02/01/2025
+to
+5.832,26
+0,00
+0,00
+0,00
+5.832,26
+0,00
+1
+58026
+1
+268791
+2
+26 - cotherpack
+industria e comercio de
+29
+01/01/2025
+02/01/2025
+to
+3.292,87
+0,00
+0,00
+0,00
+3.292,87
+0,00
+1
+58031
+1
+284709
+3
+907 - fabrica de
+artefatos de latex sao
+341 03/01/2025
+02/01/2025
+to
+6.172,77
+0,00
+0,00
+0,00
+6.172,77
+0,00
+total do lote:
+219.594,88
+titulos:
+20
+219.594,88
+0,00
+0,00
+0,00
+219.594,88
+lote: 
+historico:
+centro(s) de custo:
+8598
+ - 
+132 - mercadoria  
+data de digitacao:  04/01/2025
+usuario digitação:
+72 - camille da silva
+situação: liberado
+conta: 37 - caixa empresa
+forma de pagamento:
+ou - outros
+codigo
+tp numero
+pc
+fornecedor
+bx
+por
+dt.venc.
+dt. pag.
+vlr titulo
+juros
+desconto
+credito
+vlr pagto
+saldo tit.
+un
+1
+58090
+1
+53307
+2
+887 - ultraplast ind. e
+com. de sacolas
+341 03/01/2025
+04/01/2025
+to
+10.785,68
+0,00
+0,00
+0,00
+10.785,68
+0,00
+1
+58087
+1
+181467
+1
+448 - iplac industria
+plastica caetes ltda
+341 27/12/2024
+04/01/2025
+to
+11.463,00
+0,00
+0,00
+0,00
+11.463,00
+0,00
+1
+58091
+1
+181350
+1
+448 - iplac industria
+plastica caetes ltda
+341 26/12/2024
+04/01/2025
+to
+11.345,29
+0,00
+0,00
+0,00
+11.345,29
+0,00
+total do lote:
+33.593,97
+titulos:
+3
+33.593,97
+0,00
+0,00
+0,00
+33.593,97
+lote: 
+historico:
+centro(s) de custo:
+8599
+ - 
+132 - mercadoria  552 - combustivel  626 - diversos  997 - financiamento   
+data de digitacao:  04/01/2025
+usuario digitação:
+72 - camille da silva
+situação: liberado
+conta: 37 - caixa empresa
+forma de pagamento:
+ou - outros
+codigo
+tp numero
+pc
+fornecedor
+bx
+por
+dt.venc.
+dt. pag.
+vlr titulo
+juros
+desconto
+credito
+vlr pagto
+saldo tit.
+un
+1
+47622
+1
+264334
+23
+125 - finame
+99
+03/01/2025
+04/01/2025
+to
+9.638,60
+0,00
+0,00
+0,00
+9.638,60
+0,00
+1
+58127
+1
+231224
+1
+901 - posto macaubense ii 1
+30/12/2024
+04/01/2025
+to
+1.316,68
+0,00
+0,00
+0,00
+1.316,68
+0,00
+total do lote:
+10.955,28
+titulos:
+2
+10.955,28
+0,00
+0,00
+0,00
+10.955,28
+lote: 
+historico:
+centro(s) de custo:
+8600
+ - 
+124 - descontos em notas  132 - mercadoria  258 - frete  4 - receb. a vista  444 - auto peças  557 - pneus  609 - oficina 
+618 - material de contrução/claudio  773 - despesas diversas  
+data de digitacao:  06/01/2025
+usuario digitação:
+72 - camille da silva
+situação: liberado
+conta: 37 - caixa empresa
+forma de pagamento:
+ou - outros
+codigo
+tp numero
+pc
+fornecedor
+bx
+por
+dt.venc.
+dt. pag.
+vlr titulo
+juros
+desconto
+credito
+vlr pagto
+saldo tit.
+un
+1
+56467
+1
+2681
+1
+1112 - cxp distribuidora
+s.a. 4249
+341 06/01/2025
+06/01/2025
+to
+2.679,00
+0,00
+0,00
+0,00
+2.679,00
+0,00
+1
+57239
+1
+335404
+3
+508 - ol industria de
+papeis ltda
+341 05/01/2025
+06/01/2025
+to
+23.146,89
+0,00
+0,00
+0,00
+23.146,89
+0,00
+1
+57260
+1
+85056
+2
+655 - isoplast ind e com e
+plasticos ltda
+29
+07/01/2025
+06/01/2025
+to
+5.936,56
+0,00
+0,00
+0,00
+5.936,56
+0,00
+1
+57312
+1
+85055
+2
+655 - isoplast ind e com e
+plasticos ltda
+29
+07/01/2025
+06/01/2025
+to
+266,00
+0,00
+0,00
+0,00
+266,00
+0,00
+1
+57654
+1
+55487
+3
+1187 - v.s distribuidora
+ltda
+237 04/01/2025
+06/01/2025
+to
+3.538,62
+0,00
+0,00
+0,00
+3.538,62
+0,00
+1
+57701
+1
+117234
+4
+264 - plastzan industria
+e comercio de plasticos
+748 07/01/2025
+06/01/2025
+to
+19.749,97
+0,00
+0,00
+0,00
+19.749,97
+0,00
+1
+57718
+1
+36254
+5
+917 - cristalcopo
+descartaveis s/a
+341 06/01/2025
+06/01/2025
+to
+1.214,71
+0,00
+0,00
+0,00
+1.214,71
+0,00
+1
+57723
+1
+36369
+5
+917 - cristalcopo
+descartaveis s/a
+341 04/01/2025
+06/01/2025
+to
+5.633,67
+0,00
+0,00
+0,00
+5.633,67
+0,00
+1
+57724
+1
+675300
+1
+607 - ispl - industria
+sulam. de prod. de
+1
+06/01/2025
+06/01/2025
+to
+45.659,42
+0,00
+0,00
+0,00
+45.659,42
+0,00
+1
+57732
+1
+336885
+2
+508 - ol industria de
+papeis ltda
+341 10/01/2025
+06/01/2025
+to
+23.975,16
+0,00
+0,00
+0,00
+23.975,16
+0,00
+1
+57742
+1
+812948
+2
+2 - copapa companhia
+paduana de papeis
+756 07/01/2025
+06/01/2025
+to
+28.221,09
+0,00
+0,00
+0,00
+28.221,09
+0,00
+1
+57765
+1
+13470
+2
+923 - pneu commerce
+importacao e
+237 07/01/2025
+06/01/2025
+to
+2.499,00
+0,00
+0,00
+0,00
+2.499,00
+0,00
+1
+57800
+1
+211041
+3
+181 - strawplast ind e
+com ltda
+341 09/01/2025
+06/01/2025
+to
+10.070,75
+0,00
+0,00
+0,00
+10.070,75
+0,00
+1
+57851
+1
+53833
+3
+66 - m.t.industria e
+comercio de produtos
+237 09/01/2025
+06/01/2025
+to
+2.340,00
+0,00
+0,00
+0,00
+2.340,00
+0,00
+1
+57856
+1
+231980
+1
+1090 - cooperativa de
+colonizacao
+435 04/01/2025
+06/01/2025
+to
+8.776,20
+0,00
+0,00
+0,00
+8.776,20
+0,00
+1
+57857
+1
+323676
+1
+1092 - cooperativa de
+col.agrop. e indl.
+435 04/01/2025
+06/01/2025
+to
+10.500,00
+0,00
+0,00
+0,00
+10.500,00
+0,00
+1
+57858
+1
+51890
+1
+1091 - cooperativa
+agroindustrial dos
+435 04/01/2025
+06/01/2025
+to
+27.200,00
+0,00
+0,00
+0,00
+27.200,00
+0,00
+1
+57870
+1
+17130
+4
+1104 - intertape do
+brasil ltda
+341 09/01/2025
+06/01/2025
+to
+950,00
+0,00
+0,00
+0,00
+950,00
+0,00
+1
+57880
+1
+193441
+1
+1039 - netus
+transportes ltda me
+341 05/01/2025
+06/01/2025
+to
+369,04
+0,00
+0,00
+0,00
+369,04
+0,00
+1
+57881
+1
+6900
+1
+1059 - sirley da silva
+aguiar
+756 04/01/2025
+06/01/2025
+to
+333,33
+0,00
+0,00
+0,00
+333,33
+0,00
+1
+57889
+1
+41193
+1
+603 - amendupa produtos
+alimenticios ltda
+341 06/01/2025
+06/01/2025
+to
+3.450,36
+0,00
+0,00
+0,00
+3.450,36
+0,00
+1
+57892
+1
+814616
+1
+2 - copapa companhia
+paduana de papeis
+104 06/01/2025
+06/01/2025
+to
+26.591,67
+0,00
+0,00
+0,00
+26.591,67
+0,00
+1
+57907
+1
+338133
+1
+508 - ol industria de
+papeis ltda
+341 09/01/2025
+06/01/2025
+to
+20.557,23
+0,00
+0,00
+0,00
+20.557,23
+0,00
+1
+57912
+1
+815068
+1
+2 - copapa companhia
+paduana de papeis
+1
+09/01/2025
+06/01/2025
+td
+26.300,33
+0,00
+46,00
+0,00
+26.254,33
+0,00
+1
+57935
+1
+123461
+1
+793 - ol industria de
+papéis ltda - filial 
+237 09/01/2025
+06/01/2025
+to
+725,17
+0,00
+0,00
+0,00
+725,17
+0,00
+1
+57941
+1
+815220
+1
+2 - copapa companhia
+paduana de papeis
+756 10/01/2025
+06/01/2025
+to
+26.269,67
+0,00
+0,00
+0,00
+26.269,67
+0,00
+1
+57981
+1
+652087
+1
+601 - castelo alimentos
+s/a
+1
+09/01/2025
+06/01/2025
+td
+32.756,11
+0,00
+400,00
+0,00
+32.356,11
+0,00
+1
+57983
+1
+237
+1
+1186 - renivaldo cortes
+rosa
+104 05/01/2025
+06/01/2025
+to
+610,00
+0,00
+0,00
+0,00
+610,00
+0,00
+1
+57984
+1
+2577619 1
+1145 - v.s. distribuidora
+ltda.
+237 04/01/2025
+06/01/2025
+to
+631,58
+0,00
+0,00
+0,00
+631,58
+0,00
+1
+57986
+1
+242411
+1
+1022 - cedep comercio
+ltda 
+341 08/01/2025
+06/01/2025
+to
+539,72
+0,00
+0,00
+0,00
+539,72
+0,00
+1
+57990
+1
+23661
+1
+468 - lipon quimica
+industrial ltda
+29
+06/01/2025
+06/01/2025
+to
+5.610,00
+0,00
+0,00
+0,00
+5.610,00
+0,00
+1
+57992
+1
+117216
+1
+897 - inoven comércio
+internacional ltda 
+1
+08/01/2025
+06/01/2025
+to
+1.651,01
+0,00
+0,00
+0,00
+1.651,01
+0,00
+lote: 
+historico:
+centro(s) de custo:
+8600
+ - 
+124 - descontos em notas  132 - mercadoria  258 - frete  4 - receb. a vista  444 - auto peças  557 - pneus  609 - oficina 
+618 - material de contrução/claudio  773 - despesas diversas  
+data de digitacao:  06/01/2025
+usuario digitação:
+72 - camille da silva
+situação: liberado
+conta: 37 - caixa empresa
+forma de pagamento:
+ou - outros
+codigo
+tp numero
+pc
+fornecedor
+bx
+por
+dt.venc.
+dt. pag.
+vlr titulo
+juros
+desconto
+credito
+vlr pagto
+saldo tit.
+un
+1
+58003
+1
+221537
+1
+141 - comolimpa
+ind.quimica ltda
+4
+06/01/2025
+06/01/2025
+to
+66.209,64
+0,00
+0,00
+0,00
+66.209,64
+0,00
+1
+58004
+1
+221543
+1
+141 - comolimpa
+ind.quimica ltda
+4
+07/01/2025
+06/01/2025
+to
+15.722,94
+0,00
+0,00
+0,00
+15.722,94
+0,00
+1
+58022
+1
+70032
+2
+625 - lanchero alimentos
+do brasil ltda
+104 08/01/2025
+06/01/2025
+to
+5.832,26
+0,00
+0,00
+0,00
+5.832,26
+0,00
+1
+58027
+1
+268791
+3
+26 - cotherpack
+industria e comercio de
+29
+08/01/2025
+06/01/2025
+to
+3.292,87
+0,00
+0,00
+0,00
+3.292,87
+0,00
+1
+58033
+1
+23045
+2
+1113 - florestal
+alimentos s/a
+29
+06/01/2025
+06/01/2025
+to
+1.620,87
+0,00
+0,00
+0,00
+1.620,87
+0,00
+1
+58069
+1
+1194787 1
+1030 - lider distribuidor
+ltda
+341 09/01/2025
+06/01/2025
+to
+2.179,65
+0,00
+0,00
+0,00
+2.179,65
+0,00
+1
+58073
+1
+14181
+1
+809 - torres e borre
+industria de embalagens
+99
+07/01/2025
+06/01/2025
+to
+6.720,00
+0,00
+0,00
+0,00
+6.720,00
+0,00
+1
+58074
+1
+14181
+2
+809 - torres e borre
+industria de embalagens
+99
+07/01/2025
+06/01/2025
+to
+6.720,00
+0,00
+0,00
+0,00
+6.720,00
+0,00
+total do lote:
+477.050,49
+titulos:
+40
+477.050,49
+0,00
+446,00
+0,00
+476.604,49

@@ -1,0 +1,4036 @@
+razão
+pag.: 1 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+data:
+01/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+66.352,00
+00007
+01/12/2022
+5.280,78
+0,00
+71.632,78
+importado extrato bancário(46) recebimento de guias
+5.280,78
+(0,00)
+total da rec/desp:
+71.632,78
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+79.113,94
+00008
+01/12/2022
+12.231,74
+0,00
+91.345,68
+importado extrato bancário(46) ted-crédito em conta
+12.231,74
+(0,00)
+total da rec/desp:
+91.345,68
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(4.383,24)
+00009
+01/12/2022
+0,00
+(1,10)
+(4.384,34)
+importado extrato bancário(46) tarifa guia c/cód barras
+00010
+01/12/2022
+0,00
+(24,30)
+(4.408,64)
+importado extrato bancário(46) tarifa guia c/cód barras
+00011
+01/12/2022
+0,00
+(2,16)
+(4.410,80)
+importado extrato bancário(46) tarifa guia c/cód barras
+00012
+01/12/2022
+0,00
+(159,43)
+(4.570,23)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(186,99)
+total da rec/desp:
+(4.570,23)
+rec/desp:
+301001 - material de expediente e escritório
+saldo anterior:
+(188.636,26)
+00001
+01/12/2022
+0,00
+(45,00)
+(188.681,26)
+recibo n° proveniente do fornecedor cristiano de 
+souza rocha
+0,00
+(45,00)
+total da rec/desp:
+(188.681,26)
+rec/desp:
+301004 - internet
+saldo anterior:
+(79,90)
+00006
+01/12/2022
+0,00
+(79,90)
+(159,80)
+boleto n° proveniente do fornecedor he-net 
+manutencao e servicos digitais ltda
+0,00
+(79,90)
+total da rec/desp:
+(159,80)
+rec/desp:
+301006 - telefone
+saldo anterior:
+0,00
+00001
+01/12/2022
+0,00
+(15,00)
+(15,00)
+comprovante n° proveniente do fornecedor vivo s.a.
+00002
+01/12/2022
+0,00
+(15,00)
+(30,00)
+comprovante n° proveniente do fornecedor vivo s.a.
+00003
+01/12/2022
+0,00
+(15,00)
+(45,00)
+comprovante n° proveniente do fornecedor vivo s.a
+77 9.9875-6975
+00004
+01/12/2022
+0,00
+(15,00)
+(60,00)
+comprovante n° proveniente do fornecedor vivo s.a.
+0,00
+(60,00)
+total da rec/desp:
+(60,00)
+rec/desp:
+301007 - manutenção de sist. de informática
+saldo anterior:
+(3.083,51)
+00005
+01/12/2022
+0,00
+(664,57)
+(3.748,08)
+pagamento referente a nota fiscal nº 23532 do 
+fornecedor inova 3g sistemas ltda .
+0,00
+(664,57)
+total da rec/desp:
+(3.748,08)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(559,97)
+00013
+01/12/2022
+0,00
+(5,14)
+(565,11)
+importado extrato bancário(46) tarifa pix enviado
+0,00
+(5,14)
+total da rec/desp:
+(565,11)
+data:
+02/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+71.632,78
+00016
+02/12/2022
+7.511,48
+0,00
+79.144,26
+importado extrato bancário(46) recebimento de guias
+7.511,48
+(0,00)
+total da rec/desp:
+79.144,26
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+91.345,68
+00018
+02/12/2022
+11.688,11
+0,00
+103.033,79
+importado extrato bancário(46) ted-crédito em conta
+11.688,11
+(0,00)
+total da rec/desp:
+103.033,79
+rec/desp:
+102008 - déposito indevido
+saldo anterior:
+131,55
+00001
+02/12/2022
+1.058,26
+0,00
+1.189,81
+00002
+02/12/2022
+30,02
+0,00
+1.219,83
+00003
+02/12/2022
+41,92
+0,00
+1.261,75
+1.130,20
+(0,00)
+total da rec/desp:
+1.261,75
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 2 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+rec/desp:
+202 - ferramentas
+saldo anterior:
+(1.346,83)
+00005
+02/12/2022
+0,00
+(69,90)
+(1.416,73)
+pagamento referente a nota fiscal nº 4484 do 
+fornecedor comatec materiais de construcao ltda .
+0,00
+(69,90)
+total da rec/desp:
+(1.416,73)
+rec/desp:
+204 - conexões
+saldo anterior:
+(5.627,19)
+00005
+02/12/2022
+0,00
+(50,80)
+(5.677,99)
+pagamento referente a nota fiscal nº 4484 do 
+fornecedor comatec materiais de construcao ltda .
+0,00
+(50,80)
+total da rec/desp:
+(5.677,99)
+rec/desp:
+213 - outros materiais
+saldo anterior:
+(1.312,74)
+00005
+02/12/2022
+0,00
+(234,00)
+(1.546,74)
+pagamento referente a nota fiscal nº 4484 do 
+fornecedor comatec materiais de construcao ltda .
+0,00
+(234,00)
+total da rec/desp:
+(1.546,74)
+rec/desp:
+216 - materiais diversos de eletrica
+saldo anterior:
+(3.642,59)
+00002
+02/12/2022
+0,00
+(760,00)
+(4.402,59)
+pagamento referente a nota fiscal nº 448 do 
+fornecedor sergio alves lopes junior .
+00005
+02/12/2022
+0,00
+(41,50)
+(4.444,09)
+pagamento referente a nota fiscal nº 4484 do 
+fornecedor comatec materiais de construcao ltda .
+0,00
+(801,50)
+total da rec/desp:
+(4.444,09)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(4.570,23)
+00019
+02/12/2022
+0,00
+(16,50)
+(4.586,73)
+importado extrato bancário(46) tarifa guia c/cód barras
+00020
+02/12/2022
+0,00
+(49,50)
+(4.636,23)
+importado extrato bancário(46) tarifa guia c/cód barras
+00021
+02/12/2022
+0,00
+(2,16)
+(4.638,39)
+importado extrato bancário(46) tarifa guia c/cód barras
+00022
+02/12/2022
+0,00
+(8,64)
+(4.647,03)
+importado extrato bancário(46) tarifa guia c/cód barras
+00023
+02/12/2022
+0,00
+(150,87)
+(4.797,90)
+importado extrato bancário(46) tarifa guia c/barra coban
+00003
+02/12/2022
+0,00
+(1.366,62)
+(6.164,52)
+boleto n° proveniente do fornecedor companhia de 
+eletricidade do estado da bahia coelba
+00004
+02/12/2022
+0,00
+(1.722,89)
+(7.887,41)
+boleto n°11/2022 proveniente do fornecedor 
+companhia de eletricidade do estado da bahia coelba
+0,00
+(3.317,18)
+total da rec/desp:
+(7.887,41)
+rec/desp:
+303001 - combustível
+saldo anterior:
+(13.923,83)
+00001
+02/12/2022
+0,00
+(1.058,26)
+(14.982,09)
+pagamento referente a nota fiscal nº 41 do 
+fornecedor souza e bertunes comercio de 
+combustiveis ltda .
+0,00
+(1.058,26)
+total da rec/desp:
+(14.982,09)
+rec/desp:
+304022 - ted devolvida - despesa
+saldo anterior:
+(7.987,50)
+00015
+02/12/2022
+0,00
+(80,00)
+(8.067,50)
+0,00
+(80,00)
+total da rec/desp:
+(8.067,50)
+rec/desp:
+304024 - transferência errada
+saldo anterior:
+0,00
+00014
+02/12/2022
+0,00
+(1.058,26)
+(1.058,26)
+0,00
+(1.058,26)
+total da rec/desp:
+(1.058,26)
+rec/desp:
+501 - estornos
+saldo anterior:
+7.987,50
+00017
+02/12/2022
+80,00
+0,00
+8.067,50
+importado extrato bancário(46) ted devolvida
+80,00
+(0,00)
+total da rec/desp:
+8.067,50
+data:
+05/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+79.144,26
+00002
+05/12/2022
+4.657,55
+0,00
+83.801,81
+importado extrato bancário(46) recebimento de guias
+4.657,55
+(0,00)
+total da rec/desp:
+83.801,81
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+103.033,79
+00003
+05/12/2022
+6.750,09
+0,00
+109.783,88
+importado extrato bancário(46) ted-crédito em conta
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 3 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+6.750,09
+(0,00)
+total da rec/desp:
+109.783,88
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(7.887,41)
+00004
+05/12/2022
+0,00
+(6,60)
+(7.894,01)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+05/12/2022
+0,00
+(20,70)
+(7.914,71)
+importado extrato bancário(46) tarifa guia c/cód barras
+00006
+05/12/2022
+0,00
+(6,48)
+(7.921,19)
+importado extrato bancário(46) tarifa guia c/cód barras
+00007
+05/12/2022
+0,00
+(129,47)
+(8.050,66)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(163,25)
+total da rec/desp:
+(8.050,66)
+rec/desp:
+302010 - pis sobre folha
+saldo anterior:
+(8.068,00)
+00003
+05/12/2022
+0,00
+(17.693,80)
+(25.761,80)
+boleto n° proveniente do fornecedor central de 
+associacoes comunitarias caetite
+0,00
+(17.693,80)
+total da rec/desp:
+(25.761,80)
+rec/desp:
+302012 - diarias
+saldo anterior:
+(8.720,00)
+00002
+05/12/2022
+0,00
+(720,00)
+(9.440,00)
+recibo n°90 proveniente do fornecedor lais carlos 
+boaventura santos
+0,00
+(720,00)
+total da rec/desp:
+(9.440,00)
+rec/desp:
+302018 - inss e irrf
+saldo anterior:
+(1.964,68)
+00003
+05/12/2022
+0,00
+(1.801,66)
+(3.766,34)
+boleto n° proveniente do fornecedor central de 
+associacoes comunitarias caetite
+0,00
+(1.801,66)
+total da rec/desp:
+(3.766,34)
+rec/desp:
+305005 - prestação serviços pf
+saldo anterior:
+(23.267,40)
+00001
+05/12/2022
+0,00
+(2.000,00)
+(25.267,40)
+recibo n°41 proveniente do fornecedor edson da 
+silva fernandes
+00001
+05/12/2022
+0,00
+(1.247,80)
+(26.515,20)
+recibo n°88 proveniente do fornecedor alcides 
+soares pessoa
+00002
+05/12/2022
+0,00
+(3.500,00)
+(30.015,20)
+recibo n°90 proveniente do fornecedor lais carlos 
+boaventura santos
+0,00
+(6.747,80)
+total da rec/desp:
+(30.015,20)
+rec/desp:
+305007 - iss
+saldo anterior:
+(996,65)
+00003
+05/12/2022
+0,00
+(1.143,41)
+(2.140,06)
+boleto n° proveniente do fornecedor central de 
+associacoes comunitarias caetite
+0,00
+(1.143,41)
+total da rec/desp:
+(2.140,06)
+data:
+06/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+83.801,81
+00053
+06/12/2022
+4.025,90
+0,00
+87.827,71
+importado extrato bancário(46) recebimento de guias
+4.025,90
+(0,00)
+total da rec/desp:
+87.827,71
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+109.783,88
+00054
+06/12/2022
+7.128,97
+0,00
+116.912,85
+importado extrato bancário(46) ted-crédito em conta
+7.128,97
+(0,00)
+total da rec/desp:
+116.912,85
+rec/desp:
+204 - conexões
+saldo anterior:
+(5.677,99)
+00026
+06/12/2022
+0,00
+(1.320,42)
+(6.998,41)
+pagamento referente a nota fiscal nº 1793687 do 
+fornecedor docol industria e comercio ltda .
+0,00
+(1.320,42)
+total da rec/desp:
+(6.998,41)
+rec/desp:
+216 - materiais diversos de eletrica
+saldo anterior:
+(4.444,09)
+00025
+06/12/2022
+0,00
+(4.200,00)
+(8.644,09)
+pagamento referente a nota fiscal nº 101 do 
+fornecedor eletrica dia ltda .
+0,00
+(4.200,00)
+total da rec/desp:
+(8.644,09)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.050,66)
+00055
+06/12/2022
+0,00
+(6,60)
+(8.057,26)
+importado extrato bancário(46) tarifa guia c/cód barras
+00056
+06/12/2022
+0,00
+(26,10)
+(8.083,36)
+importado extrato bancário(46) tarifa guia c/cód barras
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 4 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+00057
+06/12/2022
+0,00
+(4,32)
+(8.087,68)
+importado extrato bancário(46) tarifa guia c/cód barras
+00058
+06/12/2022
+0,00
+(77,04)
+(8.164,72)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(114,06)
+total da rec/desp:
+(8.164,72)
+rec/desp:
+302018 - inss e irrf
+saldo anterior:
+(3.766,34)
+00027
+06/12/2022
+0,00
+(1.271,86)
+(5.038,20)
+comprovante n° proveniente do fornecedor cresol 
+pa caetité - central
+0,00
+(1.271,86)
+total da rec/desp:
+(5.038,20)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(565,11)
+00059
+06/12/2022
+0,00
+(11,00)
+(576,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00060
+06/12/2022
+0,00
+(11,00)
+(587,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00061
+06/12/2022
+0,00
+(11,00)
+(598,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00062
+06/12/2022
+0,00
+(11,00)
+(609,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00063
+06/12/2022
+0,00
+(11,00)
+(620,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00064
+06/12/2022
+0,00
+(11,00)
+(631,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00065
+06/12/2022
+0,00
+(11,00)
+(642,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00066
+06/12/2022
+0,00
+(11,00)
+(653,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00067
+06/12/2022
+0,00
+(11,00)
+(664,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00068
+06/12/2022
+0,00
+(11,00)
+(675,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00069
+06/12/2022
+0,00
+(11,00)
+(686,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00070
+06/12/2022
+0,00
+(11,00)
+(697,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00071
+06/12/2022
+0,00
+(11,00)
+(708,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00072
+06/12/2022
+0,00
+(11,00)
+(719,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00073
+06/12/2022
+0,00
+(11,00)
+(730,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00074
+06/12/2022
+0,00
+(11,00)
+(741,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00075
+06/12/2022
+0,00
+(11,00)
+(752,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+0,00
+(187,00)
+total da rec/desp:
+(752,11)
+rec/desp:
+305002 - ass. jurídica
+saldo anterior:
+0,00
+00024
+06/12/2022
+0,00
+(1.200,00)
+(1.200,00)
+0,00
+(1.200,00)
+total da rec/desp:
+(1.200,00)
+rec/desp:
+305005 - prestação serviços pf
+saldo anterior:
+(30.015,20)
+00001
+06/12/2022
+0,00
+(10,00)
+(30.025,20)
+recibo n°46 proveniente do fornecedor julimar 
+santos silva
+0,00
+(10,00)
+total da rec/desp:
+(30.025,20)
+rec/desp:
+401 - repasse operador
+saldo anterior:
+(14.516,50)
+00002
+06/12/2022
+0,00
+(1.020,00)
+(15.536,50)
+pagamento referente ao repasse para comunidade de 
+setor administrativo do mês 11/2023
+00003
+06/12/2022
+0,00
+(370,00)
+(15.906,50)
+pagamento referente ao repasse para comunidade de 
+invernada do mês 11/2023
+00004
+06/12/2022
+0,00
+(345,00)
+(16.251,50)
+pagamento referente ao repasse para comunidade de 
+lagoa de dentro do mês 11/2023
+00007
+06/12/2022
+0,00
+(623,00)
+(16.874,50)
+pagamento referente ao repasse para comunidade de 
+teiu linha do mês 11/2022
+00008
+06/12/2022
+0,00
+(710,50)
+(17.585,00)
+pagamento referente ao repasse para comunidade de 
+volta da serra do mês 11/2022
+00009
+06/12/2022
+0,00
+(240,00)
+(17.825,00)
+pagamento referente ao repasse para comunidade de 
+pereiros do mês 11/2022
+00010
+06/12/2022
+0,00
+(200,00)
+(18.025,00)
+pagamento referente ao repasse para comunidade de 
+macambira do mês 11/2022
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 5 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+00012
+06/12/2022
+0,00
+(978,00)
+(19.003,00)
+pagamento referente ao repasse para comunidade de 
+salina do mês 11/2022
+00013
+06/12/2022
+0,00
+(480,00)
+(19.483,00)
+pagamento referente ao repasse para comunidade de 
+ponte do mês 11/2022
+00014
+06/12/2022
+0,00
+(192,00)
+(19.675,00)
+pagamento referente ao repasse para comunidade de 
+leite do mês 11/2022
+00016
+06/12/2022
+0,00
+(600,00)
+(20.275,00)
+pagamento referente ao repasse para comunidade de 
+boca do campo do mês 11/2022
+00017
+06/12/2022
+0,00
+(368,00)
+(20.643,00)
+pagamento referente ao repasse para comunidade de 
+alto do murici do mês 11/2022
+00018
+06/12/2022
+0,00
+(511,00)
+(21.154,00)
+pagamento referente ao repasse para comunidade de 
+murici do mês 11/2022
+00019
+06/12/2022
+0,00
+(444,00)
+(21.598,00)
+pagamento referente ao repasse para comunidade de 
+malhada grande do mês 11/2022
+00022
+06/12/2022
+0,00
+(712,00)
+(22.310,00)
+pagamento referente ao repasse para comunidade de 
+saco dos bois do mês 11/2022
+00023
+06/12/2022
+0,00
+(130,00)
+(22.440,00)
+pagamento referente ao repasse para comunidade de 
+lagoa do bino do mês 11/2022
+00051
+06/12/2022
+0,00
+(132,00)
+(22.572,00)
+pagamento referente ao repasse para comunidade de 
+mocambo do mês 11/2022
+0,00
+(8.055,50)
+total da rec/desp:
+(22.572,00)
+rec/desp:
+402 - repasse taxa administração
+saldo anterior:
+(5.745,00)
+00001
+06/12/2022
+0,00
+(170,00)
+(5.915,00)
+pagamento referente ao repasse para comunidade de 
+setor administrativo do mês 11/2022
+00006
+06/12/2022
+0,00
+(267,00)
+(6.182,00)
+pagamento referente ao repasse para comunidade de 
+teiu linha do mês 11/2022
+00020
+06/12/2022
+0,00
+(98,00)
+(6.280,00)
+pagamento referente ao repasse para comunidade de 
+boca da mata do mês 11/2023
+00021
+06/12/2022
+0,00
+(84,00)
+(6.364,00)
+pagamento referente ao repasse para comunidade de 
+açude do mês 11/2022
+00003
+06/12/2022
+0,00
+(148,00)
+(6.512,00)
+pagamento referente ao repasse para comunidade de 
+invernada do mês 11/2023
+00004
+06/12/2022
+0,00
+(92,00)
+(6.604,00)
+pagamento referente ao repasse para comunidade de 
+lagoa de dentro do mês 11/2023
+00005
+06/12/2022
+0,00
+(398,00)
+(7.002,00)
+pagamento referente ao repasse para comunidade de 
+pindorama do mês 11/2022
+00008
+06/12/2022
+0,00
+(406,00)
+(7.408,00)
+pagamento referente ao repasse para comunidade de 
+volta da serra do mês 11/2022
+00009
+06/12/2022
+0,00
+(120,00)
+(7.528,00)
+pagamento referente ao repasse para comunidade de 
+pereiros do mês 11/2022
+00010
+06/12/2022
+0,00
+(50,00)
+(7.578,00)
+pagamento referente ao repasse para comunidade de 
+macambira do mês 11/2022
+00014
+06/12/2022
+0,00
+(24,00)
+(7.602,00)
+pagamento referente ao repasse para comunidade de 
+leite do mês 11/2022
+00015
+06/12/2022
+0,00
+(98,00)
+(7.700,00)
+pagamento referente ao repasse para comunidade de 
+várzea da pedra do mês 11/2022
+00016
+06/12/2022
+0,00
+(400,00)
+(8.100,00)
+pagamento referente ao repasse para comunidade de 
+boca do campo do mês 11/2022
+00017
+06/12/2022
+0,00
+(46,00)
+(8.146,00)
+pagamento referente ao repasse para comunidade de 
+alto do murici do mês 11/2022
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 6 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+00018
+06/12/2022
+0,00
+(146,00)
+(8.292,00)
+pagamento referente ao repasse para comunidade de 
+murici do mês 11/2022
+00019
+06/12/2022
+0,00
+(148,00)
+(8.440,00)
+pagamento referente ao repasse para comunidade de 
+malhada grande do mês 11/2022
+00022
+06/12/2022
+0,00
+(356,00)
+(8.796,00)
+pagamento referente ao repasse para comunidade de 
+saco dos bois do mês 11/2022
+00023
+06/12/2022
+0,00
+(19,50)
+(8.815,50)
+pagamento referente ao repasse para comunidade de 
+lagoa do bino do mês 11/2022
+00051
+06/12/2022
+0,00
+(66,00)
+(8.881,50)
+pagamento referente ao repasse para comunidade de 
+mocambo do mês 11/2022
+0,00
+(3.136,50)
+total da rec/desp:
+(8.881,50)
+rec/desp:
+403 - repasse energia
+saldo anterior:
+(17.458,19)
+00052
+06/12/2022
+0,00
+(943,57)
+(18.401,76)
+pagamento referente ao repasse para comunidade de 
+macambira do mês 11/2023
+00005
+06/12/2022
+0,00
+(3.899,78)
+(22.301,54)
+pagamento referente ao repasse para comunidade de 
+pindorama do mês 11/2022
+00007
+06/12/2022
+0,00
+(1.796,48)
+(24.098,02)
+pagamento referente ao repasse para comunidade de 
+teiu linha do mês 11/2022
+00008
+06/12/2022
+0,00
+(2.089,26)
+(26.187,28)
+pagamento referente ao repasse para comunidade de 
+volta da serra do mês 11/2022
+00009
+06/12/2022
+0,00
+(300,76)
+(26.488,04)
+pagamento referente ao repasse para comunidade de 
+pereiros do mês 11/2022
+00012
+06/12/2022
+0,00
+(2.119,31)
+(28.607,35)
+pagamento referente ao repasse para comunidade de 
+salina do mês 11/2022
+00013
+06/12/2022
+0,00
+(1.279,62)
+(29.886,97)
+pagamento referente ao repasse para comunidade de 
+ponte do mês 11/2022
+00015
+06/12/2022
+0,00
+(134,75)
+(30.021,72)
+pagamento referente ao repasse para comunidade de 
+várzea da pedra do mês 11/2022
+00051
+06/12/2022
+0,00
+(569,93)
+(30.591,65)
+pagamento referente ao repasse para comunidade de 
+mocambo do mês 11/2022
+0,00
+(13.133,46)
+total da rec/desp:
+(30.591,65)
+rec/desp:
+502 - reembolsos
+saldo anterior:
+387,84
+00001
+06/12/2022
+1.271,86
+0,00
+1.659,70
+1.271,86
+(0,00)
+total da rec/desp:
+1.659,70
+data:
+07/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+87.827,71
+00013
+07/12/2022
+6.028,89
+0,00
+93.856,60
+importado extrato bancário(46) recebimento de guias
+6.028,89
+(0,00)
+total da rec/desp:
+93.856,60
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+116.912,85
+00014
+07/12/2022
+7.128,97
+0,00
+124.041,82
+importado extrato bancário(46) ted-crédito em conta
+7.128,97
+(0,00)
+total da rec/desp:
+124.041,82
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.164,72)
+00015
+07/12/2022
+0,00
+(12,10)
+(8.176,82)
+importado extrato bancário(46) tarifa guia c/cód barras
+00016
+07/12/2022
+0,00
+(43,20)
+(8.220,02)
+importado extrato bancário(46) tarifa guia c/cód barras
+00017
+07/12/2022
+0,00
+(3,24)
+(8.223,26)
+importado extrato bancário(46) tarifa guia c/cód barras
+00018
+07/12/2022
+0,00
+(158,36)
+(8.381,62)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(216,90)
+total da rec/desp:
+(8.381,62)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(752,11)
+00019
+07/12/2022
+0,00
+(11,00)
+(763,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00020
+07/12/2022
+0,00
+(11,00)
+(774,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 7 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+00021
+07/12/2022
+0,00
+(11,00)
+(785,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00022
+07/12/2022
+0,00
+(11,00)
+(796,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00023
+07/12/2022
+0,00
+(11,00)
+(807,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00024
+07/12/2022
+0,00
+(11,00)
+(818,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00025
+07/12/2022
+0,00
+(11,00)
+(829,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00026
+07/12/2022
+0,00
+(11,00)
+(840,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00027
+07/12/2022
+0,00
+(11,00)
+(851,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00028
+07/12/2022
+0,00
+(11,00)
+(862,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+0,00
+(110,00)
+total da rec/desp:
+(862,11)
+rec/desp:
+401 - repasse operador
+saldo anterior:
+(22.572,00)
+00003
+07/12/2022
+0,00
+(288,00)
+(22.860,00)
+pagamento referente ao repasse para comunidade de 
+cristal do mês 11/2022
+00001
+07/12/2022
+0,00
+(888,00)
+(23.748,00)
+pagamento referente ao repasse para comunidade de 
+lagoa do maciel do mês 11/2023
+00004
+07/12/2022
+0,00
+(552,00)
+(24.300,00)
+pagamento referente ao repasse para comunidade de 
+conceição do mês 11/2022
+00005
+07/12/2022
+0,00
+(1.440,00)
+(25.740,00)
+pagamento referente ao repasse para comunidade de 
+paulista do mês 11/2022
+00006
+07/12/2022
+0,00
+(1.374,00)
+(27.114,00)
+pagamento referente ao repasse para comunidade de 
+canafístula do mês 11/2022
+00009
+07/12/2022
+0,00
+(476,00)
+(27.590,00)
+pagamento referente ao repasse para comunidade de 
+são josé do mês 11/2022
+00010
+07/12/2022
+0,00
+(190,00)
+(27.780,00)
+pagamento referente ao repasse para comunidade de 
+pajeú do botuquara do mês 11/2022
+00011
+07/12/2022
+0,00
+(552,00)
+(28.332,00)
+pagamento referente ao repasse para comunidade de 
+guariti do mês 11/2022
+00012
+07/12/2022
+0,00
+(141,00)
+(28.473,00)
+pagamento referente ao repasse para comunidade de 
+lagoa clara do mês 11/2022
+0,00
+(5.901,00)
+total da rec/desp:
+(28.473,00)
+rec/desp:
+402 - repasse taxa administração
+saldo anterior:
+(8.881,50)
+00002
+07/12/2022
+0,00
+(36,00)
+(8.917,50)
+pagamento referente ao repasse para comunidade de 
+cristal do mês 11/2022
+00007
+07/12/2022
+0,00
+(78,00)
+(8.995,50)
+pagamento referente ao repasse para comunidade de 
+vereda do toco do mês 11/2022
+00008
+07/12/2022
+0,00
+(1.187,50)
+(10.183,00)
+pagamento referente ao repasse para comunidade de 
+lagoa dos patos do mês 11/2022
+00001
+07/12/2022
+0,00
+(296,00)
+(10.479,00)
+pagamento referente ao repasse para comunidade de 
+lagoa do maciel do mês 11/2023
+00004
+07/12/2022
+0,00
+(184,00)
+(10.663,00)
+pagamento referente ao repasse para comunidade de 
+conceição do mês 11/2022
+00005
+07/12/2022
+0,00
+(288,00)
+(10.951,00)
+pagamento referente ao repasse para comunidade de 
+paulista do mês 11/2022
+00006
+07/12/2022
+0,00
+(137,50)
+(11.088,50)
+pagamento referente ao repasse para comunidade de 
+canafístula do mês 11/2022
+00009
+07/12/2022
+0,00
+(68,00)
+(11.156,50)
+pagamento referente ao repasse para comunidade de 
+são josé do mês 11/2022
+00010
+07/12/2022
+0,00
+(57,00)
+(11.213,50)
+pagamento referente ao repasse para comunidade de 
+pajeú do botuquara do mês 11/2022
+00011
+07/12/2022
+0,00
+(184,00)
+(11.397,50)
+pagamento referente ao repasse para comunidade de 
+guariti do mês 11/2022
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 8 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+00012
+07/12/2022
+0,00
+(47,00)
+(11.444,50)
+pagamento referente ao repasse para comunidade de 
+lagoa clara do mês 11/2022
+0,00
+(2.563,00)
+total da rec/desp:
+(11.444,50)
+rec/desp:
+403 - repasse energia
+saldo anterior:
+(30.591,65)
+00004
+07/12/2022
+0,00
+(915,82)
+(31.507,47)
+pagamento referente ao repasse para comunidade de 
+conceição do mês 11/2022
+00006
+07/12/2022
+0,00
+(5.709,57)
+(37.217,04)
+pagamento referente ao repasse para comunidade de 
+canafístula do mês 11/2022
+00012
+07/12/2022
+0,00
+(562,91)
+(37.779,95)
+pagamento referente ao repasse para comunidade de 
+lagoa clara do mês 11/2022
+0,00
+(7.188,30)
+total da rec/desp:
+(37.779,95)
+data:
+08/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+93.856,60
+00004
+08/12/2022
+2.529,90
+0,00
+96.386,50
+importado extrato bancário(46) recebimento de guias
+2.529,90
+(0,00)
+total da rec/desp:
+96.386,50
+rec/desp:
+214 - serviços de terceiros de operação/abastecimento
+saldo anterior:
+(1.090,01)
+00002
+08/12/2022
+0,00
+(80,00)
+(1.170,01)
+recibo n°40 proveniente do fornecedor hugo 
+leonardo dos santos
+0,00
+(80,00)
+total da rec/desp:
+(1.170,01)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.381,62)
+00005
+08/12/2022
+0,00
+(1,10)
+(8.382,72)
+importado extrato bancário(46) tarifa guia c/cód barras
+00006
+08/12/2022
+0,00
+(14,40)
+(8.397,12)
+importado extrato bancário(46) tarifa guia c/cód barras
+00007
+08/12/2022
+0,00
+(8,64)
+(8.405,76)
+importado extrato bancário(46) tarifa guia c/cód barras
+00008
+08/12/2022
+0,00
+(82,39)
+(8.488,15)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(106,53)
+total da rec/desp:
+(8.488,15)
+rec/desp:
+303001 - combustível
+saldo anterior:
+(14.982,09)
+00003
+08/12/2022
+0,00
+(4.783,59)
+(19.765,68)
+pagamento referente a nota fiscal nº 12386 do 
+fornecedor elci farias do couto .
+0,00
+(4.783,59)
+total da rec/desp:
+(19.765,68)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(862,11)
+00009
+08/12/2022
+0,00
+(11,00)
+(873,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00010
+08/12/2022
+0,00
+(11,00)
+(884,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00011
+08/12/2022
+0,00
+(11,00)
+(895,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+0,00
+(33,00)
+total da rec/desp:
+(895,11)
+rec/desp:
+401 - repasse operador
+saldo anterior:
+(28.473,00)
+00001
+08/12/2022
+0,00
+(331,50)
+(28.804,50)
+pagamento referente ao repasse para comunidade de 
+malhada do juá do mês 11/2022
+0,00
+(331,50)
+total da rec/desp:
+(28.804,50)
+rec/desp:
+402 - repasse taxa administração
+saldo anterior:
+(11.444,50)
+00001
+08/12/2022
+0,00
+(102,00)
+(11.546,50)
+pagamento referente ao repasse para comunidade de 
+malhada do juá do mês 11/2022
+0,00
+(102,00)
+total da rec/desp:
+(11.546,50)
+data:
+09/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+96.386,50
+00012
+09/12/2022
+2.197,98
+0,00
+98.584,48
+importado extrato bancário(46) recebimento de guias
+2.197,98
+(0,00)
+total da rec/desp:
+98.584,48
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+124.041,82
+00013
+09/12/2022
+4.631,52
+0,00
+128.673,34
+importado extrato bancário(46) ted-crédito em conta
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 9 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+4.631,52
+(0,00)
+total da rec/desp:
+128.673,34
+rec/desp:
+213 - outros materiais
+saldo anterior:
+(1.546,74)
+00003
+09/12/2022
+0,00
+(20,00)
+(1.566,74)
+comprovante n° proveniente do fornecedor enilton 
+de magalhães
+0,00
+(20,00)
+total da rec/desp:
+(1.566,74)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.488,15)
+00014
+09/12/2022
+0,00
+(5,50)
+(8.493,65)
+importado extrato bancário(46) tarifa guia c/cód barras
+00015
+09/12/2022
+0,00
+(10,80)
+(8.504,45)
+importado extrato bancário(46) tarifa guia c/cód barras
+00016
+09/12/2022
+0,00
+(4,32)
+(8.508,77)
+importado extrato bancário(46) tarifa guia c/cód barras
+00017
+09/12/2022
+0,00
+(57,78)
+(8.566,55)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(78,40)
+total da rec/desp:
+(8.566,55)
+rec/desp:
+302015 - 13º salário
+saldo anterior:
+0,00
+00011
+09/12/2022
+0,00
+(308,05)
+(308,05)
+pagamento referente ao contracheque nº  do 
+colaborador katiene nunes xavier .
+0,00
+(308,05)
+total da rec/desp:
+(308,05)
+rec/desp:
+302018 - inss e irrf
+saldo anterior:
+(5.038,20)
+00004
+09/12/2022
+0,00
+(193,92)
+(5.232,12)
+boleto n° proveniente do fornecedor ministerio da 
+fazenda
+0,00
+(193,92)
+total da rec/desp:
+(5.232,12)
+rec/desp:
+305005 - prestação serviços pf
+saldo anterior:
+(30.025,20)
+00001
+09/12/2022
+0,00
+(20,00)
+(30.045,20)
+recibo n°47 proveniente do fornecedor julimar 
+santos silva
+0,00
+(20,00)
+total da rec/desp:
+(30.045,20)
+rec/desp:
+401 - repasse operador
+saldo anterior:
+(28.804,50)
+00001
+09/12/2022
+0,00
+(80,00)
+(28.884,50)
+pagamento referente ao repasse para comunidade de 
+jenipapo do mês 11/2022
+0,00
+(80,00)
+total da rec/desp:
+(28.884,50)
+rec/desp:
+402 - repasse taxa administração
+saldo anterior:
+(11.546,50)
+00001
+09/12/2022
+0,00
+(20,00)
+(11.566,50)
+pagamento referente ao repasse para comunidade de 
+jenipapo do mês 11/2022
+0,00
+(20,00)
+total da rec/desp:
+(11.566,50)
+data:
+12/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+98.584,48
+00005
+12/12/2022
+2.813,70
+0,00
+101.398,18
+importado extrato bancário(46) recebimento de guias
+2.813,70
+(0,00)
+total da rec/desp:
+101.398,18
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+128.673,34
+00006
+12/12/2022
+3.891,10
+0,00
+132.564,44
+importado extrato bancário(46) ted-crédito em conta
+3.891,10
+(0,00)
+total da rec/desp:
+132.564,44
+rec/desp:
+207 - equip. de bombeio
+saldo anterior:
+(3.289,53)
+00004
+12/12/2022
+0,00
+(1.378,91)
+(4.668,44)
+boleto n° proveniente do fornecedor franklin 
+electric industria de motobombas s.a.
+0,00
+(1.378,91)
+total da rec/desp:
+(4.668,44)
+rec/desp:
+214 - serviços de terceiros de operação/abastecimento
+saldo anterior:
+(1.170,01)
+00003
+12/12/2022
+0,00
+(210,00)
+(1.380,01)
+recibo n°55 proveniente do fornecedor erisvaldo 
+silva dias
+0,00
+(210,00)
+total da rec/desp:
+(1.380,01)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.566,55)
+00007
+12/12/2022
+0,00
+(5,50)
+(8.572,05)
+importado extrato bancário(46) tarifa guia c/cód barras
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 10 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+00008
+12/12/2022
+0,00
+(17,10)
+(8.589,15)
+importado extrato bancário(46) tarifa guia c/cód barras
+00009
+12/12/2022
+0,00
+(4,32)
+(8.593,47)
+importado extrato bancário(46) tarifa guia c/cód barras
+00010
+12/12/2022
+0,00
+(53,50)
+(8.646,97)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(80,42)
+total da rec/desp:
+(8.646,97)
+rec/desp:
+302012 - diarias
+saldo anterior:
+(9.440,00)
+00002
+12/12/2022
+0,00
+(18,00)
+(9.458,00)
+recibo n° proveniente do fornecedor paloma érica 
+bomfim carvalho
+00002
+12/12/2022
+0,00
+(960,00)
+(10.418,00)
+recibo n°93 proveniente do fornecedor lais carlos 
+boaventura santos
+00003
+12/12/2022
+0,00
+(80,00)
+(10.498,00)
+recibo n°95 proveniente do fornecedor tatiane 
+oliveira  cardoso
+00004
+12/12/2022
+0,00
+(1.400,00)
+(11.898,00)
+recibo n°89 proveniente do fornecedor renato dos 
+santos
+0,00
+(2.458,00)
+total da rec/desp:
+(11.898,00)
+rec/desp:
+303001 - combustível
+saldo anterior:
+(19.765,68)
+00001
+12/12/2022
+0,00
+(3.856,19)
+(23.621,87)
+pagamento referente a nota fiscal nº 12387 do 
+fornecedor elci farias do couto .
+0,00
+(3.856,19)
+total da rec/desp:
+(23.621,87)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(895,11)
+00011
+12/12/2022
+0,00
+(11,00)
+(906,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00012
+12/12/2022
+0,00
+(66,00)
+(972,11)
+importado extrato bancário(46) tarifa pacote de serviços
+0,00
+(77,00)
+total da rec/desp:
+(972,11)
+rec/desp:
+305005 - prestação serviços pf
+saldo anterior:
+(30.045,20)
+00002
+12/12/2022
+0,00
+(3.500,00)
+(33.545,20)
+recibo n°93 proveniente do fornecedor lais carlos 
+boaventura santos
+00003
+12/12/2022
+0,00
+(1.760,00)
+(35.305,20)
+recibo n°95 proveniente do fornecedor tatiane 
+oliveira  cardoso
+00004
+12/12/2022
+0,00
+(1.760,01)
+(37.065,21)
+recibo n°89 proveniente do fornecedor renato dos 
+santos
+0,00
+(7.020,01)
+total da rec/desp:
+(37.065,21)
+data:
+13/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+101.398,18
+00001
+13/12/2022
+1.629,60
+0,00
+103.027,78
+importado extrato bancário(46) recebimento de guias
+1.629,60
+(0,00)
+total da rec/desp:
+103.027,78
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+132.564,44
+00002
+13/12/2022
+2.149,63
+0,00
+134.714,07
+importado extrato bancário(46) ted-crédito em conta
+2.149,63
+(0,00)
+total da rec/desp:
+134.714,07
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.646,97)
+00003
+13/12/2022
+0,00
+(1,10)
+(8.648,07)
+importado extrato bancário(46) tarifa guia c/cód barras
+00004
+13/12/2022
+0,00
+(2,70)
+(8.650,77)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+13/12/2022
+0,00
+(5,40)
+(8.656,17)
+importado extrato bancário(46) tarifa guia c/cód barras
+00006
+13/12/2022
+0,00
+(49,22)
+(8.705,39)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(58,42)
+total da rec/desp:
+(8.705,39)
+data:
+14/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+103.027,78
+00001
+14/12/2022
+3.989,84
+0,00
+107.017,62
+importado extrato bancário(46) recebimento de guias
+3.989,84
+(0,00)
+total da rec/desp:
+107.017,62
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+134.714,07
+00002
+14/12/2022
+4.665,25
+0,00
+139.379,32
+importado extrato bancário(46) ted-crédito em conta
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 11 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+4.665,25
+(0,00)
+total da rec/desp:
+139.379,32
+rec/desp:
+217001 - transporte das contas
+saldo anterior:
+(250,00)
+00002
+14/12/2022
+0,00
+(35,00)
+(285,00)
+pagamento referente a nota fiscal nº 13065 do 
+fornecedor viacao novo horizonte ltda .
+00003
+14/12/2022
+0,00
+(35,00)
+(320,00)
+pagamento referente a nota fiscal nº 13068 do 
+fornecedor viacao novo horizonte ltda .
+00004
+14/12/2022
+0,00
+(35,00)
+(355,00)
+pagamento referente a nota fiscal nº 13063 do 
+fornecedor viacao novo horizonte ltda .
+00005
+14/12/2022
+0,00
+(35,00)
+(390,00)
+pagamento referente a nota fiscal nº 13064 do 
+fornecedor viacao novo horizonte ltda .
+00006
+14/12/2022
+0,00
+(35,00)
+(425,00)
+pagamento referente a nota fiscal nº 13062 do 
+fornecedor viacao novo horizonte ltda .
+0,00
+(175,00)
+total da rec/desp:
+(425,00)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.705,39)
+00003
+14/12/2022
+0,00
+(9,90)
+(8.715,29)
+importado extrato bancário(46) tarifa guia c/cód barras
+00004
+14/12/2022
+0,00
+(34,20)
+(8.749,49)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+14/12/2022
+0,00
+(2,16)
+(8.751,65)
+importado extrato bancário(46) tarifa guia c/cód barras
+00006
+14/12/2022
+0,00
+(87,74)
+(8.839,39)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(134,00)
+total da rec/desp:
+(8.839,39)
+rec/desp:
+301001 - material de expediente e escritório
+saldo anterior:
+(188.681,26)
+00001
+14/12/2022
+0,00
+(62,43)
+(188.743,69)
+recibo n°213674 proveniente do fornecedor embaelli 
+comercio de embalagens ltda
+00007
+14/12/2022
+0,00
+(96,60)
+(188.840,29)
+pagamento referente a nota fiscal nº 626620 do 
+fornecedor comercial aguiar santos ltda .
+0,00
+(159,03)
+total da rec/desp:
+(188.840,29)
+data:
+15/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+107.017,62
+00001
+15/12/2022
+1.700,58
+0,00
+108.718,20
+importado extrato bancário(46) recebimento de guias
+1.700,58
+(0,00)
+total da rec/desp:
+108.718,20
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+139.379,32
+00002
+15/12/2022
+1.122,47
+0,00
+140.501,79
+importado extrato bancário(46) ted-crédito em conta
+1.122,47
+(0,00)
+total da rec/desp:
+140.501,79
+rec/desp:
+217001 - transporte das contas
+saldo anterior:
+(425,00)
+00001
+15/12/2022
+0,00
+(40,00)
+(465,00)
+pagamento referente a nota fiscal nº 13071 do 
+fornecedor viacao novo horizonte ltda .
+0,00
+(40,00)
+total da rec/desp:
+(465,00)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.839,39)
+00003
+15/12/2022
+0,00
+(8,80)
+(8.848,19)
+importado extrato bancário(46) tarifa guia c/cód barras
+00004
+15/12/2022
+0,00
+(8,10)
+(8.856,29)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+15/12/2022
+0,00
+(2,16)
+(8.858,45)
+importado extrato bancário(46) tarifa guia c/cód barras
+00006
+15/12/2022
+0,00
+(38,52)
+(8.896,97)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(57,58)
+total da rec/desp:
+(8.896,97)
+rec/desp:
+302012 - diarias
+saldo anterior:
+(11.898,00)
+00001
+15/12/2022
+0,00
+(2.160,00)
+(14.058,00)
+recibo n°96 proveniente do fornecedor poliana 
+brandão machado
+0,00
+(2.160,00)
+total da rec/desp:
+(14.058,00)
+rec/desp:
+305005 - prestação serviços pf
+saldo anterior:
+(37.065,21)
+00001
+15/12/2022
+0,00
+(6.440,00)
+(43.505,21)
+recibo n°96 proveniente do fornecedor poliana 
+brandão machado
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 12 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+0,00
+(6.440,00)
+total da rec/desp:
+(43.505,21)
+data:
+16/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+108.718,20
+00003
+16/12/2022
+1.861,55
+0,00
+110.579,75
+importado extrato bancário(46) recebimento de guias
+1.861,55
+(0,00)
+total da rec/desp:
+110.579,75
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+140.501,79
+00004
+16/12/2022
+1.671,58
+0,00
+142.173,37
+importado extrato bancário(46) ted-crédito em conta
+1.671,58
+(0,00)
+total da rec/desp:
+142.173,37
+rec/desp:
+201 - produtos químicos
+saldo anterior:
+(5.446,00)
+00002
+16/12/2022
+0,00
+(5.446,00)
+(10.892,00)
+pagamento referente a nota fiscal nº 17660 do 
+fornecedor quimil industria e comercio s/a .
+0,00
+(5.446,00)
+total da rec/desp:
+(10.892,00)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.896,97)
+00005
+16/12/2022
+0,00
+(2,20)
+(8.899,17)
+importado extrato bancário(46) tarifa guia c/cód barras
+00006
+16/12/2022
+0,00
+(13,50)
+(8.912,67)
+importado extrato bancário(46) tarifa guia c/cód barras
+00007
+16/12/2022
+0,00
+(12,96)
+(8.925,63)
+importado extrato bancário(46) tarifa guia c/cód barras
+00008
+16/12/2022
+0,00
+(27,82)
+(8.953,45)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(56,48)
+total da rec/desp:
+(8.953,45)
+rec/desp:
+302012 - diarias
+saldo anterior:
+(14.058,00)
+00001
+16/12/2022
+0,00
+(1.440,00)
+(15.498,00)
+recibo n°94 proveniente do fornecedor daniel pereira 
+da silva
+0,00
+(1.440,00)
+total da rec/desp:
+(15.498,00)
+rec/desp:
+302013 - hospedagem e refeição
+saldo anterior:
+0,00
+00001
+16/12/2022
+0,00
+(29,00)
+(29,00)
+recibo n° proveniente do fornecedor bab´s 
+restaurante e pousada
+0,00
+(29,00)
+total da rec/desp:
+(29,00)
+rec/desp:
+303002 - manutenção de veiculos
+saldo anterior:
+(2.894,00)
+00001
+16/12/2022
+0,00
+(2.246,00)
+(5.140,00)
+pagamento referente a nota fiscal nº 2497 do 
+fornecedor pneus gomes ltda .
+0,00
+(2.246,00)
+total da rec/desp:
+(5.140,00)
+rec/desp:
+305005 - prestação serviços pf
+saldo anterior:
+(43.505,21)
+00001
+16/12/2022
+0,00
+(2.305,59)
+(45.810,80)
+recibo n°94 proveniente do fornecedor daniel pereira 
+da silva
+0,00
+(2.305,59)
+total da rec/desp:
+(45.810,80)
+data:
+17/12/2022
+rec/desp:
+214 - serviços de terceiros de operação/abastecimento
+saldo anterior:
+(1.380,01)
+00001
+17/12/2022
+0,00
+(70,00)
+(1.450,01)
+recibo n°52 proveniente do fornecedor janielson 
+custodio sousa
+0,00
+(70,00)
+total da rec/desp:
+(1.450,01)
+data:
+19/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+110.579,75
+00001
+19/12/2022
+1.328,18
+0,00
+111.907,93
+importado extrato bancário(46) recebimento de guias
+1.328,18
+(0,00)
+total da rec/desp:
+111.907,93
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(8.953,45)
+00002
+19/12/2022
+0,00
+(4,40)
+(8.957,85)
+importado extrato bancário(46) tarifa guia c/cód barras
+00003
+19/12/2022
+0,00
+(18,90)
+(8.976,75)
+importado extrato bancário(46) tarifa guia c/cód barras
+00004
+19/12/2022
+0,00
+(1,08)
+(8.977,83)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+19/12/2022
+0,00
+(3,24)
+(8.981,07)
+importado extrato bancário(46) tarifa guia c/cód barras
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 13 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+00006
+19/12/2022
+0,00
+(22,47)
+(9.003,54)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(50,09)
+total da rec/desp:
+(9.003,54)
+rec/desp:
+301001 - material de expediente e escritório
+saldo anterior:
+(188.840,29)
+00001
+19/12/2022
+0,00
+(206,91)
+(189.047,20)
+recibo n° proveniente do fornecedor elza vieira dos 
+santos
+0,00
+(206,91)
+total da rec/desp:
+(189.047,20)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(972,11)
+00007
+19/12/2022
+0,00
+(1,00)
+(973,11)
+importado extrato bancário(46) tarifa pix enviado
+0,00
+(1,00)
+total da rec/desp:
+(973,11)
+data:
+20/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+111.907,93
+00001
+20/12/2022
+2.338,86
+0,00
+114.246,79
+importado extrato bancário(46) recebimento de guias
+2.338,86
+(0,00)
+total da rec/desp:
+114.246,79
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+142.173,37
+00002
+20/12/2022
+3.053,50
+0,00
+145.226,87
+importado extrato bancário(46) ted-crédito em conta
+00003
+20/12/2022
+4.809,99
+0,00
+150.036,86
+importado extrato bancário(46) ted-crédito em conta
+7.863,49
+(0,00)
+total da rec/desp:
+150.036,86
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(9.003,54)
+00004
+20/12/2022
+0,00
+(2,20)
+(9.005,74)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+20/12/2022
+0,00
+(25,20)
+(9.030,94)
+importado extrato bancário(46) tarifa guia c/cód barras
+00006
+20/12/2022
+0,00
+(1,08)
+(9.032,02)
+importado extrato bancário(46) tarifa guia c/cód barras
+00007
+20/12/2022
+0,00
+(2,16)
+(9.034,18)
+importado extrato bancário(46) tarifa guia c/cód barras
+00008
+20/12/2022
+0,00
+(65,27)
+(9.099,45)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(95,91)
+total da rec/desp:
+(9.099,45)
+rec/desp:
+301001 - material de expediente e escritório
+saldo anterior:
+(189.047,20)
+00001
+20/12/2022
+0,00
+(114,95)
+(189.162,15)
+recibo n° proveniente do fornecedor elza vieira dos 
+santos
+0,00
+(114,95)
+total da rec/desp:
+(189.162,15)
+data:
+21/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+114.246,79
+00002
+21/12/2022
+3.151,90
+0,00
+117.398,69
+importado extrato bancário(46) recebimento de guias
+3.151,90
+(0,00)
+total da rec/desp:
+117.398,69
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+150.036,86
+00003
+21/12/2022
+5.769,50
+0,00
+155.806,36
+importado extrato bancário(46) ted-crédito em conta
+5.769,50
+(0,00)
+total da rec/desp:
+155.806,36
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(9.099,45)
+00004
+21/12/2022
+0,00
+(8,80)
+(9.108,25)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+21/12/2022
+0,00
+(46,80)
+(9.155,05)
+importado extrato bancário(46) tarifa guia c/cód barras
+00006
+21/12/2022
+0,00
+(9,72)
+(9.164,77)
+importado extrato bancário(46) tarifa guia c/cód barras
+00007
+21/12/2022
+0,00
+(54,57)
+(9.219,34)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(119,89)
+total da rec/desp:
+(9.219,34)
+rec/desp:
+305005 - prestação serviços pf
+saldo anterior:
+(45.810,80)
+00001
+21/12/2022
+0,00
+(30,00)
+(45.840,80)
+recibo n°53 proveniente do fornecedor juarez dos 
+santos silva
+0,00
+(30,00)
+total da rec/desp:
+(45.840,80)
+rec/desp:
+401 - repasse operador
+saldo anterior:
+(28.884,50)
+00001
+21/12/2022
+0,00
+(693,00)
+(29.577,50)
+pagamento referente ao repasse para comunidade de 
+várzea suja do mês 11/2022
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 14 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+0,00
+(693,00)
+total da rec/desp:
+(29.577,50)
+rec/desp:
+402 - repasse taxa administração
+saldo anterior:
+(11.566,50)
+00001
+21/12/2022
+0,00
+(99,00)
+(11.665,50)
+pagamento referente ao repasse para comunidade de 
+várzea suja do mês 11/2022
+0,00
+(99,00)
+total da rec/desp:
+(11.665,50)
+data:
+22/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+117.398,69
+00005
+22/12/2022
+3.476,54
+0,00
+120.875,23
+importado extrato bancário(46) recebimento de guias
+3.476,54
+(0,00)
+total da rec/desp:
+120.875,23
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+155.806,36
+00006
+22/12/2022
+5.273,26
+0,00
+161.079,62
+importado extrato bancário(46) ted-crédito em conta
+5.273,26
+(0,00)
+total da rec/desp:
+161.079,62
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(9.219,34)
+00007
+22/12/2022
+0,00
+(7,70)
+(9.227,04)
+importado extrato bancário(46) tarifa guia c/cód barras
+00008
+22/12/2022
+0,00
+(26,10)
+(9.253,14)
+importado extrato bancário(46) tarifa guia c/cód barras
+00009
+22/12/2022
+0,00
+(3,24)
+(9.256,38)
+importado extrato bancário(46) tarifa guia c/cód barras
+00010
+22/12/2022
+0,00
+(82,39)
+(9.338,77)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(119,43)
+total da rec/desp:
+(9.338,77)
+rec/desp:
+301001 - material de expediente e escritório
+saldo anterior:
+(189.162,15)
+00001
+22/12/2022
+0,00
+(183,92)
+(189.346,07)
+recibo n° proveniente do fornecedor elza vieira dos 
+santos
+00002
+22/12/2022
+0,00
+(439,20)
+(189.785,27)
+boleto n° proveniente do fornecedor amazon 
+servicos de varejo do brasil ltda.
+00001
+22/12/2022
+0,00
+(8.600,00)
+(198.385,27)
+pagamento referente a nota fiscal nº 371769 do 
+fornecedor golba informatica ltda .
+00002
+22/12/2022
+0,00
+(27.190,00)
+(225.575,27)
+pagamento referente a nota fiscal nº 2383 do 
+fornecedor golba informatica ltda .
+0,00
+(36.413,12)
+total da rec/desp:
+(225.575,27)
+rec/desp:
+301002 - água
+saldo anterior:
+(472,44)
+00003
+22/12/2022
+0,00
+(111,20)
+(583,64)
+boleto n°12/2022 proveniente do fornecedor empresa 
+baiana de aguas e saneamento sa
+00004
+22/12/2022
+0,00
+(109,22)
+(692,86)
+boleto n°01/2022 proveniente do fornecedor empresa 
+baiana de aguas e saneamento sa
+0,00
+(220,42)
+total da rec/desp:
+(692,86)
+rec/desp:
+304008 - outras despesas
+saldo anterior:
+(117,60)
+00001
+22/12/2022
+0,00
+(500,00)
+(617,60)
+pagamento referente a nota fiscal nº 142 do 
+fornecedor emporio pizzaria ltda .
+0,00
+(500,00)
+total da rec/desp:
+(617,60)
+data:
+23/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+120.875,23
+00001
+23/12/2022
+2.233,19
+0,00
+123.108,42
+importado extrato bancário(46) recebimento de guias
+2.233,19
+(0,00)
+total da rec/desp:
+123.108,42
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+161.079,62
+00002
+23/12/2022
+4.343,86
+0,00
+165.423,48
+importado extrato bancário(46) ted-crédito em conta
+4.343,86
+(0,00)
+total da rec/desp:
+165.423,48
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(9.338,77)
+00003
+23/12/2022
+0,00
+(6,60)
+(9.345,37)
+importado extrato bancário(46) tarifa guia c/cód barras
+00004
+23/12/2022
+0,00
+(23,40)
+(9.368,77)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+23/12/2022
+0,00
+(1,08)
+(9.369,85)
+importado extrato bancário(46) tarifa guia c/cód barras
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 15 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+00006
+23/12/2022
+0,00
+(8,64)
+(9.378,49)
+importado extrato bancário(46) tarifa guia c/cód barras
+00007
+23/12/2022
+0,00
+(41,73)
+(9.420,22)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(81,45)
+total da rec/desp:
+(9.420,22)
+data:
+26/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+123.108,42
+00016
+26/12/2022
+2.579,47
+0,00
+125.687,89
+importado extrato bancário(46) recebimento de guias
+2.579,47
+(0,00)
+total da rec/desp:
+125.687,89
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+165.423,48
+00017
+26/12/2022
+5.058,17
+0,00
+170.481,65
+importado extrato bancário(46) ted-crédito em conta
+5.058,17
+(0,00)
+total da rec/desp:
+170.481,65
+rec/desp:
+103001 - convênio 108-20
+saldo anterior:
+430.844,38
+00001
+26/12/2022
+146.342,14
+0,00
+577.186,52
+00002
+26/12/2022
+53.657,86
+0,00
+630.844,38
+200.000,00
+(0,00)
+total da rec/desp:
+630.844,38
+rec/desp:
+213 - outros materiais
+saldo anterior:
+(1.566,74)
+00001
+26/12/2022
+0,00
+(12,00)
+(1.578,74)
+recibo n° proveniente do fornecedor agro forte
+00004
+26/12/2022
+0,00
+(36,00)
+(1.614,74)
+recibo n° proveniente do fornecedor claudinei 
+magalhães cruz
+0,00
+(48,00)
+total da rec/desp:
+(1.614,74)
+rec/desp:
+214 - serviços de terceiros de operação/abastecimento
+saldo anterior:
+(1.450,01)
+00002
+26/12/2022
+0,00
+(70,00)
+(1.520,01)
+recibo n°54 proveniente do fornecedor robirvania s l 
+silva
+00003
+26/12/2022
+0,00
+(70,00)
+(1.590,01)
+recibo n°58 proveniente do fornecedor willian meira 
+bispo dos santos
+0,00
+(140,00)
+total da rec/desp:
+(1.590,01)
+rec/desp:
+216 - materiais diversos de eletrica
+saldo anterior:
+(8.644,09)
+00015
+26/12/2022
+0,00
+(2.625,00)
+(11.269,09)
+pagamento referente a nota fiscal nº 5127 do 
+fornecedor j. marcal campos farias & cia ltda .
+0,00
+(2.625,00)
+total da rec/desp:
+(11.269,09)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(9.420,22)
+00018
+26/12/2022
+0,00
+(5,50)
+(9.425,72)
+importado extrato bancário(46) tarifa guia c/cód barras
+00019
+26/12/2022
+0,00
+(23,40)
+(9.449,12)
+importado extrato bancário(46) tarifa guia c/cód barras
+00020
+26/12/2022
+0,00
+(3,24)
+(9.452,36)
+importado extrato bancário(46) tarifa guia c/cód barras
+00021
+26/12/2022
+0,00
+(83,46)
+(9.535,82)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(115,60)
+total da rec/desp:
+(9.535,82)
+rec/desp:
+301001 - material de expediente e escritório
+saldo anterior:
+(225.575,27)
+00005
+26/12/2022
+0,00
+(264,00)
+(225.839,27)
+pagamento referente a nota fiscal nº 64301322 do 
+fornecedor alan freire lopes de caetite .
+0,00
+(264,00)
+total da rec/desp:
+(225.839,27)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(973,11)
+00022
+26/12/2022
+0,00
+(2,00)
+(975,11)
+importado extrato bancário(46) tarifa pix enviado
+00023
+26/12/2022
+0,00
+(11,00)
+(986,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+00024
+26/12/2022
+0,00
+(11,00)
+(997,11)
+importado extrato bancário(46) tar doc/ted eletrônico
+0,00
+(24,00)
+total da rec/desp:
+(997,11)
+data:
+27/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+125.687,89
+00015
+27/12/2022
+2.937,72
+0,00
+128.625,61
+importado extrato bancário(46) recebimento de guias
+2.937,72
+(0,00)
+total da rec/desp:
+128.625,61
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 16 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+170.481,65
+00016
+27/12/2022
+6.108,87
+0,00
+176.590,52
+importado extrato bancário(46) ted-crédito em conta
+6.108,87
+(0,00)
+total da rec/desp:
+176.590,52
+rec/desp:
+204 - conexões
+saldo anterior:
+(6.998,41)
+00001
+27/12/2022
+0,00
+(134,82)
+(7.133,23)
+pagamento referente a nota fiscal nº 27334 do 
+fornecedor v.s. distribuidora ltda. .
+0,00
+(134,82)
+total da rec/desp:
+(7.133,23)
+rec/desp:
+206 - outros materiais hidráulicos
+saldo anterior:
+(29.409,10)
+00014
+27/12/2022
+0,00
+(13.323,38)
+(42.732,48)
+boleto n° proveniente do fornecedor lao industria 
+ltda
+0,00
+(13.323,38)
+total da rec/desp:
+(42.732,48)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(9.535,82)
+00018
+27/12/2022
+0,00
+(9,90)
+(9.545,72)
+importado extrato bancário(46) tarifa guia c/cód barras
+00019
+27/12/2022
+0,00
+(16,20)
+(9.561,92)
+importado extrato bancário(46) tarifa guia c/cód barras
+00020
+27/12/2022
+0,00
+(4,32)
+(9.566,24)
+importado extrato bancário(46) tarifa guia c/cód barras
+00021
+27/12/2022
+0,00
+(86,67)
+(9.652,91)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(117,09)
+total da rec/desp:
+(9.652,91)
+rec/desp:
+301001 - material de expediente e escritório
+saldo anterior:
+(225.839,27)
+00001
+27/12/2022
+0,00
+(24,00)
+(225.863,27)
+recibo n° proveniente do fornecedor alan freire 
+lopes de caetite
+0,00
+(24,00)
+total da rec/desp:
+(225.863,27)
+rec/desp:
+301006 - telefone
+saldo anterior:
+(60,00)
+00002
+27/12/2022
+0,00
+(15,00)
+(75,00)
+comprovante n° proveniente do fornecedor vivo s.a.
+0,00
+(15,00)
+total da rec/desp:
+(75,00)
+rec/desp:
+302012 - diarias
+saldo anterior:
+(15.498,00)
+00003
+27/12/2022
+0,00
+(300,00)
+(15.798,00)
+comprovante n° proveniente do fornecedor paloma 
+érica bomfim carvalho
+0,00
+(300,00)
+total da rec/desp:
+(15.798,00)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(997,11)
+00022
+27/12/2022
+0,00
+(9,90)
+(1.007,01)
+importado extrato bancário(46) tarifa pix enviado
+0,00
+(9,90)
+total da rec/desp:
+(1.007,01)
+rec/desp:
+304016 - obra central
+saldo anterior:
+(4.951,10)
+00001
+27/12/2022
+0,00
+(45.000,00)
+(49.951,10)
+pagamento referente a nota fiscal nº 453 do 
+fornecedor inova vidracaria ltda .
+0,00
+(45.000,00)
+total da rec/desp:
+(49.951,10)
+rec/desp:
+304022 - ted devolvida - despesa
+saldo anterior:
+(8.067,50)
+00013
+27/12/2022
+0,00
+(700,00)
+(8.767,50)
+0,00
+(700,00)
+total da rec/desp:
+(8.767,50)
+rec/desp:
+501 - estornos
+saldo anterior:
+8.067,50
+00017
+27/12/2022
+700,00
+0,00
+8.767,50
+importado extrato bancário(46) pix - rejeitado
+700,00
+(0,00)
+total da rec/desp:
+8.767,50
+data:
+28/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+128.625,61
+00014
+28/12/2022
+4.757,78
+0,00
+133.383,39
+importado extrato bancário(46) recebimento de guias
+4.757,78
+(0,00)
+total da rec/desp:
+133.383,39
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+176.590,52
+00016
+28/12/2022
+5.405,37
+0,00
+181.995,89
+importado extrato bancário(46) ted-crédito em conta
+5.405,37
+(0,00)
+total da rec/desp:
+181.995,89
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 17 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+rec/desp:
+103001 - convênio 108-20
+saldo anterior:
+630.844,38
+00003
+28/12/2022
+3.370,66
+0,00
+634.215,04
+00004
+28/12/2022
+8.178,11
+0,00
+642.393,15
+00005
+28/12/2022
+9.136,04
+0,00
+651.529,19
+00006
+28/12/2022
+1.102,58
+0,00
+652.631,77
+00007
+28/12/2022
+591,02
+0,00
+653.222,79
+00008
+28/12/2022
+1.660,50
+0,00
+654.883,29
+24.038,91
+(0,00)
+total da rec/desp:
+654.883,29
+rec/desp:
+204 - conexões
+saldo anterior:
+(7.133,23)
+00002
+28/12/2022
+0,00
+(473,10)
+(7.606,33)
+pagamento referente a nota fiscal nº 1702 do 
+fornecedor mercado pago instituicao de pagamento 
+ltda .
+00001
+28/12/2022
+0,00
+(1.200,00)
+(8.806,33)
+pagamento referente a nota fiscal nº 1593 do 
+fornecedor irrigadantas ltda .
+0,00
+(1.673,10)
+total da rec/desp:
+(8.806,33)
+rec/desp:
+206 - outros materiais hidráulicos
+saldo anterior:
+(42.732,48)
+00001
+28/12/2022
+0,00
+(700,00)
+(43.432,48)
+pagamento referente a nota fiscal nº 1593 do 
+fornecedor irrigadantas ltda .
+0,00
+(700,00)
+total da rec/desp:
+(43.432,48)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(9.652,91)
+00017
+28/12/2022
+0,00
+(13,20)
+(9.666,11)
+importado extrato bancário(46) tarifa guia c/cód barras
+00018
+28/12/2022
+0,00
+(39,60)
+(9.705,71)
+importado extrato bancário(46) tarifa guia c/cód barras
+00019
+28/12/2022
+0,00
+(19,44)
+(9.725,15)
+importado extrato bancário(46) tarifa guia c/cód barras
+00020
+28/12/2022
+0,00
+(116,63)
+(9.841,78)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(188,87)
+total da rec/desp:
+(9.841,78)
+rec/desp:
+301001 - material de expediente e escritório
+saldo anterior:
+(225.863,27)
+00002
+28/12/2022
+0,00
+(80.997,90)
+(306.861,17)
+pagamento referente a nota fiscal nº 359824 do 
+fornecedor ideal pre moldados e construtora ltda .
+0,00
+(80.997,90)
+total da rec/desp:
+(306.861,17)
+rec/desp:
+303001 - combustível
+saldo anterior:
+(23.621,87)
+00003
+28/12/2022
+0,00
+(244,02)
+(23.865,89)
+pagamento referente a nota fiscal nº 3878 do 
+fornecedor comercial de derivados de petroleo 
+souza ltda .
+0,00
+(244,02)
+total da rec/desp:
+(23.865,89)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(1.007,01)
+00021
+28/12/2022
+0,00
+(11,00)
+(1.018,01)
+importado extrato bancário(46) tar doc/ted eletrônico
+00022
+28/12/2022
+0,00
+(11,00)
+(1.029,01)
+importado extrato bancário(46) tar doc/ted eletrônico
+0,00
+(22,00)
+total da rec/desp:
+(1.029,01)
+rec/desp:
+304016 - obra central
+saldo anterior:
+(49.951,10)
+00001
+28/12/2022
+0,00
+(172.194,08)
+(222.145,18)
+pagamento referente a nota fiscal nº 373063 do 
+fornecedor ocr construcoes e engenharia ltda .
+0,00
+(172.194,08)
+total da rec/desp:
+(222.145,18)
+rec/desp:
+304022 - ted devolvida - despesa
+saldo anterior:
+(8.767,50)
+00013
+28/12/2022
+0,00
+(549,00)
+(9.316,50)
+0,00
+(549,00)
+total da rec/desp:
+(9.316,50)
+rec/desp:
+501 - estornos
+saldo anterior:
+8.767,50
+00015
+28/12/2022
+549,00
+0,00
+9.316,50
+importado extrato bancário(46) ted devolvida
+549,00
+(0,00)
+total da rec/desp:
+9.316,50
+terça-feira, 9 de janeiro de 2024
+continua...
+ 15:53:42
+razão
+pag.: 18 de 18
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+regime: caixa
+período: 01/12/2022 até 31/12/2022
+considerar saldo anterior a partir dos movimentos de: 01/11/2022
+estabelecimento(s): central de associacoes comunitarias caetite
+receita(s)/despesa(s): (diversos)
+conta financeira(s):(diversos)
+data
+seq.
+histórico
+entrada
+saída
+saldo
+data:
+29/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+133.383,39
+00005
+29/12/2022
+5.031,87
+0,00
+138.415,26
+importado extrato bancário(46) recebimento de guias
+5.031,87
+(0,00)
+total da rec/desp:
+138.415,26
+rec/desp:
+101016 - receita coelba
+saldo anterior:
+181.995,89
+00006
+29/12/2022
+4.207,16
+0,00
+186.203,05
+importado extrato bancário(46) ted-crédito em conta
+4.207,16
+(0,00)
+total da rec/desp:
+186.203,05
+rec/desp:
+216 - materiais diversos de eletrica
+saldo anterior:
+(11.269,09)
+00004
+29/12/2022
+0,00
+(549,00)
+(11.818,09)
+pagamento referente a nota fiscal nº 2073 do 
+fornecedor comel - comercio materiais eletricos 
+ltda .
+0,00
+(549,00)
+total da rec/desp:
+(11.818,09)
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(9.841,78)
+00007
+29/12/2022
+0,00
+(13,20)
+(9.854,98)
+importado extrato bancário(46) tarifa guia c/cód barras
+00008
+29/12/2022
+0,00
+(45,90)
+(9.900,88)
+importado extrato bancário(46) tarifa guia c/cód barras
+00009
+29/12/2022
+0,00
+(16,20)
+(9.917,08)
+importado extrato bancário(46) tarifa guia c/cód barras
+00010
+29/12/2022
+0,00
+(140,17)
+(10.057,25)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(215,47)
+total da rec/desp:
+(10.057,25)
+rec/desp:
+302001 - salários
+saldo anterior:
+(2.494,70)
+00001
+29/12/2022
+0,00
+(1.121,00)
+(3.615,70)
+pagamento referente ao contracheque nº 12/25022 do 
+colaborador katiene nunes xavier .
+0,00
+(1.121,00)
+total da rec/desp:
+(3.615,70)
+rec/desp:
+304009 - tarifas bancárias
+saldo anterior:
+(1.029,01)
+00011
+29/12/2022
+0,00
+(11,00)
+(1.040,01)
+importado extrato bancário(46) tar doc/ted eletrônico
+00012
+29/12/2022
+0,00
+(11,00)
+(1.051,01)
+importado extrato bancário(46) tar doc/ted eletrônico
+0,00
+(22,00)
+total da rec/desp:
+(1.051,01)
+rec/desp:
+305005 - prestação serviços pf
+saldo anterior:
+(45.840,80)
+00002
+29/12/2022
+0,00
+(1.212,00)
+(47.052,80)
+pagamento referente ao contracheque nº 12/2022 do 
+colaborador paloma érica bomfim carvalho .
+00003
+29/12/2022
+0,00
+(1.212,00)
+(48.264,80)
+pagamento referente ao contracheque nº 12/2022 do 
+colaborador carolaine cotrim xavier .
+0,00
+(2.424,00)
+total da rec/desp:
+(48.264,80)
+data:
+30/12/2022
+rec/desp:
+101015 - receita banco do brasil
+saldo anterior:
+138.415,26
+00001
+30/12/2022
+6.435,15
+0,00
+144.850,41
+importado extrato bancário(46) recebimento de guias
+6.435,15
+(0,00)
+total da rec/desp:
+144.850,41
+rec/desp:
+217003 - comissão de agentes credenciados
+saldo anterior:
+(10.057,25)
+00002
+30/12/2022
+0,00
+(7,70)
+(10.064,95)
+importado extrato bancário(46) tarifa guia c/cód barras
+00003
+30/12/2022
+0,00
+(34,20)
+(10.099,15)
+importado extrato bancário(46) tarifa guia c/cód barras
+00004
+30/12/2022
+0,00
+(16,20)
+(10.115,35)
+importado extrato bancário(46) tarifa guia c/cód barras
+00005
+30/12/2022
+0,00
+(148,73)
+(10.264,08)
+importado extrato bancário(46) tarifa guia c/barra coban
+0,00
+(206,83)
+total da rec/desp:
+(10.264,08)
+terça-feira, 9 de janeiro de 2024
+fim
+ 15:53:42

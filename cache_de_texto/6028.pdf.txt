@@ -1,0 +1,2422 @@
+movimento caixa/bancos
+01/11/2024
+1
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/09/2024
+período:
+30/09/2024
+a
+folha:
+avul.
+data:
+hora: 13:40:15
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+caixa
+31/08/2024
+0,00
+0,00
+4.615,61
+saldo nesta data
+0
+02/09/2024
+4
+72,00
+0,00
+4.687,61
+recebimento em cartao(debito) filial : 1 pedido : 9495 / nfce destino 1 -
+consumidor final
+nao
+1
+9495/nfce-1
+02/09/2024
+82
+0,00
+72,00
+4.615,61
+contra partida cartao(debito) filial : 1 pedido : 9495 / nfce destino 1 -
+consumidor final
+nao
+2
+9495/nfce-1
+02/09/2024
+11
+35,00
+0,00
+4.650,61
+recebimento em pix filial : 1 pedido : 9496 / nfce destino 1 - consumidor
+final
+nao
+3
+9496/nfce-1
+02/09/2024
+83
+0,00
+35,00
+4.615,61
+contra partida pix filial : 1 pedido : 9496 / nfce destino 1 - consumidor final
+nao
+4
+9496/nfce-1
+02/09/2024
+4
+65,90
+0,00
+4.681,51
+recebimento em cartao(debito) filial : 1 pedido : 9497 / nfce destino 1 -
+consumidor final
+nao
+5
+9497/nfce-1
+02/09/2024
+82
+0,00
+65,90
+4.615,61
+contra partida cartao(debito) filial : 1 pedido : 9497 / nfce destino 1 -
+consumidor final
+nao
+6
+9497/nfce-1
+02/09/2024
+4
+45,00
+0,00
+4.660,61
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9498 / nfce
+destino 1 - consumidor final
+nao
+7
+9498/nfce-1
+02/09/2024
+82
+0,00
+45,00
+4.615,61
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9498 / nfce
+destino 1 - consumidor final
+nao
+8
+9498/nfce-1
+02/09/2024
+1
+8,10
+0,00
+4.623,71
+recebimento em dinheiro filial : 1 pedido : 9499 / nfce destino 1 -
+consumidor final vlr receb. = 8,10
+nao
+9
+9499/nfce-1
+02/09/2024
+1
+47,00
+0,00
+4.670,71
+recebimento em dinheiro filial : 1 pedido : 9500 / nfce destino 1 -
+consumidor final vlr receb. = 47,00
+nao
+10
+9500/nfce-1
+02/09/2024
+4
+20,00
+0,00
+4.690,71
+recebimento em cartao(debito) filial : 1 pedido : 9501 / nfce destino 636 -
+ana c. c. c. souza ltda
+nao
+11
+9501/nfce-636
+02/09/2024
+82
+0,00
+20,00
+4.670,71
+contra partida cartao(debito) filial : 1 pedido : 9501 / nfce destino 636 -
+ana c. c. c. souza ltda
+nao
+12
+9501/nfce-636
+02/09/2024
+4
+22,00
+0,00
+4.692,71
+recebimento em cartao(debito) filial : 1 pedido : 9502 / nfce destino 1 -
+consumidor final
+nao
+13
+9502/nfce-1
+02/09/2024
+82
+0,00
+22,00
+4.670,71
+contra partida cartao(debito) filial : 1 pedido : 9502 / nfce destino 1 -
+consumidor final
+nao
+14
+9502/nfce-1
+02/09/2024
+1
+18,00
+0,00
+4.688,71
+recebimento em dinheiro filial : 1 pedido : 9503 / nfce destino 1 -
+consumidor final vlr receb. = 18,00
+nao
+15
+9503/nfce-1
+02/09/2024
+4
+43,00
+0,00
+4.731,71
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9504 / nfce
+destino 1 - consumidor final
+nao
+16
+9504/nfce-1
+02/09/2024
+82
+0,00
+43,00
+4.688,71
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9504 / nfce
+destino 1 - consumidor final
+nao
+17
+9504/nfce-1
+02/09/2024
+4
+8,81
+0,00
+4.697,52
+recebimento em cartao(debito) filial : 1 pedido : 9505 / nfce destino 1 -
+consumidor final
+nao
+18
+9505/nfce-1
+02/09/2024
+82
+0,00
+8,81
+4.688,71
+contra partida cartao(debito) filial : 1 pedido : 9505 / nfce destino 1 -
+consumidor final
+nao
+19
+9505/nfce-1
+02/09/2024
+11
+19,00
+0,00
+4.707,71
+recebimento em pix filial : 1 pedido : 9506 / nfce destino 1 - consumidor
+final
+nao
+20
+9506/nfce-1
+02/09/2024
+83
+0,00
+19,00
+4.688,71
+contra partida pix filial : 1 pedido : 9506 / nfce destino 1 - consumidor final
+nao
+21
+9506/nfce-1
+02/09/2024
+11
+98,00
+0,00
+4.786,71
+recebimento em pix filial : 1 pedido : 9507 / nfce destino 1 - consumidor
+final
+nao
+22
+9507/nfce-1
+02/09/2024
+83
+0,00
+98,00
+4.688,71
+contra partida pix filial : 1 pedido : 9507 / nfce destino 1 - consumidor final
+nao
+23
+9507/nfce-1
+02/09/2024
+4
+20,00
+0,00
+4.708,71
+recebimento em cartao(debito) filial : 1 pedido : 9508 / nfce destino 1 -
+consumidor final
+nao
+24
+9508/nfce-1
+02/09/2024
+82
+0,00
+20,00
+4.688,71
+contra partida cartao(debito) filial : 1 pedido : 9508 / nfce destino 1 -
+consumidor final
+nao
+25
+9508/nfce-1
+02/09/2024
+1
+22,00
+0,00
+4.710,71
+recebimento em dinheiro filial : 1 pedido : 9509 / nfce destino 1 -
+consumidor final vlr receb. = 22,00
+nao
+26
+9509/nfce-1
+02/09/2024
+1
+9,99
+0,00
+4.720,70
+recebimento em dinheiro filial : 1 pedido : 9510 / nfce destino 1 -
+consumidor final vlr receb. = 9,99
+nao
+27
+9510/nfce-1
+02/09/2024
+4
+18,00
+0,00
+4.738,70
+recebimento em cartao(debito) filial : 1 pedido : 9511 / nfce destino 1 -
+consumidor final
+nao
+28
+9511/nfce-1
+02/09/2024
+82
+0,00
+18,00
+4.720,70
+contra partida cartao(debito) filial : 1 pedido : 9511 / nfce destino 1 -
+consumidor final
+nao
+29
+9511/nfce-1
+02/09/2024
+11
+36,00
+0,00
+4.756,70
+recebimento em pix filial : 1 pedido : 9512 / nfce destino 1 - consumidor
+final
+nao
+30
+9512/nfce-1
+02/09/2024
+83
+0,00
+36,00
+4.720,70
+contra partida pix filial : 1 pedido : 9512 / nfce destino 1 - consumidor final
+nao
+31
+9512/nfce-1
+02/09/2024
+1
+5,00
+0,00
+4.725,70
+recebimento em dinheiro filial : 1 pedido : 9513 / nfce destino 1 -
+consumidor final vlr receb. = 5,00
+nao
+32
+9513/nfce-1
+02/09/2024
+1
+8,00
+0,00
+4.733,70
+recebimento em dinheiro filial : 1 pedido : 9514 / nfce destino 1 -
+consumidor final vlr receb. = 8,00
+nao
+33
+9514/nfce-1
+02/09/2024
+4
+11,01
+0,00
+4.744,71
+recebimento em cartao(debito) filial : 1 pedido : 9515 / nfce destino 1 -
+consumidor final
+nao
+34
+9515/nfce-1
+02/09/2024
+82
+0,00
+11,01
+4.733,70
+contra partida cartao(debito) filial : 1 pedido : 9515 / nfce destino 1 -
+consumidor final
+nao
+35
+9515/nfce-1
+02/09/2024
+1
+45,00
+0,00
+4.778,70
+recebimento em dinheiro filial : 1 pedido : 3341 / pev destino 688 - jose
+raimundo de almeida ltda vlr receb. = 45,00
+nao
+36
+3341/pev-688
+02/09/2024
+11
+105,87
+0,00
+4.884,57
+recebimento em pix filial : 1 pedido : 3342 / pev destino 101 - alvaro
+oberdam pereira
+nao
+37
+3342/pev-101
+02/09/2024
+83
+0,00
+105,87
+4.778,70
+contra partida pix filial : 1 pedido : 3342 / pev destino 101 - alvaro oberdam
+pereira
+nao
+38
+3342/pev-101
+02/09/2024
+1
+35,01
+0,00
+4.813,71
+recebimento em dinheiro filial : 1 pedido : 9516 / nfce destino 1 -
+consumidor final vlr receb. = 35,01
+nao
+39
+9516/nfce-1
+02/09/2024
+11
+260,00
+0,00
+5.073,71
+recebimento em pix filial : 1 pedido : 9517 / nfce destino 1 - consumidor
+final
+nao
+40
+9517/nfce-1
+02/09/2024
+83
+0,00
+260,00
+4.813,71
+contra partida pix filial : 1 pedido : 9517 / nfce destino 1 - consumidor final
+nao
+41
+9517/nfce-1
+02/09/2024
+4
+138,00
+0,00
+4.951,71
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9518 / nfce
+destino 1 - consumidor final
+nao
+42
+9518/nfce-1
+02/09/2024
+82
+0,00
+138,00
+4.813,71
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9518 / nfce
+destino 1 - consumidor final
+nao
+43
+9518/nfce-1
+02/09/2024
+1
+145,00
+0,00
+4.958,71
+recebimento em dinheiro filial : 1 pedido : 9519 / nfce destino 1 -
+consumidor final vlr receb. = 145,00
+nao
+44
+9519/nfce-1
+02/09/2024
+4
+110,00
+0,00
+5.068,71
+recebimento em cartao(debito) filial : 1 pedido : 9520 / nfce destino 1 -
+consumidor final
+nao
+45
+9520/nfce-1
+02/09/2024
+82
+0,00
+110,00
+4.958,71
+contra partida cartao(debito) filial : 1 pedido : 9520 / nfce destino 1 -
+consumidor final
+nao
+46
+9520/nfce-1
+movimento caixa/bancos
+01/11/2024
+2
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/09/2024
+período:
+30/09/2024
+a
+folha:
+avul.
+data:
+hora: 13:40:15
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+caixa
+02/09/2024
+50
+0,00
+100,00
+4.858,71
+prestador de serviços- pgto ref pplataforma de entrega
+sim
+47
+0
+02/09/2024
+49
+0,00
+1.176,61
+3.682,10
+transferencia entre contas- deposito cheque
+sim
+48
+0
+02/09/2024
+11
+80,00
+0,00
+3.762,10
+recebimento em pix filial : 1 pedido : 3273 / pev destino 554 - braviello
+sorriso empreendimentos imobiliarios spe ltda
+nao
+49
+3273/pev-554
+02/09/2024
+83
+0,00
+80,00
+3.682,10
+contra partida pix filial : 1 pedido : 3273 / pev destino 554 - braviello
+sorriso empreendimentos imobiliarios spe ltda
+nao
+50
+3273/pev-554
+03/09/2024
+11
+38,00
+0,00
+3.720,10
+recebimento em pix filial : 1 pedido : 9521 / nfce destino 1 - consumidor
+final
+nao
+1
+9521/nfce-1
+03/09/2024
+83
+0,00
+38,00
+3.682,10
+contra partida pix filial : 1 pedido : 9521 / nfce destino 1 - consumidor final
+nao
+2
+9521/nfce-1
+03/09/2024
+4
+145,00
+0,00
+3.827,10
+recebimento em cartao(debito) filial : 1 pedido : 9522 / nfce destino 1 -
+consumidor final
+nao
+3
+9522/nfce-1
+03/09/2024
+82
+0,00
+145,00
+3.682,10
+contra partida cartao(debito) filial : 1 pedido : 9522 / nfce destino 1 -
+consumidor final
+nao
+4
+9522/nfce-1
+03/09/2024
+4
+13,00
+0,00
+3.695,10
+recebimento em cartao(debito) filial : 1 pedido : 9523 / nfce destino 1 -
+consumidor final
+nao
+5
+9523/nfce-1
+03/09/2024
+82
+0,00
+13,00
+3.682,10
+contra partida cartao(debito) filial : 1 pedido : 9523 / nfce destino 1 -
+consumidor final
+nao
+6
+9523/nfce-1
+03/09/2024
+6
+206,50
+0,00
+3.888,60
+venda prazo filial : 1 pedido : 3343 / pev destino 325 - dambros solucoes
+eletricas ltda
+nao
+7
+3343/pev-325
+03/09/2024
+7
+0,00
+206,50
+3.682,10
+contra-partida de venda a prazo filial : 1 pedido : 3343 / pev destino 325 -
+dambros solucoes eletricas ltda
+nao
+8
+3343/pev-325
+03/09/2024
+11
+469,75
+0,00
+4.151,85
+recebimento em pix filial : 1 pedido : 3344 / pev destino 764 - agro jato ltda
+nao
+9
+3344/pev-764
+03/09/2024
+83
+0,00
+469,75
+3.682,10
+contra partida pix filial : 1 pedido : 3344 / pev destino 764 - agro jato ltda
+nao
+10
+3344/pev-764
+03/09/2024
+4
+8,98
+0,00
+3.691,08
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9524 / nfce
+destino 1 - consumidor final
+nao
+11
+9524/nfce-1
+03/09/2024
+82
+0,00
+8,98
+3.682,10
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9524 / nfce
+destino 1 - consumidor final
+nao
+12
+9524/nfce-1
+03/09/2024
+11
+30,00
+0,00
+3.712,10
+recebimento em pix filial : 1 pedido : 9525 / nfce destino 1 - consumidor
+final
+nao
+13
+9525/nfce-1
+03/09/2024
+83
+0,00
+30,00
+3.682,10
+contra partida pix filial : 1 pedido : 9525 / nfce destino 1 - consumidor final
+nao
+14
+9525/nfce-1
+03/09/2024
+4
+129,15
+0,00
+3.811,25
+recebimento em cartao(debito) filial : 1 pedido : 3345 / pev destino 844 - bv
+maiz silagem ltda
+nao
+15
+3345/pev-844
+03/09/2024
+82
+0,00
+129,15
+3.682,10
+contra partida cartao(debito) filial : 1 pedido : 3345 / pev destino 844 - bv
+maiz silagem ltda
+nao
+16
+3345/pev-844
+03/09/2024
+4
+18,00
+0,00
+3.700,10
+recebimento em cartao(debito) filial : 1 pedido : 9526 / nfce destino 1 -
+consumidor final
+nao
+17
+9526/nfce-1
+03/09/2024
+82
+0,00
+18,00
+3.682,10
+contra partida cartao(debito) filial : 1 pedido : 9526 / nfce destino 1 -
+consumidor final
+nao
+18
+9526/nfce-1
+03/09/2024
+4
+25,00
+0,00
+3.707,10
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9527 / nfce
+destino 1 - consumidor final
+nao
+19
+9527/nfce-1
+03/09/2024
+82
+0,00
+25,00
+3.682,10
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9527 / nfce
+destino 1 - consumidor final
+nao
+20
+9527/nfce-1
+03/09/2024
+4
+45,00
+0,00
+3.727,10
+recebimento em cartao(debito) filial : 1 pedido : 9528 / nfce destino 1 -
+consumidor final
+nao
+21
+9528/nfce-1
+03/09/2024
+82
+0,00
+45,00
+3.682,10
+contra partida cartao(debito) filial : 1 pedido : 9528 / nfce destino 1 -
+consumidor final
+nao
+22
+9528/nfce-1
+03/09/2024
+1
+18,00
+0,00
+3.700,10
+recebimento em dinheiro filial : 1 pedido : 9529 / nfce destino 1 -
+consumidor final vlr receb. = 18,00
+nao
+23
+9529/nfce-1
+03/09/2024
+4
+30,65
+0,00
+3.730,75
+recebimento em cartao(debito) filial : 1 pedido : 9530 / nfce destino 1 -
+consumidor final
+nao
+24
+9530/nfce-1
+03/09/2024
+82
+0,00
+30,65
+3.700,10
+contra partida cartao(debito) filial : 1 pedido : 9530 / nfce destino 1 -
+consumidor final
+nao
+25
+9530/nfce-1
+03/09/2024
+4
+4,75
+0,00
+3.704,85
+recebimento em cartao(debito) filial : 1 pedido : 3346 / pev destino 101 -
+alvaro oberdam pereira
+nao
+26
+3346/pev-101
+03/09/2024
+82
+0,00
+4,75
+3.700,10
+contra partida cartao(debito) filial : 1 pedido : 3346 / pev destino 101 -
+alvaro oberdam pereira
+nao
+27
+3346/pev-101
+03/09/2024
+11
+22,00
+0,00
+3.722,10
+recebimento em pix filial : 1 pedido : 3347 / pev destino 101 - alvaro
+oberdam pereira
+nao
+28
+3347/pev-101
+03/09/2024
+83
+0,00
+22,00
+3.700,10
+contra partida pix filial : 1 pedido : 3347 / pev destino 101 - alvaro oberdam
+pereira
+nao
+29
+3347/pev-101
+03/09/2024
+11
+85,50
+0,00
+3.785,60
+recebimento em pix filial : 1 pedido : 3348 / pev destino 161 - coenza
+construcoes civis ltda
+nao
+30
+3348/pev-161
+03/09/2024
+83
+0,00
+85,50
+3.700,10
+contra partida pix filial : 1 pedido : 3348 / pev destino 161 - coenza
+construcoes civis ltda
+nao
+31
+3348/pev-161
+03/09/2024
+4
+45,00
+0,00
+3.745,10
+recebimento em cartao(debito) filial : 1 pedido : 9531 / nfce destino 1 -
+consumidor final
+nao
+32
+9531/nfce-1
+03/09/2024
+82
+0,00
+45,00
+3.700,10
+contra partida cartao(debito) filial : 1 pedido : 9531 / nfce destino 1 -
+consumidor final
+nao
+33
+9531/nfce-1
+03/09/2024
+4
+15,00
+0,00
+3.715,10
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9532 / nfce
+destino 1 - consumidor final
+nao
+34
+9532/nfce-1
+03/09/2024
+82
+0,00
+15,00
+3.700,10
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9532 / nfce
+destino 1 - consumidor final
+nao
+35
+9532/nfce-1
+03/09/2024
+4
+12,00
+0,00
+3.712,10
+recebimento em cartao(debito) filial : 1 pedido : 9533 / nfce destino 1 -
+consumidor final
+nao
+36
+9533/nfce-1
+03/09/2024
+82
+0,00
+12,00
+3.700,10
+contra partida cartao(debito) filial : 1 pedido : 9533 / nfce destino 1 -
+consumidor final
+nao
+37
+9533/nfce-1
+03/09/2024
+4
+21,08
+0,00
+3.721,18
+recebimento em cartao(debito) filial : 1 pedido : 9534 / nfce destino 1 -
+consumidor final
+nao
+38
+9534/nfce-1
+03/09/2024
+82
+0,00
+21,08
+3.700,10
+contra partida cartao(debito) filial : 1 pedido : 9534 / nfce destino 1 -
+consumidor final
+nao
+39
+9534/nfce-1
+03/09/2024
+4
+79,88
+0,00
+3.779,98
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 3349 / pev
+destino 529 - alcione sandro barbieri
+nao
+40
+3349/pev-529
+03/09/2024
+82
+0,00
+79,88
+3.700,10
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 3349 / pev
+destino 529 - alcione sandro barbieri
+nao
+41
+3349/pev-529
+03/09/2024
+40
+0,00
+130,00
+3.570,10
+diarista- pgto referente uma diaria limpeza da loja
+sim
+42
+diarista
+03/09/2024
+24
+0,00
+29,80
+3.540,30
+material de uso e consumo
+sim
+43
+nf 71027
+03/09/2024
+64
+0,00
+390,00
+3.150,30
+manutenção maquinas/ equipamentos/e predio- instalação de pelicula
+sim
+44
+0
+movimento caixa/bancos
+01/11/2024
+3
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/09/2024
+período:
+30/09/2024
+a
+folha:
+avul.
+data:
+hora: 13:40:15
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+caixa
+em divisoria - administrativo
+03/09/2024
+93
+0,00
+80,00
+3.070,30
+manutençao moto- carga de bateria e lavagem de moto
+sim
+45
+0
+03/09/2024
+46
+0,00
+31,80
+3.038,50
+despesas com copa/limpeza/higiene- pgto ref nf 70999 mercado real
+sim
+46
+nf 70999
+04/09/2024
+4
+69,30
+0,00
+3.107,80
+recebimento em cartao(debito) filial : 1 pedido : 9537 / nfce destino 1 -
+consumidor final
+nao
+1
+9537/nfce-1
+04/09/2024
+82
+0,00
+69,30
+3.038,50
+contra partida cartao(debito) filial : 1 pedido : 9537 / nfce destino 1 -
+consumidor final
+nao
+2
+9537/nfce-1
+04/09/2024
+4
+13,50
+0,00
+3.052,00
+recebimento em cartao(debito) filial : 1 pedido : 9539 / nfce destino 1 -
+consumidor final
+nao
+3
+9539/nfce-1
+04/09/2024
+82
+0,00
+13,50
+3.038,50
+contra partida cartao(debito) filial : 1 pedido : 9539 / nfce destino 1 -
+consumidor final
+nao
+4
+9539/nfce-1
+04/09/2024
+1
+55,00
+0,00
+3.093,50
+recebimento em dinheiro filial : 1 pedido : 3350 / pev destino 698 - brasil
+entulhos ltda vlr receb. = 55,00
+nao
+5
+3350/pev-698
+04/09/2024
+1
+25,00
+0,00
+3.118,50
+recebimento em dinheiro filial : 1 pedido : 9540 / nfce destino 1 -
+consumidor final vlr receb. = 25,00
+nao
+7
+9540/nfce-1
+04/09/2024
+4
+110,38
+0,00
+3.228,88
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9541 / nfce
+destino 1 - consumidor final
+nao
+9
+9541/nfce-1
+04/09/2024
+82
+0,00
+110,38
+3.118,50
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9541 / nfce
+destino 1 - consumidor final
+nao
+10
+9541/nfce-1
+04/09/2024
+11
+133,50
+0,00
+3.252,00
+recebimento em pix filial : 1 pedido : 3353 / pev destino 656 - rambo pecas
+agricolas ltda
+nao
+11
+3353/pev-656
+04/09/2024
+83
+0,00
+133,50
+3.118,50
+contra partida pix filial : 1 pedido : 3353 / pev destino 656 - rambo pecas
+agricolas ltda
+nao
+12
+3353/pev-656
+04/09/2024
+4
+10,00
+0,00
+3.128,50
+recebimento em cartao(debito) filial : 1 pedido : 9542 / nfce destino 1 -
+consumidor final
+nao
+13
+9542/nfce-1
+04/09/2024
+82
+0,00
+10,00
+3.118,50
+contra partida cartao(debito) filial : 1 pedido : 9542 / nfce destino 1 -
+consumidor final
+nao
+14
+9542/nfce-1
+04/09/2024
+1
+60,00
+0,00
+3.178,50
+recebimento em dinheiro filial : 1 pedido : 3354 / pev destino 688 - jose
+raimundo de almeida ltda vlr receb. = 60,00
+nao
+15
+3354/pev-688
+04/09/2024
+6
+170,00
+0,00
+3.348,50
+venda prazo filial : 1 pedido : 3355 / pev destino 44 - construtao
+engenharia ltda
+nao
+16
+3355/pev-44
+04/09/2024
+7
+0,00
+170,00
+3.178,50
+contra-partida de venda a prazo filial : 1 pedido : 3355 / pev destino 44 -
+construtao engenharia ltda
+nao
+17
+3355/pev-44
+04/09/2024
+4
+25,00
+0,00
+3.203,50
+recebimento em cartao(debito) filial : 1 pedido : 9544 / nfce destino 1 -
+consumidor final
+nao
+18
+9544/nfce-1
+04/09/2024
+82
+0,00
+25,00
+3.178,50
+contra partida cartao(debito) filial : 1 pedido : 9544 / nfce destino 1 -
+consumidor final
+nao
+19
+9544/nfce-1
+04/09/2024
+11
+54,00
+0,00
+3.232,50
+recebimento em pix filial : 1 pedido : 9545 / nfce destino 1 - consumidor
+final
+nao
+20
+9545/nfce-1
+04/09/2024
+83
+0,00
+54,00
+3.178,50
+contra partida pix filial : 1 pedido : 9545 / nfce destino 1 - consumidor final
+nao
+21
+9545/nfce-1
+04/09/2024
+4
+81,00
+0,00
+3.259,50
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9546 / nfce
+destino 1 - consumidor final
+nao
+22
+9546/nfce-1
+04/09/2024
+82
+0,00
+81,00
+3.178,50
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9546 / nfce
+destino 1 - consumidor final
+nao
+23
+9546/nfce-1
+04/09/2024
+1
+20,00
+0,00
+3.198,50
+recebimento em dinheiro filial : 1 pedido : 9547 / nfce destino 1 -
+consumidor final vlr receb. = 20,00
+nao
+24
+9547/nfce-1
+04/09/2024
+4
+40,00
+0,00
+3.238,50
+recebimento em cartao(debito) filial : 1 pedido : 9548 / nfce destino 1 -
+consumidor final
+nao
+25
+9548/nfce-1
+04/09/2024
+82
+0,00
+40,00
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 9548 / nfce destino 1 -
+consumidor final
+nao
+26
+9548/nfce-1
+04/09/2024
+4
+38,00
+0,00
+3.236,50
+recebimento em cartao(debito) filial : 1 pedido : 9550 / nfce destino 1 -
+consumidor final
+nao
+27
+9550/nfce-1
+04/09/2024
+82
+0,00
+38,00
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 9550 / nfce destino 1 -
+consumidor final
+nao
+28
+9550/nfce-1
+04/09/2024
+11
+95,00
+0,00
+3.293,50
+recebimento em pix filial : 1 pedido : 9549 / nfce destino 1 - consumidor
+final
+nao
+29
+9549/nfce-1
+04/09/2024
+83
+0,00
+95,00
+3.198,50
+contra partida pix filial : 1 pedido : 9549 / nfce destino 1 - consumidor final
+nao
+30
+9549/nfce-1
+04/09/2024
+4
+124,00
+0,00
+3.322,50
+recebimento em cartao(debito) filial : 1 pedido : 9551 / nfce destino 1 -
+consumidor final
+nao
+31
+9551/nfce-1
+04/09/2024
+82
+0,00
+124,00
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 9551 / nfce destino 1 -
+consumidor final
+nao
+32
+9551/nfce-1
+04/09/2024
+4
+27,00
+0,00
+3.225,50
+recebimento em cartao(debito) filial : 1 pedido : 3357 / pev destino 844 - bv
+maiz silagem ltda
+nao
+33
+3357/pev-844
+04/09/2024
+82
+0,00
+27,00
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 3357 / pev destino 844 - bv
+maiz silagem ltda
+nao
+34
+3357/pev-844
+04/09/2024
+4
+72,30
+0,00
+3.270,80
+recebimento em cartao(debito) filial : 1 pedido : 9552 / nfce destino 1 -
+consumidor final
+nao
+35
+9552/nfce-1
+04/09/2024
+82
+0,00
+72,30
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 9552 / nfce destino 1 -
+consumidor final
+nao
+36
+9552/nfce-1
+04/09/2024
+4
+2.929,50
+0,00
+6.128,00
+recebimento em cartao(debito) filial : 1 pedido : 3358 / pev destino 844 - bv
+maiz silagem ltda
+nao
+37
+3358/pev-844
+04/09/2024
+82
+0,00
+2.929,50
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 3358 / pev destino 844 - bv
+maiz silagem ltda
+nao
+38
+3358/pev-844
+04/09/2024
+11
+25,00
+0,00
+3.223,50
+recebimento em pix filial : 1 pedido : 9553 / nfce destino 1 - consumidor
+final
+nao
+39
+9553/nfce-1
+04/09/2024
+83
+0,00
+25,00
+3.198,50
+contra partida pix filial : 1 pedido : 9553 / nfce destino 1 - consumidor final
+nao
+40
+9553/nfce-1
+04/09/2024
+4
+14,90
+0,00
+3.213,40
+recebimento em cartao(debito) filial : 1 pedido : 9554 / nfce destino 1 -
+consumidor final
+nao
+41
+9554/nfce-1
+04/09/2024
+82
+0,00
+14,90
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 9554 / nfce destino 1 -
+consumidor final
+nao
+42
+9554/nfce-1
+04/09/2024
+4
+27,00
+0,00
+3.225,50
+recebimento em cartao(debito) filial : 1 pedido : 9555 / nfce destino 1 -
+consumidor final
+nao
+43
+9555/nfce-1
+04/09/2024
+82
+0,00
+27,00
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 9555 / nfce destino 1 -
+consumidor final
+nao
+44
+9555/nfce-1
+04/09/2024
+1
+6,00
+0,00
+3.204,50
+recebimento em dinheiro filial : 1 pedido : 9556 / nfce destino 1 -
+consumidor final vlr receb. = 6,00
+nao
+45
+9556/nfce-1
+04/09/2024
+4
+262,36
+0,00
+3.466,86
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 3356 / pev
+destino 710 - flavio krzyzanski
+nao
+46
+3356/pev-710
+movimento caixa/bancos
+01/11/2024
+4
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/09/2024
+período:
+30/09/2024
+a
+folha:
+avul.
+data:
+hora: 13:40:15
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+caixa
+04/09/2024
+82
+0,00
+262,36
+3.204,50
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 3356 / pev
+destino 710 - flavio krzyzanski
+nao
+47
+3356/pev-710
+04/09/2024
+4
+880,00
+0,00
+4.084,50
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 3359 / pev
+destino 450 - sorriclima climatizacao ltda
+nao
+48
+3359/pev-450
+04/09/2024
+82
+0,00
+880,00
+3.204,50
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 3359 / pev
+destino 450 - sorriclima climatizacao ltda
+nao
+49
+3359/pev-450
+04/09/2024
+11
+187,20
+0,00
+3.391,70
+recebimento em pix filial : 1 pedido : 2068 / condres destino 74 - alcionir
+paulo silvestro
+nao
+50
+2068/condres
+04/09/2024
+83
+0,00
+187,20
+3.204,50
+contra partida pix filial : 1 pedido : 2068 / condres destino 74 - alcionir
+paulo silvestro
+nao
+51
+2068/condres
+04/09/2024
+46
+0,00
+90,00
+3.114,50
+despesas com copa/limpeza/higiene- pgto ref nf 24016 produto de
+limpeza
+sim
+52
+0
+05/09/2024
+11
+10,80
+0,00
+3.125,30
+recebimento em pix filial : 1 pedido : 9557 / nfce destino 1 - consumidor
+final
+nao
+1
+9557/nfce-1
+05/09/2024
+83
+0,00
+10,80
+3.114,50
+contra partida pix filial : 1 pedido : 9557 / nfce destino 1 - consumidor final
+nao
+2
+9557/nfce-1
+05/09/2024
+4
+27,00
+0,00
+3.141,50
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9558 / nfce
+destino 1 - consumidor final
+nao
+3
+9558/nfce-1
+05/09/2024
+82
+0,00
+27,00
+3.114,50
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9558 / nfce
+destino 1 - consumidor final
+nao
+4
+9558/nfce-1
+05/09/2024
+1
+2,00
+0,00
+3.116,50
+recebimento em dinheiro filial : 1 pedido : 9559 / nfce destino 1 -
+consumidor final vlr receb. = 2,00
+nao
+5
+9559/nfce-1
+05/09/2024
+4
+17,80
+0,00
+3.134,30
+recebimento em cartao(debito) filial : 1 pedido : 9560 / nfce destino 1 -
+consumidor final
+nao
+6
+9560/nfce-1
+05/09/2024
+82
+0,00
+17,80
+3.116,50
+contra partida cartao(debito) filial : 1 pedido : 9560 / nfce destino 1 -
+consumidor final
+nao
+7
+9560/nfce-1
+05/09/2024
+4
+53,00
+0,00
+3.169,50
+recebimento em cartao(debito) filial : 1 pedido : 9561 / nfce destino 1 -
+consumidor final
+nao
+8
+9561/nfce-1
+05/09/2024
+82
+0,00
+53,00
+3.116,50
+contra partida cartao(debito) filial : 1 pedido : 9561 / nfce destino 1 -
+consumidor final
+nao
+9
+9561/nfce-1
+05/09/2024
+1
+82,00
+0,00
+3.198,50
+recebimento em dinheiro filial : 1 pedido : 9562 / nfce destino 1 -
+consumidor final vlr receb. = 82,00
+nao
+10
+9562/nfce-1
+05/09/2024
+4
+59,32
+0,00
+3.257,82
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9563 / nfce
+destino 1 - consumidor final
+nao
+11
+9563/nfce-1
+05/09/2024
+82
+0,00
+59,32
+3.198,50
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9563 / nfce
+destino 1 - consumidor final
+nao
+12
+9563/nfce-1
+05/09/2024
+4
+108,00
+0,00
+3.306,50
+recebimento em cartao(debito) filial : 1 pedido : 9564 / nfce destino 1 -
+consumidor final
+nao
+13
+9564/nfce-1
+05/09/2024
+82
+0,00
+108,00
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 9564 / nfce destino 1 -
+consumidor final
+nao
+14
+9564/nfce-1
+05/09/2024
+4
+136,00
+0,00
+3.334,50
+recebimento em cartao(debito) filial : 1 pedido : 9565 / nfce destino 1 -
+consumidor final
+nao
+15
+9565/nfce-1
+05/09/2024
+82
+0,00
+136,00
+3.198,50
+contra partida cartao(debito) filial : 1 pedido : 9565 / nfce destino 1 -
+consumidor final
+nao
+16
+9565/nfce-1
+05/09/2024
+11
+24,00
+0,00
+3.222,50
+recebimento em pix filial : 1 pedido : 3360 / pev destino 510 - ecoville
+residence sorriso
+nao
+17
+3360/pev-510
+05/09/2024
+83
+0,00
+24,00
+3.198,50
+contra partida pix filial : 1 pedido : 3360 / pev destino 510 - ecoville
+residence sorriso
+nao
+18
+3360/pev-510
+05/09/2024
+11
+81,00
+0,00
+3.279,50
+recebimento em pix filial : 1 pedido : 3361 / pev destino 741 - condominio
+residencial verona
+nao
+19
+3361/pev-741
+05/09/2024
+83
+0,00
+81,00
+3.198,50
+contra partida pix filial : 1 pedido : 3361 / pev destino 741 - condominio
+residencial verona
+nao
+20
+3361/pev-741
+05/09/2024
+1
+70,00
+0,00
+3.268,50
+recebimento em dinheiro filial : 1 pedido : 9566 / nfce destino 1 -
+consumidor final vlr receb. = 70,00
+nao
+21
+9566/nfce-1
+05/09/2024
+6
+396,00
+0,00
+3.664,50
+venda prazo filial : 1 pedido : 3362 / pev destino 720 - retifica sorriso
+comercio e distribuidora de pecas ltda
+nao
+22
+3362/pev-720
+05/09/2024
+7
+0,00
+396,00
+3.268,50
+contra-partida de venda a prazo filial : 1 pedido : 3362 / pev destino 720 -
+retifica sorriso comercio e distribuidora de pecas ltda
+nao
+23
+3362/pev-720
+05/09/2024
+11
+45,00
+0,00
+3.313,50
+recebimento em pix filial : 1 pedido : 9567 / nfce destino 1 - consumidor
+final
+nao
+24
+9567/nfce-1
+05/09/2024
+83
+0,00
+45,00
+3.268,50
+contra partida pix filial : 1 pedido : 9567 / nfce destino 1 - consumidor final
+nao
+25
+9567/nfce-1
+05/09/2024
+4
+26,37
+0,00
+3.294,87
+recebimento em cartao(debito) filial : 1 pedido : 9568 / nfce destino 1 -
+consumidor final
+nao
+26
+9568/nfce-1
+05/09/2024
+82
+0,00
+26,37
+3.268,50
+contra partida cartao(debito) filial : 1 pedido : 9568 / nfce destino 1 -
+consumidor final
+nao
+27
+9568/nfce-1
+05/09/2024
+11
+109,90
+0,00
+3.378,40
+recebimento em pix filial : 1 pedido : 9569 / nfce destino 1 - consumidor
+final
+nao
+28
+9569/nfce-1
+05/09/2024
+83
+0,00
+109,90
+3.268,50
+contra partida pix filial : 1 pedido : 9569 / nfce destino 1 - consumidor final
+nao
+29
+9569/nfce-1
+05/09/2024
+4
+18,00
+0,00
+3.286,50
+recebimento em cartao(debito) filial : 1 pedido : 9570 / nfce destino 1 -
+consumidor final
+nao
+30
+9570/nfce-1
+05/09/2024
+82
+0,00
+18,00
+3.268,50
+contra partida cartao(debito) filial : 1 pedido : 9570 / nfce destino 1 -
+consumidor final
+nao
+31
+9570/nfce-1
+05/09/2024
+4
+600,00
+0,00
+3.868,50
+recebimento em cartao(debito) filial : 1 pedido : 3363 / pev destino 851 -
+rocha & cia ltda
+nao
+32
+3363/pev-851
+05/09/2024
+82
+0,00
+600,00
+3.268,50
+contra partida cartao(debito) filial : 1 pedido : 3363 / pev destino 851 -
+rocha & cia ltda
+nao
+33
+3363/pev-851
+05/09/2024
+4
+7,21
+0,00
+3.275,71
+recebimento em cartao(debito) filial : 1 pedido : 9571 / nfce destino 1 -
+consumidor final
+nao
+34
+9571/nfce-1
+05/09/2024
+82
+0,00
+7,21
+3.268,50
+contra partida cartao(debito) filial : 1 pedido : 9571 / nfce destino 1 -
+consumidor final
+nao
+35
+9571/nfce-1
+05/09/2024
+4
+55,00
+0,00
+3.323,50
+recebimento em cartao(debito) filial : 1 pedido : 9572 / nfce destino 1 -
+consumidor final
+nao
+36
+9572/nfce-1
+05/09/2024
+82
+0,00
+55,00
+3.268,50
+contra partida cartao(debito) filial : 1 pedido : 9572 / nfce destino 1 -
+consumidor final
+nao
+37
+9572/nfce-1
+05/09/2024
+4
+30,00
+0,00
+3.298,50
+recebimento em cartao(debito) filial : 1 pedido : 9573 / nfce destino 1 -
+consumidor final
+nao
+38
+9573/nfce-1
+05/09/2024
+82
+0,00
+30,00
+3.268,50
+contra partida cartao(debito) filial : 1 pedido : 9573 / nfce destino 1 -
+consumidor final
+nao
+39
+9573/nfce-1
+05/09/2024
+4
+200,00
+0,00
+3.468,50
+recebimento em cartao(debito) filial : 1 pedido : 9574 / nfce destino 1 -
+nao
+40
+9574/nfce-1
+movimento caixa/bancos
+01/11/2024
+5
+dt.movto
+entradas
+saídas
+saldo
+histórico padronizado
+01/09/2024
+período:
+30/09/2024
+a
+folha:
+avul.
+data:
+hora: 13:40:15
+tuuls sorriso comercio de maquinas e ferra
+tuuls sorriso comercio de maquinas e ferra
+seq.
+documento
+1
+portador.:
+caixa
+consumidor final
+05/09/2024
+82
+0,00
+200,00
+3.268,50
+contra partida cartao(debito) filial : 1 pedido : 9574 / nfce destino 1 -
+consumidor final
+nao
+41
+9574/nfce-1
+05/09/2024
+4
+125,00
+0,00
+3.393,50
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 9575 / nfce
+destino 1 - consumidor final
+nao
+42
+9575/nfce-1
+05/09/2024
+82
+0,00
+125,00
+3.268,50
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 9575 / nfce
+destino 1 - consumidor final
+nao
+43
+9575/nfce-1
+05/09/2024
+1
+3,90
+0,00
+3.272,40
+recebimento em dinheiro filial : 1 pedido : 9576 / nfce destino 1 -
+consumidor final vlr receb. = 3,90
+nao
+44
+9576/nfce-1
+05/09/2024
+24
+0,00
+24,00
+3.248,40
+material de uso e consumo- pgto nf 870437 cb agricola
+sim
+45
+nf 870437
+05/09/2024
+47
+0,00
+120,00
+3.128,40
+fornecedor- pgto ref nf 870511 produto para revenda
+sim
+46
+nf 870511
+06/09/2024
+4
+66,00
+0,00
+3.194,40
+recebimento em cartao(debito) filial : 1 pedido : 3364 / pev destino 802 -
+rodrigo sprandel wechwert
+nao
+1
+3364/pev-802
+06/09/2024
+82
+0,00
+66,00
+3.128,40
+contra partida cartao(debito) filial : 1 pedido : 3364 / pev destino 802 -
+rodrigo sprandel wechwert
+nao
+2
+3364/pev-802
+06/09/2024
+1
+90,00
+0,00
+3.218,40
+recebimento em dinheiro filial : 1 pedido : 3365 / pev destino 688 - jose
+raimundo de almeida ltda vlr receb. = 90,00
+nao
+3
+3365/pev-688
+06/09/2024
+6
+250,00
+0,00
+3.468,40
+venda prazo filial : 1 pedido : 3366 / pev destino 853 - transportadora
+rovaris ltda
+nao
+4
+3366/pev-853
+06/09/2024
+7
+0,00
+250,00
+3.218,40
+contra-partida de venda a prazo filial : 1 pedido : 3366 / pev destino 853 -
+transportadora rovaris ltda
+nao
+5
+3366/pev-853
+06/09/2024
+6
+269,10
+0,00
+3.487,50
+venda prazo filial : 1 pedido : 3367 / pev destino 853 - transportadora
+rovaris ltda
+nao
+6
+3367/pev-853
+06/09/2024
+7
+0,00
+269,10
+3.218,40
+contra-partida de venda a prazo filial : 1 pedido : 3367 / pev destino 853 -
+transportadora rovaris ltda
+nao
+7
+3367/pev-853
+06/09/2024
+4
+140,00
+0,00
+3.358,40
+recebimento em cartao(debito) filial : 1 pedido : 3368 / pev destino 111 -
+jaco catalisadores e escapamentos ltda
+nao
+8
+3368/pev-111
+06/09/2024
+82
+0,00
+140,00
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 3368 / pev destino 111 -
+jaco catalisadores e escapamentos ltda
+nao
+9
+3368/pev-111
+06/09/2024
+11
+107,50
+0,00
+3.325,90
+recebimento em pix filial : 1 pedido : 3369 / pev destino 764 - agro jato ltda
+nao
+10
+3369/pev-764
+06/09/2024
+83
+0,00
+107,50
+3.218,40
+contra partida pix filial : 1 pedido : 3369 / pev destino 764 - agro jato ltda
+nao
+11
+3369/pev-764
+06/09/2024
+11
+342,67
+0,00
+3.561,07
+recebimento em pix filial : 1 pedido : 3370 / pev destino 854 - robson moreria
+nao
+12
+3370/pev-854
+06/09/2024
+83
+0,00
+342,67
+3.218,40
+contra partida pix filial : 1 pedido : 3370 / pev destino 854 - robson moreria
+nao
+13
+3370/pev-854
+06/09/2024
+11
+175,00
+0,00
+3.393,40
+recebimento em pix filial : 1 pedido : 9577 / nfce destino 836 - elias cichoski
+nao
+14
+9577/nfce-836
+06/09/2024
+83
+0,00
+175,00
+3.218,40
+contra partida pix filial : 1 pedido : 9577 / nfce destino 836 - elias cichoski
+nao
+15
+9577/nfce-836
+06/09/2024
+4
+22,00
+0,00
+3.240,40
+recebimento em cartao(debito) filial : 1 pedido : 9578 / nfce destino 1 -
+consumidor final
+nao
+16
+9578/nfce-1
+06/09/2024
+82
+0,00
+22,00
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9578 / nfce destino 1 -
+consumidor final
+nao
+17
+9578/nfce-1
+06/09/2024
+4
+20,00
+0,00
+3.238,40
+recebimento em cartao(debito) filial : 1 pedido : 9579 / nfce destino 1 -
+consumidor final
+nao
+18
+9579/nfce-1
+06/09/2024
+82
+0,00
+20,00
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9579 / nfce destino 1 -
+consumidor final
+nao
+19
+9579/nfce-1
+06/09/2024
+4
+50,00
+0,00
+3.268,40
+recebimento em cartao(debito) filial : 1 pedido : 9580 / nfce destino 1 -
+consumidor final
+nao
+20
+9580/nfce-1
+06/09/2024
+82
+0,00
+50,00
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9580 / nfce destino 1 -
+consumidor final
+nao
+21
+9580/nfce-1
+06/09/2024
+4
+413,80
+0,00
+3.632,20
+recebimento em cartao(debito) filial : 1 pedido : 3371 / pev destino 855 -
+watts servicos ltda - me
+nao
+22
+3371/pev-855
+06/09/2024
+82
+0,00
+413,80
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 3371 / pev destino 855 -
+watts servicos ltda - me
+nao
+23
+3371/pev-855
+06/09/2024
+4
+36,00
+0,00
+3.254,40
+recebimento em cartao(debito) filial : 1 pedido : 3372 / pev destino 855 -
+watts servicos ltda - me
+nao
+24
+3372/pev-855
+06/09/2024
+82
+0,00
+36,00
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 3372 / pev destino 855 -
+watts servicos ltda - me
+nao
+25
+3372/pev-855
+06/09/2024
+4
+34,00
+0,00
+3.252,40
+recebimento em cartao(debito) filial : 1 pedido : 9581 / nfce destino 1 -
+consumidor final
+nao
+26
+9581/nfce-1
+06/09/2024
+82
+0,00
+34,00
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9581 / nfce destino 1 -
+consumidor final
+nao
+27
+9581/nfce-1
+06/09/2024
+4
+27,00
+0,00
+3.245,40
+recebimento em cartao(debito) filial : 1 pedido : 9582 / nfce destino 1 -
+consumidor final
+nao
+28
+9582/nfce-1
+06/09/2024
+82
+0,00
+27,00
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9582 / nfce destino 1 -
+consumidor final
+nao
+29
+9582/nfce-1
+06/09/2024
+4
+99,92
+0,00
+3.318,32
+recebimento em cartao(debito) filial : 1 pedido : 9583 / nfce destino 1 -
+consumidor final
+nao
+30
+9583/nfce-1
+06/09/2024
+82
+0,00
+99,92
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9583 / nfce destino 1 -
+consumidor final
+nao
+31
+9583/nfce-1
+06/09/2024
+11
+198,00
+0,00
+3.416,40
+recebimento em pix filial : 1 pedido : 2361 / condres destino 648 -
+condominio residencial felicita
+nao
+32
+2361/condres
+06/09/2024
+83
+0,00
+198,00
+3.218,40
+contra partida pix filial : 1 pedido : 2361 / condres destino 648 - condominio
+residencial felicita
+nao
+33
+2361/condres
+06/09/2024
+4
+44,00
+0,00
+3.262,40
+recebimento em cartao(credito em 1 parc.) filial : 1 pedido : 3373 / pev
+destino 271 - fullhouse construtora ltda
+nao
+34
+3373/pev-271
+06/09/2024
+82
+0,00
+44,00
+3.218,40
+contra partida cartao(credito em 1 parc.) filial : 1 pedido : 3373 / pev
+destino 271 - fullhouse construtora ltda
+nao
+35
+3373/pev-271
+06/09/2024
+4
+338,49
+0,00
+3.556,89
+recebimento em cartao(debito) filial : 1 pedido : 9585 / nfce destino 81 -
+joao batista junior
+nao
+36
+9585/nfce-81
+06/09/2024
+82
+0,00
+338,49
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9585 / nfce destino 81 -
+joao batista junior
+nao
+37
+9585/nfce-81
+06/09/2024
+4
+5,04
+0,00
+3.223,44
+recebimento em cartao(debito) filial : 1 pedido : 9586 / nfce destino 1 -
+consumidor final
+nao
+38
+9586/nfce-1
+06/09/2024
+82
+0,00
+5,04
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9586 / nfce destino 1 -
+consumidor final
+nao
+39
+9586/nfce-1
+06/09/2024
+4
+226,62
+0,00
+3.445,02
+recebimento em cartao(debito) filial : 1 pedido : 9587 / nfce destino 1 -
+consumidor final
+nao
+40
+9587/nfce-1
+06/09/2024
+82
+0,00
+226,62
+3.218,40
+contra partida cartao(debito) filial : 1 pedido : 9587 / nfce destino 1 -
+consumidor final
+nao
+41
+9587/nfce-1

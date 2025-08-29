@@ -1,0 +1,1468 @@
+sistema de controle financeiro.
+23/10/2020 11:08:38
+pagina: 1
+habitacional pinheiro imoveis ltda
+4260q - relatório de contas pagas por obra ou filial (completo com quebra).
+empresa:
+ - 
+ - 
+000001 - banco itau
+01/09/2020
+30/09/2020
+seção:
+caixa/conta corrente:
+data baixa inicial:
+data baixa final:
+ - 
+fornecedor:
+nº
+fornecedor
+valor 
+valor
+atividade
+data 
+vencimento
+cheque
+caixa/conta
+con
+documento
+seção
+data 
+pagamento
+data:
+01/09/2020
+0000023666
+tar/custas cobrança
+5,79
+01/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+01/09/2020
+total da data:
+01/09/2020
+5,79
+data:
+02/09/2020
+0000023666
+tar/custas cobrança
+5,79
+02/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+02/09/2020
+0000023396
+tarifa conta certa
+286,86
+02/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+02/09/2020
+0000020839
+cemig distribuição s.a
+116,28
+01/09/2020
+banco itau
+energia elétrica
+n
+2.03.01.02
+boleto
+escritório
+02/09/2020
+0000023808
+autotrans transportes urbanos e 
+126,00
+01/09/2020
+banco itau
+vale transporte
+n
+2.01.04.01
+boleto
+escritório
+02/09/2020
+total da data:
+02/09/2020
+534,93
+data:
+03/09/2020
+0000022806
+lenita rodrigues moisés
+2.550,00
+03/09/2020
+banco itau
+salários diretos
+n
+2.01.01.01
+recibo
+escritório
+03/09/2020
+0000023573
+hudson  candido pires
+6.880,00
+03/09/2020
+banco itau
+comissões
+n
+4.01.06.01
+comprova
+escritório
+03/09/2020
+0000022998
+barbara silva guimaraes henrique
+1.545,00
+03/09/2020
+banco itau
+salários diretos
+n
+2.01.01.01
+recibo
+escritório
+03/09/2020
+0000023160
+jose henrique barros horst
+5.000,00
+05/09/2020
+banco itau
+salários diretos
+n
+2.01.01.01
+recibo
+escritório
+03/09/2020
+0000023666
+tar/custas cobrança
+7,72
+03/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+03/09/2020
+0000023575
+valcy silva
+1.720,00
+03/09/2020
+banco itau
+comissões
+n
+4.01.06.01
+comprova
+escritório
+03/09/2020
+0000023825
+survey ajp topografia e agrimensura ltda
+2.064,70
+03/09/2020
+banco itau
+serviços de topografia - terceiros
+n
+2.02.03.07
+comprova
+escritório
+03/09/2020
+total da data:
+03/09/2020
+19.767,42
+sistema de controle financeiro.
+23/10/2020 11:08:38
+pagina: 2
+habitacional pinheiro imoveis ltda
+4260q - relatório de contas pagas por obra ou filial (completo com quebra).
+nº
+fornecedor
+valor 
+valor
+atividade
+data 
+vencimento
+cheque
+caixa/conta
+con
+documento
+seção
+data 
+pagamento
+data:
+04/09/2020
+0000023759
+ronaldo gomes de brito
+1.100,00
+04/09/2020
+banco itau
+outros serviços prestados por terceiros - 
+n
+2.02.03.99
+comprova
+escritório
+04/09/2020
+0000023666
+tar/custas cobrança
+11,58
+04/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+04/09/2020
+0000022712
+fgts a recolher
+373,54
+07/09/2020
+banco itau
+fgts
+n
+2.01.02.03
+guia
+escritório
+04/09/2020
+0000022953
+copasa
+50,00
+06/09/2020
+banco itau
+água
+n
+2.03.01.01
+boleto
+escritório
+04/09/2020
+0000022281
+inss a recolher
+2.012,46
+07/09/2020
+banco itau
+inss
+n
+2.01.02.01
+guia
+escritório
+04/09/2020
+total da data:
+04/09/2020
+3.547,58
+data:
+08/09/2020
+0000022716
+jose henrique barros horst
+500,00
+05/09/2020
+banco itau
+consultoria/assessoria contábil, fiscal e 
+n
+2.02.06.01
+boleto
+escritório
+08/09/2020
+0000022747
+moradia empreendimentos imobiliarios 
+1.142,50
+08/09/2020
+banco itau
+aluguel de imóveis (salas, standes, 
+n
+2.03.05.03
+boleto
+escritório
+08/09/2020
+0000021053
+maurilio nogueira  rodrigues
+1.077,42
+05/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+08/09/2020
+0000021809
+copasa
+65,19
+07/09/2020
+banco itau
+água
+n
+2.03.01.01
+boleto
+escritório
+08/09/2020
+0000020270
+julio cesar ferreira
+771,97
+05/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+08/09/2020
+0000023666
+tar/custas cobrança
+15,44
+08/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+08/09/2020
+0000023373
+esh participaçoes ltda
+500,00
+05/09/2020
+banco itau
+vale para sócios
+n
+2.11.01.04
+boleto
+escritório
+08/09/2020
+0000023052
+valcy silva
+4.500,00
+05/09/2020
+banco itau
+prestaçao serviços e legalizaçao de 
+n
+2.02.01
+recibo
+escritório
+08/09/2020
+0000023376
+dinâmica contabilidade ltda
+3.135,00
+05/09/2020
+banco itau
+consultoria/assessoria contábil, fiscal e 
+n
+2.02.06.01
+boleto
+escritório
+08/09/2020
+total da data:
+08/09/2020
+11.707,52
+data:
+09/09/2020
+0000023666
+tar/custas cobrança
+79,13
+09/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+09/09/2020
+0000023593
+aruana seguradora sa
+56,91
+09/09/2020
+banco itau
+veículos
+n
+2.03.06.01
+boleto
+escritório
+09/09/2020
+total da data:
+09/09/2020
+136,04
+data:
+10/09/2020
+0000023746
+chain bueno & leon advogados
+4.000,00
+10/09/2020
+banco itau
+consultorias/assessorias jurídicas e 
+n
+2.02.05.01
+comprova
+escritório
+10/09/2020
+0000023831
+tribunal de justiça do estado de minas 
+256,88
+10/09/2020
+banco itau
+custas judiciais
+n
+2.02.05.03
+guia
+escritório
+10/09/2020
+sistema de controle financeiro.
+23/10/2020 11:08:38
+pagina: 3
+habitacional pinheiro imoveis ltda
+4260q - relatório de contas pagas por obra ou filial (completo com quebra).
+nº
+fornecedor
+valor 
+valor
+atividade
+data 
+vencimento
+cheque
+caixa/conta
+con
+documento
+seção
+data 
+pagamento
+0000023666
+tar/custas cobrança
+9,65
+10/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+10/09/2020
+0000023504
+sindcomércio sindicato do comercio vale 
+30,80
+10/09/2020
+banco itau
+contribuição assistencial
+n
+2.01.02.09
+guia
+escritório
+10/09/2020
+0000023170
+esh participaçoes ltda
+17.980,00
+10/09/2020
+banco itau
+distribuição de lucros
+n
+2.11.03.01
+comprova
+escritório
+10/09/2020
+0000023329
+bruna barbosa cambraia
+89,49
+10/09/2020
+banco itau
+distribuição de lucros
+n
+2.11.03.01
+recibo
+escritório
+10/09/2020
+0000023272
+felipe cambraia pereira barros
+2.517,50
+10/09/2020
+banco itau
+distribuição de lucros
+n
+2.11.03.01
+comprova
+escritório
+10/09/2020
+0000020912
+jair alvarenga ( maria de fatima 
+1.108,06
+10/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+10/09/2020
+0000021041
+vinicius andrade nunes
+1.389,46
+10/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+10/09/2020
+0000021479
+waldinei gonçalves de oliveira
+1.070,92
+10/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+10/09/2020
+0000021821
+arquivar ( dias e sena guarda de 
+301,75
+10/09/2020
+banco itau
+consultorias de sistemas, informática e 
+n
+2.02.01.01
+nota 
+escritório
+10/09/2020
+0000021064
+sidney inacio da rocha
+894,72
+10/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+10/09/2020
+0000022029
+mac incorporadora  construtora eireli
+4.100,00
+10/09/2020
+banco itau
+distribuição de lucros
+n
+2.11.03.01
+comprova
+escritório
+10/09/2020
+0000022043
+servicon segurança e telecom
+96,00
+10/09/2020
+banco itau
+segurança eletrônica
+n
+2.03.01.10
+nota 
+escritório
+10/09/2020
+0000022055
+marconi / thatiany /  charlles magno reis
+1.229,66
+10/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+10/09/2020
+0000020606
+erasmo antonio da silva
+686,79
+10/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+10/09/2020
+0000022336
+ebr participaçoes ltda
+15.100,00
+10/09/2020
+banco itau
+cotas de capital
+n
+2.11.03.02
+comprova
+escritório
+10/09/2020
+0000022268
+guilherme cambraia pereira de barros
+2.517,50
+10/09/2020
+banco itau
+distribuição de lucros
+n
+2.11.03.01
+comprova
+escritório
+10/09/2020
+0000022964
+padaria do nego
+294,00
+10/09/2020
+banco itau
+lanches e alimentação
+n
+2.03.01.09
+comprova
+escritório
+10/09/2020
+0000022967
+iso informatica ltda
+562,77
+10/09/2020
+banco itau
+consultorias de sistemas, informática e 
+n
+2.02.01.01
+nota 
+escritório
+10/09/2020
+0000023018
+jose henrique barros horst
+1.657,74
+10/09/2020
+banco itau
+distribuição de lucros
+n
+2.11.03.01
+comprova
+escritório
+10/09/2020
+total da data:
+10/09/2020
+55.893,69
+data:
+11/09/2020
+0000023666
+tar/custas cobrança
+25,09
+11/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+11/09/2020
+total da data:
+11/09/2020
+25,09
+data:
+14/09/2020
+0000023856
+prefeitura municipal de ipatinga
+59,90
+14/09/2020
+banco itau
+taxas de prefeitura
+n
+2.07.02.01
+guia
+escritório
+14/09/2020
+0000023508
+telemar norte leste s/a
+72,14
+15/09/2020
+banco itau
+telefonia fixa
+n
+2.03.01.03
+boleto
+escritório
+14/09/2020
+0000023409
+cemig distribuição s.a
+60,90
+03/09/2020
+banco itau
+energia elétrica
+n
+2.03.01.02
+boleto
+escritório
+14/09/2020
+0000023858
+cartorio de registro de imóveis ipatinga
+29,65
+14/09/2020
+banco itau
+despesas com cartório
+n
+2.03.01.07
+boleto
+escritório
+14/09/2020
+sistema de controle financeiro.
+23/10/2020 11:08:38
+pagina: 4
+habitacional pinheiro imoveis ltda
+4260q - relatório de contas pagas por obra ou filial (completo com quebra).
+nº
+fornecedor
+valor 
+valor
+atividade
+data 
+vencimento
+cheque
+caixa/conta
+con
+documento
+seção
+data 
+pagamento
+0000023666
+tar/custas cobrança
+32,81
+14/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+14/09/2020
+total da data:
+14/09/2020
+255,40
+data:
+15/09/2020
+0000023666
+tar/custas cobrança
+17,37
+15/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+15/09/2020
+0000023447
+vivo telefonia
+154,17
+15/09/2020
+banco itau
+telefonia fixa
+n
+2.03.01.03
+boleto
+escritório
+15/09/2020
+0000021441
+elias gonçalves de oliveira
+1.100,10
+15/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+15/09/2020
+0000021715
+gabriel  vieira silva
+872,00
+15/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+15/09/2020
+0000021724
+orlando cesar de andrade
+1.190,43
+15/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+15/09/2020
+0000020550
+walter henrique nogueira
+1.024,66
+15/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+15/09/2020
+total da data:
+15/09/2020
+4.358,73
+data:
+16/09/2020
+0000023666
+tar/custas cobrança
+11,58
+16/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+16/09/2020
+total da data:
+16/09/2020
+11,58
+data:
+17/09/2020
+0000023666
+tar/custas cobrança
+15,44
+17/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+17/09/2020
+0000023860
+uai color ( julio cesar silva)
+160,00
+17/09/2020
+banco itau
+outros materiais de escritório e consumo
+n
+2.03.02.99
+nota 
+escritório
+17/09/2020
+0000023806
+garcia supermercado - superaço 
+208,38
+17/09/2020
+banco itau
+lanches e alimentação
+n
+2.03.01.09
+nota 
+escritório
+17/09/2020
+total da data:
+17/09/2020
+383,82
+data:
+18/09/2020
+0000023666
+tar/custas cobrança
+3,86
+18/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+18/09/2020
+0000023765
+survey ajp topografia e agrimensura ltda
+93,00
+20/09/2020
+banco itau
+irrf - retido de terceiros
+n
+2.07.01.14
+guia
+escritório
+18/09/2020
+0000023765
+survey ajp topografia e agrimensura ltda
+288,30
+20/09/2020
+banco itau
+pis/ cofins/ csll (código receita 
+n
+2.07.01.29
+guia
+escritório
+18/09/2020
+0000022522
+serasa s/a
+11,68
+18/09/2020
+banco itau
+pis/ cofins/ csll (código receita 
+n
+2.07.01.29
+guia
+escritório
+18/09/2020
+0000023274
+iso informatica ltda
+27,45
+20/09/2020
+banco itau
+pis/ cofins/ csll (código receita 
+n
+2.07.01.29
+guia
+escritório
+18/09/2020
+sistema de controle financeiro.
+23/10/2020 11:08:38
+pagina: 5
+habitacional pinheiro imoveis ltda
+4260q - relatório de contas pagas por obra ou filial (completo com quebra).
+nº
+fornecedor
+valor 
+valor
+atividade
+data 
+vencimento
+cheque
+caixa/conta
+con
+documento
+seção
+data 
+pagamento
+0000023148
+imposto renda
+52,45
+18/09/2020
+banco itau
+irrf
+n
+2.07.01.11
+guia
+escritório
+18/09/2020
+total da data:
+18/09/2020
+476,74
+data:
+21/09/2020
+0000023384
+mega internet banda larga
+69,99
+20/09/2020
+banco itau
+internet, links de comunicação, etc
+n
+2.03.01.06
+boleto
+escritório
+21/09/2020
+0000022749
+erick leandro ramos de paulo
+1.171,80
+20/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+21/09/2020
+0000021278
+tim nordeste s.a
+210,68
+20/09/2020
+banco itau
+telefonia móvel
+n
+2.03.01.04
+boleto
+escritório
+21/09/2020
+0000023666
+tar/custas cobrança
+5,79
+21/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+21/09/2020
+0000023757
+usisaude ( fundaçao sao francisco xavier)
+5.697,61
+21/09/2020
+banco itau
+plano de saúde
+n
+2.01.04.08
+boleto
+escritório
+21/09/2020
+0000023757
+usisaude ( fundaçao sao francisco xavier)
+54,26
+21/09/2020
+banco itau
+plano de saúde
+n
+2.01.04.08
+boleto
+escritório
+21/09/2020
+total da data:
+21/09/2020
+7.210,13
+data:
+22/09/2020
+0000023597
+esh participaçoes ltda
+1.126,90
+25/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+0000023666
+tar/custas cobrança
+27,02
+22/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+22/09/2020
+0000023781
+esh participaçoes ltda
+2.375,00
+30/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+0000023751
+esh participaçoes ltda
+774,74
+20/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+0000023710
+esh participaçoes ltda
+1.126,90
+20/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+0000023848
+esh participaçoes ltda
+1.600,00
+20/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+0000023862
+tribunal de justiça do estado de minas 
+2.348,69
+22/09/2020
+banco itau
+custas judiciais
+n
+2.02.05.03
+guia
+escritório
+22/09/2020
+0000023411
+esh participaçoes ltda
+1.491,97
+20/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+0000023705
+esh participaçoes ltda
+997,36
+20/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+0000023551
+esh participaçoes ltda
+1.021,25
+20/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.01.02
+comprova
+escritório
+22/09/2020
+0000023520
+esh participaçoes ltda
+1.000,86
+20/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+0000023607
+esh participaçoes ltda
+1.021,25
+25/09/2020
+banco itau
+venda de imóveis de incorporação
+n
+1.01.02.02
+comprova
+escritório
+22/09/2020
+total da data:
+22/09/2020
+14.911,94
+sistema de controle financeiro.
+23/10/2020 11:08:38
+pagina: 6
+habitacional pinheiro imoveis ltda
+4260q - relatório de contas pagas por obra ou filial (completo com quebra).
+nº
+fornecedor
+valor 
+valor
+atividade
+data 
+vencimento
+cheque
+caixa/conta
+con
+documento
+seção
+data 
+pagamento
+data:
+25/09/2020
+0000023548
+cofins
+4.302,63
+25/09/2020
+banco itau
+cofins
+n
+2.07.01.04
+guia
+escritório
+25/09/2020
+0000023617
+charles diogo de araujo
+2.529,00
+25/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+25/09/2020
+0000023783
+valcy silva
+1.090,00
+25/09/2020
+banco itau
+comissões
+n
+4.01.06.01
+comprova
+escritório
+25/09/2020
+0000023783
+valcy silva
+950,00
+25/09/2020
+banco itau
+comissões
+n
+4.01.06.01
+comprova
+escritório
+25/09/2020
+0000020578
+balbino soares ferreira filho
+848,53
+25/09/2020
+banco itau
+rescisao contratual lote
+n
+4.01.06.03
+comprova
+escritório
+25/09/2020
+0000023079
+pis
+932,24
+25/09/2020
+banco itau
+pis
+n
+2.07.01.01
+guia
+escritório
+25/09/2020
+0000023573
+hudson  candido pires
+4.360,00
+25/09/2020
+banco itau
+comissões
+n
+4.01.06.01
+comprova
+escritório
+25/09/2020
+0000023573
+hudson  candido pires
+3.800,00
+25/09/2020
+banco itau
+comissões
+n
+4.01.06.01
+comprova
+escritório
+25/09/2020
+0000023666
+tar/custas cobrança
+5,79
+25/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+25/09/2020
+0000023852
+a nascente distribuidora de bebidas e 
+96,00
+25/09/2020
+banco itau
+água
+n
+2.03.01.01
+nota 
+escritório
+25/09/2020
+total da data:
+25/09/2020
+18.914,19
+data:
+28/09/2020
+0000023666
+tar/custas cobrança
+3,86
+28/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+28/09/2020
+0000023314
+itau vida global
+340,77
+28/09/2020
+banco itau
+seguros - diversos
+n
+2.03.06.99
+comprova
+escritório
+28/09/2020
+total da data:
+28/09/2020
+344,63
+data:
+29/09/2020
+0000023666
+tar/custas cobrança
+1,93
+29/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+29/09/2020
+total da data:
+29/09/2020
+1,93
+data:
+30/09/2020
+0000023666
+tar/custas cobrança
+3,86
+30/09/2020
+banco itau
+tarifas bancárias diversas (ted, doc, 
+n
+2.10.02.01
+despesas 
+despesas  bancos
+30/09/2020
+0000023833
+itr corrego pontal 11,2 ha  ( jardim santa 
+15,00
+30/09/2020
+banco itau
+itr ( imposto territorial rural)
+n
+2.07.01.31
+guia
+escritório
+30/09/2020
+0000023835
+itr  29,0 ha ( alto limoeiro) nif 2.947.642-9
+10,00
+30/09/2020
+banco itau
+itr ( imposto territorial rural)
+n
+2.07.01.31
+guia
+escritório
+30/09/2020
+0000023837
+itr limoeiro 6,3 ha (nirf 1.624.244-0 e6.728.284-
+27,00
+30/09/2020
+banco itau
+itr ( imposto territorial rural)
+n
+2.07.01.31
+guia
+escritório
+30/09/2020
+0000023839
+itr fazenda corrego novo 26,3 ha nif 
+10,00
+30/09/2020
+banco itau
+itr ( imposto territorial rural)
+n
+2.07.01.31
+guia
+escritório
+30/09/2020
+sistema de controle financeiro.
+23/10/2020 11:08:38
+pagina: 7
+habitacional pinheiro imoveis ltda
+4260q - relatório de contas pagas por obra ou filial (completo com quebra).
+nº
+fornecedor
+valor 
+valor
+atividade
+data 
+vencimento
+cheque
+caixa/conta
+con
+documento
+seção
+data 
+pagamento
+0000023841
+itr pontal alegre 1,8 ha nirf 5.071.462-7
+13,50
+30/09/2020
+banco itau
+itr ( imposto territorial rural)
+n
+2.07.01.31
+guia
+escritório
+30/09/2020
+0000023843
+itr corrego pontal 2,8 ha nirf 5.071.521-6
+10,00
+30/09/2020
+banco itau
+itr ( imposto territorial rural)
+n
+2.07.01.31
+guia
+escritório
+30/09/2020
+0000023845
+itr ( corrego pontal ) 0,1 ha nirf: 8.066.285-4
+10,00
+30/09/2020
+banco itau
+itr ( imposto territorial rural)
+n
+2.07.01.31
+guia
+escritório
+30/09/2020
+0000022690
+serasa s/a
+424,71
+30/09/2020
+banco itau
+serasa ( serviços contratados)
+n
+2.03.01.12
+nota 
+escritório
+30/09/2020
+total da data:
+30/09/2020
+524,07
+número de registros listados: 111
+139.011,22
+totais:
+total conciliado:
+total não conciliado:
+0,00
+139.011,22

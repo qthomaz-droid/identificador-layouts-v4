@@ -1,0 +1,3273 @@
+fechamento de conta financeira
+pag.: 1 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+conta:
+0001 - banco do brasil
+data: 02/10/2023
+saldo anterior:
+(29.532,79)
+l - 00012
+4.478,96
+0,00
+(25.053,83)
+receita banco do brasil
+l - 00013
+6.648,06
+0,00
+(18.405,77)
+receita coelba
+t - 00001
+2.738,46
+0,00
+(15.667,31)
+bb rende fácil
+t - 00002
+2.738,46
+0,00
+(12.928,85)
+bb rende fácil
+l - 00014
+0,00
+3,45
+(12.932,30)
+tarifas bancárias
+l - 00016
+0,00
+5,65
+(12.937,95)
+tarifas bancárias
+l - 00018
+0,00
+22,39
+(12.960,34)
+tarifas bancárias
+l - 00015
+0,00
+39,48
+(12.999,82)
+tarifas bancárias
+l - 00011
+0,00
+108,00
+(13.107,82)
+material de expediente e escritório
+l - 00017
+0,00
+129,92
+(13.237,74)
+tarifas bancárias
+l - 00003
+0,00
+225,00
+(13.462,74)
+consultoria - medicina e segurança do trabalho
+l - 00006
+0,00
+557,17
+(14.019,91)
+combustível, juros pagos
+0001
+setor administrativo
+548,45
+combustível
+obs (rateio): pagamento referente a nota fiscal nº 80449 do fornecedor posto seabra ltda .
+0001
+setor administrativo
+8,72
+juros pagos
+obs (rateio): pagamento referente a nota fiscal nº 80449 do fornecedor posto seabra ltda .
+l - 00004
+0,00
+579,22
+(14.599,13)
+monitoramento de veículos
+l - 00008
+0,00
+900,00
+(15.499,13)
+prestação serviços pf
+l - 00005
+0,00
+1.032,00
+(16.531,13)
+prestação serviços pf
+l - 00009
+0,00
+1.200,00
+(17.731,13)
+repasse operador
+l - 00007
+0,00
+1.298,94
+(19.030,07)
+manutenção de sist. de informática
+l - 00001
+0,00
+2.000,00
+(21.030,07)
+caixa físico
+l - 00010
+0,00
+2.400,00
+(23.430,07)
+tubos, outros materiais hidráulicos, conexões, outros materiais
+0001
+setor de manutenção
+249,48
+tubos
+obs (rateio): pagamento referente a nota fiscal nº 70 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+0001
+setor de manutenção
+682,48
+outros materiais hidráulicos
+obs (rateio): pagamento referente a nota fiscal nº 70 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+0001
+setor de manutenção
+1.387,46
+conexões
+obs (rateio): pagamento referente a nota fiscal nº 70 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+0001
+setor de manutenção
+80,58
+outros materiais
+obs (rateio): pagamento referente a nota fiscal nº 70 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+l - 00002
+0,00
+3.364,26
+(26.794,33)
+comissão de agentes credenciados
+(26.794,33)
+total da data(02/10/2023):
+16.603,94
+13.865,48
+data: 03/10/2023
+saldo anterior:
+(26.794,33)
+l - 00007
+12.618,45
+0,00
+(14.175,88)
+receita coelba
+l - 00006
+7.324,85
+0,00
+(6.851,03)
+receita banco do brasil
+l - 00010
+0,00
+1,13
+(6.852,16)
+tarifas bancárias
+l - 00014
+0,00
+10,00
+(6.862,16)
+tarifas bancárias
+l - 00011
+0,00
+11,30
+(6.873,46)
+tarifas bancárias
+l - 00013
+0,00
+11,50
+(6.884,96)
+tarifas bancárias
+l - 00008
+0,00
+13,80
+(6.898,76)
+tarifas bancárias
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 2 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00004
+0,00
+35,00
+(6.933,76)
+serviços de terceiros de operação/abastecimento
+l - 00005
+0,00
+48,00
+(6.981,76)
+outros materiais hidráulicos
+l - 00009
+0,00
+49,82
+(7.031,58)
+tarifas bancárias
+l - 00012
+0,00
+184,80
+(7.216,38)
+tarifas bancárias
+l - 00001
+0,00
+864,00
+(8.080,38)
+diarias
+l - 00002
+0,00
+871,00
+(8.951,38)
+diarias
+l - 00003
+0,00
+955,00
+(9.906,38)
+diarias
+l - 00015
+0,00
+5.000,00
+(14.906,38)
+caixa físico
+t - 00002
+0,00
+16.887,95
+(31.794,33)
+bb rende fácil
+t - 00001
+0,00
+16.887,95
+(48.682,28)
+bb rende fácil
+(48.682,28)
+total da data(03/10/2023):
+19.943,30
+41.831,25
+data: 04/10/2023
+saldo anterior:
+(48.682,28)
+l - 00014
+30,00
+0,00
+(48.652,28)
+devolução de diárias
+l - 00004
+14.295,47
+0,00
+(34.356,81)
+receita banco do brasil
+l - 00005
+11.704,37
+0,00
+(22.652,44)
+receita coelba
+l - 00008
+0,00
+1,13
+(22.653,57)
+tarifas bancárias
+l - 00013
+0,00
+10,45
+(22.664,02)
+tarifas bancárias
+l - 00011
+0,00
+11,50
+(22.675,52)
+tarifas bancárias
+l - 00012
+0,00
+11,50
+(22.687,02)
+tarifas bancárias
+l - 00009
+0,00
+22,60
+(22.709,62)
+tarifas bancárias
+l - 00006
+0,00
+41,40
+(22.751,02)
+tarifas bancárias
+l - 00001
+0,00
+70,00
+(22.821,02)
+materiais diversos de eletrica
+l - 00007
+0,00
+132,54
+(22.953,56)
+tarifas bancárias
+l - 00010
+0,00
+269,92
+(23.223,48)
+tarifas bancárias
+l - 00003
+0,00
+295,04
+(23.518,52)
+combustível
+l - 00002
+0,00
+800,00
+(24.318,52)
+serviços de terceiros de operação/abastecimento
+t - 00002
+0,00
+24.363,76
+(48.682,28)
+bb rende fácil
+t - 00001
+0,00
+24.363,76
+(73.046,04)
+bb rende fácil
+(73.046,04)
+total da data(04/10/2023):
+26.029,84
+50.393,60
+data: 05/10/2023
+saldo anterior:
+(73.046,04)
+l - 00060
+5.880,44
+0,00
+(67.165,60)
+receita coelba
+l - 00059
+5.579,19
+0,00
+(61.586,41)
+receita banco do brasil
+t - 00001
+39.834,63
+0,00
+(21.751,78)
+bb rende fácil
+t - 00002
+39.834,63
+0,00
+18.082,85
+bb rende fácil
+l - 00063
+0,00
+1,13
+18.081,72
+tarifas bancárias
+l - 00096
+0,00
+2,92
+18.078,80
+tarifas bancárias
+l - 00064
+0,00
+5,65
+18.073,15
+tarifas bancárias
+l - 00061
+0,00
+6,90
+18.066,25
+tarifas bancárias
+l - 00095
+0,00
+11,50
+18.054,75
+tarifas bancárias
+l - 00075
+0,00
+11,50
+18.043,25
+tarifas bancárias
+l - 00074
+0,00
+11,50
+18.031,75
+tarifas bancárias
+l - 00076
+0,00
+11,50
+18.020,25
+tarifas bancárias
+l - 00073
+0,00
+11,50
+18.008,75
+tarifas bancárias
+l - 00072
+0,00
+11,50
+17.997,25
+tarifas bancárias
+l - 00070
+0,00
+11,50
+17.985,75
+tarifas bancárias
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 3 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00069
+0,00
+11,50
+17.974,25
+tarifas bancárias
+l - 00066
+0,00
+11,50
+17.962,75
+tarifas bancárias
+l - 00067
+0,00
+11,50
+17.951,25
+tarifas bancárias
+l - 00068
+0,00
+11,50
+17.939,75
+tarifas bancárias
+l - 00071
+0,00
+11,50
+17.928,25
+tarifas bancárias
+l - 00078
+0,00
+11,50
+17.916,75
+tarifas bancárias
+l - 00079
+0,00
+11,50
+17.905,25
+tarifas bancárias
+l - 00090
+0,00
+11,50
+17.893,75
+tarifas bancárias
+l - 00091
+0,00
+11,50
+17.882,25
+tarifas bancárias
+l - 00092
+0,00
+11,50
+17.870,75
+tarifas bancárias
+l - 00093
+0,00
+11,50
+17.859,25
+tarifas bancárias
+l - 00094
+0,00
+11,50
+17.847,75
+tarifas bancárias
+l - 00089
+0,00
+11,50
+17.836,25
+tarifas bancárias
+l - 00088
+0,00
+11,50
+17.824,75
+tarifas bancárias
+l - 00086
+0,00
+11,50
+17.813,25
+tarifas bancárias
+l - 00080
+0,00
+11,50
+17.801,75
+tarifas bancárias
+l - 00081
+0,00
+11,50
+17.790,25
+tarifas bancárias
+l - 00082
+0,00
+11,50
+17.778,75
+tarifas bancárias
+l - 00083
+0,00
+11,50
+17.767,25
+tarifas bancárias
+l - 00084
+0,00
+11,50
+17.755,75
+tarifas bancárias
+l - 00077
+0,00
+11,50
+17.744,25
+tarifas bancárias
+l - 00087
+0,00
+11,50
+17.732,75
+tarifas bancárias
+l - 00085
+0,00
+11,50
+17.721,25
+tarifas bancárias
+l - 00022
+0,00
+24,00
+17.697,25
+repasse taxa administração
+l - 00055
+0,00
+38,50
+17.658,75
+outros materiais
+l - 00052
+0,00
+41,80
+17.616,95
+manutenção de sist. de informática, juros pagos
+0001
+setor administrativo
+40,00
+manutenção de sist. de inform
+obs (rateio): pagamento referente a nota fiscal nº 51453 do fornecedor dixi vext comercio de equipamentos 
+eletronicos e sistemas ltda .
+0001
+setor administrativo
+1,80
+juros pagos
+obs (rateio): pagamento referente a nota fiscal nº 51453 do fornecedor dixi vext comercio de equipamentos 
+eletronicos e sistemas ltda .
+l - 00062
+0,00
+43,24
+17.573,71
+tarifas bancárias
+l - 00012
+0,00
+58,50
+17.515,21
+repasse taxa administração
+l - 00045
+0,00
+79,00
+17.436,21
+repasse taxa administração
+l - 00047
+0,00
+90,00
+17.346,21
+repasse taxa administração
+l - 00021
+0,00
+96,00
+17.250,21
+repasse operador
+l - 00038
+0,00
+100,00
+17.150,21
+repasse taxa administração
+l - 00029
+0,00
+106,00
+17.044,21
+repasse taxa administração
+l - 00065
+0,00
+114,24
+16.929,97
+tarifas bancárias
+l - 00009
+0,00
+126,00
+16.803,97
+repasse taxa administração
+l - 00046
+0,00
+128,00
+16.675,97
+repasse taxa administração
+l - 00032
+0,00
+128,00
+16.547,97
+repasse taxa administração
+l - 00051
+0,00
+140,00
+16.407,97
+repasse taxa administração
+l - 00030
+0,00
+176,00
+16.231,97
+repasse taxa administração
+l - 00007
+0,00
+185,00
+16.046,97
+repasse taxa administração
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 4 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00054
+0,00
+210,00
+15.836,97
+serviços de terceiros de operação/abastecimento
+l - 00041
+0,00
+255,00
+15.581,97
+repasse taxa administração
+l - 00004
+0,00
+256,50
+15.325,47
+repasse energia, repasse taxa administração
+0001
+várzea da pedra
+148,50
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de várzea da pedra do mês 09/2023
+0001
+várzea da pedra
+108,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de várzea da pedra do mês 09/2023
+l - 00019
+0,00
+364,00
+14.961,47
+repasse taxa administração
+l - 00017
+0,00
+369,00
+14.592,47
+repasse operador, repasse taxa administração
+0001
+pajeú do botuquara
+307,50
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de pajeú do botuquara do mês 09/2023
+0001
+pajeú do botuquara
+61,50
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de pajeú do botuquara do mês 09/2023
+l - 00058
+0,00
+420,00
+14.172,47
+outras despesas
+l - 00016
+0,00
+459,00
+13.713,47
+repasse operador, repasse taxa administração
+0001
+leite
+408,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de leite do mês 09/2023
+0001
+leite
+51,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de leite do mês 09/2023
+l - 00025
+0,00
+468,00
+13.245,47
+repasse taxa administração
+l - 00035
+0,00
+504,00
+12.741,47
+repasse operador, repasse taxa administração
+0001
+angico
+420,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de angico do mês 09/2023
+0001
+angico
+84,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de angico do mês 09/2023
+l - 00008
+0,00
+511,00
+12.230,47
+repasse operador, repasse taxa administração
+0001
+invernada
+365,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de invernada do mês 09/2023
+0001
+invernada
+146,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de invernada do mês 09/2023
+l - 00024
+0,00
+518,50
+11.711,97
+repasse operador, repasse taxa administração
+0001
+poção do santo antô
+396,50
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de poção do santo antônio do mês 09/2023
+0001
+poção do santo antô
+122,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de poção do santo antônio do mês 09/2023
+l - 00036
+0,00
+540,00
+11.171,97
+repasse operador, repasse taxa administração
+0001
+capão da ripa
+450,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de capão da ripa do mês 09/2023
+0001
+capão da ripa
+90,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de capão da ripa do mês 09/2023
+l - 00049
+0,00
+567,00
+10.604,97
+repasse operador, repasse taxa administração
+0001
+alto do murici
+504,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de alto do murici do mês 09/2023
+0001
+alto do murici
+63,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de alto do murici do mês 09/2023
+l - 00044
+0,00
+568,00
+10.036,97
+repasse operador, repasse taxa administração
+0001
+malhada grande
+426,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de malhada grande do mês 09/2023
+0001
+malhada grande
+142,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de malhada grande do mês 09/2023
+l - 00014
+0,00
+576,00
+9.460,97
+repasse operador, repasse taxa administração
+0001
+são josé
+504,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de são josé do mês 09/2023
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 5 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+0001
+são josé
+72,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de são josé do mês 09/2023
+l - 00011
+0,00
+579,50
+8.881,47
+repasse operador, repasse taxa administração
+0001
+lagoa de dentro
+457,50
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa de dentro do mês 09/2023
+0001
+lagoa de dentro
+122,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa de dentro do mês 09/2023
+l - 00048
+0,00
+589,50
+8.291,97
+repasse operador, repasse taxa administração
+0001
+murici
+458,50
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de murici do mês 09/2023
+0001
+murici
+131,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de murici do mês 09/2023
+l - 00026
+0,00
+605,13
+7.686,84
+repasse operador, repasse energia, repasse taxa administração
+0001
+lagoa de cima
+270,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa de cima do mês 09/2023
+0001
+lagoa de cima
+281,13
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa de cima do mês 09/2023
+0001
+lagoa de cima
+54,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa de cima do mês 09/2023
+l - 00031
+0,00
+640,00
+7.046,84
+repasse operador
+l - 00034
+0,00
+660,00
+6.386,84
+repasse operador, repasse taxa administração
+0001
+mulungu
+528,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de mulungu do mês 09/2023
+0001
+mulungu
+132,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de mulungu do mês 09/2023
+l - 00028
+0,00
+680,00
+5.706,84
+repasse operador, repasse taxa administração
+0001
+várzea suja
+595,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de várzea suja do mês 09/2023
+0001
+várzea suja
+85,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de várzea suja do mês 09/2023
+l - 00001
+0,00
+693,27
+5.013,57
+repasse operador, repasse energia, repasse taxa administração
+0001
+pereiros
+260,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de pereiros do mês 092023
+0001
+pereiros
+303,27
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de pereiros do mês 092023
+0001
+pereiros
+130,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de pereiros do mês 092023
+l - 00097
+0,00
+724,50
+4.289,07
+repasse operador, repasse taxa administração
+0001
+lagoa do bino
+630,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa do bino do mês 09/2023
+0001
+lagoa do bino
+94,50
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa do bino do mês 09/2023
+l - 00027
+0,00
+807,78
+3.481,29
+repasse operador, repasse energia, repasse taxa administração
+0001
+malhada do juá
+351,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de malhada do juá do mês 09/2023
+0001
+malhada do juá
+348,78
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de malhada do juá do mês 09/2023
+0001
+malhada do juá
+108,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de malhada do juá do mês 09/2023
+l - 00056
+0,00
+809,15
+2.672,14
+outros materiais hidráulicos
+l - 00005
+0,00
+830,00
+1.842,14
+repasse operador, repasse taxa administração
+0001
+boca do campo
+498,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de boca do campo do mês 09/2023
+0001
+boca do campo
+332,00
+repasse taxa administração
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 6 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+obs (rateio): pagamento referente ao repasse para comunidade de boca do campo do mês 09/2023
+l - 00010
+0,00
+858,00
+984,14
+repasse operador, repasse taxa administração
+0001
+saco dos bois
+572,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de saco dos bois do mês 09/2023
+0001
+saco dos bois
+286,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de saco dos bois do mês 09/2023
+l - 00040
+0,00
+900,13
+84,01
+repasse operador, repasse energia, repasse taxa administração
+0001
+mocambo
+140,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de mocambo do mês 09/2023
+0001
+mocambo
+690,13
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de mocambo do mês 09/2023
+0001
+mocambo
+70,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de mocambo do mês 09/2023
+l - 00050
+0,00
+980,00
+(895,99)
+repasse operador
+l - 00053
+0,00
+1.021,25
+(1.917,24)
+diarias
+l - 00033
+0,00
+1.042,50
+(2.959,74)
+repasse operador
+l - 00018
+0,00
+1.092,00
+(4.051,74)
+repasse operador
+l - 00006
+0,00
+1.110,00
+(5.161,74)
+repasse operador
+l - 00020
+0,00
+1.124,59
+(6.286,33)
+repasse operador, repasse energia, repasse taxa administração
+0001
+conceição
+666,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de conceição do mês 09/2023
+0001
+conceição
+236,59
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de conceição do mês 09/2023
+0001
+conceição
+222,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de conceição do mês 09/2023
+l - 00003
+0,00
+1.262,44
+(7.548,77)
+repasse operador, repasse energia
+0001
+ponte
+405,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de ponte do mês 09/2023
+0001
+ponte
+857,44
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de ponte do mês 09/2023
+l - 00015
+0,00
+1.456,00
+(9.004,77)
+repasse operador, repasse taxa administração
+0001
+lagoa do maciel
+1.092,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa do maciel do mês 09/2023
+0001
+lagoa do maciel
+364,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa do maciel do mês 09/2023
+l - 00039
+0,00
+1.479,79
+(10.484,56)
+repasse operador, repasse energia, repasse taxa administração
+0001
+macambira
+228,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de macambira do mês 09/2023
+0001
+macambira
+1.137,79
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de macambira do mês 09/2023
+0001
+macambira
+114,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de macambira do mês 09/2023
+l - 00057
+0,00
+2.100,00
+(12.584,56)
+equip. de bombeio
+l - 00042
+0,00
+2.594,63
+(15.179,19)
+repasse operador, repasse energia
+0001
+teiu linha
+595,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de teiu linha do mês 09/2023
+0001
+teiu linha
+1.999,63
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de teiu linha do mês 09/2023
+l - 00037
+0,00
+3.338,77
+(18.517,96)
+repasse operador, repasse energia, repasse taxa administração
+0001
+lagoa clara
+854,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa clara do mês 09/2023
+0001
+lagoa clara
+2.269,77
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa clara do mês 09/2023
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 7 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+0001
+lagoa clara
+215,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de lagoa clara do mês 09/2023
+l - 00043
+0,00
+3.728,34
+(22.246,30)
+repasse operador, repasse energia, repasse taxa administração
+0001
+volta da serra
+791,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de volta da serra do mês 09/2023
+0001
+volta da serra
+2.485,34
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de volta da serra do mês 09/2023
+0001
+volta da serra
+452,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de volta da serra do mês 09/2023
+l - 00002
+0,00
+4.021,66
+(26.267,96)
+repasse operador, repasse energia
+0001
+salina
+1.134,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de salina do mês 09/2023
+0001
+salina
+2.887,66
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de salina do mês 09/2023
+l - 00023
+0,00
+6.943,45
+(33.211,41)
+repasse operador, repasse energia, repasse taxa administração
+0001
+paulista
+1.870,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de paulista do mês 09/2023
+0001
+paulista
+4.699,45
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de paulista do mês 09/2023
+0001
+paulista
+374,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de paulista do mês 09/2023
+(33.211,41)
+total da data(05/10/2023):
+91.128,89
+51.294,26
+data: 06/10/2023
+saldo anterior:
+(33.211,41)
+l - 00013
+3.815,50
+0,00
+(29.395,91)
+receita coelba
+l - 00025
+202,00
+0,00
+(29.193,91)
+estornos
+l - 00026
+638,00
+0,00
+(28.555,91)
+estornos
+l - 00012
+3.987,36
+0,00
+(24.568,55)
+receita banco do brasil
+t - 00001
+11.361,07
+0,00
+(13.207,48)
+bb rende fácil
+t - 00002
+11.361,07
+0,00
+(1.846,41)
+bb rende fácil
+l - 00024
+0,00
+6,22
+(1.852,63)
+tarifas bancárias
+l - 00016
+0,00
+7,91
+(1.860,54)
+tarifas bancárias
+l - 00014
+0,00
+8,05
+(1.868,59)
+tarifas bancárias
+l - 00020
+0,00
+11,50
+(1.880,09)
+tarifas bancárias
+l - 00019
+0,00
+11,50
+(1.891,59)
+tarifas bancárias
+l - 00023
+0,00
+11,50
+(1.903,09)
+tarifas bancárias
+l - 00022
+0,00
+11,50
+(1.914,59)
+tarifas bancárias
+l - 00021
+0,00
+11,50
+(1.926,09)
+tarifas bancárias
+l - 00018
+0,00
+11,50
+(1.937,59)
+tarifas bancárias
+l - 00009
+0,00
+15,00
+(1.952,59)
+telefone
+l - 00015
+0,00
+31,96
+(1.984,55)
+tarifas bancárias
+l - 00017
+0,00
+97,44
+(2.081,99)
+tarifas bancárias
+l - 00027
+0,00
+202,00
+(2.283,99)
+ted devolvida - despesa
+l - 00008
+0,00
+550,00
+(2.833,99)
+repasse operador
+l - 00007
+0,00
+610,00
+(3.443,99)
+repasse operador
+l - 00002
+0,00
+620,00
+(4.063,99)
+repasse operador, repasse taxa administração
+0001
+curral queimado
+496,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de curral queimado do mês 09/2023
+0001
+curral queimado
+124,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de curral queimado do mês 09/2023
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 8 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00028
+0,00
+638,00
+(4.701,99)
+ted devolvida - despesa
+l - 00029
+0,00
+650,00
+(5.351,99)
+investimentos roformas/estruturas
+l - 00001
+0,00
+800,00
+(6.151,99)
+repasse operador
+l - 00003
+0,00
+980,00
+(7.131,99)
+repasse operador, repasse taxa administração
+0001
+boqueirãozinho
+784,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de boqueirãozinho do mês 09/2023
+0001
+boqueirãozinho
+196,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de boqueirãozinho do mês 09/2023
+l - 00006
+0,00
+1.360,00
+(8.491,99)
+repasse taxa administração
+l - 00004
+0,00
+1.620,00
+(10.111,99)
+repasse operador, repasse taxa administração
+0001
+juá e barreirinho
+1.296,00
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de juá e barreirinho do mês 09/2023
+0001
+juá e barreirinho
+324,00
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de juá e barreirinho do mês 09/2023
+l - 00010
+0,00
+2.716,71
+(12.828,70)
+manutenção de veiculos
+l - 00005
+0,00
+9.021,64
+(21.850,34)
+repasse operador, repasse energia, repasse taxa administração
+0001
+canafístula
+1.993,50
+repasse operador
+obs (rateio): pagamento referente ao repasse para comunidade de canafístula do mês 09/2023
+0001
+canafístula
+6.727,64
+repasse energia
+obs (rateio): pagamento referente ao repasse para comunidade de canafístula do mês 09/2023
+0001
+canafístula
+300,50
+repasse taxa administração
+obs (rateio): pagamento referente ao repasse para comunidade de canafístula do mês 09/2023
+(21.850,34)
+total da data(06/10/2023):
+31.365,00
+20.003,93
+data: 09/10/2023
+saldo anterior:
+(21.850,34)
+l - 00002
+5.087,96
+0,00
+(16.762,38)
+receita coelba
+l - 00001
+4.309,15
+0,00
+(12.453,23)
+receita banco do brasil
+l - 00003
+0,00
+14,95
+(12.468,18)
+tarifas bancárias
+l - 00005
+0,00
+15,82
+(12.484,00)
+tarifas bancárias
+l - 00007
+0,00
+16,43
+(12.500,43)
+tarifas bancárias
+l - 00004
+0,00
+17,86
+(12.518,29)
+tarifas bancárias
+l - 00006
+0,00
+73,92
+(12.592,21)
+tarifas bancárias
+t - 00001
+0,00
+9.258,13
+(21.850,34)
+bb rende fácil
+t - 00002
+0,00
+9.258,13
+(31.108,47)
+bb rende fácil
+(31.108,47)
+total da data(09/10/2023):
+9.397,11
+18.655,24
+data: 10/10/2023
+saldo anterior:
+(31.108,47)
+l - 00012
+5.800,81
+0,00
+(25.307,66)
+receita coelba
+l - 00001
+202,00
+0,00
+(25.105,66)
+estornos
+l - 00011
+3.773,95
+0,00
+(21.331,71)
+receita banco do brasil
+l - 00015
+0,00
+1,13
+(21.332,84)
+tarifas bancárias
+l - 00010
+0,00
+4,01
+(21.336,85)
+manutenção de sist. de informática, juros pagos
+0001
+setor administrativo
+4,00
+manutenção de sist. de inform
+obs (rateio): pagamento referente a nota fiscal nº 52603 do fornecedor dixi vext comercio de equipamentos 
+eletronicos e sistemas ltda .
+0001
+setor administrativo
+0,01
+juros pagos
+obs (rateio): pagamento referente a nota fiscal nº 52603 do fornecedor dixi vext comercio de equipamentos 
+eletronicos e sistemas ltda .
+l - 00016
+0,00
+5,65
+(21.342,50)
+tarifas bancárias
+l - 00013
+0,00
+9,20
+(21.351,70)
+tarifas bancárias
+l - 00018
+0,00
+11,50
+(21.363,20)
+tarifas bancárias
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 9 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00019
+0,00
+11,50
+(21.374,70)
+tarifas bancárias
+l - 00021
+0,00
+11,50
+(21.386,20)
+tarifas bancárias
+l - 00020
+0,00
+11,50
+(21.397,70)
+tarifas bancárias
+l - 00014
+0,00
+19,74
+(21.417,44)
+tarifas bancárias
+l - 00002
+0,00
+25,00
+(21.442,44)
+repasse taxa administração
+l - 00009
+0,00
+50,00
+(21.492,44)
+cursos e seminários
+l - 00022
+0,00
+69,00
+(21.561,44)
+tarifas bancárias
+l - 00017
+0,00
+79,52
+(21.640,96)
+tarifas bancárias
+l - 00001
+0,00
+101,00
+(21.741,96)
+repasse operador
+l - 00003
+0,00
+202,00
+(21.943,96)
+repasse taxa administração
+l - 00007
+0,00
+250,00
+(22.193,96)
+cursos e seminários
+l - 00008
+0,00
+347,50
+(22.541,46)
+repasse operador
+l - 00004
+0,00
+420,00
+(22.961,46)
+outras despesas
+l - 00005
+0,00
+638,00
+(23.599,46)
+manutenção de veiculos
+l - 00006
+0,00
+3.040,00
+(26.639,46)
+ass. administrativa
+t - 00001
+0,00
+4.469,01
+(31.108,47)
+bb rende fácil
+t - 00002
+0,00
+4.469,01
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(10/10/2023):
+9.776,76
+14.245,77
+data: 11/10/2023
+saldo anterior:
+(35.577,48)
+l - 00016
+8.083,98
+0,00
+(27.493,50)
+devoluções
+l - 00006
+5.010,67
+0,00
+(22.482,83)
+receita banco do brasil
+l - 00007
+3.384,89
+0,00
+(19.097,94)
+receita coelba
+l - 00008
+4.143,49
+0,00
+(14.954,45)
+receita coelba
+l - 00015
+0,00
+4,15
+(14.958,60)
+tarifas bancárias
+l - 00011
+0,00
+4,52
+(14.963,12)
+tarifas bancárias
+l - 00009
+0,00
+10,35
+(14.973,47)
+tarifas bancárias
+l - 00013
+0,00
+11,50
+(14.984,97)
+tarifas bancárias
+l - 00014
+0,00
+11,50
+(14.996,47)
+tarifas bancárias
+l - 00004
+0,00
+35,00
+(15.031,47)
+serviços de terceiros de operação/abastecimento
+l - 00002
+0,00
+35,00
+(15.066,47)
+serviços de terceiros de operação/abastecimento
+l - 00001
+0,00
+40,00
+(15.106,47)
+manutenção de veiculos
+l - 00010
+0,00
+57,34
+(15.163,81)
+tarifas bancárias
+l - 00003
+0,00
+70,00
+(15.233,81)
+serviços de terceiros de operação/abastecimento
+l - 00012
+0,00
+112,00
+(15.345,81)
+tarifas bancárias
+l - 00005
+0,00
+131,25
+(15.477,06)
+serviços de terceiros de operação/abastecimento
+t - 00001
+0,00
+20.100,42
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(11/10/2023):
+20.623,03
+20.623,03
+data: 13/10/2023
+saldo anterior:
+(35.577,48)
+l - 00011
+2.230,57
+0,00
+(33.346,91)
+receita banco do brasil
+t - 00001
+2.581,94
+0,00
+(30.764,97)
+bb rende fácil
+l - 00016
+0,00
+1,00
+(30.765,97)
+tarifas bancárias
+l - 00012
+0,00
+4,60
+(30.770,57)
+tarifas bancárias
+l - 00014
+0,00
+6,78
+(30.777,35)
+tarifas bancárias
+l - 00017
+0,00
+11,50
+(30.788,85)
+tarifas bancárias
+l - 00013
+0,00
+32,90
+(30.821,75)
+tarifas bancárias
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 10 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00015
+0,00
+35,84
+(30.857,59)
+tarifas bancárias
+l - 00007
+0,00
+70,00
+(30.927,59)
+serviços de terceiros de operação/abastecimento
+l - 00006
+0,00
+70,00
+(30.997,59)
+serviços de terceiros de operação/abastecimento
+l - 00004
+0,00
+99,90
+(31.097,49)
+internet
+l - 00002
+0,00
+130,00
+(31.227,49)
+manutenção de veiculos
+l - 00009
+0,00
+412,09
+(31.639,58)
+seguros de veiculos
+l - 00005
+0,00
+444,44
+(32.084,02)
+frete
+l - 00003
+0,00
+533,01
+(32.617,03)
+manutenção de sist. de informática
+l - 00018
+0,00
+629,00
+(33.246,03)
+investimentos roformas/estruturas
+l - 00001
+0,00
+1.046,00
+(34.292,03)
+manutenção de veiculos
+l - 00010
+0,00
+1.285,45
+(35.577,48)
+seguros de veiculos
+(35.577,48)
+total da data(13/10/2023):
+4.812,51
+4.812,51
+data: 16/10/2023
+saldo anterior:
+(35.577,48)
+l - 00006
+2.859,46
+0,00
+(32.718,02)
+receita banco do brasil
+l - 00007
+3.351,00
+0,00
+(29.367,02)
+receita coelba
+l - 00008
+0,00
+3,45
+(29.370,47)
+tarifas bancárias
+l - 00012
+0,00
+5,39
+(29.375,86)
+tarifas bancárias
+l - 00013
+0,00
+11,50
+(29.387,36)
+tarifas bancárias
+l - 00010
+0,00
+18,08
+(29.405,44)
+tarifas bancárias
+l - 00009
+0,00
+34,78
+(29.440,22)
+tarifas bancárias
+l - 00011
+0,00
+56,00
+(29.496,22)
+tarifas bancárias
+l - 00002
+0,00
+150,00
+(29.646,22)
+desp. conselho de gestão e fiscal
+l - 00001
+0,00
+150,00
+(29.796,22)
+desp. conselho de gestão e fiscal
+l - 00004
+0,00
+150,00
+(29.946,22)
+desp. conselho de gestão e fiscal
+l - 00005
+0,00
+498,32
+(30.444,54)
+seguros de veiculos
+t - 00001
+0,00
+2.202,94
+(32.647,48)
+bb rende fácil
+l - 00003
+0,00
+2.930,00
+(35.577,48)
+manutenção de veiculos
+(35.577,48)
+total da data(16/10/2023):
+6.210,46
+6.210,46
+data: 17/10/2023
+saldo anterior:
+(35.577,48)
+l - 00009
+2.257,25
+0,00
+(33.320,23)
+receita coelba
+l - 00008
+5.853,63
+0,00
+(27.466,60)
+receita banco do brasil
+t - 00001
+846,04
+0,00
+(26.620,56)
+bb rende fácil
+l - 00016
+0,00
+10,00
+(26.630,56)
+tarifas bancárias
+l - 00012
+0,00
+11,30
+(26.641,86)
+tarifas bancárias
+l - 00014
+0,00
+11,50
+(26.653,36)
+tarifas bancárias
+l - 00015
+0,00
+11,50
+(26.664,86)
+tarifas bancárias
+l - 00010
+0,00
+17,25
+(26.682,11)
+tarifas bancárias
+l - 00003
+0,00
+43,75
+(26.725,86)
+serviços de terceiros de operação/abastecimento
+l - 00004
+0,00
+70,00
+(26.795,86)
+serviços de terceiros de operação/abastecimento
+l - 00011
+0,00
+70,50
+(26.866,36)
+tarifas bancárias
+l - 00013
+0,00
+99,68
+(26.966,04)
+tarifas bancárias
+l - 00002
+0,00
+552,00
+(27.518,04)
+despesas de viagem
+l - 00001
+0,00
+918,00
+(28.436,04)
+diarias
+l - 00006
+0,00
+1.311,60
+(29.747,64)
+conexões
+l - 00005
+0,00
+1.755,00
+(31.502,64)
+tubos
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 11 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00007
+0,00
+4.074,84
+(35.577,48)
+equip. de bombeio
+(35.577,48)
+total da data(17/10/2023):
+8.956,92
+8.956,92
+data: 18/10/2023
+saldo anterior:
+(35.577,48)
+l - 00003
+5.829,94
+0,00
+(29.747,54)
+receita banco do brasil
+l - 00004
+4.994,82
+0,00
+(24.752,72)
+receita coelba
+l - 00007
+0,00
+1,13
+(24.753,85)
+tarifas bancárias
+l - 00010
+0,00
+10,00
+(24.763,85)
+tarifas bancárias
+l - 00008
+0,00
+12,43
+(24.776,28)
+tarifas bancárias
+l - 00005
+0,00
+17,25
+(24.793,53)
+tarifas bancárias
+l - 00006
+0,00
+67,68
+(24.861,21)
+tarifas bancárias
+l - 00009
+0,00
+119,84
+(24.981,05)
+tarifas bancárias
+l - 00002
+0,00
+1.664,52
+(26.645,57)
+conexões
+l - 00001
+0,00
+2.000,00
+(28.645,57)
+caixa físico
+t - 00001
+0,00
+6.931,91
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(18/10/2023):
+10.824,76
+10.824,76
+data: 19/10/2023
+saldo anterior:
+(35.577,48)
+l - 00009
+4.157,97
+0,00
+(31.419,51)
+receita coelba
+l - 00008
+4.999,72
+0,00
+(26.419,79)
+receita banco do brasil
+l - 00012
+0,00
+2,26
+(26.422,05)
+tarifas bancárias
+l - 00015
+0,00
+11,50
+(26.433,55)
+tarifas bancárias
+l - 00013
+0,00
+13,56
+(26.447,11)
+tarifas bancárias
+l - 00010
+0,00
+20,70
+(26.467,81)
+tarifas bancárias
+l - 00011
+0,00
+58,28
+(26.526,09)
+tarifas bancárias
+l - 00014
+0,00
+88,48
+(26.614,57)
+tarifas bancárias
+l - 00005
+0,00
+111,77
+(26.726,34)
+água
+l - 00004
+0,00
+240,00
+(26.966,34)
+hospedagem e refeição
+l - 00001
+0,00
+275,00
+(27.241,34)
+combustível
+l - 00006
+0,00
+303,98
+(27.545,32)
+materiais diversos de eletrica
+l - 00007
+0,00
+1.099,04
+(28.644,36)
+conexões
+l - 00003
+0,00
+1.594,57
+(30.238,93)
+manutenção de veiculos
+l - 00002
+0,00
+1.790,00
+(32.028,93)
+repasse operador
+t - 00001
+0,00
+3.548,55
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(19/10/2023):
+9.157,69
+9.157,69
+data: 20/10/2023
+saldo anterior:
+(35.577,48)
+l - 00005
+2.623,96
+0,00
+(32.953,52)
+receita banco do brasil
+l - 00006
+4.535,06
+0,00
+(28.418,46)
+receita coelba
+l - 00008
+0,00
+5,65
+(28.424,11)
+tarifas bancárias
+l - 00001
+0,00
+15,00
+(28.439,11)
+telefone
+l - 00010
+0,00
+18,09
+(28.457,20)
+tarifas bancárias
+l - 00007
+0,00
+32,90
+(28.490,10)
+tarifas bancárias
+l - 00003
+0,00
+35,00
+(28.525,10)
+serviços de terceiros de operação/abastecimento
+l - 00009
+0,00
+57,12
+(28.582,22)
+tarifas bancárias
+l - 00004
+0,00
+1.096,34
+(29.678,56)
+seguros de veiculos
+l - 00002
+0,00
+1.700,00
+(31.378,56)
+manutenção de veiculos
+l - 00011
+0,00
+1.999,58
+(33.378,14)
+manutenção de veiculos
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 12 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+t - 00001
+0,00
+2.199,34
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(20/10/2023):
+7.159,02
+7.159,02
+data: 23/10/2023
+saldo anterior:
+(35.577,48)
+l - 00015
+494,00
+0,00
+(35.083,48)
+devoluções
+l - 00007
+2.254,10
+0,00
+(32.829,38)
+receita banco do brasil
+l - 00016
+50,00
+0,00
+(32.779,38)
+devoluções
+t - 00001
+7.234,21
+0,00
+(25.545,17)
+bb rende fácil
+l - 00010
+0,00
+1,13
+(25.546,30)
+tarifas bancárias
+l - 00008
+0,00
+3,45
+(25.549,75)
+tarifas bancárias
+l - 00014
+0,00
+11,00
+(25.560,75)
+tarifas bancárias
+l - 00013
+0,00
+11,50
+(25.572,25)
+tarifas bancárias
+l - 00012
+0,00
+11,50
+(25.583,75)
+tarifas bancárias
+l - 00004
+0,00
+15,00
+(25.598,75)
+telefone
+l - 00009
+0,00
+35,72
+(25.634,47)
+tarifas bancárias
+l - 00011
+0,00
+50,40
+(25.684,87)
+tarifas bancárias
+l - 00006
+0,00
+70,00
+(25.754,87)
+serviços de terceiros de operação/abastecimento
+l - 00002
+0,00
+871,00
+(26.625,87)
+diarias
+l - 00003
+0,00
+880,00
+(27.505,87)
+diarias
+l - 00001
+0,00
+886,60
+(28.392,47)
+diarias
+l - 00017
+0,00
+2.077,56
+(30.470,03)
+materiais diversos de eletrica
+l - 00005
+0,00
+5.107,45
+(35.577,48)
+recisões
+(35.577,48)
+total da data(23/10/2023):
+10.032,31
+10.032,31
+data: 24/10/2023
+saldo anterior:
+(35.577,48)
+l - 00006
+4.447,30
+0,00
+(31.130,18)
+receita banco do brasil
+l - 00007
+6.122,56
+0,00
+(25.007,62)
+receita coelba
+l - 00012
+0,00
+11,50
+(25.019,12)
+tarifas bancárias
+l - 00013
+0,00
+11,50
+(25.030,62)
+tarifas bancárias
+l - 00010
+0,00
+16,95
+(25.047,57)
+tarifas bancárias
+l - 00008
+0,00
+18,40
+(25.065,97)
+tarifas bancárias
+l - 00009
+0,00
+32,90
+(25.098,87)
+tarifas bancárias
+l - 00011
+0,00
+88,48
+(25.187,35)
+tarifas bancárias
+l - 00014
+0,00
+200,00
+(25.387,35)
+investimentos roformas/estruturas
+l - 00003
+0,00
+770,00
+(26.157,35)
+serviços de terceiros de operação/abastecimento
+l - 00004
+0,00
+1.000,00
+(27.157,35)
+diarias
+l - 00002
+0,00
+1.260,00
+(28.417,35)
+diarias
+l - 00001
+0,00
+3.173,44
+(31.590,79)
+comissão de agentes credenciados
+t - 00001
+0,00
+3.986,69
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(24/10/2023):
+10.569,86
+10.569,86
+data: 25/10/2023
+saldo anterior:
+(35.577,48)
+l - 00005
+6.897,68
+0,00
+(28.679,80)
+receita banco do brasil
+l - 00006
+9.922,59
+0,00
+(18.757,21)
+receita coelba
+l - 00011
+0,00
+1,98
+(18.759,19)
+tarifas bancárias
+l - 00009
+0,00
+14,69
+(18.773,88)
+tarifas bancárias
+l - 00007
+0,00
+25,30
+(18.799,18)
+tarifas bancárias
+l - 00001
+0,00
+70,00
+(18.869,18)
+serviços de terceiros de operação/abastecimento
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 13 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00008
+0,00
+72,38
+(18.941,56)
+tarifas bancárias
+l - 00010
+0,00
+145,60
+(19.087,16)
+tarifas bancárias
+l - 00004
+0,00
+288,80
+(19.375,96)
+materiais diversos de eletrica
+l - 00002
+0,00
+1.000,00
+(20.375,96)
+diarias
+l - 00012
+0,00
+4.383,00
+(24.758,96)
+cursos e seminários
+0001
+setor administrativo
+4.383,00
+cursos e seminários
+obs (rateio): pagamento referente a nota fiscal nº  do fornecedor poliana brandão machado .
+t - 00001
+0,00
+10.818,52
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(25/10/2023):
+16.820,27
+16.820,27
+data: 26/10/2023
+saldo anterior:
+(35.577,48)
+l - 00006
+4.922,60
+0,00
+(30.654,88)
+receita coelba
+l - 00012
+70,00
+0,00
+(30.584,88)
+devolução de diárias
+l - 00005
+7.043,00
+0,00
+(23.541,88)
+receita banco do brasil
+l - 00007
+0,00
+9,20
+(23.551,08)
+tarifas bancárias
+l - 00011
+0,00
+11,50
+(23.562,58)
+tarifas bancárias
+l - 00003
+0,00
+35,00
+(23.597,58)
+serviços de terceiros de operação/abastecimento
+l - 00009
+0,00
+41,81
+(23.639,39)
+tarifas bancárias
+l - 00008
+0,00
+48,88
+(23.688,27)
+tarifas bancárias
+l - 00001
+0,00
+70,50
+(23.758,77)
+exames, juros pagos
+0001
+setor administrativo
+69,00
+exames
+obs (rateio): pagamento referente a nota fiscal nº 12261 do fornecedor r a j r seguranca do trabalho e 
+saude ocupacional ltda .
+0001
+setor administrativo
+1,50
+juros pagos
+obs (rateio): pagamento referente a nota fiscal nº 12261 do fornecedor r a j r seguranca do trabalho e 
+saude ocupacional ltda .
+l - 00010
+0,00
+86,24
+(23.845,01)
+tarifas bancárias
+l - 00004
+0,00
+140,00
+(23.985,01)
+serviços de terceiros de operação/abastecimento
+l - 00002
+0,00
+718,01
+(24.703,02)
+fgts
+t - 00001
+0,00
+10.874,46
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(26/10/2023):
+12.035,60
+12.035,60
+data: 27/10/2023
+saldo anterior:
+(35.577,48)
+l - 00005
+6.772,65
+0,00
+(28.804,83)
+receita coelba
+l - 00004
+3.736,25
+0,00
+(25.068,58)
+receita banco do brasil
+l - 00006
+0,00
+6,90
+(25.075,48)
+tarifas bancárias
+l - 00008
+0,00
+11,30
+(25.086,78)
+tarifas bancárias
+l - 00010
+0,00
+11,50
+(25.098,28)
+tarifas bancárias
+l - 00007
+0,00
+31,02
+(25.129,30)
+tarifas bancárias
+l - 00009
+0,00
+101,92
+(25.231,22)
+tarifas bancárias
+l - 00011
+0,00
+200,00
+(25.431,22)
+investimentos roformas/estruturas
+l - 00001
+0,00
+1.500,00
+(26.931,22)
+prestação serviços pf
+l - 00003
+0,00
+1.985,69
+(28.916,91)
+materiais diversos de eletrica
+t - 00001
+0,00
+6.660,57
+(35.577,48)
+bb rende fácil
+(35.577,48)
+total da data(27/10/2023):
+10.508,90
+10.508,90
+data: 30/10/2023
+saldo anterior:
+(35.577,48)
+l - 00017
+3.834,69
+0,00
+(31.742,79)
+receita banco do brasil
+l - 00018
+4.900,56
+0,00
+(26.842,23)
+receita coelba
+t - 00001
+23.547,07
+0,00
+(3.295,16)
+bb rende fácil
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 14 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00023
+0,00
+1,98
+(3.297,14)
+tarifas bancárias
+l - 00019
+0,00
+2,30
+(3.299,44)
+tarifas bancárias
+l - 00021
+0,00
+7,91
+(3.307,35)
+tarifas bancárias
+l - 00025
+0,00
+11,50
+(3.318,85)
+tarifas bancárias
+l - 00024
+0,00
+11,50
+(3.330,35)
+tarifas bancárias
+l - 00020
+0,00
+30,08
+(3.360,43)
+tarifas bancárias
+l - 00022
+0,00
+98,56
+(3.458,99)
+tarifas bancárias
+l - 00015
+0,00
+108,23
+(3.567,22)
+água
+l - 00007
+0,00
+157,77
+(3.724,99)
+pis sobre folha
+l - 00016
+0,00
+671,30
+(4.396,29)
+monitoramento de veículos
+l - 00003
+0,00
+1.000,00
+(5.396,29)
+prestação serviços pf
+l - 00006
+0,00
+1.095,69
+(6.491,98)
+fgts
+l - 00012
+0,00
+1.221,00
+(7.712,98)
+salários
+l - 00010
+0,00
+1.280,82
+(8.993,80)
+salários
+l - 00001
+0,00
+1.320,00
+(10.313,80)
+ass. contábil
+l - 00008
+0,00
+1.621,40
+(11.935,20)
+salários
+l - 00009
+0,00
+1.641,18
+(13.576,38)
+salários
+l - 00004
+0,00
+1.641,18
+(15.217,56)
+salários
+l - 00002
+0,00
+1.760,82
+(16.978,38)
+salários
+l - 00013
+0,00
+1.872,75
+(18.851,13)
+salários
+l - 00011
+0,00
+1.941,72
+(20.792,85)
+salários
+l - 00014
+0,00
+2.125,00
+(22.917,85)
+prestação serviços pf
+l - 00005
+0,00
+12.659,63
+(35.577,48)
+inss e irrf
+(35.577,48)
+total da data(30/10/2023):
+32.282,32
+32.282,32
+data: 31/10/2023
+saldo anterior:
+(35.577,48)
+l - 00020
+4.151,53
+0,00
+(31.425,95)
+receita banco do brasil
+l - 00021
+6.637,64
+0,00
+(24.788,31)
+receita coelba
+t - 00001
+13.122,63
+0,00
+(11.665,68)
+bb rende fácil
+l - 00022
+0,00
+3,45
+(11.669,13)
+tarifas bancárias
+l - 00024
+0,00
+9,04
+(11.678,17)
+tarifas bancárias
+l - 00028
+0,00
+11,50
+(11.689,67)
+tarifas bancárias
+l - 00029
+0,00
+11,50
+(11.701,17)
+tarifas bancárias
+l - 00027
+0,00
+11,50
+(11.712,67)
+tarifas bancárias
+l - 00023
+0,00
+18,80
+(11.731,47)
+tarifas bancárias
+l - 00026
+0,00
+19,90
+(11.751,37)
+tarifas bancárias
+l - 00008
+0,00
+98,30
+(11.849,67)
+material de expediente e escritório
+l - 00013
+0,00
+100,00
+(11.949,67)
+iss
+l - 00011
+0,00
+110,20
+(12.059,87)
+iss
+l - 00025
+0,00
+119,84
+(12.179,71)
+tarifas bancárias
+l - 00004
+0,00
+120,00
+(12.299,71)
+material de expediente e escritório
+l - 00009
+0,00
+145,73
+(12.445,44)
+iss
+l - 00012
+0,00
+145,73
+(12.591,17)
+iss
+l - 00003
+0,00
+225,00
+(12.816,17)
+consultoria - medicina e segurança do trabalho
+l - 00007
+0,00
+250,00
+(13.066,17)
+manutenção de veiculos
+l - 00010
+0,00
+342,99
+(13.409,16)
+iss
+terça-feira, 28 de novembro de 2023
+continua...
+ 15:21:33
+fechamento de conta financeira
+pag.: 15 de 15
+empresa: central de associacoes comunitarias caetite
+fortes ag financeiro - versão 4.930.10
+central de associacoes comunitarias caetite
+licenciado para: 
+usuário: carolaine
+estabelecimento(s): 0001 - central de associacoes comunitarias caetite
+conta(s) financeira(s): 0001 - banco do brasil...
+grupo da conta: contas bancárias
+período dos lançamentos: 01/10/2023 até 31/10/2023
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+estab.
+centro de resultados
+receita/despesa
+l - 00015
+0,00
+400,17
+(13.809,33)
+combustível
+l - 00030
+0,00
+442,00
+(14.251,33)
+impressão de contas, material de expediente e escritório
+0001
+setor administrativo
+417,00
+impressão de contas
+obs (rateio): pagamento referente a nota fiscal nº 1389 do fornecedor gilmar de oliveira batista .
+0001
+setor administrativo
+25,00
+material de expediente e esc
+obs (rateio): pagamento referente a nota fiscal nº 1389 do fornecedor gilmar de oliveira batista .
+l - 00006
+0,00
+800,00
+(15.051,33)
+manutenção de sist. de informática
+l - 00019
+0,00
+921,48
+(15.972,81)
+combustível
+l - 00017
+0,00
+924,99
+(16.897,80)
+combustível
+l - 00018
+0,00
+932,41
+(17.830,21)
+outros materiais hidráulicos, outros materiais
+0001
+setor de manutenção
+417,71
+outros materiais hidráulicos
+obs (rateio): pagamento referente a nota fiscal nº 5348 do fornecedor comatec materiais de construcao ltd
+.
+0001
+setor de manutenção
+514,70
+outros materiais
+obs (rateio): pagamento referente a nota fiscal nº 5348 do fornecedor comatec materiais de construcao ltd
+.
+l - 00014
+0,00
+1.233,05
+(19.063,26)
+combustível
+l - 00002
+0,00
+1.298,94
+(20.362,20)
+manutenção de sist. de informática
+l - 00001
+0,00
+2.000,00
+(22.362,20)
+caixa físico
+l - 00031
+0,00
+2.389,15
+(24.751,35)
+combustível
+l - 00005
+0,00
+2.400,00
+(27.151,35)
+fardamento e epi, ferramentas, outros materiais hidráulicos, 
+conexões, outros materiais
+0001
+setor de manutenção
+19,88
+fardamento e epi
+obs (rateio): pagamento referente a nota fiscal nº 72 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+0001
+setor de manutenção
+134,18
+ferramentas
+obs (rateio): pagamento referente a nota fiscal nº 72 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+0001
+setor de manutenção
+244,50
+outros materiais hidráulicos
+obs (rateio): pagamento referente a nota fiscal nº 72 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+0001
+setor de manutenção
+1.971,44
+conexões
+obs (rateio): pagamento referente a nota fiscal nº 72 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+0001
+setor de manutenção
+30,00
+outros materiais
+obs (rateio): pagamento referente a nota fiscal nº 72 do fornecedor abjc comercio de materiais de 
+construcao ltda .
+l - 00016
+0,00
+8.426,13
+(35.577,48)
+combustível
+(35.577,48)
+total da data(31/10/2023):
+23.911,80
+23.911,80
+(35.577,48)
+total da conta(0001 - banco do brasil):
+388.150,29
+394.194,98
+total geral:
+(35.577,48)
+(29.532,79)
+saldo anterior:
+388.150,29
+394.194,98
+31/03/2023
+total
+detalhe do saldo
+0,00
+---------------
+0,00
+terça-feira, 28 de novembro de 2023
+fim
+ 15:21:33

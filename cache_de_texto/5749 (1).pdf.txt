@@ -1,0 +1,724 @@
+conta corrente
+0008641-5
+agência
+4372
+govidros
+02.104.503/0001-32
+saldo total
+limite da conta
+utilizado
+disponível
+r$ 1.743,81
+r$ 700.000,00
+r$ 0,00
+r$ 700.000,00
+lançamentos do período: 03/02/2025 até 05/03/2025
+data
+lançamentos
+razão social
+cnpj/cpf
+valor (r$) saldo (r$)
+02/02/2025 saldo anterior
+270,82
+03/02/2025 rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.139,87
+03/02/2025 rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+359,01
+03/02/2025 rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+35,73
+03/02/2025 rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+60,98
+03/02/2025 saldo total disponível dia
+1.866,41
+04/02/2025 mov tit cob disp 04/02s
+2.328,00
+04/02/2025 rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+4.099,44
+04/02/2025 rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+528,07
+04/02/2025 rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+113,23
+04/02/2025 tar maxcta pj mens 01/25
+-90,00
+04/02/2025 tar/custas cobranca
+-3,15
+04/02/2025 iof
+-377,88
+04/02/2025 tar pix pgto transf
+-57,42
+04/02/2025 saldo total disponível dia
+8.406,70
+05/02/2025 rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.203,41
+05/02/2025 rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+67,49
+05/02/2025 rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+19,69
+05/02/2025 saldo total disponível dia
+9.697,29
+06/02/2025 mov tit cob disp 06/02s
+266,20
+06/02/2025 rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+118,03
+06/02/2025 rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+325,57
+06/02/2025 rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+122,95
+06/02/2025 rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+598,55
+06/02/2025 tar/custas cobranca
+-1,05
+06/02/2025 saldo total disponível dia
+11.127,54
+07/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.284,43
+07/02/2025
+rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+302,86
+07/02/2025
+rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+5,91
+ tau e
+07/02/2025
+rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+403,49
+07/02/2025
+saldo total disponível dia
+13.124,23
+10/02/2025
+mov tit cob disp 10/02s
+945,00
+10/02/2025
+rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.112,54
+10/02/2025
+rede elo cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+97,56
+10/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+343,01
+10/02/2025
+rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+863,19
+10/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+154,85
+10/02/2025
+rend pago aplic aut mais
+0,07
+10/02/2025
+tar/custas cobranca
+-2,10
+10/02/2025
+sispag fornecedores
+-16.000,00
+10/02/2025
+saldo total disponível dia
+638,35
+11/02/2025
+mov tit cob disp 11/02s
+453,28
+11/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+646,18
+11/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+83,38
+11/02/2025
+tar/custas cobranca
+-2,10
+11/02/2025
+saldo total disponível dia
+1.819,09
+12/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+213,41
+12/02/2025
+rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+206,77
+12/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+433,76
+12/02/2025
+tar 30h int empr plus
+-52,40
+12/02/2025
+saldo total disponível dia
+2.620,63
+13/02/2025
+rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.193,33
+13/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.063,07
+13/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+2.371,32
+13/02/2025
+da saneago 01210831
+-859,30
+13/02/2025
+saldo total disponível dia
+6.389,05
+14/02/2025
+rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+122,95
+14/02/2025
+rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+93,54
+14/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+393,46
+14/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.069,02
+14/02/2025
+sispag govidros comercia...
+govidros comercial goiania de vidros 
+ltda
+02.104.503/0003-02
+11.300,00
+14/02/2025
+tar c/c sispag
+-3,38
+14/02/2025
+sispag salarios
+-16.484,46
+14/02/2025
+rend pago aplic aut mais
+0,01
+14/02/2025
+sispag salarios
+-1.274,77
+14/02/2025
+tar c/c sispag
+-21,97
+14/02/2025
+sispag fornecedores
+-1.591,06
+14/02/2025
+saldo total disponível dia
+-7,61
+17/02/2025
+mov tit cob disp 17/02s
+345,00
+17/02/2025
+rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+834,53
+17/02/2025
+rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.343,42
+17/02/2025
+rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+112,24
+17/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+402,00
+17/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+730,56
+17/02/2025
+ted 001.5116.g c g v l
+g coml goiania vidr ltda
+02.104.503/0001-32
+31.100,00
+17/02/2025
+ted 001.8617.moacir a c
+moacir a carvalho
+081.324.101-49
+23.000,00
+17/02/2025
+ted 237.3681.moacir a d
+moacir alves de carvalho
+081.324.101-49
+10.900,00
+17/02/2025
+parc finame
+-64.586,20
+17/02/2025
+tar/custas cobranca
+-1,05
+17/02/2025
+sispag fornecedores
+-1.680,00
+17/02/2025
+saldo total disponível dia
+2.492,89
+18/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+911,80
+18/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.028,35
+18/02/2025
+pix transf g coml 18/02
+g coml goiania vidr ltda
+02.104.503/0001-32
+73.560,00
+18/02/2025
+sispag fornecedores
+-77.900,00
+18/02/2025
+saldo total disponível dia
+93,04
+19/02/2025
+mov tit cob disp 19/02s
+220,00
+19/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+43,67
+19/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+339,47
+19/02/2025
+tar/custas cobranca
+-1,05
+19/02/2025
+saldo total disponível dia
+695,13
+20/02/2025 mov tit cob disp 20/02s
+484,70
+20/02/2025 rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.082,72
+20/02/2025 rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+534,03
+20/02/2025 rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+851,22
+20/02/2025 rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+31,90
+20/02/2025 rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+118,12
+20/02/2025 ted 237.2711.cartorio 2
+cartorio 2.oficio notas r tit do
+02.900.314/0001-76
+1.000,00
+20/02/2025 sispag govidros comercia...
+govidros comercial goiania de vidros 
+ltda
+02.104.503/0003-02
+54.000,00
+20/02/2025 tar/custas cobranca
+-2,10
+20/02/2025 sispag fornecedores
+-58.700,00
+20/02/2025 saldo total disponível dia
+95,72
+21/02/2025
+mov tit cob disp 21/02s
+517,00
+21/02/2025
+rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+136,99
+21/02/2025
+rede amex cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+34,15
+21/02/2025
+rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+755,70
+21/02/2025
+rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+511,99
+21/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.086,89
+21/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+282,89
+21/02/2025
+sispag govidros comercia...
+govidros comercial goiania de vidros 
+ltda
+02.104.503/0003-02
+10.000,00
+21/02/2025
+tar/custas cobranca
+-2,10
+21/02/2025
+sispag fornecedores
+-13.000,00
+21/02/2025
+saldo total disponível dia
+419,23
+24/02/2025
+mov tit cob disp 24/02s
+914,11
+24/02/2025
+rede elo cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+307,37
+24/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+143,92
+24/02/2025
+rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+405,65
+24/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+176,69
+24/02/2025
+rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+777,24
+24/02/2025
+rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.457,82
+24/02/2025
+tar/custas cobranca
+-1,05
+24/02/2025
+juros limite da conta
+-19,18
+24/02/2025
+saldo total disponível dia
+4.581,80
+25/02/2025
+mov tit cob disp 25/02s
+7.366,14
+25/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+248,15
+25/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+673,97
+25/02/2025
+rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+2.646,60
+25/02/2025
+tar/custas cobranca
+-3,15
+25/02/2025
+tarifa limite da conta
+-118,00
+25/02/2025
+tar c/c sispag
+-1,69
+25/02/2025
+sispag salarios
+-2.345,38
+25/02/2025
+sispag fornecedores
+-12.000,00
+25/02/2025
+saldo total disponível dia
+1.048,44
+26/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+1.123,32
+26/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+649,16
+26/02/2025
+da equ goias 0133228627
+-3.767,15
+26/02/2025
+saldo total disponível dia
+-946,23
+27/02/2025
+mov tit cob disp 27/02s
+984,09
+27/02/2025
+rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+437,90
+27/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+161,80
+27/02/2025
+rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+295,08
+27/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+655,12
+27/02/2025
+ted 237.2711.cartorio 2
+cartorio 2.oficio notas r tit do
+02.900.314/0001-76
+2.838,38
+27/02/2025
+tar/custas cobranca
+-3,15
+27/02/2025
+saldo total disponível dia
+4.422,99
+28/02/2025
+mov tit cob disp 28/02s
+643,00
+28/02/2025
+rede mast db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+78,41
+28/02/2025
+rede mast cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+778,00
+28/02/2025
+rede visa cd0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+163,10
+28/02/2025
+rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+858,60
+28/02/2025
+ted 001.5116.g c g v l
+g coml goiania vidr ltda
+02.104.503/0001-32
+17.000,00
+28/02/2025
+tar/custas cobranca
+-2,10
+28/02/2025
+tar c/c sispag
+-21,97
+28/02/2025
+sispag salarios
+-23.428,35
+28/02/2025
+sispag fornecedores
+-397,36
+28/02/2025
+saldo total disponível dia
+94,32
+05/03/2025 mov tit cob disp 05/03s
+1.140,50
+05/03/2025 tar/custas cobranca
+-2,10
+05/03/2025 rede visa db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+106,80
+05/03/2025 rede elo db0037439812
+redecard instituicao de pagamento s.
+a.
+01.425.787/0001-04
+9,85
+redecard instituicao de pagamento s.
+05/03/2025 rede mast db0037439812
+a.
+01.425.787/0001-04
+394,44
+05/03/2025 saldo em conta corrente
+1.743,81
+os saldos acima são baseados nas informações disponíveis até esse instante e poderão ser alterados a qualquer momento em função de 
+aviso: 
+novos lançamentos
+atualizado em 05/03/2025 07:33:30
+em caso de dúvidas, de posse do comprovante, contate seu gerente ou a central no 40901685 (capitais e regiões metropolitanas) ou 0800 7701685(demais localidades). reclamações, informações e cancelamentos: sac 0800 728 
+0728, 24 horas por dia ou fale conosco: www.itau.com.br/empresas. se não ficar satisfeito com a solução, contate a ouvidoria: 0800 570 0011, em dias úteis, das 9h às 18h. deficiente auditivo/fala: 0800 722 1722

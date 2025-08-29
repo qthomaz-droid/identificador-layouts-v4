@@ -1,0 +1,1419 @@
+período : 01/01/2023 a 31/01/2023
+124 - balancete
+filial :
+page 1
+22/03/2023 10:33:39
+tipo : por lançamento
+1
+não
+desconsiderar st:
+desconsiderar valores de beneficiamento: não
+100 pagtos associados ao cmv
+-
+grupo:
+100025
+conta:
+icms adic fundo pobreza - contrb social
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+09/01/2023
+949434 icms fundo de pobreza ref 12/2022
+303 sefaz - bahia secretaria da fa
+-9.374,12
+311047
+2125360743
+mateus
+1
+341 -
+-9.374,12
+total conta :
+1
+lançamentos listados
+100016
+conta:
+icms normal (se estiver no cmv)
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+18/01/2023
+949449 icms ref 12/2022
+303 sefaz - bahia secretaria da fa
+-10.264,33
+312326
+2125366369
+mateus
+1
+341 -
+(parc. 7/7)
+10/01/2023
+949443 icms ref 12/2022
+303 sefaz - bahia secretaria da fa
+-10.264,28
+311117
+2125366369
+mateus
+1
+341 -
+(parc. 1/7)
+11/01/2023
+949444 icms ref 12/2022
+303 sefaz - bahia secretaria da fa
+-10.264,28
+311410
+2125366369
+mateus
+1
+341 -
+(parc. 2/7)
+12/01/2023
+949445 icms ref 12/2022
+303 sefaz - bahia secretaria da fa
+-10.264,28
+311511
+2125366369
+mateus
+1
+341 -
+(parc. 3/7)
+13/01/2023
+949446 icms ref 12/2022
+303 sefaz - bahia secretaria da fa
+-10.264,28
+311695
+2125366369
+mateus
+1
+341 -
+(parc. 4/7)
+17/01/2023
+949447 icms ref 12/2022
+303 sefaz - bahia secretaria da fa
+-10.264,28
+312216
+2125366369
+mateus
+1
+341 -
+(parc. 5/7)
+17/01/2023
+949448 icms ref 12/2022
+303 sefaz - bahia secretaria da fa
+-10.264,28
+312189
+2125366369
+mateus
+1
+33 -
+(parc. 6/7)
+-71.850,01
+total conta :
+7
+lançamentos listados
+100014
+conta:
+irpj (se estiver no cmv)
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+31/01/2023
+955084 pagamento irpj
+1207 secretaria da receita federa
+-4.106,17
+313829
+31122022
+mateus
+1
+341 -
+-4.106,17
+total conta :
+1
+lançamentos listados
+-85.330,30
+total grupo :
+9
+lançamentos listados
+período : 01/01/2023 a 31/01/2023
+124 - balancete
+filial :
+page 2
+22/03/2023 10:33:39
+tipo : por lançamento
+1
+não
+desconsiderar st:
+desconsiderar valores de beneficiamento: não
+210 despesas financeiras
+-
+grupo:
+210001
+conta:
+iof
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+19/01/2023
+954111 iof
+1130 itau unibanco s.a
+-1.478,32
+a_lanc_631
+0
+vanusia
+1
+341 -
+06/01/2023
+948883 iof imposto operações
+1132 banco santander (brasil) s.a.
+-1.240,26
+a_lanc_631
+60
+ilca
+1
+33 -
+06/01/2023
+948884 iof imposto operações financeiras até 31/12/2022
+1132 banco santander (brasil) s.a.
+-866,16
+a_lanc_631
+86616
+ilca
+1
+33 -
+19/01/2023
+954110 iof 6543 35435 8
+1130 itau unibanco s.a
+-630,13
+a_lanc_631
+0
+vanusia
+1
+341 -
+06/01/2023
+948825 encargos c garantida
+1129 banco bradesco s.a
+-436,67
+a_lanc_631
+4685089
+ilca
+1
+237 -
+30/01/2023
+957763 jr
+1127 banco do brasil s a jequié - b
+-3,96
+a_lanc_631
+0
+vanusia
+1
+1 -
+30/01/2023
+957733 deb iof
+1128 caixa economica federal 
+-0,92
+a_lanc_631
+0
+vanusia
+1
+104 -
+-4.656,42
+total conta :
+7
+lançamentos listados
+210006
+conta:
+iof da custódia de cheque
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+27/01/2023
+957190 iof  desc de cheques
+1130 itau unibanco s.a
+-1.257,61
+a_lanc_631
+0
+vanusia
+1
+341 -
+-1.257,61
+total conta :
+1
+lançamentos listados
+210008
+conta:
+iof de desconto de boletos
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+21/01/2023
+954892 iof desc de boletos
+1130 itau unibanco s.a
+-1.337,54
+a_lanc_631
+0
+vanusia
+1
+341 -
+19/01/2023
+954193 iof desc de boletos
+1130 itau unibanco s.a
+-1.162,32
+a_lanc_631
+0
+vanusia
+1
+341 -
+31/01/2023
+958291 iof  desc de boletos
+1130 itau unibanco s.a
+-804,23
+a_lanc_631
+0
+vanusia
+1
+341 -
+27/01/2023
+957272 iof desc de boletos
+1130 itau unibanco s.a
+-500,22
+a_lanc_631
+0
+vanusia
+1
+341 -
+21/01/2023
+954832 iof desc de boletos
+1130 itau unibanco s.a
+-300,44
+a_lanc_631
+0
+vanusia
+1
+341 -
+31/01/2023
+958313 iof desc de boletos
+1130 itau unibanco s.a
+-287,60
+a_lanc_631
+0
+vanusia
+1
+341 -
+18/01/2023
+953401 iof  desc de boletos
+1130 itau unibanco s.a
+-270,05
+a_lanc_631
+0
+vanusia
+1
+341 -
+27/01/2023
+957188 iof  cust boletos
+1130 itau unibanco s.a
+-212,53
+a_lanc_631
+0
+vanusia
+1
+341 -
+-4.874,93
+total conta :
+8
+lançamentos listados
+210004
+conta:
+juros da conta garantida
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+31/01/2023
+958311 juros 6543 35435 8
+1130 itau unibanco s.a
+-5.561,53
+a_lanc_631
+0
+vanusia
+1
+341 -
+06/01/2023
+948823 encargos c garantida
+1129 banco bradesco s.a
+-1.175,10
+a_lanc_631
+4685089
+ilca
+1
+237 -
+31/01/2023
+958295 juros 6543 54391 9
+1130 itau unibanco s.a
+-215,01
+a_lanc_631
+0
+vanusia
+1
+341 -
+30/01/2023
+957734 jr
+1128 caixa economica federal 
+-1,46
+a_lanc_631
+0
+vanusia
+1
+104 -
+-6.953,10
+total conta :
+4
+lançamentos listados
+período : 01/01/2023 a 31/01/2023
+124 - balancete
+filial :
+page 3
+22/03/2023 10:33:39
+tipo : por lançamento
+1
+não
+desconsiderar st:
+desconsiderar valores de beneficiamento: não
+210 despesas financeiras
+-
+grupo:
+210005
+conta:
+juros de custódia de cheque
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+27/01/2023
+957189 jr desc de cheques
+1130 itau unibanco s.a
+-4.487,94
+a_lanc_631
+0
+vanusia
+1
+341 -
+-4.487,94
+total conta :
+1
+lançamentos listados
+210007
+conta:
+juros de desconto de boletos
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+21/01/2023
+954891 juros desc de boletos
+1130 itau unibanco s.a
+-3.775,98
+a_lanc_631
+0
+vanusia
+1
+341 -
+19/01/2023
+954192 juros desc de boletos
+1130 itau unibanco s.a
+-3.255,84
+a_lanc_631
+0
+vanusia
+1
+341 -
+31/01/2023
+958290 juros desc de boletos
+1130 itau unibanco s.a
+-2.397,53
+a_lanc_631
+0
+vanusia
+1
+341 -
+27/01/2023
+957271 jr desc de boletos
+1130 itau unibanco s.a
+-1.434,60
+a_lanc_631
+0
+vanusia
+1
+341 -
+21/01/2023
+954829 juros desc de boletos
+1130 itau unibanco s.a
+-863,08
+a_lanc_631
+0
+vanusia
+1
+341 -
+31/01/2023
+958312 juros desc de boletos
+1130 itau unibanco s.a
+-831,16
+a_lanc_631
+0
+vanusia
+1
+341 -
+18/01/2023
+953400 jr desc de boletos
+1130 itau unibanco s.a
+-643,05
+a_lanc_631
+0
+vanusia
+1
+341 -
+27/01/2023
+957187 jr cust boletos
+1130 itau unibanco s.a
+-587,92
+a_lanc_631
+0
+vanusia
+1
+341 -
+-13.789,16
+total conta :
+8
+lançamentos listados
+210015
+conta:
+juros de emprestimo
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+06/01/2023
+948881 juros de emprestimo
+1132 banco santander (brasil) s.a.
+-4.817,72
+a_lanc_631
+60
+ilca
+1
+33 -
+17/01/2023
+953027 pagamento encargos
+1131 banco do nordeste do brasil
+-2.919,27
+a_lanc_631
+202402
+ilca
+1
+4 -
+06/01/2023
+948882 juros de limite usado até 31/12/22
+1132 banco santander (brasil) s.a.
+-2.713,12
+a_lanc_631
+0
+ilca
+1
+33 -
+17/01/2023
+953029 pagamento encargos
+1131 banco do nordeste do brasil
+-2.310,07
+a_lanc_631
+211002
+ilca
+1
+4 -
+17/01/2023
+953028 pagamento encargos
+1131 banco do nordeste do brasil
+-2.303,02
+a_lanc_631
+211001
+ilca
+1
+4 -
+17/01/2023
+953026 pagamento encargos
+1131 banco do nordeste do brasil
+-942,46
+a_lanc_631
+201102
+ilca
+1
+4 -
+17/01/2023
+953025 pagamento encargos
+1131 banco do nordeste do brasil
+-852,66
+a_lanc_631
+201101
+ilca
+1
+4 -
+17/01/2023
+953030 pagamento encargos
+1131 banco do nordeste do brasil
+-233,62
+a_lanc_631
+212502
+ilca
+1
+4 -
+17/01/2023
+953031 pagamento encargos
+1131 banco do nordeste do brasil
+-106,70
+a_lanc_631
+213702
+ilca
+1
+4 -
+-17.198,64
+total conta :
+9
+lançamentos listados
+210009
+conta:
+juros venda cartao de crédito
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+25/01/2023
+956112 ref vlr dif cartaodup sel 1263881-3
+6232 redecard s/a
+-260,88
+1263881
+299778
+vanusia anjos
+1
+-
+27/01/2023
+957245 ref vlr dif cartaodup sel 1261995-3
+6229 stone pagamentos s.a
+-167,30
+1261995
+298874
+vanusia anjos
+1
+-
+18/01/2023
+953273 ref vlr dif cartaodup sel 1257901-3
+6229 stone pagamentos s.a
+-127,48
+1257901
+296902
+vanusia anjos
+1
+-
+31/01/2023
+958293 ref vlr dif cartaodup sel 1263274-3
+6232 redecard s/a
+-126,57
+1263274
+299490
+vanusia anjos
+1
+-
+27/01/2023
+957253 ref vlr dif cartaodup sel 1259092-3
+6229 stone pagamentos s.a
+-82,61
+1259092
+297474
+vanusia anjos
+1
+-
+período : 01/01/2023 a 31/01/2023
+124 - balancete
+filial :
+page 4
+22/03/2023 10:33:39
+tipo : por lançamento
+1
+não
+desconsiderar st:
+desconsiderar valores de beneficiamento: não
+210 despesas financeiras
+-
+grupo:
+210009
+conta:
+juros venda cartao de crédito
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+18/01/2023
+953259 ref vlr dif cartaodup sel 1259076-6
+6229 stone pagamentos s.a
+-73,80
+1259076
+297466
+vanusia anjos
+1
+-
+27/01/2023
+957251 ref vlr dif cartaodup sel 1257353-3
+6232 redecard s/a
+-72,57
+1257353
+296635
+vanusia anjos
+1
+-
+18/01/2023
+953254 ref vlr dif cartaodup sel 1254870-3
+6229 stone pagamentos s.a
+-63,99
+1254870
+295447
+vanusia anjos
+1
+-
+18/01/2023
+953257 ref vlr dif cartaodup sel 1256927-3
+6229 stone pagamentos s.a
+-58,07
+1256927
+296423
+vanusia anjos
+1
+-
+31/01/2023
+958301 ref vlr dif cartaodup sel 1258134-6
+6232 redecard s/a
+-57,82
+1258134
+297003
+vanusia anjos
+1
+-
+31/01/2023
+958302 ref vlr dif cartaodup sel 1258134-7
+6232 redecard s/a
+-57,82
+1258134
+297003
+vanusia anjos
+1
+-
+27/01/2023
+957281 ref vlr dif cartaodup sel 1263272-3
+6232 redecard s/a
+-55,54
+1263272
+299489
+vanusia anjos
+1
+-
+18/01/2023
+953271 ref vlr dif cartaodup sel 1257569-3
+6229 stone pagamentos s.a
+-49,19
+1257569
+296743
+vanusia anjos
+1
+-
+27/01/2023
+957248 ref vlr dif cartaodup sel 1261595-4
+6229 stone pagamentos s.a
+-46,09
+1261595
+298692
+vanusia anjos
+1
+-
+27/01/2023
+957249 ref vlr dif cartaodup sel 1261595-5
+6229 stone pagamentos s.a
+-46,09
+1261595
+298692
+vanusia anjos
+1
+-
+21/01/2023
+954862 ref vlr dif cartaodup sel 1259026-3
+6229 stone pagamentos s.a
+-44,49
+1259026
+297441
+vanusia anjos
+1
+-
+31/01/2023
+958294 ref vlr dif cartaodup sel 1263312-3
+6232 redecard s/a
+-42,02
+1263312
+299506
+vanusia anjos
+1
+-
+21/01/2023
+954895 ref vlr dif cartaodup sel 1261361-3
+6232 redecard s/a
+-41,44
+1261361
+298589
+vanusia anjos
+1
+-
+27/01/2023
+957268 ref vlr dif cartaodup sel 1262800-3
+6232 redecard s/a
+-38,92
+1262800
+299271
+vanusia anjos
+1
+-
+18/01/2023
+953402 ref vlr dif cartaodup sel 1259312-3
+6232 redecard s/a
+-37,17
+1259312
+297583
+vanusia anjos
+1
+-
+18/01/2023
+953270 ref vlr dif cartaodup sel 1259234-3
+6229 stone pagamentos s.a
+-37,16
+1259234
+297544
+vanusia anjos
+1
+-
+27/01/2023
+957246 ref vlr dif cartaodup sel 1260314-3
+6229 stone pagamentos s.a
+-35,77
+1260314
+298068
+vanusia anjos
+1
+-
+18/01/2023
+953274 ref vlr dif cartaodup sel 1255721-3
+6229 stone pagamentos s.a
+-34,55
+1255721
+295868
+vanusia anjos
+1
+-
+27/01/2023
+957247 ref vlr dif cartaodup sel 1260310-4
+6229 stone pagamentos s.a
+-33,58
+1260310
+298066
+vanusia anjos
+1
+-
+25/01/2023
+956117 ref vlr dif cartaodup sel 1256387-3
+6232 redecard s/a
+-33,03
+1256387
+296168
+vanusia anjos
+1
+-
+21/01/2023
+954860 ref vlr dif cartaodup sel 1257946-3
+6232 redecard s/a
+-32,76
+1257946
+296925
+vanusia anjos
+1
+-
+27/01/2023
+957280 ref vlr dif cartaodup sel 1263256-3
+6232 redecard s/a
+-32,59
+1263256
+299481
+vanusia anjos
+1
+-
+25/01/2023
+956119 ref vlr dif cartaodup sel 1256241-6
+6232 redecard s/a
+-32,57
+1256241
+296100
+vanusia anjos
+1
+-
+25/01/2023
+956120 ref vlr dif cartaodup sel 1256241-7
+6232 redecard s/a
+-32,57
+1256241
+296100
+vanusia anjos
+1
+-
+21/01/2023
+954861 ref vlr dif cartaodup sel 1260600-4
+6232 redecard s/a
+-30,44
+1260600
+298211
+vanusia anjos
+1
+-
+21/01/2023
+954863 ref vlr dif cartaodup sel 1260718-4
+6232 redecard s/a
+-26,86
+1260718
+298270
+vanusia anjos
+1
+-
+18/01/2023
+953255 ref vlr dif cartaodup sel 1254483-4
+6229 stone pagamentos s.a
+-25,49
+1254483
+295254
+vanusia anjos
+1
+-
+31/01/2023
+958317 ref vlr dif cartaodup sel 1264328-3
+6232 redecard s/a
+-25,37
+1264328
+300001
+vanusia anjos
+1
+-
+18/01/2023
+953256 ref vlr dif cartaodup sel 1256999-3
+6229 stone pagamentos s.a
+-25,35
+1256999
+296459
+vanusia anjos
+1
+-
+18/01/2023
+953251 ref vlr dif cartaodup sel 1256508-4
+6229 stone pagamentos s.a
+-25,27
+1256508
+296229
+vanusia anjos
+1
+-
+18/01/2023
+953264 ref vlr dif cartaodup sel 1259098-3
+6229 stone pagamentos s.a
+-24,99
+1259098
+297477
+vanusia anjos
+1
+-
+18/01/2023
+953250 ref vlr dif cartaodup sel 1255466-3
+6229 stone pagamentos s.a
+-24,60
+1255466
+295740
+vanusia anjos
+1
+-
+18/01/2023
+953253 ref vlr dif cartaodup sel 1257319-4
+6229 stone pagamentos s.a
+-23,28
+1257319
+296619
+vanusia anjos
+1
+-
+25/01/2023
+956118 ref vlr dif cartaodup sel 1258384-4
+6232 redecard s/a
+-21,26
+1258384
+297125
+vanusia anjos
+1
+-
+18/01/2023
+953281 ref vlr dif cartaodup sel 1254363-3
+6232 redecard s/a
+-20,56
+1254363
+295194
+vanusia anjos
+1
+-
+21/01/2023
+954880 ref vlr dif cartaodup sel 1260408-3
+6232 redecard s/a
+-19,73
+1260408
+298115
+vanusia anjos
+1
+-
+18/01/2023
+953252 ref vlr dif cartaodup sel 1255859-3
+6229 stone pagamentos s.a
+-18,99
+1255859
+295931
+vanusia anjos
+1
+-
+período : 01/01/2023 a 31/01/2023
+124 - balancete
+filial :
+page 5
+22/03/2023 10:33:39
+tipo : por lançamento
+1
+não
+desconsiderar st:
+desconsiderar valores de beneficiamento: não
+210 despesas financeiras
+-
+grupo:
+210009
+conta:
+juros venda cartao de crédito
+dt.pagto
+nº lanc. histórico
+código fornecedor/cliente/rca
+valor pago
+n.doc.
+transação
+funcionário
+fil.
+bco/cheque
+-
+18/01/2023
+953268 ref vlr dif cartaodup sel 1256810-6
+6229 stone pagamentos s.a
+-18,55
+1256810
+296365
+vanusia anjos
+1
+-
+18/01/2023
+953272 ref vlr dif cartaodup sel 1254770-4
+6229 stone pagamentos s.a
+-18,37
+1254770
+295398
+vanusia anjos
+1
+-
+27/01/2023
+957241 ref vlr dif cartaodup sel 1262676-3
+6232 redecard s/a
+-18,36
+1262676
+299209
+vanusia anjos
+1
+-
+18/01/2023
+953249 ref vlr dif cartaodup sel 1255450-3
+6229 stone pagamentos s.a
+-18,18
+1255450
+295732
+vanusia anjos
+1
+-
+21/01/2023
+954867 ref vlr dif cartaodup sel 1243197-3
+6232 redecard s/a
+-17,88
+1243197
+289820
+vanusia anjos
+1
+-
+18/01/2023
+953261 ref vlr dif cartaodup sel 1258990-3
+6229 stone pagamentos s.a
+-17,77
+1258990
+297423
+vanusia anjos
+1
+-
+31/01/2023
+958315 ref vlr dif cartaodup sel 1215403-9
+6232 redecard s/a
+-17,00
+1215403
+276780
+vanusia anjos
+1
+-
+18/01/2023
+953258 ref vlr dif cartaodup sel 1256947-3
+6229 stone pagamentos s.a
+-16,50
+1256947
+296433
+vanusia anjos
+1
+-
+18/01/2023
+953260 ref vlr dif cartaodup sel 1257309-3
+6229 stone pagamentos s.a
+-16,18
+1257309
+296614
+vanusia anjos
+1
+-
+25/01/2023
+956113 ref vlr dif cartaodup sel 1261952-5
+6232 redecard s/a
+-16,14
+1261952
+298855
+vanusia anjos
+1
+-
+25/01/2023
+956114 ref vlr dif cartaodup sel 1261952-7
+6232 redecard s/a
+-16,14
+1261952
+298855
+vanusia anjos
+1
+-
+21/01/2023
+954866 ref vlr dif cartaodup sel 1260444-3
+6232 redecard s/a
+-15,73
+1260444
+298133
+vanusia anjos
+1
+-
+27/01/2023
+957238 ref vlr dif cartaodup sel 1262836-3
+6232 redecard s/a
+-15,05
+1262836
+299289
+vanusia anjos
+1
+-
+27/01/2023
+957267 ref vlr dif cartaodup sel 1262702-3
+6232 redecard s/a
+-13,55
+1262702
+299222
+vanusia anjos
+1
+-
+18/01/2023
+953262 ref vlr dif cartaodup sel 1253348-4
+6232 redecard s/a
+-13,19
+1253348
+294707
+vanusia anjos
+1
+-
+19/01/2023
+954195 ref vlr dif cartaodup sel 1260100-6
+6232 redecard s/a
+-12,65
+1260100
+297964
+vanusia anjos
+1
+-
+19/01/2023
+954196 ref vlr dif cartaodup sel 1260100-7
+6232 redecard s/a
+-12,65
+1260100
+297964
+vanusia anjos
+1
+-
+19/01/2023
+954194 ref vlr dif cartaodup sel 1260100-5
+6232 redecard s/a
+-12,64
+1260100
+297964
+vanusia anjos
+1
+-
+31/01/2023
+958306 ref vlr dif cartaodup sel 1263826-3
+6232 redecard s/a
+-12,61
+1263826
+299748
+vanusia anjos
+1
+-
+21/01/2023
+954879 ref vlr dif cartaodup sel 1260860-4
+6232 redecard s/a
+-12,22
+1260860
+298341
+vanusia anjos
+1
+-
+27/01/2023
+957250 ref vlr dif cartaodup sel 1262880-3
+6229 stone pagamentos s.a
+-12,19
+1262880
+299311
+vanusia anjos
+1
+-
+25/01/2023
+956115 ref vlr dif cartaodup sel 1237580-4
+6232 redecard s/a
+-11,85
+1237580
+287071
+vanusia anjos
+1
+-
+31/01/2023
+958300 ref vlr dif cartaodup sel 1145437-5
+6232 redecard s/a
+-11,72
+1145437
+256032
+vanusia anjos
+1
+-
+18/01/2023
+953266 ref vlr dif cartaodup sel 1259064-3
+6229 stone pagamentos s.a
+-11,68
+1259064
+297460
+vanusia anjos
+1
+-
+27/01/2023
+957252 ref vlr dif cartaodup sel 1259220-4
+6229 stone pagamentos s.a
+-11,57
+1259220
+297537
+vanusia anjos
+1
+-
+31/01/2023
+958314 ref vlr dif cartaodup sel 1145437-6
+6232 redecard s/a
+-11,55
+1145437
+256032
+vanusia anjos
+1
+-
+18/01/2023
+953269 ref vlr dif cartaodup sel 1255919-3
+6229 stone pagamentos s.a
+-11,10
+1255919
+295958
+vanusia anjos
+1
+-
+21/01/2023
+954865 ref vlr dif cartaodup sel 1260724-3
+6232 redecard s/a
+-10,11
+1260724
+298273
+vanusia anjos
+1
+-
+27/01/2023
+957270 ref vlr dif cartaodup sel 1253916-4
+6232 redecard s/a
+-9,75
+1253916
+294992
+vanusia anjos
+1
+-
+21/01/2023
+954881 ref vlr dif cartaodup sel 1260802-3
+6232 redecard s/a
+-9,10
+1260802
+298312
+vanusia anjos
+1
+-
+18/01/2023
+953248 ref vlr dif cartaodup sel 1257944-3
+6229 stone pagamentos s.a
+-8,25
+1257944
+296924
+vanusia anjos
+1
+-
+18/01/2023
+953247 ref vlr dif cartaodup sel 1225371-3
+6232 redecard s/a
+-6,96
+1225371
+281124
+vanusia anjos
+1
+-
+27/01/2023
+957239 ref vlr dif cartaodup sel 1262680-4
+6232 redecard s/a
+-6,32
+1262680
+299211
+vanusia anjos
+1
+-
+27/01/2023
+957240 ref vlr dif cartaodup sel 1262680-5
+6232 redecard s/a
+-6,32
+1262680
+299211
+vanusia anjos
+1
+-
+21/01/2023
+954864 ref vlr dif cartaodup sel 1260670-3
+6232 redecard s/a
+-6,25
+1260670
+298246
+vanusia anjos
+1
+-
+31/01/2023
+958303 ref vlr dif cartaodup sel 1263879-5
+6232 redecard s/a
+-5,90
+1263879
+299777
+vanusia anjos
+1
+-
+31/01/2023
+958304 ref vlr dif cartaodup sel 1263879-6
+6232 redecard s/a
+-5,90
+1263879
+299777
+vanusia anjos
+1
+-

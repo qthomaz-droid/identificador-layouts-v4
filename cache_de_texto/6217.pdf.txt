@@ -1,0 +1,853 @@
+02/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,01
+saldo inicial:
+r$0,00
+-r$30,80
+tar bloqueto itau
+005461
+02/05/2025
+-r$29,79
+r$0,00
+-r$11,70
+tar bloqueto itau
+005460
+02/05/2025
+-r$41,49
+r$0,00
+-r$0,90
+tar bloqueto itau
+005463
+02/05/2025
+-r$42,39
+r$43,38
+r$0,00
+res aplic aut mais ap
+005733
+02/05/2025
+r$0,99
+r$0,01
+r$0,00
+rend pago aplic aut mais
+005464
+02/05/2025
+r$1,00
+-r$43,40
+r$43,39
+saldo atual em: 02/05/2025
+r$1,00
+05/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$10,00
+tar pix pgto transf
+005821
+05/05/2025
+-r$9,00
+r$10,00
+r$0,00
+res aplic aut mais
+006033
+05/05/2025
+r$1,00
+-r$10,00
+r$10,00
+saldo atual em: 05/05/2025
+r$1,00
+06/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$201.355,25
+folha de pagamento mês 04/2025 - obra manutenção embasa fsa
+folha
+06/05/2025
+-r$201.354,25
+r$0,00
+-r$4.070,54
+recibo nº 232025 - raissa de almeida carrico - locação de um imovel para c
+025-01
+06/05/2025
+-r$205.424,79
+r$0,00
+-r$1.890,10
+9836704-0050 ctps - recibo de férias kelber campos santos
+tps fe
+06/05/2025
+-r$207.314,89
+r$0,00
+-r$1.712,00
+nf - 00012162 -  adl distribuidora ltda - unidade fsa - produção
+162-02
+06/05/2025
+-r$209.026,89
+r$0,00
+-r$1.029,00
+nf - 00019371 -  dk comercial de ferramentas - unidade fsa - produção
+371-03
+06/05/2025
+-r$210.055,89
+r$0,00
+-r$936,96
+nf - 00080750 -  cimentaço materiais de construção ltda  - unidade fsa - pr
+750-01
+06/05/2025
+-r$210.992,85
+r$0,00
+-r$862,50
+nf - 00068143 -  feira proteção - unidade fsa - produção
+143-01
+06/05/2025
+-r$211.855,35
+r$211.856,35
+r$0,00
+transf entre c/c 206878 p/ 993889
+005703
+06/05/2025
+r$1,00
+-r$211.856,35
+r$211.856,35
+saldo atual em: 06/05/2025
+r$1,00
+08/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$5.000,00
+adiantamento de fundo fixo obra unidade feira de santana
+005477
+08/05/2025
+-r$4.999,00
+r$0,00
+-r$4,85
+492024 prestação de contas reembolso - natalia cruz cunha - manutençã
+2024/a
+08/05/2025
+-r$5.003,85
+r$5.004,85
+r$0,00
+transferencia mesma titularidade - 20687 p/ 99388-9
+005746
+08/05/2025
+r$1,00
+-r$5.004,85
+r$5.004,85
+saldo atual em: 08/05/2025
+r$1,00
+09/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+página 1 de 4
+esc.01.01
+sanea ambiental ltda
+04/06/25 13:58
+extrato de conta caixa
+r$0,00
+-r$72.827,75
+trct - mateus pequeno da silva santos - obra manutenção embasa fsa
+1 ctps
+09/05/2025
+-r$72.826,75
+r$0,00
+-r$7.966,43
+9838337-0050  recibo de férias matheus francisco tavares paulino da silva
+ferias
+09/05/2025
+-r$80.793,18
+r$0,00
+-r$7.788,59
+fgts digital rescisorio -  alex borges, jandira, leonardo e jose herivelton 
+9029-0
+09/05/2025
+-r$88.581,77
+r$0,00
+-r$6.500,32
+fgts digital rescisorio -  elisson, rogerio e mateus pequeno - obra manut
+1689-0
+09/05/2025
+-r$95.082,09
+r$0,00
+-r$4.397,92
+nf nº 032025  - vivo - serviços de telefonia e internet no período de 25/02 a 
+2025/a
+09/05/2025
+-r$99.480,01
+r$0,00
+-r$3.913,37
+nf nº 8072  -ljf contadores associados - me - prestação de serviços contab
+072-01
+09/05/2025
+-r$103.393,38
+r$0,00
+-r$1.903,80
+nf nº 6552025 -prime comercial de motocicletas ltda - manutenção embas
+513-01
+09/05/2025
+-r$105.297,18
+r$0,00
+-r$1.395,88
+fgts digital rescisorio -  antonio carlos conceição soares - obra manute
+7428-0
+09/05/2025
+-r$106.693,06
+r$0,00
+-r$1.060,50
+boleto nº 66230183 - flash tecnologia e pagamentos ltda - fornecimento 
+2301/a
+09/05/2025
+-r$107.753,56
+r$0,00
+-r$725,03
+pensão alimenticia mês 04/2025 - sidney teixeira moreira - obra manutenç
+o alim
+09/05/2025
+-r$108.478,59
+r$0,00
+-r$129,29
+fgts folha mês 04/2025 - antonio carlos da conceição soares - manutenç
+ntonio
+09/05/2025
+-r$108.607,88
+r$108.608,88
+r$0,00
+transferencia mesma titularidade - 20687 p/ 99388-9
+005757
+09/05/2025
+r$1,00
+-r$108.608,88
+r$108.608,88
+saldo atual em: 09/05/2025
+r$1,00
+13/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$5.847,18
+nf nº 15322025 -uniao medica planos de saude s a - serviços de plano de sa
+025-01
+13/05/2025
+-r$5.846,18
+r$0,00
+-r$5.141,03
+nf nº 275965 - maxifrota serviços de manutenção de frota - fornecimento 
+5965/a
+13/05/2025
+-r$10.987,21
+r$0,00
+-r$4.641,76
+reembolso nº 71/2025 - natalia cruz cunha - fundo fixo - manutenção emb
+2025/a
+13/05/2025
+-r$15.628,97
+r$0,00
+-r$3.541,76
+boleto nº 1800425- sindicato - fsa - mensalidade taxa assistencial abril/20
+5/2025
+13/05/2025
+-r$19.170,73
+r$0,00
+-r$1.498,09
+nf nº 867673598  - coelba - fornecimento de energia para o canteiro sanea 
+7673/a
+13/05/2025
+-r$20.668,82
+r$0,00
+-r$1.156,67
+nf - 00019706 -  dk comercial de ferramentas - unidade fsa - produção
+706-01
+13/05/2025
+-r$21.825,49
+r$0,00
+-r$1.050,00
+nf - 00012503 -  adl distribuidora ltda - unidade fsa - produção
+503-01
+13/05/2025
+-r$22.875,49
+r$0,00
+-r$600,00
+recibo  nº 142025 -fabricio dias oliveira - locação de 01(uma) moto, placa 
+025-01
+13/05/2025
+-r$23.475,49
+r$0,00
+-r$500,00
+recibo - 182025-reginaldo dos santos lima - locação de uma moto, placa p
+025-01
+13/05/2025
+-r$23.975,49
+r$0,00
+-r$483,18
+fatura nº 2109 - gilix tecnologia da infromação ltda - assessoria tecnoló
+2109/a
+13/05/2025
+-r$24.458,67
+r$0,00
+-r$303,50
+nf - 00068227 -  feira proteção - unidade fsa - produção
+227-01
+13/05/2025
+-r$24.762,17
+r$0,00
+-r$171,18
+fatura nº 822305 -lm transportes interestaduais servicos e comercio s.a. - 
+305-01
+13/05/2025
+-r$24.933,35
+r$0,00
+-r$165,91
+nf nº 867651578 - coelba - fornecimento de energia para republica do assi
+7651/a
+13/05/2025
+-r$25.099,26
+r$25.100,26
+r$0,00
+transf entre c/c 206878 p/993889
+005823
+13/05/2025
+r$1,00
+-r$25.100,26
+r$25.100,26
+saldo atual em: 13/05/2025
+r$1,00
+16/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$50.110,08
+fatura nº 816490 -lm transportes interestaduais servicos e comercio s.a. - 
+490-01
+16/05/2025
+-r$50.109,08
+r$0,00
+-r$22.584,18
+nf nº 8193 - j a sobral & cia ltda - fornecimento de combustivel no period
+8193/a
+16/05/2025
+-r$72.693,26
+r$0,00
+-r$20.000,00
+fatura nº 212025 -carola almeida dos santos - locação de 02(duas) retros
+025-01
+16/05/2025
+-r$92.693,26
+r$0,00
+-r$16.995,26
+trct adriano santana gondim  - obra manutenção embasa
+0 ctps
+16/05/2025
+-r$109.688,52
+r$0,00
+-r$15.195,60
+nf - 00482025 -  rbmassa - unidade fsa - produção
+025-01
+16/05/2025
+-r$124.884,12
+r$0,00
+-r$14.000,00
+nf nº 12025 -jose rogerio santos de andrade junior - locação de 03(três) c
+025-01
+16/05/2025
+-r$138.884,12
+r$0,00
+-r$11.000,00
+nf nº 20 -silvania ferreira lima - locação de 01 caminhão placa ocv8i37 e 0
+020-01
+16/05/2025
+-r$149.884,12
+r$0,00
+-r$7.200,00
+nf nº 66 -jean anderson de oliveira franco - transporte e fornecimento d
+066-01
+16/05/2025
+-r$157.084,12
+r$0,00
+-r$6.789,00
+nf nº 25314 -maveq equipamentos ltda. - locação de equipamentos no peri
+314-01
+16/05/2025
+-r$163.873,12
+r$0,00
+-r$5.000,00
+recibo nº 24 -quezia magalhães conceição - locação de 01 caminhão plac
+024-01
+16/05/2025
+-r$168.873,12
+r$0,00
+-r$4.398,42
+nf nº 04/2025 - vivo - serviços de telefonia e internet movel no periodo de 
+2025/a
+16/05/2025
+-r$173.271,54
+r$0,00
+-r$1.973,47
+fgts digital rescisório - adriano santana gondim - manutenção embasa f
+5597-3
+16/05/2025
+-r$175.245,01
+r$0,00
+-r$1.825,02
+ nf nº 13896 - jle comercio de combustiveis e lubrificantes ltda - fornecim
+3896/a
+16/05/2025
+-r$177.070,03
+r$0,00
+-r$1.700,00
+recibo nº 112025 -denise santos da silva - locação de 01 imovel para repub
+025-01
+16/05/2025
+-r$178.770,03
+r$0,00
+-r$1.430,79
+fgts digital rescisório - fabio silva miranda - manutenção embasa fsa
+8586-2
+16/05/2025
+-r$180.200,82
+r$0,00
+-r$1.240,00
+fatura nº 363339 -lm transportes interestaduais servicos e comercio s.a. - 
+339-01
+16/05/2025
+-r$181.440,82
+página 2 de 4
+esc.01.01
+sanea ambiental ltda
+04/06/25 13:58
+extrato de conta caixa
+r$0,00
+-r$1.117,60
+nf nº 3460 - sobral e filhos comercio de combustiveis ltda - fornecimento 
+3460/a
+16/05/2025
+-r$182.558,42
+r$0,00
+-r$800,00
+fatura nº 2628 - autofast solucoes em tecnologia ltda - serviços de inter
+2628/a
+16/05/2025
+-r$183.358,42
+r$0,00
+-r$532,00
+nf nº 23322025 -silva e ribeiro comércio varejista de equipamentos de info
+025-01
+16/05/2025
+-r$183.890,42
+r$0,00
+-r$340,32
+fatura nº 58- plenitude cop e serv multicuncionais ltda - locação de 01 im
+058-01
+16/05/2025
+-r$184.230,74
+r$0,00
+-r$206,35
+nf nº 869131145 - coelba - fornecimento de energia para republica da eaf 
+9131/a
+16/05/2025
+-r$184.437,09
+r$0,00
+-r$119,51
+nf nº 05/2025 - embasa - emp. baiana de agua e saneamento - fornecimento 
+2025/a
+16/05/2025
+-r$184.556,60
+r$184.557,60
+r$0,00
+transferencia cc 20687 p/ cc 99388-9 sanea
+005851
+16/05/2025
+r$1,00
+-r$184.557,60
+r$184.557,60
+saldo atual em: 16/05/2025
+r$1,00
+19/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,90
+r$0,00
+bo ressarc tar sispag
+005650
+19/05/2025
+r$1,90
+r$0,00
+r$0,90
+saldo atual em: 19/05/2025
+r$1,90
+20/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,90
+saldo inicial:
+r$0,00
+-r$100.935,09
+adiantamento salarial mês de maio - 2025 - manutenção embasa fsa
+alaria
+20/05/2025
+-r$100.933,19
+r$0,00
+-r$28.801,79
+fgts folha mês 04/2025 - manutenção embasa fsa
+folha
+20/05/2025
+-r$129.734,98
+r$0,00
+-r$3.784,88
+7778834-0040 ctps - recibo de férias geraldo gomes da silva
+ferias
+20/05/2025
+-r$133.519,86
+r$0,00
+-r$1.859,83
+nf - 00065745 -  moto facil - unidade fsa - produção
+698-01
+20/05/2025
+-r$135.379,69
+r$0,00
+-r$1.201,04
+nf nº 2069 -isauf - instituto de saude de feira de santana ltda
+069-01
+20/05/2025
+-r$136.580,73
+r$0,00
+-r$1.056,80
+boleto nº76527609 - flash tecnologia e pagamentos ltda - fornecimento d
+5276/a
+20/05/2025
+-r$137.637,53
+r$0,00
+-r$330,00
+nf - 00069745 -  feira epi  - unidade fsa - produção
+745-03
+20/05/2025
+-r$137.967,53
+r$0,00
+-r$1,47
+apl aplic aut mais ap
+005921
+20/05/2025
+-r$137.969,00
+r$137.970,00
+r$0,00
+transferencia 20687 p/ cc 99388 sanea
+005900
+20/05/2025
+r$1,00
+-r$137.970,90
+r$137.970,00
+saldo atual em: 20/05/2025
+r$1,00
+23/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$3.882,83
+reembolso nº 722025 - natalia cruz cunha - fundo fixo - manutenção emb
+2025/a
+23/05/2025
+-r$3.881,83
+r$0,00
+-r$3.498,49
+5932814-0040  recibo de férias ivanildo pereira alves
+ferias
+23/05/2025
+-r$7.380,32
+r$0,00
+-r$170,87
+reembolso nº 042025 - monica cristina socorro sant´ana - transporte ref
+2025/a
+23/05/2025
+-r$7.551,19
+r$7.552,19
+r$0,00
+transferencia cc 20687 p/ 99388-9  sanea
+005947
+23/05/2025
+r$1,00
+-r$7.552,19
+r$7.552,19
+saldo atual em: 23/05/2025
+r$1,00
+27/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$3.350,00
+nf - 00015858 -  cimentaco materiais de construção ltda - unidade fsa - pr
+858-01
+27/05/2025
+-r$3.349,00
+página 3 de 4
+esc.01.01
+sanea ambiental ltda
+04/06/25 13:58
+extrato de conta caixa
+r$0,00
+-r$1.263,18
+nf - 00003541 -  epi 360 - unidade fsa - produção
+541-01
+27/05/2025
+-r$4.612,18
+r$0,00
+-r$1.156,67
+nf - 00019706 -  dk comercial de ferramentas - unidade fsa - produção
+706-02
+27/05/2025
+-r$5.768,85
+r$0,00
+-r$650,00
+nf - 00068309 -  feira proteção - unidade fsa - produção
+309-01
+27/05/2025
+-r$6.418,85
+r$0,00
+-r$292,80
+nf - 00080880 -  cimentaço materiais de construção ltda  - unidade fsa - pr
+880-01
+27/05/2025
+-r$6.711,65
+r$6.712,65
+r$0,00
+transferencia mesma titularidade cc 20687 p/ 99388-9 sanea
+005968
+27/05/2025
+r$1,00
+-r$6.712,65
+r$6.712,65
+saldo atual em: 27/05/2025
+r$1,00
+29/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$63.667,92
+boleto nº 84321484 - flash tecnologia e pagamentos ltda - fornecimento 
+3214/a
+29/05/2025
+-r$63.666,92
+r$0,00
+-r$37.982,94
+boleto nº 84317078 - flash tecnologia e pagamentos ltda - fornecimento 
+3170/a
+29/05/2025
+-r$101.649,86
+r$101.650,86
+r$0,00
+transferencia mesma titularidade cc 20687 p/ cc 99388
+005986
+29/05/2025
+r$1,00
+-r$101.650,86
+r$101.650,86
+saldo atual em: 29/05/2025
+r$1,00
+30/05/2025
+data:
+débito
+conta caixa:
+data
+documento
+0254
+banco itau ag 0705 cc 99388-9
+histórico
+saldo
+crédito
+r$1,00
+saldo inicial:
+r$0,00
+-r$91.414,51
+062025  - recibo de férias de 32 colaboradores - manutenção embasa fsa
+férias
+30/05/2025
+-r$91.413,51
+r$0,00
+-r$23.471,04
+nf nº 8228 - j a sobral & cia ltda - fornecimento de combustivel no period
+8228/a
+30/05/2025
+-r$114.884,55
+r$0,00
+-r$10.347,97
+trct - carlos alberto santos cerqueira - unidade fsa produção sanea
+0 ctps
+30/05/2025
+-r$125.232,52
+r$0,00
+-r$3.076,40
+nf nº 286143 - maxifrota serviços de manutenção de frota - fornecimento 
+6143/a
+30/05/2025
+-r$128.308,92
+r$0,00
+-r$2.700,35
+nf nº 42025-metropolitan life seguros e previdencia privada s/a
+025-01
+30/05/2025
+-r$131.009,27
+r$0,00
+-r$2.471,40
+boleto nº 1262329 -associacao das empresas de transportes coletivo de f
+329-01
+30/05/2025
+-r$133.480,67
+r$0,00
+-r$2.081,88
+fgts digital rescisório - carlos alberto santos cerqueira  - manutenção e
+3311-9
+30/05/2025
+-r$135.562,55
+r$0,00
+-r$1.856,90
+nf nº 13958 - jle comercio de combustiveis e lubrificantes ltda - fornecim
+3958/a
+30/05/2025
+-r$137.419,45
+r$0,00
+-r$928,00
+nf nº 3494 - sobral e filhos comercio de combustiveis ltda - fornecimento 
+3494/a
+30/05/2025
+-r$138.347,45
+r$0,00
+-r$900,00
+nf nº 120897  - instituto euvaldo lodi - taxa admistrativa de jovem aprend
+7/2025
+30/05/2025
+-r$139.247,45
+r$0,00
+-r$315,00
+nf - 00012129 -  central do epi - unidade fsa - produção
+129-01
+30/05/2025
+-r$139.562,45
+r$139.563,45
+r$0,00
+transferencia entre contas 20687 p´ 99388
+006002
+30/05/2025
+r$1,00
+-r$139.563,45
+r$139.563,45
+saldo atual em: 30/05/2025
+r$1,00
+página 4 de 4
+esc.01.01
+sanea ambiental ltda
+04/06/25 13:58
+extrato de conta caixa

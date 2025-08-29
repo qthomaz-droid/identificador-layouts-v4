@@ -1,0 +1,1322 @@
+hotel master
+extrato de contas por fornecedor (01/01/2025 à 28/02/2025)
+ | situação: pagas | conta: todas contas-correntes
+cliente: 000138 - 46.271.807 uilian roberto cardoso santos
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000001
+1
+18/01/2025 18/01/2025
+r$
+pago
+600,00
+18/01/2025
+banco
+caixa economica f
+total:
+600,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 600,00
+cliente: 000037 - acescon medical ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000005372
+1
+08/01/2025 09/01/2025
+r$
+pago
+50,00
+referente exame admissional luana
+09/01/2025
+banco
+caixa economica f
+0000005235
+1
+22/01/2025 23/01/2025
+r$
+pago
+50,00
+exame admissional de gildenor
+23/01/2025
+banco
+caixa economica f
+0000005458
+1
+03/02/2025 07/02/2025
+r$
+pago
+100,00
+exame de admissional yasmim e deminional marluce
+07/02/2025
+banco
+caixa economica f
+total:
+200,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 200,00
+cliente: 000094 - adijailson santana santos junior
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000016
+1
+15/02/2025 15/02/2025
+r$
+pago
+1.125,00
+17/02/2025
+banco
+caixa economica f
+0000000017
+1
+22/02/2025 22/02/2025
+r$
+pago
+975,00
+22/02/2025
+banco
+caixa economica f
+0000000018
+1
+28/02/2025 28/02/2025
+r$
+pago
+1.150,00
+28/02/2025
+banco
+caixa economica f
+total:
+3.250,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 3.250,00
+cliente: 000268 - agua top perfuracao e const de poco eireli
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000001
+1
+15/12/2024 25/01/2025
+r$
+pago
+700,00
+27/01/2025
+banco
+banco itau
+0000000002
+1
+15/12/2024 25/01/2025
+r$
+pago
+1.699,99
+27/01/2025
+banco
+banco itau
+total:
+2.399,99
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 2.399,99
+cliente: 000019 - alfa shop produtos quimicos ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000007515
+1
+16/12/2024 13/01/2025
+r$
+pago
+85,20
+13/01/2025
+banco
+caixa economica f
+total:
+85,20
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 85,20
+cliente: 000121 - americanas s a
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000002
+23
+24/01/2025 25/01/2025
+r$
+pago
+359,70
+27/01/2025
+banco
+banco itau
+total:
+359,70
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 359,70
+cliente: 000126 - assel comercio e derivados do petroleo ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000001
+2
+24/01/2025 25/01/2025
+r$
+pago
+20,00
+25/01/2025
+banco
+banco itau
+0000000001
+3
+24/01/2025 25/01/2025
+r$
+pago
+20,00
+27/01/2025
+banco
+banco itau
+0000010002
+33
+24/01/2025 25/01/2025
+r$
+pago
+20,00
+27/01/2025
+banco
+banco itau
+página: 1 de 22
+gerado por: silbeck - sb hotel em 27/03/2025 13:19:27 usuário: orcoma
+extrato de contas por fornecedor (01/01/2025 à 28/02/2025)
+total:
+60,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 60,00
+cliente: 000010 - atakarejo distribuidor de alimentos e bebidas s.a
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+f000000163
+2
+20/12/2024 25/01/2025
+r$
+pago
+678,78
+27/01/2025
+caixa fixo
+banco itau
+0000000023
+1
+28/12/2024 25/01/2025
+r$
+pago
+143,24
+27/01/2025
+banco
+banco itau
+0000015054
+1
+04/01/2025 25/01/2025
+r$
+pago
+94,90
+27/01/2025
+banco
+banco itau
+0000000002
+2
+24/01/2025 25/01/2025
+r$
+pago
+93,63
+27/01/2025
+banco
+banco itau
+f000000180
+1
+24/01/2025 25/01/2025
+r$
+pago
+237,11
+27/01/2025
+caixa fixo
+banco itau
+0000000002
+21
+474,22
+f000000180
+2
+24/01/2025 25/01/2025
+r$
+pago
+237,11
+27/01/2025
+caixa fixo
+banco itau
+f000000202
+1
+07/02/2025 25/02/2025
+r$
+pago
+220,49
+22/02/2025
+caixa fixo
+banco itau
+0000015949
+1
+440,97
+0000015400
+1
+17/01/2025 25/02/2025
+r$
+pago
+457,14
+25/02/2025
+banco
+banco itau
+0000015469
+1
+21/01/2025 25/02/2025
+r$
+pago
+190,00
+25/02/2025
+banco
+banco itau
+total:
+2.352,40
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 2.352,40
+cliente: 000280 - auto posto borda da mata ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000002
+12
+24/01/2025 25/01/2025
+r$
+pago
+20,00
+25/01/2025
+banco
+banco itau
+0000000001
+1
+24/01/2025 25/01/2025
+r$
+pago
+20,00
+27/01/2025
+banco
+banco itau
+total:
+40,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 40,00
+cliente: 000273 - banco bradesco sa
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000001
+1
+10/01/2025 10/01/2025
+r$
+pago
+46,42
+10/01/2025
+banco
+banco do bradesc
+total:
+46,42
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 46,42
+cliente: 000016 - banco do nordeste sa
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+f000000152
+2
+16/11/2024 23/02/2025
+r$
+pago
+35,94
+24/02/2025
+caixa fixo
+banco do nordes
+f000000153
+2
+16/11/2024 23/02/2025
+r$
+pago
+55,90
+24/02/2025
+caixa fixo
+banco do nordes
+0000000031
+1
+17/11/2024 23/02/2025
+r$
+pago
+625,00
+24/02/2025
+banco
+banco do nordes
+f000000156
+1
+17/11/2024 23/02/2025
+r$
+pago
+995,83
+24/02/2025
+caixa fixo
+0000000033
+8
+7.966,64
+total:
+1.712,67
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 1.712,67
+cliente: 000017 - boi e carnes pl e filhos ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000022435
+1
+27/12/2024 09/01/2025
+r$
+pago
+490,15
+09/01/2025
+banco
+caixa economica f
+0000022554
+1
+03/01/2025 09/01/2025
+r$
+pago
+321,30
+09/01/2025
+banco
+caixa economica f
+0000022677
+1
+09/01/2025 11/01/2025
+r$
+pago
+677,00
+16/01/2025
+banco
+caixa economica f
+0000022820
+1
+17/01/2025 17/01/2025
+r$
+pago
+1.098,66
+16/01/2025
+banco
+caixa economica f
+página: 2 de 22
+gerado por: silbeck - sb hotel em 27/03/2025 13:19:27 usuário: orcoma
+extrato de contas por fornecedor (01/01/2025 à 28/02/2025)
+0000022775
+2
+15/01/2025 23/01/2025
+r$
+pago
+631,00
+27/01/2025
+banco
+caixa economica f
+0000022949
+1
+23/01/2025 29/01/2025
+r$
+pago
+524,54
+30/01/2025
+banco
+caixa economica f
+0000023045
+1
+28/01/2025 07/02/2025
+r$
+pago
+417,00
+12/02/2025
+banco
+caixa economica f
+0000023160
+1
+31/01/2025 07/02/2025
+r$
+pago
+682,00
+12/02/2025
+banco
+caixa economica f
+0000023317
+1
+06/02/2025 07/02/2025
+r$
+pago
+1.205,00
+12/02/2025
+banco
+caixa economica f
+0000023389
+1
+11/02/2025 17/02/2025
+r$
+pago
+1.206,00
+17/02/2025
+banco
+caixa economica f
+0000023392
+1
+11/02/2025 17/02/2025
+r$
+pago
+489,40
+17/02/2025
+banco
+caixa economica f
+0000023627
+1
+21/02/2025 22/02/2025
+r$
+pago
+1.118,00
+22/02/2025
+banco
+caixa economica f
+0000000003
+1
+27/02/2025 27/02/2025
+r$
+pago
+772,75
+27/02/2025
+banco
+caixa economica f
+total:
+9.632,80
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 9.632,80
+cliente: 000277 - booking.
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000009
+1
+20/01/2025 20/01/2025
+r$
+pago
+268,59
+20/01/2025
+banco
+hotel
+0000000001
+1
+07/02/2025 19/02/2025
+r$
+pago
+2.975,24
+18/02/2025
+banco
+banco itau
+total:
+3.243,83
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 3.243,83
+cliente: 000256 - camel indstria textil ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+f000000146
+3
+06/11/2024 28/01/2025
+r$
+pago
+1.505,53
+28/01/2025
+caixa fixo
+total:
+1.505,53
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 1.505,53
+cliente: 000257 - camesa industria textil ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000136720
+6
+31/10/2024 29/01/2025
+r$
+pago
+931,55
+29/01/2025
+banco
+caixa economica f
+0000000001
+5030 21/02/2025 21/02/2025
+r$
+pago
+5.030,93
+21/02/2025
+banco
+banco itau
+total:
+5.962,48
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 5.962,48
+cliente: 000167 - casa das resistencias ba m e ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000002331
+3
+11/11/2024 06/01/2025
+r$
+pago
+703,00
+06/01/2025
+banco
+caixa economica f
+total:
+703,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 703,00
+cliente: 000269 - ceo travel agencia de viagens e turismo
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000001
+1
+13/02/2025 13/02/2025
+r$
+pago
+64,50
+13/02/2025
+banco
+caixa economica f
+total:
+64,50
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 64,50
+cliente: 000198 - cica confeccoes ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000003793
+2
+29/11/2024 28/01/2025
+r$
+pago
+1.371,00
+28/01/2025
+banco
+caixa economica f
+total:
+1.371,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 1.371,00
+página: 3 de 22
+gerado por: silbeck - sb hotel em 27/03/2025 13:19:27 usuário: orcoma
+extrato de contas por fornecedor (01/01/2025 à 28/02/2025)
+cliente: 000116 - claro s.a.
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+f000000086
+4
+24/06/2024 10/01/2025
+r$
+pago
+188,00
+14/01/2025
+caixa fixo
+banco itau
+0000000008
+1
+13/01/2025 15/01/2025
+r$
+pago
+359,05
+15/01/2025
+banco
+banco itau
+0000000009
+1
+13/01/2025 15/01/2025
+r$
+pago
+42,50
+15/01/2025
+banco
+banco itau
+f000000086
+3
+24/06/2024 10/02/2025
+r$
+pago
+184,56
+23/01/2025
+caixa fixo
+caixa economica f
+0000000010
+1
+23/01/2025 23/01/2025
+r$
+pago
+60,00
+23/01/2025
+banco
+banco do bradesc
+0000000011
+1
+23/01/2025 10/02/2025
+r$
+pago
+60,00
+10/02/2025
+banco
+banco do bradesc
+total:
+894,11
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 894,11
+cliente: 000096 - claudia freitas da silva
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000002
+3
+07/01/2025 07/01/2025
+r$
+pago
+350,00
+referente a 5 diarias
+07/01/2025
+banco
+caixa economica f
+0000000001
+3
+20/01/2025 21/01/2025
+r$
+pago
+350,00
+referente a 5 diarias
+21/01/2025
+banco
+caixa economica f
+0000000001
+23
+02/02/2025 05/02/2025
+r$
+pago
+350,00
+05 diarias
+02/02/2025
+banco
+caixa economica f
+0000000236
+1
+07/02/2025 13/02/2025
+r$
+pago
+420,00
+13/02/2025
+banco
+caixa economica f
+0000000452
+1
+21/02/2025 22/02/2025
+r$
+pago
+350,00
+22/02/2025
+banco
+caixa economica f
+0000002368
+1
+26/02/2025 27/02/2025
+r$
+pago
+140,00
+27/02/2025
+banco
+caixa economica f
+0000002360
+1
+26/02/2025 27/02/2025
+r$
+pago
+200,00
+27/02/2025
+banco
+caixa economica f
+total:
+2.160,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 2.160,00
+cliente: 000272 - claudinei nere de brito
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000001
+1
+04/01/2025 04/01/2025
+r$
+pago
+250,00
+05/01/2025
+banco
+hotel
+total:
+250,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 250,00
+cliente: 000139 - combel dist. de mat. de const. ltda - me
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000004
+1
+02/01/2025 03/01/2025
+r$
+pago
+11.000,00
+03/01/2025
+banco
+banco itau
+0000000003
+1
+04/02/2025 04/02/2025
+r$
+pago
+10.000,00
+04/02/2025
+banco
+banco itau
+0000011362
+1
+13/02/2025 28/02/2025
+r$
+pago
+11.000,00
+26/02/2025
+banco
+banco itau
+total:
+32.000,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 32.000,00
+cliente: 000235 - comercial frialy ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000717
+1
+22/01/2025 25/02/2025
+r$
+pago
+156,84
+25/02/2025
+banco
+banco itau
+total:
+156,84
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 156,84
+cliente: 000042 - comferraco-comercio de ferro aco & mat
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000006
+1
+20/02/2025 20/02/2025
+r$
+pago
+61,00
+22/02/2025
+banco
+caixa economica f
+0000000007
+1
+27/02/2025 27/02/2025
+r$
+pago
+121,00
+27/02/2025
+banco
+caixa economica f
+página: 4 de 22
+gerado por: silbeck - sb hotel em 27/03/2025 13:19:27 usuário: orcoma
+extrato de contas por fornecedor (01/01/2025 à 28/02/2025)
+0000000008
+1
+27/02/2025 27/02/2025
+r$
+pago
+6,00
+27/02/2025
+banco
+caixa economica f
+total:
+188,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 188,00
+cliente: 000098 - companhia de eletricidade do estado da bahia coelba
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000005
+1
+14/01/2025 20/01/2025
+r$
+pago
+100,62
+20/01/2025
+banco
+banco do bradesc
+0000000008
+1
+27/01/2025 27/01/2025
+r$
+pago
+115,52
+27/01/2025
+banco
+banco do bradesc
+0000000007
+1
+17/02/2025 17/02/2025
+r$
+pago
+119,57
+17/02/2025
+banco
+banco do bradesc
+f000000021
+9
+17/04/2024 26/02/2025
+r$
+pago
+112,32
+27/02/2025
+caixa fixo
+banco itau
+total:
+448,03
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 448,03
+cliente: 000023 - compuservice informatica ltda
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000001
+25
+24/01/2025 25/01/2025
+r$
+pago
+46,90
+27/01/2025
+banco
+banco itau
+total:
+46,90
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 46,90
+cliente: 000282 - consiga promotora de vendas e serviças
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000000001
+1
+30/01/2025 30/01/2025
+r$
+pago
+167,00
+30/01/2025
+banco
+caixa economica f
+total:
+167,00
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 167,00
+cliente: 000110 - coopedilj cooperativa dos prod e dist de leite jequie
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000035929
+1
+03/01/2025 03/01/2025
+r$
+pago
+540,00
+09/01/2025
+banco
+caixa economica f
+0000036088
+1
+07/02/2025 13/02/2025
+r$
+pago
+652,50
+13/02/2025
+banco
+caixa economica f
+total:
+1.192,50
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 1.192,50
+cliente: 000050 - copa energia distribuidora de gas s
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0000016591
+1
+10/01/2024 10/01/2025
+r$
+pago
+1.356,51
+09/01/2025
+banco
+caixa economica f
+0000001565
+1
+04/01/2025 27/01/2025
+r$
+pago
+1.302,23
+27/01/2025
+banco
+caixa economica f
+total:
+2.658,74
+r$
+aberto: 0,00
+a conciliar: 0,00
+pago: 2.658,74
+cliente: 000066 - dexco s.a.
+duplicata
+parc
+emissão
+vencto
+moeda
+situação
+valor pagamento
+observações
+tipo pagamento
+banco
+0004701079
+1
+08/01/2025 05/02/2025
+r$
+pago
+168,14
+06/02/2025
+banco
+caixa economica f
+f000000181
+1
+03/02/2025 12/02/2025
+r$
+pago
+702,05
+12/02/2025
+caixa fixo
+banco itau
+0000000001
+3
+2.808,21
+f000000182
+1
+03/02/2025 12/02/2025
+r$
+pago
+210,42
+12/02/2025
+caixa fixo
+0000000002
+4
+841,69
+f000000183
+1
+06/02/2025 18/02/2025
+r$
+pago
+221,14
+18/02/2025
+caixa fixo
+0000000003
+4
+884,56
+f000000195
+1
+25/02/2025 27/02/2025
+r$
+pago
+190,26
+26/02/2025
+caixa fixo
+página: 5 de 22
+gerado por: silbeck - sb hotel em 27/03/2025 13:19:27 usuário: orcoma

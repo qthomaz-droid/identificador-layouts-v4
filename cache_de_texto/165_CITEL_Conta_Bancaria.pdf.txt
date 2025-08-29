@@ -1,0 +1,1951 @@
+cb tintas ltda me
+conta corrente (bancário)
+página 1
+06/01/2021
+10:57
+competência :   /    
+tipo de data : data de lançamento
+data inicial : 01/12/2020
+data final : 31/12/2020
+empresa : 030-cb tintas ltda me
+portador : 00016-cofre dinheiro
+operador : todos
+plano de contas : todos
+opção : todos
+tipo de relatório : completo
+exibir data da conciliação : não
+exibir descrição do plano de contas : não
+ordem : data+seq. lançamento
+saldo anterior: r$ 1.323,25
+dta.lan
+conta
+núm.doc
+seq.lan
+emp
+ope
+status
+débito
+crédito
+saldo
+histórico
+01/12/2020 01.03.001
+03000041796
+030
+010
+conciliado
+94,60
+1.228,65
+ref. suprimento  
+01/12/2020 02.10.003
+g00000010555
+03000041797
+030
+016
+conciliado
+350,00
+878,65
+pag. 90001672 - cb tintas ltda me  
+01/12/2020 01.03.001
+03000041867
+030
+016
+conciliado
+150,00
+1.028,65
+ref. sangria  
+01/12/2020 01.03.001
+03000041868
+030
+016
+conciliado
+100,00
+1.128,65
+ref. sangria  
+01/12/2020 01.03.001
+03000041870
+030
+016
+conciliado
+1.050,00
+78,65
+deposito em dinheiro  banco sicoob
+01/12/2020 01.03.001
+03000041873
+030
+016
+conciliado
+50,00
+128,65
+ref. sangria  
+01/12/2020 02.01.017
+000000000079
+03000041874
+030
+010
+conciliado
+50,00
+78,65
+pag. 00000086 - rjr informatica  
+01/12/2020 01.03.001
+03000041875
+030
+016
+conciliado
+60,00
+138,65
+ref. sangria  
+01/12/2020 02.06.006
+000000157547
+03000041876
+030
+010
+conciliado
+60,00
+78,65
+pag. 90001697 - posto campestre ltda  
+01/12/2020 01.03.001
+03000041879
+030
+016
+conciliado
+131,40
+210,05
+ref. sangria  
+02/12/2020 01.03.001
+03000041887
+030
+010
+conciliado
+131,40
+78,65
+ref. suprimento  
+02/12/2020 01.03.001
+03000041888
+030
+010
+conciliado
+305,30
+383,95
+ref. sangria  
+02/12/2020 02.02.006
+03000041889
+030
+010
+conciliado
+356,30
+27,65
+devolução de dinheiro para cliente guilherme de almeida tin
+02/12/2020 01.03.001
+03000041890
+030
+010
+conciliado
+450,00
+477,65
+ref. sangria  
+02/12/2020 01.03.001
+03000041941
+030
+010
+conciliado
+850,00
+1.327,65
+ref. sangria  
+02/12/2020 01.03.001
+03000041979
+030
+010
+conciliado
+129,65
+1.457,30
+ref. sangria  
+03/12/2020 01.03.001
+03000041980
+030
+010
+conciliado
+129,65
+1.327,65
+ref. suprimento  
+03/12/2020 01.03.001
+03000041981
+030
+010
+conciliado
+14,00
+1.341,65
+ref. sangria  
+03/12/2020 02.10.001
+000000008223
+03000041982
+030
+010
+conciliado
+14,00
+1.327,65
+pag. 00000151 - aroma restaurante  
+03/12/2020 01.03.001
+03000041983
+030
+010
+conciliado
+360,00
+1.687,65
+ref. sangria  
+03/12/2020 01.03.001
+03000042014
+030
+010
+conciliado
+110,55
+1.798,20
+ref. sangria  
+04/12/2020 01.03.001
+03000042016
+030
+010
+conciliado
+110,55
+1.687,65
+ref. suprimento  
+04/12/2020 02.01.036
+g00000010550
+03000042017
+030
+002
+conciliado
+1.240,00
+447,65
+pag. 90001672 - cb tintas ltda me  
+04/12/2020 01.03.001
+03000042021
+030
+010
+conciliado
+400,00
+847,65
+ref. sangria  
+04/12/2020 01.03.001
+03000042026
+030
+010
+conciliado
+50,00
+897,65
+ref. sangria  
+04/12/2020 02.06.007
+000000158684
+03000042027
+030
+010
+conciliado
+50,00
+847,65
+pag. 90001697 - posto campestre ltda  
+04/12/2020 01.03.001
+03000042030
+030
+010
+conciliado
+700,00
+147,65
+deposito em dinheiro  banco sicoob
+04/12/2020 01.03.001
+03000042031
+030
+010
+conciliado
+650,00
+797,65
+ref. sangria  
+rel: 500542.
+registros impressos: 28
+cb tintas ltda me
+conta corrente (bancário)
+página 2
+06/01/2021
+10:57
+saldo anterior: r$ 1.323,25
+dta.lan
+conta
+núm.doc
+seq.lan
+emp
+ope
+status
+débito
+crédito
+saldo
+histórico
+04/12/2020 02.01.045
+000000070987
+03000042033
+030
+010
+conciliado
+62,50
+735,15
+pag. 00000112 - supermercado brasil  
+04/12/2020 01.03.001
+03000042034
+030
+010
+conciliado
+12,50
+747,65
+ref. sangria  
+04/12/2020 01.03.001
+03000042037
+030
+010
+conciliado
+125,95
+873,60
+ref. sangria  
+05/12/2020 01.03.001
+03000042038
+030
+010
+conciliado
+125,95
+747,65
+ref. suprimento  
+05/12/2020 01.03.001
+03000042070
+030
+010
+conciliado
+320,00
+1.067,65
+ref. sangria  
+05/12/2020 01.03.001
+03000042071
+030
+010
+conciliado
+119,05
+1.186,70
+ref. sangria  
+07/12/2020 01.03.001
+03000042072
+030
+010
+conciliado
+119,05
+1.067,65
+ref. suprimento  
+07/12/2020 02.01.045
+000000057478
+03000042092
+030
+010
+conciliado
+70,00
+997,65
+pag. 90002296 - farmacia  
+07/12/2020 01.03.001
+03000042093
+030
+010
+conciliado
+400,00
+1.397,65
+ref. sangria  
+07/12/2020 02.12.001
+g00000010627
+03000042094
+030
+016
+conciliado
+25,20
+1.372,45
+pag. 90003412 - antonio custodio masrtins neto  
+07/12/2020 02.02.004
+000000008699
+03000042096
+030
+010
+conciliado
+31,50
+1.340,95
+pag. 00000073 - quimica duvale  
+07/12/2020 02.12.001
+g00000010628
+03000042097
+030
+010
+conciliado
+226,35
+1.114,60
+pag. 90003401 - roberto gomes da silva  
+07/12/2020 01.03.001
+03000042098
+030
+010
+conciliado
+212,05
+1.326,65
+ref. sangria  
+07/12/2020 02.12.001
+g00000010629
+03000042099
+030
+010
+conciliado
+8,00
+1.318,65
+pag. 90003476 - walacy batista dos santos  
+07/12/2020 02.12.001
+g00000010630
+03000042100
+030
+010
+conciliado
+8,40
+1.310,25
+pag. 90003596 - jose hermelindo de brito  
+07/12/2020 01.03.001
+03000042101
+030
+010
+conciliado
+7,40
+1.317,65
+ref. sangria  
+07/12/2020 02.12.001
+g00000010631
+03000042102
+030
+010
+conciliado
+1,35
+1.316,30
+pag. 90003477 - washingtin moreira lima  
+07/12/2020 01.03.001
+03000042103
+030
+010
+conciliado
+1,35
+1.317,65
+ref. sangria  
+07/12/2020 01.03.001
+03000042104
+030
+010
+conciliado
+220,00
+1.537,65
+ref. sangria  
+07/12/2020 01.03.001
+03000042107
+030
+010
+conciliado
+104,55
+1.642,20
+ref. sangria  
+08/12/2020 01.03.001
+03000042111
+030
+016
+conciliado
+104,55
+1.537,65
+ref. suprimento  
+08/12/2020 02.10.001
+g00000010642
+03000042139
+030
+016
+conciliado
+12,00
+1.525,65
+pag. 00000151 - aroma restaurante  
+08/12/2020 01.03.001
+03000042194
+030
+016
+conciliado
+500,00
+2.025,65
+ref. sangria  
+08/12/2020 01.03.001
+03000042199
+030
+016
+conciliado
+1.000,00
+1.025,65
+deposito em dinheiro  banco sicoob
+08/12/2020 02.12.001
+g00000010661
+03000042200
+030
+016
+conciliado
+84,85
+940,80
+pag. 90003449 - wilton silva miranda  
+08/12/2020 02.12.001
+g00000010671
+03000042222
+030
+016
+conciliado
+81,80
+859,00
+pag. 90003447 - wallace mendes de oliveira  
+08/12/2020 01.03.001
+03000042223
+030
+016
+conciliado
+81,80
+940,80
+ref. sangria  
+08/12/2020 01.03.001
+03000042257
+030
+016
+conciliado
+23,00
+963,80
+ref. sangria  
+08/12/2020 01.03.001
+03000042258
+030
+016
+conciliado
+50,00
+1.013,80
+ref. sangria  
+08/12/2020 02.12.001
+g00000010683
+03000042261
+030
+010
+conciliado
+13,55
+1.000,25
+pag. 90003435 - leomar martins bicalho  
+08/12/2020 01.03.001
+03000042262
+030
+016
+conciliado
+160,00
+1.160,25
+ref. sangria  
+rel: 500542.
+registros impressos: 59
+cb tintas ltda me
+conta corrente (bancário)
+página 3
+06/01/2021
+10:57
+saldo anterior: r$ 1.323,25
+dta.lan
+conta
+núm.doc
+seq.lan
+emp
+ope
+status
+débito
+crédito
+saldo
+histórico
+08/12/2020 01.03.001
+03000042263
+030
+016
+conciliado
+13,55
+1.173,80
+ref. sangria  
+08/12/2020 01.03.001
+03000042265
+030
+016
+conciliado
+96,90
+1.270,70
+ref. sangria  
+09/12/2020 01.03.001
+03000042269
+030
+010
+conciliado
+96,90
+1.173,80
+ref. suprimento  
+09/12/2020 02.12.001
+g00000010684
+03000042271
+030
+010
+conciliado
+151,70
+1.022,10
+pag. 90003429 - juliano marques da silva  
+09/12/2020 01.03.001
+03000042272
+030
+010
+conciliado
+150,00
+1.172,10
+ref. sangria  
+09/12/2020 01.03.001
+03000042273
+030
+010
+conciliado
+1.600,00
+2.772,10
+ref. sangria  
+09/12/2020 01.03.001
+03000042275
+030
+010
+conciliado
+1,70
+2.773,80
+ref. sangria  
+09/12/2020 02.12.001
+g00000010685
+03000042276
+030
+010
+conciliado
+2,35
+2.771,45
+pag. 90003475 - wagner goncalves souza  
+09/12/2020 01.03.001
+03000042277
+030
+010
+conciliado
+2,35
+2.773,80
+ref. sangria  
+09/12/2020 02.12.001
+g00000010689
+03000042278
+030
+010
+conciliado
+91,50
+2.682,30
+pag. 90003442 - oliveira reis de souza  
+09/12/2020 01.03.001
+03000042279
+030
+010
+conciliado
+100,00
+2.782,30
+ref. sangria  
+09/12/2020 01.03.001
+03000042281
+030
+016
+conciliado
+2.000,00
+782,30
+deposito banco sicoob  banco sicoob
+09/12/2020 02.12.001
+g00000010692
+03000042284
+030
+016
+conciliado
+10,30
+772,00
+pag. 90003600 - wanderlei maximiano de araujo  
+09/12/2020 02.12.001
+g00000010693
+03000042285
+030
+016
+conciliado
+3,20
+768,80
+pag. 90003421 - greidson abreu mendes  
+09/12/2020 01.03.001
+03000042286
+030
+010
+conciliado
+13,50
+782,30
+ref. sangria  
+09/12/2020 02.06.001
+000000160749
+03000042287
+030
+016
+conciliado
+150,00
+632,30
+pag. 90001697 - posto campestre ltda  
+09/12/2020 03.01.001
+000000000110
+03000042288
+030
+016
+conciliado
+23,00
+609,30
+pag. 90001238 - planalto tintas ltda - me  
+09/12/2020 02.12.001
+g00000010702
+03000042313
+030
+010
+conciliado
+27,30
+582,00
+pag. 90003441 - nelio luciano ferreira  
+09/12/2020 01.03.001
+03000042314
+030
+010
+conciliado
+7,30
+589,30
+ref. sangria  
+09/12/2020 02.12.001
+g00000010703
+03000042315
+030
+010
+conciliado
+11,20
+578,10
+pag. 90003832 - lucas alves dias  
+09/12/2020 02.12.001
+g00000010704
+03000042316
+030
+010
+conciliado
+55,60
+522,50
+pag. 90003833 - willian paiva da silva  
+09/12/2020 01.03.001
+03000042317
+030
+010
+conciliado
+14,95
+537,45
+ref. sangria  
+09/12/2020 01.03.001
+03000042319
+030
+010
+conciliado
+151,20
+688,65
+ref. sangria  
+09/12/2020 01.03.001
+03000042320
+030
+010
+conciliado
+117,65
+806,30
+ref. sangria  
+10/12/2020 01.03.001
+03000042328
+030
+010
+conciliado
+117,65
+688,65
+ref. suprimento  
+10/12/2020 02.12.001
+g00000010705
+03000042329
+030
+016
+conciliado
+45,80
+642,85
+pag. 90003422 - ivamar gabriel  
+10/12/2020 01.03.001
+03000042331
+030
+010
+conciliado
+8,50
+634,35
+ref. suprimento  
+10/12/2020 02.12.001
+g00000010707
+03000042332
+030
+016
+conciliado
+29,15
+605,20
+pag. 90003418 - fernando carvalho de paula medeiros  
+10/12/2020 02.12.001
+g00000010717
+03000042360
+030
+016
+conciliado
+26,90
+578,30
+pag. 90003438 - marcio de souza pedrosa  
+10/12/2020 01.03.001
+03000042361
+030
+016
+conciliado
+21,90
+600,20
+ref. sangria  
+10/12/2020 01.03.001
+03000042366
+030
+016
+conciliado
+29,15
+629,35
+ref. sangria  
+rel: 500542.
+registros impressos: 90
+cb tintas ltda me
+conta corrente (bancário)
+página 4
+06/01/2021
+10:57
+saldo anterior: r$ 1.323,25
+dta.lan
+conta
+núm.doc
+seq.lan
+emp
+ope
+status
+débito
+crédito
+saldo
+histórico
+10/12/2020 01.03.001
+03000042367
+030
+016
+conciliado
+220,00
+849,35
+ref. sangria  
+10/12/2020 02.12.001
+g00000010718
+03000042368
+030
+016
+conciliado
+19,35
+830,00
+pag. 90003889 - jose rodrigues pereira  
+10/12/2020 02.10.001
+000000031343
+03000042369
+030
+010
+conciliado
+264,20
+565,80
+pag. 00000048 - padaria vallone  
+10/12/2020 02.12.001
+g00000010719
+03000042370
+030
+010
+conciliado
+15,10
+550,70
+pag. 90003419 - george santos  
+10/12/2020 01.03.001
+03000042371
+030
+016
+conciliado
+15,10
+565,80
+ref. sangria  
+10/12/2020 01.02.006
+03000042372
+030
+010
+conciliado
+12,00
+577,80
+recebimento da diferença de pigmento cristina reis  
+10/12/2020 01.03.001
+03000042373
+030
+016
+conciliado
+250,00
+827,80
+ref. sangria  
+10/12/2020 01.03.001
+03000042374
+030
+016
+conciliado
+100,00
+927,80
+ref. sangria  
+10/12/2020 01.03.001
+03000042377
+030
+016
+conciliado
+87,00
+1.014,80
+ref. sangria  
+11/12/2020 01.03.001
+03000042378
+030
+010
+conciliado
+105,65
+909,15
+ref. suprimento  
+11/12/2020 01.03.001
+03000042379
+030
+010
+conciliado
+150,00
+1.059,15
+ref. sangria  
+11/12/2020 02.10.019
+000000018591
+03000042380
+030
+010
+conciliado
+120,00
+939,15
+pag. 90001772 - saritur santa rita transporte urbano e rodov 
+11/12/2020 01.03.001
+03000042383
+030
+010
+conciliado
+1.550,00
+2.489,15
+ref. sangria  
+11/12/2020 01.03.001
+03000042385
+030
+010
+conciliado
+2.300,00
+189,15
+deposito em dinheiro  banco sicoob
+11/12/2020 01.03.001
+03000042445
+030
+010
+conciliado
+200,00
+389,15
+ref. sangria  
+11/12/2020 02.12.001
+g00000010740
+03000042447
+030
+010
+conciliado
+39,15
+350,00
+pag. 90003891 - max luiz matheus  
+11/12/2020 01.03.001
+03000042449
+030
+010
+conciliado
+128,25
+478,25
+ref. sangria  
+12/12/2020 01.03.001
+03000042450
+030
+010
+conciliado
+133,25
+345,00
+ref. suprimento  
+12/12/2020 01.03.001
+03000042451
+030
+010
+conciliado
+270,00
+615,00
+ref. sangria  
+12/12/2020 01.03.001
+03000042453
+030
+010
+conciliado
+123,40
+738,40
+ref. sangria  
+14/12/2020 01.03.001
+03000042454
+030
+010
+conciliado
+123,40
+615,00
+ref. suprimento  
+14/12/2020 01.03.001
+03000042466
+030
+010
+conciliado
+590,00
+1.205,00
+ref. sangria  
+14/12/2020 01.03.001
+03000042467
+030
+010
+conciliado
+90,00
+1.295,00
+ref. sangria  
+14/12/2020 01.03.001
+03000042473
+030
+010
+conciliado
+1.200,00
+95,00
+deposito banco sicoob  banco sicoob
+14/12/2020 02.06.016
+000000019528
+03000042475
+030
+002
+conciliado
+30,00
+65,00
+pag. 00000081 - mg comercio de motocicletas ltda  
+14/12/2020 02.06.016
+000000008720
+03000042476
+030
+010
+conciliado
+5,00
+60,00
+pag. 00000081 - mg comercio de motocicletas ltda  
+14/12/2020 02.01.017
+000000004705
+03000042477
+030
+010
+conciliado
+18,00
+42,00
+pag. 90003040 - g.k.m.-informatica ltda  
+14/12/2020 01.03.001
+03000042478
+030
+010
+conciliado
+18,00
+60,00
+ref. sangria  
+14/12/2020 02.06.011
+000000012431
+03000042479
+030
+010
+conciliado
+32,00
+28,00
+pag. 90001975 - auto pecas agbretas ltda  
+14/12/2020 01.03.001
+03000042480
+030
+010
+conciliado
+32,00
+60,00
+ref. sangria  
+14/12/2020 01.03.001
+03000042481
+030
+010
+conciliado
+100,00
+160,00
+ref. sangria  
+rel: 500542.
+registros impressos: 121
+cb tintas ltda me
+conta corrente (bancário)
+página 5
+06/01/2021
+10:57
+saldo anterior: r$ 1.323,25
+dta.lan
+conta
+núm.doc
+seq.lan
+emp
+ope
+status
+débito
+crédito
+saldo
+histórico
+14/12/2020 01.03.001
+03000042484
+030
+010
+conciliado
+360,00
+520,00
+ref. sangria  
+14/12/2020 01.03.001
+03000042487
+030
+010
+conciliado
+100,00
+620,00
+ref. sangria  
+14/12/2020 01.03.001
+03000042488
+030
+010
+conciliado
+112,50
+732,50
+ref. sangria  
+15/12/2020 01.03.001
+03000042489
+030
+016
+conciliado
+112,50
+620,00
+ref. suprimento  
+15/12/2020 01.03.001
+03000042583
+030
+016
+conciliado
+100,00
+720,00
+ref. sangria  
+15/12/2020 01.03.001
+03000042585
+030
+016
+conciliado
+550,00
+170,00
+deposito banco sicoob  banco sicoob
+15/12/2020 02.06.006
+g00000010769
+03000042586
+030
+016
+conciliado
+60,00
+110,00
+pag. 90001697 - posto campestre ltda  
+15/12/2020 01.03.001
+03000042587
+030
+016
+conciliado
+480,00
+590,00
+ref. sangria  
+15/12/2020 01.03.001
+03000042627
+030
+016
+conciliado
+290,00
+880,00
+ref. sangria  
+15/12/2020 01.03.001
+03000042628
+030
+016
+conciliado
+140,00
+1.020,00
+ref. sangria  
+15/12/2020 01.03.001
+03000042631
+030
+016
+conciliado
+100,00
+1.120,00
+ref. sangria  
+15/12/2020 01.03.001
+03000042632
+030
+016
+conciliado
+111,30
+1.231,30
+ref. sangria  
+16/12/2020 01.03.001
+03000042633
+030
+010
+conciliado
+111,30
+1.120,00
+ref. suprimento  
+16/12/2020 01.03.001
+03000042637
+030
+010
+conciliado
+1.000,00
+2.120,00
+ref. sangria  
+16/12/2020 01.03.001
+03000042639
+030
+010
+conciliado
+1.100,00
+1.020,00
+deposito banco sicoob  banco sicoob
+16/12/2020 01.03.001
+03000042676
+030
+010
+conciliado
+100,00
+1.120,00
+ref. sangria  
+16/12/2020 01.03.001
+03000042679
+030
+010
+conciliado
+139,55
+1.259,55
+ref. sangria  
+17/12/2020 01.03.001
+03000042680
+030
+016
+conciliado
+139,55
+1.120,00
+ref. suprimento  
+17/12/2020 02.01.024
+g00000010552
+03000042685
+030
+002
+conciliado
+430,00
+690,00
+pag. 90001672 - cb tintas ltda me  
+17/12/2020 01.03.001
+03000042686
+030
+016
+conciliado
+150,00
+840,00
+ref. sangria  
+17/12/2020 03.01.005
+g00000010795
+03000042687
+030
+016
+conciliado
+60,00
+780,00
+pag. 90003781 - jefferson matheus cardoso silva  
+17/12/2020 01.03.001
+03000042688
+030
+016
+conciliado
+890,00
+1.670,00
+ref. sangria  
+17/12/2020 01.03.001
+03000042689
+030
+016
+conciliado
+170,00
+1.840,00
+ref. sangria  
+17/12/2020 01.03.001
+03000042693
+030
+016
+conciliado
+131,85
+1.971,85
+ref. sangria  
+18/12/2020 01.03.001
+03000042694
+030
+010
+conciliado
+125,85
+1.846,00
+ref. suprimento  
+18/12/2020 01.03.001
+03000042786
+030
+010
+conciliado
+482,11
+2.328,11
+ref. sangria  
+18/12/2020 02.01.001
+g00000009666
+03000042787
+030
+016
+conciliado
+482,11
+1.846,00
+pag. 00000003 - demarc  
+18/12/2020 01.03.001
+03000042788
+030
+010
+conciliado
+150,00
+1.996,00
+ref. sangria  
+18/12/2020 01.03.001
+03000042789
+030
+010
+conciliado
+1,35
+1.997,35
+ref. sangria  
+18/12/2020 01.03.001
+03000042791
+030
+010
+conciliado
+1.420,00
+577,35
+deposito em dinheiro  banco sicoob
+18/12/2020 02.10.004
+000000040345
+03000042792
+030
+010
+conciliado
+85,00
+492,35
+pag. 00000048 - padaria vallone  
+rel: 500542.
+registros impressos: 152
+cb tintas ltda me
+conta corrente (bancário)
+página 6
+06/01/2021
+10:57
+saldo anterior: r$ 1.323,25
+dta.lan
+conta
+núm.doc
+seq.lan
+emp
+ope
+status
+débito
+crédito
+saldo
+histórico
+18/12/2020 01.02.006
+03000042793
+030
+010
+conciliado
+126,00
+618,35
+recuperacao de despesa  
+18/12/2020 02.12.001
+g00000010824
+03000042795
+030
+010
+conciliado
+61,85
+556,50
+pag. 90002840 - douglas nunes da silva  
+18/12/2020 01.03.001
+03000042796
+030
+010
+conciliado
+61,85
+618,35
+ref. sangria  
+18/12/2020 01.03.001
+03000042797
+030
+010
+conciliado
+107,00
+725,35
+ref. sangria  
+18/12/2020 02.10.003
+g00000010690
+03000042798
+030
+016
+conciliado
+388,35
+337,00
+pag. 90001672 - cb tintas ltda me  
+18/12/2020 01.03.001
+03000042801
+030
+010
+conciliado
+137,10
+474,10
+ref. sangria  
+19/12/2020 01.03.001
+03000042802
+030
+016
+conciliado
+137,10
+337,00
+ref. suprimento  
+19/12/2020 01.03.001
+03000042803
+030
+016
+conciliado
+750,00
+1.087,00
+ref. sangria  
+19/12/2020 01.03.001
+03000042806
+030
+016
+conciliado
+96,45
+1.183,45
+ref. sangria  
+21/12/2020 01.03.001
+03000042807
+030
+016
+conciliado
+96,45
+1.087,00
+ref. suprimento  
+21/12/2020 01.03.001
+03000042818
+030
+010
+conciliado
+1.000,00
+87,00
+deposito banco sicoob  banco sicoob
+21/12/2020 02.12.001
+g00000010825
+03000042819
+030
+010
+conciliado
+11,35
+75,65
+pag. 90003408 - adilson dos santos  
+21/12/2020 01.03.001
+03000042824
+030
+010
+conciliado
+1,35
+77,00
+ref. sangria  
+21/12/2020 01.03.001
+03000042903
+030
+010
+conciliado
+90,00
+167,00
+ref. sangria  
+21/12/2020 01.03.001
+03000042906
+030
+010
+conciliado
+110,10
+277,10
+ref. sangria  
+22/12/2020 01.03.001
+03000042907
+030
+016
+conciliado
+110,10
+167,00
+ref. suprimento  
+22/12/2020 02.12.001
+g00000010852
+03000042915
+030
+010
+conciliado
+14,75
+152,25
+pag. 90003895 - milton claudio oliveira pereira  
+22/12/2020 01.03.001
+03000042940
+030
+010
+conciliado
+300,00
+452,25
+ref. sangria  
+22/12/2020 01.03.001
+03000042941
+030
+010
+conciliado
+0,75
+453,00
+ref. sangria  
+22/12/2020 02.06.001
+000000166410
+03000042942
+030
+010
+conciliado
+145,00
+308,00
+pag. 90001697 - posto campestre ltda  
+22/12/2020 01.03.001
+03000042943
+030
+010
+conciliado
+345,00
+653,00
+ref. sangria  
+22/12/2020 01.03.001
+03000042944
+030
+010
+conciliado
+700,00
+1.353,00
+ref. sangria  
+22/12/2020 01.03.001
+03000042946
+030
+010
+conciliado
+154,70
+1.507,70
+ref. sangria  
+23/12/2020 01.03.001
+03000042947
+030
+016
+conciliado
+154,70
+1.353,00
+ref. suprimento  
+23/12/2020 01.03.001
+03000042969
+030
+010
+conciliado
+200,00
+1.553,00
+ref. sangria  
+23/12/2020 01.03.001
+03000042970
+030
+010
+conciliado
+240,00
+1.793,00
+ref. sangria  
+23/12/2020 01.03.001
+03000042972
+030
+016
+conciliado
+1.600,00
+193,00
+deposito banco sicoob  banco sicoob
+23/12/2020 01.03.001
+03000042973
+030
+010
+conciliado
+100,00
+293,00
+ref. sangria  
+23/12/2020 01.03.001
+03000042976
+030
+010
+conciliado
+124,50
+417,50
+ref. sangria  
+24/12/2020 01.03.001
+03000042977
+030
+010
+conciliado
+124,50
+293,00
+ref. suprimento  
+24/12/2020 02.02.002
+000000006594
+03000042980
+030
+010
+conciliado
+80,75
+212,25
+pag. 90002146 - rodrigues e pires comercial e locadora ltda  
+rel: 500542.
+registros impressos: 183
+cb tintas ltda me
+conta corrente (bancário)
+página 7
+06/01/2021
+10:57
+saldo anterior: r$ 1.323,25
+dta.lan
+conta
+núm.doc
+seq.lan
+emp
+ope
+status
+débito
+crédito
+saldo
+histórico
+24/12/2020 01.03.001
+03000042996
+030
+016
+conciliado
+384,75
+597,00
+ref. sangria  
+24/12/2020 01.03.001
+03000042999
+030
+016
+conciliado
+100,00
+697,00
+ref. sangria  
+24/12/2020 01.03.001
+03000043002
+030
+016
+conciliado
+122,85
+819,85
+ref. sangria  
+26/12/2020 01.03.001
+03000043003
+030
+016
+conciliado
+122,85
+697,00
+ref. suprimento  
+26/12/2020 01.03.001
+03000043008
+030
+016
+conciliado
+270,00
+967,00
+ref. sangria  
+26/12/2020 01.03.001
+03000043009
+030
+016
+conciliado
+100,00
+1.067,00
+ref. sangria  
+26/12/2020 01.03.001
+03000043011
+030
+016
+conciliado
+115,15
+1.182,15
+ref. sangria  
+28/12/2020 01.03.001
+03000043012
+030
+016
+conciliado
+115,15
+1.067,00
+ref. suprimento  
+28/12/2020 01.02.006
+03000043032
+030
+016
+conciliado
+59,80
+1.126,80
+recebimento copasa cond.aristeu  
+28/12/2020 01.03.001
+03000043033
+030
+016
+conciliado
+550,00
+1.676,80
+ref. sangria  
+28/12/2020 02.10.001
+000000008252
+03000043034
+030
+010
+conciliado
+11,00
+1.665,80
+pag. 00000151 - aroma restaurante  
+28/12/2020 01.03.001
+03000043035
+030
+016
+conciliado
+11,00
+1.676,80
+ref. sangria  
+28/12/2020 01.03.001
+03000043049
+030
+016
+conciliado
+100,00
+1.776,80
+ref. sangria  
+28/12/2020 01.03.001
+03000043057
+030
+016
+conciliado
+1.590,00
+186,80
+deposito banco sicoob  banco sicoob
+28/12/2020 02.06.011
+000000004305
+03000043151
+030
+016
+conciliado
+137,95
+48,85
+pag. 90001697 - posto campestre ltda  
+28/12/2020 01.03.001
+03000043152
+030
+016
+conciliado
+60,00
+108,85
+ref. sangria  
+28/12/2020 01.03.001
+03000043154
+030
+016
+conciliado
+120,00
+228,85
+ref. sangria  
+28/12/2020 01.03.001
+03000043155
+030
+016
+conciliado
+105,80
+334,65
+ref. sangria  
+29/12/2020 01.03.001
+03000043156
+030
+010
+conciliado
+105,80
+228,85
+ref. suprimento  
+29/12/2020 01.03.001
+03000043183
+030
+010
+conciliado
+40,00
+268,85
+ref. sangria  
+29/12/2020 01.03.001
+03000043186
+030
+010
+conciliado
+26,00
+294,85
+ref. sangria  
+29/12/2020 01.03.001
+03000043187
+030
+010
+conciliado
+136,10
+430,95
+ref. sangria  
+30/12/2020 01.03.001
+03000043188
+030
+016
+conciliado
+136,10
+294,85
+ref. suprimento  
+30/12/2020 01.03.001
+03000043189
+030
+016
+conciliado
+65,00
+359,85
+ref. sangria  
+30/12/2020 02.06.006
+g00000010914
+03000043190
+030
+016
+conciliado
+65,00
+294,85
+pag. 90001697 - posto campestre ltda  
+30/12/2020 01.03.001
+03000043226
+030
+016
+conciliado
+110,00
+404,85
+ref. sangria  
+30/12/2020 01.03.001
+03000043228
+030
+016
+conciliado
+340,00
+64,85
+deposito banco sicoob  banco sicoob
+30/12/2020 01.03.001
+03000043231
+030
+016
+conciliado
+60,00
+124,85
+ref. sangria  
+30/12/2020 01.03.001
+03000043234
+030
+016
+conciliado
+105,75
+230,60
+ref. sangria  
+31/12/2020 01.03.001
+03000043235
+030
+016
+conciliado
+105,75
+124,85
+ref. suprimento  
+31/12/2020 01.03.001
+03000043257
+030
+016
+conciliado
+126,15
+251,00
+ref. sangria  
+rel: 500542.
+registros impressos: 214
+cb tintas ltda me
+conta corrente (bancário)
+página 8
+06/01/2021
+10:57
+saldo anterior: r$ 1.323,25
+dta.lan
+conta
+núm.doc
+seq.lan
+emp
+ope
+status
+débito
+crédito
+saldo
+histórico
+total geral:
+24.898,51
+23.826,26
+251,00
+rel: 500542.
+registros impressos: 214
+conta corrente (bancário) - resumo portador
+portador
+saldo anterior
+valor débito
+valor crédito
+saldo final
+00016-cofre dinheiro
+1.323,25
+24.898,51
+23.826,26
+251,00
+total geral:
+1.323,25
+24.898,51
+23.826,26
+251,00

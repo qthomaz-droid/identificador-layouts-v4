@@ -1,0 +1,2538 @@
+718 - contas pagas
+tipo relatório: analítico por mês
+período de lançamento: todos
+período de pagamento:  01/12/2024 a 31/12/2024
+período de emissão: todos
+período de vencimento: todos
+página 1
+27/12/2024 15:37:21
+'1'
+grupo de conta:
+: todos
+todos
+conta: todas
+2024
+12
+nº nota/duplic nº lanc.
+dt. lanç.
+conta
+cód. fornecedor
+valor
+valor dev.
+juros
+valor pago
+vl. desc.
+ano:
+mês:
+dt. venc
+dt. pagto
+2024361896
+112697
+5952 - darf crf - rete
+11/11/2024
+1466 emive patrulha 24 horas lt
+16,43
+16,43
+1
+-
+20/12/2024
+19/12/2024
+171744
+111195
+compra mercadoria
+23/10/2024
+4905 balbinot ind de implemento
+646,00
+646,00
+2
+-
+17/12/2024
+13/12/2024
+7859
+112843
+compra mercadoria
+13/11/2024
+1234 jf maquinas - nb maquinas l
+18.619,16
+18.619,16
+1
+-
+07/12/2024
+05/12/2024
+7165
+111727
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+84,09
+84,09
+2
+-
+28/12/2024
+27/12/2024
+487324
+108643
+compra mercadoria
+17/09/2024
+805 jumil - justino de morais, ir
+5.100,00
+5.100,00
+7
+-
+27/12/2024
+19/12/2024
+581957
+112162
+compra mercadoria
+05/11/2024
+1128 baldan implementos agrico
+842,70
+842,70
+2
+-
+27/12/2024
+19/12/2024
+728410
+112417
+serviço tomado
+07/11/2024
+6450 lithium software ltda
+77,00
+77,00
+1
+-
+05/12/2024
+04/12/2024
+20917
+111614
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+18,23
+18,23
+2
+-
+27/12/2024
+19/12/2024
+20933
+112647
+compra mercadoria
+11/11/2024
+1234 jf maquinas - nb maquinas l
+366,74
+366,74
+1
+-
+07/12/2024
+05/12/2024
+20935
+112630
+compra mercadoria
+11/11/2024
+1234 jf maquinas - nb maquinas l
+268,43
+268,43
+1
+-
+08/12/2024
+05/12/2024
+7119
+111689
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+669,87
+669,87
+2
+-
+28/12/2024
+27/12/2024
+3975027
+114368
+vale transporte
+06/12/2024
+6270 consorcio otimo de bilheta
+486,20
+486,20
+1
+-
+26/03/2024
+13/12/2024
+503
+113875
+compra mercadoria
+28/11/2024
+6316 z kal implementos eireli
+662,87
+662,87
+1
+-
+20/12/2024
+13/12/2024
+8398
+113410
+compra mercadoria
+25/11/2024
+1234 jf maquinas - nb maquinas l
+638,41
+638,41
+1
+-
+20/12/2024
+13/12/2024
+383
+114036
+vb para rebaixa de c
+02/12/2024
+1234 jf maquinas - nb maquinas l
+0,01
+0,01
+1
+-
+02/12/2024
+02/12/2024
+1127725
+113539
+fretes de mercador
+26/11/2024
+5311 uniao transporte de enco
+101,25
+101,25
+1
+-
+15/12/2024
+13/12/2024
+8036
+113149
+compra mercadoria
+19/11/2024
+1234 jf maquinas - nb maquinas l
+679,15
+679,15
+1
+-
+12/12/2024
+05/12/2024
+346118
+114273
+multa e juros de mo
+05/12/2024
+5411 agri pecas matao santo ex
+23,08
+23,08
+1
+-
+05/12/2024
+05/12/2024
+3975027
+114369
+vale transporte
+06/12/2024
+6270 consorcio otimo de bilheta
+-486,20
+-486,20
+1
+-
+26/03/2024
+06/12/2024
+202473022
+114371
+serviço tomado
+06/12/2024
+6270 consorcio otimo de bilheta
+-4,86
+-4,86
+1
+-
+26/03/2024
+06/12/2024
+27091
+113386
+compra mercadoria
+22/11/2024
+5882 capri industria e comercio
+801,15
+801,15
+1
+-
+19/12/2024
+13/12/2024
+0
+114670
+consorcio - bancari
+11/12/2024
+6362 banco cooperativo sicoob
+2.727,24
+2.727,24
+-
+11/12/2024
+11/12/2024
+6895962
+113596
+fretes de mercador
+26/11/2024
+6428 rodonaves transps e enco
+125,19
+125,19
+1
+-
+16/12/2024
+13/12/2024
+0
+114463
+tarifas - bancarias
+09/12/2024
+6362 banco cooperativo sicoob
+99,00
+99,00
+-
+09/12/2024
+09/12/2024
+4764
+114540
+compra mercadoria
+10/12/2024
+5603 riagro pecas agricolas eir
+-820,00
+-820,00
+1
+-
+31/12/2024
+10/12/2024
+0
+114674
+rendimentos de apli
+11/12/2024
+6362 banco cooperativo sicoob
+-22,73
+-22,73
+-
+11/12/2024
+11/12/2024
+0
+114215
+2100 - inss
+04/12/2024
+4842 gps/inss/fgts -inst. naciona
+19.407,26
+19.407,26
+1
+-
+20/12/2024
+13/12/2024
+0
+114549
+vb para rebaixa de c
+10/12/2024
+1234 jf maquinas - nb maquinas l
+-0,01
+-0,01
+1
+-
+10/12/2024
+10/12/2024
+2024355754
+115288
+serviço tomado
+27/12/2024
+6271 consorcio operacional do
+4,96
+4,96
+1
+-
+27/12/2024
+27/12/2024
+4652
+115246
+outros custos de m
+26/12/2024
+5051 secretaria de estado de fa
+59,40
+0,62
+60,02
+1
+-
+26/12/2024
+27/12/2024
+48976112
+114624
+fretes de mercador
+25/11/2024
+3009 rodonaves transportes e 
+-205,42
+-205,42
+1
+-
+31/12/2024
+11/12/2024
+501159
+115034
+compra mercadoria
+18/12/2024
+805 jumil - justino de morais, ir
+1.142,49
+1.142,49
+1
+-
+16/12/2024
+19/12/2024
+0
+114923
+ipva / licenciamento
+16/12/2024
+5051 secretaria de estado de fa
+1.311,74
+1.311,74
+-
+16/12/2024
+16/12/2024
+385
+114366
+vb para rebaixa de c
+06/12/2024
+1234 jf maquinas - nb maquinas l
+0,01
+0,01
+1
+-
+06/12/2024
+06/12/2024
+0
+114286
+tarifas - bancarias
+05/12/2024
+6362 banco cooperativo sicoob
+49,00
+49,00
+-
+05/12/2024
+05/12/2024
+105491
+115126
+compra mercadoria
+20/12/2024
+6214 pianna comercio importaca
+335,00
+335,00
+1
+-
+20/12/2024
+20/12/2024
+105491
+115127
+fretes
+20/12/2024
+1 real maquinas agricolas e
+30,00
+30,00
+k
+-
+31/12/2024
+20/12/2024
+81
+114995
+uso consumo 
+17/12/2024
+5051 secretaria de estado de fa
+215,49
+215,49
+g
+-
+20/12/2024
+19/12/2024
+536664
+110922
+compra mercadoria
+18/10/2024
+1063 rolimac rolamentos ltda  
+1.051,16
+1.051,16
+3
+-
+17/12/2024
+13/12/2024
+17078
+110860
+compra mercadoria
+18/10/2024
+6453 implementos agricolas jan
+908,53
+908,53
+2
+-
+09/12/2024
+05/12/2024
+200400
+110363
+adiant.fornec.merc.
+22/10/2024
+1234 jf maquinas - nb maquinas l
+19.383,90
+19.383,90
+2
+-
+07/12/2024
+05/12/2024
+173188
+112146
+irrf s/ servico de te
+05/11/2024
+5339 innove solucoes empresar
+25,26
+25,26
+1
+-
+20/12/2024
+19/12/2024
+89475
+108636
+compra mercadoria
+30/09/2024
+2081 incomagri ind.com.maqs.ag
+1.733,68
+1.733,68
+3
+-
+22/12/2024
+19/12/2024
+494097
+109079
+compra mercadoria
+18/09/2024
+805 jumil - justino de morais, ir
+19.600,00
+19.600,00
+3
+-
+13/12/2024
+05/12/2024
+718 - contas pagas
+tipo relatório: analítico por mês
+período de lançamento: todos
+período de pagamento:  01/12/2024 a 31/12/2024
+período de emissão: todos
+período de vencimento: todos
+página 2
+27/12/2024 15:37:21
+'1'
+grupo de conta:
+: todos
+todos
+conta: todas
+2024
+12
+nº nota/duplic nº lanc.
+dt. lanç.
+conta
+cód. fornecedor
+valor
+valor dev.
+juros
+valor pago
+vl. desc.
+ano:
+mês:
+dt. venc
+dt. pagto
+144293
+112933
+compra mercadoria
+14/11/2024
+6478 imdepa rolamentos import
+721,93
+721,93
+1
+-
+12/12/2024
+05/12/2024
+346118
+112274
+compra mercadoria
+06/11/2024
+5411 agri pecas matao santo ex
+641,14
+23,08
+664,22
+1
+-
+05/12/2024
+05/12/2024
+6698
+110989
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+69,14
+69,14
+2
+-
+20/12/2024
+13/12/2024
+7208
+111790
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+145,86
+145,86
+2
+-
+29/12/2024
+27/12/2024
+6486
+110786
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+191,99
+191,99
+2
+-
+16/12/2024
+13/12/2024
+7084
+111631
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+481,49
+481,49
+2
+-
+28/12/2024
+27/12/2024
+200945
+112731
+compra mercadoria
+28/11/2024
+1234 jf maquinas - nb maquinas l
+2.685,00
+2.685,00
+2
+-
+12/12/2024
+05/12/2024
+200945
+112732
+compra mercadoria
+28/11/2024
+1234 jf maquinas - nb maquinas l
+2.685,00
+2.685,00
+3
+-
+27/12/2024
+19/12/2024
+7981
+112719
+compra mercadoria
+18/11/2024
+1234 jf maquinas - nb maquinas l
+1.688,94
+1.688,94
+1
+-
+11/12/2024
+05/12/2024
+49100904
+113892
+fretes de mercador
+28/11/2024
+3009 rodonaves transportes e 
+169,19
+169,19
+1
+-
+31/12/2024
+11/12/2024
+97530877
+114051
+serviço tomado
+02/12/2024
+6338 facebook servicos online 
+410,04
+410,04
+1
+-
+02/12/2024
+05/12/2024
+20241
+113468
+compra mercadoria
+25/11/2024
+6516 bellosa tools comercio de
+1.138,72
+1.138,72
+1
+-
+21/12/2024
+19/12/2024
+0
+114669
+consorcio - bancari
+11/12/2024
+6362 banco cooperativo sicoob
+2.506,72
+2.506,72
+-
+11/12/2024
+11/12/2024
+4764
+114538
+fretes
+10/12/2024
+1 real maquinas agricolas e
+30,00
+30,00
+k
+-
+31/12/2024
+10/12/2024
+540441
+113615
+compra mercadoria
+26/11/2024
+1063 rolimac rolamentos ltda  
+334,54
+334,54
+1
+-
+23/12/2024
+19/12/2024
+8449
+113399
+compra mercadoria
+27/11/2024
+1234 jf maquinas - nb maquinas l
+734,94
+734,94
+1
+-
+21/12/2024
+19/12/2024
+500271
+114210
+compra mercadoria
+09/12/2024
+805 jumil - justino de morais, ir
+1.007,89
+1.007,89
+1
+-
+03/12/2024
+09/12/2024
+71
+114376
+multa e juros de mo
+06/12/2024
+5051 secretaria de estado de fa
+1,48
+1,48
+1
+-
+06/12/2024
+06/12/2024
+0
+115303
+descontos obtidos
+27/12/2024
+5051 secretaria de estado de fa
+-26,03
+-26,03
+1
+-
+27/12/2024
+27/12/2024
+10135
+113677
+compra mercadoria
+27/11/2024
+5332 helio francisco de neiva- g
+145,00
+145,00
+1
+-
+11/12/2024
+05/12/2024
+0
+114214
+fgts
+04/12/2024
+4842 gps/inss/fgts -inst. naciona
+5.398,72
+5.398,72
+1
+-
+20/12/2024
+13/12/2024
+428540
+113871
+compra mercadoria
+10/12/2024
+1259 metisa metalurgica timboe
+1.411,22
+1.411,22
+1
+-
+19/12/2024
+13/12/2024
+0
+114805
+consorcio - bancari
+13/12/2024
+328 banco do brasil                      
+677,82
+677,82
+-
+13/12/2024
+13/12/2024
+0
+114828
+seguros- veiculos - 
+13/12/2024
+5263 zurich minas brasil seguro
+586,93
+586,93
+-
+13/12/2024
+13/12/2024
+0
+114152
+telefone
+03/12/2024
+6264 vivo - telefonica brasil s.a
+499,65
+499,65
+1
+-
+17/12/2024
+13/12/2024
+154424
+114921
+fretes
+16/12/2024
+1 real maquinas agricolas e
+30,00
+30,00
+k
+-
+31/12/2024
+20/12/2024
+0
+115133
+fretes
+20/12/2024
+1 real maquinas agricolas e
+680,00
+680,00
+1
+-
+20/12/2024
+20/12/2024
+500889
+114701
+compra mercadoria
+16/12/2024
+805 jumil - justino de morais, ir
+1.356,92
+1.356,92
+1
+-
+11/12/2024
+19/12/2024
+500832
+114953
+compra mercadoria
+16/12/2024
+805 jumil - justino de morais, ir
+1.311,54
+1.311,54
+1
+-
+10/12/2024
+19/12/2024
+500899
+114954
+compra mercadoria
+16/12/2024
+805 jumil - justino de morais, ir
+855,86
+855,86
+1
+-
+11/12/2024
+19/12/2024
+48952238
+114622
+fretes de mercador
+22/11/2024
+3009 rodonaves transportes e 
+847,73
+847,73
+1
+-
+16/12/2024
+13/12/2024
+0
+115295
+vale transporte
+27/12/2024
+6271 consorcio operacional do
+496,10
+496,10
+1
+-
+27/12/2024
+27/12/2024
+105307
+113910
+fretes
+29/11/2024
+1 real maquinas agricolas e
+40,00
+40,00
+k
+-
+29/12/2024
+20/12/2024
+868607
+114190
+fretes de mercador
+04/12/2024
+6304 agil metropolitana ltda
+50,00
+50,00
+1
+-
+31/12/2024
+27/12/2024
+105351
+114217
+compra mercadoria
+04/12/2024
+6214 pianna comercio importaca
+220,00
+220,00
+1
+-
+04/12/2024
+05/12/2024
+0
+114075
+telefone
+03/12/2024
+6280 claro nxt telecomunicaco
+292,49
+292,49
+1
+-
+15/12/2024
+13/12/2024
+71
+114362
+outros custos de m
+06/12/2024
+5051 secretaria de estado de fa
+492,41
+492,41
+1
+-
+06/12/2024
+06/12/2024
+8970
+114092
+compra mercadoria
+06/12/2024
+1234 jf maquinas - nb maquinas l
+5.536,45
+5.536,45
+1
+-
+29/12/2024
+27/12/2024
+389
+115138
+vb para rebaixa de c
+20/12/2024
+1234 jf maquinas - nb maquinas l
+0,01
+0,01
+1
+-
+20/12/2024
+20/12/2024
+77836
+113743
+uso consumo 
+27/11/2024
+5028 lider bh veiculos sa             
+514,55
+514,55
+1
+-
+02/12/2024
+02/12/2024
+0
+115296
+multa / transito
+27/12/2024
+5051 secretaria de estado de fa
+130,16
+104,13
+1
+-
+26,03
+27/12/2024
+27/12/2024
+0
+104688
+2089 - irpj
+21/06/2024
+4841 ministerio da fazenda - sec
+2.822,45
+2.822,45
+6
+-
+29/11/2024
+02/12/2024
+198143
+104525
+adiant.fornec.merc.
+18/06/2024
+1234 jf maquinas - nb maquinas l
+13.496,17
+13.496,17
+6
+-
+16/12/2024
+13/12/2024
+198142
+104547
+adiant.fornec.merc.
+18/06/2024
+1234 jf maquinas - nb maquinas l
+14.663,20
+14.663,20
+6
+-
+15/12/2024
+13/12/2024
+718 - contas pagas
+tipo relatório: analítico por mês
+período de lançamento: todos
+período de pagamento:  01/12/2024 a 31/12/2024
+período de emissão: todos
+período de vencimento: todos
+página 3
+27/12/2024 15:37:21
+'1'
+grupo de conta:
+: todos
+todos
+conta: todas
+2024
+12
+nº nota/duplic nº lanc.
+dt. lanç.
+conta
+cód. fornecedor
+valor
+valor dev.
+juros
+valor pago
+vl. desc.
+ano:
+mês:
+dt. venc
+dt. pagto
+116163
+105087
+compra mercadoria
+28/06/2024
+4798 nogueira - nb maquinas ltd
+2.651,10
+2.651,10
+7
+-
+13/12/2024
+05/12/2024
+490305
+106817
+compra mercadoria
+05/08/2024
+805 jumil - justino de morais, ir
+17.531,06
+17.531,06
+6
+-
+17/12/2024
+13/12/2024
+486196
+103396
+compra mercadoria
+28/05/2024
+805 jumil - justino de morais, ir
+39.000,00
+39.000,00
+7
+-
+09/12/2024
+05/12/2024
+202416575
+103971
+uso consumo 
+07/06/2024
+1466 emive patrulha 24 horas lt
+203,65
+203,65
+7
+-
+20/12/2024
+13/12/2024
+79144
+109296
+compra mercadoria
+23/09/2024
+1843 industria mecanica andrad
+1.261,46
+1.261,46
+3
+-
+15/12/2024
+13/12/2024
+18703
+110279
+compra mercadoria
+10/10/2024
+5082 brn internacional industr
+1.144,01
+1.144,01
+3
+-
+23/12/2024
+19/12/2024
+7408
+112176
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+2.200,95
+2.200,95
+2
+-
+30/12/2024
+27/12/2024
+17628
+111269
+compra mercadoria
+23/10/2024
+6509 zotti distribuidora ltda
+1.233,33
+1.233,33
+3
+-
+16/12/2024
+13/12/2024
+583224
+113026
+compra mercadoria
+18/11/2024
+1128 baldan implementos agrico
+629,49
+629,49
+1
+-
+11/12/2024
+05/12/2024
+20244320
+113998
+serviço tomado
+02/12/2024
+5028 lider bh veiculos sa             
+206,45
+206,45
+1
+-
+02/12/2024
+02/12/2024
+2024772
+113497
+5952 - darf crf - rete
+25/11/2024
+4898 profox informatica ltda    
+27,57
+27,57
+1
+-
+20/12/2024
+19/12/2024
+8686
+113786
+compra mercadoria
+02/12/2024
+1234 jf maquinas - nb maquinas l
+394,19
+394,19
+1
+-
+27/12/2024
+19/12/2024
+8523
+114041
+compra mercadoria
+02/12/2024
+1234 jf maquinas - nb maquinas l
+356,17
+356,17
+1
+-
+22/12/2024
+19/12/2024
+28704
+114136
+compra mercadoria
+03/12/2024
+5150 acj industria e comercio d
+1.358,11
+1.358,11
+1
+-
+27/12/2024
+19/12/2024
+118831
+113864
+compra mercadoria
+03/12/2024
+4798 nogueira - nb maquinas ltd
+2.414,00
+2.414,00
+1
+-
+12/12/2024
+05/12/2024
+118831
+113865
+compra mercadoria
+03/12/2024
+4798 nogueira - nb maquinas ltd
+2.414,00
+2.414,00
+2
+-
+27/12/2024
+19/12/2024
+584683
+114312
+compra mercadoria
+06/12/2024
+1128 baldan implementos agrico
+3.348,75
+33,83
+3.382,58
+1
+-
+26/12/2024
+19/12/2024
+2367235
+114315
+fretes de mercador
+06/12/2024
+5187 transporte itapirense ber
+395,85
+395,85
+1
+-
+19/12/2024
+13/12/2024
+0
+114534
+vb para rebaixa de c
+10/12/2024
+1234 jf maquinas - nb maquinas l
+-0,01
+-0,01
+1
+-
+10/12/2024
+10/12/2024
+0
+114664
+consorcio - bancari
+11/12/2024
+6220 banco bradesco s.a.
+719,26
+719,26
+-
+11/12/2024
+11/12/2024
+105400
+114604
+compra mercadoria
+11/12/2024
+6214 pianna comercio importaca
+220,00
+220,00
+1
+-
+11/12/2024
+13/12/2024
+500615
+114438
+compra mercadoria
+11/12/2024
+805 jumil - justino de morais, ir
+857,10
+857,10
+1
+-
+06/12/2024
+13/12/2024
+540595
+113728
+compra mercadoria
+27/11/2024
+1063 rolimac rolamentos ltda  
+285,78
+285,78
+1
+-
+24/12/2024
+19/12/2024
+349827
+114380
+compra mercadoria
+09/12/2024
+5411 agri pecas matao santo ex
+649,04
+649,04
+1
+-
+31/12/2024
+27/12/2024
+8902
+114089
+compra mercadoria
+09/12/2024
+1234 jf maquinas - nb maquinas l
+53,68
+53,68
+1
+-
+29/12/2024
+27/12/2024
+58519546
+114529
+serviço tomado
+10/12/2024
+5369 pagar.me instituicao de pa
+1,10
+1,10
+1
+-
+10/12/2024
+13/12/2024
+0
+114675
+consorcio - bancari
+11/12/2024
+6362 banco cooperativo sicoob
+-2.188,62
+-2.188,62
+-
+11/12/2024
+11/12/2024
+0
+114803
+consorcio - bancari
+13/12/2024
+328 banco do brasil                      
+677,82
+677,82
+-
+13/12/2024
+13/12/2024
+10181
+114277
+compra mercadoria
+05/12/2024
+5332 helio francisco de neiva- g
+68,00
+68,00
+1
+-
+12/12/2024
+13/12/2024
+0
+115132
+agua e esgoto
+20/12/2024
+4870 copasa-cia de saneamento 
+426,98
+426,98
+1
+-
+24/12/2024
+20/12/2024
+399890
+114044
+uso consumo 
+02/12/2024
+6283 minas ferramentas ltda
+2.611,11
+2.611,11
+1
+-
+02/12/2024
+04/12/2024
+500785
+114582
+compra mercadoria
+16/12/2024
+805 jumil - justino de morais, ir
+3.251,41
+3.251,41
+1
+-
+10/12/2024
+16/12/2024
+8838
+113908
+compra mercadoria
+03/12/2024
+1234 jf maquinas - nb maquinas l
+708,36
+708,36
+1
+-
+28/12/2024
+27/12/2024
+0
+114365
+0317 - icms normal 
+06/12/2024
+5051 secretaria de estado de fa
+3,66
+3,66
+1
+-
+06/12/2024
+06/12/2024
+69425
+113938
+compra mercadoria
+29/11/2024
+5195 ponto da borracha ltda     
+30,00
+30,00
+1
+-
+29/11/2024
+05/12/2024
+0
+114042
+tarifas - bancarias
+02/12/2024
+6220 banco bradesco s.a.
+103,07
+103,07
+-
+02/12/2024
+02/12/2024
+0
+114052
+tarifas - bancarias
+02/12/2024
+328 banco do brasil                      
+5,19
+5,19
+-
+02/12/2024
+02/12/2024
+2024370404
+113740
+serviço tomado
+27/11/2024
+1466 emive patrulha 24 horas lt
+20,00
+20,00
+1
+-
+26/12/2024
+19/12/2024
+0
+114353
+rendimentos de apli
+06/12/2024
+6362 banco cooperativo sicoob
+-9.631,97
+-9.631,97
+-
+06/12/2024
+06/12/2024
+0
+114354
+rendimentos de apli
+06/12/2024
+6362 banco cooperativo sicoob
+9.631,97
+9.631,97
+-
+06/12/2024
+06/12/2024
+0
+114355
+rendimentos de apli
+06/12/2024
+6362 banco cooperativo sicoob
+-9.631,97
+-9.631,97
+-
+06/12/2024
+06/12/2024
+540295
+113475
+compra mercadoria
+25/11/2024
+1063 rolimac rolamentos ltda  
+338,29
+338,29
+1
+-
+23/12/2024
+19/12/2024
+33241
+114721
+irrf s/ servico de te
+12/12/2024
+6504 pa computadores e servico
+69,23
+69,23
+1
+-
+20/12/2024
+19/12/2024
+12589
+9732
+migracao
+23/01/2020
+4841 ministerio da fazenda - sec
+554,75
+554,75
+9
+-
+29/11/2024
+02/12/2024
+718 - contas pagas
+tipo relatório: analítico por mês
+período de lançamento: todos
+período de pagamento:  01/12/2024 a 31/12/2024
+período de emissão: todos
+período de vencimento: todos
+página 4
+27/12/2024 15:37:21
+'1'
+grupo de conta:
+: todos
+todos
+conta: todas
+2024
+12
+nº nota/duplic nº lanc.
+dt. lanç.
+conta
+cód. fornecedor
+valor
+valor dev.
+juros
+valor pago
+vl. desc.
+ano:
+mês:
+dt. venc
+dt. pagto
+0
+104741
+parcelamento tribu
+21/06/2024
+4841 ministerio da fazenda - sec
+7.484,40
+7.484,40
+6
+-
+28/11/2024
+02/12/2024
+0
+107881
+internet
+28/08/2024
+6483 oi s.a.
+129,90
+129,90
+5
+-
+28/12/2024
+27/12/2024
+7784
+112878
+compra mercadoria
+13/11/2024
+1234 jf maquinas - nb maquinas l
+690,53
+690,53
+1
+-
+07/12/2024
+05/12/2024
+86709
+112909
+compra mercadoria
+14/11/2024
+3199 vicon maquinas agricolas 
+571,20
+571,20
+1
+-
+11/12/2024
+05/12/2024
+8601
+113837
+compra mercadoria
+28/11/2024
+1234 jf maquinas - nb maquinas l
+52,65
+52,65
+1
+-
+25/12/2024
+19/12/2024
+202410448
+113912
+irrf s/ servico de te
+29/11/2024
+6512 controller gestao contab
+44,48
+44,48
+1
+-
+20/12/2024
+13/12/2024
+80446
+114358
+compra mercadoria
+06/12/2024
+1843 industria mecanica andrad
+55,85
+55,85
+1
+-
+31/12/2024
+27/12/2024
+10121
+113427
+compra mercadoria
+22/11/2024
+5332 helio francisco de neiva- g
+7,98
+7,98
+1
+-
+22/11/2024
+13/12/2024
+583496
+113201
+compra mercadoria
+19/11/2024
+1128 baldan implementos agrico
+1.003,23
+1.003,23
+1
+-
+12/12/2024
+05/12/2024
+4764
+114541
+compra mercadoria
+10/12/2024
+5603 riagro pecas agricolas eir
+820,00
+820,00
+1
+-
+10/12/2024
+13/12/2024
+500168
+114379
+compra mercadoria
+09/12/2024
+805 jumil - justino de morais, ir
+661,09
+661,09
+1
+-
+02/12/2024
+09/12/2024
+11060
+115162
+outros custos de m
+20/12/2024
+5051 secretaria de estado de fa
+27,52
+0,04
+27,56
+1
+-
+20/12/2024
+20/12/2024
+0
+114676
+consorcio - bancari
+11/12/2024
+6362 banco cooperativo sicoob
+2.188,62
+2.188,62
+-
+11/12/2024
+11/12/2024
+388
+114548
+vb para rebaixa de c
+10/12/2024
+1234 jf maquinas - nb maquinas l
+0,02
+0,02
+1
+-
+10/12/2024
+10/12/2024
+102024
+114724
+energia eletrica
+12/12/2024
+4866 cemig distribuicao sa           
+76,58
+76,58
+1
+-
+12/12/2024
+13/12/2024
+0
+115154
+leasing
+20/12/2024
+328 banco do brasil                      
+10.000,00
+10.000,00
+-
+20/12/2024
+20/12/2024
+390
+115229
+vb para rebaixa de c
+26/12/2024
+1234 jf maquinas - nb maquinas l
+0,01
+0,01
+1
+-
+26/12/2024
+26/12/2024
+102024
+114823
+energia eletrica
+13/12/2024
+4866 cemig distribuicao sa           
+-76,58
+-76,58
+1
+-
+12/12/2024
+13/12/2024
+540982
+113930
+compra mercadoria
+29/11/2024
+1063 rolimac rolamentos ltda  
+440,73
+440,73
+1
+-
+27/12/2024
+19/12/2024
+9489
+114187
+compra mercadoria
+04/12/2024
+1785 comercial castro ind. e co
+708,88
+708,88
+1
+-
+30/12/2024
+27/12/2024
+0
+114035
+tarifas - bancarias
+02/12/2024
+6362 banco cooperativo sicoob
+281,10
+281,10
+-
+02/12/2024
+02/12/2024
+0
+115262
+geracao despesas g
+26/12/2024
+5051 secretaria de estado de fa
+87,66
+87,66
+1
+-
+26/12/2024
+27/12/2024
+0
+114932
+seguros - bancarios
+16/12/2024
+6361 allianz seguros s/a
+344,15
+344,15
+-
+16/12/2024
+16/12/2024
+0
+115155
+tarifas - bancarias
+20/12/2024
+6477 banco cooperativo sicred
+84,00
+84,00
+-
+20/12/2024
+20/12/2024
+501090
+114969
+compra mercadoria
+17/12/2024
+805 jumil - justino de morais, ir
+90,96
+90,96
+1
+-
+13/12/2024
+19/12/2024
+0
+114977
+vb para rebaixa de c
+17/12/2024
+1234 jf maquinas - nb maquinas l
+-0,01
+-0,01
+1
+-
+17/12/2024
+17/12/2024
+198111
+104415
+compra mercadoria
+17/06/2024
+1234 jf maquinas - nb maquinas l
+9.547,00
+9.547,00
+7
+-
+14/12/2024
+13/12/2024
+198258
+104815
+compra mercadoria
+24/06/2024
+1234 jf maquinas - nb maquinas l
+11.456,40
+11.456,40
+7
+-
+17/12/2024
+13/12/2024
+22117
+112594
+compra mercadoria
+08/11/2024
+6243 hvi industria de sistemas h
+1.182,00
+1.182,00
+1
+-
+08/12/2024
+05/12/2024
+28659
+110855
+compra mercadoria
+18/10/2024
+6349 j2m industria e comercio lt
+365,40
+365,40
+2
+-
+13/12/2024
+05/12/2024
+171717
+111193
+compra mercadoria
+23/10/2024
+4905 balbinot ind de implemento
+480,00
+480,00
+2
+-
+16/12/2024
+13/12/2024
+28468
+110124
+compra mercadoria
+08/10/2024
+6349 j2m industria e comercio lt
+5.055,84
+5.055,84
+3
+-
+29/12/2024
+27/12/2024
+576983
+109559
+compra mercadoria
+01/10/2024
+1128 baldan implementos agrico
+1.591,29
+1.591,29
+3
+-
+19/12/2024
+13/12/2024
+7136
+111681
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+81,00
+81,00
+2
+-
+28/12/2024
+27/12/2024
+200890
+112522
+compra mercadoria
+08/11/2024
+1234 jf maquinas - nb maquinas l
+15.000,00
+15.000,00
+1
+-
+07/12/2024
+05/12/2024
+21832081
+112285
+uso consumo 
+06/11/2024
+4934 tecidos e armarinhos migu
+535,66
+535,66
+2
+-
+17/12/2024
+13/12/2024
+7483
+112085
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+328,08
+328,08
+2
+-
+31/12/2024
+27/12/2024
+487325
+108966
+compra mercadoria
+17/09/2024
+805 jumil - justino de morais, ir
+6.400,00
+6.400,00
+7
+-
+27/12/2024
+19/12/2024
+20244320
+113999
+issqn retido
+02/12/2024
+5028 lider bh veiculos sa             
+11,43
+0,11
+11,54
+1
+-
+20/12/2024
+16/12/2024
+499743
+113870
+compra mercadoria
+02/12/2024
+805 jumil - justino de morais, ir
+504,09
+504,09
+1
+-
+26/11/2024
+05/12/2024
+27925
+114058
+compra mercadoria
+02/12/2024
+799 total vedacoes com. de pe
+153,00
+153,00
+1
+-
+30/12/2024
+27/12/2024
+32907
+113088
+5952 - darf crf - rete
+18/11/2024
+6504 pa computadores e servico
+214,60
+214,60
+1
+-
+20/12/2024
+19/12/2024
+30617
+113796
+compra mercadoria
+06/12/2024
+1607 g l bill e cia ltda                    
+32.292,00
+32.292,00
+1
+-
+27/11/2024
+13/12/2024
+202473022
+114370
+serviço tomado
+06/12/2024
+6270 consorcio otimo de bilheta
+4,86
+4,86
+1
+-
+26/03/2024
+13/12/2024
+718 - contas pagas
+tipo relatório: analítico por mês
+período de lançamento: todos
+período de pagamento:  01/12/2024 a 31/12/2024
+período de emissão: todos
+período de vencimento: todos
+página 5
+27/12/2024 15:37:21
+'1'
+grupo de conta:
+: todos
+todos
+conta: todas
+2024
+12
+nº nota/duplic nº lanc.
+dt. lanç.
+conta
+cód. fornecedor
+valor
+valor dev.
+juros
+valor pago
+vl. desc.
+ano:
+mês:
+dt. venc
+dt. pagto
+8202
+113018
+compra mercadoria
+22/11/2024
+1234 jf maquinas - nb maquinas l
+5.973,26
+5.973,26
+1
+-
+14/12/2024
+13/12/2024
+0
+114673
+seguros - bancarios
+11/12/2024
+6362 banco cooperativo sicoob
+498,68
+498,68
+-
+11/12/2024
+11/12/2024
+23601
+113594
+compra mercadoria
+26/11/2024
+6427 brasil engrenagens e corr
+620,74
+620,74
+1
+-
+23/12/2024
+19/12/2024
+272
+114558
+serviço tomado
+10/12/2024
+6319 wiig marcas e design ltda
+69,90
+69,90
+1
+-
+16/12/2024
+13/12/2024
+0
+114668
+consorcio - bancari
+11/12/2024
+6362 banco cooperativo sicoob
+2.188,62
+2.188,62
+-
+11/12/2024
+11/12/2024
+386
+114477
+vb para rebaixa de c
+09/12/2024
+1234 jf maquinas - nb maquinas l
+0,01
+0,01
+1
+-
+09/12/2024
+09/12/2024
+8456
+113391
+compra mercadoria
+27/11/2024
+1234 jf maquinas - nb maquinas l
+3.264,40
+3.264,40
+1
+-
+21/12/2024
+19/12/2024
+349756
+114384
+compra mercadoria
+09/12/2024
+5411 agri pecas matao santo ex
+540,00
+540,00
+1
+-
+31/12/2024
+27/12/2024
+4764
+114539
+fretes
+10/12/2024
+1 real maquinas agricolas e
+-30,00
+-30,00
+k
+-
+31/12/2024
+10/12/2024
+71
+114375
+outros custos de m
+06/12/2024
+5051 secretaria de estado de fa
+-492,41
+-492,41
+1
+-
+06/12/2024
+06/12/2024
+3988672
+113071
+5952 - darf crf - rete
+18/11/2024
+6381 totvs s.a
+17,95
+17,95
+1
+-
+20/12/2024
+19/12/2024
+346118
+112275
+compra mercadoria
+06/11/2024
+5411 agri pecas matao santo ex
+641,14
+361,14
+2
+-
+280,00
+27/12/2024
+19/12/2024
+346118
+115082
+descontos obtidos
+19/12/2024
+5411 agri pecas matao santo ex
+-280,00
+-280,00
+2
+-
+27/12/2024
+19/12/2024
+0
+114802
+tarifas - bancarias
+13/12/2024
+328 banco do brasil                      
+171,20
+171,20
+-
+13/12/2024
+13/12/2024
+0
+114804
+consorcio - bancari
+13/12/2024
+328 banco do brasil                      
+677,82
+677,82
+-
+13/12/2024
+13/12/2024
+49100904
+114625
+fretes de mercador
+28/11/2024
+3009 rodonaves transportes e 
+-169,19
+-169,19
+1
+-
+31/12/2024
+11/12/2024
+0
+115033
+8109 - pis  
+18/12/2024
+4841 ministerio da fazenda - sec
+767,99
+767,99
+1
+-
+24/12/2024
+19/12/2024
+0
+114276
+consorcio - bancari
+05/12/2024
+6362 banco cooperativo sicoob
+463,66
+463,66
+-
+05/12/2024
+05/12/2024
+531884
+113746
+5952 - darf crf - rete
+27/11/2024
+6227 totvs tecnologia em softw
+58,59
+58,59
+1
+-
+20/12/2024
+19/12/2024
+0
+114498
+geracao despesas g
+09/12/2024
+5051 secretaria de estado de fa
+138,58
+138,58
+1
+-
+09/12/2024
+09/12/2024
+501013
+114789
+compra mercadoria
+17/12/2024
+805 jumil - justino de morais, ir
+238,34
+238,34
+1
+-
+12/12/2024
+19/12/2024
+116164
+104440
+compra mercadoria
+17/06/2024
+4798 nogueira - nb maquinas ltd
+4.977,80
+4.977,80
+7
+-
+13/12/2024
+05/12/2024
+198122
+104469
+compra mercadoria
+17/06/2024
+1234 jf maquinas - nb maquinas l
+15.702,40
+15.702,40
+7
+-
+13/12/2024
+05/12/2024
+3242
+112638
+compra mercadoria
+11/11/2024
+5118 fertmaq pecas e implement
+464,63
+464,63
+1
+-
+05/12/2024
+04/12/2024
+6483
+110758
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+16.598,79
+16.598,79
+2
+-
+16/12/2024
+13/12/2024
+141156
+108685
+compra mercadoria
+11/09/2024
+6478 imdepa rolamentos import
+1.781,80
+1.781,80
+3
+-
+10/12/2024
+05/12/2024
+7432
+112184
+compra mercadoria
+06/11/2024
+1234 jf maquinas - nb maquinas l
+100,14
+100,14
+2
+-
+30/12/2024
+27/12/2024
+20244320
+114001
+5952 - darf crf - rete
+02/12/2024
+5028 lider bh veiculos sa             
+10,64
+10,64
+1
+-
+20/12/2024
+19/12/2024
+8445
+113402
+compra mercadoria
+27/11/2024
+1234 jf maquinas - nb maquinas l
+354,14
+354,14
+1
+-
+21/12/2024
+19/12/2024
+48976112
+113470
+fretes de mercador
+25/11/2024
+3009 rodonaves transportes e 
+205,42
+205,42
+1
+-
+31/12/2024
+11/12/2024
+27924
+114059
+compra mercadoria
+02/12/2024
+799 total vedacoes com. de pe
+2.397,00
+2.397,00
+1
+-
+30/12/2024
+27/12/2024
+12093
+113090
+compra mercadoria
+18/11/2024
+5232 bhflex dist. mangueiras e c
+867,50
+867,50
+1
+-
+18/12/2024
+13/12/2024
+90826
+113150
+compra mercadoria
+19/11/2024
+2081 incomagri ind.com.maqs.ag
+206,69
+206,69
+1
+-
+14/12/2024
+13/12/2024
+2369697
+114316
+fretes de mercador
+06/12/2024
+5187 transporte itapirense ber
+1.047,60
+1.047,60
+1
+-
+27/12/2024
+19/12/2024
+0
+114373
+0317 - icms normal 
+06/12/2024
+5051 secretaria de estado de fa
+-3,66
+-3,66
+1
+-
+06/12/2024
+06/12/2024
+0
+114671
+consorcio - bancari
+11/12/2024
+6362 banco cooperativo sicoob
+3.683,27
+3.683,27
+-
+11/12/2024
+11/12/2024
+8263
+113713
+compra mercadoria
+27/11/2024
+1234 jf maquinas - nb maquinas l
+3.583,76
+3.583,76
+1
+-
+19/12/2024
+13/12/2024
+3988672
+113069
+serviço tomado
+18/11/2024
+6381 totvs s.a
+368,18
+368,18
+1
+-
+23/12/2024
+19/12/2024
+3999404
+114235
+serviço tomado
+04/12/2024
+6381 totvs s.a
+3.289,36
+3.289,36
+1
+-
+23/12/2024
+19/12/2024
+584683
+115083
+multa e juros de mo
+19/12/2024
+1128 baldan implementos agrico
+33,83
+33,83
+1
+-
+26/12/2024
+19/12/2024
+0
+114480
+serviço tomado
+09/12/2024
+6224 cielo s.a.
+179,90
+179,90
+-
+09/12/2024
+09/12/2024
+0
+114489
+uso consumo 
+09/12/2024
+2026 diferragens br ltda             
+269,70
+269,70
+-
+09/12/2024
+09/12/2024
+7691
+114269
+compra mercadoria
+05/12/2024
+5377 artes ferramentas ltda     
+180,00
+180,00
+1
+-
+05/12/2024
+09/12/2024
+0
+114862
+vb para rebaixa de c
+16/12/2024
+1234 jf maquinas - nb maquinas l
+-0,01
+-0,01
+1
+-
+16/12/2024
+16/12/2024

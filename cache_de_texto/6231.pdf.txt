@@ -1,0 +1,523 @@
+resultado da busca
+agência/conta: 0690/38923-4
+data de movimentação: 04/11/2024
+carteira: todas
+nome da empresa: michelle cosmeticos ltda me   
+tipo de consulta: detalhada
+movimentação resumida de
+cobrança
+posição da(s) carteira(s) de
+cobrança
+descrição
+qtde
+valor(r$)
+cobrança com registro
+posição anterior
+344
+249.448,96
+(+)entradas
+1
+404,40
+(-)baixas
+0
+0,00
+(-)liquidações
+7
+2.993,99
+(=)posição atual
+338
+246.859,37
+a vencer
+326
+233.424,52
+até 30/11/2024
+201
+122.218,99
+de 01/12/2024 à 31/12/2024
+111
+71.657,90
+de 01/01/2025 à 31/01/2025
+9
+21.872,41
+a partir de 01/02/2025
+5
+17.675,22
+vencidos até 04/11/2024
+12
+13.434,85
+cobrança sem registro
+liquidações
+0
+0,00
+movimentação financeira de
+cobrança
+descrição
+valor(r$)
+principal(liquidações)
+2.993,99
+(-)descontos/abatimentos
+0,00
+(+)juros/multa
+18,68
+(=)total
+3.012,67
+resumo da movimentação na conta corrente
+descrição
+valor(r$)
+valores a compensar
+0,00
+valores disponíveis
+3.012,67
+valores não liberados
+0,00
+deduções
+0,00
+custas
+0,00
+iof
+0,00
+tarifas
+0,00
+movimentação resumida de
+desconto
+posição da(s) carteira(s) de
+desconto
+descrição
+qtde
+valor(r$)
+posição anterior
+272
+387.858,26
+(+)entradas
+0
+0,00
+(-)liquidações
+12
+34.033,93
+(-)baixas
+1
+404,40
+(=)posição atual
+259
+353.419,93
+a vencer
+254
+347.921,62
+até 30/11/2024
+180
+256.973,27
+de 01/12/2024 à 31/12/2024
+59
+71.286,16
+de 01/01/2025 à 31/01/2025
+12
+15.084,61
+1
+ eu
+a partir de 01/02/2025
+3
+4.577,58
+vencidos até 04/11/2024
+5
+5.498,31
+movimentação financeira de
+desconto
+descrição
+valor(r$)
+principal(liquidações)
+34.033,93
+diferença de recebimento
+5,87
+(-)tarifas de instruções
+0,00
+(=)total
+34.039,80
+resumo da movimentação de desconto
+descrição
+valor(r$)
+valores a compensar
+0,00
+deduções
+0,00
+juros(encargos)
+0,00
+iof
+0,00
+tarifa de contratação
+0,00
+tarifa de cobrança
+0,00
+tarifa mensal
+agência e conta não possui movimentações de tarifas
+movimentação detalhada
+tarifas de impressão 0 boletos | r$              0,00
+tarifas de extratos: 0 extratos | r$              0,00
+cart
+nosso
+numero
+seu 
+ numero
+nome do pagador
+vcto.
+agencia 
+ dep.rec.
+tipo
+movimentacao
+valor(r$)
+(a)
+outros(r$)
+(b)
+valor total(r$)
+(a e b)
+ 109
+ 000450352
+ 180224
+ roberta machado vasconcelos me
+ 30/10/2024
+ 7744
+ bol. desc.
+ bz
+ 01/11/2024
+ 404,40
+ 30
+ -1,81
+ 1802/24   - 
+ 99
+ -406,21
+ 109
+ 000449323
+ 179903/b
+ shampoo   cia ltda
+ 25/10/2024
+ 4320
+ boleto
+ l
+ 04/11/2024
+ 799,24
+ 04
+ 18,68
+ 817,92
+ 109
+ 000449794
+ 179934/b
+ celio jose pereira me
+ 04/11/2024
+ 4320
+ boleto
+ l
+ 04/11/2024
+ 582,31
+ 582,31
+ 109
+ 000449869
+ 179940/b
+ silvano robson da costa epp
+ 04/11/2024
+ 4320
+ boleto
+ l
+ 04/11/2024
+ 446,28
+ 446,28
+ 109
+ 000450875
+ 180316/b
+ comercial j.h.leao ltda
+ 02/11/2024
+ 4320
+ boleto
+ l
+ 04/11/2024
+ 304,55
+ 304,55
+ 109
+ 000450909
+ 180317/b
+ claudia aparecida leao machado
+ 02/11/2024
+ 4320
+ boleto
+ l
+ 04/11/2024
+ 304,25
+ 304,25
+ 109
+ 000451006
+ 180322/b
+ mercearia nossa senhora do car
+ 02/11/2024
+ 4320
+ boleto
+ l
+ 04/11/2024
+ 348,32
+ 348,32
+ 109
+ 000455841
+ 181318
+ farmacia vlk ltda
+ 05/11/2024
+ 4320
+ boleto
+ l
+ 04/11/2024
+ 209,04
+ 209,04
+ 109
+ 000449172
+ 179781
+ capriche comercio digital ltda
+ 02/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 402,21
+ 109
+ 000449180
+ 179783
+ capriche comercio digital ltda
+ 02/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 27.139,65
+ 109
+ 000449198
+ 179784
+ wins comercio digital ltda
+ 02/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 769,89
+ 109
+ 000449255
+ 179900/b
+ antonio ernesto de araujo souz
+ 04/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 279,22
+ 109
+ 000449339
+ 179903/c
+ shampoo   cia ltda
+ 04/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 799,24
+ 109
+ 000449669
+ 179925/c
+ drog.perf.santa rita m.n. ltda
+ 09/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 858,39
+ 109
+ 000449818
+ 179935/b
+ drogaria e perfumaria santana
+ 04/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 306,23
+ 109
+ 000450923
+ 180318
+ liliane andrelia da silva
+ 31/10/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 331,35
+ 04
+ 7,06
+ 27
+ -332,54
+ 1803/18   - 
+ 99
+ 5,87
+ 109
+ 000451269
+ 180349/b
+ carlos akiba ltda
+ 03/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 466,05
+ 109
+ 000451491
+ 180368/b
+ ines rosijane canaan de carval
+ 03/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 425,36
+ 109
+ 000452085
+ 180541/a
+ allure shopping da beleza ltda
+ 04/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 1.477,56
+ 109
+ 000453323
+ 180804/a
+ supermercado saliba moreira lt
+ 05/11/2024
+ 4320
+ bol. desc.
+ lz
+ 04/11/2024
+ 778,78
+legendas
+código de histórico
+2
+ eu
+código de histórico
+código
+descrição
+código
+descrição
+código
+descrição
+código
+descrição
+b
+baixa
+bs
+baixa com transferência para desconto
+ea
+entrada por acertos (reentrada)
+li
+liquidação em banco correspondente
+ba
+baixa para acertos
+bt
+baixa com transferência para cobrança
+eb
+entrada bankline
+lp
+liquidação parcial
+bb
+baixa antecipada
+bz
+baixa desconto
+et
+entrada de título transferido para
+cobrança
+lz
+liquidação título descontado
+bc
+baixa por ter sido protestado
+cd
+custas do cartório distribuidor
+ez
+entrada de título descontado
+te
+tarifa de emissão de extrato de posição
+bd
+baixa com devolução
+ce
+custas de publicação de edital
+fl
+liquidação após feriado
+ti
+tarifa de outras instruções
+be
+baixa de título liquidado anteriormente
+ci
+custas de irregularidade
+l
+liquidação
+tm
+tarifa de manutenção de título vencido
+bf
+baixa com entrega franco de pagamento
+cj
+custas de sustação de judicial
+la
+liquidação antecipada
+to
+tarifa de outras ocorrências
+bh
+baixa com transferência para créditos em
+liquidação
+cp
+custas de protesto
+lc
+liquidação em cartório
+tp
+ tarifa de protesto
+bl
+baixa por ter sido liquidado
+cs
+custas de sustação de protesto
+ld
+liquidação com dispensa de juros
+ts
+tarifa de sustação de protesto
+bp
+baixa com abatimento
+e
+entrada
+le
+liquidação de título baixado
+anteriormente
+código da variação a crédito e a débito
+código
+descrição
+código
+descrição
+código
+descrição
+código
+descrição
+01
+tarifa de cobrança
+05
+descontos
+09
+reajuste
+13
+provisão retida
+02
+juros + comissões
+06
+valor do abatimento
+10
+valor corrigido
+03
+comissão de permanência
+07
+valor do pagamento
+11
+correção monetária
+04
+juros
+08
+iof
+12
+tarifa de contratação
+3
+ eu

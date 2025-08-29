@@ -1,0 +1,1114 @@
+ centro   de   diagnostico   medico 
+ 12.497.360/0001-20 
+ extrato   banco 
+ banco:   sicoob   1   [13.108-3   cc]   -   periodo:   01/01/2023   ate   31/01/2023 
+ data 
+ 06/03/2023   17:09 
+ usuário 
+ tayanna   gome 
+ clinux   -   sistema   de   gestão 
+ gênesis   tecnologia   ltda 
+ 1 de 6 
+ página 
+ data 
+ nota   fiscal 
+ conta 
+ descrição 
+ valor 
+ documento 
+ 02/01/2023  **** 
+ saldo   inicial 
+ **** 
+ 179.778,78 
+ **** 
+ 02/01/2023 
+ banco   sicoob   -   pag 
+ debito   iof 
+ -10,83 
+ 02/01/2023 
+ banco   sicoob   -   pag 
+ debito   iof 
+ -0,17 
+ 02/01/2023  202300000000044 
+ particular 
+ jeferson   divino   eterno   rocha   -   182948   -   parti 
+ 58,00 
+ 58 
+ 02/01/2023  202300000000032 
+ particular 
+ carlos   alberto   de   lima   filho   -   182846   -   partic 
+ 150,00 
+ 000 
+ 02/01/2023 
+ maxwell   delane   benze 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 02/01/2023 
+ yuri   antonio   sanches   santos 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 02/01/2023 
+ cba   servicos   medicos   ltda 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 02/01/2023 
+ alex   naves   evangelista 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 02/01/2023 
+ 187.477,50 
+ 03/01/2023 
+ sipag 
+ aluguel   maquina   de   cartao 
+ -257,16 
+ 03/01/2023  202300000000316 
+ particular 
+ junio   welton   dos   santos   sousa   -   183161   -   par 
+ 72,00 
+ 72,00 
+ 03/01/2023  202300000000035 
+ particular 
+ vera   lucia   brito   da   silva   santos   -   182709   -   par 
+ 118,14 
+ 03/01/2023  202300000000036 
+ particular 
+ maiza   vieira   rocha   -   182946   -   particular 
+ 147,67 
+ 03/01/2023  202300000000313 
+ particular 
+ antonio   jose   de   souza   -   182194   -   particular   mi 
+ 180,00 
+ 180 
+ 03/01/2023  202300000000080 
+ particular 
+ enrico   brito   baum   -   183156   -   particular 
+ 216,00 
+ 216 
+ 03/01/2023  202300000000033 
+ particular 
+ adriana   sales   shimazu   -   183019   -   particular   mi 
+ 236,28 
+ 03/01/2023 
+ 188.190,43 
+ 04/01/2023  202300000000079 
+ particular 
+ joao   guilherme   de   sousa   -   183109   -   particular 
+ 41,35 
+ 04/01/2023  202300000000046 
+ particular 
+ rejane   gomes   dos   reis   -   183183   -   particular   c/ 
+ 61,04 
+ 04/01/2023  202300000000321 
+ particular 
+ olimpia   lopes   teles   -   183240   -   particular 
+ 63,01 
+ 04/01/2023  202300000000045 
+ particular 
+ rejane   gomes   dos   reis   -   183124   -   particular   c/ 
+ 127,98 
+ 04/01/2023  202300000000320 
+ particular 
+ francisca   aparecida   pereira   -   183221   -   partic 
+ 282,46 
+ 290,00 
+ 04/01/2023  202300000000057 
+ particular 
+ alessandra   miranda   de   moraes   -   182998   -   part 
+ 450,00 
+ 450 
+ 04/01/2023 
+ 189.216,27 
+ 05/01/2023 
+ banco   sicoob   -   pag 
+ juros   conta   garantida 
+ -10,53 
+ 0 
+ 05/01/2023  202300000000055 
+ particular 
+ danuza   brito   soares   -   183092   -   particular   mini 
+ 118,14 
+ 05/01/2023  202300000000058 
+ particular 
+ iraci   felipe   de   miranda   -   183025   -   particular   mi 
+ 146,10 
+ 05/01/2023  202300000000092 
+ particular 
+ osvaldo   clemente   da   silva   -   183207   -   particul 
+ 146,10 
+ 05/01/2023  202300000000069 
+ particular 
+ debora   mendes   da   silva   -   183095   -   particular    
+ 177,21 
+ 05/01/2023  202300000000095 
+ particular 
+ wanderson   ribeiro   portugal   caldas   -   182802    
+ 180,00 
+ 180 
+ 05/01/2023  202300000000059 
+ particular 
+ fernanda   silverio   de   faria   -   183188   -   particul 
+ 250,00 
+ 250 
+ 05/01/2023  202300000000087 
+ particular 
+ luciano   de   oliveira   -   183378   -   particular   c/   au 
+ 450,00 
+ 450 
+ 05/01/2023  202300000000050 
+ particular 
+ amaro   luiz   de   santana   -   183336   -   particular   mi 
+ 787,60 
+ 05/01/2023 
+ 191.460,89 
+ 06/01/2023 
+ funcionarios   clinica   cdm 
+ salarios   funcionarios   ref   12/2022 
+ -11.157,15 
+ 0 
+ 06/01/2023  01 
+ tayanna   caira   fernandes   gom 
+ servicos   de   apoio   administrativo   12/2022 
+ -5.000,00 
+ 0 
+ 06/01/2023 
+ funcionarios   clinica   cdm 
+ salarios   funcionarios   12/2022 
+ -3.048,04 
+ 0 
+ 06/01/2023 
+ funcionarios   clinica   cdm 
+ ferias   marcia   (09/01/2023   -   07/02/2023)   -   ref   a   30   d 
+ -2.055,56 
+ 0 
+ 06/01/2023 
+ fgts   recolhimento   do   fundo    
+ fgts   clinica   12/2022 
+ -1.749,28 
+ 06/01/2023 
+ funcionarios   clinica   cdm 
+ estagio   call   center   ref   12/2022 
+ -1.100,00 
+ 0 
+ 06/01/2023 
+ funcionarios   clinica   cdm 
+ salarios   funcionario   ref   12/2022 
+ -1.066,23 
+ 0 
+ 06/01/2023 
+ fgts   recolhimento   do   fundo    
+ fgts   clinica   12/2022 
+ -388,73 
+ 06/01/2023  202300000000097 
+ particular 
+ amanda   pereira   de   moraes   -   183312   -   particul 
+ 147,67 
+ 06/01/2023 
+ lidiany   rodrigues   de   carvalh 
+ aluguel   consultorio   11/2022 
+ 200,00 
+ 0 
+ 06/01/2023  202300000000103 
+ particular 
+ vilma   nunes   peres   dos   santos   -   183280   -   parti 
+ 240,00 
+ 240 
+ 06/01/2023  4646 
+ amil 
+ amil   ref   09/2022 
+ 297,83 
+ 0 
+ 06/01/2023  202300000000063 
+ particular 
+ marcos   vinicius   da   silva   teles   -   183083   -   parti 
+ 450,00 
+ 450,00 
+ centro   de   diagnostico   medico 
+ 12.497.360/0001-20 
+ extrato   banco 
+ banco:   sicoob   1   [13.108-3   cc]   -   periodo:   01/01/2023   ate   31/01/2023 
+ data 
+ 06/03/2023   17:09 
+ usuário 
+ tayanna   gome 
+ clinux   -   sistema   de   gestão 
+ gênesis   tecnologia   ltda 
+ 2 de 6 
+ página 
+ 06/01/2023 
+ 167.231,40 
+ 09/01/2023  202300000000104 
+ particular 
+ maria   joserly   salazar   cariman   -   183648   -   parti 
+ 54,15 
+ 09/01/2023  202300000000100 
+ particular 
+ estrogilda   maria   oliveira   ferreira   -   183538   -   p 
+ 70,13 
+ 09/01/2023  202300000000089 
+ particular 
+ rafaela   aparecida   rocha   medeiros   -   183248   -   p 
+ 100,00 
+ 100 
+ 09/01/2023 
+ dra   vanessa   ferreira   araujo    
+ pix   entrado   incorrreto   para   o   cdm   -   dra.   va 
+ 180,00 
+ 0 
+ 09/01/2023  202300000000102 
+ particular 
+ irene   clemente   de   oliveira   -   183374   -   particul 
+ 350,64 
+ 09/01/2023  202300000000135 
+ particular 
+ losleny   karoline   araujo   lima   -   183425   -   partic 
+ 450,00 
+ 450 
+ 09/01/2023  202300000000066 
+ particular 
+ corival   borges   d'aparecida   -   183384   -   particu 
+ 492,25 
+ 09/01/2023  202300000000065 
+ particular 
+ corival   borges   d'aparecida   -   183383   -   particu 
+ 492,25 
+ 09/01/2023 
+ fms   agua   limpa 
+ credito   de   pagamento   de   exame 
+ 500,00 
+ 0 
+ 09/01/2023  4348 
+ postal   saude   (correios) 
+ postal   saude   ref   10/2022 
+ 788,86 
+ 09/01/2023 
+ tulio   r   trancoso   chaves 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 09/01/2023 
+ julmara   pereira   de   toledo 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 09/01/2023 
+ 174.460,54 
+ 10/01/2023 
+ marcia   de   nazare   fonseca   da    
+ devolucao   de   valor 
+ 50,00 
+ 0 
+ 10/01/2023  202300000000331 
+ particular 
+ paulo   vicente   silva   -   183684   -   particular   c/   de 
+ 126,62 
+ 10/01/2023  202300000000132 
+ particular 
+ maria   suely   de   jesus   souza   -   183298   -   particul 
+ 130,00 
+ 130 
+ 10/01/2023  202300000000327 
+ particular 
+ cleidiane   maria   da   silva   castro   -   183456   -   part 
+ 482,40 
+ 10/01/2023 
+ 175.249,56 
+ 11/01/2023 
+ fernanda   cardoso   dussioni   r 
+ dra   fernanda   -   honorarios   medicos   ref   09/20 
+ -32.137,77 
+ 0 
+ 11/01/2023  1722 
+ rd   solucoes   e   imagem   ltda 
+ teleradiologia   -   honorarios   medicos   08/2022 
+ -24.468,38 
+ 0 
+ 11/01/2023  194 
+ mgb   -   servicos   medicos   ltda 
+ referente   honorarios   dra.   marcella   britto 
+ -12.670,45 
+ 11/01/2023  195 
+ mgb   -   servicos   medicos   ltda 
+ referente   honorarios   dra.   marcella   britto 
+ -12.602,54 
+ 11/01/2023 
+ marcella   britto 
+ referente   honorarios   dra.   marcella   britto 
+ -10.328,62 
+ 0 
+ 11/01/2023 
+ mgb   -   servicos   medicos   ltda 
+ referente   honorarios   dra.   marcella   britto 
+ -9.294,72 
+ 11/01/2023 
+ decio   farias   novaes 
+ dr   decio   -   honorarios   medicos   ref   09/2022 
+ -9.093,26 
+ 0 
+ 11/01/2023 
+ decio   farias   novaes 
+ dr   decio   -   honorarios   medicos   ref   07/2022 
+ -8.442,05 
+ 0 
+ 11/01/2023 
+ decio   farias   novaes 
+ dr   decio   -   honorarios   medicos   ref   08/2022 
+ -8.318,55 
+ 0 
+ 11/01/2023  1682 
+ rd   solucoes   e   imagem   ltda 
+ teleradiologia   -   honorarios   medicos   07/2022 
+ -8.118,70 
+ 0 
+ 11/01/2023 
+ decio   farias   novaes 
+ dr   decio   -   honorarios   medicos   ref   06/2022 
+ -7.619,16 
+ 0 
+ 11/01/2023 
+ marcella   britto 
+ referente   honorarios   dra.   marcella   britto 
+ -7.536,70 
+ 0 
+ 11/01/2023 
+ decio   farias   novaes 
+ dr   decio   -   honorarios   medicos   ref   05/2022 
+ -7.490,75 
+ 0 
+ 11/01/2023 
+ marcella   britto 
+ referente   honorarios   dra.   marcella   britto 
+ -7.446,61 
+ 0 
+ 11/01/2023 
+ decio   farias   novaes 
+ dr   decio   -   honorarios   medicos   ref   04/2022 
+ -7.295,21 
+ 0 
+ 11/01/2023 
+ decio   farias   novaes 
+ dr   decio   -   honorarios   medicos   ref   10/2022 
+ -5.925,92 
+ 0 
+ 11/01/2023  1644 
+ rd   solucoes   e   imagem   ltda 
+ teleradiologia   -   honorarios   medicos   06/2022 
+ -5.286,30 
+ 0 
+ 11/01/2023 
+ priscilla   abdalla   cruz 
+ referente   honorarios   dra.   priscila 
+ -5.125,00 
+ 0 
+ 11/01/2023 
+ decio   farias   novaes 
+ dr   decio   -   honorarios   medicos   ref   11/2022 
+ -4.672,80 
+ 0 
+ 11/01/2023 
+ marcella   britto 
+ referente   honorarios   dra.   marcella   britto 
+ -4.612,65 
+ 0 
+ 11/01/2023  1624 
+ rd   solucoes   e   imagem   ltda 
+ teleradiologia   -   honorarios   medicos   05/2022 
+ -4.507,50 
+ 0 
+ 11/01/2023 
+ realce   servicos   de   radiologi 
+ referente   honorarios   dra.   priscila 
+ -3.644,48 
+ 0 
+ 11/01/2023 
+ realce   servicos   de   radiologi 
+ referente   honorarios   dra.   priscila 
+ -3.534,58 
+ 0 
+ 11/01/2023  1597 
+ rd   solucoes   e   imagem   ltda 
+ teleradiologia   -   honorarios   medicos   04/2022 
+ -3.003,30 
+ 0 
+ 11/01/2023 
+ realce   servicos   de   radiologi 
+ referente   honorarios   dra.   priscila 
+ -2.024,93 
+ 0 
+ 11/01/2023 
+ joaquim   guilherme 
+ referente   honorarios   dr.   joaquim   guilherm 
+ -96,00 
+ 0 
+ 11/01/2023  4590 
+ di   roma 
+ di   roma   ref   11/2022 
+ 97,50 
+ 0 
+ 11/01/2023  202300000000336 
+ particular 
+ lorraine   ingledis   teodoro   de   carvalho   -   183 
+ 120,00 
+ 120,00 
+ 11/01/2023  202300000000146 
+ particular 
+ vilson   alves   de   camargo   -   183720   -   particular 
+ 146,10 
+ 11/01/2023  202300000000141 
+ particular 
+ raquel   linhares   de   souza   da   silva   -   183526   -   p 
+ 147,67 
+ 150 
+ centro   de   diagnostico   medico 
+ 12.497.360/0001-20 
+ extrato   banco 
+ banco:   sicoob   1   [13.108-3   cc]   -   periodo:   01/01/2023   ate   31/01/2023 
+ data 
+ 06/03/2023   17:09 
+ usuário 
+ tayanna   gome 
+ clinux   -   sistema   de   gestão 
+ gênesis   tecnologia   ltda 
+ 3 de 6 
+ página 
+ 11/01/2023  202300000000108 
+ particular 
+ neura   de   fatima   ferreira   de   almeida   -   183818   -    
+ 177,21 
+ 11/01/2023  202300000000073 
+ particular 
+ jeferson   faleiro   de   araujo   -   183768   -   particu 
+ 177,21 
+ 11/01/2023  202300000000107 
+ particular 
+ neura   de   fatima   ferreira   de   almeida   -   183817   -    
+ 177,21 
+ 11/01/2023  202300000000109 
+ particular 
+ juraci   lobeu   numiz   -   183866   -   particular   minim 
+ 177,21 
+ 11/01/2023  202300000000130 
+ particular 
+ carlos   antonio   dos   santos   -   183506   -   particul 
+ 354,42 
+ 11/01/2023  202300000000124 
+ particular 
+ maria   lucia   freire   sampaio   -   183978   -   particula 
+ 393,80 
+ 11/01/2023  202300000000153 
+ particular 
+ nilva   aparecida   da   silva   -   183934   -   particular    
+ 393,80 
+ 11/01/2023 
+ decio   farias   novaes 
+ aporte   referente   a   assembleia   de   socios   em 
+ 19.691,98 
+ 0 
+ 11/01/2023 
+ joaquim   guilherme 
+ aporte   referente   a   assembleia   de   socios   em 
+ 19.691,98 
+ 0 
+ 11/01/2023 
+ 1.698,72 
+ 12/01/2023 
+ banco   sicoob   -   pag 
+ integralizacao   emprestimo   contrato   600   mil    
+ -20.878,19 
+ 12/01/2023  202300000000163 
+ particular 
+ zila   maria   coutinho   -   184133   -   particular   minim 
+ 38,96 
+ 12/01/2023  202300000000162 
+ particular 
+ marilene   de   jesus   -   184023   -   particular   minimo 
+ 38,96 
+ 12/01/2023  202300000000131 
+ particular 
+ leonardo   pereira   silva   -   184139   -   particular    
+ 39,38 
+ 12/01/2023  202300000000335 
+ particular 
+ terezinha   das   gracas   cardoso   -   183999   -   part 
+ 106,33 
+ 12/01/2023  202300000000123 
+ particular 
+ valter   bezerra   aguiar   -   184078   -   particular   mi 
+ 116,88 
+ 12/01/2023  202300000000334 
+ particular 
+ liliana   pereira   dos   santos   borges   -   183781   -   p 
+ 118,14 
+ 12/01/2023  202300000000164 
+ particular 
+ livia   adriana   gomes   -   184071   -   particular   minim 
+ 118,14 
+ 12/01/2023  202300000000161 
+ particular 
+ tatiaine   martins   ferreira   -   184006   -   particula 
+ 118,14 
+ 12/01/2023  202300000000165 
+ particular 
+ lenival   dos   santos   de   miranda   -   182246   -   parti 
+ 120,00 
+ 120 
+ 12/01/2023  202300000000201 
+ particular 
+ fernanda   machado   da   silva   -   184233   -   particul 
+ 150,00 
+ 150 
+ 12/01/2023  202300000000114 
+ particular 
+ jaqueline   nascimentod   dos   santos   -   183943   -   p 
+ 177,21 
+ 180 
+ 12/01/2023  202300000000165 
+ particular 
+ lenival   dos   santos   de   miranda   -   182252   -   parti 
+ 240,00 
+ 0 
+ 12/01/2023  202300000000165 
+ particular 
+ lenival   dos   santos   de   miranda   -   182247   -   parti 
+ 240,00 
+ 0 
+ 12/01/2023  202300000000168 
+ particular 
+ rejane   da   silva   gois   -   183827   -   particular   c/   au 
+ 389,60 
+ 400 
+ 12/01/2023  202300000000170 
+ particular 
+ jean   salviano   ferreira   da   silva   -   183798   -   part 
+ 428,02 
+ 12/01/2023  202300000000169 
+ particular 
+ jean   salviano   ferreira   da   silva   -   183800   -   part 
+ 428,49 
+ 12/01/2023  0030 
+ alto   padrao   laboratorio 
+ alto   padrao   ref   12/2022 
+ 1.480,00 
+ 12/01/2023  0062 
+ fms   de   ipameri 
+ fms   de   ipameri   ref   12/2022 
+ 1.800,00 
+ 0 
+ 12/01/2023 
+ hortencio   c   padua 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 12/01/2023 
+ -11.155,79 
+ 13/01/2023  202300000000176 
+ particular 
+ rosilayne   silva   sousa   -   183905   -   particular   mi 
+ 118,13 
+ 13/01/2023  202300000000178 
+ particular 
+ evelin   carvalho   sousa   -   182175   -   particular   m 
+ 118,16 
+ 13/01/2023  202300000000177 
+ particular 
+ adao   de   sousa   costa   -   184082   -   particular   mini 
+ 177,21 
+ 13/01/2023  202300000000342 
+ particular 
+ simone   de   souza   pereira   dias   -   184110   -   partic 
+ 226,43 
+ 13/01/2023  202300000000343 
+ particular 
+ simone   de   souza   pereira   dias   -   184109   -   partic 
+ 226,43 
+ 13/01/2023  202300000000175 
+ particular 
+ beatriz   ribeiro   castello   do   valle   mello   -   183 
+ 590,70 
+ 13/01/2023 
+ frederico   resende   fernandes  aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 13/01/2023 
+ -7.823,30 
+ 16/01/2023  202300000000188 
+ particular 
+ zilma   vieira   ridrigues   -   184486   -   particular   min 
+ 100,32 
+ 16/01/2023  202300000000350 
+ particular 
+ cidimar   de   oliveira   silva   -   184126   -   particular    
+ 118,14 
+ 16/01/2023  202300000000181 
+ particular 
+ sandro   dias   borges   -   184376   -   particular   mini 
+ 118,14 
+ 16/01/2023  202300000000187 
+ particular 
+ nilza   de   oliveira   santana   -   184366   -   particular 
+ 146,10 
+ 16/01/2023  202300000000211 
+ particular 
+ aparecida   de   fatima   candida   dos   reis   martin 
+ 253,24 
+ 16/01/2023  202300000000209 
+ particular 
+ sonia   maria   de   oliveira   chaves   -   184533   -   parti 
+ 277,63 
+ 16/01/2023  202300000000202 
+ particular 
+ adelina   pires   de   olveira   -   184382   -   particular    
+ 438,30 
+ 16/01/2023  202300000000208 
+ particular 
+ aparecida   de   fatima   candida   dos   reis   martin 
+ 438,30 
+ 16/01/2023  202300000000210 
+ particular 
+ aparecida   de   fatima   candida   dos   reis   martin 
+ 438,30 
+ 16/01/2023  4456 
+ fms   de   goiatuba 
+ fms   de   goiatuba   ref   11/2022 
+ 1.750,00 
+ 0 
+ centro   de   diagnostico   medico 
+ 12.497.360/0001-20 
+ extrato   banco 
+ banco:   sicoob   1   [13.108-3   cc]   -   periodo:   01/01/2023   ate   31/01/2023 
+ data 
+ 06/03/2023   17:09 
+ usuário 
+ tayanna   gome 
+ clinux   -   sistema   de   gestão 
+ gênesis   tecnologia   ltda 
+ 4 de 6 
+ página 
+ 16/01/2023  3920 
+ fms   de   goiatuba 
+ fms   de   goiatuba   ref   10/2022 
+ 2.100,00 
+ 0 
+ 16/01/2023  0204 
+ unimed   caldas   novas 
+ unimed   ref   11/2022 
+ 76.248,98 
+ 0 
+ 16/01/2023 
+ 74.604,15 
+ 17/01/2023 
+ fernanda   cardoso   dussioni   r 
+ dra   fernanda   -   honorarios   medicos   ref   10/20 
+ -32.208,61 
+ 0 
+ 17/01/2023  1750 
+ rd   solucoes   e   imagem   ltda 
+ teleradiologia   -   honorarios   medicos   09/2022 
+ -18.527,87 
+ 0 
+ 17/01/2023 
+ fernanda   cardoso   dussioni   r 
+ dra   fernanda   -   honorarios   medicos   ref   11/20 
+ -6.245,17 
+ 0 
+ 17/01/2023 
+ rd   solucoes   e   imagem   ltda 
+ teleradiologia   -   honorarios   medicos   10/2022 
+ -4.964,95 
+ 0 
+ 17/01/2023 
+ kalunga   s.a 
+ impressoras   ethernet   brother 
+ -4.584,36 
+ 17/01/2023 
+ priscilla   abdalla   cruz 
+ referente   honorarios   dra.   priscila 
+ -3.945,00 
+ 0 
+ 17/01/2023 
+ realce   servicos   de   radiologi 
+ referente   honorarios   dra.   priscila 
+ -3.772,69 
+ 0 
+ 17/01/2023 
+ priscilla   abdalla   cruz 
+ referente   honorarios   dra.   priscila 
+ -3.065,00 
+ 0 
+ 17/01/2023  202300000000221 
+ particular 
+ gilbrair   afonso   peres   -   184618   -   particular   mi 
+ 35,44 
+ 17/01/2023  202300000000279 
+ particular 
+ luciano   de   carvalho   -   184704   -   particular   mini 
+ 40,00 
+ 40 
+ 17/01/2023  202300000000275 
+ particular 
+ euripedes   de   paula   -   184489   -   particular   minim 
+ 116,88 
+ 17/01/2023  202300000000217 
+ particular 
+ giancarlo   strada   -   184291   -   particular   c/   des 
+ 126,62 
+ 17/01/2023  202300000000225 
+ particular 
+ thais   aparecida   de   oliveira   -   183805   -   particul 
+ 146,10 
+ 17/01/2023  202300000000353 
+ particular 
+ joelma   gomes   rosa   santos   -   184460   -   particul 
+ 147,67 
+ 17/01/2023  202300000000250 
+ particular 
+ joao   luiz   santos   neto   -   184608   -   particular 
+ 150,00 
+ 150 
+ 17/01/2023  202300000000354 
+ particular 
+ marli   evaristo   dos   santos   -   184594   -   particul 
+ 245,45 
+ 17/01/2023  202300000000203 
+ particular 
+ dilma   alves   martins   lopes   -   184566   -   particula 
+ 246,12 
+ 17/01/2023  202300000000218 
+ particular 
+ debora   goncalves   da   silva   -   184293   -   particul 
+ 379,86 
+ 17/01/2023  202300000000272 
+ particular 
+ valdirene   sousa   valadares   braga   -   184144   -   p 
+ 393,80 
+ 400 
+ 17/01/2023 
+ transferencia   de   carteira 
+ 500,00 
+ 17/01/2023 
+ palmerston   loti   laboradorio    
+ aluguel   ref:   12/2022 
+ 1.563,44 
+ 0 
+ 17/01/2023 
+ paulo   hitoshi   sato 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 17/01/2023 
+ palmerston   loti   laboradorio    
+ aluguel   ref:   11/2022 
+ 1.890,03 
+ 0 
+ 17/01/2023 
+ transferencia   de   carteira 
+ 4.100,00 
+ 17/01/2023 
+ fernanda   cardoso   dussioni   r 
+ aporte   referente   a   assembleia   de   socios   em 
+ 6.245,17 
+ 0 
+ 17/01/2023 
+ 15.492,51 
+ 18/01/2023  202300000000252 
+ particular 
+ vitoria   barbosa   de   almeida   -   184882   -   particul 
+ 38,96 
+ 18/01/2023  202300000000228 
+ particular 
+ julieta   eugenio   da   silva   e   souza   -   184644   -   par 
+ 40,00 
+ 000 
+ 18/01/2023  202300000000234 
+ particular 
+ sebastiao   goncalves   de   carvalho   -   184856   -   p 
+ 62,34 
+ 18/01/2023  0006 
+ vivacom   planos   de   saude 
+ vivacom   ref   10/2022 
+ 101,56 
+ 0 
+ 18/01/2023  202300000000277 
+ particular 
+ marivone   martins   cruz   -   184901   -   particular   m 
+ 108,29 
+ 18/01/2023  202200000004637 
+ particular 
+ joao   alves   sobrinho   -   181910   -   particular   mini 
+ 116,53 
+ 18/01/2023  202300000000246 
+ particular 
+ andre   campos   da   silva   -   185002   -   particular 
+ 150,00 
+ 150 
+ 18/01/2023  202300000000236 
+ particular 
+ gleisson   batista   oliveira   -   184815   -   particular 
+ 177,21 
+ 18/01/2023  202300000000237 
+ particular 
+ adriana   monteiro   dos   santos   -   184298   -   partic 
+ 177,21 
+ 18/01/2023  202300000000243 
+ particular 
+ sonia   maria   da   silva   mendes   -   184836   -   particul 
+ 180,00 
+ 180 
+ 18/01/2023  202300000000244 
+ particular 
+ sonia   maria   da   silva   mendes   -   184837   -   particul 
+ 180,00 
+ 180 
+ 18/01/2023  202300000000242 
+ particular 
+ sonia   maria   da   silva   mendes   -   184834   -   particul 
+ 180,00 
+ 180 
+ 18/01/2023  202300000000245 
+ particular 
+ sonia   maria   da   silva   mendes   -   184840   -   particul 
+ 180,00 
+ 180 
+ 18/01/2023  202200000004602 
+ particular 
+ djaldo   do   carmo   -   181289   -   particular   c/   desc 
+ 349,60 
+ 18/01/2023  202300000000276 
+ particular 
+ marivone   martins   cruz   -   184650   -   particular   c/ 
+ 443,02 
+ 18/01/2023  202300000000357 
+ particular 
+ victoria   moura   goncalves   -   184145   -   particul 
+ 450,00 
+ 450 
+ 18/01/2023 
+ rhafael 
+ aporte   referente   a   assembleia   de   socios   em 
+ 1.875,43 
+ 0 
+ 18/01/2023 
+ 20.302,66 
+ 19/01/2023  202300000000267 
+ particular 
+ daniel   edson   de   araujo   freitas   -   185130   -   part 
+ 40,00 
+ 40 
+ 19/01/2023  202200000004642 
+ particular 
+ clarice   pereira   caldas   -   182199   -   particular   m 
+ 100,02 
+ centro   de   diagnostico   medico 
+ 12.497.360/0001-20 
+ extrato   banco 
+ banco:   sicoob   1   [13.108-3   cc]   -   periodo:   01/01/2023   ate   31/01/2023 
+ data 
+ 06/03/2023   17:09 
+ usuário 
+ tayanna   gome 
+ clinux   -   sistema   de   gestão 
+ gênesis   tecnologia   ltda 
+ 5 de 6 
+ página 
+ 19/01/2023  202300000000013 
+ particular 
+ isack   wesller   oliveira   rocha   -   182109   -   partic 
+ 134,01 
+ 19/01/2023  202300000000247 
+ particular 
+ claudia   resende   prol   -   184905   -   particular   mi 
+ 147,67 
+ 19/01/2023  202300000000241 
+ particular 
+ rafaela   mota   faria   felix   -   184823   -   particular 
+ 147,67 
+ 19/01/2023  202300000000258 
+ particular 
+ geralda   rodrigues   de   jesus   -   185008   -   particu 
+ 443,02 
+ 19/01/2023 
+ 21.315,05 
+ 20/01/2023 
+ banco   sicoob   -   pag 
+ integralizacao   emprestimo   contrato   simone 
+ -12.940,02 
+ 20/01/2023 
+ transferencia   p/   sicoob   3   -   [13. 
+ -160,00 
+ 20/01/2023  202300000000303 
+ particular 
+ regis   alves   emiliano   -   185183   -   particular   mini 
+ 40,00 
+ 000 
+ 20/01/2023  202200000004705 
+ particular 
+ jeremias   manoel   ferreira   -   182304   -   particula 
+ 69,92 
+ 20/01/2023  202300000000260 
+ particular 
+ dandara   elizabete   silva   ribeiro   -   183090   -   part 
+ 118,14 
+ 20/01/2023  202300000000358 
+ particular 
+ gilbrair   afonso   peres   -   184617   -   particular   mi 
+ 118,14 
+ 20/01/2023  202300000000291 
+ particular 
+ ricardo   koji   shindo   -   185124   -   particular   minim 
+ 246,12 
+ 250 
+ 20/01/2023  202200000004643 
+ particular 
+ welington   godoi   da   silva   -   181678   -   di   roma   ex 
+ 267,93 
+ 277,50 
+ 20/01/2023  202300000000266 
+ particular 
+ aparecida   de   fatima   candida   dos   reis   martin 
+ 584,40 
+ 20/01/2023  202300000000264 
+ particular 
+ geraldo   carneiro   -   184602   -   particular 
+ 720,74 
+ 20/01/2023  202300000000265 
+ particular 
+ geraldo   carneiro   -   184603   -   particular 
+ 720,76 
+ 20/01/2023 
+ 11.101,18 
+ 23/01/2023  202300000000296 
+ particular 
+ raimunda   ferreira   de   holanda   barros   -   18525 
+ 71,10 
+ 23/01/2023  202300000000018 
+ particular 
+ maria   aparecida   barbosa   -   182433   -   particular 
+ 116,53 
+ 23/01/2023  202300000000362 
+ particular 
+ marta   pereira   cardoso   da   silva   -   185109   -   par 
+ 120,00 
+ 120 
+ 23/01/2023  202300000000312 
+ particular 
+ dayane   barbalho   carneiro   neves   -   185307   -   pa 
+ 130,00 
+ 130 
+ 23/01/2023  202300000000019 
+ particular 
+ maria   aparecida   barbosa   -   182434   -   particular 
+ 138,87 
+ 23/01/2023  202300000000017 
+ particular 
+ edivair   rezende   calisto   -   182334   -   particular    
+ 143,86 
+ 23/01/2023  202300000000287 
+ particular 
+ rita   filomena   soares   andre   -   185012   -   particu 
+ 146,10 
+ 23/01/2023  202200000004650 
+ particular 
+ eni   silvestre   de   paula   -   182449   -   particular   mi 
+ 193,10 
+ 200 
+ 23/01/2023  202300000000020 
+ particular 
+ maria   aparecida   barbosa   -   182435   -   particular 
+ 241,37 
+ 23/01/2023  202300000000286 
+ particular 
+ antoninho   marmo   chaves   de   oliveira   -   185266   - 
+ 487,00 
+ 23/01/2023 
+ 12.889,11 
+ 24/01/2023  202300000000365 
+ particular 
+ nivair   tavares   filho   -   185303   -   particular   mini 
+ 147,67 
+ 24/01/2023  202300000000311 
+ particular 
+ jorge   sebastiao   filho   -   185308   -   particular   mi 
+ 177,21 
+ 24/01/2023  202300000000374 
+ particular 
+ eduardo   nunes   ferreira   -   185610   -   particular    
+ 198,00 
+ 00000 
+ 24/01/2023  202300000000309 
+ particular 
+ jose   antonio   de   oliveira   -   185115   -   particular    
+ 265,81 
+ 24/01/2023  202300000000379 
+ particular 
+ marcia   abadia   de   lima   -   185006   -   particular   mini 
+ 265,81 
+ 24/01/2023  202300000000373 
+ particular 
+ eduardo   nunes   ferreira   -   185608   -   particular    
+ 350,00 
+ 0000 
+ 24/01/2023  202300000000310 
+ particular 
+ jorge   sebastiao   filho   -   185306   -   particular   mi 
+ 492,25 
+ 24/01/2023 
+ 14.785,86 
+ 25/01/2023 
+ banco   sicoob   -   pag 
+ integralizacao   emprestimo   contrato   crd 
+ -11.380,22 
+ 25/01/2023 
+ banco   sicoob   -   pag 
+ integralizacao   emprestimo   contrato   marce 
+ -9.772,53 
+ 25/01/2023  202300000000021 
+ particular 
+ marcia   de   cassia   carvalho   -   182563   -   particul 
+ 38,84 
+ 25/01/2023  202300000000418 
+ particular 
+ matheus   pereira   da   silva   -   185695   -   particular 
+ 40,00 
+ 00 
+ 25/01/2023  202300000000383 
+ particular 
+ albertino   walace   de   mello   -   185483   -   particul 
+ 46,75 
+ 25/01/2023  202200000004701 
+ particular 
+ sandro   verissimo   bandeira   -   182631   -   particul 
+ 56,32 
+ 25/01/2023  202300000000661 
+ particular 
+ karoline   de   souza   camargo   -   185465   -   particu 
+ 98,45 
+ 25/01/2023  202300000000382 
+ particular 
+ albertino   walace   de   mello   -   185222   -   particul 
+ 116,88 
+ 25/01/2023  202300000000662 
+ particular 
+ eduardo   alves   filgueira   -   185419   -   particular    
+ 150,00 
+ 150 
+ 25/01/2023  202300000000375 
+ particular 
+ maria   viana   ferreira   -   185386   -   particular   mini 
+ 177,21 
+ 25/01/2023  202200000004676 
+ particular 
+ jose   ribamar   de   jesus   cavalcante   -   181999   -   p 
+ 241,37 
+ 250 
+ 25/01/2023  202200000004680 
+ particular 
+ mariane   alves   ferreira   -   181463   -   particular 
+ 301,04 
+ 25/01/2023  202300000000681 
+ particular 
+ laura   beatriz   de   sousa   oliveira   -   185453   -   par 
+ 360,00 
+ 360 

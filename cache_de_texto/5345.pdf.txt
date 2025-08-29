@@ -1,0 +1,9069 @@
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 1
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 19/12/2023
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+( 3 dias de atraso)
+intervalo
+atr. de entrega
+1274518
+18/12/2023
+0
+outros fornecedores
+0
+156,18
+0,00
+0,00
+156,18
+vanessa
+- z
+multa giy0c67
+401022 multa / transito
+401
+-
+chq:
+borderô: 8448
+a
+(parcela: 294)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+156,18
+0,00
+0,00
+156,18
+0,00
+data de vencimento: 20/12/2023
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+( 2 dias de atraso)
+intervalo
+atr. de entrega
+1277773
+20/12/2023
+0
+1904
+281,95
+0,00
+0,00
+281,95
+vanessa
+- 1
+superemrcado nelson caetano
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+20/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+281,95
+0,00
+0,00
+281,95
+0,00
+data de vencimento: 29/12/2023
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1274740
+18/12/2023 12764
+auto posto jardim do eden eireli
+5380
+871,78
+0,00
+0,00
+871,78
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1260916
+29/11/2023
+55
+nissin foods do brasil ltda
+387548
+152.882,50
+0,00
+0,00
+152.882,50
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 387548
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+29/11/2023
+filial: 1
+0,00
+0
+14
+0
+1260917
+29/11/2023
+55
+nissin foods do brasil ltda
+387550
+148.988,00
+0,00
+0,00
+148.988,00
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 387550
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+29/11/2023
+filial: 1
+0,00
+0
+14
+0
+1262036
+30/11/2023
+55
+nissin foods do brasil ltda
+387631
+108.163,98
+0,00
+0,00
+108.163,98
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 387631
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+29/11/2023
+filial: 1
+0,00
+1
+14
+0
+1268530
+11/12/2023
+4285
+supermercado supercidade ltda
+15924
+154,63
+0,00
+0,00
+154,63
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+08/12/2023
+filial: 1
+0,00
+3
+0
+3
+1268531
+11/12/2023 18523
+supermercado supercidade ltda.
+36595
+309,26
+0,00
+0,00
+309,26
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+08/12/2023
+filial: 1
+0,00
+3
+0
+3
+1274863
+18/12/2023
+0
+7244
+292,13
+0,00
+0,00
+292,13
+vanessa
+- 1
+mercado oliveira
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274862
+18/12/2023
+0
+1113255
+546,00
+0,00
+0,00
+546,00
+vanessa
+- 1
+cordeiro maquinas
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274864
+18/12/2023
+0
+270076
+130,31
+0,00
+0,00
+130,31
+vanessa
+- 1
+golphe
+402011 manutencao / equipament
+402
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274865
+18/12/2023
+0
+270075
+122,23
+0,00
+0,00
+122,23
+vanessa
+- 1
+golphe
+402011 manutencao / equipament
+402
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+412.460,82
+0,00
+0,00
+412.460,82
+0,00
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 2
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 30/12/2023
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1271320
+13/12/2023
+0
+940
+559,20
+0,00
+0,00
+559,20
+vanessa
+- 1
+magnanimo
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+13/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274736
+18/12/2023
+0
+16535
+12.027,43
+0,00
+0,00
+12.027,43
+vanessa
+- 1
+auto posto 2400
+401021 gasolina
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274737
+18/12/2023
+0
+24919
+5.883,64
+0,00
+0,00
+5.883,64
+vanessa
+- 1
+auto posto 92 da raposo
+401021 gasolina
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274738
+18/12/2023
+0
+10514
+469,98
+0,00
+0,00
+469,98
+vanessa
+- 1
+auto posto dez
+401021 gasolina
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274929
+18/12/2023
+0
+11337
+17.199,76
+0,00
+0,00
+17.199,76
+vanessa
+- 1
+auto posto refugio
+401021 gasolina
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274930
+18/12/2023
+0
+0
+214,41
+0,00
+0,00
+214,41
+vanessa
+- z
+auto posto neto
+401021 gasolina
+401
+-
+chq:
+borderô:
+a
+(parcela: 300)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274749
+18/12/2023
+0
+2311202324
+2.937,50
+0,00
+0,00
+2.937,50
+vanessa
+- 1
+dmj blezins
+500005 manutencao de equipame
+500
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+39.291,92
+0,00
+0,00
+39.291,92
+0,00
+data de vencimento: 31/12/2023
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1263046
+01/12/2023
+55
+nissin foods do brasil ltda
+387855
+155.964,50
+0,00
+0,00
+155.964,50
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 387855
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+01/12/2023
+filial: 1
+0,00
+0
+14
+0
+1274748
+18/12/2023
+0
+17338
+55,52
+0,00
+0,00
+55,52
+vanessa
+- 1
+supermercado serv bem
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274747
+18/12/2023
+0
+5110
+2.000,00
+0,00
+0,00
+2.000,00
+vanessa
+- 1
+central de serviços
+250001 vb campanhas/ prom./ince
+250
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+158.020,02
+0,00
+0,00
+158.020,02
+0,00
+data de vencimento: 01/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1268642
+11/12/2023
+21
+arcor do brasil ltda
+109028
+3.935,63
+0,00
+0,00
+3.935,63
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 109028
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+11/12/2023
+filial: 1
+0,00
+0
+99
+0
+1268643
+11/12/2023
+21
+arcor do brasil ltda
+109029
+154.209,10
+0,00
+0,00
+154.209,10
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 109029
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+11/12/2023
+filial: 1
+0,00
+0
+99
+0
+1269678
+12/12/2023
+21
+arcor do brasil ltda
+109118
+13.417,60
+0,00
+0,00
+13.417,60
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 109118
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+0
+99
+0
+1269856
+12/12/2023
+21
+arcor do brasil ltda
+109114
+62.091,48
+0,00
+0,00
+62.091,48
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 109114
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+0
+99
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 3
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 01/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1268641
+11/12/2023
+22
+bagley do brasil alimentos ltda
+79967
+29.298,26
+0,00
+0,00
+29.298,26
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 79967
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+11/12/2023
+filial: 1
+0,00
+0
+99
+0
+1269679
+12/12/2023
+22
+bagley do brasil alimentos ltda
+80037
+100.016,65
+0,00
+0,00
+100.016,65
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 80037
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+0
+99
+0
+1269857
+12/12/2023
+22
+bagley do brasil alimentos ltda
+80032
+1.875,37
+0,00
+0,00
+1.875,37
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 80032
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+0
+99
+0
+1269858
+12/12/2023
+22
+bagley do brasil alimentos ltda
+80033
+42.570,29
+0,00
+0,00
+42.570,29
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 80033
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+0
+99
+0
+1263958
+04/12/2023
+27
+ceras johnson ltda
+184367
+10.985,28
+0,00
+0,00
+10.985,28
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 184367
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+7
+30
+0
+1263956
+04/12/2023
+28
+ceras johnson ltda
+148623
+6.125,28
+0,00
+0,00
+6.125,28
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 148623
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+7
+30
+0
+1263957
+04/12/2023
+28
+ceras johnson ltda
+148624
+48.917,33
+0,00
+0,00
+48.917,33
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 148624
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+7
+30
+0
+1260149
+28/11/2023
+98
+dr. oetker brasil ltda
+73774
+157.808,67
+0,00
+0,00
+157.808,67
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 73774
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+1
+0
+1
+1260918
+29/11/2023
+98
+dr. oetker brasil ltda
+73747
+13.354,86
+0,00
+0,00
+13.354,86
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 73747
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+2
+0
+2
+1260919
+29/11/2023
+98
+dr. oetker brasil ltda
+73746
+76.676,99
+0,00
+0,00
+76.676,99
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 73746
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+2
+0
+2
+1260920
+29/11/2023
+98
+dr. oetker brasil ltda
+73745
+47.904,93
+0,00
+0,00
+47.904,93
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 73745
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+2
+0
+2
+1259963
+28/11/2023
+64
+ferrero do brasil ind.doceria e alim
+658142
+103.621,57
+0,00
+0,00
+103.621,57
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658142
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+1
+14
+0
+1259964
+28/11/2023
+64
+ferrero do brasil ind.doceria e alim
+658143
+100.817,57
+0,00
+0,00
+100.817,57
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658143
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+1
+14
+0
+1259965
+28/11/2023
+64
+ferrero do brasil ind.doceria e alim
+658148
+310.596,21
+0,00
+0,00
+310.596,21
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658148
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+1
+14
+0
+1262081
+30/11/2023
+0
+outros fornecedores
+9117
+2.761,00
+0,00
+0,00
+2.761,00
+vanessa
+- 1
+itacam diesel
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1264598
+04/12/2023
+0
+29487
+164,26
+0,00
+0,00
+164,26
+vanessa
+- 1
+supermercado zaia ltda
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+04/12/2023
+filial: 1
+0,00
+0
+0
+0
+1264599
+04/12/2023
+0
+17426
+64,43
+0,00
+0,00
+64,43
+vanessa
+- 1
+supermercado paraiso sorocaba ltda
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+04/12/2023
+filial: 1
+0,00
+0
+0
+0
+1264600
+04/12/2023
+0
+17425
+92,25
+0,00
+0,00
+92,25
+vanessa
+- 1
+supermercado paraiso sorocaba ltda
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+04/12/2023
+filial: 1
+0,00
+0
+0
+0
+1264775
+04/12/2023
+0
+158392
+42,75
+0,00
+0,00
+42,75
+vanessa
+- 1
+coop
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+04/12/2023
+filial: 1
+0,00
+0
+0
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 4
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 01/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1264776
+04/12/2023
+0
+158391
+23,45
+0,00
+0,00
+23,45
+vanessa
+- 1
+coop
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+04/12/2023
+filial: 1
+0,00
+0
+0
+0
+1271323
+13/12/2023
+0
+551
+393,41
+0,00
+0,00
+393,41
+vanessa
+- 1
+magnanimo
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+13/12/2023
+filial: 1
+0,00
+0
+0
+0
+1271324
+13/12/2023
+0
+2161
+906,60
+0,00
+0,00
+906,60
+vanessa
+- 1
+magnanimo
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+13/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262075
+30/11/2023
+0
+118044
+1.110,00
+0,00
+0,00
+1.110,00
+vanessa
+- 1
+maggi caminhoes
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+1.289.781,22
+0,00
+0,001.289.781,22
+0,00
+data de vencimento: 02/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1257306
+23/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+654119
+19.084,84
+95,42
+0,00
+18.989,42
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 654119
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/11/2023
+filial: 1
+0,00
+1
+14
+0
+1257307
+23/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+654122
+32.845,89
+164,22
+0,00
+32.681,67
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 654122
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/11/2023
+filial: 1
+0,00
+1
+14
+0
+1257310
+23/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+654120
+192.920,06
+964,60
+0,00
+191.955,46
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 654120
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/11/2023
+filial: 1
+0,00
+1
+14
+0
+1257311
+23/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+654121
+4.620,90
+23,10
+0,00
+4.597,80
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 654121
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/11/2023
+filial: 1
+0,00
+1
+14
+0
+1260940
+29/11/2023
+64
+ferrero do brasil ind.doceria e alim
+659690
+343.605,87
+0,00
+0,00
+343.605,87
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 659690
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/11/2023
+filial: 1
+0,00
+1
+14
+0
+1260942
+29/11/2023
+64
+ferrero do brasil ind.doceria e alim
+659692
+11.686,98
+0,00
+0,00
+11.686,98
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 659692
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/11/2023
+filial: 1
+0,00
+1
+14
+0
+1260943
+29/11/2023
+64
+ferrero do brasil ind.doceria e alim
+659693
+14.639,79
+0,00
+0,00
+14.639,79
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 659693
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/11/2023
+filial: 1
+0,00
+1
+14
+0
+1274744
+18/12/2023
+0
+outros fornecedores
+677
+1.286,50
+0,00
+0,00
+1.286,50
+vanessa
+- 1
+jc plastic
+200 compras
+250
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1263045
+01/12/2023
+0
+118727
+324,38
+0,00
+0,00
+324,38
+vanessa
+- 1
+serrano auto serviços
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+01/12/2023
+filial: 1
+0,00
+0
+0
+0
+1265675
+06/12/2023
+0
+52888
+4,44
+0,00
+0,00
+4,44
+vanessa
+- 1
+estancia
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+06/12/2023
+filial: 1
+0,00
+0
+0
+0
+1271132
+13/12/2023
+0
+0
+5.588,47
+0,00
+0,00
+5.588,47
+vanessa
+- 1
+super sao roque
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+13/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262089
+30/11/2023
+0
+2041149
+9.286,66
+0,00
+0,00
+9.286,66
+vanessa
+- 1
+eq tech
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 5
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 02/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1274743
+18/12/2023
+0
+55615
+255,00
+0,00
+0,00
+255,00
+vanessa
+- 1
+battery car
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262090
+30/11/2023
+0
+60140
+191,59
+0,00
+0,00
+191,59
+vanessa
+- 1
+lr comercio
+402011 manutencao / equipament
+402
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1262091
+30/11/2023
+0
+1087316
+178,97
+0,00
+0,00
+178,97
+vanessa
+- 1
+lr comercio
+402011 manutencao / equipament
+402
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1278234
+21/12/2023
+0
+0
+26.762,00
+0,00
+0,00
+26.762,00
+vanessa
+- 1
+alexandre
+900002 pro labore
+900
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+0
+0
+1278235
+21/12/2023
+0
+0
+26.762,00
+0,00
+0,00
+26.762,00
+vanessa
+- z
+fabiola
+900002 pro labore
+900
+-
+chq:
+borderô:
+a
+(parcela: 313)
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+0
+0
+1278236
+21/12/2023
+0
+0
+26.762,00
+0,00
+0,00
+26.762,00
+vanessa
+- z
+vanessa
+900002 pro labore
+900
+-
+chq:
+borderô:
+a
+(parcela: 314)
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+0
+0
+1278237
+21/12/2023
+0
+0
+40.000,00
+0,00
+0,00
+40.000,00
+vanessa
+- z
+antonio
+900002 pro labore
+900
+-
+chq:
+borderô:
+a
+(parcela: 315)
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+756.806,34
+1.247,34
+0,00
+755.559,00
+0,00
+data de vencimento: 03/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1265003
+05/12/2023
+0
+12209
+226,17
+0,00
+0,00
+226,17
+vanessa
+- 1
+mercadinho bianchi
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+05/12/2023
+filial: 1
+0,00
+0
+0
+0
+1266686
+07/12/2023
+0
+31240
+816,87
+0,00
+0,00
+816,87
+vanessa
+- 1
+malucho
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+07/12/2023
+filial: 1
+0,00
+0
+0
+0
+1266687
+07/12/2023
+0
+7710
+648,94
+0,00
+0,00
+648,94
+vanessa
+- 1
+malucho
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+07/12/2023
+filial: 1
+0,00
+0
+0
+0
+1266688
+07/12/2023
+0
+5615
+1.502,76
+0,00
+0,00
+1.502,76
+vanessa
+- 1
+vitorino correa
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+07/12/2023
+filial: 1
+0,00
+0
+0
+0
+1276863
+19/12/2023
+0
+0
+834,50
+0,00
+0,00
+834,50
+vanessa
+- z
+agua
+300006 agua e esgoto
+300
+-
+chq:
+borderô:
+a
+(parcela: 306)
+loc.:
+19/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262252
+30/11/2023
+0
+151571
+483,14
+0,00
+0,00
+483,14
+vanessa
+- 1
+dibracam
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1262253
+30/11/2023
+0
+42692
+414,27
+0,00
+0,00
+414,27
+vanessa
+- 1
+dibracam
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1274931
+18/12/2023
+0
+79399
+205,84
+0,00
+0,00
+205,84
+vanessa
+- 1
+d & r tecnica
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+5.132,49
+0,00
+0,00
+5.132,49
+0,00
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 6
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 04/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1258933
+27/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655051
+65.029,10
+325,14
+0,00
+64.703,96
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655051
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+25/11/2023
+filial: 1
+0,00
+2
+14
+0
+1258934
+27/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655052
+114.793,71
+573,96
+0,00
+114.219,75
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655052
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+25/11/2023
+filial: 1
+0,00
+2
+14
+0
+1258935
+27/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655053
+6.149,55
+30,74
+0,00
+6.118,81
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655053
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+25/11/2023
+filial: 1
+0,00
+2
+14
+0
+1258936
+27/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655008
+3.379,75
+16,89
+0,00
+3.362,86
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655008
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+25/11/2023
+filial: 1
+0,00
+2
+14
+0
+1258937
+27/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655009
+14.800,47
+74,00
+0,00
+14.726,47
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655009
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+25/11/2023
+filial: 1
+0,00
+2
+14
+0
+1258938
+27/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655010
+164.831,13
+824,15
+0,00
+164.006,98
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655010
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+25/11/2023
+filial: 1
+0,00
+2
+14
+0
+1257325
+23/11/2023
+27
+ceras johnson ltda
+183875
+73.350,09
+0,00
+0,00
+73.350,09
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 183875
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/11/2023
+filial: 1
+0,00
+1
+30
+0
+1265999
+06/12/2023
+27
+ceras johnson ltda
+185024
+151.606,64
+0,00
+0,00
+151.606,64
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185024
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+1
+30
+0
+1266000
+06/12/2023
+27
+ceras johnson ltda
+185025
+23.824,84
+0,00
+0,00
+23.824,84
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185025
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+1
+30
+0
+1266001
+06/12/2023
+27
+ceras johnson ltda
+185026
+635,12
+0,00
+0,00
+635,12
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185026
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+1
+30
+0
+1266622
+07/12/2023
+27
+ceras johnson ltda
+185021
+231.535,84
+0,00
+0,00
+231.535,84
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185021
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+2
+30
+0
+1268627
+11/12/2023
+27
+ceras johnson ltda
+185029
+15.652,76
+0,00
+0,00
+15.652,76
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185029
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+6
+30
+0
+1268628
+11/12/2023
+27
+ceras johnson ltda
+185030
+38.690,24
+0,00
+0,00
+38.690,24
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185030
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+6
+30
+0
+1268629
+11/12/2023
+27
+ceras johnson ltda
+185031
+20.107,79
+0,00
+0,00
+20.107,79
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185031
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+5
+30
+0
+1268630
+11/12/2023
+27
+ceras johnson ltda
+185032
+10.268,88
+0,00
+0,00
+10.268,88
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185032
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+5
+30
+0
+1266718
+07/12/2023
+28
+ceras johnson ltda
+149234
+102.724,96
+0,00
+0,00
+102.724,96
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149234
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+2
+30
+0
+1268631
+11/12/2023
+28
+ceras johnson ltda
+149238
+72.756,22
+0,00
+0,00
+72.756,22
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149238
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+6
+30
+0
+1268632
+11/12/2023
+28
+ceras johnson ltda
+149239
+43.948,50
+0,00
+0,00
+43.948,50
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149239
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+6
+30
+0
+1268633
+11/12/2023
+28
+ceras johnson ltda
+149240
+32.317,45
+0,00
+0,00
+32.317,45
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149240
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+6
+30
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 7
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 04/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1268634
+11/12/2023
+28
+ceras johnson ltda
+149241
+7.697,40
+0,00
+0,00
+7.697,40
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149241
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+6
+30
+0
+1228254
+05/10/2023
+64
+ferrero do brasil ind.doceria e alim
+628832
+30.348,95
+0,00
+0,00
+30.348,95
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 628832
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+04/10/2023
+filial: 1
+0,00
+1
+14
+0
+1228259
+05/10/2023
+64
+ferrero do brasil ind.doceria e alim
+628837
+47.561,80
+0,00
+0,00
+47.561,80
+caina
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 628837
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+04/10/2023
+filial: 1
+0,00
+1
+14
+0
+1231549
+11/10/2023
+64
+ferrero do brasil ind.doceria e alim
+630353
+86.028,49
+0,00
+0,00
+86.028,49
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 630353
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+10/10/2023
+filial: 1
+0,00
+1
+14
+0
+1231550
+11/10/2023
+64
+ferrero do brasil ind.doceria e alim
+630354
+12.092,19
+0,00
+0,00
+12.092,19
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 630354
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+10/10/2023
+filial: 1
+0,00
+1
+14
+0
+1231556
+11/10/2023
+64
+ferrero do brasil ind.doceria e alim
+630359
+2.962,96
+0,00
+0,00
+2.962,96
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 630359
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+10/10/2023
+filial: 1
+0,00
+1
+14
+0
+1231557
+11/10/2023
+64
+ferrero do brasil ind.doceria e alim
+630360
+41.193,24
+0,00
+0,00
+41.193,24
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 630360
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+10/10/2023
+filial: 1
+0,00
+1
+14
+0
+1233400
+16/10/2023
+64
+ferrero do brasil ind.doceria e alim
+632876
+53.060,63
+0,00
+0,00
+53.060,63
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 632876
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+14/10/2023
+filial: 1
+0,00
+2
+14
+0
+1233401
+16/10/2023
+64
+ferrero do brasil ind.doceria e alim
+632877
+165.817,24
+0,00
+0,00
+165.817,24
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 632877
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+14/10/2023
+filial: 1
+0,00
+2
+14
+0
+1236170
+19/10/2023
+64
+ferrero do brasil ind.doceria e alim
+634383
+189.320,89
+0,00
+0,00
+189.320,89
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 634383
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/10/2023
+filial: 1
+0,00
+1
+14
+0
+1236175
+19/10/2023
+64
+ferrero do brasil ind.doceria e alim
+634429
+85.966,33
+0,00
+0,00
+85.966,33
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 634429
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/10/2023
+filial: 1
+0,00
+1
+14
+0
+1239614
+25/10/2023
+64
+ferrero do brasil ind.doceria e alim
+637760
+30.376,12
+0,00
+0,00
+30.376,12
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 637760
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+24/10/2023
+filial: 1
+0,00
+1
+14
+0
+1245276
+01/11/2023
+64
+ferrero do brasil ind.doceria e alim
+640902
+24.452,79
+0,00
+0,00
+24.452,79
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 640902
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+31/10/2023
+filial: 1
+0,00
+1
+14
+0
+1249348
+09/11/2023
+64
+ferrero do brasil ind.doceria e alim
+643485
+63.912,32
+0,00
+0,00
+63.912,32
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 643485
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+08/11/2023
+filial: 1
+0,00
+1
+14
+0
+1249350
+09/11/2023
+64
+ferrero do brasil ind.doceria e alim
+643305
+9.673,77
+0,00
+0,00
+9.673,77
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 643305
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+08/11/2023
+filial: 1
+0,00
+1
+14
+0
+1253138
+16/11/2023
+64
+ferrero do brasil ind.doceria e alim
+650250
+14.699,72
+0,00
+0,00
+14.699,72
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 650250
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+15/11/2023
+filial: 1
+0,00
+1
+14
+0
+1259962
+28/11/2023
+64
+ferrero do brasil ind.doceria e alim
+658141
+75.203,24
+0,00
+0,00
+75.203,24
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658141
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+1
+14
+0
+1260941
+29/11/2023
+64
+ferrero do brasil ind.doceria e alim
+659691
+54.905,30
+0,00
+0,00
+54.905,30
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 659691
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/11/2023
+filial: 1
+0,00
+1
+14
+0
+1266623
+07/12/2023
+106
+marilan alimentos s/a
+129140
+45.624,64
+0,00
+0,00
+45.624,64
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129140
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+7
+0
+7
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 8
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 04/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1266729
+07/12/2023
+106
+marilan alimentos s/a
+129150
+19.393,09
+0,00
+0,00
+19.393,09
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129150
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+7
+0
+7
+1266730
+07/12/2023
+106
+marilan alimentos s/a
+129141
+58.202,75
+0,00
+0,00
+58.202,75
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129141
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+7
+0
+7
+1266731
+07/12/2023
+106
+marilan alimentos s/a
+129139
+1.508,08
+0,00
+0,00
+1.508,08
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129139
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+7
+0
+7
+1268796
+11/12/2023
+106
+marilan alimentos s/a
+129145
+33.680,36
+0,00
+0,00
+33.680,36
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129145
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+11
+0
+11
+1268797
+11/12/2023
+106
+marilan alimentos s/a
+129142
+37.492,57
+0,00
+0,00
+37.492,57
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129142
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+11
+0
+11
+1269669
+12/12/2023
+106
+marilan alimentos s/a
+129146
+24.320,10
+0,00
+0,00
+24.320,10
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129146
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+12
+0
+12
+1269670
+12/12/2023
+106
+marilan alimentos s/a
+129148
+32.537,98
+0,00
+0,00
+32.537,98
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129148
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+12
+0
+12
+1270926
+13/12/2023
+106
+marilan alimentos s/a
+129143
+51.351,40
+0,00
+0,00
+51.351,40
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129143
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+13
+0
+13
+1270927
+13/12/2023
+106
+marilan alimentos s/a
+129144
+18.243,67
+0,00
+0,00
+18.243,67
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129144
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+13
+0
+13
+1272094
+14/12/2023
+106
+marilan alimentos s/a
+129147
+50.387,88
+0,00
+0,00
+50.387,88
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129147
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+14
+0
+14
+1272095
+14/12/2023
+106
+marilan alimentos s/a
+129149
+37.538,27
+0,00
+0,00
+37.538,27
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 129149
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/11/2023
+filial: 1
+0,00
+14
+0
+14
+1267129
+07/12/2023
+0
+4933
+50,22
+0,00
+0,00
+50,22
+vanessa
+- 1
+super mineirinho
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+07/12/2023
+filial: 1
+0,00
+0
+0
+0
+1267147
+07/12/2023
+0
+52595
+131,46
+0,00
+0,00
+131,46
+vanessa
+- 1
+sato e nishi
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+07/12/2023
+filial: 1
+0,00
+0
+0
+0
+1267578
+08/12/2023
+0
+52983
+1.167,97
+0,00
+0,00
+1.167,97
+vanessa
+- 1
+estancia
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+08/12/2023
+filial: 1
+0,00
+0
+0
+0
+1267579
+08/12/2023
+0
+7577
+107,84
+0,00
+0,00
+107,84
+vanessa
+- 1
+locateli sabatini
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+08/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262084
+30/11/2023
+0
+9121
+1.084,00
+0,00
+0,00
+1.084,00
+vanessa
+- 1
+itacam diesel
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1262102
+30/11/2023
+0
+3600
+1.075,17
+0,00
+0,00
+1.075,17
+vanessa
+- 1
+up auto center
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1262231
+30/11/2023
+0
+35304
+246,53
+0,00
+0,00
+246,53
+vanessa
+- 1
+fm pneus
+401018 pneu
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1262244
+30/11/2023
+0
+35305
+934,40
+0,00
+0,00
+934,40
+vanessa
+- 1
+fm pneus
+401018 pneu
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 9
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 04/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1267937
+08/12/2023
+0
+26742
+550,00
+0,00
+0,00
+550,00
+vanessa
+- 1
+sanear controle de pragas
+402011 manutencao / equipament
+402
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+08/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262096
+30/11/2023
+0
+135208
+109.750,00
+0,00
+0,00
+109.750,00
+vanessa
+- 1
+de nigris
+893004 aquisicao de veiculos pe
+893
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1262097
+30/11/2023
+0
+135205
+85.000,00
+0,00
+0,00
+85.000,00
+vanessa
+- 1
+de nigris
+893004 aquisicao de veiculos pe
+893
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+2.792.054,80
+1.844,88
+0,002.790.209,92
+0,00
+data de vencimento: 05/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1276526
+19/12/2023 12685
+magnanimo comercial importacao e 
+1472
+250,52
+0,00
+0,00
+250,52
+leonardo
+- 1
+dev cliente
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+15/12/2023
+filial: 1
+0,00
+4
+0
+4
+1274291
+15/12/2023 203326
+magnanimo comercial importacao e 
+578
+87,36
+0,00
+0,00
+87,36
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+15/12/2023
+filial: 1
+0,00
+0
+0
+0
+1265668
+06/12/2023
+55
+nissin foods do brasil ltda
+388190
+119.985,77
+0,00
+0,00
+119.985,77
+junior
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 388190
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+0
+14
+0
+1265669
+06/12/2023
+55
+nissin foods do brasil ltda
+388191
+27.532,65
+0,00
+0,00
+27.532,65
+junior
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 388191
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+0
+14
+0
+1267936
+08/12/2023
+0
+outros fornecedores
+26743
+445,00
+0,00
+0,00
+445,00
+vanessa
+- 1
+sanear controle de pragas
+402011 manutencao / equipament
+402
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+08/12/2023
+filial: 1
+0,00
+0
+0
+0
+1269659
+12/12/2023
+0
+6053
+1.200,00
+0,00
+0,00
+1.200,00
+vanessa
+- 1
+lastro comercio de artigos
+200 compras
+250
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+12/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262257
+30/11/2023
+0
+48149
+344,16
+0,00
+0,00
+344,16
+vanessa
+- 1
+estancia
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1270922
+13/12/2023
+0
+16481
+990,23
+0,00
+0,00
+990,23
+vanessa
+- 1
+supermercado progresso
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+13/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274502
+18/12/2023
+0
+3234
+1.146,39
+0,00
+0,00
+1.146,39
+vanessa
+- 1
+maria pereira correa
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274934
+18/12/2023
+0
+2708
+48,72
+0,00
+0,00
+48,72
+vanessa
+- 1
+francisco de assis
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274932
+18/12/2023
+0
+0
+680,81
+0,00
+0,00
+680,81
+vanessa
+- z
+vivo
+200008 telefone (forca de vend
+200
+-
+chq:
+borderô:
+a
+(parcela: 301)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1278232
+21/12/2023
+0
+0
+34.326,00
+0,00
+0,00
+34.326,00
+vanessa
+- z
+salario
+300001 salarios
+300
+-
+chq:
+borderô:
+a
+(parcela: 311)
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+0
+0
+1278233
+21/12/2023
+0
+0
+329.132,00
+0,00
+0,00
+329.132,00
+vanessa
+- z
+salario
+300001 salarios
+300
+-
+chq:
+borderô:
+a
+(parcela: 312)
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+0
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 10
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 05/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1278250
+21/12/2023
+0
+0
+954,88
+0,00
+0,00
+954,88
+vanessa
+- z
+dif salario benedito
+300001 salarios
+300
+-
+chq:
+borderô:
+a
+(parcela: 318)
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+0
+0
+1278013
+20/12/2023
+0
+0
+3.233,00
+0,00
+0,00
+3.233,00
+vanessa
+- z
+ferias rafael
+300002 ferias
+300
+-
+chq:
+borderô:
+a
+(parcela: 308)
+loc.:
+20/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262261
+30/11/2023
+0
+55294
+253,00
+0,00
+0,00
+253,00
+vanessa
+- 1
+battery car
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1274933
+18/12/2023
+0
+64320
+1.332,88
+0,00
+0,00
+1.332,88
+vanessa
+- 1
+maxima sistema
+500004 manutencao sistemas
+500
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1277590
+20/12/2023
+0
+447483
+6.195,51
+0,00
+0,00
+6.195,51
+vanessa
+- 1
+totvs
+500004 manutencao sistemas
+500
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+20/12/2023
+filial: 1
+0,00
+0
+0
+0
+1277591
+20/12/2023
+0
+7107
+480,00
+0,00
+0,00
+480,00
+vanessa
+- 1
+brunsker
+500004 manutencao sistemas
+500
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+20/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+528.618,88
+0,00
+0,00
+528.618,88
+0,00
+data de vencimento: 06/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1266580
+07/12/2023
+55
+nissin foods do brasil ltda
+388293
+133.323,33
+0,00
+0,00
+133.323,33
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 388293
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+07/12/2023
+filial: 1
+0,00
+0
+14
+0
+total por dia :
+133.323,33
+0,00
+0,00
+133.323,33
+0,00
+data de vencimento: 07/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1230064
+09/10/2023
+27
+ceras johnson ltda
+180830
+81.489,55
+0,00
+0,00
+81.489,55
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 180830
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/10/2023
+filial: 1
+0,00
+3
+30
+0
+1231510
+11/10/2023
+27
+ceras johnson ltda
+180873
+205.390,60
+0,00
+0,00
+205.390,60
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 180873
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+09/10/2023
+filial: 1
+0,00
+2
+30
+0
+1230061
+09/10/2023
+28
+ceras johnson ltda
+145589
+160.709,39
+0,00
+0,00
+160.709,39
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 145589
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/10/2023
+filial: 1
+0,00
+3
+30
+0
+1253128
+16/11/2023
+98
+dr. oetker brasil ltda
+71891
+76.647,87
+0,00
+0,00
+76.647,87
+leonardo
+- 2
+dup: 002. vlr. ref. compras cf. nf. num. 71891
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+08/11/2023
+filial: 1
+0,00
+8
+0
+8
+1253130
+16/11/2023
+98
+dr. oetker brasil ltda
+71877
+75.363,15
+0,00
+0,00
+75.363,15
+leonardo
+- 2
+dup: 002. vlr. ref. compras cf. nf. num. 71877
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+08/11/2023
+filial: 1
+0,00
+8
+0
+8
+1262714
+30/11/2023
+0
+269808
+230,89
+0,00
+0,00
+230,89
+vanessa
+- 1
+golphe
+402011 manutencao / equipament
+402
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+599.831,45
+0,00
+0,00
+599.831,45
+0,00
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 11
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 08/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1260932
+29/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655441
+3.358,43
+0,00
+0,00
+3.358,43
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655441
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/11/2023
+filial: 1
+0,00
+1
+14
+0
+1260933
+29/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655442
+559,73
+0,00
+0,00
+559,73
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655442
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/11/2023
+filial: 1
+0,00
+1
+14
+0
+1260934
+29/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655440
+132,65
+0,00
+0,00
+132,65
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655440
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/11/2023
+filial: 1
+0,00
+1
+14
+0
+1260935
+29/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+655439
+6.331,66
+0,00
+0,00
+6.331,66
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 655439
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/11/2023
+filial: 1
+0,00
+1
+14
+0
+1262041
+30/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+656289
+11.719,10
+0,00
+0,00
+11.719,10
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 656289
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+29/11/2023
+filial: 1
+0,00
+1
+14
+0
+1262044
+30/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+656290
+15.655,66
+0,00
+0,00
+15.655,66
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 656290
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+29/11/2023
+filial: 1
+0,00
+1
+14
+0
+1262045
+30/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+656288
+11.734,11
+0,00
+0,00
+11.734,11
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 656288
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+29/11/2023
+filial: 1
+0,00
+1
+14
+0
+1262046
+30/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+656287
+55.124,22
+0,00
+0,00
+55.124,22
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 656287
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+29/11/2023
+filial: 1
+0,00
+1
+14
+0
+1277592
+20/12/2023
+21
+arcor do brasil ltda
+109547
+10.939,47
+0,00
+0,00
+10.939,47
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 109547
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+99
+0
+1277593
+20/12/2023
+22
+bagley do brasil alimentos ltda
+80394
+80.165,18
+0,00
+0,00
+80.165,18
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 80394
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+99
+0
+1255541
+21/11/2023
+98
+dr. oetker brasil ltda
+72175
+76.647,87
+0,00
+0,00
+76.647,87
+leonardo
+- 2
+dup: 002. vlr. ref. compras cf. nf. num. 72175
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+09/11/2023
+filial: 1
+0,00
+12
+0
+12
+1265674
+06/12/2023
+98
+dr. oetker brasil ltda
+74817
+151.710,19
+0,00
+0,00
+151.710,19
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 74817
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+04/12/2023
+filial: 1
+0,00
+2
+0
+2
+1269969
+12/12/2023 13943
+gilberto leal sandy itai epp
+12886
+79,02
+0,00
+0,00
+79,02
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+06/12/2023
+filial: 1
+0,00
+6
+0
+6
+1271319
+13/12/2023
+0
+1321
+530,99
+0,00
+0,00
+530,99
+vanessa
+- 1
+magnanimo
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+13/12/2023
+filial: 1
+0,00
+0
+0
+0
+1262729
+30/11/2023
+0
+0
+2.838,50
+0,00
+0,00
+2.838,50
+vanessa
+- z
+mgd pneus
+401018 pneu
+401
+-
+chq:
+borderô:
+a
+(parcela: 234)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+427.526,78
+0,00
+0,00
+427.526,78
+0,00
+data de vencimento: 09/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1198997
+21/08/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+630711
+7.704,48
+0,00
+0,00
+7.704,48
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 630711
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/08/2023
+filial: 1
+0,00
+2
+14
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 12
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 09/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1199000
+21/08/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+630773
+15.408,95
+0,00
+0,00
+15.408,95
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 630773
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/08/2023
+filial: 1
+0,00
+2
+14
+0
+1200923
+23/08/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+631378
+28.699,18
+0,00
+0,00
+28.699,18
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 631378
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/08/2023
+filial: 1
+0,00
+1
+14
+0
+1219968
+22/09/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+638588
+128,41
+0,00
+0,00
+128,41
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 638588
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/09/2023
+filial: 1
+0,00
+1
+14
+0
+1219970
+22/09/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+638589
+23.691,27
+0,00
+0,00
+23.691,27
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 638589
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/09/2023
+filial: 1
+0,00
+1
+14
+0
+1226695
+03/10/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+641563
+21.058,90
+0,00
+0,00
+21.058,90
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 641563
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+30/09/2023
+filial: 1
+0,00
+3
+14
+0
+1233404
+16/10/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+644664
+28.121,34
+0,00
+0,00
+28.121,34
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 644664
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/10/2023
+filial: 1
+0,00
+4
+14
+0
+1233406
+16/10/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+644665
+2.696,56
+0,00
+0,00
+2.696,56
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 644665
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/10/2023
+filial: 1
+0,00
+4
+14
+0
+1278228
+21/12/2023
+21
+arcor do brasil ltda
+109661
+39.753,05
+0,00
+0,00
+39.753,05
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 109661
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+99
+0
+1278229
+21/12/2023
+22
+bagley do brasil alimentos ltda
+80476
+48.785,55
+0,00
+0,00
+48.785,55
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 80476
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+99
+0
+1277775
+20/12/2023
+0
+outros fornecedores
+3889
+91,90
+0,00
+0,00
+91,90
+vanessa
+- 1
+superemrcado molina
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+20/12/2023
+filial: 1
+0,00
+0
+0
+0
+1270925
+13/12/2023
+0
+13669
+862,47
+0,00
+0,00
+862,47
+vanessa
+- 1
+joel siqueira
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+13/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+217.002,06
+0,00
+0,00
+217.002,06
+0,00
+data de vencimento: 10/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1278242
+21/12/2023
+21
+arcor do brasil ltda
+109698
+107.759,63
+0,00
+0,00
+107.759,63
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 109698
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+99
+0
+1278243
+21/12/2023
+21
+arcor do brasil ltda
+109699
+8.443,96
+0,00
+0,00
+8.443,96
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 109699
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+99
+0
+1278244
+21/12/2023
+22
+bagley do brasil alimentos ltda
+80508
+9.497,71
+0,00
+0,00
+9.497,71
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 80508
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+99
+0
+1258941
+27/11/2023
+28
+ceras johnson ltda
+148561
+38.631,25
+0,00
+0,00
+38.631,25
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 148561
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+25/11/2023
+filial: 1
+0,00
+2
+30
+0
+1266725
+07/12/2023
+64
+ferrero do brasil ind.doceria e alim
+663955
+329.935,35
+0,00
+0,00
+329.935,35
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663955
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+1
+14
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 13
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 10/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1266726
+07/12/2023
+64
+ferrero do brasil ind.doceria e alim
+663956
+8.657,18
+0,00
+0,00
+8.657,18
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663956
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+1
+14
+0
+1266727
+07/12/2023
+64
+ferrero do brasil ind.doceria e alim
+663957
+94.827,30
+0,00
+0,00
+94.827,30
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663957
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+1
+14
+0
+1266728
+07/12/2023
+64
+ferrero do brasil ind.doceria e alim
+663958
+1.663,65
+0,00
+0,00
+1.663,65
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663958
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+1
+14
+0
+total por dia :
+599.416,03
+0,00
+0,00
+599.416,03
+0,00
+data de vencimento: 11/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1257318
+23/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+654245
+74.683,90
+0,00
+0,00
+74.683,90
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 654245
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/11/2023
+filial: 1
+0,00
+1
+14
+0
+1271038
+13/12/2023
+27
+ceras johnson ltda
+185378
+168.616,61
+0,00
+0,00
+168.616,61
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185378
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+1
+30
+0
+1271039
+13/12/2023
+27
+ceras johnson ltda
+185379
+13.954,60
+0,00
+0,00
+13.954,60
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185379
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+1
+30
+0
+1271135
+13/12/2023
+27
+ceras johnson ltda
+185380
+12.294,54
+0,00
+0,00
+12.294,54
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185380
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+1
+30
+0
+1271136
+13/12/2023
+27
+ceras johnson ltda
+185381
+139.880,00
+0,00
+0,00
+139.880,00
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185381
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+1
+30
+0
+1272091
+14/12/2023
+27
+ceras johnson ltda
+185383
+21.695,74
+0,00
+0,00
+21.695,74
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185383
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+13/12/2023
+filial: 1
+0,00
+1
+30
+0
+1271137
+13/12/2023
+28
+ceras johnson ltda
+149570
+30.905,00
+0,00
+0,00
+30.905,00
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149570
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+1
+30
+0
+1272092
+14/12/2023
+28
+ceras johnson ltda
+149572
+174.195,62
+0,00
+0,00
+174.195,62
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149572
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+13/12/2023
+filial: 1
+0,00
+1
+30
+0
+1272093
+14/12/2023
+28
+ceras johnson ltda
+149573
+57.539,10
+0,00
+0,00
+57.539,10
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149573
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+13/12/2023
+filial: 1
+0,00
+1
+30
+0
+1273107
+15/12/2023
+4535
+supermercado mairinque ltda
+56083
+495,36
+0,00
+0,00
+495,36
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+14/12/2023
+filial: 1
+0,00
+1
+0
+1
+total por dia :
+694.260,47
+0,00
+0,00
+694.260,47
+0,00
+data de vencimento: 12/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1257302
+23/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+654277
+3.300,63
+0,00
+0,00
+3.300,63
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 654277
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+23/11/2023
+filial: 1
+0,00
+0
+14
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 14
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 12/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1257303
+23/11/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+654278
+61.611,86
+0,00
+0,00
+61.611,86
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 654278
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+23/11/2023
+filial: 1
+0,00
+0
+14
+0
+1273527
+15/12/2023 13820
+cofesa comercial ferreira santos-l
+42386
+124,92
+0,00
+0,00
+124,92
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+12/12/2023
+filial: 1
+0,00
+3
+0
+3
+1268635
+11/12/2023
+64
+ferrero do brasil ind.doceria e alim
+664659
+313.661,32
+0,00
+0,00
+313.661,32
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 664659
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+08/12/2023
+filial: 1
+0,00
+3
+14
+0
+1268636
+11/12/2023
+64
+ferrero do brasil ind.doceria e alim
+664660
+301.427,11
+0,00
+0,00
+301.427,11
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 664660
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+08/12/2023
+filial: 1
+0,00
+3
+14
+0
+1270919
+13/12/2023
+55
+nissin foods do brasil ltda
+388867
+141.416,56
+0,00
+0,00
+141.416,56
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 388867
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+13/12/2023
+filial: 1
+0,00
+0
+14
+0
+total por dia :
+821.542,40
+0,00
+0,00
+821.542,40
+0,00
+data de vencimento: 13/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1253132
+16/11/2023
+98
+dr. oetker brasil ltda
+72635
+75.537,35
+0,00
+0,00
+75.537,35
+leonardo
+- 2
+dup: 002. vlr. ref. compras cf. nf. num. 72635
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+14/11/2023
+filial: 1
+0,00
+2
+0
+2
+1272088
+14/12/2023
+55
+nissin foods do brasil ltda
+388999
+118.378,83
+0,00
+0,00
+118.378,83
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 388999
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+14/12/2023
+filial: 1
+0,00
+0
+14
+0
+total por dia :
+193.916,18
+0,00
+0,00
+193.916,18
+0,00
+data de vencimento: 14/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1273104
+15/12/2023
+55
+nissin foods do brasil ltda
+389112
+161.395,75
+0,00
+0,00
+161.395,75
+junior
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 389112
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+15/12/2023
+filial: 1
+0,00
+0
+14
+0
+total por dia :
+161.395,75
+0,00
+0,00
+161.395,75
+0,00
+data de vencimento: 15/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1264839
+05/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658288
+68.275,10
+0,00
+0,00
+68.275,10
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658288
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+0
+14
+0
+1264840
+05/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658287
+219.006,90
+0,00
+0,00
+219.006,90
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658287
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+0
+14
+0
+1265121
+05/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658300
+407.396,13
+0,00
+0,00
+407.396,13
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658300
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+0
+14
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 15
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 15/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1265676
+06/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658321
+350.411,08
+0,00
+0,00
+350.411,08
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658321
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+1
+14
+0
+1265677
+06/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658319
+36.474,18
+0,00
+0,00
+36.474,18
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658319
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+1
+14
+0
+1265678
+06/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658320
+1.352,00
+0,00
+0,00
+1.352,00
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658320
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+1
+14
+0
+1265681
+06/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658307
+222.838,86
+0,00
+0,00
+222.838,86
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658307
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+1
+14
+0
+1265682
+06/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658349
+222.838,89
+0,00
+0,00
+222.838,89
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658349
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+05/12/2023
+filial: 1
+0,00
+1
+14
+0
+1266619
+07/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658485
+92.126,73
+0,00
+0,00
+92.126,73
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658485
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+1
+14
+0
+1266620
+07/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658621
+370.380,15
+0,00
+0,00
+370.380,15
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658621
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+1
+14
+0
+1266621
+07/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+658634
+169.910,69
+0,00
+0,00
+169.910,69
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 658634
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/12/2023
+filial: 1
+0,00
+1
+14
+0
+1198224
+18/08/2023
+106
+marilan alimentos s/a
+122779
+15.226,55
+0,00
+0,00
+15.226,55
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 122779
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+09/08/2023
+filial: 1
+0,00
+9
+0
+9
+1198225
+18/08/2023
+106
+marilan alimentos s/a
+122778
+64.185,43
+0,00
+0,00
+64.185,43
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 122778
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+09/08/2023
+filial: 1
+0,00
+9
+0
+9
+1202355
+24/08/2023
+106
+marilan alimentos s/a
+122968
+18.509,33
+0,00
+0,00
+18.509,33
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 122968
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/08/2023
+filial: 1
+0,00
+8
+0
+8
+1202356
+24/08/2023
+106
+marilan alimentos s/a
+123223
+6.763,03
+0,00
+0,00
+6.763,03
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 123223
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/08/2023
+filial: 1
+0,00
+2
+0
+2
+1210208
+06/09/2023
+106
+marilan alimentos s/a
+123520
+5.695,17
+0,00
+0,00
+5.695,17
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 123520
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+28/08/2023
+filial: 1
+0,00
+9
+0
+9
+1215423
+15/09/2023
+106
+marilan alimentos s/a
+124294
+61.032,57
+0,00
+0,00
+61.032,57
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 124294
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+06/09/2023
+filial: 1
+0,00
+9
+0
+9
+1220941
+25/09/2023
+106
+marilan alimentos s/a
+124684
+7.579,07
+0,00
+0,00
+7.579,07
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 124684
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+15/09/2023
+filial: 1
+0,00
+10
+0
+10
+1253920
+17/11/2023
+106
+marilan alimentos s/a
+127122
+4.112,85
+0,00
+0,00
+4.112,85
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 127122
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+26/10/2023
+filial: 1
+0,00
+22
+0
+22
+1253921
+17/11/2023
+106
+marilan alimentos s/a
+127121
+16.809,80
+0,00
+0,00
+16.809,80
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 127121
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+26/10/2023
+filial: 1
+0,00
+22
+0
+22
+1275998
+19/12/2023 202381
+rede bom lugar loja 18 ltda
+14488
+146,72
+0,00
+0,00
+146,72
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+0
+1
+1278258
+21/12/2023
+0
+0
+175,91
+0,00
+0,00
+175,91
+vanessa
+- z
+sindicatos e associacoes
+300020 sindicatos e associacoes
+300
+-
+chq:
+borderô:
+a
+(parcela: 322)
+loc.:
+21/12/2023
+filial: 1
+0,00
+0
+0
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 16
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 15/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1264231
+04/12/2023
+0
+60283
+190,62
+0,00
+0,00
+190,62
+vanessa
+- 1
+lr comercio
+300025 manutencao e conservac
+300
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+04/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+2.361.437,76
+0,00
+0,002.361.437,76
+0,00
+data de vencimento: 16/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1256368
+22/11/2023
+98
+dr. oetker brasil ltda
+72805
+75.689,77
+0,00
+0,00
+75.689,77
+leonardo
+- 2
+dup: 002. vlr. ref. compras cf. nf. num. 72805
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+17/11/2023
+filial: 1
+0,00
+5
+0
+5
+1270921
+13/12/2023
+64
+ferrero do brasil ind.doceria e alim
+666700
+306.780,82
+0,00
+0,00
+306.780,82
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 666700
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+12/12/2023
+filial: 1
+0,00
+1
+14
+0
+total por dia :
+382.470,59
+0,00
+0,00
+382.470,59
+0,00
+data de vencimento: 17/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1275993
+19/12/2023
+27
+ceras johnson ltda
+185733
+212.338,70
+0,00
+0,00
+212.338,70
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185733
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+3
+30
+0
+1277780
+20/12/2023
+27
+ceras johnson ltda
+185904
+112.754,66
+0,00
+0,00
+112.754,66
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 185904
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+30
+0
+1277778
+20/12/2023
+28
+ceras johnson ltda
+149996
+110.243,16
+0,00
+0,00
+110.243,16
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 149996
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+30
+0
+1274507
+18/12/2023
+55
+nissin foods do brasil ltda
+389416
+153.132,73
+0,00
+0,00
+153.132,73
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 389416
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+14
+0
+1274508
+18/12/2023
+55
+nissin foods do brasil ltda
+389401
+153.091,93
+0,00
+0,00
+153.091,93
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 389401
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+14
+0
+1277769
+20/12/2023
+4295
+supermercado sao roque ltda cd
+1899071
+1.708,15
+0,00
+0,00
+1.708,15
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+0
+1
+1253924
+17/11/2023
+0
+3189038
+772,15
+0,00
+0,00
+772,15
+vanessa
+- 1
+travagin
+200 compras
+250
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+17/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+744.041,48
+0,00
+0,00
+744.041,48
+0,00
+data de vencimento: 18/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1275977
+19/12/2023
+55
+nissin foods do brasil ltda
+389514
+158.958,56
+0,00
+0,00
+158.958,56
+junior
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 389514
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+0
+14
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 17
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 18/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1277421
+20/12/2023
+55
+nissin foods do brasil ltda
+389610
+146.039,37
+0,00
+0,00
+146.039,37
+junior
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 389610
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+14
+0
+1278283
+22/12/2023 208145
+supermercado mairinque ltda
+646
+79,58
+0,00
+0,00
+79,58
+leonardo
+- 1
+contas pagar ref. dev. cliente (rotina 302-não permite ger
+100020 devolucao de cliente
+100
+-
+chq:
+borderô:
+a
+dev cliente
+loc.:
+21/12/2023
+filial: 1
+0,00
+1
+0
+1
+total por dia :
+305.077,51
+0,00
+0,00
+305.077,51
+0,00
+data de vencimento: 19/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1237828
+23/10/2023
+27
+ceras johnson ltda
+181837
+66.937,27
+0,00
+0,00
+66.937,27
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 181837
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/10/2023
+filial: 1
+0,00
+2
+30
+0
+1237826
+23/10/2023
+28
+ceras johnson ltda
+146603
+50.067,53
+0,00
+0,00
+50.067,53
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 146603
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/10/2023
+filial: 1
+0,00
+2
+30
+0
+total por dia :
+117.004,80
+0,00
+0,00
+117.004,80
+0,00
+data de vencimento: 20/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1258964
+27/11/2023
+116
+analu baby acessorios para bebe eir
+34619
+44,97
+0,00
+0,00
+44,97
+leonardo
+- 2
+dup: 002. vlr. ref. compras cf. nf. num. 34619
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/11/2023
+filial: 1
+0,00
+6
+0
+6
+1258954
+27/11/2023
+117
+analu baby acessorios para bebe eir
+14805
+44,97
+0,00
+0,00
+44,97
+leonardo
+- 2
+dup: 002. vlr. ref. compras cf. nf. num. 14805
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/11/2023
+filial: 1
+0,00
+6
+0
+6
+total por dia :
+89,94
+0,00
+0,00
+89,94
+0,00
+data de vencimento: 21/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1278282
+22/12/2023
+55
+nissin foods do brasil ltda
+389925
+148.635,17
+0,00
+0,00
+148.635,17
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 389925
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+22/12/2023
+filial: 1
+0,00
+0
+14
+0
+total por dia :
+148.635,17
+0,00
+0,00
+148.635,17
+0,00
+data de vencimento: 23/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1237827
+23/10/2023
+28
+ceras johnson ltda
+146604
+3.562,44
+0,00
+0,00
+3.562,44
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 146604
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/10/2023
+filial: 1
+0,00
+2
+30
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 18
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 23/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1277439
+20/12/2023
+64
+ferrero do brasil ind.doceria e alim
+670349
+79.489,63
+0,00
+0,00
+79.489,63
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 670349
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+14
+0
+1277440
+20/12/2023
+64
+ferrero do brasil ind.doceria e alim
+670350
+288.704,60
+0,00
+0,00
+288.704,60
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 670350
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+14
+0
+1277441
+20/12/2023
+64
+ferrero do brasil ind.doceria e alim
+670392
+145.928,92
+0,00
+0,00
+145.928,92
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 670392
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+14
+0
+total por dia :
+517.685,59
+0,00
+0,00
+517.685,59
+0,00
+data de vencimento: 24/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1240245
+26/10/2023
+27
+ceras johnson ltda
+182103
+108.460,80
+0,00
+0,00
+108.460,80
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 182103
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+24/10/2023
+filial: 1
+0,00
+2
+30
+0
+total por dia :
+108.460,80
+0,00
+0,00
+108.460,80
+0,00
+data de vencimento: 25/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1274509
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661527
+1.089,39
+0,00
+0,00
+1.089,39
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661527
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+1274510
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661528
+296.014,38
+0,00
+0,00
+296.014,38
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661528
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+1274511
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661529
+2.293,35
+0,00
+0,00
+2.293,35
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661529
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+1274512
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661531
+13.780,50
+0,00
+0,00
+13.780,50
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661531
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+1274513
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661532
+75.968,93
+0,00
+0,00
+75.968,93
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661532
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+1274514
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661533
+6.727,17
+0,00
+0,00
+6.727,17
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661533
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+1274515
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661534
+905,31
+0,00
+0,00
+905,31
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661534
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+1274516
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661535
+25.912,45
+0,00
+0,00
+25.912,45
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661535
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+1274517
+18/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661536
+29.200,92
+0,00
+0,00
+29.200,92
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661536
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+16/12/2023
+filial: 1
+0,00
+2
+14
+0
+total por dia :
+451.892,40
+0,00
+0,00
+451.892,40
+0,00
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 19
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 26/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1260922
+29/11/2023
+98
+dr. oetker brasil ltda
+73744
+3.353,34
+0,00
+0,00
+3.353,34
+leonardo
+- 2
+dup: 002. vlr. ref. compras cf. nf. num. 73744
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+27/11/2023
+filial: 1
+0,00
+2
+0
+2
+total por dia :
+3.353,34
+0,00
+0,00
+3.353,34
+0,00
+data de vencimento: 29/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1275982
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661953
+34.766,57
+0,00
+0,00
+34.766,57
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661953
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275983
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661952
+29.200,92
+0,00
+0,00
+29.200,92
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661952
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275984
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661951
+20.724,32
+0,00
+0,00
+20.724,32
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661951
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275985
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661949
+83.596,52
+0,00
+0,00
+83.596,52
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661949
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275986
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661947
+23.226,21
+0,00
+0,00
+23.226,21
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661947
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275987
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661948
+31.596,43
+0,00
+0,00
+31.596,43
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661948
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275988
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+661950
+9.013,90
+0,00
+0,00
+9.013,90
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 661950
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275989
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+662002
+14.254,89
+0,00
+0,00
+14.254,89
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 662002
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275990
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+662001
+24.497,02
+0,00
+0,00
+24.497,02
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 662001
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275991
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+662003
+29.496,14
+0,00
+0,00
+29.496,14
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 662003
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1275992
+19/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+662004
+79.000,18
+0,00
+0,00
+79.000,18
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 662004
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+18/12/2023
+filial: 1
+0,00
+1
+14
+0
+1277442
+20/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+662621
+3.975,15
+0,00
+0,00
+3.975,15
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 662621
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+14
+0
+1277443
+20/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+662620
+87.778,01
+0,00
+0,00
+87.778,01
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 662620
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+14
+0
+1277444
+20/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+662622
+14.254,89
+0,00
+0,00
+14.254,89
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 662622
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+14
+0
+1277446
+20/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+662664
+78.432,96
+0,00
+0,00
+78.432,96
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 662664
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+19/12/2023
+filial: 1
+0,00
+1
+14
+0
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 20
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 29/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1278218
+21/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+663066
+2.752,02
+0,00
+0,00
+2.752,02
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663066
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+14
+0
+1278219
+21/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+663064
+82.238,39
+0,00
+0,00
+82.238,39
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663064
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+14
+0
+1278220
+21/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+663061
+44.407,43
+0,00
+0,00
+44.407,43
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663061
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+14
+0
+1278221
+21/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+663062
+1.899,50
+0,00
+0,00
+1.899,50
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663062
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+14
+0
+1278222
+21/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+663063
+110,02
+0,00
+0,00
+110,02
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663063
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+14
+0
+1278223
+21/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+663060
+3.593,48
+0,00
+0,00
+3.593,48
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663060
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+14
+0
+1278224
+21/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+663059
+110,02
+0,00
+0,00
+110,02
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663059
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+14
+0
+1278225
+21/12/2023
+56
+ajinomoto do brasil ind.com.d alim.l
+663058
+7.127,45
+0,00
+0,00
+7.127,45
+leonardo
+- 1
+dup: 001. vlr. ref. compras cf. nf. num. 663058
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+20/12/2023
+filial: 1
+0,00
+1
+14
+0
+total por dia :
+706.052,42
+0,00
+0,00
+706.052,42
+0,00
+data de vencimento: 31/01/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1274745
+18/12/2023
+0
+42692
+414,27
+0,00
+0,00
+414,27
+vanessa
+- 1
+dibracam
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+1274746
+18/12/2023
+0
+15157
+483,14
+0,00
+0,00
+483,14
+vanessa
+- 1
+dibracam
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+18/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+897,41
+0,00
+0,00
+897,41
+0,00
+data de vencimento: 01/02/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1262080
+30/11/2023
+0
+9117
+2.761,00
+0,00
+0,00
+2.761,00
+vanessa
+- 1
+itacam diesel
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1262087
+30/11/2023
+0
+35304
+246,53
+0,00
+0,00
+246,53
+vanessa
+- 1
+fm pneu
+401018 pneu
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+1262088
+30/11/2023
+0
+35305
+934,40
+0,00
+0,00
+934,40
+vanessa
+- 1
+fm pneu
+401018 pneu
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+3.941,93
+0,00
+0,00
+3.941,93
+0,00
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 21
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+data de vencimento: 02/02/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1264232
+04/12/2023
+0
+60283
+190,61
+0,00
+0,00
+190,61
+vanessa
+- 1
+lr comercio
+300025 manutencao e conservac
+300
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+04/12/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+190,61
+0,00
+0,00
+190,61
+0,00
+data de vencimento: 05/02/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1262262
+30/11/2023
+0
+203174
+2.838,50
+0,00
+0,00
+2.838,50
+vanessa
+- 1
+mgd pneus
+401018 pneu
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+2.838,50
+0,00
+0,00
+2.838,50
+0,00
+data de vencimento: 19/02/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1258965
+27/11/2023
+116
+analu baby acessorios para bebe eir
+34619
+44,97
+0,00
+0,00
+44,97
+leonardo
+- 3
+dup: 003. vlr. ref. compras cf. nf. num. 34619
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/11/2023
+filial: 1
+0,00
+6
+0
+6
+1258955
+27/11/2023
+117
+analu baby acessorios para bebe eir
+14805
+44,97
+0,00
+0,00
+44,97
+leonardo
+- 3
+dup: 003. vlr. ref. compras cf. nf. num. 14805
+100001 compra mercadoria
+100
+-
+chq:
+borderô:
+a
+loc.:
+21/11/2023
+filial: 1
+0,00
+6
+0
+6
+total por dia :
+89,94
+0,00
+0,00
+89,94
+0,00
+data de vencimento: 26/02/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1258920
+27/11/2023
+0
+118044
+1.110,00
+0,00
+0,00
+1.110,00
+vanessa
+- 1
+maggi caminhoes
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+27/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+1.110,00
+0,00
+0,00
+1.110,00
+0,00
+data de vencimento: 01/03/2024
+lanc.
+num.nota
+vlr.dup.
+desc.fin.
+vlr dev.
+vlr pagar
+usuário
+prazo
+dt.lanc.
+cód.
+conta
+grupo
+dt.emis.nf
+juros
+parceiro
+intervalo
+atr. de entrega
+1262079
+30/11/2023
+0
+9117
+2.761,00
+0,00
+0,00
+2.761,00
+vanessa
+- 1
+itacam diesel
+401014 manutencao/ acessorios
+401
+-
+chq:
+borderô:
+a
+(parcela: 1)
+loc.:
+30/11/2023
+filial: 1
+0,00
+0
+0
+0
+total por dia :
+2.761,00
+0,00
+0,00
+2.761,00
+0,00
+total geral:
+15.688.850,26
+3.092,22
+0,005.685.758,04
+0,00
+717 - relatório de contas a pagar
+período de vencimento: 01/11/2023 a 01/03/2024
+filial: todas
+page 22
+período de lançamento: todos
+tipolanc: confirmados
+tipo relatório: analítico completo
+22/12/2023 16:55:36
+usuário: todos
+conta: todas
+comprador: todos
+resumo por localização
+localização
+qtde títulos
+valor a pagar
+305
+15.685.758,04
+total geral: 
+15.685.758,04

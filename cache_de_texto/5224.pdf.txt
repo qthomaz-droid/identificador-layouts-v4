@@ -1,0 +1,4274 @@
+reserva
+codigo
+janela
+hospede
+apto
+#id
+hora
+systime
+descricao
+valor
+referencia
+rps
+6195103
+6000
+1
+coveniencia 
+recepção
+2
+61951333
+8
+22:21:54
+13/10/2023
+dinheiro
+30,00
+0
+1
+coveniencia 
+recepção
+2
+61951333
+5
+21:38:43
+13/10/2023
+dinheiro
+2,00
+0
+6010
+1
+coveniencia 
+recepção
+2
+61951333
+6
+21:38:59
+13/10/2023
+pix
+5,00
+0
+1
+coveniencia 
+recepção
+2
+61951379
+0
+22:25:57
+21/10/2023
+pix
+3,50
+0
+1
+coveniencia 
+recepção
+2
+61951334
+0
+22:22:12
+13/10/2023
+pix
+832,49
+0
+1
+coveniencia 
+recepção
+2
+61951339
+1
+18:05:49
+15/10/2023
+pix
+20,50
+0
+6040
+1
+coveniencia 
+recepção
+2
+61951379
+1
+22:26:13
+21/10/2023
+visaelectron
+14,00
+0
+1
+coveniencia 
+recepção
+2
+61951378
+9
+22:25:36
+21/10/2023
+visaelectron
+10,00
+0
+sub-total
+917,49
+61951484
+6010
+1
+lucas  souza e 
+silva
+61951309
+3
+10:10:28
+09/10/2023
+pix
+291,00 pix realizado 
+30/08 
+1665
+sub-total
+291,00
+61951485
+6010
+1
+lucas  oliveira de 
+moura 
+61951309
+4
+10:11:48
+09/10/2023
+pix
+280,00 pix realizado 
+30/08
+1666
+sub-total
+280,00
+61951505
+6010
+1
+lucas  souza e 
+silva
+202
+61951309
+2
+09:45:56
+09/10/2023
+pix
+3060,00 pix realizado 
+dia 29/09 
+freire & 
+veloso 
+engenharia 
+ltda
+0
+sub-total
+3.060,00
+61951673
+6010
+1
+abdias inácio de 
+araújo neto
+209
+61951406
+7
+15:25:52
+25/10/2023
+pix
+300,00 diferença do 
+primeiro 
+pagamento que 
+não havia sido 
+lançado  - pix 
+em 11/09
+1931
+sub-total
+300,00
+61951868
+6030
+1
+kamyla  santos 
+gasperazzo
+201
+61951305
+6
+08:24:33
+08/10/2023
+visa credito
+8,00
+1662
+sub-total
+8,00
+61951904
+6010
+1
+hércules correia 
+da costa
+61951405
+4
+09:58:53
+25/10/2023
+pix
+1530,00 pix realizado 
+16/10
+1792
+sub-total
+1.530,00
+61951905
+6010
+1
+jussara  ribeiro 
+lacerda
+61951405
+5
+10:00:34
+25/10/2023
+pix
+1530,00 pix realizado 
+16/10
+1793
+sub-total
+1.530,00
+1 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61951915
+6010
+1
+elani make up 
+hair
+201
+61951335
+9
+18:24:35
+14/10/2023
+pix
+253,00
+1715
+sub-total
+253,00
+61951929
+6050
+1
+maria cristina 
+barbosa leal
+107
+61951261
+8
+12:47:10
+01/10/2023
+mastercard 
+credito
+240,00
+1618
+sub-total
+240,00
+61951931
+6010
+1
+elani make up 
+hair
+61951405
+2
+08:18:34
+25/10/2023
+pix
+180,00 24/10
+1790
+sub-total
+180,00
+61951975
+6090
+1
+edson  de freitas 
+filho
+108
+61951261
+3
+11:33:52
+01/10/2023
+elo credito
+138,00
+1616
+sub-total
+138,00
+61951993
+6100
+1
+ana karolayne 
+perreira dos 
+santos lima 
+107
+61951270
+5
+16:31:27
+03/10/2023
+elo debito
+440,00
+1649
+sub-total
+440,00
+61952005
+6000
+1
+valéria ramos 
+dos santos 
+107
+61951326
+4
+21:09:14
+11/10/2023
+dinheiro
+14,00
+1712
+6010
+1
+valéria ramos 
+dos santos 
+107
+61951318
+1
+21:40:34
+10/10/2023
+pix
+440,00
+1712
+sub-total
+454,00
+61952030
+6010
+1
+israel carvalho
+106
+61951262
+0
+14:27:42
+01/10/2023
+pix
+550,00
+1640
+6030
+1
+israel carvalho
+106
+61951288
+0
+18:21:28
+05/10/2023
+visa credito
+15,00
+1640
+sub-total
+565,00
+61952035
+6000
+1
+luciana maria
+201
+61951312
+0
+11:51:20
+09/10/2023
+dinheiro
+270,00
+1681
+sub-total
+270,00
+61952036
+6020
+1
+gabriela  covre
+201
+61951433
+2
+10:27:53
+28/10/2023
+a faturar
+255,00
+1832
+sub-total
+255,00
+61952048
+6010
+1
+thayna 
+gonçalves pavezi
+110
+61951325
+4
+07:50:41
+11/10/2023
+pix
+220,00
+1699
+sub-total
+220,00
+61952052
+6050
+1
+joão roberto  
+nelli golvea
+106
+61951260
+2
+08:01:10
+01/10/2023
+mastercard 
+credito
+168,00
+1611
+sub-total
+168,00
+61952053
+6000
+1
+luciano borcelli
+61951287
+8
+16:58:06
+05/10/2023
+dinheiro
+242,00
+1638
+sub-total
+242,00
+61952065
+6040
+1
+fabio junior 
+teofilo goullart
+205
+61951423
+4
+06:27:54
+27/10/2023
+visaelectron
+4,00
+1809
+6090
+1
+fabio junior 
+teofilo goullart
+205
+61951417
+0
+21:54:59
+26/10/2023
+elo credito
+110,00
+1809
+2 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952065
+sub-total
+114,00
+61952067
+6055
+1
+fabiano roberto   
+da silva santos 
+203
+61951300
+7
+08:01:59
+07/10/2023
+mastercard 
+debito 
+1068,00
+1654
+sub-total
+1.068,00
+61952069
+6000
+1
+sérgio manoel 
+cardoso
+108
+61951271
+0
+18:35:47
+03/10/2023
+dinheiro
+110,00
+1625
+sub-total
+110,00
+61952074
+6055
+1
+alex  de 
+moura
+110
+61951294
+4
+07:00:52
+06/10/2023
+mastercard 
+debito 
+113,50
+1642
+sub-total
+113,50
+61952075
+6030
+1
+chiarlo oliveira
+204
+61951286
+4
+06:39:33
+05/10/2023
+visa credito
+110,00
+1632
+6055
+1
+chiarlo oliveira
+204
+61951286
+5
+06:39:44
+05/10/2023
+mastercard 
+debito 
+4,00
+1632
+sub-total
+114,00
+61952076
+6100
+1
+jose carlos  
+silva 
+magdinier
+104
+61951261
+4
+11:41:47
+01/10/2023
+elo debito
+120,00
+1617
+sub-total
+120,00
+61952078
+6000
+1
+walternan  
+vieira 
+andrade 
+110
+61951265
+2
+07:36:22
+02/10/2023
+dinheiro
+330,00
+1619
+sub-total
+330,00
+61952080
+6030
+1
+neikson  ignácio 
+rossetto
+205
+61951279
+6
+19:59:02
+04/10/2023
+visa credito
+220,00
+1639
+sub-total
+220,00
+61952081
+6000
+1
+josé maria de 
+oliveira 
+103
+61951260
+5
+09:36:35
+01/10/2023
+dinheiro
+120,00
+1612
+sub-total
+120,00
+61952082
+6030
+1
+adenilson  
+melquiades 
+101
+61951260
+9
+09:51:28
+01/10/2023
+visa credito
+131,50
+1614
+sub-total
+131,50
+61952083
+6000
+1
+arthur  balão da 
+silva nunes
+206
+61951265
+9
+17:10:38
+02/10/2023
+dinheiro
+110,00
+1629
+6040
+1
+arthur  balão da 
+silva nunes
+206
+61951262
+1
+14:56:33
+01/10/2023
+visaelectron
+110,00
+1629
+1
+arthur  balão da 
+silva nunes
+206
+61951270
+6
+16:52:38
+03/10/2023
+visaelectron
+110,00
+1629
+6055
+1
+arthur  balão da 
+silva nunes
+206
+61951278
+5
+09:04:45
+04/10/2023
+mastercard 
+debito 
+11,50
+1629
+sub-total
+341,50
+61952084
+6000
+1
+cláudia regina da 
+silva
+205
+61951261
+2
+09:54:08
+01/10/2023
+dinheiro
+8,00
+1615
+6050
+1
+cláudia regina da 
+silva
+205
+61951261
+0
+09:53:49
+01/10/2023
+mastercard 
+credito
+120,00
+1615
+3 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952084
+sub-total
+128,00
+61952085
+6000
+1
+edinara  de 
+almeida 
+vasconcellos 
+reinoso
+204
+61951260
+4
+09:35:07
+01/10/2023
+dinheiro
+124,00
+1613
+sub-total
+124,00
+61952086
+6030
+1
+hugo leonardo 
+leite borges 
+210
+61951260
+1
+07:16:31
+01/10/2023
+visa credito
+164,00
+1610
+sub-total
+164,00
+61952087
+6010
+1
+luana sales  
+da silva 
+108
+61951265
+3
+09:38:00
+02/10/2023
+pix
+124,00
+1620
+sub-total
+124,00
+61952088
+6000
+1
+jorge  costa 
+108
+61951270
+3
+08:04:38
+03/10/2023
+dinheiro
+4,00
+1621
+1
+jorge  costa 
+108
+61951270
+4
+08:05:13
+03/10/2023
+dinheiro
+110,00
+1621
+sub-total
+114,00
+61952089
+6050
+1
+laís  fontana 
+silva
+103
+61951294
+6
+07:59:53
+06/10/2023
+mastercard 
+credito
+338,00
+1644
+sub-total
+338,00
+61952090
+6030
+1
+lucas vieira félix
+104
+61951295
+4
+09:23:58
+06/10/2023
+visa credito
+481,00
+1648
+sub-total
+481,00
+61952092
+6050
+1
+walder  de castro 
+souza
+110
+61951266
+2
+17:16:49
+02/10/2023
+mastercard 
+credito
+110,00
+1622
+sub-total
+110,00
+61952093
+6050
+1
+alberto peixoto
+204
+61951294
+8
+08:17:49
+06/10/2023
+mastercard 
+credito
+110,00
+1646
+sub-total
+110,00
+61952094
+6030
+1
+karla santos 
+athayde
+207
+61951294
+9
+08:20:51
+06/10/2023
+visa credito
+120,48
+1647
+sub-total
+120,48
+61952095
+6000
+1
+gustavo 
+caser
+108
+61951288
+3
+20:05:05
+05/10/2023
+dinheiro
+110,00
+1645
+6055
+1
+gustavo 
+caser
+108
+61951288
+2
+20:04:54
+05/10/2023
+mastercard 
+debito 
+9,00
+1645
+6100
+1
+gustavo 
+caser
+108
+61951294
+7
+08:06:13
+06/10/2023
+elo debito
+8,00
+1645
+sub-total
+127,00
+61952096
+6030
+1
+leone azevedo
+101
+61951278
+8
+12:03:07
+04/10/2023
+visa credito
+220,00
+1631
+sub-total
+220,00
+61952097
+6040
+1
+ailton geraldo 
+dias
+205
+61951277
+9
+06:23:45
+04/10/2023
+visaelectron
+114,00
+1623
+4 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952097
+sub-total
+114,00
+61952098
+6090
+1
+leandro 
+gomes 
+thinassi
+204
+61951278
+4
+08:31:07
+04/10/2023
+elo credito
+110,00
+1628
+sub-total
+110,00
+61952100
+6050
+1
+fabio de oliveira 
+xavier
+210
+61951294
+3
+06:42:42
+06/10/2023
+mastercard 
+credito
+342,00
+1641
+sub-total
+342,00
+61952101
+6010
+1
+malcon  ferreira 
+santos
+207
+61951278
+3
+08:24:51
+04/10/2023
+pix
+84,00
+1630
+6100
+1
+malcon  ferreira 
+santos
+207
+61951278
+6
+09:06:52
+04/10/2023
+elo debito
+80,00
+1630
+sub-total
+164,00
+61952102
+6030
+1
+neris magno 
+de castro
+111
+61951278
+0
+07:11:45
+04/10/2023
+visa credito
+108,00
+1624
+sub-total
+108,00
+61952104
+6050
+1
+joão  batista 
+passon
+211
+61951278
+2
+08:20:16
+04/10/2023
+mastercard 
+credito
+110,00
+1627
+sub-total
+110,00
+61952105
+6080
+1
+marcelo soares 
+guimarães
+201
+61951278
+1
+08:10:53
+04/10/2023
+dinners 
+debito
+110,00
+1626
+sub-total
+110,00
+61952106
+6010
+1
+bruna gomes 
+da  silva 
+102
+61951296
+0
+23:20:44
+06/10/2023
+pix
+490,00
+1651
+sub-total
+490,00
+61952108
+6010
+1
+malcon  ferreira 
+santos
+207
+61951286
+9
+08:21:43
+05/10/2023
+pix
+86,00
+1635
+1
+malcon  ferreira 
+santos
+207
+61951287
+0
+08:23:25
+05/10/2023
+pix
+86,00
+1635
+sub-total
+172,00
+61952109
+6055
+1
+robson lima 
+dos santos 
+108
+61951286
+7
+07:58:56
+05/10/2023
+mastercard 
+debito 
+120,00
+1634
+sub-total
+120,00
+61952110
+6055
+1
+augusto cezar da 
+silva
+101
+61951287
+1
+08:28:16
+05/10/2023
+mastercard 
+debito 
+128,00
+1636
+sub-total
+128,00
+61952111
+6020
+1
+valter  pereira de 
+souza 
+206
+61951295
+5
+12:14:42
+06/10/2023
+a faturar
+220,00 pagamento 
+vai ser 
+efetuado 
+por lucas 
+hospede do 
+202
+1650
+sub-total
+220,00
+5 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952112
+6055
+1
+renan morata 
+boromello
+111
+61951286
+6
+06:45:16
+05/10/2023
+mastercard 
+debito 
+120,00
+1633
+sub-total
+120,00
+61952113
+6050
+1
+danilo  gomes de 
+barros 
+201
+61951287
+3
+08:48:52
+05/10/2023
+mastercard 
+credito
+118,00
+1637
+sub-total
+118,00
+61952114
+6000
+1
+orenilda  do 
+carmo past
+107
+61951301
+0
+09:23:55
+07/10/2023
+dinheiro
+4,00
+1656
+6100
+1
+orenilda  do 
+carmo past
+61951287
+5
+16:44:55
+05/10/2023
+elo debito
+160,00
+1656
+sub-total
+164,00
+61952119
+6040
+1
+adeuson alves
+103
+61951324
+7
+07:08:15
+11/10/2023
+visaelectron
+110,00
+1693
+sub-total
+110,00
+61952120
+6055
+1
+wanderson 
+mesquita
+203
+61951324
+6
+07:05:17
+11/10/2023
+mastercard 
+debito 
+110,00
+1692
+sub-total
+110,00
+61952121
+6010
+1
+eduardo da silva 
+nascimento
+211
+61951294
+5
+07:30:43
+06/10/2023
+pix
+100,00
+1643
+sub-total
+100,00
+61952122
+6010
+1
+jamila  azevedo 
+custodio
+102
+61951424
+7
+08:34:19
+27/10/2023
+pix
+168,00
+1817
+sub-total
+168,00
+61952124
+6000
+1
+miguel pereira de 
+souza
+108
+61951300
+6
+07:05:06
+07/10/2023
+dinheiro
+154,00
+1653
+sub-total
+154,00
+61952125
+6020
+1
+luciano borcelli
+106
+61951417
+1
+23:28:17
+26/10/2023
+a faturar
+238,00
+1806
+sub-total
+238,00
+61952126
+6090
+1
+ian costa
+201
+61951300
+4
+05:58:50
+07/10/2023
+elo credito
+190,00
+1660
+sub-total
+190,00
+61952127
+6090
+1
+orielio rodrigues 
+silva 
+106
+61951300
+5
+06:00:17
+07/10/2023
+elo credito
+110,00
+1652
+sub-total
+110,00
+61952128
+6050
+1
+leonardo 
+sergio 
+lavagnoli 
+kenupp
+104
+61951316
+8
+08:04:17
+10/10/2023
+mastercard 
+credito
+160,00
+1686
+sub-total
+160,00
+61952129
+6000
+1
+alex  de 
+moura
+211
+61951324
+8
+07:10:38
+11/10/2023
+dinheiro
+110,00
+1694
+sub-total
+110,00
+6 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952130
+6000
+1
+jeferson 
+nobre 
+101
+61951301
+1
+09:39:56
+07/10/2023
+dinheiro
+173,00
+1657
+sub-total
+173,00
+61952134
+6030
+1
+thaís  rodrigues
+210
+61951296
+3
+23:52:00
+06/10/2023
+visa credito
+160,00
+1659
+1
+thaís  rodrigues
+210
+61951301
+6
+12:03:48
+07/10/2023
+visa credito
+8,00
+1659
+sub-total
+168,00
+61952135
+6010
+1
+laís  rodrigues
+211
+61951301
+5
+12:02:18
+07/10/2023
+pix
+172,00
+1658
+sub-total
+172,00
+61952136
+6055
+1
+andrio  pontes 
+ferreira 
+206
+61951296
+4
+00:47:43
+06/10/2023
+mastercard 
+debito 
+160,00
+1655
+sub-total
+160,00
+61952138
+6000
+1
+fernado  
+barros 
+timoteo costa
+110
+61951305
+5
+07:12:31
+08/10/2023
+dinheiro
+182,50
+1661
+sub-total
+182,50
+61952139
+6020
+1
+ewerton  
+souza
+203
+61951433
+8
+16:24:44
+28/10/2023
+a faturar
+110,00
+1835
+sub-total
+110,00
+61952140
+6000
+1
+lorrayne 
+vieira lima
+108
+61951306
+5
+00:41:24
+08/10/2023
+dinheiro
+20,00
+1664
+1
+lorrayne 
+vieira lima
+108
+61951306
+6
+00:41:32
+08/10/2023
+dinheiro
+160,00
+1664
+1
+lorrayne 
+vieira lima
+108
+61951309
+1
+09:41:18
+09/10/2023
+dinheiro
+16,00
+1664
+sub-total
+196,00
+61952141
+6000
+1
+kenia anjos 
+gadeia 
+110
+61951306
+7
+00:45:39
+08/10/2023
+dinheiro
+160,00
+1663
+sub-total
+160,00
+61952142
+6000
+1
+suelen segatto
+104
+61951338
+1
+07:47:34
+15/10/2023
+dinheiro
+18,00
+1714
+sub-total
+18,00
+61952143
+6030
+1
+aldo buzoni cruz
+107
+61951316
+7
+07:26:16
+10/10/2023
+visa credito
+118,00
+1685
+sub-total
+118,00
+61952144
+6020
+1
+valter  pereira de 
+souza 
+103
+61951316
+3
+06:32:16
+10/10/2023
+a faturar
+110,00
+1682
+sub-total
+110,00
+61952145
+6040
+1
+iara 
+marcelino
+101
+61951325
+0
+07:27:30
+11/10/2023
+visaelectron
+120,48
+1696
+sub-total
+120,48
+7 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952146
+6050
+1
+sammuel 
+nicholas 
+bouré prado
+108
+61951317
+0
+08:09:47
+10/10/2023
+mastercard 
+credito
+164,00
+1687
+sub-total
+164,00
+61952147
+6000
+1
+marcia valeria da 
+costa
+103
+61951355
+2
+09:15:18
+18/10/2023
+dinheiro
+110,00
+1733
+sub-total
+110,00
+61952148
+6030
+1
+onileto  urbano 
+de souza
+204
+61951324
+5
+06:47:38
+11/10/2023
+visa credito
+220,00
+1691
+sub-total
+220,00
+61952149
+6090
+1
+john santos 
+nascimento
+211
+61951316
+5
+07:00:41
+10/10/2023
+elo credito
+85,00
+1684
+6100
+1
+john santos 
+nascimento
+211
+61951316
+6
+07:01:12
+10/10/2023
+elo debito
+125,00
+1684
+sub-total
+210,00
+61952150
+6100
+1
+franscisco 
+pereira do 
+nascimento
+203
+61951316
+4
+06:55:53
+10/10/2023
+elo debito
+160,00
+1683
+sub-total
+160,00
+61952151
+6050
+1
+fabio de oliveira 
+xavier
+205
+61951324
+4
+06:39:09
+11/10/2023
+mastercard 
+credito
+119,00
+1690
+sub-total
+119,00
+61952152
+6030
+1
+izaias gianizeli 
+junior
+108
+61951325
+7
+08:27:25
+11/10/2023
+visa credito
+118,00
+1701
+sub-total
+118,00
+61952153
+6050
+1
+leonardo torres 
+de souza
+210
+61951431
+8
+06:40:07
+28/10/2023
+mastercard 
+credito
+125,50
+1820
+sub-total
+125,50
+61952154
+6050
+1
+lucas 
+eduardo   
+calsse 
+103
+61951433
+1
+10:24:58
+28/10/2023
+mastercard 
+credito
+232,00
+1831
+sub-total
+232,00
+61952155
+6010
+1
+maxwel silva 
+106
+61951312
+2
+23:33:09
+09/10/2023
+pix
+170,00
+1688
+sub-total
+170,00
+61952156
+6010
+1
+thayna 
+gonçalves pavezi
+105
+61951355
+4
+16:39:17
+18/10/2023
+pix
+440,00
+1758
+sub-total
+440,00
+61952157
+6040
+1
+ana karolayne 
+perreira dos 
+santos lima 
+107
+61951405
+9
+14:18:26
+25/10/2023
+visaelectron
+220,00
+1795
+sub-total
+220,00
+61952158
+6055
+1
+junior pereira da 
+fonseca 
+106
+61951325
+3
+07:45:58
+11/10/2023
+mastercard 
+debito 
+118,00
+1698
+sub-total
+118,00
+8 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952159
+6030
+1
+cristiano 
+palmeira
+104
+61951325
+2
+07:37:45
+11/10/2023
+visa credito
+114,00
+1697
+sub-total
+114,00
+61952160
+6030
+1
+danilo  gomes de 
+barros 
+102
+61951325
+5
+08:20:58
+11/10/2023
+visa credito
+168,00
+1700
+sub-total
+168,00
+61952161
+6010
+1
+diego sesana 
+mesquita 
+206
+61951324
+3
+06:09:52
+11/10/2023
+pix
+114,00
+1689
+sub-total
+114,00
+61952162
+6030
+1
+marcos 
+antonio 
+machado silva
+210
+61951324
+9
+07:25:16
+11/10/2023
+visa credito
+114,00
+1695
+sub-total
+114,00
+61952163
+6050
+1
+cristiano  ferreira 
+bragas 
+111
+61951325
+8
+08:29:24
+11/10/2023
+mastercard 
+credito
+127,50
+1702
+sub-total
+127,50
+61952168
+6055
+1
+cristiano  silvino 
+talasca 
+207
+61951317
+7
+19:27:27
+10/10/2023
+mastercard 
+debito 
+110,00
+1703
+sub-total
+110,00
+61952169
+6030
+1
+adeuson alves
+203
+61951372
+2
+07:10:38
+20/10/2023
+visa credito
+400,00
+1750
+sub-total
+400,00
+61952170
+6050
+1
+wanderson 
+mesquita
+205
+61951371
+7
+06:39:42
+20/10/2023
+mastercard 
+credito
+4,00
+1748
+6055
+1
+wanderson 
+mesquita
+205
+61951371
+8
+06:39:55
+20/10/2023
+mastercard 
+debito 
+400,00
+1748
+sub-total
+404,00
+61952171
+6000
+1
+alex  de 
+moura
+104
+61951372
+1
+06:57:10
+20/10/2023
+dinheiro
+120,00
+1749
+sub-total
+120,00
+61952172
+6055
+1
+joão carlos  
+sales lima
+103
+61951328
+7
+06:08:26
+12/10/2023
+mastercard 
+debito 
+114,00
+1704
+sub-total
+114,00
+61952175
+6000
+1
+edilson  das 
+neves
+211
+61951333
+1
+10:49:03
+13/10/2023
+dinheiro
+122,00
+1711
+6010
+1
+edilson  das 
+neves
+211
+61951333
+2
+10:49:09
+13/10/2023
+pix
+96,00
+1711
+sub-total
+218,00
+61952176
+6030
+1
+matheus  de 
+matos borges
+106
+61951363
+1
+07:12:40
+19/10/2023
+visa credito
+330,00
+1736
+sub-total
+330,00
+61952177
+6000
+1
+tiago  gonçalves 
+pereira
+111
+61951332
+8
+10:47:08
+13/10/2023
+dinheiro
+106,00
+1710
+6010
+1
+tiago  gonçalves 
+pereira
+111
+61951333
+0
+10:47:41
+13/10/2023
+pix
+54,00
+1710
+9 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952177
+6050
+1
+tiago  gonçalves 
+pereira
+111
+61951332
+9
+10:47:33
+13/10/2023
+mastercard 
+credito
+21,50
+1710
+sub-total
+181,50
+61952178
+6000
+1
+jaks  guimarães
+105
+61951332
+6
+10:44:21
+13/10/2023
+dinheiro
+106,00
+1709
+6030
+1
+jaks  guimarães
+105
+61951332
+7
+10:45:14
+13/10/2023
+visa credito
+13,00
+1709
+sub-total
+119,00
+61952179
+6000
+1
+kleber luiz 
+cani 
+206
+61951328
+9
+08:50:20
+12/10/2023
+dinheiro
+100,00
+1706
+sub-total
+100,00
+61952180
+6010
+1
+ana beatriz  liaffa
+61951363
+8
+08:01:30
+19/10/2023
+pix
+110,00 pago pela 
+agencia 16/10
+1824
+sub-total
+110,00
+61952181
+6050
+1
+leonardo  gerke 
+freislebem 
+104
+61951328
+8
+08:17:08
+12/10/2023
+mastercard 
+credito
+160,00
+1705
+sub-total
+160,00
+61952182
+6050
+1
+anderson  
+cesar 
+gonçalves 
+108
+61951329
+0
+12:27:03
+12/10/2023
+mastercard 
+credito
+118,00
+1707
+sub-total
+118,00
+61952183
+6010
+1
+yagor  gava 
+nascimento
+108
+61951332
+3
+06:50:55
+13/10/2023
+pix
+114,50
+1708
+sub-total
+114,50
+61952184
+6000
+1
+elidio  pereira 
+pardim
+110
+61951333
+3
+19:46:35
+13/10/2023
+dinheiro
+110,00
+1713
+sub-total
+110,00
+61952185
+6040
+1
+josiane  de souza 
+barros teixeira
+107
+61951338
+6
+10:19:52
+15/10/2023
+visaelectron
+164,00
+1717
+sub-total
+164,00
+61952187
+6055
+1
+joão carlos  
+sales lima
+107
+61951341
+3
+12:51:19
+16/10/2023
+mastercard 
+debito 
+114,00
+1719
+sub-total
+114,00
+61952188
+6010
+1
+kaique  
+macedo silva 
+210
+61951339
+6
+00:06:17
+15/10/2023
+pix
+28,00
+1718
+6050
+1
+kaique  
+macedo silva 
+210
+61951339
+2
+21:12:22
+15/10/2023
+mastercard 
+credito
+160,00
+1718
+1
+kaique  
+macedo silva 
+210
+61951340
+0
+00:07:12
+15/10/2023
+mastercard 
+credito
+20,00
+1718
+sub-total
+208,00
+61952189
+6000
+1
+magno  alves 
+serafim
+110
+61951372
+4
+07:31:45
+20/10/2023
+dinheiro
+12,00
+1753
+6030
+1
+magno  alves 
+serafim
+110
+61951372
+5
+07:31:57
+20/10/2023
+visa credito
+330,00
+1753
+sub-total
+342,00
+10 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952190
+6020
+1
+lucas  oliveira de 
+moura 
+206
+61951373
+7
+14:18:24
+20/10/2023
+a faturar
+444,00
+1760
+sub-total
+444,00
+61952191
+6020
+1
+valter  pereira de 
+souza 
+208
+61951377
+5
+05:43:17
+21/10/2023
+a faturar
+550,00
+1761
+6030
+1
+valter  pereira de 
+souza 
+208
+61951347
+5
+18:48:32
+17/10/2023
+visa credito
+8,00
+1761
+sub-total
+558,00
+61952192
+6050
+1
+marcio  
+domingos 
+marcos 
+103
+61951363
+4
+07:34:27
+19/10/2023
+mastercard 
+credito
+110,00
+1739
+sub-total
+110,00
+61952193
+6000
+1
+edeltonio 
+meireles 
+prates
+104
+61951354
+5
+07:30:52
+18/10/2023
+dinheiro
+110,00
+1727
+sub-total
+110,00
+61952194
+6030
+1
+davidson 
+gabriel  
+mendes 
+107
+61951363
+0
+06:13:04
+19/10/2023
+visa credito
+320,00
+1735
+sub-total
+320,00
+61952200
+6030
+1
+leone azevedo
+101
+61951355
+3
+10:21:31
+18/10/2023
+visa credito
+224,00
+1734
+sub-total
+224,00
+61952201
+6050
+1
+fabio de oliveira 
+xavier
+108
+61951371
+6
+06:25:18
+20/10/2023
+mastercard 
+credito
+344,00
+1746
+sub-total
+344,00
+61952202
+6030
+1
+andré xavier
+108
+61951345
+6
+08:07:57
+17/10/2023
+visa credito
+110,00
+1721
+sub-total
+110,00
+61952203
+6050
+1
+carlos  
+romeu de 
+melo
+104
+61951363
+3
+07:33:30
+19/10/2023
+mastercard 
+credito
+116,00
+1738
+sub-total
+116,00
+61952204
+6055
+1
+isabela  faioni
+103
+61951345
+7
+08:34:50
+17/10/2023
+mastercard 
+debito 
+114,00
+1722
+sub-total
+114,00
+61952205
+6030
+1
+vinícius  da silva 
+andrade
+104
+61951345
+5
+08:06:27
+17/10/2023
+visa credito
+114,00
+1720
+sub-total
+114,00
+61952206
+6020
+1
+lucas  oliveira de 
+moura 
+206
+61951415
+5
+07:12:09
+26/10/2023
+a faturar
+338,50
+1797
+sub-total
+338,50
+61952208
+6030
+1
+higor  santana 
+kiepper
+204
+61951355
+1
+08:06:06
+18/10/2023
+visa credito
+132,50
+1732
+sub-total
+132,50
+11 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952209
+6000
+1
+diego sa de 
+almeida
+201
+61951354
+7
+07:58:59
+18/10/2023
+dinheiro
+100,00
+1730
+6040
+1
+diego sa de 
+almeida
+201
+61951354
+8
+07:59:13
+18/10/2023
+visaelectron
+160,00
+1730
+sub-total
+260,00
+61952211
+6030
+1
+joão josé detonio 
+gobbo
+104
+61951432
+2
+08:47:58
+28/10/2023
+visa credito
+231,50
+1826
+sub-total
+231,50
+61952212
+6010
+1
+andre  saar 
+de andrade 
+61951416
+5
+17:34:35
+26/10/2023
+pix
+110,00
+1807
+sub-total
+110,00
+61952213
+6030
+1
+aldo buzoni cruz
+102
+61951354
+9
+08:01:25
+18/10/2023
+visa credito
+139,00
+1731
+sub-total
+139,00
+61952214
+6000
+1
+leandro 
+tozzo
+207
+61951347
+1
+17:55:04
+17/10/2023
+dinheiro
+160,00
+1728
+sub-total
+160,00
+61952215
+6050
+1
+edielson correia 
+de almeida 
+111
+61951354
+3
+06:32:12
+18/10/2023
+mastercard 
+credito
+114,00
+1725
+sub-total
+114,00
+61952216
+6010
+1
+tamera eleoterio
+211
+61951346
+0
+14:22:34
+17/10/2023
+pix
+4,00 teste 
+1723
+sub-total
+4,00
+61952217
+6010
+1
+tamera eleoterio
+211
+61951346
+2
+14:44:02
+17/10/2023
+pix
+10,00 teste
+1724
+sub-total
+10,00
+61952218
+6010
+1
+rafael  silva dos 
+santos
+211
+61951354
+6
+07:35:32
+18/10/2023
+pix
+100,00
+1729
+sub-total
+100,00
+61952219
+6030
+1
+hirambel  
+gonçalves leitão
+202
+61951354
+4
+07:28:26
+18/10/2023
+visa credito
+100,00
+1726
+sub-total
+100,00
+61952220
+6055
+1
+luís paulo marins 
+de mattos
+101
+61951373
+6
+11:39:19
+20/10/2023
+mastercard 
+debito 
+253,40
+1759
+sub-total
+253,40
+61952221
+6040
+1
+braulino 
+brasiliano gomes 
+da silveira 
+102
+61951372
+3
+07:28:56
+20/10/2023
+visaelectron
+171,50
+1751
+sub-total
+171,50
+61952222
+6010
+1
+rodrigo sperandio 
+muniz
+108
+61951382
+6
+06:45:45
+22/10/2023
+pix
+5,00
+1768
+1
+rodrigo sperandio 
+muniz
+108
+61951378
+0
+16:56:53
+21/10/2023
+pix
+175,24
+1768
+sub-total
+180,24
+12 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952223
+6050
+1
+aline rodrigues
+101
+61951424
+0
+06:52:11
+27/10/2023
+mastercard 
+credito
+220,00
+1811
+sub-total
+220,00
+61952224
+6040
+1
+vitor  viana
+110
+61951424
+8
+08:50:49
+27/10/2023
+visaelectron
+258,00
+1818
+sub-total
+258,00
+61952225
+6030
+1
+pedro henrique 
+steil de oliveira
+203
+61951424
+4
+07:56:58
+27/10/2023
+visa credito
+228,00
+1814
+sub-total
+228,00
+61952226
+6030
+1
+ronan venturini
+105
+61951424
+6
+08:14:06
+27/10/2023
+visa credito
+363,00
+1816
+sub-total
+363,00
+61952229
+6030
+1
+leandro  vieira 
+castro
+204
+61951364
+5
+10:05:06
+19/10/2023
+visa credito
+114,00
+1745
+sub-total
+114,00
+61952230
+6040
+1
+adeuson alves
+111
+61951424
+2
+07:01:09
+27/10/2023
+visaelectron
+443,00
+1813
+sub-total
+443,00
+61952232
+6055
+1
+wanderson 
+mesquita
+108
+61951423
+9
+06:49:46
+27/10/2023
+mastercard 
+debito 
+400,00
+1810
+sub-total
+400,00
+61952235
+6000
+1
+kleber luiz 
+cani 
+210
+61951364
+2
+08:47:09
+19/10/2023
+dinheiro
+100,00
+1742
+sub-total
+100,00
+61952236
+6050
+1
+ronan venturini
+202
+61951363
+6
+07:39:09
+19/10/2023
+mastercard 
+credito
+121,00
+1740
+sub-total
+121,00
+61952237
+6050
+1
+tarciso luiz 
+gonçalves roger
+207
+61951364
+1
+08:30:07
+19/10/2023
+mastercard 
+credito
+118,00
+1741
+sub-total
+118,00
+61952238
+6010
+1
+pablo  de souza 
+malacarne
+102
+61951363
+2
+07:28:25
+19/10/2023
+pix
+114,00
+1737
+sub-total
+114,00
+61952239
+6010
+1
+agildo  medici 
+bastos 
+211
+61951356
+7
+23:24:01
+18/10/2023
+pix
+160,00
+1744
+sub-total
+160,00
+61952240
+6030
+1
+higor  santana 
+kiepper
+111
+61951364
+4
+09:05:54
+19/10/2023
+visa credito
+153,00
+1743
+sub-total
+153,00
+61952241
+6030
+1
+saulo  
+pedroti spala 
+oliveira
+210
+61951372
+0
+06:50:19
+20/10/2023
+visa credito
+168,00
+1747
+sub-total
+168,00
+13 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952244
+6050
+1
+juliana da cruz 
+sarnaglia 
+203
+61951387
+6
+15:51:31
+23/10/2023
+mastercard 
+credito
+100,00
+1779
+sub-total
+100,00
+61952245
+6050
+1
+josé caldas da 
+costa júnior
+204
+61951387
+5
+15:51:12
+23/10/2023
+mastercard 
+credito
+100,00
+1778
+sub-total
+100,00
+61952246
+6010
+1
+murilo costa 
+moreira
+104
+61951387
+4
+15:50:54
+23/10/2023
+pix
+100,00
+1780
+6090
+1
+murilo costa 
+moreira
+104
+61951396
+1
+08:01:13
+24/10/2023
+elo credito
+4,00
+1780
+sub-total
+104,00
+61952247
+6030
+1
+mauro eduardo  
+costa braz pinto 
+103
+61951405
+1
+07:53:03
+25/10/2023
+visa credito
+118,00
+1789
+sub-total
+118,00
+61952248
+6030
+1
+leandro  beneton
+110
+61951404
+9
+07:44:00
+25/10/2023
+visa credito
+126,00
+1788
+sub-total
+126,00
+61952250
+6050
+1
+rodrigo 
+peron 
+dagostine
+207
+61951372
+6
+07:47:58
+20/10/2023
+mastercard 
+credito
+104,00
+1754
+sub-total
+104,00
+61952251
+6030
+1
+gabriel sodré 
+porfó 
+103
+61951396
+2
+08:13:19
+24/10/2023
+visa credito
+118,00
+1782
+sub-total
+118,00
+61952252
+6055
+1
+geanderson 
+costa ferreira
+102
+61951396
+3
+08:14:37
+24/10/2023
+mastercard 
+debito 
+89,00
+1781
+1
+geanderson 
+costa ferreira
+102
+61951396
+4
+08:21:06
+24/10/2023
+mastercard 
+debito 
+84,00
+1781
+sub-total
+173,00
+61952253
+6000
+1
+lucas de 
+pádua oliveira 
+santos 
+211
+61951382
+8
+08:23:35
+22/10/2023
+dinheiro
+4,00
+1854
+1
+lucas de 
+pádua oliveira 
+santos 
+211
+61951373
+5
+10:22:08
+20/10/2023
+dinheiro
+4,00
+1854
+6040
+1
+lucas de 
+pádua oliveira 
+santos 
+211
+61951365
+6
+23:41:49
+19/10/2023
+visaelectron
+14,00
+1854
+sub-total
+22,00
+61952254
+6010
+1
+iara vasconcelos 
+de oliveira
+204
+61951372
+7
+07:49:11
+20/10/2023
+pix
+110,00
+1755
+sub-total
+110,00
+61952256
+6050
+1
+ronan venturini
+103
+61951373
+1
+08:52:04
+20/10/2023
+mastercard 
+credito
+116,00
+1756
+sub-total
+116,00
+14 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952257
+6040
+1
+wellington 
+carvalho
+110
+61951364
+6
+17:46:05
+19/10/2023
+visaelectron
+110,00
+1763
+1
+wellington 
+carvalho
+110
+61951377
+8
+08:30:00
+21/10/2023
+visaelectron
+110,00
+1763
+sub-total
+220,00
+61952258
+6030
+1
+aldori 
+camargo
+202
+61951364
+7
+17:46:27
+19/10/2023
+visa credito
+110,00
+1752
+sub-total
+110,00
+61952262
+6010
+1
+washington ramos 
+falcao
+201
+61951386
+9
+07:32:37
+23/10/2023
+pix
+624,30
+1771
+6050
+1
+washington ramos 
+falcao
+201
+61951383
+0
+11:31:50
+22/10/2023
+mastercard 
+credito
+416,20
+1771
+1
+washington ramos 
+falcao
+201
+61951383
+1
+11:32:17
+22/10/2023
+mastercard 
+credito
+-416,20 estornado de 
+619513830
+1771
+6100
+1
+washington ramos 
+falcao
+201
+61951384
+0
+18:51:07
+22/10/2023
+elo debito
+10,00
+1771
+sub-total
+634,30
+61952264
+6010
+1
+evandro 
+vieira  de 
+oliveira
+106
+61951373
+2
+09:13:28
+20/10/2023
+pix
+110,00
+1757
+6040
+1
+evandro 
+vieira  de 
+oliveira
+106
+61951373
+3
+09:13:38
+20/10/2023
+visaelectron
+54,00
+1757
+sub-total
+164,00
+61952265
+6050
+1
+antonio 
+marcos 
+rodrigues
+210
+61951383
+2
+11:32:33
+22/10/2023
+mastercard 
+credito
+350,48
+1770
+sub-total
+350,48
+61952267
+6030
+1
+paulo ricardo 
+martins 
+104
+61951415
+4
+06:58:13
+26/10/2023
+visa credito
+220,00
+1796
+6100
+1
+paulo ricardo 
+martins 
+104
+61951415
+3
+06:58:05
+26/10/2023
+elo debito
+14,00
+1796
+sub-total
+234,00
+61952268
+6010
+1
+andre  saar 
+de andrade 
+207
+61951405
+6
+10:21:47
+25/10/2023
+pix
+110,00 pix realizado 
+24/10
+1798
+1
+andre  saar 
+de andrade 
+61951387
+0
+08:26:38
+23/10/2023
+pix
+220,00 pago pela 
+agencia
+1798
+6050
+1
+andre  saar 
+de andrade 
+207
+61951415
+2
+06:43:34
+26/10/2023
+mastercard 
+credito
+56,00
+1798
+sub-total
+386,00
+61952269
+6055
+1
+orian  baptista 
+pinheiro
+107
+61951374
+0
+20:44:21
+20/10/2023
+mastercard 
+debito 
+160,00
+1765
+sub-total
+160,00
+61952271
+6010
+1
+guilherme 
+luiz  pivatto
+61951387
+1
+08:27:59
+23/10/2023
+pix
+220,00 pago pela 
+agencia
+1799
+6030
+1
+guilherme 
+luiz  pivatto
+204
+61951415
+1
+06:42:40
+26/10/2023
+visa credito
+26,00
+1799
+15 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952271
+sub-total
+246,00
+61952272
+6000
+1
+osvaldo ribetti
+61951373
+8
+17:00:58
+20/10/2023
+dinheiro
+160,00
+1764
+6010
+1
+osvaldo ribetti
+108
+61951377
+9
+08:33:44
+21/10/2023
+pix
+15,50
+1764
+sub-total
+175,50
+61952273
+6040
+1
+valter  pereira de 
+souza 
+208
+61951414
+9
+05:21:53
+26/10/2023
+visaelectron
+20,00
+0
+sub-total
+20,00
+61952274
+6010
+1
+higor  pacheco de 
+oliveira 
+206
+61951374
+1
+21:18:31
+20/10/2023
+pix
+160,00
+1762
+1
+higor  pacheco de 
+oliveira 
+206
+61951377
+6
+07:53:50
+21/10/2023
+pix
+44,00
+1762
+sub-total
+204,00
+61952276
+6050
+1
+joao luiz araujo
+107
+61951416
+0
+12:03:48
+26/10/2023
+mastercard 
+credito
+120,48
+1805
+sub-total
+120,48
+61952277
+6030
+1
+luiz henrique 
+alves xavier
+102
+61951415
+6
+08:01:34
+26/10/2023
+visa credito
+118,00
+1800
+sub-total
+118,00
+61952278
+6055
+1
+ailton godoy 
+defacio
+202
+61951387
+3
+12:55:00
+23/10/2023
+mastercard 
+debito 
+338,50
+1773
+6100
+1
+ailton godoy 
+defacio
+202
+61951383
+4
+15:05:45
+22/10/2023
+elo debito
+14,00
+1773
+sub-total
+352,50
+61952279
+6040
+1
+lucas  souza 
+verly
+107
+61951378
+4
+17:58:33
+21/10/2023
+visaelectron
+160,00
+1766
+sub-total
+160,00
+61952280
+6040
+1
+carlos 
+eduardo 
+nascimento 
+silva
+111
+61951378
+3
+17:58:22
+21/10/2023
+visaelectron
+210,00
+1767
+sub-total
+210,00
+61952281
+6010
+1
+leonardo  gerke 
+freislebem 
+110
+61951382
+9
+10:09:12
+22/10/2023
+pix
+171,50
+1769
+sub-total
+171,50
+61952282
+6030
+1
+denilson martins 
+de jesus 
+206
+61951387
+2
+10:57:52
+23/10/2023
+visa credito
+345,50
+1772
+sub-total
+345,50
+61952284
+6030
+1
+aldori 
+camargo
+210
+61951395
+9
+07:37:43
+24/10/2023
+visa credito
+220,00
+1777
+6100
+1
+aldori 
+camargo
+210
+61951396
+0
+07:37:54
+24/10/2023
+elo debito
+40,50
+1777
+sub-total
+260,50
+16 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952285
+6000
+1
+dayane placiano
+101
+61951405
+7
+12:03:05
+25/10/2023
+dinheiro
+210,00
+1794
+6040
+1
+dayane placiano
+101
+61951405
+8
+12:03:15
+25/10/2023
+visaelectron
+270,00
+1794
+sub-total
+480,00
+61952286
+6020
+1
+wellington 
+carvalho
+105
+61951396
+5
+09:28:37
+24/10/2023
+a faturar
+160,00
+1783
+sub-total
+160,00
+61952287
+6000
+1
+rafael  teixeira 
+peixoto 
+203
+61951397
+4
+18:20:51
+24/10/2023
+dinheiro
+110,00
+1786
+sub-total
+110,00
+61952289
+6000
+1
+neris magno 
+de castro
+110
+61951395
+7
+06:46:53
+24/10/2023
+dinheiro
+108,00
+1775
+sub-total
+108,00
+61952290
+6090
+1
+edmar tessarolo
+106
+61951396
+6
+09:50:23
+24/10/2023
+elo credito
+118,00
+1784
+sub-total
+118,00
+61952291
+6055
+1
+luiz eduardo 
+silva miller
+210
+61951415
+9
+09:08:17
+26/10/2023
+mastercard 
+debito 
+142,48
+1804
+sub-total
+142,48
+61952293
+6090
+1
+andré xavier
+205
+61951395
+8
+07:24:06
+24/10/2023
+elo credito
+110,00
+1776
+sub-total
+110,00
+61952294
+6055
+1
+lidomar tosso
+202
+61951395
+4
+03:31:31
+24/10/2023
+mastercard 
+debito 
+179,24
+1774
+sub-total
+179,24
+61952295
+6000
+1
+juliana  amorim 
+rampinelli
+201
+61951407
+8
+19:40:54
+25/10/2023
+dinheiro
+110,00
+1803
+sub-total
+110,00
+61952298
+6010
+1
+rodrigo damásio 
+ribeiro de castro
+110
+61951425
+1
+17:43:28
+27/10/2023
+pix
+134,48
+1821
+sub-total
+134,48
+61952299
+6050
+1
+izaias gianizeli 
+junior
+102
+61951405
+3
+08:32:41
+25/10/2023
+mastercard 
+credito
+110,00
+1791
+sub-total
+110,00
+61952300
+6000
+1
+paulo cezar 
+gonçalves 
+210
+61951397
+5
+18:21:06
+24/10/2023
+dinheiro
+110,00
+1785
+sub-total
+110,00
+61952303
+6010
+1
+vagner reis
+111
+61951432
+0
+07:48:41
+28/10/2023
+pix
+110,00
+1823
+sub-total
+110,00
+61952304
+6050
+1
+reinaldo  
+severino caetano 
+202
+61951404
+7
+07:01:52
+25/10/2023
+mastercard 
+credito
+118,00
+1787
+sub-total
+118,00
+17 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952305
+6050
+1
+edson luiz 
+cardoso
+205
+61951415
+8
+08:18:03
+26/10/2023
+mastercard 
+credito
+104,00
+1802
+sub-total
+104,00
+61952306
+6030
+1
+antonio  carlos  
+miranda de 
+oliveira
+103
+61951415
+7
+08:14:37
+26/10/2023
+visa credito
+104,00
+1801
+sub-total
+104,00
+61952307
+6030
+1
+joão vitor 
+miranda do 
+nascimento
+106
+61951432
+1
+08:41:19
+28/10/2023
+visa credito
+231,50
+1825
+sub-total
+231,50
+61952309
+6050
+1
+giliany  dutra 
+giles
+107
+61951431
+9
+07:37:28
+28/10/2023
+mastercard 
+credito
+224,00
+1822
+sub-total
+224,00
+61952313
+6000
+1
+marcio oggione 
+de oliveira 
+204
+61951424
+5
+08:06:38
+27/10/2023
+dinheiro
+110,00
+1815
+sub-total
+110,00
+61952314
+6055
+1
+anadir  hadad 
+junior
+201
+61951416
+6
+18:26:47
+26/10/2023
+mastercard 
+debito 
+110,00
+1808
+sub-total
+110,00
+61952315
+6030
+1
+roberto carvalho 
+de morais
+202
+61951431
+7
+03:53:40
+28/10/2023
+visa credito
+233,50
+1819
+sub-total
+233,50
+61952316
+6055
+1
+alex  de 
+moura
+207
+61951424
+1
+06:56:29
+27/10/2023
+mastercard 
+debito 
+120,00
+1812
+sub-total
+120,00
+61952320
+6050
+1
+felipe  de tassio 
+gonçalves 
+205
+61951432
+4
+09:06:01
+28/10/2023
+mastercard 
+credito
+114,00
+1827
+sub-total
+114,00
+61952321
+6030
+1
+laylla pinheiro 
+silva
+108
+61951432
+5
+09:13:48
+28/10/2023
+visa credito
+114,00
+1828
+sub-total
+114,00
+61952323
+6050
+1
+wolme cardoso 
+alves neto
+101
+61951433
+6
+11:58:10
+28/10/2023
+mastercard 
+credito
+110,00
+1834
+sub-total
+110,00
+61952324
+6055
+1
+pedro paulo 
+souza silva
+204
+61951433
+5
+11:21:47
+28/10/2023
+mastercard 
+debito 
+269,99
+1833
+sub-total
+269,99
+61952326
+6000
+1
+janes favaro
+209
+61951432
+6
+09:18:47
+28/10/2023
+dinheiro
+160,00
+1829
+sub-total
+160,00
+61952328
+6100
+1
+jeferson 
+nobre 
+102
+61951433
+9
+18:36:41
+28/10/2023
+elo debito
+124,00
+1836
+sub-total
+124,00
+18 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+61952329
+6050
+1
+igrid brito  
+barboza
+208
+61951432
+9
+10:06:13
+28/10/2023
+mastercard 
+credito
+110,00
+1830
+sub-total
+110,00
+61952331
+6010
+1
+silvio da silva 
+santos 
+107
+61951434
+6
+09:27:14
+29/10/2023
+pix
+160,00
+1837
+sub-total
+160,00
+61952334
+6040
+1
+afonso c s 
+barroso
+102
+61951439
+8
+07:11:49
+31/10/2023
+visaelectron
+184,00
+1840
+sub-total
+184,00
+61952335
+6000
+1
+amanda 
+coutinho 
+108
+61951435
+0
+21:57:01
+29/10/2023
+dinheiro
+160,00
+1838
+1
+amanda 
+coutinho 
+108
+61951435
+9
+11:02:00
+30/10/2023
+dinheiro
+27,50
+1838
+sub-total
+187,50
+61952336
+6030
+1
+eliel paiom
+106
+61951439
+9
+07:30:16
+31/10/2023
+visa credito
+110,00
+1841
+sub-total
+110,00
+61952337
+6030
+1
+aldo buzoni cruz
+108
+61951440
+0
+07:36:23
+31/10/2023
+visa credito
+134,00
+1842
+sub-total
+134,00
+61952339
+6000
+1
+felipe da silva 
+monte 
+201
+61951440
+1
+10:54:12
+31/10/2023
+dinheiro
+8,00
+1843
+1
+felipe da silva 
+monte 
+201
+61951436
+1
+13:31:36
+30/10/2023
+dinheiro
+240,00
+1843
+sub-total
+248,00
+61952345
+6050
+1
+thatyane  
+almeida castro
+61951440
+2
+17:06:52
+31/10/2023
+mastercard 
+credito
+110,00
+1893
+sub-total
+110,00
+61952346
+6050
+1
+manuella regina 
+seriacopi lopes
+61951440
+3
+17:07:29
+31/10/2023
+mastercard 
+credito
+110,00
+1892
+sub-total
+110,00
+6195342
+6020
+1
+rayana  servare
+61951310
+4
+10:30:16
+09/10/2023
+a faturar
+316,50
+1675
+1
+rayana  servare
+61951310
+5
+10:30:37
+09/10/2023
+a faturar
+-316,50 estornado de 
+619513104
+1675
+sub-total
+0,00
+6195577
+6050
+0
+gabriel  
+assumpção alves
+205
+61951309
+8
+10:16:29
+09/10/2023
+mastercard 
+credito
+-90,00 estornado de 
+61952863
+1671
+sub-total
+-90,00
+total
+47.748,54
+resumo
+mastercard credito
+6.177,46
+mastercard debito 
+4.960,61
+19 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos
+visaelectron
+3.140,98
+dinners debito
+110,00
+pix
+14.900,01
+dinheiro
+5.359,00
+visa credito
+8.404,48
+a faturar
+2.425,50
+elo credito
+975,00
+elo debito
+1.295,50
+total
+47.748,54
+20 \ 20
+hotel brasil
+relatório de fechamento de caixa
+17/11/2023 02:43:47
+usuário: todos

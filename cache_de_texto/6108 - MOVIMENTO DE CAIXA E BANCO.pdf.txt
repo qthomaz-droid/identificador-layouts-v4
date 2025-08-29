@@ -1,0 +1,1436 @@
+movimento de caixa e banco
+                                                                                                                                                            
+referência: 04/04/2025           página: 1     
+lume art
+período: 01/01/2024 a 31/12/2024     
+ordenado por : data lançamento > plano contas
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+lc data
+histórico
+p. conta
+docto
+nº nota
+recebto
+pagto
+saldo atual
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+conta corrente: 15728-7 - 9260 - banco itau  - banco itau
+saldo anterior: 15.563,31
+identificação da conta: banco itau
+1
+02/01/24 pagamento  - lps distribuidora de materiais eletricos ltda - nfteste:
+1.01.001
+615514-2
+615514
+0,00
+2.655,19
+12.908,12
+1
+02/01/24 pagamento  - brasilux ind com imp exp ltda - nfteste:1237816
+1.01.001
+1237816-3
+1237816
+0,00
+370,16
+12.537,96
+1
+02/01/24 pagamento  - brasilux ind com imp exp ltda - nfteste:1246093
+1.01.001
+1246093-2
+1246093
+0,00
+930,28
+11.607,68
+1
+02/01/24 recebimento - edevaldo matias fre nf:8465 -
+2.01.001
+vb111792
+8465
+25,83
+0,00
+11.633,51
+1
+02/01/24 recebimento - suely viana dos san nf:8420 -
+2.01.001
+vb111686
+8420
+87,47
+0,00
+11.720,98
+1
+02/01/24 recebimento - edevaldo matias fre nf:9183 -
+2.01.001
+vb111791
+9183
+337,50
+0,00
+12.058,48
+1
+02/01/24 recebimento  - consumidr final - nfteste:8521
+2.01.001
+vb111881
+8521
+59,95
+0,00
+12.118,43
+1
+02/01/24 documento: vb111682   valor: 430,59
+2.01.001
+vb111682
+430,59
+0,00
+12.549,02
+recebto - pagto do dia: -3.014,29
+941,34
+3.955,63
+1
+03/01/24 pagamento  - peixoto e vidigal ind. com. mov. transp - nfteste:19609
+1.01.001
+19609-1
+19609
+0,00
+521,67
+12.027,35
+1
+03/01/24 pagamento  - lps distribuidora de materiais eletricos ltda - nfteste:
+1.01.001
+616866-2
+616866
+0,00
+750,69
+11.276,66
+1
+03/01/24 pg. despesas banco itau
+1.04.034
+0,00
+52,32
+11.224,34
+1
+03/01/24 recebimento - consumidr final nf:8536 -
+2.01.001
+vb111900
+8536
+60,40
+0,00
+11.284,74
+recebto - pagto do dia: -1.264,28
+60,40
+1.324,68
+1
+04/01/24 pagamento  - cimol comercio e industria de moveis ltda - nfteste:3906
+1.01.001
+390638-1
+390638
+0,00
+840,32
+10.444,42
+1
+04/01/24 pagamento  - doraci rodrigues cezana - nfteste:contrato - aluguel dep
+1.04.001
+aluguel/07
+contrato
+0,00
+240,00
+10.204,42
+1
+04/01/24 recebimento - consumidr final nf:8601 -
+2.01.001
+vb112009
+8601
+53,90
+0,00
+10.258,32
+1
+04/01/24 documento: vb111803   valor: 66,64 - documento: vb111907   valor: 144
+2.01.001
+vb111803
+348,76
+0,00
+10.607,08
+recebto - pagto do dia: -677,66
+402,66
+1.080,32
+1
+05/01/24 recebimento - elissonia de rezend nf:8604 -
+2.01.001
+vb112016
+8604
+17,90
+0,00
+10.624,98
+1
+05/01/24 documentos: nf:8606:8605
+2.01.001
+vb112017
+981,98
+0,00
+11.606,96
+recebto - pagto do dia: 999,88
+999,88
+0,00
+1
+08/01/24 pagamento - brasilux ind com im nf:1231451 -
+1.01.001
+1231451-4
+1231451
+0,00
+1.177,16
+10.429,80
+1
+08/01/24 pagamento - artnobre persianas  nf:8295 -
+1.01.001
+8295-2
+8295
+0,00
+504,59
+9.925,21
+1
+08/01/24 pagamento - novaleds comercio e nf:4146 -
+1.01.001
+4146-2
+4146
+0,00
+707,73
+9.217,48
+1
+08/01/24 recebimento - elissonia de rezend nf:8609 -
+2.01.001
+vb112023
+8609
+53,30
+0,00
+9.270,78
+1
+08/01/24 recebimento - consumidr final nf:8611 -
+2.01.001
+vb112026
+8611
+70,80
+0,00
+9.341,58
+1
+08/01/24 documentos: nf:9110
+2.01.001
+9109
+364,88
+0,00
+9.706,46
+1
+08/01/24 documentos: nf:9218:8615:8610:9193
+2.01.001
+vb111815
+457,03
+0,00
+10.163,49
+recebto - pagto do dia: -1.443,47
+946,01
+2.389,48
+1
+10/01/24 pg. emprestimo do banco itau 
+..
+0,00
+3.761,58
+6.401,91
+1
+10/01/24 pagamento - escudo consultoria, -
+1.04.006
+12/2023
+12/2023
+0,00
+510,00
+5.891,91
+1
+10/01/24 recebimento - jessica silva de al nf:9144 -
+2.01.001
+vb111709
+9144
+624,75
+0,00
+6.516,66
+recebto - pagto do dia: -3.646,83
+624,75
+4.271,58
+1
+11/01/24 pagamento  - coplastec comercio de tecidos eireli - epp - nfteste:172
+..
+17279-1
+17279
+0,00
+82,50
+6.434,16
+1
+11/01/24 pagamento  - rocha material de construcao e ferragens ltda me - nftes
+1.01.001
+11176-1
+11176
+0,00
+81,50
+6.352,66
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                                                                                            
+pangéia lite versão: 6.15
+sexta-feira, 4 de abril de 2025  às  17:29.     
+movimento de caixa e banco
+                                                                                                                                                            
+referência: 04/04/2025           página: 2     
+lume art
+período: 01/01/2024 a 31/12/2024     
+ordenado por : data lançamento > plano contas
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+lc data
+histórico
+p. conta
+docto
+nº nota
+recebto
+pagto
+saldo atual
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+1
+11/01/24 pagamento  - bravim ferragens ltda - nfteste:5172
+1.01.001
+5172-1/02
+5172
+0,00
+47,10
+6.305,56
+1
+11/01/24 pagamento  - m.a acessorios para marcenaria eireli - me - nfteste:547
+1.01.001
+54743-1/02
+54743
+0,00
+57,33
+6.248,23
+1
+11/01/24 pagamento  - m.a acessorios para marcenaria eireli - me - nfteste:554
+1.01.001
+55436-1
+55436
+0,00
+114,50
+6.133,73
+1
+11/01/24 pagamento  - coplastec comercio de tecidos eireli - epp - nfteste:164
+1.01.001
+16434-4
+16434
+0,00
+99,00
+6.034,73
+1
+11/01/24 pagamento  - coplastec comercio de tecidos eireli - epp - nfteste:171
+1.01.001
+17190-1
+17190
+0,00
+91,50
+5.943,23
+1
+11/01/24 pagamento  - comercial castanheiras ltda - nfteste:18871
+1.01.001
+18871-4
+18871
+0,00
+124,30
+5.818,93
+1
+11/01/24 pagamento  - bravim ferragens ltda - nfteste:5814
+1.01.001
+5814-1
+5814
+0,00
+98,88
+5.720,05
+1
+11/01/24 pagamento - sao paulo materiais nf:39363 -
+1.01.001
+39363-1
+39363
+0,00
+63,18
+5.656,87
+1
+11/01/24 pagamento - antonio moreira ces - filtro de agua para residencia
+1.04.007
+filtra agua filtra agua
+0,00
+175,00
+5.481,87
+1
+11/01/24 pagamento  - salada mista rest. ltda me - nfteste:206
+1.04.011
+206-1
+206
+0,00
+393,80
+5.088,07
+1
+11/01/24 pagamento  - salada mista rest. ltda me - nfteste:209
+1.04.011
+209-1
+209
+0,00
+530,05
+4.558,02
+1
+11/01/24 pagamento - distribuidora nacio - despesas com veiculo dividido em 07
+1.04.014
+1/02
+1/02
+0,00
+300,00
+4.258,02
+1
+11/01/24 pagamento - podium veiculos ltd nf:275895 -
+1.04.014
+275895-5
+275895
+0,00
+291,47
+3.966,55
+1
+11/01/24 pagamento  - podium veiculos ltda - serra - nfteste:276534
+1.04.014
+276534-1/04
+276534
+0,00
+114,43
+3.852,12
+1
+11/01/24 pagamento - antonio moreira ces - combustivel no cartao 172,70+298,65
+1.04.014
+cartao de credit cartao de c
+0,00
+471,35
+3.380,77
+1
+11/01/24 pagamento - antonio moreira ces nf:cf fatura - uber pago no cartao de
+1.04.014
+cf. fatura
+cf fatura
+0,00
+886,87
+2.493,90
+1
+11/01/24 pagamento - antonio moreira ces - marcos dos santos
+1.04.014
+div. 3 vezes div. 3 veze
+0,00
+223,34
+2.270,56
+1
+11/01/24 pagamento - antonio moreira ces - diferença do aluguel do carro local
+1.04.014
+localiza
+localiza
+0,00
+181,65
+2.088,91
+1
+11/01/24 pagamento - antonio moreira ces - despesas em são paulo para tirar o 
+1.04.015
+desp. visto desp. visto
+0,00
+662,34
+1.426,57
+1
+11/01/24 pagamento - antonio moreira ces - hotel em são paulo para o visto div
+1.04.015
+hotel
+hotel
+0,00
+168,00
+1.258,57
+1
+11/01/24 pagamento - antonio moreira ces - dividido em 03 vezes
+1.04.015
+hotel/02
+hotel/02
+0,00
+430,64
+827,93
+1
+11/01/24 pagamento - antonio moreira ces - hotel tryp belo horizonte
+1.04.015
+tryp belo horizo tryp belo h
+0,00
+409,00
+418,93
+1
+11/01/24 pagamento  - promob softwares sa - pacote de 12 meses de assintaura c
+1.04.016
+1/10
+1/10
+0,00
+340,12
+78,81
+1
+11/01/24 pagamento - promob softwares sa - 12 meses de assinatura pedido 02183
+1.04.016
+promob/02
+promob/02
+0,00
+242,24
+-163,43
+1
+11/01/24 pagamento - sul amercia seguros - ref. ao seguro do carro parcelado e
+1.04.024
+6/12
+6/12
+0,00
+274,93
+-438,36
+1
+11/01/24 recebimento - landscape empreendi nf:9247 -
+2.01.001
+vb112013
+9247
+2.003,35
+0,00
+1.564,99
+1
+11/01/24 recebimento - claudiane olimpio f nf:9057 -
+2.01.001
+vb111452
+9057
+295,08
+0,00
+1.860,07
+recebto - pagto do dia: -4.656,59
+2.298,43
+6.955,02
+1
+12/01/24 recebimento - gessica ramos ribei nf:8688 -
+2.01.001
+vb112170
+8688
+1.034,90
+0,00
+2.894,97
+1
+12/01/24 recebimento - lilian souto de oli nf:9344 - entrada
+2.01.001
+vb112229
+9344
+9.000,00
+0,00
+11.894,97
+recebto - pagto do dia: 10.034,90
+10.034,90
+0,00
+1
+15/01/24 pagamento  - brasilux ind com imp exp ltda - nfteste:1237816
+1.01.001
+1237816-4
+1237816
+0,00
+370,16
+11.524,81
+1
+15/01/24 pagamento  - novaleds comercio e distribuicao de iluminacao ltd - nft
+1.01.001
+4248-1
+4248
+0,00
+200,04
+11.324,77
+1
+15/01/24 pagamento  - es decoracoes ltda - nfteste:3323
+1.01.001
+3323-1
+3323
+0,00
+438,00
+10.886,77
+1
+15/01/24 pagamento  - cdl camara de dirigentes lojista da serra
+1.04.013
+nf.. 104325 nf.. 104325
+0,00
+36,00
+10.850,77
+1
+15/01/24 recebimento - alexsandro santos r nf:9265 -
+2.01.001
+vb112060
+9265
+125,00
+0,00
+10.975,77
+1
+15/01/24 recebimento - consumidr final nf:8625 -
+2.01.001
+vb112063
+8625
+25,90
+0,00
+11.001,67
+1
+15/01/24 recebimento - valter casteluber nf:9074 -
+2.01.001
+vb111513
+9074
+1.041,66
+0,00
+12.043,33
+1
+15/01/24 recebimento - consumidr final nf:8690 -
+2.01.001
+vb112172
+8690
+71,80
+0,00
+12.115,13
+recebto - pagto do dia: 220,16
+1.264,36
+1.044,20
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                                                                                            
+pangéia lite versão: 6.15
+sexta-feira, 4 de abril de 2025  às  17:29.     
+movimento de caixa e banco
+                                                                                                                                                            
+referência: 04/04/2025           página: 3     
+lume art
+período: 01/01/2024 a 31/12/2024     
+ordenado por : data lançamento > plano contas
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+lc data
+histórico
+p. conta
+docto
+nº nota
+recebto
+pagto
+saldo atual
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+1
+16/01/24 recebimento  - jose marcos santos - nfteste:9336
+..
+vb112215
+9336
+6.574,88
+0,00
+18.690,01
+1
+16/01/24 recebimento  - jose marcos santos - nfteste:9337
+..
+vb112216
+9337
+1.790,00
+0,00
+20.480,01
+1
+16/01/24 recebimento  - jose marcos santos - nfteste:9338
+..
+vb112217
+9338
+23.107,12
+0,00
+43.587,13
+1
+16/01/24 recebimento  - jose marcos santos - nfteste:9340
+..
+vb112219
+9340
+1.500,00
+0,00
+45.087,13
+1
+16/01/24 recebimento  - jose marcos santos - nfteste:9257
+..
+vb111963
+9257
+4.068,00
+0,00
+49.155,13
+1
+16/01/24 enviado para o antonio 
+..
+0,00
+4.000,00
+45.155,13
+1
+16/01/24 pagamento  - rimo s/a industria e comercio - nfteste:894210
+1.01.001
+894210-1
+894210
+0,00
+6.106,17
+39.048,96
+1
+16/01/24 pagamento  - rimo s/a industria e comercio - nfteste:894209
+1.01.001
+894209-1
+894209
+0,00
+491,52
+38.557,44
+1
+16/01/24 pagamento - novaleds comercio e nf:4258 -
+1.01.001
+4258-1
+4258
+0,00
+1.030,32
+37.527,12
+1
+16/01/24 recebimento - elaine cristina zor nf:9299 -
+2.01.001
+vb112107
+9299
+580,62
+0,00
+38.107,74
+1
+16/01/24 recebimento  - maria natalina - nfteste:8494
+2.01.001
+vb111839
+8494
+133,32
+0,00
+38.241,06
+recebto - pagto do dia: 26.125,93
+37.753,94
+11.628,01
+1
+17/01/24 pagamento  - d a decoracao e ambientacao ltda - nfteste:180599 - houv
+1.01.001
+180599-3
+180599
+0,00
+1.635,07
+36.605,99
+1
+17/01/24 pagamento - vivo - rf. vivo fibra
+1.03.020
+conta
+conta
+0,00
+143,54
+36.462,45
+1
+17/01/24 pagamento  - jaime souto de oliveira - conta de agua
+1.04.008
+agua 11/2022/14 agua 11/202
+0,00
+111,08
+36.351,37
+1
+17/01/24 pagamento  - instituto nacional de seguro social - nfteste:12/2023
+1.04.022
+12/2023
+12/2023
+0,00
+334,83
+36.016,54
+1
+17/01/24 pagamento - vivo - rf. telefone 3328-5461
+1.04.032
+33285461
+33285461
+0,00
+57,12
+35.959,42
+1
+17/01/24 recebimento - edson roberto silva nf:9201 -
+2.01.001
+vb111847
+9201
+103,36
+0,00
+36.062,78
+recebto - pagto do dia: -2.178,28
+103,36
+2.281,64
+1
+18/01/24 saque feito pelo antonio 
+..
+0,00
+320,00
+35.742,78
+1
+18/01/24 pg. refeições no mes 
+1.04.011
+0,00
+333,54
+35.409,24
+1
+18/01/24 recebimento  - elizangela dos santos - nfteste:8653
+2.01.001
+vb112075
+8653
+23,70
+0,00
+35.432,94
+1
+18/01/24 recebimento - consumidr final nf:8631 -
+2.01.001
+vb112078
+8631
+51,80
+0,00
+35.484,74
+1
+18/01/24 recebimento - consumidr final nf:8695 -
+2.01.001
+vb112181
+8695
+10,00
+0,00
+35.494,74
+recebto - pagto do dia: -568,04
+85,50
+653,54
+1
+19/01/24 recebimento - andre zonta nf:9326 -
+2.01.001
+vb112204
+9326
+1.200,00
+0,00
+36.694,74
+recebto - pagto do dia: 1.200,00
+1.200,00
+0,00
+1
+22/01/24 pagamento  - stalos industria e comercio de persianas ltda - nfteste:
+1.01.001
+6892-1
+6892
+0,00
+538,33
+36.156,41
+1
+22/01/24 pagamento  - climel medicina e segurança do trabalho laranjeira - men
+1.04.021
+nf 345/10
+nf 345/10
+0,00
+50,00
+36.106,41
+1
+22/01/24 pagamento - receita federal -
+1.05.005
+12/2023
+12/2023
+0,00
+7.800,22
+28.306,19
+1
+22/01/24 documentos: nf:8640:8638:9283:8644
+2.01.001
+vb112100
+1.150,40
+0,00
+29.456,59
+recebto - pagto do dia: -7.238,15
+1.150,40
+8.388,55
+1
+23/01/24 recebimento - elaine cristina zor nf:9209 -
+2.01.001
+vb111871
+9209
+1.893,00
+0,00
+31.349,59
+1
+23/01/24 documentos: nf:8647:8513
+2.01.001
+vb111862
+321,90
+0,00
+31.671,49
+recebto - pagto do dia: 2.214,90
+2.214,90
+0,00
+1
+24/01/24 pagamento - lps distribuidora d nf:621272 -
+1.01.001
+621272-2
+621272
+0,00
+552,73
+31.118,76
+recebto - pagto do dia: -552,73
+0,00
+552,73
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                                                                                            
+pangéia lite versão: 6.15
+sexta-feira, 4 de abril de 2025  às  17:29.     
+movimento de caixa e banco
+                                                                                                                                                            
+referência: 04/04/2025           página: 4     
+lume art
+período: 01/01/2024 a 31/12/2024     
+ordenado por : data lançamento > plano contas
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+lc data
+histórico
+p. conta
+docto
+nº nota
+recebto
+pagto
+saldo atual
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+1
+25/01/24 pagamento  - es decoracoes ltda - nfteste:3186
+1.01.001
+3186-2
+3186
+0,00
+256,00
+30.862,76
+1
+25/01/24 pagamento  - novaleds comercio e distribuicao de iluminacao ltd - nft
+1.01.001
+4158-3
+4158
+0,00
+276,74
+30.586,02
+1
+25/01/24 pagamento - brasilux ind com im nf:1227740 -
+1.01.001
+1227740-5
+1227740
+0,00
+1.525,25
+29.060,77
+1
+25/01/24 pagamento  - amz soluções ltda epp - nfteste:30422 - ref. ao uso da l
+1.04.016
+nf. 30422
+30422
+0,00
+578,00
+28.482,77
+recebto - pagto do dia: -2.635,99
+0,00
+2.635,99
+1
+26/01/24 pg. lavagem de carro no dia 11e 26/01
+1.04.014
+0,00
+80,00
+28.402,77
+1
+26/01/24 recebimento - consumidr final nf:8703 -
+2.01.001
+vb112200
+8703
+44,50
+0,00
+28.447,27
+recebto - pagto do dia: -35,50
+44,50
+80,00
+1
+29/01/24 pagamento  - brasilux ind com imp exp ltda - nfteste:1237816
+1.01.001
+1237816-5
+1237816
+0,00
+370,16
+28.077,11
+1
+29/01/24 pagamento  - brasilux ind com imp exp ltda - nfteste:1246093
+1.01.001
+1246093-3
+1246093
+0,00
+930,28
+27.146,83
+1
+29/01/24 pagamento  - stalos industria e comercio de persianas ltda - nfteste:
+1.01.001
+6651-2
+6651
+0,00
+171,44
+26.975,39
+1
+29/01/24 pagamento  - stalos industria e comercio de persianas ltda - nfteste:
+1.01.001
+6649-2
+6649
+0,00
+226,21
+26.749,18
+1
+29/01/24 pagamento  - d a decoracao e ambientacao ltda - nfteste:191790
+1.01.001
+191790-2
+191790
+0,00
+1.300,21
+25.448,97
+1
+29/01/24 recebimento - consumidr final nf:8670 -
+2.01.001
+vb112143
+8670
+50,00
+0,00
+25.498,97
+1
+29/01/24 documentos: nf:8462:8515
+2.01.001
+vb111874
+665,78
+0,00
+26.164,75
+recebto - pagto do dia: -2.282,52
+715,78
+2.998,30
+1
+30/01/24 recebimento - ana amelia cassiano nf:9343 - entrada
+2.01.001
+vb112228
+9343
+3.370,00
+0,00
+29.534,75
+recebto - pagto do dia: 3.370,00
+3.370,00
+0,00
+1
+31/01/24 pagamento  - rimo s/a industria e comercio - nfteste:897148
+1.01.001
+897148-1
+897148
+0,00
+805,54
+28.729,21
+1
+31/01/24 pagamento  - rimo s/a industria e comercio - nfteste:897147
+1.01.001
+897147-1
+897147
+0,00
+3.145,15
+25.584,06
+1
+31/01/24 pagamento  - imd comercio de moveis ltda - nfteste:225846
+1.01.001
+225846-1
+225846
+0,00
+823,21
+24.760,85
+1
+31/01/24 pagamento  - lps distribuidora de materiais eletricos ltda - nfteste:
+1.01.001
+616866-3
+616866
+0,00
+750,69
+24.010,16
+1
+31/01/24 pagamento  - clk transportes e logistica lt - nfteste:1600
+1.01.004
+1600-1
+1600
+0,00
+234,62
+23.775,54
+1
+31/01/24 pg. restaurante com cartao de debito no mes 
+1.04.011
+0,00
+99,34
+23.676,20
+1
+31/01/24 pg. abastecimento cartao debito do itau no mes 
+1.04.014
+0,00
+429,48
+23.246,72
+1
+31/01/24 pg. estacionamento no mes cartao de debito itau 
+1.04.014
+0,00
+17,00
+23.229,72
+1
+31/01/24 despesas com cartão do banco itau 
+1.04.034
+0,00
+231,55
+22.998,17
+1
+31/01/24 recebimento - consumidr final nf:8713 -
+2.01.001
+vb112233
+8713
+94,00
+0,00
+23.092,17
+1
+31/01/24 recebimento - sandra maria de jes nf:9349 -
+2.01.001
+vb112238
+9349
+439,00
+0,00
+23.531,17
+1
+31/01/24 recebimento parcial - lilian souto de oli nf:9344 -
+2.01.001
+vb112229
+9344
+1.000,00
+0,00
+24.531,17
+recebto - pagto do dia: -5.003,58
+1.533,00
+6.536,58
+1
+01/02/24 pagamento  - d a decoracao e ambientacao ltda - nfteste:166654
+1.01.001
+166654-3
+166654
+0,00
+434,53
+24.096,64
+1
+01/02/24 pagamento - fratini import. e c nf:57462 -
+1.01.001
+57462-3
+57462
+0,00
+1.604,66
+22.491,98
+1
+01/02/24 pagamento  - peixoto e vidigal ind. com. mov. transp - nfteste:19609
+1.01.001
+19609-2
+19609
+0,00
+521,66
+21.970,32
+1
+01/02/24 recebimento - consumidr final nf:8714 -
+2.01.001
+vb112242
+8714
+75,90
+0,00
+22.046,22
+recebto - pagto do dia: -2.484,95
+75,90
+2.560,85
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                                                                                            
+pangéia lite versão: 6.15
+sexta-feira, 4 de abril de 2025  às  17:29.     
+movimento de caixa e banco
+                                                                                                                                                            
+referência: 04/04/2025           página: 5     
+lume art
+período: 01/01/2024 a 31/12/2024     
+ordenado por : data lançamento > plano contas
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+lc data
+histórico
+p. conta
+docto
+nº nota
+recebto
+pagto
+saldo atual
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+1
+02/02/24 pagamento - eletromil comercial nf:649740 -
+1.01.001
+649740-1
+649740
+0,00
+208,00
+21.838,22
+1
+02/02/24 pagamento - salada mista rest.  nf:212 -
+1.04.011
+212-1
+212
+0,00
+218,28
+21.619,94
+1
+02/02/24 recebimento - marina godinuo nf:9353 -
+2.01.001
+vb112246
+9353
+217,48
+0,00
+21.837,42
+1
+02/02/24 recebimento  - fredson guzzo oliveira - nfteste:8672
+2.01.001
+vb112111
+8672
+90,00
+0,00
+21.927,42
+1
+02/02/24 recebimento  - ricardo barbosa - nfteste:8671 - prestação mais 27,90 
+2.01.001
+vb112146
+8671
+27,90
+0,00
+21.955,32
+1
+02/02/24 recebimento  - ricardo barbosa - nfteste:8671 - prestação mais 27,90 
+2.01.001
+vb112146
+8671
+66,33
+0,00
+22.021,65
+recebto - pagto do dia: -24,57
+401,71
+426,28
+1
+05/02/24 pagamento - comercial bucalo lt nf:429733 -
+1.01.001
+429733-1
+429733
+0,00
+345,84
+21.675,81
+1
+05/02/24 pagamento - doraci rodrigues ce nf:contrato - aluguel deposito
+1.04.001
+aluguel
+contrato
+0,00
+240,00
+21.435,81
+1
+05/02/24 recebimento - consumidr final nf:8722 -
+2.01.001
+vb112253
+8722
+818,00
+0,00
+22.253,81
+1
+05/02/24 recebimento - consumidr final nf:8716 -
+2.01.001
+vb112247
+8716
+12,90
+0,00
+22.266,71
+recebto - pagto do dia: 245,06
+830,90
+585,84
+1
+06/02/24 pagamento  - kelly cristina da silva e cia ltda me - nfteste:9243
+1.01.001
+9243-4
+9243
+0,00
+796,53
+21.470,18
+1
+06/02/24 pagamento - es decoracoes ltda nf:3432 -
+1.01.001
+3432-1
+3432
+0,00
+694,14
+20.776,04
+1
+06/02/24 pagamento - d a decoracao e amb nf:189037 -
+1.01.001
+189037-2
+189037
+0,00
+250,73
+20.525,31
+1
+06/02/24 pagamento  - braspress transportes urgentes ltda - nfteste:4802122
+1.01.004
+4802122-1
+4802122
+0,00
+72,25
+20.453,06
+1
+06/02/24 pagamento  - samp es assistencia medica ltda - nfteste:2455328 - samp
+1.04.021
+2455328
+2455328
+0,00
+17,93
+20.435,13
+1
+06/02/24 pagamento - samp es assistencia -
+1.04.021
+24553327
+24553327
+0,00
+141,48
+20.293,65
+1
+06/02/24 pagamento - fortalarme sistema  - arlarme e cameras
+1.04.029
+arlarme e camera arlarme e c
+0,00
+127,00
+20.166,65
+1
+06/02/24 documentos: nf:8676:9218
+2.01.001
+vb111918
+182,80
+0,00
+20.349,45
+recebto - pagto do dia: -1.917,26
+182,80
+2.100,06
+1
+07/02/24 recebimento - consumidr final nf:8726 -
+2.01.001
+vb112259
+8726
+30,00
+0,00
+20.379,45
+1
+07/02/24 documentos: 9110
+2.01.001
+vb111617
+365,00
+0,00
+20.744,45
+1
+07/02/24 recebimento  - elissonia de rezende potin martinelli - nfteste:8609
+2.01.001
+vb112023
+8609
+53,29
+0,00
+20.797,74
+1
+07/02/24 recebimento  - geilza oliveira de souza - nfteste:8610
+2.01.001
+vb112024
+8610
+145,20
+0,00
+20.942,94
+1
+07/02/24 recebimento  - leticia amorim de amaral ruggiero - nfteste:8606
+2.01.001
+vb112005
+8606
+797,70
+0,00
+21.740,64
+1
+07/02/24 recebimento  - elissonia de rezende potin martinelli - nfteste:8605
+2.01.001
+vb112017
+8605
+184,28
+0,00
+21.924,92
+1
+07/02/24 recebimento  - susana barbieri - nfteste:8615
+2.01.001
+vb112039
+8615
+80,50
+0,00
+22.005,42
+1
+07/02/24 recebimento  - patricia aparecida meireles ferreira(funcionaria) - nf
+2.01.001
+vb112150
+8675
+69,75
+0,00
+22.075,17
+1
+07/02/24 recebimento  - consumidr final - nfteste:8673
+2.01.001
+vb112148
+8673
+62,95
+0,00
+22.138,12
+1
+07/02/24 recebimento  - eliete oliveira melo - nfteste:8545
+2.01.001
+vb111907
+8545
+144,46
+0,00
+22.282,58
+recebto - pagto do dia: 1.933,13
+1.933,13
+0,00
+1
+09/02/24 recebimento  - jessica silva de almeida - nfteste:9144
+2.01.001
+vb111709
+9144
+624,75
+0,00
+22.907,33
+recebto - pagto do dia: 624,75
+624,75
+0,00
+1
+12/02/24 pagamento  - coplastec comercio de tecidos eireli - epp - nfteste:172
+..
+17279-2
+17279
+0,00
+82,50
+22.824,83
+1
+12/02/24 pagamento  - comercial castanheiras ltda - nfteste:20060
+1.01.001
+20060-1
+20060
+0,00
+13,00
+22.811,83
+1
+12/02/24 pagamento  - comercial castanheiras ltda - nfteste:20059
+1.01.001
+20059-1
+20059
+0,00
+30,50
+22.781,33
+1
+12/02/24 pagamento  - rocha material de construcao e ferragens ltda me - nftes
+1.01.001
+11176-2
+11176
+0,00
+81,50
+22.699,83
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                            
+                                                                                                                                                            
+                                                                                                                                                            
+pangéia lite versão: 6.15
+sexta-feira, 4 de abril de 2025  às  17:29.     

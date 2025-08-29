@@ -1,0 +1,151 @@
+consulta do extrato
+conta: 16288
+de: 01/11/2022 até 30/11/2022
+nome: raidho viagens turismo ltda
+moeda: real - em conta
+sumário
+saldo
+valor
+saldo disponivel
+953.81
+saldo bloqueado
+0.00
+saldo total
+953.81
+saldo futuro
+lançamentos
+data
+descrição
+débito
+crédito
+saldo
+04/11/2022
+saldo incicial
+ 
+ 
+1,188.34
+04/11/2022
+referente a op: 14542148 | doc: 64521354000164 | nome:
+raidho viagens turismo ltda | ag/cc: 399/365386
+30,980.96
+32,169.30
+04/11/2022
+iof sobre contrato de cambio-fv325025863
+-117.28
+32,052.02
+04/11/2022
+liquidacao do contrato nr.-fv325025863
+-30,863.68
+1,188.34
+04/11/2022
+iof sobre contrato de cambio-fv325027293
+-117.28
+1,071.06
+04/11/2022
+devolucao iof sobre contrato de
+cambio-325027293
+117.28
+1,188.34
+10/11/2022
+tarifas contas me 03/10/2022 a 31/10/2022-31/10/2022
+-772.59
+415.75
+16/11/2022
+referente a op: 14571658 | doc: 64521354000164 | nome:
+raidho viagens e turismo ltda | ag/cc: 399/365386
+97,700.00
+98,115.75
+16/11/2022
+pelo adiantamento do contrato-fv326488112
+-11,189.73
+86,926.02
+16/11/2022
+iof sobre contrato de cambio-fv326488112
+-42.52
+86,883.50
+16/11/2022
+iof sobre contrato de cambio-fv326507943
+-326.95
+86,556.55
+16/11/2022
+liquidacao do contrato nr.-fv326507943
+-86,038.85
+517.70
+18/11/2022
+referente a op: 14577806 | doc: 64521354000164 | nome:
+raidho viagens e turismo ltda | ag/cc: 399/365386
+37,000.00
+37,517.70
+18/11/2022
+iof sobre contrato de cambio-fv326707890
+-64.66
+37,453.04
+18/11/2022
+liquidacao do contrato nr.-fv326707890
+-17,015.39
+20,437.65
+18/11/2022
+iof sobre contrato de cambio-fv326707891
+-75.30
+20,362.35
+18/11/2022
+liquidacao do contrato nr.-fv326707891
+-19,816.43
+545.92
+21/11/2022
+referente a op: 14583887 | doc: 64521354000164 | nome:
+raidho viagens e turismo ltda | ag/cc: 399/365386
+16,200.00
+16,745.92
+21/11/2022
+iof sobre contrato de cambio-fv326868165
+-61.27
+16,684.65
+21/11/2022
+liquidacao do contrato nr.-fv326868165
+-16,124.45
+560.20
+22/11/2022
+referente a op: 14589219 | doc: 64521354000164 | nome:
+raidho viagens e turismo ltda | ag/cc: 399/365386
+46,500.00
+47,060.20
+22/11/2022
+iof sobre contrato de cambio-fv327250825
+-175.31
+46,884.89
+22/11/2022
+liquidacao do contrato nr.-fv327250825
+-46,133.56
+751.33
+24/11/2022
+referente a op: 14595151 | doc: 64521354000164 | nome:
+raidho viagens e turismo ltda | ag/cc: 399/365386
+136,000.00
+136,751.33
+24/11/2022
+iof sobre contrato de cambio-fv327410100
+-181.16
+136,570.17
+24/11/2022
+liquidacao do contrato nr.-fv327410100
+-47,672.74
+88,897.43
+24/11/2022
+iof sobre contrato de cambio-fv327410099
+-332.92
+88,564.51
+24/11/2022
+liquidacao do contrato nr.-fv327410099
+-87,610.70
+953.81
+30/11/2022
+saldo final
+ 
+ 
+953.81
+lançamentos futuros
+data
+descrição
+débito
+crédito

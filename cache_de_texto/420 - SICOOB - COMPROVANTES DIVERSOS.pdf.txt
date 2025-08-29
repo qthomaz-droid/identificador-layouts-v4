@@ -1,0 +1,620 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+ 
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23037957
+data pagamento:
+06/01/2022
+período apuração:
+31/01/2022
+número do cpf ou cnpj:
+00317100000146
+código receita:
+561
+data vencimento:
+18/02/2022
+valor principal:
+31,23
+valor total:
+31,23
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+9ba37014-2f7a-4e46-9173-601e95ba5df1
+bancoob 08006464001
+data: 01/02/2022
+sisbr – sistema de informatica do sicoob
+hora: 10:12:27
+conta debitada:
+556599
+nome:
+clinirim - clinica do rim ltda.
+código de barras:
+85800000111405801792201076600508003171000001
+cnpj/cei empresa:
+00.317.100/0001-46
+cod. convênio:
+0179
+data de vencimento:
+07/01/2022
+competência:
+12/2021
+valor recolhido:
+11.140,58
+descrição do pagamento:
+fgts 122021
+còdigo da operação:
+1
+pagamento efetuado em :
+07/01/2022
+autenticação:
+f0527f70-42d3-4671-8de2-4d065b8f1474
+data: 01/02/2022
+comprovante de pagamento de convênio
+hora: 10:33:04
+cooperativa:
+3010 / sicoob sul-serrano
+conta:
+55.659-9 / clinirim - clinica do rim ltda.
+convênio:
+pref vila velha es
+código de barras:
+81780000157 61004767202 20110000000 90060494772
+no. agendamento:
+23.013.535
+nsu:
+220050202248
+data agendamento:
+05/01/2022-11:13:32
+data pagamento:
+10/01/2022
+valor do documento:
+15.761,00
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+15.761,00
+observação:
+iss
+autenticação:
+382bd88f-bee9-4b51-b354-8a238979e4a1
+ouvidoria sicoob: 08007250996
+data: 01/02/2022
+comprovante de pagamento de convênio
+hora: 10:33:04
+cooperativa:
+3010 / sicoob sul-serrano
+conta:
+55.659-9 / clinirim - clinica do rim ltda.
+convênio:
+pref vila velha es
+código de barras:
+81750000000 11634767202 20110000000 90060506274
+no. agendamento:
+23.097.924
+nsu:
+220100451538
+data agendamento:
+10/01/2022-10:22:22
+data pagamento:
+10/01/2022
+valor do documento:
+11,63
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+11,63
+autenticação:
+473a382b-8ec5-45e5-9e08-e785f1204e2d
+ouvidoria sicoob: 08007250996
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23071760
+data pagamento:
+12/01/2022
+período apuração:
+31/01/2022
+número do cpf ou cnpj:
+00317100000146
+código receita:
+561
+data vencimento:
+18/01/2022
+valor principal:
+10,67
+valor total:
+10,67
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+1b4819ed-0f8c-47e0-ad49-dbe87a478fb4
+bancoob 08006464001
+data: 01/02/2022
+comprovante de pagamento de convênio
+hora: 10:33:04
+cooperativa:
+3010 / sicoob sul-serrano
+conta:
+55.659-9 / clinirim - clinica do rim ltda.
+convênio:
+escelsa es
+código de barras:
+83670000139 72730051300 03504885861 90016462159
+no. agendamento:
+23.014.177
+nsu:
+220050218327
+data agendamento:
+05/01/2022-11:29:52
+data pagamento:
+13/01/2022
+valor do documento:
+13.972,73
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+13.972,73
+observação:
+escelsa
+autenticação:
+86ec2132-f2f8-4a89-97e5-408ad425772d
+ouvidoria sicoob: 08007250996
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento de convênio
+hora: 10:33:04
+cooperativa:
+3010 / sicoob sul-serrano
+conta:
+55.659-9 / clinirim - clinica do rim ltda.
+convênio:
+cesan es
+código de barras:
+82810000000 86940016008 12528012203 10011293705
+no. agendamento:
+23.258.044
+nsu:
+220180018545
+data agendamento:
+18/01/2022-08:36:24
+data pagamento:
+18/01/2022
+valor do documento:
+86,94
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+86,94
+autenticação:
+6f6148b1-627a-4fd2-bfcb-a44d481016ee
+ouvidoria sicoob: 08007250996
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23260970
+data pagamento:
+18/01/2022
+código de barras:
+85800000468327503852201807162201886900672659
+valor total:
+46.832,75
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+662eb5a2-96b2-4500-b769-6beb8b5f69b1
+bancoob 08006464001
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+22674376
+data pagamento:
+20/01/2022
+período apuração:
+31/12/2021
+número do cpf ou cnpj:
+00317100000146
+código receita:
+561
+data vencimento:
+20/01/2022
+valor principal:
+930,98
+valor total:
+930,98
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+fd534a76-2380-4a58-b69a-36ecc7001240
+bancoob 08006464001
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23014268
+data pagamento:
+20/01/2022
+período apuração:
+31/12/2021
+número do cpf ou cnpj:
+00317100000146
+código receita:
+561
+data vencimento:
+20/01/2022
+valor principal:
+1.102,75
+valor total:
+1.102,75
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+cacc1fc5-706a-49f5-8070-6d5a4e5963aa
+bancoob 08006464001
+data: 01/02/2022
+comprovante de pagamento de convênio
+hora: 10:33:04
+cooperativa:
+3010 / sicoob sul-serrano
+conta:
+55.659-9 / clinirim - clinica do rim ltda.
+convênio:
+net serv comunicaç
+código de barras:
+84610000001 84920296202 20120507000 00229026491
+no. agendamento:
+23.179.529
+nsu:
+220130057705
+data agendamento:
+13/01/2022-08:57:26
+data pagamento:
+20/01/2022
+valor do documento:
+184,92
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+184,92
+observação:
+net
+autenticação:
+b171b6ed-6210-4cb7-ac05-613d7deea15f
+ouvidoria sicoob: 08007250996
+data: 01/02/2022
+comprovante de pagamento de convênio
+hora: 10:33:04
+cooperativa:
+3010 / sicoob sul-serrano
+conta:
+55.659-9 / clinirim - clinica do rim ltda.
+convênio:
+net serv comunicaç
+código de barras:
+84690000001 53590296202 20120507000 00229005629
+no. agendamento:
+23.179.540
+nsu:
+220130058028
+data agendamento:
+13/01/2022-08:58:09
+data pagamento:
+20/01/2022
+valor do documento:
+153,59
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+153,59
+observação:
+net
+autenticação:
+30f8252c-28c5-4627-aa99-09fdbf024292
+ouvidoria sicoob: 08007250996
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23258076
+data pagamento:
+20/01/2022
+código de barras:
+85800000397113103852202007162201770015362693
+valor total:
+39.711,31
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+30022b37-fd7a-43f1-80cc-e61ccac0df80
+bancoob 08006464001
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23289911
+data pagamento:
+20/01/2022
+código de barras:
+85880000025516303852202007012201896507527371
+valor total:
+2.551,63
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+2588e3ca-2ce1-492d-b7bb-f5ef7303d87e
+bancoob 08006464001
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23289925
+data pagamento:
+20/01/2022
+código de barras:
+85850000008106103852202007012201896434619507
+valor total:
+810,61
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+0716c7f4-8194-432e-9313-4dc3c8ba863e
+bancoob 08006464001
+data: 01/02/2022
+comprovante de pagamento de convênio
+hora: 10:33:04
+cooperativa:
+3010 / sicoob sul-serrano
+conta:
+55.659-9 / clinirim - clinica do rim ltda.
+convênio:
+escelsa es
+código de barras:
+83690000001 09530051300 15004764331 90020367602
+no. agendamento:
+23.098.031
+nsu:
+220100456956
+data agendamento:
+10/01/2022-10:24:51
+data pagamento:
+24/01/2022
+valor do documento:
+109,53
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+109,53
+autenticação:
+1dbea494-017f-459f-a666-f6f34517d2e8
+ouvidoria sicoob: 08007250996
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento de convênio
+hora: 10:33:04
+cooperativa:
+3010 / sicoob sul-serrano
+conta:
+55.659-9 / clinirim - clinica do rim ltda.
+convênio:
+cesan es
+código de barras:
+82840000131 99060016008 12536012201 00011293705
+no. agendamento:
+23.349.950
+nsu:
+220240228176
+data agendamento:
+24/01/2022-09:24:27
+data pagamento:
+24/01/2022
+valor do documento:
+13.199,06
+valor dos juros:
+0,00
+valor da multa:
+0,00
+outros encargos:
+0,00
+valor do desconto:
+0,00
+outras deduções:
+0,00
+valor total:
+13.199,06
+observação:
+cesan
+autenticação:
+03a3dc11-cb9c-48c4-8f85-6916d8d2d9ac
+ouvidoria sicoob: 08007250996
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23014229
+data pagamento:
+25/01/2022
+período apuração:
+31/12/2021
+número do cpf ou cnpj:
+00317100000146
+código receita:
+8109
+data vencimento:
+25/01/2022
+valor principal:
+3.107,78
+valor total:
+3.107,78
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+03d67406-65c7-44d4-bf6d-7ef83a6c8395
+bancoob 08006464001
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23014310
+data pagamento:
+25/01/2022
+período apuração:
+31/12/2021
+número do cpf ou cnpj:
+00317100000146
+código receita:
+2172
+data vencimento:
+25/01/2022
+valor principal:
+14.343,50
+valor total:
+14.343,50
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+6f173d61-1143-4084-b9f3-d2fc1b9ae887
+bancoob 08006464001
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23432723
+data pagamento:
+31/01/2022
+período apuração:
+31/12/2021
+número do cpf ou cnpj:
+00317100000146
+código receita:
+2372
+data vencimento:
+31/01/2022
+valor principal:
+5.593,20
+valor total:
+5.593,20
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+7cbc2407-4a19-482f-9d4a-0fb8ffc5f607
+bancoob 08006464001
+origem da operação
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+modelo aprovado pela srf - ade conjunto corat/cotec no 001, de 2006
+data: 01/02/2022
+comprovante de pagamento darf
+hora: 10:12:27
+número do agendamento:
+23447163
+data pagamento:
+31/01/2022
+período apuração:
+31/12/2021
+número do cpf ou cnpj:
+00317100000146
+código receita:
+2089
+data vencimento:
+31/01/2022
+valor principal:
+4.847,01
+valor total:
+4.847,01
+ci:
+3010/556599 - clinirim - clinica do rim ltda.
+autenticação:
+46263a20-b4fd-4b7a-a49e-3cd5d239b8c3
+bancoob 08006464001

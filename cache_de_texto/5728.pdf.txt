@@ -1,0 +1,999 @@
+extrato de conta - consultar
+data referência inicial: 01/04/2024
+data referência final: 30/06/2024
+nome da conta: cnt smp condonal comercio e servicos ltda
+saldo inicial
+10,73 c
+21
+ref a baixa do boleto de deposito codigo: 34801 baixa de boleto avulso
+01/04/2024
+17:24:09
+5.000,00 +
+5.010,73 c
+21
+ref a baixa do boleto de deposito codigo: 34803 baixa de boleto avulso
+01/04/2024
+17:26:13
+725,00 +
+5.735,73 c
+50
+recebimento de recurso - outros liberacao de recursos
+01/04/2024
+17:39:39
+5.725,00 -
+10,73 c
+21
+ref a baixa do boleto de deposito codigo: 34968 baixa de boleto avulso
+02/04/2024
+15:56:03
+2.885,65 +
+2.896,38 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+02/04/2024
+16:13:16
+265,61 -
+2.630,77 c
+50
+recebimento de recurso - férias liberacao de recursos
+02/04/2024
+16:13:16
+2.630,77 -
+0,00 d
+21
+ref a baixa do boleto de deposito codigo: 35136 baixa de boleto avulso
+03/04/2024
+16:10:05
+34.393,00 +
+34.393,00 c
+50
+recebimento de recurso - salário liberacao de recursos
+03/04/2024
+16:26:17
+34.393,00 -
+0,00 c
+31
+despesas operacionais despesas operacionais
+04/04/2024
+00:00:00
+574,65 +
+574,65 c
+30
+estorno despesas operacionais estorno despesas operacionais
+04/04/2024
+00:00:00
+574,65 -
+0,00 c
+31
+despesas operacionais despesas operacionais
+04/04/2024
+00:00:00
+574,65 +
+574,65 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+05/04/2024
+00:00:00
+1,00 +
+575,65 c
+21
+ref a baixa do boleto de deposito codigo: 35602 baixa de boleto avulso
+05/04/2024
+10:54:24
+612.784,25
++
+613.359,90
+c
+50
+recebimento de recurso - rescisao liberacao de recursos
+05/04/2024
+11:00:18
+2.156,57 -
+611.203,33
+c
+50
+recebimento de recurso - salário liberacao de recursos
+05/04/2024
+11:00:20
+610.742,00
+-
+461,33 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+05/04/2024
+11:00:22
+461,33 -
+0,00 c
+21
+ref a baixa do boleto de deposito codigo: 35927 baixa de boleto avulso
+05/04/2024
+17:10:02
+1.080,00 +
+1.080,00 c
+50
+recebimento de recurso - outros liberacao de recursos
+05/04/2024
+17:27:21
+1.080,00 -
+0,00 c
+21
+ref a baixa do boleto de deposito codigo: 36197 baixa de boleto avulso
+08/04/2024
+17:00:03
+5.000,00 +
+5.000,00 c
+21
+ref a baixa do boleto de deposito codigo: 36201 baixa de boleto avulso
+08/04/2024
+17:04:03
+1.435,28 +
+6.435,28 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+08/04/2024
+17:13:16
+1.311,33 -
+5.123,95 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+08/04/2024
+17:13:16
+288,82 -
+4.835,13 c
+15/07/2024, 11:37
+::mêntore bank - empresa::
+about:blank
+1/17
+ mentore
+50
+recebimento de recurso - rescisao liberacao de recursos
+08/04/2024
+17:13:16
+4,13 -
+4.831,00 c
+50
+recebimento de recurso - outros liberacao de recursos
+08/04/2024
+17:13:16
+4.831,00 -
+0,00 c
+21
+ref a baixa do boleto de deposito codigo: 36530 baixa de boleto avulso
+10/04/2024
+15:58:03
+3.733,49 +
+3.733,49 c
+50
+recebimento de recurso - outros liberacao de recursos
+10/04/2024
+16:13:15
+36,88 -
+3.696,61 c
+50
+recebimento de recurso - outros liberacao de recursos
+10/04/2024
+16:13:15
+71,54 -
+3.625,07 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+10/04/2024
+16:13:16
+3.625,07 -
+0,00 c
+21
+ref a baixa do boleto de deposito codigo: 36707 baixa de boleto avulso
+11/04/2024
+14:22:04
+42,18 +
+42,18 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+11/04/2024
+14:26:36
+42,18 -
+0,00 c
+21
+ref a baixa do boleto de deposito codigo: 36928 baixa de boleto avulso
+12/04/2024
+15:42:04
+7.140,15 +
+7.140,15 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+12/04/2024
+15:53:42
+6.530,64 -
+609,51 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+12/04/2024
+15:53:43
+609,51 -
+0,00 c
+21
+ref a baixa do boleto de deposito codigo: 37210 baixa de boleto avulso
+15/04/2024
+18:50:03
+142.126,46
++
+142.126,46
+c
+50
+recebimento de recurso - férias liberacao de recursos
+15/04/2024
+19:13:23
+20.419,00 -
+121.707,46
+c
+50
+recebimento de recurso - rescisao liberacao de recursos
+15/04/2024
+19:13:23
+3.815,82 -
+117.891,64
+c
+50
+recebimento de recurso - rescisao liberacao de recursos
+15/04/2024
+19:13:23
+3.507,97 -
+114.383,67
+c
+50
+recebimento de recurso - rescisao liberacao de recursos
+15/04/2024
+19:13:23
+5.378,41 -
+109.005,26
+c
+50
+recebimento de recurso - rescisao liberacao de recursos
+15/04/2024
+19:13:23
+1.912,85 -
+107.092,41
+c
+50
+recebimento de recurso - rescisao liberacao de recursos
+15/04/2024
+19:13:23
+4.623,16 -
+102.469,25
+c
+50
+recebimento de recurso - rescisao liberacao de recursos
+15/04/2024
+19:13:23
+546,92 -
+101.922,33
+c
+50
+recebimento de recurso - salário liberacao de recursos
+15/04/2024
+19:13:23
+90.887,00 -
+11.035,33 c
+50
+recebimento de recurso - outros liberacao de recursos
+15/04/2024
+19:13:24
+1.061,35 -
+9.973,98 c
+50
+recebimento de recurso - outros liberacao de recursos
+15/04/2024
+19:13:24
+6.170,00 -
+3.803,98 c
+50
+recebimento de recurso - salário liberacao de recursos
+15/04/2024
+19:13:24
+3.803,98 -
+0,00 c
+31
+despesas operacionais despesas operacionais
+17/04/2024
+00:00:00
+5.167,82 +
+5.167,82 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+17/04/2024
+14:27:40
+40,16 -
+5.127,66 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+17/04/2024
+14:27:40
+1.144,65 -
+3.983,01 c
+93
+ref a pgto. do título código: 12751 / sacado: condominio do edificio nero davola
+/ nr nota: 10560 / liquidacao de titulo em cobranca
+19/04/2024
+00:00:00
+14.543,85 +
+18.526,86 c
+93
+ref a pgto. do título código: 12752 / sacado: condominio do edificio nero davola
+/ nr nota: 10440 / liquidacao de titulo em cobranca
+19/04/2024
+00:00:00
+7.271,93 +
+25.798,79 c
+50
+recebimento de recurso - férias liberacao de recursos
+19/04/2024
+15:00:49
+2.651,00 -
+23.147,79 c
+50
+recebimento de recurso - salário liberacao de recursos
+19/04/2024
+15:00:49
+680,00 -
+22.467,79 c
+50
+recebimento de recurso - outros liberacao de recursos
+19/04/2024
+15:00:49
+14.926,72 -
+7.541,07 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+19/04/2024
+15:00:50
+1.494,03 -
+6.047,04 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+19/04/2024
+15:00:55
+2.987,86 -
+3.059,18 c
+15/07/2024, 11:37
+::mêntore bank - empresa::
+about:blank
+2/17
+21
+ref a baixa do boleto de deposito codigo: 37864 baixa de boleto avulso
+22/04/2024
+12:22:03
+6.566,74 +
+9.625,92 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+22/04/2024
+12:26:45
+1.443,87 -
+8.182,05 c
+50
+recebimento de recurso - outros liberacao de recursos
+22/04/2024
+12:26:45
+8.142,05 -
+40,00 c
+21
+ref a baixa do boleto de deposito codigo: 38601 baixa de boleto avulso
+29/04/2024
+14:26:05
+16.780,84 +
+16.820,84 c
+50
+recebimento de recurso - outros liberacao de recursos
+29/04/2024
+14:40:19
+16.780,84 -
+40,00 c
+21
+ref a baixa do boleto de deposito codigo: 38783 baixa de boleto avulso
+30/04/2024
+12:06:02
+41.392,23 +
+41.432,23 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+30/04/2024
+12:26:16
+6.251,21 -
+35.181,02 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+30/04/2024
+12:26:16
+476,13 -
+34.704,89 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+30/04/2024
+12:26:16
+5.130,35 -
+29.574,54 c
+50
+recebimento de recurso - outros liberacao de recursos
+30/04/2024
+12:26:16
+79,54 -
+29.495,00 c
+50
+recebimento de recurso - salário liberacao de recursos
+30/04/2024
+12:26:16
+29.495,00 -
+0,00 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+02/05/2024
+00:00:00
+8.204,96 +
+8.204,96 c
+21
+ref a baixa do boleto de deposito codigo: 39371 baixa de boleto avulso
+03/05/2024
+13:24:03
+29.684,04 +
+37.889,00 c
+50
+recebimento de recurso - salário liberacao de recursos
+03/05/2024
+13:26:18
+37.889,00 -
+0,00 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+07/05/2024
+00:00:00
+7.956,84 +
+7.956,84 c
+21
+ref a baixa do boleto de deposito codigo: 40226 baixa de boleto avulso
+07/05/2024
+16:18:03
+317.538,69
++
+325.495,53
+c
+21
+ref a baixa do boleto de deposito codigo: 40263 baixa de boleto avulso
+07/05/2024
+16:46:03
+263.147,90
++
+588.643,43
+c
+21
+ref a baixa do boleto de deposito codigo: 40271 baixa de boleto avulso
+07/05/2024
+16:56:03
+182.110,91
++
+770.754,34
+c
+50
+recebimento de recurso - outros liberacao de recursos
+07/05/2024
+17:00:19
+7.010,00 -
+763.744,34
+c
+50
+recebimento de recurso - salário liberacao de recursos
+07/05/2024
+17:00:19
+762.408,00
+-
+1.336,34 c
+50
+recebimento de recurso - outros liberacao de recursos
+07/05/2024
+17:13:23
+1.336,34 -
+0,00 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+08/05/2024
+00:00:00
+19.703,96 +
+19.703,96 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+09/05/2024
+15:39:18
+422,34 -
+19.281,62 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+09/05/2024
+15:39:18
+511,83 -
+18.769,79 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+09/05/2024
+15:39:18
+1.573,39 -
+17.196,40 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+10/05/2024
+00:00:00
+2.269,22 +
+19.465,62 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+10/05/2024
+11:26:22
+2.486,12 -
+16.979,50 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+10/05/2024
+11:26:22
+924,31 -
+16.055,19 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+10/05/2024
+11:26:23
+1.649,82 -
+14.405,37 c
+24
+transferência para banco do brasil transferencia
+10/05/2024
+14:32:15
+14.000,00 -
+405,37 c
+93
+ref a pgto. do título código: 14557 / sacado: condominio do edificio residencial
+mandeville / nr nota: 10666 / liquidacao de titulo em cobranca
+13/05/2024
+00:00:00
+3.854,65 +
+4.260,02 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+13/05/2024
+00:00:00
+3.327,25 +
+7.587,27 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+13/05/2024
+00:00:00
+3.626,39 +
+11.213,66 c
+15/07/2024, 11:37
+::mêntore bank - empresa::
+about:blank
+3/17
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+13/05/2024
+00:00:00
+3.792,52 +
+15.006,18 c
+50
+recebimento de recurso - outros liberacao de recursos
+13/05/2024
+15:13:18
+5.760,00 -
+9.246,18 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+13/05/2024
+17:11:52
+699,45 -
+8.546,73 c
+21
+ref a baixa do boleto de deposito codigo: 41175 baixa de boleto avulso
+13/05/2024
+17:26:03
+40.000,00 +
+48.546,73 c
+24
+transferência para sem nome transferencia
+13/05/2024
+17:27:17
+35.561,54 -
+12.985,19 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+14/05/2024
+00:00:00
+19.228,75 +
+32.213,94 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+14/05/2024
+00:00:00
+20.977,92 +
+53.191,86 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+14/05/2024
+15:26:18
+1.353,10 -
+51.838,76 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+14/05/2024
+15:32:20
+1.071,00 -
+50.767,76 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+14/05/2024
+15:33:15
+782,05 -
+49.985,71 c
+24
+transferência para banco do brasil transferencia
+14/05/2024
+15:40:17
+49.900,00 -
+85,71 c
+21
+ref a baixa do boleto de deposito codigo: 41339 baixa de boleto avulso
+14/05/2024
+16:10:03
+5.000,00 +
+5.085,71 c
+21
+ref a baixa do boleto de deposito codigo: 41350 baixa de boleto avulso
+14/05/2024
+16:28:03
+64.000,00 +
+69.085,71 c
+21
+ref a baixa do boleto de deposito codigo: 41352 baixa de boleto avulso
+14/05/2024
+16:34:03
+2.000,00 +
+71.085,71 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+14/05/2024
+16:34:25
+70.599,48 -
+486,23 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+15/05/2024
+00:00:00
+6.548,43 +
+7.034,66 c
+31
+despesas operacionais despesas operacionais
+15/05/2024
+00:00:00
+5.390,01 +
+12.424,67 c
+50
+recebimento de recurso - salário liberacao de recursos
+15/05/2024
+11:52:21
+1.416,11 -
+11.008,56 c
+50
+recebimento de recurso - salário liberacao de recursos
+15/05/2024
+11:52:21
+114,83 -
+10.893,73 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+15/05/2024
+12:00:17
+130,37 -
+10.763,36 c
+24
+transferência para caixa agência 668 conta corrente 5095-1 transferencia
+15/05/2024
+12:16:32
+1.470,00 -
+9.293,36 c
+24
+transferência para caixa agência 668 conta corrente 5095-1 transferencia
+15/05/2024
+12:23:03
+57,50 -
+9.235,86 c
+21
+ref a baixa do boleto de deposito codigo: 41463 baixa de boleto avulso
+15/05/2024
+13:44:03
+42.210,00 +
+51.445,86 c
+50
+recebimento de recurso - férias liberacao de recursos
+15/05/2024
+13:52:18
+35.673,00 -
+15.772,86 c
+21
+ref a baixa do boleto de deposito codigo: 41883 baixa de boleto avulso
+15/05/2024
+18:40:03
+103.504,14
++
+119.277,00
+c
+50
+recebimento de recurso - salário liberacao de recursos
+15/05/2024
+18:52:17
+119.227,00
+-
+50,00 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+17.969,00 +
+18.019,00 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+21.714,93 +
+39.733,93 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+12.202,12 +
+51.936,05 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+15.736,44 +
+67.672,49 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+70.599,48 +
+138.271,97
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+8.410,93 +
+146.682,90
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+12.282,41 +
+158.965,31
+c
+15/07/2024, 11:37
+::mêntore bank - empresa::
+about:blank
+4/17
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+2.194,21 +
+161.159,52
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+3.787,07 +
+164.946,59
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+3.477,18 +
+168.423,77
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+3.904,57 +
+172.328,34
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+7.002,49 +
+179.330,83
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+1.794,77 +
+181.125,60
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+3.386,71 +
+184.512,31
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+3.728,73 +
+188.241,04
+c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+16/05/2024
+00:00:00
+534,66 +
+188.775,70
+c
+50
+recebimento de recurso - salário liberacao de recursos
+16/05/2024
+10:13:55
+7.476,00 -
+181.299,70
+c
+24
+transferência para itau transferencia
+16/05/2024
+19:02:28
+10.956,45 -
+170.343,25
+c
+24
+transferência para bradesco transferencia
+16/05/2024
+19:04:31
+2.330,00 -
+168.013,25
+c
+24
+transferência para nu pagamentos transferencia
+16/05/2024
+19:05:49
+400,00 -
+167.613,25
+c
+24
+transferência para caixa agência 1046 conta poupança 772532366-0 transferencia
+16/05/2024
+19:14:25
+4.016,63 -
+163.596,62
+c
+24
+transferência para banco do brasil agência 21 conta corrente 107787-2
+transferencia
+16/05/2024
+19:16:56
+130.000,00
+-
+33.596,62 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+16:30:52
+3.928,42 -
+29.668,20 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+16:31:57
+1.640,00 -
+28.028,20 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+16:32:52
+230,00 -
+27.798,20 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+16:34:17
+3.200,00 -
+24.598,20 c
+24
+transferência para intermedium transferencia
+17/05/2024
+16:35:31
+12.895,90 -
+11.702,30 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+16:37:26
+2.544,71 -
+9.157,59 c
+50
+recebimento de recurso - rescisao liberacao de recursos
+17/05/2024
+16:39:37
+109,31 -
+9.048,28 c
+24
+transferência para caixa agência 82 conta poupança 7375-6 transferencia
+17/05/2024
+16:41:18
+128,37 -
+8.919,91 c
+18
+ref ao estorno da transferencia: 6633825 estorno transferencia
+17/05/2024
+16:53:24
+128,37 +
+9.048,28 c
+21
+ref a baixa do boleto de deposito codigo: 42293 baixa de boleto avulso
+17/05/2024
+16:56:05
+93.095,03 +
+102.143,31
+c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+16:59:07
+22.003,23 -
+80.140,08 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+17:01:12
+16.156,06 -
+63.984,02 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+17:02:55
+26.686,53 -
+37.297,49 c
+44
+referente a pagamento de contas () cadastro de pagamento de contas
+17/05/2024
+17:03:59
+28.165,60 -
+9.131,89 c
+15
+transferência entre contas transferencia entre contas mentore bank
+17/05/2024
+17:26:19
+2.000,00 -
+7.131,89 c
+93
+ref a pgto. do título código: 16019 / sacado: condominio grand parc residencial
+res / nr nota: 10692 / 10692 liquidacao de titulo em cobranca
+20/05/2024
+00:00:00
+7.978,68 +
+15.110,57 c
+93
+liquidacao de titulo em cobranca liquidacao de titulo em cobranca
+20/05/2024
+00:00:00
+10.888,39 +
+25.998,96 c
+50
+recebimento de recurso - outros liberacao de recursos
+20/05/2024
+13:39:40
+8.920,29 -
+17.078,67 c
+15/07/2024, 11:37
+::mêntore bank - empresa::
+about:blank
+5/17

@@ -1,0 +1,1626 @@
+empresa : 3 - c.i solucoes inteligentes ltda     /     segmento de negócio : geral     /     segmento do cliente : geral     /     cliente : geral     /     transação financeira : geral     /     conta corrente :
+geral     /     tipo de cobrança : geral     /     forma de pagamento : geral     /     vendedor : geral     /     hist. conta corrente : geral     /     cidade : geral     /     u.f. : geral     /     data emissão receita : geral
+/     data previsão recebimento : geral     /     data vecto. receita : 01/01/2023 até 31/12/2023     /     data vecto. original receita : não     /     data recebimento receita : geral     /     status  : geral     /
+documentos assinalados como projeção : geral     /     documentos : recebidos     /     
+trans.financ.
+empresa
+nr.cta.cor.
+proj.
+nf/nf serv
+st. sequencial
+valor receita
+valor receb./arec.
+documento
+cliente
+emissão
+vecto.
+pagto.
+data recebimento : 13/01/2023
+supermercado bahamas s/a
+15557
+983,68
+31
+n
+1.03.001
+9536769-1
+n
+3
+31/1
+983,68
+13/01/2023
+15/01/2023
+02/01/2023
+supermercado bahamas s/a
+15558
+2.162,40
+32
+n
+1.03.001
+9536769-1
+n
+3
+32/1
+2.162,40
+13/01/2023
+15/01/2023
+02/01/2023
+supermercado bahamas s/a
+15559
+180,30
+33
+n
+1.03.001
+9536769-1
+n
+3
+33/1
+180,30
+13/01/2023
+15/01/2023
+02/01/2023
+supermercado bahamas s/a
+15560
+446,40
+34
+n
+1.03.001
+9536769-1
+n
+3
+34/1
+446,40
+13/01/2023
+15/01/2023
+02/01/2023
+4
+3.772,78
+3.772,78
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 15/01/2023
+cereais bramil ltda
+15521
+2.834,50
+29
+n
+1.03.001
+9536769-1
+n
+3
+29/1
+2.834,50
+15/01/2023
+15/01/2023
+30/12/2022
+cereais bramil ltda
+15522
+711,00
+30
+n
+1.03.001
+9536769-1
+n
+3
+30/1
+711,00
+15/01/2023
+15/01/2023
+30/12/2022
+2
+3.545,50
+3.545,50
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 19/01/2023
+supermercado bahamas s/a
+15630
+16.264,77
+1
+n
+1.02.002
+9536769-1
+n
+3
+1/1
+16.264,77
+19/01/2023
+19/01/2023
+17/01/2023
+1
+16.264,77
+16.264,77
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 31/01/2023
+supermercado bahamas s/a
+15631
+7.276,35
+2
+n
+1.02.002
+9536769-1
+n
+3
+2/1
+7.276,35
+31/01/2023
+20/01/2023
+17/01/2023
+supermercado bahamas s/a
+15632
+7.276,54
+3
+n
+1.02.002
+9536769-1
+n
+3
+3/1
+7.276,54
+31/01/2023
+31/01/2023
+17/01/2023
+2
+14.552,89
+14.552,89
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 03/02/2023
+supermercado bahamas s/a
+15636
+7.276,35
+4
+n
+1.02.001
+9536769-1
+n
+3
+4/1
+7.276,35
+03/02/2023
+03/02/2023
+19/01/2023
+1
+7.276,35
+7.276,35
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 15/02/2023
+cereais bramil ltda
+15703
+711,00
+35
+n
+1.03.001
+9536769-1
+n
+3
+35/1
+711,00
+15/02/2023
+15/02/2023
+31/01/2023
+cereais bramil ltda
+15704
+2.739,02
+36
+n
+1.03.001
+9536769-1
+n
+3
+36/1
+2.739,02
+15/02/2023
+15/02/2023
+31/01/2023
+supermercado bahamas s/a
+15722
+983,68
+37
+n
+1.03.001
+9536769-1
+n
+3
+37/1
+983,68
+15/02/2023
+15/02/2023
+01/02/2023
+supermercado bahamas s/a
+15723
+2.289,60
+38
+n
+1.03.001
+9536769-1
+n
+3
+38/1
+2.289,60
+15/02/2023
+15/02/2023
+01/02/2023
+supermercado bahamas s/a
+15724
+180,30
+39
+n
+1.03.001
+9536769-1
+n
+3
+39/1
+180,30
+15/02/2023
+15/02/2023
+01/02/2023
+supermercado bahamas s/a
+15725
+1.298,64
+40
+n
+1.03.001
+9536769-1
+n
+3
+40/1
+1.298,64
+15/02/2023
+15/02/2023
+01/02/2023
+supermercado bahamas s/a
+15727
+8.315,82
+6
+n
+1.02.001
+9536769-1
+n
+3
+6/1
+8.315,82
+15/02/2023
+15/02/2023
+02/02/2023
+relatório contas a receber
+14/01/2025    12:32:04
+pág.: 1/13
+er
+ilux empresarial
+copymaq comercio e servicos ltda
+v. : 1.8.64.7 / revisão: 1236 - 17/12/2024 16:33:00
+receitas (recebidas)
+trans.financ.
+empresa
+nr.cta.cor.
+proj.
+nf/nf serv
+st. sequencial
+valor receita
+valor receb./arec.
+documento
+cliente
+emissão
+vecto.
+pagto.
+data recebimento : 15/02/2023
+supermercado bahamas s/a
+15727
+8.315,82
+6
+n
+1.02.001
+9536769-1
+n
+3
+6/1
+8.315,82
+15/02/2023
+15/02/2023
+02/02/2023
+7
+16.518,06
+16.518,06
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 21/02/2023
+supermercado bahamas s/a
+15731
+2.564,05
+7
+n
+1.02.001
+9536769-1
+n
+3
+7/1
+2.564,05
+21/02/2023
+21/02/2023
+06/02/2023
+1
+2.564,05
+2.564,05
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 22/02/2023
+supermercado bahamas s/a
+15732
+8.315,82
+8
+n
+1.02.001
+9536769-1
+n
+3
+8/1
+8.315,82
+22/02/2023
+22/02/2023
+07/02/2023
+1
+8.315,82
+8.315,82
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 28/02/2023
+supermercado bahamas s/a
+15677
+7.276,35
+5
+n
+1.02.001
+90630591-8
+n
+3
+5/1
+7.276,35
+28/02/2023
+11/02/2023
+27/01/2023
+1
+7.276,35
+7.276,35
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 08/03/2023
+supermercado bahamas s/a
+15808
+2.564,05
+9
+n
+1.02.001
+90630591-8
+n
+3
+9/1
+2.564,05
+08/03/2023
+01/03/2023
+15/02/2023
+supermercado bahamas s/a
+15809
+8.315,82
+10
+n
+1.02.001
+90630591-8
+n
+3
+10/1
+8.315,82
+08/03/2023
+01/03/2023
+15/02/2023
+2
+10.879,87
+10.879,87
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 10/03/2023
+supermercado bahamas s/a
+15844
+8.315,82
+11
+n
+1.02.001
+9536769-1
+n
+3
+11/1
+8.486,40
+10/03/2023
+10/03/2023
+23/02/2023
+supermercado bahamas s/a
+15845
+2.564,05
+12
+n
+1.02.001
+9536769-1
+n
+3
+12/1
+2.616,64
+10/03/2023
+10/03/2023
+23/02/2023
+2
+11.103,04
+10.879,87
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 15/03/2023
+cereais bramil ltda
+15872
+2.462,66
+41
+n
+1.03.001
+90630591-8
+n
+3
+41/1
+2.462,66
+15/03/2023
+15/03/2023
+28/02/2023
+cereais bramil ltda
+15873
+711,00
+42
+n
+1.03.001
+90630591-8
+n
+3
+42/1
+711,00
+15/03/2023
+15/03/2023
+28/02/2023
+supermercado bahamas s/a
+15889
+983,68
+43
+n
+1.03.001
+90630591-8
+n
+3
+43/1
+983,68
+15/03/2023
+15/03/2023
+01/03/2023
+supermercado bahamas s/a
+15890
+2.289,60
+44
+n
+1.03.001
+90630591-8
+n
+3
+44/1
+2.289,60
+15/03/2023
+15/03/2023
+01/03/2023
+supermercado bahamas s/a
+15891
+180,30
+45
+n
+1.03.001
+90630591-8
+n
+3
+45/1
+180,30
+15/03/2023
+15/03/2023
+01/03/2023
+supermercado bahamas s/a
+15892
+391,44
+46
+n
+1.03.001
+90630591-8
+n
+3
+46/1
+391,44
+15/03/2023
+15/03/2023
+01/03/2023
+6
+7.018,68
+7.018,68
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 16/03/2023
+supermercado bahamas s/a
+15893
+2.440,93
+13
+n
+1.02.001
+90630591-8
+n
+3
+13/1
+2.491,00
+16/03/2023
+16/03/2023
+01/03/2023
+supermercado bahamas s/a
+15894
+8.315,82
+14
+n
+1.02.001
+90630591-8
+n
+3
+14/1
+8.486,40
+16/03/2023
+16/03/2023
+01/03/2023
+supermercado bahamas s/a
+15895
+2.564,31
+15
+n
+1.02.001
+90630591-8
+n
+3
+15/1
+2.616,64
+16/03/2023
+16/03/2023
+01/03/2023
+relatório contas a receber
+14/01/2025    12:32:04
+pág.: 2/13
+er
+ilux empresarial
+copymaq comercio e servicos ltda
+v. : 1.8.64.7 / revisão: 1236 - 17/12/2024 16:33:00
+receitas (recebidas)
+trans.financ.
+empresa
+nr.cta.cor.
+proj.
+nf/nf serv
+st. sequencial
+valor receita
+valor receb./arec.
+documento
+cliente
+emissão
+vecto.
+pagto.
+data recebimento : 16/03/2023
+supermercado bahamas s/a
+15895
+2.564,31
+15
+n
+1.02.001
+90630591-8
+n
+3
+15/1
+2.616,64
+16/03/2023
+16/03/2023
+01/03/2023
+3
+13.594,04
+13.321,06
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 24/03/2023
+supermercado bahamas s/a
+15900
+8.315,82
+16
+n
+1.02.001
+90630591-8
+n
+3
+16/1
+8.486,40
+24/03/2023
+24/03/2023
+09/03/2023
+supermercado bahamas s/a
+15901
+2.564,05
+17
+n
+1.02.001
+90630591-8
+n
+3
+17/1
+2.616,64
+24/03/2023
+24/03/2023
+09/03/2023
+2
+11.103,04
+10.879,87
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 29/03/2023
+supermercado bahamas s/a
+15968
+2.564,05
+19
+n
+1.02.001
+90630591-8
+n
+3
+19/1
+2.616,64
+29/03/2023
+29/03/2023
+14/03/2023
+1
+2.616,64
+2.564,05
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 05/04/2023
+supermercado bahamas s/a
+15967
+8.315,82
+18
+n
+1.02.001
+90630591-8
+n
+3
+18/1
+8.486,40
+05/04/2023
+29/03/2023
+14/03/2023
+1
+8.486,40
+8.315,82
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 11/04/2023
+supermercado bahamas s/a
+16016
+8.315,82
+23
+n
+1.02.001
+90630591-8
+n
+3
+23/1
+8.486,40
+11/04/2023
+11/04/2023
+27/03/2023
+supermercado bahamas s/a
+16017
+2.564,05
+24
+n
+1.02.001
+90630591-8
+n
+3
+24/1
+2.616,64
+11/04/2023
+11/04/2023
+27/03/2023
+2
+11.103,04
+10.879,87
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 12/04/2023
+supermercado bahamas s/a
+15980
+1.973,52
+20
+n
+1.02.001
+90630591-8
+n
+3
+20/1
+2.014,00
+12/04/2023
+05/04/2023
+21/03/2023
+supermercado bahamas s/a
+15981
+8.315,82
+21
+n
+1.02.001
+90630591-8
+n
+3
+21/1
+8.486,40
+12/04/2023
+05/04/2023
+21/03/2023
+supermercado bahamas s/a
+15982
+2.564,05
+22
+n
+1.02.001
+90630591-8
+n
+3
+22/1
+2.616,64
+12/04/2023
+05/04/2023
+21/03/2023
+3
+13.117,04
+12.853,39
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 15/04/2023
+cereais bramil ltda
+16060
+2.831,90
+47
+n
+1.03.001
+90630591-8
+n
+3
+47/1
+2.831,90
+15/04/2023
+15/04/2023
+03/04/2023
+cereais bramil ltda
+16061
+711,00
+48
+n
+1.03.001
+90630591-8
+n
+3
+48/1
+711,00
+15/04/2023
+15/04/2023
+03/04/2023
+2
+3.542,90
+3.542,90
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 20/04/2023
+supermercado bahamas s/a
+16067
+8.315,82
+25
+n
+1.02.001
+90630591-8
+n
+3
+25/1
+8.486,40
+20/04/2023
+20/04/2023
+05/04/2023
+supermercado bahamas s/a
+16068
+2.564,05
+26
+n
+1.02.001
+90630591-8
+n
+3
+26/1
+2.616,64
+20/04/2023
+20/04/2023
+05/04/2023
+2
+11.103,04
+10.879,87
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 02/05/2023
+supermercado bahamas s/a
+16153
+8.315,82
+27
+n
+1.02.001
+90630591-8
+n
+3
+27/1
+8.486,40
+02/05/2023
+02/05/2023
+17/04/2023
+relatório contas a receber
+14/01/2025    12:32:04
+pág.: 3/13
+er
+ilux empresarial
+copymaq comercio e servicos ltda
+v. : 1.8.64.7 / revisão: 1236 - 17/12/2024 16:33:00
+receitas (recebidas)
+trans.financ.
+empresa
+nr.cta.cor.
+proj.
+nf/nf serv
+st. sequencial
+valor receita
+valor receb./arec.
+documento
+cliente
+emissão
+vecto.
+pagto.
+data recebimento : 02/05/2023
+supermercado bahamas s/a
+16154
+2.140,10
+28
+n
+1.02.001
+90630591-8
+n
+3
+28/1
+2.184,00
+02/05/2023
+02/05/2023
+17/04/2023
+2
+10.670,40
+10.455,92
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 09/05/2023
+supermercado bahamas s/a
+16164
+2.140,10
+29
+n
+1.02.001
+90630591-8
+n
+3
+29/1
+2.184,00
+09/05/2023
+09/05/2023
+24/04/2023
+supermercado bahamas s/a
+16165
+6.592,77
+30
+n
+1.02.001
+90630591-8
+n
+3
+30/1
+6.728,00
+09/05/2023
+09/05/2023
+24/04/2023
+2
+8.912,00
+8.732,87
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 15/05/2023
+supermercado bahamas s/a
+16062
+1.933,44
+49
+n
+1.03.001
+90630591-8
+n
+3
+49/1
+1.933,44
+15/05/2023
+15/05/2023
+03/04/2023
+supermercado bahamas s/a
+16063
+2.671,20
+50
+n
+1.03.001
+90630591-8
+n
+3
+50/1
+2.671,20
+15/05/2023
+15/05/2023
+03/04/2023
+supermercado bahamas s/a
+16064
+180,30
+51
+n
+1.03.001
+90630591-8
+n
+3
+51/1
+180,30
+15/05/2023
+15/05/2023
+03/04/2023
+supermercado bahamas s/a
+16065
+582,00
+52
+n
+1.03.001
+90630591-8
+n
+3
+52/1
+582,00
+15/05/2023
+15/05/2023
+03/04/2023
+cereais bramil ltda
+16223
+711,00
+53
+n
+1.03.001
+90630591-8
+n
+3
+53/1
+711,00
+15/05/2023
+15/05/2023
+28/04/2023
+supermercado bahamas s/a
+16225
+8.315,82
+31
+n
+1.02.001
+90630591-8
+n
+3
+31/1
+8.486,40
+15/05/2023
+13/05/2023
+28/04/2023
+supermercado bahamas s/a
+16226
+8.315,82
+32
+n
+1.02.001
+90630591-8
+n
+3
+32/1
+8.486,40
+15/05/2023
+13/05/2023
+28/04/2023
+supermercado bahamas s/a
+16227
+2.140,10
+33
+n
+1.02.001
+90630591-8
+n
+3
+33/1
+2.184,00
+15/05/2023
+13/05/2023
+28/04/2023
+supermercado bahamas s/a
+16228
+2.140,10
+34
+n
+1.02.001
+90630591-8
+n
+3
+34/1
+2.184,00
+15/05/2023
+13/05/2023
+28/04/2023
+9
+27.418,74
+26.989,78
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 17/05/2023
+supermercado bahamas s/a
+16250
+1.967,36
+55
+n
+1.03.001
+90630591-8
+n
+3
+55/1
+1.967,36
+17/05/2023
+17/05/2023
+02/05/2023
+supermercado bahamas s/a
+16251
+2.671,20
+56
+n
+1.03.001
+90630591-8
+n
+3
+56/1
+2.671,20
+17/05/2023
+17/05/2023
+02/05/2023
+supermercado bahamas s/a
+16252
+180,30
+57
+n
+1.03.001
+90630591-8
+n
+3
+57/1
+180,30
+17/05/2023
+17/05/2023
+02/05/2023
+supermercado bahamas s/a
+16253
+341,76
+58
+n
+1.03.001
+90630591-8
+n
+3
+58/1
+341,76
+17/05/2023
+17/05/2023
+02/05/2023
+4
+5.160,62
+5.160,62
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 20/05/2023
+supermercado bahamas s/a
+16258
+8.309,88
+35
+n
+1.02.001
+90630591-8
+n
+3
+35/1
+8.486,40
+20/05/2023
+20/05/2023
+05/05/2023
+supermercado bahamas s/a
+16259
+2.138,57
+36
+n
+1.02.001
+90630591-8
+n
+3
+36/1
+2.184,00
+20/05/2023
+20/05/2023
+05/05/2023
+2
+10.670,40
+10.448,45
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 25/05/2023
+cereais bramil ltda
+16224
+2.249,63
+54
+n
+1.03.001
+90630591-8
+n
+3
+54/1
+2.249,63
+25/05/2023
+25/05/2023
+28/04/2023
+1
+2.249,63
+2.249,63
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 12/06/2023
+supermercado bahamas s/a
+16361
+8.309,88
+37
+n
+1.02.001
+90630591-8
+n
+3
+37/1
+8.486,40
+12/06/2023
+08/06/2023
+24/05/2023
+relatório contas a receber
+14/01/2025    12:32:04
+pág.: 4/13
+er
+ilux empresarial
+copymaq comercio e servicos ltda
+v. : 1.8.64.7 / revisão: 1236 - 17/12/2024 16:33:00
+receitas (recebidas)
+trans.financ.
+empresa
+nr.cta.cor.
+proj.
+nf/nf serv
+st. sequencial
+valor receita
+valor receb./arec.
+documento
+cliente
+emissão
+vecto.
+pagto.
+data recebimento : 12/06/2023
+supermercado bahamas s/a
+16367
+8.309,88
+38
+n
+1.02.001
+90630591-8
+n
+3
+38/1
+8.486,40
+12/06/2023
+09/06/2023
+25/05/2023
+supermercado bahamas s/a
+16368
+8.798,70
+39
+n
+1.02.001
+90630591-8
+n
+3
+39/1
+8.985,60
+12/06/2023
+09/06/2023
+25/05/2023
+supermercado bahamas s/a
+16369
+2.138,57
+40
+n
+1.02.001
+90630591-8
+n
+3
+40/1
+2.184,00
+12/06/2023
+09/06/2023
+25/05/2023
+supermercado bahamas s/a
+16370
+2.138,57
+41
+n
+1.02.001
+90630591-8
+n
+3
+41/1
+2.184,00
+12/06/2023
+09/06/2023
+25/05/2023
+supermercado bahamas s/a
+16371
+977,63
+42
+n
+1.02.001
+90630591-8
+n
+3
+42/1
+998,40
+12/06/2023
+09/06/2023
+25/05/2023
+supermercado bahamas s/a
+16372
+203,67
+43
+n
+1.02.001
+90630591-8
+n
+3
+43/1
+208,00
+12/06/2023
+09/06/2023
+25/05/2023
+supermercado bahamas s/a
+16373
+113,59
+44
+n
+1.02.001
+90630591-8
+n
+3
+44/1
+116,00
+12/06/2023
+09/06/2023
+25/05/2023
+8
+31.648,80
+30.990,49
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 15/06/2023
+cereais bramil ltda
+16384
+711,00
+59
+n
+1.03.001
+90630591-8
+n
+3
+59/1
+711,00
+15/06/2023
+15/06/2023
+31/05/2023
+cereais bramil ltda
+16385
+2.785,68
+60
+n
+1.03.001
+90630591-8
+n
+3
+60/1
+2.785,68
+15/06/2023
+15/06/2023
+31/05/2023
+supermercado bahamas s/a
+16413
+488,82
+45
+n
+1.02.001
+90630591-8
+n
+3
+45/1
+499,20
+15/06/2023
+15/06/2023
+31/05/2023
+supermercado bahamas s/a
+16414
+2.138,57
+46
+n
+1.02.001
+90630591-8
+n
+3
+46/1
+2.184,00
+15/06/2023
+15/06/2023
+31/05/2023
+supermercado bahamas s/a
+16415
+8.798,70
+47
+n
+1.02.001
+90630591-8
+n
+3
+47/1
+8.985,60
+15/06/2023
+15/06/2023
+31/05/2023
+supermercado bahamas s/a
+16416
+488,82
+48
+n
+1.02.001
+90630591-8
+n
+3
+48/1
+499,20
+15/06/2023
+15/06/2023
+31/05/2023
+6
+15.664,68
+15.411,59
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 16/06/2023
+supermercado bahamas s/a
+16432
+414,48
+61
+n
+1.03.001
+90630591-8
+n
+3
+61/1
+414,48
+16/06/2023
+16/06/2023
+01/06/2023
+supermercado bahamas s/a
+16433
+180,30
+62
+n
+1.03.001
+90630591-8
+n
+3
+62/1
+180,30
+16/06/2023
+16/06/2023
+01/06/2023
+supermercado bahamas s/a
+16434
+2.586,40
+63
+n
+1.03.001
+90630591-8
+n
+3
+63/1
+2.586,40
+16/06/2023
+16/06/2023
+01/06/2023
+supermercado bahamas s/a
+16435
+2.035,20
+64
+n
+1.03.001
+90630591-8
+n
+3
+64/1
+2.035,20
+16/06/2023
+16/06/2023
+01/06/2023
+4
+5.216,38
+5.216,38
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 29/06/2023
+supermercado bahamas s/a
+16510
+2.228,11
+49
+n
+1.02.001
+90630591-8
+n
+3
+49/1
+2.283,84
+29/06/2023
+29/06/2023
+14/06/2023
+supermercado bahamas s/a
+16511
+487,02
+50
+n
+1.02.001
+90630591-8
+n
+3
+50/1
+499,20
+29/06/2023
+29/06/2023
+14/06/2023
+supermercado bahamas s/a
+16512
+8.766,35
+51
+n
+1.02.001
+90630591-8
+n
+3
+51/1
+8.985,60
+29/06/2023
+29/06/2023
+14/06/2023
+3
+11.768,64
+11.481,48
+total :
+nr. registros :
+valor receita(subtotal) :
+data recebimento : 01/07/2023
+supermercado bahamas s/a
+16516
+2.228,11
+52
+n
+1.02.001
+90630591-8
+n
+3
+52/1
+2.283,84
+01/07/2023
+01/07/2023
+16/06/2023
+supermercado bahamas s/a
+16517
+8.766,35
+53
+n
+1.02.001
+90630591-8
+n
+3
+53/1
+8.985,60
+01/07/2023
+01/07/2023
+16/06/2023
+supermercado bahamas s/a
+16518
+487,02
+54
+n
+1.02.001
+90630591-8
+n
+3
+54/1
+499,20
+01/07/2023
+01/07/2023
+16/06/2023
+supermercado bahamas s/a
+16562
+487,02
+56
+n
+1.02.001
+90630591-8
+n
+3
+56/1
+499,20
+01/07/2023
+12/07/2023
+27/06/2023
+relatório contas a receber
+14/01/2025    12:32:04
+pág.: 5/13
+er
+ilux empresarial
+copymaq comercio e servicos ltda
+v. : 1.8.64.7 / revisão: 1236 - 17/12/2024 16:33:00
+receitas (recebidas)

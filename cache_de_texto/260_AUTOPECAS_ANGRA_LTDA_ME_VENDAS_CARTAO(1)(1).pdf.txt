@@ -1,0 +1,2287 @@
+empresa:
+1
+página:
+período de 01/06/2021 à 30/06/2021 com turno de 1 à 99 e sub-ordem de pedido
+autopecas angra ltda me                                     
+relatório de vendas por ordem de data
+filial inicial: 01 - autopecas angra ltda 
+filial final: 01 - autopecas angra ltda 
+usuário inicial: 000001 - guilherme                                         
+usuário final: 999999 - atual 
+vendedor inicial: 000001 - guilherme                                         
+vendedor final: 999999 - atual 
+operação inicial: 0001 - vendas                                  
+operação final: 0026 - outras saidas                           
+parceiro inicial: 000001 - nenhum                                  
+parceiro final: 000002 - adenilson moreira mesquita         
+cliente inicial: 000001 - cfc sao 
+cliente final: 999999 - cliente a 
+empresa inicial: 999999 - * 
+empresa final: 999999 - * 
+c.apuração inicial: 0001 - geral                    
+c.apuração final: 0001 - geral                    
+n/f
+vr total
+fl
+sr hora
+operação
+serviço
+vendedor
+vr serviço
+vr desc.
+exc
+cliente
+pedido
+19178
+16controle 
+1
+25
+16:22
+21164 a
+nfce - venda consumidor
+999999 cliente a 
+235,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+235,00
+banco:
+total do dia 01/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+235,00
+235,00
+vr desc.
+0,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+0,00
+0,00
+235,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19186
+16controle 
+1
+25
+16:31
+21176 a
+nfce - venda consumidor
+999999 cliente a 
+351,50 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+351,50
+banco:
+total do dia 02/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+351,50
+351,50
+vr desc.
+0,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+0,00
+0,00
+351,50
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19195
+16controle 
+1
+25
+09:33
+21182 a
+nfce - venda consumidor
+999999 cliente a 
+280,00 n
+43,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+280,00
+banco:
+19205
+16controle 
+1
+25
+16:46
+21190 a
+nfce - venda consumidor
+999999 cliente a 
+20,00 n
+3,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+20,00
+banco:
+19209
+17balcao
+1
+25
+9500
+16:59
+21191 a
+nfce - venda consumidor
+34 edvaldo 
+208,00 n
+22,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+208,00
+banco:
+19207
+17balcao
+1
+25
+9206
+16:57
+21193 a
+nfce - venda consumidor
+66 rodrigo 
+95,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+95,00
+banco:
+19206
+17balcao
+1
+25
+9501
+16:56
+21194 a
+nfce - venda consumidor
+999999 cliente a 
+490,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+490,00
+banco:
+total do dia 04/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+1093,00
+1093,00
+vr desc.
+68,50
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+770,00
+0,00
+323,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19214
+16controle 
+1
+25
+10:20
+21196 a
+nfce - venda consumidor
+999999 cliente a 
+93,00 n
+17,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+93,00
+banco:
+19213
+16controle 
+1
+25
+10:19
+21198 a
+nfce - venda consumidor
+999999 cliente a 
+8,00 n
+1,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+8,00
+banco:
+19211
+16controle 
+1
+25
+10:03
+21199 a
+nfce - venda consumidor
+999999 cliente a 
+110,00 n
+20,00
+[rsysven] - atual sistemas
+gerado em 02/07/2021 as 10:00:05
+estação: servidor - usuário: raiane
+empresa:
+2
+página:
+período de 01/06/2021 à 30/06/2021 com turno de 1 à 99 e sub-ordem de pedido
+autopecas angra ltda me                                     
+relatório de vendas por ordem de data
+n/f
+vr total
+fl
+sr hora
+operação
+serviço
+vendedor
+vr serviço
+vr desc.
+exc
+cliente
+pedido
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+110,00
+banco:
+19219
+17balcao
+1
+25
+9407
+10:32
+21204 a
+nfce - venda consumidor
+403 gabriel 
+250,00 n
+30,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+250,00
+banco:
+total do dia 05/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+461,00
+461,00
+vr desc.
+68,50
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+351,00
+0,00
+110,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19225
+17balcao
+1
+25
+9221
+09:36
+21212 a
+nfce - venda consumidor
+362 walkson 
+261,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+101,00
+160,00
+banco:
+19235
+17balcao
+1
+25
+9408
+11:06
+21218 a
+nfce - venda consumidor
+213 marcio 
+181,00 n
+19,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+181,00
+banco:
+19234
+17balcao
+1
+25
+9398
+11:05
+21219 a
+nfce - venda consumidor
+213 marcio 
+24,00 n
+2,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+24,00
+banco:
+19233
+17balcao
+1
+25
+9023
+11:04
+21220 a
+nfce - venda consumidor
+213 marcio 
+22,00 n
+3,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+22,00
+banco:
+total do dia 07/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+488,00
+488,00
+vr desc.
+24,50
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+387,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+101,00
+0,00
+19262
+16controle 
+1
+25
+15:25
+21257 a
+nfce - venda consumidor
+999999 cliente a 
+50,00 n
+10,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+50,00
+banco:
+19261
+16controle 
+1
+25
+15:25
+21258 a
+nfce - venda consumidor
+999999 cliente a 
+115,00 n
+12,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+115,00
+banco:
+19263
+16controle 
+1
+25
+15:26
+21259 a
+nfce - venda consumidor
+999999 cliente a 
+115,00 n
+17,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+115,00
+banco:
+total do dia 08/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+280,00
+280,00
+vr desc.
+39,50
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+115,00
+0,00
+165,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19313
+17balcao
+1
+25
+9413
+12:13
+21300 a
+nfce - venda consumidor
+403 gabriel 
+16,00 n
+2,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+16,00
+banco:
+19312
+17balcao
+1
+25
+9412
+12:11
+21301 a
+nfce - venda consumidor
+403 gabriel 
+414,00 n
+65,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+414,00
+banco:
+19321
+17balcao
+1
+25
+9523
+12:40
+21304 a
+nfce - venda consumidor
+11 claucio 
+545,00 n
+84,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+545,00
+banco:
+19320
+17balcao
+1
+25
+9524
+12:39
+21305 a
+nfce - venda consumidor
+34 edvaldo 
+50,00 n
+9,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+50,00
+banco:
+19319
+17balcao
+1
+25
+9528
+12:38
+21306 a
+nfce - venda consumidor
+34 edvaldo 
+10,00 n
+2,00
+[rsysven] - atual sistemas
+gerado em 02/07/2021 as 10:00:05
+estação: servidor - usuário: raiane
+empresa:
+3
+página:
+período de 01/06/2021 à 30/06/2021 com turno de 1 à 99 e sub-ordem de pedido
+autopecas angra ltda me                                     
+relatório de vendas por ordem de data
+n/f
+vr total
+fl
+sr hora
+operação
+serviço
+vendedor
+vr serviço
+vr desc.
+exc
+cliente
+pedido
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+10,00
+banco:
+19318
+17balcao
+1
+25
+9024
+12:38
+21307 a
+nfce - venda consumidor
+217 anderson 
+50,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+50,00
+banco:
+19317
+17balcao
+1
+25
+9344
+12:37
+21308 a
+nfce - venda consumidor
+217 anderson 
+18,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+18,00
+banco:
+19316
+17balcao
+1
+25
+9530
+12:32
+21309 a
+nfce - venda consumidor
+999999 cliente a 
+60,00 n
+14,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+60,00
+banco:
+19315
+17balcao
+1
+25
+9529
+12:31
+21310 a
+nfce - venda consumidor
+999999 cliente a 
+380,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+380,00
+banco:
+19327
+16controle 
+1
+25
+16:50
+21315 a
+nfce - venda consumidor
+999999 cliente a 
+43,00 n
+5,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+43,00
+banco:
+total do dia 11/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+1586,00
+1586,00
+vr desc.
+182,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+430,00
+0,00
+1.156,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19336
+16controle 
+1
+25
+10:59
+21324 a
+nfce - venda consumidor
+999999 cliente a 
+5,00 n
+0,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+5,00
+banco:
+total do dia 12/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+5,00
+5,00
+vr desc.
+0,50
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+5,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19350
+17balcao
+1
+25
+9473
+16:36
+21335 a
+nfce - venda consumidor
+550 daniel 
+280,00 n
+50,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+280,00
+banco:
+19349
+17balcao
+1
+25
+9551
+16:35
+21336 a
+nfce - venda consumidor
+34 edvaldo 
+60,00 n
+10,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+60,00
+banco:
+19348
+17balcao
+1
+25
+9543
+16:27
+21337 a
+nfce - venda consumidor
+999999 cliente a 
+460,00 n
+85,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+460,00
+banco:
+total do dia 14/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+800,00
+800,00
+vr desc.
+145,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+0,00
+0,00
+800,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19379
+3raiane
+1
+25
+9568
+13:06
+21368 a
+nfce - venda consumidor
+999999 cliente a 
+380,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+380,00
+banco:
+19381
+3raiane
+1
+25
+9567
+13:12
+21370 a
+nfce - venda consumidor
+999999 cliente a 
+590,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+590,00
+banco:
+19384
+16controle 
+1
+25
+16:07
+21374 a
+nfce - venda consumidor
+999999 cliente a 
+80,00 n
+15,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+80,00
+banco:
+[rsysven] - atual sistemas
+gerado em 02/07/2021 as 10:00:05
+estação: servidor - usuário: raiane
+empresa:
+4
+página:
+período de 01/06/2021 à 30/06/2021 com turno de 1 à 99 e sub-ordem de pedido
+autopecas angra ltda me                                     
+relatório de vendas por ordem de data
+n/f
+vr total
+fl
+sr hora
+operação
+serviço
+vendedor
+vr serviço
+vr desc.
+exc
+cliente
+pedido
+total do dia 17/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+1050,00
+1050,00
+vr desc.
+15,50
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+80,00
+0,00
+970,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19393
+16controle 
+1
+25
+15:23
+21382 a
+nfce - venda consumidor
+999999 cliente a 
+23,00 n
+4,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+23,00
+banco:
+total do dia 18/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+23,00
+23,00
+vr desc.
+4,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+0,00
+0,00
+23,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19403
+16controle 
+1
+25
+08:43
+21396 a
+nfce - venda consumidor
+999999 cliente a 
+40,00 n
+8,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+34,00
+6,00
+banco:
+19409
+16controle 
+1
+25
+10:28
+21400 a
+nfce - venda consumidor
+999999 cliente a 
+5,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+5,00
+banco:
+total do dia 19/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+45,00
+45,00
+vr desc.
+8,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+11,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+34,00
+19419
+16controle 
+1
+25
+12:38
+21413 a
+nfce - venda consumidor
+999999 cliente a 
+500,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+500,00
+banco:
+total do dia 21/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+500,00
+500,00
+vr desc.
+0,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+0,00
+0,00
+500,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19429
+16controle 
+1
+25
+09:43
+21425 a
+nfce - venda consumidor
+999999 cliente a 
+100,00 n
+16,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+100,00
+banco:
+total do dia 22/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+100,00
+100,00
+vr desc.
+16,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+100,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19461
+17balcao
+1
+25
+9582
+16:01
+21456 a
+nfce - venda consumidor
+261 adiceu 
+57,00 n
+6,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+57,00
+banco:
+19466
+17balcao
+1
+25
+8706
+16:21
+21457 a
+nfce - venda consumidor
+413 nathan 
+240,00 n
+1,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+240,00
+banco:
+19465
+17balcao
+1
+25
+9607
+16:20
+21458 a
+nfce - venda consumidor
+999999 cliente a 
+60,00 n
+12,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+60,00
+banco:
+total do dia 23/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+357,00
+357,00
+vr desc.
+19,50
+[rsysven] - atual sistemas
+gerado em 02/07/2021 as 10:00:05
+estação: servidor - usuário: raiane
+empresa:
+5
+página:
+período de 01/06/2021 à 30/06/2021 com turno de 1 à 99 e sub-ordem de pedido
+autopecas angra ltda me                                     
+relatório de vendas por ordem de data
+n/f
+vr total
+fl
+sr hora
+operação
+serviço
+vendedor
+vr serviço
+vr desc.
+exc
+cliente
+pedido
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+357,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19468
+16controle 
+1
+25
+10:58
+21459 a
+nfce - venda consumidor
+999999 cliente a 
+30,00 n
+5,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+30,00
+banco:
+19474
+17balcao
+1
+25
+9491
+11:55
+21466 a
+nfce - venda consumidor
+105 acassio 
+30,00 n
+5,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+30,00
+banco:
+19473
+17balcao
+1
+25
+9432
+11:52
+21467 a
+nfce - venda consumidor
+105 acassio 
+200,00 n
+11,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+200,00
+banco:
+total do dia 24/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+260,00
+260,00
+vr desc.
+21,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+260,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19488
+17balcao
+1
+25
+9571
+09:44
+21481 a
+nfce - venda consumidor
+262 adival 
+93,00 n
+18,50
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+62,00
+31,00
+banco:
+19491
+17balcao
+1
+25
+9616
+10:11
+21484 a
+nfce - venda consumidor
+999999 cliente a 
+100,00 n
+20,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+100,00
+banco:
+total do dia 26/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+193,00
+193,00
+vr desc.
+38,50
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+31,00
+0,00
+100,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+62,00
+19494
+16controle 
+1
+25
+09:22
+21488 a
+nfce - venda consumidor
+999999 cliente a 
+220,00 n
+25,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+220,00
+banco:
+19495
+16controle 
+1
+25
+09:42
+21489 a
+nfce - venda consumidor
+999999 cliente a 
+52,00 n
+10,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+52,00
+banco:
+total do dia 29/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+272,00
+272,00
+vr desc.
+35,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+272,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+19503
+16controle 
+1
+25
+10:40
+21496 a
+nfce - venda consumidor
+999999 cliente a 
+45,00 n
+8,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+45,00
+banco:
+19516
+16controle 
+1
+25
+17:32
+21505 a
+nfce - venda consumidor
+999999 cliente a 
+130,00 n
+22,00
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+40,00
+90,00
+banco:
+19521
+17balcao
+1
+25
+9233
+17:42
+21524 a
+nfce - venda consumidor
+355 rogerio 
+682,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+682,00
+banco:
+19520
+17balcao
+1
+25
+8907
+17:41
+21525 a
+nfce - venda consumidor
+355 rogerio 
+38,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+38,00
+banco:
+19519
+17balcao
+1
+25
+8762
+17:41
+21526 a
+nfce - venda consumidor
+355 rogerio 
+27,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+27,00
+banco:
+[rsysven] - atual sistemas
+gerado em 02/07/2021 as 10:00:05
+estação: servidor - usuário: raiane
+empresa:
+6
+página:
+período de 01/06/2021 à 30/06/2021 com turno de 1 à 99 e sub-ordem de pedido
+autopecas angra ltda me                                     
+relatório de vendas por ordem de data
+n/f
+vr total
+fl
+sr hora
+operação
+serviço
+vendedor
+vr serviço
+vr desc.
+exc
+cliente
+pedido
+19518
+17balcao
+1
+25
+8715
+17:41
+21527 a
+nfce - venda consumidor
+355 rogerio 
+30,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+30,00
+banco:
+19517
+3raiane
+1
+25
+9628
+17:40
+21528 a
+nfce - venda consumidor
+355 rogerio 
+149,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+149,00
+banco:
+19522
+17balcao
+1
+25
+9540
+17:44
+21529 a
+nfce - venda consumidor
+426 raiane 
+380,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+151,00
+229,00
+banco:
+19523
+17balcao
+1
+25
+9618
+17:47
+21530 a
+nfce - venda consumidor
+999999 cliente a 
+490,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+490,00
+banco:
+19524
+3raiane
+1
+25
+9631
+17:48
+21531 a
+nfce - venda consumidor
+999999 cliente a 
+690,00 n
+outros:
+financeira:
+vr devolução:
+vr crédito:
+forma 
+pagto
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+690,00
+banco:
+total do dia 30/06/2021
+vr total:
+vr serviço:
+vr devolução:
+vr crédito:
+vr venda:
+2661,00
+2661,00
+vr desc.
+30,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+45,00
+0,00
+2.425,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+191,00
+total de:
+10760,50
+169,00
+total geral
+vr venda:
+vr devolução:
+vr crédito:
+vr serviço:
+vr total:
+10760,50
+10760,50
+vr desc.
+716,00
+forma
+ 
+outros:
+financeira:
+banco:
+vr devolução:
+vr crédito:
+dinheiro:
+prazo:
+cheque:
+cheque pré:
+vr cartão:
+vr electron:
+0,00
+3.214,00
+0,00
+7.158,50
+0,00
+0,00
+0,00
+0,00
+0,00
+101,00
+287,00
+[rsysven] - atual sistemas
+gerado em 02/07/2021 as 10:00:05
+estação: servidor - usuário: raiane

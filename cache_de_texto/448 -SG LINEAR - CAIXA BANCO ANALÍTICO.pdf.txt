@@ -1,0 +1,185 @@
+jl supermercados ltda coal - cnpj : 17.302.829/0001-41
+empresa/filial: 002
+ caixa banco - analítico
+filiais: 2 de: 31/05/22 até: 31/05/22 banco: 2 - santander - coal - 6. tipo banco2: não compõe saldo - data de lançamento
+sglinear 22.05.01 (caixabanco01) - usuário: spv - data/hora impres.: 14/06/2022 10:36:28
+página 1 de 1
+dt. lanc.
+histórico
+débito
+crédito
+saldo banco
+natureza
+emp
+nr.chq
+lote: 00013749 -  visa debito getnet - ca
+0,00
+2.942,26
+49.920,48
+1.1.01.02.001
+0006
+31/05/22
+002
+lote: 00000000 -  visa debito cielo - car
+0,00
+482,54
+50.403,02
+1.1.01.02.001
+0006
+31/05/22
+002
+lote: 00013750 -  master debito getnet - 
+0,00
+75,55
+50.478,57
+1.1.01.02.001
+0006
+31/05/22
+002
+lote: 00013750 -  master debito getnet - 
+0,00
+2.979,04
+53.457,61
+1.1.01.02.001
+0006
+31/05/22
+002
+lote: 00013771 -  master credito getnet 
+0,00
+204,59
+53.662,20
+1.1.01.02.002
+0006
+31/05/22
+002
+lote: 00013771 -  master credito getnet 
+0,00
+204,59
+53.866,79
+1.1.01.02.002
+0006
+31/05/22
+002
+lote: 00013771 -  master credito getnet 
+0,00
+2.241,49
+56.108,28
+1.1.01.02.002
+0006
+31/05/22
+002
+lote: 00013771 -  visa credito getnet - c
+0,00
+207,40
+56.315,68
+1.1.01.02.002
+0006
+31/05/22
+002
+lote: 00013771 -  visa credito getnet - c
+0,00
+207,39
+56.523,07
+1.1.01.02.002
+0006
+31/05/22
+002
+lote: 00013771 -  visa credito getnet - c
+0,00
+695,38
+57.218,45
+1.1.01.02.002
+0006
+31/05/22
+002
+lote: 00000000 -  a prazo - cupom: 21054
+0,00
+55,85
+57.274,30
+1.1.01.03.002
+0006
+31/05/22
+002
+lote: 00000000 - jose carlos oliveira  a
+0,00
+20.000,00
+77.274,30
+1.2.01.02.007
+0006
+31/05/22
+002
+lote: 00000000 -  banco santander - 310
+0,00
+0,03
+77.274,33
+1.2.01.02.008
+0006
+31/05/22
+002
+lote: 00000000 -  compra de mercadoria re
+2.872,64
+0,00
+74.401,69
+2.1.01.001
+0006
+2689
+31/05/22
+002
+lote: 00000000 -  compra de mercadoria re
+566,65
+0,00
+73.835,04
+2.1.01.001
+0006
+2416
+31/05/22
+002
+lote: 00000000 - santander antecipacao 
+1.946,29
+0,00
+71.888,75
+2.2.02.038
+0006
+31/05/22
+002
+lote: 00000000 - master debito getnet -
+0,02
+0,00
+71.888,73
+2.2.16.003
+0006
+31/05/22
+002
+lote: 00000000 - visa debito cielo -
+0,02
+0,00
+71.888,71
+2.2.16.003
+0006
+31/05/22
+002
+lote: 00000000 - master debito getnet -
+1,58
+0,00
+71.887,13
+2.2.16.003
+0006
+31/05/22
+002
+lote: 00000000 -  banco santander - 310
+13,25
+0,00
+71.873,88
+2.2.19.003
+0006
+31/05/22
+002
+saldo anterior:
+total débito:
+total crédito:
+saldo atual:
+30.296,11
+5.400,45
+46.978,22
+71.873,88
+total de registros: 20

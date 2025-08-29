@@ -1,0 +1,7552 @@
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+fornecedor: 11 - rio branco alimentos s/a
+928506290208
+1
+rio branco alimentos s/a
+12462081
+02/08/22
+30/07/22
+06/08/22
+bt
+1.537,45
+0,00
+0,00
+0,00
+0,00
+1.537,45
+08/08/22
+1
+dinheiro
+gerado pela nf: 12462081 -
+entradanfe sambanet
+1076506291608
+1
+rio branco alimentos s/a
+12493783
+16/08/22
+13/08/22
+20/08/22
+bt
+995,25
+0,00
+0,00
+0,00
+0,00
+995,25
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 12493783 -
+entradanfe sambanet
+1139506292208
+1
+rio branco alimentos s/a
+12510198
+22/08/22
+20/08/22
+27/08/22
+bt
+989,48
+0,00
+0,00
+0,00
+0,00
+989,48
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 12510198 -
+entradanfe sambanet
+1140506292208
+1
+rio branco alimentos s/a
+12510199
+22/08/22
+20/08/22
+27/08/22
+bt
+373,21
+0,00
+0,00
+0,00
+0,00
+373,21
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 12510199 -
+entradanfe sambanet
+r$ total do fornecedor:
+3.895,39
+0,00
+0,00
+0,00
+0,00
+3.895,39
+fornecedor: 12 - tecidos e armarinhos miguel bartolomeu s.a
+869506292607
+1
+tecidos e armarinhos miguel
+bartolomeu s.a
+17367656
+26/07/22
+22/07/22
+15/08/22
+bt
+502,07
+0,00
+0,00
+0,00
+0,00
+502,07
+15/08/22
+1
+dinheiro
+gerado pela nf: 17367656 -
+entradanfe sambanet
+869506292607
+1
+tecidos e armarinhos miguel
+bartolomeu s.a
+17367656
+26/07/22
+22/07/22
+25/08/22
+bt
+502,07
+0,00
+0,00
+0,00
+0,00
+502,07
+25/08/22
+1
+dinheiro gerado pela nf: 17367656 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.004,14
+0,00
+0,00
+0,00
+0,00
+1.004,14
+fornecedor: 14 - palmares atacado -distribuidor ltda
+629506290407
+1
+palmares atacado -
+distribuidor ltda
+265584
+04/07/22
+25/06/22
+25/08/22
+bt
+335,07
+0,00
+0,00
+0,00
+0,00
+335,07
+01/09/22
+1
+dinheiro
+gerado pela nf: 265584 -
+entradanfe sambanet
+1024507490908
+1
+palmares atacado -
+distribuidor ltda
+0260345
+04/04
+24/04/22
+24/04/22
+07/08/22
+bt
+1.275,92
+0,00
+0,00
+0,00
+0,00
+1.275,92
+09/08/22
+1
+dinheiro
+r$ total do fornecedor:
+1.610,99
+0,00
+0,00
+0,00
+0,00
+1.610,99
+fornecedor: 24 - domingos costa industrias alimenticias s/a
+739506291207
+1
+domingos costa industrias
+alimenticias s/a
+3587988
+12/07/22
+10/07/22
+01/08/22
+bt
+1.754,50
+0,00
+0,00
+0,00
+0,00
+1.754,50
+01/08/22
+1
+debito
+em
+conta
+gerado pela nf: 3587988 -
+entradanfe sambanet
+739506291207
+1
+domingos costa industrias
+alimenticias s/a
+3587988
+12/07/22
+10/07/22
+08/08/22
+bt
+1.755,02
+0,00
+0,00
+0,00
+0,00
+1.755,02
+08/08/22
+1
+dinheiro gerado pela nf: 3587988 -
+entradanfe sambanet
+1089506291708
+1
+domingos costa industrias
+alimenticias s/a
+3614619
+17/08/22
+15/08/22
+29/08/22
+bt
+1.861,33
+0,00
+0,00
+0,00
+0,00
+1.861,33
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 3614619 -
+entradanfe sambanet
+r$ total do fornecedor:
+5.370,85
+0,00
+0,00
+0,00
+0,00
+5.370,85
+fornecedor: 28 - martins comercio e servico de distribuicao s.a.
+311506290806
+1
+martins comercio e servico
+de distribuicao s.a.
+19450285
+08/06/22
+02/06/22
+01/08/22
+bt
+830,52
+0,00
+0,00
+0,00
+0,00
+830,52
+01/08/22
+1
+dinheiro gerado pela nf: 19450285 -
+entradanfe sambanet
+311506290806
+1
+martins comercio e servico
+de distribuicao s.a.
+19450285
+08/06/22
+02/06/22
+31/08/22
+bt
+830,52
+0,00
+0,00
+0,00
+0,00
+830,52
+31/08/22
+1
+dinheiro
+gerado pela nf: 19450285 -
+entradanfe sambanet
+314506290806
+1
+martins comercio e servico
+de distribuicao s.a.
+19450284
+08/06/22
+02/06/22
+01/08/22
+ca
+830,52
+0,00
+0,00
+0,00
+830,52
+0,00
+1
+gerado pela nf: 19450284 -
+entradanfe sambanet
+314506290806
+1
+martins comercio e servico
+de distribuicao s.a.
+19450284
+08/06/22
+02/06/22
+31/08/22
+ca
+830,52
+0,00
+0,00
+0,00
+830,52
+0,00
+1
+gerado pela nf: 19450284 -
+entradanfe sambanet
+pág. 1 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+747506291407
+1
+martins comercio e servico
+de distribuicao s.a.
+19625475
+14/07/22
+07/07/22
+04/08/22
+bt
+243,00
+0,00
+0,00
+0,00
+0,00
+243,00
+04/08/22
+1
+dinheiro gerado pela nf: 19625475 -
+entradanfe sambanet = r$
+2,70 taxa boleto
+929506290208
+1
+martins comercio e servico
+de distribuicao s.a.
+19737452
+02/08/22
+28/07/22
+11/08/22
+bt
+458,00
+0,00
+0,00
+0,00
+0,00
+458,00
+11/08/22
+1
+dinheiro
+gerado pela nf: 19737452 -
+entradanfe sambanet
+929506290208
+1
+martins comercio e servico
+de distribuicao s.a.
+19737452
+02/08/22
+28/07/22
+18/08/22
+bt
+458,00
+0,00
+0,00
+0,00
+0,00
+458,00
+18/08/22
+1
+dinheiro gerado pela nf: 19737452 -
+entradanfe sambanet
+929506290208
+1
+martins comercio e servico
+de distribuicao s.a.
+19737452
+02/08/22
+28/07/22
+25/08/22
+bt
+458,00
+0,00
+0,00
+0,00
+0,00
+458,00
+25/08/22
+1
+dinheiro
+gerado pela nf: 19737452 -
+entradanfe sambanet
+966507490408
+1
+martins comercio e servico
+de distribuicao s.a.
+86100349
+05
+14/07/22
+14/07/22
+04/08/22
+bt
+208,19
+0,00
+0,00
+0,00
+0,00
+208,19
+04/08/22
+1
+dinheiro
+967507490408
+1
+martins comercio e servico
+de distribuicao s.a.
+86100349
+02
+14/07/22
+14/07/22
+04/08/22
+bt
+129,32
+0,00
+0,00
+0,00
+0,00
+129,32
+04/08/22
+1
+dinheiro
+968507490408
+1
+martins comercio e servico
+de distribuicao s.a.
+86100350
+02
+14/07/22
+14/07/22
+04/08/22
+bt
+681,88
+0,00
+0,00
+0,00
+0,00
+681,88
+04/08/22
+1
+dinheiro
+1062507491508
+1
+martins comercio e servico
+de distribuicao s.a.
+86100350
+03
+14/07/22
+14/07/22
+11/08/22
+bt
+681,88
+0,00
+0,00
+0,00
+0,00
+681,88
+11/08/22
+1
+dinheiro
+1063507491508
+1
+martins comercio e servico
+de distribuicao s.a.
+86100349
+03
+14/07/22
+14/07/22
+11/08/22
+bt
+129,32
+0,00
+0,00
+0,00
+0,00
+129,32
+11/08/22
+1
+dinheiro
+1064507491508
+1
+martins comercio e servico
+de distribuicao s.a.
+86100349
+06
+14/07/22
+14/07/22
+11/08/22
+bt
+208,19
+0,00
+0,00
+0,00
+0,00
+208,19
+11/08/22
+1
+dinheiro
+1074507491608
+1
+martins comercio e servico
+de distribuicao s.a.
+86349634
+01
+30/07/22
+30/07/22
+13/08/22
+bt
+705,11
+0,00
+0,00
+0,00
+0,00
+705,11
+15/08/22
+1
+dinheiro
+1107507491808
+1
+martins comercio e servico
+de distribuicao s.a.
+86399331
+01
+04/08/22
+04/08/22
+18/08/22
+bt
+572,24
+0,00
+0,00
+0,00
+0,00
+572,24
+18/08/22
+1
+dinheiro
+1108507491808
+1
+martins comercio e servico
+de distribuicao s.a.
+86399332
+01
+04/08/22
+04/08/22
+18/08/22
+bt
+688,35
+0,00
+0,00
+0,00
+0,00
+688,35
+18/08/22
+1
+dinheiro
+1109507491808
+1
+martins comercio e servico
+de distribuicao s.a.
+86399330
+01
+04/08/22
+04/08/22
+18/08/22
+bt
+167,41
+0,00
+0,00
+0,00
+0,00
+167,41
+18/08/22
+1
+dinheiro
+133488
+1
+martins comercio e servico
+de distribuicao s.a.
+86399330
+02
+04/08/22
+04/08/22
+25/08/22
+bt
+167,41
+0,00
+0,00
+0,00
+0,00
+167,41
+25/08/22
+1
+dinheiro
+198720
+1
+martins comercio e servico
+de distribuicao s.a.
+86399331
+02
+04/08/22
+04/08/22
+25/08/22
+bt
+572,22
+0,00
+0,00
+0,00
+0,00
+572,22
+25/08/22
+1
+dinheiro
+595080
+1
+martins comercio e servico
+de distribuicao s.a.
+86449520
+001
+11/08/22
+11/08/22
+25/08/22
+bt
+641,32
+0,00
+0,00
+0,00
+0,00
+641,32
+25/08/22
+1
+dinheiro
+3620133
+1
+martins comercio e servico
+de distribuicao s.a.
+86349634
+03
+30/07/22
+30/07/22
+27/08/22
+bt
+705,09
+0,00
+0,00
+0,00
+0,00
+705,09
+29/08/22
+1
+debito
+em
+conta
+1517967
+1
+martins comercio e servico
+de distribuicao s.a.
+86349634
+02
+30/07/22
+30/07/22
+20/08/22
+bt
+705,09
+0,00
+0,00
+0,00
+0,00
+705,09
+22/08/22
+1
+debito
+em conta
+101844
+1
+martins comercio e servico
+de distribuicao s.a.
+86495201
+01
+11/08/22
+11/08/22
+25/08/22
+bt
+542,72
+0,00
+0,00
+0,00
+0,00
+542,72
+25/08/22
+1
+dinheiro
+114480
+1
+martins comercio e servico
+de distribuicao s.a.
+86399332
+02
+04/08/22
+04/08/22
+25/08/22
+bt
+688,33
+0,00
+0,00
+0,00
+0,00
+688,33
+25/08/22
+1
+dinheiro
+r$ total do fornecedor:
+13.133,15
+0,00
+0,00
+0,00
+1.661,04
+11.472,11
+fornecedor: 29 - pepsico do brasil ltda
+919507490208
+1
+pepsico do brasil ltda
+2952
+26/07/22
+26/07/22
+02/08/22
+bt
+1 872 34
+0 00
+0 00
+0 00
+0 00
+1 872 34
+02/08/22
+1
+debito
+pág. 2 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+919507490208
+1
+pepsico do brasil ltda
+2952
+26/07/22
+26/07/22
+02/08/22
+bt
+1.872,34
+0,00
+0,00
+0,00
+0,00
+1.872,34
+02/08/22
+1
+em
+conta
+1025506291008
+1
+pepsico do brasil ltda
+3105
+10/08/22
+09/08/22
+16/08/22
+bt
+2.215,02
+0,00
+0,00
+0,00
+0,00
+2.215,02
+16/08/22
+1
+debito
+em conta
+gerado pela nf: 3105 -
+entradanfe sambanet
+1348578
+1
+pepsico do brasil ltda
+3261
+23/08/22
+23/08/22
+30/08/22
+bt
+549,35
+0,00
+0,00
+0,00
+0,00
+549,35
+31/08/22
+1
+debito
+em
+conta
+r$ total do fornecedor:
+4.636,71
+0,00
+0,00
+0,00
+0,00
+4.636,71
+fornecedor: 31 - tudo bom comercial ltda
+709506290807
+1
+tudo bom comercial ltda
+2818992
+08/07/22
+07/07/22
+04/08/22
+bt
+583,53
+0,00
+0,00
+0,00
+0,00
+583,53
+04/08/22
+1
+dinheiro gerado pela nf: 2818992 -
+entradanfe sambanet
+690506290707
+1
+tudo bom comercial ltda
+2818994
+07/07/22
+07/07/22
+04/08/22
+bt
+697,14
+0,00
+0,00
+0,00
+0,00
+697,14
+04/08/22
+1
+dinheiro
+gerado pela nf: 2818994 -
+entradanfe sambanet
+750506291407
+1
+tudo bom comercial ltda
+2824558
+14/07/22
+13/07/22
+03/08/22
+bt
+998,73
+0,00
+0,00
+0,00
+0,00
+998,73
+03/08/22
+1
+dinheiro gerado pela nf: 2824558 -
+entradanfe sambanet
+750506291407
+1
+tudo bom comercial ltda
+2824558
+14/07/22
+13/07/22
+10/08/22
+bt
+998,73
+0,00
+0,00
+0,00
+0,00
+998,73
+10/08/22
+1
+debito
+em
+conta
+gerado pela nf: 2824558 -
+entradanfe sambanet
+888506292707
+1
+tudo bom comercial ltda
+2835592
+27/07/22
+27/07/22
+10/08/22
+bt
+532,83
+0,00
+0,00
+0,00
+0,00
+532,83
+10/08/22
+1
+debito
+em conta
+gerado pela nf: 2835592 -
+entradanfe sambanet
+888506292707
+1
+tudo bom comercial ltda
+2835592
+27/07/22
+27/07/22
+17/08/22
+bt
+532,84
+0,00
+0,00
+0,00
+0,00
+532,84
+17/08/22
+1
+dinheiro
+gerado pela nf: 2835592 -
+entradanfe sambanet
+888506292707
+1
+tudo bom comercial ltda
+2835592
+27/07/22
+27/07/22
+24/08/22
+bt
+532,84
+0,00
+0,00
+0,00
+0,00
+532,84
+23/08/22
+1
+dinheiro gerado pela nf: 2835592 -
+entradanfe sambanet
+826506292207
+1
+tudo bom comercial ltda
+2830001
+22/07/22
+20/07/22
+03/08/22
+bt
+464,36
+0,00
+0,00
+0,00
+0,00
+464,36
+03/08/22
+1
+dinheiro
+826506292207
+1
+tudo bom comercial ltda
+2830001
+22/07/22
+20/07/22
+10/08/22
+bt
+464,35
+0,00
+0,00
+0,00
+0,00
+464,35
+10/08/22
+1
+debito
+em conta
+826506292207
+1
+tudo bom comercial ltda
+2830001
+22/07/22
+20/07/22
+17/08/22
+bt
+464,35
+0,00
+0,00
+0,00
+0,00
+464,35
+17/08/22
+1
+dinheiro
+885506292707
+1
+tudo bom comercial ltda
+2835593
+27/07/22
+27/07/22
+10/08/22
+bt
+391,66
+0,00
+0,00
+0,00
+0,00
+391,66
+10/08/22
+1
+debito
+em conta
+gerado pela nf: 2835593 -
+entradanfe sambanet
+885506292707
+1
+tudo bom comercial ltda
+2835593
+27/07/22
+27/07/22
+17/08/22
+bt
+391,67
+0,00
+0,00
+0,00
+0,00
+391,67
+17/08/22
+1
+debito
+em
+conta
+gerado pela nf: 2835593 -
+entradanfe sambanet
+885506292707
+1
+tudo bom comercial ltda
+2835593
+27/07/22
+27/07/22
+24/08/22
+bt
+391,67
+0,00
+0,00
+0,00
+0,00
+391,67
+24/08/22
+1
+debito
+em conta
+gerado pela nf: 2835593 -
+entradanfe sambanet
+961506290408
+1
+tudo bom comercial ltda
+2841441
+04/08/22
+03/08/22
+17/08/22
+bt
+759,90
+0,00
+0,00
+0,00
+0,00
+759,90
+17/08/22
+1
+dinheiro
+gerado pela nf: 2841441 -
+entradanfe sambanet
+961506290408
+1
+tudo bom comercial ltda
+2841441
+04/08/22
+03/08/22
+24/08/22
+bt
+759,91
+0,00
+0,00
+0,00
+0,00
+759,91
+23/08/22
+1
+dinheiro gerado pela nf: 2841441 -
+entradanfe sambanet
+961506290408
+1
+tudo bom comercial ltda
+2841441
+04/08/22
+03/08/22
+31/08/22
+bt
+759,91
+0,00
+0,00
+0,00
+0,00
+759,91
+31/08/22
+1
+dinheiro
+gerado pela nf: 2841441 -
+entradanfe sambanet
+946506290308
+1
+tudo bom comercial ltda
+2818993
+03/08/22
+07/07/22
+04/08/22
+bt
+867,83
+0,00
+0,00
+0,00
+0,00
+867,83
+04/08/22
+1
+dinheiro gerado pela nf: 2818993 -
+entradanfe sambanet
+1041506291108
+1
+tudo bom comercial ltda
+2848347
+11/08/22
+11/08/22
+25/08/22
+bt
+892,11
+0,00
+0,00
+0,00
+0,00
+892,11
+25/08/22
+1
+dinheiro
+gerado pela nf: 2848347 -
+entradanfe sambanet
+r$ total do fornecedor:
+11.484,36
+0,00
+0,00
+0,00
+0,00
+11.484,36
+pág. 3 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+fornecedor: 40 - dickow e cia ltda ind com de cerais import export
+785506291907
+1
+dickow e cia ltda ind com de
+cerais import export
+437216
+19/07/22
+11/07/22
+08/08/22
+bt
+3.750,00
+0,00
+0,00
+0,00
+0,00
+3.750,00
+08/08/22
+1
+debito
+em conta
+gerado pela nf: 437216 -
+entradanfe sambanet
+785506291907
+1
+dickow e cia ltda ind com de
+cerais import export
+437216
+19/07/22
+11/07/22
+15/08/22
+bt
+3.750,00
+0,00
+0,00
+0,00
+0,00
+3.750,00
+15/08/22
+1
+debito
+em
+conta
+gerado pela nf: 437216 -
+entradanfe sambanet
+785506291907
+1
+dickow e cia ltda ind com de
+cerais import export
+437216
+19/07/22
+11/07/22
+22/08/22
+bt
+3.750,00
+0,00
+0,00
+0,00
+0,00
+3.750,00
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 437216 -
+entradanfe sambanet
+r$ total do fornecedor:
+11.250,00
+0,00
+0,00
+0,00
+0,00
+11.250,00
+fornecedor: 43 - junco industria e comercio ltda
+858506292607
+1
+junco industria e comercio
+ltda
+728341
+26/07/22
+29/06/22
+02/08/22
+bt
+482,19
+0,00
+0,00
+0,00
+0,00
+482,19
+02/08/22
+1
+dinheiro
+gerado pela nf: 728341 -
+entradanfe sambanet
+858506292607
+1
+junco industria e comercio
+ltda
+728341
+26/07/22
+29/06/22
+17/08/22
+bt
+482,19
+0,00
+0,00
+0,00
+0,00
+482,19
+17/08/22
+1
+debito
+em conta
+gerado pela nf: 728341 -
+entradanfe sambanet
+r$ total do fornecedor:
+964,38
+0,00
+0,00
+0,00
+0,00
+964,38
+fornecedor: 44 - dpc distriduidor atacadista s/a
+686506290707
+1
+dpc distriduidor atacadista
+s/a
+3926850
+07/07/22
+01/07/22
+01/08/22
+bt
+1.689,55
+0,00
+0,00
+0,00
+0,00
+1.689,55
+01/08/22
+1
+debito
+em
+conta
+gerado pela nf: 3926850 -
+entradanfe sambanet
+686506290707
+1
+dpc distriduidor atacadista
+s/a
+3926850
+07/07/22
+01/07/22
+08/08/22
+bt
+1.689,56
+0,00
+0,00
+0,00
+0,00
+1.689,56
+08/08/22
+1
+dinheiro gerado pela nf: 3926850 -
+entradanfe sambanet
+909506293007
+1
+dpc distriduidor atacadista
+s/a
+3962716
+30/07/22
+22/07/22
+15/08/22
+bt
+585,68
+0,00
+0,00
+0,00
+0,00
+585,68
+15/08/22
+1
+dinheiro
+gerado pela nf: 3962716 -
+entradanfe sambanet
+909506293007
+1
+dpc distriduidor atacadista
+s/a
+3962716
+30/07/22
+22/07/22
+22/08/22
+bt
+585,50
+0,00
+0,00
+0,00
+0,00
+585,50
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 3962716 -
+entradanfe sambanet
+909506293007
+1
+dpc distriduidor atacadista
+s/a
+3962716
+30/07/22
+22/07/22
+29/08/22
+bt
+585,51
+0,00
+0,00
+0,00
+0,00
+585,51
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 3962716 -
+entradanfe sambanet
+1055506291208
+1
+dpc distriduidor atacadista
+s/a
+3986687
+12/08/22
+05/08/22
+29/08/22
+bt
+450,26
+0,00
+0,00
+0,00
+0,00
+450,26
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 3986687 -
+entradanfe sambanet
+r$ total do fornecedor:
+5.586,06
+0,00
+0,00
+0,00
+0,00
+5.586,06
+fornecedor: 46 - haf distribuidor ltda
+588506293006
+1
+haf distribuidor ltda
+973010
+30/06/22
+25/06/22
+01/08/22
+bt
+840,12
+0,00
+0,00
+0,00
+0,00
+840,12
+01/08/22
+1
+dinheiro
+gerado pela nf: 973010 -
+entradanfe sambanet
+881506292707
+1
+haf distribuidor ltda
+980277
+27/07/22
+23/07/22
+08/08/22
+bt
+380,55
+0,00
+0,00
+0,00
+0,00
+380,55
+08/08/22
+1
+dinheiro gerado pela nf: 980277 -
+entradanfe sambanet
+881506292707
+1
+haf distribuidor ltda
+980277
+27/07/22
+23/07/22
+15/08/22
+bt
+380,56
+0,00
+0,00
+0,00
+0,00
+380,56
+15/08/22
+1
+dinheiro
+gerado pela nf: 980277 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.601,23
+0,00
+0,00
+0,00
+0,00
+1.601,23
+fornecedor: 57 - cafe jequitinhonha industria e comercio ltda
+925506290208
+1
+cafe jequitinhonha industria
+e comercio ltda
+145816
+02/08/22
+29/07/22
+18/08/22
+bt
+4.957,33
+0,00
+0,00
+0,00
+0,00
+4.957,33
+18/08/22
+1
+debito
+em conta
+gerado pela nf: 145816 -
+entradanfe sambanet
+pág. 4 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+925506290208
+1
+cafe jequitinhonha industria
+e comercio ltda
+145816
+02/08/22
+29/07/22
+25/08/22
+bt
+4.957,33
+0,00
+0,00
+0,00
+0,00
+4.957,33
+25/08/22
+1
+debito
+em
+conta
+gerado pela nf: 145816 -
+entradanfe sambanet
+r$ total do fornecedor:
+9.914,66
+0,00
+0,00
+0,00
+0,00
+9.914,66
+fornecedor: 65 - cafe tres coracoes s.a
+1005506290808
+1
+cafe tres coracoes s.a
+1923946
+08/08/22
+29/07/22
+23/08/22
+bt
+632,50
+0,00
+0,00
+0,00
+0,00
+632,50
+23/08/22
+1
+dinheiro gerado pela nf: 1923946 -
+entradanfe sambanet
+r$ total do fornecedor:
+632,50
+0,00
+0,00
+0,00
+0,00
+632,50
+fornecedor: 71 - big vale distribuidora ltda
+832506292207
+1
+big vale distribuidora ltda
+83208
+22/07/22
+15/07/22
+17/08/22
+bt
+1.795,00
+0,00
+0,00
+0,00
+0,00
+1.795,00
+17/08/22
+1
+debito
+em
+conta
+gerado pela nf: 83208 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.795,00
+0,00
+0,00
+0,00
+0,00
+1.795,00
+fornecedor: 95 - certo distribuicao ltda
+640506290507
+1
+certo distribuicao ltda
+780258
+05/07/22
+30/06/22
+01/08/22
+bt
+615,61
+0,00
+0,00
+0,00
+0,00
+615,61
+01/08/22
+1
+dinheiro gerado pela nf: 780258 -
+entradanfe sambanet
+643506290507
+1
+certo distribuicao ltda
+780386
+05/07/22
+02/07/22
+01/08/22
+bt
+397,42
+0,00
+0,00
+0,00
+0,00
+397,42
+01/08/22
+1
+dinheiro
+gerado pela nf: 780386 -
+entradanfe sambanet
+980506290508
+1
+certo distribuicao ltda
+784747
+05/08/22
+30/07/22
+15/08/22
+bt
+510,40
+0,00
+0,00
+0,00
+0,00
+510,40
+15/08/22
+1
+dinheiro gerado pela nf: 784747 -
+entradanfe sambanet
+981506290508
+1
+certo distribuicao ltda
+784746
+05/08/22
+30/07/22
+22/08/22
+bt
+2.162,33
+0,00
+0,00
+0,00
+0,00
+2.162,33
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 784746 -
+entradanfe sambanet
+981506290508
+1
+certo distribuicao ltda
+784746
+05/08/22
+30/07/22
+29/08/22
+bt
+2.162,32
+0,00
+0,00
+0,00
+0,00
+2.162,32
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 784746 -
+entradanfe sambanet
+1080506291608
+1
+certo distribuicao ltda
+787257
+16/08/22
+13/08/22
+25/08/22
+bt
+462,40
+0,00
+0,00
+0,00
+0,00
+462,40
+25/08/22
+1
+dinheiro
+gerado pela nf: 787257 -
+entradanfe sambanet
+r$ total do fornecedor:
+6.310,48
+0,00
+0,00
+0,00
+0,00
+6.310,48
+fornecedor: 100 - vale mais distr prod alim ltda
+777506291807
+1
+vale mais distr prod alim ltda
+590214
+18/07/22
+18/07/22
+01/08/22
+bt
+670,30
+0,00
+0,00
+0,00
+0,00
+670,30
+01/08/22
+1
+dinheiro gerado pela nf: 590214 -
+entradanfe sambanet
+727506291107
+1
+vale mais distr prod alim ltda
+588321
+11/07/22
+11/07/22
+01/08/22
+bt
+368,63
+0,00
+0,00
+0,00
+0,00
+368,63
+01/08/22
+1
+dinheiro
+gerado pela nf: 588321 -
+entradanfe sambanet
+852506292507
+1
+vale mais distr prod alim ltda
+592095
+25/07/22
+25/07/22
+08/08/22
+bt
+302,64
+0,00
+0,00
+0,00
+0,00
+302,64
+08/08/22
+1
+dinheiro gerado pela nf: 592095 -
+entradanfe sambanet
+913506290108
+1
+vale mais distr prod alim ltda
+593805
+01/08/22
+31/07/22
+15/08/22
+bt
+997,16
+0,00
+0,00
+0,00
+0,00
+997,16
+15/08/22
+1
+dinheiro
+gerado pela nf: 593805 -
+entradanfe sambanet
+1003506290808
+1
+vale mais distr prod alim ltda
+595742
+08/08/22
+08/08/22
+22/08/22
+bt
+347,16
+0,00
+0,00
+0,00
+0,00
+347,16
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 595742 -
+entradanfe sambanet
+1071506291608
+1
+vale mais distr prod alim ltda
+597804
+16/08/22
+15/08/22
+22/08/22
+bt
+636,67
+0,00
+0,00
+0,00
+0,00
+636,67
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 597804 -
+entradanfe sambanet
+1071506291608
+1
+vale mais distr prod alim ltda
+597804
+16/08/22
+15/08/22
+29/08/22
+bt
+636,65
+0,00
+0,00
+0,00
+0,00
+636,65
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 597804 -
+entradanfe sambanet
+pág. 5 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+r$ total do fornecedor:
+3.959,21
+0,00
+0,00
+0,00
+0,00
+3.959,21
+fornecedor: 118 - chua distribuidora de alimentos
+696506290807
+1
+chua distribuidora de
+alimentos
+1180242
+08/07/22
+07/07/22
+04/08/22
+bt
+808,62
+0,00
+0,00
+0,00
+0,00
+808,62
+04/08/22
+1
+dinheiro
+gerado pela nf: 1180242 -
+entradanfe sambanet
+696506290807
+1
+chua distribuidora de
+alimentos
+1180242
+08/07/22
+07/07/22
+11/08/22
+bt
+808,63
+0,00
+0,00
+0,00
+0,00
+808,63
+11/08/22
+1
+dinheiro gerado pela nf: 1180242 -
+entradanfe sambanet
+713506290807
+1
+chua distribuidora de
+alimentos
+1180236
+08/07/22
+07/07/22
+04/08/22
+bt
+53,60
+0,00
+0,00
+0,00
+0,00
+53,60
+04/08/22
+1
+dinheiro
+gerado pela nf: 1180236 -
+entradanfe sambanet
+714506290807
+1
+chua distribuidora de
+alimentos
+1180239
+08/07/22
+07/07/22
+04/08/22
+bt
+213,16
+0,00
+0,00
+0,00
+0,00
+213,16
+04/08/22
+1
+dinheiro gerado pela nf: 1180239 -
+entradanfe sambanet
+715506290807
+1
+chua distribuidora de
+alimentos
+1180235
+08/07/22
+07/07/22
+04/08/22
+bt
+72,60
+0,00
+0,00
+0,00
+0,00
+72,60
+04/08/22
+1
+dinheiro
+gerado pela nf: 1180235 -
+entradanfe sambanet
+716506290807
+1
+chua distribuidora de
+alimentos
+1180234
+08/07/22
+07/07/22
+04/08/22
+bt
+1.372,25
+0,00
+0,00
+0,00
+0,00
+1.372,25
+04/08/22
+1
+debito
+em conta
+gerado pela nf: 1180234 -
+entradanfe sambanet
+716506290807
+1
+chua distribuidora de
+alimentos
+1180234
+08/07/22
+07/07/22
+11/08/22
+bt
+1.372,25
+0,00
+0,00
+0,00
+0,00
+1.372,25
+11/08/22
+1
+dinheiro
+gerado pela nf: 1180234 -
+entradanfe sambanet
+848506292307
+1
+chua distribuidora de
+alimentos
+1184464
+23/07/22
+19/07/22
+09/08/22
+bt
+298,54
+0,00
+0,00
+0,00
+0,00
+298,54
+09/08/22
+1
+dinheiro gerado pela nf: 1184464 -
+entradanfe sambanet
+848506292307
+1
+chua distribuidora de
+alimentos
+1184464
+23/07/22
+19/07/22
+16/08/22
+bt
+298,54
+0,00
+0,00
+0,00
+0,00
+298,54
+16/08/22
+1
+dinheiro
+gerado pela nf: 1184464 -
+entradanfe sambanet
+848506292307
+1
+chua distribuidora de
+alimentos
+1184464
+23/07/22
+19/07/22
+23/08/22
+bt
+298,55
+0,00
+0,00
+0,00
+0,00
+298,55
+23/08/22
+1
+dinheiro gerado pela nf: 1184464 -
+entradanfe sambanet
+841506292307
+1
+chua distribuidora de
+alimentos
+1184465
+23/07/22
+19/07/22
+09/08/22
+bt
+494,89
+0,00
+0,00
+0,00
+0,00
+494,89
+09/08/22
+1
+dinheiro
+gerado pela nf: 1184465 -
+entradanfe sambanet
+841506292307
+1
+chua distribuidora de
+alimentos
+1184465
+23/07/22
+19/07/22
+16/08/22
+bt
+494,89
+0,00
+0,00
+0,00
+0,00
+494,89
+16/08/22
+1
+dinheiro gerado pela nf: 1184465 -
+entradanfe sambanet
+841506292307
+1
+chua distribuidora de
+alimentos
+1184465
+23/07/22
+19/07/22
+23/08/22
+bt
+494,90
+0,00
+0,00
+0,00
+0,00
+494,90
+23/08/22
+1
+dinheiro
+gerado pela nf: 1184465 -
+entradanfe sambanet
+838506292307
+1
+chua distribuidora de
+alimentos
+1184463
+23/07/22
+19/07/22
+09/08/22
+bt
+1.314,61
+0,00
+0,00
+0,00
+0,00
+1.314,61
+09/08/22
+1
+debito
+em conta
+gerado pela nf: 1184463 -
+entradanfe sambanet
+838506292307
+1
+chua distribuidora de
+alimentos
+1184463
+23/07/22
+19/07/22
+16/08/22
+bt
+1.314,61
+0,00
+0,00
+0,00
+0,00
+1.314,61
+16/08/22
+1
+dinheiro
+gerado pela nf: 1184463 -
+entradanfe sambanet
+838506292307
+1
+chua distribuidora de
+alimentos
+1184463
+23/07/22
+19/07/22
+23/08/22
+bt
+1.314,61
+0,00
+0,00
+0,00
+0,00
+1.314,61
+23/08/22
+1
+dinheiro gerado pela nf: 1184463 -
+entradanfe sambanet
+951506290308
+1
+chua distribuidora de
+alimentos
+1189619
+03/08/22
+03/08/22
+24/08/22
+bt
+483,72
+0,00
+0,00
+0,00
+0,00
+483,72
+24/08/22
+1
+debito
+em
+conta
+gerado pela nf: 1189619 -
+entradanfe sambanet
+951506290308
+1
+chua distribuidora de
+alimentos
+1189619
+03/08/22
+03/08/22
+31/08/22
+bt
+483,72
+0,00
+0,00
+0,00
+0,00
+483,72
+31/08/22
+1
+dinheiro gerado pela nf: 1189619 -
+entradanfe sambanet
+977506290508
+1
+chua distribuidora de
+alimentos
+1189615
+05/08/22
+03/08/22
+24/08/22
+bt
+743,59
+0,00
+0,00
+0,00
+0,00
+743,59
+23/08/22
+1
+dinheiro
+gerado pela nf: 1189615 -
+entradanfe sambanet
+977506290508
+1
+chua distribuidora de
+alimentos
+1189615
+05/08/22
+03/08/22
+31/08/22
+bt
+743,59
+0,00
+0,00
+0,00
+0,00
+743,59
+31/08/22
+1
+dinheiro gerado pela nf: 1189615 -
+entradanfe sambanet
+r$ total do fornecedor:
+13.479,87
+0,00
+0,00
+0,00
+0,00
+13.479,87
+fornecedor: 128 - arcos comercio e importacao ltda
+807506292007
+1
+arcos comercio e importacao
+1156520
+20/07/22
+16/07/22
+08/08/22
+bt
+527 19
+0 00
+0 00
+0 00
+0 00
+527 19
+08/08/22
+1
+dinheiro
+gerado pela nf: 1156520 -
+pág. 6 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+807506292007
+1
+ltda
+1156520
+20/07/22
+16/07/22
+08/08/22
+bt
+527,19
+0,00
+0,00
+0,00
+0,00
+527,19
+08/08/22
+1
+dinheiro
+entradanfe sambanet
+808506292007
+1
+arcos comercio e importacao
+ltda
+1156521
+20/07/22
+16/07/22
+15/08/22
+bt
+477,00
+0,00
+0,00
+0,00
+0,00
+477,00
+15/08/22
+1
+dinheiro gerado pela nf: 1156521 -
+entradanfe sambanet
+809506292007
+1
+arcos comercio e importacao
+ltda
+1156522
+20/07/22
+16/07/22
+22/08/22
+bt
+576,00
+0,00
+0,00
+0,00
+0,00
+576,00
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 1156522 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.580,19
+0,00
+0,00
+0,00
+0,00
+1.580,19
+fornecedor: 134 - upside distribuicao de alimentos ltda
+705506290807
+1
+upside distribuicao de
+alimentos ltda
+2616748
+08/07/22
+05/07/22
+02/08/22
+bt
+1.469,21
+0,00
+0,00
+0,00
+0,00
+1.469,21
+02/08/22
+1
+debito
+em conta
+gerado pela nf: 2616748 -
+entradanfe sambanet
+758506291407
+1
+upside distribuicao de
+alimentos ltda
+2622234
+14/07/22
+12/07/22
+02/08/22
+bt
+668,08
+0,00
+0,00
+0,00
+0,00
+668,08
+02/08/22
+1
+dinheiro
+gerado pela nf: 2622234 -
+entradanfe sambanet
+758506291407
+1
+upside distribuicao de
+alimentos ltda
+2622234
+14/07/22
+12/07/22
+09/08/22
+bt
+668,08
+0,00
+0,00
+0,00
+0,00
+668,08
+09/08/22
+1
+dinheiro gerado pela nf: 2622234 -
+entradanfe sambanet
+936506290208
+1
+upside distribuicao de
+alimentos ltda
+2638470
+02/08/22
+29/07/22
+08/08/22
+bt
+633,27
+0,00
+0,00
+0,00
+0,00
+633,27
+08/08/22
+1
+dinheiro
+gerado pela nf: 2638470 -
+entradanfe sambanet
+936506290208
+1
+upside distribuicao de
+alimentos ltda
+2638470
+02/08/22
+29/07/22
+15/08/22
+bt
+633,27
+0,00
+0,00
+0,00
+0,00
+633,27
+15/08/22
+1
+dinheiro gerado pela nf: 2638470 -
+entradanfe sambanet
+936506290208
+1
+upside distribuicao de
+alimentos ltda
+2638470
+02/08/22
+29/07/22
+22/08/22
+bt
+633,27
+0,00
+0,00
+0,00
+0,00
+633,27
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 2638470 -
+entradanfe sambanet
+1095506291808
+1
+upside distribuicao de
+alimentos ltda
+2653058
+18/08/22
+16/08/22
+30/08/22
+bt
+764,32
+0,00
+0,00
+0,00
+0,00
+764,32
+30/08/22
+1
+debito
+em conta
+gerado pela nf: 2653058 -
+entradanfe sambanet
+1171506292508
+1
+upside distribuicao de
+alimentos ltda
+2659127
+25/08/22
+23/08/22
+30/08/22
+bt
+339,95
+0,00
+0,00
+0,00
+0,00
+339,95
+30/08/22
+1
+debito
+em
+conta
+gerado pela nf: 2659127 -
+entradanfe sambanet
+r$ total do fornecedor:
+5.809,45
+0,00
+0,00
+0,00
+0,00
+5.809,45
+fornecedor: 139 - casa aladim ltda
+924506290208
+1
+casa aladim ltda
+597085
+02/08/22
+27/07/22
+24/08/22
+bt
+391,12
+0,00
+0,00
+0,00
+0,00
+391,12
+24/08/22
+1
+dinheiro gerado pela nf: 597085 -
+entradanfe sambanet
+r$ total do fornecedor:
+391,12
+0,00
+0,00
+0,00
+0,00
+391,12
+fornecedor: 159 - lacticinio yoguedes ind e com ltda
+693506290707
+1
+lacticinio yoguedes ind e com
+ltda
+688497
+07/07/22
+05/07/22
+02/08/22
+bt
+2.219,41
+0,00
+0,00
+0,00
+0,00
+2.219,41
+02/08/22
+1
+debito
+em
+conta
+gerado pela nf: 688497 -
+entradanfe sambanet
+755506291407
+1
+lacticinio yoguedes ind e com
+ltda
+691696
+14/07/22
+12/07/22
+09/08/22
+bt
+280,57
+0,00
+0,00
+0,00
+0,00
+280,57
+09/08/22
+1
+dinheiro gerado pela nf: 691696 -
+entradanfe sambanet
+823506292107
+1
+lacticinio yoguedes ind e com
+ltda
+694950
+21/07/22
+19/07/22
+16/08/22
+bt
+1.844,09
+0,00
+0,00
+0,00
+0,00
+1.844,09
+16/08/22
+1
+dinheiro
+gerado pela nf: 694950 -
+entradanfe sambanet - r$
+127,82 de desconto
+devido devolução de
+produto
+754506291407
+1
+lacticinio yoguedes ind e com
+ltda
+691697
+14/07/22
+12/07/22
+09/08/22
+bt
+2.301,86
+0,00
+0,00
+0,00
+0,00
+2.301,86
+09/08/22
+1
+debito
+em conta
+gerado pela nf: 691697 -
+entradanfe sambanet
+899506292907
+1
+lacticinio yoguedes ind e com
+ltda
+698243
+29/07/22
+26/07/22
+23/08/22
+bt
+475,52
+0,00
+0,00
+0,00
+0,00
+475,52
+23/08/22
+1
+dinheiro
+gerado pela nf: 698243 -
+entradanfe sambanet
+pág. 7 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+960506290408
+1
+lacticinio yoguedes ind e com
+ltda
+701496
+04/08/22
+02/08/22
+30/08/22
+bt
+749,48
+0,00
+0,00
+0,00
+0,00
+749,48
+30/08/22
+1
+debito
+em conta
+gerado pela nf: 701496 -
+entradanfe sambanet
+r$ total do fornecedor:
+7.870,93
+0,00
+0,00
+0,00
+0,00
+7.870,93
+fornecedor: 163 - sofrios
+829506292207
+1
+sofrios
+151242
+22/07/22
+20/07/22
+10/08/22
+bt
+1.017,92
+0,00
+0,00
+0,00
+0,00
+1.017,92
+10/08/22
+1
+debito
+em
+conta
+gerado pela nf: 151242 -
+entradanfe sambanet
+965506290408
+1
+sofrios
+152620
+04/08/22
+03/08/22
+24/08/22
+bt
+1.206,49
+0,00
+0,00
+0,00
+0,00
+1.206,49
+24/08/22
+1
+debito
+em conta
+gerado pela nf: 152620 -
+entradanfe sambanet
+r$ total do fornecedor:
+2.224,41
+0,00
+0,00
+0,00
+0,00
+2.224,41
+fornecedor: 170 - facil sistemas e serviços ltda
+1039507491108
+1
+facil sistemas e serviços ltda
+facil
+sistema
+s nf
+30361
+07/03/22
+07/03/22
+10/08/22
+bt
+596,28
+0,00
+0,00
+0,00
+0,00
+596,28
+10/08/22
+1
+debito
+em
+conta
+r$ total do fornecedor:
+596,28
+0,00
+0,00
+0,00
+0,00
+596,28
+fornecedor: 182 - pacaluz comercio e logistica ltda
+791506292007
+1
+pacaluz comercio e logistica
+ltda
+1093047
+20/07/22
+13/07/22
+03/08/22
+bt
+733,03
+0,00
+0,00
+0,00
+0,00
+733,03
+03/08/22
+1
+dinheiro gerado pela nf: 1093047 -
+entradanfe sambanet
+791506292007
+1
+pacaluz comercio e logistica
+ltda
+1093047
+20/07/22
+13/07/22
+10/08/22
+bt
+733,02
+0,00
+0,00
+0,00
+0,00
+733,02
+10/08/22
+1
+debito
+em
+conta
+gerado pela nf: 1093047 -
+entradanfe sambanet
+791506292007
+1
+pacaluz comercio e logistica
+ltda
+1093047
+20/07/22
+13/07/22
+17/08/22
+bt
+733,02
+0,00
+0,00
+0,00
+0,00
+733,02
+17/08/22
+1
+dinheiro gerado pela nf: 1093047 -
+entradanfe sambanet
+794506292007
+1
+pacaluz comercio e logistica
+ltda
+1093998
+20/07/22
+15/07/22
+12/08/22
+bt
+817,09
+0,00
+0,00
+0,00
+0,00
+817,09
+11/08/22
+1
+dinheiro
+gerado pela nf: 1093998 -
+entradanfe sambanet
+r$ total do fornecedor:
+3.016,16
+0,00
+0,00
+0,00
+0,00
+3.016,16
+fornecedor: 190 - epoca com dist prod alim ind ltda
+646506290507
+1
+epoca com dist prod alim ind
+ltda
+4991524
+05/07/22
+01/07/22
+07/08/22
+bt
+545,92
+0,00
+0,00
+0,00
+0,00
+545,92
+08/08/22
+1
+dinheiro gerado pela nf: 4991524 -
+entradanfe sambanet
+744506291307
+1
+epoca com dist prod alim ind
+ltda
+4998870
+13/07/22
+09/07/22
+06/08/22
+bt
+547,08
+0,00
+0,00
+0,00
+0,00
+547,08
+08/08/22
+1
+dinheiro
+gerado pela nf: 4998870 -
+entradanfe sambanet
+790506292007
+1
+epoca com dist prod alim ind
+ltda
+5005902
+20/07/22
+16/07/22
+13/08/22
+bt
+633,80
+0,00
+0,00
+0,00
+0,00
+633,80
+15/08/22
+1
+dinheiro gerado pela nf: 5005902 -
+entradanfe sambanet
+877506292707
+1
+epoca com dist prod alim ind
+ltda
+5013164
+27/07/22
+23/07/22
+13/08/22
+bt
+539,05
+0,00
+0,00
+0,00
+0,00
+539,05
+15/08/22
+1
+dinheiro
+gerado pela nf: 5013164 -
+entradanfe sambanet
+877506292707
+1
+epoca com dist prod alim ind
+ltda
+5013164
+27/07/22
+23/07/22
+20/08/22
+bt
+539,06
+0,00
+0,00
+0,00
+0,00
+539,06
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 5013164 -
+entradanfe sambanet
+877506292707
+1
+epoca com dist prod alim ind
+ltda
+5013164
+27/07/22
+23/07/22
+27/08/22
+bt
+539,06
+0,00
+0,00
+0,00
+0,00
+539,06
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 5013164 -
+entradanfe sambanet
+1021506290908
+1
+epoca com dist prod alim ind
+ltda
+5031206
+09/08/22
+06/08/22
+28/08/22
+bt
+382,77
+0,00
+0,00
+0,00
+0,00
+382,77
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 5031206 -
+entradanfe sambanet
+pág. 8 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+r$ total do fornecedor:
+3.726,74
+0,00
+0,00
+0,00
+0,00
+3.726,74
+fornecedor: 192 - araujo distribuidora ltda
+964507490408
+1
+araujo distribuidora ltda
+860315
+01/08/22
+01/08/22
+04/08/22
+bt
+10.070,10
+0,00
+0,00
+0,00
+0,00
+10.070,10
+04/08/22
+1
+debito
+em
+conta
+nf 860315 860316 860317
+860318 860319
+1030506291108
+1
+araujo distribuidora ltda
+870285
+11/08/22
+09/08/22
+15/08/22
+bt
+3.887,82
+0,00
+0,00
+0,00
+0,00
+3.887,82
+15/08/22
+1
+debito
+em conta
+gerado pela nf: 870285 -
+entradanfe sambanet
+1084506291608
+1
+araujo distribuidora ltda
+874590
+16/08/22
+13/08/22
+18/08/22
+bt
+577,96
+0,00
+0,00
+0,00
+0,00
+577,96
+18/08/22
+1
+dinheiro
+gerado pela nf: 874590 -
+entradanfe sambanet
+1148506292408
+1
+araujo distribuidora ltda
+882124
+24/08/22
+20/08/22
+25/08/22
+bt
+823,20
+0,00
+0,00
+0,00
+0,00
+823,20
+25/08/22
+1
+dinheiro gerado pela nf: 882124 -
+entradanfe sambanet
+r$ total do fornecedor:
+15.359,08
+0,00
+0,00
+0,00
+0,00
+15.359,08
+fornecedor: 211 - jr distribuidora de calcados ltda
+370506291306
+1
+jr distribuidora de calcados
+ltda
+60905
+13/06/22
+10/06/22
+09/08/22
+bt
+311,88
+0,00
+0,00
+0,00
+0,00
+311,88
+09/08/22
+1
+dinheiro
+gerado pela nf: 60905 -
+entradanfe sambanet
+r$ total do fornecedor:
+311,88
+0,00
+0,00
+0,00
+0,00
+311,88
+fornecedor: 221 - agroaves ltda
+816506292107
+1
+agroaves ltda
+359228
+21/07/22
+20/07/22
+03/08/22
+bt
+607,31
+0,00
+0,00
+0,00
+0,00
+607,31
+03/08/22
+1
+dinheiro
+954506290308
+1
+agroaves ltda
+361107
+03/08/22
+03/08/22
+17/08/22
+bt
+1.067,09
+0,00
+0,00
+0,00
+0,00
+1.067,09
+17/08/22
+1
+debito
+em
+conta
+gerado pela nf: 361107 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.674,40
+0,00
+0,00
+0,00
+0,00
+1.674,40
+fornecedor: 223 - comercial divinolandia ltda
+918507490208
+1
+comercial divinolandia ltda
+contabi
+lidade
+02/08/22
+02/08/22
+02/08/22
+bt
+1.212,00
+0,00
+0,00
+0,00
+0,00
+1.212,00
+02/08/22
+1
+debito
+em conta
+1065507491508
+1
+comercial divinolandia ltda
+fgts07/
+2022
+09/08/22
+09/08/22
+09/08/22
+bt
+1.335,11
+0,00
+0,00
+0,00
+0,00
+1.335,11
+09/08/22
+1
+dinheiro
+r$ 69,79 multa
+3525444
+1
+comercial divinolandia ltda
+telefon
+e 1463
+25/08/22
+25/08/22
+25/08/22
+bt
+55,88
+0,00
+0,00
+0,00
+0,00
+55,88
+25/08/22
+1
+dinheiro
+140679
+1
+comercial divinolandia ltda
+acordo
+2/18
+56021422
+55111
+30/08/22
+30/08/22
+30/08/22
+bt
+329,47
+0,00
+0,00
+0,00
+0,00
+329,47
+30/08/22
+1
+debito
+em
+conta
+1165626
+1
+comercial divinolandia ltda
+darf
+previ
+07.16.222
+07.571696
+2
+19/08/22
+19/08/22
+19/08/22
+bt
+1.788,31
+0,00
+0,00
+0,00
+0,00
+1.788,31
+19/08/22
+1
+debito
+em conta
+4294836
+1
+comercial divinolandia ltda
+dae
+havaian
+as
+00.09598
+3231-29
+31/08/22
+31/08/22
+31/08/22
+bt
+148,43
+0,00
+0,00
+0,00
+0,00
+148,43
+31/08/22
+1
+dinheiro
+240669
+1
+comercial divinolandia ltda
+dae
+31/08/22
+31/08/22
+31/08/22
+bt
+95 14
+0 00
+0 00
+0 00
+0 00
+95 14
+31/08/22
+1
+dinheiro
+pág. 9 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+240669
+1
+comercial divinolandia ltda
+havaian
+as
+00.096765
+551-51
+31/08/22
+31/08/22
+31/08/22
+bt
+95,14
+0,00
+0,00
+0,00
+0,00
+95,14
+31/08/22
+1
+dinheiro
+1782
+1
+comercial divinolandia ltda
+agua
+mons.
+ayala
+122
+r07/2022
+25/08/22
+25/08/22
+25/08/22
+bt
+61,51
+0,00
+0,00
+0,00
+0,00
+61,51
+25/08/22
+1
+dinheiro
+324720
+1
+comercial divinolandia ltda
+agua
+sao
+jose 79
+r 07/2022
+25/08/22
+25/08/22
+25/08/22
+bt
+241,51
+0,00
+0,00
+0,00
+0,00
+241,51
+25/08/22
+1
+dinheiro
+4207302
+1
+comercial divinolandia ltda
+das
+07.20.222
+20.48632
+63-6
+22/08/22
+22/08/22
+22/08/22
+bt
+23.851,59
+0,00
+0,00
+0,00
+0,00
+23.851,59
+22/08/22
+1
+debito
+em
+conta
+262845
+1
+comercial divinolandia ltda
+darf
+31/07/202
+2 0561
+19/08/22
+19/08/22
+19/08/22
+bt
+360,46
+0,00
+0,00
+0,00
+0,00
+360,46
+19/08/22
+1
+dinheiro
+r$ total do fornecedor:
+29.479,41
+0,00
+0,00
+0,00
+0,00
+29.479,41
+fornecedor: 234 - distribuidora sitio natura ltda
+997506290608
+1
+distribuidora sitio natura
+ltda
+181553
+06/08/22
+04/08/22
+09/08/22
+bt
+1.929,30
+0,00
+0,00
+0,00
+0,00
+1.929,30
+09/08/22
+1
+debito
+em
+conta
+gerado pela nf: 181553 -
+entradanfe sambanet
+1011506290908
+1
+distribuidora sitio natura
+ltda
+181794
+09/08/22
+09/08/22
+13/08/22
+bt
+1.483,16
+0,00
+0,00
+0,00
+0,00
+1.483,16
+19/08/22
+1
+dinheiro gerado pela nf: 181794
+- entradanfe
+sambanet
+3268980
+1
+distribuidora sitio natura
+ltda
+orc
+163706
+19/08/22
+19/08/22
+23/08/22
+bt
+735,00
+0,00
+0,00
+0,00
+0,00
+735,00
+22/08/22
+1
+debito
+em
+conta
+r$ total do fornecedor:
+4.147,46
+0,00
+0,00
+0,00
+0,00
+4.147,46
+fornecedor: 249 - gilberto evangelista dos santos filho me
+894506292907
+1
+gilberto evangelista dos
+santos filho me
+18514
+29/07/22
+27/07/22
+12/08/22
+bt
+883,00
+0,00
+0,00
+0,00
+0,00
+883,00
+11/08/22
+1
+dinheiro gerado pela nf: 18514 -
+entradanfe sambanet
+r$ total do fornecedor:
+883,00
+0,00
+0,00
+0,00
+0,00
+883,00
+fornecedor: 252 - anchieta comercio e serv de distr s/a
+974506290508
+1
+anchieta comercio e serv de
+distr s/a
+896398
+05/08/22
+03/08/22
+10/08/22
+bt
+572,40
+0,00
+0,00
+0,00
+0,00
+572,40
+10/08/22
+1
+debito
+em
+conta
+gerado pela nf: 896398 -
+entradanfe sambanet
+984506290508
+1
+anchieta comercio e serv de
+distr s/a
+896397
+05/08/22
+03/08/22
+10/08/22
+bt
+2.628,20
+0,00
+0,00
+0,00
+0,00
+2.628,20
+10/08/22
+1
+debito
+em conta
+gerado pela nf: 896397 -
+entradanfe sambanet
+1110506291808
+1
+anchieta comercio e serv de
+distr s/a
+900703
+18/08/22
+17/08/22
+24/08/22
+bt
+254,70
+0,00
+0,00
+0,00
+0,00
+254,70
+23/08/22
+1
+dinheiro
+gerado pela nf: 900703 -
+entradanfe sambanet
+1100506291808
+1
+anchieta comercio e serv de
+distr s/a
+900702
+18/08/22
+17/08/22
+24/08/22
+bt
+2.418,26
+0,00
+0,00
+0,00
+0,00
+2.418,26
+24/08/22
+1
+debito
+em conta
+gerado pela nf: 900702 -
+entradanfe sambanet
+r$ total do fornecedor:
+5.873,56
+0,00
+0,00
+0,00
+0,00
+5.873,56
+pág. 10 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+fornecedor: 253 - stoque mercantil ltda
+702506290807
+1
+stoque mercantil ltda
+908614
+08/07/22
+04/07/22
+01/08/22
+bt
+697,27
+0,00
+0,00
+0,00
+0,00
+697,27
+01/08/22
+1
+dinheiro
+gerado pela nf: 908614 -
+entradanfe sambanet
+702506290807
+1
+stoque mercantil ltda
+908614
+08/07/22
+04/07/22
+08/08/22
+bt
+697,27
+0,00
+0,00
+0,00
+0,00
+697,27
+08/08/22
+1
+dinheiro gerado pela nf: 908614 -
+entradanfe sambanet
+873506292707
+1
+stoque mercantil ltda
+917184
+27/07/22
+25/07/22
+15/08/22
+bt
+1.229,92
+0,00
+0,00
+0,00
+0,00
+1.229,92
+15/08/22
+1
+debito
+em
+conta
+gerado pela nf: 917184 -
+entradanfe sambanet
+873506292707
+1
+stoque mercantil ltda
+917184
+27/07/22
+25/07/22
+22/08/22
+bt
+1.229,93
+0,00
+0,00
+0,00
+0,00
+1.229,93
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 917184 -
+entradanfe sambanet
+873506292707
+1
+stoque mercantil ltda
+917184
+27/07/22
+25/07/22
+29/08/22
+bt
+1.229,93
+0,00
+0,00
+0,00
+0,00
+1.229,93
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 917184 -
+entradanfe sambanet
+876506292707
+1
+stoque mercantil ltda
+917169
+27/07/22
+25/07/22
+22/08/22
+bt
+501,76
+0,00
+0,00
+0,00
+0,00
+501,76
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 917169 -
+entradanfe sambanet
+r$ total do fornecedor:
+5.586,08
+0,00
+0,00
+0,00
+0,00
+5.586,08
+fornecedor: 270 - supply distribuidora de produtos alimenticios ltda
+773506291507
+1
+supply distribuidora de
+produtos alimenticios ltda
+3395335
+15/07/22
+13/07/22
+06/08/22
+bt
+668,81
+0,00
+0,00
+0,00
+0,00
+668,81
+08/08/22
+1
+dinheiro
+gerado pela nf: 3395335 -
+entradanfe sambanet
+810506292107
+1
+supply distribuidora de
+produtos alimenticios ltda
+3398201
+21/07/22
+19/07/22
+05/08/22
+bt
+281,63
+0,00
+0,00
+0,00
+0,00
+281,63
+05/08/22
+1
+dinheiro gerado pela nf: 3398201 -
+entradanfe sambanet
+810506292107
+1
+supply distribuidora de
+produtos alimenticios ltda
+3398201
+21/07/22
+19/07/22
+12/08/22
+bt
+281,63
+0,00
+0,00
+0,00
+0,00
+281,63
+11/08/22
+1
+dinheiro
+gerado pela nf: 3398201 -
+entradanfe sambanet
+905506292907
+1
+supply distribuidora de
+produtos alimenticios ltda
+3402409
+29/07/22
+26/07/22
+05/08/22
+bt
+551,70
+0,00
+0,00
+0,00
+0,00
+551,70
+05/08/22
+1
+dinheiro gerado pela nf: 3402409 -
+entradanfe sambanet
+905506292907
+1
+supply distribuidora de
+produtos alimenticios ltda
+3402409
+29/07/22
+26/07/22
+12/08/22
+bt
+551,54
+0,00
+0,00
+0,00
+0,00
+551,54
+11/08/22
+1
+dinheiro
+gerado pela nf: 3402409 -
+entradanfe sambanet
+905506292907
+1
+supply distribuidora de
+produtos alimenticios ltda
+3402409
+29/07/22
+26/07/22
+19/08/22
+bt
+551,54
+0,00
+0,00
+0,00
+0,00
+551,54
+19/08/22
+1
+debito
+em conta
+gerado pela nf: 3402409 -
+entradanfe sambanet
+932506290208
+1
+supply distribuidora de
+produtos alimenticios ltda
+3405292
+02/08/22
+29/07/22
+08/08/22
+bt
+272,59
+0,00
+0,00
+0,00
+0,00
+272,59
+08/08/22
+1
+dinheiro
+gerado pela nf: 3405292 -
+entradanfe sambanet
+932506290208
+1
+supply distribuidora de
+produtos alimenticios ltda
+3405292
+02/08/22
+29/07/22
+15/08/22
+bt
+272,51
+0,00
+0,00
+0,00
+0,00
+272,51
+15/08/22
+1
+dinheiro gerado pela nf: 3405292 -
+entradanfe sambanet
+932506290208
+1
+supply distribuidora de
+produtos alimenticios ltda
+3405292
+02/08/22
+29/07/22
+22/08/22
+bt
+272,51
+0,00
+0,00
+0,00
+0,00
+272,51
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 3405292 -
+entradanfe sambanet
+1052506291208
+1
+supply distribuidora de
+produtos alimenticios ltda
+3410314
+12/08/22
+09/08/22
+19/08/22
+bt
+209,25
+0,00
+0,00
+0,00
+0,00
+209,25
+19/08/22
+1
+debito
+em conta
+gerado pela nf: 3410314 -
+entradanfe sambanet
+1052506291208
+1
+supply distribuidora de
+produtos alimenticios ltda
+3410314
+12/08/22
+09/08/22
+26/08/22
+bt
+209,19
+0,00
+0,00
+0,00
+0,00
+209,19
+26/08/22
+1
+dinheiro
+gerado pela nf: 3410314 -
+entradanfe sambanet
+r$ total do fornecedor:
+4.122,90
+0,00
+0,00
+0,00
+0,00
+4.122,90
+fornecedor: 273 - distribuidora guarany ltda
+795506292007
+1
+distribuidora guarany ltda
+775125
+20/07/22
+19/07/22
+02/08/22
+bt
+414,69
+0,00
+0,00
+0,00
+0,00
+414,69
+02/08/22
+1
+dinheiro gerado pela nf: 775125 -
+entradanfe sambanet
+908506292907
+1
+distribuidora guarany ltda
+778064
+29/07/22
+29/07/22
+12/08/22
+bt
+4.490,42
+0,00
+0,00
+0,00
+0,00
+4.490,42
+11/08/22
+1
+debito
+em
+gerado pela nf: 778064
+- entradanfe
+pág. 11 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+conta
+sambanet
+940506290308
+1
+distribuidora guarany ltda
+779569
+03/08/22
+02/08/22
+16/08/22
+bt
+554,59
+0,00
+0,00
+0,00
+0,00
+554,59
+16/08/22
+1
+dinheiro gerado pela nf: 779569 -
+entradanfe sambanet
+1029506291108
+1
+distribuidora guarany ltda
+781489
+11/08/22
+09/08/22
+23/08/22
+bt
+175,71
+0,00
+0,00
+0,00
+0,00
+175,71
+23/08/22
+1
+dinheiro
+gerado pela nf: 781489 -
+entradanfe sambanet
+r$ total do fornecedor:
+5.635,41
+0,00
+0,00
+0,00
+0,00
+5.635,41
+fornecedor: 277 - novamix industria e comercial de alimentos ltda
+802506292007
+1
+novamix industria e comercial
+de alimentos ltda
+433943
+20/07/22
+18/07/22
+08/08/22
+bt
+3.069,93
+0,00
+0,00
+0,00
+0,00
+3.069,93
+08/08/22
+1
+debito
+em conta
+gerado pela nf: 433943 -
+entradanfe sambanet -
+concedido desconto
+r$ 250,74 - valor real
+r$ 3320,67
+802506292007
+1
+novamix industria e
+comercial de alimentos ltda
+433943
+20/07/22
+18/07/22
+15/08/22
+bt
+3.320,67
+0,00
+0,00
+0,00
+0,00
+3.320,67
+15/08/22
+1
+debito
+em
+conta
+gerado pela nf: 433943 -
+entradanfe sambanet
+802506292007
+1
+novamix industria e comercial
+de alimentos ltda
+433943
+20/07/22
+18/07/22
+22/08/22
+bt
+3.320,66
+0,00
+0,00
+0,00
+0,00
+3.320,66
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 433943 -
+entradanfe sambanet
+r$ total do fornecedor:
+9.711,26
+0,00
+0,00
+0,00
+0,00
+9.711,26
+fornecedor: 294 - jvk supermercado ltda me
+897506292907
+1
+jvk supermercado ltda me
+13660
+29/07/22
+28/07/22
+29/08/22
+bt
+425,12
+0,00
+0,00
+0,00
+0,00
+425,12
+29/08/22
+1
+dinheiro
+gerado pela nf: 13660 -
+entradanfe sambanet
+r$ total do fornecedor:
+425,12
+0,00
+0,00
+0,00
+0,00
+425,12
+fornecedor: 296 - arcom s a
+620506290207
+1
+arcom s a
+18195363
+02/07/22
+29/06/22
+16/08/22
+bt
+367,64
+0,00
+0,00
+0,00
+0,00
+367,64
+16/08/22
+1
+dinheiro
+912506293007
+1
+arcom s a
+18271745
+30/07/22
+23/07/22
+29/08/22
+bt
+923,37
+0,00
+0,00
+0,00
+0,00
+923,37
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 18271745 -
+entradanfe sambanet
+1081506291608
+1
+arcom s a
+18343035
+16/08/22
+13/08/22
+29/08/22
+bt
+235,25
+0,00
+0,00
+0,00
+0,00
+235,25
+29/08/22
+1
+dinheiro gerado pela nf: 18343035 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.526,26
+0,00
+0,00
+0,00
+0,00
+1.526,26
+fornecedor: 299 - industria e comercio de cafe gema de minas ltda.
+438506292106
+1
+industria e comercio de cafe
+gema de minas ltda.
+247757
+21/06/22
+17/06/22
+04/08/22
+bt
+1.080,00
+0,00
+0,00
+0,00
+0,00
+1.080,00
+04/08/22
+1
+dinheiro
+gerado pela nf: 247757 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.080,00
+0,00
+0,00
+0,00
+0,00
+1.080,00
+fornecedor: 303 - seabra distribuidora rep.coml. eireli me
+788506291907
+1
+seabra distribuidora
+rep.coml. eireli me
+12554
+19/07/22
+18/07/22
+01/08/22
+bt
+483,00
+0,00
+0,00
+0,00
+0,00
+483,00
+01/08/22
+1
+dinheiro gerado pela nf: 12554 -
+entradanfe sambanet
+1092506291708
+1
+seabra distribuidora
+rep.coml. eireli me
+12651
+17/08/22
+17/08/22
+30/08/22
+bt
+645,75
+0,00
+0,00
+0,00
+0,00
+645,75
+31/08/22
+1
+debito
+em
+conta
+gerado pela nf: 12651 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.128,75
+0,00
+0,00
+0,00
+0,00
+1.128,75
+pág. 12 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+fornecedor: 307 - indepe - inhapim deriv. de petroleo ltda
+577506292806
+1
+indepe - inhapim deriv. de
+petroleo ltda
+541034
+28/06/22
+24/06/22
+23/08/22
+bt
+358,32
+0,00
+0,00
+0,00
+0,00
+358,32
+23/08/22
+1
+dinheiro gerado pela nf: 541034 -
+entradanfe sambanet
+r$ total do fornecedor:
+358,32
+0,00
+0,00
+0,00
+0,00
+358,32
+fornecedor: 314 - ln beneficiamento com imp e exp ltd
+813506292107
+1
+ln beneficiamento com imp e
+exp ltd
+48577
+21/07/22
+19/07/22
+09/08/22
+bt
+2.125,00
+0,00
+0,00
+0,00
+0,00
+2.125,00
+09/08/22
+1
+debito
+em
+conta
+gerado pela nf: 48577 -
+entradanfe sambanet
+813506292107
+1
+ln beneficiamento com imp e
+exp ltd
+48577
+21/07/22
+19/07/22
+16/08/22
+bt
+2.125,00
+0,00
+0,00
+0,00
+0,00
+2.125,00
+16/08/22
+1
+debito
+em conta
+gerado pela nf: 48577 -
+entradanfe sambanet
+813506292107
+1
+ln beneficiamento com imp e
+exp ltd
+48577
+21/07/22
+19/07/22
+23/08/22
+bt
+2.125,00
+0,00
+0,00
+0,00
+0,00
+2.125,00
+30/08/22
+1
+debito
+em
+conta
+gerado pela nf: 48577 -
+entradanfe sambanet
+r$ total do fornecedor:
+6.375,00
+0,00
+0,00
+0,00
+0,00
+6.375,00
+fornecedor: 345 - t e r distribuidora de produtos alimenticios ltda
+973506290508
+1
+t e r distribuidora de
+produtos alimenticios ltda
+154771
+05/08/22
+29/07/22
+05/08/22
+bt
+794,43
+0,00
+0,00
+0,00
+0,00
+794,43
+05/08/22
+1
+dinheiro gerado pela nf: 154771
+- entradanfe
+sambanet
+1070506291608
+1
+t e r distribuidora de
+produtos alimenticios ltda
+155831
+16/08/22
+12/08/22
+19/08/22
+bt
+769,69
+0,00
+0,00
+0,00
+0,00
+769,69
+19/08/22
+1
+debito
+em
+conta
+gerado pela nf: 155831 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.564,12
+0,00
+0,00
+0,00
+0,00
+1.564,12
+fornecedor: 349 - granja brasilia agroindustr.avicola ltda
+994506290608
+1
+granja brasilia
+agroindustr.avicola ltda
+438238
+06/08/22
+03/08/22
+10/08/22
+bt
+1.852,95
+0,00
+0,00
+0,00
+0,00
+1.852,95
+10/08/22
+1
+debito
+em conta
+gerado pela nf: 438238 -
+entradanfe sambanet
+994506290608
+1
+granja brasilia
+agroindustr.avicola ltda
+438238
+06/08/22
+03/08/22
+17/08/22
+bt
+1.852,40
+0,00
+0,00
+0,00
+0,00
+1.852,40
+17/08/22
+1
+debito
+em
+conta
+gerado pela nf: 438238 -
+entradanfe sambanet
+994506290608
+1
+granja brasilia
+agroindustr.avicola ltda
+438238
+06/08/22
+03/08/22
+24/08/22
+bt
+1.852,40
+0,00
+0,00
+0,00
+0,00
+1.852,40
+24/08/22
+1
+debito
+em conta
+gerado pela nf: 438238 -
+entradanfe sambanet
+1013506290908
+1
+granja brasilia
+agroindustr.avicola ltda
+439208
+09/08/22
+07/08/22
+15/08/22
+bt
+269,52
+0,00
+0,00
+0,00
+0,00
+269,52
+15/08/22
+1
+dinheiro
+gerado pela nf: 439208 -
+entradanfe sambanet
+1013506290908
+1
+granja brasilia
+agroindustr.avicola ltda
+439208
+09/08/22
+07/08/22
+22/08/22
+bt
+269,44
+0,00
+0,00
+0,00
+0,00
+269,44
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 439208 -
+entradanfe sambanet
+1013506290908
+1
+granja brasilia
+agroindustr.avicola ltda
+439208
+09/08/22
+07/08/22
+29/08/22
+bt
+269,44
+0,00
+0,00
+0,00
+0,00
+269,44
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 439208 -
+entradanfe sambanet
+1188506292908
+1
+granja brasilia
+agroindustr.avicola ltda
+444497
+29/08/22
+24/08/22
+31/08/22
+bt
+1.509,32
+0,00
+5,03
+0,00
+0,00
+1.514,35
+01/09/22
+1
+dinheiro gerado pela nf: 444497 -
+entradanfe sambanet +
+boleta foi entregue
+atrasada a leticia por
+aline
+r$ total do fornecedor:
+7.875,47
+0,00
+5,03
+0,00
+0,00
+7.880,50
+fornecedor: 362 - companhia agricola pontenovense
+pág. 13 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+1000506290808
+1
+companhia agricola
+pontenovense
+315109
+08/08/22
+04/08/22
+25/08/22
+bt
+3.442,99
+0,00
+0,00
+0,00
+0,00
+3.442,99
+25/08/22
+1
+debito
+em
+conta
+gerado pela nf: 315109 -
+entradanfe sambanet
+r$ total do fornecedor:
+3.442,99
+0,00
+0,00
+0,00
+0,00
+3.442,99
+fornecedor: 363 - itambé alimentos s/a
+732506291107
+1
+itambé alimentos s/a
+2601070
+11/07/22
+09/07/22
+04/08/22
+bt
+1.777,80
+0,00
+0,00
+0,00
+0,00
+1.777,80
+04/08/22
+1
+debito
+em conta
+gerado pela nf: 2601070 -
+entradanfe sambanet
+757506291407
+1
+itambé alimentos s/a
+2604422
+14/07/22
+13/07/22
+08/08/22
+bt
+1.304,79
+0,00
+0,00
+0,00
+0,00
+1.304,79
+08/08/22
+1
+dinheiro
+gerado pela nf: 2604422 -
+entradanfe sambanet
+830506292207
+1
+itambé alimentos s/a
+2612275
+22/07/22
+20/07/22
+15/08/22
+bt
+931,24
+0,00
+0,00
+0,00
+0,00
+931,24
+15/08/22
+1
+dinheiro gerado pela nf: 2612275 -
+entradanfe sambanet
+972506290508
+1
+itambé alimentos s/a
+2627399
+05/08/22
+02/08/22
+29/08/22
+bt
+1.921,85
+0,00
+0,00
+0,00
+0,00
+1.921,85
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 2627399 -
+entradanfe sambanet
+r$ total do fornecedor:
+5.935,68
+0,00
+0,00
+0,00
+0,00
+5.935,68
+fornecedor: 365 - mega mix logistica eireli - me
+993506290508
+1
+mega mix logistica eireli - me
+77366
+05/08/22
+03/08/22
+17/08/22
+bt
+1.598,00
+0,00
+0,00
+0,00
+0,00
+1.598,00
+17/08/22
+1
+debito
+em conta
+gerado pela nf: 77366 -
+entradanfe sambanet
+1045506291208
+1
+mega mix logistica eireli - me
+77547
+12/08/22
+10/08/22
+24/08/22
+bt
+431,28
+0,00
+0,00
+0,00
+0,00
+431,28
+23/08/22
+1
+dinheiro
+gerado pela nf: 77547 -
+entradanfe sambanet
+r$ total do fornecedor:
+2.029,28
+0,00
+0,00
+0,00
+0,00
+2.029,28
+fornecedor: 418 - playvender dist. higiene limpeza ltda
+918506290108
+1
+playvender dist. higiene
+limpeza ltda
+1747419
+01/08/22
+28/07/22
+21/08/22
+bt
+545,16
+0,00
+0,00
+0,00
+0,00
+545,16
+22/08/22
+1
+debito
+em conta
+1035506291108
+1
+playvender dist. higiene
+limpeza ltda
+1756062
+11/08/22
+09/08/22
+30/08/22
+bt
+2.301,62
+0,00
+0,00
+0,00
+0,00
+2.301,62
+30/08/22
+1
+debito
+em
+conta
+gerado pela nf: 1756062 -
+entradanfe sambanet
+1106507491808
+1
+playvender dist. higiene
+limpeza ltda
+1747415 -
+2
+28/07/22
+28/07/22
+18/08/22
+bt
+2.771,06
+0,00
+0,00
+0,00
+0,00
+2.771,06
+18/08/22
+1
+debito
+em conta
+27777600
+1
+playvender dist. higiene
+limpeza ltda
+1747415-
+3
+28/07/22
+28/07/22
+25/08/22
+bt
+2.771,06
+0,00
+0,00
+0,00
+0,00
+2.771,06
+25/08/22
+1
+debito
+em
+conta
+r$ total do fornecedor:
+8.388,90
+0,00
+0,00
+0,00
+0,00
+8.388,90
+fornecedor: 423 - rosalvo hartmann de lara - me
+781506291807
+1
+rosalvo hartmann de lara -
+me
+424
+18/07/22
+17/07/22
+17/08/22
+bt
+515,00
+0,00
+0,00
+0,00
+0,00
+515,00
+17/08/22
+1
+dinheiro gerado pela nf: 424 -
+entradanfe sambanet
+r$ total do fornecedor:
+515,00
+0,00
+0,00
+0,00
+0,00
+515,00
+fornecedor: 427 - automatec automacao comercial eireli epp
+1103507491808
+1
+automatec automacao
+comercial eireli epp
+automa
+tec nf
+20220000
+0001188
+01/08/22
+01/08/22
+10/08/22
+bt
+196,80
+0,00
+0,00
+0,00
+0,00
+196,80
+10/08/22
+1
+debito
+em
+conta
+pág. 14 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+r$ total do fornecedor:
+196,80
+0,00
+0,00
+0,00
+0,00
+196,80
+fornecedor: 439 - ghnet internet ltda -epp
+3546720
+1
+ghnet internet ltda -epp
+interne
+t mons
+ayala
+825130
+25/08/22
+25/08/22
+25/08/22
+bt
+99,90
+0,00
+0,00
+0,00
+0,00
+99,90
+25/08/22
+1
+dinheiro
+535248
+1
+ghnet internet ltda -epp
+interne
+t sao
+jose
+715960
+25/08/22
+25/08/22
+25/08/22
+bt
+99,90
+0,00
+0,00
+0,00
+0,00
+99,90
+25/08/22
+1
+dinheiro
+r$ total do fornecedor:
+199,80
+0,00
+0,00
+0,00
+0,00
+199,80
+fornecedor: 451 - peixoto com. ind. serv. e transportes s/a
+985506290508
+1
+peixoto com. ind. serv. e
+transportes s/a
+2093597
+05/08/22
+29/07/22
+08/08/22
+bt
+512,80
+0,00
+0,00
+0,00
+0,00
+512,80
+08/08/22
+1
+dinheiro gerado pela nf: 2093597 -
+entradanfe sambanet
+985506290508
+1
+peixoto com. ind. serv. e
+transportes s/a
+2093597
+05/08/22
+29/07/22
+15/08/22
+bt
+497,73
+0,00
+0,00
+0,00
+0,00
+497,73
+15/08/22
+1
+dinheiro
+gerado pela nf: 2093597 -
+entradanfe sambanet
+985506290508
+1
+peixoto com. ind. serv. e
+transportes s/a
+2093597
+05/08/22
+29/07/22
+22/08/22
+bt
+497,73
+0,00
+0,00
+0,00
+0,00
+497,73
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 2093597 -
+entradanfe sambanet
+990506290508
+1
+peixoto com. ind. serv. e
+transportes s/a
+2093596
+05/08/22
+29/07/22
+28/08/22
+bt
+460,35
+0,00
+0,00
+0,00
+0,00
+460,35
+29/08/22
+1
+dinheiro
+gerado pela nf: 2093596 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.968,61
+0,00
+0,00
+0,00
+0,00
+1.968,61
+fornecedor: 472 - nestle brasil ltda
+844506292307
+1
+nestle brasil ltda
+148024
+23/07/22
+20/07/22
+03/08/22
+bt
+1.674,94
+0,00
+0,00
+0,00
+0,00
+1.674,94
+03/08/22
+1
+dinheiro gerado pela nf: 148024 -
+entradanfe sambanet
+836506292307
+1
+nestle brasil ltda
+148022
+23/07/22
+20/07/22
+10/08/22
+bt
+137,58
+0,00
+0,00
+0,00
+0,00
+137,58
+10/08/22
+1
+debito
+em
+conta
+gerado pela nf: 148022 -
+entradanfe sambanet
+837506292307
+1
+nestle brasil ltda
+148026
+23/07/22
+20/07/22
+10/08/22
+bt
+91,71
+0,00
+0,00
+0,00
+0,00
+91,71
+10/08/22
+1
+debito
+em conta
+gerado pela nf: 148026 -
+entradanfe sambanet
+975506290508
+1
+nestle brasil ltda
+149209
+05/08/22
+02/08/22
+23/08/22
+bt
+105,07
+0,00
+0,00
+0,00
+0,00
+105,07
+23/08/22
+1
+dinheiro
+gerado pela nf: 149209 -
+entradanfe sambanet
+1116506291908
+1
+nestle brasil ltda
+150955
+19/08/22
+17/08/22
+24/08/22
+bt
+906,51
+0,00
+0,00
+0,00
+0,00
+906,51
+23/08/22
+1
+dinheiro gerado pela nf: 150955 -
+entradanfe sambanet
+1117506291908
+1
+nestle brasil ltda
+150954
+19/08/22
+17/08/22
+24/08/22
+bt
+906,51
+0,00
+0,00
+0,00
+0,00
+906,51
+23/08/22
+1
+dinheiro
+gerado pela nf: 150954 -
+entradanfe sambanet
+1115506291908
+1
+nestle brasil ltda
+150956
+19/08/22
+17/08/22
+24/08/22
+bt
+906,51
+0,00
+0,00
+0,00
+0,00
+906,51
+23/08/22
+1
+dinheiro gerado pela nf: 150956 -
+entradanfe sambanet
+r$ total do fornecedor:
+4.728,83
+0,00
+0,00
+0,00
+0,00
+4.728,83
+fornecedor: 481 - suinco cooperativa de suinocultores ltda
+801506292007
+1
+suinco cooperativa de
+suinocultores ltda
+346312
+20/07/22
+16/07/22
+08/08/22
+bt
+708,57
+0,00
+0,00
+0,00
+0,00
+708,57
+08/08/22
+1
+dinheiro
+gerado pela nf: 346312 -
+entradanfe sambanet
+824506292107
+1
+suinco cooperativa de
+suinocultores ltda
+346313
+21/07/22
+16/07/22
+08/08/22
+bt
+1.271,78
+0,00
+0,00
+0,00
+0,00
+1.271,78
+08/08/22
+1
+dinheiro gerado pela nf: 346313 -
+entradanfe sambanet
+1027506291008
+1
+suinco cooperativa de
+365153
+10/08/22
+06/08/22
+29/08/22
+bt
+3 344 83
+0 00
+0 00
+0 00
+0 00
+3 344 83
+29/08/22
+1
+debito
+gerado pela nf: 365153 -
+pág. 15 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+1027506291008
+1
+suinocultores ltda
+365153
+10/08/22
+06/08/22
+29/08/22
+bt
+3.344,83
+0,00
+0,00
+0,00
+0,00
+3.344,83
+29/08/22
+1
+em
+conta
+entradanfe sambanet
+1028506291008
+1
+suinco cooperativa de
+suinocultores ltda
+365152
+10/08/22
+06/08/22
+29/08/22
+bt
+785,20
+0,00
+0,00
+0,00
+0,00
+785,20
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 365152 -
+entradanfe sambanet
+r$ total do fornecedor:
+6.110,38
+0,00
+0,00
+0,00
+0,00
+6.110,38
+fornecedor: 489 - frical alimentos s/a
+825506292107
+1
+frical alimentos s/a
+1055590
+21/07/22
+20/07/22
+10/08/22
+bt
+885,12
+0,00
+0,00
+0,00
+0,00
+885,12
+10/08/22
+1
+debito
+em
+conta
+r$ total do fornecedor:
+885,12
+0,00
+0,00
+0,00
+0,00
+885,12
+fornecedor: 494 - laticinios ita ind.com.al.ltda..
+782506291807
+1
+laticinios ita ind.com.al.ltda..
+638448
+18/07/22
+16/07/22
+06/08/22
+bt
+410,74
+0,00
+0,00
+0,00
+0,00
+410,74
+08/08/22
+1
+dinheiro gerado pela nf: 638448 -
+entradanfe sambanet
+782506291807
+1
+laticinios ita ind.com.al.ltda..
+638448
+18/07/22
+16/07/22
+13/08/22
+bt
+410,74
+0,00
+0,00
+0,00
+0,00
+410,74
+15/08/22
+1
+dinheiro
+gerado pela nf: 638448 -
+entradanfe sambanet
+854506292507
+1
+laticinios ita ind.com.al.ltda..
+644363
+25/07/22
+23/07/22
+06/08/22
+bt
+263,41
+0,00
+0,00
+0,00
+0,00
+263,41
+08/08/22
+1
+dinheiro gerado pela nf: 644363 -
+entradanfe sambanet
+854506292507
+1
+laticinios ita ind.com.al.ltda..
+644363
+25/07/22
+23/07/22
+13/08/22
+bt
+263,40
+0,00
+0,00
+0,00
+0,00
+263,40
+15/08/22
+1
+dinheiro
+gerado pela nf: 644363 -
+entradanfe sambanet
+854506292507
+1
+laticinios ita ind.com.al.ltda..
+644363
+25/07/22
+23/07/22
+20/08/22
+bt
+263,40
+0,00
+0,00
+0,00
+0,00
+263,40
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 644363 -
+entradanfe sambanet
+1016506290908
+1
+laticinios ita ind.com.al.ltda..
+657181
+09/08/22
+06/08/22
+20/08/22
+bt
+229,22
+0,00
+0,00
+0,00
+0,00
+229,22
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 657181 -
+entradanfe sambanet
+1016506290908
+1
+laticinios ita ind.com.al.ltda..
+657181
+09/08/22
+06/08/22
+27/08/22
+bt
+229,22
+0,00
+0,00
+0,00
+0,00
+229,22
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 657181 -
+entradanfe sambanet
+1008506290808
+1
+laticinios ita ind.com.al.ltda..
+657182
+08/08/22
+06/08/22
+20/08/22
+bt
+394,32
+0,00
+0,00
+0,00
+0,00
+394,32
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 657182 -
+entradanfe sambanet
+1008506290808
+1
+laticinios ita ind.com.al.ltda..
+657182
+08/08/22
+06/08/22
+27/08/22
+bt
+394,32
+0,00
+0,00
+0,00
+0,00
+394,32
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 657182 -
+entradanfe sambanet
+r$ total do fornecedor:
+2.858,77
+0,00
+0,00
+0,00
+0,00
+2.858,77
+fornecedor: 504 - biscoitos barbieri industria alimenticia ltda
+896506292907
+1
+biscoitos barbieri industria
+alimenticia ltda
+234981
+29/07/22
+25/07/22
+24/08/22
+bt
+430,03
+0,00
+0,00
+0,00
+0,00
+430,03
+24/08/22
+1
+debito
+em
+conta
+gerado pela nf: 234981 -
+entradanfe sambanet
+r$ total do fornecedor:
+430,03
+0,00
+0,00
+0,00
+0,00
+430,03
+fornecedor: 507 - arroba alimentos ltda
+720506290907
+1
+arroba alimentos ltda
+93692
+09/07/22
+05/07/22
+03/08/22
+bt
+2.745,42
+0,00
+0,00
+0,00
+0,00
+2.745,42
+03/08/22
+1
+debito
+em conta
+gerado pela nf: 93692 -
+entradanfe sambanet
+900506292907
+1
+arroba alimentos ltda
+95587
+29/07/22
+26/07/22
+10/08/22
+bt
+1.162,85
+0,00
+0,00
+0,00
+0,00
+1.162,85
+10/08/22
+1
+debito
+em
+conta
+gerado pela nf: 95587 -
+entradanfe sambanet
+pág. 16 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+900506292907
+1
+arroba alimentos ltda
+95587
+29/07/22
+26/07/22
+17/08/22
+bt
+1.162,86
+0,00
+0,00
+0,00
+0,00
+1.162,86
+17/08/22
+1
+debito
+em conta
+gerado pela nf: 95587 -
+entradanfe sambanet
+900506292907
+1
+arroba alimentos ltda
+95587
+29/07/22
+26/07/22
+24/08/22
+bt
+1.163,21
+0,00
+0,00
+0,00
+0,00
+1.163,21
+24/08/22
+1
+debito
+em
+conta
+gerado pela nf: 95587 -
+entradanfe sambanet
+1048506291208
+1
+arroba alimentos ltda
+96957
+12/08/22
+09/08/22
+24/08/22
+bt
+1.418,87
+0,00
+0,00
+0,00
+0,00
+1.418,87
+23/08/22
+1
+dinheiro gerado pela nf: 96957 -
+entradanfe sambanet
+1048506291208
+1
+arroba alimentos ltda
+96957
+12/08/22
+09/08/22
+31/08/22
+bt
+1.418,86
+0,00
+0,00
+0,00
+0,00
+1.418,86
+31/08/22
+1
+dinheiro
+gerado pela nf: 96957 -
+entradanfe sambanet
+r$ total do fornecedor:
+9.072,07
+0,00
+0,00
+0,00
+0,00
+9.072,07
+fornecedor: 508 - cdv distribuidor ltda
+914506290108
+1
+cdv distribuidor ltda
+93360
+01/08/22
+23/07/22
+15/08/22
+bt
+649,11
+0,00
+0,00
+0,00
+0,00
+649,11
+15/08/22
+1
+dinheiro gerado pela nf: 93360 -
+entradanfe sambanet
+914506290108
+1
+cdv distribuidor ltda
+93360
+01/08/22
+23/07/22
+22/08/22
+bt
+649,10
+0,00
+0,00
+0,00
+0,00
+649,10
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 93360 -
+entradanfe sambanet
+914506290108
+1
+cdv distribuidor ltda
+93360
+01/08/22
+23/07/22
+29/08/22
+bt
+649,10
+0,00
+0,00
+0,00
+0,00
+649,10
+29/08/22
+1
+dinheiro gerado pela nf: 93360 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.947,31
+0,00
+0,00
+0,00
+0,00
+1.947,31
+fornecedor: 524 - cdi comercio alimenticio eireli
+746506291307
+1
+cdi comercio alimenticio
+eireli
+3360
+13/07/22
+12/07/22
+09/08/22
+bt
+142,96
+0,00
+0,00
+0,00
+0,00
+142,96
+09/08/22
+1
+dinheiro
+gerado pela nf: 3360 -
+entradanfe sambanet
+r$ total do fornecedor:
+142,96
+0,00
+0,00
+0,00
+0,00
+142,96
+fornecedor: 532 - comercio representacoes cecoti ltda
+898506292907
+1
+comercio representacoes
+cecoti ltda
+3932923
+29/07/22
+27/07/22
+17/08/22
+bt
+1.367,86
+0,00
+0,00
+0,00
+0,00
+1.367,86
+17/08/22
+1
+debito
+em conta
+gerado pela nf: 3932923 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.367,86
+0,00
+0,00
+0,00
+0,00
+1.367,86
+fornecedor: 538 - clara produtos alimenticios ltda
+976506290508
+1
+clara produtos alimenticios
+ltda
+167459
+05/08/22
+30/07/22
+20/08/22
+bt
+721,61
+0,00
+0,00
+0,00
+0,00
+721,61
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 167459 -
+entradanfe sambanet
+r$ total do fornecedor:
+721,61
+0,00
+0,00
+0,00
+0,00
+721,61
+fornecedor: 539 - sanfreitas atacadista e distribuidora ltda epp
+884506292707
+1
+sanfreitas atacadista e
+distribuidora ltda epp
+347152
+27/07/22
+23/07/22
+06/08/22
+bt
+436,12
+0,00
+0,00
+0,00
+0,00
+436,12
+08/08/22
+1
+dinheiro gerado pela nf: 347152 -
+entradanfe sambanet
+r$ total do fornecedor:
+436,12
+0,00
+0,00
+0,00
+0,00
+436,12
+fornecedor: 546 - centerfrio distribuidora de produtos ali
+1069506291608
+1
+centerfrio distribuidora de
+produtos ali
+51551
+16/08/22
+12/08/22
+29/08/22
+bt
+3.675,94
+0,00
+0,00
+0,00
+0,00
+3.675,94
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 51551 -
+entradanfe sambanet
+pág. 17 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+r$ total do fornecedor:
+3.675,94
+0,00
+0,00
+0,00
+0,00
+3.675,94
+fornecedor: 552 - tudobom comercial eireli
+753506291407
+1
+tudobom comercial eireli
+141791
+14/07/22
+13/07/22
+03/08/22
+bt
+177,96
+0,00
+0,00
+0,00
+0,00
+177,96
+03/08/22
+1
+dinheiro gerado pela nf: 141791 -
+entradanfe sambanet
+971506290508
+1
+tudobom comercial eireli
+142962
+05/08/22
+03/08/22
+24/08/22
+bt
+237,28
+0,00
+0,00
+0,00
+0,00
+237,28
+23/08/22
+1
+dinheiro
+gerado pela nf: 142962 -
+entradanfe sambanet
+r$ total do fornecedor:
+415,24
+0,00
+0,00
+0,00
+0,00
+415,24
+fornecedor: 554 - irmaos guimaraes ltda
+671506290607
+1
+irmaos guimaraes ltda
+81430
+06/07/22
+04/07/22
+07/08/22
+bt
+484,73
+0,00
+0,00
+0,00
+0,00
+484,73
+08/08/22
+1
+dinheiro gerado pela nf: 81430 -
+entradanfe sambanet
+r$ total do fornecedor:
+484,73
+0,00
+0,00
+0,00
+0,00
+484,73
+fornecedor: 562 - cantina tia eliana ltda
+1099506291808
+1
+cantina tia eliana ltda
+453063
+18/08/22
+17/08/22
+25/08/22
+bt
+395,28
+0,00
+0,00
+0,00
+0,00
+395,28
+25/08/22
+1
+dinheiro
+gerado pela nf: 453063 -
+entradanfe sambanet
+r$ total do fornecedor:
+395,28
+0,00
+0,00
+0,00
+0,00
+395,28
+fornecedor: 570 - imperial importacao e exportacao ltda
+867506292607
+1
+imperial importacao e
+exportacao ltda
+1911132
+26/07/22
+24/07/22
+07/08/22
+bt
+201,46
+0,00
+0,00
+0,00
+0,00
+201,46
+08/08/22
+1
+dinheiro gerado pela nf: 1911132 -
+entradanfe sambanet
+r$ total do fornecedor:
+201,46
+0,00
+0,00
+0,00
+0,00
+201,46
+fornecedor: 586 - ronaldo delfino me
+175506292905
+1
+ronaldo delfino me
+15261
+29/05/22
+13/05/22
+14/08/22
+bt
+631,00
+0,00
+0,00
+0,00
+0,00
+631,00
+15/08/22
+1
+dinheiro
+gerado pela nf: 15261 -
+entradanfe sambanet
+r$ total do fornecedor:
+631,00
+0,00
+0,00
+0,00
+0,00
+631,00
+fornecedor: 593 - pdv minas distribuidora ltda
+941506290308
+1
+pdv minas distribuidora ltda
+63574
+03/08/22
+29/07/22
+12/08/22
+bt
+210,40
+0,00
+0,00
+0,00
+0,00
+210,40
+11/08/22
+1
+dinheiro gerado pela nf: 63574 -
+entradanfe sambanet
+941506290308
+1
+pdv minas distribuidora ltda
+63574
+03/08/22
+29/07/22
+19/08/22
+bt
+210,40
+0,00
+0,00
+0,00
+0,00
+210,40
+19/08/22
+1
+debito
+em
+conta
+gerado pela nf: 63574 -
+entradanfe sambanet
+941506290308
+1
+pdv minas distribuidora ltda
+63574
+03/08/22
+29/07/22
+26/08/22
+bt
+210,40
+0,00
+0,00
+0,00
+0,00
+210,40
+26/08/22
+1
+dinheiro gerado pela nf: 63574 -
+entradanfe sambanet
+944506290308
+1
+pdv minas distribuidora ltda
+63573
+03/08/22
+29/07/22
+19/08/22
+bt
+229,35
+0,00
+0,00
+0,00
+0,00
+229,35
+19/08/22
+1
+debito
+em
+conta
+gerado pela nf: 63573 -
+entradanfe sambanet
+944506290308
+1
+pdv minas distribuidora ltda
+63573
+03/08/22
+29/07/22
+26/08/22
+bt
+229,35
+0,00
+0,00
+0,00
+0,00
+229,35
+26/08/22
+1
+dinheiro gerado pela nf: 63573 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.089,90
+0,00
+0,00
+0,00
+0,00
+1.089,90
+fornecedor: 594 - tolomeu dias produtos da carne ltda
+880506292707
+1
+tolomeu dias produtos da
+21885
+27/07/22
+25/07/22
+01/08/22
+bt
+700 69
+0 00
+0 00
+0 00
+0 00
+700 69
+01/08/22
+1
+dinheiro
+gerado pela nf: 21885 -
+pág. 18 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+880506292707
+1
+carne ltda
+21885
+27/07/22
+25/07/22
+01/08/22
+bt
+700,69
+0,00
+0,00
+0,00
+0,00
+700,69
+01/08/22
+1
+dinheiro
+entradanfe sambanet
+1162506292508
+1
+tolomeu dias produtos da
+carne ltda
+22103
+25/08/22
+23/08/22
+30/08/22
+bt
+540,49
+0,00
+0,00
+0,00
+0,00
+540,49
+31/08/22
+1
+debito
+em conta
+gerado pela nf: 22103 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.241,18
+0,00
+0,00
+0,00
+0,00
+1.241,18
+fornecedor: 600 - f.s.a. distribuicao eireli - epp
+904506292907
+1
+f.s.a. distribuicao eireli - epp
+20737
+29/07/22
+25/07/22
+22/08/22
+bt
+459,70
+0,00
+0,00
+0,00
+0,00
+459,70
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 20737 -
+entradanfe sambanet
+939506290308
+1
+f.s.a. distribuicao eireli - epp
+20774
+03/08/22
+29/07/22
+26/08/22
+bt
+259,66
+0,00
+0,00
+0,00
+0,00
+259,66
+26/08/22
+1
+dinheiro gerado pela nf: 20774 -
+entradanfe sambanet
+r$ total do fornecedor:
+719,36
+0,00
+0,00
+0,00
+0,00
+719,36
+fornecedor: 606 - comercial mult mix prod alimenticios eireli
+683506290707
+1
+comercial mult mix prod
+alimenticios eireli
+472765
+07/07/22
+05/07/22
+02/08/22
+bt
+532,28
+0,00
+0,00
+0,00
+0,00
+532,28
+02/08/22
+1
+dinheiro
+gerado pela nf: 472765 -
+entradanfe sambanet
+683506290707
+1
+comercial mult mix prod
+alimenticios eireli
+472765
+07/07/22
+05/07/22
+09/08/22
+bt
+532,28
+0,00
+0,00
+0,00
+0,00
+532,28
+09/08/22
+1
+dinheiro gerado pela nf: 472765 -
+entradanfe sambanet
+742506291307
+1
+comercial mult mix prod
+alimenticios eireli
+473917
+13/07/22
+11/07/22
+08/08/22
+bt
+692,96
+0,00
+0,00
+0,00
+0,00
+692,96
+08/08/22
+1
+dinheiro
+gerado pela nf: 473917 -
+entradanfe sambanet
+789506292007
+1
+comercial mult mix prod
+alimenticios eireli
+475368
+20/07/22
+18/07/22
+15/08/22
+bt
+503,25
+0,00
+0,00
+0,00
+0,00
+503,25
+15/08/22
+1
+dinheiro gerado pela nf: 475368 -
+entradanfe sambanet
+903506292907
+1
+comercial mult mix prod
+alimenticios eireli
+476844
+29/07/22
+25/07/22
+22/08/22
+bt
+726,44
+0,00
+0,00
+0,00
+0,00
+726,44
+22/08/22
+1
+debito
+em
+conta
+gerado pela nf: 476844 -
+entradanfe sambanet
+1031506291108
+1
+comercial mult mix prod
+alimenticios eireli
+479699
+11/08/22
+08/08/22
+29/08/22
+bt
+999,33
+0,00
+0,00
+0,00
+0,00
+999,33
+29/08/22
+1
+debito
+em conta
+gerado pela nf: 479699 -
+entradanfe sambanet
+r$ total do fornecedor:
+3.986,54
+0,00
+0,00
+0,00
+0,00
+3.986,54
+fornecedor: 608 - martins comercio e servicos de distribuicao s/a
+1061507491508
+1
+martins comercio e servicos
+de distribuicao s/a
+smart
+nf
+160817
+05/08/22
+05/08/22
+15/08/22
+bt
+1.711,77
+0,00
+0,00
+0,00
+0,00
+1.711,77
+15/08/22
+1
+debito
+em
+conta
+r$ total do fornecedor:
+1.711,77
+0,00
+0,00
+0,00
+0,00
+1.711,77
+fornecedor: 611 - serra geral distribuidora de bebidas ltda
+1004506290808
+1
+serra geral distribuidora de
+bebidas ltda
+29804
+08/08/22
+04/08/22
+08/08/22
+bt
+341,85
+0,00
+0,00
+0,00
+0,00
+341,85
+08/08/22
+1
+dinheiro
+1121506291908
+1
+serra geral distribuidora de
+bebidas ltda
+31009
+19/08/22
+18/08/22
+27/08/22
+bt
+580,61
+0,00
+0,00
+0,00
+0,00
+580,61
+29/08/22
+1
+debito
+em
+conta
+1182506292608
+1
+serra geral distribuidora de
+bebidas ltda
+31543
+26/08/22
+25/08/22
+29/08/22
+bt
+178,35
+0,00
+0,00
+0,00
+0,00
+178,35
+29/08/22
+1
+dinheiro gerado pela nf: 31543 -
+entradanfe sambanet
+r$ total do fornecedor:
+1.100,81
+0,00
+0,00
+0,00
+0,00
+1.100,81
+fornecedor: 614 - gema do brasil alimentos ltda
+1149506292408
+1
+gema do brasil alimentos ltda
+13036
+24/08/22
+19/08/22
+29/08/22
+bt
+310 00
+0 00
+0 00
+0 00
+0 00
+310 00
+29/08/22
+1
+debito
+gerado pela nf: 13036 -
+pág. 19 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+1149506292408
+1
+gema do brasil alimentos ltda
+13036
+24/08/22
+19/08/22
+29/08/22
+bt
+310,00
+0,00
+0,00
+0,00
+0,00
+310,00
+29/08/22
+1
+em
+conta
+entradanfe sambanet
+r$ total do fornecedor:
+310,00
+0,00
+0,00
+0,00
+0,00
+310,00
+fornecedor: 616 - imperio gv distribuidora de bebidas ltda
+1019506290908
+1
+imperio gv distribuidora de
+bebidas ltda
+10879
+09/08/22
+05/08/22
+23/08/22
+bt
+715,00
+0,00
+0,00
+0,00
+0,00
+715,00
+23/08/22
+1
+dinheiro gerado pela nf: 10879 -
+entradanfe sambanet
+r$ total do fornecedor:
+715,00
+0,00
+0,00
+0,00
+0,00
+715,00
+fornecedor: 617 - hortifruti e mercearia cidade nova
+895506292907
+1
+hortifruti e mercearia cidade
+nova
+1354
+29/07/22
+26/07/22
+10/08/22
+bt
+688,17
+0,00
+0,00
+0,00
+0,00
+688,17
+10/08/22
+1
+debito
+em
+conta
+gerado pela nf: 1354 -
+entradanfe sambanet
+949507490308
+1
+hortifruti e mercearia cidade
+nova
+1346
+21/07/22
+21/07/22
+01/08/22
+bt
+490,20
+0,00
+0,00
+0,00
+0,00
+490,20
+01/08/22
+1
+dinheiro
+998506290608
+1
+hortifruti e mercearia cidade
+nova
+1368
+06/08/22
+03/08/22
+15/08/22
+bt
+479,31
+0,00
+0,00
+0,00
+0,00
+479,31
+15/08/22
+1
+dinheiro
+gerado pela nf: 1368 -
+entradanfe sambanet
+999506290608
+1
+hortifruti e mercearia cidade
+nova
+1370
+06/08/22
+03/08/22
+15/08/22
+bt
+574,00
+0,00
+0,00
+0,00
+0,00
+574,00
+15/08/22
+1
+dinheiro gerado pela nf: 1370 -
+entradanfe sambanet
+4043520
+1
+hortifruti e mercearia cidade
+nova
+00000140
+2
+17/08/22
+17/08/22
+30/08/22
+bt
+278,50
+0,00
+0,00
+0,00
+0,00
+278,50
+30/08/22
+1
+debito
+em
+conta
+421344
+1
+hortifruti e mercearia cidade
+nova
+1413
+18/08/22
+18/08/22
+30/08/22
+bt
+577,00
+0,00
+0,00
+0,00
+0,00
+577,00
+31/08/22
+1
+debito
+em conta
+190080
+1
+hortifruti e mercearia cidade
+nova
+1407
+17/08/22
+17/08/22
+31/08/22
+bt
+478,10
+0,00
+0,00
+0,00
+0,00
+478,10
+31/08/22
+1
+dinheiro
+r$ total do fornecedor:
+3.565,28
+0,00
+0,00
+0,00
+0,00
+3.565,28
+fornecedor: 625 - atacadao s.a.
+762506291507
+1
+atacadao s.a.
+35322
+15/07/22
+12/07/22
+09/08/22
+bt
+209,31
+0,00
+0,00
+0,00
+0,00
+209,31
+09/08/22
+1
+dinheiro gerado pela nf: 35322 -
+entradanfe sambanet -
+desconto r$ 11,01 -
+valor real r$ 220,32
+845506292307
+1
+atacadao s.a.
+36942
+23/07/22
+16/07/22
+15/08/22
+bt
+770,88
+0,00
+0,00
+0,00
+0,00
+770,88
+15/08/22
+1
+dinheiro
+gerado pela nf: 36942 -
+entradanfe sambanet
+772506291507
+1
+atacadao s.a.
+35321
+15/07/22
+12/07/22
+09/08/22
+bt
+1.113,12
+0,00
+0,00
+0,00
+0,00
+1.113,12
+09/08/22
+1
+debito
+em conta
+gerado pela nf: 35321 -
+entradanfe sambanet
+834506292307
+1
+atacadao s.a.
+36937
+23/07/22
+16/07/22
+15/08/22
+bt
+1.700,38
+0,00
+0,00
+0,00
+0,00
+1.700,38
+15/08/22
+1
+debito
+em
+conta
+gerado pela nf: 36937 -
+entradanfe sambanet
+892506292807
+1
+atacadao s.a.
+38294
+28/07/22
+23/07/22
+22/08/22
+bt
+1.584,00
+0,00
+0,00
+0,00
+0,00
+1.584,00
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 38294 -
+entradanfe sambanet
+1020506290908
+1
+atacadao s.a.
+40720
+09/08/22
+30/07/22
+29/08/22
+bt
+2.016,56
+0,00
+0,00
+0,00
+0,00
+2.016,56
+29/08/22
+1
+debito
+em
+conta
+gerado pela nf: 40720 -
+entradanfe sambanet
+r$ total do fornecedor:
+7.394,25
+0,00
+0,00
+0,00
+0,00
+7.394,25
+fornecedor: 642 - fgf revisao fiscal eireli
+pág. 20 de 21
+14/09/2022 17:22
+contas a pagar - analítico
+loja(s): 1
+período de vencimento:01/08/2022 à 31/08/2022
+situação: todos
+quebra por: fornecedor
+número do
+título
+loja
+fornecedor
+nota
+entrada
+emissão vencimento situação
+r$ total
+r$ juros
+r$ multa
+r$
+desconto r$ a pagar
+pago em tipo
+doc
+forma
+pagto
+observação
+r$ pago
+920506290208
+1
+fgf revisao fiscal eireli
+9770
+02/08/22
+01/08/22
+22/08/22
+bt
+375,52
+0,00
+0,00
+0,00
+0,00
+375,52
+22/08/22
+1
+debito
+em conta
+r$ total do fornecedor:
+375,52
+0,00
+0,00
+0,00
+0,00
+375,52
+fornecedor: 644 - uniao nutricao animal
+833506292307
+1
+uniao nutricao animal
+6730
+23/07/22
+18/07/22
+16/08/22
+bt
+825,50
+0,00
+0,00
+0,00
+0,00
+825,50
+16/08/22
+1
+dinheiro
+gerado pela nf: 6730 -
+entradanfe sambanet
+891506292707
+1
+uniao nutricao animal
+6944
+27/07/22
+25/07/22
+24/08/22
+bt
+1.410,00
+0,00
+0,00
+0,00
+0,00
+1.410,00
+24/08/22
+1
+debito
+em conta
+gerado pela nf: 6944 -
+entradanfe sambanet
+r$ total do fornecedor:
+2.235,50
+0,00
+0,00
+0,00
+0,00
+2.235,50
+fornecedor: 650 - getway automacao comercial ltda
+1104507491808
+1
+getway automacao comercial
+ltda
+getway
+nf
+00086757
+01/08/22
+01/08/22
+10/08/22
+bt
+403,88
+0,00
+0,00
+0,00
+0,00
+403,88
+10/08/22
+1
+debito
+em
+conta
+4405005
+1
+getway automacao comercial
+ltda
+84583nf0
+3
+24/05/22
+24/05/22
+22/08/22
+bt
+661,60
+0,00
+0,00
+0,00
+0,00
+661,60
+22/08/22
+1
+debito
+em conta
+r$ total do fornecedor:
+1.065,48
+0,00
+0,00
+0,00
+0,00
+1.065,48
+fornecedor: 651 - guasec guanhaes seguranca eletronica ltda
+1038507491108
+1
+guasec guanhaes seguranca
+eletronica ltda
+guaseg
+2/4
+03/08/22
+03/08/22
+10/08/22
+bt
+3.750,00
+0,00
+0,00
+0,00
+0,00
+3.750,00
+10/08/22
+1
+debito
+em
+conta
+r$ total do fornecedor:
+3.750,00
+0,00
+0,00
+0,00
+0,00
+3.750,00
+fornecedor: 655 - gollos distribuidora eireli
+1060506291208
+1
+gollos distribuidora eireli
+291
+12/08/22
+12/08/22
+22/08/22
+bt
+774,63
+0,00
+0,00
+0,00
+0,00
+774,63
+22/08/22
+1
+debito
+em conta
+gerado pela nf: 291 -
+entradanfe sambanet
+r$ total do fornecedor:
+774,63
+0,00
+0,00
+0,00
+0,00
+774,63
+fornecedor: 656 - md tintas ltda - epp
+1088506291708
+1
+md tintas ltda - epp
+50097
+17/08/22
+12/08/22
+12/08/22
+bt
+1.700,00
+0,00
+0,00
+0,00
+0,00
+1.700,00
+12/08/22
+1
+pix
+gerado pela nf: 50097 -
+entradanfe sambanet
+1105507491808
+1
+md tintas ltda - epp
+tinta
+mercad
+o novo
+nf 50097
+12/08/22
+12/08/22
+12/08/22
+ca
+1.700,00
+0,00
+0,00
+0,00
+1.700,00
+0,00
+1
+r$ total do fornecedor:
+3.400,00
+0,00
+0,00
+0,00
+1.700,00
+1.700,00
+r$ total geral:
+315.578,73
+0,00
+5,03
+0,00
+3.361,04
+312.222,72
+pág. 21 de 21
+14/09/2022 17:22

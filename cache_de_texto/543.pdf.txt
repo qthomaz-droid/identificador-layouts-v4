@@ -1,0 +1,2627 @@
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+01/07/2022 saldo anterior
+250,26 c
+01/07/2022 shopping das
+pecas ltda
+boleto -
+51769/1
+movimento
+pagamento 51769
+- 1910 (shopping
+das pecas ltda)
+-150,00 d
+100,26 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+01/07/2022 mga
+distribuidora
+gaucha de auto
+pecas ltda me
+boleto -
+141646/2
+movimento
+pagamento
+141646 - 109462
+(mga
+distribuidora
+gaucha de auto
+pecas ltda me)
+-206,84 d
+-106,58 d
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+01/07/2022 dg sul veiculos
+e servicos ltda.
+boleto -
+264039/1
+movimento
+pagamento
+264039 - 1776 (dg
+sul veiculos e
+servicos ltda.)
+-215,00 d
+-321,58 d
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+01/07/2022 togni auto
+pecas eireli
+boleto -
+40126/1
+movimento
+pagamento 40126
+- 428 (togni auto
+pecas eireli)
+-592,00 d
+-913,58 d
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+01/07/2022 rufato distr
+pecas e acess
+ltda
+boleto -
+429994/2
+movimento
+pagamento
+429994 - rufato
+distr pecas e
+acess ltda
+(rufato distr
+pecas e acess
+ltda)
+-1.067,04 d
+-1.980,62 d
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+01/07/2022 bibas com
+internacional
+eireli
+boleto -
+316438/1
+movimento
+pagamento
+316438 - 10529
+(bibas com
+internacional
+eireli)
+-4.633,47 d
+-6.614,09 d
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+01/07/2022 consumidor
+final
+g & a -
+banri
+débito -
+714836/1
+movimento
+pagamento
+714836 - 2
+(consumidor
+final)
+187,15 c
+-6.426,94 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 sul caxias serv.
+autom. ltda
+boleto -
+57094/3
+movimento
+pagamento 57094
+- 1762 (sul caxias
+serv. autom.
+ltda)
+569,95 c
+-5.856,99 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 codeca cia de
+desenvolviment
+o caxias do sul
+boleto -
+57478/2
+movimento
+pagamento 57478
+- 2075 (codeca cia
+de
+desenvolviment
+o caxias do sul)
+1.585,00 c
+-4.271,99 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 florenza com e
+rep ltda
+boleto -
+57490/2
+movimento
+pagamento 57490
+- 10010 (florenza
+com e rep ltda)
+400,00 c
+-3.871,99 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 boschi -
+chapeacao e
+pintura ltda
+boleto -
+57494/2
+movimento
+pagamento 57494
+- 1774 (boschi -
+chapeacao e
+pintura ltda)
+215,00 c
+-3.656,99 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 cristiano de
+moraes
+boleto -
+57811/1
+movimento
+pagamento 57811
+- 112274
+(cristiano de
+moraes)
+408,34 c
+-3.248,65 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 pessalli
+reparacao
+automotiva ltda
+boleto -
+57845/1
+movimento
+pagamento 57845
+- 79073 (pessalli
+reparacao
+automotiva
+ltda)
+360,00 c
+-2.888,65 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 auto mecanica
+irmaos pastore
+ltda
+boleto -
+57856/1
+movimento
+pagamento 57856
+- 1839 (auto
+mecanica irmaos
+pastore ltda)
+170,00 c
+-2.718,65 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 dm carprime
+ltda
+boleto -
+57863/1
+movimento
+pagamento 57863
+- 102192 (jc henz
+veiculos ltda)
+185,04 c
+-2.533,61 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 dm carprime
+ltda
+boleto -
+57864/1
+movimento
+pagamento 57864
+- 102192 (jc henz
+veiculos ltda)
+270,00 c
+-2.263,61 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 dm carprime
+ltda
+boleto -
+57865/1
+movimento
+pagamento 57865
+- 102192 (jc henz
+veiculos ltda)
+70,00 c
+-2.193,61 d
+1.1 -
+recebimentos
+1 - receitas
+g&a
+relatório de caixa
+pág. 001 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+01/07/2022 mecanica varzea
+grande ltda
+boleto -
+57866/1
+movimento
+pagamento 57866
+- 1945 (mecanica
+varzea grande
+ltda)
+160,00 c
+-2.033,61 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube
+boleto -
+57880/1
+movimento
+pagamento 57880
+- 110403
+(associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube)
+560,00 c
+-1.473,61 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 comercio de
+autopeças
+grillo ltda.
+boleto -
+57974/1
+movimento
+pagamento 57974
+- 251 (comercio
+de autopeças
+grillo ltda.)
+586,00 c
+-887,61 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube
+boleto -
+58080/1
+movimento
+pagamento 58080
+- 110403
+(associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube)
+35,00 c
+-852,61 d
+1.1 -
+recebimentos
+1 - receitas
+01/07/2022 monicar
+chapeacao e
+pintura de
+veiculos ltda
+nota -
+58318/1
+movimento
+pagamento 58318
+- 1779 (monicar
+chapeacao e
+pintura de
+veiculos ltda)
+60,00 c
+-792,61 d
+01/07/2022 chapeacao e
+pintura campeol
+ltda
+nota -
+58299/1
+movimento
+pagamento 58299
+- 1777 (chapeacao
+e pintura
+campeol ltda)
+90,00 c
+-702,61 d
+01/07/2022 jair antonio
+schineider
+nota -
+58343/1
+movimento
+pagamento 58343
+- 87096 (jair
+antonio
+schineider)
+95,00 c
+-607,61 d
+01/07/2022 monicar
+chapeacao e
+pintura de
+veiculos ltda
+nota -
+58298/1
+movimento
+pagamento 58298
+- 1779 (monicar
+chapeacao e
+pintura de
+veiculos ltda)
+135,00 c
+-472,61 d
+01/07/2022 mauricio pinto
+monteiro
+64193268004
+nota -
+58306/1
+movimento
+pagamento 58306
+- 111140 (mauricio
+pinto monteiro
+64193268004)
+170,00 c
+-302,61 d
+01/07/2022 brasilsul
+distribuidora de
+auto peças
+eirelli
+nota -
+58321/1
+movimento
+pagamento 58321
+- 73 (brasilsul
+distribuidora de
+auto peças
+eirelli)
+174,00 c
+-128,61 d
+01/07/2022 erico da costa
+nota -
+58320/1
+movimento
+pagamento 58320
+- 109434 (erico da
+costa)
+190,00 c
+61,39 c
+01/07/2022 luis eduardo da
+silva
+nota -
+58331/1
+movimento
+pagamento 58331
+- 109772 (luis
+eduardo da
+silva)
+240,00 c
+301,39 c
+01/07/2022 sipreste
+chapeacao e
+mecanica ltda
+nota -
+58269/1
+movimento
+pagamento 58269
+- 2056 (sipreste
+chapeacao e
+mecanica ltda)
+260,00 c
+561,39 c
+01/07/2022 parachoques l v
+ltda
+nota -
+58292/1
+movimento
+pagamento 58292
+- 102068
+(parachoques l
+v ltda)
+276,00 c
+837,39 c
+01/07/2022 chapeação
+argenta ltda
+nota -
+58271/1
+movimento
+pagamento 58271
+- 1955 (chapeação
+argenta ltda)
+359,71 c
+1.197,10 c
+01/07/2022 diogo pinto
+monteiro
+nota -
+58307/1
+movimento
+pagamento 58307
+- 72686 (diogo
+pinto monteiro)
+375,00 c
+1.572,10 c
+01/07/2022 danilo rubbo
+nota -
+58317/1
+movimento
+pagamento 58317
+- 2202 (danilo
+rubbo)
+400,00 c
+1.972,10 c
+g&a
+relatório de caixa
+pág. 002 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+01/07/2022 arcaro &
+arcaro manut e
+rep de automov
+ltda
+nota -
+58333/1
+movimento
+pagamento 58333
+- 2705 (arcaro &
+arcaro manut e
+rep de automov
+ltda)
+475,00 c
+2.447,10 c
+01/07/2022 monicar
+chapeacao e
+pintura de
+veiculos ltda  fl
+nota -
+58316/1
+movimento
+pagamento 58316
+- 1856 (monicar
+chapeacao e
+pintura de
+veiculos ltda
+fl)
+510,00 c
+2.957,10 c
+01/07/2022 noli antonio
+gigorski da rosa
+nota -
+58332/1
+movimento
+pagamento 58332
+- 1814 (noli
+antonio
+gigorski da
+rosa)
+530,00 c
+3.487,10 c
+01/07/2022 felipe lusa
+01321556055
+nota -
+58335/1
+movimento
+pagamento 58335
+- 110407 (felipe
+lusa 01321556055)
+530,00 c
+4.017,10 c
+01/07/2022 adriano antonio
+dendena me
+nota -
+58300/1
+movimento
+pagamento 58300
+- 73189 (adriano
+antonio dendena
+me)
+680,00 c
+4.697,10 c
+01/07/2022 eduardo schmitt
+99517850000
+nota -
+58308/1
+movimento
+pagamento 58308
+- 112491 (eduardo
+schmitt
+99517850000)
+720,00 c
+5.417,10 c
+01/07/2022 escher &
+schmitz ltda
+nota -
+58319/1
+movimento
+pagamento 58319
+- 2723 (escher &
+schmitz ltda)
+975,00 c
+6.392,10 c
+01/07/2022 miguel hofman
+vigano
+nota -
+58330/1
+movimento
+pagamento 58330
+- 1825 (miguel
+hofman vigano)
+1.040,00 c
+7.432,10 c
+01/07/2022 brasilsul
+distribuidora de
+auto peças
+eirelli
+nota -
+58345/1
+movimento
+pagamento 58345
+- 73 (brasilsul
+distribuidora de
+auto peças
+eirelli)
+1.063,00 c
+8.495,10 c
+01/07/2022 brasilsul
+distribuidora de
+auto peças
+eirelli
+nota -
+58291/1
+movimento
+pagamento 58291
+- 73 (brasilsul
+distribuidora de
+auto peças
+eirelli)
+1.166,80 c
+9.661,90 c
+01/07/2022 clay com de
+veiculos ltda
+nota -
+58293/1
+movimento
+pagamento 58293
+- 2173 (clay com
+de veiculos
+ltda)
+1.450,00 c
+11.111,90 c
+01/07/2022 alexandre de
+lima boeira
+nota -
+58329/1
+movimento
+pagamento 58329
+- 1800 (alexandre
+de lima boeira)
+1.550,00 c
+12.661,90 c
+01/07/2022 renova
+recuperadora
+automotiva
+eireli me
+nota -
+58326/1
+movimento
+pagamento 58326
+- 73704 (renova
+recuperadora
+automotiva
+eireli me)
+2.322,00 c
+14.983,90 c
+01/07/2022 lucas castilhos
+de camargo
+nota -
+58334/1
+movimento
+pagamento 58334
+- 83433 (lucas
+castilhos de
+camargo)
+241,49 c
+15.225,39 c
+01/07/2022 brasilsul
+distribuidora de
+auto peças
+eirelli
+nota -
+58226/1
+movimento
+pagamento 58226
+- 73 (brasilsul
+distribuidora de
+auto peças
+eirelli)
+200,00 c
+15.425,39 c
+04/07/2022
+saque folha
+-3.000,00 d
+12.425,39 c
+04/07/2022 prd tecnologia
+de gestão ltda.
+interno -
+2022436/0
+movimento
+pagamento
+2022436 - 1 (prd
+tecnologia de
+gestão ltda.)
+-140,00 d
+12.285,39 c
+2.1.6 - sistema
+2.1 - despesas
+fixas
+04/07/2022 florenza com e
+rep ltda
+boleto -
+169176/1
+movimento
+pagamento
+169176 - 10010
+(florenza com e
+rep ltda)
+-165,02 d
+12.120,37 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+g&a
+relatório de caixa
+pág. 003 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+04/07/2022 montenegro
+distribuidora
+auto pecas
+boleto -
+166932/1
+movimento
+pagamento
+166932 - jorge
+mario g
+montenegro
+(montenegro
+distribuidora
+auto pecas)
+-182,50 d
+11.937,87 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 mg vidros
+automotivos
+ltda
+boleto -
+117050/2
+movimento
+pagamento
+117050 - 88582 (mg
+vidros
+automotivos
+ltda)
+-324,50 d
+11.613,37 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 ideal
+distribuidora de
+autopecas ltda
+boleto -
+41960/1
+movimento
+pagamento 41960
+- ideal
+distribuidora de
+autopecas ltda
+(ideal
+distribuidora de
+autopecas ltda)
+-338,10 d
+11.275,27 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 comabe
+automação de
+escritorios ltda
+interno -
+285181/2
+movimento
+pagamento
+285181 - 73526
+(comabe
+automação de
+escritorios
+ltda)
+-357,75 d
+10.917,52 c
+2.2.7 - materiais
+de expediente
+2.2 - despesas
+variaveis
+04/07/2022 climer solucoes
+automotivas
+ltda
+boleto -
+199283/1
+movimento
+pagamento
+199283 - climer
+solucoes
+automotivas
+ltda (climer
+solucoes
+automotivas
+ltda)
+-358,73 d
+10.558,79 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 bellenzier
+pneus ltda
+interno -
+116918/2
+movimento
+pagamento
+116918 - 113450
+(bellenzier
+pneus ltda)
+-380,00 d
+10.178,79 c
+2.11.11 - strada
+ixl3768
+2.11 - veiculos
+04/07/2022 climer solucoes
+automotivas
+ltda
+boleto -
+199343/1
+movimento
+pagamento
+199343 - climer
+solucoes
+automotivas
+ltda (climer
+solucoes
+automotivas
+ltda)
+-403,69 d
+9.775,10 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 mg vidros
+automotivos
+ltda
+boleto -
+117115/2
+movimento
+pagamento
+117115 - 88582 (mg
+vidros
+automotivos
+ltda)
+-532,50 d
+9.242,60 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 roma industrial
+e comercio de
+metal ltda
+boleto -
+5055/1
+movimento
+pagamento 5055 -
+26012 (roma
+industrial e
+comercio de
+metal ltda)
+-556,08 d
+8.686,52 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 v & b
+distribuidora e
+exportadora de
+autopecas ltda
+boleto -
+49153/2
+movimento
+pagamento 49153
+- 336 (v & b
+distribuidora e
+exportadora de
+autopecas ltda)
+-588,18 d
+8.098,34 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 transcelo
+transportes
+rodoviarios
+ltda
+interno -
+117626/1
+movimento
+pagamento
+117626 - 112410
+(transcelo
+transportes
+rodoviarios
+ltda)
+-692,38 d
+7.405,96 c
+2.4.3 - fretes g&a
+2.4 - fretes
+04/07/2022 rio grande
+energia
+interno -
+2022/7
+movimento
+pagamento 2022 -
+2845 (rio grande
+energia)
+-885,66 d
+6.520,30 c
+2.1.2 - energia
+eletrica
+2.1 - despesas
+fixas
+04/07/2022 togni auto
+pecas eireli
+boleto -
+40698/1
+movimento
+pagamento 40698
+- 428 (togni auto
+pecas eireli)
+-1.218,00 d
+5.302,30 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 togni auto
+pecas eireli
+boleto -
+40253/1
+movimento
+pagamento 40253
+- 428 (togni auto
+pecas eireli)
+-3.688,00 d
+1.614,30 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 boschi -
+chapeacao e
+pintura ltda
+boleto -
+57104/3
+movimento
+pagamento 57104
+- 1774 (boschi -
+chapeacao e
+pintura ltda)
+489,95 c
+2.104,25 c
+1.1 -
+recebimentos
+1 - receitas
+g&a
+relatório de caixa
+pág. 004 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+04/07/2022 cpr comercial
+ltda
+boleto -
+57487/2
+movimento
+pagamento 57487
+- 111703 (cpr
+comercial ltda)
+160,00 c
+2.264,25 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 auto chapeacao
+getulio ltda
+boleto -
+57508/2
+movimento
+pagamento 57508
+- 2220 (auto
+chapeacao
+getulio ltda)
+793,25 c
+3.057,50 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 renovadora de
+automoveis
+rech ltda
+boleto -
+57533/2
+movimento
+pagamento 57533
+- 1792
+(renovadora de
+automoveis
+rech ltda)
+276,00 c
+3.333,50 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 roberto maineri
+paim
+boleto -
+57817/1
+movimento
+pagamento 57817
+- 1756 (roberto
+maineri paim)
+402,62 c
+3.736,12 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 associacao
+mutua de
+beneficios da
+serra gaucha
+boleto -
+57870/1
+movimento
+pagamento 57870
+- 110509
+(associacao
+mutua de
+beneficios da
+serra gaucha)
+280,00 c
+4.016,12 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 auto chapeacao
+getulio ltda
+boleto -
+57873/1
+movimento
+pagamento 57873
+- 2220 (auto
+chapeacao
+getulio ltda)
+625,00 c
+4.641,12 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 boschi -
+chapeacao e
+pintura ltda
+boleto -
+57878/1
+movimento
+pagamento 57878
+- 1774 (boschi -
+chapeacao e
+pintura ltda)
+220,00 c
+4.861,12 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 d.s.p. comercio
+de veiculos
+eireli - me
+boleto -
+57882/1
+movimento
+pagamento 57882
+- 94570 (d.s.p.
+comercio de
+veiculos eireli -
+me)
+317,50 c
+5.178,62 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 sul caxias serv.
+autom. ltda
+boleto -
+57884/1
+movimento
+pagamento 57884
+- 1762 (sul caxias
+serv. autom.
+ltda)
+570,00 c
+5.748,62 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 pereira e
+carvalhaes
+comercio de
+pecas ltda  me
+boleto -
+57886/1
+movimento
+pagamento 57886
+- 102155 (pereira
+e carvalhaes
+comercio de
+pecas ltda  me)
+490,00 c
+6.238,62 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 consumidor
+final
+g & a -
+banri
+débito -
+795192/1
+movimento
+pagamento
+795192 - 2
+(consumidor
+final)
+34,47 c
+6.273,09 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 consumidor
+final
+g & a -
+banri
+débito -
+210160/1
+movimento
+pagamento
+210160 - 2
+(consumidor
+final)
+34,47 c
+6.307,56 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 consumidor
+final
+g & a -
+verde c.
+parc. 3x -
+955473/1
+movimento
+pagamento
+955473 - 2
+(consumidor
+final)
+160,02 c
+6.467,58 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 consumidor
+final
+g & a -
+master
+crédito -
+253210865
+32492/1
+movimento
+pagamento
+25321086532492 - 2
+(consumidor
+final)
+116,62 c
+6.584,20 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 consumidor
+final
+g & a -
+visa
+crédito -
+254211107
+98152/0
+movimento
+pagamento
+25421110798152 - 2
+(consumidor
+final)
+170,07 c
+6.754,27 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 consumidor
+final
+g & a -
+visa
+crédito -
+254211111
+49365/1
+movimento
+pagamento
+25421111149365 - 2
+(consumidor
+final)
+242,95 c
+6.997,22 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 consumidor
+final
+g & a -
+visa
+crédito -
+254211121
+36662/1
+movimento
+pagamento
+25421112136662 - 2
+(consumidor
+final)
+14,58 c
+7.011,80 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022
+tarifa mensal
+-49,50 d
+6.962,30 c
+2.10.4 - tarifa
+2.10 - bancos
+g&a
+relatório de caixa
+pág. 005 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+04/07/2022 consumidor
+final
+g & a -
+master
+débito -
+282217344
+89686/1
+movimento
+pagamento
+28221734489686 - 2
+(consumidor
+final)
+19,62 c
+6.981,92 c
+1.1 -
+recebimentos
+1 - receitas
+04/07/2022 movette
+aparelhos para
+ginastica lazer
+e saude ltda
+nota -
+58361/1
+movimento
+pagamento 58361
+- 109410 (movette
+aparelhos para
+ginastica lazer
+e saude ltda)
+110,00 c
+7.091,92 c
+04/07/2022 monicar
+chapeacao e
+pintura de
+veiculos ltda  fl
+nota -
+58344/1
+movimento
+pagamento 58344
+- 1856 (monicar
+chapeacao e
+pintura de
+veiculos ltda
+fl)
+175,00 c
+7.266,92 c
+04/07/2022 sidney barros
+nota -
+58365/1
+movimento
+pagamento 58365
+- 113445 (sidney
+barros)
+199,90 c
+7.466,82 c
+04/07/2022 renovadora de
+veiculos
+foscarini ltda
+nota -
+58340/1
+movimento
+pagamento 58340
+- 2548
+(renovadora de
+veiculos
+foscarini ltda)
+290,00 c
+7.756,82 c
+04/07/2022 pedro geraldo
+freire
+nota -
+58348/1
+movimento
+pagamento 58348
+- 113454 (pedro
+geraldo freire)
+399,90 c
+8.156,72 c
+04/07/2022 lucas castilhos
+de camargo
+nota -
+58334/1
+movimento
+pagamento 58334
+- 83433 (lucas
+castilhos de
+camargo)
+498,51 c
+8.655,23 c
+04/07/2022 tedesco e sozo
+renovadora de
+veiculos ltda
+nota -
+58337/1
+movimento
+pagamento 58337
+- 2211 (tedesco e
+sozo
+renovadora de
+veiculos ltda)
+500,00 c
+9.155,23 c
+04/07/2022 tedesco e sozo
+renovadora de
+veiculos ltda
+nota -
+58336/1
+movimento
+pagamento 58336
+- 2211 (tedesco e
+sozo
+renovadora de
+veiculos ltda)
+1.000,00 c
+10.155,23 c
+04/07/2022 brasilsul
+distribuidora de
+auto peças
+eirelli
+nota -
+58371/1
+movimento
+pagamento 58371
+- 73 (brasilsul
+distribuidora de
+auto peças
+eirelli)
+1.289,00 c
+11.444,23 c
+04/07/2022 nicolas da silva
+tomaszewski
+nota -
+58398/1
+movimento
+pagamento 58398
+- 111687 (nicolas
+da silva
+tomaszewski)
+767,94 c
+12.212,17 c
+04/07/2022 griffy
+ferramentaria
+de precisao ltda
+boleto -
+10147/1
+movimento
+pagamento 10147
+- 108477 (griffy
+ferramentaria
+de precisao
+ltda)
+-304,57 d
+11.907,60 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 griffy
+ferramentaria
+de precisao ltda
+boleto -
+10147/2
+movimento
+pagamento 10147
+- 108477 (griffy
+ferramentaria
+de precisao
+ltda)
+-1.770,06 d
+10.137,54 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 griffy
+ferramentaria
+de precisao ltda
+boleto -
+10144/1
+movimento
+pagamento 10144
+- 108477 (griffy
+ferramentaria
+de precisao
+ltda)
+-597,26 d
+9.540,28 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+04/07/2022 griffy
+ferramentaria
+de precisao ltda
+boleto -
+10144/2
+movimento
+pagamento 10144
+- 108477 (griffy
+ferramentaria
+de precisao
+ltda)
+-3.453,45 d
+6.086,83 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+05/07/2022
+saque folha
+-3.000,00 d
+3.086,83 c
+05/07/2022 consumidor
+final
+g & a -
+master
+débito -
+285218026
+89933/2
+movimento
+pagamento
+28521802689933 - 2
+(consumidor
+final)
+147,20 c
+3.234,03 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 stone
+interno -
+2022/7
+movimento
+pagamento 2022 -
+110739 (stone)
+-59,00 d
+3.175,03 c
+2.10.4 - tarifa
+2.10 - bancos
+g&a
+relatório de caixa
+pág. 006 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+05/07/2022 cristiano de
+moraes
+boleto -
+57101/3
+movimento
+pagamento 57101
+- 112274
+(cristiano de
+moraes)
+212,17 c
+3.387,20 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 bg reparadora
+automotiva ltda
+boleto -
+57108/3
+movimento
+pagamento 57108
+- 111836 (bg
+reparadora
+automotiva
+ltda)
+638,92 c
+4.026,12 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 maicon de
+fiqueiro cechin
+boleto -
+57424/3
+movimento
+pagamento 57424
+- 2557 (maicon de
+fiqueiro cechin)
+1.628,50 c
+5.654,62 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 chapeação e
+pintura
+nicoletti ltda
+boleto -
+57436/3
+movimento
+pagamento 57436
+- 2747 (chapeação
+e pintura
+nicoletti ltda)
+565,95 c
+6.220,57 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 glasval
+restauradora
+de veiculos
+eireli
+boleto -
+57469/3
+movimento
+pagamento 57469
+- 86702 (glasval
+restauradora
+de veiculos
+eireli)
+742,50 c
+6.963,07 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 chapeacao e
+pintura auto 78
+ltda
+boleto -
+57471/3
+movimento
+pagamento 57471
+- 1763 (chapeacao
+e pintura auto
+78 ltda)
+464,64 c
+7.427,71 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 auto personal
+oficina
+automotiva ltda
+boleto -
+57479/3
+movimento
+pagamento 57479
+- 1845 (auto
+personal
+oficina
+automotiva
+ltda)
+529,65 c
+7.957,36 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 pegorini
+chapeacao e
+pintura de
+veiculos ltda
+boleto -
+57488/3
+movimento
+pagamento 57488
+- 1890 (pegorini
+chapeacao e
+pintura de
+veiculos ltda)
+1.168,20 c
+9.125,56 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 boschi -
+chapeacao e
+pintura ltda
+boleto -
+57517/2
+movimento
+pagamento 57517
+- 1774 (boschi -
+chapeacao e
+pintura ltda)
+180,00 c
+9.305,56 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube
+boleto -
+57523/2
+movimento
+pagamento 57523
+- 110403
+(associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube)
+525,50 c
+9.831,06 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 comercio de
+autopeças
+grillo ltda.
+boleto -
+57741/2
+movimento
+pagamento 57741
+- 251 (comercio
+de autopeças
+grillo ltda.)
+515,00 c
+10.346,06 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 policastro
+servicos
+automotivos
+ltda - me
+boleto -
+57881/1
+movimento
+pagamento 57881
+- 79918
+(policastro
+servicos
+automotivos
+ltda - me)
+872,54 c
+11.218,60 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 auto chapeacao
+getulio ltda
+boleto -
+57889/1
+movimento
+pagamento 57889
+- 2220 (auto
+chapeacao
+getulio ltda)
+1.290,00 c
+12.508,60 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube
+boleto -
+57895/1
+movimento
+pagamento 57895
+- 110403
+(associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube)
+625,00 c
+13.133,60 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 serrana
+associacao de
+beneficios
+boleto -
+57900/1
+movimento
+pagamento 57900
+- 110603 (serrana
+associacao de
+beneficios)
+636,79 c
+13.770,39 c
+1.1 -
+recebimentos
+1 - receitas
+g&a
+relatório de caixa
+pág. 007 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+05/07/2022 associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube
+boleto -
+57920/1
+movimento
+pagamento 57920
+- 110403
+(associacao de
+beneficios
+mutuos do rio
+grande do sul
+rs clube)
+1.350,00 c
+15.120,39 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 ij bizotto com de
+pecas e servs
+ltda
+boleto -
+57922/1
+movimento
+pagamento 57922
+- 2021 (ij bizotto
+com de pecas e
+servs ltda)
+230,00 c
+15.350,39 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 estrela
+transportes
+ltda
+boleto -
+57944/1
+movimento
+pagamento 57944
+- 1912 (estrela
+transportes
+ltda)
+125,00 c
+15.475,39 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 renovadora de
+automoveis
+rech ltda
+boleto -
+58016/1
+movimento
+pagamento 58016
+- 1792
+(renovadora de
+automoveis
+rech ltda)
+685,00 c
+16.160,39 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 pereira e
+carvalhaes
+comercio de
+pecas ltda  me
+boleto -
+58020/1
+movimento
+pagamento 58020
+- 102155 (pereira
+e carvalhaes
+comercio de
+pecas ltda  me)
+295,00 c
+16.455,39 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022 vp auto
+renovadora
+chapeacao e
+pintura ltda
+boleto -
+58029/1
+movimento
+pagamento 58029
+- 94923 (vp auto
+renovadora
+chapeacao e
+pintura ltda)
+500,00 c
+16.955,39 c
+1.1 -
+recebimentos
+1 - receitas
+05/07/2022
+valor
+depositado
+errado
+43,00 c
+16.998,39 c
+05/07/2022 stillo
+transportes
+ltda
+interno -
+149094/0
+movimento
+pagamento
+149094 - 113191
+(stillo
+transportes
+ltda)
+-110,00 d
+16.888,39 c
+2.4.3 - fretes g&a
+2.4 - fretes
+05/07/2022 centerparts
+distrib. de auto
+partes ltda
+boleto -
+403443/3
+movimento
+pagamento
+403443 - 68
+(centerparts
+distrib. de auto
+partes ltda)
+-731,88 d
+16.156,51 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+05/07/2022 bibas com
+internacional
+eireli
+boleto -
+117784/1
+movimento
+pagamento
+117784 - 10529
+(bibas com
+internacional
+eireli)
+-1.293,30 d
+14.863,21 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+05/07/2022 togni auto
+pecas eireli
+boleto -
+40347/1
+movimento
+pagamento 40347
+- 428 (togni auto
+pecas eireli)
+-1.504,00 d
+13.359,21 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+05/07/2022 globalplastic
+autopecas ltda
+boleto -
+93595/4
+movimento
+pagamento 93595
+- 110681
+(globalplastic
+autopecas ltda)
+-2.564,78 d
+10.794,43 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+05/07/2022 sim rede de
+postos ltda - fl
+14 festa da uva
+interno -
+341995/0
+movimento
+pagamento
+341995 - 112515
+(sim rede de
+postos ltda - fl
+14 festa da uva)
+-4.567,00 d
+6.227,43 c
+2.11.1 -
+combustível
+2.11 - veiculos
+05/07/2022
+ted
+-26.600,00 d
+-20.372,57 d
+05/07/2022
+resgate apl
+11.300,00 c
+-9.072,57 d
+05/07/2022 chapeacao e
+pintura bica
+ltda
+57489
+envio cartório
+-8,63 d
+-9.081,20 d
+2.10.6 - envio
+cartorio
+2.10 - bancos
+05/07/2022 mario valdecir
+marques padilha
+nota -
+58397/1
+movimento
+pagamento 58397
+- 109708 (mario
+valdecir
+marques
+padilha)
+170,00 c
+-8.911,20 d
+05/07/2022 alaor pierre
+becker
+nota -
+58401/1
+movimento
+pagamento 58401
+- 2026 (alaor
+pierre becker)
+270,00 c
+-8.641,20 d
+05/07/2022 joao a mazurana
+menegas
+nota -
+58400/1
+movimento
+pagamento 58400
+- 2690 (joao a
+mazurana
+menegas)
+280,00 c
+-8.361,20 d
+g&a
+relatório de caixa
+pág. 008 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+05/07/2022 claudimir de
+souza xavier
+nota -
+58379/1
+movimento
+pagamento 58379
+- 72672 (claudimir
+de souza xavier)
+330,00 c
+-8.031,20 d
+05/07/2022 marcos do
+amaral nunes
+nota -
+58399/1
+movimento
+pagamento 58399
+- 2195 (marcos do
+amaral nunes)
+340,00 c
+-7.691,20 d
+05/07/2022 oltramari &
+foresti
+mecanica e
+restauracoes
+ltda me
+nota -
+58381/1
+movimento
+pagamento 58381
+- 72804
+(oltramari &
+foresti
+mecanica e
+restauracoes
+ltda me)
+370,00 c
+-7.321,20 d
+05/07/2022 juliano buffon
+paffrath
+nota -
+58395/1
+movimento
+pagamento 58395
+- 2678 (juliano
+buffon
+paffrath)
+550,00 c
+-6.771,20 d
+05/07/2022 chapeacao e
+pintura campeol
+ltda
+nota -
+58380/1
+movimento
+pagamento 58380
+- 1777 (chapeacao
+e pintura
+campeol ltda)
+550,00 c
+-6.221,20 d
+05/07/2022 claro
+stempkowski
+nota -
+58377/1
+movimento
+pagamento 58377
+- 111315 (claro
+stempkowski)
+650,00 c
+-5.571,20 d
+05/07/2022 car clinic
+reparadora
+automotiva ltda
+nota -
+58410/1
+movimento
+pagamento 58410
+- 2906 (car clinic
+reparadora
+automotiva
+ltda)
+800,00 c
+-4.771,20 d
+05/07/2022 nicolas da silva
+tomaszewski
+nota -
+58398/1
+movimento
+pagamento 58398
+- 111687 (nicolas
+da silva
+tomaszewski)
+928,06 c
+-3.843,14 d
+05/07/2022 brasilsul
+distribuidora de
+auto peças
+eirelli
+nota -
+58412/1
+movimento
+pagamento 58412
+- 73 (brasilsul
+distribuidora de
+auto peças
+eirelli)
+1.366,00 c
+-2.477,14 d
+05/07/2022 w j - centro
+automotivo ltda
+nota -
+58404/1
+movimento
+pagamento 58404
+- 113460 (w j -
+centro
+automotivo
+ltda)
+2.300,00 c
+-177,14 d
+05/07/2022 brasilsul
+distribuidora de
+auto peças
+eirelli
+nota -
+58419/1
+movimento
+pagamento 58419
+- 73 (brasilsul
+distribuidora de
+auto peças
+eirelli)
+208,94 c
+31,80 c
+06/07/2022
+devolução de
+valor errado do
+dia 05/07
+-43,00 d
+-11,20 d
+06/07/2022 ademir viega
+g & a -
+banri
+parc. 3x -
+836791/3
+movimento
+pagamento
+836791 - 2094
+(ademir viega)
+161,66 c
+150,46 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 segalla centro
+automotivo ltda
+especie -
+58338/1
+movimento
+pagamento 58338
+- 113441 (segalla
+centro
+automotivo
+ltda)
+130,00 c
+280,46 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 consumidor
+final
+g & a -
+master
+parc. 4x -
+197218721
+27338/3
+movimento
+pagamento
+19721872127338 - 2
+(consumidor
+final)
+229,21 c
+509,67 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 consumidor
+final
+g & a -
+visa
+crédito -
+257211824
+24614/1
+movimento
+pagamento
+25721182424614 - 2
+(consumidor
+final)
+34,01 c
+543,68 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 consumidor
+final
+g & a -
+master
+débito -
+286218158
+67956/1
+movimento
+pagamento
+28621815867956 - 2
+(consumidor
+final)
+147,20 c
+690,88 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 bm car
+chapeação e
+recuperação
+boleto -
+57156/3
+movimento
+pagamento 57156
+- 73418 (bm car
+chapeação e
+recuperação)
+873,24 c
+1.564,12 c
+1.1 -
+recebimentos
+1 - receitas
+g&a
+relatório de caixa
+pág. 009 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br
+  
+  
+ 
+data
+nome completo
+documento
+descrição
+crédito
+débito
+saldo
+conta gerencial
+conta gerencial pai
+06/07/2022 americo valente
+boleto -
+57161/3
+movimento
+pagamento 57161
+- 1975 (americo
+valente)
+384,96 c
+1.949,08 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 serrana
+associacao de
+beneficios
+boleto -
+57197/3
+movimento
+pagamento 57197
+- 110603 (serrana
+associacao de
+beneficios)
+158,31 c
+2.107,39 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 jrfcar
+chapeacao e
+pintura ltda - me
+boleto -
+57423/3
+movimento
+pagamento 57423
+- 79511 (jrfcar
+chapeacao e
+pintura ltda -
+me)
+1.454,61 c
+3.562,00 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 auto sika
+centro de
+solucoes
+esteticas ltda
+boleto -
+57475/3
+movimento
+pagamento 57475
+- 1917 (auto sika
+centro de
+solucoes
+esteticas ltda)
+313,56 c
+3.875,56 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 comercio de
+autopeças
+grillo ltda.
+boleto -
+57544/2
+movimento
+pagamento 57544
+- 251 (comercio
+de autopeças
+grillo ltda.)
+662,50 c
+4.538,06 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 alexandre
+boechel & cia
+ltda
+boleto -
+57549/2
+movimento
+pagamento 57549
+- 2612 (alexandre
+boechel & cia
+ltda)
+260,00 c
+4.798,06 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 boschi -
+chapeacao e
+pintura ltda
+boleto -
+57552/2
+movimento
+pagamento 57552
+- 1774 (boschi -
+chapeacao e
+pintura ltda)
+256,64 c
+5.054,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 florenza com e
+rep ltda
+boleto -
+57553/2
+movimento
+pagamento 57553
+- 10010 (florenza
+com e rep ltda)
+620,00 c
+5.674,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 vieira comercio
+de automoveis
+ltda me
+boleto -
+57573/2
+movimento
+pagamento 57573
+- 110172 (vieira
+comercio de
+automoveis ltda
+me)
+470,00 c
+6.144,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 algicar
+mecanica de
+automoveis ltda
+boleto -
+57613/2
+movimento
+pagamento 57613
+- 83451 (algicar
+mecanica de
+automoveis
+ltda)
+275,00 c
+6.419,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 pessalli
+reparacao
+automotiva ltda
+boleto -
+57907/1
+movimento
+pagamento 57907
+- 79073 (pessalli
+reparacao
+automotiva
+ltda)
+244,00 c
+6.663,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 sul caxias serv.
+autom. ltda
+boleto -
+57916/1
+movimento
+pagamento 57916
+- 1762 (sul caxias
+serv. autom.
+ltda)
+460,00 c
+7.123,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 betemps &
+oleiro ltda.me
+boleto -
+57921/1
+movimento
+pagamento 57921
+- 1238 (betemps &
+oleiro ltda.me)
+350,00 c
+7.473,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 roberto maineri
+paim
+boleto -
+57924/1
+movimento
+pagamento 57924
+- 1756 (roberto
+maineri paim)
+490,00 c
+7.963,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 pessalli
+reparacao
+automotiva ltda
+boleto -
+57935/1
+movimento
+pagamento 57935
+- 79073 (pessalli
+reparacao
+automotiva
+ltda)
+70,00 c
+8.033,70 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 serrana
+associacao de
+beneficios
+boleto -
+57988/1
+movimento
+pagamento 57988
+- 110603 (serrana
+associacao de
+beneficios)
+673,47 c
+8.707,17 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 serrana
+associacao de
+beneficios
+boleto -
+57989/1
+movimento
+pagamento 57989
+- 110603 (serrana
+associacao de
+beneficios)
+165,00 c
+8.872,17 c
+1.1 -
+recebimentos
+1 - receitas
+06/07/2022 m rosa dos
+santos eireli me
+boleto -
+8085/2
+movimento
+pagamento 8085 -
+99533 (m rosa
+dos santos
+eireli me)
+-500,00 d
+8.372,17 c
+2.6.1 -
+fornecedores
+2.6 -
+fornecedores
+g&a
+relatório de caixa
+pág. 010 de 050
+24/08/2022 08:32:59
+caixas.cad_lancamentos_contas_correntes.report 22.25.11 - emitido por giane
+prd - www.eligo.com.br

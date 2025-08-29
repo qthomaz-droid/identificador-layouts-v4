@@ -1,0 +1,2019 @@
+relatório de fluxo de caixa
+empresa: texel tecnologia
+periodo inicial de 01/12/2022 até 31/12/2022
+forma de pagamento :
+filtro : dt pagamento
+saldo inicial : 28.750,60
+seleção bancos/contas:
+inter - 0001 - 70621594
+pago/recebido
+dt
+vencimento
+banco
+titulo
+emitente
+c.custo
+desc
+multa
+juros
+débito
+crédito acumulado c
+01/12/2022
+[15]
+inter
+9453/1
+fazfarma
+0,00
+0,00
+0,00
+0,00
+1.205,00 29.955,60
+obs
+ faturamento do periodo: 21/10/2022 a 20/11/2022 -
+hospedagem
+10/11/2022
+[15]
+inter
+9399/1
+estilotex (matriz)
+0,00
+12,80
+0,00
+0,00
+666,24
+30.621,84
+obs
+ faturamento do periodo: 30/09/2022 a 31/10/2022 -
+contrato msp
+10/11/2022
+[15]
+inter
+1237/1
+estilotex (matriz)
+0,00
+4,00
+0,00
+0,00
+208,20
+30.830,04
+obs
+01/12/2022
+[15]
+inter
+1284/1
+claudia porteiro
+buffet
+0,00
+0,00
+0,00
+0,00
+593,00
+31.423,04
+obs
+01/12/2022
+[15]
+inter
+9450/1
+claudia porteiro
+buffet
+0,00
+0,00
+0,00
+0,00
+5.705,40 37.128,44
+obs
+ faturamento do periodo: 21/10/2022 a 20/11/2022 -
+contrato horas
+02/12/2022
+[15]
+inter
+9467/1
+hidraushop materiais
+hidraulicos e
+aquecedores ltda
+0,00
+0,00
+0,00
+0,00
+1.725,00 38.853,44
+obs
+ horas tecnicas conforme projeto -
+reestruturacao rede - parc. 10/2022
+02/12/2022
+[15]
+inter
+9466/1
+soletrol industria e
+comercio ltda
+0,00
+0,00
+0,00
+0,00
+1.104,00 39.957,44
+obs
+ horas tecnicas conforme projeto -
+reestruturacao rede - parc. 10/2022
+01/12/2022
+[15]
+inter
+8314198/1
+fabio baldim
+0,00
+0,00
+0,00
+6.600,00
+0,00
+33.357,44
+obs
+22/12/2022
+[15]
+inter
+8314309/1
+auto mecânica borin
+ltda me
+100,05
+0,00
+0,00
+1.334,00
+0,00
+32.023,44
+obs
+ nfse 4787 de 22/12/2022
+01/12/2022
+[15]
+inter
+8314012/1
+caique alves dos
+santos
+0,00
+0,00
+0,00
+2.568,71
+0,00
+29.454,73
+obs
+ ferias
+01/12/2022
+[15]
+inter
+8314185/1
+alexander torette
+salandin
+0,00
+0,00
+0,00
+2.080,98
+0,00
+27.373,75
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314186/1
+andre shiguero
+0,00
+0,00
+0,00
+1.684,09
+0,00
+25.689,66
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314187/1
+caique alves dos
+santos
+0,00
+0,00
+0,00
+1.078,14
+0,00
+24.611,52
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314188/1
+claudio luis ribeiro da
+motta
+0,00
+0,00
+0,00
+1.178,40
+0,00
+23.433,12
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314189/1
+danilo reami
+0,00
+0,00
+0,00
+1.746,29
+0,00
+21.686,83
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314190/1
+fernando henrique
+bedana
+0,00
+0,00
+0,00
+1.129,82
+0,00
+20.557,01
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314191/1
+isabela lima rodrigues
+0,00
+0,00
+0,00
+1.022,97
+0,00
+19.534,04
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314192/1
+jessica zoz
+0,00
+0,00
+0,00
+1.652,25
+0,00
+17.881,79
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314193/1
+joao victor dias
+menegatti
+0,00
+0,00
+0,00
+1.932,07
+0,00
+15.949,72
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314194/1
+lucas miranda neves
+0,00
+0,00
+0,00
+1.383,02
+0,00
+14.566,70
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314195/1
+renan schwartz
+0,00
+0,00
+0,00
+1.382,83
+0,00
+13.183,87
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314196/1
+tais nishijima
+0,00
+0,00
+0,00
+1.044,57
+0,00
+12.139,30
+obs
+ 2a. parcela 13o. salario
+01/12/2022
+[15]
+inter
+8314197/1
+wesley belarmino da
+silva
+0,00
+0,00
+0,00
+244,38
+0,00
+11.894,92
+obs
+ 2a. parcela 13o. salario
+total do dia 01/12/2022
+28.062,52 11.206,84
+11.894,92
+02/12/2022
+[15]
+inter
+3002117/1
+transferência de contas
+0,00
+0,00
+0,00
+0,00
+29.000,00 40.894,92
+obs
+ banco de debito: 4 > banco de credito: 15
+resgate cdb di titulo contas a pagar: 8314205
+: : u n o e r p : :
+http://172.16.110.11:8080/texel/jsp/modulos/fn/fnr0006/0001/ifmlista.jsp
+1 of 9
+02/01/2023 09:27
+02/12/2022
+[15]
+inter
+8314204/1
+transferência de contas
+0,00
+0,00
+0,00
+1.000,00
+0,00
+39.894,92
+obs
+ sinal de pagamento hb20 - concessionaria gran
+sport titulo contas a receber: 3002116
+02/12/2022
+[15]
+inter
+8314203/1
+claudio luis ribeiro da
+motta
+0,00
+0,00
+0,00
+1.012,94
+0,00
+38.881,98
+obs
+ reembolso despesa
+total do dia 02/12/2022
+2.012,94
+29.000,00
+38.881,98
+03/12/2022
+[15]
+inter
+8314075/1
+callface
+0,00
+0,00
+0,00
+750,00
+0,00
+38.131,98
+obs
+ nfse 3650 de 03/11/2022
+05/12/2022
+[15]
+inter
+8314154/1
+porto seguro
+0,00
+0,00
+0,00
+795,00
+0,00
+37.336,98
+obs
+ seguro funcionarios
+05/12/2022
+[15]
+inter
+31913/2
+sete plus
+0,00
+0,00
+0,00
+613,60
+0,00
+36.723,38
+obs
+ obs pagamento: nfe 31913 - boleto
+05/12/2022
+[15]
+inter
+8314026/2
+net
+0,00
+0,00
+0,00
+176,73
+0,00
+36.546,65
+obs
+05/12/2022
+[15]
+inter
+8314158/1
+vivo
+0,00
+0,00
+0,00
+197,99
+0,00
+36.348,66
+obs
+05/12/2022
+[15]
+inter
+8314163/1
+alexander torette
+salandin
+0,00
+0,00
+0,00
+2.377,42
+0,00
+33.971,24
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314164/1
+andre shiguero
+0,00
+0,00
+0,00
+1.940,15
+0,00
+32.031,09
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314165/1
+caique alves dos
+santos
+0,00
+0,00
+0,00
+1.532,14
+0,00
+30.498,95
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314166/1
+claudio luis ribeiro da
+motta
+0,00
+0,00
+0,00
+1.940,43
+0,00
+28.558,52
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314167/1
+danilo reami
+0,00
+0,00
+0,00
+2.053,50
+0,00
+26.505,02
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314168/1
+erick galvão
+0,00
+0,00
+0,00
+1.212,00
+0,00
+25.293,02
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314169/1
+fernando henrique
+bedana
+0,00
+0,00
+0,00
+1.446,52
+0,00
+23.846,50
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314170/1
+isabela lima rodrigues
+0,00
+0,00
+0,00
+1.248,29
+0,00
+22.598,21
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314171/1
+jessica zoz
+0,00
+0,00
+0,00
+3.485,07
+0,00
+19.113,14
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314172/1
+joao victor dias
+menegatti
+0,00
+0,00
+0,00
+2.042,62
+0,00
+17.070,52
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314173/1
+lucas miranda neves
+0,00
+0,00
+0,00
+1.397,60
+0,00
+15.672,92
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314174/1
+renan schwartz
+0,00
+0,00
+0,00
+1.031,00
+0,00
+14.641,92
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314175/1
+stheffani emboava
+0,00
+0,00
+0,00
+1.212,00
+0,00
+13.429,92
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314176/1
+tais nishijima
+0,00
+0,00
+0,00
+1.276,38
+0,00
+12.153,54
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314177/1
+wesley belarmino da
+silva
+0,00
+0,00
+0,00
+999,12
+0,00
+11.154,42
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314178/1
+fabio da silva boneti
+0,00
+0,00
+0,00
+4.418,23
+0,00
+6.736,19
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314179/1
+marco aurelio
+barbosa de figueiredo
+0,00
+0,00
+0,00
+969,96
+0,00
+5.766,23
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314180/1
+marcos aparecido
+medina
+0,00
+0,00
+0,00
+4.336,69
+0,00
+1.429,54
+obs
+ salario
+05/12/2022
+[15]
+inter
+8314181/1
+rosangela aparecida l.
+de figueiredo
+0,00
+0,00
+0,00
+1.078,68
+0,00
+350,86
+obs
+ salario
+total do dia 05/12/2022
+38.531,12
+0,00
+350,86
+06/12/2022
+[15]
+inter
+3002118/1
+transferência de contas
+0,00
+0,00
+0,00
+0,00
+100,00
+450,86
+obs
+ banco de debito: 5 > banco de credito: 15
+resgate cdb di titulo contas a pagar: 8314213
+06/12/2022
+[15]
+inter
+9485/1
+pakmatic do brasil
+0,00
+0,00
+0,00
+0,00
+12.496,00 12.946,86
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+06/12/2022
+[15]
+inter
+9486/1
+paratec
+0,00
+0,00
+0,00
+0,00
+2.592,77 15.539,63
+obs
+ faturamento do periodo: 31/10/2022 a 01/12/2022 -
+contrato remoto
+15/12/2022
+[15]
+inter
+9503/1
+residencial anhumas
+0,00
+0,00
+0,00
+0,00
+614,99
+16.154,62
+obs
+ faturamento do periodo: 04/11/2022 a 30/11/2022 -
+hospedagem aws
+10/12/2022
+[15]
+inter
+1290/1
+sanoh do brasil
+(sorocaba)
+0,00
+0,00
+0,00
+0,00
+50,00
+16.204,62
+obs
+12/12/2022
+[15]
+inter
+9501/1
+sanoh do brasil (sbo)
+0,00
+0,00
+0,00
+0,00
+22.724,38 38.929,00
+obs
+ faturamento do periodo: 01/11/2022 a 30/11/2022 -
+contrato msp
+07/12/2022
+[15]
+inter
+9496/1
+varejão tatu
+0,00
+0,00
+0,00
+0,00
+2.377,00 41.306,00
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+: : u n o e r p : :
+http://172.16.110.11:8080/texel/jsp/modulos/fn/fnr0006/0001/ifmlista.jsp
+2 of 9
+02/01/2023 09:27
+06/12/2022
+[15]
+inter
+9497/1
+vegas card
+0,00
+0,00
+0,00
+0,00
+13.860,00 55.166,00
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato franquia
+12/12/2022
+[15]
+inter
+1292/1
+vingi industria textil
+0,00
+0,00
+0,00
+0,00
+315,00
+55.481,00
+obs
+06/12/2022
+[15]
+inter
+8314209/1
+andre shiguero
+0,00
+0,00
+0,00
+177,32
+0,00
+55.303,68
+obs
+ reembolso despesa
+06/12/2022
+[15]
+inter
+8314210/1
+danilo reami
+0,00
+0,00
+0,00
+46,18
+0,00
+55.257,50
+obs
+ reembolso despesa
+06/12/2022
+[15]
+inter
+8314211/1
+joao victor dias
+menegatti
+0,00
+0,00
+0,00
+43,96
+0,00
+55.213,54
+obs
+ reembolso despesa
+06/12/2022
+[15]
+inter
+8314212/1
+alexander torette
+salandin
+0,00
+0,00
+0,00
+104,18
+0,00
+55.109,36
+obs
+ reembolso despesa
+total do dia 06/12/2022
+371,64
+55.130,14
+55.109,36
+16/12/2022
+[15]
+inter
+1293/1
+jean cleumir
+castiglioni dalomo
+0,00
+0,00
+0,00
+0,00
+89,00
+55.198,36
+obs
+07/12/2022
+[15]
+inter
+3002119/1
+transferência de contas
+0,00
+0,00
+0,00
+0,00
+25.000,00 80.198,36
+obs
+ banco de debito: 5 > banco de credito: 15
+resgate cdb di titulo contas a pagar: 8314216
+07/12/2022
+[15]
+inter
+1280/1
+biomedlog (ari
+transportes)
+0,00
+0,00
+0,00
+0,00
+380,50
+80.578,86
+obs
+07/12/2022
+[15]
+inter
+9499/1
+world american bar
+entretenimentos
+0,00
+0,00
+0,00
+0,00
+650,00
+81.228,86
+obs
+ faturamento do periodo: 31/10/2022 a 01/12/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9468/1
+cataby
+0,00
+0,00
+0,00
+0,00
+180,00
+81.408,86
+obs
+ horas avulsas conforme relatorio
+10/11/2022
+[15]
+inter
+9395/1
+company life log
+0,00
+13,10
+0,00
+0,00
+685,78
+82.094,64
+obs
+ faturamento do periodo: 30/09/2022 a 31/10/2022 -
+contrato msp
+07/12/2022
+[15]
+inter
+9483/1
+insurance house
+0,00
+0,00
+0,00
+0,00
+1.216,00 83.310,64
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+07/12/2022
+[15]
+inter
+9494/1
+teda
+0,00
+0,00
+0,00
+0,00
+10.345,38 93.656,02
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+07/12/2022
+[15]
+inter
+8314085/1
+movida
+0,00
+0,00
+0,00
+1.424,36
+0,00
+92.231,66
+obs
+ fatura 3380727 de 07/11/2022
+07/12/2022
+[15]
+inter
+8314183/1
+fgts
+0,00
+0,00
+0,00
+3.866,46
+0,00
+88.365,20
+obs
+ fgts
+07/12/2022
+[15]
+inter
+8314218/1
+ana clara martins
+0,00
+0,00
+0,00
+200,00
+0,00
+88.165,20
+obs
+ nfse 00052 de 07/12/2022
+07/12/2022
+[15]
+inter
+8314220/1
+andreta ii distrib. de
+veículos
+0,00
+0,00
+0,00
+74.600,00
+0,00
+13.565,20
+obs
+ nfe 6497 de 07/12/2022
+total do dia 07/12/2022
+80.090,82 38.546,66
+13.565,20
+09/12/2022
+[15]
+inter
+1289/1
+mc donalds - sta
+barbara
+0,00
+0,00
+0,00
+0,00
+189,00
+13.754,20
+obs
+15/12/2022
+[15]
+inter
+9510/1
+teda
+0,00
+0,00
+0,00
+0,00
+1.144,39 14.898,59
+obs
+ faturamento do periodo: 04/11/2022 a 30/11/2022 -
+hospedagem aws
+08/12/2022
+[15]
+inter
+9500/1
+nw software
+0,00
+0,00
+0,00
+0,00
+556,00
+15.454,59
+obs
+ horas avulsas conforme relatorio
+09/12/2022
+[15]
+inter
+1288/1
+mc donalds -
+escritorio
+0,00
+0,00
+0,00
+0,00
+345,00
+15.799,59
+obs
+09/12/2022
+[15]
+inter
+9484/1
+mc donalds -
+escritorio
+0,00
+0,00
+0,00
+0,00
+3.831,50 19.631,09
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+08/12/2022
+[15]
+inter
+8313919/3
+sindicato funcionarios
+(sindiesp)
+0,00
+0,00
+0,00
+54,30
+0,00
+19.576,79
+obs
+ contribuicao sindical
+08/12/2022
+[15]
+inter
+8313483/7
+granfa
+0,00
+0,00
+0,00
+6.835,20
+0,00
+12.741,59
+obs
+08/12/2022
+[15]
+inter
+8314097/1
+jessica zoz
+0,00
+0,00
+0,00
+5.250,50
+0,00
+7.491,09
+obs
+ ferias
+total do dia 08/12/2022
+12.140,00
+6.065,89
+7.491,09
+10/12/2022
+[15]
+inter
+1287/1
+biomedlog (ari
+transportes)
+0,00
+0,00
+0,00
+0,00
+205,00
+7.696,09
+obs
+12/12/2022
+[15]
+inter
+9475/1
+company life log
+0,00
+0,00
+0,00
+0,00
+655,00
+8.351,09
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9489/1
+rolcamp
+0,00
+0,00
+0,00
+0,00
+1.662,00 10.013,09
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+09/12/2022
+[15]
+inter
+3002120/1
+transferência de contas
+0,00
+0,00
+0,00
+0,00
+1.000,00 11.013,09
+obs
+ devolucao sinal de pagamento hb20 -
+concessionaria gran sport titulo contas a pagar:
+8314245
+08/12/2022
+[15]
+inter
+9495/1
+textil regimara ltda
+0,00
+0,00
+0,00
+0,00
+1.714,00 12.727,09
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+: : u n o e r p : :
+http://172.16.110.11:8080/texel/jsp/modulos/fn/fnr0006/0001/ifmlista.jsp
+3 of 9
+02/01/2023 09:27
+total do dia 09/12/2022
+0,00
+5.236,00
+12.727,09
+12/12/2022
+[15]
+inter
+9473/1
+angiograph
+0,00
+0,00
+0,00
+0,00
+1.264,00 13.991,09
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9502/1
+biomedlog (ari
+transportes)
+0,00
+0,00
+0,00
+0,00
+4.024,20 18.015,29
+obs
+ faturamento do periodo: 01/11/2022 a 30/11/2022 -
+contrato msp
+15/12/2022
+[15]
+inter
+9488/1
+rio doce (aroma
+frutas)
+0,00
+0,00
+0,00
+0,00
+973,00
+18.988,29
+obs
+ faturamento do periodo: 31/10/2022 a 01/12/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9474/1
+biosysmed software
+0,00
+0,00
+0,00
+0,00
+1.080,66 20.068,95
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9476/1
+crimper
+0,00
+0,00
+0,00
+0,00
+1.850,00 21.918,95
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9477/1
+dal giardino
+ristorante
+0,00
+0,00
+0,00
+0,00
+500,00
+22.418,95
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9480/1
+executive center
+0,00
+0,00
+0,00
+0,00
+579,00
+22.997,95
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9454/1
+fulltime logistica
+0,00
+0,00
+0,00
+0,00
+3.177,00 26.174,95
+obs
+ faturamento do periodo: 20/10/2022 a 21/11/2022 -
+contrato msp
+16/12/2022
+[15]
+inter
+9515/1
+gilson ednei pavan
+0,00
+0,00
+0,00
+0,00
+80,60
+26.255,55
+obs
+ faturamento do periodo: 01/11/2022 a 09/12/2022 -
+hospedagem
+12/12/2022
+[15]
+inter
+9469/1
+hanier
+0,00
+0,00
+0,00
+0,00
+270,00
+26.525,55
+obs
+ horas avulsas conforme relatorio
+12/12/2022
+[15]
+inter
+9491/1
+madrid
+0,00
+0,00
+0,00
+0,00
+2.196,00 28.721,55
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato franquia
+10/12/2022
+[15]
+inter
+9511/1
+master network
+0,00
+0,00
+0,00
+0,00
+1.150,20 29.871,75
+obs
+12/12/2022
+[15]
+inter
+9438/1
+milling
+0,00
+0,00
+0,00
+0,00
+11.065,28 40.937,03
+obs
+ faturamento do periodo: 10/10/2022 a 11/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9514/1
+nw software
+0,00
+0,00
+0,00
+0,00
+5.000,00 45.937,03
+obs
+ horas tecnicas.
+12/12/2022
+[15]
+inter
+9482/1
+fuscao preto auto
+pecas
+0,00
+0,00
+0,00
+0,00
+3.363,00 49.300,03
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9490/1
+sayão
+0,00
+0,00
+0,00
+0,00
+1.825,00 51.125,03
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+12/12/2022
+[15]
+inter
+9493/1
+stancati projetos e
+obras ltda.
+0,00
+0,00
+0,00
+0,00
+582,00
+51.707,03
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato remoto
+12/12/2022
+[15]
+inter
+9470/1
+j&j (temporalis)
+ 1
+0,00
+0,00
+0,00
+0,00
+55,00
+51.762,03
+obs
+ horas avulsas conforme relatorio
+12/12/2022
+[15]
+inter
+9498/1
+vingi industria textil
+0,00
+0,00
+0,00
+0,00
+5.890,00 57.652,03
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato mensal
+10/12/2022
+[15]
+inter
+8314150/1
+m&c monitoramento
+0,00
+0,00
+0,00
+145,00
+0,00
+57.507,03
+obs
+ nfse 149187 de 23/11/2022
+12/12/2022
+[15]
+inter
+8314201/1
+sos segurança
+inteligente
+0,00
+0,00
+0,00
+210,00
+0,00
+57.297,03
+obs
+ nfse 7535 de 29/11/2022
+12/12/2022
+[15]
+inter
+74940/2
+tob - campinas
+0,00
+0,00
+0,00
+491,00
+0,00
+56.806,03
+obs
+ obs pagamento: nfe 74940 - boleto malote
+12/12/2022
+[15]
+inter
+211140028/1elgscreen
+0,00
+0,00
+0,00
+329,10
+0,00
+56.476,93
+obs
+ obs pagamento: nfe 211140028 - boleto
+malote
+total do dia 12/12/2022
+1.175,10
+44.924,94
+56.476,93
+15/12/2022
+[15]
+inter
+9508/1
+sanoh do brasil (sbo)
+0,00
+0,00
+0,00
+0,00
+1.377,86 57.854,79
+obs
+ faturamento do periodo: 04/11/2022 a 30/11/2022 -
+backup aws
+13/12/2022
+[15]
+inter
+350495/3
+comercial
+bandeirantes de
+baterias ltda.
+0,00
+0,00
+0,00
+180,00
+0,00
+57.674,79
+obs
+ obs pagamento: nfe 350495 - boleto
+malote
+13/12/2022
+[15]
+inter
+8314253/1
+souzautos
+0,00
+0,00
+0,00
+3.841,50
+0,00
+53.833,29
+obs
+ nfse 1208 de 13/12/2022 - valor total nota
+3900,00 - retencao ir rs58,50
+13/12/2022
+[15]
+inter
+8314249/1
+alexander torette
+salandin
+0,00
+0,00
+0,00
+73,38
+0,00
+53.759,91
+obs
+ reembolso despesa
+13/12/2022
+[15]
+inter
+8314250/1
+joao victor dias
+menegatti
+0,00
+0,00
+0,00
+26,19
+0,00
+53.733,72
+obs
+ reembolso despesa
+: : u n o e r p : :
+http://172.16.110.11:8080/texel/jsp/modulos/fn/fnr0006/0001/ifmlista.jsp
+4 of 9
+02/01/2023 09:27
+13/12/2022
+[15]
+inter
+8314251/1
+danilo reami
+0,00
+0,00
+0,00
+205,98
+0,00
+53.527,74
+obs
+ reembolso despesa
+13/12/2022
+[15]
+inter
+8314252/1
+renan schwartz
+0,00
+0,00
+0,00
+106,79
+0,00
+53.420,95
+obs
+ reembolso despesa
+total do dia 13/12/2022
+4.433,84
+1.377,86
+53.420,95
+19/12/2022
+[15]
+inter
+9513/1
+td synnex brasil ltda
+0,00
+0,00
+0,00
+0,00
+524,81
+53.945,76
+obs
+15/12/2022
+[15]
+inter
+9505/1
+asa aluminio s/a
+0,00
+0,00
+0,00
+0,00
+6.114,32 60.060,08
+obs
+ faturamento do periodo: 04/11/2022 a 30/11/2022 -
+hospedagem aws
+18/10/2022
+[15]
+inter
+9358/1
+pavan zanetti industria
+metalúrgica
+0,00
+74,90
+112,35
+0,00
+4.033,36 64.093,44
+obs
+ faturamento do periodo: 11/09/2022 a 10/10/2022 -
+contrato msp
+07/12/2022
+[15]
+inter
+9492/1
+sinha moça tecidos e
+acessorios eireli
+0,00
+44,40
+0,00
+0,00
+2.279,94 66.373,38
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato mensal
+14/12/2022
+[15]
+inter
+9512/1
+snd distribuição - sp
+0,00
+0,00
+0,00
+0,00
+1.111,58 67.484,96
+obs
+14/12/2022
+[15]
+inter
+8314257/1
+dae americana
+0,00
+0,00
+0,00
+82,82
+0,00
+67.402,14
+obs
+14/12/2022
+[15]
+inter
+8314259/1
+transferência de contas
+0,00
+0,00
+0,00
+46.000,00
+0,00
+21.402,14
+obs
+ banco de debito: 15 > banco de credito: 5 cdb di
+titulo contas a receber: 3002121
+total do dia 14/12/2022
+46.082,82 14.064,01
+21.402,14
+15/12/2022
+[15]
+inter
+9487/1
+recom metal duro
+0,00
+0,00
+0,00
+0,00
+1.219,00 22.621,14
+obs
+ faturamento do periodo: 31/10/2022 a 01/12/2022 -
+contrato msp
+15/12/2022
+[15]
+inter
+9472/1
+alvaro aguiar
+0,00
+0,00
+0,00
+0,00
+4.405,78 27.026,92
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+15/12/2022
+[15]
+inter
+9504/1
+aro contabilidade
+0,00
+0,00
+0,00
+0,00
+778,73
+27.805,65
+obs
+ faturamento do periodo: 04/11/2022 a 30/11/2022 -
+hospedagem aws
+18/12/2022
+[15]
+inter
+9368/3
+cataby
+0,00
+0,00
+0,00
+0,00
+4.290,00 32.095,65
+obs
+ projeto wifi projeto totvs projeto
+migracao
+15/12/2022
+[15]
+inter
+9506/1
+hanier
+0,00
+0,00
+0,00
+0,00
+238,50
+32.334,15
+obs
+ faturamento do periodo: 04/11/2022 a 30/11/2022 -
+backup aws
+15/12/2022
+[15]
+inter
+9481/1
+fenix
+0,00
+0,00
+0,00
+0,00
+5.878,00 38.212,15
+obs
+ faturamento do periodo: 31/10/2022 a 30/11/2022 -
+contrato msp
+15/12/2022
+[15]
+inter
+9507/1
+milling
+0,00
+0,00
+0,00
+0,00
+1.392,68 39.604,83
+obs
+ faturamento do periodo: 04/11/2022 a 30/11/2022 -
+hospedagem aws
+15/12/2022
+[15]
+inter
+8314200/1
+são lucas saúde s/a
+0,00
+0,00
+0,00
+6.300,78
+0,00
+33.304,05
+obs
+15/12/2022
+[15]
+inter
+8314077/2
+instituto bacarelli
+0,00
+0,00
+0,00
+250,00
+0,00
+33.054,05
+obs
+ doacoes
+15/12/2022
+[15]
+inter
+8314219/1
+red hot comunicacao
+ltda
+0,00
+0,00
+0,00
+620,00
+0,00
+32.434,05
+obs
+ nfse 1514 de 07/12/2022
+15/12/2022
+[15]
+inter
+8314226/1
+apae
+0,00
+0,00
+0,00
+280,00
+0,00
+32.154,05
+obs
+ doacoes
+15/12/2022
+[15]
+inter
+8314275/1
+transferência de contas
+0,00
+0,00
+0,00
+13.000,00
+0,00
+19.154,05
+obs
+ banco de debito: 15 > banco de credito: 5 cdb di
+titulo contas a receber: 3002122
+15/12/2022
+[15]
+inter
+8314261/1
+andre shiguero
+0,00
+0,00
+0,00
+79,13
+0,00
+19.074,92
+obs
+ reembolso despesa
+total do dia 15/12/2022
+20.529,91 18.202,69
+19.074,92
+19/12/2022
+[15]
+inter
+9518/1
+mano manfroi
+supermercados
+0,00
+0,00
+0,00
+0,00
+690,00
+19.764,92
+obs
+ faturamento do periodo: 11/11/2022 a 10/12/2022 -
+antivirus
+15/11/2022
+[15]
+inter
+1279/1
+estilotex (matriz)
+0,00
+7,80
+11,70
+0,00
+409,89
+20.174,81
+obs
+16/12/2022
+[15]
+inter
+8314149/1
+protech - proteçao e
+tecnologia ambiental
+0,00
+0,00
+0,00
+200,00
+0,00
+19.974,81
+obs
+ nfse 13431 de 23/11/2022
+total do dia 16/12/2022
+200,00
+1.099,89
+19.974,81
+20/12/2022
+[15]
+inter
+9464/1
+continuy serviços e
+tecnologia da
+informação ltda.(ati
+0,00
+0,00
+0,00
+0,00
+4.633,12 24.607,93
+obs
+20/12/2022
+[15]
+inter
+9465/1
+callface software e
+servicos ltda.
+0,00
+0,00
+0,00
+0,00
+213,68
+24.821,61
+obs
+19/12/2022
+[15]
+inter
+1256/3
+nelson batista da
+costa
+0,00
+0,00
+0,00
+0,00
+285,66
+25.107,27
+obs
+18/12/2023
+[15]
+inter
+1294/1
+sanches e sanches
+guilherme sociedade
+de advogados(matriz-sp
+0,00
+0,00
+0,00
+0,00
+76,00
+25.183,27
+obs
+: : u n o e r p : :
+http://172.16.110.11:8080/texel/jsp/modulos/fn/fnr0006/0001/ifmlista.jsp
+5 of 9
+02/01/2023 09:27

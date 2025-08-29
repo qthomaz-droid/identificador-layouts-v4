@@ -1,0 +1,720 @@
+nome do cliente
+plano
+valor periodicidade quantidade código
+data da
+primeira
+transação
+data do
+encerramento
+status
+operadora
+leonardo de souza
+andrade santiago
+pires
+99,90
+única(venda) 1
+1907
+14/02/2025
+14/02/2025 -
+11:48
+encerrada
+cel_cash
+alex santana dos
+santos
+81,61
+única(venda) 1
+1906
+14/02/2025
+14/02/2025 -
+09:20
+encerrada
+cel_cash
+lucas carmo de jesus
+sacramento
+124,90 única(venda) 1
+1905
+14/02/2025
+inativa
+cel_cash
+iracema dos espirito
+santos bahia
+79,90
+única(venda) 1
+1904
+13/02/2025
+inativa
+cel_cash
+brenda santos de
+carvalho
+81,58
+única(venda) 1
+1903
+13/02/2025
+13/02/2025 -
+10:48
+encerrada
+cel_cash
+iracema dos espirito
+santos bahia
+81,58
+única(venda) 1
+1902
+13/02/2025
+inativa
+cel_cash
+brenda santos de
+carvalho
+81,58
+única(venda) 1
+1901
+13/02/2025
+inativa
+cel_cash
+brenda santos de
+carvalho
+81,55
+única(venda) 1
+1900
+12/02/2025
+inativa
+cel_cash
+brenda santos de
+carvalho
+81,55
+única(venda) 1
+1899
+12/02/2025
+inativa
+cel_cash
+adriana ribeiro
+cerqueira
+127,65 única(venda) 1
+1898
+11/02/2025
+11/02/2025 -
+15:16
+encerrada
+cel_cash
+denise ferreira dos
+santos
+124,90 única(venda) 1
+1897
+11/02/2025
+11/02/2025 -
+16:07
+encerrada
+cel_cash
+maiara dos santos
+silva
+56,21
+única(venda) 1
+1896
+11/02/2025
+11/02/2025 -
+09:01
+encerrada
+cel_cash
+valdir mota junior
+109,90 única(venda) 1
+1895
+10/02/2025
+10/02/2025 -
+23:52
+encerrada
+cel_cash
+carlos alberto do
+espirito santo xavier
+109,90 única(venda) 1
+1894
+10/02/2025
+10/02/2025 -
+20:10
+encerrada
+cel_cash
+lilian rangel vieira
+oliveira
+139,90 única(venda) 1
+1893
+10/02/2025
+inativa
+cel_cash
+nome do cliente
+plano
+valor periodicidade quantidade código
+data da
+primeira
+transação
+data do
+encerramento
+status
+operadora
+lucia cristina guedes
+cardoso
+79,90
+única(venda) 1
+1892
+10/02/2025
+10/02/2025 -
+19:32
+encerrada
+cel_cash
+esdras santana viana
+124,90 única(venda) 1
+1891
+10/02/2025
+10/02/2025 -
+19:21
+encerrada
+cel_cash
+jucilene dos santos
+sousa
+99,90
+única(venda) 1
+1890
+10/02/2025
+10/02/2025 -
+18:47
+encerrada
+cel_cash
+lucas henrick oliveira
+carneiro
+124,90 única(venda) 1
+1889
+10/02/2025
+10/02/2025 -
+15:10
+encerrada
+cel_cash
+brenda santos de
+carvalho
+79,90
+única(venda) 1
+1888
+10/02/2025
+inativa
+cel_cash
+brenda santos de
+carvalho
+79,90
+única(venda) 1
+1887
+10/02/2025
+inativa
+cel_cash
+rodrigo de carvalho
+santos
+79,90
+única(venda) 1
+1886
+10/02/2025
+10/02/2025 -
+11:09
+encerrada
+cel_cash
+silvonildes jesus
+santos
+79,90
+única(venda) 1
+1885
+10/02/2025
+10/02/2025 -
+09:05
+encerrada
+cel_cash
+matheus souza
+sacramento
+89,90
+única(venda) 1
+1884
+10/02/2025
+inativa
+cel_cash
+josé henrique teles da
+silva sousa
+99,90
+única(venda) 1
+1883
+10/02/2025
+inativa
+cel_cash
+lucas henrick oliveira
+carneiro
+124,90 única(venda) 1
+1882
+10/02/2025
+inativa
+cel_cash
+jackson cunha lima
+79,90
+única(venda) 1
+1881
+10/02/2025
+10/02/2025 -
+07:01
+encerrada
+cel_cash
+marlene pereira de
+oliveira
+79,90
+única(venda) 1
+1880
+10/02/2025
+10/02/2025 -
+07:01
+encerrada
+cel_cash
+rivaldo nascimento
+dos santos
+89,90
+única(venda) 1
+1879
+10/02/2025
+inativa
+cel_cash
+antonio alessandro
+lima oliveira
+99,90
+única(venda) 1
+1878
+10/02/2025
+10/02/2025 -
+07:01
+encerrada
+cel_cash
+nome do cliente
+plano
+valor periodicidade quantidade código
+data da
+primeira
+transação
+data do
+encerramento
+status
+operadora
+simone medina meira
+alves
+79,90
+única(venda) 1
+1877
+10/02/2025
+inativa
+cel_cash
+izabel gomes do
+nascimento
+79,90
+única(venda) 1
+1876
+10/02/2025
+10/02/2025 -
+07:01
+encerrada
+cel_cash
+rubem fernandes
+machado de lima
+124,90 única(venda) 1
+1875
+10/02/2025
+10/02/2025 -
+07:01
+encerrada
+cel_cash
+lindileia silva ribeiro
+124,90 única(venda) 1
+1874
+10/02/2025
+inativa
+cel_cash
+anali silva dos santos
+leal
+79,90
+única(venda) 1
+1873
+10/02/2025
+10/02/2025 -
+07:01
+encerrada
+cel_cash
+herbert santos
+trindade
+69,90
+única(venda) 1
+1872
+10/02/2025
+10/02/2025 -
+07:00
+encerrada
+cel_cash
+jose filipe freitas de
+oliveira
+79,90
+única(venda) 1
+1871
+10/02/2025
+10/02/2025 -
+07:00
+encerrada
+cel_cash
+jailton santos de
+souza
+79,90
+única(venda) 1
+1870
+10/02/2025
+inativa
+cel_cash
+tássia monique lima
+ferreira
+79,90
+única(venda) 1
+1869
+10/02/2025
+10/02/2025 -
+07:00
+encerrada
+cel_cash
+rita caetano dos
+santos
+109,90 única(venda) 1
+1868
+10/02/2025
+10/02/2025 -
+07:00
+encerrada
+cel_cash
+marli santana
+celestino
+79,90
+única(venda) 1
+1867
+10/02/2025
+10/02/2025 -
+07:00
+encerrada
+cel_cash
+maria santana dos
+santos
+79,90
+única(venda) 1
+1866
+10/02/2025
+10/02/2025 -
+07:00
+encerrada
+cel_cash
+jadila dos santos
+torres
+99,90
+única(venda) 1
+1865
+10/02/2025
+10/02/2025 -
+07:00
+encerrada
+cel_cash
+alana vitorio da silva
+79,90
+única(venda) 1
+1864
+09/02/2025
+09/02/2025 -
+15:16
+encerrada
+cel_cash
+alba caroline de
+abreu magalhaes
+79,90
+única(venda) 1
+1863
+08/02/2025
+08/02/2025 -
+14:49
+encerrada
+cel_cash
+brenda santos de
+carvalho
+79,90
+única(venda) 1
+1862
+08/02/2025
+inativa
+cel_cash
+nome do cliente
+plano
+valor periodicidade quantidade código
+data da
+primeira
+transação
+data do
+encerramento
+status
+operadora
+brenda santos de
+carvalho
+79,90
+única(venda) 1
+1861
+08/02/2025
+inativa
+cel_cash
+brenda santos de
+carvalho
+79,90
+única(venda) 1
+1860
+08/02/2025
+inativa
+cel_cash
+adriele dos santos
+conceicao
+79,90
+única(venda) 1
+1859
+08/02/2025
+08/02/2025 -
+08:36
+encerrada
+cel_cash
+anderson fernandes
+dos santos
+124,90 única(venda) 1
+1858
+07/02/2025
+07/02/2025 -
+08:09
+encerrada
+cel_cash
+luis rocha de sousa
+119,90 única(venda) 1
+1857
+05/02/2025
+05/02/2025 -
+07:00
+encerrada
+cel_cash
+luis rocha de sousa
+119,90 única(venda) 1
+1856
+05/02/2025
+05/02/2025 -
+07:00
+encerrada
+cel_cash
+tais regina de lima
+brito
+69,90
+única(venda) 1
+1855
+05/02/2025
+inativa
+cel_cash
+ezequiel de oliveira
+bastos
+109,90 única(venda) 1
+1854
+05/02/2025
+05/02/2025 -
+07:00
+encerrada
+cel_cash
+alan de oliveira silva
+119,90 única(venda) 1
+1853
+05/02/2025
+05/02/2025 -
+07:00
+encerrada
+cel_cash
+brenda santos de
+carvalho
+109,90 única(venda) 1
+1852
+01/02/2025
+01/02/2025 -
+09:55
+encerrada
+cel_cash
+leonardo de souza
+andrade santiago
+pires
+99,90
+única(venda) 1
+1851
+31/01/2025
+inativa
+cel_cash
+brenda santos de
+carvalho
+109,90 única(venda) 1
+1850
+30/01/2025
+inativa
+cel_cash
+brenda santos de
+carvalho
+109,90 única(venda) 1
+1849
+30/01/2025
+inativa
+cel_cash
+raquel dos santos
+bispo
+69,90
+única(venda) 1
+1848
+30/01/2025
+30/01/2025 -
+12:49
+encerrada
+cel_cash
+michele peixoto ferreira sousa
+124,90 única(venda) 1
+1847
+29/01/2025
+29/01/2025 -
+19:55
+encerrada
+cel_cash
+nome do cliente
+plano
+valor periodicidade quantidade código
+data da
+primeira
+transação
+data do
+encerramento
+status
+operadora
+lilian rangel vieira
+oliveira
+143,30 única(venda) 1
+1846
+28/01/2025
+28/01/2025 -
+23:13
+encerrada
+cel_cash
+marlon boaventura
+conceicao
+90,10
+única(venda) 1
+1845
+28/01/2025
+28/01/2025 -
+18:22
+encerrada
+cel_cash
+yasmin ferreira dos
+santos reis
+81,82
+única(venda) 1
+1844
+27/01/2025
+27/01/2025 -
+20:06
+encerrada
+cel_cash
+vanderleia dos santos
+gomes
+122,77 única(venda) 1
+1843
+27/01/2025
+inativa
+cel_cash
+anderson alves da
+silva
+81,82
+única(venda) 1
+1842
+27/01/2025
+27/01/2025 -
+10:41
+encerrada
+cel_cash
+carlos rene souza
+silva neto
+124,90 única(venda) 1
+1841
+25/01/2025
+25/01/2025 -
+20:18
+encerrada
+cel_cash
+carlos rene souza
+silva neto
+127,81 única(venda) 1
+1840
+25/01/2025
+inativa
+cel_cash
+roberta santos
+zeferino
+81,74
+única(venda) 1
+1839
+24/01/2025
+inativa
+cel_cash
+roberta santos
+zeferino
+81,74
+única(venda) 1
+1838
+24/01/2025
+inativa
+cel_cash
+elton freitas morais
+102,13 única(venda) 1
+1837
+22/01/2025
+22/01/2025 -
+12:52
+encerrada
+cel_cash
+sabrina pinto da
+conceição
+83,53
+única(venda) 1
+1836
+22/01/2025
+22/01/2025 -
+11:19
+encerrada
+cel_cash
+lucas carmo de jesus
+sacramento
+124,90 única(venda) 1
+1835
+22/01/2025
+22/01/2025 -
+08:24
+encerrada
+cel_cash
+evaldecir sales lessa
+81,66
+única(venda) 1
+1834
+21/01/2025
+21/01/2025 -
+21:22
+encerrada
+cel_cash
+antonia iolanda
+bandeira de carvalho
+81,66
+única(venda) 1
+1833
+21/01/2025
+21/01/2025 -
+17:57
+encerrada
+cel_cash
+emanuele gomes de
+andrade
+81,66
+única(venda) 1
+1832
+21/01/2025
+21/01/2025 -
+15:29
+encerrada
+cel_cash

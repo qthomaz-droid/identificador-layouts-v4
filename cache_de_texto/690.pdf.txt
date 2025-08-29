@@ -1,0 +1,1525 @@
+conta corrente
+período: 01/11/2022 a 30/11/2022
+jdipellets
+05/12/2022 13:28
+pagamento
+recebimento
+cliente/fornecedor
+receita/despesa
+tipo
+data
+documento
+cheque
+banco: 2 - banco itau s/a - 30575-5
+866.913,07
+saldo inicial:
+data
+01/11/2022
+vinicius seidel
+0,00
+630,00
+compra de materia prim
+4499/1
+nf
+01/11/2022
+subtotal
+0,00
+630,00
+866.283,07
+saldo acumulado diário
+data
+03/11/2022
+ingram micro brasil ltda
+0,00
+197,06
+compra de materia prim
+1721088/1
+nf
+03/11/2022
+madeireira haas ltda
+0,00
+27.720,00
+compra de materia prim
+104618/1
+nf
+03/11/2022
+companhia de saneament
+0,00
+949,52
+compra de materia prim
+102022/1
+nf
+03/11/2022
+trans-lalo ltda
+0,00
+1.168,50
+compra de materia prim
+4593/1
+nf
+03/11/2022
+trans-lalo ltda
+0,00
+957,75
+compra de materia prim
+4617/1
+nf
+03/11/2022
+icalvino pereira filho& c
+0,00
+1.567,20
+compra de materia prim
+41203/1
+nf
+03/11/2022
+altair storchi
+0,00
+2.480,00
+compra de materia prim
+16/1
+nf
+03/11/2022
+icalvino pereira filho& c
+0,00
+1.929,60
+compra de materia prim
+41198/1
+nf
+03/11/2022
+icalvino pereira filho& c
+0,00
+2.248,80
+compra de materia prim
+41201/1
+nf
+03/11/2022
+icalvino pereira filho& c
+0,00
+2.880,00
+compra de materia prim
+41205/1
+nf
+03/11/2022
+itau unibanco s.a.
+0,00
+215,00
+despesas financeiras
+taxa0000000037
+ta
+03/11/2022
+itau unibanco s.a.
+0,00
+24,50
+despesas financeiras
+taxa0000000038
+ta
+03/11/2022
+subtotal
+0,00
+42.337,93
+823.945,14
+saldo acumulado diário
+data
+04/11/2022
+avenida auto posto ltda
+0,00
+2.037,00
+compra de materia prim
+24933/1
+nf
+04/11/2022
+subtotal
+0,00
+2.037,00
+821.908,14
+saldo acumulado diário
+data
+07/11/2022
+sonia de lima da cruz per
+0,00
+2.790,00
+despesas comerciais
+152/1
+ct
+07/11/2022
+m8 sistema do brazil ltda
+0,00
+920,00
+despesas administrativ
+336/1
+nf
+07/11/2022
+h&j trade importacao e e
+0,00
+1.096,53
+despesa de manutencao
+119/1
+nf
+07/11/2022
+andre becker da cruz 040
+0,00
+3.000,00
+compra de imobilizado
+69/1
+nf
+07/11/2022
+comercio de resíduos de
+0,00
+44.170,60
+compra de materia prim
+4311/1
+nf
+07/11/2022
+expresso sao miguel ltd
+0,00
+71,50
+compra de materia prim
+352083/1
+nf
+07/11/2022
+sao bento redutores ltd
+0,00
+4.750,00
+compra de materia prim
+808/1
+nf
+07/11/2022
+mademile derivados de m
+0,00
+7.200,00
+compra de materia prim
+17353/1
+nf
+07/11/2022
+fabio germano vieira eire
+0,00
+7.504,00
+compra de materia prim
+357/1
+nf
+07/11/2022
+icalvino pereira filho& c
+0,00
+9.063,60
+compra de materia prim
+372/1
+nf
+07/11/2022
+gabriel pscheidt 08617736
+0,00
+8.100,00
+despesas custos indire
+38/1
+nf
+07/11/2022
+comercio de resíduos de
+0,00
+41.608,90
+compra de materia prim
+4312/1
+nf
+07/11/2022
+fabiano gielgen
+0,00
+4.027,50
+compra de materia prim
+6621/1
+nf
+07/11/2022
+mademile derivados de m
+0,00
+3.264,00
+compra de materia prim
+17387/1
+nf
+07/11/2022
+ferragens fuchs ltda
+0,00
+12,00
+despesa de manutencao
+9754/1
+nf
+07/11/2022
+fabiano gielgen
+0,00
+19.954,10
+compra de materia prim
+ft000000000000014/1
+ft
+07/11/2022
+fabio germano vieira eire
+0,00
+17.926,50
+compra de materia prim
+ft000000000000015/1
+ft
+07/11/2022
+fabio gielgen
+0,00
+69.667,30
+compra de materia prim
+ft000000000000016/1
+ft
+07/11/2022
+solida brasil madeiras lt
+0,00
+58.602,00
+compra de materia prim
+ft000000000000017/1
+ft
+07/11/2022
+ministerio da fazenda
+0,00
+2.503,74
+despesas de mao de obr
+10/2022fgts/1
+gu
+07/11/2022
+jdi industria e comercio 
+0,00
+25.196,00
+despesas de mao de obr
+10/2022sa/1
+gu
+07/11/2022
+itau unibanco s.a.
+0,00
+61,10
+despesas financeiras
+taxa0000000160
+ta
+07/11/2022
+tokio marine seguradora
+0,00
+200,85
+despesas de mao de obr
+00786950/02/1
+rc
+07/11/2022
+subtotal
+0,00
+331.690,22
+490.217,92
+saldo acumulado diário
+data
+08/11/2022
+kauan luiz alves
+0,00
+620,50
+despesa de manutencao
+69/1
+nf
+08/11/2022
+/ 5
+afin_movimentocontarp-00085
+karoline
+1
+conta corrente
+período: 01/11/2022 a 30/11/2022
+jdipellets
+05/12/2022 13:28
+pagamento
+recebimento
+cliente/fornecedor
+receita/despesa
+tipo
+data
+documento
+cheque
+banco: 2 - banco itau s/a - 30575-5
+866.913,07
+saldo inicial:
+ind de plasticos marau lt
+0,00
+19.777,90
+compra de materia prim
+48920/1
+nf
+08/11/2022
+vinicius seidel
+0,00
+1.260,00
+despesas custos indire
+4502/1
+nf
+08/11/2022
+avenida auto posto ltda
+0,00
+2.376,50
+compra de uso e consu
+24980/1
+nf
+08/11/2022
+gabriel pscheidt 08617736
+0,00
+434,00
+despesas custos indire
+39/1
+nf
+08/11/2022
+sonia de lima da cruz per
+0,00
+45.000,00
+despesas comerciais
+ft000000000000018/1
+ft
+08/11/2022
+trans-lalo ltda
+0,00
+2.613,00
+compra de materia prim
+ft000000000000019/1
+ft
+08/11/2022
+acessoline telecomunica
+0,00
+185,80
+compra de materia prim
+ft000000000000020/1
+ft
+08/11/2022
+silas jose caus
+4.400,00
+0,00
+venda de produtos
+1594/1
+nf
+08/11/2022
+itau unibanco s.a.
+0,00
+27,71
+despesas financeiras
+taxa0000000161
+ta
+08/11/2022
+alessander ferreira de p
+0,00
+709,51
+despesas de mao de obr
+10/2022pe/1
+fl
+08/11/2022
+subtotal
+4.400,00
+73.004,92
+421.613,00
+saldo acumulado diário
+data
+09/11/2022
+fasmen manutencao indu
+0,00
+570,10
+compra de materia prim
+6441/1
+nf
+09/11/2022
+enel trading brasil s.a
+0,00
+70.003,33
+despesa de energia ele
+47255/1
+nf
+09/11/2022
+itau unibanco s.a.
+0,00
+13,02
+despesas financeiras
+taxa0000000196
+ta
+09/11/2022
+subtotal
+0,00
+70.586,45
+351.026,55
+saldo acumulado diário
+data
+10/11/2022
+victor johny moro nunes
+0,00
+5.170,56
+despesas comerciais
+16/1
+ct
+10/11/2022
+sucesso 2000 ltda me
+0,00
+3.636,00
+compra de materia prim
+7465/1
+nf
+10/11/2022
+4b telecom servicos de c
+0,00
+125,00
+despesas administrativ
+30787/1
+nf
+10/11/2022
+mathias empilhadeiras lt
+0,00
+3.100,00
+despesas custos indire
+4227/1
+rc
+10/11/2022
+comerc participacoes s.
+0,00
+1.919,68
+despesas custos indire
+4084/1
+nf
+10/11/2022
+idimex do brasil industri
+0,00
+14.726,06
+compra de materia prim
+ft000000000000055/1
+ft
+10/11/2022
+trans-lalo ltda
+0,00
+3.199,50
+compra de materia prim
+ft000000000000056/1
+ft
+10/11/2022
+itau unibanco s.a.
+0,00
+89,99
+despesas financeiras
+taxa0000000197
+ta
+10/11/2022
+ldg forest group a/s
+2.421.447,59
+0,00
+adiantamento de client
+adto000019
+ad
+10/11/2022
+alpin pellet sas
+417.362,89
+0,00
+adiantamento de client
+adto000021
+ad
+10/11/2022
+kemexon limited
+270.095,00
+0,00
+adiantamento de client
+adto000020
+ad
+10/11/2022
+subtotal
+3.108.905,48
+31.966,79
+3.427.965,24
+saldo acumulado diário
+data
+11/11/2022
+itapoa terminais portuar
+0,00
+456,00
+despesas custos indire
+606317/1
+nf
+11/11/2022
+incobio industria e come
+15.141,15
+0,00
+venda de produtos
+1252/1
+nf
+11/11/2022
+agencia nacional transp
+0,00
+108,38
+despesas custos indire
+taxa0000000041
+rc
+11/11/2022
+subtotal
+15.141,15
+564,38
+3.442.542,01
+saldo acumulado diário
+data
+14/11/2022
+trans-lalo ltda
+0,00
+1.162,50
+compra de materia prim
+4603/1
+nf
+14/11/2022
+estik filmes tecnicos ltd
+0,00
+4.911,34
+compra de materia prim
+2397/1
+nf
+14/11/2022
+moinho catarinense s/a
+0,00
+26.000,00
+compra de materia prim
+689092/1
+nf
+14/11/2022
+mademile derivados de m
+0,00
+4.356,00
+compra de materia prim
+17360/1
+nf
+14/11/2022
+cleudenice andiara mart
+0,00
+402,00
+compra de uso e consu
+1016/1
+nf
+14/11/2022
+icalvino pereira filho& c
+0,00
+29.086,80
+compra de materia prim
+ft000000000000085/1
+ft
+14/11/2022
+sonia de lima da cruz per
+0,00
+58.344,00
+despesas comerciais
+ft000000000000086/1
+ft
+14/11/2022
+crane worldwide logist
+0,00
+7.122,66
+despesas comerciais
+isesao221100448/1
+ft
+14/11/2022
+itau unibanco s.a.
+0,00
+21,20
+despesas financeiras
+taxa0000000198
+ta
+14/11/2022
+subtotal
+0,00
+131.406,50
+3.311.135,51
+saldo acumulado diário
+data
+16/11/2022
+sesi - serviço social da in
+0,00
+207,07
+despesas custos indire
+2675/1
+nf
+16/11/2022
+/ 5
+afin_movimentocontarp-00085
+karoline
+2
+conta corrente
+período: 01/11/2022 a 30/11/2022
+jdipellets
+05/12/2022 13:28
+pagamento
+recebimento
+cliente/fornecedor
+receita/despesa
+tipo
+data
+documento
+cheque
+banco: 2 - banco itau s/a - 30575-5
+866.913,07
+saldo inicial:
+ind de plasticos marau lt
+0,00
+19.777,90
+compra de materia prim
+48920/2
+nf
+16/11/2022
+fasmen manutencao indu
+0,00
+450,00
+compra de materia prim
+6425/1
+nf
+16/11/2022
+fernandes & sarot come
+0,00
+454,15
+despesa de manutencao
+7365/1
+nf
+16/11/2022
+avenida auto posto ltda
+0,00
+2.376,50
+despesa de manutencao
+25052/1
+nf
+16/11/2022
+tim s/a
+0,00
+125,06
+despesas administrativ
+4823874723/1
+ft
+16/11/2022
+yuri n petry solucoes em
+0,00
+55,00
+despesa de manutencao
+1416/1
+nf
+16/11/2022
+comerc comercializador
+5.166,57
+0,00
+outras receitas/pesag
+1605/1
+nf
+16/11/2022
+mademile derivados de m
+0,00
+3.942,00
+compra de materia prim
+17472/1
+nf
+16/11/2022
+trans-lalo ltda
+0,00
+4.138,50
+compra de materia prim
+ft000000000000120/1
+ft
+16/11/2022
+icalvino pereira filho& c
+0,00
+9.513,00
+compra de materia prim
+ft000000000000121/1
+ft
+16/11/2022
+itau unibanco s.a.
+0,00
+30,13
+despesas financeiras
+taxa0000000199
+ta
+16/11/2022
+subtotal
+5.166,57
+41.069,31
+3.275.232,77
+saldo acumulado diário
+data
+17/11/2022
+avenida auto posto ltda
+0,00
+228,42
+despesa de manutencao
+25063/1
+nf
+17/11/2022
+h&j trade importacao e e
+0,00
+1.089,67
+despesas custos indire
+120/1
+nf
+17/11/2022
+vinicius seidel
+0,00
+2.520,00
+despesas custos indire
+4509/1
+nf
+17/11/2022
+trans-lalo ltda
+0,00
+2.197,50
+compra de materia prim
+ft000000000000128/1
+ft
+17/11/2022
+subtotal
+0,00
+6.035,59
+3.269.197,18
+saldo acumulado diário
+data
+18/11/2022
+mig atacado e varejo ltd
+0,00
+569,65
+compra de materia prim
+32157/1
+nf
+18/11/2022
+restaurante pies ltda
+0,00
+832,40
+despesas administrativ
+504/1
+nf
+18/11/2022
+ministerio da fazenda
+0,00
+236,86
+despesas de mao de obr
+10/2022irrf/1
+gu
+18/11/2022
+ministerio da fazenda
+0,00
+1.341,75
+despesas de mao de obr
+10/2022/irrf/nf/1
+gu
+18/11/2022
+cleudenice andiara mart
+0,00
+402,00
+despesa de manutencao
+1020/1
+nf
+18/11/2022
+ministerio da previdencia
+0,00
+13.882,75
+despesas de mao de obr
+ft000000000000138/1
+ft
+18/11/2022
+ministerio da fazenda (cs
+0,00
+117,62
+compra de materia prim
+ft000000000000139/1
+ft
+18/11/2022
+ministerio da fazenda (ir
+0,00
+122,47
+compra de materia prim
+ft000000000000140/1
+ft
+18/11/2022
+daniel pscheidt
+0,00
+437.369,25
+distribuicao de lucros
+lucros/18112022/1
+fl
+18/11/2022
+itau unibanco s.a.
+0,00
+21,20
+despesas financeiras
+taxa0000000200
+ta
+18/11/2022
+tr
+3.100,00
+0,00
+transferência para banco bradesco s.a c/c 140327-3
+18/11/2022
+8
+subtotal
+0,00
+457.995,95
+2.811.201,23
+saldo acumulado diário
+data
+21/11/2022
+iss a recolher - prefeitu
+0,00
+4,15
+compra de materia prim
+1358/1
+nf
+21/11/2022
+ildemar jose ruthes
+0,00
+2.345,89
+despesas de mao de obr
+13/2022-adt/1
+fl
+21/11/2022
+mailon de freitas dornel
+0,00
+1.140,47
+despesas de mao de obr
+13/2022-adt/1
+fl
+21/11/2022
+thomas zimkowicz
+0,00
+1.429,44
+despesas de mao de obr
+13/2022-adt/1
+fl
+21/11/2022
+estela karin sebode
+0,00
+947,67
+despesas de mao de obr
+13/2022-adt/1
+fl
+21/11/2022
+allon jose garcia
+0,00
+1.242,69
+despesas de mao de obr
+13/2022-adt/1
+fl
+21/11/2022
+luis eduardo meyer
+0,00
+832,68
+despesas de mao de obr
+13/2022-adt/1
+fl
+21/11/2022
+jaqueline de oliveira cor
+0,00
+70,84
+despesas de mao de obr
+13/2022-adt/1
+fl
+21/11/2022
+mademile derivados de m
+0,00
+4.536,00
+compra de materia prim
+17537/1
+nf
+21/11/2022
+somaquinas comercio de
+0,00
+5.112,41
+compra de materia prim
+ft000000000000155/1
+ft
+21/11/2022
+solida brasil madeiras lt
+0,00
+92.600,00
+compra de materia prim
+ft000000000000156/1
+ft
+21/11/2022
+fabio gielgen
+0,00
+72.791,00
+compra de materia prim
+ft000000000000157/1
+ft
+21/11/2022
+fabiano gielgen
+0,00
+20.680,00
+compra de materia prim
+ft000000000000158/1
+ft
+21/11/2022
+fabio germano vieira eire
+0,00
+24.728,00
+compra de materia prim
+ft000000000000159/1
+ft
+21/11/2022
+icalvino pereira filho& c
+0,00
+57.579,60
+compra de materia prim
+ft000000000000160/1
+ft
+21/11/2022
+gabriel pscheidt 08617736
+0,00
+2.326,16
+despesas administrativ
+40/1
+nf
+21/11/2022
+trans-lalo ltda
+0,00
+3.200,25
+compra de materia prim
+ft000000000000161/1
+ft
+21/11/2022
+/ 5
+afin_movimentocontarp-00085
+karoline
+3
+conta corrente
+período: 01/11/2022 a 30/11/2022
+jdipellets
+05/12/2022 13:28
+pagamento
+recebimento
+cliente/fornecedor
+receita/despesa
+tipo
+data
+documento
+cheque
+banco: 2 - banco itau s/a - 30575-5
+866.913,07
+saldo inicial:
+vinicius seidel
+0,00
+1.890,00
+despesas custos indire
+4514/1
+nf
+21/11/2022
+itau unibanco s.a.
+0,00
+53,00
+despesas financeiras
+taxa0000000201
+ta
+21/11/2022
+delsoft sistemas ltda
+0,00
+722,94
+despesas administrativ
+31756/1
+nf
+21/11/2022
+alelo s.a.
+0,00
+1.113,53
+adiantamento de forne
+adto000030
+ad
+21/11/2022
+vinicius seidel
+0,00
+630,00
+adiantamento de forne
+adto000022
+ad
+21/11/2022
+subtotal
+0,00
+295.976,72
+2.515.224,51
+saldo acumulado diário
+data
+22/11/2022
+isoelectric brasil ltda
+712,00
+0,00
+venda de produtos
+1553/1
+nf
+22/11/2022
+ind de plasticos marau lt
+0,00
+19.777,90
+compra de materia prim
+48920/3
+nf
+22/11/2022
+zaffa máquinas e ferram
+0,00
+1.302,00
+despesa de manutencao
+21219/1
+nf
+22/11/2022
+trans-lalo ltda
+0,00
+1.104,00
+compra de materia prim
+4651/1
+ct
+22/11/2022
+incobio industria e come
+0,00
+546.711,56
+distribuicao de lucros
+lucros/18112022/1
+fl
+22/11/2022
+jair simon
+0,00
+109.342,31
+distribuicao de lucros
+lucros/18112022/1
+fl
+22/11/2022
+mailon de freitas dornel
+0,00
+2.778,34
+despesas de mao de obr
+11/2022fe/1
+fl
+22/11/2022
+itau unibanco s.a.
+0,00
+15,66
+despesas financeiras
+taxa0000000202
+ta
+22/11/2022
+subtotal
+712,00
+681.031,77
+1.834.904,74
+saldo acumulado diário
+data
+23/11/2022
+sonia de lima da cruz per
+0,00
+36.900,00
+despesas comerciais
+ft000000000000184/1
+ft
+23/11/2022
+trans-lalo ltda
+0,00
+2.041,50
+compra de materia prim
+ft000000000000185/1
+ft
+23/11/2022
+itau unibanco s.a.
+0,00
+6,51
+despesas financeiras
+taxa0000000203
+ta
+23/11/2022
+ldg forest group a/s
+594.877,53
+0,00
+adiantamento de client
+adto000025
+ad
+23/11/2022
+kemexon limited
+974.435,00
+0,00
+adiantamento de client
+adto000023
+ad
+23/11/2022
+alpin pellet sas
+426,30
+0,00
+adiantamento de client
+adto000024
+ad
+23/11/2022
+subtotal
+1.569.738,83
+38.948,01
+3.365.695,56
+saldo acumulado diário
+data
+24/11/2022
+sonia de lima da cruz per
+0,00
+25.800,00
+despesas comerciais
+ft000000000000186/1
+ft
+24/11/2022
+avenida auto posto ltda
+0,00
+2.688,61
+despesa de manutencao
+ft000000000000187/1
+ft
+24/11/2022
+jdi industria e comercio 
+0,00
+2.000.000,00
+aplicacao financeira
+taxa0000000210
+ap
+24/11/2022
+subtotal
+0,00
+2.028.488,61
+1.337.206,95
+saldo acumulado diário
+data
+25/11/2022
+reiturbo comercio de au
+0,00
+441,99
+compra de materia prim
+22893/1
+nf
+25/11/2022
+fiz transportes ltda
+0,00
+162,52
+despesas custos indire
+2315/1
+nf
+25/11/2022
+avenida auto posto ltda
+0,00
+246,73
+despesa de manutencao
+25124/1
+nf
+25/11/2022
+face norte empreendime
+0,00
+13.919,36
+despesas custos indire
+56039/2
+rc
+25/11/2022
+ministerio da fazenda
+0,00
+4.080,64
+despesas tributarias
+56039-irrf/1
+gi
+25/11/2022
+idimex do brasil industri
+0,00
+18.133,27
+compra de materia prim
+ft000000000000203/1
+ft
+25/11/2022
+itau unibanco s.a.
+0,00
+21,20
+despesas financeiras
+taxa0000000204
+ta
+25/11/2022
+kemexon limited
+702.462,50
+0,00
+adiantamento de client
+adto000027
+ad
+25/11/2022
+alpin pellet sas
+144.873,62
+0,00
+adiantamento de client
+adto000026
+ad
+25/11/2022
+subtotal
+847.336,12
+37.005,71
+2.147.537,36
+saldo acumulado diário
+data
+28/11/2022
+mx confeccoes ltda me
+0,00
+1.360,00
+compra de materia prim
+2074/1
+nf
+28/11/2022
+estik filmes tecnicos ltd
+0,00
+4.911,34
+compra de materia prim
+2397/2
+nf
+28/11/2022
+eletrobox comercio de m
+0,00
+574,88
+compra de materia prim
+209704/1
+nf
+28/11/2022
+cofepar cornelio ferrag
+0,00
+387,80
+compra de uso e consu
+16599/1
+nf
+28/11/2022
+cotramol coop transp d
+0,00
+13.200,00
+compra de materia prim
+ft000000000000137/1
+ft
+28/11/2022
+trans-lalo ltda
+0,00
+1.349,25
+compra de materia prim
+4657/1
+ct
+28/11/2022
+/ 5
+afin_movimentocontarp-00085
+karoline
+4
+conta corrente
+período: 01/11/2022 a 30/11/2022
+jdipellets
+05/12/2022 13:28
+pagamento
+recebimento
+cliente/fornecedor
+receita/despesa
+tipo
+data
+documento
+cheque
+banco: 2 - banco itau s/a - 30575-5
+866.913,07
+saldo inicial:
+sonia de lima da cruz per
+0,00
+5.550,00
+despesas comerciais
+188/1
+ct
+28/11/2022
+icalvino pereira filho& c
+0,00
+38.900,40
+compra de materia prim
+ft000000000000221/1
+ft
+28/11/2022
+mademile derivados de m
+0,00
+8.664,00
+compra de materia prim
+ft000000000000222/1
+ft
+28/11/2022
+icalvino pereira filho& c
+0,00
+1.814,40
+despesas comerciais
+41209/1
+ct
+28/11/2022
+sonia de lima da cruz per
+0,00
+5.550,00
+despesas comerciais
+189/1
+ct
+28/11/2022
+sonia de lima da cruz per
+0,00
+4.800,00
+despesas comerciais
+190/1
+ct
+28/11/2022
+sonia de lima da cruz per
+0,00
+4.800,00
+despesas comerciais
+191/1
+ct
+28/11/2022
+icalvino pereira filho& c
+0,00
+1.603,20
+despesas comerciais
+41210/1
+ct
+28/11/2022
+icalvino pereira filho& c
+0,00
+5.550,00
+despesas comerciais
+2889/1
+ct
+28/11/2022
+icalvino pereira filho& c
+0,00
+5.550,00
+despesas comerciais
+2890/1
+ct
+28/11/2022
+icalvino pereira filho& c
+0,00
+5.550,00
+despesas comerciais
+2894/1
+ct
+28/11/2022
+icalvino pereira filho& c
+0,00
+5.550,00
+despesas comerciais
+2895/1
+ct
+28/11/2022
+itau unibanco s.a.
+0,00
+10,60
+despesas financeiras
+taxa0000000205
+ta
+28/11/2022
+icalvino pereira filho& c
+0,00
+1.862,40
+adiantamento de forne
+adto000031
+ad
+28/11/2022
+alelo s.a.
+0,00
+202,46
+adiantamento de forne
+adto000028
+ad
+28/11/2022
+subtotal
+0,00
+117.740,73
+2.029.796,63
+saldo acumulado diário
+data
+29/11/2022
+avenida auto posto ltda
+0,00
+2.376,50
+despesa de manutencao
+25158/1
+nf
+29/11/2022
+gislaine de lourdes lino 
+0,00
+15.330,00
+despesa de manutencao
+26/1
+nf
+29/11/2022
+cleudenice andiara mart
+0,00
+402,00
+despesa de manutencao
+1023/1
+nf
+29/11/2022
+sindicato dos despachan
+0,00
+2.794,00
+despesa de manutencao
+ft000000000000226/1
+ft
+29/11/2022
+itau unibanco s.a.
+0,00
+31,80
+despesas financeiras
+taxa0000000206
+ta
+29/11/2022
+subtotal
+0,00
+20.934,30
+2.008.862,33
+saldo acumulado diário
+data
+30/11/2022
+sao bento redutores ltd
+0,00
+4.750,00
+compra de materia prim
+808/2
+nf
+30/11/2022
+camara com energia elet
+0,00
+81,22
+despesa de energia ele
+995963214/1
+rc
+30/11/2022
+adler-seguranca e vigila
+0,00
+85,79
+despesas administrativ
+1428/1
+nf
+30/11/2022
+avenida auto posto ltda
+0,00
+142,14
+despesa de manutencao
+25191/1
+nf
+30/11/2022
+construrio comercio de
+0,00
+506,80
+despesa de manutencao
+230217/1
+nf
+30/11/2022
+gabriel pscheidt
+0,00
+898,56
+despesas comerciais, d
+ft000000000000255/1
+ft
+30/11/2022
+daniel pscheidt
+0,00
+430,07
+despesa de manutencao
+ft000000000000266/1
+ft
+30/11/2022
+subtotal
+0,00
+6.894,58
+2.001.967,75
+saldo acumulado diário
+total geral
+4.416.345,47
+5.551.400,15
+2.001.967,75
+saldo final:
+866.913,07
+saldo anterior:
+recebimentos no período:
+5.551.400,15
+pagamentos no período:
+saldo final:
+4.416.345,47
+2.001.967,75
+saldo livre + limite:
+2.001.967,75
+limite:
+0,00
+/ 5
+afin_movimentocontarp-00085
+karoline
+5

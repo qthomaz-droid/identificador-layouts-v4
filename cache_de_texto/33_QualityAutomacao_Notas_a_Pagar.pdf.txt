@@ -1,0 +1,1080 @@
+12/05/2020 17:23:51
+notas a pagar
+tipo de data: movimento
+data inicial: 01/01/2020
+data final: 31/01/2020
+despesas do caixa: 
+relatório analítico
+dados da unidade
+agrupar: fornecedor
+ordenação: fornecedor
+autorização: autorizados,não autorizados
+posto o baratao
+20.329.254/0001-65
+filial:
+posto o baratao
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+ambev
+plano de contas
+centro de custo
+fornecedor
+02/01/2020
+02/01/2020
+02/01/2020
+3002
+conveniencia
+r$0,00
+r$0,00
+r$0,00
+r$1.640,00
+r$1.640,00
+r$1.640,00
+r$0,00
+nfe: 30026006 - parcela 1 de 1
+pit stop - skol
+subtotal
+r$0,00
+r$1.640,00
+r$1.640,00
+r$1.640,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+atlantica
+plano de contas
+centro de custo
+fornecedor
+07/01/2020
+11/01/2020
+13/01/2020
+1000342807
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.891,67
+r$6.891,67
+r$6.891,67
+r$0,00
+ref nf:000342807 - atlantica
+pista
+07/01/2020
+11/01/2020
+13/01/2020
+1000342807
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.908,34
+r$6.908,34
+r$6.908,34
+r$0,00
+ref nf:000342807 - atlantica
+pista
+07/01/2020
+11/01/2020
+13/01/2020
+1000342807
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.891,67
+r$6.891,67
+r$6.891,67
+r$0,00
+ref nf:000342807 - atlantica
+pista
+07/01/2020
+11/01/2020
+13/01/2020
+1000342807
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.891,66
+r$6.891,66
+r$6.891,66
+r$0,00
+ref nf:000342807 - atlantica
+pista
+07/01/2020
+11/01/2020
+13/01/2020
+1000342807
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.908,33
+r$6.908,33
+r$6.908,33
+r$0,00
+ref nf:000342807 - atlantica
+pista
+07/01/2020
+11/01/2020
+13/01/2020
+1000342807
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.908,33
+r$6.908,33
+r$6.908,33
+r$0,00
+ref nf:000342807 - atlantica
+pista
+13/01/2020
+17/01/2020
+20/01/2020
+1000343485
+combustivel
+r$26,87
+r$0,00
+r$0,00
+r$6.918,54
+r$6.891,67
+r$6.918,54
+r$0,00
+ref nf:000343485 - atlantica
+pista
+13/01/2020
+17/01/2020
+17/01/2020
+1000343485
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.891,66
+r$6.891,66
+r$6.891,66
+r$0,00
+ref nf:000343485 - atlantica
+pista
+13/01/2020
+17/01/2020
+20/01/2020
+1000343485
+combustivel
+r$26,94
+r$0,00
+r$0,00
+r$6.935,27
+r$6.908,33
+r$6.935,27
+r$0,00
+ref nf:000343485 - atlantica
+pista
+13/01/2020
+17/01/2020
+20/01/2020
+1000343485
+combustivel
+r$26,87
+r$0,00
+r$0,00
+r$6.918,54
+r$6.891,67
+r$6.918,54
+r$0,00
+ref nf:000343485 - atlantica
+pista
+13/01/2020
+17/01/2020
+20/01/2020
+1000343485
+combustivel
+r$26,94
+r$0,00
+r$0,00
+r$6.935,27
+r$6.908,33
+r$6.935,27
+r$0,00
+ref nf:000343485 - atlantica
+pista
+13/01/2020
+17/01/2020
+20/01/2020
+1000343485
+combustivel
+r$26,94
+r$0,00
+r$0,00
+r$6.935,28
+r$6.908,34
+r$6.935,28
+r$0,00
+ref nf:000343485 - atlantica
+pista
+20/01/2020
+24/01/2020
+27/01/2020
+1000344387
+combustivel
+r$26,58
+r$0,00
+r$0,00
+r$6.843,41
+r$6.816,83
+r$6.843,41
+r$0,00
+ref nf:000344387 - atlantica
+pista
+20/01/2020
+24/01/2020
+27/01/2020
+1000344388
+combustivel
+r$26,65
+r$0,00
+r$0,00
+r$6.860,15
+r$6.833,50
+r$6.860,15
+r$0,00
+ref nf:000344388 - atlantica
+pista
+20/01/2020
+24/01/2020
+27/01/2020
+1000344388
+combustivel
+r$26,65
+r$0,00
+r$0,00
+r$6.860,15
+r$6.833,50
+r$6.860,15
+r$0,00
+ref nf:000344388 - atlantica
+pista
+20/01/2020
+24/01/2020
+27/01/2020
+1000344388
+combustivel
+r$26,65
+r$0,00
+r$0,00
+r$6.860,15
+r$6.833,50
+r$6.860,15
+r$0,00
+ref nf:000344388 - atlantica
+pista
+20/01/2020
+24/01/2020
+27/01/2020
+1000344389
+combustivel
+r$21,63
+r$0,00
+r$0,00
+r$5.568,30
+r$5.546,67
+r$5.568,30
+r$0,00
+ref nf:000344389 - atlantica
+pista
+20/01/2020
+24/01/2020
+27/01/2020
+1000344389
+combustivel
+r$21,63
+r$0,00
+r$0,00
+r$5.568,29
+r$5.546,66
+r$5.568,29
+r$0,00
+ref nf:000344389 - atlantica
+pista
+20/01/2020
+24/01/2020
+24/01/2020
+1000344389
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$5.546,67
+r$5.546,67
+r$5.546,67
+r$0,00
+ref nf:000344389 - atlantica
+pista
+20/01/2020
+24/01/2020
+27/01/2020
+1000344387
+combustivel
+r$26,59
+r$0,00
+r$0,00
+r$6.843,43
+r$6.816,84
+r$6.843,43
+r$0,00
+ref nf:000344387 - atlantica
+pista
+20/01/2020
+24/01/2020
+27/01/2020
+1000344387
+combustivel
+r$26,59
+r$0,00
+r$0,00
+r$6.843,42
+r$6.816,83
+r$6.843,42
+r$0,00
+ref nf:000344387 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345012
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$2.729,06
+r$2.729,06
+r$2.729,06
+r$0,00
+ref nf:000345012 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345012
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$2.729,07
+r$2.729,07
+r$2.729,07
+r$0,00
+ref nf:000345012 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345011
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.806,00
+r$6.806,00
+r$6.806,00
+r$0,00
+ref nf:000345011 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345011
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.806,00
+r$6.806,00
+r$6.806,00
+r$0,00
+ref nf:000345011 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345011
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$6.806,00
+r$6.806,00
+r$6.806,00
+r$0,00
+ref nf:000345011 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345011
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$4.093,60
+r$4.093,60
+r$4.093,60
+r$0,00
+ref nf:000345011 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345012
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$2.729,07
+r$2.729,07
+r$2.729,07
+r$0,00
+ref nf:000345012 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345011
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$4.093,60
+r$4.093,60
+r$4.093,60
+r$0,00
+ref nf:000345011 - atlantica
+pista
+28/01/2020
+01/02/2020
+03/02/2020
+1000345011
+combustivel
+r$0,00
+r$0,00
+r$0,00
+r$4.093,60
+r$4.093,60
+r$4.093,60
+r$0,00
+ref nf:000345011 - atlantica
+pista
+1 de 3
+página
+usuário: 
+quality automação
+lucilene
+filial:
+posto o baratao
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+atlantica
+plano de contas
+centro de custo
+fornecedor
+subtotal
+r$0,00
+r$181.614,53
+r$181.277,00
+r$181.614,53
+r$0,00
+r$0,00
+r$337,53
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+bb papelaria
+plano de contas
+centro de custo
+fornecedor
+03/01/2020
+15/01/2020 404
+materiais diverso
+r$0,00
+r$0,00
+r$0,00
+r$0,00
+r$70,00
+r$0,00
+r$70,00
+ref nfs:404 - bb papelaria
+escritorio
+subtotal
+r$70,00
+r$0,00
+r$70,00
+r$0,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+central de compras cricare  loja 06
+plano de contas
+centro de custo
+fornecedor
+04/01/2020
+03/01/2020
+04/01/2020
+5579/001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$2.388,00
+r$2.388,00
+r$2.388,00
+r$0,00
+ref nf:000005579 - central de c
+pit stop - skol
+31/01/2020
+31/01/2020
+31/01/2020
+5974/001
+produtos
+r$0,00
+r$0,00
+r$0,00
+r$2.388,00
+r$2.388,00
+r$2.388,00
+r$0,00
+ref nf:000005974 - central de c
+pit stop - skol
+subtotal
+r$0,00
+r$4.776,00
+r$4.776,00
+r$4.776,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+despesas do caixa
+plano de contas
+centro de custo
+fornecedor
+03/01/2020
+03/01/2020
+03/01/2020
+materiais diverso
+r$0,00
+r$0,00
+r$0,00
+r$32,00
+r$0,00
+r$32,00
+r$0,00
+compra de toalha de papel
+pista
+14/01/2020
+14/01/2020
+14/01/2020
+materiais diverso
+r$0,00
+r$0,00
+r$0,00
+r$70,00
+r$0,00
+r$70,00
+r$0,00
+retirado por marcos pagar boleto
+pista
+18/01/2020
+18/01/2020
+18/01/2020
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$1.100,00
+r$0,00
+r$1.100,00
+r$0,00
+pago marcos funcionario
+pista
+21/01/2020
+21/01/2020
+21/01/2020
+materiais diverso
+r$0,00
+r$0,00
+r$0,00
+r$255,00
+r$0,00
+r$255,00
+r$0,00
+pago ludimila troca de filtos de agu
+pista
+24/01/2020
+24/01/2020
+24/01/2020
+materiais diverso
+r$0,00
+r$0,00
+r$0,00
+r$11,00
+r$0,00
+r$11,00
+r$0,00
+pago almoço marcos ida na alcon
+pista
+subtotal
+r$0,00
+r$1.468,00
+r$0,00
+r$1.468,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+fornecedores diversos
+plano de contas
+centro de custo
+fornecedor
+01/01/2020
+31/01/2020
+31/01/2020
+0102
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$107,60
+r$107,60
+r$107,60
+r$0,00
+compra de materiais posto
+escritorio
+01/01/2020
+31/01/2020
+31/01/2020
+0101
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$111,00
+r$111,00
+r$111,00
+r$0,00
+compra de botas para funcio
+pista
+01/01/2020
+31/01/2020
+31/01/2020
+0507
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$754,00
+r$754,00
+r$754,00
+r$0,00
+consertos equipamento do p
+pista
+01/01/2020
+31/01/2020
+31/01/2020
+0090
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$139,00
+r$139,00
+r$139,00
+r$0,00
+almoços dos domingos funci
+pista
+01/01/2020
+31/01/2020
+31/01/2020
+0605
+prolabore
+r$0,00
+r$0,00
+r$0,00
+r$6.665,00
+r$6.665,00
+r$6.665,00
+r$0,00
+prolabore vinicius
+pista
+05/01/2020
+05/01/2020
+05/01/2020
+0101
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$9.081,78
+r$9.081,78
+r$9.081,78
+r$0,00
+salario funcionarios refere
+escritorio
+05/01/2020
+05/01/2020
+05/01/2020
+0102
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$2.178,70
+r$2.178,70
+r$2.178,70
+r$0,00
+ticket de alimentaçao funcio
+escritorio
+subtotal
+r$0,00
+r$19.037,08
+r$19.037,08
+r$19.037,08
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+grafica pinheiros ltda me-grafica pinheiro
+plano de contas
+centro de custo
+fornecedor
+15/01/2020
+15/01/2020
+15/01/2020
+0102
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$230,00
+r$230,00
+r$230,00
+r$0,00
+blocos de notas
+pista
+subtotal
+r$0,00
+r$230,00
+r$230,00
+r$230,00
+r$0,00
+r$0,00
+r$0,00
+2 de 3
+página
+usuário: 
+quality automação
+lucilene
+filial:
+posto o baratao
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+guardiao
+plano de contas
+centro de custo
+fornecedor
+29/01/2020
+05/02/2019 568
+materiais diverso
+r$0,00
+r$0,00
+r$0,00
+r$0,00
+r$120,00
+r$0,00
+r$120,00
+ref nfs:568 - guardiao
+escritorio
+subtotal
+r$120,00
+r$0,00
+r$120,00
+r$0,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+network comercio e servicos de informatica
+plano de contas
+centro de custo
+fornecedor
+21/01/2020
+21/01/2020
+21/01/2020
+0101
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$370,00
+r$370,00
+r$370,00
+r$0,00
+conserto computador escrit
+escritorio
+subtotal
+r$0,00
+r$370,00
+r$370,00
+r$370,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+sao rafael dist. de bebidas - linhares
+plano de contas
+centro de custo
+fornecedor
+08/01/2020
+09/01/2020
+09/01/2020
+318329/001
+conveniencia
+r$0,00
+r$0,00
+r$0,00
+r$4.953,60
+r$4.953,60
+r$4.953,60
+r$0,00
+ref nf:000318329 - sao rafael d
+pit stop - skol
+22/01/2020
+23/01/2020
+23/01/2020
+326343/001
+conveniencia
+r$0,00
+r$0,00
+r$0,00
+r$15.616,24
+r$15.616,24
+r$15.616,24
+r$0,00
+ref nf:000326343 - sao rafael d
+pit stop - skol
+subtotal
+r$0,00
+r$20.569,84
+r$20.569,84
+r$20.569,84
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+simonet provider
+plano de contas
+centro de custo
+fornecedor
+22/01/2020
+05/02/2020
+28/02/2020
+27808
+administrativo
+r$0,00
+r$0,00
+r$0,00
+r$120,00
+r$120,00
+r$120,00
+r$0,00
+ref nfs:27808 - simonet provid
+escritorio
+subtotal
+r$0,00
+r$120,00
+r$120,00
+r$120,00
+r$0,00
+r$0,00
+r$0,00
+dt. mov.
+dt. pag.
+dt. venc.
+descrição
+acréscimo
+cheque
+dinheiro
+desconto
+título
+número
+pago
+saldo
+vitor ramalho da silva
+plano de contas
+centro de custo
+fornecedor
+10/01/2020
+10/01/2020
+10/01/2020
+0101
+financeiras
+r$0,00
+r$0,00
+r$0,00
+r$350,00
+r$350,00
+r$350,00
+r$0,00
+publicidade do posto e pit st
+escritorio
+subtotal
+r$0,00
+r$350,00
+r$350,00
+r$350,00
+r$0,00
+r$0,00
+r$0,00
+total
+r$190,00
+r$230.175,45
+r$228.559,92
+r$230.175,45
+r$0,00
+r$0,00
+r$337,53
+3 de 3
+página
+usuário: 
+quality automação
+lucilene
+ bsfatão

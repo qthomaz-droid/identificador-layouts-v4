@@ -1,0 +1,963 @@
+contas a pagar/receber - modelo 2
+usuário....: kelly roberta
+impressão: 02/07/2024
+período....: 01/06/2024 a 30/06/2024
+página.......: 1 de 6
+empresa....: clinica endogastro
+cr?dito
+código
+nº doc.
+sacado
+conta
+dt. lanç.
+dt. venc.
+valor
+situação
+observações
+banco
+fornecedor
+23043 
+000986
+.
+convênios
+04/06/2024
+04/06/2024
+banco do 
+brasil
+r$4.721,53
+quitada
+sul america
+23044 
+000986
+.
+convênios
+18/06/2024
+04/06/2024
+banco do 
+brasil
+r$349,57
+quitada
+sul america
+23051 
+.
+aluguel de sala
+05/06/2024
+05/06/2024
+banco do 
+brasil
+r$1.531,64
+quitada
+solim
+23053 
+000817
+.
+convênios
+05/06/2024
+05/06/2024
+banco do 
+brasil
+r$8.548,60
+quitada
+pis 59,21
+cofins 273,26
+ir 136,63
+csll 91,09
+iss 455,44
+cassi
+23055 
+.
+aluguel de sala
+18/06/2024
+05/06/2024
+banco do 
+brasil
+r$868,72
+quitada
+lucia reis franco
+23061 
+000844
+...
+convênios
+18/06/2024
+07/06/2024
+banco do 
+brasil
+r$656,95
+quitada
+pis 4,55
+cofins 21,00
+ir 10,50
+csll 7,00
+iss 35,00
+hapvida 
+assistencia 
+medica ltda
+23062 
+843
+.
+convênios
+18/06/2024
+10/06/2024
+banco do 
+brasil
+r$1.642,37
+quitada
+pis 11,38
+cofins 52,50
+ir 26,25
+csll 17,50
+iss 87,50
+hapvida 
+assistencia 
+medica ltda
+23120 
+000854
+.
+convênios
+20/06/2024
+11/06/2024
+banco do 
+brasil
+r$9.454,38
+quitada
+pis 65,48
+cofins 302,22
+ir 151,11
+csll 100,74
+iss 503,70
+geap 
+autogestao em 
+saude
+23121 
+000986
+...
+convênios
+20/06/2024
+11/06/2024
+banco do 
+brasil
+r$1.818,82
+quitada
+falta nf
+sul america
+23122 
+000986
+.
+convênios
+20/06/2024
+11/06/2024
+banco do 
+brasil
+r$114,00
+quitada
+falta nf
+sul america
+23126 
+.
+aluguel de sala
+20/06/2024
+11/06/2024
+banco do 
+brasil
+r$312,27
+quitada
+sandra maria 
+alves luduvice
+23127 
+.
+aluguel de sala
+20/06/2024
+11/06/2024
+banco do 
+brasil
+r$1.022,38
+quitada
+marco aurelio 
+prado nunes
+23133 
+000701
+.
+convênios
+20/06/2024
+12/06/2024
+banco do 
+brasil
+r$143,00
+quitada
+casembrapa-ca
+ixa de assis 
+dos emp. da 
+emp. brasile
+tdsa realclinic
+pág.: 1
+ fa) endogastro
+
+nova dimensão em saúde
+contas a pagar/receber - modelo 2
+usuário....: kelly roberta
+impressão: 02/07/2024
+período....: 01/06/2024 a 30/06/2024
+página.......: 2 de 6
+empresa....: clinica endogastro
+cr?dito
+código
+nº doc.
+sacado
+conta
+dt. lanç.
+dt. venc.
+valor
+situação
+observações
+banco
+fornecedor
+23134 
+000855
+.
+convênios
+20/06/2024
+12/06/2024
+banco do 
+brasil
+r$1.818,36
+quitada
+pis 12,59
+cofins 58,13
+ir 29,06
+csll 19,38
+iss 96,88
+cassi
+23138 
+000431
+.
+convênios
+20/06/2024
+14/06/2024
+banco do 
+brasil
+r$2.519,91
+quitada
+pis 18,43
+cofins 85,08
+ir 42,54
+csll 28,36
+iss 141,81
+plamed
+23139 
+000578
+.
+convênios
+20/06/2024
+14/06/2024
+banco do 
+brasil
+r$2.667,67
+quitada
+pis 19,52
+cofins 90,07
+ir 45,04
+csll 30,02
+iss 150,12
+plamed
+23140 
+000818
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$107,55
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23141 
+000819
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$946,58
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23142 
+000820
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$717,44
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23143 
+000821
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$1.793,61
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23144 
+000822
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$199,85
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23145 
+000823
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$587,86
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23146 
+000824
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$857,41
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+tdsa realclinic
+pág.: 2
+ fa) endogastro
+
+nova dimensão em saúde
+contas a pagar/receber - modelo 2
+usuário....: kelly roberta
+impressão: 02/07/2024
+período....: 01/06/2024 a 30/06/2024
+página.......: 3 de 6
+empresa....: clinica endogastro
+cr?dito
+código
+nº doc.
+sacado
+conta
+dt. lanç.
+dt. venc.
+valor
+situação
+observações
+banco
+fornecedor
+23147 
+000825
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$358,72
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23148 
+000826
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$2.174,50
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23149 
+000831
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$301,32
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23150 
+000832
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$1.274,56
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23151 
+000833
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$194,26
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23152 
+000864
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$983,06
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23153 
+000835
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$139,97
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23154 
+000836
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$358,72
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23155 
+000827
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$717,45
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23156 
+000830
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$983,06
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23157 
+000826
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$358,72
+quitada
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+tdsa realclinic
+pág.: 3
+ fa) endogastro
+
+nova dimensão em saúde
+contas a pagar/receber - modelo 2
+usuário....: kelly roberta
+impressão: 02/07/2024
+período....: 01/06/2024 a 30/06/2024
+página.......: 4 de 6
+empresa....: clinica endogastro
+cr?dito
+código
+nº doc.
+sacado
+conta
+dt. lanç.
+dt. venc.
+valor
+situação
+observações
+banco
+fornecedor
+23158 
+000764
+.
+convênios
+20/06/2024
+17/06/2024
+banco do 
+brasil
+r$4.220,16
+quitada
+pis 30,87
+cofins 142,49
+ir 71,25
+csll 47,50
+consorcio 
+intermunicial 
+do vale do sao 
+francisco-c
+23159 
+000986
+...
+convênios
+20/06/2024
+18/06/2024
+banco do 
+brasil
+r$326,10
+quitada
+sul america
+23160 
+000838
+.
+convênios
+20/06/2024
+18/06/2024
+banco do 
+brasil
+r$3.807,31
+quitada
+pis 26,37
+cofins 121,70
+ir 60,85
+csll 40,57
+iss 202,84
+cassind
+23420 
+000914
+.
+convênios
+02/07/2024
+19/06/2024
+banco do 
+brasil
+r$10.639,45
+quitada
+cassi
+23425 
+.
+aluguel de sala
+02/07/2024
+19/06/2024
+banco do 
+brasil
+r$733,24
+quitada
+ana denise da 
+costa pereira
+23426 
+000856
+.
+convênios
+02/07/2024
+20/06/2024
+banco do 
+brasil
+r$705,43
+quitada
+cia vale do rio 
+doce-vale
+23427 
+000900
+.
+convênios
+02/07/2024
+21/06/2024
+banco do 
+brasil
+r$2.878,11
+quitada
+plamed
+23429 
+000986
+.
+convênios
+02/07/2024
+24/06/2024
+banco do 
+brasil
+r$217,40
+quitada
+sul america
+23437 
+000987
+.
+convênios
+02/07/2024
+28/06/2024
+banco do 
+brasil
+r$34.484,63
+quitada
+petrobras
+total cr?dito:  43
+d?bito
+código
+nº doc.
+sacado
+conta
+dt. lanç.
+dt. venc.
+valor
+situação
+observações
+banco
+fornecedor
+23036 
+273756
+.
+material 
+eletrônico
+08/06/2024
+03/06/2024
+banco do 
+brasil
+r$261,35
+quitada
+casa da 
+eletricidade
+23038 
+000291
+.
+segurança e 
+vigilância
+03/06/2024
+03/06/2024
+banco do 
+brasil
+r$199,00
+quitada
+conecte
+23039 
+000044
+.
+manutenção de 
+equipamentos 
+médicos
+03/06/2024
+03/06/2024
+banco do 
+brasil
+r$390,00
+quitada
+cgptech
+23040 
+000049
+.
+manutenção de 
+equipamentos 
+médicos
+03/06/2024
+03/06/2024
+banco do 
+brasil
+r$800,00
+quitada
+cgptech
+23041 
+000679
+.
+manutenção de 
+equipamentos 
+de informática
+03/06/2024
+03/06/2024
+banco do 
+brasil
+r$370,00
+quitada
+adilson santos 
+de jesus
+23085 
+.
+produção 
+médica
+19/06/2024
+03/06/2024
+banco do 
+brasil
+r$9.626,28
+quitada
+tereza virginia 
+silva bezerra do 
+nascimento
+tdsa realclinic
+pág.: 4
+ fa) endogastro
+
+nova dimensão em saúde
+contas a pagar/receber - modelo 2
+usuário....: kelly roberta
+impressão: 02/07/2024
+período....: 01/06/2024 a 30/06/2024
+página.......: 5 de 6
+empresa....: clinica endogastro
+d?bito
+código
+nº doc.
+sacado
+conta
+dt. lanç.
+dt. venc.
+valor
+situação
+observações
+banco
+fornecedor
+23045 
+197611
+.
+compra de 
+material / 
+medicamento
+04/06/2024
+04/06/2024
+banco do 
+brasil
+r$693,00
+quitada
+f&f
+23057 
+001430
+.
+plano de saúde
+18/06/2024
+05/06/2024
+banco do 
+brasil
+r$2.341,77
+quitada
+plamed
+23058 
+000559
+.
+manutenção de 
+sistemas
+18/06/2024
+05/06/2024
+banco do 
+brasil
+r$632,00
+quitada
+g logic
+23059 
+173134
+.
+compra de 
+gases
+18/06/2024
+05/06/2024
+banco do 
+brasil
+r$100,00
+quitada
+cr oxigenio
+23060 
+.
+tarífas 
+bancárias
+18/06/2024
+05/06/2024
+banco do 
+brasil
+r$72,00
+quitada
+banco do 
+brasil
+23086 
+000034
+.
+produção 
+médica
+19/06/2024
+10/06/2024
+banco do 
+brasil
+r$5.582,70
+quitada
+thiago lima
+23088 
+.
+energia elétrica
+19/06/2024
+10/06/2024
+banco do 
+brasil
+r$3.783,33
+quitada
+227.000/60=3.783,33
+60 meses
+valor total emprestimo:r$ 
+227.000,00
+logo nesse caso temos 
+que:3.783,33 foi o investimento 
+em energia solar,que 
+vamosconsiderar como energia.
+green solfacil
+23089 
+.
+empréstimo 
+(custo do 
+capital juros)
+19/06/2024
+10/06/2024
+banco do 
+brasil
+r$2.298,82
+quitada
+valor total empréstimo: r$ 
+227.000,00
+quantidade e parcelas:60
+temos o valor 
+6.082,15-3.783,33:2.298,82
+2.298,82 é o custo do capital, 
+dos encargos do emprestimo.
+green solfacil
+23091 
+086995
+.
+compra de 
+material / 
+medicamento
+19/06/2024
+10/06/2024
+banco do 
+brasil
+r$1.688,75
+quitada
+três leões
+23092 
+004446
+...
+softwares
+19/06/2024
+10/06/2024
+banco do 
+brasil
+r$2.867,65
+quitada
+tdsa
+23095 
+000033
+.
+consultoria e 
+assessoria
+19/06/2024
+10/06/2024
+banco do 
+brasil
+r$1.420,00
+quitada
+702 marketing e 
+consultoria 
+ltda
+23096 
+000113
+.
+compra de 
+material / 
+medicamento
+19/06/2024
+10/06/2024
+banco do 
+brasil
+r$220,00
+quitada
+mirandi santos 
+reis
+23097 
+.
+seguro predial 
+e de 
+equipamentos
+19/06/2024
+10/06/2024
+banco do 
+brasil
+r$424,97
+quitada
+mapfre
+tdsa realclinic
+pág.: 5
+ fa) endogastro
+
+nova dimensão em saúde

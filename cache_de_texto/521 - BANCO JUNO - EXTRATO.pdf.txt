@@ -1,0 +1,9302 @@
+data
+data de liberação
+descrição
+nome cliente
+cpf/cnpj cliente
+tipo
+valor
+29/03/2022
+30/04/2022 taxa da cobrança 314964490
+taxa
+-r$ 3,50
+29/03/2022
+30/04/2022 pagamento da cobrança 314964490
+nathálya da silva martins
+107.445.384-08
+pagamento
+r$ 64,50
+29/03/2022
+30/04/2022 taxa da cobrança 314964488
+taxa
+-r$ 3,50
+29/03/2022
+30/04/2022 pagamento da cobrança 314964488
+nathálya da silva martins
+107.445.384-08
+pagamento
+r$ 64,50
+29/04/2022
+29/04/2022 comissão da cobrança 327423168
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+28/04/2022
+28/04/2022 transferência pix realizada #10293969
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 232,00
+28/04/2022
+28/04/2022 taxa da cobrança 328022342
+taxa
+-r$ 1,70
+28/04/2022
+28/04/2022 pagamento da cobrança 328022342
+poliana souza leite
+016.536.713-00
+pagamento
+r$ 99,00
+28/04/2022
+28/04/2022 taxa da cobrança 327438899
+taxa
+-r$ 1,70
+28/04/2022
+28/04/2022 pagamento da cobrança 327438899
+lucirene maria portela saboia
+506.701.233-15
+pagamento
+r$ 149,00
+28/04/2022
+28/04/2022 comissão da cobrança 327976271
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+27/04/2022
+27/04/2022 transferência pix realizada #10280256
+marco antonio da silva de oliveira
+***.952.566-**
+%stransferência pix realizada #%s
+-r$ 10,32
+27/04/2022
+27/04/2022 transferência pix realizada #10251545
+keila da silva evaristo
+***.844.966-**
+%stransferência pix realizada #%s
+-r$ 100,00
+27/04/2022
+27/04/2022 transferência pix realizada #10240754
+claudinei ferreira de sousa
+***.856.336-**
+%stransferência pix realizada #%s
+-r$ 9,59
+27/04/2022
+27/04/2022 taxa da cobrança 322797549
+taxa
+-r$ 1,70
+27/04/2022
+27/04/2022 pagamento da cobrança 322797549
+rose souza de paula
+002.800.666-60
+pagamento
+r$ 109,90
+27/04/2022
+27/04/2022 comissão da cobrança 327310138
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+26/04/2022
+26/04/2022 transferência pix realizada #10225389
+marcelo ribeiro mariano
+***.557.426-**
+%stransferência pix realizada #%s
+-r$ 9,80
+26/04/2022
+26/04/2022 transferência pix realizada #10224235
+flavio fraguas alves pereira
+***.899.006-**
+%stransferência pix realizada #%s
+-r$ 15,00
+26/04/2022
+26/04/2022 taxa da cobrança 324094435
+taxa
+-r$ 1,70
+26/04/2022
+26/04/2022 pagamento da cobrança 324094435
+fernanda rangel de azevedo de paula
+079.856.157-25
+pagamento
+r$ 198,00
+26/04/2022
+26/04/2022 taxa da cobrança 324424819
+taxa
+-r$ 1,70
+26/04/2022
+26/04/2022 pagamento da cobrança 324424819
+luciane rose araujo conceição
+026.312.063-55
+pagamento
+r$ 129,00
+26/04/2022
+26/04/2022 taxa da cobrança 324529775
+taxa
+-r$ 1,70
+26/04/2022
+26/04/2022 pagamento da cobrança 324529775
+maria edileia costa araújo
+573.188.082-49
+pagamento
+r$ 199,00
+26/04/2022
+26/04/2022 taxa da cobrança 326868030
+taxa
+-r$ 1,70
+26/04/2022
+26/04/2022 pagamento da cobrança 326868030
+paulo rogério machado
+056.459.078-92
+pagamento
+r$ 109,90
+26/04/2022
+26/04/2022 taxa da cobrança 325739981
+taxa
+-r$ 1,70
+26/04/2022
+26/04/2022 pagamento da cobrança 325739981
+kezia pereira da silva
+009.911.231-07
+pagamento
+r$ 99,00
+25/03/2022
+26/04/2022 taxa da cobrança 313976747
+taxa
+-r$ 3,02
+25/03/2022
+26/04/2022 pagamento da cobrança 313976747
+erika karla jesus nogueira
+077.508.864-19
+pagamento
+r$ 54,95
+25/03/2022
+26/04/2022 taxa da cobrança 313976746
+taxa
+-r$ 3,02
+25/03/2022
+26/04/2022 pagamento da cobrança 313976746
+erika karla jesus nogueira
+077.508.864-19
+pagamento
+r$ 54,95
+25/03/2022
+26/04/2022 taxa da cobrança 313876921
+taxa
+-r$ 2,73
+25/03/2022
+26/04/2022 pagamento da cobrança 313876921
+armisthrong douglas ribeiro da silva
+133.953.316-28
+pagamento
+r$ 49,50
+25/03/2022
+26/04/2022 taxa da cobrança 313876920
+taxa
+-r$ 2,73
+25/03/2022
+26/04/2022 pagamento da cobrança 313876920
+armisthrong douglas ribeiro da silva
+133.953.316-28
+pagamento
+r$ 49,50
+25/04/2022
+25/04/2022 transferência pix recebida #25330185
+marcos henrique de melo sousa junior
+***.352.673-**
+%stransferência pix recebida #%s
+r$ 99,00
+23/04/2022
+25/04/2022 taxa da cobrança 325883710
+taxa
+-r$ 1,70
+23/04/2022
+25/04/2022 pagamento da cobrança 325883710
+letícia crespo palhares rodrigues
+148.164.057-71
+pagamento
+r$ 149,00
+24/03/2022
+25/04/2022 taxa da cobrança 313069259
+taxa
+-r$ 3,16
+24/03/2022
+25/04/2022 pagamento da cobrança 313069259
+viviane lusinete sousa martins
+020.966.483-51
+pagamento
+r$ 49,67
+24/03/2022
+25/04/2022 taxa da cobrança 313069258
+taxa
+-r$ 3,16
+24/03/2022
+25/04/2022 pagamento da cobrança 313069258
+viviane lusinete sousa martins
+020.966.483-51
+pagamento
+r$ 49,67
+24/03/2022
+25/04/2022 taxa da cobrança 313069257
+taxa
+-r$ 3,16
+24/03/2022
+25/04/2022 pagamento da cobrança 313069257
+viviane lusinete sousa martins
+020.966.483-51
+pagamento
+r$ 49,67
+24/04/2022
+24/04/2022 transferência pix realizada #10127922
+marco antonio da silva de oliveira
+***.952.566-**
+%stransferência pix realizada #%s
+-r$ 14,00
+23/03/2022
+24/04/2022 taxa da cobrança 313043073
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 313043073
+anielly dos santos corcino ladislau
+059.121.454-76
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 313043072
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 313043072
+anielly dos santos corcino ladislau
+059.121.454-76
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 313043071
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 313043071
+anielly dos santos corcino ladislau
+059.121.454-76
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 312797145
+taxa
+-r$ 2,75
+23/03/2022
+24/04/2022 pagamento da cobrança 312797145
+silvana de siqueira souza leite
+039.865.824-28
+pagamento
+r$ 43,00
+23/03/2022
+24/04/2022 taxa da cobrança 312797144
+taxa
+-r$ 2,75
+23/03/2022
+24/04/2022 pagamento da cobrança 312797144
+silvana de siqueira souza leite
+039.865.824-28
+pagamento
+r$ 43,00
+23/03/2022
+24/04/2022 taxa da cobrança 312797143
+taxa
+-r$ 2,75
+23/03/2022
+24/04/2022 pagamento da cobrança 312797143
+silvana de siqueira souza leite
+039.865.824-28
+pagamento
+r$ 43,00
+23/03/2022
+24/04/2022 taxa da cobrança 312951403
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 312951403
+roselane da silva borges
+968.552.232-49
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 312951402
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 312951402
+roselane da silva borges
+968.552.232-49
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 312951401
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 312951401
+roselane da silva borges
+968.552.232-49
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 312939058
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 312939058
+thayse barbosa sousa magalhães
+065.596.074-02
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 312939057
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 312939057
+thayse barbosa sousa magalhães
+065.596.074-02
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 312939056
+taxa
+-r$ 3,16
+23/03/2022
+24/04/2022 pagamento da cobrança 312939056
+thayse barbosa sousa magalhães
+065.596.074-02
+pagamento
+r$ 49,67
+23/03/2022
+24/04/2022 taxa da cobrança 312835930
+taxa
+-r$ 1,52
+23/03/2022
+24/04/2022 pagamento da cobrança 312835930
+crisalbert botelho ramos
+714.131.541-15
+pagamento
+r$ 54,95
+23/03/2022
+24/04/2022 taxa da cobrança 312835929
+taxa
+-r$ 1,52
+23/03/2022
+24/04/2022 pagamento da cobrança 312835929
+crisalbert botelho ramos
+714.131.541-15
+pagamento
+r$ 54,95
+21/03/2022
+22/04/2022 taxa da cobrança 312116497
+taxa
+-r$ 3,49
+21/03/2022
+22/04/2022 pagamento da cobrança 312116497
+luciano de sousa lima
+013.915.763-81
+pagamento
+r$ 129,00
+21/03/2022
+22/04/2022 taxa da cobrança 312114993
+taxa
+-r$ 3,02
+21/03/2022
+22/04/2022 pagamento da cobrança 312114993
+cristiane lopes de souza
+021.392.741-13
+pagamento
+r$ 54,95
+21/03/2022
+22/04/2022 taxa da cobrança 312114992
+taxa
+-r$ 3,02
+21/03/2022
+22/04/2022 pagamento da cobrança 312114992
+cristiane lopes de souza
+021.392.741-13
+pagamento
+r$ 54,95
+21/04/2022
+21/04/2022 transferência pix realizada #10048215
+marlon anderson silva bazeth
+***.111.606-**
+%stransferência pix realizada #%s
+-r$ 11,81
+20/04/2022
+20/04/2022 transferência pix realizada #10027156
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 1.600,00
+20/04/2022
+20/04/2022 transferência pix recebida #24728006
+armed daniel p fonseca
+***.025.867-**
+%stransferência pix recebida #%s
+r$ 79,00
+20/04/2022
+20/04/2022 taxa da cobrança 324371929
+taxa
+-r$ 1,70
+20/04/2022
+20/04/2022 pagamento da cobrança 324371929
+rosangela aparecida do nascimento
+226.189.578-06
+pagamento
+r$ 129,00
+20/04/2022
+20/04/2022 taxa da cobrança 324085830
+taxa
+-r$ 1,70
+20/04/2022
+20/04/2022 pagamento da cobrança 324085830
+roselene alves melo de lara
+031.185.287-45
+pagamento
+r$ 129,00
+20/04/2022
+20/04/2022 taxa da cobrança 324053370
+taxa
+-r$ 1,70
+20/04/2022
+20/04/2022 pagamento da cobrança 324053370
+vanice dos reis de jesus jerônimo
+064.314.046-88
+pagamento
+r$ 109,90
+19/04/2022
+19/04/2022 transferência pix recebida #24599514
+alicio homero campos
+***.759.161-**
+%stransferência pix recebida #%s
+r$ 99,00
+19/04/2022
+19/04/2022 transferência pix realizada #9973465
+conast consultoria e a de s do trabalho ltda
+**.*64.223/0001-**
+%stransferência pix realizada #%s
+-r$ 30,00
+19/04/2022
+19/04/2022 transferência pix realizada #9951568
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.900,00
+19/04/2022
+19/04/2022 taxa da cobrança 321493518
+taxa
+-r$ 1,70
+19/04/2022
+19/04/2022 pagamento da cobrança 321493518
+vinícius da silva rodrigues
+061.957.191-88
+pagamento
+r$ 199,00
+19/04/2022
+19/04/2022 taxa da cobrança 323124635
+taxa
+-r$ 1,70
+19/04/2022
+19/04/2022 pagamento da cobrança 323124635
+silvana aparecida leal de souza
+134.793.288-73
+pagamento
+r$ 109,90
+19/04/2022
+19/04/2022 taxa da cobrança 320233593
+taxa
+-r$ 1,70
+19/04/2022
+19/04/2022 pagamento da cobrança 320233593
+iraide pereira constantino
+892.714.676-04
+pagamento
+r$ 99,00
+19/04/2022
+19/04/2022 taxa da cobrança 316769146
+taxa
+-r$ 1,70
+19/04/2022
+19/04/2022 pagamento da cobrança 316769146
+valdenil dias de andrade
+942.093.675-91
+pagamento
+r$ 109,90
+19/04/2022
+19/04/2022 taxa da cobrança 315918761
+taxa
+-r$ 1,70
+19/04/2022
+19/04/2022 pagamento da cobrança 315918761
+nathália correa pinto
+371.688.428-62
+pagamento
+r$ 109,90
+19/04/2022
+19/04/2022 taxa da cobrança 321802613
+taxa
+-r$ 1,70
+19/04/2022
+19/04/2022 pagamento da cobrança 321802613
+pedro mendes lima
+079.695.112-87
+pagamento
+r$ 149,00
+19/04/2022
+19/04/2022 taxa da cobrança 315273194
+taxa
+-r$ 1,70
+19/04/2022
+19/04/2022 pagamento da cobrança 315273194
+adonias oliveira rodrigues
+366.450.268-03
+pagamento
+r$ 180,90
+19/04/2022
+19/04/2022 taxa da cobrança 321804527
+taxa
+-r$ 1,70
+19/04/2022
+19/04/2022 pagamento da cobrança 321804527
+nathália correa pinto
+371.688.428-62
+pagamento
+r$ 99,00
+18/03/2022
+19/04/2022 taxa da cobrança 310802721
+taxa
+-r$ 5,30
+18/03/2022
+19/04/2022 pagamento da cobrança 310802721
+érica cristina gouvêa lima
+696.414.392-00
+pagamento
+r$ 99,50
+18/03/2022
+19/04/2022 taxa da cobrança 310802720
+taxa
+-r$ 5,30
+18/03/2022
+19/04/2022 pagamento da cobrança 310802720
+érica cristina gouvêa lima
+696.414.392-00
+pagamento
+r$ 99,50
+18/03/2022
+19/04/2022 taxa da cobrança 311022047
+taxa
+-r$ 3,16
+18/03/2022
+19/04/2022 pagamento da cobrança 311022047
+anna shara bezerra belarmino
+101.324.394-33
+pagamento
+r$ 49,67
+18/03/2022
+19/04/2022 taxa da cobrança 311022046
+taxa
+-r$ 3,16
+18/03/2022
+19/04/2022 pagamento da cobrança 311022046
+anna shara bezerra belarmino
+101.324.394-33
+pagamento
+r$ 49,67
+18/03/2022
+19/04/2022 taxa da cobrança 311022045
+taxa
+-r$ 3,16
+18/03/2022
+19/04/2022 pagamento da cobrança 311022045
+anna shara bezerra belarmino
+101.324.394-33
+pagamento
+r$ 49,67
+18/04/2022
+18/04/2022 transferência pix recebida #24460684
+maria aparecida manca
+***.689.458-**
+%stransferência pix recebida #%s
+r$ 109,90
+18/04/2022
+18/04/2022 transferência pix realizada #9897539
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 2.360,00
+18/04/2022
+18/04/2022 transferência pix realizada #9870996
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 40,00
+15/04/2022
+18/04/2022 taxa da cobrança 321961185
+taxa
+-r$ 1,70
+15/04/2022
+18/04/2022 pagamento da cobrança 321961185
+paulo severino de freitas
+042.411.637-50
+pagamento
+r$ 198,00
+15/04/2022
+18/04/2022 taxa da cobrança 319535311
+taxa
+-r$ 1,70
+15/04/2022
+18/04/2022 pagamento da cobrança 319535311
+daniela cristina cremaschi
+149.807.418-94
+pagamento
+r$ 79,00
+15/04/2022
+18/04/2022 taxa da cobrança 322166438
+taxa
+-r$ 1,70
+15/04/2022
+18/04/2022 pagamento da cobrança 322166438
+mariane cristina vieira da silva
+107.793.446-77
+pagamento
+r$ 99,00
+15/04/2022
+18/04/2022 taxa da cobrança 314844629
+taxa
+-r$ 1,70
+15/04/2022
+18/04/2022 pagamento da cobrança 314844629
+suelma oliveira santos
+007.970.713-00
+pagamento
+r$ 109,90
+15/04/2022
+18/04/2022 taxa da cobrança 322335340
+taxa
+-r$ 1,70
+15/04/2022
+18/04/2022 pagamento da cobrança 322335340
+larissa marcelino de lima nunes
+106.582.069-07
+pagamento
+r$ 199,00
+15/04/2022
+18/04/2022 comissão da cobrança 322872523
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+17/03/2022
+18/04/2022 taxa da cobrança 310383203
+taxa
+-r$ 2,75
+17/03/2022
+18/04/2022 pagamento da cobrança 310383203
+renan de oliveira camargo marques
+126.430.747-00
+pagamento
+r$ 43,00
+17/03/2022
+18/04/2022 taxa da cobrança 310383202
+taxa
+-r$ 2,75
+17/03/2022
+18/04/2022 pagamento da cobrança 310383202
+renan de oliveira camargo marques
+126.430.747-00
+pagamento
+r$ 43,00
+17/03/2022
+18/04/2022 taxa da cobrança 310383200
+taxa
+-r$ 2,75
+17/03/2022
+18/04/2022 pagamento da cobrança 310383200
+renan de oliveira camargo marques
+126.430.747-00
+pagamento
+r$ 43,00
+16/03/2022
+17/04/2022 taxa da cobrança 310078316
+taxa
+-r$ 2,77
+16/03/2022
+17/04/2022 pagamento da cobrança 310078316
+maria das vitórias dos santos medeiros
+061.602.614-52
+pagamento
+r$ 99,00
+16/04/2022
+16/04/2022 transferência pix recebida #24205489
+cecília gomes batista
+***.946.336-**
+%stransferência pix recebida #%s
+r$ 40,00
+15/04/2022
+15/04/2022 transferência pix recebida #24036471
+dayse marcia pimenta de carvalho
+***.472.836-**
+%stransferência pix recebida #%s
+r$ 199,00
+15/04/2022
+15/04/2022 transferência pix realizada #9852623
+ivanete de souza santos
+***.139.746-**
+%stransferência pix realizada #%s
+-r$ 12,25
+14/03/2022
+15/04/2022 taxa da cobrança 309086338
+taxa
+-r$ 2,29
+14/03/2022
+15/04/2022 pagamento da cobrança 309086338
+rodileia souza de almeida
+323.589.892-15
+pagamento
+r$ 79,00
+14/03/2022
+15/04/2022 taxa da cobrança 309082698
+taxa
+-r$ 4,17
+14/03/2022
+15/04/2022 pagamento da cobrança 309082698
+ciumara barbosa batista
+355.768.958-19
+pagamento
+r$ 66,33
+14/03/2022
+15/04/2022 taxa da cobrança 309082697
+taxa
+-r$ 4,17
+14/03/2022
+15/04/2022 pagamento da cobrança 309082697
+ciumara barbosa batista
+355.768.958-19
+pagamento
+r$ 66,33
+14/03/2022
+15/04/2022 taxa da cobrança 309082696
+taxa
+-r$ 4,17
+14/03/2022
+15/04/2022 pagamento da cobrança 309082696
+ciumara barbosa batista
+355.768.958-19
+pagamento
+r$ 66,33
+14/04/2022
+14/04/2022 transferência pix realizada #9806669
+marcileia cristiane costa
+***.873.616-**
+%stransferência pix realizada #%s
+-r$ 13,00
+14/04/2022
+14/04/2022 transferência pix realizada #9794720
+jessica amanda dos santos batista
+***.290.346-**
+%stransferência pix realizada #%s
+-r$ 64,50
+14/04/2022
+14/04/2022 taxa da cobrança 321747857
+taxa
+-r$ 1,70
+14/04/2022
+14/04/2022 pagamento da cobrança 321747857
+cristina lima de araújo
+590.767.122-04
+pagamento
+r$ 149,00
+14/04/2022
+14/04/2022 comissão da cobrança 321966750
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+14/04/2022
+14/04/2022 taxa da cobrança 321959752
+taxa
+-r$ 1,70
+14/04/2022
+14/04/2022 pagamento da cobrança 321959752
+rosimere santos de souza
+085.002.887-60
+pagamento
+r$ 99,00
+13/04/2022
+13/04/2022 transferência pix recebida #23761344
+terezinha cristina zalewski rodrigues
+***.856.289-**
+%stransferência pix recebida #%s
+r$ 149,00
+13/04/2022
+13/04/2022 taxa da cobrança 321778537
+taxa
+-r$ 1,70
+13/04/2022
+13/04/2022 pagamento da cobrança 321778537
+daniela catozzi dorta
+315.073.438-09
+pagamento
+r$ 149,00
+12/04/2022
+12/04/2022 comissão da cobrança 321474177
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+12/04/2022
+12/04/2022 taxa da cobrança 319728454
+taxa
+-r$ 1,70
+12/04/2022
+12/04/2022 pagamento da cobrança 319728454
+flavirene biazzi
+141.605.578-99
+pagamento
+r$ 79,00
+12/04/2022
+12/04/2022 comissão da cobrança 316419113
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+12/04/2022
+12/04/2022 taxa da cobrança 320261443
+taxa
+-r$ 1,70
+12/04/2022
+12/04/2022 pagamento da cobrança 320261443
+ana cristina guerellus
+625.452.131-87
+pagamento
+r$ 109,90
+12/04/2022
+12/04/2022 taxa da cobrança 316219551
+taxa
+-r$ 1,70
+12/04/2022
+12/04/2022 pagamento da cobrança 316219551
+cinthia maria alvarino
+032.926.949-65
+pagamento
+r$ 198,00
+11/04/2022
+11/04/2022 transferência pix realizada #9637538
+leticia sousa dos santos correa
+***.066.156-**
+%stransferência pix realizada #%s
+-r$ 100,00
+11/04/2022
+11/04/2022 transferência pix realizada #9632272
+jessica amanda dos santos batista
+***.290.346-**
+%stransferência pix realizada #%s
+-r$ 63,00
+09/04/2022
+11/04/2022 taxa da cobrança 317917493
+taxa
+-r$ 1,70
+09/04/2022
+11/04/2022 pagamento da cobrança 317917493
+laís herculano antunes
+091.779.886-47
+pagamento
+r$ 109,90
+10/03/2022
+11/04/2022 taxa da cobrança 307562611
+taxa
+-r$ 1,60
+10/03/2022
+11/04/2022 pagamento da cobrança 307562611
+laudeci alves da rocha silva
+139.471.088-77
+pagamento
+r$ 50,00
+10/03/2022
+11/04/2022 taxa da cobrança 307006221
+taxa
+-r$ 5,29
+10/03/2022
+11/04/2022 pagamento da cobrança 307006221
+edivania da silva santos
+047.255.351-84
+pagamento
+r$ 58,00
+10/03/2022
+11/04/2022 taxa da cobrança 307006220
+taxa
+-r$ 5,29
+10/03/2022
+11/04/2022 pagamento da cobrança 307006220
+edivania da silva santos
+047.255.351-84
+pagamento
+r$ 58,00
+10/03/2022
+11/04/2022 taxa da cobrança 307006219
+taxa
+-r$ 5,29
+10/03/2022
+11/04/2022 pagamento da cobrança 307006219
+edivania da silva santos
+047.255.351-84
+pagamento
+r$ 58,00
+10/03/2022
+11/04/2022 taxa da cobrança 307006218
+taxa
+-r$ 5,29
+10/03/2022
+11/04/2022 pagamento da cobrança 307006218
+edivania da silva santos
+047.255.351-84
+pagamento
+r$ 58,00
+10/03/2022
+11/04/2022 taxa da cobrança 307006217
+taxa
+-r$ 5,29
+10/03/2022
+11/04/2022 pagamento da cobrança 307006217
+edivania da silva santos
+047.255.351-84
+pagamento
+r$ 58,00
+10/03/2022
+11/04/2022 taxa da cobrança 307006216
+taxa
+-r$ 5,29
+10/03/2022
+11/04/2022 pagamento da cobrança 307006216
+edivania da silva santos
+047.255.351-84
+pagamento
+r$ 58,00
+10/04/2022
+10/04/2022 transferência pix realizada #9628082
+cássio humberto pereira martins
+***.084.096-**
+%stransferência pix realizada #%s
+-r$ 9,00
+08/04/2022
+08/04/2022 taxa da cobrança 318981719
+taxa
+-r$ 1,70
+08/04/2022
+08/04/2022 pagamento da cobrança 318981719
+simone gomes de miranda
+067.037.944-13
+pagamento
+r$ 99,00
+08/04/2022
+08/04/2022 taxa da cobrança 319018467
+taxa
+-r$ 1,70
+08/04/2022
+08/04/2022 pagamento da cobrança 319018467
+érica silva vasconcelos
+105.196.754-60
+pagamento
+r$ 199,00
+07/03/2022
+08/04/2022 taxa da cobrança 304687195
+taxa
+-r$ 2,75
+07/03/2022
+08/04/2022 pagamento da cobrança 304687195
+danieli de jesus costa silva
+118.029.826-80
+pagamento
+r$ 43,00
+07/03/2022
+08/04/2022 taxa da cobrança 304687194
+taxa
+-r$ 2,75
+07/03/2022
+08/04/2022 pagamento da cobrança 304687194
+danieli de jesus costa silva
+118.029.826-80
+pagamento
+r$ 43,00
+07/03/2022
+08/04/2022 taxa da cobrança 304687193
+taxa
+-r$ 2,75
+07/03/2022
+08/04/2022 pagamento da cobrança 304687193
+danieli de jesus costa silva
+118.029.826-80
+pagamento
+r$ 43,00
+07/03/2022
+08/04/2022 taxa da cobrança 305804815
+taxa
+-r$ 3,16
+07/03/2022
+08/04/2022 pagamento da cobrança 305804815
+joão paulo oliveira do nascimento
+033.498.802-07
+pagamento
+r$ 49,67
+07/03/2022
+08/04/2022 taxa da cobrança 305804814
+taxa
+-r$ 3,16
+07/03/2022
+08/04/2022 pagamento da cobrança 305804814
+joão paulo oliveira do nascimento
+033.498.802-07
+pagamento
+r$ 49,67
+07/03/2022
+08/04/2022 taxa da cobrança 305804813
+taxa
+-r$ 3,16
+07/03/2022
+08/04/2022 pagamento da cobrança 305804813
+joão paulo oliveira do nascimento
+033.498.802-07
+pagamento
+r$ 49,67
+07/04/2022
+07/04/2022 transferência pix realizada #9526703
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 570,00
+07/04/2022
+07/04/2022 taxa da cobrança 319237019
+taxa
+-r$ 1,70
+07/04/2022
+07/04/2022 pagamento da cobrança 319237019
+gilmar dos santos machado
+036.176.305-02
+pagamento
+r$ 79,00
+07/04/2022
+07/04/2022 taxa da cobrança 315250318
+taxa
+-r$ 1,70
+07/04/2022
+07/04/2022 pagamento da cobrança 315250318
+marina branco soares da costa
+058.235.726-89
+pagamento
+r$ 109,90
+07/04/2022
+07/04/2022 taxa da cobrança 318998016
+taxa
+-r$ 1,70
+07/04/2022
+07/04/2022 pagamento da cobrança 318998016
+josiane eliane damásio
+092.011.096-79
+pagamento
+r$ 109,90
+06/04/2022
+06/04/2022 transferência pix realizada #9478750
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 650,00
+06/04/2022
+06/04/2022 taxa da cobrança 317947301
+taxa
+-r$ 1,70
+06/04/2022
+06/04/2022 pagamento da cobrança 317947301
+raquel rosa ribeiro
+705.900.281-20
+pagamento
+r$ 149,00
+06/04/2022
+06/04/2022 taxa da cobrança 315448519
+taxa
+-r$ 1,70
+06/04/2022
+06/04/2022 pagamento da cobrança 315448519
+maria josé simão borges
+065.166.506-08
+pagamento
+r$ 149,00
+06/04/2022
+06/04/2022 taxa da cobrança 315845534
+taxa
+-r$ 1,70
+06/04/2022
+06/04/2022 pagamento da cobrança 315845534
+gisele gajdeczka
+022.444.989-30
+pagamento
+r$ 129,00
+06/04/2022
+06/04/2022 comissão da cobrança 315400047
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+05/04/2022
+05/04/2022 transferência pix realizada #9435665
+reginaldo eduardo arcanjo
+***.626.516-**
+%stransferência pix realizada #%s
+-r$ 35,00
+05/04/2022
+05/04/2022 taxa da cobrança 316226880
+taxa
+-r$ 1,70
+05/04/2022
+05/04/2022 pagamento da cobrança 316226880
+ana shirle antunes fabrício
+907.359.519-34
+pagamento
+r$ 99,00
+05/04/2022
+05/04/2022 taxa da cobrança 317921730
+taxa
+-r$ 1,70
+05/04/2022
+05/04/2022 pagamento da cobrança 317921730
+kelly emanuella costa palmeira alves
+082.617.564-32
+pagamento
+r$ 99,00
+05/04/2022
+05/04/2022 taxa da cobrança 317920213
+taxa
+-r$ 1,70
+05/04/2022
+05/04/2022 pagamento da cobrança 317920213
+eliane ortiz figueredo da silva
+008.779.851-46
+pagamento
+r$ 99,00
+05/04/2022
+05/04/2022 taxa da cobrança 318125873
+taxa
+-r$ 1,70
+05/04/2022
+05/04/2022 pagamento da cobrança 318125873
+cláudia batista chaves ribeiro
+056.908.306-07
+pagamento
+r$ 109,90
+05/04/2022
+05/04/2022 comissão da cobrança 316410657
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+05/04/2022
+05/04/2022 taxa da cobrança 315456921
+taxa
+-r$ 1,70
+05/04/2022
+05/04/2022 pagamento da cobrança 315456921
+renata tavares de almeida
+059.514.826-31
+pagamento
+r$ 109,90
+05/04/2022
+05/04/2022 taxa da cobrança 316630962
+taxa
+-r$ 1,70
+05/04/2022
+05/04/2022 pagamento da cobrança 316630962
+amanda da silva gouvea
+145.223.677-16
+pagamento
+r$ 99,00
+04/03/2022
+05/04/2022 taxa da cobrança 304676738
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304676738
+adriana barbosa da silva
+012.301.145-05
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304676737
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304676737
+adriana barbosa da silva
+012.301.145-05
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304676736
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304676736
+adriana barbosa da silva
+012.301.145-05
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304614985
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304614985
+jeane aparecida vieira
+002.706.836-66
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304614984
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304614984
+jeane aparecida vieira
+002.706.836-66
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304614983
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304614983
+jeane aparecida vieira
+002.706.836-66
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304600520
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304600520
+janniele santos da silva
+705.025.754-09
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304600519
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304600519
+janniele santos da silva
+705.025.754-09
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304600518
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304600518
+janniele santos da silva
+705.025.754-09
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304598725
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304598725
+raissa de oliveira correia
+701.598.084-30
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304598724
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304598724
+raissa de oliveira correia
+701.598.084-30
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304598723
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304598723
+raissa de oliveira correia
+701.598.084-30
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304451500
+taxa
+-r$ 3,50
+04/03/2022
+05/04/2022 pagamento da cobrança 304451500
+maria cristina de rezende
+433.471.509-53
+pagamento
+r$ 64,50
+04/03/2022
+05/04/2022 taxa da cobrança 304451499
+taxa
+-r$ 3,50
+04/03/2022
+05/04/2022 pagamento da cobrança 304451499
+maria cristina de rezende
+433.471.509-53
+pagamento
+r$ 64,50
+04/03/2022
+05/04/2022 taxa da cobrança 304458204
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304458204
+thayslaine da silva viana
+701.354.814-65
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304458203
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304458203
+thayslaine da silva viana
+701.354.814-65
+pagamento
+r$ 49,67
+04/03/2022
+05/04/2022 taxa da cobrança 304458202
+taxa
+-r$ 3,16
+04/03/2022
+05/04/2022 pagamento da cobrança 304458202
+thayslaine da silva viana
+701.354.814-65
+pagamento
+r$ 49,67
+04/04/2022
+04/04/2022 transferência pix realizada #9387903
+keila da silva evaristo
+***.844.966-**
+%stransferência pix realizada #%s
+-r$ 1.574,84
+04/04/2022
+04/04/2022 transferência pix realizada #9387846
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 1.585,20
+04/04/2022
+04/04/2022 transferência pix realizada #9387784
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 1.121,10
+04/04/2022
+04/04/2022 transferência pix realizada #9387686
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 565,60
+04/04/2022
+04/04/2022 transferência pix realizada #9387636
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 816,45
+04/04/2022
+04/04/2022 transferência pix realizada #9387547
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 1.136,62
+04/04/2022
+04/04/2022 transferência pix recebida #22396939
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 5.300,00
+02/04/2022
+04/04/2022 taxa da cobrança 315851249
+taxa
+-r$ 1,70
+02/04/2022
+04/04/2022 pagamento da cobrança 315851249
+taina lima de amorim
+076.991.375-07
+pagamento
+r$ 99,00
+02/04/2022
+04/04/2022 taxa da cobrança 316629709
+taxa
+-r$ 1,70
+02/04/2022
+04/04/2022 pagamento da cobrança 316629709
+gilvane vieira lira
+869.895.453-72
+pagamento
+r$ 149,00
+02/04/2022
+04/04/2022 taxa da cobrança 316691525
+taxa
+-r$ 1,70
+02/04/2022
+04/04/2022 pagamento da cobrança 316691525
+wilton silva gonçalves
+007.102.651-74
+pagamento
+r$ 99,00
+02/04/2022
+04/04/2022 taxa da cobrança 316345125
+taxa
+-r$ 1,70
+02/04/2022
+04/04/2022 pagamento da cobrança 316345125
+dayane francisca da silva
+116.143.724-03
+pagamento
+r$ 99,00
+02/04/2022
+04/04/2022 taxa da cobrança 316148401
+taxa
+-r$ 1,70
+02/04/2022
+04/04/2022 pagamento da cobrança 316148401
+natália coelho de oliveira
+108.991.926-37
+pagamento
+r$ 109,90
+02/03/2022
+03/04/2022 taxa da cobrança 303652177
+taxa
+-r$ 3,35
+02/03/2022
+03/04/2022 pagamento da cobrança 303652177
+rosimar nascimento bragança
+818.898.282-20
+pagamento
+r$ 52,67
+02/03/2022
+03/04/2022 taxa da cobrança 303652176
+taxa
+-r$ 3,35
+02/03/2022
+03/04/2022 pagamento da cobrança 303652176
+rosimar nascimento bragança
+818.898.282-20
+pagamento
+r$ 52,67
+02/03/2022
+03/04/2022 taxa da cobrança 303652175
+taxa
+-r$ 3,35
+02/03/2022
+03/04/2022 pagamento da cobrança 303652175
+rosimar nascimento bragança
+818.898.282-20
+pagamento
+r$ 52,67
+01/04/2022
+01/04/2022 transferência pix realizada #9320663
+reginaldo gomes da silva junior  
+***.689.226-**
+%stransferência pix realizada #%s
+-r$ 5,00
+01/04/2022
+01/04/2022 taxa da cobrança 313270902
+taxa
+-r$ 1,70
+01/04/2022
+01/04/2022 pagamento da cobrança 313270902
+eliana aparecida da silva
+275.367.358-63
+pagamento
+r$ 198,00
+01/04/2022
+01/04/2022 taxa da cobrança 316144751
+taxa
+-r$ 1,70
+01/04/2022
+01/04/2022 pagamento da cobrança 316144751
+edyclecio justino melo da silva
+009.643.785-58
+pagamento
+r$ 99,00
+data
+data de liberação
+descrição
+nome cliente
+cpf/cnpj cliente
+tipo
+valor
+27/08/2022
+29/08/2022 comissão da cobrança 404027036
+lucas da silva feitosa 16278993759
+46.281.644/0001-04
+comissão
+r$ 0,15
+24/08/2022
+24/08/2022 comissão da cobrança 401163685
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+24/08/2022
+24/08/2022 comissão da cobrança 401538075
+lucas da silva feitosa 16278993759
+46.281.644/0001-04
+comissão
+r$ 0,15
+18/08/2022
+18/08/2022 comissão da cobrança 397378785
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+18/08/2022
+18/08/2022 comissão da cobrança 398125285
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+17/08/2022
+17/08/2022 comissão da cobrança 397587270
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+17/08/2022
+17/08/2022 comissão da cobrança 397681834
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+16/08/2022
+16/08/2022 comissão da cobrança 395101325
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+13/08/2022
+15/08/2022 comissão da cobrança 394911051
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+12/08/2022
+12/08/2022 comissão da cobrança 394314080
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+11/08/2022
+11/08/2022 comissão da cobrança 393276219
+lucas da silva feitosa 16278993759
+46.281.644/0001-04
+comissão
+r$ 0,15
+11/08/2022
+11/08/2022 comissão da cobrança 393241431
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+09/08/2022
+09/08/2022 comissão da cobrança 391737433
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+09/08/2022
+09/08/2022 comissão da cobrança 391522666
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+08/08/2022
+08/08/2022 transferência pix realizada #13986680
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 180,00
+06/08/2022
+08/08/2022 taxa da cobrança 383880480
+taxa
+-r$ 1,70
+06/08/2022
+08/08/2022 pagamento da cobrança 383880480
+djenane gonçalves lemos ribeiro
+033.504.216-36
+pagamento
+r$ 180,90
+05/08/2022
+05/08/2022 transferência pix realizada #13922585
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 270,00
+03/08/2022
+03/08/2022 transferência pix realizada #13861134
+bruna karolayne regino lopes
+***.751.736-**
+%stransferência pix realizada #%s
+-r$ 34,00
+03/08/2022
+03/08/2022 comissão da cobrança 383986212
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+02/08/2022
+02/08/2022 transferência pix realizada #13835515
+clayton teixeira de souza
+***.254.726-**
+%stransferência pix realizada #%s
+-r$ 11,39
+01/08/2022
+01/08/2022 transferência pix recebida #50093460
+joanir paradela de oliveira
+***.237.496-**
+%stransferência pix recebida #%s
+r$ 79,00
+01/08/2022
+01/08/2022 transferência pix recebida #50066412
+rubens alves reis
+***.768.386-**
+%stransferência pix recebida #%s
+r$ 79,00
+01/08/2022
+01/08/2022 transferência pix recebida #49963970
+thaiza g duarte ferreira
+***.587.813-**
+%stransferência pix recebida #%s
+r$ 79,00
+01/08/2022
+01/08/2022 transferência pix recebida #49956959
+vera lucia dias
+***.908.496-**
+%stransferência pix recebida #%s
+r$ 79,00
+01/08/2022
+01/08/2022 transferência pix realizada #13745220
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.480,00
+data
+data de liberação
+descrição
+nome cliente
+cpf/cnpj cliente
+tipo
+valor
+28/02/2022
+28/02/2022 transferência pix recebida #17358342
+lunara lima silva
+***.974.793-**
+%stransferência pix recebida #%s
+r$ 99,00
+26/01/2022
+27/02/2022 taxa da cobrança 288592702
+taxa
+-r$ 5,17
+26/01/2022
+27/02/2022 pagamento da cobrança 288592702
+lisiane pinto cardoso
+026.091.870-92
+pagamento
+r$ 82,67
+26/01/2022
+27/02/2022 taxa da cobrança 288592701
+taxa
+-r$ 5,17
+26/01/2022
+27/02/2022 pagamento da cobrança 288592701
+lisiane pinto cardoso
+026.091.870-92
+pagamento
+r$ 82,67
+26/01/2022
+27/02/2022 taxa da cobrança 288592700
+taxa
+-r$ 5,17
+26/01/2022
+27/02/2022 pagamento da cobrança 288592700
+lisiane pinto cardoso
+026.091.870-92
+pagamento
+r$ 82,67
+26/01/2022
+27/02/2022 taxa da cobrança 289671685
+taxa
+-r$ 5,30
+26/01/2022
+27/02/2022 pagamento da cobrança 289671685
+antonio de sousa marinho filho
+660.002.623-53
+pagamento
+r$ 99,50
+26/01/2022
+27/02/2022 taxa da cobrança 289671684
+taxa
+-r$ 5,30
+26/01/2022
+27/02/2022 pagamento da cobrança 289671684
+antonio de sousa marinho filho
+660.002.623-53
+pagamento
+r$ 99,50
+25/01/2022
+26/02/2022 taxa da cobrança 288971911
+taxa
+-r$ 3,16
+25/01/2022
+26/02/2022 pagamento da cobrança 288971911
+mateus rodrigues dos santos
+028.234.860-38
+pagamento
+r$ 49,67
+25/01/2022
+26/02/2022 taxa da cobrança 288971910
+taxa
+-r$ 3,16
+25/01/2022
+26/02/2022 pagamento da cobrança 288971910
+mateus rodrigues dos santos
+028.234.860-38
+pagamento
+r$ 49,67
+25/01/2022
+26/02/2022 taxa da cobrança 288971909
+taxa
+-r$ 3,16
+25/01/2022
+26/02/2022 pagamento da cobrança 288971909
+mateus rodrigues dos santos
+028.234.860-38
+pagamento
+r$ 49,67
+25/01/2022
+26/02/2022 taxa da cobrança 288185026
+taxa
+-r$ 3,16
+25/01/2022
+26/02/2022 pagamento da cobrança 288185026
+daniele de lira silva
+068.341.574-33
+pagamento
+r$ 49,67
+25/01/2022
+26/02/2022 taxa da cobrança 288185025
+taxa
+-r$ 3,16
+25/01/2022
+26/02/2022 pagamento da cobrança 288185025
+daniele de lira silva
+068.341.574-33
+pagamento
+r$ 49,67
+25/01/2022
+26/02/2022 taxa da cobrança 288185024
+taxa
+-r$ 3,16
+25/01/2022
+26/02/2022 pagamento da cobrança 288185024
+daniele de lira silva
+068.341.574-33
+pagamento
+r$ 49,67
+25/01/2022
+26/02/2022 taxa da cobrança 289143561
+taxa
+-r$ 4,17
+25/01/2022
+26/02/2022 pagamento da cobrança 289143561
+louise vitória melo da silva
+016.884.022-76
+pagamento
+r$ 66,33
+25/01/2022
+26/02/2022 taxa da cobrança 289143560
+taxa
+-r$ 4,17
+25/01/2022
+26/02/2022 pagamento da cobrança 289143560
+louise vitória melo da silva
+016.884.022-76
+pagamento
+r$ 66,33
+25/01/2022
+26/02/2022 taxa da cobrança 289143559
+taxa
+-r$ 4,17
+25/01/2022
+26/02/2022 pagamento da cobrança 289143559
+louise vitória melo da silva
+016.884.022-76
+pagamento
+r$ 66,33
+25/02/2022
+25/02/2022 transferência pix realizada #8062875
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 749,00
+25/02/2022
+25/02/2022 taxa da cobrança 301465851
+taxa
+-r$ 1,70
+25/02/2022
+25/02/2022 pagamento da cobrança 301465851
+érica corrêa da silva souza
+094.992.087-80
+pagamento
+r$ 50,00
+25/02/2022
+25/02/2022 taxa da cobrança 296314653
+taxa
+-r$ 1,70
+25/02/2022
+25/02/2022 pagamento da cobrança 296314653
+verivaldo sousa de oliveira
+662.515.753-87
+pagamento
+r$ 149,00
+25/02/2022
+25/02/2022 taxa da cobrança 301306824
+taxa
+-r$ 1,70
+25/02/2022
+25/02/2022 pagamento da cobrança 301306824
+lúcia alves da silva
+067.074.484-04
+pagamento
+r$ 99,00
+25/02/2022
+25/02/2022 taxa da cobrança 301045930
+taxa
+-r$ 1,70
+25/02/2022
+25/02/2022 pagamento da cobrança 301045930
+magno santos souza
+278.049.038-12
+pagamento
+r$ 99,00
+24/02/2022
+24/02/2022 transferência pix realizada #8017532
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 100,00
+24/02/2022
+24/02/2022 transferência pix realizada #8013074
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 60,00
+24/02/2022
+24/02/2022 taxa da cobrança 300467980
+taxa
+-r$ 1,70
+24/02/2022
+24/02/2022 pagamento da cobrança 300467980
+daniel marks tiller dos santos
+071.673.626-89
+pagamento
+r$ 149,00
+24/02/2022
+24/02/2022 taxa da cobrança 300891255
+taxa
+-r$ 1,70
+24/02/2022
+24/02/2022 pagamento da cobrança 300891255
+aline da costa barbosa
+157.077.087-58
+pagamento
+r$ 149,00
+23/02/2022
+23/02/2022 transferência pix recebida #16824895
+vanesa da silva miranda
+***.076.055-**
+%stransferência pix recebida #%s
+r$ 109,00
+23/02/2022
+23/02/2022 comissão da cobrança 300647743
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+23/02/2022
+23/02/2022 comissão da cobrança 300646098
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+23/02/2022
+23/02/2022 taxa da cobrança 300058310
+taxa
+-r$ 1,70
+23/02/2022
+23/02/2022 pagamento da cobrança 300058310
+naraindi mendes soares
+059.484.395-26
+pagamento
+r$ 109,90
+22/02/2022
+22/02/2022 transferência pix realizada #7928222
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 870,00
+22/02/2022
+22/02/2022 taxa da cobrança 299921663
+taxa
+-r$ 1,70
+22/02/2022
+22/02/2022 pagamento da cobrança 299921663
+elker gracielle de moraes cunha
+219.227.848-93
+pagamento
+r$ 109,90
+22/02/2022
+22/02/2022 comissão da cobrança 298757373
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/02/2022
+22/02/2022 comissão da cobrança 298299566
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/02/2022
+22/02/2022 taxa da cobrança 299893892
+taxa
+-r$ 1,70
+22/02/2022
+22/02/2022 pagamento da cobrança 299893892
+mirella rafaela silva dos santos
+065.442.024-60
+pagamento
+r$ 109,90
+22/02/2022
+22/02/2022 taxa da cobrança 299884984
+taxa
+-r$ 1,70
+22/02/2022
+22/02/2022 pagamento da cobrança 299884984
+mislene maria abadia das graças sousa
+053.768.066-77
+pagamento
+r$ 99,00
+22/02/2022
+22/02/2022 taxa da cobrança 299886979
+taxa
+-r$ 1,70
+22/02/2022
+22/02/2022 pagamento da cobrança 299886979
+joicelanie iazielle simões lima
+127.404.727-73
+pagamento
+r$ 109,90
+22/02/2022
+22/02/2022 taxa da cobrança 299104266
+taxa
+-r$ 1,70
+22/02/2022
+22/02/2022 pagamento da cobrança 299104266
+thalles henrique do carmo
+074.096.866-18
+pagamento
+r$ 109,90
+22/02/2022
+22/02/2022 taxa da cobrança 299160689
+taxa
+-r$ 1,70
+22/02/2022
+22/02/2022 pagamento da cobrança 299160689
+cleonice aparecida santana
+766.864.779-15
+pagamento
+r$ 129,00
+19/02/2022
+21/02/2022 taxa da cobrança 297420999
+taxa
+-r$ 1,70
+19/02/2022
+21/02/2022 pagamento da cobrança 297420999
+mariany da silva souza
+036.843.701-93
+pagamento
+r$ 109,90
+19/02/2022
+21/02/2022 taxa da cobrança 298756142
+taxa
+-r$ 1,70
+19/02/2022
+21/02/2022 pagamento da cobrança 298756142
+valdinei alves rocha
+003.178.155-12
+pagamento
+r$ 109,90
+20/02/2022
+20/02/2022 transferência pix realizada #7821347
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.700,00
+20/02/2022
+20/02/2022 transferência pix realizada #7821337
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.184,00
+18/01/2022
+19/02/2022 taxa da cobrança 286480088
+taxa
+-r$ 4,17
+18/01/2022
+19/02/2022 pagamento da cobrança 286480088
+ezequiel de oliveira
+315.375.138-26
+pagamento
+r$ 66,33
+18/01/2022
+19/02/2022 taxa da cobrança 286480087
+taxa
+-r$ 4,17
+18/01/2022
+19/02/2022 pagamento da cobrança 286480087
+ezequiel de oliveira
+315.375.138-26
+pagamento
+r$ 66,33
+18/01/2022
+19/02/2022 taxa da cobrança 286480086
+taxa
+-r$ 4,17
+18/01/2022
+19/02/2022 pagamento da cobrança 286480086
+ezequiel de oliveira
+315.375.138-26
+pagamento
+r$ 66,33
+18/02/2022
+18/02/2022 taxa da cobrança 298354102
+taxa
+-r$ 1,70
+18/02/2022
+18/02/2022 pagamento da cobrança 298354102
+marcillene anicio de morais
+100.904.237-80
+pagamento
+r$ 129,00
+17/02/2022
+17/02/2022 transferência pix recebida #16053357
+patricia campos messeder borges
+***.851.205-**
+%stransferência pix recebida #%s
+r$ 109,90
+17/02/2022
+17/02/2022 taxa da cobrança 298134902
+taxa
+-r$ 1,70
+17/02/2022
+17/02/2022 pagamento da cobrança 298134902
+cristina alves ferreira laurindo
+096.438.477-99
+pagamento
+r$ 129,00
+17/02/2022
+17/02/2022 taxa da cobrança 298150552
+taxa
+-r$ 1,70
+17/02/2022
+17/02/2022 pagamento da cobrança 298150552
+maiara das chagas amaro
+046.101.613-38
+pagamento
+r$ 129,00
+16/02/2022
+16/02/2022 transferência pix realizada #7686712
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 10,00
+16/02/2022
+16/02/2022 taxa da cobrança 292324188
+taxa
+-r$ 1,70
+16/02/2022
+16/02/2022 pagamento da cobrança 292324188
+daniele silva santos sacramento santana
+220.103.548-26
+pagamento
+r$ 79,00
+16/02/2022
+16/02/2022 taxa da cobrança 295953777
+taxa
+-r$ 1,70
+16/02/2022
+16/02/2022 pagamento da cobrança 295953777
+marivone santos mendonça
+994.939.262-49
+pagamento
+r$ 109,90
+16/02/2022
+16/02/2022 taxa da cobrança 297429879
+taxa
+-r$ 1,70
+16/02/2022
+16/02/2022 pagamento da cobrança 297429879
+gislaine dos reis freitas
+044.036.536-85
+pagamento
+r$ 149,00
+16/02/2022
+16/02/2022 taxa da cobrança 297644061
+taxa
+-r$ 1,70
+16/02/2022
+16/02/2022 pagamento da cobrança 297644061
+lasara benedita da cruz cunha plates
+044.247.748-13
+pagamento
+r$ 109,90
+16/02/2022
+16/02/2022 taxa da cobrança 292303906
+taxa
+-r$ 1,70
+16/02/2022
+16/02/2022 pagamento da cobrança 292303906
+erica fragoso rodrigues
+227.578.618-08
+pagamento
+r$ 109,90
+16/02/2022
+16/02/2022 taxa da cobrança 297845454
+taxa
+-r$ 1,70
+16/02/2022
+16/02/2022 pagamento da cobrança 297845454
+ordalva coelho meira da silva
+278.277.978-81
+pagamento
+r$ 109,90
+15/02/2022
+15/02/2022 transferência pix realizada #7662890
+verônica de sousa santos
+***.621.666-**
+%stransferência pix realizada #%s
+-r$ 788,65
+15/02/2022
+15/02/2022 transferência pix realizada #7662741
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 34,00
+15/02/2022
+15/02/2022 taxa da cobrança 295092041
+taxa
+-r$ 1,70
+15/02/2022
+15/02/2022 pagamento da cobrança 295092041
+cristiane campos pereira vicente
+582.144.612-00
+pagamento
+r$ 180,90
+14/01/2022
+15/02/2022 taxa da cobrança 285376847
+taxa
+-r$ 2,73
+14/01/2022
+15/02/2022 pagamento da cobrança 285376847
+marília de melo domingos
+927.793.956-72
+pagamento
+r$ 49,50
+14/01/2022
+15/02/2022 taxa da cobrança 285376846
+taxa
+-r$ 2,73
+14/01/2022
+15/02/2022 pagamento da cobrança 285376846
+marília de melo domingos
+927.793.956-72
+pagamento
+r$ 49,50
+12/02/2022
+14/02/2022 taxa da cobrança 296509624
+taxa
+-r$ 1,70
+12/02/2022
+14/02/2022 pagamento da cobrança 296509624
+charley serrão silva
+659.744.252-00
+pagamento
+r$ 109,90
+12/02/2022
+14/02/2022 taxa da cobrança 295818407
+taxa
+-r$ 1,70
+12/02/2022
+14/02/2022 pagamento da cobrança 295818407
+isangila leonice ritchane souza cezar
+923.733.212-20
+pagamento
+r$ 79,00
+12/02/2022
+14/02/2022 taxa da cobrança 296214415
+taxa
+-r$ 1,70
+12/02/2022
+14/02/2022 pagamento da cobrança 296214415
+breno joudir santos dias
+058.149.935-29
+pagamento
+r$ 99,00
+12/02/2022
+14/02/2022 taxa da cobrança 294368510
+taxa
+-r$ 1,70
+12/02/2022
+14/02/2022 pagamento da cobrança 294368510
+leiliane lima dos santos
+005.034.765-95
+pagamento
+r$ 109,90
+12/02/2022
+14/02/2022 taxa da cobrança 294974657
+taxa
+-r$ 1,70
+12/02/2022
+14/02/2022 pagamento da cobrança 294974657
+isabel cristina da rocha
+656.279.546-04
+pagamento
+r$ 99,00
+12/02/2022
+14/02/2022 comissão da cobrança 296358973
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+12/02/2022
+14/02/2022 taxa da cobrança 295990797
+taxa
+-r$ 1,70
+12/02/2022
+14/02/2022 pagamento da cobrança 295990797
+fabiana de aguiar cardoso
+057.915.841-13
+pagamento
+r$ 79,00
+12/02/2022
+14/02/2022 taxa da cobrança 295821951
+taxa
+-r$ 1,70
+12/02/2022
+14/02/2022 pagamento da cobrança 295821951
+luciane ribeiro dias
+065.226.166-37
+pagamento
+r$ 99,00
+12/01/2022
+13/02/2022 taxa da cobrança 284374105
+taxa
+-r$ 2,79
+12/01/2022
+13/02/2022 pagamento da cobrança 284374105
+laylla maria de castro souza
+121.456.336-85
+pagamento
+r$ 100,00
+12/01/2022
+13/02/2022 taxa da cobrança 284364176
+taxa
+-r$ 3,50
+12/01/2022
+13/02/2022 pagamento da cobrança 284364176
+marlisa lino de souza
+004.751.750-69
+pagamento
+r$ 64,50
+12/01/2022
+13/02/2022 taxa da cobrança 284364175
+taxa
+-r$ 3,50
+12/01/2022
+13/02/2022 pagamento da cobrança 284364175
+marlisa lino de souza
+004.751.750-69
+pagamento
+r$ 64,50
+12/01/2022
+13/02/2022 taxa da cobrança 284346260
+taxa
+-r$ 2,36
+12/01/2022
+13/02/2022 pagamento da cobrança 284346260
+bárbara de abreu lima
+054.412.363-88
+pagamento
+r$ 36,63
+12/01/2022
+13/02/2022 taxa da cobrança 284346259
+taxa
+-r$ 2,36
+12/01/2022
+13/02/2022 pagamento da cobrança 284346259
+bárbara de abreu lima
+054.412.363-88
+pagamento
+r$ 36,63
+12/01/2022
+13/02/2022 taxa da cobrança 284346258
+taxa
+-r$ 2,36
+12/01/2022
+13/02/2022 pagamento da cobrança 284346258
+bárbara de abreu lima
+054.412.363-88
+pagamento
+r$ 36,63
+12/02/2022
+12/02/2022 transferência pix realizada #7541165
+reginaldo eduardo arcanjo
+***.626.516-**
+%stransferência pix realizada #%s
+-r$ 45,00
+11/01/2022
+12/02/2022 taxa da cobrança 283641836
+taxa
+-r$ 1,32
+11/01/2022
+12/02/2022 pagamento da cobrança 283641836
+juvina de lima ferreira
+608.212.802-87
+pagamento
+r$ 49,67
+11/01/2022
+12/02/2022 taxa da cobrança 283641835
+taxa
+-r$ 1,32
+11/01/2022
+12/02/2022 pagamento da cobrança 283641835
+juvina de lima ferreira
+608.212.802-87
+pagamento
+r$ 49,67
+11/01/2022
+12/02/2022 taxa da cobrança 283641834
+taxa
+-r$ 1,32
+11/01/2022
+12/02/2022 pagamento da cobrança 283641834
+juvina de lima ferreira
+608.212.802-87
+pagamento
+r$ 49,67
+11/02/2022
+11/02/2022 transferência pix realizada #7497780
+leticia sousa dos santos correa
+***.066.156-**
+%stransferência pix realizada #%s
+-r$ 100,00
+11/02/2022
+11/02/2022 taxa da cobrança 292937019
+taxa
+-r$ 1,70
+11/02/2022
+11/02/2022 pagamento da cobrança 292937019
+ester carneiro de morais
+050.620.415-46
+pagamento
+r$ 99,00
+11/02/2022
+11/02/2022 taxa da cobrança 295761933
+taxa
+-r$ 1,70
+11/02/2022
+11/02/2022 pagamento da cobrança 295761933
+priscila dos santos moura
+307.816.778-07
+pagamento
+r$ 149,00
+11/02/2022
+11/02/2022 taxa da cobrança 294420762
+taxa
+-r$ 1,70
+11/02/2022
+11/02/2022 pagamento da cobrança 294420762
+silvia guereta de souza santos
+191.611.568-33
+pagamento
+r$ 129,00
+10/01/2022
+11/02/2022 taxa da cobrança 282323054
+taxa
+-r$ 4,02
+10/01/2022
+11/02/2022 pagamento da cobrança 282323054
+solone mendes
+385.147.848-70
+pagamento
+r$ 74,50
+10/01/2022
+11/02/2022 taxa da cobrança 282323053
+taxa
+-r$ 4,02
+10/01/2022
+11/02/2022 pagamento da cobrança 282323053
+solone mendes
+385.147.848-70
+pagamento
+r$ 74,50
+10/02/2022
+10/02/2022 transferência pix realizada #7485457
+laura izidoro porto
+***.245.996-**
+%stransferência pix realizada #%s
+-r$ 30,00
+10/02/2022
+10/02/2022 transferência pix realizada #7445009
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.100,00
+10/02/2022
+10/02/2022 taxa da cobrança 295267420
+taxa
+-r$ 1,70
+10/02/2022
+10/02/2022 pagamento da cobrança 295267420
+tania suely leite ferreira
+372.906.735-49
+pagamento
+r$ 149,00
+10/02/2022
+10/02/2022 comissão da cobrança 291481210
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+10/02/2022
+10/02/2022 taxa da cobrança 295107470
+taxa
+-r$ 1,70
+10/02/2022
+10/02/2022 pagamento da cobrança 295107470
+marilene azevedo amaral xavier
+042.967.736-74
+pagamento
+r$ 109,90
+09/02/2022
+09/02/2022 taxa da cobrança 295031167
+taxa
+-r$ 1,70
+09/02/2022
+09/02/2022 pagamento da cobrança 295031167
+tatiane cardoso maia damasio
+082.025.706-03
+pagamento
+r$ 109,90
+09/02/2022
+09/02/2022 taxa da cobrança 293001675
+taxa
+-r$ 1,70
+09/02/2022
+09/02/2022 pagamento da cobrança 293001675
+joubert figueiredo de souza menezes
+074.447.136-26
+pagamento
+r$ 129,00
+09/02/2022
+09/02/2022 taxa da cobrança 295095542
+taxa
+-r$ 1,70
+09/02/2022
+09/02/2022 pagamento da cobrança 295095542
+aline ane cardoso serra
+052.687.906-84
+pagamento
+r$ 109,90
+09/02/2022
+09/02/2022 taxa da cobrança 294374423
+taxa
+-r$ 1,70
+09/02/2022
+09/02/2022 pagamento da cobrança 294374423
+claudia dá silva amorim
+048.104.013-75
+pagamento
+r$ 149,00
+09/02/2022
+09/02/2022 taxa da cobrança 294909484
+taxa
+-r$ 1,70
+09/02/2022
+09/02/2022 pagamento da cobrança 294909484
+ana carolina lopes moreira
+463.000.558-76
+pagamento
+r$ 129,00
+09/02/2022
+09/02/2022 taxa da cobrança 294916354
+taxa
+-r$ 1,70
+09/02/2022
+09/02/2022 pagamento da cobrança 294916354
+acacia santos silva
+005.523.655-30
+pagamento
+r$ 149,00
+08/02/2022
+08/02/2022 transferência pix realizada #7365015
+clinica odontologica silva & lage ltda
+**.*85.407/0001-**
+%stransferência pix realizada #%s
+-r$ 19,90
+08/02/2022
+08/02/2022 comissão da cobrança 291444879
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+08/02/2022
+08/02/2022 taxa da cobrança 287935292
+taxa
+-r$ 1,70
+08/02/2022
+08/02/2022 pagamento da cobrança 287935292
+valquíria lima cabral
+058.019.164-82
+pagamento
+r$ 149,00
+08/02/2022
+08/02/2022 taxa da cobrança 294378105
+taxa
+-r$ 1,70
+08/02/2022
+08/02/2022 pagamento da cobrança 294378105
+jocielma batista souza
+602.687.753-38
+pagamento
+r$ 99,00
+08/02/2022
+08/02/2022 taxa da cobrança 292306601
+taxa
+-r$ 1,70
+08/02/2022
+08/02/2022 pagamento da cobrança 292306601
+josiane ignácio moraes felix
+290.593.408-50
+pagamento
+r$ 109,90
+08/02/2022
+08/02/2022 taxa da cobrança 291365252
+taxa
+-r$ 1,70
+08/02/2022
+08/02/2022 pagamento da cobrança 291365252
+vanusa de cássia pinto costa
+035.760.926-33
+pagamento
+r$ 109,90
+08/02/2022
+08/02/2022 taxa da cobrança 293434443
+taxa
+-r$ 1,70
+08/02/2022
+08/02/2022 pagamento da cobrança 293434443
+áurea cristiane borges lopes
+711.422.742-68
+pagamento
+r$ 109,90
+08/02/2022
+08/02/2022 taxa da cobrança 294525907
+taxa
+-r$ 1,70
+08/02/2022
+08/02/2022 pagamento da cobrança 294525907
+lucas carneiro da silva
+120.333.727-23
+pagamento
+r$ 149,00
+07/02/2022
+07/02/2022 transferência pix recebida #14802069
+karine gomes pinto
+***.031.876-**
+%stransferência pix recebida #%s
+r$ 20,00
+07/02/2022
+07/02/2022 transferência pix realizada #7287123
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 240,00
+07/02/2022
+07/02/2022 transferência pix realizada #7284959
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 500,00
+05/02/2022
+07/02/2022 taxa da cobrança 293430830
+taxa
+-r$ 1,70
+05/02/2022
+07/02/2022 pagamento da cobrança 293430830
+marcos daniel gonzales
+281.890.678-42
+pagamento
+r$ 180,90
+06/01/2022
+07/02/2022 taxa da cobrança 281849993
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281849993
+catiuza aparecida fernandes
+007.165.790-81
+pagamento
+r$ 49,67
+06/01/2022
+07/02/2022 taxa da cobrança 281849992
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281849992
+catiuza aparecida fernandes
+007.165.790-81
+pagamento
+r$ 49,67
+06/01/2022
+07/02/2022 taxa da cobrança 281849991
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281849991
+catiuza aparecida fernandes
+007.165.790-81
+pagamento
+r$ 49,67
+06/01/2022
+07/02/2022 taxa da cobrança 281191226
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281191226
+vilma gualberto de brito rebello
+722.314.401-72
+pagamento
+r$ 49,67
+06/01/2022
+07/02/2022 taxa da cobrança 281191225
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281191225
+vilma gualberto de brito rebello
+722.314.401-72
+pagamento
+r$ 49,67
+06/01/2022
+07/02/2022 taxa da cobrança 281191224
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281191224
+vilma gualberto de brito rebello
+722.314.401-72
+pagamento
+r$ 49,67
+06/01/2022
+07/02/2022 taxa da cobrança 281633406
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281633406
+micheli camargo
+040.029.749-36
+pagamento
+r$ 49,67
+06/01/2022
+07/02/2022 taxa da cobrança 281633405
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281633405
+micheli camargo
+040.029.749-36
+pagamento
+r$ 49,67
+06/01/2022
+07/02/2022 taxa da cobrança 281633404
+taxa
+-r$ 3,16
+06/01/2022
+07/02/2022 pagamento da cobrança 281633404
+micheli camargo
+040.029.749-36
+pagamento
+r$ 49,67
+05/02/2022
+05/02/2022 transferência pix recebida #14509673
+gesiane r macaneiro
+***.206.059-**
+%stransferência pix recebida #%s
+r$ 109,90
+04/02/2022
+04/02/2022 transferência pix realizada #7260467
+ezequiel vieira de oliveira
+***.223.666-**
+%stransferência pix realizada #%s
+-r$ 18,49
+04/02/2022
+04/02/2022 transferência pix realizada #7246072
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 1.361,00
+04/02/2022
+04/02/2022 transferência pix realizada #7245962
+verônica de sousa santos
+***.621.666-**
+%stransferência pix realizada #%s
+-r$ 888,80
+04/02/2022
+04/02/2022 transferência pix realizada #7245846
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 1.121,10
+04/02/2022
+04/02/2022 transferência pix realizada #7245730
+verônica de sousa santos
+***.621.666-**
+%stransferência pix realizada #%s
+-r$ 186,85
+04/02/2022
+04/02/2022 transferência pix realizada #7245624
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 1.444,15
+04/02/2022
+04/02/2022 transferência pix realizada #7245518
+keila da silva evaristo
+***.844.966-**
+%stransferência pix realizada #%s
+-r$ 1.701,68
+04/02/2022
+04/02/2022 transferência pix realizada #7245277
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 1.312,22
+04/02/2022
+04/02/2022 transferência pix recebida #14397873
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 2.150,00
+04/02/2022
+04/02/2022 transferência pix recebida #14397729
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 3.000,00
+04/02/2022
+04/02/2022 taxa da cobrança 289478332
+taxa
+-r$ 1,70
+04/02/2022
+04/02/2022 pagamento da cobrança 289478332
+débora aparecida pontes de carvalho
+403.110.758-78
+pagamento
+r$ 109,90
+04/02/2022
+04/02/2022 taxa da cobrança 291866084
+taxa
+-r$ 1,70
+04/02/2022
+04/02/2022 pagamento da cobrança 291866084
+kelma maria feitosa lopes
+524.352.881-15
+pagamento
+r$ 129,00
+04/02/2022
+04/02/2022 taxa da cobrança 292573536
+taxa
+-r$ 1,70
+04/02/2022
+04/02/2022 pagamento da cobrança 292573536
+ana marisa da silva pimenta
+701.981.334-80
+pagamento
+r$ 99,00
+04/02/2022
+04/02/2022 taxa da cobrança 291805606
+taxa
+-r$ 1,70
+04/02/2022
+04/02/2022 pagamento da cobrança 291805606
+kênia martins de faria
+092.619.266-30
+pagamento
+r$ 99,00
+03/02/2022
+03/02/2022 transferência pix realizada #7218395
+maria isabel da silva
+***.490.954-**
+%stransferência pix realizada #%s
+-r$ 28,00
+03/02/2022
+03/02/2022 taxa da cobrança 291876421
+taxa
+-r$ 1,70
+03/02/2022
+03/02/2022 pagamento da cobrança 291876421
+david emanuel rodrigues leão
+340.180.838-90
+pagamento
+r$ 109,90
+03/02/2022
+03/02/2022 taxa da cobrança 292569319
+taxa
+-r$ 1,70
+03/02/2022
+03/02/2022 pagamento da cobrança 292569319
+amarilson muniz dos santos
+530.706.902-20
+pagamento
+r$ 109,90
+02/02/2022
+02/02/2022 taxa da cobrança 291544179
+taxa
+-r$ 1,70
+02/02/2022
+02/02/2022 pagamento da cobrança 291544179
+alcionea santos da silva
+635.016.431-87
+pagamento
+r$ 199,00
+02/02/2022
+02/02/2022 taxa da cobrança 289485028
+taxa
+-r$ 1,70
+02/02/2022
+02/02/2022 pagamento da cobrança 289485028
+alessandra lima de jesus andrade
+056.360.015-25
+pagamento
+r$ 129,00
+02/02/2022
+02/02/2022 taxa da cobrança 289294888
+taxa
+-r$ 1,70
+02/02/2022
+02/02/2022 pagamento da cobrança 289294888
+joserlândia maria da silva
+066.111.394-94
+pagamento
+r$ 129,00
+02/02/2022
+02/02/2022 taxa da cobrança 289689110
+taxa
+-r$ 1,70
+02/02/2022
+02/02/2022 pagamento da cobrança 289689110
+jeniffer plens hoshino cardoso
+354.576.448-63
+pagamento
+r$ 79,00
+02/02/2022
+02/02/2022 taxa da cobrança 288616576
+taxa
+-r$ 1,70
+02/02/2022
+02/02/2022 pagamento da cobrança 288616576
+maria martha do nascimento
+704.082.544-91
+pagamento
+r$ 99,00
+02/02/2022
+02/02/2022 taxa da cobrança 291815613
+taxa
+-r$ 1,70
+02/02/2022
+02/02/2022 pagamento da cobrança 291815613
+priscilla ribeiro da silva lacerda
+133.227.147-21
+pagamento
+r$ 129,00
+02/02/2022
+02/02/2022 taxa da cobrança 289919588
+taxa
+-r$ 1,70
+02/02/2022
+02/02/2022 pagamento da cobrança 289919588
+maria sueli righez mesquita
+444.602.870-72
+pagamento
+r$ 129,00
+01/02/2022
+01/02/2022 taxa da cobrança 289665588
+taxa
+-r$ 1,70
+01/02/2022
+01/02/2022 pagamento da cobrança 289665588
+flavia rafaela lopes muller
+024.758.762-12
+pagamento
+r$ 149,00
+01/02/2022
+01/02/2022 taxa da cobrança 287866694
+taxa
+-r$ 1,70
+01/02/2022
+01/02/2022 pagamento da cobrança 287866694
+beatriz fernanda da costa souza
+459.905.648-05
+pagamento
+r$ 129,00
+01/02/2022
+01/02/2022 taxa da cobrança 291498318
+taxa
+-r$ 1,70
+01/02/2022
+01/02/2022 pagamento da cobrança 291498318
+rosane da silva sousa
+040.298.133-21
+pagamento
+r$ 109,90
+01/02/2022
+01/02/2022 taxa da cobrança 291378076
+taxa
+-r$ 1,70
+01/02/2022
+01/02/2022 pagamento da cobrança 291378076
+rosane da silva sousa
+040.298.133-21
+pagamento
+r$ 99,00
+01/02/2022
+01/02/2022 taxa da cobrança 290511083
+taxa
+-r$ 1,70
+01/02/2022
+01/02/2022 pagamento da cobrança 290511083
+francisco everton coelho gonçalves
+023.568.573-97
+pagamento
+r$ 199,00
+data
+data de liberação
+descrição
+nome cliente
+cpf/cnpj cliente
+tipo
+valor
+29/01/2022
+31/01/2022 taxa da cobrança 289512290
+taxa
+-r$ 1,70
+29/01/2022
+31/01/2022 pagamento da cobrança 289512290
+juarez borges dos santos junior
+033.408.195-56
+pagamento
+r$ 109,90
+29/12/2021
+30/01/2022 taxa da cobrança 278423001
+taxa
+-r$ 2,75
+29/12/2021
+30/01/2022 pagamento da cobrança 278423001
+josé vieira domingues
+510.199.906-78
+pagamento
+r$ 43,00
+29/12/2021
+30/01/2022 taxa da cobrança 278423000
+taxa
+-r$ 2,75
+29/12/2021
+30/01/2022 pagamento da cobrança 278423000
+josé vieira domingues
+510.199.906-78
+pagamento
+r$ 43,00
+29/12/2021
+30/01/2022 taxa da cobrança 278422999
+taxa
+-r$ 2,75
+29/12/2021
+30/01/2022 pagamento da cobrança 278422999
+josé vieira domingues
+510.199.906-78
+pagamento
+r$ 43,00
+28/01/2022
+28/01/2022 transferência pix realizada #7004311
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 50,00
+28/01/2022
+28/01/2022 transferência pix realizada #7001569
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.600,00
+28/01/2022
+28/01/2022 taxa da cobrança 286174191
+taxa
+-r$ 1,70
+28/01/2022
+28/01/2022 pagamento da cobrança 286174191
+lunna lima carvalho
+007.095.362-75
+pagamento
+r$ 109,90
+27/12/2021
+28/01/2022 taxa da cobrança 277540371
+taxa
+-r$ 3,50
+27/12/2021
+28/01/2022 pagamento da cobrança 277540371
+eunice gomes de lima
+054.702.634-01
+pagamento
+r$ 64,50
+27/12/2021
+28/01/2022 taxa da cobrança 277540370
+taxa
+-r$ 3,50
+27/12/2021
+28/01/2022 pagamento da cobrança 277540370
+eunice gomes de lima
+054.702.634-01
+pagamento
+r$ 64,50
+27/01/2022
+27/01/2022 taxa da cobrança 289719001
+taxa
+-r$ 1,70
+27/01/2022
+27/01/2022 pagamento da cobrança 289719001
+cláudia breila de melo castro
+030.571.493-75
+pagamento
+r$ 79,00
+27/01/2022
+27/01/2022 taxa da cobrança 289703310
+taxa
+-r$ 1,70
+27/01/2022
+27/01/2022 pagamento da cobrança 289703310
+victória da silva oliveira
+490.610.258-18
+pagamento
+r$ 79,00
+26/01/2022
+26/01/2022 taxa da cobrança 289069887
+taxa
+-r$ 1,70
+26/01/2022
+26/01/2022 pagamento da cobrança 289069887
+giani henkel
+013.489.120-14
+pagamento
+r$ 149,00
+26/01/2022
+26/01/2022 taxa da cobrança 289240387
+taxa
+-r$ 1,70
+26/01/2022
+26/01/2022 pagamento da cobrança 289240387
+sueli de almeida
+274.412.438-90
+pagamento
+r$ 109,90
+26/01/2022
+26/01/2022 taxa da cobrança 289258670
+taxa
+-r$ 1,70
+26/01/2022
+26/01/2022 pagamento da cobrança 289258670
+fabiane aparecida da fonseca
+119.466.556-00
+pagamento
+r$ 129,00
+26/01/2022
+26/01/2022 taxa da cobrança 288182880
+taxa
+-r$ 1,70
+26/01/2022
+26/01/2022 pagamento da cobrança 288182880
+kelly cristina dos santos
+058.075.664-59
+pagamento
+r$ 149,00
+25/01/2022
+25/01/2022 taxa da cobrança 288865554
+taxa
+-r$ 1,70
+25/01/2022
+25/01/2022 pagamento da cobrança 288865554
+camila de brito souza andrade
+033.249.875-12
+pagamento
+r$ 79,00
+25/01/2022
+25/01/2022 taxa da cobrança 287116839
+taxa
+-r$ 1,70
+25/01/2022
+25/01/2022 pagamento da cobrança 287116839
+andreia aparecida campos dias
+101.322.906-18
+pagamento
+r$ 129,00
+25/01/2022
+25/01/2022 taxa da cobrança 287978490
+taxa
+-r$ 1,70
+25/01/2022
+25/01/2022 pagamento da cobrança 287978490
+gustavo venancio
+437.481.078-11
+pagamento
+r$ 99,00
+22/01/2022
+24/01/2022 taxa da cobrança 287977184
+taxa
+-r$ 1,70
+22/01/2022
+24/01/2022 pagamento da cobrança 287977184
+márcio rodrigo ferreira de menezes
+028.634.544-71
+pagamento
+r$ 328,00
+22/01/2022
+24/01/2022 taxa da cobrança 287503256
+taxa
+-r$ 1,70
+22/01/2022
+24/01/2022 pagamento da cobrança 287503256
+shirliam freire de souza brandão
+062.517.414-30
+pagamento
+r$ 149,00
+22/01/2022
+24/01/2022 comissão da cobrança 287821001
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+23/12/2021
+24/01/2022 taxa da cobrança 276375726
+taxa
+-r$ 2,77
+23/12/2021
+24/01/2022 pagamento da cobrança 276375726
+alex teles de lima
+031.582.745-90
+pagamento
+r$ 99,00
+22/12/2021
+23/01/2022 comissão da cobrança 276155805
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155804
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155803
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155802
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155801
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155800
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155799
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155798
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155797
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155796
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155795
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/12/2021
+23/01/2022 comissão da cobrança 276155794
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+21/01/2022
+21/01/2022 taxa da cobrança 287474780
+taxa
+-r$ 1,70
+21/01/2022
+21/01/2022 pagamento da cobrança 287474780
+joiara nara fernandes de paiva costa
+038.458.743-76
+pagamento
+r$ 79,00
+21/01/2022
+21/01/2022 comissão da cobrança 286962121
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+21/01/2022
+21/01/2022 taxa da cobrança 286052841
+taxa
+-r$ 1,70
+21/01/2022
+21/01/2022 pagamento da cobrança 286052841
+tanali usmari
+344.545.258-03
+pagamento
+r$ 79,00
+21/01/2022
+21/01/2022 taxa da cobrança 285372158
+taxa
+-r$ 1,70
+21/01/2022
+21/01/2022 pagamento da cobrança 285372158
+maricleide do couto antunes
+951.575.060-15
+pagamento
+r$ 109,90
+20/12/2021
+21/01/2022 taxa da cobrança 272794095
+taxa
+-r$ 2,77
+20/12/2021
+21/01/2022 pagamento da cobrança 272794095
+esther fidelis da silva
+483.629.258-17
+pagamento
+r$ 99,00
+20/01/2022
+20/01/2022 transferência pix realizada #6705924
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 1.300,00
+20/01/2022
+20/01/2022 taxa da cobrança 286949432
+taxa
+-r$ 1,70
+20/01/2022
+20/01/2022 pagamento da cobrança 286949432
+natalia peixoto
+083.957.456-80
+pagamento
+r$ 109,90
+20/01/2022
+20/01/2022 taxa da cobrança 286884716
+taxa
+-r$ 1,70
+20/01/2022
+20/01/2022 pagamento da cobrança 286884716
+rosangela candian pereira grizone
+610.089.236-72
+pagamento
+r$ 109,90
+20/01/2022
+20/01/2022 taxa da cobrança 286055400
+taxa
+-r$ 1,70
+20/01/2022
+20/01/2022 pagamento da cobrança 286055400
+jocimar pedro da silva
+508.970.126-15
+pagamento
+r$ 129,00
+19/01/2022
+19/01/2022 comissão da cobrança 286356815
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+19/01/2022
+19/01/2022 taxa da cobrança 286437705
+taxa
+-r$ 1,70
+19/01/2022
+19/01/2022 pagamento da cobrança 286437705
+beatriz garcia torres
+016.167.112-80
+pagamento
+r$ 99,00
+19/01/2022
+19/01/2022 taxa da cobrança 286624859
+taxa
+-r$ 1,70
+19/01/2022
+19/01/2022 pagamento da cobrança 286624859
+marcia mendes grei
+585.280.832-68
+pagamento
+r$ 109,90
+18/01/2022
+18/01/2022 comissão da cobrança 285578231
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+18/01/2022
+18/01/2022 taxa da cobrança 282388662
+taxa
+-r$ 1,70
+18/01/2022
+18/01/2022 pagamento da cobrança 282388662
+marister candida almeida lopes
+056.438.336-89
+pagamento
+r$ 109,90
+18/01/2022
+18/01/2022 comissão da cobrança 285373909
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+18/01/2022
+18/01/2022 taxa da cobrança 286056583
+taxa
+-r$ 1,70
+18/01/2022
+18/01/2022 pagamento da cobrança 286056583
+michael douglas benites rodrigues
+056.420.761-67
+pagamento
+r$ 129,00
+18/01/2022
+18/01/2022 taxa da cobrança 284382837
+taxa
+-r$ 1,70
+18/01/2022
+18/01/2022 pagamento da cobrança 284382837
+aline alves santos tigre
+033.334.595-90
+pagamento
+r$ 99,00
+18/01/2022
+18/01/2022 comissão da cobrança 284913237
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+18/01/2022
+18/01/2022 taxa da cobrança 286050581
+taxa
+-r$ 1,70
+18/01/2022
+18/01/2022 pagamento da cobrança 286050581
+silvana vieira alves franco
+068.743.076-30
+pagamento
+r$ 149,00
+18/01/2022
+18/01/2022 taxa da cobrança 278228149
+taxa
+-r$ 1,70
+18/01/2022
+18/01/2022 pagamento da cobrança 278228149
+joelma isabel leal
+029.369.836-81
+pagamento
+r$ 109,90
+18/01/2022
+18/01/2022 taxa da cobrança 285352872
+taxa
+-r$ 1,70
+18/01/2022
+18/01/2022 pagamento da cobrança 285352872
+etiene francisca rocha
+021.365.051-73
+pagamento
+r$ 149,00
+17/01/2022
+17/01/2022 transferência pix realizada #6565827
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 4.900,00
+15/01/2022
+17/01/2022 comissão da cobrança 285164398
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+15/01/2022
+17/01/2022 taxa da cobrança 284561584
+taxa
+-r$ 1,70
+15/01/2022
+17/01/2022 pagamento da cobrança 284561584
+maria aparecida de souza
+800.031.506-82
+pagamento
+r$ 79,00
+15/01/2022
+17/01/2022 taxa da cobrança 280037656
+taxa
+-r$ 1,70
+15/01/2022
+17/01/2022 pagamento da cobrança 280037656
+maria de fátima da silva
+958.707.504-82
+pagamento
+r$ 109,90
+15/01/2022
+17/01/2022 comissão da cobrança 284550202
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+15/01/2022
+17/01/2022 taxa da cobrança 285290584
+taxa
+-r$ 1,70
+15/01/2022
+17/01/2022 pagamento da cobrança 285290584
+verlaine de oliveira
+116.060.447-96
+pagamento
+r$ 149,00
+15/01/2022
+17/01/2022 taxa da cobrança 285333090
+taxa
+-r$ 1,70
+15/01/2022
+17/01/2022 pagamento da cobrança 285333090
+cássio rafael marçon miranda
+435.961.828-08
+pagamento
+r$ 129,00
+15/12/2021
+16/01/2022 taxa da cobrança 273136624
+taxa
+-r$ 3,16
+15/12/2021
+16/01/2022 pagamento da cobrança 273136624
+geise ratunde de souza
+013.362.932-50
+pagamento
+r$ 49,67
+15/12/2021
+16/01/2022 taxa da cobrança 273136623
+taxa
+-r$ 3,16
+15/12/2021
+16/01/2022 pagamento da cobrança 273136623
+geise ratunde de souza
+013.362.932-50
+pagamento
+r$ 49,67
+15/12/2021
+16/01/2022 taxa da cobrança 273136622
+taxa
+-r$ 3,16
+15/12/2021
+16/01/2022 pagamento da cobrança 273136622
+geise ratunde de souza
+013.362.932-50
+pagamento
+r$ 49,67
+14/12/2021
+15/01/2022 taxa da cobrança 272370758
+taxa
+-r$ 3,16
+14/12/2021
+15/01/2022 pagamento da cobrança 272370758
+gilmar vasconcelos caldas
+369.038.412-53
+pagamento
+r$ 49,67
+14/12/2021
+15/01/2022 taxa da cobrança 272370757
+taxa
+-r$ 3,16
+14/12/2021
+15/01/2022 pagamento da cobrança 272370757
+gilmar vasconcelos caldas
+369.038.412-53
+pagamento
+r$ 49,67
+14/12/2021
+15/01/2022 taxa da cobrança 272370756
+taxa
+-r$ 3,16
+14/12/2021
+15/01/2022 pagamento da cobrança 272370756
+gilmar vasconcelos caldas
+369.038.412-53
+pagamento
+r$ 49,67
+14/01/2022
+14/01/2022 transferência pix realizada #6525607
+leticia sousa dos santos correa
+***.066.156-**
+%stransferência pix realizada #%s
+-r$ 100,00
+14/01/2022
+14/01/2022 taxa da cobrança 284910828
+taxa
+-r$ 1,70
+14/01/2022
+14/01/2022 pagamento da cobrança 284910828
+maria das dôres daniele oliveira
+027.951.264-35
+pagamento
+r$ 199,00
+14/01/2022
+14/01/2022 taxa da cobrança 283013898
+taxa
+-r$ 1,70
+14/01/2022
+14/01/2022 pagamento da cobrança 283013898
+denivalda da silva xavier
+629.877.122-00
+pagamento
+r$ 149,00
+14/01/2022
+14/01/2022 comissão da cobrança 284509345
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+14/01/2022
+14/01/2022 taxa da cobrança 284920862
+taxa
+-r$ 1,70
+14/01/2022
+14/01/2022 pagamento da cobrança 284920862
+laylla maria de castro souza
+121.456.336-85
+pagamento
+r$ 109,90
+13/12/2021
+14/01/2022 taxa da cobrança 272147109
+taxa
+-r$ 4,02
+13/12/2021
+14/01/2022 pagamento da cobrança 272147109
+aline roberta rodrigues
+045.270.146-50
+pagamento
+r$ 74,50
+13/12/2021
+14/01/2022 taxa da cobrança 272147108
+taxa
+-r$ 4,02
+13/12/2021
+14/01/2022 pagamento da cobrança 272147108
+aline roberta rodrigues
+045.270.146-50
+pagamento
+r$ 74,50
+13/01/2022
+13/01/2022 transferência pix realizada #6503010
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 13,00
+13/01/2022
+13/01/2022 taxa da cobrança 284379014
+taxa
+-r$ 1,70
+13/01/2022
+13/01/2022 pagamento da cobrança 284379014
+francinete da silva ramos
+745.680.192-49
+pagamento
+r$ 79,00
+13/01/2022
+13/01/2022 taxa da cobrança 283451610
+taxa
+-r$ 1,70
+13/01/2022
+13/01/2022 pagamento da cobrança 283451610
+cleonice cristiane silva
+995.987.876-72
+pagamento
+r$ 109,90
+13/01/2022
+13/01/2022 taxa da cobrança 283450213
+taxa
+-r$ 1,70
+13/01/2022
+13/01/2022 pagamento da cobrança 283450213
+maria vanilce bernardes
+055.499.176-45
+pagamento
+r$ 79,00
+12/01/2022
+12/01/2022 taxa da cobrança 284014454
+taxa
+-r$ 1,70
+12/01/2022
+12/01/2022 pagamento da cobrança 284014454
+vania barbosa dos santos
+112.289.728-69
+pagamento
+r$ 129,00
+11/01/2022
+11/01/2022 taxa da cobrança 283273314
+taxa
+-r$ 1,70
+11/01/2022
+11/01/2022 pagamento da cobrança 283273314
+gabriel oliveira da silva
+455.431.068-07
+pagamento
+r$ 149,00
+11/01/2022
+11/01/2022 taxa da cobrança 283452771
+taxa
+-r$ 1,70
+11/01/2022
+11/01/2022 pagamento da cobrança 283452771
+vanuza valéria bernardes venancio
+046.879.266-06
+pagamento
+r$ 79,00
+11/01/2022
+11/01/2022 taxa da cobrança 282636251
+taxa
+-r$ 1,70
+11/01/2022
+11/01/2022 pagamento da cobrança 282636251
+rúbia eugênia alves
+392.314.798-81
+pagamento
+r$ 149,00
+11/01/2022
+11/01/2022 taxa da cobrança 281628023
+taxa
+-r$ 1,70
+11/01/2022
+11/01/2022 pagamento da cobrança 281628023
+fernando ianckievcz
+055.676.639-35
+pagamento
+r$ 149,00
+11/01/2022
+11/01/2022 taxa da cobrança 281640042
+taxa
+-r$ 1,70
+11/01/2022
+11/01/2022 pagamento da cobrança 281640042
+renyvan souza dos santos
+014.892.873-02
+pagamento
+r$ 129,00
+11/01/2022
+11/01/2022 comissão da cobrança 280193673
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+11/01/2022
+11/01/2022 taxa da cobrança 281838122
+taxa
+-r$ 1,70
+11/01/2022
+11/01/2022 pagamento da cobrança 281838122
+cassia de queiroz santos
+049.014.544-20
+pagamento
+r$ 99,00
+11/01/2022
+11/01/2022 comissão da cobrança 282735554
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+11/01/2022
+11/01/2022 taxa da cobrança 282152670
+taxa
+-r$ 1,70
+11/01/2022
+11/01/2022 pagamento da cobrança 282152670
+raissa raimundo medina
+053.896.461-85
+pagamento
+r$ 99,00
+11/01/2022
+11/01/2022 taxa da cobrança 278017783
+taxa
+-r$ 1,70
+11/01/2022
+11/01/2022 pagamento da cobrança 278017783
+amanda kerolem ferreira correia
+093.966.279-50
+pagamento
+r$ 109,90
+10/12/2021
+11/01/2022 taxa da cobrança 270601014
+taxa
+-r$ 4,02
+10/12/2021
+11/01/2022 pagamento da cobrança 270601014
+kátia regina zulian
+137.965.958-20
+pagamento
+r$ 74,50
+10/12/2021
+11/01/2022 taxa da cobrança 270601013
+taxa
+-r$ 4,02
+10/12/2021
+11/01/2022 pagamento da cobrança 270601013
+kátia regina zulian
+137.965.958-20
+pagamento
+r$ 74,50
+08/01/2022
+10/01/2022 taxa da cobrança 282150353
+taxa
+-r$ 1,70
+08/01/2022
+10/01/2022 pagamento da cobrança 282150353
+edisio da silva nery junior
+803.437.591-87
+pagamento
+r$ 199,00
+08/01/2022
+10/01/2022 comissão da cobrança 280165712
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+08/01/2022
+10/01/2022 taxa da cobrança 280147500
+taxa
+-r$ 1,70
+08/01/2022
+10/01/2022 pagamento da cobrança 280147500
+carla renata almeida machado
+300.250.698-29
+pagamento
+r$ 79,00
+08/01/2022
+10/01/2022 taxa da cobrança 282051823
+taxa
+-r$ 1,70
+08/01/2022
+10/01/2022 pagamento da cobrança 282051823
+wanderson silva soares
+060.606.013-83
+pagamento
+r$ 149,00
+09/12/2021
+10/01/2022 comissão da cobrança 270218233
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+09/12/2021
+10/01/2022 taxa da cobrança 270750755
+taxa
+-r$ 6,79
+09/12/2021
+10/01/2022 pagamento da cobrança 270750755
+paulo roberto silva santos
+905.107.550-20
+pagamento
+r$ 109,33
+09/12/2021
+10/01/2022 taxa da cobrança 270750754
+taxa
+-r$ 6,79
+09/12/2021
+10/01/2022 pagamento da cobrança 270750754
+paulo roberto silva santos
+905.107.550-20
+pagamento
+r$ 109,33
+09/12/2021
+10/01/2022 taxa da cobrança 270750753
+taxa
+-r$ 6,79
+09/12/2021
+10/01/2022 pagamento da cobrança 270750753
+paulo roberto silva santos
+905.107.550-20
+pagamento
+r$ 109,33
+09/12/2021
+10/01/2022 taxa da cobrança 270107927
+taxa
+-r$ 2,77
+09/12/2021
+10/01/2022 pagamento da cobrança 270107927
+ana maria andrade mendonça
+090.227.736-71
+pagamento
+r$ 99,00
+08/12/2021
+09/01/2022 taxa da cobrança 270025174
+taxa
+-r$ 4,02
+08/12/2021
+09/01/2022 pagamento da cobrança 270025174
+mirela paz da costa
+156.145.917-88
+pagamento
+r$ 74,50
+08/12/2021
+09/01/2022 taxa da cobrança 270025173
+taxa
+-r$ 4,02
+08/12/2021
+09/01/2022 pagamento da cobrança 270025173
+mirela paz da costa
+156.145.917-88
+pagamento
+r$ 74,50
+08/12/2021
+09/01/2022 comissão da cobrança 269549763
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+07/12/2021
+08/01/2022 taxa da cobrança 269489108
+taxa
+-r$ 3,16
+07/12/2021
+08/01/2022 pagamento da cobrança 269489108
+thércia carolina de lacerda
+072.772.666-84
+pagamento
+r$ 49,67
+07/12/2021
+08/01/2022 taxa da cobrança 269489107
+taxa
+-r$ 3,16
+07/12/2021
+08/01/2022 pagamento da cobrança 269489107
+thércia carolina de lacerda
+072.772.666-84
+pagamento
+r$ 49,67
+07/12/2021
+08/01/2022 taxa da cobrança 269489106
+taxa
+-r$ 3,16
+07/12/2021
+08/01/2022 pagamento da cobrança 269489106
+thércia carolina de lacerda
+072.772.666-84
+pagamento
+r$ 49,67
+07/01/2022
+07/01/2022 taxa da cobrança 281828508
+taxa
+-r$ 1,70
+07/01/2022
+07/01/2022 pagamento da cobrança 281828508
+maria aparecida da costa ferreira
+337.407.713-72
+pagamento
+r$ 149,00
+07/01/2022
+07/01/2022 taxa da cobrança 280035305
+taxa
+-r$ 1,70
+07/01/2022
+07/01/2022 pagamento da cobrança 280035305
+rosane santos costa silva
+153.699.158-90
+pagamento
+r$ 149,00
+07/01/2022
+07/01/2022 comissão da cobrança 280167172
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+07/01/2022
+07/01/2022 taxa da cobrança 281794378
+taxa
+-r$ 1,70
+07/01/2022
+07/01/2022 pagamento da cobrança 281794378
+pedro henrique érnica
+343.807.838-47
+pagamento
+r$ 149,00
+07/01/2022
+07/01/2022 taxa da cobrança 281255918
+taxa
+-r$ 1,70
+07/01/2022
+07/01/2022 pagamento da cobrança 281255918
+vanessa dos santos
+386.896.598-03
+pagamento
+r$ 99,00
+06/12/2021
+07/01/2022 taxa da cobrança 269035370
+taxa
+-r$ 4,02
+06/12/2021
+07/01/2022 pagamento da cobrança 269035370
+nyvia melo de alencar
+044.329.794-02
+pagamento
+r$ 74,50
+06/12/2021
+07/01/2022 taxa da cobrança 269035369
+taxa
+-r$ 4,02
+06/12/2021
+07/01/2022 pagamento da cobrança 269035369
+nyvia melo de alencar
+044.329.794-02
+pagamento
+r$ 74,50
+06/12/2021
+07/01/2022 comissão da cobrança 269189982
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+06/01/2022
+06/01/2022 taxa da cobrança 278022186
+taxa
+-r$ 1,70
+06/01/2022
+06/01/2022 pagamento da cobrança 278022186
+tayane nagila de sousa leitão
+057.462.323-00
+pagamento
+r$ 149,00
+05/01/2022
+05/01/2022 comissão da cobrança 280168361
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+05/01/2022
+05/01/2022 taxa da cobrança 277965963
+taxa
+-r$ 1,70
+05/01/2022
+05/01/2022 pagamento da cobrança 277965963
+antônio carlos barreto
+919.121.725-34
+pagamento
+r$ 180,90
+05/01/2022
+05/01/2022 comissão da cobrança 280436751
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+05/01/2022
+05/01/2022 taxa da cobrança 280080551
+taxa
+-r$ 1,70
+05/01/2022
+05/01/2022 pagamento da cobrança 280080551
+marinilda da silva fernandes
+039.403.861-46
+pagamento
+r$ 109,90
+04/01/2022
+04/01/2022 transferência pix realizada #6185659
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 1.196,48
+04/01/2022
+04/01/2022 transferência pix realizada #6185642
+keila da silva goncalves evaristo
+***.844.966-**
+%stransferência pix realizada #%s
+-r$ 1.044,63
+04/01/2022
+04/01/2022 transferência pix realizada #6185616
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 1.428,61
+04/01/2022
+04/01/2022 transferência pix realizada #6185586
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 1.480,17
+04/01/2022
+04/01/2022 estorno transferência pix realizada #6185544
+kamila sabino da silveira
+***.584.956-**
+estorno %stransferência pix realizada #%s
+r$ 1.428,61
+04/01/2022
+04/01/2022 transferência pix realizada #6185544
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 1.428,61
+04/01/2022
+04/01/2022 estorno transferência pix realizada #6185528
+kamila sabino da silveira
+***.584.956-**
+estorno %stransferência pix realizada #%s
+r$ 1.428,61
+04/01/2022
+04/01/2022 transferência pix realizada #6185528
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 1.428,61
+04/01/2022
+04/01/2022 transferência pix realizada #6185498
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 1.105,30
+04/01/2022
+04/01/2022 transferência pix recebida #11357431
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 1.400,00
+04/01/2022
+04/01/2022 transferência pix realizada #6177705
+armed daniel pereira fonseca
+***.025.867-**
+%stransferência pix realizada #%s
+-r$ 149,00
+04/01/2022
+04/01/2022 taxa da cobrança 278844769
+taxa
+-r$ 1,70
+04/01/2022
+04/01/2022 pagamento da cobrança 278844769
+douglas silva ferraz
+421.438.102-53
+pagamento
+r$ 109,90
+04/01/2022
+04/01/2022 comissão da cobrança 280159765
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+23/12/2021
+04/01/2022 ajuste de taxa do pgto. 91074994 ref. à cobrança 268163303
+taxa
+r$ 2,77
+23/12/2021
+04/01/2022 estorno b do pagamento 91074994 referente à cobrança 268163303
+estorno de pagamento
+-r$ 99,00
+03/12/2021
+04/01/2022 taxa da cobrança 268163303
+taxa
+-r$ 2,77
+03/12/2021
+04/01/2022 pagamento da cobrança 268163303
+alex teles de lima
+031.582.745-90
+pagamento
+r$ 99,00
+03/01/2022
+03/01/2022 transferência pix realizada #6126983
+comunidade aguas vivas
+**.*30.130/0001-**
+%stransferência pix realizada #%s
+-r$ 1.343,60
+01/12/2021
+02/01/2022 taxa da cobrança 267156741
+taxa
+-r$ 3,16
+01/12/2021
+02/01/2022 pagamento da cobrança 267156741
+jefferson sousa de oliveira
+665.339.532-49
+pagamento
+r$ 49,67
+01/12/2021
+02/01/2022 taxa da cobrança 267156740
+taxa
+-r$ 3,16
+01/12/2021
+02/01/2022 pagamento da cobrança 267156740
+jefferson sousa de oliveira
+665.339.532-49
+pagamento
+r$ 49,67
+01/12/2021
+02/01/2022 taxa da cobrança 267156739
+taxa
+-r$ 3,16
+01/12/2021
+02/01/2022 pagamento da cobrança 267156739
+jefferson sousa de oliveira
+665.339.532-49
+pagamento
+r$ 49,67
+01/12/2021
+02/01/2022 taxa da cobrança 266931484
+taxa
+-r$ 3,03
+01/12/2021
+02/01/2022 pagamento da cobrança 266931484
+donato pantoja dos santos junior
+700.309.872-53
+pagamento
+r$ 109,90
+01/12/2021
+02/01/2022 taxa da cobrança 266457676
+taxa
+-r$ 4,02
+01/12/2021
+02/01/2022 pagamento da cobrança 266457676
+keilla gomes borges
+010.267.571-69
+pagamento
+r$ 74,50
+01/12/2021
+02/01/2022 taxa da cobrança 266457675
+taxa
+-r$ 4,02
+01/12/2021
+02/01/2022 pagamento da cobrança 266457675
+keilla gomes borges
+010.267.571-69
+pagamento
+r$ 74,50
+data
+data de liberação
+descrição
+nome cliente
+cpf/cnpj cliente
+tipo
+valor
+28/06/2022
+30/07/2022 taxa da cobrança 362271150
+taxa
+-r$ 2,73
+28/06/2022
+30/07/2022 pagamento da cobrança 362271150
+maria erivanda da costa
+838.352.374-20
+pagamento
+r$ 49,50
+28/06/2022
+30/07/2022 taxa da cobrança 362271149
+taxa
+-r$ 2,73
+28/06/2022
+30/07/2022 pagamento da cobrança 362271149
+maria erivanda da costa
+838.352.374-20
+pagamento
+r$ 49,50
+29/07/2022
+29/07/2022 transferência pix recebida #49073329
+suzana santos souza
+***.855.429-**
+%stransferência pix recebida #%s
+r$ 129,00
+28/07/2022
+28/07/2022 transferência pix recebida #48829194
+adriana aparecida vilaca
+***.026.776-**
+%stransferência pix recebida #%s
+r$ 109,90
+28/07/2022
+28/07/2022 transferência pix recebida #48645206
+mônica costa da silva
+***.075.166-**
+%stransferência pix recebida #%s
+r$ 79,00
+28/07/2022
+28/07/2022 transferência pix recebida #48640523
+rhayda mellissa sousa fontes dos santos
+***.813.096-**
+%stransferência pix recebida #%s
+r$ 50,00
+27/07/2022
+27/07/2022 transferência pix recebida #48402944
+cicero de araujo santos
+***.579.083-**
+%stransferência pix recebida #%s
+r$ 149,00
+26/07/2022
+26/07/2022 transferência pix recebida #48180483
+kelly cristina dos santos
+***.319.296-**
+%stransferência pix recebida #%s
+r$ 20,00
+26/07/2022
+26/07/2022 transferência pix recebida #48147211
+eloane aparecida pereira merlin
+***.925.959-**
+%stransferência pix recebida #%s
+r$ 4,00
+26/07/2022
+26/07/2022 transferência pix recebida #48146472
+eloane aparecida pereira merlin
+***.925.959-**
+%stransferência pix recebida #%s
+r$ 145,00
+26/07/2022
+26/07/2022 transferência pix recebida #48130006
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix recebida #%s
+r$ 20,00
+26/07/2022
+26/07/2022 transferência pix realizada #13572308
+thais lima costa da silva
+***.477.616-**
+%stransferência pix realizada #%s
+-r$ 100,00
+26/07/2022
+26/07/2022 transferência pix realizada #13570366
+sebastiao alves de souza
+***.772.976-**
+%stransferência pix realizada #%s
+-r$ 11,00
+24/06/2022
+26/07/2022 taxa da cobrança 360222097
+taxa
+-r$ 2,75
+24/06/2022
+26/07/2022 pagamento da cobrança 360222097
+elizangela cristina de araújo silva
+082.508.916-60
+pagamento
+r$ 43,00
+24/06/2022
+26/07/2022 taxa da cobrança 360222096
+taxa
+-r$ 2,75
+24/06/2022
+26/07/2022 pagamento da cobrança 360222096
+elizangela cristina de araújo silva
+082.508.916-60
+pagamento
+r$ 43,00
+24/06/2022
+26/07/2022 taxa da cobrança 360222095
+taxa
+-r$ 2,75
+24/06/2022
+26/07/2022 pagamento da cobrança 360222095
+elizangela cristina de araújo silva
+082.508.916-60
+pagamento
+r$ 43,00
+25/07/2022
+25/07/2022 transferência pix realizada #13552703
+rodrigo sousa pinto
+***.379.686-**
+%stransferência pix realizada #%s
+-r$ 9,00
+25/07/2022
+25/07/2022 transferência pix recebida #47923262
+thailane souza silva brito
+***.209.655-**
+%stransferência pix recebida #%s
+r$ 99,00
+23/07/2022
+25/07/2022 comissão da cobrança 379038626
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+23/06/2022
+25/07/2022 taxa da cobrança 360024074
+taxa
+-r$ 2,73
+23/06/2022
+25/07/2022 pagamento da cobrança 360024074
+clarice caroba de souza
+102.028.824-89
+pagamento
+r$ 49,50
+23/06/2022
+25/07/2022 taxa da cobrança 360024073
+taxa
+-r$ 2,73
+23/06/2022
+25/07/2022 pagamento da cobrança 360024073
+clarice caroba de souza
+102.028.824-89
+pagamento
+r$ 49,50
+24/07/2022
+24/07/2022 transferência pix realizada #13501578
+edvania de fatima ferreira 08663353669
+**.*57.007/0001-**
+%stransferência pix realizada #%s
+-r$ 70,00
+22/06/2022
+24/07/2022 taxa da cobrança 359611066
+taxa
+-r$ 3,16
+22/06/2022
+24/07/2022 pagamento da cobrança 359611066
+raquel lopes gonçalves
+757.791.962-49
+pagamento
+r$ 49,67
+22/06/2022
+24/07/2022 taxa da cobrança 359611065
+taxa
+-r$ 3,16
+22/06/2022
+24/07/2022 pagamento da cobrança 359611065
+raquel lopes gonçalves
+757.791.962-49
+pagamento
+r$ 49,67
+22/06/2022
+24/07/2022 taxa da cobrança 359611064
+taxa
+-r$ 3,16
+22/06/2022
+24/07/2022 pagamento da cobrança 359611064
+raquel lopes gonçalves
+757.791.962-49
+pagamento
+r$ 49,67
+21/06/2022
+23/07/2022 taxa da cobrança 358648784
+taxa
+-r$ 3,16
+21/06/2022
+23/07/2022 pagamento da cobrança 358648784
+lucilane rezende flor
+902.937.706-20
+pagamento
+r$ 49,67
+21/06/2022
+23/07/2022 taxa da cobrança 358648783
+taxa
+-r$ 3,16
+21/06/2022
+23/07/2022 pagamento da cobrança 358648783
+lucilane rezende flor
+902.937.706-20
+pagamento
+r$ 49,67
+21/06/2022
+23/07/2022 taxa da cobrança 358648782
+taxa
+-r$ 3,16
+21/06/2022
+23/07/2022 pagamento da cobrança 358648782
+lucilane rezende flor
+902.937.706-20
+pagamento
+r$ 49,67
+20/06/2022
+22/07/2022 taxa da cobrança 358331614
+taxa
+-r$ 4,02
+20/06/2022
+22/07/2022 pagamento da cobrança 358331614
+marcia helena nerva blumm
+448.162.780-87
+pagamento
+r$ 74,50
+20/06/2022
+22/07/2022 taxa da cobrança 358331613
+taxa
+-r$ 4,02
+20/06/2022
+22/07/2022 pagamento da cobrança 358331613
+marcia helena nerva blumm
+448.162.780-87
+pagamento
+r$ 74,50
+21/07/2022
+21/07/2022 comissão da cobrança 378144110
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+21/07/2022
+21/07/2022 comissão da cobrança 377192044
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+20/07/2022
+20/07/2022 comissão da cobrança 374762715
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+20/07/2022
+20/07/2022 taxa da cobrança 377122873
+taxa
+-r$ 1,70
+20/07/2022
+20/07/2022 pagamento da cobrança 377122873
+thamilis calheira oliveira
+040.315.425-18
+pagamento
+r$ 109,90
+19/07/2022
+19/07/2022 transferência pix realizada #13317619
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 800,00
+19/07/2022
+19/07/2022 transferência pix realizada #13317582
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 950,00
+18/07/2022
+18/07/2022 transferência pix realizada #13260661
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 10,00
+17/07/2022
+17/07/2022 transferência pix realizada #13244949
+charles portella rodrigues
+***.125.016-**
+%stransferência pix realizada #%s
+-r$ 11,00
+17/07/2022
+17/07/2022 transferência pix realizada #13244330
+vander ferreira de almeida
+***.286.176-**
+%stransferência pix realizada #%s
+-r$ 13,99
+15/06/2022
+17/07/2022 taxa da cobrança 355271696
+taxa
+-r$ 0,43
+15/06/2022
+17/07/2022 pagamento da cobrança 355271696
+danielly eugênia
+089.496.686-37
+pagamento
+r$ 1,00
+14/06/2022
+16/07/2022 taxa da cobrança 354936498
+taxa
+-r$ 3,61
+14/06/2022
+16/07/2022 pagamento da cobrança 354936498
+queli cristina lopes de souza
+805.078.912-87
+pagamento
+r$ 49,75
+14/06/2022
+16/07/2022 taxa da cobrança 354936497
+taxa
+-r$ 3,61
+14/06/2022
+16/07/2022 pagamento da cobrança 354936497
+queli cristina lopes de souza
+805.078.912-87
+pagamento
+r$ 49,75
+14/06/2022
+16/07/2022 taxa da cobrança 354936496
+taxa
+-r$ 3,61
+14/06/2022
+16/07/2022 pagamento da cobrança 354936496
+queli cristina lopes de souza
+805.078.912-87
+pagamento
+r$ 49,75
+14/06/2022
+16/07/2022 taxa da cobrança 354936495
+taxa
+-r$ 3,61
+14/06/2022
+16/07/2022 pagamento da cobrança 354936495
+queli cristina lopes de souza
+805.078.912-87
+pagamento
+r$ 49,75
+14/06/2022
+16/07/2022 taxa da cobrança 354673803
+taxa
+-r$ 4,02
+14/06/2022
+16/07/2022 pagamento da cobrança 354673803
+andressa de andrade ribeiro
+702.405.921-40
+pagamento
+r$ 74,50
+14/06/2022
+16/07/2022 taxa da cobrança 354673802
+taxa
+-r$ 4,02
+14/06/2022
+16/07/2022 pagamento da cobrança 354673802
+andressa de andrade ribeiro
+702.405.921-40
+pagamento
+r$ 74,50
+15/07/2022
+15/07/2022 transferência pix realizada #13232491
+abilio alves ribeiro neto
+***.071.987-**
+%stransferência pix realizada #%s
+-r$ 9,37
+15/07/2022
+15/07/2022 transferência pix recebida #45081598
+glória estéfani de araújo
+***.597.266-**
+%stransferência pix recebida #%s
+r$ 129,00
+15/07/2022
+15/07/2022 transferência pix recebida #45015607
+diana souza
+***.906.239-**
+%stransferência pix recebida #%s
+r$ 99,00
+15/07/2022
+15/07/2022 transferência pix recebida #45001194
+michele fernandes loiola
+***.865.496-**
+%stransferência pix recebida #%s
+r$ 129,00
+15/07/2022
+15/07/2022 transferência pix realizada #13192383
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 10,00
+15/07/2022
+15/07/2022 transferência pix realizada #13188795
+arthur emilio vieira de faria
+***.548.426-**
+%stransferência pix realizada #%s
+-r$ 9,62
+13/06/2022
+15/07/2022 taxa da cobrança 354121625
+taxa
+-r$ 2,75
+13/06/2022
+15/07/2022 pagamento da cobrança 354121625
+daniela mumbach de oliveira
+001.904.490-98
+pagamento
+r$ 43,00
+13/06/2022
+15/07/2022 taxa da cobrança 354121624
+taxa
+-r$ 2,75
+13/06/2022
+15/07/2022 pagamento da cobrança 354121624
+daniela mumbach de oliveira
+001.904.490-98
+pagamento
+r$ 43,00
+13/06/2022
+15/07/2022 taxa da cobrança 354121623
+taxa
+-r$ 2,75
+13/06/2022
+15/07/2022 pagamento da cobrança 354121623
+daniela mumbach de oliveira
+001.904.490-98
+pagamento
+r$ 43,00
+14/07/2022
+14/07/2022 transferência pix realizada #13178765
+luiz carlos de freitas
+***.232.886-**
+%stransferência pix realizada #%s
+-r$ 9,83
+14/07/2022
+14/07/2022 transferência pix realizada #13166224
+conast consultoria e a de s do trabalho ltda
+**.*64.223/0001-**
+%stransferência pix realizada #%s
+-r$ 30,00
+14/07/2022
+14/07/2022 transferência pix realizada #13152512
+martins e aguiar copiadora ltda
+**.*92.945/0001-**
+%stransferência pix realizada #%s
+-r$ 19,00
+14/07/2022
+14/07/2022 transferência pix realizada #13140197
+claudinei marli gabriel
+***.927.906-**
+%stransferência pix realizada #%s
+-r$ 11,33
+14/07/2022
+14/07/2022 comissão da cobrança 373183708
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+12/06/2022
+14/07/2022 taxa da cobrança 352566672
+taxa
+-r$ 3,16
+12/06/2022
+14/07/2022 pagamento da cobrança 352566672
+leandro divino de oliveira faria
+363.134.798-74
+pagamento
+r$ 49,67
+12/06/2022
+14/07/2022 taxa da cobrança 352566671
+taxa
+-r$ 3,16
+12/06/2022
+14/07/2022 pagamento da cobrança 352566671
+leandro divino de oliveira faria
+363.134.798-74
+pagamento
+r$ 49,67
+12/06/2022
+14/07/2022 taxa da cobrança 352566670
+taxa
+-r$ 3,16
+12/06/2022
+14/07/2022 pagamento da cobrança 352566670
+leandro divino de oliveira faria
+363.134.798-74
+pagamento
+r$ 49,67
+13/07/2022
+13/07/2022 transferência pix recebida #44498910
+francisca rosandra nogueira de lira
+***.834.152-**
+%stransferência pix recebida #%s
+r$ 129,00
+12/07/2022
+12/07/2022 transferência pix realizada #13079733
+haroldo vasconcelos
+***.610.306-**
+%stransferência pix realizada #%s
+-r$ 9,50
+12/07/2022
+12/07/2022 transferência pix realizada #13059409
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 150,00
+12/07/2022
+12/07/2022 devolução pagamento pix realizado (dinâmico) #12904783
+devolução %spagamento pix realizado (dinâmico) #%s
+r$ 5,97
+12/07/2022
+12/07/2022 transferência pix realizada #13052836
+leticia sousa dos santos correa
+***.066.156-**
+%stransferência pix realizada #%s
+-r$ 100,00
+12/07/2022
+12/07/2022 taxa da cobrança 372140906
+taxa
+-r$ 1,70
+12/07/2022
+12/07/2022 pagamento da cobrança 372140906
+vitória kevely da silva santos
+021.993.393-60
+pagamento
+r$ 129,00
+12/07/2022
+12/07/2022 comissão da cobrança 370820296
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+10/06/2022
+12/07/2022 taxa da cobrança 352565336
+taxa
+-r$ 3,03
+10/06/2022
+12/07/2022 pagamento da cobrança 352565336
+taís de paula pereira faria
+125.718.826-78
+pagamento
+r$ 109,90
+11/07/2022
+11/07/2022 transferência pix recebida #43529336
+josimar gomes batista da silva
+***.583.141-**
+%stransferência pix recebida #%s
+r$ 129,99
+09/07/2022
+11/07/2022 comissão da cobrança 370087447
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+09/07/2022
+11/07/2022 comissão da cobrança 369170456
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+09/07/2022
+11/07/2022 comissão da cobrança 370259656
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+09/06/2022
+11/07/2022 taxa da cobrança 346630968
+taxa
+-r$ 2,73
+09/06/2022
+11/07/2022 pagamento da cobrança 346630968
+sarah celina mendes da silva
+142.194.326-39
+pagamento
+r$ 49,50
+09/06/2022
+11/07/2022 taxa da cobrança 346630967
+taxa
+-r$ 2,73
+09/06/2022
+11/07/2022 pagamento da cobrança 346630967
+sarah celina mendes da silva
+142.194.326-39
+pagamento
+r$ 49,50
+08/06/2022
+10/07/2022 taxa da cobrança 350127273
+taxa
+-r$ 3,16
+08/06/2022
+10/07/2022 pagamento da cobrança 350127273
+janaina barcelos carneiro lopes
+085.972.106-05
+pagamento
+r$ 49,67
+08/06/2022
+10/07/2022 taxa da cobrança 350127272
+taxa
+-r$ 3,16
+08/06/2022
+10/07/2022 pagamento da cobrança 350127272
+janaina barcelos carneiro lopes
+085.972.106-05
+pagamento
+r$ 49,67
+08/06/2022
+10/07/2022 taxa da cobrança 350127271
+taxa
+-r$ 3,16
+08/06/2022
+10/07/2022 pagamento da cobrança 350127271
+janaina barcelos carneiro lopes
+085.972.106-05
+pagamento
+r$ 49,67
+09/07/2022
+09/07/2022 transferência pix realizada #12967203
+erimarques rufino de farias             
+***.649.774-**
+%stransferência pix realizada #%s
+-r$ 35,00
+09/07/2022
+09/07/2022 transferência pix realizada #12967114
+reginaldo eduardo arcanjo
+***.626.516-**
+%stransferência pix realizada #%s
+-r$ 35,00
+07/06/2022
+09/07/2022 taxa da cobrança 350029316
+taxa
+-r$ 2,73
+07/06/2022
+09/07/2022 pagamento da cobrança 350029316
+laedina andrade de freitas
+077.307.734-06
+pagamento
+r$ 49,50
+07/06/2022
+09/07/2022 taxa da cobrança 350029315
+taxa
+-r$ 2,73
+07/06/2022
+09/07/2022 pagamento da cobrança 350029315
+laedina andrade de freitas
+077.307.734-06
+pagamento
+r$ 49,50
+07/06/2022
+09/07/2022 taxa da cobrança 349562383
+taxa
+-r$ 2,73
+07/06/2022
+09/07/2022 pagamento da cobrança 349562383
+maria verônica dos santos
+074.063.974-96
+pagamento
+r$ 49,50
+07/06/2022
+09/07/2022 taxa da cobrança 349562382
+taxa
+-r$ 2,73
+07/06/2022
+09/07/2022 pagamento da cobrança 349562382
+maria verônica dos santos
+074.063.974-96
+pagamento
+r$ 49,50
+08/07/2022
+08/07/2022 transferência pix recebida #42672618
+bruna fernanda da costa
+***.647.739-**
+%stransferência pix recebida #%s
+r$ 99,00
+08/07/2022
+08/07/2022 transferência pix realizada #12942432
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 6,00
+08/07/2022
+08/07/2022 transferência pix recebida #42588300
+iara maria cortes de miranda
+***.528.561-**
+%stransferência pix recebida #%s
+r$ 99,00
+06/06/2022
+08/07/2022 taxa da cobrança 347531206
+taxa
+-r$ 3,16
+06/06/2022
+08/07/2022 pagamento da cobrança 347531206
+pâmela rodrigues nogueira
+130.889.037-05
+pagamento
+r$ 49,67
+06/06/2022
+08/07/2022 taxa da cobrança 347531205
+taxa
+-r$ 3,16
+06/06/2022
+08/07/2022 pagamento da cobrança 347531205
+pâmela rodrigues nogueira
+130.889.037-05
+pagamento
+r$ 49,67
+06/06/2022
+08/07/2022 taxa da cobrança 347531204
+taxa
+-r$ 3,16
+06/06/2022
+08/07/2022 pagamento da cobrança 347531204
+pâmela rodrigues nogueira
+130.889.037-05
+pagamento
+r$ 49,67
+07/07/2022
+07/07/2022 pagamento pix realizado (dinâmico) #12906144
+%spagamento pix realizado (dinâmico) #%s
+-r$ 5,97
+07/07/2022
+07/07/2022 pagamento pix realizado (dinâmico) #12904783
+%spagamento pix realizado (dinâmico) #%s
+-r$ 5,97
+07/07/2022
+07/07/2022 transferência pix realizada #12902475
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 180,00
+07/07/2022
+07/07/2022 transferência pix recebida #42151825
+jessica moraes dos santos
+***.448.458-**
+%stransferência pix recebida #%s
+r$ 109,90
+07/07/2022
+07/07/2022 transferência pix realizada #12896645
+matheus henrique de siqueira
+***.677.996-**
+%stransferência pix realizada #%s
+-r$ 610,00
+07/07/2022
+07/07/2022 transferência pix realizada #12896575
+kelly cristina dos santos
+***.319.296-**
+%stransferência pix realizada #%s
+-r$ 888,80
+07/07/2022
+07/07/2022 transferência pix realizada #12896336
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 1.509,72
+07/07/2022
+07/07/2022 transferência pix recebida #42130876
+andre ferreira de aquino
+***.637.904-**
+%stransferência pix recebida #%s
+r$ 129,00
+07/07/2022
+07/07/2022 transferência pix realizada #12896145
+keila da silva evaristo
+***.844.966-**
+%stransferência pix realizada #%s
+-r$ 1.293,47
+07/07/2022
+07/07/2022 transferência pix realizada #12895923
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 1.121,10
+07/07/2022
+07/07/2022 transferência pix realizada #12895791
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 843,20
+07/07/2022
+07/07/2022 transferência pix recebida #42125800
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 581,00
+07/07/2022
+07/07/2022 transferência pix recebida #41930118
+saionara rodrigues cordeiro
+***.655.726-**
+%stransferência pix recebida #%s
+r$ 129,00
+07/07/2022
+07/07/2022 transferência pix recebida #41893256
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 4.000,00
+07/07/2022
+07/07/2022 transferência pix recebida #41889002
+tatiana r s lustosa
+***.809.628-**
+%stransferência pix recebida #%s
+r$ 188,90
+07/07/2022
+07/07/2022 taxa da cobrança 367514386
+taxa
+-r$ 1,70
+07/07/2022
+07/07/2022 pagamento da cobrança 367514386
+isabela ienco batista rodrigues
+470.833.118-54
+pagamento
+r$ 79,00
+06/07/2022
+06/07/2022 transferência pix recebida #41478210
+cauê cristian de moraes praxedes
+***.687.489-**
+%stransferência pix recebida #%s
+r$ 109,90
+06/07/2022
+06/07/2022 taxa da cobrança 367292802
+taxa
+-r$ 1,70
+06/07/2022
+06/07/2022 pagamento da cobrança 367292802
+jéssica do nascimento silva
+126.747.187-57
+pagamento
+r$ 109,90
+06/07/2022
+06/07/2022 taxa da cobrança 367272656
+taxa
+-r$ 1,70
+06/07/2022
+06/07/2022 pagamento da cobrança 367272656
+jéssica do nascimento silva
+126.747.187-57
+pagamento
+r$ 99,00
+05/07/2022
+05/07/2022 taxa da cobrança 366499026
+taxa
+-r$ 1,70
+05/07/2022
+05/07/2022 pagamento da cobrança 366499026
+lorena cristina de jesus
+324.522.548-27
+pagamento
+r$ 109,90
+05/07/2022
+05/07/2022 taxa da cobrança 366505289
+taxa
+-r$ 1,70
+05/07/2022
+05/07/2022 pagamento da cobrança 366505289
+josivânia cordeiro freitas de oliveira
+923.189.674-15
+pagamento
+r$ 149,00
+05/07/2022
+05/07/2022 taxa da cobrança 364259517
+taxa
+-r$ 1,70
+05/07/2022
+05/07/2022 pagamento da cobrança 364259517
+nivaldir lopes dos santos
+126.146.768-02
+pagamento
+r$ 180,90
+05/07/2022
+05/07/2022 taxa da cobrança 356467725
+taxa
+-r$ 1,70
+05/07/2022
+05/07/2022 pagamento da cobrança 356467725
+érica dos santos fillipin
+036.302.400-03
+pagamento
+r$ 109,90
+03/06/2022
+05/07/2022 taxa da cobrança 346665738
+taxa
+-r$ 2,73
+03/06/2022
+05/07/2022 pagamento da cobrança 346665738
+taene de oliveira
+046.938.244-96
+pagamento
+r$ 49,50
+03/06/2022
+05/07/2022 taxa da cobrança 346665737
+taxa
+-r$ 2,73
+03/06/2022
+05/07/2022 pagamento da cobrança 346665737
+taene de oliveira
+046.938.244-96
+pagamento
+r$ 49,50
+03/06/2022
+05/07/2022 taxa da cobrança 345482890
+taxa
+-r$ 4,02
+03/06/2022
+05/07/2022 pagamento da cobrança 345482890
+nayara costa de souza ribeiro santos
+018.857.856-07
+pagamento
+r$ 74,50
+03/06/2022
+05/07/2022 taxa da cobrança 345482889
+taxa
+-r$ 4,02
+03/06/2022
+05/07/2022 pagamento da cobrança 345482889
+nayara costa de souza ribeiro santos
+018.857.856-07
+pagamento
+r$ 74,50
+04/07/2022
+04/07/2022 transferência pix realizada #12739358
+leandro formaggini martins
+***.393.406-**
+%stransferência pix realizada #%s
+-r$ 9,88
+04/07/2022
+04/07/2022 transferência pix recebida #40845887
+andre ferreira de aquino
+***.637.904-**
+%stransferência pix recebida #%s
+r$ 99,00
+02/07/2022
+04/07/2022 taxa da cobrança 363284749
+taxa
+-r$ 1,70
+02/07/2022
+04/07/2022 pagamento da cobrança 363284749
+cinthia gossenheimer
+036.533.109-03
+pagamento
+r$ 109,90
+01/07/2022
+01/07/2022 transferência pix realizada #12663210
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 240,00
+01/07/2022
+01/07/2022 comissão da cobrança 364253926
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+01/07/2022
+01/07/2022 comissão da cobrança 364127933
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+01/07/2022
+01/07/2022 taxa da cobrança 358224286
+taxa
+-r$ 1,70
+01/07/2022
+01/07/2022 pagamento da cobrança 358224286
+mariana da silva felix
+126.496.907-47
+pagamento
+r$ 129,00
+30/05/2022
+01/07/2022 taxa da cobrança 343630065
+taxa
+-r$ 2,73
+30/05/2022
+01/07/2022 pagamento da cobrança 343630065
+saulo pereira do prado
+004.006.671-18
+pagamento
+r$ 49,50
+30/05/2022
+01/07/2022 taxa da cobrança 343630064
+taxa
+-r$ 2,73
+30/05/2022
+01/07/2022 pagamento da cobrança 343630064
+saulo pereira do prado
+004.006.671-18
+pagamento
+r$ 49,50
+data
+data de liberação
+descrição
+nome cliente
+cpf/cnpj cliente
+tipo
+valor
+30/06/2022
+30/06/2022 transferência pix realizada #12594815
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 401,00
+30/06/2022
+30/06/2022 comissão da cobrança 362206594
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+29/06/2022
+29/06/2022 taxa da cobrança 362722893
+taxa
+-r$ 1,70
+29/06/2022
+29/06/2022 pagamento da cobrança 362722893
+juliana fraga duarte
+134.561.797-66
+pagamento
+r$ 79,00
+28/06/2022
+28/06/2022 comissão da cobrança 361961571
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+28/06/2022
+28/06/2022 taxa da cobrança 362005804
+taxa
+-r$ 1,70
+28/06/2022
+28/06/2022 pagamento da cobrança 362005804
+denise freitas de oliveira
+008.520.837-00
+pagamento
+r$ 79,00
+28/06/2022
+28/06/2022 taxa da cobrança 362063704
+taxa
+-r$ 1,70
+28/06/2022
+28/06/2022 pagamento da cobrança 362063704
+vânia da silva almeida
+248.943.202-82
+pagamento
+r$ 109,90
+27/05/2022
+28/06/2022 taxa da cobrança 343480771
+taxa
+-r$ 3,03
+27/05/2022
+28/06/2022 pagamento da cobrança 343480771
+helena cristina guimarães
+866.898.196-04
+pagamento
+r$ 109,90
+27/06/2022
+27/06/2022 transferência pix realizada #12466338
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 4,00
+27/06/2022
+27/06/2022 transferência pix realizada #12465869
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 452,00
+27/06/2022
+27/06/2022 transferência pix realizada #12438306
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 508,00
+25/05/2022
+26/06/2022 taxa da cobrança 342683275
+taxa
+-r$ 2,73
+25/05/2022
+26/06/2022 pagamento da cobrança 342683275
+wanessa yonar araruna paixão
+061.018.344-33
+pagamento
+r$ 49,50
+25/05/2022
+26/06/2022 taxa da cobrança 342683274
+taxa
+-r$ 2,73
+25/05/2022
+26/06/2022 pagamento da cobrança 342683274
+wanessa yonar araruna paixão
+061.018.344-33
+pagamento
+r$ 49,50
+25/05/2022
+26/06/2022 taxa da cobrança 342504193
+taxa
+-r$ 5,30
+25/05/2022
+26/06/2022 pagamento da cobrança 342504193
+érica cristine alves de lima rocha
+112.612.579-28
+pagamento
+r$ 99,50
+25/05/2022
+26/06/2022 taxa da cobrança 342504192
+taxa
+-r$ 5,30
+25/05/2022
+26/06/2022 pagamento da cobrança 342504192
+érica cristine alves de lima rocha
+112.612.579-28
+pagamento
+r$ 99,50
+24/05/2022
+25/06/2022 taxa da cobrança 342012209
+taxa
+-r$ 4,73
+24/05/2022
+25/06/2022 pagamento da cobrança 342012209
+lorena camargo fujii
+422.495.748-55
+pagamento
+r$ 180,90
+24/05/2022
+25/06/2022 comissão da cobrança 341917132
+lucas da silva feitosa 16278993759
+46.281.644/0001-04
+comissão
+r$ 0,15
+24/06/2022
+24/06/2022 comissão da cobrança 360082136
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+24/06/2022
+24/06/2022 taxa da cobrança 360159616
+taxa
+-r$ 1,70
+24/06/2022
+24/06/2022 pagamento da cobrança 360159616
+ana luiza barbosa maciel
+011.132.990-61
+pagamento
+r$ 99,00
+24/06/2022
+24/06/2022 comissão da cobrança 354855674
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+22/06/2022
+22/06/2022 transferência pix recebida #38009036
+mauriceia l silva
+***.198.804-**
+%stransferência pix recebida #%s
+r$ 99,00
+22/06/2022
+22/06/2022 taxa da cobrança 358339535
+taxa
+-r$ 1,70
+22/06/2022
+22/06/2022 pagamento da cobrança 358339535
+joice lazara de almeida
+031.221.041-80
+pagamento
+r$ 99,00
+22/06/2022
+22/06/2022 taxa da cobrança 358650023
+taxa
+-r$ 1,70
+22/06/2022
+22/06/2022 pagamento da cobrança 358650023
+lilian deise corrêa barros
+053.955.288-73
+pagamento
+r$ 149,00
+21/06/2022
+21/06/2022 transferência pix recebida #37721643
+evane gouveia areia rocha
+***.605.157-**
+%stransferência pix recebida #%s
+r$ 110,00
+21/06/2022
+21/06/2022 transferência pix realizada #12282427
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 300,00
+21/06/2022
+21/06/2022 comissão da cobrança 358190489
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+21/06/2022
+21/06/2022 taxa da cobrança 354880464
+taxa
+-r$ 1,70
+21/06/2022
+21/06/2022 pagamento da cobrança 354880464
+nilva aquino silva
+015.820.811-07
+pagamento
+r$ 50,00
+20/05/2022
+21/06/2022 taxa da cobrança 337886953
+taxa
+-r$ 3,61
+20/05/2022
+21/06/2022 pagamento da cobrança 337886953
+angela maria nascimento hortmann
+675.926.009-00
+pagamento
+r$ 49,75
+20/05/2022
+21/06/2022 taxa da cobrança 337886952
+taxa
+-r$ 3,61
+20/05/2022
+21/06/2022 pagamento da cobrança 337886952
+angela maria nascimento hortmann
+675.926.009-00
+pagamento
+r$ 49,75
+20/05/2022
+21/06/2022 taxa da cobrança 337886951
+taxa
+-r$ 3,61
+20/05/2022
+21/06/2022 pagamento da cobrança 337886951
+angela maria nascimento hortmann
+675.926.009-00
+pagamento
+r$ 49,75
+20/05/2022
+21/06/2022 taxa da cobrança 337886950
+taxa
+-r$ 3,61
+20/05/2022
+21/06/2022 pagamento da cobrança 337886950
+angela maria nascimento hortmann
+675.926.009-00
+pagamento
+r$ 49,75
+20/06/2022
+20/06/2022 transferência pix realizada #12224926
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 263,00
+18/06/2022
+20/06/2022 comissão da cobrança 355356497
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+19/05/2022
+20/06/2022 taxa da cobrança 339739200
+taxa
+-r$ 1,60
+19/05/2022
+20/06/2022 pagamento da cobrança 339739200
+aline karen menezes araújo da silva
+062.778.415-13
+pagamento
+r$ 50,00
+19/05/2022
+20/06/2022 taxa da cobrança 339582050
+taxa
+-r$ 4,17
+19/05/2022
+20/06/2022 pagamento da cobrança 339582050
+bruno de paula checchia liporaci
+368.305.278-30
+pagamento
+r$ 66,33
+19/05/2022
+20/06/2022 taxa da cobrança 339582049
+taxa
+-r$ 4,17
+19/05/2022
+20/06/2022 pagamento da cobrança 339582049
+bruno de paula checchia liporaci
+368.305.278-30
+pagamento
+r$ 66,33
+19/05/2022
+20/06/2022 taxa da cobrança 339582048
+taxa
+-r$ 4,17
+19/05/2022
+20/06/2022 pagamento da cobrança 339582048
+bruno de paula checchia liporaci
+368.305.278-30
+pagamento
+r$ 66,33
+18/05/2022
+19/06/2022 taxa da cobrança 339049931
+taxa
+-r$ 2,76
+18/05/2022
+19/06/2022 pagamento da cobrança 339049931
+jaqueline angélica de oliveira bonifácio
+072.663.517-07
+pagamento
+r$ 50,00
+18/05/2022
+19/06/2022 taxa da cobrança 339049930
+taxa
+-r$ 2,76
+18/05/2022
+19/06/2022 pagamento da cobrança 339049930
+jaqueline angélica de oliveira bonifácio
+072.663.517-07
+pagamento
+r$ 50,00
+18/06/2022
+18/06/2022 transferência pix realizada #12173861
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 95,00
+18/06/2022
+18/06/2022 transferência pix realizada #12173840
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 2.009,00
+17/05/2022
+18/06/2022 taxa da cobrança 338448024
+taxa
+-r$ 3,02
+17/05/2022
+18/06/2022 pagamento da cobrança 338448024
+edenir da silva
+007.188.441-65
+pagamento
+r$ 54,95
+17/05/2022
+18/06/2022 taxa da cobrança 338448023
+taxa
+-r$ 3,02
+17/05/2022
+18/06/2022 pagamento da cobrança 338448023
+edenir da silva
+007.188.441-65
+pagamento
+r$ 54,95
+17/06/2022
+17/06/2022 transferência pix realizada #12127972
+renato celeste
+***.296.531-**
+%stransferência pix realizada #%s
+-r$ 10,39
+17/06/2022
+17/06/2022 transferência pix realizada #12123235
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 340,00
+16/06/2022
+17/06/2022 taxa da cobrança 352526676
+taxa
+-r$ 1,70
+16/06/2022
+17/06/2022 pagamento da cobrança 352526676
+jean de matos galvão
+510.329.292-00
+pagamento
+r$ 199,00
+16/06/2022
+17/06/2022 taxa da cobrança 354675320
+taxa
+-r$ 1,70
+16/06/2022
+17/06/2022 pagamento da cobrança 354675320
+ana caroline meduna
+123.166.839-32
+pagamento
+r$ 50,00
+16/06/2022
+17/06/2022 comissão da cobrança 355009533
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+15/06/2022
+15/06/2022 taxa da cobrança 354128195
+taxa
+-r$ 1,70
+15/06/2022
+15/06/2022 pagamento da cobrança 354128195
+vilma lulio coelho
+065.516.598-37
+pagamento
+r$ 129,00
+15/06/2022
+15/06/2022 taxa da cobrança 354393124
+taxa
+-r$ 1,70
+15/06/2022
+15/06/2022 pagamento da cobrança 354393124
+ana caroline meduna
+123.166.839-32
+pagamento
+r$ 50,00
+14/06/2022
+14/06/2022 transferência pix realizada #11969849
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 265,00
+14/06/2022
+14/06/2022 transferência pix recebida #35952967
+horacio rui matheus
+***.352.108-**
+%stransferência pix recebida #%s
+r$ 129,00
+14/06/2022
+14/06/2022 taxa da cobrança 354364165
+taxa
+-r$ 1,70
+14/06/2022
+14/06/2022 pagamento da cobrança 354364165
+elen caroline de almeida pinto de oliveira
+356.131.568-24
+pagamento
+r$ 129,00
+14/06/2022
+14/06/2022 taxa da cobrança 351586118
+taxa
+-r$ 1,70
+14/06/2022
+14/06/2022 pagamento da cobrança 351586118
+maria jancleide alves da silva
+837.761.334-49
+pagamento
+r$ 99,00
+14/06/2022
+14/06/2022 taxa da cobrança 354378431
+taxa
+-r$ 1,70
+14/06/2022
+14/06/2022 pagamento da cobrança 354378431
+cristiane de almeida ribeiro
+310.028.348-13
+pagamento
+r$ 129,00
+13/06/2022
+13/06/2022 transferência pix realizada #11951857
+reginaldo gomes da silva junior         
+***.689.226-**
+%stransferência pix realizada #%s
+-r$ 270,00
+13/06/2022
+13/06/2022 transferência pix realizada #11949110
+leticia sousa dos santos correa
+***.066.156-**
+%stransferência pix realizada #%s
+-r$ 100,00
+11/06/2022
+13/06/2022 taxa da cobrança 352357860
+taxa
+-r$ 1,70
+11/06/2022
+13/06/2022 pagamento da cobrança 352357860
+carlos alves nogueira neto
+637.197.703-20
+pagamento
+r$ 180,90
+11/06/2022
+13/06/2022 comissão da cobrança 352492663
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+11/06/2022
+13/06/2022 taxa da cobrança 349385772
+taxa
+-r$ 1,70
+11/06/2022
+13/06/2022 pagamento da cobrança 349385772
+paloma maia costa delfino
+054.197.344-43
+pagamento
+r$ 99,00
+11/06/2022
+13/06/2022 taxa da cobrança 351736398
+taxa
+-r$ 1,70
+11/06/2022
+13/06/2022 pagamento da cobrança 351736398
+luiz felipe lopes de andrade
+108.354.266-45
+pagamento
+r$ 109,90
+11/06/2022
+13/06/2022 taxa da cobrança 350738938
+taxa
+-r$ 1,70
+11/06/2022
+13/06/2022 pagamento da cobrança 350738938
+adilza cavalcante cardoso da silva
+028.440.854-90
+pagamento
+r$ 109,90
+11/06/2022
+13/06/2022 taxa da cobrança 351525475
+taxa
+-r$ 1,70
+11/06/2022
+13/06/2022 pagamento da cobrança 351525475
+talyani de souza nascimento
+075.626.224-00
+pagamento
+r$ 109,90
+12/05/2022
+13/06/2022 comissão da cobrança 335851217
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+12/05/2022
+13/06/2022 comissão da cobrança 335851216
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+12/05/2022
+13/06/2022 comissão da cobrança 335851215
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+11/05/2022
+12/06/2022 taxa da cobrança 335789543
+taxa
+-r$ 3,35
+11/05/2022
+12/06/2022 pagamento da cobrança 335789543
+deisiane de paula soares
+086.159.656-09
+pagamento
+r$ 52,67
+11/05/2022
+12/06/2022 taxa da cobrança 335789542
+taxa
+-r$ 3,35
+11/05/2022
+12/06/2022 pagamento da cobrança 335789542
+deisiane de paula soares
+086.159.656-09
+pagamento
+r$ 52,67
+11/05/2022
+12/06/2022 taxa da cobrança 335789541
+taxa
+-r$ 3,35
+11/05/2022
+12/06/2022 pagamento da cobrança 335789541
+deisiane de paula soares
+086.159.656-09
+pagamento
+r$ 52,67
+11/05/2022
+12/06/2022 taxa da cobrança 335534957
+taxa
+-r$ 2,77
+11/05/2022
+12/06/2022 pagamento da cobrança 335534957
+valdenio alexandre de oliveira
+114.132.304-40
+pagamento
+r$ 99,00
+10/05/2022
+11/06/2022 taxa da cobrança 330651508
+taxa
+-r$ 3,50
+10/05/2022
+11/06/2022 pagamento da cobrança 330651508
+silmara cristina coitinho cirilo valotto
+265.720.488-02
+pagamento
+r$ 64,50
+10/05/2022
+11/06/2022 taxa da cobrança 330651507
+taxa
+-r$ 3,50
+10/05/2022
+11/06/2022 pagamento da cobrança 330651507
+silmara cristina coitinho cirilo valotto
+265.720.488-02
+pagamento
+r$ 64,50
+10/05/2022
+11/06/2022 taxa da cobrança 335027671
+taxa
+-r$ 4,15
+10/05/2022
+11/06/2022 pagamento da cobrança 335027671
+wanessa kelly beltrão zoccoli
+965.878.301-53
+pagamento
+r$ 66,00
+10/05/2022
+11/06/2022 taxa da cobrança 335027670
+taxa
+-r$ 4,15
+10/05/2022
+11/06/2022 pagamento da cobrança 335027670
+wanessa kelly beltrão zoccoli
+965.878.301-53
+pagamento
+r$ 66,00
+10/05/2022
+11/06/2022 taxa da cobrança 335027669
+taxa
+-r$ 4,15
+10/05/2022
+11/06/2022 pagamento da cobrança 335027669
+wanessa kelly beltrão zoccoli
+965.878.301-53
+pagamento
+r$ 66,00
+10/05/2022
+11/06/2022 taxa da cobrança 334558157
+taxa
+-r$ 4,02
+10/05/2022
+11/06/2022 pagamento da cobrança 334558157
+gabriela lima de araujo
+071.916.783-30
+pagamento
+r$ 74,50
+10/05/2022
+11/06/2022 taxa da cobrança 334558156
+taxa
+-r$ 4,02
+10/05/2022
+11/06/2022 pagamento da cobrança 334558156
+gabriela lima de araujo
+071.916.783-30
+pagamento
+r$ 74,50
+10/06/2022
+10/06/2022 transferência pix realizada #11905215
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 250,00
+10/06/2022
+10/06/2022 comissão da cobrança 346745499
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+10/06/2022
+10/06/2022 taxa da cobrança 350789260
+taxa
+-r$ 1,70
+10/06/2022
+10/06/2022 pagamento da cobrança 350789260
+estela dalva costa
+874.990.884-72
+pagamento
+r$ 99,00
+10/06/2022
+10/06/2022 taxa da cobrança 350396485
+taxa
+-r$ 1,70
+10/06/2022
+10/06/2022 pagamento da cobrança 350396485
+daniely soares de medeiros
+067.496.644-90
+pagamento
+r$ 99,00
+10/06/2022
+10/06/2022 taxa da cobrança 347678102
+taxa
+-r$ 1,70
+10/06/2022
+10/06/2022 pagamento da cobrança 347678102
+maria andréia carvalho vilas boas
+005.712.836-75
+pagamento
+r$ 79,00
+10/06/2022
+10/06/2022 comissão da cobrança 351697232
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+10/06/2022
+10/06/2022 taxa da cobrança 350398802
+taxa
+-r$ 1,70
+10/06/2022
+10/06/2022 pagamento da cobrança 350398802
+márleison junior leffer
+127.076.387-30
+pagamento
+r$ 180,90
+09/05/2022
+10/06/2022 taxa da cobrança 334286199
+taxa
+-r$ 2,73
+09/05/2022
+10/06/2022 pagamento da cobrança 334286199
+andrelisa dos santos luiz
+472.977.648-84
+pagamento
+r$ 49,50
+09/05/2022
+10/06/2022 taxa da cobrança 334286198
+taxa
+-r$ 2,73
+09/05/2022
+10/06/2022 pagamento da cobrança 334286198
+andrelisa dos santos luiz
+472.977.648-84
+pagamento
+r$ 49,50
+09/06/2022
+09/06/2022 transferência pix realizada #11873264
+fabricio rodrigues de souza
+***.798.966-**
+%stransferência pix realizada #%s
+-r$ 15,61
+09/06/2022
+09/06/2022 transferência pix recebida #34545557
+danielly eugenia da silva
+***.496.686-**
+%stransferência pix recebida #%s
+r$ 274,78
+09/06/2022
+09/06/2022 taxa da cobrança 344936508
+taxa
+-r$ 1,70
+09/06/2022
+09/06/2022 pagamento da cobrança 344936508
+patrícia de castro dantas carneiro
+041.395.797-73
+pagamento
+r$ 129,00
+08/06/2022
+08/06/2022 transferência pix recebida #34371411
+fabiana rodrigues de lima
+***.450.828-**
+%stransferência pix recebida #%s
+r$ 99,00
+08/06/2022
+08/06/2022 comissão da cobrança 350418717
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+08/06/2022
+08/06/2022 comissão da cobrança 349491703
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+07/06/2022
+07/06/2022 transferência pix realizada #11763348
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 418,00
+07/06/2022
+07/06/2022 transferência pix realizada #11739150
+roberto xavier de souza 98202340691
+**.*62.917/0001-**
+%stransferência pix realizada #%s
+-r$ 10,83
+07/06/2022
+07/06/2022 taxa da cobrança 347276410
+taxa
+-r$ 1,70
+07/06/2022
+07/06/2022 pagamento da cobrança 347276410
+arlete pereira pacheco de almeida
+703.538.836-20
+pagamento
+r$ 149,00
+07/06/2022
+07/06/2022 taxa da cobrança 338747013
+taxa
+-r$ 1,70
+07/06/2022
+07/06/2022 pagamento da cobrança 338747013
+flavia alves barreto
+035.302.786-37
+pagamento
+r$ 109,90
+07/06/2022
+07/06/2022 taxa da cobrança 345561784
+taxa
+-r$ 1,70
+07/06/2022
+07/06/2022 pagamento da cobrança 345561784
+vera nice quiro
+022.839.421-01
+pagamento
+r$ 109,90
+07/06/2022
+07/06/2022 comissão da cobrança 346144170
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+06/06/2022
+06/06/2022 transferência pix realizada #11670120
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 400,00
+04/05/2022
+05/06/2022 taxa da cobrança 331718716
+taxa
+-r$ 3,61
+04/05/2022
+05/06/2022 pagamento da cobrança 331718716
+brena kézia cruz lima
+070.115.283-42
+pagamento
+r$ 49,75
+04/05/2022
+05/06/2022 taxa da cobrança 331718715
+taxa
+-r$ 3,61
+04/05/2022
+05/06/2022 pagamento da cobrança 331718715
+brena kézia cruz lima
+070.115.283-42
+pagamento
+r$ 49,75
+04/05/2022
+05/06/2022 taxa da cobrança 331718714
+taxa
+-r$ 3,61
+04/05/2022
+05/06/2022 pagamento da cobrança 331718714
+brena kézia cruz lima
+070.115.283-42
+pagamento
+r$ 49,75
+04/05/2022
+05/06/2022 taxa da cobrança 331718713
+taxa
+-r$ 3,61
+04/05/2022
+05/06/2022 pagamento da cobrança 331718713
+brena kézia cruz lima
+070.115.283-42
+pagamento
+r$ 49,75
+04/05/2022
+05/06/2022 comissão da cobrança 331730821
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+04/05/2022
+05/06/2022 comissão da cobrança 331730820
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+04/05/2022
+05/06/2022 comissão da cobrança 331730819
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+03/05/2022
+04/06/2022 taxa da cobrança 331033497
+taxa
+-r$ 3,16
+03/05/2022
+04/06/2022 pagamento da cobrança 331033497
+gleiciane da silva coutinho
+607.229.893-18
+pagamento
+r$ 49,67
+03/05/2022
+04/06/2022 taxa da cobrança 331033496
+taxa
+-r$ 3,16
+03/05/2022
+04/06/2022 pagamento da cobrança 331033496
+gleiciane da silva coutinho
+607.229.893-18
+pagamento
+r$ 49,67
+03/05/2022
+04/06/2022 taxa da cobrança 331033495
+taxa
+-r$ 3,16
+03/05/2022
+04/06/2022 pagamento da cobrança 331033495
+gleiciane da silva coutinho
+607.229.893-18
+pagamento
+r$ 49,67
+03/05/2022
+04/06/2022 taxa da cobrança 331363764
+taxa
+-r$ 3,97
+03/05/2022
+04/06/2022 pagamento da cobrança 331363764
+emanuele patrícia nascimento de souza
+046.148.235-56
+pagamento
+r$ 149,00
+03/05/2022
+04/06/2022 comissão da cobrança 330396375
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+03/06/2022
+03/06/2022 transferência pix realizada #11648681
+keila da silva evaristo
+***.844.966-**
+%stransferência pix realizada #%s
+-r$ 1.227,38
+03/06/2022
+03/06/2022 transferência pix realizada #11646302
+matheus henrique de siqueira
+***.677.996-**
+%stransferência pix realizada #%s
+-r$ 610,00
+03/06/2022
+03/06/2022 transferência pix realizada #11646209
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 1.078,90
+03/06/2022
+03/06/2022 transferência pix realizada #11646111
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 1.441,47
+03/06/2022
+03/06/2022 transferência pix realizada #11645959
+jeane soares da costa
+***.739.876-**
+%stransferência pix realizada #%s
+-r$ 1.567,00
+03/06/2022
+03/06/2022 transferência pix realizada #11645877
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 1.838,18
+03/06/2022
+03/06/2022 transferência pix recebida #33101171
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 5.859,00
+03/06/2022
+03/06/2022 taxa da cobrança 346161370
+taxa
+-r$ 1,70
+03/06/2022
+03/06/2022 pagamento da cobrança 346161370
+zâine aparecida godoy
+749.576.276-49
+pagamento
+r$ 129,00
+03/06/2022
+03/06/2022 comissão da cobrança 346269833
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+03/06/2022
+03/06/2022 taxa da cobrança 344981176
+taxa
+-r$ 1,70
+03/06/2022
+03/06/2022 pagamento da cobrança 344981176
+patricia gama nogueira
+817.840.903-87
+pagamento
+r$ 99,00
+02/05/2022
+03/06/2022 taxa da cobrança 330395287
+taxa
+-r$ 3,61
+02/05/2022
+03/06/2022 pagamento da cobrança 330395287
+lucas emmanuel da silva oliveira
+066.672.164-51
+pagamento
+r$ 49,75
+02/05/2022
+03/06/2022 taxa da cobrança 330395286
+taxa
+-r$ 3,61
+02/05/2022
+03/06/2022 pagamento da cobrança 330395286
+lucas emmanuel da silva oliveira
+066.672.164-51
+pagamento
+r$ 49,75
+02/05/2022
+03/06/2022 taxa da cobrança 330395285
+taxa
+-r$ 3,61
+02/05/2022
+03/06/2022 pagamento da cobrança 330395285
+lucas emmanuel da silva oliveira
+066.672.164-51
+pagamento
+r$ 49,75
+02/05/2022
+03/06/2022 taxa da cobrança 330395284
+taxa
+-r$ 3,61
+02/05/2022
+03/06/2022 pagamento da cobrança 330395284
+lucas emmanuel da silva oliveira
+066.672.164-51
+pagamento
+r$ 49,75
+02/06/2022
+02/06/2022 taxa da cobrança 346259642
+taxa
+-r$ 1,70
+02/06/2022
+02/06/2022 pagamento da cobrança 346259642
+suely silva da costa
+635.115.762-53
+pagamento
+r$ 129,00
+02/06/2022
+02/06/2022 taxa da cobrança 345908457
+taxa
+-r$ 1,70
+02/06/2022
+02/06/2022 pagamento da cobrança 345908457
+ziel dos santos cardoso
+039.568.663-63
+pagamento
+r$ 109,90
+01/06/2022
+01/06/2022 taxa da cobrança 344746391
+taxa
+-r$ 1,70
+01/06/2022
+01/06/2022 pagamento da cobrança 344746391
+lílian kelly pereira da silva
+008.074.244-04
+pagamento
+r$ 149,00
+01/06/2022
+01/06/2022 comissão da cobrança 344994482
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+01/06/2022
+01/06/2022 comissão da cobrança 345451130
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+01/06/2022
+01/06/2022 taxa da cobrança 345337189
+taxa
+-r$ 1,70
+01/06/2022
+01/06/2022 pagamento da cobrança 345337189
+romana nery brito pinto
+469.620.425-15
+pagamento
+r$ 149,00
+01/06/2022
+01/06/2022 comissão da cobrança 345462269
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+01/06/2022
+01/06/2022 taxa da cobrança 345486281
+taxa
+-r$ 1,70
+01/06/2022
+01/06/2022 pagamento da cobrança 345486281
+adriely vechiato bordin
+108.916.719-94
+pagamento
+r$ 199,00
+30/04/2022
+01/06/2022 comissão da cobrança 329590215
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+30/04/2022
+01/06/2022 comissão da cobrança 329590214
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+30/04/2022
+01/06/2022 comissão da cobrança 329590213
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+data
+data de liberação
+descrição
+nome cliente
+cpf/cnpj cliente
+tipo
+valor
+31/05/2022
+31/05/2022 taxa da cobrança 342193233
+taxa
+-r$ 1,70
+31/05/2022
+31/05/2022 pagamento da cobrança 342193233
+fernanda nunes da silva
+120.239.864-27
+pagamento
+r$ 99,00
+31/05/2022
+31/05/2022 comissão da cobrança 344000537
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+31/05/2022
+31/05/2022 taxa da cobrança 344938727
+taxa
+-r$ 1,70
+31/05/2022
+31/05/2022 pagamento da cobrança 344938727
+édina aparecida krinski
+093.807.179-38
+pagamento
+r$ 99,00
+31/05/2022
+31/05/2022 taxa da cobrança 343681374
+taxa
+-r$ 1,70
+31/05/2022
+31/05/2022 pagamento da cobrança 343681374
+mariza aparecida neves rocha
+036.776.521-70
+pagamento
+r$ 50,00
+29/04/2022
+31/05/2022 taxa da cobrança 329095149
+taxa
+-r$ 3,03
+29/04/2022
+31/05/2022 pagamento da cobrança 329095149
+jose jivaldo oliveira de jesus
+857.581.165-72
+pagamento
+r$ 109,90
+29/04/2022
+31/05/2022 taxa da cobrança 328796888
+taxa
+-r$ 4,17
+29/04/2022
+31/05/2022 pagamento da cobrança 328796888
+elaine freitas de farias
+601.955.172-53
+pagamento
+r$ 66,33
+29/04/2022
+31/05/2022 taxa da cobrança 328796887
+taxa
+-r$ 4,17
+29/04/2022
+31/05/2022 pagamento da cobrança 328796887
+elaine freitas de farias
+601.955.172-53
+pagamento
+r$ 66,33
+29/04/2022
+31/05/2022 taxa da cobrança 328796886
+taxa
+-r$ 4,17
+29/04/2022
+31/05/2022 pagamento da cobrança 328796886
+elaine freitas de farias
+601.955.172-53
+pagamento
+r$ 66,33
+30/05/2022
+30/05/2022 transferência pix realizada #11401236
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.000,00
+30/05/2022
+30/05/2022 transferência pix realizada #11401222
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 401,00
+28/05/2022
+30/05/2022 taxa da cobrança 343110402
+taxa
+-r$ 1,70
+28/05/2022
+30/05/2022 pagamento da cobrança 343110402
+cynthia antonia manganelli amaro
+042.684.111-51
+pagamento
+r$ 109,90
+27/04/2022
+29/05/2022 taxa da cobrança 327540930
+taxa
+-r$ 3,97
+27/04/2022
+29/05/2022 pagamento da cobrança 327540930
+jaqueline correia santos cardoso
+066.626.814-23
+pagamento
+r$ 149,00
+27/05/2022
+27/05/2022 transferência pix realizada #11369767
+keilla cristina rosado 05765767605
+**.*60.941/0001-**
+%stransferência pix realizada #%s
+-r$ 30,00
+27/05/2022
+27/05/2022 taxa da cobrança 343001080
+taxa
+-r$ 1,70
+27/05/2022
+27/05/2022 pagamento da cobrança 343001080
+domingas gomes vieira lellis
+862.921.536-49
+pagamento
+r$ 109,90
+27/05/2022
+27/05/2022 taxa da cobrança 342601888
+taxa
+-r$ 1,70
+27/05/2022
+27/05/2022 pagamento da cobrança 342601888
+camila de souza pereira
+094.946.066-47
+pagamento
+r$ 99,00
+25/04/2022
+27/05/2022 comissão da cobrança 327000272
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+26/05/2022
+26/05/2022 taxa da cobrança 342164303
+taxa
+-r$ 1,70
+26/05/2022
+26/05/2022 pagamento da cobrança 342164303
+josé heliel gonçalves leal
+104.468.954-40
+pagamento
+r$ 99,00
+26/05/2022
+26/05/2022 taxa da cobrança 341976464
+taxa
+-r$ 1,70
+26/05/2022
+26/05/2022 pagamento da cobrança 341976464
+andrew dos reis cruz
+153.079.757-83
+pagamento
+r$ 198,00
+26/05/2022
+26/05/2022 taxa da cobrança 342629251
+taxa
+-r$ 1,70
+26/05/2022
+26/05/2022 pagamento da cobrança 342629251
+júlio cesar honório
+298.704.158-65
+pagamento
+r$ 99,00
+26/05/2022
+26/05/2022 comissão da cobrança 341978777
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+26/05/2022
+26/05/2022 taxa da cobrança 342407160
+taxa
+-r$ 1,70
+26/05/2022
+26/05/2022 pagamento da cobrança 342407160
+luana ferreira de araujo
+319.155.498-09
+pagamento
+r$ 99,00
+26/05/2022
+26/05/2022 taxa da cobrança 342502750
+taxa
+-r$ 1,70
+26/05/2022
+26/05/2022 pagamento da cobrança 342502750
+djenane gonçalves lemos ribeiro
+033.504.216-36
+pagamento
+r$ 129,00
+25/05/2022
+25/05/2022 transferência pix realizada #11254428
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 600,00
+25/05/2022
+25/05/2022 transferência pix realizada #11254405
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 370,00
+25/05/2022
+25/05/2022 taxa da cobrança 341982328
+taxa
+-r$ 1,70
+25/05/2022
+25/05/2022 pagamento da cobrança 341982328
+ariane da silva gonçalves
+461.575.768-98
+pagamento
+r$ 79,00
+24/05/2022
+24/05/2022 transferência pix realizada #11209366
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 100,00
+24/05/2022
+24/05/2022 taxa da cobrança 340291819
+taxa
+-r$ 1,70
+24/05/2022
+24/05/2022 pagamento da cobrança 340291819
+amanda kelly leite de oliveira dias
+065.761.694-00
+pagamento
+r$ 99,00
+24/05/2022
+24/05/2022 taxa da cobrança 341542198
+taxa
+-r$ 1,70
+24/05/2022
+24/05/2022 pagamento da cobrança 341542198
+camila santos de oliveira
+449.642.978-02
+pagamento
+r$ 109,90
+21/05/2022
+23/05/2022 taxa da cobrança 339983332
+taxa
+-r$ 1,70
+21/05/2022
+23/05/2022 pagamento da cobrança 339983332
+patrícia fritschi schenkel
+075.787.329-43
+pagamento
+r$ 180,90
+21/05/2022
+23/05/2022 taxa da cobrança 339708069
+taxa
+-r$ 1,70
+21/05/2022
+23/05/2022 pagamento da cobrança 339708069
+gabriely loze grossi
+125.905.956-11
+pagamento
+r$ 199,00
+21/05/2022
+23/05/2022 taxa da cobrança 338499731
+taxa
+-r$ 1,70
+21/05/2022
+23/05/2022 pagamento da cobrança 338499731
+catia sirlene batista de lima
+321.462.098-36
+pagamento
+r$ 99,00
+21/05/2022
+23/05/2022 taxa da cobrança 340020433
+taxa
+-r$ 1,70
+21/05/2022
+23/05/2022 pagamento da cobrança 340020433
+gislaine terezinha procópio moura gonçalves
+001.477.011-39
+pagamento
+r$ 109,90
+21/05/2022
+23/05/2022 taxa da cobrança 335635722
+taxa
+-r$ 1,70
+21/05/2022
+23/05/2022 pagamento da cobrança 335635722
+gisele teresinha siqueira
+617.646.120-00
+pagamento
+r$ 99,00
+21/05/2022
+23/05/2022 taxa da cobrança 335740899
+taxa
+-r$ 1,70
+21/05/2022
+23/05/2022 pagamento da cobrança 335740899
+jupiraciara branco pimentel
+027.409.527-08
+pagamento
+r$ 149,00
+21/05/2022
+23/05/2022 taxa da cobrança 339540599
+taxa
+-r$ 1,70
+21/05/2022
+23/05/2022 pagamento da cobrança 339540599
+rodrigo barbosa bonfim
+675.814.983-87
+pagamento
+r$ 149,00
+20/04/2022
+22/05/2022 taxa da cobrança 324143923
+taxa
+-r$ 4,17
+20/04/2022
+22/05/2022 pagamento da cobrança 324143923
+érica chaves peçanha
+096.926.777-02
+pagamento
+r$ 66,33
+20/04/2022
+22/05/2022 taxa da cobrança 324143922
+taxa
+-r$ 4,17
+20/04/2022
+22/05/2022 pagamento da cobrança 324143922
+érica chaves peçanha
+096.926.777-02
+pagamento
+r$ 66,33
+20/04/2022
+22/05/2022 taxa da cobrança 324143921
+taxa
+-r$ 4,17
+20/04/2022
+22/05/2022 pagamento da cobrança 324143921
+érica chaves peçanha
+096.926.777-02
+pagamento
+r$ 66,33
+21/05/2022
+21/05/2022 transferência pix realizada #11132494
+elielson de oliveira jorge
+***.602.186-**
+%stransferência pix realizada #%s
+-r$ 120,00
+19/04/2022
+21/05/2022 taxa da cobrança 324620609
+taxa
+-r$ 3,97
+19/04/2022
+21/05/2022 pagamento da cobrança 324620609
+isnaria da silva rodrigues marques
+099.962.894-19
+pagamento
+r$ 149,00
+20/05/2022
+20/05/2022 transferência pix realizada #11102206
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 50,00
+20/05/2022
+20/05/2022 transferência pix realizada #11101949
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 650,00
+20/05/2022
+20/05/2022 taxa da cobrança 339701810
+taxa
+-r$ 1,70
+20/05/2022
+20/05/2022 pagamento da cobrança 339701810
+patrícia fritschi schenkel
+075.787.329-43
+pagamento
+r$ 180,90
+20/05/2022
+20/05/2022 comissão da cobrança 339764136
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+18/04/2022
+20/05/2022 taxa da cobrança 324052849
+taxa
+-r$ 2,73
+18/04/2022
+20/05/2022 pagamento da cobrança 324052849
+judite brandão freire
+081.819.357-30
+pagamento
+r$ 49,50
+18/04/2022
+20/05/2022 taxa da cobrança 324052848
+taxa
+-r$ 2,73
+18/04/2022
+20/05/2022 pagamento da cobrança 324052848
+judite brandão freire
+081.819.357-30
+pagamento
+r$ 49,50
+18/04/2022
+20/05/2022 taxa da cobrança 323909260
+taxa
+-r$ 3,50
+18/04/2022
+20/05/2022 pagamento da cobrança 323909260
+danielle de lima estaneli
+293.670.088-48
+pagamento
+r$ 64,50
+18/04/2022
+20/05/2022 taxa da cobrança 323909259
+taxa
+-r$ 3,50
+18/04/2022
+20/05/2022 pagamento da cobrança 323909259
+danielle de lima estaneli
+293.670.088-48
+pagamento
+r$ 64,50
+19/05/2022
+19/05/2022 taxa da cobrança 339021685
+taxa
+-r$ 1,70
+19/05/2022
+19/05/2022 pagamento da cobrança 339021685
+wilson benedito marino de arruda junior
+001.952.041-74
+pagamento
+r$ 99,00
+19/05/2022
+19/05/2022 taxa da cobrança 338509805
+taxa
+-r$ 1,70
+19/05/2022
+19/05/2022 pagamento da cobrança 338509805
+cleide aparecida oliveira ramos
+011.728.636-28
+pagamento
+r$ 99,00
+19/05/2022
+19/05/2022 taxa da cobrança 338718429
+taxa
+-r$ 1,70
+19/05/2022
+19/05/2022 pagamento da cobrança 338718429
+ana marta gomes rangel barreto
+021.930.587-09
+pagamento
+r$ 129,00
+19/05/2022
+19/05/2022 taxa da cobrança 339052792
+taxa
+-r$ 1,70
+19/05/2022
+19/05/2022 pagamento da cobrança 339052792
+adriano tavares da silva
+000.779.781-88
+pagamento
+r$ 99,00
+18/05/2022
+18/05/2022 transferência pix realizada #11043809
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 84,59
+18/05/2022
+18/05/2022 transferência pix realizada #11043795
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 1.561,57
+18/05/2022
+18/05/2022 transferência pix recebida #29782461
+keila da silva evaristo
+***.844.966-**
+%stransferência pix recebida #%s
+r$ 45,00
+18/05/2022
+18/05/2022 transferência pix recebida #29707149
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 100,00
+18/05/2022
+18/05/2022 taxa da cobrança 338748275
+taxa
+-r$ 1,70
+18/05/2022
+18/05/2022 pagamento da cobrança 338748275
+amanda tamanini de araujo
+080.564.409-17
+pagamento
+r$ 129,00
+18/05/2022
+18/05/2022 taxa da cobrança 338654261
+taxa
+-r$ 1,70
+18/05/2022
+18/05/2022 pagamento da cobrança 338654261
+cheila molinari werner
+037.832.159-51
+pagamento
+r$ 99,00
+17/05/2022
+17/05/2022 transferência pix realizada #11013468
+maria do socorro p de souza             
+***.608.264-**
+%stransferência pix realizada #%s
+-r$ 149,00
+17/05/2022
+17/05/2022 transferência pix realizada #10986788
+aline mageste cimini de britto
+***.682.676-**
+%stransferência pix realizada #%s
+-r$ 130,50
+17/05/2022
+17/05/2022 transferência pix realizada #10979483
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.700,00
+17/05/2022
+17/05/2022 transferência pix realizada #10979380
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.490,00
+17/05/2022
+17/05/2022 taxa da cobrança 337846067
+taxa
+-r$ 1,70
+17/05/2022
+17/05/2022 pagamento da cobrança 337846067
+esterfânia marques da silva
+966.524.622-49
+pagamento
+r$ 219,80
+17/05/2022
+17/05/2022 comissão da cobrança 333141085
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+17/05/2022
+17/05/2022 taxa da cobrança 337841337
+taxa
+-r$ 1,70
+17/05/2022
+17/05/2022 pagamento da cobrança 337841337
+leticia kaufmann
+027.145.990-52
+pagamento
+r$ 109,90
+17/05/2022
+17/05/2022 taxa da cobrança 337925117
+taxa
+-r$ 1,70
+17/05/2022
+17/05/2022 pagamento da cobrança 337925117
+kerolline emilliane
+376.194.618-09
+pagamento
+r$ 79,00
+17/05/2022
+17/05/2022 taxa da cobrança 335221871
+taxa
+-r$ 1,70
+17/05/2022
+17/05/2022 pagamento da cobrança 335221871
+jaqueline brito vieira
+039.242.805-92
+pagamento
+r$ 99,00
+17/05/2022
+17/05/2022 transferência pix recebida #29489512
+maria de fatima costa dantas silva
+***.619.004-**
+%stransferência pix recebida #%s
+r$ 79,00
+15/04/2022
+17/05/2022 taxa da cobrança 323041039
+taxa
+-r$ 2,73
+15/04/2022
+17/05/2022 pagamento da cobrança 323041039
+aldenice batista lopes
+030.695.664-05
+pagamento
+r$ 49,50
+15/04/2022
+17/05/2022 taxa da cobrança 323041038
+taxa
+-r$ 2,73
+15/04/2022
+17/05/2022 pagamento da cobrança 323041038
+aldenice batista lopes
+030.695.664-05
+pagamento
+r$ 49,50
+16/05/2022
+16/05/2022 transferência pix realizada #10940534
+leticia sousa dos santos correa
+***.066.156-**
+%stransferência pix realizada #%s
+-r$ 100,00
+14/05/2022
+16/05/2022 taxa da cobrança 336359926
+taxa
+-r$ 1,70
+14/05/2022
+16/05/2022 pagamento da cobrança 336359926
+rosemeire dutra martins
+038.806.586-92
+pagamento
+r$ 149,00
+14/05/2022
+16/05/2022 taxa da cobrança 336749892
+taxa
+-r$ 1,70
+14/05/2022
+16/05/2022 pagamento da cobrança 336749892
+patrícia ap souza gois
+369.855.828-93
+pagamento
+r$ 199,00
+14/05/2022
+16/05/2022 taxa da cobrança 336557364
+taxa
+-r$ 1,70
+14/05/2022
+16/05/2022 pagamento da cobrança 336557364
+vanessa soares de santana
+035.773.245-62
+pagamento
+r$ 109,90
+14/05/2022
+16/05/2022 taxa da cobrança 327816122
+taxa
+-r$ 1,70
+14/05/2022
+16/05/2022 pagamento da cobrança 327816122
+greyce de sousa oliveira
+354.167.948-44
+pagamento
+r$ 79,00
+14/05/2022
+16/05/2022 taxa da cobrança 336370580
+taxa
+-r$ 1,70
+14/05/2022
+16/05/2022 pagamento da cobrança 336370580
+dayse pessanha da silva
+082.813.307-75
+pagamento
+r$ 99,00
+14/05/2022
+16/05/2022 taxa da cobrança 336371675
+taxa
+-r$ 1,70
+14/05/2022
+16/05/2022 pagamento da cobrança 336371675
+daniela pessanha da silva
+044.543.687-59
+pagamento
+r$ 99,00
+14/05/2022
+16/05/2022 taxa da cobrança 336555271
+taxa
+-r$ 1,70
+14/05/2022
+16/05/2022 pagamento da cobrança 336555271
+felipe de carvalho pereira
+155.489.267-80
+pagamento
+r$ 99,00
+14/04/2022
+16/05/2022 taxa da cobrança 322657430
+taxa
+-r$ 3,61
+14/04/2022
+16/05/2022 pagamento da cobrança 322657430
+fabiano marques quevedo
+006.554.230-44
+pagamento
+r$ 49,75
+14/04/2022
+16/05/2022 taxa da cobrança 322657429
+taxa
+-r$ 3,61
+14/04/2022
+16/05/2022 pagamento da cobrança 322657429
+fabiano marques quevedo
+006.554.230-44
+pagamento
+r$ 49,75
+14/04/2022
+16/05/2022 taxa da cobrança 322657428
+taxa
+-r$ 3,61
+14/04/2022
+16/05/2022 pagamento da cobrança 322657428
+fabiano marques quevedo
+006.554.230-44
+pagamento
+r$ 49,75
+14/04/2022
+16/05/2022 taxa da cobrança 322657427
+taxa
+-r$ 3,61
+14/04/2022
+16/05/2022 pagamento da cobrança 322657427
+fabiano marques quevedo
+006.554.230-44
+pagamento
+r$ 49,75
+13/04/2022
+15/05/2022 taxa da cobrança 322158274
+taxa
+-r$ 2,73
+13/04/2022
+15/05/2022 pagamento da cobrança 322158274
+raphaela oliveira sampaio batista
+080.079.446-05
+pagamento
+r$ 49,50
+13/04/2022
+15/05/2022 taxa da cobrança 322158273
+taxa
+-r$ 2,73
+13/04/2022
+15/05/2022 pagamento da cobrança 322158273
+raphaela oliveira sampaio batista
+080.079.446-05
+pagamento
+r$ 49,50
+13/04/2022
+15/05/2022 taxa da cobrança 322222291
+taxa
+-r$ 2,77
+13/04/2022
+15/05/2022 pagamento da cobrança 322222291
+cherli rodrigues de souza
+010.663.790-84
+pagamento
+r$ 99,00
+12/04/2022
+14/05/2022 taxa da cobrança 321267285
+taxa
+-r$ 5,27
+12/04/2022
+14/05/2022 pagamento da cobrança 321267285
+erick lucas de paulo da silva pereira
+115.743.877-66
+pagamento
+r$ 99,00
+12/04/2022
+14/05/2022 taxa da cobrança 321267284
+taxa
+-r$ 5,27
+12/04/2022
+14/05/2022 pagamento da cobrança 321267284
+erick lucas de paulo da silva pereira
+115.743.877-66
+pagamento
+r$ 99,00
+12/04/2022
+14/05/2022 taxa da cobrança 321266568
+taxa
+-r$ 5,27
+12/04/2022
+14/05/2022 pagamento da cobrança 321266568
+ranielle santos de souza
+146.112.277-58
+pagamento
+r$ 99,00
+12/04/2022
+14/05/2022 taxa da cobrança 321266567
+taxa
+-r$ 5,27
+12/04/2022
+14/05/2022 pagamento da cobrança 321266567
+ranielle santos de souza
+146.112.277-58
+pagamento
+r$ 99,00
+13/05/2022
+13/05/2022 taxa da cobrança 336308346
+taxa
+-r$ 1,70
+13/05/2022
+13/05/2022 pagamento da cobrança 336308346
+marlene lopes da silva
+075.551.367-32
+pagamento
+r$ 99,00
+13/05/2022
+13/05/2022 taxa da cobrança 335853147
+taxa
+-r$ 1,70
+13/05/2022
+13/05/2022 pagamento da cobrança 335853147
+flávia de carvalho pereira
+973.625.227-20
+pagamento
+r$ 99,00
+13/05/2022
+13/05/2022 taxa da cobrança 335563897
+taxa
+-r$ 1,70
+13/05/2022
+13/05/2022 pagamento da cobrança 335563897
+ezoila quintino aa silva
+343.161.242-34
+pagamento
+r$ 99,00
+13/05/2022
+13/05/2022 taxa da cobrança 323034553
+taxa
+-r$ 1,70
+13/05/2022
+13/05/2022 pagamento da cobrança 323034553
+geane ezidério araújo
+018.780.802-37
+pagamento
+r$ 109,90
+13/05/2022
+13/05/2022 taxa da cobrança 336304530
+taxa
+-r$ 1,70
+13/05/2022
+13/05/2022 pagamento da cobrança 336304530
+juliana alves cavalcanti da silva
+091.699.904-17
+pagamento
+r$ 99,00
+11/04/2022
+13/05/2022 taxa da cobrança 321216503
+taxa
+-r$ 1,32
+11/04/2022
+13/05/2022 pagamento da cobrança 321216503
+viviane rana alves
+017.553.114-51
+pagamento
+r$ 49,67
+11/04/2022
+13/05/2022 taxa da cobrança 321216502
+taxa
+-r$ 1,32
+11/04/2022
+13/05/2022 pagamento da cobrança 321216502
+viviane rana alves
+017.553.114-51
+pagamento
+r$ 49,67
+11/04/2022
+13/05/2022 taxa da cobrança 321216501
+taxa
+-r$ 1,32
+11/04/2022
+13/05/2022 pagamento da cobrança 321216501
+viviane rana alves
+017.553.114-51
+pagamento
+r$ 49,67
+11/04/2022
+13/05/2022 taxa da cobrança 321213571
+taxa
+-r$ 3,49
+11/04/2022
+13/05/2022 pagamento da cobrança 321213571
+ana karollyna pereira de frança alves
+066.260.294-36
+pagamento
+r$ 129,00
+12/05/2022
+12/05/2022 transferência pix realizada #10890130
+luanna carolina nascimento
+***.831.596-**
+%stransferência pix realizada #%s
+-r$ 12,00
+12/05/2022
+12/05/2022 transferência pix realizada #10889345
+roseli candida de oliveira
+***.795.318-**
+%stransferência pix realizada #%s
+-r$ 34,00
+12/05/2022
+12/05/2022 transferência pix recebida #28621772
+carlos alberto rocha do amaral
+***.481.147-**
+%stransferência pix recebida #%s
+r$ 99,00
+12/05/2022
+12/05/2022 taxa da cobrança 335744891
+taxa
+-r$ 1,70
+12/05/2022
+12/05/2022 pagamento da cobrança 335744891
+maria eduarda barros silva
+704.064.344-84
+pagamento
+r$ 199,00
+12/05/2022
+12/05/2022 taxa da cobrança 335566545
+taxa
+-r$ 1,70
+12/05/2022
+12/05/2022 pagamento da cobrança 335566545
+gláucia cidreira do nascimento simões
+033.281.195-66
+pagamento
+r$ 180,90
+12/05/2022
+12/05/2022 taxa da cobrança 332570153
+taxa
+-r$ 1,70
+12/05/2022
+12/05/2022 pagamento da cobrança 332570153
+sabrina silva de sousa
+046.032.663-59
+pagamento
+r$ 109,90
+11/05/2022
+11/05/2022 taxa da cobrança 335130340
+taxa
+-r$ 1,70
+11/05/2022
+11/05/2022 pagamento da cobrança 335130340
+maria do socorro pereira de souza
+597.608.264-53
+pagamento
+r$ 149,00
+11/05/2022
+11/05/2022 taxa da cobrança 332997865
+taxa
+-r$ 1,70
+11/05/2022
+11/05/2022 pagamento da cobrança 332997865
+shirlei silva
+658.815.085-72
+pagamento
+r$ 199,00
+11/05/2022
+11/05/2022 taxa da cobrança 332363404
+taxa
+-r$ 1,70
+11/05/2022
+11/05/2022 pagamento da cobrança 332363404
+juscilene de jesus sousa oliveira
+118.575.686-80
+pagamento
+r$ 109,90
+11/05/2022
+11/05/2022 taxa da cobrança 332663026
+taxa
+-r$ 1,70
+11/05/2022
+11/05/2022 pagamento da cobrança 332663026
+paola cristina da silva campos
+171.505.757-06
+pagamento
+r$ 129,00
+10/05/2022
+10/05/2022 taxa da cobrança 332418137
+taxa
+-r$ 1,70
+10/05/2022
+10/05/2022 pagamento da cobrança 332418137
+eliane franco arlindo
+035.628.979-60
+pagamento
+r$ 99,00
+10/05/2022
+10/05/2022 taxa da cobrança 334316022
+taxa
+-r$ 1,70
+10/05/2022
+10/05/2022 pagamento da cobrança 334316022
+bruna cadini
+095.101.999-66
+pagamento
+r$ 198,00
+10/05/2022
+10/05/2022 taxa da cobrança 327819183
+taxa
+-r$ 1,70
+10/05/2022
+10/05/2022 pagamento da cobrança 327819183
+maria edileia costa araújo
+573.188.082-49
+pagamento
+r$ 199,00
+10/05/2022
+10/05/2022 taxa da cobrança 332384253
+taxa
+-r$ 1,70
+10/05/2022
+10/05/2022 pagamento da cobrança 332384253
+joão leandro pereira da silveira
+848.004.619-87
+pagamento
+r$ 109,90
+08/04/2022
+10/05/2022 taxa da cobrança 320254158
+taxa
+-r$ 4,84
+08/04/2022
+10/05/2022 pagamento da cobrança 320254158
+tércya oliveira do couto
+094.677.917-14
+pagamento
+r$ 90,45
+08/04/2022
+10/05/2022 taxa da cobrança 320254156
+taxa
+-r$ 4,84
+08/04/2022
+10/05/2022 pagamento da cobrança 320254156
+tércya oliveira do couto
+094.677.917-14
+pagamento
+r$ 90,45
+09/05/2022
+09/05/2022 transferência pix realizada #10674428
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 2.900,00
+07/05/2022
+09/05/2022 taxa da cobrança 333072691
+taxa
+-r$ 1,70
+07/05/2022
+09/05/2022 pagamento da cobrança 333072691
+bráulio ferreira de almeida
+087.855.726-16
+pagamento
+r$ 180,90
+07/05/2022
+09/05/2022 taxa da cobrança 331285052
+taxa
+-r$ 1,70
+07/05/2022
+09/05/2022 pagamento da cobrança 331285052
+marlene flávio
+585.369.576-20
+pagamento
+r$ 149,00
+07/05/2022
+09/05/2022 comissão da cobrança 331224315
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+07/05/2022
+09/05/2022 taxa da cobrança 327526338
+taxa
+-r$ 1,70
+07/05/2022
+09/05/2022 pagamento da cobrança 327526338
+jéssica santos meneses da silva
+416.857.778-30
+pagamento
+r$ 109,90
+07/05/2022
+09/05/2022 taxa da cobrança 332965016
+taxa
+-r$ 1,70
+07/05/2022
+09/05/2022 pagamento da cobrança 332965016
+jessica layne da silva galindo lins
+107.040.844-14
+pagamento
+r$ 149,00
+07/05/2022
+09/05/2022 taxa da cobrança 327944768
+taxa
+-r$ 1,70
+07/05/2022
+09/05/2022 pagamento da cobrança 327944768
+elivan gonçalves dutra
+031.109.003-60
+pagamento
+r$ 199,00
+07/05/2022
+09/05/2022 taxa da cobrança 333031335
+taxa
+-r$ 1,70
+07/05/2022
+09/05/2022 pagamento da cobrança 333031335
+cassio vinicius fonseca meira
+036.008.501-64
+pagamento
+r$ 199,00
+07/04/2022
+09/05/2022 taxa da cobrança 319495794
+taxa
+-r$ 3,16
+07/04/2022
+09/05/2022 pagamento da cobrança 319495794
+wêdja marli dos santos silva
+103.638.244-30
+pagamento
+r$ 49,67
+07/04/2022
+09/05/2022 taxa da cobrança 319495793
+taxa
+-r$ 3,16
+07/04/2022
+09/05/2022 pagamento da cobrança 319495793
+wêdja marli dos santos silva
+103.638.244-30
+pagamento
+r$ 49,67
+07/04/2022
+09/05/2022 taxa da cobrança 319495792
+taxa
+-r$ 3,16
+07/04/2022
+09/05/2022 pagamento da cobrança 319495792
+wêdja marli dos santos silva
+103.638.244-30
+pagamento
+r$ 49,67
+08/05/2022
+08/05/2022 transferência pix realizada #10671036
+florentino jose de vasconcellos
+***.260.606-**
+%stransferência pix realizada #%s
+-r$ 14,70
+08/05/2022
+08/05/2022 transferência pix realizada #10670651
+ivanir de lurdes pinto
+***.023.726-**
+%stransferência pix realizada #%s
+-r$ 17,20
+06/04/2022
+08/05/2022 taxa da cobrança 319185137
+taxa
+-r$ 3,50
+06/04/2022
+08/05/2022 pagamento da cobrança 319185137
+pollyanna de oliveira estofel ramos
+093.870.907-01
+pagamento
+r$ 64,50
+06/04/2022
+08/05/2022 taxa da cobrança 319185136
+taxa
+-r$ 3,50
+06/04/2022
+08/05/2022 pagamento da cobrança 319185136
+pollyanna de oliveira estofel ramos
+093.870.907-01
+pagamento
+r$ 64,50
+05/04/2022
+07/05/2022 taxa da cobrança 318725659
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318725659
+joilson firmino aragão
+008.845.343-08
+pagamento
+r$ 49,67
+05/04/2022
+07/05/2022 taxa da cobrança 318725658
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318725658
+joilson firmino aragão
+008.845.343-08
+pagamento
+r$ 49,67
+05/04/2022
+07/05/2022 taxa da cobrança 318725657
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318725657
+joilson firmino aragão
+008.845.343-08
+pagamento
+r$ 49,67
+05/04/2022
+07/05/2022 taxa da cobrança 318687609
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318687609
+amanda jasmynne soares de oliveira novaes
+102.862.604-50
+pagamento
+r$ 49,67
+05/04/2022
+07/05/2022 taxa da cobrança 318687608
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318687608
+amanda jasmynne soares de oliveira novaes
+102.862.604-50
+pagamento
+r$ 49,67
+05/04/2022
+07/05/2022 taxa da cobrança 318687606
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318687606
+amanda jasmynne soares de oliveira novaes
+102.862.604-50
+pagamento
+r$ 49,67
+05/04/2022
+07/05/2022 taxa da cobrança 318048098
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318048098
+genilsa rosa de lime
+700.211.121-34
+pagamento
+r$ 49,67
+05/04/2022
+07/05/2022 taxa da cobrança 318048097
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318048097
+genilsa rosa de lime
+700.211.121-34
+pagamento
+r$ 49,67
+05/04/2022
+07/05/2022 taxa da cobrança 318048096
+taxa
+-r$ 3,16
+05/04/2022
+07/05/2022 pagamento da cobrança 318048096
+genilsa rosa de lime
+700.211.121-34
+pagamento
+r$ 49,67
+06/05/2022
+06/05/2022 taxa da cobrança 328953797
+taxa
+-r$ 1,70
+06/05/2022
+06/05/2022 pagamento da cobrança 328953797
+queila rozane da silva
+033.816.185-63
+pagamento
+r$ 109,90
+06/05/2022
+06/05/2022 taxa da cobrança 332298253
+taxa
+-r$ 1,70
+06/05/2022
+06/05/2022 pagamento da cobrança 332298253
+monique sercundo da silva
+054.049.587-58
+pagamento
+r$ 198,00
+06/05/2022
+06/05/2022 taxa da cobrança 331722783
+taxa
+-r$ 1,70
+06/05/2022
+06/05/2022 pagamento da cobrança 331722783
+elvison da silva
+992.238.051-04
+pagamento
+r$ 180,90
+06/05/2022
+06/05/2022 taxa da cobrança 332317575
+taxa
+-r$ 1,70
+06/05/2022
+06/05/2022 pagamento da cobrança 332317575
+camila valério rodrigues
+102.939.546-23
+pagamento
+r$ 109,90
+06/05/2022
+06/05/2022 taxa da cobrança 327037967
+taxa
+-r$ 1,70
+06/05/2022
+06/05/2022 pagamento da cobrança 327037967
+rosilene maria cruz de souza
+940.452.083-72
+pagamento
+r$ 99,00
+04/04/2022
+06/05/2022 taxa da cobrança 318174088
+taxa
+-r$ 2,36
+04/04/2022
+06/05/2022 pagamento da cobrança 318174088
+viviane sobral santos souza
+006.094.325-40
+pagamento
+r$ 36,63
+04/04/2022
+06/05/2022 taxa da cobrança 318174087
+taxa
+-r$ 2,36
+04/04/2022
+06/05/2022 pagamento da cobrança 318174087
+viviane sobral santos souza
+006.094.325-40
+pagamento
+r$ 36,63
+04/04/2022
+06/05/2022 taxa da cobrança 318174086
+taxa
+-r$ 2,36
+04/04/2022
+06/05/2022 pagamento da cobrança 318174086
+viviane sobral santos souza
+006.094.325-40
+pagamento
+r$ 36,63
+05/05/2022
+05/05/2022 taxa da cobrança 331648723
+taxa
+-r$ 1,70
+05/05/2022
+05/05/2022 pagamento da cobrança 331648723
+adelisângela dos santos
+004.418.275-94
+pagamento
+r$ 79,00
+05/05/2022
+05/05/2022 taxa da cobrança 331650734
+taxa
+-r$ 1,70
+05/05/2022
+05/05/2022 pagamento da cobrança 331650734
+aurilene silva souza
+008.728.394-86
+pagamento
+r$ 149,00
+05/05/2022
+05/05/2022 taxa da cobrança 322156636
+taxa
+-r$ 1,70
+05/05/2022
+05/05/2022 pagamento da cobrança 322156636
+andresa sebastiana da costa silva
+031.817.386-70
+pagamento
+r$ 109,90
+05/05/2022
+05/05/2022 comissão da cobrança 330410871
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+03/04/2022
+05/05/2022 taxa da cobrança 316347291
+taxa
+-r$ 3,03
+03/04/2022
+05/05/2022 pagamento da cobrança 316347291
+geovane mello da vitoria oliveira
+073.050.117-54
+pagamento
+r$ 109,90
+04/05/2022
+04/05/2022 transferência pix realizada #10539091
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 1.056,77
+04/05/2022
+04/05/2022 transferência pix realizada #10539019
+matheus henrique de siqueira
+***.677.996-**
+%stransferência pix realizada #%s
+-r$ 262,60
+04/05/2022
+04/05/2022 transferência pix realizada #10538909
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 1.121,10
+04/05/2022
+04/05/2022 transferência pix realizada #10538851
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 1.446,02
+04/05/2022
+04/05/2022 transferência pix realizada #10538767
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 1.439,60
+04/05/2022
+04/05/2022 transferência pix realizada #10538671
+keila da silva evaristo
+***.844.966-**
+%stransferência pix realizada #%s
+-r$ 1.279,95
+04/05/2022
+04/05/2022 transferência pix realizada #10538565
+jeane soares da costa
+***.739.876-**
+%stransferência pix realizada #%s
+-r$ 646,40
+04/05/2022
+04/05/2022 transferência pix realizada #10538494
+jeane soares da costa
+***.739.876-**
+%stransferência pix realizada #%s
+-r$ 498,27
+04/05/2022
+04/05/2022 transferência pix recebida #26975883
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 3.850,00
+04/05/2022
+04/05/2022 transferência pix recebida #26897312
+daniela monteiro ferreira de m
+***.095.068-**
+%stransferência pix recebida #%s
+r$ 149,00
+04/05/2022
+04/05/2022 comissão da cobrança 330642293
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+04/05/2022
+04/05/2022 taxa da cobrança 331035025
+taxa
+-r$ 1,70
+04/05/2022
+04/05/2022 pagamento da cobrança 331035025
+luciana de aguiar moreira
+694.497.676-53
+pagamento
+r$ 50,00
+04/05/2022
+04/05/2022 taxa da cobrança 331082098
+taxa
+-r$ 1,70
+04/05/2022
+04/05/2022 pagamento da cobrança 331082098
+emirene de fátima corrêa de lima
+601.214.081-91
+pagamento
+r$ 109,90
+04/05/2022
+04/05/2022 comissão da cobrança 331146761
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+04/05/2022
+04/05/2022 taxa da cobrança 331142128
+taxa
+-r$ 1,70
+04/05/2022
+04/05/2022 pagamento da cobrança 331142128
+rita de cássia de brito silva
+056.218.294-25
+pagamento
+r$ 149,00
+03/05/2022
+03/05/2022 comissão da cobrança 325549291
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+03/05/2022
+03/05/2022 comissão da cobrança 327997992
+unicenter educacional ltda
+46.081.066/0001-54
+comissão
+r$ 0,15
+03/05/2022
+03/05/2022 taxa da cobrança 330596154
+taxa
+-r$ 1,70
+03/05/2022
+03/05/2022 pagamento da cobrança 330596154
+esterfânia marques da silva
+966.524.622-49
+pagamento
+r$ 228,00
+03/05/2022
+03/05/2022 taxa da cobrança 327845758
+taxa
+-r$ 1,70
+03/05/2022
+03/05/2022 pagamento da cobrança 327845758
+cristiane simone regner acosta
+010.538.180-25
+pagamento
+r$ 158,00
+03/05/2022
+03/05/2022 taxa da cobrança 327293996
+taxa
+-r$ 1,70
+03/05/2022
+03/05/2022 pagamento da cobrança 327293996
+andreia galdino da silva
+022.588.694-47
+pagamento
+r$ 149,00
+03/05/2022
+03/05/2022 taxa da cobrança 330431606
+taxa
+-r$ 1,70
+03/05/2022
+03/05/2022 pagamento da cobrança 330431606
+juscilene de jesus sousa oliveira
+118.575.686-80
+pagamento
+r$ 109,90
+03/05/2022
+03/05/2022 taxa da cobrança 327926528
+taxa
+-r$ 1,70
+03/05/2022
+03/05/2022 pagamento da cobrança 327926528
+marcos paulo da cruz vasconcelos
+530.863.762-87
+pagamento
+r$ 99,00
+03/05/2022
+03/05/2022 taxa da cobrança 327928363
+taxa
+-r$ 1,70
+03/05/2022
+03/05/2022 pagamento da cobrança 327928363
+raissa ferreira silva
+082.922.913-26
+pagamento
+r$ 149,00
+01/04/2022
+03/05/2022 taxa da cobrança 315840848
+taxa
+-r$ 3,59
+01/04/2022
+03/05/2022 pagamento da cobrança 315840848
+susiane lima feitosa
+067.658.274-55
+pagamento
+r$ 49,50
+01/04/2022
+03/05/2022 taxa da cobrança 315840847
+taxa
+-r$ 3,59
+01/04/2022
+03/05/2022 pagamento da cobrança 315840847
+susiane lima feitosa
+067.658.274-55
+pagamento
+r$ 49,50
+01/04/2022
+03/05/2022 taxa da cobrança 315840846
+taxa
+-r$ 3,59
+01/04/2022
+03/05/2022 pagamento da cobrança 315840846
+susiane lima feitosa
+067.658.274-55
+pagamento
+r$ 49,50
+01/04/2022
+03/05/2022 taxa da cobrança 315840845
+taxa
+-r$ 3,59
+01/04/2022
+03/05/2022 pagamento da cobrança 315840845
+susiane lima feitosa
+067.658.274-55
+pagamento
+r$ 49,50
+30/04/2022
+02/05/2022 comissão da cobrança 327022567
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+30/04/2022
+02/05/2022 comissão da cobrança 329024136
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+30/04/2022
+02/05/2022 comissão da cobrança 329019385
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+01/05/2022
+01/05/2022 transferência pix realizada #10390534
+elcio ferreira de oliveira
+***.397.246-**
+%stransferência pix realizada #%s
+-r$ 14,11
+30/03/2022
+01/05/2022 taxa da cobrança 315819912
+taxa
+-r$ 4,02
+30/03/2022
+01/05/2022 pagamento da cobrança 315819912
+rafaela gomes correia
+117.882.349-01
+pagamento
+r$ 74,50
+30/03/2022
+01/05/2022 taxa da cobrança 315819911
+taxa
+-r$ 4,02
+30/03/2022
+01/05/2022 pagamento da cobrança 315819911
+rafaela gomes correia
+117.882.349-01
+pagamento
+r$ 74,50
+data
+data de liberação
+descrição
+nome cliente
+cpf/cnpj cliente
+tipo
+valor
+31/03/2022
+31/03/2022 transferência pix realizada #9284118
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 4,00
+31/03/2022
+31/03/2022 transferência pix realizada #9259860
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 10,00
+31/03/2022
+31/03/2022 transferência pix realizada #9258823
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 264,00
+31/03/2022
+31/03/2022 taxa da cobrança 314843244
+taxa
+-r$ 1,70
+31/03/2022
+31/03/2022 pagamento da cobrança 314843244
+suelma oliveira santos
+007.970.713-00
+pagamento
+r$ 129,00
+31/03/2022
+31/03/2022 taxa da cobrança 314794752
+taxa
+-r$ 1,70
+31/03/2022
+31/03/2022 pagamento da cobrança 314794752
+damathyellen fernanda ramos e nunes
+958.040.642-15
+pagamento
+r$ 109,90
+31/03/2022
+31/03/2022 taxa da cobrança 315244814
+taxa
+-r$ 1,70
+31/03/2022
+31/03/2022 pagamento da cobrança 315244814
+josélia bastos dutra
+084.346.923-41
+pagamento
+r$ 99,00
+31/03/2022
+31/03/2022 taxa da cobrança 315363163
+taxa
+-r$ 1,70
+31/03/2022
+31/03/2022 pagamento da cobrança 315363163
+luciene alves lima
+003.823.345-23
+pagamento
+r$ 109,90
+30/03/2022
+30/03/2022 transferência pix realizada #9224534
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 300,00
+30/03/2022
+30/03/2022 taxa da cobrança 312791664
+taxa
+-r$ 1,70
+30/03/2022
+30/03/2022 pagamento da cobrança 312791664
+angelica de oliveira pinto
+028.055.983-69
+pagamento
+r$ 149,00
+29/03/2022
+29/03/2022 transferência pix realizada #9180127
+laura izidoro porto
+***.245.996-**
+%stransferência pix realizada #%s
+-r$ 20,00
+29/03/2022
+29/03/2022 taxa da cobrança 311020656
+taxa
+-r$ 1,70
+29/03/2022
+29/03/2022 pagamento da cobrança 311020656
+maria bethania oliveira nascimento
+058.848.996-45
+pagamento
+r$ 109,90
+25/02/2022
+29/03/2022 taxa da cobrança 301871670
+taxa
+-r$ 2,73
+25/02/2022
+29/03/2022 pagamento da cobrança 301871670
+charlan maria de lucena araújo morais
+072.538.734-32
+pagamento
+r$ 49,50
+25/02/2022
+29/03/2022 taxa da cobrança 301871669
+taxa
+-r$ 2,73
+25/02/2022
+29/03/2022 pagamento da cobrança 301871669
+charlan maria de lucena araújo morais
+072.538.734-32
+pagamento
+r$ 49,50
+28/03/2022
+28/03/2022 transferência pix realizada #9123695
+fabio anselmo de britto 05885085609
+**.*56.111/0001-**
+%stransferência pix realizada #%s
+-r$ 1.300,00
+26/03/2022
+28/03/2022 taxa da cobrança 312547908
+taxa
+-r$ 1,70
+26/03/2022
+28/03/2022 pagamento da cobrança 312547908
+valquíria lima cabral
+058.019.164-82
+pagamento
+r$ 109,90
+26/03/2022
+28/03/2022 taxa da cobrança 313420983
+taxa
+-r$ 1,70
+26/03/2022
+28/03/2022 pagamento da cobrança 313420983
+ana maria xavier leal
+388.569.727-00
+pagamento
+r$ 99,00
+26/03/2022
+28/03/2022 taxa da cobrança 313919463
+taxa
+-r$ 1,70
+26/03/2022
+28/03/2022 pagamento da cobrança 313919463
+ana clara chagas de lima
+071.153.417-96
+pagamento
+r$ 79,00
+26/03/2022
+28/03/2022 taxa da cobrança 313421817
+taxa
+-r$ 1,70
+26/03/2022
+28/03/2022 pagamento da cobrança 313421817
+dayane soares da silva
+945.897.802-59
+pagamento
+r$ 109,90
+26/03/2022
+28/03/2022 taxa da cobrança 313859651
+taxa
+-r$ 1,70
+26/03/2022
+28/03/2022 pagamento da cobrança 313859651
+maria das dores galdino da silva
+071.759.554-48
+pagamento
+r$ 99,00
+24/02/2022
+28/03/2022 taxa da cobrança 301281641
+taxa
+-r$ 3,16
+24/02/2022
+28/03/2022 pagamento da cobrança 301281641
+kelly almeida de azevedo
+006.552.620-16
+pagamento
+r$ 49,67
+24/02/2022
+28/03/2022 taxa da cobrança 301281640
+taxa
+-r$ 3,16
+24/02/2022
+28/03/2022 pagamento da cobrança 301281640
+kelly almeida de azevedo
+006.552.620-16
+pagamento
+r$ 49,67
+24/02/2022
+28/03/2022 taxa da cobrança 301281639
+taxa
+-r$ 3,16
+24/02/2022
+28/03/2022 pagamento da cobrança 301281639
+kelly almeida de azevedo
+006.552.620-16
+pagamento
+r$ 49,67
+24/02/2022
+28/03/2022 taxa da cobrança 300468927
+taxa
+-r$ 3,16
+24/02/2022
+28/03/2022 pagamento da cobrança 300468927
+andressa cristina sphaier sperb
+952.345.510-91
+pagamento
+r$ 49,67
+24/02/2022
+28/03/2022 taxa da cobrança 300468926
+taxa
+-r$ 3,16
+24/02/2022
+28/03/2022 pagamento da cobrança 300468926
+andressa cristina sphaier sperb
+952.345.510-91
+pagamento
+r$ 49,67
+24/02/2022
+28/03/2022 taxa da cobrança 300468925
+taxa
+-r$ 3,16
+24/02/2022
+28/03/2022 pagamento da cobrança 300468925
+andressa cristina sphaier sperb
+952.345.510-91
+pagamento
+r$ 49,67
+23/02/2022
+27/03/2022 taxa da cobrança 300855018
+taxa
+-r$ 3,59
+23/02/2022
+27/03/2022 pagamento da cobrança 300855018
+juliana coutinho araujo
+034.665.647-86
+pagamento
+r$ 49,50
+23/02/2022
+27/03/2022 taxa da cobrança 300855017
+taxa
+-r$ 3,59
+23/02/2022
+27/03/2022 pagamento da cobrança 300855017
+juliana coutinho araujo
+034.665.647-86
+pagamento
+r$ 49,50
+23/02/2022
+27/03/2022 taxa da cobrança 300855016
+taxa
+-r$ 3,59
+23/02/2022
+27/03/2022 pagamento da cobrança 300855016
+juliana coutinho araujo
+034.665.647-86
+pagamento
+r$ 49,50
+23/02/2022
+27/03/2022 taxa da cobrança 300855015
+taxa
+-r$ 3,59
+23/02/2022
+27/03/2022 pagamento da cobrança 300855015
+juliana coutinho araujo
+034.665.647-86
+pagamento
+r$ 49,50
+22/02/2022
+26/03/2022 taxa da cobrança 300626413
+taxa
+-r$ 2,29
+22/02/2022
+26/03/2022 pagamento da cobrança 300626413
+lívia bandeira fernandes
+019.301.691-59
+pagamento
+r$ 79,00
+22/02/2022
+26/03/2022 taxa da cobrança 300561543
+taxa
+-r$ 2,73
+22/02/2022
+26/03/2022 pagamento da cobrança 300561543
+wanderson queiroz de oliveira
+128.359.656-37
+pagamento
+r$ 49,50
+22/02/2022
+26/03/2022 taxa da cobrança 300561542
+taxa
+-r$ 2,73
+22/02/2022
+26/03/2022 pagamento da cobrança 300561542
+wanderson queiroz de oliveira
+128.359.656-37
+pagamento
+r$ 49,50
+25/03/2022
+25/03/2022 transferência pix recebida #20960402
+maria c sanhudo cruz
+***.728.560-**
+%stransferência pix recebida #%s
+r$ 99,00
+25/03/2022
+25/03/2022 transferência pix realizada #9042628
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 400,00
+25/03/2022
+25/03/2022 taxa da cobrança 313007713
+taxa
+-r$ 1,70
+25/03/2022
+25/03/2022 pagamento da cobrança 313007713
+gisele becker pacheco
+048.631.129-55
+pagamento
+r$ 99,00
+25/03/2022
+25/03/2022 comissão da cobrança 313037368
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+21/02/2022
+25/03/2022 taxa da cobrança 300167540
+taxa
+-r$ 2,73
+21/02/2022
+25/03/2022 pagamento da cobrança 300167540
+patricia helena correa carneiro ramos
+612.554.242-49
+pagamento
+r$ 49,50
+21/02/2022
+25/03/2022 taxa da cobrança 300167539
+taxa
+-r$ 2,73
+21/02/2022
+25/03/2022 pagamento da cobrança 300167539
+patricia helena correa carneiro ramos
+612.554.242-49
+pagamento
+r$ 49,50
+21/02/2022
+25/03/2022 taxa da cobrança 300065102
+taxa
+-r$ 1,52
+21/02/2022
+25/03/2022 pagamento da cobrança 300065102
+cristiana pedrosa moura
+037.638.396-82
+pagamento
+r$ 54,95
+21/02/2022
+25/03/2022 taxa da cobrança 300065101
+taxa
+-r$ 1,52
+21/02/2022
+25/03/2022 pagamento da cobrança 300065101
+cristiana pedrosa moura
+037.638.396-82
+pagamento
+r$ 54,95
+21/02/2022
+25/03/2022 taxa da cobrança 298751780
+taxa
+-r$ 3,02
+21/02/2022
+25/03/2022 pagamento da cobrança 298751780
+maria lúcia martins siriani
+293.059.528-01
+pagamento
+r$ 54,95
+21/02/2022
+25/03/2022 taxa da cobrança 298751779
+taxa
+-r$ 3,02
+21/02/2022
+25/03/2022 pagamento da cobrança 298751779
+maria lúcia martins siriani
+293.059.528-01
+pagamento
+r$ 54,95
+22/03/2022
+22/03/2022 transferência pix realizada #8932543
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 140,00
+22/03/2022
+22/03/2022 taxa da cobrança 310613128
+taxa
+-r$ 1,70
+22/03/2022
+22/03/2022 pagamento da cobrança 310613128
+vivian gonçalves de oliveira
+451.794.948-69
+pagamento
+r$ 99,00
+22/03/2022
+22/03/2022 taxa da cobrança 311903102
+taxa
+-r$ 1,70
+22/03/2022
+22/03/2022 pagamento da cobrança 311903102
+jussara bonometti bigolin
+004.438.290-12
+pagamento
+r$ 149,00
+22/03/2022
+22/03/2022 taxa da cobrança 311921174
+taxa
+-r$ 1,70
+22/03/2022
+22/03/2022 pagamento da cobrança 311921174
+thaís pinheiro viana
+071.906.183-09
+pagamento
+r$ 99,00
+21/03/2022
+21/03/2022 transferência pix realizada #8845186
+carliane soares dos santos
+***.228.226-**
+%stransferência pix realizada #%s
+-r$ 100,00
+17/02/2022
+21/03/2022 taxa da cobrança 298694117
+taxa
+-r$ 3,97
+17/02/2022
+21/03/2022 pagamento da cobrança 298694117
+lucas cuoco gutierre
+005.241.271-74
+pagamento
+r$ 149,00
+15/02/2022
+19/03/2022 taxa da cobrança 297612839
+taxa
+-r$ 3,16
+15/02/2022
+19/03/2022 pagamento da cobrança 297612839
+marilsa rosa de lima
+709.615.731-04
+pagamento
+r$ 49,67
+15/02/2022
+19/03/2022 taxa da cobrança 297612838
+taxa
+-r$ 3,16
+15/02/2022
+19/03/2022 pagamento da cobrança 297612838
+marilsa rosa de lima
+709.615.731-04
+pagamento
+r$ 49,67
+15/02/2022
+19/03/2022 taxa da cobrança 297612837
+taxa
+-r$ 3,16
+15/02/2022
+19/03/2022 pagamento da cobrança 297612837
+marilsa rosa de lima
+709.615.731-04
+pagamento
+r$ 49,67
+18/03/2022
+18/03/2022 transferência pix realizada #8776965
+cecília gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 30,00
+18/03/2022
+18/03/2022 transferência pix realizada #8776928
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 1.655,00
+14/02/2022
+18/03/2022 taxa da cobrança 296497055
+taxa
+-r$ 4,17
+14/02/2022
+18/03/2022 pagamento da cobrança 296497055
+gerson matias passos
+521.722.366-91
+pagamento
+r$ 66,33
+14/02/2022
+18/03/2022 taxa da cobrança 296497054
+taxa
+-r$ 4,17
+14/02/2022
+18/03/2022 pagamento da cobrança 296497054
+gerson matias passos
+521.722.366-91
+pagamento
+r$ 66,33
+14/02/2022
+18/03/2022 taxa da cobrança 296497053
+taxa
+-r$ 4,17
+14/02/2022
+18/03/2022 pagamento da cobrança 296497053
+gerson matias passos
+521.722.366-91
+pagamento
+r$ 66,33
+17/03/2022
+17/03/2022 taxa da cobrança 307885040
+taxa
+-r$ 1,70
+17/03/2022
+17/03/2022 pagamento da cobrança 307885040
+raquel inacia picanco farias
+033.505.811-61
+pagamento
+r$ 99,00
+17/03/2022
+17/03/2022 taxa da cobrança 309128438
+taxa
+-r$ 1,70
+17/03/2022
+17/03/2022 pagamento da cobrança 309128438
+rosemeire da silva almeida
+014.372.882-27
+pagamento
+r$ 129,00
+17/03/2022
+17/03/2022 comissão da cobrança 310106893
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+16/03/2022
+16/03/2022 taxa da cobrança 303689911
+taxa
+-r$ 1,70
+16/03/2022
+16/03/2022 pagamento da cobrança 303689911
+magno santos souza
+278.049.038-12
+pagamento
+r$ 109,90
+16/03/2022
+16/03/2022 taxa da cobrança 307061826
+taxa
+-r$ 1,70
+16/03/2022
+16/03/2022 pagamento da cobrança 307061826
+luci souza de oliveira
+326.090.108-69
+pagamento
+r$ 199,00
+16/03/2022
+16/03/2022 taxa da cobrança 295343399
+taxa
+-r$ 1,70
+16/03/2022
+16/03/2022 pagamento da cobrança 295343399
+gilda aparecida de paulo lazaro
+361.586.236-87
+pagamento
+r$ 109,90
+16/03/2022
+16/03/2022 taxa da cobrança 309380338
+taxa
+-r$ 1,70
+16/03/2022
+16/03/2022 pagamento da cobrança 309380338
+adriana alves laurentino
+182.957.288-14
+pagamento
+r$ 99,00
+15/03/2022
+15/03/2022 taxa da cobrança 308963568
+taxa
+-r$ 1,70
+15/03/2022
+15/03/2022 pagamento da cobrança 308963568
+aurilene maria paiva da costa
+024.612.013-40
+pagamento
+r$ 149,00
+15/03/2022
+15/03/2022 taxa da cobrança 309113896
+taxa
+-r$ 1,70
+15/03/2022
+15/03/2022 pagamento da cobrança 309113896
+maila aparecida jacinto
+217.775.918-80
+pagamento
+r$ 109,90
+15/03/2022
+15/03/2022 taxa da cobrança 304618459
+taxa
+-r$ 1,70
+15/03/2022
+15/03/2022 pagamento da cobrança 304618459
+iraide pereira constantino
+892.714.676-04
+pagamento
+r$ 199,00
+15/03/2022
+15/03/2022 taxa da cobrança 303642588
+taxa
+-r$ 1,70
+15/03/2022
+15/03/2022 pagamento da cobrança 303642588
+rosilene antonia cosme guidoni
+069.799.947-51
+pagamento
+r$ 109,90
+15/03/2022
+15/03/2022 taxa da cobrança 298289188
+taxa
+-r$ 1,70
+15/03/2022
+15/03/2022 pagamento da cobrança 298289188
+marília oliveira do nascimento
+992.931.375-34
+pagamento
+r$ 109,90
+15/03/2022
+15/03/2022 taxa da cobrança 307998806
+taxa
+-r$ 1,70
+15/03/2022
+15/03/2022 pagamento da cobrança 307998806
+ana beatriz frança dos santos
+116.996.694-22
+pagamento
+r$ 99,00
+14/03/2022
+14/03/2022 transferência pix realizada #8603620
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 2.000,00
+12/03/2022
+14/03/2022 taxa da cobrança 307995175
+taxa
+-r$ 1,70
+12/03/2022
+14/03/2022 pagamento da cobrança 307995175
+daniele oliveira diniz
+007.536.516-29
+pagamento
+r$ 79,00
+12/03/2022
+14/03/2022 taxa da cobrança 307506187
+taxa
+-r$ 1,70
+12/03/2022
+14/03/2022 pagamento da cobrança 307506187
+aucineia nazaré dos santos
+382.713.542-72
+pagamento
+r$ 129,00
+12/03/2022
+14/03/2022 taxa da cobrança 306865972
+taxa
+-r$ 1,70
+12/03/2022
+14/03/2022 pagamento da cobrança 306865972
+silvane martins goulart
+954.531.721-34
+pagamento
+r$ 99,00
+10/02/2022
+14/03/2022 taxa da cobrança 295870830
+taxa
+-r$ 2,73
+10/02/2022
+14/03/2022 pagamento da cobrança 295870830
+jose lauro da silva cardoso junior
+041.482.712-04
+pagamento
+r$ 49,50
+10/02/2022
+14/03/2022 taxa da cobrança 295870829
+taxa
+-r$ 2,73
+10/02/2022
+14/03/2022 pagamento da cobrança 295870829
+jose lauro da silva cardoso junior
+041.482.712-04
+pagamento
+r$ 49,50
+09/02/2022
+13/03/2022 taxa da cobrança 289221307
+taxa
+-r$ 3,03
+09/02/2022
+13/03/2022 pagamento da cobrança 289221307
+marcelino silva bitencourt
+822.029.660-72
+pagamento
+r$ 109,90
+11/03/2022
+11/03/2022 transferência pix realizada #8494706
+leticia sousa dos santos correa
+***.066.156-**
+%stransferência pix realizada #%s
+-r$ 100,00
+11/03/2022
+11/03/2022 taxa da cobrança 305888233
+taxa
+-r$ 1,70
+11/03/2022
+11/03/2022 pagamento da cobrança 305888233
+benedita fagundes da silva
+032.500.696-20
+pagamento
+r$ 149,00
+11/03/2022
+11/03/2022 taxa da cobrança 305942828
+taxa
+-r$ 1,70
+11/03/2022
+11/03/2022 pagamento da cobrança 305942828
+lilian aparecida nunes araújo
+540.941.946-49
+pagamento
+r$ 109,90
+11/03/2022
+11/03/2022 taxa da cobrança 305798576
+taxa
+-r$ 1,70
+11/03/2022
+11/03/2022 pagamento da cobrança 305798576
+marcella salgado da costa
+854.727.432-49
+pagamento
+r$ 149,00
+10/03/2022
+10/03/2022 transferência pix realizada #8476940
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 150,00
+10/03/2022
+10/03/2022 transferência pix recebida #18846707
+nicole garcia costa
+***.135.506-**
+%stransferência pix recebida #%s
+r$ 109,90
+10/03/2022
+10/03/2022 transferência pix recebida #18817423
+jordana leliane passos
+***.663.946-**
+%stransferência pix recebida #%s
+r$ 30,00
+10/03/2022
+10/03/2022 transferência pix realizada #8444510
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 60,00
+10/03/2022
+10/03/2022 taxa da cobrança 303516214
+taxa
+-r$ 1,70
+10/03/2022
+10/03/2022 pagamento da cobrança 303516214
+sheila cristina de oliveira
+038.546.499-16
+pagamento
+r$ 109,90
+10/03/2022
+10/03/2022 taxa da cobrança 307038411
+taxa
+-r$ 1,70
+10/03/2022
+10/03/2022 pagamento da cobrança 307038411
+jose pereira neto
+017.819.061-65
+pagamento
+r$ 149,00
+09/03/2022
+09/03/2022 transferência pix realizada #8427135
+marcia mendes grei
+***.280.832-**
+%stransferência pix realizada #%s
+-r$ 109,90
+09/03/2022
+09/03/2022 taxa da cobrança 304732992
+taxa
+-r$ 1,70
+09/03/2022
+09/03/2022 pagamento da cobrança 304732992
+andrea rocha coelho pires
+986.577.477-15
+pagamento
+r$ 99,00
+08/03/2022
+08/03/2022 transferência pix realizada #8395648
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 30,00
+08/03/2022
+08/03/2022 transferência pix realizada #8393473
+conast consultoria e a de s do trabalho ltda
+**.*64.223/0001-**
+%stransferência pix realizada #%s
+-r$ 30,00
+08/03/2022
+08/03/2022 estorno transferência pix realizada #8392544
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+estorno %stransferência pix realizada #%s
+r$ 675,00
+08/03/2022
+08/03/2022 transferência pix realizada #8392544
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 675,00
+08/03/2022
+08/03/2022 estorno transferência pix realizada #8392506
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+estorno %stransferência pix realizada #%s
+r$ 675,00
+08/03/2022
+08/03/2022 transferência pix realizada #8392506
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 675,00
+08/03/2022
+08/03/2022 transferência pix recebida #18566207
+jordana leliane passos
+***.663.946-**
+%stransferência pix recebida #%s
+r$ 675,00
+08/03/2022
+08/03/2022 taxa da cobrança 304661154
+taxa
+-r$ 1,70
+08/03/2022
+08/03/2022 pagamento da cobrança 304661154
+marina ferreira honorato
+033.403.133-85
+pagamento
+r$ 149,00
+08/03/2022
+08/03/2022 taxa da cobrança 305743176
+taxa
+-r$ 1,70
+08/03/2022
+08/03/2022 pagamento da cobrança 305743176
+elaine alves de souza ribas
+595.814.091-49
+pagamento
+r$ 129,00
+08/03/2022
+08/03/2022 taxa da cobrança 305948451
+taxa
+-r$ 1,70
+08/03/2022
+08/03/2022 pagamento da cobrança 305948451
+glória jordânia gervásio
+711.487.011-68
+pagamento
+r$ 149,00
+08/03/2022
+08/03/2022 comissão da cobrança 305038703
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+07/03/2022
+07/03/2022 transferência pix realizada #8342712
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 966,12
+07/03/2022
+07/03/2022 transferência pix realizada #8342672
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 966,12
+07/03/2022
+07/03/2022 transferência pix realizada #8342579
+kamila sabino da silveira
+***.584.956-**
+%stransferência pix realizada #%s
+-r$ 409,35
+07/03/2022
+07/03/2022 transferência pix recebida #18427854
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix recebida #%s
+r$ 2.145,00
+07/03/2022
+07/03/2022 transferência pix realizada #8301041
+carina nunes pereira martins
+***.117.926-**
+%stransferência pix realizada #%s
+-r$ 28,00
+07/03/2022
+07/03/2022 transferência pix realizada #8298674
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix realizada #%s
+-r$ 634,00
+05/03/2022
+07/03/2022 taxa da cobrança 303978228
+taxa
+-r$ 1,70
+05/03/2022
+07/03/2022 pagamento da cobrança 303978228
+dionne da cruz santos
+078.110.386-09
+pagamento
+r$ 99,00
+05/03/2022
+07/03/2022 taxa da cobrança 304104211
+taxa
+-r$ 1,70
+05/03/2022
+07/03/2022 pagamento da cobrança 304104211
+clarissa isabel oliveira da silva
+998.158.420-72
+pagamento
+r$ 109,90
+03/02/2022
+07/03/2022 taxa da cobrança 292799401
+taxa
+-r$ 3,16
+03/02/2022
+07/03/2022 pagamento da cobrança 292799401
+jirlene barbosa dos santos
+055.757.767-51
+pagamento
+r$ 49,67
+03/02/2022
+07/03/2022 taxa da cobrança 292799400
+taxa
+-r$ 3,16
+03/02/2022
+07/03/2022 pagamento da cobrança 292799400
+jirlene barbosa dos santos
+055.757.767-51
+pagamento
+r$ 49,67
+03/02/2022
+07/03/2022 taxa da cobrança 292799399
+taxa
+-r$ 3,16
+03/02/2022
+07/03/2022 pagamento da cobrança 292799399
+jirlene barbosa dos santos
+055.757.767-51
+pagamento
+r$ 49,67
+03/02/2022
+07/03/2022 taxa da cobrança 293019167
+taxa
+-r$ 3,95
+03/02/2022
+07/03/2022 pagamento da cobrança 293019167
+elisandra priscila nascimento de souza
+054.145.685-70
+pagamento
+r$ 43,15
+03/02/2022
+07/03/2022 taxa da cobrança 293019166
+taxa
+-r$ 3,95
+03/02/2022
+07/03/2022 pagamento da cobrança 293019166
+elisandra priscila nascimento de souza
+054.145.685-70
+pagamento
+r$ 43,15
+03/02/2022
+07/03/2022 taxa da cobrança 293019165
+taxa
+-r$ 3,95
+03/02/2022
+07/03/2022 pagamento da cobrança 293019165
+elisandra priscila nascimento de souza
+054.145.685-70
+pagamento
+r$ 43,15
+03/02/2022
+07/03/2022 taxa da cobrança 293019164
+taxa
+-r$ 3,95
+03/02/2022
+07/03/2022 pagamento da cobrança 293019164
+elisandra priscila nascimento de souza
+054.145.685-70
+pagamento
+r$ 43,15
+03/02/2022
+07/03/2022 taxa da cobrança 293019163
+taxa
+-r$ 3,95
+03/02/2022
+07/03/2022 pagamento da cobrança 293019163
+elisandra priscila nascimento de souza
+054.145.685-70
+pagamento
+r$ 43,15
+03/02/2022
+07/03/2022 taxa da cobrança 293019162
+taxa
+-r$ 3,95
+03/02/2022
+07/03/2022 pagamento da cobrança 293019162
+elisandra priscila nascimento de souza
+054.145.685-70
+pagamento
+r$ 43,15
+03/02/2022
+07/03/2022 taxa da cobrança 292574602
+taxa
+-r$ 3,16
+03/02/2022
+07/03/2022 pagamento da cobrança 292574602
+giselle lima da luz
+965.381.393-53
+pagamento
+r$ 49,67
+03/02/2022
+07/03/2022 taxa da cobrança 292574601
+taxa
+-r$ 3,16
+03/02/2022
+07/03/2022 pagamento da cobrança 292574601
+giselle lima da luz
+965.381.393-53
+pagamento
+r$ 49,67
+03/02/2022
+07/03/2022 taxa da cobrança 292574600
+taxa
+-r$ 3,16
+03/02/2022
+07/03/2022 pagamento da cobrança 292574600
+giselle lima da luz
+965.381.393-53
+pagamento
+r$ 49,67
+02/02/2022
+06/03/2022 taxa da cobrança 292319262
+taxa
+-r$ 3,16
+02/02/2022
+06/03/2022 pagamento da cobrança 292319262
+kely cristina braga santos
+043.482.456-90
+pagamento
+r$ 49,67
+02/02/2022
+06/03/2022 taxa da cobrança 292319261
+taxa
+-r$ 3,16
+02/02/2022
+06/03/2022 pagamento da cobrança 292319261
+kely cristina braga santos
+043.482.456-90
+pagamento
+r$ 49,67
+02/02/2022
+06/03/2022 taxa da cobrança 292319260
+taxa
+-r$ 3,16
+02/02/2022
+06/03/2022 pagamento da cobrança 292319260
+kely cristina braga santos
+043.482.456-90
+pagamento
+r$ 49,67
+04/03/2022
+04/03/2022 transferência pix realizada #8253541
+keila da silva evaristo
+***.844.966-**
+%stransferência pix realizada #%s
+-r$ 1.597,94
+04/03/2022
+04/03/2022 transferência pix recebida #17934660
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix recebida #%s
+r$ 18,00
+04/03/2022
+04/03/2022 transferência pix recebida #17928905
+infoco gestao e assessoria ltda
+**.*32.412/0001-**
+%stransferência pix recebida #%s
+r$ 266,00
+04/03/2022
+04/03/2022 transferência pix realizada #8250254
+jordana leliane passos
+***.663.946-**
+%stransferência pix realizada #%s
+-r$ 1.220,46
+04/03/2022
+04/03/2022 transferência pix realizada #8250165
+cecilia gomes batista
+***.946.336-**
+%stransferência pix realizada #%s
+-r$ 1.858,66
+04/03/2022
+04/03/2022 transferência pix realizada #8249601
+milena monique ribeiro prates
+***.222.189-**
+%stransferência pix realizada #%s
+-r$ 1.394,10
+04/03/2022
+04/03/2022 transferência pix recebida #17921428
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix recebida #%s
+r$ 5.000,00
+04/03/2022
+04/03/2022 transferência pix realizada #8244926
+camila pereira meireles
+***.911.216-**
+%stransferência pix realizada #%s
+-r$ 30,00
+04/03/2022
+04/03/2022 transferência pix realizada #8244479
+josiane cintia passos
+***.132.676-**
+%stransferência pix realizada #%s
+-r$ 50,00
+04/03/2022
+04/03/2022 taxa da cobrança 303640613
+taxa
+-r$ 1,70
+04/03/2022
+04/03/2022 pagamento da cobrança 303640613
+jair soares de sousa
+002.612.453-09
+pagamento
+r$ 149,00
+04/03/2022
+04/03/2022 comissão da cobrança 304252801
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+04/03/2022
+04/03/2022 taxa da cobrança 303664763
+taxa
+-r$ 1,70
+04/03/2022
+04/03/2022 pagamento da cobrança 303664763
+elizangela moises da cruz
+931.798.631-53
+pagamento
+r$ 129,00
+04/03/2022
+04/03/2022 taxa da cobrança 300857144
+taxa
+-r$ 1,70
+04/03/2022
+04/03/2022 pagamento da cobrança 300857144
+elaine paula de oliveira
+030.755.846-06
+pagamento
+r$ 149,00
+04/03/2022
+04/03/2022 comissão da cobrança 298412633
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+31/01/2022
+04/03/2022 taxa da cobrança 290357697
+taxa
+-r$ 3,03
+31/01/2022
+04/03/2022 pagamento da cobrança 290357697
+saulo pereira do prado
+004.006.671-18
+pagamento
+r$ 109,90
+31/01/2022
+04/03/2022 taxa da cobrança 291314384
+taxa
+-r$ 1,16
+31/01/2022
+04/03/2022 pagamento da cobrança 291314384
+danúbia maria da anunciação
+034.349.701-85
+pagamento
+r$ 43,00
+31/01/2022
+04/03/2022 taxa da cobrança 291314383
+taxa
+-r$ 1,16
+31/01/2022
+04/03/2022 pagamento da cobrança 291314383
+danúbia maria da anunciação
+034.349.701-85
+pagamento
+r$ 43,00
+31/01/2022
+04/03/2022 taxa da cobrança 291314382
+taxa
+-r$ 1,16
+31/01/2022
+04/03/2022 pagamento da cobrança 291314382
+danúbia maria da anunciação
+034.349.701-85
+pagamento
+r$ 43,00
+03/03/2022
+03/03/2022 transferência pix realizada #8159070
+francisco martins dos reis neto
+***.198.116-**
+%stransferência pix realizada #%s
+-r$ 9,19
+03/03/2022
+03/03/2022 comissão da cobrança 301064889
+a3educação
+35.964.734/0001-75
+comissão
+r$ 0,15
+03/03/2022
+03/03/2022 taxa da cobrança 303598633
+taxa
+-r$ 1,70
+03/03/2022
+03/03/2022 pagamento da cobrança 303598633
+fabiane rodrigues costa
+842.519.642-68
+pagamento
+r$ 99,00
+02/03/2022
+02/03/2022 transferência pix realizada #8102471
+marcelo ribeiro mariano
+***.557.426-**
+%stransferência pix realizada #%s
+-r$ 9,27
+02/03/2022
+02/03/2022 transferência pix recebida #17620537
+vera lucia ribeiro dutka
+***.448.311-**
+%stransferência pix recebida #%s
+r$ 129,00
+02/03/2022
+02/03/2022 transferência pix realizada #8098157
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 600,00
+02/03/2022
+02/03/2022 transferência pix realizada #8098096
+mauricio henrique rosa
+***.134.296-**
+%stransferência pix realizada #%s
+-r$ 665,00
+02/03/2022
+02/03/2022 transferência pix recebida #17601134
+wellington ramos da silva
+***.396.777-**
+%stransferência pix recebida #%s
+r$ 109,90
+26/02/2022
+02/03/2022 taxa da cobrança 300804388
+taxa
+-r$ 1,70
+26/02/2022
+02/03/2022 pagamento da cobrança 300804388
+rosemary meneses dos santos
+565.721.903-15
+pagamento
+r$ 99,00
+26/02/2022
+02/03/2022 taxa da cobrança 301305075
+taxa
+-r$ 1,70
+26/02/2022
+02/03/2022 pagamento da cobrança 301305075
+naraindi mendes soares
+059.484.395-26
+pagamento
+r$ 79,00

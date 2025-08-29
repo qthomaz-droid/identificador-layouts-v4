@@ -1,0 +1,1120 @@
+relatório de liquidação financeira slc - analítico
+data de emissão:
+20/11/2023
+3008 - sicoob coopermais
+sisbr 2.0 – plataforma de credenciamento
+hora de emissão:
+09:00:07
+critérios: 3008 | 27.205.734/0001-63 | data de pagamento | 01/01/2023 a 31/01/2023
+(*) legenda: cc = conta corrente / pp = poupança
+liquidações financeiras
+central
+1001
+singular
+3008
+nº. estabelecimento
+100889340000
+cpf / cnpj 27.205.734/0001-63
+número do
+documento
+conta de
+lançamento
+data de
+pagamento
+data de
+lançamento
+data de
+processamento
+situação
+tipo de
+operação
+valor (r$)
+link   oclaria
+nome
+conta de
+pagamento
+agência de
+pagamento
+agência de
+lançamento
+bandeira
+sisbr
+tipo de
+conta (*)
+719292241
+918962
+05/01/2023
+05/01/2023
+04/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 192,19
+918962
+3008
+3008
+visa
+cc
+sim
+723438977
+918962
+13/01/2023
+13/01/2023
+12/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 82,30
+918962
+3008
+3008
+visa
+cc
+sim
+nº. estabelecimento
+26737262
+cpf / cnpj 27.205.734/0001-63
+número do
+documento
+conta de
+lançamento
+data de
+pagamento
+data de
+lançamento
+data de
+processamento
+situação
+tipo de
+operação
+valor (r$)
+c   z comercio servico
+nome
+conta de
+pagamento
+agência de
+pagamento
+agência de
+lançamento
+bandeira
+sisbr
+tipo de
+conta (*)
+800436569
+918962
+26/01/2023
+26/01/2023
+26/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 552,44
+918962
+3008
+3008
+maestro
+cc
+sim
+800551872
+918962
+26/01/2023
+26/01/2023
+26/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 895,47
+918962
+3008
+3008
+mastercard
+cc
+sim
+800551873
+918962
+26/01/2023
+26/01/2023
+26/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 982,42
+918962
+3008
+3008
+visa
+cc
+sim
+801448153
+918962
+27/01/2023
+27/01/2023
+27/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.406,16
+918962
+3008
+3008
+mastercard
+cc
+sim
+801978742
+918962
+30/01/2023
+30/01/2023
+30/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 192,37
+918962
+3008
+3008
+maestro
+cc
+sim
+801978743
+918962
+30/01/2023
+30/01/2023
+30/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 182,50
+918962
+3008
+3008
+elo débito
+cc
+sim
+802206496
+918962
+30/01/2023
+30/01/2023
+30/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.060,44
+918962
+3008
+3008
+mastercard
+cc
+sim
+802206497
+918962
+30/01/2023
+30/01/2023
+30/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.069,23
+918962
+3008
+3008
+visa
+cc
+sim
+718006645
+918962
+02/01/2023
+02/01/2023
+02/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 1.546,26
+918962
+3008
+3008
+visa electron
+cc
+sim
+718097183
+918962
+02/01/2023
+02/01/2023
+02/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 248,13
+918962
+3008
+3008
+mastercard
+cc
+sim
+jeanf3008_06
+1
+001
+relatório de liquidação financeira slc - analítico
+data de emissão:
+20/11/2023
+3008 - sicoob coopermais
+sisbr 2.0 – plataforma de credenciamento
+hora de emissão:
+09:00:07
+critérios: 3008 | 27.205.734/0001-63 | data de pagamento | 01/01/2023 a 31/01/2023
+(*) legenda: cc = conta corrente / pp = poupança
+liquidações financeiras
+central
+1001
+singular
+3008
+nº. estabelecimento
+26737262
+cpf / cnpj 27.205.734/0001-63
+número do
+documento
+conta de
+lançamento
+data de
+pagamento
+data de
+lançamento
+data de
+processamento
+situação
+tipo de
+operação
+valor (r$)
+c   z comercio servico
+nome
+conta de
+pagamento
+agência de
+pagamento
+agência de
+lançamento
+bandeira
+sisbr
+tipo de
+conta (*)
+718097184
+918962
+02/01/2023
+02/01/2023
+02/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.043,51
+918962
+3008
+3008
+visa
+cc
+sim
+718097185
+918962
+02/01/2023
+02/01/2023
+02/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 350,58
+918962
+3008
+3008
+elo
+cc
+sim
+718731790
+918962
+03/01/2023
+03/01/2023
+03/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 824,98
+918962
+3008
+3008
+visa
+cc
+sim
+719169840
+918962
+04/01/2023
+04/01/2023
+04/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 631,36
+918962
+3008
+3008
+visa electron
+cc
+sim
+719779938
+918962
+05/01/2023
+05/01/2023
+05/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 591,90
+918962
+3008
+3008
+maestro
+cc
+sim
+719961631
+918962
+05/01/2023
+05/01/2023
+05/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.424,34
+918962
+3008
+3008
+mastercard
+cc
+sim
+720448865
+918962
+06/01/2023
+06/01/2023
+06/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 39,46
+918962
+3008
+3008
+elo débito
+cc
+sim
+720448866
+918962
+06/01/2023
+06/01/2023
+06/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 877,98
+918962
+3008
+3008
+visa electron
+cc
+sim
+721247805
+918962
+09/01/2023
+09/01/2023
+09/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 966,77
+918962
+3008
+3008
+visa electron
+cc
+sim
+721247806
+918962
+09/01/2023
+09/01/2023
+09/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 1.282,45
+918962
+3008
+3008
+elo débito
+cc
+sim
+721420095
+918962
+09/01/2023
+09/01/2023
+09/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 165,92
+918962
+3008
+3008
+visa
+cc
+sim
+721420096
+918962
+09/01/2023
+09/01/2023
+09/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 639,80
+918962
+3008
+3008
+elo
+cc
+sim
+721933004
+918962
+10/01/2023
+10/01/2023
+10/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 552,44
+918962
+3008
+3008
+elo débito
+cc
+sim
+722093542
+918962
+10/01/2023
+10/01/2023
+10/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 2.502,74
+918962
+3008
+3008
+mastercard
+cc
+sim
+jeanf3008_06
+2
+001
+relatório de liquidação financeira slc - analítico
+data de emissão:
+20/11/2023
+3008 - sicoob coopermais
+sisbr 2.0 – plataforma de credenciamento
+hora de emissão:
+09:00:07
+critérios: 3008 | 27.205.734/0001-63 | data de pagamento | 01/01/2023 a 31/01/2023
+(*) legenda: cc = conta corrente / pp = poupança
+liquidações financeiras
+central
+1001
+singular
+3008
+nº. estabelecimento
+26737262
+cpf / cnpj 27.205.734/0001-63
+número do
+documento
+conta de
+lançamento
+data de
+pagamento
+data de
+lançamento
+data de
+processamento
+situação
+tipo de
+operação
+valor (r$)
+c   z comercio servico
+nome
+conta de
+pagamento
+agência de
+pagamento
+agência de
+lançamento
+bandeira
+sisbr
+tipo de
+conta (*)
+722093543
+918962
+10/01/2023
+10/01/2023
+10/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.278,90
+918962
+3008
+3008
+elo
+cc
+sim
+722506220
+918962
+11/01/2023
+11/01/2023
+11/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 1.538,94
+918962
+3008
+3008
+visa electron
+cc
+sim
+722740057
+918962
+11/01/2023
+11/01/2023
+11/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.587,02
+918962
+3008
+3008
+mastercard
+cc
+sim
+723371685
+918962
+12/01/2023
+12/01/2023
+12/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.409,55
+918962
+3008
+3008
+visa
+cc
+sim
+723462470
+918962
+13/01/2023
+13/01/2023
+12/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 165,94
+918962
+3008
+3008
+visa
+cc
+sim
+724124818
+918962
+13/01/2023
+13/01/2023
+13/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 750,58
+918962
+3008
+3008
+mastercard
+cc
+sim
+724695156
+918962
+16/01/2023
+16/01/2023
+16/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 779,33
+918962
+3008
+3008
+maestro
+cc
+sim
+724960503
+918962
+16/01/2023
+16/01/2023
+16/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.006,47
+918962
+3008
+3008
+mastercard
+cc
+sim
+726287249
+918962
+18/01/2023
+18/01/2023
+18/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 867,76
+918962
+3008
+3008
+mastercard
+cc
+sim
+726287250
+918962
+18/01/2023
+18/01/2023
+18/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 188,15
+918962
+3008
+3008
+visa
+cc
+sim
+726777596
+918962
+19/01/2023
+19/01/2023
+19/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 207,16
+918962
+3008
+3008
+visa electron
+cc
+sim
+726956383
+918962
+19/01/2023
+19/01/2023
+19/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.195,30
+918962
+3008
+3008
+mastercard
+cc
+sim
+728242112
+918962
+23/01/2023
+23/01/2023
+23/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 19,73
+918962
+3008
+3008
+visa electron
+cc
+sim
+728457821
+918962
+23/01/2023
+23/01/2023
+23/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 649,24
+918962
+3008
+3008
+visa
+cc
+sim
+jeanf3008_06
+3
+001
+relatório de liquidação financeira slc - analítico
+data de emissão:
+20/11/2023
+3008 - sicoob coopermais
+sisbr 2.0 – plataforma de credenciamento
+hora de emissão:
+09:00:07
+critérios: 3008 | 27.205.734/0001-63 | data de pagamento | 01/01/2023 a 31/01/2023
+(*) legenda: cc = conta corrente / pp = poupança
+liquidações financeiras
+central
+1001
+singular
+3008
+nº. estabelecimento
+26737262
+cpf / cnpj 27.205.734/0001-63
+número do
+documento
+conta de
+lançamento
+data de
+pagamento
+data de
+lançamento
+data de
+processamento
+situação
+tipo de
+operação
+valor (r$)
+c   z comercio servico
+nome
+conta de
+pagamento
+agência de
+pagamento
+agência de
+lançamento
+bandeira
+sisbr
+tipo de
+conta (*)
+728457822
+918962
+23/01/2023
+23/01/2023
+23/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 399,24
+918962
+3008
+3008
+mastercard
+cc
+sim
+728903725
+918962
+24/01/2023
+24/01/2023
+24/01/2023
+liquidação financeira
+processada com sucesso
+deb.
+r$ 238,73
+918962
+3008
+3008
+visa electron
+cc
+sim
+729117744
+918962
+24/01/2023
+24/01/2023
+24/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 312,61
+918962
+3008
+3008
+mastercard
+cc
+sim
+729117745
+918962
+24/01/2023
+24/01/2023
+24/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 405,47
+918962
+3008
+3008
+visa
+cc
+sim
+729733681
+918962
+25/01/2023
+25/01/2023
+25/01/2023
+liquidação financeira
+processada com sucesso
+ant.
+r$ 1.491,95
+918962
+3008
+3008
+mastercard
+cc
+sim
+nº. estabelecimento
+50148
+cpf / cnpj 27.205.734/0001-63
+número do
+documento
+conta de
+lançamento
+data de
+pagamento
+data de
+lançamento
+data de
+processamento
+situação
+tipo de
+operação
+valor (r$)
+oclaria
+nome
+conta de
+pagamento
+agência de
+pagamento
+agência de
+lançamento
+bandeira
+sisbr
+tipo de
+conta (*)
+717032779
+918962
+02/01/2023
+02/01/2023
+30/12/2022
+liquidação financeira
+processada com sucesso
+cred.
+r$ 177,87
+918962
+3008
+3008
+banescard
+cc
+sim
+800047252
+918962
+27/01/2023
+27/01/2023
+26/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 44,89
+918962
+3008
+3008
+banescard
+cc
+sim
+800986960
+918962
+30/01/2023
+30/01/2023
+27/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 61,12
+918962
+3008
+3008
+banescard
+cc
+sim
+717756879
+918962
+03/01/2023
+03/01/2023
+02/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 68,76
+918962
+3008
+3008
+banescard
+cc
+sim
+719540921
+918962
+06/01/2023
+06/01/2023
+05/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 42,02
+918962
+3008
+3008
+banescard
+cc
+sim
+720226959
+918962
+09/01/2023
+09/01/2023
+06/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 106,96
+918962
+3008
+3008
+banescard
+cc
+sim
+723675400
+918962
+16/01/2023
+16/01/2023
+13/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 245,44
+918962
+3008
+3008
+banescard
+cc
+sim
+jeanf3008_06
+4
+001
+relatório de liquidação financeira slc - analítico
+data de emissão:
+20/11/2023
+3008 - sicoob coopermais
+sisbr 2.0 – plataforma de credenciamento
+hora de emissão:
+09:00:07
+critérios: 3008 | 27.205.734/0001-63 | data de pagamento | 01/01/2023 a 31/01/2023
+(*) legenda: cc = conta corrente / pp = poupança
+liquidações financeiras
+central
+1001
+singular
+3008
+nº. estabelecimento
+50148
+cpf / cnpj 27.205.734/0001-63
+número do
+documento
+conta de
+lançamento
+data de
+pagamento
+data de
+lançamento
+data de
+processamento
+situação
+tipo de
+operação
+valor (r$)
+oclaria
+nome
+conta de
+pagamento
+agência de
+pagamento
+agência de
+lançamento
+bandeira
+sisbr
+tipo de
+conta (*)
+725275258
+918962
+18/01/2023
+18/01/2023
+17/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 60,12
+918962
+3008
+3008
+banescard
+cc
+sim
+726530793
+918962
+20/01/2023
+20/01/2023
+19/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 61,12
+918962
+3008
+3008
+banescard
+cc
+sim
+727194063
+918962
+23/01/2023
+23/01/2023
+20/01/2023
+liquidação financeira
+processada com sucesso
+cred.
+r$ 325,92
+918962
+3008
+3008
+banescard
+cc
+sim
+total:
+r$ 35.990,43
+jeanf3008_06
+5
+001
+ doodis é
+ doodis é
+ doodis é
+ doodis é
+ doodis é

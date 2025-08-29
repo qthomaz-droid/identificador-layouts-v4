@@ -1,0 +1,282 @@
+------------------------------------------------------------------------------------------------------------------------------------
+calcados mariano                                                                            emissao: 16/12/2024-09:11:53   pag.:   1
+------------------------------------------------------------------------------------------------------------------------------------
+                                   extrato i - movimentacao da conta de  1/01/2024 ate 31/01/2024
+   data    pessoa               origem      historico                                                    no cheque        valor
+---------- -------------------- ----------- ------------------------------------------------------------ --------- ------------
+conta: 0002 banco do brasil                 empresa: 0001 calcados mariano
+31/12/2023 saldo anterior         /      -                                                                                 0,00
+ 2/01/2024 vulcabras/azaleia    cp/012279-1 pg. nfe/ 2273088/1                                           0000           -600,00
+ 2/01/2024 16 - calcados bebece cp/012135-1 pg. nfe/ 193160/1                                            000          -1.236,36
+ 2/01/2024 fila brasil ltda     cp/012235-1 pg. nfe/ 620949/2                                            000          -1.252,92
+ 2/01/2024 b rio                cp/011929-1 pg. nfe/ 007960/1                                            000            -476,00
+ 2/01/2024 16 - calcados bebece cp/012147-1 pg. nfe/ 193770/1                                            000          -2.005,89
+ 2/01/2024 bottero              cp/012184-1 pg. nfe/ 616203/2                                            000          -1.187,00
+ 2/01/2024 via scarpa           cp/012166-1 pg. nfe/ 193956/2                                            000          -1.854,09
+ 2/01/2024 vise                 cp/012362-1 pg. nf/ 22646                                                000            -250,00
+ 2/01/2024 b rio                cp/011946-1 pg. nfe/ 009668/1                                            000          -1.461,00
+ 2/01/2024 vulcabras/azaleia    cp/012191-1 pg. nfe/ 2521886/2                                           000            -690,00
+ 2/01/2024 vulcabras/azaleia    cp/012189-1 pg. nfe/ 2521241/2                                           000            -570,00
+ 2/01/2024 nordeste filial 1    cp/012094-1 pg. nfe/ 479226/2                                            000            -799,52
+ 2/01/2024 nordeste filial 1    cp/012156-1 pg. nfe/ 497504/1                                            000            -814,12
+ 2/01/2024 b rio                cp/012076-1 pg. nfe/ 217027/2                                            000            -376,00
+ 2/01/2024 b rio                cp/011949-1 pg. nfe/ 009639/1                                            000            -529,00
+ 2/01/2024 dae                  ma/083932-  pg. guia/ 11-2023                                            000            -281,75
+ 2/01/2024 kenner               ma/083934-  pg. dup/ 1182303/1 dup filial                                000            -505,70
+ 2/01/2024 kenner               ma/083935-  pg. dup/ 1187244/1 dup filial                                000            -505,70
+ 2/01/2024 kenner               ma/083936-  pg. dup/ 1188171/1 dup filial                                000            -505,70
+ 2/01/2024 cielo                ma/084163-  rec. dep/ cielo cr                                                         5.995,10
+ 2/01/2024 cielo debito         ma/084185-  rec. dep/ cielo cd                                                         3.424,86
+ 2/01/2024 13 salario           ma/084207-  pg. folh/ 13 ter andreia                                     852587       -1.804,32
+ 2/01/2024 tarifa bancaria      ma/084208-  pg. / tar ch ouro manut cobrança ref 29-12                                   -22,50
+ 2/01/2024 hora extras          ma/084221-  pg. folh/ 12/2023 monica                                     852589         -289,64
+ 2/01/2024 tarifa bancaria      ma/084222-  pg. / cobrança de i.o.f                                                       -6,44
+ 2/01/2024 bb giro rapido       ma/084223-  rec. dep/ 02-01                                                            7.487,49
+ 2/01/2024 vise                 ma/084357-  pg. dup/ 35051223 dup vise                                   0000           -250,00
+                                                                                                saldo do dia 2...     -1.366,20
+ 3/01/2024 beira rio            cp/011877-1 pg. nfe/ 362583/3                                            0000           -418,44
+ 3/01/2024 b rio                cp/012153-1 pg. nfe/ 898254/1                                            000            -606,00
+ 3/01/2024 piccadilly company f cp/012119-1 pg. nfe/ 192200/1                                            000            -455,60
+ 3/01/2024 cielo                ma/084164-  rec. dep/ cielo cr                                                         1.364,67
+ 3/01/2024 cielo debito         ma/084186-  rec. dep/ cielo cd                                                         1.611,49
+ 3/01/2024 hora extras          ma/084224-  pg. folh/ 12/2023 larisa                                     852591         -193,09
+ 3/01/2024 diversos             ma/084225-  pg. ch/ 03-01-2024 retirada antonio mariano                  000          -1.000,00
+ 3/01/2024 hora extras          ma/084226-  pg. folh/ 852592 helen                                       852592         -180,00
+ 3/01/2024 bb giro rapido       ma/084227-  pg. dep/ 03-01-2024                                          000          -1.421,83
+                                                                                                saldo do dia 3...     -2.665,00
+ 4/01/2024 diversos             ba/017071-  rec.pix nfce 017071                                                          300,00
+ 4/01/2024 diversos             ba/017072-  rec.pix nfce 017072                                                          100,00
+ 4/01/2024 diversos             ba/017073-  rec.pix nfce 017073                                                          100,00
+ 4/01/2024 diversos             ba/017074-  rec.pix nfce 017074                                                          139,00
+ 4/01/2024 diversos             ba/017075-  rec.pix nfce 017075                                                          240,00
+ 4/01/2024 diversos             ba/017076-  rec.pix nfce 017076                                                          229,90
+ 4/01/2024 diversos             ba/017077-  rec.pix nfce 017077                                                          139,90
+ 4/01/2024 diversos             ba/017078-  rec.pix nfce 017078                                                           50,00
+ 4/01/2024 copasa               ma/083933-  pg. guia/ 12-23                                              000             -63,81
+ 4/01/2024 cemig                cp/012369-1 pg. nf/ 087231707                                            000             -77,55
+------------------------------------------------------------------------------------------------------------------------------------
+calcados mariano                                                                            emissao: 16/12/2024-09:11:53   pag.:   2
+------------------------------------------------------------------------------------------------------------------------------------
+                                   extrato i - movimentacao da conta de  1/01/2024 ate 31/01/2024
+   data    pessoa               origem      historico                                                    no cheque        valor
+---------- -------------------- ----------- ------------------------------------------------------------ --------- ------------
+conta: 0002 banco do brasil                 empresa: 0001 calcados mariano
+ 4/01/2024 cemig                cp/012368-1 rec. nf/ 097035536                                           000            -274,09
+ 4/01/2024 cielo                ma/084165-  rec. dep/ cielo cr                                                         2.272,16
+ 4/01/2024 cielo debito         ma/084187-  rec. dep/ cielo cd                                                         1.579,84
+ 4/01/2024 hora extras          ma/084228-  pg. folh/ 04-01-2024 juliana                                 852590         -289,64
+ 4/01/2024 tarifa bancaria      ma/084229-  pg. / tar men prog relac 29-12-24                                             -5,00
+ 4/01/2024 bb giro rapido       ma/084230-  pg. dep/ 04-01-24                                            000          -1.619,89
+ 4/01/2024 cemig                ma/084338-  pg. guia/ 11-23 cemig filial                                 0000           -503,14
+                                                                                                saldo do dia 4...       -347,32
+ 5/01/2024 vulcabras/azaleia    cp/012161-1 pg. nfe/ 2236040/3                                           000            -594,00
+ 5/01/2024 vulcabras/azaleia    cp/012164-1 pg. nfe/ 2508934/3                                           000            -594,00
+ 5/01/2024 b rio                cp/011901-1 pg. nfe/ 989129/3                                            000            -402,72
+ 5/01/2024 b rio                cp/012361-1 pg. nfe/ 017305/1                                            000            -782,00
+ 5/01/2024 diversos             ba/017110-  rec.pix nfce 017110                                                           98,90
+ 5/01/2024 diversos             ba/017111-  rec.pix nfce 017111                                                           69,90
+ 5/01/2024 diversos             ba/017112-  rec.pix nfce 017112                                                          172,80
+ 5/01/2024 diversos             ba/017114-  rec.pix nfce 017114                                                           10,00
+ 5/01/2024 diversos             ba/017115-  rec.pix nfce 017115                                                           39,90
+ 5/01/2024 diversos             ba/017116-  rec.pix nfce 017116                                                          149,90
+ 5/01/2024 diversos             ba/017117-  rec.pix nfce 017117                                                          100,00
+ 5/01/2024 cielo                ma/084166-  rec. dep/ cielo cr                                                         1.563,87
+ 5/01/2024 cielo debito         ma/084188-  rec. dep/ cielo cd                                                         1.905,04
+ 5/01/2024 hora extras          ma/084231-  pg. folh/ 12-2023 ana                                        0000           -193,09
+ 5/01/2024 bb giro rapido       ma/084232-  pg. dep/ 05-01-2024                                          0000         -3.171,39
+                                                                                                saldo do dia 5...     -1.974,21
+ 6/01/2024 diversos             ba/017132-  rec.pix nfce 017132                                                          275,80
+ 6/01/2024 diversos             ba/017133-  rec.pix nfce 017133                                                          110,00
+ 6/01/2024 diversos             ba/017134-  rec.pix nfce 017134                                                          150,00
+ 6/01/2024 diversos             ba/017135-  rec.pix nfce 017135                                                          139,90
+ 6/01/2024 diversos             ba/017136-  rec.pix nfce 017136                                                          139,90
+                                                                                                saldo do dia 6...     -1.158,61
+ 7/01/2024 fgts                 ma/084093-  pg. guia/ 12/23                                              000          -1.092,88
+ 7/01/2024 fgts                 ma/084094-  pg. guia/ 12/23                                              000            -741,60
+                                                                                                saldo do dia 7...     -2.993,09
+ 8/01/2024 bottero              cp/012206-1 pg. nfe/ 617235/2                                            000            -635,00
+ 8/01/2024 via marte            cp/012242-1 pg. nfe/ 450006/1                                            000            -431,96
+ 8/01/2024 vulcabras/azaleia    cp/012202-1 pg. nfe/ 2531362/2                                           000            -690,00
+ 8/01/2024 calcados beira rio   cp/012245-1 pg. nfe/ 118626/1                                            000            -402,00
+ 8/01/2024 soft works           cp/012350-1 pg. nfe/ 183872/1                                            000            -850,40
+ 8/01/2024 oi s.a.              cp/012370-1 pg. nf/ 9604804                                              0000           -102,65
+ 8/01/2024 cielo                ma/084167-  rec. dep/ cielo cr                                                         6.232,29
+ 8/01/2024 cielo debito         ma/084189-  rec. dep/ cielo cd                                                         2.381,79
+ 8/01/2024 recibo de pagamento  ma/084233-  pg. folh/ 12-2023 juliana                                    852595       -1.953,00
+ 8/01/2024 diversos             ma/084234-  pg. ch/ 08-01-2024 retirada antonio mariano                  000          -1.000,00
+ 8/01/2024 bb giro rapido       ma/084243-  pg. dep/ 08-01                                               000          -4.048,99
+ 8/01/2024 oi                   ma/084342-  pg. guia/ 12-23 oi filial                                    0000           -103,53
+                                                                                                saldo do dia 8...     -4.596,54
+ 9/01/2024 vulcabras/azaleia    cp/012311-1 pg. nfe/ 2583549/1                                           000            -540,00
+ 9/01/2024 b rio                cp/011926-1 pg. nfe/ 007982/1                                            000            -406,00
+------------------------------------------------------------------------------------------------------------------------------------
+calcados mariano                                                                            emissao: 16/12/2024-09:11:53   pag.:   3
+------------------------------------------------------------------------------------------------------------------------------------
+                                   extrato i - movimentacao da conta de  1/01/2024 ate 31/01/2024
+   data    pessoa               origem      historico                                                    no cheque        valor
+---------- -------------------- ----------- ------------------------------------------------------------ --------- ------------
+conta: 0002 banco do brasil                 empresa: 0001 calcados mariano
+ 9/01/2024 vulcabras/azaleia    cp/012258-1 pg. nfe/ 2558797/2                                           000            -594,00
+ 9/01/2024 ravia cala#ados ltda cp/012353-1 pg. nfe/ 018359/1                                            000          -2.116,50
+ 9/01/2024 fila brasil ltda     cp/012176-1 pg. nfe/ 602494/3                                            000            -883,20
+ 9/01/2024 calcados pegada nord cp/012217-1 pg. nfe/ 087619/1                                            000            -624,00
+ 9/01/2024 diversos             ba/017139-  rec.pix nfce 017139                                                           90,00
+ 9/01/2024 diversos             ba/017140-  rec.pix nfce 017140                                                           57,90
+ 9/01/2024 diversos             ba/017141-  rec.pix nfce 017141                                                          150,00
+ 9/01/2024 diversos             ba/017142-  rec.pix nfce 017142                                                          141,00
+ 9/01/2024 diversos             ba/017143-  rec.pix nfce 017143                                                           89,90
+ 9/01/2024 diversos             ba/017144-  rec.pix nfce 017144                                                          199,90
+ 9/01/2024 diversos             ba/017145-  rec.pix nfce 017145                                                          329,80
+ 9/01/2024 diversos             ba/017146-  rec.pix nfce 017146                                                          150,00
+ 9/01/2024 diversos             ba/017147-  rec.pix nfce 017147                                                          189,90
+ 9/01/2024 diversos             ba/017148-  rec.pix nfce 017148                                                          193,00
+ 9/01/2024 diversos             ba/017149-  rec.pix nfce 017149                                                          459,80
+ 9/01/2024 diversos             ba/017150-  rec.pix nfce 017150                                                          150,00
+ 9/01/2024 diversos             ba/017151-  rec.pix nfce 017151                                                          410,00
+ 9/01/2024 cielo                ma/084168-  rec. dep/ cielo cr                                                         2.489,40
+ 9/01/2024 cielo debito         ma/084190-  rec. dep/ cielo cd                                                         1.152,82
+ 9/01/2024 tarifa bancaria      ma/084244-  pg. / tar proc ch 08-01                                                      -15,80
+ 9/01/2024 tarifa bancaria      ma/084245-  pg. / tar proc ch cob ref 08-01                                              -15,80
+ 9/01/2024 bb giro rapido       ma/084246-  pg. dep/ 09-01                                                               211,78
+ 9/01/2024 acib                 ma/084341-  pg. dup/ 21                                                  000            -151,50
+ 9/01/2024 cemig                ma/084347-  pg. guia/ 12-23 cem filial                                   000            -640,46
+                                                                                                saldo do dia 9...     -4.118,60
+10/01/2024 vulcabras/azaleia    cp/012254-1 pg. nfe/ 2562612/2                                           000            -554,40
+10/01/2024 vulcabras/azaleia    cp/012215-1 pg. nfe/ 2536086/2                                           000            -600,00
+10/01/2024 via scarpa           cp/012145-1 pg. nfe/ 193955/3                                            000          -2.274,66
+10/01/2024 nordeste matriz      cp/012106-1 pg. nfe/ 549231/2                                            000          -1.054,29
+10/01/2024 b rio                cp/011974-1 pg. nfe/ 204249/3                                            000            -360,00
+10/01/2024 diversos             ba/017154-  rec.pix nfce 017154                                                          250,00
+10/01/2024 diversos             ba/017155-  rec.pix nfce 017155                                                          400,00
+10/01/2024 diversos             ba/017156-  rec.pix nfce 017156                                                           79,90
+10/01/2024 diversos             ba/017157-  rec.pix nfce 017157                                                           40,00
+10/01/2024 diversos             ba/017158-  rec.pix nfce 017158                                                          200,00
+10/01/2024 diversos             ba/017159-  rec.pix nfce 017159                                                           69,90
+10/01/2024 diversos             ba/017160-  rec.pix nfce 017160                                                           79,90
+10/01/2024 diversos             ba/017161-  rec.pix nfce 017161                                                           90,00
+10/01/2024 diversos             ba/017162-  rec.pix nfce 017162                                                           93,85
+10/01/2024 diversos             ba/017163-  rec.pix nfce 017163                                                          149,90
+10/01/2024 diversos             ba/017164-  rec.pix nfce 017164                                                          130,00
+10/01/2024 diversos             ba/017165-  rec.pix nfce 017165                                                          100,00
+10/01/2024 diversos             ba/017166-  rec.pix nfce 017166                                                           60,00
+10/01/2024 diversos             ba/017167-  rec.pix nfce 017167                                                           58,00
+10/01/2024 diversos             ba/017168-  rec.pix nfce 017168                                                          148,80
+10/01/2024 diversos             ba/017169-  rec.pix nfce 017169                                                           50,00
+10/01/2024 pegada               cp/012274-1 pg. nfe/ 552317/1                                            000            -774,98
+10/01/2024 cielo                ma/084169-  rec. dep/ cielo cr                                                           498,89
+10/01/2024 cielo debito         ma/084191-  rec. dep/ cielo cd                                                         1.534,14
+10/01/2024 bb giro rapido       ma/084247-  rec. dep/ 10-01                                                            2.430,40
+                                                                                               saldo do dia 10...     -3.273,25
+------------------------------------------------------------------------------------------------------------------------------------
+calcados mariano                                                                            emissao: 16/12/2024-09:11:53   pag.:   4
+------------------------------------------------------------------------------------------------------------------------------------
+                                   extrato i - movimentacao da conta de  1/01/2024 ate 31/01/2024
+   data    pessoa               origem      historico                                                    no cheque        valor
+---------- -------------------- ----------- ------------------------------------------------------------ --------- ------------
+conta: 0002 banco do brasil                 empresa: 0001 calcados mariano
+11/01/2024 cielo                ma/084170-  rec. dep/ cielo cr                                                         1.126,00
+11/01/2024 cielo debito         ma/084192-  rec. dep/ cielo cd                                                         1.186,34
+11/01/2024 bb giro rapido       ma/084248-  pg. dep/ 11-01                                               000          -3.352,94
+                                                                                               saldo do dia 11...     -4.313,85
+12/01/2024 beira rio            cp/011935-1 pg. nfe/ 383242/1                                            000            -406,00
+12/01/2024 vulcabras/azaleia    cp/012366-1 pg. nfe/ 2274042/2                                           000            -514,80
+12/01/2024 vulcabras/azaleia    cp/012269-1 pg. nfe/ 2274041/2                                           000            -514,80
+12/01/2024 calcados beira rio   cp/011932-1 pg. nfe/ 561964/1                                            000            -381,00
+12/01/2024 beira rio            cp/011959-1 pg. nfe/ 390304/1                                            000          -1.215,00
+12/01/2024 cielo                ma/084171-  rec. dep/ cielo cr                                                         1.216,83
+12/01/2024 cielo debito         ma/084193-  rec. dep/ cielo cd                                                           665,59
+12/01/2024 recibo de pro labore ma/084249-  pg. folh/ 12-2023 antonio mariano                            0000         -1.175,00
+12/01/2024 tarifa bancaria      ma/084250-  pg. /tar proc ch cob ref 12-01                                               -15,80
+12/01/2024 bb giro rapido       ma/084251-  pg. dep/ 12-01                                                             1.982,18
+                                                                                               saldo do dia 12...     -4.671,65
+15/01/2024 via marte            cp/012172-1 pg. nfe/ 431455/2                                            000            -375,96
+15/01/2024 beira rio            cp/011981-1 pg. nfe/ 013933/2                                            000            -470,00
+15/01/2024 fila brasil ltda     cp/012272-1 pg. nfe/ 633702/2                                            0000           -677,80
+15/01/2024 cielo                ma/084172-  rec. dep/ cielo cr                                                         5.519,53
+15/01/2024 cielo debito         ma/084194-  rec. dep/ cielo cd                                                         1.753,89
+15/01/2024 diversos             ma/084252-  pg. ch/ 15-01                                                000          -1.000,00
+15/01/2024 tarifa bancaria      ma/084253-  pg. / tar pac ser cor ref 15-01                                             -115,00
+15/01/2024 bb giro rapido       ma/084254-  pg. dep/ 15-01                                               0000         -4.462,10
+15/01/2024 edilson              ma/084336-  pg. dup/ 01-24                                               000          -2.287,00
+                                                                                               saldo do dia 15...     -6.786,09
+16/01/2024 diversos             ba/017230-  rec.pix nfce 017230                                                          580,00
+16/01/2024 diversos             ba/017231-  rec.pix nfce 017231                                                          550,00
+16/01/2024 diversos             ba/017232-  rec.pix nfce 017232                                                           60,00
+16/01/2024 diversos             ba/017233-  rec.pix nfce 017233                                                          169,90
+16/01/2024 diversos             ba/017234-  rec.pix nfce 017234                                                           80,00
+16/01/2024 diversos             ba/017235-  rec.pix nfce 017235                                                          170,00
+16/01/2024 diversos             ba/017236-  rec.pix nfce 017236                                                           85,00
+16/01/2024 diversos             ba/017237-  rec.pix nfce 017237                                                          150,00
+16/01/2024 diversos             ba/017238-  rec.pix nfce 017238                                                          149,90
+16/01/2024 diversos             ba/017239-  rec.pix nfce 017239                                                           79,00
+16/01/2024 diversos             ba/017240-  rec.pix nfce 017240                                                           59,90
+16/01/2024 diversos             ba/017241-  rec.pix nfce 017241                                                          192,80
+16/01/2024 diversos             ba/017242-  rec.pix nfce 017242                                                          250,00
+16/01/2024 diversos             ba/017243-  rec.pix nfce 017243                                                          159,00
+16/01/2024 diversos             ba/017244-  rec.pix nfce 017244                                                          119,90
+16/01/2024 diversos             ba/017245-  rec.pix nfce 017245                                                          199,00
+16/01/2024 diversos             ba/017246-  rec.pix nfce 017246                                                           85,00
+16/01/2024 diversos             ba/017247-  rec.pix nfce 017247                                                          180,00
+16/01/2024 diversos             ba/017248-  rec.pix nfce 017248                                                          179,90
+16/01/2024 diversos             ba/017249-  rec.pix nfce 017249                                                          144,90
+16/01/2024 diversos             ba/017250-  rec.pix nfce 017250                                                          110,90
+16/01/2024 diversos             ba/017251-  rec.pix nfce 017251                                                          315,00
+16/01/2024 diversos             ba/017252-  rec.pix nfce 017252                                                          200,00
+16/01/2024 diversos             ba/017253-  rec.pix nfce 017253                                                          250,00
+16/01/2024 diversos             ba/017254-  rec.pix nfce 017254                                                          200,00
+------------------------------------------------------------------------------------------------------------------------------------
+calcados mariano                                                                            emissao: 16/12/2024-09:11:53   pag.:   5
+------------------------------------------------------------------------------------------------------------------------------------
+                                   extrato i - movimentacao da conta de  1/01/2024 ate 31/01/2024
+   data    pessoa               origem      historico                                                    no cheque        valor
+---------- -------------------- ----------- ------------------------------------------------------------ --------- ------------
+conta: 0002 banco do brasil                 empresa: 0001 calcados mariano
+16/01/2024 diversos             ba/017255-  rec.pix nfce 017255                                                          149,90
+16/01/2024 diversos             ba/017256-  rec.pix nfce 017256                                                          135,50
+16/01/2024 diversos             ba/017257-  rec.pix nfce 017257                                                          789,70
+16/01/2024 diversos             ba/017258-  rec.pix nfce 017258                                                          459,00
+16/01/2024 ramarim              cp/012117-1 pg. nfe/ 1052525/2                                           000            -628,34
+16/01/2024 fila brasil ltda     cp/012282-1 pg. nfe/ 634790/2                                            000            -780,52
+16/01/2024 cielo                ma/084173-  rec. dep/ cielo cr                                                         2.322,10
+16/01/2024 cielo debito         ma/084195-  rec. dep/ cielo cd                                                         1.532,45
+16/01/2024 tarifa bancaria      ma/084255-  pg. / tar  proc ch cob ref 15-01                                             -15,80
+16/01/2024 bb giro rapido       ma/084256-  pg. dep/ 16-01                                               000          -2.957,59
+                                                                                               saldo do dia 16...     -1.059,59
+17/01/2024 calcados beira rio   cp/011993-1 pg. nfe/ 596977/3                                            000          -1.191,86
+17/01/2024 b rio                cp/011998-1 pg. nfe/ 209180/2                                            000            -371,00
+17/01/2024 beira rio            cp/011979-1 pg. nfe/ 013927/3                                            000            -536,48
+17/01/2024 calcados beira rio   cp/011964-1 pg. nfe/ 583538/3                                            0000         -1.042,72
+17/01/2024 calcados beira rio   cp/011996-1 pg. nfe/ 603404/3                                            000            -582,46
+17/01/2024 calcados beira rio   cp/011989-1 pg. nfe/ 093791/2                                            000            -459,00
+17/01/2024 documento            ma/084092-  pg. guia/ 2023                                               000          -2.625,41
+17/01/2024 cielo                ma/084174-  rec. dep/ cielo cr                                                           326,37
+17/01/2024 cielo debito         ma/084196-  rec. dep/ cielo cd                                                           674,80
+17/01/2024 bb giro rapido       ma/084257-  pg. dep/ 17-01                                                             2.553,35
+                                                                                               saldo do dia 17...     -4.314,00
+18/01/2024 piccadilly company f cp/012209-1 pg. nfe/ 200495/1                                            000            -521,70
+18/01/2024 diversos             ba/017297-  rec.pix nfce 017297                                                          137,90
+18/01/2024 diversos             ba/017298-  rec.pix nfce 017298                                                           89,90
+18/01/2024 diversos             ba/017299-  rec.pix nfce 017299                                                           50,00
+18/01/2024 diversos             ba/017300-  rec.pix nfce 017300                                                          120,00
+18/01/2024 diversos             ba/017301-  rec.pix nfce 017301                                                          129,90
+18/01/2024 cielo                ma/084175-  rec. dep/ cielo cr                                                         1.829,71
+18/01/2024 cielo debito         ma/084197-  rec. dep/ cielo cd                                                           772,42
+18/01/2024 bb giro rapido       ma/084258-  pg. dep/ 18-01                                               000          -2.588,43
+                                                                                               saldo do dia 18...     -4.294,30
+19/01/2024 vulcabras/azaleia    cp/012340-1 pg. nfe/ 2298728/1                                           000            -360,00
+19/01/2024 b rio                cp/012026-1 pg. nfe/ 211020/2                                            000            -498,00
+19/01/2024 b rio                cp/012023-1 pg. nfe/ 211019/2                                            000            -597,00
+19/01/2024 dae                  ma/084090-  pg. guia/ 11/23                                              000          -3.543,49
+19/01/2024 cielo                ma/084176-  rec. dep/ cielo cr                                                         2.075,62
+19/01/2024 cielo debito         ma/084198-  rec. dep/ cielo cd                                                           978,93
+19/01/2024 bb giro rapido       ma/084259-  pg. dep/ 19-01                                                             4.449,45
+                                                                                               saldo do dia 19...     -1.788,79
+22/01/2024 circ da can clube fm cp/012363-1 pg. nf/ 001625                                               000            -320,00
+22/01/2024 beira rio            cp/011943-1 pg. nfe/ 985133/1                                            000            -507,00
+22/01/2024 b rio                cp/011956-1 pg. nfe/ 017214/1                                            000            -575,00
+22/01/2024 fila brasil ltda     cp/012309-1 pg. nfe/ 639300/2                                            000            -520,35
+22/01/2024 b rio                cp/011923-1 pg. nfe/ 007970/1                                            000            -476,00
+22/01/2024 b rio                cp/012035-1 pg. nfe/ 211921/2                                            000            -578,00
+22/01/2024 potro                cp/012134-1 pg. nfe/ 000965/2                                            000          -1.591,20
+22/01/2024 calcados beira rio   cp/012033-1 pg. nfe/ 614751/3                                            000            -536,48
+22/01/2024 vulcabras/azaleia    cp/012342-1 pg. nfe/ 2300773/1                                           000            -360,00

@@ -1,0 +1,1465 @@
+restrita
+24/04/2023
+3009 - sicoob norte
+16:12:09
+relatório de movimento de liquidações e baixas - analítico
+sisbr - cobrança bancária 3.0
+data de emissão:
+hora de emissão:
+central:
+filtros
+registro
+cooperativa:
+pa:
+lista por:
+período:
+beneficiário:
+pagador:
+1001
+3009
+0012
+loja maconica mensageiros da luz
+data liquidação
+01/01/2023 a 31/01/2023
+pa:
+0012
+beneficiário:
+1565923 - loja maconica mensageiros da luz
+modalidade
+nosso número
+seu número
+vencimento
+pagamento
+liberação
+c/c liberação
+banco/ag.
+receb.
+forma
+liquidação
+valor nominal
+valor cobrado
+cpf/cnpj:
+27.546.407/0001-75
+pagador
+pa:
+0012
+histórico:
+11 - baixa por decurso de prazo
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+clovis jose de araujo  cim 235812
+11297
+automática
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+stanley watson beling antunes
+12378
+automática
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+juliano cezar guimaraes sena
+12496
+automática
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+vinicius dessabato azzari cim
+12733
+automática
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+wanderson bonomo  cim 288476
+13212
+automática
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+flavio de oliveira ogioni  cim
+13459
+automática
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+helielson carlos moreira  cim
+13695
+automática
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+alex martins de oliveira  cim
+14174
+automática
+0001 - creg
+mensaliade-2022-06
+10/07/2022
+09/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+rui edsiomar alves de souza  cim
+15739
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+luecio cunha  cim 92749
+18949
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+clovis jose de araujo  cim 235812
+19030
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+juliano cezar guimaraes sena
+19134
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+wanderson bonomo  cim 288476
+19198
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+flavio de oliveira ogioni  cim
+19213
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+miguel arcanjo lyrio  cim 136563
+19284
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+sebastiao caffeu  cim 251888
+19317
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+sebastiao luiz da silva  cim
+19349
+automática
+0001 - creg
+famm 06/2022
+16/07/2022
+13/01/2023
+770990
+3009 - 756
+r$ 45,00
+r$ 45,00
+danilo haddad sassaroli  cim
+19356
+automática
+beneficiário:
+1565923 - loja maconica mensageiros da luz
+modalidade
+nosso número
+seu número
+vencimento
+pagamento
+liberação
+c/c liberação
+banco/ag.
+receb.
+forma
+liquidação
+valor nominal
+valor cobrado
+cpf/cnpj:
+27.546.407/0001-75
+pagador
+pa:
+0012
+histórico:
+58 - liquidação - via compensação
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+222 - 1
+r$ 165,00
+r$ 165,00
+jose rodrigues soares de melo
+10754
+automática
+rafaelb3007_34
+cob505
+1
+ tysicoob
+restrita
+24/04/2023
+3009 - sicoob norte
+16:12:09
+relatório de movimento de liquidações e baixas - analítico
+sisbr - cobrança bancária 3.0
+data de emissão:
+hora de emissão:
+beneficiário:
+1565923 - loja maconica mensageiros da luz
+modalidade
+nosso número
+seu número
+vencimento
+pagamento
+liberação
+c/c liberação
+banco/ag.
+receb.
+forma
+liquidação
+valor nominal
+valor cobrado
+cpf/cnpj:
+27.546.407/0001-75
+pagador
+pa:
+0012
+histórico:
+58 - liquidação - via compensação
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+02/01/2023
+03/01/2023
+770990
+135 - 21
+r$ 165,00
+r$ 165,00
+giovane rodrigues pereira  cim
+10872
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+135 - 21
+r$ 165,00
+r$ 165,00
+marcos filipe bocafoli de souza
+10990
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+8422 - 341
+r$ 165,00
+r$ 165,00
+nelson henrique bertolo
+11115
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+1 - 260
+r$ 165,00
+r$ 165,00
+maikon guerner  cim 326460
+11233
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+05/01/2023
+06/01/2023
+770990
+606 - 21
+r$ 165,00
+r$ 165,00
+rodrigo martins pereira  cim
+11470
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+2451 - 1
+r$ 165,00
+r$ 165,00
+fernando brasil oliveira  cim
+11835
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+222 - 1
+r$ 165,00
+r$ 165,00
+alexsandro oliveira dourado
+11953
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+222 - 1
+r$ 165,00
+r$ 165,00
+luiz carlos de oliveira celestino
+12077
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+222 - 1
+r$ 165,00
+r$ 165,00
+renato pirola  cim 251670
+12195
+automática
+0001 - creg
+mensaliade-2022-10
+10/11/2022
+31/01/2023
+01/02/2023
+770990
+222 - 1
+r$ 165,00
+r$ 213,39
+stanley watson beling antunes
+12418
+automática
+0001 - creg
+mensaliade-2022-11
+10/12/2022
+31/01/2023
+01/02/2023
+770990
+222 - 1
+r$ 165,00
+r$ 196,89
+stanley watson beling antunes
+12425
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+11/01/2023
+12/01/2023
+770990
+717 - 104
+r$ 165,00
+r$ 168,84
+jefferson rosson vargas  cim
+12679
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+1004 - 237
+r$ 165,00
+r$ 165,00
+beroaldo oliveira batista
+12916
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+11/01/2023
+12/01/2023
+770990
+606 - 21
+r$ 165,00
+r$ 168,85
+vanair raimundo de oliveira  cim
+13030
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+135 - 21
+r$ 165,00
+r$ 165,00
+wanderson bonomo  cim 288476
+13276
+automática
+0001 - creg
+mensaliade-2022-10
+10/11/2022
+04/01/2023
+05/01/2023
+770990
+7409 - 341
+r$ 165,00
+r$ 198,54
+joenilton caetano soares  cim
+13370
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+25/01/2023
+26/01/2023
+770990
+7409 - 341
+r$ 165,00
+r$ 176,55
+joenilton caetano soares  cim
+13394
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+7409 - 341
+r$ 165,00
+r$ 165,00
+evandro jose dos reis  cim
+13878
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+5081 - 1
+r$ 165,00
+r$ 165,00
+marcos patrick santos cazelli
+13996
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+222 - 1
+r$ 165,00
+r$ 165,00
+luiz fernando mendonca de
+14110
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+1914 - 33
+r$ 165,00
+r$ 165,00
+sergio marcos vieira de souza
+14593
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+7409 - 341
+r$ 165,00
+r$ 165,00
+joao cezar pasolini
+14830
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+1004 - 237
+r$ 165,00
+r$ 165,00
+marcelo silva serra  cim 315903
+14959
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+09/01/2023
+10/01/2023
+770990
+222 - 1
+r$ 165,00
+r$ 165,00
+sebastiao luiz da silva  cim
+15072
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+222 - 1
+r$ 165,00
+r$ 165,00
+andre ideraldo andreazi
+15438
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+06/01/2023
+09/01/2023
+770990
+717 - 104
+r$ 165,00
+r$ 165,00
+justino cardozo porto
+15556
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+135 - 21
+r$ 165,00
+r$ 165,00
+rui edsiomar alves de souza  cim
+15792
+automática
+0001 - creg
+mensalidade2022-01
+12/01/2023
+10/01/2023
+11/01/2023
+770990
+3691 - 237
+r$ 165,00
+r$ 165,00
+francisco de assis souza
+21003
+automática
+rafaelb3007_34
+cob505
+2
+ tysicoob
+restrita
+24/04/2023
+3009 - sicoob norte
+16:12:10
+relatório de movimento de liquidações e baixas - analítico
+sisbr - cobrança bancária 3.0
+data de emissão:
+hora de emissão:
+beneficiário:
+1565923 - loja maconica mensageiros da luz
+modalidade
+nosso número
+seu número
+vencimento
+pagamento
+liberação
+c/c liberação
+banco/ag.
+receb.
+forma
+liquidação
+valor nominal
+valor cobrado
+cpf/cnpj:
+27.546.407/0001-75
+pagador
+pa:
+0012
+histórico:
+58 - liquidação - via compensação
+0001 - creg
+mensalidade2022-02
+12/01/2023
+10/01/2023
+11/01/2023
+770990
+3691 - 237
+r$ 165,00
+r$ 165,00
+francisco de assis souza
+21010
+automática
+0001 - creg
+famm 09/2022
+12/01/2023
+10/01/2023
+11/01/2023
+770990
+3691 - 237
+r$ 15,00
+r$ 15,00
+francisco de assis souza
+21178
+automática
+0001 - creg
+famm 11/2022
+12/01/2023
+12/01/2023
+13/01/2023
+770990
+3691 - 237
+r$ 15,00
+r$ 15,00
+francisco de assis souza
+22170
+automática
+0001 - creg
+famm 11/2022
+15/12/2022
+03/01/2023
+04/01/2023
+770990
+478 - 1
+r$ 15,00
+r$ 16,24
+ricardo rodrigues calmon cim
+22581
+automática
+0001 - creg
+mensalidade12/2022
+13/01/2023
+13/01/2023
+16/01/2023
+770990
+222 - 1
+r$ 165,00
+r$ 165,00
+alex martins de oliveira  cim
+22607
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+18/01/2023
+19/01/2023
+770990
+1 - 212
+r$ 15,00
+r$ 15,00
+joaquim camilo filho  cim 149846
+22621
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+606 - 21
+r$ 15,00
+r$ 15,00
+altevir malaquias de araujo  cim
+22639
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+18/01/2023
+19/01/2023
+770990
+3691 - 237
+r$ 15,00
+r$ 15,00
+francisco de assis souza
+22660
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+31/01/2023
+01/02/2023
+770990
+222 - 1
+r$ 15,00
+r$ 15,84
+stanley watson beling antunes
+22678
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+16/01/2023
+17/01/2023
+770990
+1914 - 33
+r$ 15,00
+r$ 15,00
+vinicius dessabato azzari cim
+22685
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+18/01/2023
+19/01/2023
+770990
+1914 - 33
+r$ 15,00
+r$ 15,00
+mario piva neto  cim 317905
+22718
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+17/01/2023
+18/01/2023
+770990
+717 - 104
+r$ 15,00
+r$ 15,00
+justino cardozo porto
+22725
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+1004 - 237
+r$ 15,00
+r$ 15,00
+marcelo silva serra  cim 315903
+22732
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+222 - 1
+r$ 15,00
+r$ 15,00
+luiz fernando mendonca de
+22771
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+16/01/2023
+17/01/2023
+770990
+5081 - 1
+r$ 15,00
+r$ 15,00
+marcos patrick santos cazelli
+22789
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+7409 - 341
+r$ 15,00
+r$ 15,00
+evandro jose dos reis  cim
+22796
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+135 - 21
+r$ 15,00
+r$ 15,00
+jose renato medici firme  cim
+22811
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+16/01/2023
+17/01/2023
+770990
+135 - 21
+r$ 15,00
+r$ 15,00
+wanderson bonomo  cim 288476
+22836
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+18/01/2023
+19/01/2023
+770990
+606 - 21
+r$ 15,00
+r$ 15,00
+vanair raimundo de oliveira  cim
+22843
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+16/01/2023
+17/01/2023
+770990
+1004 - 237
+r$ 15,00
+r$ 15,00
+beroaldo oliveira batista
+22850
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+222 - 1
+r$ 15,00
+r$ 15,00
+renato pirola  cim 251670
+22882
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+222 - 1
+r$ 15,00
+r$ 15,00
+luiz carlos de oliveira celestino
+22890
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+222 - 1
+r$ 15,00
+r$ 15,00
+alexsandro oliveira dourado
+22908
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+31/01/2023
+01/02/2023
+770990
+2451 - 1
+r$ 15,00
+r$ 15,84
+fernando brasil oliveira  cim
+22915
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+606 - 21
+r$ 15,00
+r$ 15,00
+altevir malaquias de araujo
+22930
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+8422 - 341
+r$ 15,00
+r$ 15,00
+nelson henrique bertolo
+22979
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+135 - 21
+r$ 15,00
+r$ 15,00
+marcos filipe bocafoli de souza
+22986
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+17/01/2023
+18/01/2023
+770990
+135 - 21
+r$ 15,00
+r$ 15,00
+giovane rodrigues pereira  cim
+22993
+automática
+rafaelb3007_34
+cob505
+3
+ tysicoob
+restrita
+24/04/2023
+3009 - sicoob norte
+16:12:10
+relatório de movimento de liquidações e baixas - analítico
+sisbr - cobrança bancária 3.0
+data de emissão:
+hora de emissão:
+beneficiário:
+1565923 - loja maconica mensageiros da luz
+modalidade
+nosso número
+seu número
+vencimento
+pagamento
+liberação
+c/c liberação
+banco/ag.
+receb.
+forma
+liquidação
+valor nominal
+valor cobrado
+cpf/cnpj:
+27.546.407/0001-75
+pagador
+pa:
+0012
+histórico:
+58 - liquidação - via compensação
+0001 - creg
+famm 12/2022
+20/01/2023
+18/01/2023
+19/01/2023
+770990
+222 - 1
+r$ 15,00
+r$ 15,00
+sebastiao luiz da silva  cim
+23014
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+7409 - 341
+r$ 15,00
+r$ 15,00
+joao cezar pasolini
+23021
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+17/01/2023
+18/01/2023
+770990
+135 - 21
+r$ 15,00
+r$ 15,00
+rui edsiomar alves de souza  cim
+23046
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+27/01/2023
+30/01/2023
+770990
+717 - 104
+r$ 15,00
+r$ 15,64
+jefferson rosson vargas  cim
+23100
+automática
+0001 - creg
+mensalid 2023-01
+10/02/2023
+31/01/2023
+01/02/2023
+770990
+606 - 21
+r$ 198,00
+r$ 198,00
+altevir malaquias de araujo
+23956
+automática
+beneficiário:
+1565923 - loja maconica mensageiros da luz
+modalidade
+nosso número
+seu número
+vencimento
+pagamento
+liberação
+c/c liberação
+banco/ag.
+receb.
+forma
+liquidação
+valor nominal
+valor cobrado
+cpf/cnpj:
+27.546.407/0001-75
+pagador
+pa:
+0012
+histórico:
+68 - liquidação - débito em conta
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+adson ton  cim 291026
+11717
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+marcio domingos palombo lyrio
+12314
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+helielson carlos moreira  cim
+13750
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+miguel arcanjo lyrio  cim 136563
+14357
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+sebastiao caffeu  cim 251888
+14712
+automática
+0001 - creg
+mensaliade-2022-12
+10/01/2023
+09/01/2023
+10/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+danilo haddad sassaroli  cim
+15190
+automática
+0001 - creg
+mensalidade2022-05
+10/01/2023
+10/01/2023
+11/01/2023
+770990
+3009 - 756
+r$ 165,00
+r$ 165,00
+elbert leandro gomes da silva
+20990
+automática
+0001 - creg
+famm 10/2022
+12/01/2023
+12/01/2023
+13/01/2023
+770990
+3009 - 756
+r$ 60,00
+r$ 60,00
+helielson carlos moreira  cim
+21920
+automática
+0001 - creg
+famm 11/2022
+12/01/2023
+12/01/2023
+13/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+helielson carlos moreira  cim
+22424
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+16/01/2023
+17/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+alfredo moreira junior  cim
+22653
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+16/01/2023
+17/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+elbert leandro gomes da silva
+22700
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+16/01/2023
+17/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+miguel arcanjo lyrio  cim 136563
+22757
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+17/01/2023
+18/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+helielson carlos moreira  cim
+22804
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+marcio domingos palombo lyrio
+22875
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+adson ton  cim 291026
+22922
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+17/01/2023
+18/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+rodrigo martins pereira  cim
+22947
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+17/01/2023
+18/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+iago oliveira redivo  cim 326414
+23007
+automática
+0001 - creg
+famm 12/2022
+20/01/2023
+20/01/2023
+23/01/2023
+770990
+3009 - 756
+r$ 15,00
+r$ 15,00
+sebastiao caffeu  cim 251888
+23092
+automática
+valor nominal
+histórico
+valor
+total de boletos
+r$ 1.890,00
+r$ 1.890,00
+18
+11 - baixa por decurso de prazo
+r$ 5.763,00
+r$ 5.899,62
+62
+58 - liquidação - via compensação
+80
+r$ 7.653,00
+r$ 7.789,62
+total
+conta corrente
+total de boletos
+valor nominal
+valor cobrado
+770990
+98
+r$ 9.018,00
+r$ 9.154,62
+98
+r$ 9.018,00
+r$ 9.154,62
+total
+rafaelb3007_34
+cob505
+4
+ tysicoob
+restrita
+24/04/2023
+3009 - sicoob norte
+16:12:10
+relatório de movimento de liquidações e baixas - analítico
+sisbr - cobrança bancária 3.0
+data de emissão:
+hora de emissão:
+beneficiário:
+1565923 - loja maconica mensageiros da luz
+modalidade
+nosso número
+seu número
+vencimento
+pagamento
+liberação
+c/c liberação
+banco/ag.
+receb.
+forma
+liquidação
+valor nominal
+valor cobrado
+cpf/cnpj:
+27.546.407/0001-75
+pagador
+pa:
+0012
+histórico:
+68 - liquidação - débito em conta
+valor nominal
+histórico
+valor
+total de boletos
+r$ 1.365,00
+r$ 1.365,00
+18
+68 - liquidação - débito em conta
+98
+r$ 9.018,00
+r$ 9.154,62
+total
+total pa: 0012
+total de boletos:
+valor nominal:
+valor cobrado:
+98
+r$ 9.018,00
+r$ 9.154,62
+total histórico:
+18
+r$ 1.890,00
+r$ 1.890,00
+valor cobrado:
+valor nominal:
+boleto(s)
+11 - baixa por decurso de prazo
+62
+r$ 5.763,00
+r$ 5.899,62
+valor cobrado:
+valor nominal:
+boleto(s)
+58 - liquidação - via compensação
+18
+r$ 1.365,00
+r$ 1.365,00
+valor cobrado:
+valor nominal:
+boleto(s)
+68 - liquidação - débito em conta
+98
+r$ 9.018,00
+r$ 9.154,62
+total geral:
+valor cobrado:
+valor nominal:
+boleto(s)
+rafaelb3007_34
+cob505
+5
+ tysicoob

@@ -1,0 +1,1294 @@
+informações
+empresa
+01 - enquip ltda.
+conta
+bancária
+conta transitória
+data
+inicial
+01/01/2023
+data
+final
+31/01/2023
+data
+código do
+lançamento
+classificação
+pessoa
+descrição do lançamento
+nf-e origem
+valor
+saldo
+ 
+saldo anterior:
+r$ 30,60
+02/01/23
+13591
+transferência
+000007 - enquip ltda.
+retorno para conta transitória
+---
+r$ 170,00
+r$ 200,60
+02/01/23
+13593
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 2.830,00
+r$ 3.030,60
+02/01/23
+13597
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços josé
+schumacker
+---
+r$ -1.980,00
+r$ 1.050,60
+02/01/23
+13598
+passivo trabalhista enquip
+000673 - marcelo correa
+bernardo ex funcionário
+rct 2016 marcelo correa bernardo
+(parcela 51 de 91)
+---
+r$ -1.000,00
+r$ 50,60
+03/01/23
+13611
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 28.358,23
+r$ 28.408,83
+03/01/23
+13613
+passivo trabalhista enquip
+001618 - marlos salles
+bianna
+rct 2022 marlos salles bianna
+(parcela 4 de 24)
+---
+r$ -6.416,67
+r$ 21.992,16
+03/01/23
+13614
+pro labore
+000077 - sérgio tangari
+pro labore st
+---
+r$ -4.000,00
+r$ 17.992,16
+03/01/23
+13615
+despesas com visita técnica
+000686 - welton mei
+reembolso despesas viagem piv
+2022/069 em 22/12/2022
+---
+r$ -142,50
+r$ 17.849,66
+03/01/23
+13616
+serviços internos
+000686 - welton mei
+prestação de serviços welton souza
+---
+r$ -1.350,00
+r$ 16.499,66
+03/01/23
+13617
+serviços internos
+000686 - welton mei
+prestação de serviços welton souza
+---
+r$ -2.430,00
+r$ 14.069,66
+03/01/23
+13618
+serviços internos
+000732 - wanderson
+schimith mei
+prestação de serviços wanderson
+schimith
+---
+r$ -1.400,00
+r$ 12.669,66
+03/01/23
+13619
+serviços internos
+000010 - sherlon mei
+prestação de serviços sherlon soares
+---
+r$ -1.920,00
+r$ 10.749,66
+03/01/23
+13620
+serviços internos
+000010 - sherlon mei
+prestação de serviços sherlon soares
+---
+r$ -2.460,00
+r$ 8.289,66
+03/01/23
+13621
+serviços internos
+001528 - william carlos
+augustinho david
+prestação de serviços william carlos
+augustinho david
+---
+r$ -570,83
+r$ 7.718,83
+03/01/23
+13622
+serviços internos
+001528 - william carlos
+augustinho david
+prestação de serviços william carlos
+augustinho david
+---
+r$ -562,50
+r$ 7.156,33
+03/01/23
+13623
+serviços internos
+000014 - gilson
+quintiliano da silva mei
+prestação de serviços gilson
+quintiliano
+---
+r$ -1.125,00
+r$ 6.031,33
+03/01/23
+13624
+serviços internos
+000677 - vanir freiman
+prestação de serviços vanir freiman
+---
+r$ -450,00
+r$ 5.581,33
+relatório extrato
+data
+código do
+lançamento
+classificação
+pessoa
+descrição do lançamento
+nf-e origem
+valor
+saldo
+03/01/23
+13625
+serviços internos
+000720 - sullivan klein
+mei
+prestação de serviços sullivan klein
+---
+r$ -1.125,00
+r$ 4.456,33
+03/01/23
+13626
+serviços internos
+001025 - vinicius santos
+da silva mei
+prestação de serviços vinícius santos
+da silva
+---
+r$ -810,00
+r$ 3.646,33
+03/01/23
+13627
+serviços internos
+000909 - josinei sandre
+prestação de serviços josinei sandre
+---
+r$ -705,00
+r$ 2.941,33
+06/01/23
+13637
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços paulinho moreira
+dias
+---
+r$ -1.440,00
+r$ 1.501,33
+06/01/23
+13638
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços alexandre
+(servente do paulinho moreira dias)
+---
+r$ -480,00
+r$ 1.021,33
+08/01/23
+13641
+pro labore
+000076 - rafael tangari
+pro labore rt
+---
+r$ -700,00
+r$ 321,33
+09/01/23
+13646
+telefonia fixa
+000690 - oi telemar
+bt fatura telefone fixo - oi telemar
+---
+r$ -268,66
+r$ 52,67
+10/01/23
+13649
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 12.282,56
+r$ 12.335,23
+10/01/23
+13662
+passivo trabalhista enquip
+001098 - dr. anderson
+medeiros bartos
+rct 2021 vanir freiman (honorários
+advocatícios dr. anderson medeiros
+bastos) (parcela 12 de 12)
+---
+r$ -542,00
+r$ 11.793,23
+10/01/23
+13663
+passivo trabalhista enquip
+000677 - vanir freiman
+rct 2021 vanir freiman (parcela 16 de
+65)
+---
+r$ -1.000,00
+r$ 10.793,23
+10/01/23
+13664
+passivo trabalhista enquip
+000676 - marques klen
+rct 2021 marques klen (parcela 21 de
+60)
+---
+r$ -1.045,79
+r$ 9.747,44
+10/01/23
+13665
+passivo trabalhista enquip
+000695 - sherlon ex
+funcionário
+rct 2016 sherlon soares mota
+(parcela 61 de 180)
+---
+r$ -1.251,77
+r$ 8.495,67
+10/01/23
+13666
+contabilidade
+000046 - develop
+bt contabilidade develop ref.
+dezembro/2022 - nfse 3278
+---
+r$ -2.700,00
+r$ 5.795,67
+10/01/23
+13667
+outras despesas administrativas
+000055 - sos pragas
+fat bt sos pragas - ref.
+desinsetização e desratização - nfse
+1210 (parcela 1 de 12)
+---
+r$ -176,40
+r$ 5.619,27
+10/01/23
+13668
+serviços internos
+001025 - vinicius santos
+da silva mei
+prestação de serviços vinícius santos
+da silva
+---
+r$ -891,00
+r$ 4.728,27
+10/01/23
+13669
+serviços externos
+000669 - motoboy michel
+fat pedido de compra oc20230014
+michel motoboy - parcela 1 de 1 - sem
+nfse!
+---
+r$ -167,00
+r$ 4.561,27
+10/01/23
+13670
+limpeza
+000334 - fornecedor em
+branco
+limpeza escritório - marinete (em
+04/01/2023)
+---
+r$ -170,00
+r$ 4.391,27
+10/01/23
+13671
+limpeza
+000334 - fornecedor em
+branco
+limpeza escritório - marinete (em
+10/01/2023)
+---
+r$ -170,00
+r$ 4.221,27
+10/01/23
+13672
+serviços internos
+000014 - gilson
+quintiliano da silva mei
+prestação de serviços gilson
+quintiliano
+---
+r$ -2.065,00
+r$ 2.156,27
+10/01/23
+13673
+serviços internos
+000720 - sullivan klein
+mei
+prestação de serviços sullivan klein
+---
+r$ -675,00
+r$ 1.481,27
+data
+código do
+lançamento
+classificação
+pessoa
+descrição do lançamento
+nf-e origem
+valor
+saldo
+10/01/23
+13674
+serviços internos
+001489 - joao victor
+tome comba mei
+prestação de serviços joão victor
+---
+r$ -562,50
+r$ 918,77
+10/01/23
+13675
+serviços internos
+001489 - joao victor
+tome comba mei
+prestação de serviços joão victor
+---
+r$ -562,50
+r$ 356,27
+11/01/23
+13678
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 7.506,67
+r$ 7.862,94
+11/01/23
+13682
+serviços internos
+000677 - vanir freiman
+prestação de serviços vanir freiman
+---
+r$ -480,00
+r$ 7.382,94
+11/01/23
+13683
+serviços internos
+000686 - welton mei
+prestação de serviços welton souza
+---
+r$ -1.815,00
+r$ 5.567,94
+11/01/23
+13684
+serviços internos
+001528 - william carlos
+augustinho david
+prestação de serviços william carlos
+augustinho david
+---
+r$ -666,67
+r$ 4.901,27
+11/01/23
+13685
+serviços internos
+000010 - sherlon mei
+prestação de serviços sherlon soares
+---
+r$ -2.835,00
+r$ 2.066,27
+11/01/23
+13686
+despesas com vendas
+001026 - target
+comunicacoes
+pedido de compra oc20220092 target -
+parcela 12 de 12 - nfse 557
+---
+r$ -1.710,00
+r$ 356,27
+13/01/23
+13707
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 7.386,03
+r$ 7.742,30
+13/01/23
+13709
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 4.000,00
+r$ 11.742,30
+13/01/23
+13719
+pro labore
+000077 - sérgio tangari
+pro labore st
+---
+r$ -4.000,00
+r$ 7.742,30
+13/01/23
+13720
+serviços internos
+000732 - wanderson
+schimith mei
+prestação de serviços wanderson
+schimith
+---
+r$ -2.065,00
+r$ 5.677,30
+13/01/23
+13721
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços paulinho moreira
+dias
+---
+r$ -1.800,00
+r$ 3.877,30
+13/01/23
+13722
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços alexandre
+(servente do paulinho moreira dias)
+---
+r$ -600,00
+r$ 3.277,30
+13/01/23
+13723
+internet
+000085 - gigalink
+bt anuidade gigalink 2023
+---
+r$ -2.890,73
+r$ 386,57
+13/01/23
+13724
+correios
+000789 - correios olaria
+(agf imperador)
+fat pedido de compra oc20230032
+correios - parcela 1 de 1 -
+administrativo
+---
+r$ -30,30
+r$ 356,27
+13/01/23
+13725
+pro labore
+000076 - rafael tangari
+pro labore rt
+---
+r$ -50,00
+r$ 306,27
+16/01/23
+13731
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 32.908,03
+r$ 33.214,30
+16/01/23
+13744
+passivo trabalhista enquip
+000675 - arthur luis
+tietz vieira
+rct 2022 arthur luis tietz vieira
+(parcela 2 de 4)
+---
+r$ -25.000,00
+r$ 8.214,30
+16/01/23
+13745
+passivo trabalhista enquip
+000698 - leandro
+estorck ex funcionário
+rct 2015 leandro estorck pinto
+(parcela 58 de 94)
+---
+r$ -1.047,61
+r$ 7.166,69
+16/01/23
+13746
+advocacia
+000029 - asc
+advogados
+honorários advocatícios asc
+advogados - nfse 3113
+---
+r$ -5.860,42
+r$ 1.306,27
+data
+código do
+lançamento
+classificação
+pessoa
+descrição do lançamento
+nf-e origem
+valor
+saldo
+16/01/23
+13747
+advocacia
+000029 - asc
+advogados
+honorários advocatícios asc
+advogados - parcelamento débito - 30
+parcelas (parcela 27 de 30)
+---
+r$ -1.000,00
+r$ 306,27
+17/01/23
+13750
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 13.700,00
+r$ 14.006,27
+17/01/23
+13752
+pro labore
+000077 - sérgio tangari
+pro labore st
+---
+r$ -6.000,00
+r$ 8.006,27
+17/01/23
+13753
+serviços internos
+000677 - vanir freiman
+prestação de serviços vanir freiman
+---
+r$ -480,00
+r$ 7.526,27
+17/01/23
+13754
+serviços internos
+000686 - welton mei
+prestação de serviços welton souza
+---
+r$ -2.789,50
+r$ 4.736,77
+17/01/23
+13755
+serviços internos
+000014 - gilson
+quintiliano da silva mei
+prestação de serviços gilson
+quintiliano
+---
+r$ -2.375,00
+r$ 2.361,77
+17/01/23
+13756
+serviços internos
+000909 - josinei sandre
+prestação de serviços josinei sandre
+---
+r$ -705,00
+r$ 1.656,77
+17/01/23
+13757
+serviços internos
+001025 - vinicius santos
+da silva mei
+prestação de serviços vinícius santos
+da silva
+---
+r$ -918,00
+r$ 738,77
+17/01/23
+13758
+serviços internos
+001489 - joao victor
+tome comba mei
+prestação de serviços joão victor
+---
+r$ -600,00
+r$ 138,77
+18/01/23
+13771
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 2.605,00
+r$ 2.743,77
+18/01/23
+13778
+passivo trabalhista enquip
+000704 - gilson
+quintiliano da silva (pf)
+rct 2016 gilson quintiliano da silva
+(custas judiciais)
+---
+r$ -1.100,00
+r$ 1.643,77
+18/01/23
+13779
+serviços internos
+000720 - sullivan klein
+mei
+prestação de serviços sullivan klein
+---
+r$ -1.335,00
+r$ 308,77
+18/01/23
+13780
+limpeza
+000334 - fornecedor em
+branco
+limpeza escritório - marinete (em
+17/01/2023)
+---
+r$ -170,00
+r$ 138,77
+19/01/23
+13784
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 20.791,49
+r$ 20.930,26
+19/01/23
+13786
+energia
+000056 - energisa
+bt energisa ref. janeiro/2023
+---
+r$ -15.371,30
+r$ 5.558,96
+19/01/23
+13787
+inss
+000084 - governo
+darf gps inss ref. dezembro/2022
+---
+r$ -375,72
+r$ 5.183,24
+19/01/23
+13788
+serviços internos
+001528 - william carlos
+augustinho david
+prestação de serviços william carlos
+augustinho david
+---
+r$ -931,25
+r$ 4.251,99
+19/01/23
+13789
+serviços internos
+000010 - sherlon mei
+prestação de serviços sherlon soares
+---
+r$ -3.737,50
+r$ 514,49
+20/01/23
+13798
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 3.517,93
+r$ 4.032,42
+20/01/23
+13807
+iss
+000664 - prefeitura
+municipal de nova
+friburgo
+dam iss retido ref. dez/2022
+---
+r$ -128,60
+r$ 3.903,82
+20/01/23
+13808
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços alexandre
+(servente do paulinho moreira dias)
+---
+r$ -600,00
+r$ 3.303,82
+data
+código do
+lançamento
+classificação
+pessoa
+descrição do lançamento
+nf-e origem
+valor
+saldo
+20/01/23
+13809
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços paulinho moreira
+dias
+---
+r$ -1.800,00
+r$ 1.503,82
+20/01/23
+13810
+telefonia fixa
+000811 - embratel
+bt fatura telefone fixo - embratel -
+ref. dezembro/2022
+---
+r$ -3,82
+r$ 1.500,00
+20/01/23
+13811
+serviços internos
+000732 - wanderson
+schimith mei
+prestação de serviços wanderson
+schimith
+---
+r$ -1.400,00
+r$ 100,00
+20/01/23
+13817
+tarifas
+000088 - caixa
+econômica
+tarifa transferência entre contas
+---
+r$ -36,40
+r$ 63,60
+20/01/23
+13818
+tarifas
+000088 - caixa
+econômica
+tarifas ted diversos pagamentos
+---
+r$ -35,60
+r$ 28,00
+23/01/23
+13824
+softwares de gestão
+000127 - ixml
+dev bt ixml - bsoft - mensalidade -
+ref. janeiro/2023
+---
+r$ -52,82
+r$ -24,82
+23/01/23
+13835
+tarifas
+000088 - caixa
+econômica
+tarifas ted diversos pagamentos
+---
+r$ -8,18
+r$ -33,00
+23/01/23
+13819
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 2.564,24
+r$ 2.531,24
+23/01/23
+13821
+passivo trabalhista enquip
+000447 - joilson da
+costa sá ex funcionáro
+rct 2018 joílson da costa sá (parcela
+59 de 105)
+---
+r$ -1.225,71
+r$ 1.305,53
+23/01/23
+13822
+passivo trabalhista enquip
+000441 - welton barros
+de souza ex funcionáro
+rct 2018 welton barroso de souza
+(parcela 59 de 130)
+---
+r$ -1.225,71
+r$ 79,82
+23/01/23
+13823
+serviços externos
+000669 - motoboy michel
+fat pedido de compra oc20230071
+michel motoboy - parcela 1 de 1 -
+administração
+---
+r$ -60,00
+r$ 19,82
+24/01/23
+13838
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 5.469,08
+r$ 5.488,90
+24/01/23
+13845
+serviços internos
+000909 - josinei sandre
+prestação de serviços josinei sandre
+---
+r$ -705,00
+r$ 4.783,90
+24/01/23
+13846
+serviços internos
+000014 - gilson
+quintiliano da silva mei
+prestação de serviços gilson
+quintiliano
+---
+r$ -1.555,00
+r$ 3.228,90
+24/01/23
+13847
+serviços internos
+000677 - vanir freiman
+prestação de serviços vanir freiman
+---
+r$ -480,00
+r$ 2.748,90
+24/01/23
+13848
+serviços internos
+001701 - william carlos
+mei
+prestação de serviços william carlos
+augustinho david
+---
+r$ -771,08
+r$ 1.977,82
+24/01/23
+13849
+serviços internos
+001025 - vinicius santos
+da silva mei
+prestação de serviços vinícius santos
+da silva
+---
+r$ -1.188,00
+r$ 789,82
+24/01/23
+13850
+serviços internos
+001489 - joao victor
+tome comba mei
+prestação de serviços joão victor
+---
+r$ -600,00
+r$ 189,82
+24/01/23
+13851
+limpeza
+000334 - fornecedor em
+branco
+limpeza escritório - marinete (em
+24/01/2023)
+---
+r$ -170,00
+r$ 19,82
+25/01/23
+13856
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 9.389,32
+r$ 9.409,14
+25/01/23
+13867
+pro labore
+000077 - sérgio tangari
+pro labore st
+---
+r$ -6.000,00
+r$ 3.409,14
+data
+código do
+lançamento
+classificação
+pessoa
+descrição do lançamento
+nf-e origem
+valor
+saldo
+25/01/23
+13868
+serviços internos
+000686 - welton mei
+prestação de serviços welton souza
+---
+r$ -1.680,00
+r$ 1.729,14
+25/01/23
+13869
+serviços internos
+000720 - sullivan klein
+mei
+prestação de serviços sullivan klein
+---
+r$ -1.145,00
+r$ 584,14
+25/01/23
+13870
+telefonia celular
+000871 - tim celulares
+bt fatura telefone móvel - tim - ref.
+janeiro/2023
+---
+r$ -564,32
+r$ 19,82
+26/01/23
+13873
+tarifas
+000088 - caixa
+econômica
+tarifa transferência entre contas
+---
+r$ -9,10
+r$ 10,72
+27/01/23
+13886
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 10.486,52
+r$ 10.497,24
+27/01/23
+13893
+passivo trabalhista enquip
+000656 - fernando
+moreira de andrade
+rct 2022 fernando moreira de
+andrade (parcela 5 de 72)
+---
+r$ -1.000,00
+r$ 9.497,24
+27/01/23
+13894
+fretes
+000017 - suíça brasileira
+(rodo clam)
+fat bt pedido de compra oc20230098
+rodo clam - parcela 1 de 1
+---
+r$ -96,40
+r$ 9.400,84
+27/01/23
+13895
+softwares de gestão
+000004 - nomus
+consultoria
+bt mensalidade nomus - nfse 31210
+---
+r$ -1.946,14
+r$ 7.454,70
+27/01/23
+13896
+beneficiamento
+000291 - temperaco rio
+fat pedido de compra oc20230022
+temperaço - parcela 1 de 1 - nfe
+74174
+74178/1
+(autorizada)
+r$ -2.733,98
+r$ 4.720,72
+27/01/23
+13897
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços paulinho moreira
+dias
+---
+r$ -1.630,00
+r$ 3.090,72
+27/01/23
+13898
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços alexandre
+(servente do paulinho moreira dias)
+---
+r$ -600,00
+r$ 2.490,72
+27/01/23
+13899
+serviços internos
+000010 - sherlon mei
+prestação de serviços sherlon soares
+---
+r$ -2.480,00
+r$ 10,72
+30/01/23
+13903
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 11.285,06
+r$ 11.295,78
+30/01/23
+13909
+passivo trabalhista enquip
+000662 - john enio eller
+verly
+rct 2017 john enio eller verly
+(parcela 68 de 80)
+---
+r$ -1.214,99
+r$ 10.080,79
+30/01/23
+13910
+passivo trabalhista enquip
+000075 - wanderson
+costa schimith
+rct 2017 wanderson costa schimith
+(parcela 69 de 151)
+---
+r$ -1.185,88
+r$ 8.894,91
+30/01/23
+13911
+plano de saúde
+000295 - unimed
+bt unimed rio ref. janeiro/2023 -
+nfse 34022614
+---
+r$ -6.086,98
+r$ 2.807,93
+30/01/23
+13912
+fretes
+000019 - expresso
+transmari
+fat bt pedido de compra oc20230102
+expresso transmari - parcela 1 de 1
+---
+r$ -2.069,61
+r$ 738,32
+30/01/23
+13913
+correios
+000789 - correios olaria
+(agf imperador)
+fat pedido de compra oc20230111
+correios - parcela 1 de 1 - sedex com
+ar (envio ctps arthur tietz)
+---
+r$ -62,60
+r$ 675,72
+31/01/23
+13916
+pro labore
+000076 - rafael tangari
+pro labore rt
+---
+r$ -90,00
+r$ 585,72
+31/01/23
+13925
+transferência
+000007 - enquip ltda.
+transf. para pagtos. pela conta
+transitória
+---
+r$ 27.515,40
+r$ 28.101,12
+data
+código do
+lançamento
+classificação
+pessoa
+descrição do lançamento
+nf-e origem
+valor
+saldo
+31/01/23
+13935
+passivo imposto
+000084 - governo
+parcelamento inss (parcela 17 de 48)
+---
+r$ -16.990,35
+r$ 11.110,77
+31/01/23
+13936
+passivo imposto
+000084 - governo
+darf parcelamento irrf pgfn
+(parcela 3 de 12)
+---
+r$ -2.424,84
+r$ 8.685,93
+31/01/23
+13937
+embalagens
+000218 - ana claudia
+campos aucar
+pinheiro - comac
+fat pedido de compra oc20230004
+comac - parcela 1 de 1 - estoque
+(embalagem) - nfe 957
+957/1
+(autorizada)
+r$ -1.020,00
+r$ 7.665,93
+31/01/23
+13938
+serviços internos
+001701 - william carlos
+mei
+prestação de serviços william carlos
+augustinho david
+---
+r$ -730,21
+r$ 6.935,72
+31/01/23
+13939
+serviços internos
+000677 - vanir freiman
+prestação de serviços vanir freiman
+---
+r$ -450,00
+r$ 6.485,72
+31/01/23
+13940
+serviços internos
+000014 - gilson
+quintiliano da silva mei
+prestação de serviços gilson
+quintiliano
+---
+r$ -2.410,00
+r$ 4.075,72
+31/01/23
+13941
+serviços internos
+000909 - josinei sandre
+prestação de serviços josinei sandre
+---
+r$ -705,00
+r$ 3.370,72
+31/01/23
+13942
+limpeza
+000334 - fornecedor em
+branco
+limpeza escritório - marinete (em
+31/01/2023)
+---
+r$ -170,00
+r$ 3.200,72
+31/01/23
+13943
+serviços internos
+001489 - joao victor
+tome comba mei
+prestação de serviços joão victor
+---
+r$ -500,00
+r$ 2.700,72
+31/01/23
+13944
+serviços internos
+000334 - fornecedor em
+branco
+prestação de serviços josé
+schumacker
+---
+r$ -1.920,00
+r$ 780,72
+31/01/23
+13945
+despesas com vendas
+001026 - target
+comunicacoes
+pedido de compra oc20221112 target -
+parcela 4 de 4 - arte novo folheto -
+nfse 593
+---
+r$ -665,00
+r$ 115,72

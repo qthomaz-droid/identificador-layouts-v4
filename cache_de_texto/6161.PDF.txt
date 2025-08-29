@@ -1,0 +1,1160 @@
+vm-financeiro
+hora 13:52
+relatório de documentos por banco (cp)
+página
+1
+data: 09/05/2025
+fornecedor: todos - data de vencimento de 01/04/2025 à 30/04/2025
+macmed comercio de material 
+moeda: real
+banco:001
+agência: 1240
+c/c: 105465
+banco do brasil
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+13 - iptu
+10216202
+08/04/2025
+0,00
+0,00
+2.267,22
+1
+2.267,22
+im
+/
+bo
+iptu predio macmed 
+boleto
+10/04/2025
+24/03/2025
+10216202
+08/04/2025
+0,00
+0,00
+834,84
+2
+834,84
+im
+/
+bo
+iptu taxa lixo pedro
+boleto
+10/04/2025
+24/03/2025
+totais:
+quantidade de documentos:
+3.102,06
+0,00
+3.102,06
+2
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:01.772.798/0006-67
+vencimento
+entrada
+25 - medtronic comercial ltda
+496214
+04/04/2025
+0,00
+0,00
+550,00
+1
+550,00
+1
+/
+bo boleto
+04/04/2025
+11/03/2025
+496155
+04/04/2025
+0,00
+0,00
+712,42
+1
+712,42
+1
+/
+bo boleto
+04/04/2025
+13/03/2025
+totais:
+quantidade de documentos:
+1.262,42
+0,00
+1.262,42
+2
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:21.996.505/0001-28
+vencimento
+entrada
+26 - jotec do brasil importacao e comercio de equipamen
+31839
+14/04/2025
+0,00
+0,00
+3.898,01
+5
+3.898,01
+1
+/
+bo boleto
+14/04/2025
+03/12/2024
+totais:
+quantidade de documentos:
+3.898,01
+0,00
+3.898,01
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:13.333.090/0001-84
+vencimento
+entrada
+35 - nipro medical corporation produtos medicos ltda.
+166464
+15/04/2025
+0,00
+0,00
+9.060,00
+1
+9.060,00
+1
+/
+bo boleto
+14/04/2025
+20/03/2025
+totais:
+quantidade de documentos:
+9.060,00
+0,00
+9.060,00
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:50.595.271/0001-05
+vencimento
+entrada
+42 - biotronik comercial medica ltda
+1120326
+10/04/2025
+0,00
+0,00
+3.179,10
+3
+3.179,10
+3
+/
+bo boleto
+10/04/2025
+27/01/2025
+1123952
+15/04/2025
+0,00
+0,00
+11.729,77
+2
+11.729,77
+3
+/
+bo boleto
+13/04/2025
+25/02/2025
+totais:
+quantidade de documentos:
+14.908,87
+0,00
+14.908,87
+2
+0,00
+vm-financeiro
+hora 13:52
+relatório de documentos por banco (cp)
+página
+2
+data: 09/05/2025
+fornecedor: todos - data de vencimento de 01/04/2025 à 30/04/2025
+macmed comercio de material 
+moeda: real
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:30.213.839/0001-79
+vencimento
+entrada
+51 - equipe start  refrigeracao ltda
+3483
+01/04/2025
+0,00
+0,00
+935,58
+1
+935,58
+im
+/
+dp
+manuntencao ar condicionador
+deposito
+01/04/2025
+01/04/2025
+3541
+01/04/2025
+0,00
+0,00
+935,58
+1
+935,58
+1
+/
+bo boleto
+01/04/2025
+31/03/2025
+totais:
+quantidade de documentos:
+1.871,16
+0,00
+1.871,16
+2
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:02.558.157/0001-62
+vencimento
+entrada
+52 - telefonica brasil s.a.
+194623217
+08/04/2025
+0,00
+0,00
+496,83
+1
+496,83
+im
+/
+bo
+conta internete
+boleto
+08/04/2025
+31/03/2025
+totais:
+quantidade de documentos:
+496,83
+0,00
+496,83
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:38.006.223/0001-39
+vencimento
+entrada
+56 - bessa & monteiro prestacao de servicos de circulac
+90056
+08/04/2025
+0,00
+0,00
+7.400,00
+2
+7.400,00
+im
+/
+dp
+perfusonista
+deposito
+05/04/2025
+01/04/2025
+totais:
+quantidade de documentos:
+7.400,00
+0,00
+7.400,00
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:34.338.174/0001-80
+vencimento
+entrada
+62 - caititu consultoria e biodiversidade ltda
+112
+07/04/2025
+0,00
+0,00
+1.500,00
+1
+1.500,00
+1
+/
+bo boleto
+07/04/2025
+07/04/2025
+totais:
+quantidade de documentos:
+1.500,00
+0,00
+1.500,00
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:07.827.989/0001-50
+vencimento
+entrada
+65 - maxi prev medicina ocupacional ltda
+23943
+07/04/2025
+0,00
+0,00
+173,00
+1
+173,00
+1
+/
+bo boleto
+05/04/2025
+31/03/2025
+totais:
+quantidade de documentos:
+173,00
+0,00
+173,00
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:08.179.496/0001-14
+vencimento
+entrada
+67 - sindicato das empresas de transporte metropolitano
+26148688
+07/04/2025
+0,00
+0,00
+372,40
+1
+372,40
+im
+/
+bo
+vale transporte
+boleto
+07/04/2025
+04/04/2025
+vm-financeiro
+hora 13:52
+relatório de documentos por banco (cp)
+página
+3
+data: 09/05/2025
+fornecedor: todos - data de vencimento de 01/04/2025 à 30/04/2025
+macmed comercio de material 
+moeda: real
+totais:
+quantidade de documentos:
+372,40
+0,00
+372,40
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:32.170.895/0001-07
+vencimento
+entrada
+68 - prado & aquino servicos hospitalares ltda
+458
+08/04/2025
+0,00
+0,00
+3.200,00
+1
+3.200,00
+1
+/
+bo boleto
+07/04/2025
+03/04/2025
+totais:
+quantidade de documentos:
+3.200,00
+0,00
+3.200,00
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:11.968.693/0001-27
+vencimento
+entrada
+73 - vaz fiel transportes ltda
+337039
+14/04/2025
+0,00
+0,00
+309,25
+1
+309,25
+1
+/
+bo boleto
+14/04/2025
+10/03/2025
+338110
+14/04/2025
+0,00
+0,00
+199,17
+1
+199,17
+1
+/
+bo boleto
+14/04/2025
+31/03/2025
+337886
+14/04/2025
+0,00
+0,00
+1.027,88
+1
+1.027,88
+1
+/
+bo boleto
+14/04/2025
+26/03/2025
+337128
+14/04/2025
+0,00
+0,00
+116,91
+1
+116,91
+1
+/
+bo boleto
+14/04/2025
+10/03/2025
+337069
+14/04/2025
+0,00
+0,00
+131,66
+1
+131,66
+1
+/
+bo boleto
+14/04/2025
+13/03/2025
+337607
+14/04/2025
+0,00
+0,00
+369,65
+1
+369,65
+1
+/
+bo boleto
+14/04/2025
+19/03/2025
+337645
+14/04/2025
+0,00
+0,00
+115,05
+1
+115,05
+1
+/
+bo boleto
+14/04/2025
+20/03/2025
+337703
+14/04/2025
+0,00
+0,00
+114,87
+1
+114,87
+1
+/
+bo boleto
+14/04/2025
+24/03/2025
+totais:
+quantidade de documentos:
+2.384,44
+0,00
+2.384,44
+8
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+74 - diarista macmed
+3042025
+03/04/2025
+0,00
+0,00
+600,00
+1
+600,00
+im
+/
+px
+diarista joelma
+pix
+03/04/2025
+03/04/2025
+totais:
+quantidade de documentos:
+600,00
+0,00
+600,00
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+89 - iss
+18289
+10/04/2025
+0,00
+0,00
+31,16
+4
+31,16
+im
+/
+bo
+imposto iss
+boleto
+10/04/2025
+10/04/2025
+totais:
+quantidade de documentos:
+31,16
+0,00
+31,16
+1
+0,00
+vm-financeiro
+hora 13:52
+relatório de documentos por banco (cp)
+página
+4
+data: 09/05/2025
+fornecedor: todos - data de vencimento de 01/04/2025 à 30/04/2025
+macmed comercio de material 
+moeda: real
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+90 - claro net apartamento pedro
+10042025
+10/04/2025
+0,00
+0,00
+203,58
+1
+203,58
+im
+/
+bo
+pedro internete
+boleto
+10/04/2025
+10/04/2025
+totais:
+quantidade de documentos:
+203,58
+0,00
+203,58
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+101 - tarifa bancaria
+13113165
+01/04/2025
+0,00
+0,00
+20,00
+9
+20,00
+im
+/
+db
+tarifa cxheque especial
+debito 
+01/04/2025
+01/04/2025
+13113258
+07/04/2025
+0,00
+0,00
+50,00
+2
+50,00
+im
+/
+db
+tarifa pix
+debito 
+07/04/2025
+07/04/2025
+25042025
+25/04/2025
+0,00
+0,00
+215,10
+1
+215,10
+im
+/
+db
+pacote serviço
+debito 
+25/04/2025
+25/04/2025
+13113500
+25/04/2025
+0,00
+0,00
+66,20
+3
+66,20
+im
+/
+db
+tarifa renovacao de cadastro 
+debito 
+25/04/2025
+25/04/2025
+totais:
+quantidade de documentos:
+351,30
+0,00
+351,30
+4
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+103 - encargos conta garantida cheque especial
+179
+30/04/2025
+0,00
+0,00
+4.159,49
+1
+4.159,49
+im
+/
+db
+encargos banco do brasil
+debito 
+30/04/2025
+30/04/2025
+totais:
+quantidade de documentos:
+4.159,49
+0,00
+4.159,49
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:02.971.975/0001-92
+vencimento
+entrada
+107 - alla prestacao de servicos ltda epp
+28032025
+08/04/2025
+0,00
+0,00
+34,75
+1
+34,75
+im
+/
+dp
+correios
+deposito
+08/04/2025
+04/04/2025
+1042025
+08/04/2025
+0,00
+0,00
+71,50
+1
+71,50
+im
+/
+dp
+correios
+deposito
+08/04/2025
+04/04/2025
+totais:
+quantidade de documentos:
+106,25
+0,00
+106,25
+2
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:02.643.552/0001-43
+vencimento
+entrada
+110 - central de alarmes ltda epp
+271109
+14/04/2025
+0,00
+0,00
+504,72
+1
+504,72
+1
+/
+bo boleto
+12/04/2025
+24/03/2025
+totais:
+quantidade de documentos:
+504,72
+0,00
+504,72
+1
+0,00
+vm-financeiro
+hora 13:52
+relatório de documentos por banco (cp)
+página
+5
+data: 09/05/2025
+fornecedor: todos - data de vencimento de 01/04/2025 à 30/04/2025
+macmed comercio de material 
+moeda: real
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:43.466.327/0001-66
+vencimento
+entrada
+117 - fragamauro consultoria e servicos medicos ltda
+159
+08/04/2025
+0,00
+0,00
+2.815,50
+1
+2.815,50
+1
+/
+bo boleto
+08/04/2025
+03/04/2025
+totais:
+quantidade de documentos:
+2.815,50
+0,00
+2.815,50
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+125 - banco do brasil consorcio
+11006
+10/04/2025
+0,00
+0,00
+1.109,56
+1
+1.109,56
+im
+/
+db
+consorcio banco brasil a 
+debito 
+10/04/2025
+10/04/2025
+totais:
+quantidade de documentos:
+1.109,56
+0,00
+1.109,56
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+146 - juros cheque especial
+13601118
+02/04/2025
+0,00
+0,00
+291,17
+1
+291,17
+im
+/
+db
+juros iof cheque especial
+debito 
+02/04/2025
+02/04/2025
+totais:
+quantidade de documentos:
+291,17
+0,00
+291,17
+1
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:52.404.025/0001-54
+vencimento
+entrada
+197 - jomed promocao e marketing ltda
+64
+02/04/2025
+0,00
+0,00
+1.250,00
+1
+1.250,00
+1
+/
+bo boleto
+02/04/2025
+02/04/2025
+63
+02/04/2025
+0,00
+0,00
+2.750,00
+1
+2.750,00
+1
+/
+bo boleto
+02/04/2025
+02/04/2025
+4042025
+10/04/2025
+0,00
+0,00
+4.062,00
+1
+4.062,00
+im
+/
+dp
+comissao paulo
+deposito
+10/04/2025
+04/04/2025
+totais:
+quantidade de documentos:
+8.062,00
+0,00
+8.062,00
+3
+0,00
+fornecedor:
+pagamento
+docto/des
+valor
+var(+)
+valor a pagar
+var(-)
+s
+referência
+observação
+cnpj:
+vencimento
+entrada
+212 - documento unico de arrecadacao -dua/detran
+140430253
+09/04/2025
+0,00
+0,00
+366,71
+1
+366,71
+im
+/
+bo
+honda cargo moto ipva
+boleto
+09/04/2025
+04/04/2025
+134811724
+09/04/2025
+0,00
+0,00
+1.892,97
+1
+1.892,97
+im
+/
+bo
+fiat strada ipva
+boleto
+09/04/2025
+04/04/2025
+135617629
+10/04/2025
+0,00
+0,00
+2.391,83
+2
+2.391,83
+im
+/
+bo
+corolla ipva
+boleto
+10/04/2025
+04/04/2025
+122763593
+07/04/2025
+0,00
+0,00
+1.905,69
+1
+1.905,69
+im
+/
+bo
+fork ka ipva
+boleto
+11/04/2025
+04/04/2025
+totais:
+quantidade de documentos:
+6.557,20
+0,00
+6.557,20
+4
+0,00

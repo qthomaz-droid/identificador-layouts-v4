@@ -1,0 +1,596 @@
+dirf (declaração do imposto de renda retido na fonte)
+prezado(a) cliente,
+o documento que você está recebendo é um informe para o preenchimento de sua dirf 
+(declaração do imposto de renda retido na fonte) anual.
+conforme o disposto no artigo 224, inciso iii e xvii, da instrução normativa nº 888, de 19 de 
+novembro de 2008, da receita federal do brasil (publicado no d.o.u. de 10.12.2008), os 
+rendimentos e o respectivo imposto de renda retido na fonte devem ser informados na dirf 
+da pessoa jurídica que tenha pago a outras pessoas jurídicas importâncias a título de 
+comissões e corretagens, relativas à administração de cartões de crédito em geral.
+é importante lembrar que a remuneração paga à rede e aos emissores está prevista no 
+“contrato de credenciamento e adesão de estabelecimento ao sistema rede” (cláusula 
+primeira, item 19).
+no demonstrativo anexo constam também as explicações de cada campo para o 
+preenchimento de sua declaração anual.
+em caso de dúvida, entre em contato com a nossa central de atendimento.
+atenciosamente,
+rede
+dirf anual - calendário 2023
+rendimento
+descrição do rendimento¹: 
+comissões e corretagens pagas a pessoa jurídica
+código de retenção²: 
+8045
+referência: 
+2023
+estabelecimento³
+n. estabelecimento: 
+85726214
+razão social: 
+tio naldo petiscaria ltda
+cnpj: 
+27.791.337/0001-10
+endereço:
+logradouro: 
+r casimiro de abreu 330
+cidade / estado: 
+linhares/es
+cep: 
+29.906-835
+lançamento
+rendimento
+rede (r$)
+ir retido
+na rede (r$)
+4
+rendimento
+emissores (r$)
+5
+rendimento total
+estabelecimento (r$)
+janeiro
+156,12
+2,34
+219,01
+375,13
+fevereiro
+213,75
+3,21
+302,77
+516,52
+março
+243,76
+3,66
+348,87
+592,63
+abril
+308,56
+4,63
+352,49
+661,05
+maio
+267,95
+4,02
+312,48
+580,43
+junho
+228,90
+3,43
+260,61
+489,51
+julho
+209,18
+3,14
+263,35
+472,53
+agosto
+189,52
+2,84
+243,49
+433,01
+setembro
+230,50
+3,46
+271,17
+501,67
+outubro
+443,96
+6,66
+560,84
+1.004,80
+novembro
+245,84
+3,69
+305,47
+551,31
+dezembro
+409,44
+6,14
+488,45
+897,89
+total
+3.147,48
+47,22
+3.929,00
+7.076,48
+totais por banco:
+banco do brasil s.a - 00.000.000/0001-91
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+3,63
+0,05
+fevereiro
+10,82
+0,16
+março
+15,62
+0,23
+abril
+34,10
+0,51
+maio
+13,38
+0,20
+junho
+8,28
+0,12
+julho
+13,94
+0,21
+agosto
+10,16
+0,15
+setembro
+15,27
+0,23
+outubro
+26,49
+0,40
+novembro
+17,74
+0,27
+dezembro
+31,41
+0,47
+total
+200,84
+3,00
+banco do brasil s.a. - 00.000.000/1797-36
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+0,17
+0,00
+fevereiro
+0,00
+0,00
+março
+0,00
+0,00
+abril
+0,00
+0,00
+maio
+1,12
+0,02
+junho
+0,65
+0,01
+julho
+0,38
+0,01
+agosto
+0,39
+0,01
+setembro
+3,41
+0,05
+outubro
+0,00
+0,00
+novembro
+0,00
+0,00
+dezembro
+0,00
+0,00
+total
+6,12
+0,10
+banco cooperativo do brasil sa - 02.038.232/0001-64
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+15,48
+0,23
+fevereiro
+22,26
+0,33
+março
+35,57
+0,53
+abril
+31,63
+0,47
+maio
+38,50
+0,58
+junho
+34,88
+0,52
+julho
+47,75
+0,72
+agosto
+28,68
+0,43
+setembro
+38,88
+0,58
+outubro
+84,60
+1,27
+novembro
+35,88
+0,54
+dezembro
+65,12
+0,98
+total
+479,23
+7,18
+banco ibi s.a - 04.184.779/0001-01
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+0,46
+0,01
+fevereiro
+1,15
+0,02
+março
+0,00
+0,00
+abril
+0,00
+0,00
+maio
+0,00
+0,00
+junho
+0,00
+0,00
+julho
+0,00
+0,00
+agosto
+0,00
+0,00
+setembro
+0,00
+0,00
+outubro
+1,82
+0,03
+novembro
+0,00
+0,00
+dezembro
+0,00
+0,00
+total
+3,43
+0,06
+itaucard financeira s.a. - 17.192.451/0001-70
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+19,15
+0,29
+fevereiro
+25,04
+0,38
+março
+21,66
+0,32
+abril
+31,84
+0,48
+maio
+28,85
+0,43
+junho
+23,34
+0,35
+julho
+20,91
+0,31
+agosto
+19,41
+0,29
+setembro
+31,53
+0,47
+outubro
+81,68
+1,23
+novembro
+18,29
+0,27
+dezembro
+35,93
+0,54
+total
+357,63
+5,36
+financeira itau cbd sa - 32.109.167/0001-81
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+0,42
+0,01
+fevereiro
+0,00
+0,00
+março
+0,00
+0,00
+abril
+6,33
+0,09
+maio
+0,80
+0,01
+junho
+1,21
+0,02
+julho
+0,00
+0,00
+agosto
+0,00
+0,00
+setembro
+1,28
+0,02
+outubro
+0,00
+0,00
+novembro
+0,00
+0,00
+dezembro
+0,00
+0,00
+total
+10,04
+0,15
+banco pan - 59.285.411/0001-13
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+0,00
+0,00
+fevereiro
+0,57
+0,01
+março
+1,41
+0,02
+abril
+1,56
+0,02
+maio
+0,00
+0,00
+junho
+0,21
+0,00
+julho
+0,95
+0,01
+agosto
+0,00
+0,00
+setembro
+0,00
+0,00
+outubro
+0,00
+0,00
+novembro
+0,00
+0,00
+dezembro
+0,00
+0,00
+total
+4,70
+0,06
+banco itau s.a. - 60.701.190/0001-04
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+13,52
+0,20
+fevereiro
+8,26
+0,12
+março
+5,26
+0,08
+abril
+11,90
+0,18
+maio
+7,21
+0,11
+junho
+8,91
+0,13
+julho
+2,20
+0,03
+agosto
+5,98
+0,09
+setembro
+3,38
+0,05
+outubro
+12,28
+0,18
+novembro
+6,13
+0,09
+dezembro
+13,84
+0,21
+total
+98,87
+1,47
+itau unibanco sa - 60.872.504/0001-23
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+0,00
+0,00
+fevereiro
+0,00
+0,00
+março
+0,00
+0,00
+abril
+0,00
+0,00
+maio
+0,00
+0,00
+junho
+0,00
+0,00
+julho
+0,00
+0,00
+agosto
+0,00
+0,00
+setembro
+0,00
+0,00
+outubro
+0,00
+0,00
+novembro
+0,00
+0,00
+dezembro
+1,91
+0,03
+total
+1,91
+0,03
+banco original s.a. - 92.894.922/0001-08
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+4,12
+0,06
+fevereiro
+3,01
+0,05
+março
+7,37
+0,11
+abril
+6,92
+0,10
+maio
+6,04
+0,09
+junho
+3,08
+0,05
+julho
+5,58
+0,08
+agosto
+2,75
+0,04
+setembro
+2,97
+0,04
+outubro
+5,56
+0,08
+novembro
+3,31
+0,05
+dezembro
+8,25
+0,12
+total
+58,96
+0,87
+outros emissores
+lançamento
+rendimento (r$)
+ir retido (r$)
+janeiro
+162,06
+2,43
+fevereiro
+231,66
+3,47
+março
+261,98
+3,93
+abril
+228,21
+3,42
+maio
+216,58
+3,25
+junho
+180,05
+2,70
+julho
+171,64
+2,57
+agosto
+176,12
+2,64
+setembro
+174,45
+2,62
+outubro
+348,41
+5,23
+novembro
+224,12
+3,36
+dezembro
+331,99
+4,98
+total
+2.707,27
+40,60
+referências:
+1. manual do imposto de renda retido na fonte (mafon).
+2. referente às comissões e corretagens pagas à pessoa jurídica.
+3. informações deste documento são referentes a todos os estabelecimentos que fazem parte 
+do cnpj.
+4. o ir retido corresponde a 1,5% do rendimento rede.
+5. somatória repassada a cada um dos emissores.

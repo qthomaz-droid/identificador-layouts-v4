@@ -1,0 +1,3601 @@
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+1
+folha
+saldo
+banco - conta investimento
+saldo anterior
+0,00
+compra
+0,00
+19.470,92
+compra cambio bol.2358981
+19.470,92
+03/01/2022
+pagamento
+19.470,92
+0,00
+pix 341 7854 16700-9
+0,00
+03/01/2022
+compra
+0,00
+50.938,76
+compra cambio bol.2359001
+50.938,76
+03/01/2022
+pagamento
+50.938,76
+0,00
+pix 341 7854 16700-9
+0,00
+03/01/2022
+compra
+0,00
+1.700,28
+compra cambio bol.2366485
+1.700,28
+04/01/2022
+pagamento
+1.700,28
+0,00
+ted 341 7854 16700-9
+0,00
+04/01/2022
+compra
+0,00
+279.412,42
+compra cambio bol.2366492
+279.412,42
+04/01/2022
+pagamento
+279.412,42
+0,00
+ted 341 7854 16700-9
+0,00
+04/01/2022
+compra
+0,00
+47.125,87
+compra cambio bol.2384405
+47.125,87
+10/01/2022
+pagamento
+47.125,87
+0,00
+ted 341 7854 16700-9
+0,00
+10/01/2022
+compra
+0,00
+274.832,13
+compra cambio bol.2385269
+274.832,13
+10/01/2022
+pagamento
+274.832,13
+0,00
+ted 341 7854 16700-9
+0,00
+10/01/2022
+depósito
+0,00
+238.173,95
+pix 03377237000184 emporio marmore i e ltda
+238.173,95
+11/01/2022
+venda
+78.180,49
+0,00
+venda cambio bol.2391482
+159.993,46
+11/01/2022
+depósito
+0,00
+366.148,62
+pix 03377237000184 emporio marmore i e ltda
+526.142,08
+12/01/2022
+venda
+159.993,47
+0,00
+venda cambio bol.2396883
+366.148,61
+12/01/2022
+juros
+15.343,57
+0,00
+juros - cessao de importacao-21000062
+350.805,04
+12/01/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+2
+folha
+saldo
+banco - conta investimento
+venda
+350.805,04
+0,00
+venda cambio bol.2397302
+0,00
+12/01/2022
+depósito
+0,00
+174.778,76
+pix 03377237000184 emporio marmore i e ltda
+174.778,76
+14/01/2022
+compra
+0,00
+19.414,07
+compra cambio bol.2405721
+194.192,83
+14/01/2022
+compra
+0,00
+39.237,62
+compra cambio bol.2406065
+233.430,45
+14/01/2022
+venda
+107.734,34
+0,00
+venda cambio bol.2406053
+125.696,11
+14/01/2022
+venda
+125.696,11
+0,00
+venda cambio bol.2405938
+0,00
+14/01/2022
+compra
+0,00
+76.218,51
+compra cambio bol.2409359
+76.218,51
+17/01/2022
+pagamento
+76.218,51
+0,00
+ted 341 7854 16700-9
+0,00
+17/01/2022
+compra
+0,00
+32.802,00
+compra cambio bol.2409374
+32.802,00
+17/01/2022
+pagamento
+32.802,00
+0,00
+ted 341 7854 16700-9
+0,00
+17/01/2022
+compra
+0,00
+57.517,16
+compra cambio bol.2415807
+57.517,16
+18/01/2022
+compra
+0,00
+25.672,87
+compra cambio bol.2415809
+83.190,03
+18/01/2022
+depósito
+0,00
+4.263,47
+pix 03377237000184 emporio marmore i e ltda
+87.453,50
+18/01/2022
+venda
+87.453,50
+0,00
+venda cambio bol.2416575
+0,00
+18/01/2022
+compra
+0,00
+166.175,50
+compra cambio bol.2430980
+166.175,50
+21/01/2022
+pagamento
+166.175,50
+0,00
+ted 341 7854 16700-9
+0,00
+21/01/2022
+compra
+0,00
+12.919,20
+compra cambio bol.2430998
+12.919,20
+21/01/2022
+pagamento
+12.919,20
+0,00
+ted 341 7854 16700-9
+0,00
+21/01/2022
+compra
+0,00
+31.246,21
+compra cambio bol.2435320
+31.246,21
+24/01/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+3
+folha
+saldo
+banco - conta investimento
+pagamento
+31.246,21
+0,00
+ted 341 7854 16700-9
+0,00
+24/01/2022
+compra
+0,00
+36.199,48
+compra cambio bol.2435331
+36.199,48
+24/01/2022
+pagamento
+36.199,48
+0,00
+ted 341 7854 16700-9
+0,00
+24/01/2022
+compra
+0,00
+72.254,52
+compra cambio bol.2435318
+72.254,52
+24/01/2022
+pagamento
+72.254,52
+0,00
+ted 341 7854 16700-9
+0,00
+24/01/2022
+compra
+0,00
+13.345,28
+compra cambio bol.2441817
+13.345,28
+25/01/2022
+pagamento
+13.345,28
+0,00
+ted 341 7854 16700-9
+0,00
+25/01/2022
+compra
+0,00
+10.293,82
+compra cambio bol.2441825
+10.293,82
+25/01/2022
+pagamento
+9.844,86
+0,00
+ted 341 7854 16700-9
+448,96
+25/01/2022
+venda
+448,96
+0,00
+venda cambio bol.2441997
+0,00
+25/01/2022
+depósito
+0,00
+646.183,90
+pix 03377237000184 emporio marmore i e ltda
+646.183,90
+26/01/2022
+venda
+123.367,10
+0,00
+venda cambio bol.2444916
+522.816,80
+26/01/2022
+venda
+85.465,36
+0,00
+venda cambio bol.2445788
+437.351,44
+26/01/2022
+venda
+186.761,17
+0,00
+venda cambio bol.2445836
+250.590,27
+26/01/2022
+venda
+154.502,94
+0,00
+venda cambio bol.2445837
+96.087,33
+26/01/2022
+venda
+96.087,33
+0,00
+venda cambio bol.2445839
+0,00
+26/01/2022
+compra
+0,00
+133.925,00
+compra cambio bol.2458701
+133.925,00
+28/01/2022
+pagamento
+133.925,00
+0,00
+ted 341 7854 16700-9
+0,00
+28/01/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+4
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+65.091,12
+compra cambio bol.2458764
+65.091,12
+28/01/2022
+pagamento
+65.091,12
+0,00
+ted 341 7854 16700-9
+0,00
+28/01/2022
+compra
+0,00
+41.671,52
+compra cambio bol.2458785
+41.671,52
+28/01/2022
+pagamento
+41.671,52
+0,00
+ted 341 7854 16700-9
+0,00
+28/01/2022
+compra
+0,00
+96.074,61
+compra cambio bol.2458795
+96.074,61
+28/01/2022
+pagamento
+96.074,61
+0,00
+ted 341 7854 16700-9
+0,00
+28/01/2022
+compra
+0,00
+43.524,18
+compra cambio bol.2465036
+43.524,18
+31/01/2022
+pagamento
+43.524,18
+0,00
+pix 341 7854 16700-9
+0,00
+31/01/2022
+depósito
+0,00
+486.339,59
+pix 03377237000184 emporio marmore i e ltda
+486.339,59
+02/02/2022
+venda
+192.432,28
+0,00
+venda cambio bol.2481583
+293.907,31
+02/02/2022
+venda
+32.211,48
+0,00
+venda cambio bol.2481591
+261.695,83
+02/02/2022
+venda
+150.449,66
+0,00
+venda cambio bol.2481607
+111.246,17
+02/02/2022
+venda
+111.246,17
+0,00
+venda cambio bol.2481688
+0,00
+02/02/2022
+compra
+0,00
+90.780,26
+compra cambio bol.2485864
+90.780,26
+03/02/2022
+depósito
+0,00
+29.308,81
+pix 03377237000184 emporio marmore i e ltda
+120.089,07
+03/02/2022
+venda
+120.089,07
+0,00
+venda cambio bol.2486199
+0,00
+03/02/2022
+depósito
+0,00
+7.738,65
+pix 03377237000184 emporio marmore i e ltda
+7.738,65
+04/02/2022
+compra
+0,00
+24.724,81
+compra cambio bol.2490934
+32.463,46
+04/02/2022
+compra
+0,00
+59.396,86
+compra cambio bol.2490935
+91.860,32
+04/02/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+5
+folha
+saldo
+banco - conta investimento
+venda
+91.860,32
+0,00
+venda cambio bol.2490019
+0,00
+04/02/2022
+compra
+0,00
+68.173,99
+compra cambio bol.2496069
+68.173,99
+07/02/2022
+pagamento
+68.173,99
+0,00
+ted 341 7854 16700-9
+0,00
+07/02/2022
+compra
+0,00
+71.465,11
+compra cambio bol.2496071
+71.465,11
+07/02/2022
+pagamento
+71.465,11
+0,00
+ted 341 7854 16700-9
+0,00
+07/02/2022
+compra
+0,00
+88.473,93
+compra cambio bol.2496317
+88.473,93
+07/02/2022
+pagamento
+88.473,93
+0,00
+ted 341 7854 16700-9
+0,00
+07/02/2022
+compra
+0,00
+51.831,29
+compra cambio bol.2504716
+51.831,29
+08/02/2022
+pagamento
+51.831,29
+0,00
+ted 341 7854 16700-9
+0,00
+08/02/2022
+depósito
+0,00
+11.676,00
+pix 03377237000184 emporio marmore i e ltda
+11.676,00
+09/02/2022
+compra
+0,00
+37.178,47
+compra cambio bol.2510544
+48.854,47
+09/02/2022
+compra
+0,00
+133.158,36
+compra cambio bol.2511009
+182.012,83
+09/02/2022
+venda
+92.127,48
+0,00
+venda cambio bol.2510928
+89.885,35
+09/02/2022
+venda
+89.885,35
+0,00
+venda cambio bol.2510931
+0,00
+09/02/2022
+compra
+0,00
+54.316,73
+compra cambio bol.2538763
+54.316,73
+15/02/2022
+compra
+0,00
+83.486,32
+compra cambio bol.2538765
+137.803,05
+15/02/2022
+compra
+0,00
+61.944,00
+compra cambio bol.2538766
+199.747,05
+15/02/2022
+compra
+0,00
+61.956,34
+compra cambio bol.2538768
+261.703,39
+15/02/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+6
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+12.905,00
+compra cambio bol.2538777
+274.608,39
+15/02/2022
+compra
+0,00
+75.987,22
+compra cambio bol.2538783
+350.595,61
+15/02/2022
+pagamento
+278.098,88
+0,00
+ted 341 7854 16700-9 emporio do marmore
+72.496,73
+15/02/2022
+venda
+72.496,73
+0,00
+venda cambio bol.2539714
+0,00
+15/02/2022
+compra
+0,00
+23.865,73
+compra cambio bol.2544821
+23.865,73
+16/02/2022
+pagamento
+23.865,73
+0,00
+ted 341 7854 16700-9
+0,00
+16/02/2022
+compra
+0,00
+41.582,74
+compra cambio bol.2545127
+41.582,74
+16/02/2022
+pagamento
+41.582,74
+0,00
+ted 341 7854 16700-9
+0,00
+16/02/2022
+compra
+0,00
+56.334,68
+compra cambio bol.2545296
+56.334,68
+16/02/2022
+pagamento
+56.334,68
+0,00
+ted 341 7854 16700-9
+0,00
+16/02/2022
+depósito
+0,00
+204.174,85
+pix 03377237000184 emporio marmore i e ltda
+204.174,85
+18/02/2022
+juros
+12.508,38
+0,00
+juros - cessao de importacao-21000069
+191.666,47
+18/02/2022
+venda
+191.642,21
+0,00
+venda cambio bol.2557589
+24,26
+18/02/2022
+compra
+0,00
+158.109,70
+compra cambio bol.2564760
+158.133,96
+21/02/2022
+pagamento
+158.109,70
+0,00
+ted 341 7854 16700-9
+24,26
+21/02/2022
+compra
+0,00
+1.771,18
+compra cambio bol.2564943
+1.795,44
+21/02/2022
+pagamento
+1.771,18
+0,00
+ted 341 7854 16700-9
+24,26
+21/02/2022
+depósito
+0,00
+116.690,42
+pix 03377237000184 emporio marmore i e ltda
+116.714,68
+22/02/2022
+compra
+0,00
+35.729,45
+compra cambio bol.2574209
+152.444,13
+22/02/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+7
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+25.092,15
+compra cambio bol.2574213
+177.536,28
+22/02/2022
+compra
+0,00
+50.095,67
+compra cambio bol.2574220
+227.631,95
+22/02/2022
+depósito
+0,00
+139.900,00
+pix 03377237000184 emporio marmore i e ltda
+367.531,95
+23/02/2022
+venda
+367.419,87
+0,00
+venda cambio bol.2574156
+112,08
+23/02/2022
+compra
+0,00
+22.455,74
+compra cambio bol.2576085
+22.567,82
+23/02/2022
+juros
+14.597,28
+0,00
+juros - cessao de importacao-21000073
+7.970,54
+23/02/2022
+juros
+7.970,54
+0,00
+juros mora/multa cessao import.21000073
+0,00
+23/02/2022
+compra
+0,00
+34.790,00
+compra cambio bol.2580245
+34.790,00
+23/02/2022
+compra
+0,00
+57.155,00
+compra cambio bol.2580289
+91.945,00
+23/02/2022
+depósito
+0,00
+419.987,50
+pix 03377237000184 emporio marmore i e ltda
+511.932,50
+23/02/2022
+venda
+101.150,00
+0,00
+venda cambio bol.2581441
+410.782,50
+23/02/2022
+venda
+74.232,87
+0,00
+venda cambio bol.2581491
+336.549,63
+23/02/2022
+venda
+54.020,88
+0,00
+venda cambio bol.2581498
+282.528,75
+23/02/2022
+venda
+282.528,75
+0,00
+venda cambio bol.2588235
+0,00
+24/02/2022
+compra
+0,00
+21.787,46
+compra cambio bol.2589512
+21.787,46
+24/02/2022
+compra
+0,00
+72.298,00
+compra cambio bol.2589594
+94.085,46
+24/02/2022
+pagamento
+14.051,68
+0,00
+pix 341 7854 16700-9
+80.033,78
+24/02/2022
+venda
+80.033,78
+0,00
+venda cambio bol.2590424
+0,00
+24/02/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+8
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+50.920,85
+compra cambio bol.2596219
+50.920,85
+25/02/2022
+pagamento
+50.920,85
+0,00
+ted 341 7854 16700-9
+0,00
+25/02/2022
+compra
+0,00
+86.881,19
+compra cambio bol.2606362
+86.881,19
+02/03/2022
+pagamento
+86.881,19
+0,00
+ted 341 7854 16700-9
+0,00
+02/03/2022
+compra
+0,00
+25.832,47
+compra cambio bol.2613566
+25.832,47
+03/03/2022
+pagamento
+25.832,47
+0,00
+pix 756 3260 8141-8
+0,00
+03/03/2022
+compra
+0,00
+61.977,36
+compra cambio bol.2613621
+61.977,36
+03/03/2022
+pagamento
+61.977,36
+0,00
+pix 756 3260 8141-8
+0,00
+03/03/2022
+compra
+0,00
+28.485,58
+compra cambio bol.2614818
+28.485,58
+03/03/2022
+pagamento
+28.485,58
+0,00
+pix 756 3260 8141-8
+0,00
+03/03/2022
+compra
+0,00
+75.150,30
+compra cambio bol.2621933
+75.150,30
+04/03/2022
+pagamento
+75.150,30
+0,00
+pix 341 7854 16700-9
+0,00
+04/03/2022
+compra
+0,00
+25.246,00
+compra cambio bol.2629727
+25.246,00
+07/03/2022
+pagamento
+25.246,00
+0,00
+ted 341 7854 16700-9
+0,00
+07/03/2022
+compra
+0,00
+51.409,54
+compra cambio bol.2630939
+51.409,54
+07/03/2022
+pagamento
+51.409,54
+0,00
+ted 341 7854 16700-9
+0,00
+07/03/2022
+compra
+0,00
+14.413,34
+compra cambio bol.2636838
+14.413,34
+08/03/2022
+pagamento
+14.413,34
+0,00
+ted 341 7854 16700-9
+0,00
+08/03/2022
+depósito
+0,00
+268.283,31
+pix 03377237000184 emporio marmore i e ltda
+268.283,31
+11/03/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+9
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+141.662,43
+compra cambio bol.2666964
+409.945,74
+11/03/2022
+compra
+0,00
+45.269,33
+compra cambio bol.2666969
+455.215,07
+11/03/2022
+venda
+169.107,05
+0,00
+venda cambio bol.2667314
+286.108,02
+11/03/2022
+venda
+145.246,12
+0,00
+venda cambio bol.2667338
+140.861,90
+11/03/2022
+venda
+140.861,90
+0,00
+venda cambio bol.2667458
+0,00
+11/03/2022
+compra
+0,00
+16.108,10
+compra cambio bol.2673796
+16.108,10
+14/03/2022
+pagamento
+16.108,10
+0,00
+ted 341 7854 16700-9
+0,00
+14/03/2022
+compra
+0,00
+81.585,02
+compra cambio bol.2680033
+81.585,02
+15/03/2022
+venda
+40.953,30
+0,00
+venda cambio bol.2679670
+40.631,72
+15/03/2022
+compra
+0,00
+20.546,80
+compra cambio bol.2680085
+61.178,52
+16/03/2022
+pagamento
+20.546,80
+0,00
+ted 341 7854 16700-9
+40.631,72
+16/03/2022
+pagamento
+40.631,72
+0,00
+ted 756 3260 8141-8
+0,00
+16/03/2022
+compra
+0,00
+59.831,74
+compra cambio bol.2691745
+59.831,74
+17/03/2022
+compra
+0,00
+64.586,39
+compra cambio bol.2691919
+124.418,13
+17/03/2022
+compra
+0,00
+13.739,70
+compra cambio bol.2691959
+138.157,83
+17/03/2022
+compra
+0,00
+24.477,78
+compra cambio bol.2691990
+162.635,61
+17/03/2022
+compra
+0,00
+27.316,07
+compra cambio bol.2692017
+189.951,68
+17/03/2022
+venda
+114.164,88
+0,00
+venda cambio bol.2692708
+75.786,80
+17/03/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+10
+folha
+saldo
+banco - conta investimento
+pagamento
+75.786,80
+0,00
+ted 341 7854 16700-9
+0,00
+17/03/2022
+compra
+0,00
+17.896,13
+compra cambio bol.2698810
+17.896,13
+18/03/2022
+compra
+0,00
+22.914,85
+compra cambio bol.2699033
+40.810,98
+18/03/2022
+compra
+0,00
+99.965,06
+compra cambio bol.2699044
+140.776,04
+18/03/2022
+venda
+97.314,67
+0,00
+venda cambio bol.2699013
+43.461,37
+18/03/2022
+pagamento
+43.461,37
+0,00
+ted 756 3260 8141-8
+0,00
+21/03/2022
+compra
+0,00
+51.528,94
+compra cambio bol.2712898
+51.528,94
+21/03/2022
+pagamento
+51.528,94
+0,00
+ted 341 7854 16700-9
+0,00
+21/03/2022
+compra
+0,00
+45.435,75
+compra cambio bol.2712929
+45.435,75
+21/03/2022
+pagamento
+45.435,75
+0,00
+ted 341 7854 16700-9
+0,00
+21/03/2022
+compra
+0,00
+66.533,31
+compra cambio bol.2713095
+66.533,31
+21/03/2022
+pagamento
+66.533,31
+0,00
+ted 341 7854 16700-9
+0,00
+21/03/2022
+compra
+0,00
+83.426,41
+compra cambio bol.2724255
+83.426,41
+22/03/2022
+pagamento
+83.426,41
+0,00
+ted 341 7854 16700-9
+0,00
+22/03/2022
+compra
+0,00
+74.764,25
+compra cambio bol.2736850
+74.764,25
+23/03/2022
+pagamento
+38.979,82
+0,00
+ted 341 7854 16700-9
+35.784,43
+23/03/2022
+venda
+35.784,43
+0,00
+venda cambio bol.2739955
+0,00
+23/03/2022
+compra
+0,00
+23.615,51
+compra cambio bol.2816558
+23.615,51
+28/03/2022
+compra
+0,00
+89.838,11
+compra cambio bol.2817235
+113.453,62
+28/03/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+11
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+16.619,75
+compra cambio bol.2817321
+130.073,37
+28/03/2022
+compra
+0,00
+14.366,83
+compra cambio bol.2817920
+144.440,20
+28/03/2022
+depósito
+0,00
+71.888,23
+pix 03377237000184 emporio marmore i e ltda
+216.328,43
+28/03/2022
+compra
+0,00
+3.055,80
+compra cambio bol.2820827
+219.384,23
+28/03/2022
+compra
+0,00
+55.184,34
+compra cambio bol.2823003
+274.568,57
+28/03/2022
+juros
+6.952,62
+0,00
+juros - cessao de importacao-21000089
+267.615,95
+28/03/2022
+venda
+168.419,64
+0,00
+venda cambio bol.2823298
+99.196,31
+28/03/2022
+venda
+48.201,32
+0,00
+venda cambio bol.2824033
+50.994,99
+28/03/2022
+venda
+50.953,14
+0,00
+venda cambio bol.2824162
+41,85
+28/03/2022
+depósito
+0,00
+135.256,57
+ted 03.377.237/0001-84 emporio marmore i e ltda
+135.298,42
+29/03/2022
+compra
+0,00
+19.116,90
+compra cambio bol.2840832
+154.415,32
+29/03/2022
+compra
+0,00
+69.373,41
+compra cambio bol.2840833
+223.788,73
+29/03/2022
+compra
+0,00
+44.236,94
+compra cambio bol.2840835
+268.025,67
+29/03/2022
+depósito
+0,00
+9.935,75
+pix 03377237000184 emporio marmore i e ltda
+277.961,42
+29/03/2022
+venda
+102.270,03
+0,00
+venda cambio bol.2842661
+175.691,39
+29/03/2022
+venda
+29.059,75
+0,00
+venda cambio bol.2842685
+146.631,64
+29/03/2022
+venda
+136.695,89
+0,00
+venda cambio bol.2842700
+9.935,75
+29/03/2022
+depósito
+0,00
+9.935,75
+ted 03.377.237/0001-84 emporio marmore i e ltda
+19.871,50
+30/03/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+12
+folha
+saldo
+banco - conta investimento
+venda
+9.973,51
+0,00
+venda cambio bol.2843121
+9.897,99
+30/03/2022
+depósito
+0,00
+22.250,19
+ted 03.377.237/0001-84 emporio marmore i e ltda
+32.148,18
+31/03/2022
+compra
+0,00
+7.553,80
+compra cambio bol.2855709
+39.701,98
+31/03/2022
+compra
+0,00
+93.647,79
+compra cambio bol.2855737
+133.349,77
+31/03/2022
+venda
+69.892,82
+0,00
+venda cambio bol.2857497
+63.456,95
+31/03/2022
+pagamento
+22.419,96
+0,00
+ted 341 7854 16700-9
+41.036,99
+01/04/2022
+compra
+0,00
+13.699,73
+compra cambio bol.2868964
+54.736,72
+01/04/2022
+compra
+0,00
+9.434,01
+compra cambio bol.2868968
+64.170,73
+01/04/2022
+venda
+63.833,37
+0,00
+venda cambio bol.2857495
+337,36
+01/04/2022
+débito cliente
+13.699,73
+0,00
+estorno op. camb. b2868964 de 01/04/2022
+-13.362,37
+05/04/2022
+crédito cliente
+0,00
+13.362,38
+regul op. camb. b2868964 de 01/04/2022
+0,01
+05/04/2022
+depósito
+0,00
+178.998,94
+ted 03.377.237/0001-84 emporio marmore i e ltda
+178.998,95
+06/04/2022
+compra
+0,00
+37.368,80
+compra cambio bol.2907046
+216.367,75
+06/04/2022
+compra
+0,00
+33.030,43
+compra cambio bol.2907070
+249.398,18
+06/04/2022
+compra
+0,00
+22.272,88
+compra cambio bol.2907072
+271.671,06
+06/04/2022
+compra
+0,00
+1.082,62
+compra cambio bol.2907074
+272.753,68
+06/04/2022
+compra
+0,00
+21.112,31
+compra cambio bol.2907233
+293.865,99
+06/04/2022
+venda
+108.824,20
+0,00
+venda cambio bol.2907992
+185.041,79
+06/04/2022
+venda
+184.996,12
+0,00
+venda cambio bol.2907993
+45,67
+06/04/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+13
+folha
+saldo
+banco - conta investimento
+depósito
+0,00
+40.037,79
+ted 03.377.237/0001-84 emporio marmore i e ltda
+40.083,46
+07/04/2022
+compra
+0,00
+45.178,04
+compra cambio bol.2914025
+85.261,50
+07/04/2022
+compra
+0,00
+21.794,21
+compra cambio bol.2914026
+107.055,71
+07/04/2022
+venda
+107.055,71
+0,00
+venda cambio bol.2915514
+0,00
+07/04/2022
+compra
+0,00
+46.649,91
+compra cambio bol.2934668
+46.649,91
+11/04/2022
+pagamento
+46.649,91
+0,00
+ted 341 7854 16700-9
+0,00
+11/04/2022
+compra
+0,00
+39.050,20
+compra cambio bol.2934669
+39.050,20
+11/04/2022
+pagamento
+39.050,20
+0,00
+ted 341 7854 16700-9
+0,00
+11/04/2022
+compra
+0,00
+17.855,55
+compra cambio bol.2934672
+17.855,55
+11/04/2022
+pagamento
+17.855,55
+0,00
+ted 341 7854 16700-9
+0,00
+11/04/2022
+compra
+0,00
+32.504,74
+compra cambio bol.2934863
+32.504,74
+11/04/2022
+pagamento
+32.504,74
+0,00
+ted 341 7854 16700-9
+0,00
+11/04/2022
+compra
+0,00
+47.430,00
+compra cambio bol.2943439
+47.430,00
+12/04/2022
+pagamento
+47.430,00
+0,00
+ted 341 7854 16700-9
+0,00
+12/04/2022
+compra
+0,00
+33.667,07
+compra cambio bol.2943443
+33.667,07
+12/04/2022
+pagamento
+33.667,07
+0,00
+ted 341 7854 16700-9
+0,00
+12/04/2022
+compra
+0,00
+46.524,09
+compra cambio bol.2951668
+46.524,09
+13/04/2022
+compra
+0,00
+68.988,60
+compra cambio bol.2951675
+115.512,69
+13/04/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+14
+folha
+saldo
+banco - conta investimento
+pagamento
+61.290,01
+0,00
+ted 341 7854 16700-9
+54.222,68
+13/04/2022
+venda
+54.222,68
+0,00
+venda cambio bol.2953233
+0,00
+13/04/2022
+depósito
+0,00
+51.459,41
+ted 03.377.237/0001-84 emporio marmore i e ltda
+51.459,41
+14/04/2022
+depósito
+0,00
+158.813,30
+ted 03.377.237/0001-84 emporio marmore i e ltda
+210.272,71
+18/04/2022
+juros
+6.425,23
+0,00
+juros - cessao de importacao-21000101
+203.847,48
+18/04/2022
+débito
+382,45
+0,00
+comissao cessao de importacao-21000101
+203.465,03
+18/04/2022
+venda
+51.459,41
+0,00
+venda cambio bol.2970590
+152.005,62
+18/04/2022
+venda
+152.005,61
+0,00
+venda cambio bol.2972083
+0,01
+18/04/2022
+compra
+0,00
+42.606,77
+compra cambio bol.2996555
+42.606,78
+22/04/2022
+pagamento
+42.606,77
+0,00
+ted 341 7854 16700-9
+0,01
+22/04/2022
+compra
+0,00
+184.626,80
+compra cambio bol.3004998
+184.626,81
+25/04/2022
+pagamento
+184.626,80
+0,00
+ted 341 7854 16700-9
+0,01
+25/04/2022
+compra
+0,00
+13.118,22
+compra cambio bol.3004828
+13.118,23
+25/04/2022
+pagamento
+13.118,22
+0,00
+ted 341 7854 16700-9
+0,01
+25/04/2022
+compra
+0,00
+48.456,07
+compra cambio bol.3004969
+48.456,08
+25/04/2022
+pagamento
+48.456,07
+0,00
+ted 341 7854 16700-9
+0,01
+25/04/2022
+compra
+0,00
+95.969,46
+compra cambio bol.3010980
+95.969,47
+26/04/2022
+pagamento
+95.969,46
+0,00
+ted 341 7854 16700-9
+0,01
+26/04/2022
+compra
+0,00
+15.658,40
+compra cambio bol.3010983
+15.658,41
+26/04/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+15
+folha
+saldo
+banco - conta investimento
+pagamento
+15.658,40
+0,00
+ted 341 7854 16700-9
+0,01
+26/04/2022
+compra
+0,00
+39.420,20
+compra cambio bol.3027128
+39.420,21
+29/04/2022
+compra
+0,00
+17.577,61
+compra cambio bol.3027171
+56.997,82
+29/04/2022
+compra
+0,00
+53.904,68
+compra cambio bol.3027368
+110.902,50
+29/04/2022
+pagamento
+32.069,72
+0,00
+pix 341 7854 16700-9
+78.832,78
+29/04/2022
+venda
+35.765,43
+0,00
+venda cambio bol.3027855
+43.067,35
+29/04/2022
+venda
+43.064,51
+0,00
+venda cambio bol.3031915
+2,84
+02/05/2022
+depósito
+0,00
+517.684,30
+ted 03.377.237/0001-84 emporio marmore i e ltda
+517.687,14
+02/05/2022
+compra
+0,00
+18.958,85
+compra cambio bol.3034765
+536.645,99
+02/05/2022
+compra
+0,00
+63.946,53
+compra cambio bol.3034775
+600.592,52
+02/05/2022
+compra
+0,00
+53.864,74
+compra cambio bol.3034779
+654.457,26
+02/05/2022
+juros
+13.055,19
+0,00
+juros - cessao de importacao-21000107
+641.402,07
+02/05/2022
+juros
+10.703,81
+0,00
+juros - cessao de importacao-21000107
+630.698,26
+02/05/2022
+débito
+1.513,31
+0,00
+comissao cessao de importacao-21000107
+629.184,95
+02/05/2022
+venda
+629.184,92
+0,00
+venda cambio bol.3036169
+0,03
+02/05/2022
+compra
+0,00
+82.359,56
+compra cambio bol.3040721
+82.359,59
+03/05/2022
+pagamento
+82.359,56
+0,00
+ted 341 7854 16700-9
+0,03
+03/05/2022
+depósito
+0,00
+723.592,12
+pix 03377237000184 emporio marmore i e ltda
+723.592,15
+04/05/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+16
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+19.989,42
+compra cambio bol.3052795
+743.581,57
+04/05/2022
+venda
+120.953,80
+0,00
+venda cambio bol.3053300
+622.627,77
+04/05/2022
+venda
+92.934,14
+0,00
+venda cambio bol.3053301
+529.693,63
+04/05/2022
+venda
+150.767,14
+0,00
+venda cambio bol.3053302
+378.926,49
+04/05/2022
+venda
+41.634,52
+0,00
+venda cambio bol.3053329
+337.291,97
+04/05/2022
+venda
+58.294,39
+0,00
+venda cambio bol.3053353
+278.997,58
+04/05/2022
+venda
+209.036,83
+0,00
+venda cambio bol.3053456
+69.960,75
+04/05/2022
+venda
+69.960,71
+0,00
+venda cambio bol.3053537
+0,04
+04/05/2022
+compra
+0,00
+170.224,52
+compra cambio bol.3062329
+170.224,56
+06/05/2022
+pagamento
+170.224,52
+0,00
+ted 341 7854 16700-9
+0,04
+06/05/2022
+compra
+0,00
+63.398,74
+compra cambio bol.3071988
+63.398,78
+09/05/2022
+pagamento
+63.398,74
+0,00
+ted 341 7854 16700-9
+0,04
+09/05/2022
+compra
+0,00
+36.405,30
+compra cambio bol.3072903
+36.405,34
+09/05/2022
+pagamento
+36.405,30
+0,00
+ted 341 7854 16700-9
+0,04
+09/05/2022
+compra
+0,00
+76.475,91
+compra cambio bol.3074749
+76.475,95
+09/05/2022
+pagamento
+76.475,91
+0,00
+ted 341 7854 16700-9
+0,04
+09/05/2022
+compra
+0,00
+32.024,41
+compra cambio bol.3082930
+32.024,45
+10/05/2022
+pagamento
+32.024,41
+0,00
+pix 341 7854 16700-9
+0,04
+10/05/2022
+compra
+0,00
+53.335,04
+compra cambio bol.3082934
+53.335,08
+10/05/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+17
+folha
+saldo
+banco - conta investimento
+pagamento
+53.335,04
+0,00
+pix 341 7854 16700-9
+0,04
+10/05/2022
+compra
+0,00
+36.168,45
+compra cambio bol.3082935
+36.168,49
+10/05/2022
+pagamento
+36.168,45
+0,00
+pix 341 7854 16700-9
+0,04
+10/05/2022
+compra
+0,00
+18.295,48
+compra cambio bol.3088929
+18.295,52
+11/05/2022
+pagamento
+18.295,48
+0,00
+ted 341 7854 16700-9
+0,04
+11/05/2022
+compra
+0,00
+11.298,04
+compra cambio bol.3089004
+11.298,08
+11/05/2022
+pagamento
+11.298,04
+0,00
+ted 341 7854 16700-9
+0,04
+11/05/2022
+compra
+0,00
+86.060,04
+compra cambio bol.3111499
+86.060,08
+12/05/2022
+pagamento
+86.060,04
+0,00
+ted 341 7854 16700-9
+0,04
+12/05/2022
+compra
+0,00
+4.937,24
+compra cambio bol.3111828
+4.937,28
+12/05/2022
+pagamento
+4.937,24
+0,00
+ted 341 7854 16700-9
+0,04
+12/05/2022
+compra
+0,00
+25.989,50
+compra cambio bol.3112235
+25.989,54
+12/05/2022
+pagamento
+25.989,50
+0,00
+ted 341 7854 16700-9
+0,04
+12/05/2022
+compra
+0,00
+545.145,63
+compra cambio bol.3113091
+545.145,67
+12/05/2022
+pagamento
+545.145,63
+0,00
+ted 341 7854 16700-9
+0,04
+12/05/2022
+compra
+0,00
+90.829,11
+compra cambio bol.3115734
+90.829,15
+12/05/2022
+venda
+64.332,25
+0,00
+venda cambio bol.3118296
+26.496,90
+12/05/2022
+venda
+12.761,10
+0,00
+venda cambio bol.3135137
+13.735,80
+13/05/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+18
+folha
+saldo
+banco - conta investimento
+pagamento
+13.735,80
+0,00
+ted 341 7854 16700-9
+0,00
+13/05/2022
+compra
+0,00
+55.302,60
+compra cambio bol.3143982
+55.302,60
+13/05/2022
+pagamento
+55.302,60
+0,00
+ted 341 7854 16700-9
+0,00
+13/05/2022
+compra
+0,00
+61.808,86
+compra cambio bol.3144923
+61.808,86
+13/05/2022
+compra
+0,00
+6.712,63
+compra cambio bol.3144929
+68.521,49
+13/05/2022
+pagamento
+61.808,86
+0,00
+pix 341 7854 16700-9 emporio do marmore
+6.712,63
+13/05/2022
+pagamento
+6.712,63
+0,00
+pix 341 7854 16700-9 emporio do marmore
+0,00
+13/05/2022
+depósito
+0,00
+295.063,17
+ted 03.377.237/0001-84 emporio marmore i e ltda
+295.063,17
+16/05/2022
+compra
+0,00
+20.130,80
+compra cambio bol.3179076
+315.193,97
+16/05/2022
+compra
+0,00
+19.140,51
+compra cambio bol.3182205
+334.334,48
+16/05/2022
+juros
+13.320,36
+0,00
+juros - cessao de importacao-21000113
+321.014,12
+16/05/2022
+débito
+802,42
+0,00
+comissão - cessao de import-ci-21/000113
+320.211,70
+16/05/2022
+venda
+320.211,70
+0,00
+venda cambio bol.3191588
+0,00
+16/05/2022
+compra
+0,00
+222.318,22
+compra cambio bol.3218134
+222.318,22
+17/05/2022
+pagamento
+222.318,22
+0,00
+ted 341 7854 16700-9
+0,00
+17/05/2022
+compra
+0,00
+13.744,17
+compra cambio bol.3218234
+13.744,17
+17/05/2022
+pagamento
+13.744,17
+0,00
+ted 341 7854 16700-9
+0,00
+17/05/2022
+compra
+0,00
+24.740,00
+compra cambio bol.3291195
+24.740,00
+18/05/2022
+pagamento
+24.740,00
+0,00
+ted 341 7854 16700-9
+0,00
+18/05/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+19
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+51.907,79
+compra cambio bol.3292831
+51.907,79
+18/05/2022
+pagamento
+51.907,79
+0,00
+ted 341 7854 16700-9
+0,00
+18/05/2022
+compra
+0,00
+29.908,45
+compra cambio bol.3293021
+29.908,45
+18/05/2022
+pagamento
+29.908,45
+0,00
+ted 341 7854 16700-9
+0,00
+18/05/2022
+compra
+0,00
+39.122,75
+compra cambio bol.3297024
+39.122,75
+18/05/2022
+pagamento
+39.122,75
+0,00
+ted 341 7854 16700-9
+0,00
+18/05/2022
+compra
+0,00
+7.028,58
+compra cambio bol.3311276
+7.028,58
+18/05/2022
+pagamento
+7.028,58
+0,00
+ted 341 7854 16700-9
+0,00
+18/05/2022
+compra
+0,00
+4.634,79
+compra cambio bol.3313310
+4.634,79
+18/05/2022
+pagamento
+4.634,79
+0,00
+ted 341 7854 16700-9
+0,00
+18/05/2022
+depósito
+0,00
+481.076,63
+pix 03377237000184 emporio marmore i e ltda
+481.076,63
+18/05/2022
+venda
+47.893,10
+0,00
+venda cambio bol.3326136
+433.183,53
+18/05/2022
+venda
+57.802,74
+0,00
+venda cambio bol.3326335
+375.380,79
+18/05/2022
+venda
+375.380,79
+0,00
+venda cambio bol.3323570
+0,00
+18/05/2022
+compra
+0,00
+75.347,05
+compra cambio bol.3394342
+75.347,05
+20/05/2022
+pagamento
+75.347,05
+0,00
+ted 341 7854 16700-9
+0,00
+20/05/2022
+compra
+0,00
+19.830,60
+compra cambio bol.3429726
+19.830,60
+23/05/2022
+pagamento
+19.830,60
+0,00
+pix 341 7854 16700-9
+0,00
+23/05/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+20
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+71.661,97
+compra cambio bol.3429955
+71.661,97
+23/05/2022
+pagamento
+71.661,97
+0,00
+pix 341 7854 16700-9
+0,00
+23/05/2022
+compra
+0,00
+18.939,21
+compra cambio bol.3430016
+18.939,21
+24/05/2022
+pagamento
+18.939,21
+0,00
+ted 341 7854 16700-9
+0,00
+24/05/2022
+compra
+0,00
+43.465,99
+compra cambio bol.3461141
+43.465,99
+24/05/2022
+pagamento
+43.465,99
+0,00
+ted 341 7854 16700-9
+0,00
+24/05/2022
+compra
+0,00
+23.665,73
+compra cambio bol.3461318
+23.665,73
+24/05/2022
+pagamento
+23.665,73
+0,00
+ted 341 7854 16700-9
+0,00
+24/05/2022
+compra
+0,00
+13.291,68
+compra cambio bol.3489490
+13.291,68
+25/05/2022
+pagamento
+13.291,68
+0,00
+ted 341 7854 16700-9
+0,00
+25/05/2022
+compra
+0,00
+22.886,64
+compra cambio bol.3493148
+22.886,64
+26/05/2022
+pagamento
+22.758,60
+0,00
+ted 341 7854 16700-9
+128,04
+26/05/2022
+compra
+0,00
+325.673,94
+compra cambio bol.3515705
+325.801,98
+26/05/2022
+pagamento
+325.673,94
+0,00
+ted 341 7854 16700-9
+128,04
+26/05/2022
+compra
+0,00
+150.031,56
+compra cambio bol.3515668
+150.159,60
+26/05/2022
+pagamento
+150.031,56
+0,00
+ted 341 7854 16700-9
+128,04
+26/05/2022
+depósito
+0,00
+423.582,80
+ted 03.377.237/0001-84 emporio marmore i e ltda
+423.710,84
+30/05/2022
+juros
+3.535,87
+0,00
+juros - cessao de importacao-21000119
+420.174,97
+30/05/2022
+débito
+216,92
+0,00
+comissao cessao de importacao-21000119
+419.958,05
+30/05/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+21
+folha
+saldo
+banco - conta investimento
+juros
+3.182,63
+0,00
+juros - cessao de importacao-22000013
+416.775,42
+30/05/2022
+juros
+6.365,31
+0,00
+juros - cessao de importacao-22000013
+410.410,11
+30/05/2022
+débito
+802,35
+0,00
+comissao - cessao de importacao-22000013
+409.607,76
+30/05/2022
+venda
+87.146,61
+0,00
+venda cambio bol.3593199
+322.461,15
+30/05/2022
+venda
+322.333,10
+0,00
+venda cambio bol.3593210
+128,05
+30/05/2022
+depósito
+0,00
+117.089,74
+ted 03.377.237/0001-84 emporio marmore i e ltda
+117.217,79
+01/06/2022
+compra
+0,00
+25.340,93
+compra cambio bol.3649924
+142.558,72
+01/06/2022
+compra
+0,00
+35.518,22
+compra cambio bol.3649972
+178.076,94
+01/06/2022
+compra
+0,00
+73.072,78
+compra cambio bol.3650152
+251.149,72
+01/06/2022
+compra
+0,00
+36.314,74
+compra cambio bol.3650188
+287.464,46
+01/06/2022
+venda
+160.682,90
+0,00
+venda cambio bol.3655054
+126.781,56
+01/06/2022
+venda
+126.653,54
+0,00
+venda cambio bol.3655176
+128,02
+01/06/2022
+compra
+0,00
+33.764,29
+compra cambio bol.3678235
+33.892,31
+02/06/2022
+pagamento
+33.764,29
+0,00
+pix 756 3260 8141-8
+128,02
+02/06/2022
+compra
+0,00
+14.479,64
+compra cambio bol.3678282
+14.607,66
+02/06/2022
+pagamento
+14.479,64
+0,00
+pix 756 3260 8141-8
+128,02
+02/06/2022
+compra
+0,00
+47.515,81
+compra cambio bol.3678297
+47.643,83
+02/06/2022
+pagamento
+47.515,81
+0,00
+pix 341 7854 16700-9
+128,02
+02/06/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+22
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+45.793,69
+compra cambio bol.3678362
+45.921,71
+02/06/2022
+pagamento
+45.793,69
+0,00
+pix 341 7854 16700-9
+128,02
+02/06/2022
+compra
+0,00
+47.477,66
+compra cambio bol.3704637
+47.605,68
+03/06/2022
+pagamento
+47.477,66
+0,00
+ted 341 7854 16700-9
+128,02
+03/06/2022
+compra
+0,00
+48.149,25
+compra cambio bol.3711333
+48.277,27
+06/06/2022
+pagamento
+48.149,25
+0,00
+ted 341 7854 16700-9
+128,02
+06/06/2022
+compra
+0,00
+2.964,53
+compra cambio bol.3732561
+3.092,55
+06/06/2022
+pagamento
+2.964,53
+0,00
+ted 341 7854 16700-9
+128,02
+06/06/2022
+compra
+0,00
+68.395,32
+compra cambio bol.3733000
+68.523,34
+06/06/2022
+pagamento
+68.395,32
+0,00
+ted 341 7854 16700-9
+128,02
+06/06/2022
+compra
+0,00
+27.799,23
+compra cambio bol.3733033
+27.927,25
+06/06/2022
+pagamento
+27.799,23
+0,00
+ted 341 7854 16700-9
+128,02
+06/06/2022
+compra
+0,00
+26.444,00
+compra cambio bol.3757888
+26.572,02
+07/06/2022
+pagamento
+26.444,00
+0,00
+ted 341 7854 16700-9
+128,02
+07/06/2022
+compra
+0,00
+68.540,21
+compra cambio bol.3791266
+68.668,23
+08/06/2022
+pagamento
+68.540,21
+0,00
+ted 341 7854 16700-9
+128,02
+08/06/2022
+compra
+0,00
+43.640,55
+compra cambio bol.3791552
+43.768,57
+08/06/2022
+pagamento
+43.640,55
+0,00
+ted 341 7854 16700-9
+128,02
+08/06/2022
+compra
+0,00
+53.031,28
+compra cambio bol.3816472
+53.159,30
+09/06/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+23
+folha
+saldo
+banco - conta investimento
+pagamento
+53.031,28
+0,00
+ted 341 7854 16700-9
+128,02
+09/06/2022
+compra
+0,00
+64.300,93
+compra cambio bol.3817412
+64.428,95
+09/06/2022
+pagamento
+64.300,93
+0,00
+ted 341 7854 16700-9
+128,02
+09/06/2022
+compra
+0,00
+32.723,48
+compra cambio bol.3869444
+32.851,50
+13/06/2022
+pagamento
+32.723,48
+0,00
+ted 341 7854 16700-9
+128,02
+13/06/2022
+compra
+0,00
+12.700,00
+compra cambio bol.3869488
+12.828,02
+13/06/2022
+pagamento
+12.700,00
+0,00
+ted 341 7854 16700-9
+128,02
+13/06/2022
+compra
+0,00
+25.178,21
+compra cambio bol.3869923
+25.306,23
+13/06/2022
+pagamento
+25.178,21
+0,00
+ted 341 7854 16700-9
+128,02
+13/06/2022
+compra
+0,00
+50.664,11
+compra cambio bol.3870008
+50.792,13
+13/06/2022
+pagamento
+50.664,11
+0,00
+ted 341 7854 16700-9
+128,02
+13/06/2022
+depósito
+0,00
+68.343,13
+pix 03377237000184 emporio marmore i e ltda
+68.471,15
+14/06/2022
+venda
+68.343,13
+0,00
+venda cambio bol.3904279
+128,02
+14/06/2022
+depósito
+0,00
+59.277,62
+ted 03.377.237/0001-84 emporio marmore i e ltda
+59.405,64
+15/06/2022
+venda
+59.277,62
+0,00
+venda cambio bol.3929781
+128,02
+15/06/2022
+depósito
+0,00
+170.835,17
+ted 03.377.237/0001-84 emporio marmore i e ltda
+170.963,19
+17/06/2022
+venda
+170.835,37
+0,00
+venda cambio bol.3954689
+127,82
+17/06/2022
+depósito
+0,00
+132.483,69
+ted 03.377.237/0001-84 emporio marmore i e ltda
+132.611,51
+21/06/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+24
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+66.577,52
+compra cambio bol.3986216
+199.189,03
+21/06/2022
+compra
+0,00
+20.868,95
+compra cambio bol.3986248
+220.057,98
+21/06/2022
+compra
+0,00
+51.403,13
+compra cambio bol.3986350
+271.461,11
+21/06/2022
+venda
+58.354,07
+0,00
+venda cambio bol.3986428
+213.107,04
+21/06/2022
+venda
+26.916,47
+0,00
+venda cambio bol.3986448
+186.190,57
+21/06/2022
+venda
+42.931,76
+0,00
+venda cambio bol.3986502
+143.258,81
+21/06/2022
+venda
+97.572,21
+0,00
+venda cambio bol.3986530
+45.686,60
+21/06/2022
+venda
+42.377,42
+0,00
+venda cambio bol.3986576
+3.309,18
+21/06/2022
+venda
+3.193,48
+0,00
+venda cambio bol.3986621
+115,70
+21/06/2022
+depósito
+0,00
+59.514,44
+ted 03.377.237/0001-84 emporio marmore i e ltda
+59.630,14
+21/06/2022
+venda
+59.514,44
+0,00
+venda cambio bol.4014071
+115,70
+21/06/2022
+compra
+0,00
+25.974,50
+compra cambio bol.4064390
+26.090,20
+23/06/2022
+pagamento
+25.974,50
+0,00
+ted 341 7854 16700-9
+115,70
+23/06/2022
+compra
+0,00
+25.482,16
+compra cambio bol.4064516
+25.597,86
+23/06/2022
+pagamento
+25.482,16
+0,00
+ted 341 7854 16700-9
+115,70
+23/06/2022
+depósito
+0,00
+364.904,05
+ted 03.377.237/0001-84 emporio do marmore importacao e exp
+365.019,75
+24/06/2022
+venda
+15.010,24
+0,00
+venda cambio bol.4096035
+350.009,51
+24/06/2022
+venda
+99.117,53
+0,00
+venda cambio bol.4096096
+250.891,98
+24/06/2022
+compra
+0,00
+36.638,00
+compra cambio bol.4093922
+287.529,98
+24/06/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+25
+folha
+saldo
+banco - conta investimento
+venda
+61.976,96
+0,00
+venda cambio bol.4096224
+225.553,02
+24/06/2022
+venda
+59.278,26
+0,00
+venda cambio bol.4096284
+166.274,76
+24/06/2022
+venda
+56.679,28
+0,00
+venda cambio bol.4096382
+109.595,48
+24/06/2022
+compra
+0,00
+54.846,54
+compra cambio bol.4097061
+164.442,02
+24/06/2022
+compra
+0,00
+10.233,52
+compra cambio bol.4105857
+174.675,54
+27/06/2022
+venda
+174.559,83
+0,00
+venda cambio bol.4097270
+115,71
+27/06/2022
+depósito
+0,00
+640.285,73
+pix 03377237000184 emporio marmore i e ltda
+640.401,44
+27/06/2022
+compra
+0,00
+29.940,48
+compra cambio bol.4120076
+670.341,92
+27/06/2022
+compra
+0,00
+156.091,11
+compra cambio bol.4120163
+826.433,03
+27/06/2022
+juros
+11.860,04
+0,00
+juros - cessao de importacao-22000024
+814.572,99
+27/06/2022
+débito
+1.516,53
+0,00
+comissao - cessao de importacao-22000024
+813.056,46
+27/06/2022
+venda
+416.984,57
+0,00
+venda cambio bol.4125005
+396.071,89
+27/06/2022
+venda
+278.844,79
+0,00
+venda cambio bol.4125057
+117.227,10
+27/06/2022
+venda
+117.111,40
+0,00
+venda cambio bol.4125078
+115,70
+27/06/2022
+compra
+0,00
+51.418,54
+compra cambio bol.4196864
+51.534,24
+01/07/2022
+pagamento
+51.418,54
+0,00
+ted 341 7854 16700-9
+115,70
+01/07/2022
+depósito
+0,00
+204.245,19
+ted 03.377.237/0001-84 emporio marmore i e ltda
+204.360,89
+04/07/2022
+juros
+5.912,69
+0,00
+juros - cessao de importacao-22000024
+198.448,20
+04/07/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+26
+folha
+saldo
+banco - conta investimento
+venda
+198.332,50
+0,00
+venda cambio bol.4257276
+115,70
+04/07/2022
+depósito
+0,00
+237.971,60
+pix 03377237000184 emporio marmore i e ltda
+238.087,30
+05/07/2022
+venda
+70.114,85
+0,00
+venda cambio bol.4284346
+167.972,45
+05/07/2022
+venda
+62.501,28
+0,00
+venda cambio bol.4285002
+105.471,17
+05/07/2022
+depósito
+0,00
+191,55
+ted 03.377.237/0001-84 emporio marmore i e ltda
+105.662,72
+06/07/2022
+venda
+105.662,72
+0,00
+venda cambio bol.4286671
+0,00
+06/07/2022
+depósito
+0,00
+157.654,89
+ted 03.377.237/0001-84 emporio marmore i e ltda
+157.654,89
+06/07/2022
+venda
+157.654,89
+0,00
+venda cambio bol.4308570
+0,00
+06/07/2022
+compra
+0,00
+15.945,90
+compra cambio bol.4396679
+15.945,90
+11/07/2022
+pagamento
+15.945,90
+0,00
+ted 341 7854 16700-9
+0,00
+11/07/2022
+compra
+0,00
+7.469,01
+compra cambio bol.4396704
+7.469,01
+11/07/2022
+pagamento
+7.469,01
+0,00
+ted 341 7854 16700-9
+0,00
+11/07/2022
+compra
+0,00
+55.461,20
+compra cambio bol.4396707
+55.461,20
+11/07/2022
+pagamento
+55.461,20
+0,00
+ted 341 7854 16700-9
+0,00
+11/07/2022
+compra
+0,00
+31.786,09
+compra cambio bol.4522192
+31.786,09
+19/07/2022
+pagamento
+31.786,09
+0,00
+ted 341 7854 16700-9
+0,00
+19/07/2022
+compra
+0,00
+1.767,63
+compra cambio bol.4522193
+1.767,63
+19/07/2022
+pagamento
+1.767,63
+0,00
+ted 341 7854 16700-9
+0,00
+19/07/2022
+compra
+0,00
+21.619,88
+compra cambio bol.4522196
+21.619,88
+19/07/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+27
+folha
+saldo
+banco - conta investimento
+pagamento
+21.619,88
+0,00
+ted 341 7854 16700-9
+0,00
+19/07/2022
+compra
+0,00
+62.689,29
+compra cambio bol.4522216
+62.689,29
+19/07/2022
+pagamento
+62.689,29
+0,00
+ted 341 7854 16700-9
+0,00
+19/07/2022
+compra
+0,00
+56.536,05
+compra cambio bol.4527001
+56.536,05
+20/07/2022
+pagamento
+56.536,05
+0,00
+ted 341 7854 16700-9
+0,00
+20/07/2022
+compra
+0,00
+32.126,16
+compra cambio bol.4527011
+32.126,16
+20/07/2022
+pagamento
+32.126,16
+0,00
+ted 341 7854 16700-9
+0,00
+20/07/2022
+débito cliente
+32.126,16
+0,00
+estorno op. camb. b4527011 de 20/07/2022
+-32.126,16
+21/07/2022
+crédito cliente
+0,00
+32.560,96
+regul op. camb. b4527011 de 20/07/2022
+434,80
+21/07/2022
+compra
+0,00
+16.151,41
+compra cambio bol.4536285
+16.586,21
+22/07/2022
+pagamento
+16.151,41
+0,00
+ted 341 7854 16700-9
+434,80
+22/07/2022
+compra
+0,00
+24.986,05
+compra cambio bol.4573889
+25.420,85
+26/07/2022
+pagamento
+24.986,05
+0,00
+ted 341 7854 16700-9
+434,80
+26/07/2022
+compra
+0,00
+73.232,42
+compra cambio bol.4574808
+73.667,22
+26/07/2022
+compra
+0,00
+38.012,19
+compra cambio bol.4575722
+111.679,41
+26/07/2022
+compra
+0,00
+37.479,57
+compra cambio bol.4575842
+149.158,98
+26/07/2022
+compra
+0,00
+26.667,50
+compra cambio bol.4575867
+175.826,48
+26/07/2022
+compra
+0,00
+58.878,70
+compra cambio bol.4576357
+234.705,18
+26/07/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+28
+folha
+saldo
+banco - conta investimento
+venda
+176.194,20
+0,00
+venda cambio bol.4579508
+58.510,98
+26/07/2022
+pagamento
+58.510,98
+0,00
+ted 341 7854 16700-9
+0,00
+27/07/2022
+compra
+0,00
+30.805,70
+compra cambio bol.4628845
+30.805,70
+28/07/2022
+depósito
+0,00
+336.354,16
+pix 03377237000184 emporio marmore i e ltda
+367.159,86
+28/07/2022
+juros
+5.078,28
+0,00
+juros - cessao de importacao-22000026
+362.081,58
+28/07/2022
+débito
+347,85
+0,00
+comissao - cessao de importacao-22000026
+361.733,73
+28/07/2022
+venda
+224.535,41
+0,00
+venda cambio bol.4638984
+137.198,32
+28/07/2022
+venda
+137.198,31
+0,00
+venda cambio bol.4639010
+0,01
+28/07/2022
+compra
+0,00
+18.087,02
+compra cambio bol.4664712
+18.087,03
+29/07/2022
+compra
+0,00
+52.919,85
+compra cambio bol.4665081
+71.006,88
+29/07/2022
+venda
+70.169,59
+0,00
+venda cambio bol.4665056
+837,29
+29/07/2022
+depósito
+0,00
+81.345,70
+pix 03377237000184 emporio marmore i e ltda
+82.182,99
+01/08/2022
+compra
+0,00
+25.775,00
+compra cambio bol.4679303
+107.957,99
+01/08/2022
+compra
+0,00
+63.783,85
+compra cambio bol.4679391
+171.741,84
+01/08/2022
+compra
+0,00
+61.746,18
+compra cambio bol.4679462
+233.488,02
+01/08/2022
+venda
+88.007,32
+0,00
+venda cambio bol.4679604
+145.480,70
+01/08/2022
+venda
+145.280,69
+0,00
+venda cambio bol.4679623
+200,01
+01/08/2022
+depósito
+0,00
+10.047,81
+pix 03377237000184 emporio marmore i e ltda
+10.247,82
+02/08/2022
+compra
+0,00
+12.511,20
+compra cambio bol.4686511
+22.759,02
+02/08/2022
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+extrato - movimentação financeira
+de 01/01/2022 até 05/08/2022
+26630 - emporio do marmore importacao e exportacao ltda
+cliente:
+data efetiva operação
+histórico
+valor crédito
+valor  débito
+29
+folha
+saldo
+banco - conta investimento
+compra
+0,00
+14.457,84
+compra cambio bol.4686516
+37.216,86
+02/08/2022
+venda
+37.016,86
+0,00
+venda cambio bol.4686845
+200,00
+02/08/2022
+compra
+0,00
+63.844,66
+compra cambio bol.4701767
+64.044,66
+03/08/2022
+pagamento
+63.844,66
+0,00
+pix 341 7854 16700-9
+200,00
+03/08/2022
+depósito
+0,00
+89.095,93
+pix 03377237000184 emporio marmore i e ltda
+89.295,93
+04/08/2022
+venda
+88.099,62
+0,00
+venda cambio bol.4710478
+1.196,31
+04/08/2022
+compra
+0,00
+11.667,53
+compra cambio bol.4708551
+12.863,84
+04/08/2022
+compra
+0,00
+38.296,36
+compra cambio bol.4708640
+51.160,20
+04/08/2022
+venda
+50.960,21
+0,00
+venda cambio bol.4710380
+199,99
+04/08/2022
+0,00
+199,99
+saldo em conta (a):
+saldo bloqueado (b):
+saldo total ( a + b + c):
+saldo transitório (c):
+0,00
+199,99
+data impressão: 05/08/2022  10:29:58
+extratomov.rpt
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest
+ (4) ourinvest

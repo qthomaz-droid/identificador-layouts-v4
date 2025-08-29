@@ -1,0 +1,2500 @@
+  
+data
+código da transação
+descrição
+conta
+valor (r$)
+saldo (r$)
+01-01-2022 03:11:19
+f08693c1acf04c5eb66317d1a0a3da31
+pagamento liberado
+disponível
+6.29
+7716.34
+1
+01-01-2022 03:11:23
+5bbb154859a2468490fba6793f61dffb
+pagamento liberado
+disponível
+39.11
+7755.45
+2
+01-01-2022 03:30:20
+59368e386cbd413b9a81dd8d56727495
+pagamento liberado
+disponível
+79.38
+7834.83
+3
+01-01-2022 03:30:25
+ef8af1df91c746ada4c73a680d931e97
+pagamento liberado
+disponível
+29.62
+7864.45
+4
+02-01-2022 03:06:01
+f58616b9b9b24e128525bc745a27aad5
+pagamento liberado
+disponível
+19.36
+7883.81
+5
+02-01-2022 03:06:03
+5c6cedd9b6fe4c2faa5b44e08f154b3d
+pagamento liberado
+disponível
+19.36
+7903.17
+6
+02-01-2022 03:06:08
+6ee3308a3b9f46059b7aeb0dcea10475
+pagamento liberado
+disponível
+210.27
+8113.44
+7
+02-01-2022 03:06:09
+81a1fe55b8f347fbab545d136b136228
+pagamento liberado
+disponível
+531.66
+8645.10
+8
+02-01-2022 03:09:28
+73decd2ec8bd406197f54339d5e3aa49
+pagamento liberado
+disponível
+32.43
+8677.53
+9
+02-01-2022 03:09:28
+ac19e1e941824764995c57cdf5e26e9a
+pagamento liberado
+disponível
+14.52
+8692.05
+10
+02-01-2022 03:09:30
+92d933c62635484bad8b3caa4d134062
+pagamento liberado
+disponível
+5.81
+8697.86
+11
+02-01-2022 03:09:30
+ceba845c1a3b476d964145787ee4062d
+pagamento liberado
+disponível
+66.8
+8764.66
+12
+04-01-2022 03:20:58
+b243971b8c6849828fb9ca7e78fc0630
+pagamento liberado
+disponível
+11.71
+8776.37
+13
+04-01-2022 03:38:05
+69a43fd4d2a84e808fe78bf600214c19
+pagamento liberado
+disponível
+28.89
+8805.26
+14
+05-01-2022 03:19:11
+212ab663b98b4e9c9617df27e0681666
+pagamento liberado
+disponível
+35.14
+8840.40
+15
+05-01-2022 03:41:47
+32ab80813588464bb456542767af9916
+pagamento liberado
+disponível
+65.79
+8906.19
+16
+05-01-2022 03:41:49
+e9fdf92f0ae145a5aa6dab181382b728
+pagamento liberado
+disponível
+35.73
+8941.92
+17
+06-01-2022 03:32:07
+5def46ddbd99473393f91ca29459a972
+pagamento liberado
+disponível
+5.56
+8947.48
+18
+06-01-2022 03:33:22
+f59ab74bd6fe481395322d6e560ca4d5
+pagamento liberado
+disponível
+104.44
+9051.92
+19
+06-01-2022 03:33:23
+deb0e97fbfb740c5bd0e8bb7c10b6c53
+pagamento liberado
+disponível
+14.93
+9066.85
+20
+06-01-2022 03:33:28
+dfb0a411d2fd4728a14eadb316ddcac0
+pagamento liberado
+disponível
+11.71
+9078.56
+21
+06-01-2022 03:33:28
+4b7f0ae968a941da9cb5f0a350cb3879
+pagamento liberado
+disponível
+82.19
+9160.75
+22
+06-01-2022 10:07:18
+8f2e2d9b62be4a5f810fc80af0d70a72
+transferência para outras contas
+disponível
+-9160.75
+0.00
+23
+07-01-2022 03:17:46
+98bf9282f7c04b3aacd4f7e40c082f70
+pagamento liberado
+disponível
+50.83
+50.83
+24
+07-01-2022 03:18:32
+8d2c8fda839443f7b7d4a9f5ba337066
+pagamento liberado
+disponível
+99.86
+150.69
+25
+07-01-2022 03:24:25
+809385ea8c934ee18ad406a06acd10b3
+pagamento liberado
+disponível
+38.14
+188.83
+26
+07-01-2022 03:24:31
+5924b14cd19a4edd805de89e35596cce
+pagamento liberado
+disponível
+7.74
+196.57
+27
+07-01-2022 03:31:43
+4eccfad5c7094e60b198fe29cf3f47cf
+pagamento liberado
+disponível
+48.47
+245.04
+28
+07-01-2022 03:31:43
+06987b08928648ba8bddcdb720c05c4e
+pagamento liberado
+disponível
+85.21
+330.25
+29
+07-01-2022 03:31:43
+f97c995f105f43eeaaf25f96596d43fa
+pagamento liberado
+disponível
+5.86
+336.11
+30
+07-01-2022 03:31:43
+194c1c83c7e74db5b77a7717c99c0f8f
+pagamento liberado
+disponível
+28.31
+364.42
+31
+07-01-2022 03:31:44
+e46a5bb9fb8b46a28c3a04d2747d7280
+pagamento liberado
+disponível
+84.14
+448.56
+32
+07-01-2022 03:31:45
+bb2d396ee2d54e4e80cfc3862d5d5359
+pagamento liberado
+disponível
+39.14
+487.70
+33
+07-01-2022 03:31:49
+79724bf5e33e466697722803babc2e55
+pagamento liberado
+disponível
+45.1
+532.80
+34
+07-01-2022 03:31:51
+d602ac4963fc4a75a72a901605700ff7
+pagamento liberado
+disponível
+17.28
+550.08
+35
+08-01-2022 03:24:54
+3950ecb431594b32866cf210b4e24c81
+pagamento liberado
+disponível
+24.99
+575.07
+36
+08-01-2022 03:24:55
+4c869e7101d54e0fad4f9c0e04becf0e
+pagamento liberado
+disponível
+2.64
+577.71
+37
+08-01-2022 03:24:55
+50fb06953c2e40aba182a3ef87de80e8
+pagamento liberado
+disponível
+47.34
+625.05
+38
+08-01-2022 03:25:00
+b04dc4fb83014836bc9f518c521da270
+pagamento liberado
+disponível
+7.13
+632.18
+39
+08-01-2022 03:25:01
+bf53951a148349a29bfa54c0540dcae4
+pagamento liberado
+disponível
+2.64
+634.82
+40
+08-01-2022 03:25:50
+46b1c72ff88d48e4b91d3a7f91a1a235
+pagamento liberado
+disponível
+69.32
+704.14
+41
+08-01-2022 03:31:12
+beb247f81e164c128f9317ce15696a0f
+pagamento liberado
+disponível
+136.5
+840.64
+42
+08-01-2022 03:45:34
+73bea17609514328aa04d4afd7235028
+pagamento liberado
+disponível
+19.52
+860.16
+43
+08-01-2022 03:45:34
+e03fdc76b65c477da5749fa58a62be7b
+pagamento liberado
+disponível
+1.17
+861.33
+44
+08-01-2022 03:45:36
+445787e2655e4ef28e6d35dad79a0994
+pagamento liberado
+disponível
+46.85
+908.18
+45
+08-01-2022 03:45:36
+a42a6e16a3864fbe9017c48ef796f1dc
+pagamento liberado
+disponível
+8.1
+916.28
+46
+08-01-2022 03:45:36
+075d3064ed2142a08d0597956d77ac41
+pagamento liberado
+disponível
+1.17
+917.45
+47
+08-01-2022 03:45:37
+b6a79108a90f4e27ac88e52c6b779ff1
+pagamento liberado
+disponível
+23.43
+940.88
+48
+08-01-2022 03:45:37
+eaf3df58ba3d4ac9b80f68db20d34c68
+pagamento liberado
+disponível
+1.17
+942.05
+49
+08-01-2022 03:45:38
+256761b49dc34fb397d86da1ed2ff15b
+pagamento liberado
+disponível
+22.84
+964.89
+50
+08-01-2022 03:45:40
+b88daba85c30451784a5e7e7055f2a00
+pagamento liberado
+disponível
+15.62
+980.51
+51
+08-01-2022 03:45:42
+c04dbe7bbc9940b881c44f0472eb5d53
+pagamento liberado
+disponível
+2.34
+982.85
+52
+08-01-2022 03:45:43
+44162267c36746469a7d92c62cba3ed6
+pagamento liberado
+disponível
+33.09
+1015.94
+53
+09-01-2022 03:41:53
+e92d15d7e1914bce8dd67e44ddaec556
+pagamento liberado
+disponível
+118.54
+1134.48
+54
+09-01-2022 03:41:55
+3a675344e1564bd2831a68242cbdd826
+pagamento liberado
+disponível
+32.19
+1166.67
+55
+09-01-2022 03:43:46
+65c1cc5fe1c241ccb2f7ed696282291c
+pagamento liberado
+disponível
+36.3
+1202.97
+56
+09-01-2022 03:43:48
+b4eafadcf878457f95f5f922707de258
+pagamento liberado
+disponível
+5.52
+1208.49
+57
+11-01-2022 03:47:56
+d1c502d4a84f42ab8664fa66136b81a1
+pagamento liberado
+disponível
+128.79
+1337.28
+58
+11-01-2022 03:49:10
+988cb02ca49248e284a39a0bd3da97bc
+pagamento liberado
+disponível
+9.82
+1347.10
+59
+11-01-2022 03:50:40
+884fcc1ff150491bb3b27c6ccaa5177a
+pagamento liberado
+disponível
+20.43
+1367.53
+60
+11-01-2022 03:50:43
+a9b6b9e8dfab46f5a7d4d5319e0f9256
+pagamento liberado
+disponível
+29.56
+1397.09
+61
+11-01-2022 03:50:52
+3eed8bda89e74b6687cf93221152fa94
+pagamento liberado
+disponível
+11.79
+1408.88
+62
+11-01-2022 03:51:03
+2006b33122514a5c86180ede956d96d9
+pagamento liberado
+disponível
+36.53
+1445.41
+63
+13-01-2022 04:37:45
+0cfe83a5114f4055b5eb079dc8270ef8
+pagamento liberado
+disponível
+8.13
+1453.54
+64
+13-01-2022 04:37:59
+f451dd61ce6d4035b4ad8092759be7ac
+pagamento liberado
+disponível
+14.52
+1468.06
+65
+13-01-2022 04:38:51
+bea344b8da7c4bab894df8743e5a9a40
+pagamento liberado
+disponível
+21.3
+1489.36
+66
+13-01-2022 04:57:38
+f98738f3821a44759dde951c54feedef
+pagamento liberado
+disponível
+8.71
+1498.07
+67
+13-01-2022 04:57:44
+34fa82200923455e87eb6f01dfa237b4
+pagamento liberado
+disponível
+17.91
+1515.98
+68
+13-01-2022 04:58:06
+9e141c21faca466ebe21631bb0718a7b
+pagamento liberado
+disponível
+40.66
+1556.64
+69
+13-01-2022 04:58:18
+0567500c7e804e56866c38bbecda84e4
+pagamento liberado
+disponível
+9.92
+1566.56
+70
+14-01-2022 03:27:34
+cb5d8aa25dfc48a38ab5eae4c33acac7
+pagamento liberado
+disponível
+26.82
+1593.38
+71
+14-01-2022 03:27:35
+2ff92f9f861b44c4b6cebc8f408834a8
+pagamento liberado
+disponível
+11.04
+1604.42
+72
+14-01-2022 03:27:40
+b28c0b2c6f084408b38ba54cc9a2470b
+pagamento liberado
+disponível
+91.89
+1696.31
+73
+14-01-2022 03:50:17
+8af36ae35a7b43158c19878ed639618b
+pagamento liberado
+disponível
+6.78
+1703.09
+74
+14-01-2022 03:50:17
+7c635842f3594adf9ac1474c77e51e13
+pagamento liberado
+disponível
+2.52
+1705.61
+75
+14-01-2022 03:50:17
+233b6ac3786840eba23ae68182fffbe2
+pagamento liberado
+disponível
+9.68
+1715.29
+76
+14-01-2022 03:52:28
+7295129228be452d929270863c7e674d
+pagamento liberado
+disponível
+5.89
+1721.18
+77
+14-01-2022 03:52:28
+25e6585211534e1c96bf5a04a8de04de
+pagamento liberado
+disponível
+43.51
+1764.69
+78
+14-01-2022 03:52:32
+fbb64bba548c41ae9d4c3bf8d3c21f7d
+pagamento liberado
+disponível
+48.61
+1813.30
+79
+15-01-2022 03:10:53
+212acaaf5da8435c9bd8e70aabde312c
+pagamento liberado
+disponível
+47.44
+1860.74
+80
+15-01-2022 03:16:08
+c7b71f1da7b44362a901f522b5151457
+pagamento liberado
+disponível
+4.74
+1865.48
+81
+15-01-2022 03:16:10
+90ab038e2e004db3982b449731184547
+pagamento liberado
+disponível
+22.46
+1887.94
+82
+15-01-2022 03:16:16
+4160786efe134f4ca5c3d255eb824172
+pagamento liberado
+disponível
+46.47
+1934.41
+83
+16-01-2022 06:53:49
+bd673f7bf3584d8691fff3ce02216400
+pagamento liberado
+disponível
+94.68
+2029.09
+84
+16-01-2022 06:53:54
+1b113f619e68447fb6eec601adb0fe4a
+pagamento liberado
+disponível
+3.87
+2032.96
+85
+21-01-2022 03:11:04
+184514c161694a38b89929b9de7eb7a7
+pagamento liberado
+disponível
+61.87
+2094.83
+86
+21-01-2022 03:17:14
+210ae170227146d198141fef8f77fd44
+pagamento liberado
+disponível
+34.76
+2129.59
+87
+21-01-2022 03:32:37
+641c4bd10fb44643a82c3b1c88de7967
+pagamento liberado
+disponível
+31.43
+2161.02
+88
+21-01-2022 03:49:20
+d3ede122b58d4a63888856e9ee0e8fcc
+pagamento liberado
+disponível
+32.62
+2193.64
+89
+21-01-2022 03:49:20
+4704cfbd99d341a4b5ca3d0c644a109e
+pagamento liberado
+disponível
+215.86
+2409.50
+90
+22-01-2022 03:20:55
+8866d55a62754cfeba6c3c1b70fc928b
+pagamento liberado
+disponível
+93.91
+2503.41
+91
+22-01-2022 03:33:17
+877d0d48639f418e9f732cb602ac2d59
+pagamento liberado
+disponível
+36.79
+2540.20
+92
+22-01-2022 03:51:50
+db9d688f16c547b1a77b06e004a69354
+pagamento liberado
+disponível
+33.88
+2574.08
+93
+22-01-2022 04:01:54
+9f8afe2528a74b3f9ff512a183477ebc
+pagamento liberado
+disponível
+37.76
+2611.84
+94
+26-01-2022 03:54:50
+29723768566646399942e96681654f88
+pagamento liberado
+disponível
+32.9
+2644.74
+95
+26-01-2022 03:55:01
+e8bdaa882a1c433aa79b8a5e01a40e81
+pagamento liberado
+disponível
+14.54
+2659.28
+96
+26-01-2022 03:59:40
+9d67e00c4c0441c0b92aea5cb940e24b
+pagamento liberado
+disponível
+44.49
+2703.77
+97
+26-01-2022 04:01:38
+7a2ae8b1ca6a4cdb9cc82e7995a4cf6a
+pagamento liberado
+disponível
+140.47
+2844.24
+98
+28-01-2022 03:09:10
+32e9ae6df361469db9100b939a5737bb
+pagamento liberado
+disponível
+49.1
+2893.34
+99
+28-01-2022 03:09:11
+a057b6f8841d4af8a34342fa0ee6f183
+pagamento liberado
+disponível
+65.11
+2958.45
+100
+28-01-2022 03:09:12
+cb52c7333a1d4ec783c603ba76c8c4ba
+pagamento liberado
+disponível
+72.38
+3030.83
+101
+28-01-2022 03:09:13
+cebca6a55e2e40f691446416c6013313
+pagamento liberado
+disponível
+61.87
+3092.70
+102
+28-01-2022 03:09:29
+6a3f9b01ebee4e548e131c50df3e5ebb
+pagamento liberado
+disponível
+21.61
+3114.31
+103
+28-01-2022 03:09:30
+a1b1d343bbdc46e58d37e0380061d4ce
+pagamento liberado
+disponível
+23.57
+3137.88
+104
+28-01-2022 03:09:38
+d1a58e441e214df6bd64e58f375849e2
+pagamento liberado
+disponível
+39.97
+3177.85
+105
+28-01-2022 03:20:17
+074a96e672594610bc838ddcfa1c1f8d
+pagamento liberado
+disponível
+24.99
+3202.84
+106
+29-01-2022 03:16:13
+3cc1409048ce466699dcb2bdcd639ad5
+pagamento liberado
+disponível
+22.54
+3225.38
+107
+29-01-2022 03:38:35
+b2da34b5e6754938ab551fa948892e46
+pagamento liberado
+disponível
+1028.03
+4253.41
+108
+29-01-2022 03:39:24
+c187c6105e71402d97659aa616bce683
+pagamento liberado
+disponível
+14.73
+4268.14
+109
+29-01-2022 03:50:28
+03919bbf586345ad9ed52ebe683555b4
+pagamento liberado
+disponível
+55.67
+4323.81
+110
+29-01-2022 03:53:46
+c0fdf3446a7247f1b5031e094fbc3a4e
+pagamento liberado
+disponível
+63.6
+4387.41
+111
+29-01-2022 03:53:50
+7d0634e7f609464d8adb9b38811c8367
+pagamento liberado
+disponível
+88.1
+4475.51
+112
+01-01-2022 03:11:19
+f08693c1acf04c5eb66317d1a0a3da31
+pagamento liberado
+a receber
+-6.29
+3474.8
+113
+01-01-2022 03:11:23
+5bbb154859a2468490fba6793f61dffb
+pagamento liberado
+a receber
+-39.11
+3481.09
+114
+01-01-2022 03:30:20
+59368e386cbd413b9a81dd8d56727495
+pagamento liberado
+a receber
+-79.38
+3395.42
+115
+01-01-2022 03:30:25
+ef8af1df91c746ada4c73a680d931e97
+pagamento liberado
+a receber
+-29.62
+3365.8
+116
+02-01-2022 03:06:01
+f58616b9b9b24e128525bc745a27aad5
+pagamento liberado
+a receber
+-19.36
+3346.44
+117
+02-01-2022 03:06:03
+5c6cedd9b6fe4c2faa5b44e08f154b3d
+pagamento liberado
+a receber
+-19.36
+3327.08
+118
+02-01-2022 03:06:08
+6ee3308a3b9f46059b7aeb0dcea10475
+pagamento liberado
+a receber
+-210.27
+3116.81
+119
+02-01-2022 03:06:09
+81a1fe55b8f347fbab545d136b136228
+pagamento liberado
+a receber
+-531.66
+2585.15
+120
+02-01-2022 03:09:28
+73decd2ec8bd406197f54339d5e3aa49
+pagamento liberado
+a receber
+-32.43
+2552.72
+121
+02-01-2022 03:09:28
+ac19e1e941824764995c57cdf5e26e9a
+pagamento liberado
+a receber
+-14.52
+2538.2
+122
+02-01-2022 03:09:30
+92d933c62635484bad8b3caa4d134062
+pagamento liberado
+a receber
+-5.81
+2532.39
+123
+02-01-2022 03:09:30
+ceba845c1a3b476d964145787ee4062d
+pagamento liberado
+a receber
+-66.8
+2465.59
+124
+03-01-2022 14:03:11
+69a43fd4d2a84e808fe78bf600214c19
+venda pela moderninha
+a receber
+29.6
+2495.19
+125
+03-01-2022 14:03:31
+69a43fd4d2a84e808fe78bf600214c19
+taxa de intermediação
+a receber
+-0.71
+2494.48
+126
+03-01-2022 14:05:39
+b243971b8c6849828fb9ca7e78fc0630
+venda pela moderninha
+a receber
+12
+2506.48
+127
+03-01-2022 14:05:54
+b243971b8c6849828fb9ca7e78fc0630
+taxa de intermediação
+a receber
+-0.29
+2506.19
+128
+04-01-2022 03:20:58
+b243971b8c6849828fb9ca7e78fc0630
+pagamento liberado
+a receber
+-11.71
+2494.48
+129
+04-01-2022 03:38:05
+69a43fd4d2a84e808fe78bf600214c19
+pagamento liberado
+a receber
+-28.89
+2465.59
+130
+04-01-2022 14:59:33
+212ab663b98b4e9c9617df27e0681666
+venda pela moderninha
+a receber
+36
+2501.59
+131
+04-01-2022 14:59:45
+212ab663b98b4e9c9617df27e0681666
+taxa de intermediação
+a receber
+-0.86
+2500.73
+132
+04-01-2022 20:23:08
+32ab80813588464bb456542767af9916
+venda pela moderninha
+a receber
+67.4
+2568.13
+133
+04-01-2022 20:24:41
+32ab80813588464bb456542767af9916
+taxa de intermediação
+a receber
+-1.61
+2566.52
+134
+04-01-2022 22:13:11
+e9fdf92f0ae145a5aa6dab181382b728
+venda pela moderninha
+a receber
+36.6
+2603.12
+135
+04-01-2022 22:13:23
+e9fdf92f0ae145a5aa6dab181382b728
+taxa de intermediação
+a receber
+-0.87
+2602.25
+136
+05-01-2022 00:23:09
+4b7f0ae968a941da9cb5f0a350cb3879
+venda pela moderninha
+a receber
+84.2
+2686.45
+137
+05-01-2022 00:25:05
+4b7f0ae968a941da9cb5f0a350cb3879
+taxa de intermediação
+a receber
+-2.01
+2684.44
+138
+05-01-2022 00:47:30
+f59ab74bd6fe481395322d6e560ca4d5
+venda pela moderninha
+a receber
+107
+2791.44
+139
+05-01-2022 00:47:44
+f59ab74bd6fe481395322d6e560ca4d5
+taxa de intermediação
+a receber
+-2.56
+2788.88
+140
+05-01-2022 03:19:11
+212ab663b98b4e9c9617df27e0681666
+pagamento liberado
+a receber
+-35.14
+2753.74
+141
+05-01-2022 03:41:47
+32ab80813588464bb456542767af9916
+pagamento liberado
+a receber
+-65.79
+2687.95
+142
+05-01-2022 03:41:49
+e9fdf92f0ae145a5aa6dab181382b728
+pagamento liberado
+a receber
+-35.73
+2652.22
+143
+05-01-2022 12:54:05
+8d00790025164558b307a7cf52a6a951
+venda pela moderninha
+a receber
+20
+2672.22
+144
+05-01-2022 12:57:17
+8d00790025164558b307a7cf52a6a951
+taxa de intermediação
+a receber
+-0.64
+2671.58
+145
+05-01-2022 13:55:24
+deb0e97fbfb740c5bd0e8bb7c10b6c53
+venda pela moderninha
+a receber
+15.3
+2686.88
+146
+05-01-2022 13:56:37
+deb0e97fbfb740c5bd0e8bb7c10b6c53
+taxa de intermediação
+a receber
+-0.37
+2686.51
+147
+05-01-2022 14:28:24
+5def46ddbd99473393f91ca29459a972
+venda pela moderninha
+a receber
+5.7
+2692.21
+148
+05-01-2022 14:28:41
+5def46ddbd99473393f91ca29459a972
+taxa de intermediação
+a receber
+-0.14
+2692.07
+149
+05-01-2022 14:33:58
+dfb0a411d2fd4728a14eadb316ddcac0
+venda pela moderninha
+a receber
+12
+2704.07
+150
+05-01-2022 14:34:23
+dfb0a411d2fd4728a14eadb316ddcac0
+taxa de intermediação
+a receber
+-0.29
+2703.78
+151
+06-01-2022 03:32:07
+5def46ddbd99473393f91ca29459a972
+pagamento liberado
+a receber
+-5.56
+2698.22
+152
+06-01-2022 03:33:22
+f59ab74bd6fe481395322d6e560ca4d5
+pagamento liberado
+a receber
+-104.44
+2593.78
+153
+06-01-2022 03:33:23
+deb0e97fbfb740c5bd0e8bb7c10b6c53
+pagamento liberado
+a receber
+-14.93
+2578.85
+154
+06-01-2022 03:33:28
+4b7f0ae968a941da9cb5f0a350cb3879
+pagamento liberado
+a receber
+-82.19
+2496.66
+155
+06-01-2022 03:33:28
+dfb0a411d2fd4728a14eadb316ddcac0
+pagamento liberado
+a receber
+-11.71
+2484.95
+156
+06-01-2022 08:19:58
+f97c995f105f43eeaaf25f96596d43fa
+venda pela moderninha
+a receber
+6
+2490.95
+157
+06-01-2022 08:20:15
+f97c995f105f43eeaaf25f96596d43fa
+taxa de intermediação
+a receber
+-0.14
+2490.81
+158
+06-01-2022 12:14:44
+8d2c8fda839443f7b7d4a9f5ba337066
+venda pela moderninha
+a receber
+102.3
+2593.11
+159
+06-01-2022 12:15:59
+8d2c8fda839443f7b7d4a9f5ba337066
+taxa de intermediação
+a receber
+-2.44
+2590.67
+160
+06-01-2022 12:18:25
+194c1c83c7e74db5b77a7717c99c0f8f
+venda pela moderninha
+a receber
+29
+2619.67
+161
+06-01-2022 12:18:42
+194c1c83c7e74db5b77a7717c99c0f8f
+taxa de intermediação
+a receber
+-0.69
+2618.98
+162
+06-01-2022 12:23:00
+e46a5bb9fb8b46a28c3a04d2747d7280
+venda pela moderninha
+a receber
+86.2
+2705.18
+163
+06-01-2022 12:23:12
+e46a5bb9fb8b46a28c3a04d2747d7280
+taxa de intermediação
+a receber
+-2.06
+2703.12
+164
+06-01-2022 12:24:50
+06987b08928648ba8bddcdb720c05c4e
+venda pela moderninha
+a receber
+87.3
+2790.42
+165
+06-01-2022 12:25:01
+06987b08928648ba8bddcdb720c05c4e
+taxa de intermediação
+a receber
+-2.09
+2788.33
+166
+06-01-2022 12:43:29
+79724bf5e33e466697722803babc2e55
+venda pela moderninha
+a receber
+46.2
+2834.53
+167
+06-01-2022 12:43:39
+79724bf5e33e466697722803babc2e55
+taxa de intermediação
+a receber
+-1.1
+2833.43
+168
+06-01-2022 12:52:18
+bb2d396ee2d54e4e80cfc3862d5d5359
+venda pela moderninha
+a receber
+40.1
+2873.53
+169
+06-01-2022 12:52:34
+bb2d396ee2d54e4e80cfc3862d5d5359
+taxa de intermediação
+a receber
+-0.96
+2872.57
+170
+06-01-2022 13:05:29
+574870e7c7cf4cbbb11a61d51a358c0d
+venda pela moderninha
+a receber
+147.96
+3020.53
+171
+06-01-2022 13:08:33
+574870e7c7cf4cbbb11a61d51a358c0d
+taxa de intermediação
+a receber
+-4.72
+3015.81
+172
+06-01-2022 13:20:54
+d602ac4963fc4a75a72a901605700ff7
+venda pela moderninha
+a receber
+17.7
+3033.51
+173
+06-01-2022 13:21:10
+d602ac4963fc4a75a72a901605700ff7
+taxa de intermediação
+a receber
+-0.42
+3033.09
+174
+06-01-2022 13:34:28
+4eccfad5c7094e60b198fe29cf3f47cf
+venda pela moderninha
+a receber
+49.66
+3082.75
+175
+06-01-2022 13:34:42
+4eccfad5c7094e60b198fe29cf3f47cf
+taxa de intermediação
+a receber
+-1.19
+3081.56
+176
+07-01-2022 02:03:43
+0291d987eb0e446696ee783110d0bb41
+venda pela moderninha
+a receber
+21.6
+3103.16
+177
+07-01-2022 02:06:35
+0291d987eb0e446696ee783110d0bb41
+taxa de intermediação
+a receber
+-0.69
+3102.47
+178
+07-01-2022 02:48:17
+50fb06953c2e40aba182a3ef87de80e8
+venda pela moderninha
+a receber
+48.5
+3150.97
+179
+07-01-2022 02:48:36
+50fb06953c2e40aba182a3ef87de80e8
+taxa de intermediação
+a receber
+-1.16
+3149.81
+180
+07-01-2022 03:17:46
+98bf9282f7c04b3aacd4f7e40c082f70
+pagamento liberado
+a receber
+-50.83
+3098.98
+181
+07-01-2022 03:18:32
+8d2c8fda839443f7b7d4a9f5ba337066
+pagamento liberado
+a receber
+-99.86
+2999.12
+182
+07-01-2022 03:24:25
+809385ea8c934ee18ad406a06acd10b3
+pagamento liberado
+a receber
+-38.14
+2960.98
+183
+07-01-2022 03:24:31
+5924b14cd19a4edd805de89e35596cce
+pagamento liberado
+a receber
+-7.74
+2953.24
+184
+07-01-2022 03:31:43
+194c1c83c7e74db5b77a7717c99c0f8f
+pagamento liberado
+a receber
+-28.31
+2924.93
+185
+07-01-2022 03:31:43
+06987b08928648ba8bddcdb720c05c4e
+pagamento liberado
+a receber
+-85.21
+2839.72
+186
+07-01-2022 03:31:43
+4eccfad5c7094e60b198fe29cf3f47cf
+pagamento liberado
+a receber
+-48.47
+2791.25
+187
+07-01-2022 03:31:43
+f97c995f105f43eeaaf25f96596d43fa
+pagamento liberado
+a receber
+-5.86
+2785.39
+188
+07-01-2022 03:31:44
+e46a5bb9fb8b46a28c3a04d2747d7280
+pagamento liberado
+a receber
+-84.14
+2701.25
+189
+07-01-2022 03:31:45
+bb2d396ee2d54e4e80cfc3862d5d5359
+pagamento liberado
+a receber
+-39.14
+2662.11
+190
+07-01-2022 03:31:49
+79724bf5e33e466697722803babc2e55
+pagamento liberado
+a receber
+-45.1
+2617.01
+191
+07-01-2022 03:31:51
+d602ac4963fc4a75a72a901605700ff7
+pagamento liberado
+a receber
+-17.28
+2599.73
+192
+07-01-2022 06:39:17
+445787e2655e4ef28e6d35dad79a0994
+venda pela moderninha
+a receber
+48
+2647.73
+193
+07-01-2022 06:39:36
+445787e2655e4ef28e6d35dad79a0994
+taxa de intermediação
+a receber
+-1.15
+2646.58
+194
+07-01-2022 12:15:18
+4c869e7101d54e0fad4f9c0e04becf0e
+venda pela moderninha
+a receber
+2.7
+2649.28
+195
+07-01-2022 12:15:37
+4c869e7101d54e0fad4f9c0e04becf0e
+taxa de intermediação
+a receber
+-0.06
+2649.22
+196
+07-01-2022 12:16:00
+28b2f6743e3049dc9ea3d017b85202ea
+venda pela moderninha
+a receber
+12
+2661.22
+197
+07-01-2022 12:19:05
+28b2f6743e3049dc9ea3d017b85202ea
+taxa de intermediação
+a receber
+-0.38
+2660.84
+198
+07-01-2022 12:37:56
+075d3064ed2142a08d0597956d77ac41
+venda pela moderninha
+a receber
+1.2
+2662.04
+199
+07-01-2022 12:38:52
+e03fdc76b65c477da5749fa58a62be7b
+venda pela moderninha
+a receber
+1.2
+2663.24
+200
+07-01-2022 12:40:00
+e03fdc76b65c477da5749fa58a62be7b
+taxa de intermediação
+a receber
+-0.03
+2663.21
+201
+07-01-2022 12:40:09
+075d3064ed2142a08d0597956d77ac41
+taxa de intermediação
+a receber
+-0.03
+2663.18
+202
+07-01-2022 12:41:24
+3950ecb431594b32866cf210b4e24c81
+venda pela moderninha
+a receber
+25.6
+2688.78
+203
+07-01-2022 12:42:19
+3950ecb431594b32866cf210b4e24c81
+taxa de intermediação
+a receber
+-0.61
+2688.17
+204
+07-01-2022 12:43:12
+c04dbe7bbc9940b881c44f0472eb5d53
+venda pela moderninha
+a receber
+2.4
+2690.57
+205
+07-01-2022 12:43:54
+c04dbe7bbc9940b881c44f0472eb5d53
+taxa de intermediação
+a receber
+-0.06
+2690.51
+206
+07-01-2022 12:49:30
+bf53951a148349a29bfa54c0540dcae4
+venda pela moderninha
+a receber
+2.7
+2693.21
+207
+07-01-2022 12:51:08
+bf53951a148349a29bfa54c0540dcae4
+taxa de intermediação
+a receber
+-0.06
+2693.15
+208
+07-01-2022 12:59:33
+44162267c36746469a7d92c62cba3ed6
+venda pela moderninha
+a receber
+33.9
+2727.05
+209
+07-01-2022 13:00:34
+44162267c36746469a7d92c62cba3ed6
+taxa de intermediação
+a receber
+-0.81
+2726.24
+210
+07-01-2022 13:18:39
+b6a79108a90f4e27ac88e52c6b779ff1
+venda pela moderninha
+a receber
+24
+2750.24
+211
+07-01-2022 13:19:49
+b6a79108a90f4e27ac88e52c6b779ff1
+taxa de intermediação
+a receber
+-0.57
+2749.67
+212
+07-01-2022 14:36:15
+b88daba85c30451784a5e7e7055f2a00
+venda pela moderninha
+a receber
+16
+2765.67
+213
+07-01-2022 14:36:30
+b88daba85c30451784a5e7e7055f2a00
+taxa de intermediação
+a receber
+-0.38
+2765.29
+214
+07-01-2022 14:39:54
+eaf3df58ba3d4ac9b80f68db20d34c68
+venda pela moderninha
+a receber
+1.2
+2766.49
+215
+07-01-2022 14:40:07
+eaf3df58ba3d4ac9b80f68db20d34c68
+taxa de intermediação
+a receber
+-0.03
+2766.46
+216
+07-01-2022 14:42:33
+a42a6e16a3864fbe9017c48ef796f1dc
+venda pela moderninha
+a receber
+8.3
+2774.76
+217
+07-01-2022 14:42:50
+a42a6e16a3864fbe9017c48ef796f1dc
+taxa de intermediação
+a receber
+-0.2
+2774.56
+218
+07-01-2022 14:45:13
+b04dc4fb83014836bc9f518c521da270
+venda pela moderninha
+a receber
+7.3
+2781.86
+219
+07-01-2022 14:45:33
+b04dc4fb83014836bc9f518c521da270
+taxa de intermediação
+a receber
+-0.17
+2781.69
+220
+07-01-2022 16:18:33
+73bea17609514328aa04d4afd7235028
+venda pela moderninha
+a receber
+20
+2801.69
+221
+07-01-2022 16:19:00
+73bea17609514328aa04d4afd7235028
+taxa de intermediação
+a receber
+-0.48
+2801.21
+222
+07-01-2022 16:19:05
+256761b49dc34fb397d86da1ed2ff15b
+venda pela moderninha
+a receber
+23.4
+2824.61
+223
+07-01-2022 16:19:57
+256761b49dc34fb397d86da1ed2ff15b
+taxa de intermediação
+a receber
+-0.56
+2824.05
+224
+08-01-2022 03:24:54
+3950ecb431594b32866cf210b4e24c81
+pagamento liberado
+a receber
+-24.99
+2799.06
+225
+08-01-2022 03:24:55
+50fb06953c2e40aba182a3ef87de80e8
+pagamento liberado
+a receber
+-47.34
+2751.72
+226
+08-01-2022 03:24:55
+4c869e7101d54e0fad4f9c0e04becf0e
+pagamento liberado
+a receber
+-2.64
+2749.08
+227
+08-01-2022 03:25:00
+b04dc4fb83014836bc9f518c521da270
+pagamento liberado
+a receber
+-7.13
+2741.95
+228
+08-01-2022 03:25:01
+bf53951a148349a29bfa54c0540dcae4
+pagamento liberado
+a receber
+-2.64
+2739.31
+229
+08-01-2022 03:25:50
+46b1c72ff88d48e4b91d3a7f91a1a235
+pagamento liberado
+a receber
+-69.32
+2669.99
+230
+08-01-2022 03:31:12
+beb247f81e164c128f9317ce15696a0f
+pagamento liberado
+a receber
+-136.5
+2533.49
+231
+08-01-2022 03:45:34
+73bea17609514328aa04d4afd7235028
+pagamento liberado
+a receber
+-19.52
+2513.97
+232
+08-01-2022 03:45:34
+e03fdc76b65c477da5749fa58a62be7b
+pagamento liberado
+a receber
+-1.17
+2512.8
+233
+08-01-2022 03:45:36
+075d3064ed2142a08d0597956d77ac41
+pagamento liberado
+a receber
+-1.17
+2511.63
+234
+08-01-2022 03:45:36
+445787e2655e4ef28e6d35dad79a0994
+pagamento liberado
+a receber
+-46.85
+2464.78
+235
+08-01-2022 03:45:36
+a42a6e16a3864fbe9017c48ef796f1dc
+pagamento liberado
+a receber
+-8.1
+2456.68
+236
+08-01-2022 03:45:37
+b6a79108a90f4e27ac88e52c6b779ff1
+pagamento liberado
+a receber
+-23.43
+2433.25
+237
+08-01-2022 03:45:37
+eaf3df58ba3d4ac9b80f68db20d34c68
+pagamento liberado
+a receber
+-1.17
+2432.08
+238
+08-01-2022 03:45:38
+256761b49dc34fb397d86da1ed2ff15b
+pagamento liberado
+a receber
+-22.84
+2409.24
+239
+08-01-2022 03:45:40
+b88daba85c30451784a5e7e7055f2a00
+pagamento liberado
+a receber
+-15.62
+2393.62
+240
+08-01-2022 03:45:42
+c04dbe7bbc9940b881c44f0472eb5d53
+pagamento liberado
+a receber
+-2.34
+2391.28
+241
+08-01-2022 03:45:43
+44162267c36746469a7d92c62cba3ed6
+pagamento liberado
+a receber
+-33.09
+2358.19
+242
+09-01-2022 03:41:53
+e92d15d7e1914bce8dd67e44ddaec556
+pagamento liberado
+a receber
+-118.54
+2239.65
+243
+09-01-2022 03:41:55
+3a675344e1564bd2831a68242cbdd826
+pagamento liberado
+a receber
+-32.19
+2207.46
+244
+09-01-2022 03:43:46
+65c1cc5fe1c241ccb2f7ed696282291c
+pagamento liberado
+a receber
+-36.3
+2171.16
+245
+09-01-2022 03:43:48
+b4eafadcf878457f95f5f922707de258
+pagamento liberado
+a receber
+-5.52
+2165.64
+246
+10-01-2022 12:52:27
+2006b33122514a5c86180ede956d96d9
+venda pela moderninha
+a receber
+37.2
+2202.84
+247
+10-01-2022 12:52:47
+2006b33122514a5c86180ede956d96d9
+taxa de intermediação
+a receber
+-0.67
+2202.17
+248
+10-01-2022 12:57:54
+3eed8bda89e74b6687cf93221152fa94
+venda pela moderninha
+a receber
+12
+2214.17
+249
+10-01-2022 12:58:18
+3eed8bda89e74b6687cf93221152fa94
+taxa de intermediação
+a receber
+-0.21
+2213.96
+250
+10-01-2022 14:17:40
+988cb02ca49248e284a39a0bd3da97bc
+venda pela moderninha
+a receber
+10
+2223.96
+251
+10-01-2022 14:18:00
+988cb02ca49248e284a39a0bd3da97bc
+taxa de intermediação
+a receber
+-0.18
+2223.78
+252
+10-01-2022 14:40:11
+884fcc1ff150491bb3b27c6ccaa5177a
+venda pela moderninha
+a receber
+20.8
+2244.58
+253
+10-01-2022 14:40:29
+884fcc1ff150491bb3b27c6ccaa5177a
+taxa de intermediação
+a receber
+-0.37
+2244.21
+254
+10-01-2022 17:38:17
+d1c502d4a84f42ab8664fa66136b81a1
+venda pela moderninha
+a receber
+134
+2378.21
+255
+10-01-2022 17:42:30
+d1c502d4a84f42ab8664fa66136b81a1
+taxa de intermediação
+a receber
+-5.21
+2373
+256
+10-01-2022 18:16:57
+a9b6b9e8dfab46f5a7d4d5319e0f9256
+venda pela moderninha
+a receber
+30.1
+2403.1
+257
+10-01-2022 18:17:30
+a9b6b9e8dfab46f5a7d4d5319e0f9256
+taxa de intermediação
+a receber
+-0.54
+2402.56
+258
+11-01-2022 03:47:56
+d1c502d4a84f42ab8664fa66136b81a1
+pagamento liberado
+a receber
+-128.79
+2273.77
+259
+11-01-2022 03:49:10
+988cb02ca49248e284a39a0bd3da97bc
+pagamento liberado
+a receber
+-9.82
+2263.95
+260
+11-01-2022 03:50:40
+884fcc1ff150491bb3b27c6ccaa5177a
+pagamento liberado
+a receber
+-20.43
+2243.52
+261
+11-01-2022 03:50:43
+a9b6b9e8dfab46f5a7d4d5319e0f9256
+pagamento liberado
+a receber
+-29.56
+2213.96
+262
+11-01-2022 03:50:52
+3eed8bda89e74b6687cf93221152fa94
+pagamento liberado
+a receber
+-11.79
+2202.17
+263
+11-01-2022 03:51:03
+2006b33122514a5c86180ede956d96d9
+pagamento liberado
+a receber
+-36.53
+2165.64
+264
+13-01-2022 04:37:45
+0cfe83a5114f4055b5eb079dc8270ef8
+pagamento liberado
+a receber
+-8.13
+2157.51
+265
+13-01-2022 04:37:59
+f451dd61ce6d4035b4ad8092759be7ac
+pagamento liberado
+a receber
+-14.52
+2142.99
+266
+13-01-2022 04:38:51
+bea344b8da7c4bab894df8743e5a9a40
+pagamento liberado
+a receber
+-21.3
+2121.69
+267
+13-01-2022 04:57:38
+f98738f3821a44759dde951c54feedef
+pagamento liberado
+a receber
+-8.71
+2112.98
+268
+13-01-2022 04:57:44
+34fa82200923455e87eb6f01dfa237b4
+pagamento liberado
+a receber
+-17.91
+2095.07
+269
+13-01-2022 04:58:06
+9e141c21faca466ebe21631bb0718a7b
+pagamento liberado
+a receber
+-40.66
+2054.41
+270
+13-01-2022 04:58:18
+0567500c7e804e56866c38bbecda84e4
+pagamento liberado
+a receber
+-9.92
+2044.49
+271
+13-01-2022 16:41:54
+7295129228be452d929270863c7e674d
+venda pela moderninha
+a receber
+6
+2050.49
+272
+13-01-2022 16:42:13
+7295129228be452d929270863c7e674d
+taxa de intermediação
+a receber
+-0.11
+2050.38
+273
+13-01-2022 17:07:23
+25e6585211534e1c96bf5a04a8de04de
+venda pela moderninha
+a receber
+44.3
+2094.68
+274
+13-01-2022 17:07:43
+25e6585211534e1c96bf5a04a8de04de
+taxa de intermediação
+a receber
+-0.79
+2093.89
+275
+13-01-2022 17:08:55
+fbb64bba548c41ae9d4c3bf8d3c21f7d
+venda pela moderninha
+a receber
+49.5
+2143.39
+276
+13-01-2022 17:09:13
+fbb64bba548c41ae9d4c3bf8d3c21f7d
+taxa de intermediação
+a receber
+-0.89
+2142.5
+277
+14-01-2022 03:27:34
+cb5d8aa25dfc48a38ab5eae4c33acac7
+pagamento liberado
+a receber
+-26.82
+2115.68
+278
+14-01-2022 03:27:35
+2ff92f9f861b44c4b6cebc8f408834a8
+pagamento liberado
+a receber
+-11.04
+2104.64
+279
+14-01-2022 03:27:40
+b28c0b2c6f084408b38ba54cc9a2470b
+pagamento liberado
+a receber
+-91.89
+2012.75
+280
+14-01-2022 03:50:17
+233b6ac3786840eba23ae68182fffbe2
+pagamento liberado
+a receber
+-9.68
+2003.07
+281
+14-01-2022 03:50:17
+8af36ae35a7b43158c19878ed639618b
+pagamento liberado
+a receber
+-6.78
+1996.29
+282
+14-01-2022 03:50:17
+7c635842f3594adf9ac1474c77e51e13
+pagamento liberado
+a receber
+-2.52
+1993.77
+283
+14-01-2022 03:52:28
+25e6585211534e1c96bf5a04a8de04de
+pagamento liberado
+a receber
+-43.51
+1950.26
+284
+14-01-2022 03:52:28
+7295129228be452d929270863c7e674d
+pagamento liberado
+a receber
+-5.89
+1944.37
+285
+14-01-2022 03:52:32
+fbb64bba548c41ae9d4c3bf8d3c21f7d
+pagamento liberado
+a receber
+-48.61
+1895.76
+286
+15-01-2022 03:10:53
+212acaaf5da8435c9bd8e70aabde312c
+pagamento liberado
+a receber
+-47.44
+1848.32
+287
+15-01-2022 03:16:08
+c7b71f1da7b44362a901f522b5151457
+pagamento liberado
+a receber
+-4.74
+1843.58
+288
+15-01-2022 03:16:10
+90ab038e2e004db3982b449731184547
+pagamento liberado
+a receber
+-22.46
+1821.12
+289
+15-01-2022 03:16:16
+4160786efe134f4ca5c3d255eb824172
+pagamento liberado
+a receber
+-46.47
+1774.65
+290
+16-01-2022 06:53:49
+bd673f7bf3584d8691fff3ce02216400
+pagamento liberado
+a receber
+-94.68
+1679.97
+291
+16-01-2022 06:53:54
+1b113f619e68447fb6eec601adb0fe4a
+pagamento liberado
+a receber
+-3.87
+1676.1
+292
+20-01-2022 14:01:48
+184514c161694a38b89929b9de7eb7a7
+venda pela moderninha
+a receber
+63
+1739.1
+293
+20-01-2022 14:02:02
+184514c161694a38b89929b9de7eb7a7
+taxa de intermediação
+a receber
+-1.13
+1737.97
+294
+20-01-2022 15:10:25
+641c4bd10fb44643a82c3b1c88de7967
+venda pela moderninha
+a receber
+32
+1769.97
+295
+20-01-2022 15:10:42
+641c4bd10fb44643a82c3b1c88de7967
+taxa de intermediação
+a receber
+-0.57
+1769.4
+296
+20-01-2022 15:20:37
+210ae170227146d198141fef8f77fd44
+venda pela moderninha
+a receber
+36.2
+1805.6
+297
+20-01-2022 15:23:43
+210ae170227146d198141fef8f77fd44
+taxa de intermediação
+a receber
+-1.44
+1804.16
+298
+20-01-2022 17:17:17
+4704cfbd99d341a4b5ca3d0c644a109e
+venda pela moderninha
+a receber
+224.6
+2028.76
+299
+20-01-2022 17:21:31
+4704cfbd99d341a4b5ca3d0c644a109e
+taxa de intermediação
+a receber
+-8.74
+2020.02
+300
+21-01-2022 03:11:04
+184514c161694a38b89929b9de7eb7a7
+pagamento liberado
+a receber
+-61.87
+1958.15
+301
+21-01-2022 03:17:14
+210ae170227146d198141fef8f77fd44
+pagamento liberado
+a receber
+-34.76
+1923.39
+302
+21-01-2022 03:32:37
+641c4bd10fb44643a82c3b1c88de7967
+pagamento liberado
+a receber
+-31.43
+1891.96
+303
+21-01-2022 03:49:20
+d3ede122b58d4a63888856e9ee0e8fcc
+pagamento liberado
+a receber
+-32.62
+1859.34
+304
+21-01-2022 03:49:20
+4704cfbd99d341a4b5ca3d0c644a109e
+pagamento liberado
+a receber
+-215.86
+1643.48
+305
+21-01-2022 06:37:33
+db9d688f16c547b1a77b06e004a69354
+venda pela moderninha
+a receber
+34.5
+1677.98
+306
+21-01-2022 06:37:37
+db9d688f16c547b1a77b06e004a69354
+taxa de intermediação
+a receber
+-0.62
+1677.36
+307
+22-01-2022 03:20:55
+8866d55a62754cfeba6c3c1b70fc928b
+pagamento liberado
+a receber
+-93.91
+1583.45
+308
+22-01-2022 03:33:17
+877d0d48639f418e9f732cb602ac2d59
+pagamento liberado
+a receber
+-36.79
+1546.66
+309
+22-01-2022 03:51:50
+db9d688f16c547b1a77b06e004a69354
+pagamento liberado
+a receber
+-33.88
+1512.78
+310
+22-01-2022 04:01:54
+9f8afe2528a74b3f9ff512a183477ebc
+pagamento liberado
+a receber
+-37.76
+1475.02
+311
+25-01-2022 20:57:33
+7a2ae8b1ca6a4cdb9cc82e7995a4cf6a
+venda pela moderninha
+a receber
+150.9
+1625.92
+312
+25-01-2022 21:15:17
+7a2ae8b1ca6a4cdb9cc82e7995a4cf6a
+taxa de parcelamento de cartão de crédito
+a receber
+-6.52
+1619.4
+313
+25-01-2022 21:15:17
+7a2ae8b1ca6a4cdb9cc82e7995a4cf6a
+taxa de intermediação
+a receber
+-3.91
+1615.49
+314
+25-01-2022 21:15:35
+e8bdaa882a1c433aa79b8a5e01a40e81
+venda pela moderninha
+a receber
+14.8
+1630.29
+315
+25-01-2022 21:51:32
+e8bdaa882a1c433aa79b8a5e01a40e81
+taxa de intermediação
+a receber
+-0.26
+1630.03
+316
+25-01-2022 22:28:21
+29723768566646399942e96681654f88
+venda pela moderninha
+a receber
+33.5
+1663.53
+317
+25-01-2022 22:28:27
+29723768566646399942e96681654f88
+taxa de intermediação
+a receber
+-0.6
+1662.93
+318
+26-01-2022 03:54:50
+29723768566646399942e96681654f88
+pagamento liberado
+a receber
+-32.9
+1630.03
+319
+26-01-2022 03:55:01
+e8bdaa882a1c433aa79b8a5e01a40e81
+pagamento liberado
+a receber
+-14.54
+1615.49
+320
+26-01-2022 03:59:40
+9d67e00c4c0441c0b92aea5cb940e24b
+pagamento liberado
+a receber
+-44.49
+1571
+321
+26-01-2022 04:01:38
+7a2ae8b1ca6a4cdb9cc82e7995a4cf6a
+pagamento liberado
+a receber
+-140.47
+1430.53
+322
+27-01-2022 13:12:33
+6a3f9b01ebee4e548e131c50df3e5ebb
+venda pela moderninha
+a receber
+22
+1452.53
+323
+27-01-2022 13:13:23
+6a3f9b01ebee4e548e131c50df3e5ebb
+taxa de intermediação
+a receber
+-0.39
+1452.14
+324
+27-01-2022 15:30:13
+d1a58e441e214df6bd64e58f375849e2
+venda pela moderninha
+a receber
+40.7
+1492.84
+325
+27-01-2022 15:31:57
+d1a58e441e214df6bd64e58f375849e2
+taxa de intermediação
+a receber
+-0.73
+1492.11
+326
+27-01-2022 15:32:25
+32e9ae6df361469db9100b939a5737bb
+venda pela moderninha
+a receber
+50
+1542.11
+327
+27-01-2022 15:34:07
+32e9ae6df361469db9100b939a5737bb
+taxa de intermediação
+a receber
+-0.9
+1541.21
+328
+27-01-2022 16:05:54
+a1b1d343bbdc46e58d37e0380061d4ce
+venda pela moderninha
+a receber
+24
+1565.21
+329
+27-01-2022 16:06:15
+a1b1d343bbdc46e58d37e0380061d4ce
+taxa de intermediação
+a receber
+-0.43
+1564.78
+330
+27-01-2022 16:39:08
+cebca6a55e2e40f691446416c6013313
+venda pela moderninha
+a receber
+63
+1627.78
+331
+27-01-2022 16:39:28
+cebca6a55e2e40f691446416c6013313
+taxa de intermediação
+a receber
+-1.13
+1626.65
+332
+27-01-2022 17:00:06
+cb52c7333a1d4ec783c603ba76c8c4ba
+venda pela moderninha
+a receber
+73.7
+1700.35
+333
+27-01-2022 17:00:45
+cb52c7333a1d4ec783c603ba76c8c4ba
+taxa de intermediação
+a receber
+-1.32
+1699.03
+334
+27-01-2022 17:12:03
+074a96e672594610bc838ddcfa1c1f8d
+venda pela moderninha
+a receber
+26
+1725.03
+335
+27-01-2022 17:16:06
+074a96e672594610bc838ddcfa1c1f8d
+taxa de intermediação
+a receber
+-1.01
+1724.02
+336
+27-01-2022 17:18:42
+a057b6f8841d4af8a34342fa0ee6f183
+venda pela moderninha
+a receber
+66.3
+1789.13
+337
+27-01-2022 17:18:51
+a057b6f8841d4af8a34342fa0ee6f183
+taxa de intermediação
+a receber
+-1.19
+1722.83
+338
+28-01-2022 03:09:10
+32e9ae6df361469db9100b939a5737bb
+pagamento liberado
+a receber
+-49.1
+1694.85
+339
+28-01-2022 03:09:11
+a057b6f8841d4af8a34342fa0ee6f183
+pagamento liberado
+a receber
+-65.11
+1629.74
+340
+28-01-2022 03:09:12
+cb52c7333a1d4ec783c603ba76c8c4ba
+pagamento liberado
+a receber
+-72.38
+1557.36
+341
+28-01-2022 03:09:13
+cebca6a55e2e40f691446416c6013313
+pagamento liberado
+a receber
+-61.87
+1495.49
+342
+28-01-2022 03:09:29
+6a3f9b01ebee4e548e131c50df3e5ebb
+pagamento liberado
+a receber
+-21.61
+1767.52
+343
+28-01-2022 03:09:30
+a1b1d343bbdc46e58d37e0380061d4ce
+pagamento liberado
+a receber
+-23.57
+1743.95
+344
+28-01-2022 03:09:38
+d1a58e441e214df6bd64e58f375849e2
+pagamento liberado
+a receber
+-39.97
+1455.52
+345
+28-01-2022 03:20:17
+074a96e672594610bc838ddcfa1c1f8d
+pagamento liberado
+a receber
+-24.99
+1430.53
+346
+28-01-2022 06:11:38
+3cc1409048ce466699dcb2bdcd639ad5
+venda pela moderninha
+a receber
+23
+1453.53
+347
+28-01-2022 06:12:02
+3cc1409048ce466699dcb2bdcd639ad5
+taxa de intermediação
+a receber
+-0.46
+1453.07
+348
+28-01-2022 06:19:46
+c187c6105e71402d97659aa616bce683
+venda pela moderninha
+a receber
+15
+1468.07
+349
+28-01-2022 06:19:54
+c187c6105e71402d97659aa616bce683
+taxa de intermediação
+a receber
+-0.27
+1467.8
+350
+29-01-2022 03:16:13
+3cc1409048ce466699dcb2bdcd639ad5
+pagamento liberado
+a receber
+-22.54
+1445.26
+351
+29-01-2022 03:38:35
+b2da34b5e6754938ab551fa948892e46
+pagamento liberado
+a receber
+-1028.03
+417.23
+352
+29-01-2022 03:39:24
+c187c6105e71402d97659aa616bce683
+pagamento liberado
+a receber
+-14.73
+402.5
+353
+29-01-2022 03:50:28
+03919bbf586345ad9ed52ebe683555b4
+pagamento liberado
+a receber
+-55.67
+346.83
+354
+29-01-2022 03:53:46
+c0fdf3446a7247f1b5031e094fbc3a4e
+pagamento liberado
+a receber
+-63.6
+283.23
+355
+29-01-2022 03:53:50
+7d0634e7f609464d8adb9b38811c8367
+pagamento liberado
+a receber
+-88.1
+195.13
+356
+ ] pagseguro

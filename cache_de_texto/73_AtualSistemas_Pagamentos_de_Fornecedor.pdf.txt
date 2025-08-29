@@ -1,0 +1,1870 @@
+relatório de pagamentos de fornecedor
+empresa:
+1
+página:
+período de 01/06/2020 à 30/06/2020 por ordem de data e sub-ordem de documento
+sg distribuidora ltda                                       
+filial inicial:
+filial documento inicial:
+portador inicial:
+banco inicial:
+conta caixa inicial:
+usuário inicial:
+fornecedor:
+filial final:
+filial documento final:
+portador final:
+banco final:
+conta caixa final:
+usuário final:
+complemento:
+0099 - creditos                                
+06 - sg distribuidora 
+06 - sg distribuidora 
+01 - w. e. vassoler e cia ltda 
+10 - neguinho motos - sao 
+0001 - carteira                                
+000001 - caixa 
+999999 - atual 
+000999 - pagto. despesas 
+000001 - fundo de 
+000001 - banco do 
+100000 - carteira                                
+ fornecedor, serviço, imposto, 
+todos os fornecedores
+0005 - controle loja            
+centro apuração final:
+0001 - geral                    
+centro apuração inicial:
+exc
+fl fornecedor
+documento
+fl
+pc
+vencto
+vr pago
+vr multa
+vr j uros
+desconto vr total
+cx
+ 6
+ 6
+30/05/20
+ 45392,90
+ 45392,90
+ 1
+ 255 taurus blindagens ltda
+0000167091
+não
+ 1
+ 45392,90
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 45392,90
+ 45392,90
+ 117484
+recibo:
+ 6
+ 6
+30/05/20
+ 2379,23
+ 2379,23
+ 1
+ 513 mb importacao e 
+1000306953
+não
+ 1
+ 2379,23
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 2379,23
+ 2379,23
+ 117485
+recibo:
+ 6
+ 6
+30/05/20
+ 1248,79
+ 1248,79
+ 1
+ 12 comercial motociclo s.a.
+449227
+não
+ 1
+ 1248,79
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1248,79
+ 1248,79
+ 117486
+recibo:
+ 6
+ 6
+31/05/20
+ 868,76
+ 868,76
+ 3
+ 51 comercial rizk  de 
+147352
+não
+ 1
+ 868,76
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 868,76
+ 868,76
+ 117487
+recibo:
+ 6
+ 6
+31/05/20
+ 6488,96
+ 6488,96
+ 1
+ 250 transcherrer 
+60195/1
+não
+ 1
+ 6488,96
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 6488,96
+ 6488,96
+ 117488
+recibo:
+ 6
+ 6
+01/06/20
+ 9577,14
+ 9577,14
+ 2
+ 600 cia magnetron industria e 
+0090084561
+não
+ 1
+ 9577,14
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 9577,14
+ 9577,14
+ 117489
+recibo:
+ 6
+ 6
+01/06/20
+ 1417,45
+ 1417,45
+ 3
+ 948 mancisa comercio e 
+009851
+não
+ 1
+ 6
+01/06/20
+ 2917,34
+ 2917,34
+ 3
+9851/pe
+não
+ 1
+ 4334,79
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 4334,79
+ 4334,79
+ 117490
+recibo:
+ 6
+ 6
+01/06/20
+ 95,64
+ 95,64
+ 1
+ 140 cesan  companhia espirito 
+01062020
+não
+ 1
+ 95,64
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 95,64
+ 95,64
+ 117491
+recibo:
+ 6
+ 6
+01/06/20
+ 761,05
+ 761,05
+ 3
+ 1033 lubril lubrificantes ltda
+1311
+não
+ 1
+ 761,05
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 761,05
+ 761,05
+ 117492
+recibo:
+ 6
+ 6
+01/06/20
+ 124,78
+ 124,78
+ 1
+ 133 telemar telecomunicaçoes
+1800084532585
+não
+ 1
+ 6
+01/06/20
+ 128,47
+ 128,47
+ 1
+1800084532722
+não
+ 1
+ 253,25
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 253,25
+ 253,25
+ 117493
+recibo:
+ 6
+ 6
+01/06/20
+ 151,55
+ 151,55
+ 4
+ 767 wls com exp imp de 
+2114-37933
+não
+ 1
+[rforbax] - atual sistemas
+gerado em 29/07/2020 as 10:28:08
+estação: servidor - usuário: susy
+relatório de pagamentos de fornecedor
+empresa:
+2
+página:
+período de 01/06/2020 à 30/06/2020 por ordem de data e sub-ordem de documento
+sg distribuidora ltda                                       
+exc
+fl fornecedor
+documento
+fl
+pc
+vencto
+vr pago
+vr multa
+vr j uros
+desconto vr total
+cx
+ 151,55
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 151,55
+ 151,55
+ 117494
+recibo:
+ 6
+ 6
+01/06/20
+ 1719,31
+ 1719,31
+ 1
+ 960 transcampinense 
+72016-0
+não
+ 1
+ 1719,31
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1719,31
+ 1719,31
+ 117495
+recibo:
+ 6
+ 6
+02/06/20
+ 19620,78
+ 19620,78
+ 1
+ 347 starplast da bahia 
+68592
+não
+ 1
+ 19620,78
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 19620,78
+ 19620,78
+ 117642
+recibo:
+ 6
+ 6
+02/06/20
+ 4651,34
+ 4651,34
+ 2
+ 35 industria e comercio de 
+12325
+não
+ 1
+ 4651,34
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 4651,34
+ 4651,34
+ 117643
+recibo:
+ 6
+ 6
+02/06/20
+ 686,33
+ 686,33
+ 3
+ 51 comercial rizk  de 
+147488
+não
+ 1
+ 686,33
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 686,33
+ 686,33
+ 117644
+recibo:
+ 6
+ 6
+02/06/20
+ 3027,18
+ 3027,18
+ 1
+ 578 x import & export ltda
+280100
+não
+ 1
+ 6
+02/06/20
+ 2385,20
+ 2385,20
+ 1
+28010depos pe
+não
+ 1
+ 5412,38
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 5412,38
+ 5412,38
+ 117645
+recibo:
+ 6
+ 6
+02/06/20
+ 31280,45
+ 31280,45
+ 1
+ 207 eurostar do brasil ltda 
+363320
+não
+ 1
+ 31280,45
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 31280,45
+ 31280,45
+ 117646
+recibo:
+ 6
+ 6
+03/06/20
+ 9095,96
+ 9095,96
+ 1
+ 196 w. murari borrachas epp 
+000014193
+não
+ 1
+ 9095,96
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 9095,96
+ 9095,96
+ 117750
+recibo:
+ 6
+ 6
+03/06/20
+ 21999,16
+ 21999,16
+ 2
+ 639 abrascort coml imp de 
+0090308116
+não
+ 1
+ 21999,16
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 21999,16
+ 21999,16
+ 117751
+recibo:
+ 6
+ 6
+03/06/20
+ 4412,53
+ 4412,53
+ 1
+ 95 jotaesse serigrafia ltda
+11593
+não
+ 1
+ 4412,53
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 4412,53
+ 4412,53
+ 117752
+recibo:
+ 6
+ 6
+03/06/20
+ 14536,85
+ 14536,85
+ 3
+ 12 comercial motociclo s.a.
+445896
+não
+ 1
+ 14536,85
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 14536,85
+ 14536,85
+ 117753
+recibo:
+ 6
+ 6
+03/06/20
+ 1369,20
+ 1369,20
+ 1
+ 973 allure comercio varejista 
+5688
+não
+ 1
+ 1369,20
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1369,20
+ 1369,20
+ 117754
+recibo:
+ 6
+ 6
+03/06/20
+ 220,36
+ 220,36
+ 1
+ 960 transcampinense 
+72272-3
+não
+ 1
+ 220,36
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 220,36
+ 220,36
+ 117755
+recibo:
+[rforbax] - atual sistemas
+gerado em 29/07/2020 as 10:28:08
+estação: servidor - usuário: susy
+relatório de pagamentos de fornecedor
+empresa:
+3
+página:
+período de 01/06/2020 à 30/06/2020 por ordem de data e sub-ordem de documento
+sg distribuidora ltda                                       
+exc
+fl fornecedor
+documento
+fl
+pc
+vencto
+vr pago
+vr multa
+vr j uros
+desconto vr total
+cx
+ 6
+ 6
+03/06/20
+ 1045,53
+ 1045,53
+ 1
+ 440 jl de andrade moschen
+7934
+não
+ 1
+ 1045,53
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1045,53
+ 1045,53
+ 117756
+recibo:
+ 6
+ 6
+03/06/20
+ 13493,42
+ 13493,42
+ 1
+ 93 fabrica nacional de 
+88582
+não
+ 1
+ 13493,42
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 13493,42
+ 13493,42
+ 117757
+recibo:
+ 6
+ 6
+04/06/20
+ 34607,69
+ 34607,69
+ 1
+ 99 rinaldi s/a indust. de 
+176463/1
+não
+ 1
+ 6
+04/06/20
+ 66648,09
+ 66648,09
+ 1
+176465/1
+não
+ 1
+ 101255,78
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 101255,78
+ 101255,78
+ 117845
+recibo:
+ 6
+ 6
+04/06/20
+ 658,59
+ 658,59
+ 1
+ 131 empresa de luz e força 
+3266526
+não
+ 1
+ 658,59
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 658,59
+ 658,59
+ 117846
+recibo:
+ 6
+ 6
+04/06/20
+ 29679,47
+ 29679,47
+ 5
+ 26 marlon bonilha eireli
+700530
+não
+ 1
+ 29679,47
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 29679,47
+ 29679,47
+ 117847
+recibo:
+ 6
+ 1
+05/06/20
+ 64,00
+ 64,00
+ 1
+ 130 jose ricardo altoe - me
+05/06/20
+não
+ 1
+ 64,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 64,00
+ 64,00
+ 117928
+recibo:
+ 6
+ 1
+05/06/20
+ 2313,29
+ 2313,29
+ 1
+ 143 fgts - fundo de garantia 
+05/2020
+não
+ 1
+ 2313,29
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 2313,29
+ 2313,29
+ 117930
+recibo:
+ 6
+ 4
+05/06/20
+ 1065,00
+ 1065,00
+ 1
+ 424 r b vilela contabilidade 
+05/06/20
+não
+ 1
+ 1065,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1065,00
+ 1065,00
+ 117931
+recibo:
+ 6
+ 4
+05/06/20
+ 1372,22
+ 1372,22
+ 1
+ 143 fgts - fundo de garantia 
+05/2020
+não
+ 1
+ 1372,22
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1372,22
+ 1372,22
+ 117932
+recibo:
+ 6
+ 4
+05/06/20
+ 64,00
+ 64,00
+ 1
+ 130 jose ricardo altoe - me
+05062020
+não
+ 1
+ 64,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 64,00
+ 64,00
+ 117933
+recibo:
+ 6
+ 6
+05/06/20
+ 287,37
+ 287,37
+ 1
+ 143 fgts - fundo de garantia 
+020620
+não
+ 1
+ 6
+05/06/20
+ 183,02
+ 183,02
+ 1
+05/2020
+não
+ 1
+ 470,39
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 470,39
+ 470,39
+ 117934
+recibo:
+ 6
+ 6
+05/06/20
+ 1538,11
+ 1538,11
+ 1
+ 130 jose ricardo altoe - me
+05062020
+não
+ 1
+ 1538,11
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1538,11
+ 1538,11
+ 117935
+recibo:
+ 6
+ 6
+05/06/20
+ 2197,00
+ 2197,00
+ 1
+ 424 r b vilela contabilidade 
+05/06/20
+não
+ 1
+[rforbax] - atual sistemas
+gerado em 29/07/2020 as 10:28:08
+estação: servidor - usuário: susy
+relatório de pagamentos de fornecedor
+empresa:
+4
+página:
+período de 01/06/2020 à 30/06/2020 por ordem de data e sub-ordem de documento
+sg distribuidora ltda                                       
+exc
+fl fornecedor
+documento
+fl
+pc
+vencto
+vr pago
+vr multa
+vr j uros
+desconto vr total
+cx
+ 2197,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 2197,00
+ 2197,00
+ 117936
+recibo:
+ 6
+ 6
+05/06/20
+ 16751,68
+ 16751,68
+ 1
+ 435 nac vitoria comercial de 
+050620
+não
+ 1
+ 16751,68
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 16751,68
+ 16751,68
+ 117937
+recibo:
+ 6
+ 6
+05/06/20
+ 43117,54
+ 43117,54
+ 1
+ 23 vedamotors componestes 
+1112907
+não
+ 1
+ 43117,54
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 43117,54
+ 43117,54
+ 117938
+recibo:
+ 6
+ 6
+05/06/20
+ 89400,00
+ 89400,00
+ 1
+ 4 rodolub s.a. comercio de 
+143712
+não
+ 1
+ 89400,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 89400,00
+ 89400,00
+ 117939
+recibo:
+ 6
+ 6
+05/06/20
+ 1773,89
+ 1773,89
+ 1
+ 1033 lubril lubrificantes ltda
+2350
+não
+ 1
+ 1773,89
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1773,89
+ 1773,89
+ 117940
+recibo:
+ 6
+ 6
+05/06/20
+ 606,13
+ 606,13
+ 1
+ 578 x import & export ltda
+28041
+não
+ 1
+ 6
+05/06/20
+ 467,05
+ 467,05
+ 1
+28041/depos
+não
+ 1
+ 6
+05/06/20
+ 1086,57
+ 1086,57
+ 1
+28044
+não
+ 1
+ 6
+05/06/20
+ 887,52
+ 887,52
+ 1
+28044/depos
+não
+ 1
+ 3047,27
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 3047,27
+ 3047,27
+ 117941
+recibo:
+ 6
+ 6
+05/06/20
+ 3799,51
+ 3799,51
+ 2
+ 1059 redseg uniformes 
+2853
+não
+ 1
+ 3799,51
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 3799,51
+ 3799,51
+ 117942
+recibo:
+ 6
+ 6
+05/06/20
+ 25952,96
+ 25952,96
+ 1
+ 182 wgk industria mecanica 
+53036
+não
+ 1
+ 25952,96
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 25952,96
+ 25952,96
+ 117943
+recibo:
+ 6
+ 7
+05/06/20
+ 594,43
+ 594,43
+ 1
+ 143 fgts - fundo de garantia 
+05/2020
+não
+ 1
+ 594,43
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 594,43
+ 594,43
+ 117944
+recibo:
+ 6
+ 8
+05/06/20
+ 1065,00
+ 1065,00
+ 1
+ 424 r b vilela contabilidade 
+05/06/20
+não
+ 1
+ 1065,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1065,00
+ 1065,00
+ 117947
+recibo:
+ 6
+ 8
+05/06/20
+ 1261,13
+ 1261,13
+ 1
+ 143 fgts - fundo de garantia 
+05/2020
+não
+ 1
+ 1261,13
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1261,13
+ 1261,13
+ 117948
+recibo:
+ 6
+ 8
+05/06/20
+ 418,00
+ 418,00
+ 1
+ 130 jose ricardo altoe - me
+05062020
+não
+ 1
+ 418,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 418,00
+ 418,00
+ 117949
+recibo:
+ 6
+10
+05/06/20
+ 616,00
+ 616,00
+ 1
+ 424 r b vilela contabilidade 
+05/06/20
+não
+ 1
+[rforbax] - atual sistemas
+gerado em 29/07/2020 as 10:28:08
+estação: servidor - usuário: susy
+relatório de pagamentos de fornecedor
+empresa:
+5
+página:
+período de 01/06/2020 à 30/06/2020 por ordem de data e sub-ordem de documento
+sg distribuidora ltda                                       
+exc
+fl fornecedor
+documento
+fl
+pc
+vencto
+vr pago
+vr multa
+vr j uros
+desconto vr total
+cx
+ 616,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 616,00
+ 616,00
+ 117952
+recibo:
+ 6
+10
+05/06/20
+ 926,78
+ 926,78
+ 1
+ 143 fgts - fundo de garantia 
+05/2020
+não
+ 1
+ 926,78
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 926,78
+ 926,78
+ 117953
+recibo:
+ 6
+10
+05/06/20
+ 337,00
+ 337,00
+ 1
+ 130 jose ricardo altoe - me
+05062020
+não
+ 1
+ 337,00
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 337,00
+ 337,00
+ 117954
+recibo:
+ 6
+ 6
+06/06/20
+ 1371,89
+ 1371,89
+ 1
+ 420 boleto  de cliente
+06062020
+não
+ 1
+ 1371,89
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1371,89
+ 1371,89
+ 118027
+recibo:
+ 6
+ 6
+06/06/20
+ 5950,85
+ 5950,85
+ 2
+ 513 mb importacao e 
+1000305532
+não
+ 1
+ 5950,85
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 5950,85
+ 5950,85
+ 118028
+recibo:
+ 6
+ 6
+06/06/20
+ 385,49
+ 385,49
+ 1
+ 51 comercial rizk  de 
+149405
+não
+ 1
+ 385,49
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 385,49
+ 385,49
+ 118029
+recibo:
+ 6
+ 6
+07/06/20
+ 511,66
+ 511,66
+ 3
+ 1003 moto vix serra ltda
+19274/1
+não
+ 1
+ 6
+06/06/20
+ 1125,06
+ 1125,06
+ 2
+20249/1
+não
+ 1
+ 6
+06/06/20
+ 914,45
+ 914,45
+ 1
+21694/1
+não
+ 1
+ 2551,17
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 2551,17
+ 2551,17
+ 118030
+recibo:
+ 6
+ 6
+06/06/20
+ 30723,50
+ 30723,50
+ 3
+ 188 ceara importacao de 
+224547
+não
+ 1
+ 6
+06/06/20
+ 17617,76
+ 17617,76
+ 3
+224547/depos
+não
+ 1
+ 6
+07/06/20
+ 15828,17
+ 15828,17
+ 3
+224558
+não
+ 1
+ 6
+07/06/20
+ 8282,50
+ 8282,50
+ 3
+224558 depos
+não
+ 1
+ 72451,93
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 72451,93
+ 72451,93
+ 118031
+recibo:
+ 6
+ 6
+06/06/20
+ 12265,57
+ 12265,57
+ 1
+ 27 protercapas ltda
+30695
+não
+ 1
+ 12265,57
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 12265,57
+ 12265,57
+ 118032
+recibo:
+ 6
+ 6
+06/06/20
+ 1821,72
+ 1821,72
+ 2
+ 94 danidrea industria e 
+35640
+não
+ 1
+ 1821,72
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 1821,72
+ 1821,72
+ 118033
+recibo:
+ 6
+ 6
+06/06/20
+ 9118,96
+ 9118,96
+ 4
+ 26 marlon bonilha eireli
+704391
+não
+ 1
+ 9118,96
+dinheiro:
+chq:
+chq pré:
+cartão:
+electron:
+banco:
+outros:
+vr pago:
+multa:
+juros:
+desconto:
+crédito:
+vr total:
+ 9118,96
+ 9118,96
+ 118034
+recibo:
+ 6
+ 6
+07/06/20
+ 2640,00
+ 2640,00
+ 1
+ 303 yama lider motos ltda.
+26949/1
+não
+ 1
+[rforbax] - atual sistemas
+gerado em 29/07/2020 as 10:28:08
+estação: servidor - usuário: susy

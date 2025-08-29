@@ -1,0 +1,1218 @@
+cecil concorde - matriz
+data : 16/04/2025
+hsvendas     
+hora : 14:59:58
+contas a pagar / tipo de despesa / conta contabil / tipo
+periodo :
+01/01/2025 à 31/01/2025
+fornecedor
+: todos
+empresa: todas
+situação :todos
+status :
+todos
+tipo despesa
+: todas
+status c.pagar : todos
+ordem de
+vencimento
+empres
+fornecedor
+número título
+vencimento
+valor pagamento
+contas a pagar/pagas
+0
+aclc
+01.05.01
+16
+15533 bosque clube
+919- 0601
+06/01/2025
+263,51 06/01/2025
+16
+31533 gabriel correa cunha
+gabriel- jan
+06/01/2025
+200,00 06/01/2025
+16
+25179 leonardo cunha marx
+leonardo-jan
+06/01/2025
+200,00 06/01/2025
+16
+25178 lucas correa cunha
+lucas- jan
+06/01/2025
+200,00 06/01/2025
+16
+33453 nicolas correia cunha
+nicolas- jan
+06/01/2025
+500,00 06/01/2025
+16
+29376 terezinah conte cunha
+terezinha-jan
+06/01/2025
+1.000,00 06/01/2025
+16
+19151 sky brasil servicos ltda.
+28676222 - dez
+08/01/2025
+573,31 08/01/2025
+16
+16692 antonio carlos leite cunha
+material -
+09/01/2025
+100,00 09/01/2025
+16
+31278 banco bradesco cartoes s.a.
+amex- 1401
+14/01/2025
+17.444,27 14/01/2025
+16
+16692 antonio carlos leite cunha
+chá - 2101
+21/01/2025
+29,40 21/01/2025
+1
+35994 banco bradesco financiamentos s.a.
+qzh0g75 - 2101
+21/01/2025
+1.605,82 21/01/2025
+16
+16692 antonio carlos leite cunha
+limao- 2701
+27/01/2025
+4,67 28/01/2025
+12 conta(s)
+22.120,98
+agua
+01.02.03
+20
+31276 manaus ambiental s/a
+1159100-5 dez24
+09/01/2025
+230,45 09/01/2025
+21
+31276 manaus ambiental s/a
+1530275-0 dez24
+09/01/2025
+230,45 09/01/2025
+21
+31276 manaus ambiental s/a
+1530313-6 dez24
+09/01/2025
+230,45 09/01/2025
+3 conta(s)
+691,35
+aluguel
+02.02.01
+1
+37800 aliansce sonae shopping centers s.a
+aluguel- 0701
+07/01/2025
+48.851,30 07/01/2025
+13
+18282 supermercados db ltda
+alug- 1/2 dez
+09/01/2025
+9.336,91 09/01/2025
+3
+16686 sociedade porvir cientifico - la salle
+aluguel- 1001
+10/01/2025
+4.000,00 10/01/2025
+4
+16605 condominio amazonas
+alug -01/02
+14/01/2025
+25.518,39 14/01/2025
+13
+18282 supermercados db ltda
+alug- 2/2
+16/01/2025
+9.336,91 16/01/2025
+4
+16605 condominio amazonas
+alug -02/02
+21/01/2025
+25.518,37 21/01/2025
+6 conta(s)
+122.561,88
+associações
+01.02.08
+1
+16537 cdl - clube de diretores lojistas de manaus
+151787
+20/01/2025
+593,96 20/01/2025
+16
+16690 associacao comercial do amazonas
+aca aclc-jan25
+27/01/2025
+50,00 27/01/2025
+1
+16690 associacao comercial do amazonas
+cecil- jan25
+27/01/2025
+270,00 27/01/2025
+3 conta(s)
+913,96
+ 
+cancelamento extemporanea nfe
+02.04.23
+1
+15747 documento de arrecadação-dar
+01255030781-2
+10/01/2025
+50,00 10/01/2025
+1 conta(s)
+50,00
+combustiveis
+01.01.03
+1
+32563 posto 3000 ltda
+2993- 1/1
+10/01/2025
+3.679,74 10/01/2025
+16
+15679 posto flutuante nautilus
+diesel - 1901
+19/01/2025
+2.040,00 20/01/2025
+1
+32563 posto 3000 ltda
+3167-1/1
+31/01/2025
+4.846,80 31/01/2025
+3 conta(s)
+10.566,54
+compras conveniados
+02.03.12
+1
+26069 tapajos comercio de medicamentos ltda
+ 80765-1/1
+15/01/2025
+933,24 15/01/2025
+1
+26069 tapajos comercio de medicamentos ltda
+80766-1/1
+15/01/2025
+1.699,50 15/01/2025
+2 conta(s)
+2.632,74
+camila da silva - contas a pa
+1 / 22
+hardsystem - cpagtdpcccont_gr
+cecil concorde - matriz
+data : 16/04/2025
+hsvendas     
+hora : 14:59:58
+contas a pagar / tipo de despesa / conta contabil / tipo
+periodo :
+01/01/2025 à 31/01/2025
+fornecedor
+: todos
+empresa: todas
+situação :todos
+status :
+todos
+tipo despesa
+: todas
+status c.pagar : todos
+ordem de
+vencimento
+empres
+fornecedor
+número título
+vencimento
+valor pagamento
+contas a pagar/pagas
+0
+condominio
+01.05.05
+16
+19282 condominio do edificio palacio adrianopolis
+0800- jan25
+01/01/2025
+3.600,80 02/01/2025
+16
+20959 condominio e edificio saint paul apart service
+133581/001
+01/01/2025
+2.111,74 02/01/2025
+16
+18229 condominio do edificio castelli
+apt 704- 01/13
+05/01/2025
+1.835,00 06/01/2025
+16
+19245 condominio do edificio varandas do atlantico
+varandas-jan25
+05/01/2025
+300,00 06/01/2025
+16
+19004 condominio residencial ephygenio salles
+190/190- jan25
+05/01/2025
+1.900,00 06/01/2025
+16
+23865 condominio residencial parque dos ingleses
+bl8 103- jan25
+05/01/2025
+400,00 06/01/2025
+1
+18830 condominio geral do millennium center
+b801- 0601
+06/01/2025
+853,34 06/01/2025
+1
+18830 condominio geral do millennium center
+b802- 0601
+06/01/2025
+852,55 06/01/2025
+1
+18830 condominio geral do millennium center
+b808- 0601
+06/01/2025
+852,55 06/01/2025
+1
+18830 condominio geral do millennium center
+b809- 0601
+06/01/2025
+852,55 06/01/2025
+1
+18830 condominio geral do millennium center
+b810- 0601
+06/01/2025
+863,70 06/01/2025
+11 conta(s)
+14.422,23
+condominio
+02.02.05
+10
+18830 condominio geral do millennium center
+s275 encar-jan
+12/01/2025
+8.583,36 13/01/2025
+10
+18830 condominio geral do millennium center
+al compls275-12
+15/01/2025
+3.580,14 15/01/2025
+10
+18830 condominio geral do millennium center
+ar e ener -1601
+16/01/2025
+2.443,04 16/01/2025
+3 conta(s)
+14.606,54
+condominio
+01.05.05
+16
+15393 condominio do edificio boulevard amazonas
+ap304- jan25
+31/01/2025
+1.150,00 31/01/2025
+1 conta(s)
+1.150,00
+contabilidade
+01.02.05
+1
+31167 marmentini assessoria e consultoria
+2062 - 2/2
+02/01/2025
+3.750,00 02/01/2025
+16
+31167 marmentini assessoria e consultoria
+2063 - 2/2
+02/01/2025
+1.000,00 02/01/2025
+10
+31167 marmentini assessoria e consultoria
+2064 - 2/2
+02/01/2025
+750,00 02/01/2025
+1
+31167 marmentini assessoria e consultoria
+2091- cecil 1/2
+16/01/2025
+3.750,00 16/01/2025
+16
+31167 marmentini assessoria e consultoria
+2092 - llc 1/2
+16/01/2025
+1.000,00 16/01/2025
+10
+31167 marmentini assessoria e consultoria
+2093- dical 1/2
+16/01/2025
+750,00 16/01/2025
+1
+32603 arquivei servicos on line ltda 
+arquivei2025-01
+17/01/2025
+827,14 17/01/2025
+1
+31167 marmentini assessoria e consultoria
+2091-2/2
+30/01/2025
+3.750,00 30/01/2025
+16
+31167 marmentini assessoria e consultoria
+2092 - 2/2
+30/01/2025
+1.000,00 30/01/2025
+10
+31167 marmentini assessoria e consultoria
+2093 - 2/2
+30/01/2025
+750,00 30/01/2025
+10 conta(s)
+17.327,14
+desembaraco extemporaneo (dar)
+02.04.11
+1
+15747 documento de arrecadação-dar
+01255029136-0
+07/01/2025
+50,00 07/01/2025
+1
+15747 documento de arrecadação-dar
+01255029136-6
+07/01/2025
+50,00 07/01/2025
+1
+15747 documento de arrecadação-dar
+01255029137-6
+07/01/2025
+50,00 07/01/2025
+1
+15747 documento de arrecadação-dar
+01255039018-8
+29/01/2025
+50,00 29/01/2025
+1
+15747 documento de arrecadação-dar
+01255039020-2
+29/01/2025
+50,00 29/01/2025
+1
+15747 documento de arrecadação-dar
+01255039020-5
+29/01/2025
+50,00 29/01/2025
+6 conta(s)
+300,00
+devolucao
+03.04.00
+15
+19880 setor - loja
+devolucao-0201
+02/01/2025
+2,00 03/01/2025
+1
+19880 setor - loja
+devolucao-0401
+04/01/2025
+3,00 06/01/2025
+10
+19880 setor - loja
+devolucao-1001
+10/01/2025
+19,80 13/01/2025
+1
+19880 setor - loja
+devolucao-1101
+11/01/2025
+9,90 13/01/2025
+1
+19880 setor - loja
+devolucao-1501
+15/01/2025
+42,00 16/01/2025
+camila da silva - contas a pa
+2 / 22
+hardsystem - cpagtdpcccont_gr
+cecil concorde - matriz
+data : 16/04/2025
+hsvendas     
+hora : 14:59:58
+contas a pagar / tipo de despesa / conta contabil / tipo
+periodo :
+01/01/2025 à 31/01/2025
+fornecedor
+: todos
+empresa: todas
+situação :todos
+status :
+todos
+tipo despesa
+: todas
+status c.pagar : todos
+ordem de
+vencimento
+empres
+fornecedor
+número título
+vencimento
+valor pagamento
+contas a pagar/pagas
+0
+15
+19880 setor - loja
+devolucao-1801
+18/01/2025
+15,00 20/01/2025
+15
+19880 setor - loja
+devolucao-1901
+19/01/2025
+8,00 20/01/2025
+1
+19880 setor - loja
+devolucao-2101
+21/01/2025
+7,00 22/01/2025
+15
+19880 setor - loja
+devolucao-2901
+29/01/2025
+706,00 29/01/2025
+15
+19880 setor - loja
+devolucao-3101
+31/01/2025
+593,00 31/01/2025
+10 conta(s)
+1.405,70
+emprestimos
+01.03.04
+1
+29310 banco santander (brasil) s.a.
+emprest-02/13
+02/01/2025
+52.778,81 02/01/2025
+1
+21545 banco itau s.a
+600714166-6-24/
+06/01/2025
+32.854,43 06/01/2025
+1
+29990 banco do brasil s/a - agencia rio negro
+592.709.347-12/
+10/01/2025
+73.855,87 10/01/2025
+1
+21545 banco itau s.a
+3146389907-06/1
+11/01/2025
+2.908,45 13/01/2025
+1
+31683 banco bradesco s.a.
+015914602-15/24
+13/01/2025
+57.699,55 13/01/2025
+1
+15991 basa banco da amazonia s/a
+200052 -6
+15/01/2025
+24.156,03 15/01/2025
+1
+15991 basa banco da amazonia s/a
+200056-9
+15/01/2025
+13.392,91 15/01/2025
+1
+15991 basa banco da amazonia s/a
+235206- 14/36
+15/01/2025
+42.921,63 15/01/2025
+1
+15991 basa banco da amazonia s/a
+245089-0-06/36
+15/01/2025
+7.906,37 15/01/2025
+1
+15991 basa banco da amazonia s/a
+24-5171-4-05/10
+15/01/2025
+2.080,37 15/01/2025
+1
+16749 caixa economica federal
+002.192.604-01/
+15/01/2025
+17.560,64 31/01/2025
+1
+21545 banco itau s.a
+3179886829-05/1
+20/01/2025
+2.306,98 20/01/2025
+1
+29990 banco do brasil s/a - agencia rio negro
+592.710.610-03/
+22/01/2025
+38.276,19 22/01/2025
+10
+29990 banco do brasil s/a - agencia rio negro
+592.708.855-02
+27/01/2025
+6.476,03 27/01/2025
+1
+16749 caixa economica federal
+fgi caixa-25/43
+28/01/2025
+57.937,99 28/01/2025
+15 conta(s)
+433.112,25
+encargos bancarios
+01.03.01
+1
+31683 banco bradesco s.a.
+tarifa   020125
+02/01/2025
+196,80 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 020125
+02/01/2025
+9,60 31/01/2025
+1
+29310 banco santander (brasil) s.a.
+tarifa 020125
+02/01/2025
+4,20 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 030125
+03/01/2025
+30,15 31/01/2025
+10
+21545 banco itau s.a
+tarifa 030125
+03/01/2025
+139,89 31/01/2025
+1
+21545 banco itau s.a
+tarifa 030125
+03/01/2025
+166,76 31/01/2024
+1
+31683 banco bradesco s.a.
+tarifa 060125
+06/01/2025
+71,60 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   070125
+07/01/2025
+68,40 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 070125
+07/01/2025
+14,48 31/01/2025
+10
+29990 banco do brasil s/a - agencia rio negro
+tarifa 070125
+07/01/2025
+171,20 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   080125
+08/01/2025
+175,60 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 080125
+08/01/2025
+6,40 31/01/2025
+1
+16749 caixa economica federal
+tarifa 080125
+08/01/2025
+27,90 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   090125
+09/01/2025
+68,00 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 090125
+09/01/2025
+79,95 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   100125
+10/01/2025
+3,20 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa  100125
+10/01/2025
+161,15 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 100125
+10/01/2025
+2,65 31/01/2025
+1
+29990 banco do brasil s/a - agencia rio negro
+tarifa 100125
+10/01/2025
+95,00 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 130125
+13/01/2025
+57,60 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   140125
+14/01/2025
+58,40 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 140125
+14/01/2025
+10,88 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   150125
+15/01/2025
+130,00 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 150125
+15/01/2025
+171,70 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   160125
+16/01/2025
+56,20 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 170125
+17/01/2025
+59,60 31/01/2025
+camila da silva - contas a pa
+3 / 22
+hardsystem - cpagtdpcccont_gr
+cecil concorde - matriz
+data : 16/04/2025
+hsvendas     
+hora : 14:59:58
+contas a pagar / tipo de despesa / conta contabil / tipo
+periodo :
+01/01/2025 à 31/01/2025
+fornecedor
+: todos
+empresa: todas
+situação :todos
+status :
+todos
+tipo despesa
+: todas
+status c.pagar : todos
+ordem de
+vencimento
+empres
+fornecedor
+número título
+vencimento
+valor pagamento
+contas a pagar/pagas
+0
+1
+31683 banco bradesco s.a.
+tarifa   200125
+20/01/2025
+76,80 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 200125
+20/01/2025
+3,20 31/01/2025
+1
+21545 banco itau s.a
+tarifa 200125
+20/01/2025
+24,07 31/01/2024
+1
+16749 caixa economica federal
+tarifa 200125
+20/01/2025
+27,90 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa  210125
+21/01/2025
+72,80 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 210125
+21/01/2025
+20,48 31/01/2025
+1
+29310 banco santander (brasil) s.a.
+tarifa 210125
+21/01/2025
+23,30 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   220125
+22/01/2025
+224,55 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 220125
+22/01/2025
+2,65 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   230125
+23/01/2025
+76,40 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 230125
+23/01/2025
+3,20 31/01/2025
+1
+29310 banco santander (brasil) s.a.
+tarifa 230125
+23/01/2025
+9,90 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 240125
+24/01/2025
+76,40 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 270125
+27/01/2025
+69,60 31/01/2025
+1
+29990 banco do brasil s/a - agencia rio negro
+tarifa 270125
+27/01/2025
+171,20 31/01/2025
+1
+29310 banco santander (brasil) s.a.
+tarifa 270125
+27/01/2025
+16,00 31/01/2025
+10
+16749 caixa economica federal
+cest 270125
+27/01/2025
+75,00 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   280125
+28/01/2025
+74,80 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 280125
+28/01/2025
+9,20 31/01/2025
+10
+21545 banco itau s.a
+tarifa 280125
+28/01/2025
+165,00 31/01/2025
+1
+29310 banco santander (brasil) s.a.
+tarifa 280125
+28/01/2025
+1,75 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   290125
+29/01/2025
+212,40 31/01/2025
+1
+21545 banco itau s.a
+tarifa 290125
+29/01/2025
+165,00 31/01/2024
+1
+31683 banco bradesco s.a.
+tarifa 300125
+30/01/2025
+80,80 31/01/2025
+1
+29310 banco santander (brasil) s.a.
+tarifa 300125
+30/01/2025
+19,78 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa   310125
+31/01/2025
+3,17 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa  310125
+31/01/2025
+76,40 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifa 310125
+31/01/2025
+95,00 31/01/2025
+1
+31683 banco bradesco s.a.
+tarifab 310125
+31/01/2025
+76,40
+1
+29310 banco santander (brasil) s.a.
+tarifa 310125
+31/01/2025
+280,00 31/01/2025
+56 conta(s)
+4.270,46
+energia
+02.02.03
+16
+19807 amazonas distribuidora de energia  
+605168-5-dez24
+08/01/2025
+1.126,01 08/01/2025
+16
+19807 amazonas distribuidora de energia  
+678200-0- dez24
+08/01/2025
+94,50 08/01/2025
+16
+19807 amazonas distribuidora de energia  
+939296-3- dez24
+08/01/2025
+1.031,89 08/01/2025
+16
+19807 amazonas distribuidora de energia  
+284444-3- dez24
+09/01/2025
+153,82 09/01/2025
+1
+19807 amazonas distribuidora de energia  
+288047-4-dez24
+09/01/2025
+1.681,97 09/01/2025
+1
+19807 amazonas distribuidora de energia  
+288048-2-dez24
+09/01/2025
+650,68 09/01/2025
+1
+19807 amazonas distribuidora de energia  
+288050-4- dez24
+09/01/2025
+321,06 09/01/2025
+1
+19807 amazonas distribuidora de energia  
+288049-0- 12/24
+11/01/2025
+38,26 13/01/2025
+16
+19807 amazonas distribuidora de energia  
+2149426-6-12/24
+13/01/2025
+721,04 13/01/2025
+16
+19807 amazonas distribuidora de energia  
+428122-5-dez24
+13/01/2025
+290,22 13/01/2025
+21
+19807 amazonas distribuidora de energia  
+429246-4-dez24
+13/01/2025
+98,24 13/01/2025
+20
+19807 amazonas distribuidora de energia  
+445492-8-dez24
+15/01/2025
+98,24 15/01/2025
+1
+19807 amazonas distribuidora de energia  
+87251-2-dez24
+17/01/2025
+10.015,86 17/01/2025
+21
+19807 amazonas distribuidora de energia  
+429246-4-
+22/01/2025
+324,46 22/01/2025
+21
+19807 amazonas distribuidora de energia  
+341129-0 jan/25
+23/01/2025
+1.167,23 23/01/2025
+15 conta(s)
+17.813,48
+escritorio publicitario
+01.02.04
+1
+18208 radio taruma ltda
+5960- dez24
+02/01/2025
+2.400,00 02/01/2025
+camila da silva - contas a pa
+4 / 22
+hardsystem - cpagtdpcccont_gr
+cecil concorde - matriz
+data : 16/04/2025
+hsvendas     
+hora : 14:59:58
+contas a pagar / tipo de despesa / conta contabil / tipo
+periodo :
+01/01/2025 à 31/01/2025
+fornecedor
+: todos
+empresa: todas
+situação :todos
+status :
+todos
+tipo despesa
+: todas
+status c.pagar : todos
+ordem de
+vencimento
+empres
+fornecedor
+número título
+vencimento
+valor pagamento
+contas a pagar/pagas
+0
+1
+15339 tape publicidade ltda
+5159- dez24
+02/01/2025
+600,00 02/01/2025
+1
+15339 tape publicidade ltda
+5162
+25/01/2025
+1.885,00 27/01/2025
+3 conta(s)
+4.885,00
+ferias
+02.03.03
+1
+19329 ferias
+ana paula-3101
+31/01/2025
+3.552,39 31/01/2025
+1 conta(s)
+3.552,39
+fgts
+02.03.05
+16
+30914 documento de arrecadacao do esocial
+13º/2024
+20/01/2025
+230,15 20/01/2025
+16
+30914 documento de arrecadacao do esocial
+13º/2024-
+20/01/2025
+230,15 20/01/2025
+16
+30914 documento de arrecadacao do esocial
+13º/2024 - 2001
+20/01/2025
+153,42 20/01/2025
+16
+30914 documento de arrecadacao do esocial
+danrley -dez24
+20/01/2025
+405,32 20/01/2025
+16
+30914 documento de arrecadacao do esocial
+enis- dez24
+20/01/2025
+467,36 20/01/2025
+16
+30914 documento de arrecadacao do esocial
+yolanda-dez
+20/01/2025
+441,00 20/01/2025
+10
+15448 fgts-guia de recolhimento do fgts - gre
+13º/2024
+20/01/2025
+3.776,98 20/01/2025
+1
+15448 fgts-guia de recolhimento do fgts - gre
+13º/2024
+20/01/2025
+3.464,29 20/01/2025
+1
+15448 fgts-guia de recolhimento do fgts - gre
+cecil- 2001
+20/01/2025
+6.708,90 20/01/2025
+10
+15448 fgts-guia de recolhimento do fgts - gre
+dical- 2001
+20/01/2025
+8.598,15 20/01/2025
+10
+15576 grrf- guia de recolhim. rescisório do fgts
+rebeca - 2101
+21/01/2025
+121,62 21/01/2025
+11 conta(s)
+24.597,34
+fornecedores
+02.01.01
+1
+5400 acrilex tintas especiais s.a.
+830106-5/5
+01/01/2025
+3.855,16 02/01/2025
+1
+42337 c c n de sena comércio de tintas ltda-nobel tintas
+13680-1/1
+01/01/2025
+761,00 02/01/2025
+1
+14304 del rei inustria de artefatos de latex ltda (festbal55003-3/4
+01/01/2025
+2.016,28 02/01/2025
+1
+22754 industria de feltros santa fe s/a (fabrica)
+329454-3/3
+01/01/2025
+1.820,31 02/01/2025
+1
+18855 inovacao distribuidora de livros ltda
+832668-3-6
+01/01/2025
+1.043,89 02/01/2025
+1
+33303 italux lubrificantes e acumuladores ltda
+24160-1/1
+01/01/2025
+390,00 02/01/2025
+1
+32338 koretech embalagens da amazonia ltda
+966-1/3
+01/01/2025
+1.406,67 02/01/2025
+1
+25486 master comercio importacao e exportacao e expor642121-5/5
+01/01/2025
+545,56 02/01/2025
+1
+25880 maxcril industria de materiais escritorio ltda epp ( 60603-4/5
+01/01/2025
+1.617,66 02/01/2025
+1
+25610 maxlog importacao e exportacao ltda (luxcel)
+456663-1/3
+01/01/2025
+1.691,00 02/01/2025
+1
+41815 via certa importacao e distribuicao de alimentos lt13679-1/2
+01/01/2025
+2.121,72 02/01/2025
+1
+5400 acrilex tintas especiais s.a.
+826222-2/5
+02/01/2025
+4.351,13 02/01/2025
+1
+5400 acrilex tintas especiais s.a.
+826223-3/5
+02/01/2025
+2.214,67 02/01/2025
+1
+35646 casio brasil comercio de produtos eletronicos ltd95152-3/4
+02/01/2025
+2.450,73 02/01/2025
+1
+32107 collormaq ind.e com. de etiquetas e bobinas ltda ep16439-3/3
+02/01/2025
+1.585,00 02/01/2025
+1
+17212 comercio e importacao sertic ltda
+404233-2/5
+02/01/2025
+1.629,26 02/01/2025
+1
+17212 comercio e importacao sertic ltda
+404270-2/5
+02/01/2025
+1.662,91 02/01/2025
+1
+15189 companhia de canetas compactor
+214911-1/3
+02/01/2025
+656,49 02/01/2025
+1
+30416 cromus embalagens ind e comercio ltda.
+75761-2/2
+02/01/2025
+1.066,91 02/01/2025
+1
+30416 cromus embalagens ind e comercio ltda.
+75762-2/2
+02/01/2025
+56,48 02/01/2025
+1
+21284 sylvamo do brasil ltda
+297786-1/3
+02/01/2025
+55.691,85 02/01/2025
+1
+21284 sylvamo do brasil ltda
+297787-1/3
+02/01/2025
+1.444,04 02/01/2025
+1
+5569 3m do brasil ltda
+153997-2/3
+03/01/2025
+257,39 03/01/2025
+1
+5569 3m do brasil ltda
+153998-2/3
+03/01/2025
+244,45 03/01/2025
+1
+5569 3m do brasil ltda
+153999-2/3
+03/01/2025
+243,04 03/01/2025
+1
+5569 3m do brasil ltda
+154000-2/3
+03/01/2025
+235,83 03/01/2025
+1
+5569 3m do brasil ltda
+154001-2/3
+03/01/2025
+272,43 03/01/2025
+1
+5569 3m do brasil ltda
+154002-2/3
+03/01/2025
+327,33 03/01/2025
+1
+5569 3m do brasil ltda
+154003-2/3
+03/01/2025
+327,33 03/01/2025
+camila da silva - contas a pa
+5 / 22
+hardsystem - cpagtdpcccont_gr

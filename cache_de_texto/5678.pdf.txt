@@ -1,0 +1,1130 @@
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+3.026,39
+01/07/2024
+receb. de parcela - cliente 8985 - jorge
+luiz marin e outros
+i
+6.448,77
+40,00
+3.066,39
+6.488,77
+3.066,39
+01/07/2024
+receb. de parcela - cliente 8985 - jorge
+luiz marin e outros
+i
+6.488,77
+44,00
+3.110,39
+6.532,77
+3.110,39
+01/07/2024
+receb. de parcela - cliente 8985 - jorge
+luiz marin e outros
+i
+6.532,77
+100,00
+3.210,39
+6.632,77
+3.210,39
+01/07/2024
+receb. de parcela - cliente 8985 - jorge
+luiz marin e outros
+i
+6.632,77
+160,00
+3.370,39
+6.792,77
+3.370,39
+01/07/2024
+receb. de parcela - cliente 8985 - jorge
+luiz marin e outros
+i
+6.792,77
+55,00
+3.425,39
+6.847,77
+3.425,39
+01/07/2024
+receb. de parcela - cliente 11728 -
+dalberto marchette
+i
+6.847,77
+76,50
+3.501,89
+6.924,27
+3.501,89
+01/07/2024
+receb. de parcela - cliente 11728 -
+dalberto marchette
+i
+6.924,27
+81,00
+3.582,89
+7.005,27
+3.582,89
+01/07/2024
+receb. de parcela - cliente 11728 -
+dalberto marchette
+i
+7.005,27
+72,00
+3.654,89
+7.077,27
+3.654,89
+01/07/2024
+receb. de parcela - cliente 11728 -
+dalberto marchette
+i
+7.077,27
+67,50
+3.722,39
+7.144,77
+3.722,39
+01/07/2024
+receb. de parcela - cliente 11728 -
+dalberto marchette
+i
+7.144,77
+90,00
+3.812,39
+7.234,77
+3.812,39
+01/07/2024
+saída 138103
+x
+7.234,77
+50,00
+3.862,39
+7.284,77
+3.862,39
+01/07/2024
+saída 138104
+x
+7.284,77
+40,00
+3.902,39
+7.324,77
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+3.902,39
+01/07/2024
+saída 138105
+x
+7.324,77
+40,00
+3.942,39
+7.364,77
+3.942,39
+01/07/2024
+pagamento de conta (ref 07.2024) -
+fornecedor 11617 - telefonica brasil s.a
+- internet
+u
+7.364,77
+-139,99
+3.802,40
+7.224,78
+3.802,40
+01/07/2024
+pagamento de conta ( - entrada 138074 - 1/2) -
+fornecedor 11737 - rodon pecas
+eletricas automotivas ltda
+u
+7.224,78
+-370,00
+3.432,40
+6.854,78
+3.432,40
+01/07/2024
+pagamento de conta (ref 07.2024) -
+fornecedor 11801 - sind trab ind met mec
+mat eletr e eletronico e espirito
+sant
+u
+6.854,78
+-83,75
+3.348,65
+6.771,03
+3.348,65
+01/07/2024
+pagamento de conta (saldo a pagar da parcela
+saldo a pagar da parcela saldo a pagar da
+parcela  - en) - fornecedor 9400 - itapir
+distr de peças ltda m
+u
+6.771,03
+-1.214,37
+2.134,28
+5.556,66
+2.134,28
+01/07/2024
+receb. de parcela - cliente 10975 - karla
+baldi soeiro de souza
+i
+5.556,66
+125,00
+2.259,28
+5.681,66
+2.259,28
+01/07/2024
+receb. de parcela - cliente 10975 - karla
+baldi soeiro de souza
+i
+5.681,66
+200,00
+2.459,28
+5.881,66
+2.459,28
+01/07/2024
+compe loteri
+5.881,66
+-6,30
+2.452,98
+5.875,36
+2.452,98
+01/07/2024
+cob compe
+5.875,36
+-6,30
+2.446,68
+5.869,06
+2.446,68
+01/07/2024
+cob agenc
+5.869,06
+-6,30
+2.440,38
+5.862,76
+2.440,38
+01/07/2024
+recebimento de várias contas
+i
+5.862,76
+925,74
+3.366,12
+6.788,50
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+3.366,12
+01/07/2024
+recebimento de várias contas
+i
+6.788,50
+151,75
+3.517,87
+6.940,25
+3.517,87
+02/07/2024
+receb. de parcela - cliente 11778 - letícia
+paoliello lindenberg
+i
+6.940,25
+477,50
+3.995,37
+7.417,75
+3.995,37
+02/07/2024
+receb. de parcela - cliente 11778 - letícia
+paoliello lindenberg
+i
+7.417,75
+95,00
+4.090,37
+7.512,75
+4.090,37
+02/07/2024
+receb. de parcela - cliente 11778 - letícia
+paoliello lindenberg
+i
+7.512,75
+85,00
+4.175,37
+7.597,75
+4.175,37
+02/07/2024
+receb. de parcela - cliente 11778 - letícia
+paoliello lindenberg
+i
+7.597,75
+100,00
+4.275,37
+7.697,75
+4.275,37
+02/07/2024
+receb. de parcela - cliente 11778 - letícia
+paoliello lindenberg
+i
+7.697,75
+66,00
+4.341,37
+7.763,75
+4.341,37
+02/07/2024
+receb. de parcela - cliente 11778 - letícia
+paoliello lindenberg
+i
+7.763,75
+110,00
+4.451,37
+7.873,75
+4.451,37
+02/07/2024
+receb. de parcela - cliente 11778 - letícia
+paoliello lindenberg
+i
+7.873,75
+110,00
+4.561,37
+7.983,75
+4.561,37
+02/07/2024
+receb. de parcela - cliente 11778 - letícia
+paoliello lindenberg
+i
+7.983,75
+120,00
+4.681,37
+8.103,75
+4.681,37
+02/07/2024
+receb. de parcela - cliente 11696 -
+fornecedora dalla bernardina ltda
+i
+8.103,75
+94,00
+4.775,37
+8.197,75
+4.775,37
+02/07/2024
+receb. de parcela - cliente 11696 -
+fornecedora dalla bernardina ltda
+i
+8.197,75
+75,00
+4.850,37
+8.272,75
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+4.850,37
+02/07/2024
+receb. de parcela - cliente 82 - cescom
+cesconeto comercio ltda
+i
+8.272,75
+17,50
+4.867,87
+8.290,25
+4.867,87
+02/07/2024
+receb. de parcela - cliente 82 - cescom
+cesconeto comercio ltda
+i
+8.290,25
+6,00
+4.873,87
+8.296,25
+4.873,87
+02/07/2024
+receb. de parcela - cliente 82 - cescom
+cesconeto comercio ltda
+i
+8.296,25
+81,50
+4.955,37
+8.377,75
+4.955,37
+02/07/2024
+receb. de parcela - cliente 82 - cescom
+cesconeto comercio ltda
+i
+8.377,75
+110,00
+5.065,37
+8.487,75
+5.065,37
+02/07/2024
+receb. de parcela - cliente 82 - cescom
+cesconeto comercio ltda
+i
+8.487,75
+60,00
+5.125,37
+8.547,75
+5.125,37
+02/07/2024
+receb. de parcela - cliente 82 - cescom
+cesconeto comercio ltda
+i
+8.547,75
+354,00
+5.479,37
+8.901,75
+5.479,37
+02/07/2024
+receb. de parcela - cliente 82 - cescom
+cesconeto comercio ltda
+i
+8.901,75
+30,00
+5.509,37
+8.931,75
+5.509,37
+02/07/2024
+receb. de parcela - cliente 6296 - f & t
+irrigação ltda
+i
+8.931,75
+170,00
+5.679,37
+9.101,75
+5.679,37
+02/07/2024
+receb. de parcela - cliente 8085 - fera
+agropecuaria ltda
+i
+9.101,75
+305,00
+5.984,37
+9.406,75
+5.984,37
+02/07/2024
+receb. de parcela - cliente 8085 - fera
+agropecuaria ltda
+i
+9.406,75
+120,00
+6.104,37
+9.526,75
+6.104,37
+02/07/2024
+receb. de parcela - cliente 11359 - locares
+locações ltda
+i
+9.526,75
+47,50
+6.151,87
+9.574,25
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+6.151,87
+02/07/2024
+receb. de parcela - cliente 11359 - locares
+locações ltda
+i
+9.574,25
+120,00
+6.271,87
+9.694,25
+6.271,87
+02/07/2024
+receb. de parcela - cliente 11359 - locares
+locações ltda
+i
+9.694,25
+50,00
+6.321,87
+9.744,25
+6.321,87
+02/07/2024
+receb. de parcela - cliente 11359 - locares
+locações ltda
+i
+9.744,25
+16,20
+6.338,07
+9.760,45
+6.338,07
+02/07/2024
+receb. de parcela - cliente 11359 - locares
+locações ltda
+i
+9.760,45
+28,00
+6.366,07
+9.788,45
+6.366,07
+02/07/2024
+receb. de parcela - cliente 11359 - locares
+locações ltda
+i
+9.788,45
+50,00
+6.416,07
+9.838,45
+6.416,07
+02/07/2024
+receb. de parcela - cliente 11359 - locares
+locações ltda
+i
+9.838,45
+220,00
+6.636,07
+10.058,45
+6.636,07
+02/07/2024
+receb. de parcela - cliente 11359 - locares
+locações ltda
+i
+10.058,45
+252,00
+6.888,07
+10.310,45
+6.888,07
+02/07/2024
+receb. de parcela - cliente 6736 - ugbp
+producão e exportaçao ltda
+i
+10.310,45
+120,00
+7.008,07
+10.430,45
+7.008,07
+02/07/2024
+receb. de parcela - cliente 6736 - ugbp
+producão e exportaçao ltda
+i
+10.430,45
+204,00
+7.212,07
+10.634,45
+7.212,07
+02/07/2024
+receb. de parcela - cliente 6736 - ugbp
+producão e exportaçao ltda
+i
+10.634,45
+80,00
+7.292,07
+10.714,45
+7.292,07
+02/07/2024
+receb. de parcela - cliente 6736 - ugbp
+producão e exportaçao ltda
+i
+10.714,45
+187,00
+7.479,07
+10.901,45
+7.479,07
+02/07/2024
+pagamento de conta ( - entrada 138019 - 1/1) -
+u
+10.901,45
+-36,00
+7.443,07
+10.865,45
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+fornecedor 1008 - peroni auto peças
+ltda
+7.443,07
+02/07/2024
+pagamento de conta ( - entrada 138023 - 1/1) -
+fornecedor 1008 - peroni auto peças
+ltda
+u
+10.865,45
+-320,00
+7.123,07
+10.545,45
+7.123,07
+02/07/2024
+pagamento de conta ( - entrada 138068 - 1/1) -
+fornecedor 1008 - peroni auto peças
+ltda
+u
+10.545,45
+-58,00
+7.065,07
+10.487,45
+7.065,07
+02/07/2024
+pagamento de conta ( - entrada 138085 - 3/3) -
+fornecedor 11800 - tsd logistica e
+distribuidora ltda
+u
+10.487,45
+-610,43
+6.454,64
+9.877,02
+6.454,64
+02/07/2024
+pagamento de conta (ref 06.2024) -
+fornecedor 11714 - fantoni & associados
+contadores ltda  (trial)
+u
+9.877,02
+-1.109,00
+5.345,64
+8.768,02
+5.345,64
+02/07/2024
+pagamento de conta (saldo a pagar da parcela
+saldo a pagar da parcela saldo a pagar da
+parcela saldo) - fornecedor 9400 - itapir
+distr de peças ltda m
+u
+8.768,02
+-1.214,37
+4.131,27
+7.553,65
+4.131,27
+02/07/2024
+saída 138126
+x
+7.553,65
+110,00
+4.241,27
+7.663,65
+4.241,27
+02/07/2024
+saída 138123
+x
+7.663,65
+97,00
+4.338,27
+7.760,65
+4.338,27
+02/07/2024
+cob compe
+7.760,65
+-50,40
+4.287,87
+7.710,25
+4.287,87
+02/07/2024
+recebimento de várias contas
+i
+7.710,25
+532,11
+4.819,98
+8.242,36
+4.819,98
+02/07/2024
+recebimento de várias contas
+i
+8.242,36
+189,50
+5.009,48
+8.431,86
+5.009,48
+03/07/2024
+receb. de parcela - cliente 7723 - ab & d
+transportes ltda epp
+i
+8.431,86
+298,00
+5.307,48
+8.729,86
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+5.307,48
+03/07/2024
+receb. de parcela - cliente 7723 - ab & d
+transportes ltda epp
+i
+8.729,86
+180,00
+5.487,48
+8.909,86
+5.487,48
+03/07/2024
+saída 138142
+x
+8.909,86
+40,00
+5.527,48
+8.949,86
+5.527,48
+03/07/2024
+pagamento de conta (ref 06.2024) -
+fornecedor 8076 - linhares soluções em
+informatica ltda me
+u
+8.949,86
+-691,17
+4.836,31
+8.258,69
+4.836,31
+03/07/2024
+pagamento de conta (ref 07.2024) -
+fornecedor 11712 - camara de
+dirigentes lojistas de linhares
+u
+8.258,69
+-71,00
+4.765,31
+8.187,69
+4.765,31
+03/07/2024
+pagamento de conta ( - entrada 137481 - 3/3) -
+fornecedor 1197 - disbat distribuidora
+de baterias pcs ltda
+u
+8.187,69
+-1.655,85
+3.109,46
+6.531,84
+3.109,46
+03/07/2024
+saída 137755/myh9d90
+x
+6.531,84
+255,00
+3.364,46
+6.786,84
+3.364,46
+03/07/2024
+cob compe
+6.786,84
+-6,30
+3.358,16
+6.780,54
+3.358,16
+03/07/2024
+recebimento de várias contas
+i
+6.780,54
+369,52
+3.727,68
+7.150,06
+3.727,68
+03/07/2024
+recebimento de várias contas
+i
+7.150,06
+288,75
+4.016,43
+7.438,81
+4.016,43
+04/07/2024
+saída 138149/mto5147
+x
+7.438,81
+52,00
+4.068,43
+7.490,81
+4.068,43
+04/07/2024
+saída 138150/mtv6361
+x
+7.490,81
+140,00
+4.208,43
+7.630,81
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+4.208,43
+04/07/2024
+saída 138152
+x
+7.630,81
+4,00
+4.212,43
+7.634,81
+4.212,43
+04/07/2024
+pagamento de conta (ref 07.2024) -
+fornecedor 9907 - trunci e trunci ltda
+u
+7.634,81
+-468,00
+3.744,43
+7.166,81
+3.744,43
+04/07/2024
+pagamento de conta ( - entrada 137513 - 3/3) -
+fornecedor 10729 - yuri ferreira
+altomar epp
+u
+7.166,81
+-875,66
+2.868,77
+6.291,15
+2.868,77
+04/07/2024
+saída 138114/mtz7f85
+x
+6.291,15
+195,00
+3.063,77
+6.486,15
+3.063,77
+04/07/2024
+saída 138159
+x
+6.486,15
+50,00
+3.113,77
+6.536,15
+3.113,77
+04/07/2024
+saída 138153
+x
+6.536,15
+45,00
+3.158,77
+6.581,15
+3.158,77
+04/07/2024
+saída 138164
+x
+6.581,15
+20,00
+3.178,77
+6.601,15
+3.178,77
+04/07/2024
+saída 138162/mss8b02
+x
+6.601,15
+180,00
+3.358,77
+6.781,15
+3.358,77
+04/07/2024
+serviço elétrico
+x
+6.781,15
+45,00
+3.403,77
+6.826,15
+3.403,77
+04/07/2024
+recebimento de várias contas
+i
+6.826,15
+547,61
+3.951,38
+7.373,76
+3.951,38
+05/07/2024
+saída 138165
+x
+7.373,76
+50,00
+4.001,38
+7.423,76
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+4.001,38
+05/07/2024
+pagamento de conta (ref 07.2024) -
+fornecedor 415 - espirito santo
+centrais elétricas s.a.
+u
+7.423,76
+-456,67
+3.544,71
+6.967,09
+3.544,71
+05/07/2024
+pagamento de conta (ref 07.2024) -
+fornecedor 11806 - samp espirito santo
+assistencia medica ltda
+u
+6.967,09
+-1.567,07
+1.977,64
+5.400,02
+1.977,64
+05/07/2024
+pagamento de conta ( - entrada 138157 - 1/1) -
+fornecedor 1076 - scap-car-
+escapamentos  peças e acessorios
+ltda
+u
+5.400,02
+-25,00
+1.952,64
+5.375,02
+1.952,64
+05/07/2024
+recebimento de várias contas
+i
+5.375,02
+24,63
+1.977,27
+5.399,65
+1.977,27
+05/07/2024
+recebimento de várias contas
+i
+5.399,65
+174,92
+2.152,19
+5.574,57
+2.152,19
+05/07/2024
+pg salario paulo renato
+x
+5.574,57
+-1.000,00
+1.152,19
+4.574,57
+1.152,19
+08/07/2024
+saída 138172
+x
+4.574,57
+85,00
+1.237,19
+4.659,57
+1.237,19
+08/07/2024
+recebimento de várias contas
+i
+4.659,57
+399,10
+1.636,29
+5.058,67
+1.636,29
+08/07/2024
+recebimento de várias contas
+i
+5.058,67
+1.409,15
+3.045,44
+6.467,82
+3.045,44
+09/07/2024
+saída 138190
+x
+6.467,82
+10,00
+3.055,44
+6.477,82
+3.055,44
+09/07/2024
+saída 138229/ove1b44 - 1/1
+i
+6.477,82
+197,08
+3.252,52
+6.674,90
+3.252,52
+09/07/2024
+saída 137969/ium9a54 - 1/2
+i
+6.674,90
+90,67
+3.343,19
+6.765,57
+anterior nc
+número doc.
+4
+conta:
+auto eletrica pianca ltda-ii
+data
+descrição
+tipo doc. tipo outros
+anterior *c
+débito
+crédito
+final nc
+saldo final
+-
+3.343,19
+09/07/2024
+cob compe
+6.765,57
+-6,30
+3.336,89
+6.759,27
+3.336,89
+10/07/2024
+receb. de parcela - cliente 476 - mecanica
+do trevo peças e acessorios ltda
+i
+6.759,27
+394,00
+3.730,89
+7.153,27
+3.730,89
+10/07/2024
+saída 138206
+x
+7.153,27
+70,00
+3.800,89
+7.223,27
+3.800,89
+10/07/2024
+saída 138210
+x
+7.223,27
+100,00
+3.900,89
+7.323,27
+3.900,89
+10/07/2024
+saída 138211
+x
+7.323,27
+20,00
+3.920,89
+7.343,27
+3.920,89
+10/07/2024
+saída 137866/mrt4722
+x
+7.343,27
+62,30
+3.983,19
+7.405,57
+3.983,19
+10/07/2024
+receb. de parcela - cliente 6035 - ronaldo
+pereira de souza
+x
+7.405,57
+506,60
+4.489,79
+7.912,17
+4.489,79
+10/07/2024
+saída 138000/caminhão
+x
+7.912,17
+77,00
+4.566,79
+7.989,17
+4.566,79
+10/07/2024
+pagamento de conta (ref 29ª parcela
+emprestimo) - fornecedor 1216 - banco
+caixa economica federal
+u
+7.989,17
+-3.283,46
+1.283,33
+4.705,71
+1.283,33
+10/07/2024
+pagamento de conta ( - entrada 138175 - 1/2) -
+fornecedor 11496 - cesar motos ltda
+epp
+u
+4.705,71
+-256,00
+1.027,33
+4.449,71
+1.027,33
+10/07/2024
+pagamento de conta (ref 07.2024) -
+fornecedor 11617 - telefonica brasil s.a
+u
+4.449,71
+-55,00
+972,33
+4.394,71

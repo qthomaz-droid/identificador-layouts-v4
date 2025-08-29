@@ -1,0 +1,768 @@
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 001|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:10
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+| banco: 101 caixa hrss      agencia: 00000101   conta: 0000000101                                                    sit.: fechado    |
+|        titular: hospital sao sebastiao                                                                                               |
+|01/11/2020|saldo inicial                                              |                        |         |             |    18.190,01 |
+|03/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       800,00 |
+|03/11/2020| diaria lavras - leonidio ferreira neto                    |aline aparecida da silva|000000079|       -20,00|              |
+|03/11/2020| diaria oliveira - zilah do nascimento rosa                |aline aparecida da silva|000000080|       -15,00|              |
+|03/11/2020|exame de raio-x                                            |aparecida de fatima silv|001002446|             |        70,00 |
+|03/11/2020|taxa ambulatorial                                          |caio henrique santos fer|001002487|             |        10,00 |
+|03/11/2020| dr leda  nf 90                                            |centro esp. em med. avan|000092020|      -500,00|              |
+|03/11/2020|taxa ambulatorial                                          |cesar luiz cassiano paix|001002509|             |        20,00 |
+|03/11/2020|taxa ambulatorial                                          |elenice maria monteiro  |001002545|             |        30,00 |
+|03/11/2020|refeições de funcionários                                  |elisangela aparecida de |000000064|             |        10,00 |
+|03/11/2020|taxa ambulatorial                                          |elizabete maria das grac|001002512|             |        60,00 |
+|03/11/2020|taxa ambulatorial                                          |espedito anacleto do nas|001002543|             |        30,00 |
+|03/11/2020|taxa ambulatorial                                          |francisca aparecida borg|001002542|             |        30,00 |
+|03/11/2020|exame de raio-x                                            |henrique ribeiro messias|001002072|             |        50,00 |
+|03/11/2020|taxa ambulatorial                                          |jose antonio dos santos |001002459|             |        30,00 |
+|03/11/2020|taxa ambulatorial                                          |juliano antonio lopes   |001002534|             |        20,00 |
+|03/11/2020|taxa ambulatorial                                          |manoel alexandre da silv|001002438|             |        10,00 |
+|03/11/2020|exame de raio-x                                            |manoel alexandre da silv|001002485|             |        35,00 |
+|03/11/2020|02 refeições de funcionários                               |maria angelica trindade |000000024|             |        10,00 |
+|03/11/2020|exame de raio-x                                            |maria elza nascimento co|001002444|             |        80,00 |
+|03/11/2020|refeições de funcionários                                  |naiara ferreira diniz ba|000000002|             |         5,00 |
+|03/11/2020| nf 348 nalisson saimon a. guissoni                        |nalisson saimon arriel g|002020348|      -570,00|              |
+|03/11/2020| nf 350  nalisson saimon a. guissoni                       |nalisson saimon arriel g|002020350|      -570,00|              |
+|03/11/2020| nf 349  nalisson saimon a. guissoni                       |nalisson saimon arriel g|002020349|      -570,00|              |
+|03/11/2020|taxa ambulatorial                                          |nazare de carvalho santo|001002549|             |        20,00 |
+|03/11/2020|exame de raio-x                                            |paulo cunha madeira     |001002073|             |        50,00 |
+|03/11/2020|refeição estagiaria anna maria                             |refeição                |000000091|             |        15,00 |
+|03/11/2020|refeição estagiario luis eduar                             |refeição                |000000092|             |        15,00 |
+|03/11/2020|taxa ambulatorial                                          |rildo antonio gomes     |001002462|             |        10,00 |
+|03/11/2020|taxa ambulatorial                                          |salvio pacheco duarte   |001002431|             |        10,00 |
+|03/11/2020|exame de raio-x                                            |sergio evangelho lima   |001002071|             |        50,00 |
+|03/11/2020| nf 351 vicente ronaldo r. silva                           |vicente ronaldo ribeiro |002020351|      -160,00|              |
+|03/11/2020| nf 353 waldevan dos reis rosa                             |waldevan dos reis rosa  |002020353|    -1.100,00|              |
+|03/11/2020| diaria oliveira - oswaldo silva                           |willians martins lelis  |000000261|       -15,00|              |
+|03/11/2020| diaria campo belo - ananias a. monteiro                   |willians martins lelis  |000000262|       -20,00|              |
+|04/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |     1.064,00 |
+|04/11/2020|transferencia caixa 101 para banco do brasil 10628-3       |                        |000000002|    -1.500,00|              |
+|04/11/2020|exame de ultrassonografia                                  |adriana aparecida coelho|001002746|             |       160,00 |
+|04/11/2020|taxa ambulatorial                                          |ailton avelar           |001002629|             |        30,00 |
+|04/11/2020| diaria perdoes - maria aparecida braga                    |aline aparecida da silva|000000083|       -15,00|              |
+|04/11/2020| diaria campo belo - nazare de carvalho santos             |aline aparecida da silva|000000082|       -20,00|              |
+|04/11/2020| diaria varginha - antonio pedro dutra                     |antonio pedro dutra     |000000246|      -170,00|              |
+|04/11/2020|taxa ambulatorial                                          |aparecida das gracas ruf|001002635|             |        30,00 |
+|04/11/2020|                                                           |aparecida demini ramos d|001002711|             |        40,00 |
+|04/11/2020| nf 952 comercial genaro eireli                            |comercial genaro eireli |000000952|      -138,87|              |
+|04/11/2020| diaria oliveira - geralda izabel                          |cristiane de lourdes bor|000000171|       -15,00|              |
+|04/11/2020| diaria oliveira - lourdes terezinha borges                |cristiane de lourdes bor|000000170|       -15,00|              |
+|04/11/2020|exame de raio-x                                            |cristiane dos santos gom|001002623|             |        80,00 |
+|04/11/2020|02 refeições de funcionários                               |debora de castro viana  |000000002|             |        10,00 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 002|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|04/11/2020|exame de ultrassonografia                                  |debora de castro viana  |001002770|             |       100,00 |
+|04/11/2020|doação não identificada                                    |doações                 |004112020|             |     2.290,00 |
+|04/11/2020|taxa ambulatorial                                          |elizangela lima         |001002704|             |        30,00 |
+|04/11/2020| nf 16687 j m auto peças                                   |jose mauricio de souza -|000016687|      -150,00|              |
+|04/11/2020|eletrocardiograma                                          |manoel alexandre da silv|001002759|             |        15,00 |
+|04/11/2020|taxa ambulatorial                                          |maria de lourdes nascime|001002631|             |        30,00 |
+|04/11/2020|taxa ambulatorial                                          |maria de lourdes rosa   |001002706|             |        30,00 |
+|04/11/2020|taxa ambulatorial                                          |miguel lorenzo alexandre|001002696|             |        30,00 |
+|04/11/2020|eletrocardiograma(ecg)                                     |miguel lorenzo alexandre|001002720|             |       215,00 |
+|04/11/2020|refeições de funcionários                                  |naiara ferreira diniz ba|000000003|             |         5,00 |
+|04/11/2020| nf 5957 niger magazine papelaria ltda                     |niger magazine papelaria|000005957|       -38,40|              |
+|04/11/2020|eletrocardiograma(ecg)                                     |osmar felix ribeiro     |001002753|             |        35,00 |
+|04/11/2020| nf 585 refrigeração reio do frio                          |refrigeração rei do frio|000000585|      -345,00|              |
+|04/11/2020|eletrocardiograma(ecg)                                     |reinaldo jose da silva  |001002752|             |        15,00 |
+|04/11/2020|eletrocardiograma(ecg)                                     |tatiane aparecida da sil|001002726|             |        30,00 |
+|05/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       616,00 |
+|05/11/2020|transferencia caixa 101 para banco do brasil 10628-3       |                        |000000002|    -7.000,00|              |
+|05/11/2020| diaria campo belo - rildo da silva                        |aline aparecida da silva|000000081|       -20,00|              |
+|05/11/2020|taxa ambulatorial                                          |ana lucia da silva varga|001002925|             |        10,00 |
+|05/11/2020|taxa ambulatorial                                          |ana paula da silva souza|001002832|             |       160,00 |
+|05/11/2020| nf 48 brink paper bazar e papelaria                       |brink paper bazar e pape|000202048|       -11,80|              |
+|05/11/2020| nf 12909 brink paper bazar e papelaria                    |brink paper bazar e pape|000012909|      -259,85|              |
+|05/11/2020|exame de ultrassonografia                                  |clara lucia de andrade s|001002828|             |       160,00 |
+|05/11/2020|taxa ambulatorial                                          |daniela aparecida silva |001002855|             |        60,00 |
+|05/11/2020|taxa ambulatorial                                          |dileno teixeira vilela  |001002924|             |        60,00 |
+|05/11/2020|refeições de funcionários                                  |elisangela aparecida de |000000065|             |         5,00 |
+|05/11/2020|exame de raio-x                                            |elizabete maria das grac|001002895|             |        70,00 |
+|05/11/2020|taxa ambulatorial                                          |fabiana borges ribeiro  |001002926|             |        30,00 |
+|05/11/2020|taxa ambulatorial                                          |fernando geraldo da silv|001002962|             |        30,00 |
+|05/11/2020|taxa ambulatorial                                          |flavia aparecida machado|001002928|             |        10,00 |
+|05/11/2020|taxa ambulatorial                                          |flavia cristina sousa de|001002841|             |        60,00 |
+|05/11/2020|exame de ultrassonografia                                  |helia aparecida de olive|001002858|             |       115,00 |
+|05/11/2020|refeições de funcionários                                  |karoline aparecida borge|000000017|             |         5,00 |
+|05/11/2020|exame de raio-x                                            |maria jose candido      |001002884|             |        70,00 |
+|05/11/2020|refeições de funcionários                                  |naiara ferreira diniz ba|000000004|             |         5,00 |
+|05/11/2020| nf 359 nalisson saimon a. guissoni                        |nalisson saimon arriel g|002020359|      -570,00|              |
+|05/11/2020|taxa ambulatorial                                          |noel custodio pereira ju|001002844|             |        60,00 |
+|05/11/2020|taxa ambulatorial                                          |osana aparecida costa ch|001002825|             |        60,00 |
+|05/11/2020|refeição estagiário luis eduar                             |refeição                |000000094|             |         5,00 |
+|05/11/2020|taxa ambulatorial                                          |reinaldo jose da silva  |001002904|             |        77,00 |
+|05/11/2020|taxa ambulatorial                                          |rosely jacqueline da sil|001002846|             |        60,00 |
+|05/11/2020|taxa ambulatorial                                          |rozenilda da silva      |001002835|             |        60,00 |
+|05/11/2020|refeições de funcionários                                  |shirlei cardoso de almei|000000001|             |         5,00 |
+|05/11/2020|taxa ambulatorial                                          |stefania cristiane alves|001002920|             |        10,00 |
+|05/11/2020|taxa ambulatorial                                          |vagner perez de carvalho|001002837|             |        60,00 |
+|05/11/2020|taxa ambulatorial                                          |verenice cledima da silv|001002900|             |        60,00 |
+|06/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       255,00 |
+|06/11/2020|taxa ambulatorial                                          |alex junior estevam rese|001003099|             |        30,00 |
+|06/11/2020|exame de endoscopia                                        |angela maria            |001003016|             |       100,00 |
+|06/11/2020| nf 878 antonio rinaldo isidro - me                        |antonio rinaldo isidro m|000000878|      -810,50|              |
+|06/11/2020|taxa ambulatorial                                          |aparecida de fatima varg|001003050|             |        30,00 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 003|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|06/11/2020|taxa ambulatorial                                          |aparecida maria ribeiro |001003097|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |darci alvarenga rodrogue|001003101|             |        30,00 |
+|06/11/2020|exame de raio-x                                            |davi cereda reis paula  |001003054|             |        70,00 |
+|06/11/2020|taxa ambulatorial                                          |francisco nascimento da |001003061|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |gabriela alicia tomaz ca|001003035|             |        20,00 |
+|06/11/2020|taxa ambulatorial                                          |helena de jesus alves   |001003066|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |idinei oliveira lage    |001003073|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |igmar raposo            |001003104|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |igor vieira de abreu    |001003019|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |joao pedro da silva     |001003009|             |        30,00 |
+|06/11/2020| nf 1019 l& j caçamba ltda                                 |l & j caçambas ltda     |000001019|      -160,00|              |
+|06/11/2020|taxa ambulatorial                                          |marcilei de fatima estev|001003100|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |maria bernadete do espir|001003084|             |        20,00 |
+|06/11/2020|exame de raio-x                                            |maria da conceicao morei|001003085|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |maria de nazare ferreira|001003051|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |mariana aparecida esteve|001003034|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |marilene de fatima barro|001003098|             |        30,00 |
+|06/11/2020|refeições de funcionários                                  |patricia aparecida silva|000000008|             |         5,00 |
+|06/11/2020|taxa ambulatorial                                          |rodrigo serafim da cunha|001003080|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |rosiana santos          |001003074|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |samuel elias silva maria|001003096|             |        30,00 |
+|06/11/2020|taxa ambulatorial                                          |sebastiao da silva pinto|001003095|             |        30,00 |
+|06/11/2020| diaria lavras - maria  ap rodrigues                       |talita aparecida silva a|000000004|       -20,00|              |
+|06/11/2020|taxa ambulatorial                                          |vicente geraldo lino    |001003041|             |        30,00 |
+|09/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       745,00 |
+|09/11/2020|exame de endoscopia                                        |antonia do carmo domingo|001003297|             |       100,00 |
+|09/11/2020| nf 186 ref. consultas cardiologicas                       |clinivita medicos associ|202000186|    -1.351,44|              |
+|09/11/2020| diaria perdoes - nathali caroline silva                   |cristiane de lourdes bor|000000033|       -15,00|              |
+|09/11/2020| diaria campo belo - rodrigo vargas monteiro               |elisangela aparecida de |000000006|       -20,00|              |
+|09/11/2020| diaria oliveira - alice ferreira dos santos               |elisangela aparecida de |000000007|       -15,00|              |
+|09/11/2020|exame de raio-x                                            |evandro francisco       |001003368|             |       150,00 |
+|09/11/2020|exame de raio-x                                            |gabriel henrique coelho |001003324|             |        30,00 |
+|09/11/2020| nf 1803 jessyca tamara cardoso - me                       |jessyca tamara cardoso -|000001803|      -179,95|              |
+|09/11/2020|taxa ambulatorial                                          |joao alves da silva     |001003344|             |       300,00 |
+|09/11/2020|taxa ambulatorial                                          |joao lucio lelis        |001003337|             |       300,00 |
+|09/11/2020|taxa ambulatorial                                          |leonidio ferreira neto  |001003333|             |       300,00 |
+|09/11/2020|taxa ambulatorial                                          |lucia helena borges avel|001003364|             |        60,00 |
+|09/11/2020|taxa ambulatorial                                          |marlene maria do carmo f|001003379|             |       300,00 |
+|09/11/2020|taxa ambulatorial                                          |nair conceicao silva    |001003336|             |       300,00 |
+|09/11/2020|exame de holter                                            |nazare de lourdes cunha |001003375|             |        40,00 |
+|09/11/2020|taxa ambulatorial                                          |rafaela cristina oliveir|001003367|             |        60,00 |
+|09/11/2020|exame de endoscopia                                        |rodrigo da silva marcal |001003303|             |       100,00 |
+|09/11/2020|taxa ambulatorial                                          |sebastiao jesus avelar d|001003373|             |       300,00 |
+|09/11/2020| nf 1002624 ueliton marcelino da cruz                      |ueliton marcelino da cru|025446271|       -30,00|              |
+|09/11/2020| nf 29 ueliton marcelino cruz                              |ueliton marcelino da cru|000202029|      -100,00|              |
+|09/11/2020| diaria oliveira - alcides mariano e osvaldo silva         |valdirene mariano campos|000000181|       -15,00|              |
+|10/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       514,00 |
+|10/11/2020|transf. caixa 101 p/ conta 417 (bradesco)                  |                        |000000008|    -1.400,00|              |
+|10/11/2020|exame de raio-x                                            |alessandro da silva sant|001003435|             |        80,00 |
+|10/11/2020|                                                           |ana carolina tavares fra|000033451|             |     6.500,00 |
+|10/11/2020|mamoplastia + abdominoplastia                              |ana claudia de andrade  |000033423|             |     2.716,80 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 004|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|10/11/2020|taxa ambulatorial                                          |antonio pedro dos santos|001003430|             |        30,00 |
+|10/11/2020|taxa ambulatorial                                          |antonio pedro monteiro  |001003470|             |        30,00 |
+|10/11/2020|taxa ambulatorial                                          |antonio roberto de olive|001003441|             |        30,00 |
+|10/11/2020|02 refeições de funcionários                               |araceli alvim           |000000004|             |        10,00 |
+|10/11/2020|refeições de funcionários                                  |clélia aparecida das gra|000000004|             |        10,00 |
+|10/11/2020|02 refeições de funcionários                               |elisangela aparecida de |000000066|             |        10,00 |
+|10/11/2020|exame de holter                                            |eustaquio donisete      |001003590|             |        40,00 |
+|10/11/2020|risco anestesico                                           |geraldino marques de oli|001003536|             |        20,00 |
+|10/11/2020|taxa ambulatorial                                          |jose antonio            |001003428|             |        30,00 |
+|10/11/2020| diaria lavras - joao elves da silva                       |keila virginia dos santo|000000003|       -20,00|              |
+|10/11/2020| nf 82 l 7 j caçambas ltda                                 |l & j caçambas ltda     |000202082|      -120,00|              |
+|10/11/2020|taxa ambulatorial                                          |leonor cintra de oliveir|001003570|             |        30,00 |
+|10/11/2020| diaria perdoes - jose orlando dos santos                  |marcia helena de paula m|000000191|       -15,00|              |
+|10/11/2020|exame de raio-x                                            |marcus fabricio lisboa t|001003605|             |        35,00 |
+|10/11/2020|taxa ambulatorial                                          |maria aparecida candida |001003561|             |        30,00 |
+|10/11/2020|taxa ambulatorial                                          |maria das dores         |001003588|             |        30,00 |
+|10/11/2020|taxa ambulatorial                                          |maria de nazare silva   |001003568|             |        30,00 |
+|10/11/2020|taxa ambulatorial                                          |maria matilde jacob     |001003513|             |        10,00 |
+|10/11/2020|taxa ambulatorial                                          |maria vanus caputo      |001003437|             |        30,00 |
+|10/11/2020|exame de raio-x                                            |maria vanus caputo      |001003494|             |        75,00 |
+|10/11/2020|taxa ambulatorial                                          |maurilio antonio dos san|001003420|             |        30,00 |
+|10/11/2020|taxa ambulatorial                                          |messias domingos de sa  |001003432|             |        30,00 |
+|10/11/2020|refeições de funcionários                                  |naiara ferreira diniz ba|000000005|             |         5,00 |
+|10/11/2020|taxa ambulatorial                                          |paulo roberto ribeiro   |001003427|             |        30,00 |
+|10/11/2020|refeição estagiario marcos                                 |refeição                |000000095|             |         5,00 |
+|10/11/2020|refeição estagiaria kalyne                                 |refeição                |000000096|             |         5,00 |
+|10/11/2020|refeição estagiario luis eduar                             |refeição                |000000097|             |         5,00 |
+|10/11/2020|refeição estagiaria anna maria                             |refeição                |000000098|             |         5,00 |
+|10/11/2020|refeição estagiaria kalyne                                 |refeição                |000000099|             |         5,00 |
+|10/11/2020|refeições de funcionários                                  |rosa maria alves vargas |000000001|             |         5,00 |
+|10/11/2020|refeições de funcionários                                  |shirlei cardoso de almei|000000002|             |         5,00 |
+|10/11/2020| diaria campo belo - almerinda da silva fraga              |simone fatima donizete e|000000201|       -20,00|              |
+|10/11/2020|03 refeições de funcionários                               |simone fatima donizete e|000000028|             |        15,00 |
+|10/11/2020|taxa ambulatorial                                          |sinvaldo das gracas gome|001003466|             |        10,00 |
+|11/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       653,00 |
+|11/11/2020|exame de ultrassonografia                                  |alesandra aparecida firm|001003799|             |       320,00 |
+|11/11/2020|taxa ambulatorial                                          |anesia gomes dos santos |001003699|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |antonia maria de oliveir|001003761|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |antonia sirley de jesus |001003675|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |antonio de padua dutra  |001003790|             |        20,00 |
+|11/11/2020|eletrocardiograma(ecg)                                     |daniel rosa da silva    |001003826|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |divina das gracas silves|001003685|             |        30,00 |
+|11/11/2020| diaria campo belo - alex silva neves                      |elisangela aparecida de |000000008|       -20,00|              |
+|11/11/2020|refeições de funcionários                                  |elisangela aparecida de |000000067|             |         5,00 |
+|11/11/2020|exame de ultrassonografia                                  |elizangela lima         |001003815|             |       320,00 |
+|11/11/2020|taxa ambulatorial                                          |fabiano jose cardoso    |001003755|             |        20,00 |
+|11/11/2020| nf 37907 grm embalagens ltda                              |grm embalagens ltda     |000037907|       -37,00|              |
+|11/11/2020|taxa ambulatorial                                          |helio emiliano          |001003749|             |        30,00 |
+|11/11/2020|eletrocardiograma(ecg)                                     |isabel de sousa gomes fe|001003823|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |ivanete dos santos barbo|001003777|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |ivoneide hilda dos santo|001003776|             |        30,00 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 005|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|11/11/2020|taxa ambulatorial                                          |joao ribeiro            |001003771|             |        30,00 |
+|11/11/2020|refeições de funcionários                                  |joicilene gervasio dos s|000000017|             |         5,00 |
+|11/11/2020|exame de ultrassonografia                                  |junei rosa naves        |001003772|             |        90,00 |
+|11/11/2020| diaria oliveira - marlene maria do carmo fabiano          |karoline aparecida borge|000000013|       -15,00|              |
+|11/11/2020|taxa ambulatorial                                          |kayanne vitoria araujo r|001003767|             |        30,00 |
+|11/11/2020|eletrocardiograma(ecg)                                     |lazaro erimar rodrigues |001003825|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |lelio alves             |001003783|             |        20,00 |
+|11/11/2020|taxa ambulatorial                                          |lorena maria santos     |001003683|             |        30,00 |
+|11/11/2020| nf 10206 marco aurelio tanure serviços medicos ltda       |marco aurelio tanure ser|000010206|       -50,00|              |
+|11/11/2020|taxa ambulatorial                                          |maria lazara dos santos |001003703|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |mayara rafaela santos   |001003720|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |miguel henrique da silva|001003737|             |        30,00 |
+|11/11/2020|taxa                                                       |paulo henrique bernardes|001003748|             |        30,00 |
+|11/11/2020|02 refeiçoes estagiara kalyane                             |refeição                |000000100|             |        10,00 |
+|11/11/2020| nf 12457 rn tintas e ferr. ltda                           |rn tintas e ferr. ltda  |000012457|       -84,90|              |
+|11/11/2020| nf 254  roberto de melo avelar                            |roberto de melo avelar 0|000000254|       -16,00|              |
+|11/11/2020|refeições de funcionários                                  |rosilene de oliveira    |000000003|             |         5,00 |
+|11/11/2020|taxa ambulatorial                                          |rosimary rosa mendonca  |001003784|             |        30,00 |
+|11/11/2020|exame de raio-x                                            |sebastiana rodrigues de |001003819|             |        70,00 |
+|11/11/2020|eletrocardiograma(ecg)                                     |sebastiana rodrigues de |001003820|             |        30,00 |
+|11/11/2020|eletrocardiograma(ecg)                                     |sebastiao jesus avelar d|001003842|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |veronica helena dos sant|001003680|             |        30,00 |
+|11/11/2020|taxa ambulatorial                                          |vicente de paula ribeiro|001003763|             |        30,00 |
+|12/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       755,00 |
+|12/11/2020|exame de ultrassonografia                                  |ana lucia da silva varga|001003921|             |       225,00 |
+|12/11/2020|taxa ambulatorial                                          |ana paula da silva souza|001004003|             |        60,00 |
+|12/11/2020|exame de ultrassonografia                                  |angela maria            |001003905|             |       190,00 |
+|12/11/2020| diaria varginha                                           |antonio pedro dutra     |000000247|       -40,00|              |
+|12/11/2020|exame de ultrassonografia                                  |antonio roberto de olive|001003916|             |       190,00 |
+|12/11/2020|exame de ultrassonografia                                  |conceicao aparecida peri|001003972|             |       190,00 |
+|12/11/2020|taxa ambulatorial                                          |daiane aparecida de oliv|001004004|             |        10,00 |
+|12/11/2020|exame de ultrassonografia                                  |davi lucas cunha damasce|001003911|             |        90,00 |
+|12/11/2020| nf 32 hdm estofao e confecções                            |david pereira freire    |000000032|    -2.100,00|              |
+|12/11/2020| nf 47 denilson de oliveira couto modas ltda               |denilson de oliveira cou|000000047|       -71,90|              |
+|12/11/2020| nf 450 jb auto peças ltda                                 |jb auto peças ltda      |000000450|      -118,00|              |
+|12/11/2020| nf 1805 jessyca tamara cardoso - me                       |jessyca tamara cardoso -|000001805|       -20,00|              |
+|12/11/2020|exame de ultrassonografia                                  |joaquim antonio das grac|001003970|             |       160,00 |
+|12/11/2020|holter 24hs                                                |luci das gracas santos  |001004039|             |        40,00 |
+|12/11/2020|exame de ultrassonografia                                  |maria das gracas nascime|001003926|             |       115,00 |
+|12/11/2020|exame de raio-x                                            |maria das gracas nascime|001003929|             |        40,00 |
+|12/11/2020|taxa ambulatorial                                          |maria de fatima de olive|001003931|             |        60,00 |
+|12/11/2020|taxa ambulatorial                                          |maria de nazare         |001004025|             |        30,00 |
+|12/11/2020|exame de ultrassonografia                                  |maria de nazare da silva|001003901|             |       115,00 |
+|12/11/2020| nf 368 marivando nakamura                                 |marivando nakamura      |002020368|      -120,00|              |
+|12/11/2020|taxa ambulatorial                                          |miriam rodrigues castnhe|001003947|             |        60,00 |
+|12/11/2020| nf 366 nalisson saimon a. guissoni                        |nalisson saimon arriel g|002020366|      -570,00|              |
+|12/11/2020|refeição estagiaria ane caroli                             |refeição                |000000102|             |         5,00 |
+|12/11/2020|refeição estagiaria kalyne                                 |refeição                |000000103|             |         5,00 |
+|12/11/2020|refeição estagiaria ana elisa                              |refeição                |000000101|             |         5,00 |
+|12/11/2020|03 refeições ewerton borges                                |refeição                |000000104|             |        15,00 |
+|12/11/2020| diaria campo belo - maria georgia almeida                 |rosa natalia da silva   |000000037|       -20,00|              |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 006|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|12/11/2020|refeições de funcionários                                  |rosimeire dos santos    |000000002|             |        10,00 |
+|12/11/2020|taxa ambulatorial                                          |rozileni alves de olivei|001004002|             |        30,00 |
+|12/11/2020|exame de ultrassonografia                                  |taiane candida marcelino|001003991|             |       190,00 |
+|12/11/2020| diaria formiga - jose maria ribeiro pimenta               |vanessa dos santos coelh|000000016|       -20,00|              |
+|13/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |        99,00 |
+|13/11/2020|doação carnê solidário                                     |                        |000000002|             |     5.000,00 |
+|13/11/2020|doação carnê solidário - colaboradores hrss                |                        |000000003|             |     1.890,00 |
+|13/11/2020|livre doação - sr. ewerton borges                          |                        |000000004|             |     6.986,00 |
+|13/11/2020|pequena cirurgia                                           |ana clara diniz carvalho|000033184|             |     2.000,00 |
+|13/11/2020|taxa ambulatorial                                          |antonio alves de jesus  |001004137|             |        20,00 |
+|13/11/2020|taxa ambulatorial                                          |antonio de padua ribeiro|001004088|             |        20,00 |
+|13/11/2020|pequena cirurgia                                           |antonio luiz correa     |000033331|             |     1.800,00 |
+|13/11/2020| nf 880 antonio rinaldo isidro - me                        |antonio rinaldo isidro m|000000880|      -825,00|              |
+|13/11/2020|taxa ambulatorial                                          |aridelson de jesus marti|001004082|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |arlete do nascimemento s|001004165|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |daniela de paulo        |001004184|             |        30,00 |
+|13/11/2020|pequena cirurgia                                           |dauli costa silva       |000033102|             |     1.200,00 |
+|13/11/2020|doação patrik                                              |doações                 |002020172|             |       100,00 |
+|13/11/2020|refeições de funcionários                                  |elisangela aparecida de |000000068|             |         5,00 |
+|13/11/2020|taxa ambulatorial                                          |eunice das gracas batist|001004194|             |        30,00 |
+|13/11/2020| competência 01/2020                                       |ewerton borges          |000012020|    -3.493,00|              |
+|13/11/2020| competência 02/2020                                       |ewerton borges          |000022020|    -3.493,00|              |
+|13/11/2020|taxa ambulatorial                                          |fernando lazaro ferreira|001004121|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |flavia aparecida das gra|001004084|             |        30,00 |
+|13/11/2020| competência 10/2020                                       |folha mensal            |000102020|    -1.095,51|              |
+|13/11/2020| competência 10/2020 - doação carnê solidário colaboradores|folha mensal            |000102020|    -1.890,00|              |
+|13/11/2020|pequena cirurgia                                           |francisco martins       |000033161|             |     1.600,00 |
+|13/11/2020|taxa ambulatorial                                          |geralda da boa morte dos|001004180|             |        30,00 |
+|13/11/2020|pequena cirurgia                                           |jaci rodrigues          |000033302|             |     1.800,00 |
+|13/11/2020|taxa ambulatorial                                          |joao candido de souza   |001004154|             |        30,00 |
+|13/11/2020|exame potencial evocado                                    |jose amarildo santos    |001004140|             |        20,00 |
+|13/11/2020|pequena cirurgia                                           |jose omar               |000033366|             |     1.500,00 |
+|13/11/2020|exame eletroencefalograma                                  |ligiany paula dutra alve|001004112|             |        20,00 |
+|13/11/2020|taxa ambulatorial                                          |lorrayne aparecida teixe|001004183|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |lucilei aparecida mendes|001004157|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |luiz carlos braga       |001004172|             |        30,00 |
+|13/11/2020|exame de raio-x                                            |marcio rodrigues mascena|001004151|             |        70,00 |
+|13/11/2020|taxa ambulatorial                                          |marcos clarete avelar   |001004164|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |maria aparecida do nasci|001004182|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |maria aparecida dos sant|001004185|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |maria da aparecida alves|001004116|             |        30,00 |
+|13/11/2020|exame de raio-x                                            |maria eliza monteiro ave|001004147|             |        80,00 |
+|13/11/2020|pequena cirurgia                                           |maria jose duarte       |000033365|             |     1.500,00 |
+|13/11/2020|taxa ambulatorial                                          |mateus ananias gomes    |001004174|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |mateus henrique cereda m|001004193|             |        30,00 |
+|13/11/2020| nf 1793 referente endoscopia                              |medcenter serviços medic|202001793|      -180,00|              |
+|13/11/2020|taxa ambulatorial                                          |osvaldo silva           |001004144|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |pietro lucas inocencio s|001004186|             |        30,00 |
+|13/11/2020| nf 1245068  play vender                                   |playvender dist. higiene|001245068|      -779,20|              |
+|13/11/2020|taxa ambulatorial                                          |rafaela magalhaes ferrei|001004086|             |        30,00 |
+|13/11/2020|refeição ewerton borges                                    |refeição                |000000105|             |        15,00 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 007|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|13/11/2020|pequena cirurgia                                           |roberto cesar florentino|000033303|             |       950,00 |
+|13/11/2020|taxa ambulatorial                                          |rozenil alves de oliveir|001004189|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |silvania das gracas silv|001004158|             |        60,00 |
+|13/11/2020|taxa ambulatorial                                          |sirlene silva mendes    |001004148|             |        30,00 |
+|13/11/2020| nf 97 teodoro dias comercio e serviços ltda - me          |teodoro dias comercio e |000000097|       -63,00|              |
+|13/11/2020|taxa ambulatorial                                          |terezinha da aparecida m|001004118|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |thiago henrique tomaz   |001004195|             |        20,00 |
+|13/11/2020|exame potencial evocado                                    |valdemir pacheco bessa  |001004117|             |        20,00 |
+|13/11/2020|taxa ambulatorial                                          |vanessa rodrigues do nas|001004149|             |        30,00 |
+|13/11/2020|taxa ambulatorial                                          |vilma de lourdes mendes |001004156|             |        30,00 |
+|13/11/2020| dr. willian - nf 20200023                                 |virtu serviços medicos l|000092020|   -12.350,00|              |
+|13/11/2020| nf 369 waldevan dos reis rosa                             |waldevan dos reis rosa  |002020369|    -3.844,00|              |
+|13/11/2020|taxa ambulatorial                                          |yasmin vitoria silva sou|001004142|             |        30,00 |
+|16/11/2020|transferencia caixa 101 para banco do brasil 10628-3       |                        |000000001|       -50,00|              |
+|16/11/2020|transferencia laboratorio para caixa 101                   |                        |000000002|             |       739,00 |
+|16/11/2020| dr wendel  nf 188                                         |clinivita medicos associ|002020188|    -1.351,44|              |
+|16/11/2020|taxa ambulatorial                                          |daniela aparecida de jes|001004399|             |       300,00 |
+|16/11/2020|exame de raio-x                                            |edia aparecida pinheiro |001004511|             |        70,00 |
+|16/11/2020| correios - ipsemg - promed                                |empresa brasileira de co|016112020|       -49,60|              |
+|16/11/2020|consulta ambulatorial                                      |israel fabio de oliveira|001004509|             |       300,00 |
+|16/11/2020|exame de endoscopia                                        |lucia maria rodrigues   |001004398|             |       100,00 |
+|16/11/2020|consulta ambulatorial                                      |luiza antonia do nascime|001004506|             |       300,00 |
+|16/11/2020|exames laboratoriais                                       |maria antonia serafim   |001004393|             |       300,00 |
+|16/11/2020|taxa ambulatorial                                          |maria das dores isidro a|001004395|             |       300,00 |
+|16/11/2020|taxa ambulatorial                                          |maria das gracas alves  |001004468|             |        30,00 |
+|16/11/2020|taxa ambulatorial                                          |newton francisco de alva|001004440|             |       300,00 |
+|17/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       498,00 |
+|17/11/2020|transferencia caixa 101 para bradesco 417-0                |                        |000000004|      -500,00|              |
+|17/11/2020|transferencia caixa 101 para banco do brasil 10628-3       |                        |000000005|    -3.500,00|              |
+|17/11/2020|taxa ambulatorial                                          |antonio lisboa filho    |001004722|             |        30,00 |
+|17/11/2020| diaria boa esperança                                      |antonio pedro dutra     |000000248|       -30,00|              |
+|17/11/2020|taxa ambulatorial                                          |aparecida elizabeth de s|001004713|             |        20,00 |
+|17/11/2020| dr edson nf 108                                           |clinica medica meireles |000000108|      -215,00|              |
+|17/11/2020| nf  981 comercial genaro eireli                           |comercial genaro eireli |000000981|       -19,96|              |
+|17/11/2020|taxa ambulatorial                                          |expedito ramos dos santo|001004597|             |        30,00 |
+|17/11/2020|exame de raio-x                                            |jose ribeiro da silva   |001004588|             |       150,00 |
+|17/11/2020|taxa ambulatorial                                          |junei rosa naves        |001004594|             |        10,00 |
+|17/11/2020|exame de holter                                            |nadir da silva santos   |001004693|             |        20,00 |
+|18/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       260,00 |
+|18/11/2020|taxa ambulatorial                                          |angela maria aparecida r|001004822|             |        30,00 |
+|18/11/2020|taxa ambulatorial                                          |aparecida das gracas ruf|001004790|             |        30,00 |
+|18/11/2020|exame de raio-x                                            |aparecida dos santos    |001004716|             |        35,00 |
+|18/11/2020| diaria campo belo - eunice das graças oliveira            |araceli alvim           |000000003|       -20,00|              |
+|18/11/2020| nf 22458 auto peças rw ltda filial                        |auto pecas r w ltda fili|000022458|    -1.052,00|              |
+|18/11/2020|taxa ambulatorial                                          |carmem de abreu pereira |001004773|             |        30,00 |
+|18/11/2020| diaria oliveira - simone de fatima donizete esteves       |cristiane de lourdes bor|000000172|       -15,00|              |
+|18/11/2020|exame de raio-x                                            |david joanas            |001004912|             |        70,00 |
+|18/11/2020|taxa ambulatorial                                          |david joanas            |001004794|             |        60,00 |
+|18/11/2020|eletrocardiograma(ecg)                                     |david joanas            |001004911|             |        30,00 |
+|18/11/2020|exame de holter                                            |elizabete aparecida coel|001004807|             |        40,00 |
+|18/11/2020|exame de ultrassonografia                                  |fabiana borges ribeiro  |001004884|             |       180,00 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 008|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|18/11/2020|taxa ambulatorial                                          |lindalva de moura reis  |001004797|             |        30,00 |
+|18/11/2020|exame de ultrassonografia                                  |lucas da silva naves    |001004928|             |       160,00 |
+|18/11/2020| diaria divinopolis  - hemominas                           |ludiani valquiria andrad|000000059|       -25,00|              |
+|18/11/2020|exame de raio-x                                            |luiz felipe silva ribeir|001004644|             |       140,00 |
+|18/11/2020| nf 96 marcia aparecida rosa santos - mei                  |marcia aparecida rosa sa|000202096|       -30,00|              |
+|18/11/2020|taxa ambulatorial                                          |maria aparecida         |001004823|             |        30,00 |
+|18/11/2020|exame de raio-x                                            |maria das dores         |001004783|             |        40,00 |
+|18/11/2020|exame de raio-x                                            |maria jose peixoto      |001004781|             |        40,00 |
+|18/11/2020|taxa ambulatorial                                          |maria vilma alves de sou|001004866|             |        30,00 |
+|18/11/2020|taxa ambulatorial                                          |nazare aparecida pereira|001004863|             |        30,00 |
+|18/11/2020|exame de raio-x                                            |olavo rodrigues         |001004891|             |        80,00 |
+|18/11/2020|exame de ultrassonografia                                  |olavo rodrigues         |001004893|             |       320,00 |
+|18/11/2020|taxa ambulatorial                                          |raquel martins cereda   |001004865|             |        30,00 |
+|18/11/2020| diaria oliveira - luiz carlos de carvalho                 |raquel vieira duarte    |000000099|       -15,00|              |
+|18/11/2020| diaria oliveira - tvo dos santos gonçalves                |talita aparecida silva a|000000005|       -15,00|              |
+|18/11/2020|taxa ambulatorial                                          |vicente de paulo da silv|001004789|             |        30,00 |
+|18/11/2020|taxa ambulatorial                                          |vicentina rodrigues de f|001004798|             |        10,00 |
+|18/11/2020| nf 59 vital laboratorio e analises clinicas               |vital laboratório e anál|000202059|       -11,76|              |
+|19/11/2020|transferencia laboratprio para caixa 101                   |                        |000000001|             |     1.007,00 |
+|19/11/2020|transf. caixa 101 p/ conta 10628 (bb)                      |                        |000000004|    -6.500,00|              |
+|19/11/2020| nf 251 aloisio rodrigues madeira                          |aloísio rodrigues madeir|002020251|      -100,00|              |
+|19/11/2020|exame de ultrassonografia                                  |carlos henrique da silva|001005014|             |       330,00 |
+|19/11/2020|taxa ambulatorial                                          |carolline luiza marcal c|001005096|             |        60,00 |
+|19/11/2020|taxa ambulatorial                                          |daiane stephanie souza r|001005100|             |        30,00 |
+|19/11/2020|taxa ambulatorial                                          |janice aparecida goncalv|001004706|             |        30,00 |
+|19/11/2020|exame de ultrassonografia                                  |jose expedito dos santos|001004991|             |       115,00 |
+|19/11/2020|exame de ultrassonografia                                  |luiz antonio malaguti   |001005060|             |        90,00 |
+|19/11/2020|taxa ambulatorial                                          |luiz antonio malaguti   |001005024|             |        60,00 |
+|19/11/2020|taxa ambulatorial                                          |lunis aparecida rabelo a|001005017|             |        60,00 |
+|19/11/2020|exame de ultrassonografia                                  |marcia cristina de lima |001005003|             |        60,00 |
+|19/11/2020|taxa ambulatorial                                          |maria de lourdes dos san|001005083|             |        30,00 |
+|19/11/2020|exame de ultrassonografia                                  |neide aparecida borges p|001005093|             |       180,00 |
+|19/11/2020|exame de ultrassonografia                                  |nelson nascimento       |001005035|             |       190,00 |
+|19/11/2020|exame de ultrassonografia                                  |renata imaculada da silv|001005028|             |       140,00 |
+|19/11/2020| nf 923 serralheria cristiano                              |serralheria cristiano lt|000000923|      -760,00|              |
+|19/11/2020|exame de ultrassonografia                                  |valdir gomes de faria   |001005004|             |       190,00 |
+|20/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |        67,00 |
+|20/11/2020|doação colaboradores - evento tropeiro                     |                        |000000005|             |     3.150,00 |
+|20/11/2020|taxa ambulatorial                                          |ademir jose dos santos  |001005269|             |        30,00 |
+|20/11/2020| adiantamento salário 11/2020                              |adiantamento            |020112020|    -3.150,00|              |
+|20/11/2020|taxa ambulatorial                                          |adriano domingos da silv|001005215|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |antonia vicentina santos|001005295|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |antonio benicio pereira |001005265|             |        30,00 |
+|20/11/2020| nf 886 antonio rinaldo isidio - me                        |antonio rinaldo isidro m|000000886|      -390,00|              |
+|20/11/2020|taxa ambulatorial                                          |cintia benicio da silva |001005208|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |cleuton pereira de abreu|001005281|             |        20,00 |
+|20/11/2020| nf 8 fabio raimundo duarte                                |fabio raimundo duarte   |000020208|      -210,00|              |
+|20/11/2020|taxa ambulatorial                                          |geraldo olimpio         |001005244|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |heliene aparecida alves |001005268|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |henrique nascimento cost|001005289|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |joana borges rodrigues  |001005213|             |        30,00 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 009|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|20/11/2020|refeições de funcionários                                  |karoline aparecida borge|000000018|             |         5,00 |
+|20/11/2020|taxa ambulatorial                                          |lauren cristina rosa    |001005258|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |marco antonio rodrigues |001005282|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |maria sonia ronan viegas|001005292|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |marilia de fatima de oli|001005216|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |miqueias davi reis freir|001005231|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |patricia borges cardoso |001005253|             |        10,00 |
+|20/11/2020|taxa ambulatorial                                          |paulo henrique alves est|001005197|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |pedro henrique do nascim|001005297|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |rafael ronan viegas     |001005293|             |        30,00 |
+|20/11/2020|refeições de funcionários                                  |raquel vieira duarte    |000000010|             |         5,00 |
+|20/11/2020|taxa ambulatorial                                          |renata ronan viegas     |001005294|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |ruan carlos santos bezer|001005300|             |        30,00 |
+|20/11/2020| diaria perdoes - mayra cristina borges magalhaes          |simone fatima donizete e|000000202|       -15,00|              |
+|20/11/2020|taxa ambulatorial                                          |valdir gomes de faria   |001005273|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |vantuir de abreu        |001005205|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |vicente de paula dos rei|001005218|             |        30,00 |
+|20/11/2020|taxa ambulatorial                                          |victor hugo chagas resen|001005264|             |        30,00 |
+|23/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       655,00 |
+|23/11/2020|exame de raio-x                                            |alvina candida arriel   |001005586|             |        35,00 |
+|23/11/2020|taxa ambulatorial                                          |antonio marciano da cunh|001005491|             |       300,00 |
+|23/11/2020|exame de endoscopia                                        |daniela aparecida de jes|001005475|             |       100,00 |
+|23/11/2020|02 refeições de funcionários                               |elisangela aparecida de |000000069|             |        10,00 |
+|23/11/2020|teste ergometrico                                          |emiliana dos santos mora|001005564|             |        50,00 |
+|23/11/2020|taxa ambulatorial                                          |gilberto da silva       |001005494|             |        75,00 |
+|23/11/2020| nf 16743 j. m. auto peças                                 |jose mauricio de souza -|000016743|       -20,00|              |
+|23/11/2020| nf 86 l & j caçambas ltda                                 |l & j caçambas ltda     |000202086|      -115,84|              |
+|23/11/2020| nf 88 l & j caçambas ltda                                 |l & j caçambas ltda     |000202088|      -115,84|              |
+|23/11/2020|taxa do holter                                             |lazaro alves de deus    |001005570|             |        40,00 |
+|23/11/2020|taxa ambulatorial                                          |maria de lourdes oliveir|001005528|             |       300,00 |
+|23/11/2020|refeições de funcionários                                  |nilson carlos machado   |000000072|             |         5,00 |
+|23/11/2020|taxa ambulatorial                                          |sebastiana rodrigues de |001005524|             |       300,00 |
+|23/11/2020| diaria campo belo - welinton santos ribeiro               |suelem maria de carvalho|000000115|       -20,00|              |
+|23/11/2020|taxa ambulatorial                                          |vicente alves da silva b|001005529|             |       300,00 |
+|23/11/2020| diaria oliveira - rita resende pereira                    |willians martins lelis  |000000263|       -15,00|              |
+|23/11/2020|exame de endoscopia                                        |zildete vieira dos santo|001005482|             |       100,00 |
+|24/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |     1.045,00 |
+|24/11/2020|taxa ambulatorial                                          |adelia de carvalho pedro|001005656|             |        30,00 |
+|24/11/2020|taxa ambulatorial                                          |ademir de paulo         |001005646|             |        30,00 |
+|24/11/2020|refeições de funcionários                                  |aline aparecida de paulo|000000028|             |         5,00 |
+|24/11/2020|exame de raio-x                                            |ananias luiz da silva   |001005701|             |        70,00 |
+|24/11/2020|cistoscopia                                                |ari viana do santos     |001005729|             |       150,00 |
+|24/11/2020|taxa ambulatorial                                          |debora aparecida almeida|001005733|             |        60,00 |
+|24/11/2020|taxa ambulatorial                                          |edvard gualberto pereira|001005651|             |        30,00 |
+|24/11/2020| nf 1758 jessyca tamara cardoso  me                        |jessyca tamara cardoso -|000001758|      -330,00|              |
+|24/11/2020|taxa ambulatorial                                          |joao lucas de assis vieg|001005688|             |        30,00 |
+|24/11/2020| diaria campo belo - maria lucia bolina                    |leila de fatima da silva|000000140|       -20,00|              |
+|24/11/2020|refeições de funcionários                                  |lidiani aparecida reis c|000000017|             |         5,00 |
+|24/11/2020| adiantamento a fornecedor                                 |luidar tintas ltda      |024112020|      -519,00|              |
+|24/11/2020|taxa ambulatorial                                          |marcos monteiro cambraia|001005605|             |        30,00 |
+|24/11/2020| diaria oliveira - douglas dos santos                      |maria alice silva borges|000000007|       -15,00|              |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 010|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|24/11/2020|taxa ambulatorial                                          |maria aparecida braga   |001005713|             |        30,00 |
+|24/11/2020| nf 392 ac moveis                                          |maria de fatima borges  |000000392|       -15,00|              |
+|24/11/2020| nf 407 ac moveis                                          |maria de fatima borges  |000000407|      -165,00|              |
+|24/11/2020|taxa ambulatorial                                          |maria francisca         |001005785|             |        30,00 |
+|24/11/2020|taxa de holter 24hs                                        |maria madalena mattar ab|000996755|             |        20,00 |
+|24/11/2020|taxa ambulatorial                                          |monaliza rosa amancio si|001005665|             |        30,00 |
+|24/11/2020|refeições de funcionários                                  |nilson carlos machado   |000000073|             |         5,00 |
+|24/11/2020|04 refeições estagiaria ana el                             |refeição                |000000106|             |        20,00 |
+|24/11/2020| diaria oliveira - geraldo lazaro da silva                 |renia rosa dutra        |000000133|       -15,00|              |
+|24/11/2020| diaria campo belo - eustaquio donizete                    |rosa natalia da silva   |000000038|       -20,00|              |
+|24/11/2020|taxa ambulatorial                                          |rosely jacqueline da sil|001005738|             |        20,00 |
+|24/11/2020|exame de raio-x                                            |silvani marques de jesus|001005730|             |        80,00 |
+|24/11/2020|refeições de funcionários                                  |simone diniz carvalho   |000000029|             |         5,00 |
+|24/11/2020| diaria são sebastião do paraiso - joão alves da silva     |vanessa dos santos coelh|000000017|       -50,00|              |
+|24/11/2020|taxa ambulatorial                                          |vicente alves da silva b|001005660|             |        30,00 |
+|24/11/2020|taxa ambulatorial                                          |viviane quenia das graca|001005771|             |        30,00 |
+|25/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       614,00 |
+|25/11/2020|exame de raio-x                                            |daiane rosa ferreira    |001005950|             |        70,00 |
+|25/11/2020|taxa ambulatorial                                          |daiane rosa ferreira    |001005928|             |        30,00 |
+|25/11/2020|taxa ambulatorial                                          |danilo aparecido namital|001005861|             |        30,00 |
+|25/11/2020|refeições de funcionários                                  |elisangela aparecida de |000000070|             |         5,00 |
+|25/11/2020|eletrocardiograma(ecg)                                     |ernesto lima            |001005853|             |        35,00 |
+|25/11/2020| nf 385 itamar dos santos                                  |itamar dos santos isk el|002020385|      -185,00|              |
+|25/11/2020|refeições de funcionários                                  |karoline aparecida borge|000000019|             |         5,00 |
+|25/11/2020|taxa ambulatorial                                          |laide de almeida da silv|001005925|             |        30,00 |
+|25/11/2020| recibo 190 ludiani valquiria andrade                      |ludiani valquiria andrad|000000060|    -1.170,00|              |
+|25/11/2020| nf 408 ac moveis                                          |maria de fatima borges  |000000408|       -45,00|              |
+|25/11/2020|exame de ultrassonografia                                  |maria lucia cardoso avel|001005987|             |       100,00 |
+|25/11/2020|taxa ambulatorial                                          |maria tereza botelho ros|001005945|             |        60,00 |
+|25/11/2020|exame de raio-x                                            |naiara ferreira diniz ba|001006015|             |        40,00 |
+|25/11/2020|taxa ambulatorial                                          |nazare de carvalho vieir|001005868|             |        10,00 |
+|25/11/2020|taxa ambulatorial                                          |renato ferreira resende |001005916|             |        30,00 |
+|25/11/2020| nf 31 ueliton marcelino da cruz                           |ueliton marcelino da cru|000202031|      -230,00|              |
+|26/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |     1.638,00 |
+|26/11/2020| nf 31 alvaro de souza cardoso                             |alvaro de souza cardoso |000202031|    -1.500,00|              |
+|26/11/2020|taxa ambulatorial                                          |amauri ribeiro de carval|001006087|             |        60,00 |
+|26/11/2020|taxa ambulatorial                                          |cleide aparecida de carv|001006072|             |        60,00 |
+|26/11/2020|taxa ambulatorial                                          |dilaine aparecida dos re|001006160|             |        10,00 |
+|26/11/2020|exame de raio-x                                            |edna das dores sandim si|000996749|             |        40,00 |
+|26/11/2020|exame de raio-x                                            |jose cardoso da silva   |001006079|             |        80,00 |
+|26/11/2020|exame de ultrassonografia                                  |junei rosa naves        |001006102|             |        90,00 |
+|26/11/2020|refeições de funcionários                                  |karoline aparecida borge|000000020|             |         5,00 |
+|26/11/2020|exame de ultrassonografia                                  |larissa aparecida vieira|001006146|             |       160,00 |
+|26/11/2020|exame de ultrassonografia                                  |margarida coelho dos san|001006068|             |       115,00 |
+|26/11/2020|taxa ambulatorial                                          |maria antonia da silva o|001006153|             |        10,00 |
+|26/11/2020|taxa ambulatorial                                          |maria cristina alvarenga|001006101|             |        60,00 |
+|26/11/2020|exame de ultrassonografia                                  |maria das gracas alves  |001006089|             |       115,00 |
+|26/11/2020|taxa ambulatorial                                          |maria de lourdes rodrigu|001005777|             |        30,00 |
+|26/11/2020|taxa ambulatorial                                          |maria jose eduardo silva|001006117|             |        60,00 |
+|26/11/2020|exame de ultrassonografia                                  |nadia de fatima machado |001006148|             |       140,00 |
+|26/11/2020|taxa ambulatorial                                          |naiara ferreira diniz ba|001006073|             |        10,00 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 011|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|26/11/2020|exame de ultrassonografia                                  |poliane da silva miguel |001006092|             |       160,00 |
+|26/11/2020|refeição estagiaria ane                                    |refeição                |000000107|             |         5,00 |
+|26/11/2020|refeição estagiario marcos                                 |refeição                |000000108|             |        15,00 |
+|26/11/2020| nf 24 sergio antonio dos reis                             |sergio antonio dos reis |000202024|    -3.500,00|              |
+|26/11/2020| nf 4 silmar aparecido de souza                            |silmar aparecido de souz|000020204|    -3.500,00|              |
+|26/11/2020|taxa ambulatorial                                          |simone de souza candido |001006080|             |        60,00 |
+|27/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       454,00 |
+|27/11/2020|taxa ambulatorial                                          |amanda helena rodrigues |001006288|             |        30,00 |
+|27/11/2020|taxa ambulatorial                                          |ana de lourdes bernardo |001006278|             |        30,00 |
+|27/11/2020|taxa ambulatorial                                          |ana flavia fernandes    |001006312|             |        30,00 |
+|27/11/2020|teste ergometrico                                          |angelica scherer pinto  |001006308|             |       100,00 |
+|27/11/2020|teste ergometrico                                          |antonio ribeiro da silva|001006291|             |        50,00 |
+|27/11/2020|taxa ambulatorial                                          |betania campideli       |001006305|             |        30,00 |
+|27/11/2020| dr wendel nf 191                                          |clinivita medicos associ|000000191|    -1.266,97|              |
+|27/11/2020|refeições de funcionários                                  |dalila santos melo      |000000003|             |         5,00 |
+|27/11/2020|taxa ambulatorial                                          |david de nazare         |001006240|             |        30,00 |
+|27/11/2020| diaria perdoes - rita resende pereira                     |elisangela aparecida de |000000009|       -15,00|              |
+|27/11/2020|refeições de funcionários                                  |elisangela aparecida de |000000071|             |         5,00 |
+|27/11/2020| nf 11251 farmacia monsenhor                               |farmacia monsenhor vilac|000011251|       -39,96|              |
+|27/11/2020|taxa ambulatorial                                          |geni de carvalho luiz   |001006325|             |        30,00 |
+|27/11/2020|taxa ambulatorial                                          |guilhermina dos santos m|001006287|             |        30,00 |
+|27/11/2020|refeições de funcionários                                  |joiciele aparecida emili|000000011|             |         5,00 |
+|27/11/2020|taxa ambulatorial                                          |jose alves temponi      |001006309|             |        20,00 |
+|27/11/2020|taxa ambulatorial                                          |julio cesar moreira     |001006311|             |        20,00 |
+|27/11/2020|taxa ambulatorial                                          |lourdes de nazare vitori|001006316|             |        30,00 |
+|27/11/2020|taxa ambulatorial                                          |lucimara aparecida de li|001006290|             |        30,00 |
+|27/11/2020|refeições de funcionários                                  |maria angelica trindade |000000025|             |         5,00 |
+|27/11/2020|taxa ambulatorial                                          |maria aparecida gravatim|001006310|             |        20,00 |
+|27/11/2020|taxa ambulatorial                                          |maria aparecida teixeira|001006321|             |        30,00 |
+|27/11/2020| nf 398 nalisson saimon arriel guissoni                    |nalisson saimon arriel g|002020398|      -570,00|              |
+|27/11/2020|refeições de funcionários                                  |patricia duarte santos  |000000054|             |         5,00 |
+|27/11/2020|taxa ambulatorial                                          |paula dutra borges      |001006295|             |        30,00 |
+|27/11/2020|exame de endoscopia                                        |paula ferreira          |001006234|             |       100,00 |
+|27/11/2020|taxa ambulatorial                                          |ramon luiz da silva     |001006319|             |        30,00 |
+|27/11/2020|taxa ambulatorial                                          |raquel clarete moreira s|001006318|             |        30,00 |
+|27/11/2020| nf 12792 rn tintas                                        |rn tintas e ferr. ltda  |000012792|      -554,00|              |
+|27/11/2020| diaria campo belo - lazara candida de jesus               |rosimeire stefani de pau|000000009|       -20,00|              |
+|27/11/2020| diaria campo belo - angela maria graciano                 |vagner ribeiro fernandes|000000211|       -20,00|              |
+|27/11/2020| diaria campo belo - conceição maria de jesus              |vanessa dos santos coelh|000000018|       -20,00|              |
+|27/11/2020| nf 394 waldevan dos reis rosa                             |waldevan dos reis rosa  |002020394|    -4.842,00|              |
+|30/11/2020|transferencia laboratorio para caixa 101                   |                        |000000001|             |       986,00 |
+|30/11/2020|teste ergometrico                                          |adelino ribeiro da silva|001006595|             |       100,00 |
+|30/11/2020|taxa ambulatorial                                          |antonia cardoso do amara|001006526|             |       300,00 |
+|30/11/2020| diaria varginha                                           |antonio pedro dutra     |000000250|       -40,00|              |
+|30/11/2020| diaria campo belo  - ghd contabilidade                    |antonio pedro dutra     |000000249|       -30,00|              |
+|30/11/2020| nf 890 rinaldo antonio isidro                             |antonio rinaldo isidro m|000000890|      -670,00|              |
+|30/11/2020|exame de raio-x                                            |conceicao maria lage    |001006496|             |        80,00 |
+|30/11/2020| diaria oliveira - protec                                  |denis antonio vitorio   |000000068|       -15,00|              |
+|30/11/2020| correios - scih                                           |empresa brasileira de co|030112020|       -15,55|              |
+|30/11/2020|taxa ambulatorial                                          |eunice das gracas olivei|001006564|             |       300,00 |
+|30/11/2020|taxa ambulatorial                                          |francisco carlos fernand|001006588|             |       300,00 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gestão hospitalar - controle financeiro
+extrato bancário (caixa/bancos) modelo i
+ pag: 012|
+|                    hospital regional sao sebastiao    c.n.p.j.: 04.541.288/0001-62    santo antonio do amparo-mg                     |
+|                                     001 - hospital regional sao sebastiao                                                            |
+| emitido em: 11/12/2020 as 11:17
+ documentos pagos em: 01/11/2020 a 30/11/2020
+|
+|                                                          banco: 101 a 101                                                          
+|
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|30/11/2020|taxa ambulatorial                                          |helen caroline aparecida|001006561|             |        60,00 |
+|30/11/2020|taxa ambulatorial                                          |irani reis viegas       |001006616|             |       300,00 |
+|30/11/2020|exame de endoscopia                                        |julio antonio de jesus  |001006519|             |        30,00 |
+|30/11/2020| diaria campo belo - conceição maria de jesus              |maria do carmo monteiro |000000292|       -20,00|              |
+|30/11/2020| diaria campo belo - vicente geraldo de oliveira           |maria do carmo monteiro |000000293|       -20,00|              |
+|30/11/2020|teste ergometrico                                          |maria lucia cardoso avel|001006530|             |        50,00 |
+|30/11/2020| dr daniela  nf 151                                        |neurologia life ltda    |002020151|      -130,00|              |
+|30/11/2020| diaria oliveira - plotec                                  |paulo henrique da silva |000000089|       -15,00|              |
+|30/11/2020| nota fiscal                                               |r&a zulani log transport|000025990|      -180,00|              |
+|30/11/2020| diaria oliveira - estefani lorraine teixeira              |renia rosa dutra        |000000134|       -15,00|              |
+|30/11/2020|taxa ambulatorial                                          |silvio dos santos souza |001006584|             |       300,00 |
+|30/11/2020| diaria campo belo - vicente geraldo de oliveira           |willians martins lelis  |000000264|       -20,00|              |
+|          |                                                           |                        |         |-------------|------------- |
+|          |somatorio                                                  |                        |         |   -87.525,24|    78.348,80 |
+|          |                                                           |                        |         |             |              |
+|30/11/2020|saldo final                                                |                        |         |             |     9.013,57 |
+|30/11/2020|saldo total                                                |                        |         |             |     9.013,57 |
++--------------------------------------------------------------------------------------------------------------------------------------+
+|          |saldo final                                                |                        |         |             |     9.013,57 |
+|          |saldo total                                                |                        |         |             |     9.013,57 |
+|          |total de receitas                                          |                        |         |             |    78.348,80 |
+|          |total de despesas                                          |                        |         |             |   -87.525,24 |
+|          |receita liquida                                            |                        |         |             |    -9.176,44 |
++--------------------------------------------------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------------------+
+| ____________________________________    ______________________   ____________________________________                                |
+|               tesouraria                     data entrada            hospital regional sao se                                        |
++--------------------------------------------------------------------------------------------------------------------------------------+

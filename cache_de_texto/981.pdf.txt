@@ -1,0 +1,1134 @@
+1/127
+extrato de vendas
+antonio reginaldo soares batista 
+ 09813728000107
+cnpj:
+ 01-02-2023 a 28-02-2023
+período:
+ todos
+ todos
+loja:
+ colaborador:
+ todos
+ todos
+ferramentas de pagamento:
+ meios de pagamento:
+totais
+vendas totais brutas:
+r$59267.46
+taxas:
+r$-538.00
+vendas totais líquidas:
+r$58729.46
+devoluções:
+r$0.00
+contestações:
+r$0.00
+ferramentas de pagamento
+point:
+r$26184.01
+código qr:
+r$4634.00
+checkout:
+r$0.00
+link de pagamento:
+r$0.00
+outros:
+r$28449.45
+meios de pagamento
+crédito:
+r$6806.00
+débito:
+r$19390.01
+saldo em conta:
+r$18743.45
+pix:
+r$14328.00
+outros:
+r$0.00
+detalhes das movimentações
+data da
+transação
+data de
+liberação
+tipo de
+movimentação
+loja
+ferramenta
+de pagamento
+meio de
+pagamento
+valor bruto
+taxas
+valor líquido
+01-02-2023
+11:07:37
+01-02-2023
+11:07:37
+pagamento
+id:54222585346
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$5.00
+r$-0.08
+r$4.92
+01-02-2023
+11:30:28
+01-02-2023
+11:30:28
+pagamento
+id:54223556535
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$5.00
+r$-0.08
+r$4.92
+01-02-2023
+11:55:14
+01-02-2023
+11:55:14
+pagamento
+id:54224545367
+dids 
+sorvetes
+código qr
+pix
+r$5.00
+r$0.00
+r$5.00
+01-02-2023
+12:13:33
+01-02-2023
+12:13:33
+pagamento
+id:54225472351
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$40.00
+r$-0.64
+r$39.36
+01-02-2023
+12:26:06
+01-02-2023
+12:26:06
+pagamento
+id:54226031235
+dids 
+sorvetes
+código qr
+pix
+r$2.00
+r$0.00
+r$2.00
+01-02-2023
+12:46:13
+01-02-2023
+12:46:13
+pagamento
+id:54226855190
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$16.00
+r$-0.25
+r$15.75
+01-02-2023
+12:58:47
+01-02-2023
+12:58:47
+pagamento
+id:54227410728
+dids 
+sorvetes
+point
+cartão de crédito
+master
+r$4.00
+r$-0.13
+r$3.87
+01-02-2023
+12:59:30
+01-02-2023
+12:59:30
+pagamento
+id:54227458503
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$12.00
+r$-0.19
+r$11.81
+01-02-2023
+13:04:33
+01-02-2023
+13:04:33
+pagamento
+id:54227734459
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$5.00
+r$-0.08
+r$4.92
+2/127
+data da
+transação
+data de
+liberação
+tipo de
+movimentação
+loja
+ferramenta
+de pagamento
+meio de
+pagamento
+valor bruto
+taxas
+valor líquido
+01-02-2023
+13:07:23
+01-02-2023
+13:07:23
+pagamento
+id:54227851914
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$10.00
+r$-0.16
+r$9.84
+01-02-2023
+13:26:20
+01-02-2023
+13:26:20
+pagamento
+id:54228632145
+dids 
+sorvetes
+código qr
+pix
+r$6.00
+r$0.00
+r$6.00
+01-02-2023
+13:35:04
+01-02-2023
+13:35:04
+pagamento
+id:54228920748
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$6.00
+r$-0.10
+r$5.90
+01-02-2023
+13:38:31
+01-02-2023
+13:38:31
+pagamento
+id:54229058513
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$5.00
+r$-0.08
+r$4.92
+01-02-2023
+13:43:45
+01-02-2023
+13:43:45
+pagamento
+id:54229188000
+dids 
+sorvetes
+point
+cartão de crédito
+visa
+r$5.00
+r$-0.17
+r$4.83
+01-02-2023
+13:45:42
+01-02-2023
+13:45:42
+pagamento
+id:54229317104
+dids 
+sorvetes
+point
+cartão de crédito
+master
+r$5.00
+r$-0.17
+r$4.83
+01-02-2023
+13:48:34
+01-02-2023
+13:48:34
+pagamento
+id:54229461302
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$13.00
+r$-0.21
+r$12.79
+01-02-2023
+13:50:16
+01-02-2023
+13:50:16
+pagamento
+id:54229530177
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$12.00
+r$-0.19
+r$11.81
+01-02-2023
+14:04:14
+01-02-2023
+14:04:14
+pagamento
+id:54230146221
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$5.00
+r$-0.08
+r$4.92
+01-02-2023
+14:20:42
+01-02-2023
+14:20:42
+pagamento
+id:54230683588
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$6.00
+r$-0.10
+r$5.90
+01-02-2023
+14:33:57
+01-02-2023
+14:33:57
+pagamento
+id:54231076830
+dids 
+sorvetes
+point
+cartão de crédito
+master
+r$24.00
+r$-0.81
+r$23.19
+01-02-2023
+14:40:54
+01-02-2023
+14:40:54
+pagamento
+id:54231351745
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$17.00
+r$-0.27
+r$16.73
+01-02-2023
+14:41:52
+01-02-2023
+14:41:52
+pagamento
+id:54231394473
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$5.00
+r$-0.08
+r$4.92
+01-02-2023
+14:53:34
+01-02-2023
+14:53:34
+pagamento
+id:54231897835
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$12.00
+r$-0.19
+r$11.81
+01-02-2023
+15:12:59
+01-02-2023
+15:12:59
+pagamento
+id:54232557158
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$12.00
+r$-0.19
+r$11.81
+01-02-2023
+15:14:17
+01-02-2023
+15:14:17
+pagamento
+id:54232582672
+dids 
+sorvetes
+código qr
+pix
+r$4.00
+r$0.00
+r$4.00
+3/127
+data da
+transação
+data de
+liberação
+tipo de
+movimentação
+loja
+ferramenta
+de pagamento
+meio de
+pagamento
+valor bruto
+taxas
+valor líquido
+01-02-2023
+15:18:43
+01-02-2023
+15:18:43
+pagamento
+id:54232736665
+dids 
+sorvetes
+código qr
+cartão de crédito
+visa
+r$12.00
+r$-0.60
+r$11.40
+01-02-2023
+15:25:28
+01-02-2023
+15:25:28
+pagamento
+id:54232932833
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$19.00
+r$-0.30
+r$18.70
+01-02-2023
+15:34:48
+01-02-2023
+15:34:48
+pagamento
+id:54233339585
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$18.00
+r$-0.29
+r$17.71
+01-02-2023
+15:35:36
+01-02-2023
+15:35:36
+pagamento
+id:54233366540
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$13.00
+r$-0.21
+r$12.79
+01-02-2023
+15:35:31
+01-02-2023
+15:35:31
+pagamento
+id:54233368303
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$11.00
+r$-0.17
+r$10.83
+01-02-2023
+15:50:04
+01-02-2023
+15:50:04
+pagamento
+id:54233924871
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$30.00
+r$-0.48
+r$29.52
+01-02-2023
+16:02:32
+01-02-2023
+16:02:32
+pagamento
+id:54234332586
+dids 
+sorvetes
+point
+cartão de crédito
+master
+r$10.00
+r$-0.34
+r$9.66
+01-02-2023
+16:07:54
+01-02-2023
+16:07:54
+pagamento
+id:54234482507
+dids 
+sorvetes
+point
+cartão de crédito
+visa
+r$15.00
+r$-0.51
+r$14.49
+01-02-2023
+16:09:17
+01-02-2023
+16:09:17
+pagamento
+id:54234537905
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$8.00
+r$-0.13
+r$7.87
+01-02-2023
+16:11:58
+01-02-2023
+16:11:58
+pagamento
+id:54234637579
+dids 
+sorvetes
+point
+cartão de crédito
+master
+r$5.00
+r$-0.17
+r$4.83
+01-02-2023
+16:31:47
+01-02-2023
+16:31:47
+pagamento
+id:54235470481
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$8.00
+r$-0.13
+r$7.87
+01-02-2023
+16:32:34
+01-02-2023
+16:32:34
+pagamento
+id:54235522105
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$6.00
+r$-0.10
+r$5.90
+01-02-2023
+16:34:19
+01-02-2023
+16:34:19
+pagamento
+id:54235561765
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$18.00
+r$-0.29
+r$17.71
+01-02-2023
+16:39:22
+01-02-2023
+16:39:22
+pagamento
+id:54235735898
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$33.00
+r$-0.52
+r$32.48
+01-02-2023
+16:41:13
+01-02-2023
+16:41:13
+pagamento
+id:54235793082
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$25.00
+r$-0.40
+r$24.60
+01-02-2023
+16:42:46
+01-02-2023
+16:42:46
+pagamento
+id:54235859698
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$18.00
+r$-0.29
+r$17.71
+4/127
+data da
+transação
+data de
+liberação
+tipo de
+movimentação
+loja
+ferramenta
+de pagamento
+meio de
+pagamento
+valor bruto
+taxas
+valor líquido
+01-02-2023
+16:50:49
+01-02-2023
+16:50:49
+pagamento
+id:54236137657
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$10.00
+r$-0.16
+r$9.84
+01-02-2023
+17:02:38
+01-02-2023
+17:02:38
+pagamento
+id:54236539880
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$5.00
+r$-0.08
+r$4.92
+01-02-2023
+17:06:48
+01-02-2023
+17:06:48
+pagamento
+id:54236717658
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$6.00
+r$-0.10
+r$5.90
+01-02-2023
+17:27:26
+01-02-2023
+17:27:26
+pagamento
+id:54237635577
+dids 
+sorvetes
+point
+cartão de crédito
+master
+r$58.00
+r$-1.95
+r$56.05
+01-02-2023
+17:28:24
+01-02-2023
+17:28:24
+pagamento
+id:54237653059
+dids 
+sorvetes
+point
+cartão de crédito
+master
+r$20.00
+r$-0.67
+r$19.33
+01-02-2023
+17:35:24
+01-02-2023
+17:35:24
+pagamento
+id:54237914828
+dids 
+sorvetes
+código qr
+pix
+r$13.00
+r$0.00
+r$13.00
+01-02-2023
+17:44:05
+01-02-2023
+17:44:05
+pagamento
+id:54238230338
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$20.00
+r$-0.32
+r$19.68
+01-02-2023
+17:47:35
+01-02-2023
+17:47:35
+pagamento
+id:54238393111
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$15.00
+r$-0.24
+r$14.76
+01-02-2023
+17:48:52
+01-02-2023
+17:48:52
+pagamento
+id:54238430887
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$20.00
+r$-0.32
+r$19.68
+01-02-2023
+17:48:47
+01-02-2023
+17:48:47
+pagamento
+id:54238436504
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$53.00
+r$-0.84
+r$52.16
+01-02-2023
+17:52:10
+01-02-2023
+17:52:10
+pagamento
+id:54238581788
+dids 
+sorvetes
+código qr
+pix
+r$6.00
+r$0.00
+r$6.00
+01-02-2023
+18:05:19
+01-02-2023
+18:05:19
+pagamento
+id:54239235686
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$8.00
+r$-0.13
+r$7.87
+01-02-2023
+18:10:32
+01-02-2023
+18:10:32
+pagamento
+id:54239456056
+dids 
+sorvetes
+point
+cartão de crédito
+master
+r$15.00
+r$-0.51
+r$14.49
+01-02-2023
+18:14:53
+01-02-2023
+18:14:53
+pagamento
+id:54239660285
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$5.00
+r$-0.08
+r$4.92
+01-02-2023
+18:16:13
+01-02-2023
+18:16:13
+pagamento
+id:54239694613
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$18.00
+r$-0.29
+r$17.71
+01-02-2023
+18:24:19
+01-02-2023
+18:24:19
+pagamento
+id:54240041246
+dids 
+sorvetes
+point
+cartão de débito
+debelo
+r$5.00
+r$-0.08
+r$4.92
+5/127
+data da
+transação
+data de
+liberação
+tipo de
+movimentação
+loja
+ferramenta
+de pagamento
+meio de
+pagamento
+valor bruto
+taxas
+valor líquido
+01-02-2023
+18:28:32
+01-02-2023
+18:28:32
+pagamento
+id:54240169090
+dids 
+sorvetes
+código qr
+pix
+r$18.00
+r$0.00
+r$18.00
+01-02-2023
+18:28:53
+01-02-2023
+18:28:53
+pagamento
+id:54240235101
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$11.00
+r$-0.17
+r$10.83
+01-02-2023
+18:34:19
+01-02-2023
+18:34:19
+pagamento
+id:54240405980
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$4.00
+r$-0.06
+r$3.94
+01-02-2023
+19:02:22
+01-02-2023
+19:02:22
+pagamento
+id:54241729585
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$14.00
+r$-0.22
+r$13.78
+01-02-2023
+19:02:32
+01-02-2023
+19:02:32
+pagamento
+id:54241736760
+dids 
+sorvetes
+point
+cartão de crédito
+visa
+r$15.00
+r$-0.51
+r$14.49
+01-02-2023
+19:02:49
+01-02-2023
+19:02:49
+pagamento
+id:54241775448
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$5.00
+r$-0.08
+r$4.92
+01-02-2023
+19:16:28
+01-02-2023
+19:16:28
+pagamento
+id:54242309458
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$12.00
+r$-0.19
+r$11.81
+01-02-2023
+19:29:24
+01-02-2023
+19:29:24
+pagamento
+id:54242923679
+dids 
+sorvetes
+código qr
+pix
+r$39.00
+r$0.00
+r$39.00
+01-02-2023
+19:30:37
+01-02-2023
+19:30:37
+pagamento
+id:54242961994
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$11.00
+r$-0.17
+r$10.83
+01-02-2023
+19:36:57
+01-02-2023
+19:36:57
+pagamento
+id:54243279293
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$6.00
+r$-0.10
+r$5.90
+01-02-2023
+19:38:12
+01-02-2023
+19:38:12
+pagamento
+id:54243302742
+dids 
+sorvetes
+código qr
+pix
+r$12.00
+r$0.00
+r$12.00
+01-02-2023
+19:42:10
+01-02-2023
+19:42:10
+pagamento
+id:54243460776
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$27.00
+r$-0.43
+r$26.57
+01-02-2023
+19:43:32
+01-02-2023
+19:43:32
+pagamento
+id:54243518622
+dids 
+sorvetes
+código qr
+pix
+r$21.00
+r$0.00
+r$21.00
+01-02-2023
+20:07:39
+01-02-2023
+20:07:39
+pagamento
+id:54244459964
+dids 
+sorvetes
+point
+cartão de débito
+visa débito
+r$24.00
+r$-0.38
+r$23.62
+01-02-2023
+20:32:00
+01-02-2023
+20:32:00
+pagamento
+id:54245531612
+dids 
+sorvetes
+código qr
+pix
+r$11.00
+r$0.00
+r$11.00
+01-02-2023
+20:32:56
+01-02-2023
+20:32:56
+pagamento
+id:54245580129
+dids 
+sorvetes
+point
+cartão de débito
+débito master
+r$30.00
+r$-0.48
+r$29.52

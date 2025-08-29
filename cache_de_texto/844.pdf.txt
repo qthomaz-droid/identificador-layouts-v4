@@ -1,0 +1,2745 @@
+718 - contas pagas
+período de lançamento:
+conta..: todas
+filial...:
+'1'
+grupo de conta:
+page 1
+01/06/2022 10:39:18
+todos
+tipo: analítico
+usuário lançamento: todos
+período de vencimento:
+período de pagamento:
+período de emissão:
+todos
+todos
+ 01/05/2022 a 31/05/2022
+todos
+: todos
+banco
+dt.pagamento: 02/05/2022
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+cheque
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+842705
+100001
+64 ferrero do brasil ind.doc
+384830
+310.368,97
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+310.368,9
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 384830 - 
+leonardo
+vanessa moreira da costa
+843659
+100001
+64 ferrero do brasil ind.doc
+385422
+144.749,62
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+144.749,6
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 385422 - 
+leonardo
+vanessa moreira da costa
+845925
+100001
+64 ferrero do brasil ind.doc
+387265
+75.113,39
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+75.113,39
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 387265 - 
+leonardo
+vanessa moreira da costa
+857549
+100001
+64 ferrero do brasil ind.doc
+392515
+204.556,80
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+204.556,8
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 392515 - 
+leonardo
+vanessa moreira da costa
+859363
+100001
+64 ferrero do brasil ind.doc
+393776
+4.587,28
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+4.587,28
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 393776 - 
+leonardo
+vanessa moreira da costa
+859929
+100001
+64 ferrero do brasil ind.doc
+394519
+153.671,91
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+153.671,9
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 394519 - 
+leonardo
+vanessa moreira da costa
+859930
+100001
+64 ferrero do brasil ind.doc
+394520
+207.736,52
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+207.736,5
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 394520 - 
+leonardo
+vanessa moreira da costa
+860485
+100001
+64 ferrero do brasil ind.doc
+395254
+91.065,64
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+91.065,64
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 395254 - 
+leonardo
+vanessa moreira da costa
+860487
+100001
+64 ferrero do brasil ind.doc
+395256
+181.889,17
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+181.889,1
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 395256 - 
+leonardo
+vanessa moreira da costa
+862522
+100001
+64 ferrero do brasil ind.doc
+396456
+319.237,90
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+319.237,9
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 396456 - 
+jorge
+vanessa moreira da costa
+863679
+100001
+64 ferrero do brasil ind.doc
+397801
+353.803,75
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+353.803,7
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 397801 - 
+leonardo
+vanessa moreira da costa
+864309
+100001
+64 ferrero do brasil ind.doc
+398379
+413.069,21
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+413.069,2
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 398379 - 
+leonardo
+vanessa moreira da costa
+865429
+100001
+64 ferrero do brasil ind.doc
+399565
+84.757,39
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+84.757,39
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 399565 - 
+jorge
+vanessa moreira da costa
+865430
+100001
+64 ferrero do brasil ind.doc
+399566
+106.409,50
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+106.409,5
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 399566 - 
+jorge
+vanessa moreira da costa
+866283
+100001
+64 ferrero do brasil ind.doc
+400084
+291.831,19
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+291.831,1
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 400084 - 
+jorge
+vanessa moreira da costa
+867845
+100001
+64 ferrero do brasil ind.doc
+400693
+152.958,84
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+152.958,8
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 400693 - 
+jorge
+vanessa moreira da costa
+867994
+100001
+64 ferrero do brasil ind.doc
+400694
+130.181,84
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+130.181,8
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 400694 - 
+jorge
+vanessa moreira da costa
+869381
+100001
+64 ferrero do brasil ind.doc
+401311
+24.615,48
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+24.615,48
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 401311 - 
+jorge
+vanessa moreira da costa
+869458
+100001
+64 ferrero do brasil ind.doc
+401314
+32.058,45
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+32.058,45
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 401314 - 
+jorge
+vanessa moreira da costa
+871501
+100001
+64 ferrero do brasil ind.doc
+403707
+129.965,84
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+129.965,8
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 403707 - 
+junior
+vanessa moreira da costa
+873026
+100001
+64 ferrero do brasil ind.doc
+405138
+225.606,50
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+225.606,5
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 405138 - 
+jorge
+vanessa moreira da costa
+879712
+100001
+64 ferrero do brasil ind.doc
+413548
+40.375,23
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+40.375,23
+0,00
+0,00
+0,00
+718 - contas pagas
+período de lançamento:
+conta..: todas
+filial...:
+'1'
+grupo de conta:
+page 2
+01/06/2022 10:39:18
+todos
+tipo: analítico
+usuário lançamento: todos
+período de vencimento:
+período de pagamento:
+período de emissão:
+todos
+todos
+ 01/05/2022 a 31/05/2022
+todos
+: todos
+banco
+dt.pagamento: 02/05/2022
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+cheque
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+histórico
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+dup: 001. vlr. ref. compras cf. nf. num. 413548 - 
+jorge
+vanessa moreira da costa
+879713
+100001
+64 ferrero do brasil ind.doc
+413611
+187.230,31
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+187.230,3
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 413611 - 
+jorge
+vanessa moreira da costa
+880559
+100001
+64 ferrero do brasil ind.doc
+414603
+42.340,82
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+42.340,82
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 414603 - 
+jorge
+vanessa moreira da costa
+884711
+100001
+64 ferrero do brasil ind.doc
+418321
+88.576,44
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+88.576,44
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 418321 - 
+jorge
+vanessa moreira da costa
+884712
+100001
+64 ferrero do brasil ind.doc
+418323
+45.081,10
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+45.081,10
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 418323 - 
+jorge
+vanessa moreira da costa
+884713
+100001
+64 ferrero do brasil ind.doc
+418324
+17.463,03
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+17.463,03
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 418324 - 
+jorge
+vanessa moreira da costa
+884714
+100001
+64 ferrero do brasil ind.doc
+418325
+7.190,30
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+7.190,30
+194,33
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+194,33
+dup: 001. vlr. ref. compras cf. nf. num. 418325 - 
+jorge
+vanessa moreira da costa
+884715
+100001
+64 ferrero do brasil ind.doc
+418326
+25.292,68
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+25.292,68
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 418326 - 
+jorge
+vanessa moreira da costa
+884716
+100001
+64 ferrero do brasil ind.doc
+418327
+41.702,22
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+41.702,22
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 418327 - 
+jorge
+vanessa moreira da costa
+891898
+100001
+64 ferrero do brasil ind.doc
+424128
+90.495,03
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+90.495,03
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 424128 - 
+leonardo
+vanessa moreira da costa
+895847
+100001
+64 ferrero do brasil ind.doc
+427839
+47.938,58
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+47.938,58
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 427839 - 
+leonardo
+vanessa moreira da costa
+899743
+100001
+56 ajinomoto do brasil ind.co 503709
+6.462,07
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+6.462,07
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503709 - 
+leonardo
+vanessa moreira da costa
+899744
+100001
+56 ajinomoto do brasil ind.co 503710
+16.720,76
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+16.720,76
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503710 - 
+leonardo
+vanessa moreira da costa
+899745
+100001
+56 ajinomoto do brasil ind.co 503711
+89.091,65
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+89.091,65
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503711 - 
+leonardo
+vanessa moreira da costa
+899746
+100001
+56 ajinomoto do brasil ind.co 503601
+61.246,51
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+61.246,51
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503601 - 
+leonardo
+vanessa moreira da costa
+899747
+100001
+56 ajinomoto do brasil ind.co 503602
+2.292,52
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+2.292,52
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503602 - 
+leonardo
+vanessa moreira da costa
+899748
+100001
+56 ajinomoto do brasil ind.co 503604
+21.540,27
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+21.540,27
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503604 - 
+leonardo
+vanessa moreira da costa
+899749
+100001
+56 ajinomoto do brasil ind.co 503605
+52.495,13
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+52.495,13
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503605 - 
+leonardo
+vanessa moreira da costa
+899750
+100001
+56 ajinomoto do brasil ind.co 503606
+59.302,40
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+59.302,40
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503606 - 
+leonardo
+vanessa moreira da costa
+899755
+100001
+56 ajinomoto do brasil ind.co 503603
+17.402,07
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+17.402,07
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 503603 - 
+leonardo
+vanessa moreira da costa
+900358
+100001
+64 ferrero do brasil ind.doc
+431032
+61.048,91
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+61.048,91
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 431032 - 
+leonardo
+vanessa moreira da costa
+900360
+100001
+64 ferrero do brasil ind.doc
+431034
+10.018,75
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+10.018,75
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 431034 - 
+leonardo
+vanessa moreira da costa
+718 - contas pagas
+período de lançamento:
+conta..: todas
+filial...:
+'1'
+grupo de conta:
+page 3
+01/06/2022 10:39:18
+todos
+tipo: analítico
+usuário lançamento: todos
+período de vencimento:
+período de pagamento:
+período de emissão:
+todos
+todos
+ 01/05/2022 a 31/05/2022
+todos
+: todos
+banco
+dt.pagamento: 02/05/2022
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+cheque
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+904593
+100001
+55 nissin foods do brasil ltda 334421
+102.802,87
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+102.802,8
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 334421 - 
+leonardo
+vanessa moreira da costa
+904594
+100001
+55 nissin foods do brasil ltda 334449
+104.546,84
+compra mercadoria
+100
+341
+38418
+din
+1
+-
+histórico
+104.546,8
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 334449 - 
+leonardo
+vanessa moreira da costa
+919134
+300006
+0 outros fornecedores
+0
+1.127,55
+agua e esgoto
+300
+341
+38418
+din
+1
+-
+histórico
+1.127,55
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+agua - 
+vanessa
+vanessa moreira da costa
+919135
+500005
+0 outros fornecedores
+220320222
+1.400,00
+manutencao de equipamen
+500
+341
+38418
+din
+1
+-
+histórico
+1.400,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dmj blezins - 
+vanessa
+vanessa moreira da costa
+919136
+401018
+0 outros fornecedores
+21740
+300,00
+pneu
+401
+341
+38418
+din
+2
+-
+histórico
+300,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+fm pneus - 
+vanessa
+vanessa moreira da costa
+919138
+401014
+0 outros fornecedores
+57602
+529,13
+manutencao/ acessorios - 
+401
+341
+38418
+din
+1
+-
+histórico
+529,13
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+truck center - 
+vanessa
+vanessa moreira da costa
+919139
+100020
+0 outros fornecedores
+7012
+1.453,93
+devolucao de cliente
+100
+341
+38418
+din
+1
+-
+histórico
+1.453,93
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+amg atacarejo - 
+vanessa
+vanessa moreira da costa
+919140
+100020
+0 outros fornecedores
+113303
+153,24
+devolucao de cliente
+100
+341
+38418
+din
+1
+-
+histórico
+153,24
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+estancia supermercado - 
+vanessa
+vanessa moreira da costa
+920015
+301004
+64 ferrero do brasil ind.doc
+418325
+194,33
+multa e juros de mora
+301
+341
+38418
+din
+1
+-
+histórico
+194,33
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+func.assinatura
+0,00
+juros pag. duplicata - 
+jorge
+vanessa moreira da costa
+920154
+200
+0 outros fornecedores
+0
+258,00
+compras
+250
+10
+38419
+din
+1
+-
+histórico
+258,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+vemar fitas - 
+vanessa
+vanessa moreira da costa
+920286
+401021
+0 outros fornecedores
+0
+9.057,53
+gasolina
+401
+10
+38452
+din
+1
+-
+histórico
+9.057,53
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+posto - 
+vanessa
+vanessa moreira da costa
+920287
+401007
+0 outros fornecedores
+0
+233,45
+balsas e pedagios
+401
+10
+38452
+din
+1
+-
+histórico
+233,45
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+balsas e estacionamentos - 
+vanessa
+vanessa moreira da costa
+920290
+201004
+0 outros fornecedores
+0
+1.000,00
+aluguel
+201
+237
+38463
+din
+1
+-
+histórico
+1.000,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+aluguel de registro - 
+vanessa
+vanessa moreira da costa
+920456
+200
+0 outros fornecedores
+0
+700.000,00
+compras
+250
+341
+38464
+din
+1
+-
+histórico
+700.000,0
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+comercial ada moreira - 
+vanessa
+vanessa moreira da costa
+920457
+200
+0 outros fornecedores
+0
+250.000,00
+compras
+250
+341
+38464
+din
+1
+-
+histórico
+250.000,0
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+transportadora ada moreira - 
+vanessa
+vanessa moreira da costa
+total do dia...........................:
+5.842.598,84
+58
+títulos listados
+0,00
+194,33
+194,33
+vl.dev.
+vl.descfin
+vlr.título
+vl.juros
+dt.pagamento: 03/05/2022
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+cheque
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+902865
+100001
+12 dr.oetker brasil ltda
+196867
+123.976,44
+compra mercadoria
+100
+341
+38471
+din
+1
+-
+histórico
+123.976,4
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 196867 - 
+leonardo
+vanessa moreira da costa
+902866
+100001
+12 dr.oetker brasil ltda
+196868
+44.017,74
+compra mercadoria
+100
+341
+38471
+din
+1
+-
+histórico
+44.017,74
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 196868 - 
+leonardo
+vanessa moreira da costa
+905731
+100020
+4295 supermercado sao roque 1599106
+1.463,10
+devolucao de cliente
+100
+341
+38471
+din
+1
+-
+histórico
+1.463,10
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+contas pagar ref. dev. cliente (rotina 302-não p
+leonardo
+vanessa moreira da costa
+920024
+100020
+0 outros fornecedores
+50828
+59,81
+devolucao de cliente
+100
+341
+38471
+din
+1
+-
+histórico
+59,81
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+supermercado mairinque - 
+vanessa
+vanessa moreira da costa
+718 - contas pagas
+período de lançamento:
+conta..: todas
+filial...:
+'1'
+grupo de conta:
+page 4
+01/06/2022 10:39:18
+todos
+tipo: analítico
+usuário lançamento: todos
+período de vencimento:
+período de pagamento:
+período de emissão:
+todos
+todos
+ 01/05/2022 a 31/05/2022
+todos
+: todos
+banco
+dt.pagamento: 03/05/2022
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+cheque
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+920047
+401014
+0 outros fornecedores
+30290
+708,48
+manutencao/ acessorios - 
+401
+341
+38471
+din
+2
+-
+histórico
+708,48
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+mercalf diesel - 
+vanessa
+vanessa moreira da costa
+920050
+250001
+0 outros fornecedores
+19597
+100,00
+vb campanhas/ prom./incen
+250
+341
+38471
+din
+1
+-
+histórico
+100,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+rbl prestacao de serviços - 
+vanessa
+vanessa moreira da costa
+920055
+300013
+0 outros fornecedores
+0
+10.462,66
+energia eletrica
+300
+341
+38471
+din
+1
+-
+histórico
+10.462,66
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+energia - 
+vanessa
+vanessa moreira da costa
+920062
+300013
+0 outros fornecedores
+0
+1.776,54
+energia eletrica
+300
+341
+38471
+din
+1
+-
+histórico
+1.776,54
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+energia - 
+vanessa
+vanessa moreira da costa
+920899
+201012
+0 outros fornecedores
+0
+283,00
+ajuda combustivel
+201
+10
+38470
+din
+1
+-
+histórico
+283,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+ajuda de custo renato - 
+vanessa
+vanessa moreira da costa
+921053
+200
+0 outros fornecedores
+0
+352,59
+compras
+250
+10
+38472
+din
+1
+-
+histórico
+352,59
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+açucar,cha e margarina - 
+vanessa
+vanessa moreira da costa
+921054
+201012
+0 outros fornecedores
+0
+211,60
+ajuda combustivel
+201
+10
+38472
+din
+1
+-
+histórico
+211,60
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+ajuda de custo fernando e gustavo - 
+vanessa
+vanessa moreira da costa
+921209
+900002
+0 outros fornecedores
+0
+21.619,00
+pro labore
+900
+341
+38473
+din
+1
+-
+histórico
+21.619,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+alexandre - 
+vanessa
+vanessa moreira da costa
+921210
+900002
+0 outros fornecedores
+0
+21.619,00
+pro labore
+900
+341
+38473
+din
+1
+-
+histórico
+21.619,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+vanessa - 
+vanessa
+vanessa moreira da costa
+921211
+900002
+0 outros fornecedores
+0
+21.619,00
+pro labore
+900
+341
+38473
+din
+1
+-
+histórico
+21.619,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+fabiola - 
+vanessa
+vanessa moreira da costa
+921212
+900002
+0 outros fornecedores
+0
+25.000,00
+pro labore
+900
+341
+38473
+din
+1
+-
+histórico
+25.000,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+antonio - 
+vanessa
+vanessa moreira da costa
+921213
+200
+0 outros fornecedores
+0
+10.000,00
+compras
+250
+341
+38473
+din
+1
+-
+histórico
+10.000,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+garcia - 
+vanessa
+vanessa moreira da costa
+921214
+200
+0 outros fornecedores
+0
+15.000,00
+compras
+250
+341
+38473
+din
+1
+-
+histórico
+15.000,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+costa e pavani - 
+vanessa
+vanessa moreira da costa
+921215
+402011
+0 outros fornecedores
+0
+1.520,00
+manutencao / equipamento
+402
+10
+38474
+din
+1
+-
+histórico
+1.520,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+eletrecista - 
+vanessa
+vanessa moreira da costa
+total do dia...........................:
+299.788,96
+18
+títulos listados
+0,00
+0,00
+0,00
+vl.dev.
+vl.descfin
+vlr.título
+vl.juros
+dt.pagamento: 04/05/2022
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+cheque
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+901217
+100001
+56 ajinomoto do brasil ind.co 504409
+13.365,53
+compra mercadoria
+100
+341
+38476
+din
+1
+-
+histórico
+13.365,53
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 504409 - 
+leonardo
+vanessa moreira da costa
+901218
+100001
+56 ajinomoto do brasil ind.co 504407
+19.460,39
+compra mercadoria
+100
+341
+38476
+din
+1
+-
+histórico
+19.460,39
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 504407 - 
+leonardo
+vanessa moreira da costa
+901219
+100001
+56 ajinomoto do brasil ind.co 504411
+154.461,33
+compra mercadoria
+100
+341
+38476
+din
+1
+-
+histórico
+154.461,3
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 504411 - 
+leonardo
+vanessa moreira da costa
+901220
+100001
+56 ajinomoto do brasil ind.co 504408
+8.940,82
+compra mercadoria
+100
+341
+38476
+din
+1
+-
+histórico
+8.940,82
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 504408 - 
+leonardo
+vanessa moreira da costa
+901221
+100001
+56 ajinomoto do brasil ind.co 504410
+11.881,64
+compra mercadoria
+100
+341
+38476
+din
+1
+-
+histórico
+11.881,64
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 504410 - 
+leonardo
+vanessa moreira da costa
+718 - contas pagas
+período de lançamento:
+conta..: todas
+filial...:
+'1'
+grupo de conta:
+page 5
+01/06/2022 10:39:18
+todos
+tipo: analítico
+usuário lançamento: todos
+período de vencimento:
+período de pagamento:
+período de emissão:
+todos
+todos
+ 01/05/2022 a 31/05/2022
+todos
+: todos
+banco
+dt.pagamento: 04/05/2022
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+cheque
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+901222
+100001
+56 ajinomoto do brasil ind.co 504412
+18.692,19
+compra mercadoria
+100
+341
+38476
+din
+1
+-
+histórico
+18.692,19
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 504412 - 
+leonardo
+vanessa moreira da costa
+901223
+100001
+56 ajinomoto do brasil ind.co 504413
+38.630,21
+compra mercadoria
+100
+341
+38476
+din
+1
+-
+histórico
+38.630,21
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 504413 - 
+leonardo
+vanessa moreira da costa
+901224
+100001
+56 ajinomoto do brasil ind.co 504362
+315.208,95
+compra mercadoria
+100
+341
+38476
+din
+1
+-
+histórico
+315.208,9
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 504362 - 
+leonardo
+vanessa moreira da costa
+906386
+100020
+202564 tenda atacado sa
+33790
+338,00
+devolucao de cliente
+100
+10
+38477
+din
+1
+-
+histórico
+338,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+contas pagar ref. dev. cliente (rotina 302-não p
+leonardo
+vanessa moreira da costa
+907247
+100020
+4481 rolim de freitas & cia. ltda 142631
+251,69
+devolucao de cliente
+100
+341
+38476
+din
+1
+-
+histórico
+251,69
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+contas pagar ref. dev. cliente (rotina 302-não p
+leonardo
+vanessa moreira da costa
+907889
+100020
+200745 nivia tanaka doda eireli
+1224
+608,35
+devolucao de cliente
+100
+10
+38478
+din
+1
+-
+histórico
+608,35
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+contas pagar ref. dev. cliente (rotina 302-não p
+leonardo
+vanessa moreira da costa
+907890
+100020
+359 nivia tanaka doda eireli - e 7147
+278,10
+devolucao de cliente
+100
+10
+38478
+din
+1
+-
+histórico
+278,10
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+contas pagar ref. dev. cliente (rotina 302-não p
+leonardo
+vanessa moreira da costa
+908199
+100020
+199664 real distribuidora de alim
+4424
+2,57
+devolucao de cliente
+100
+10
+38477
+din
+1
+-
+histórico
+2,57
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+contas pagar ref. dev. cliente (rotina 302-não p
+leonardo
+vanessa moreira da costa
+921014
+100020
+0 outros fornecedores
+989
+417,83
+devolucao de cliente
+100
+341
+38476
+din
+1
+-
+histórico
+417,83
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+magnanimo - 
+vanessa
+vanessa moreira da costa
+921015
+402011
+0 outros fornecedores
+285
+2.400,00
+manutencao / equipamento
+402
+341
+38476
+din
+2
+-
+histórico
+2.400,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+nac serviços de manutençao - 
+vanessa
+vanessa moreira da costa
+921016
+100020
+0 outros fornecedores
+7599
+151,69
+devolucao de cliente
+100
+341
+38476
+din
+1
+-
+histórico
+151,69
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+rede bom lugar - 
+vanessa
+vanessa moreira da costa
+921017
+100020
+0 outros fornecedores
+26537
+571,14
+devolucao de cliente
+100
+341
+38476
+din
+1
+-
+histórico
+571,14
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+malucho e malucho - 
+vanessa
+vanessa moreira da costa
+921018
+100020
+0 outros fornecedores
+5323
+443,48
+devolucao de cliente
+100
+341
+38476
+din
+1
+-
+histórico
+443,48
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+malucho e malucho - 
+vanessa
+vanessa moreira da costa
+921055
+100020
+0 outros fornecedores
+3726
+73,84
+devolucao de cliente
+100
+341
+38476
+din
+1
+-
+histórico
+73,84
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+supercidade - 
+vanessa
+vanessa moreira da costa
+921056
+100020
+0 outros fornecedores
+3727
+31,16
+devolucao de cliente
+100
+341
+38476
+din
+1
+-
+histórico
+31,16
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+supercidade - 
+vanessa
+vanessa moreira da costa
+921820
+201012
+0 outros fornecedores
+0
+1.137,00
+ajuda combustivel
+201
+10
+38480
+din
+1
+-
+histórico
+1.137,00
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+ajuda de custo alex sandro e ademir - 
+vanessa
+vanessa moreira da costa
+922308
+200
+0 outros fornecedores
+996381928
+80,90
+compras
+250
+237
+38479
+din
+1
+-
+histórico
+80,90
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+mercado pago - 
+vanessa
+vanessa moreira da costa
+total do dia...........................:
+587.426,81
+22
+títulos listados
+0,00
+0,00
+0,00
+vl.dev.
+vl.descfin
+vlr.título
+vl.juros
+dt.pagamento: 05/05/2022
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+cheque
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+904832
+100001
+64 ferrero do brasil ind.doc
+432415
+23.057,78
+compra mercadoria
+100
+341
+38482
+din
+1
+-
+histórico
+23.057,78
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 432415 - 
+leonardo
+vanessa moreira da costa
+906182
+100001
+55 nissin foods do brasil ltda 334675
+130.809,49
+compra mercadoria
+100
+341
+38482
+din
+1
+-
+histórico
+130.809,4
+0,00
+0,00
+filial: 1
+usu.lanc.
+func. bx.:
+vanessa
+func.assinatura
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 334675 - 
+leonardo
+vanessa moreira da costa

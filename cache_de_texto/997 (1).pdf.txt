@@ -1,0 +1,365 @@
+sicoob - sistema de cooperativas de crédito do brasil
+sisbr - sistema de informática do sicoob
+03/12/2024
+extrato de aplicações
+09:36:07
+dados do cliente
+cliente:
+gannam e dotti engenharia ltda
+endereço:
+dom pedro ii 292 sala 304
+bairro:
+centro
+cep:
+37470000 são lourenço mg
+telefone:
+35 33323464
+cpf/cgc:
+24.737.419/0001-99
+conta:
+100.776-9
+dados da aplicação
+número da aplicação:
+3
+valor inicial:
+r$ 689.970,00
+modalidade:
+rdc flexível
+data da aplicação:
+20/02/2024
+data carência/venc.:
+24/02/2027 / 1100 dias
+taxa inicial (%a.a):
+0,00
+índice cm:
+cdi
+percentual do índice cm:
+104,00
+histórico de movimentação
+data
+histórico
+valor
+saldo atual
+20/02/2024
+aplicação financeira
+689.970,00c
+689.970,00
+19/08/2024
+capitalização de correção monetária
+749,97c
+690.719,97
+19/08/2024
+resgate de aplicação financeira
+14.548,45d
+676.171,52
+19/08/2024
+retenção de irrf
+149,99d
+676.021,53
+20/08/2024
+capitalização de correção monetária
+599,27c
+676.620,80
+20/08/2024
+resgate de aplicação financeira
+11.536,67d
+665.084,13
+20/08/2024
+retenção de irrf
+119,85d
+664.964,28
+26/08/2024
+capitalização de correção monetária
+3.032,53c
+667.996,81
+26/08/2024
+resgate de aplicação financeira
+56.655,01d
+611.341,80
+26/08/2024
+retenção de irrf
+606,51d
+610.735,29
+28/08/2024
+capitalização de correção monetária
+1.764,35c
+612.499,64
+28/08/2024
+resgate de aplicação financeira
+32.483,09d
+580.016,55
+28/08/2024
+retenção de irrf
+352,87d
+579.663,68
+29/08/2024
+capitalização de correção monetária
+558,05c
+580.221,73
+29/08/2024
+resgate de aplicação financeira
+10.200,00d
+570.021,73
+29/08/2024
+retenção de irrf
+111,61d
+569.910,12
+30/08/2024
+capitalização de correção monetária
+2.643,68c
+572.553,80
+30/08/2024
+resgate de aplicação financeira
+47.974,85d
+524.578,95
+30/08/2024
+retenção de irrf
+528,74d
+524.050,21
+02/09/2024
+capitalização de correção monetária
+246,28c
+524.296,49
+02/09/2024
+resgate de aplicação financeira
+4.437,50d
+519.858,99
+02/09/2024
+retenção de irrf
+49,26d
+519.809,73
+04/09/2024
+capitalização de correção monetária
+3.265,45c
+523.075,18
+04/09/2024
+resgate de aplicação financeira
+58.012,21d
+465.062,97
+04/09/2024
+retenção de irrf
+653,09d
+464.409,88
+05/09/2024
+capitalização de correção monetária
+116,20c
+464.526,08
+05/09/2024
+resgate de aplicação financeira
+2.050,00d
+462.476,08
+05/09/2024
+retenção de irrf
+23,24d
+462.452,84
+13/09/2024
+capitalização de correção monetária
+900,16c
+463.353,00
+13/09/2024
+resgate de aplicação financeira
+15.244,86d
+448.108,14
+13/09/2024
+retenção de irrf
+180,03d
+447.928,11
+16/09/2024
+capitalização de correção monetária
+458,65c
+448.386,76
+16/09/2024
+resgate de aplicação financeira
+7.716,04d
+440.670,72
+16/09/2024
+retenção de irrf
+91,73d
+440.578,99
+17/09/2024
+capitalização de correção monetária
+3.500,05c
+444.079,04
+17/09/2024
+resgate de aplicação financeira
+58.496,15d
+385.582,89
+17/09/2024
+retenção de irrf
+700,01d
+384.882,88
+24/09/2024
+capitalização de correção monetária
+659,59c
+385.542,47
+24/09/2024
+resgate de aplicação financeira
+10.668,42d
+374.874,05
+24/09/2024
+retenção de irrf
+131,92d
+374.742,13
+30/09/2024
+capitalização de correção monetária
+5.198,23c
+379.940,36
+30/09/2024
+resgate de aplicação financeira
+81.947,68d
+297.992,68
+30/09/2024
+retenção de irrf
+1.039,65d
+296.953,03
+04/10/2024
+capitalização de correção monetária
+3.790,38c
+300.743,41
+04/10/2024
+resgate de aplicação financeira
+58.278,87d
+242.464,54
+04/10/2024
+retenção de irrf
+758,08d
+241.706,46
+07/10/2024
+capitalização de correção monetária
+81,58c
+241.788,04
+07/10/2024
+resgate de aplicação financeira
+1.246,60d
+240.541,44
+07/10/2024
+retenção de irrf
+16,32d
+240.525,12
+14/10/2024
+capitalização de correção monetária
+3.118,17c
+243.643,29
+14/10/2024
+resgate de aplicação financeira
+46.233,99d
+197.409,30
+14/10/2024
+retenção de irrf
+623,63d
+196.785,67
+15/10/2024
+capitalização de correção monetária
+489,56c
+197.275,23
+15/10/2024
+resgate de aplicação financeira
+7.216,06d
+190.059,17
+15/10/2024
+retenção de irrf
+97,91d
+189.961,26
+22/10/2024
+capitalização de correção monetária
+697,76c
+190.659,02
+22/10/2024
+resgate de aplicação financeira
+9.990,23d
+180.668,79
+22/10/2024
+retenção de irrf
+139,55d
+180.529,24
+24/10/2024
+capitalização de correção monetária
+4.257,71c
+184.786,95
+24/10/2024
+resgate de aplicação financeira
+60.270,33d
+124.516,62
+24/10/2024
+retenção de irrf
+851,54d
+123.665,08
+28/10/2024
+capitalização de correção monetária
+2.893,85c
+126.558,93
+28/10/2024
+resgate de aplicação financeira
+40.505,84d
+86.053,09
+28/10/2024
+retenção de irrf
+578,77d
+85.474,32
+29/10/2024
+capitalização de correção monetária
+732,79c
+86.207,11
+29/10/2024
+resgate de aplicação financeira
+10.200,00d
+76.007,11
+29/10/2024
+retenção de irrf
+146,56d
+75.860,55
+30/10/2024
+capitalização de correção monetária
+103,84c
+75.964,39
+30/10/2024
+resgate de aplicação financeira
+1.437,50d
+74.526,89
+30/10/2024
+retenção de irrf
+20,77d
+74.506,12
+31/10/2024
+capitalização de correção monetária
+188,69c
+74.694,81
+31/10/2024
+resgate de aplicação financeira
+2.597,55d
+72.097,26
+31/10/2024
+retenção de irrf
+37,74d
+72.059,52
+resumo do extrato
+rendimentos brutos previstos (+):
+6.196,14
+iof previsto (-):
+0,00
+ir previsto (-):
+1.239,23
+rendimenos líquidos previstos (+):
+4.956,91
+bloqueado (-):
+0,00
+saldo disponível em 29/11/2024:
+77.016,43
+juros pagos:
+0,00
+cm pago:
+40.046,79
+iof retido:
+0,00
+ir retido:
+8.009,37
+resgatado:
+649.947,90
+pactuação de taxas
+data inicial
+data final
+taxa
+indice cm
+perc indice cm
+cotação
+ouvidoria sicoob: 08007250996

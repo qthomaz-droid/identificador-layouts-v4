@@ -1,0 +1,697 @@
+                   2021/03/31                                                           2021/03/31
+    emerick stones ltda                04900            582.531-0        emerick stones ltda                04900            582.531-0
+   mar/2021     05/05/2021                100.000,00    001/003         mar/2021     05/05/2021                100.000,00    002/003
+26/02   conta corrente                                    625,77     12/03   conta corrente                                    387,37
+26/02   saldo aplic automatica                         24.000,05     12/03   saldo aplic automatica                         54.000,53
+26/02   saldo total                                    24.625,82     12/03   saldo total                                    54.387,90
+01/03 juros                       5825310        217,62-             15/03   conta corrente                                    387,37
+01/03 iof                         5825310        109,11-             15/03   saldo aplic automatica                         54.000,69
+01/03   conta corrente                                    299,04     15/03   saldo total                                    54.388,06
+01/03   saldo aplic automatica                         24.000,09     16/03 aplic cdb fluxo caixa       5825212     10.000,00-
+01/03   saldo total                                    24.299,13     16/03 credito cobranca bloq adm  49582531     10.558,75
+02/03 tar manut lim cred rotat    5825310        200,00-             16/03   conta corrente                                    946,12
+02/03   conta corrente                                     99,04     16/03   saldo aplic automatica                         64.000,78
+02/03   saldo aplic automatica                         24.000,11     16/03   saldo total                                    64.946,90
+02/03   saldo total                                    24.099,15     17/03 pagamento de boleto                     10.899,42-
+03/03   conta corrente                                     99,04     17/03 ted enviada outra tit                      115,00-
+03/03   saldo aplic automatica                         24.000,15     17/03 tar liquidacao boleto cob    000581          7,60-
+03/03   saldo total                                    24.099,19             quant. eventos:           2
+04/03   conta corrente                                     99,04     17/03 devolucao de ted e           141255        115,00
+04/03   saldo aplic automatica                         24.000,19     17/03 resgate cdb fluxo caixa     5825310     10.000,46
+04/03   saldo total                                    24.099,23     17/03   conta corrente                                     39,56
+05/03 pacote pj empresa 2         5825310        150,00-             17/03   saldo aplic automatica                         54.000,43
+05/03 resgate cdb fluxo caixa     5825310      1.000,02              17/03   saldo total                                    54.039,99
+05/03   conta corrente                                    949,06     18/03 pagamento de gps            4499502      2.619,95-
+05/03   saldo aplic automatica                         23.000,19     18/03 pagamento de darf           4499503         49,42-
+05/03   saldo total                                    23.949,25     18/03 resgate cdb fluxo caixa     5825310      3.000,10
+08/03   conta corrente                                    949,06     18/03   conta corrente                                    370,29
+08/03   saldo aplic automatica                         23.000,29     18/03   saldo aplic automatica                         51.000,42
+08/03   saldo total                                    23.949,35     18/03   saldo total                                    51.370,71
+09/03 debito de seguro           16708979        684,39-             19/03 ted enviada outra tit                    1.230,00-
+09/03   conta corrente                                    264,67     19/03 devolucao de ted e           032674        115,00
+09/03   saldo aplic automatica                         23.000,34     19/03 devolucao de ted e           068326        115,00
+09/03   saldo total                                    23.265,01     19/03 resgate cdb fluxo caixa     5825310      1.000,04
+10/03 tar env boleto a cartorio    000509         30,00-             19/03   conta corrente                                    370,33
+        quant. eventos:           2                                  19/03   saldo aplic automatica                         50.000,49
+10/03   conta corrente                                    234,67     19/03   saldo total                                    50.370,82
+10/03   saldo aplic automatica                         23.000,40     22/03 tar env boleto a cartorio    000509         15,00-
+10/03   saldo total                                    23.235,07     22/03   conta corrente                                    355,33
+11/03 aplic cdb fluxo caixa       5825085     31.000,00-             22/03   saldo aplic automatica                         50.000,69
+11/03 credito cobranca bloq adm  49582531     31.152,70              22/03   saldo total                                    50.356,02
+11/03   conta corrente                                    387,37     23/03   conta corrente                                    355,33
+11/03   saldo aplic automatica                         54.000,46     23/03   saldo aplic automatica                         50.000,83
+11/03   saldo total                                    54.387,83     23/03   saldo total                                    50.356,16
+continua.....                                                        continua.....
+ saldos
+
+pág.:
+
+reais
+dab./crêd.
+
+demonstrativo consolidado
+conta nº,
+
+ag.:
+num.docto.
+
+limite
+
+ição
+
+venc.
+
+descr
+
+npd 58,160,789
+
+banco safra sa
+
+nome
+ref.
+data
+
+saldos
+
+pag.
+
+reai
+dêb./créd.
+
+demonstrativo consolidado
+conta nº
+
+ag
+num.docto.
+
+imite
+
+l
+
+ição
+
+venc.
+
+descr
+
+banco safra sa
+
+cnpj 58.160.789
+
+rome
+ref.:
+data
+
+valor r$
+
+previsão para débito
+
+data
+
+valor r$
+
+débito
+
+isão para
+
+*
+
+prev
+
+data
+
+valar r$
+
+previsão para débito
+
+data
+
+valor a$
+
+débito
+
+isão para
+
+prov
+
+o
+ar
+qm
+a
+
+nevis
+
+(boot 90)
+                   2021/03/31
+    emerick stones ltda                04900            582.531-0
+   mar/2021     05/05/2021                100.000,00    003/003
+24/03   conta corrente                                    355,33
+24/03   saldo aplic automatica                         50.000,98
+24/03   saldo total                                    50.356,31
+25/03 tar servico de cobranca      000507          1,30-
+25/03 aplic cdb fluxo caixa       5825077     15.000,00-
+25/03 credito cobranca bloq adm  49582531     14.820,00
+25/03   conta corrente                                    174,03
+25/03   saldo aplic automatica                         65.001,13
+25/03   saldo total                                    65.175,16
+26/03   conta corrente                                    174,03
+26/03   saldo aplic automatica                         65.001,30
+26/03   saldo total                                    65.175,33
+29/03   conta corrente                                    174,03
+29/03   saldo aplic automatica                         65.002,26
+29/03   saldo total                                    65.176,29
+30/03   conta corrente                                    174,03
+30/03   saldo aplic automatica                         65.002,51
+30/03   saldo total                                    65.176,54
+31/03   conta corrente                                    174,03
+31/03   saldo aplic automatica                         65.002,76
+31/03   saldo total                                    65.176,79
+taxa para o proximo periodo : 13,95% am efetiva
+custo efetivo total para o proximo periodo: 456,03% aa
+legenda: (p)pessoal (e)eletronico (i)internet (tar)tarifa
+         (c)correspondente no pais
+sac - 0800 772 5755  ouvidoria - 0800 770 1236
+ saldos
+
+pág.:
+
+reais
+dab./crêd.
+
+demonstrativo consolidado
+conta nº,
+
+ag.:
+num.docto.
+
+limite
+
+ição
+
+venc.
+
+descr
+
+npd 58,160,789
+
+banco safra sa
+
+nome
+ref.
+data
+
+saldos
+
+pag.
+
+reai
+dêb./créd.
+
+demonstrativo consolidado
+conta nº
+
+ag
+num.docto.
+
+imite
+
+l
+
+ição
+
+venc.
+
+descr
+
+banco safra sa
+
+cnpj 58.160.789
+
+rome
+ref.:
+data
+
+valor r$
+
+previsão para débito
+
+data
+
+valor r$
+
+débito
+
+isão para
+
+*
+
+prev
+
+data
+
+valar r$
+
+previsão para débito
+
+data
+
+valor a$
+
+débito
+
+isão para
+
+prov
+
+o
+ar
+qm
+a
+
+nevis
+
+(boot 90)
+                   2021/04/30                                                           2021/04/30
+    emerick stones ltda                04900            582.531-0        emerick stones ltda                04900            582.531-0
+   abr/2021     05/05/2021                100.000,00    001/003         abr/2021     05/05/2021                100.000,00    002/003
+31/03   conta corrente                                    174,03     12/04 tar liquidacao boleto cob    000581          4,09-
+31/03   saldo aplic automatica                         65.002,76     12/04   conta corrente                                    595,36
+31/03   saldo total                                    65.176,79     12/04   saldo aplic automatica                         32.000,16
+01/04   conta corrente                                    174,03     12/04   saldo total                                    32.595,52
+01/04   saldo aplic automatica                         65.003,02     13/04   conta corrente                                    595,36
+01/04   saldo total                                    65.177,05     13/04   saldo aplic automatica                         32.000,22
+05/04 pagamento de boleto                      3.270,40-             13/04   saldo total                                    32.595,58
+05/04 pacote pj empresa 2         5825310        180,00-             14/04 ted enviada outra tit                    1.328,00-
+05/04 resgate cdb fluxo caixa     5825310      4.000,70              14/04 resgate cdb fluxo caixa     5825310      1.000,04
+05/04   conta corrente                                    724,33     14/04   conta corrente                                    267,40
+05/04   saldo aplic automatica                         61.002,89     14/04   saldo aplic automatica                         31.000,23
+05/04   saldo total                                    61.727,22     14/04   saldo total                                    31.267,63
+06/04 pagamento de boleto                      3.822,65-             15/04 pagamento de boleto                      6.095,75-
+06/04 resgate cdb fluxo caixa     5825310      4.000,73              15/04 ted enviada outra tit                    1.300,00-
+06/04   conta corrente                                    902,41     15/04 resgate cdb fluxo caixa     5825310      8.000,20
+06/04   saldo aplic automatica                         57.002,44     15/04   conta corrente                                    871,85
+06/04   saldo total                                    57.904,85     15/04   saldo aplic automatica                         23.000,09
+07/04 pagamento de boleto                     15.794,13-             15/04   saldo total                                    23.871,94
+07/04 ted enviada outra tit                   35.674,74-             16/04 ted enviada outra tit                    2.220,00-
+07/04 pagamento de conta          4835982        587,88-             16/04 resgate cdb fluxo caixa     5825310      2.000,02
+07/04 resgate cdb fluxo caixa     5825310     52.002,64              16/04   conta corrente                                    651,87
+07/04   conta corrente                                    848,30     16/04   saldo aplic automatica                         21.000,12
+07/04   saldo aplic automatica                          5.000,07     16/04   saldo total                                    21.651,99
+07/04   saldo total                                     5.848,37     19/04 aplic cdb fluxo caixa       5825093     15.000,00-
+08/04 pagamento de boleto                        507,27-             19/04 credito cobranca bloq adm  49582531     14.358,75
+08/04 ted enviada outra tit                    3.500,00-             19/04   conta corrente                                     10,62
+08/04 tar env boleto a cartorio    000509         30,00-             19/04   saldo aplic automatica                         36.000,21
+        quant. eventos:           2                                  19/04   saldo total                                    36.010,83
+08/04 aplic cdb fluxo caixa       5825085     16.000,00-             20/04 tar liquidacao boleto cob    000581          8,18-
+08/04 ted e recebida               010432     20.000,00                      quant. eventos:           2
+        emerick stones ltda               18.384.762/0001-02         20/04   conta corrente                                      2,44
+08/04   conta corrente                                    811,03     20/04   saldo aplic automatica                         36.000,25
+08/04   saldo aplic automatica                         21.000,09     20/04   saldo total                                    36.002,69
+08/04   saldo total                                    21.811,12     22/04 tar env boleto a cartorio    000509         15,00-
+09/04 pagamento de boleto                      5.252,71-             22/04 resgate cdb fluxo caixa     5825310      1.000,02
+09/04 aplic cdb fluxo caixa       5825174     11.000,00-             22/04   conta corrente                                    987,46
+09/04 credito cobranca bloq adm  49582531     16.041,13              22/04   saldo aplic automatica                         35.000,33
+09/04   conta corrente                                    599,45     22/04   saldo total                                    35.987,79
+09/04   saldo aplic automatica                         32.000,12     23/04   conta corrente                                    987,46
+09/04   saldo total                                    32.599,57     23/04   saldo aplic automatica                         35.000,40
+continua.....                                                        continua.....
+ saldos
+
+pág.:
+
+reais
+dab./crêd.
+
+demonstrativo consolidado
+conta nº,
+
+ag.:
+num.docto.
+
+limite
+
+ição
+
+venc.
+
+descr
+
+npd 58,160,789
+
+banco safra sa
+
+nome
+ref.
+data
+
+saldos
+
+pag.
+
+reai
+dêb./créd.
+
+demonstrativo consolidado
+conta nº
+
+ag
+num.docto.
+
+imite
+
+l
+
+ição
+
+venc.
+
+descr
+
+banco safra sa
+
+cnpj 58.160.789
+
+rome
+ref.:
+data
+
+valor r$
+
+previsão para débito
+
+data
+
+valor r$
+
+débito
+
+isão para
+
+*
+
+prev
+
+data
+
+valar r$
+
+previsão para débito
+
+data
+
+valor a$
+
+débito
+
+isão para
+
+prov
+
+o
+ar
+qm
+a
+
+nevis
+
+(boot 90)
+                   2021/04/30
+    emerick stones ltda                04900            582.531-0
+   abr/2021     05/05/2021                100.000,00    003/003
+23/04   saldo total                                    35.987,86
+26/04 aplic cdb fluxo caixa       5825093     15.000,00-
+26/04 credito cobranca bloq adm  49582531     14.820,00
+26/04   conta corrente                                    807,46
+26/04   saldo aplic automatica                         50.000,58
+26/04   saldo total                                    50.808,04
+27/04   conta corrente                                    807,46
+27/04   saldo aplic automatica                         50.000,65
+27/04   saldo total                                    50.808,11
+28/04   conta corrente                                    807,46
+28/04   saldo aplic automatica                         50.000,78
+28/04   saldo total                                    50.808,24
+29/04 tar servico de cobranca      000507         54,60-
+        quant. eventos:          42
+29/04   conta corrente                                    752,86
+29/04   saldo aplic automatica                         50.000,92
+29/04   saldo total                                    50.753,78
+30/04 tar servico de cobranca      000507          3,90-
+        quant. eventos:           3
+30/04 tar baixa de boletos         000514          3,00-
+        quant. eventos:           3
+30/04 tar manut boleto vencido     000518          1,08-
+30/04 tar emis contrato           5825310        260,00-
+30/04 aplic cdb fluxo caixa       5824844     94.000,00-
+30/04 liberacao desconto           090532     93.701,16
+30/04   conta corrente                                    186,04
+30/04   saldo aplic automatica                        144.001,07
+30/04   saldo total                                   144.187,11
+taxa para o proximo periodo :  6,95% am efetiva
+custo efetivo total para o proximo periodo: 157,32% aa
+legenda: (p)pessoal (e)eletronico (i)internet (tar)tarifa
+         (c)correspondente no pais
+sac - 0800 772 5755  ouvidoria - 0800 770 1236
+ saldos
+
+pág.:
+
+reais
+dab./crêd.
+
+demonstrativo consolidado
+conta nº,
+
+ag.:
+num.docto.
+
+limite
+
+ição
+
+venc.
+
+descr
+
+npd 58,160,789
+
+banco safra sa
+
+nome
+ref.
+data
+
+saldos
+
+pag.
+
+reai
+dêb./créd.
+
+demonstrativo consolidado
+conta nº
+
+ag
+num.docto.
+
+imite
+
+l
+
+ição
+
+venc.
+
+descr
+
+banco safra sa
+
+cnpj 58.160.789
+
+rome
+ref.:
+data
+
+valor r$
+
+previsão para débito
+
+data
+
+valor r$
+
+débito
+
+isão para
+
+*
+
+prev
+
+data
+
+valar r$
+
+previsão para débito
+
+data
+
+valor a$
+
+débito
+
+isão para
+
+prov
+
+o
+ar
+qm
+a
+
+nevis
+
+(boot 90)
+                   2021/05/31                                                           2021/05/31
+    emerick stones ltda                04900            582.531-0        emerick stones ltda                04900            582.531-0
+   mai/2021     04/06/2021                100.000,00    001/004         mai/2021     04/06/2021                100.000,00    002/004
+30/04   conta corrente                                    186,04     10/05   saldo total                                   140.024,88
+30/04   saldo aplic automatica                        144.001,07     11/05 pagamento de boleto                     13.647,27-
+30/04   saldo total                                   144.187,11     11/05 ted enviada outra tit                    4.566,00-
+03/05 aplic cdb fluxo caixa       5825174     72.000,00-             11/05 tar servico de cobranca      000507          5,20-
+03/05 liberacao desconto           090621     72.347,26                      quant. eventos:           4
+03/05   conta corrente                                    533,30     11/05 resgate cdb fluxo caixa     5825310     19.000,23
+03/05   saldo aplic automatica                        216.001,39     11/05   conta corrente                                    805,65
+03/05   saldo total                                   216.534,69     11/05   saldo aplic automatica                        121.001,11
+04/05 pagamento de boleto                      2.321,70-             11/05   saldo total                                   121.806,76
+04/05 resgate cdb fluxo caixa     5825310      2.000,12              12/05 pagamento de boleto                      4.194,60-
+04/05   conta corrente                                    211,72     12/05 aplic cdb fluxo caixa       5824755      8.000,00-
+04/05   saldo aplic automatica                        214.001,56     12/05 credito cobranca bloq adm  49582531     12.101,43
+04/05   saldo total                                   214.213,28     12/05   conta corrente                                    712,48
+05/05 pagamento de boleto                      8.996,99-             12/05   saldo aplic automatica                        129.001,43
+05/05 ted enviada outra tit                   26.334,00-             12/05   saldo total                                   129.713,91
+05/05 tar servico de cobranca      000507          3,90-             13/05 pagamento de boleto                      8.071,27-
+        quant. eventos:           3                                  13/05 ted enviada outra tit                    4.000,00-
+05/05 pacote pj empresa 2         5825310        180,00-             13/05 resgate cdb fluxo caixa     5825310     12.000,23
+05/05 resgate cdb fluxo caixa     5825310     36.001,51              13/05   conta corrente                                    641,44
+05/05   conta corrente                                    698,34     13/05   saldo aplic automatica                        117.001,61
+05/05   saldo aplic automatica                        178.000,34     13/05   saldo total                                   117.643,05
+05/05   saldo total                                   178.698,68     14/05 pagamento de boleto                      3.271,38-
+06/05 pagamento de boleto                      3.421,93-             14/05 ted enviada outra tit                    3.799,50-
+06/05 tar env boleto a cartorio    000509         30,00-             14/05 credito cobranca bloq adm  49582531      6.576,50
+        quant. eventos:           2                                  14/05   conta corrente                                    147,06
+06/05 resgate cdb fluxo caixa     5825310      3.000,04              14/05   saldo aplic automatica                        117.001,98
+06/05   conta corrente                                    246,45     14/05   saldo total                                   117.149,04
+06/05   saldo aplic automatica                        175.000,51     17/05 pagamento de boleto                     16.141,66-
+06/05   saldo total                                   175.246,96     17/05 ted enviada outra tit                   17.000,00-
+07/05 pagamento de boleto                      6.931,53-             17/05 tar liquidacao boleto cob    000581          8,18-
+07/05 pagamento de conta          5372621        587,88-                     quant. eventos:           2
+07/05 resgate cdb fluxo caixa     5825310      8.000,12              17/05 resgate cdb fluxo caixa     5825310     34.001,01
+07/05   conta corrente                                    727,16     17/05   conta corrente                                    998,23
+07/05   saldo aplic automatica                        167.000,68     17/05   saldo aplic automatica                         83.001,75
+07/05   saldo total                                   167.727,84     17/05   saldo total                                    83.999,98
+10/05 pagamento de boleto                     59.376,87-             18/05 pagamento de boleto                      7.991,11-
+10/05 credito cobranca bloq adm  49582531     31.673,33              18/05 resgate cdb fluxo caixa     5825310      7.000,22
+10/05 resgate cdb fluxo caixa     5825310     27.000,27              18/05   conta corrente                                      7,34
+10/05   conta corrente                                     23,89     18/05   saldo aplic automatica                         76.001,85
+10/05   saldo aplic automatica                        140.000,99     18/05   saldo total                                    76.009,19
+continua.....                                                        continua.....
+ saldos
+
+pág.:
+
+reais
+dab./crêd.
+
+demonstrativo consolidado
+conta nº,
+
+ag.:
+num.docto.
+
+limite
+
+ição
+
+venc.
+
+descr
+
+npd 58,160,789
+
+banco safra sa
+
+nome
+ref.
+data
+
+saldos
+
+pag.
+
+reai
+dêb./créd.
+
+demonstrativo consolidado
+conta nº
+
+ag
+num.docto.
+
+imite
+
+l
+
+ição
+
+venc.
+
+descr
+
+banco safra sa
+
+cnpj 58.160.789
+
+rome
+ref.:
+data
+
+valor r$
+
+previsão para débito
+
+data
+
+valor r$
+
+débito
+
+isão para
+
+*
+
+prev
+
+data
+
+valar r$
+
+previsão para débito
+
+data
+
+valor a$
+
+débito
+
+isão para
+
+prov
+
+o
+ar
+qm
+a
+
+nevis
+
+(boot 90)

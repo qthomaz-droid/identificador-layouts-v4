@@ -1,0 +1,3217 @@
+30/08/2022 17:13 hs
+im energy
+página: 001
+títulos pagos
+período: 01/08/2022  a  26/08/2022 *** tipos de documentos: todos *** tipo de baixa: pagto normal *** todas filiais
+data
+valor
+valor
+multa/
+valor
+líquido
+fl
+documento
+vencimento
+fornecedor
+banco
+cheque
+borderô
+parcela
+pagamento
+juros
+desconto
+pago
+baixa subgrupo contrato
+pagamento: 01/08/2022
+01
+nf -004429  /a 
+01/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+3 . 3 0 4 , 0 5 
+3 . 3 0 4 , 0 5 
+0 , 0 0 
+0 , 0 0 
+3 . 3 0 4 , 0 5 
+01
+matéria-
+01
+nf -002773  /1 
+05/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000153
+9 . 1 0 0 , 0 0 
+9 . 1 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+9 . 1 0 0 , 0 0 
+01
+revenda
+01
+nf -002783  /1 
+05/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000153
+9 . 1 0 0 , 0 0 
+9 . 1 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+9 . 1 0 0 , 0 0 
+01
+revenda
+01
+nf -002789  /1 
+05/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000153
+7 . 0 4 0 , 0 0 
+7 . 0 4 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 0 4 0 , 0 0 
+01
+revenda
+01
+nf -002794  /1 
+05/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000153
+7 . 0 4 0 , 0 0 
+7 . 0 4 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 0 4 0 , 0 0 
+01
+revenda
+01
+nf -002810  /1 
+05/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000153
+7 . 0 4 0 , 0 0 
+7 . 0 4 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 0 4 0 , 0 0 
+01
+revenda
+01
+nf -030952  /03
+01/08/2022 000035 - mercalf diesel ltda.
+banco brades
+4 . 6 2 0 , 0 0 
+4 . 6 2 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+4 . 6 2 0 , 0 0 
+01
+material
+01
+nf -000063  /1 
+02/08/2022 000092 - reginaldo da silva moreira 27945226 banco brades
+7 3 . 4 6 1 , 0 0 
+7 3 . 4 6 1 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 3 . 4 6 1 , 0 0 
+01
+revenda
+01
+nf -004422  /a 
+01/08/2022 000174 - silene maria de carvalho
+banco brades
+9 4 . 0 8 6 , 3 4 
+9 4 . 0 8 6 , 3 4 
+0 , 0 0 
+0 , 0 0 
+9 4 . 0 8 6 , 3 4 
+01
+matéria-
+01
+nf -137141  /1 
+01/08/2022 000051 - trucks comercio e tecnologia de ras banco brades
+8 8 , 1 0 
+8 8 , 1 0 
+0 , 0 0 
+0 , 0 0 
+8 8 , 1 0 
+01
+manutenç
+01
+nf -168628  /1 
+01/08/2022 000050 - trucks control - servicos de logist banco brades
+3 8 9 , 2 8 
+3 8 9 , 2 8 
+0 , 0 0 
+0 , 0 0 
+3 8 9 , 2 8 
+01
+manutenç
+subtotais:
+ 
+2 1 5 . 2 6 8 , 7 7 
+0 , 0 0 
+0 , 0 0 
+2 1 5 . 2 6 8 , 7 7 
+pagamento: 02/08/2022
+01
+nf -001680  /01
+12/08/2022 000053 - auto posto e transportadora garcia banco brades
+6 4 . 6 2 0 , 9 6 
+6 4 . 6 2 0 , 9 6 
+0 , 0 0 
+0 , 0 0 
+6 4 . 6 2 0 , 9 6 
+01
+oleo die
+01
+fin-858774  /01
+02/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+1 9 . 6 6 1 , 6 9 
+1 9 . 6 6 1 , 6 9 
+0 , 0 0 
+0 , 0 0 
+1 9 . 6 6 1 , 6 9 
+01
+caminhoe
+01
+nf -001941  /1 
+30/07/2022 000179 - leonilto borsoi dos santos eireli
+banco brades
+6 . 4 8 0 , 0 0 
+6 . 4 8 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 4 8 0 , 0 0 
+01
+revenda
+01
+nf -001943  /1 
+30/07/2022 000179 - leonilto borsoi dos santos eireli
+banco brades
+7 . 5 6 0 , 0 0 
+7 . 5 6 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 5 6 0 , 0 0 
+01
+revenda
+01
+nf -000026  /1 
+05/08/2022 000231 - serraria du vale ltda
+banco brades
+1 0 . 8 9 0 , 0 0 
+1 0 . 8 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 0 . 8 9 0 , 0 0 
+01
+revenda
+01
+nf -000925  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 3 0 . 0 0 0 , 0 0 
+6 4 . 8 4 5 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 4 . 8 4 5 , 0 0 
+01
+matéria-
+01
+nf -000927  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 0 0 . 0 0 0 , 0 0 
+2 0 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 0 . 0 0 0 , 0 0 
+01
+matéria-
+subtotais:
+ 
+1 9 4 . 0 5 7 , 6 5 
+0 , 0 0 
+0 , 0 0 
+1 9 4 . 0 5 7 , 6 5 
+pagamento: 03/08/2022
+01
+nf -037913  /3 
+03/08/2022 000044 - laponia sudeste ltda.
+banco brades
+7 . 2 4 5 , 0 0 
+7 . 2 4 5 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 2 4 5 , 0 0 
+01
+despesas
+01
+nf -002813  /1 
+10/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+9 . 1 5 2 , 0 0 
+9 . 1 5 2 , 0 0 
+0 , 0 0 
+0 , 0 0 
+9 . 1 5 2 , 0 0 
+01
+revenda
+01
+nf -002817  /1 
+10/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+9 . 1 5 2 , 0 0 
+9 . 1 5 2 , 0 0 
+0 , 0 0 
+0 , 0 0 
+9 . 1 5 2 , 0 0 
+01
+revenda
+01
+nf -002819  /1 
+10/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+5 . 7 2 0 , 0 0 
+5 . 7 2 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 2 0 , 0 0 
+01
+revenda
+01
+nf -002831  /1 
+10/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+3 2 . 3 8 4 , 0 0 
+3 2 . 3 8 4 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 2 . 3 8 4 , 0 0 
+01
+revenda
+01
+nf -002887  /1 
+29/07/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+8 . 3 7 0 , 0 0 
+8 . 3 7 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 3 7 0 , 0 0 
+01
+revenda
+01
+nf -002893  /1 
+01/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+8 . 3 7 0 , 0 0 
+8 . 3 7 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 3 7 0 , 0 0 
+01
+revenda
+01
+nf -002900  /1 
+01/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+01
+nf -002903  /1 
+02/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+8 . 3 7 0 , 0 0 
+8 . 3 7 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 3 7 0 , 0 0 
+01
+revenda
+01
+nf -002913  /1 
+05/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -002915  /1 
+05/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+1 0 . 4 4 0 , 0 0 
+1 0 . 4 4 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 0 . 4 4 0 , 0 0 
+01
+revenda
+01
+nf -002916  /1 
+05/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+5 . 8 0 0 , 0 0 
+5 . 8 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 8 0 0 , 0 0 
+01
+revenda
+01
+nf -002966  /1 
+22/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+01
+nf -002968  /1 
+22/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -002973  /1 
+23/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+01
+nf -002977  /1 
+25/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+01
+nf -002984  /1 
+25/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+5 . 8 0 0 , 0 0 
+5 . 8 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 8 0 0 , 0 0 
+01
+revenda
+01
+nf -002988  /1 
+26/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000154
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -000879  /1 
+30/06/2022 000193 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -000882  /1 
+15/07/2022 000193 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -000883  /1 
+15/07/2022 000193 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -000891  /1 
+15/07/2022 000193 - soropack industria e comercio de pa banco brades
+000157
+6 . 8 6 8 , 0 0 
+6 . 8 6 8 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 8 6 8 , 0 0 
+01
+matéria-
+01
+nf -002194  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+6 . 0 0 0 , 0 0 
+6 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002199  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+30/08/2022 17:13 hs
+im energy
+página: 002
+títulos pagos
+período: 01/08/2022  a  26/08/2022 *** tipos de documentos: todos *** tipo de baixa: pagto normal *** todas filiais
+data
+valor
+valor
+multa/
+valor
+líquido
+fl
+documento
+vencimento
+fornecedor
+banco
+cheque
+borderô
+parcela
+pagamento
+juros
+desconto
+pago
+baixa subgrupo contrato
+pagamento: 03/08/2022
+01
+nf -002212  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002213  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002221  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002222  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002227  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002228  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002229  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002297  /1 
+15/07/2022 000049 - soropack industria e comercio de pa banco brades
+000157
+1 9 . 6 8 4 , 0 0 
+1 9 . 6 8 4 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 9 . 6 8 4 , 0 0 
+01
+matéria-
+subtotais:
+ 
+2 6 5 . 1 6 5 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 6 5 . 1 6 5 , 0 0 
+pagamento: 04/08/2022
+01
+sal-000034  /01
+04/08/2022 000073 - ademar vieira de almeida (func)
+banco brades
+3 . 0 3 1 , 0 0 
+3 . 0 3 1 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 0 3 1 , 0 0 
+01
+salarios
+01
+sal-000036  /01
+04/08/2022 000074 - adriano fernandes de camargo (func) banco brades
+2 . 3 0 6 , 0 0 
+2 . 3 0 6 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 3 0 6 , 0 0 
+01
+salarios
+01
+sal-000045  /01
+04/08/2022 000252 - afonso fernando moraes zacarias (fu banco brades
+2 . 3 2 6 , 0 0 
+2 . 3 2 6 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 3 2 6 , 0 0 
+01
+salarios
+01
+nf -000090  /01
+05/08/2022 000261 - aguia truck comercio de pecas ltda
+banco brades
+1 . 6 6 7 , 9 2 
+1 . 6 6 7 , 9 2 
+0 , 0 0 
+0 , 0 0 
+1 . 6 6 7 , 9 2 
+01
+peças p/
+01
+nf -000090  /02
+02/09/2022 000261 - aguia truck comercio de pecas ltda
+banco brades
+1 . 6 6 7 , 9 2 
+1 . 6 6 7 , 9 2 
+0 , 0 0 
+0 , 0 0 
+1 . 6 6 7 , 9 2 
+01
+peças p/
+01
+nf -000090  /03
+30/09/2022 000261 - aguia truck comercio de pecas ltda
+banco brades
+1 . 6 6 7 , 9 2 
+1 . 6 6 7 , 9 2 
+0 , 0 0 
+0 , 0 0 
+1 . 6 6 7 , 9 2 
+01
+peças p/
+01
+sal-000037  /01
+04/08/2022 000075 - alan diego moraes zacarias (func)
+banco brades
+2 . 6 2 8 , 0 0 
+2 . 6 2 8 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 6 2 8 , 0 0 
+01
+salarios
+01
+sal-000047  /01
+04/08/2022 000150 - alex pedro faria
+banco brades
+1 . 5 3 1 , 0 0 
+1 . 5 3 1 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 5 3 1 , 0 0 
+01
+salarios
+01
+nf -642125  /01
+24/08/2022 000017 - cofer comercio de ferramentas e ser banco brades
+2 . 6 0 0 , 0 0 
+2 . 6 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 6 0 0 , 0 0 
+01
+peças p/
+01
+sal-000039  /01
+04/08/2022 000269 - fabiano paulo mello (func)
+banco brades
+1 . 2 6 3 , 0 0 
+1 . 2 6 3 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 2 6 3 , 0 0 
+01
+salarios
+01
+sal-000038  /01
+04/08/2022 000077 - flavia guedes do prado (func)
+banco brades
+1 . 8 8 0 , 0 0 
+1 . 8 8 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 8 8 0 , 0 0 
+01
+salarios
+01
+nf -019716  /1 
+05/08/2022 000020 - geraldo rogerio pereira
+banco brades
+1 0 0 , 0 0 
+1 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 0 0 , 0 0 
+01
+internet
+01
+sal-000039  /01
+04/08/2022 000078 - gilmario gomes pereira (func)
+banco brades
+2 . 0 9 4 , 0 0 
+2 . 0 9 4 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 0 9 4 , 0 0 
+01
+salarios
+01
+sal-000041  /01
+04/08/2022 000079 - givanildo jose pinto (func)
+banco brades
+1 . 1 3 0 , 0 0 
+1 . 1 3 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 1 3 0 , 0 0 
+01
+salarios
+01
+nf -039652  /02
+05/08/2022 000044 - laponia sudeste ltda.
+banco brades
+3 . 0 7 9 , 7 5 
+3 . 0 7 9 , 7 5 
+0 , 0 0 
+0 , 0 0 
+3 . 0 7 9 , 7 5 
+01
+despesas
+01
+sal-000042  /01
+04/08/2022 000080 - leandro celestino suzanna (func)
+banco brades
+2 . 0 9 9 , 0 0 
+2 . 0 9 9 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 0 9 9 , 0 0 
+01
+salarios
+01
+sal-000043  /01
+04/08/2022 000081 - reinaldo de toledo (func)
+banco brades
+2 . 6 5 3 , 0 0 
+2 . 6 5 3 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 6 5 3 , 0 0 
+01
+salarios
+01
+sal-000047  /01
+04/08/2022 000270 - rodrigo de paula ferreira (func)
+banco brades
+1 8 , 0 0 
+1 8 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 8 , 0 0 
+01
+salarios
+01
+sal-000044  /01
+04/08/2022 000251 - samuel da silva camargo (func)
+banco brades
+8 2 7 , 0 0 
+8 2 7 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 2 7 , 0 0 
+01
+salarios
+01
+nf -000925  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 3 0 . 0 0 0 , 0 0 
+9 . 5 1 5 , 9 0 
+0 , 0 0 
+0 , 0 0 
+9 . 5 1 5 , 9 0 
+01
+matéria-
+01
+nf -000925  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 3 0 . 0 0 0 , 0 0 
+9 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+9 . 7 0 0 , 0 0 
+01
+matéria-
+subtotais:
+ 
+5 3 . 7 8 5 , 4 1 
+0 , 0 0 
+0 , 0 0 
+5 3 . 7 8 5 , 4 1 
+pagamento: 05/08/2022
+01
+sal-000076  /01
+04/08/2022 000075 - alan diego moraes zacarias (func)
+banco brades
+4 4 8 , 4 4 
+4 4 8 , 4 4 
+0 , 0 0 
+0 , 0 0 
+4 4 8 , 4 4 
+01
+salarios
+01
+sal-000046  /01
+05/08/2022 000150 - alex pedro faria
+banco brades
+1 . 1 7 9 , 2 3 
+1 . 1 7 9 , 2 3 
+0 , 0 0 
+0 , 0 0 
+1 . 1 7 9 , 2 3 
+01
+salarios
+01
+fin-036760  /01
+02/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+1 2 . 8 1 1 , 5 9 
+1 2 . 8 1 1 , 5 9 
+0 , 0 0 
+0 , 0 0 
+1 2 . 8 1 1 , 5 9 
+01
+caminhoe
+01
+lit-150058  /a 
+05/08/2022 000244 - estado de sao paulo
+banco brades
+1 4 4 , 8 6 
+1 4 4 , 8 6 
+0 , 0 0 
+0 , 0 0 
+1 4 4 , 8 6 
+01
+licencia
+01
+grf-017980  /01
+05/08/2022 000063 - fundo de investimento do fundo de g banco brades
+3 . 0 2 4 , 4 3 
+3 . 0 2 4 , 4 3 
+0 , 0 0 
+0 , 0 0 
+3 . 0 2 4 , 4 3 
+01
+fgts
+01
+nf -000631  /1 
+30/07/2022 000132 - soropack industria e comercio de pa banco brades
+000160
+5 . 7 0 0 , 0 0 
+5 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 0 0 , 0 0 
+01
+matéria-
+01
+nf -000632  /1 
+30/07/2022 000132 - soropack industria e comercio de pa banco brades
+000160
+5 . 7 0 0 , 0 0 
+5 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 0 0 , 0 0 
+01
+matéria-
+01
+nf -000633  /1 
+30/07/2022 000132 - soropack industria e comercio de pa banco brades
+000160
+5 . 7 0 0 , 0 0 
+5 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 0 0 , 0 0 
+01
+matéria-
+01
+nf -000634  /1 
+30/07/2022 000132 - soropack industria e comercio de pa banco brades
+000160
+1 7 . 6 3 3 , 8 0 
+1 7 . 6 3 3 , 8 0 
+0 , 0 0 
+0 , 0 0 
+1 7 . 6 3 3 , 8 0 
+01
+matéria-
+01
+nf -002242  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002243  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002244  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002264  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+30/08/2022 17:13 hs
+im energy
+página: 003
+títulos pagos
+período: 01/08/2022  a  26/08/2022 *** tipos de documentos: todos *** tipo de baixa: pagto normal *** todas filiais
+data
+valor
+valor
+multa/
+valor
+líquido
+fl
+documento
+vencimento
+fornecedor
+banco
+cheque
+borderô
+parcela
+pagamento
+juros
+desconto
+pago
+baixa subgrupo contrato
+pagamento: 05/08/2022
+01
+nf -002265  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002269  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002278  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002283  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002284  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002288  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002289  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002295  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002296  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002300  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002301  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002302  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002305  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002306  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002307  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002308  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002309  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002310  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002311  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+000160
+8 . 0 0 0 , 0 0 
+8 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -002313  /1 
+30/07/2022 000049 - soropack industria e comercio de pa banco brades
+3 4 . 6 1 2 , 0 0 
+3 4 . 6 1 2 , 0 0 
+0 , 2 0 
+0 , 0 0 
+3 4 . 6 1 2 , 2 0 
+01
+matéria-
+01
+nf -000925  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 3 0 . 0 0 0 , 0 0 
+2 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 0 0 0 , 0 0 
+01
+matéria-
+01
+nf -000925  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 3 0 . 0 0 0 , 0 0 
+6 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 0 0 , 0 0 
+01
+matéria-
+subtotais:
+ 
+2 7 8 . 9 5 4 , 3 5 
+0 , 2 0 
+0 , 0 0 
+2 7 8 . 9 5 4 , 5 5 
+pagamento: 08/08/2022
+01
+fin-036771  /01
+02/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+1 2 . 8 1 1 , 6 1 
+1 2 . 8 1 1 , 6 1 
+0 , 0 0 
+0 , 0 0 
+1 2 . 8 1 1 , 6 1 
+01
+caminhoe
+01
+ipv-314720  /01
+08/08/2022 000244 - estado de sao paulo
+banco brades
+1 . 4 1 7 , 4 9 
+1 . 4 1 7 , 4 9 
+0 , 0 0 
+0 , 0 0 
+1 . 4 1 7 , 4 9 
+01
+ipva
+01
+ipv-319465  /01
+08/08/2022 000244 - estado de sao paulo
+banco brades
+1 . 2 7 7 , 4 9 
+1 . 2 7 7 , 4 9 
+0 , 0 0 
+0 , 0 0 
+1 . 2 7 7 , 4 9 
+01
+ipva
+01
+nf -000682  /01
+08/08/2022 000183 - lonas e telas gold ltda
+banco brades
+1 . 2 8 0 , 0 0 
+1 . 2 8 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 2 8 0 , 0 0 
+01
+peças p/
+01
+nf -000031  /1 
+08/08/2022 000231 - serraria du vale ltda
+banco brades
+8 . 1 3 0 , 0 0 
+8 . 1 3 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 1 3 0 , 0 0 
+01
+revenda
+01
+nf -000925  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 3 0 . 0 0 0 , 0 0 
+5 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 0 0 0 , 0 0 
+01
+matéria-
+subtotais:
+ 
+2 9 . 9 1 6 , 5 9 
+0 , 0 0 
+0 , 0 0 
+2 9 . 9 1 6 , 5 9 
+pagamento: 09/08/2022
+01
+nf -000925  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 3 0 . 0 0 0 , 0 0 
+2 . 6 1 3 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 6 1 3 , 0 0 
+01
+matéria-
+01
+nf -5275    /01
+09/08/2022 000045 - uniao acessorios para caminhoes ltd banco brades
+1 0 5 , 7 5 
+1 0 5 , 7 5 
+0 , 0 0 
+0 , 0 0 
+1 0 5 , 7 5 
+01
+peças p/
+01
+nf -5280    /01
+09/08/2022 000045 - uniao acessorios para caminhoes ltd banco brades
+7 0 , 0 0 
+7 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 0 , 0 0 
+01
+peças p/
+subtotais:
+ 
+2 . 7 8 8 , 7 5 
+0 , 0 0 
+0 , 0 0 
+2 . 7 8 8 , 7 5 
+pagamento: 10/08/2022
+01
+fin-867790  /01
+10/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+2 0 . 4 3 7 , 8 9 
+2 0 . 4 3 7 , 8 9 
+0 , 0 0 
+0 , 0 0 
+2 0 . 4 3 7 , 8 9 
+01
+caminhoe
+01
+fin-867799  /01
+10/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+2 2 . 6 7 3 , 9 8 
+2 2 . 6 7 3 , 9 8 
+0 , 0 0 
+0 , 0 0 
+2 2 . 6 7 3 , 9 8 
+01
+caminhoe
+01
+cas-208004  /01
+10/08/2022 000062 - efigenia dos santos garcia
+banco brades
+3 7 8 , 0 0 
+3 7 8 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 7 8 , 0 0 
+01
+c o n t r i b 
+01
+nf -002260  /1 
+10/08/2022 000096 - elithium solucoes em gestao de frot banco brades
+7 2 0 , 0 0 
+7 2 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 2 0 , 0 0 
+01
+telemetr
+01
+nf -002142  /1 
+10/08/2022 000089 - lm hidraulica ltda
+banco brades
+7 5 0 , 0 0 
+7 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 5 0 , 0 0 
+01
+peças p/
+01
+nf -002925  /1 
+09/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000162
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -002927  /1 
+09/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000162
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+30/08/2022 17:13 hs
+im energy
+página: 004
+títulos pagos
+período: 01/08/2022  a  26/08/2022 *** tipos de documentos: todos *** tipo de baixa: pagto normal *** todas filiais
+data
+valor
+valor
+multa/
+valor
+líquido
+fl
+documento
+vencimento
+fornecedor
+banco
+cheque
+borderô
+parcela
+pagamento
+juros
+desconto
+pago
+baixa subgrupo contrato
+pagamento: 10/08/2022
+01
+nf -002934  /1 
+11/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000162
+5 . 2 2 0 , 0 0 
+5 . 2 2 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 2 2 0 , 0 0 
+01
+revenda
+01
+nf -002938  /1 
+12/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000162
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+01
+nf -003006  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+3 . 6 7 5 , 0 0 
+3 . 6 7 5 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 6 7 5 , 0 0 
+01
+revenda
+01
+nf -003029  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+3 . 8 5 0 , 0 0 
+3 . 8 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 8 5 0 , 0 0 
+01
+revenda
+01
+nf -003037  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -003039  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -003047  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+6 . 3 0 0 , 0 0 
+6 . 3 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 3 0 0 , 0 0 
+01
+revenda
+01
+nf -003059  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+6 . 3 0 0 , 0 0 
+6 . 3 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 3 0 0 , 0 0 
+01
+revenda
+01
+nf -003067  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+6 . 6 0 0 , 0 0 
+6 . 6 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 6 0 0 , 0 0 
+01
+revenda
+01
+nf -003069  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+6 . 3 0 0 , 0 0 
+6 . 3 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 3 0 0 , 0 0 
+01
+revenda
+01
+nf -003076  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -003078  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -003083  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+6 . 3 0 0 , 0 0 
+6 . 3 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 3 0 0 , 0 0 
+01
+revenda
+01
+nf -003091  /1 
+10/08/2022 000008 - sma madeiras ltda
+banco brades
+000161
+3 . 1 1 5 , 0 0 
+3 . 1 1 5 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 1 5 , 0 0 
+01
+revenda
+01
+nf -187588  /1 
+10/08/2022 000208 - unimed de sorocaba cooperativa de t banco brades
+2 . 9 8 7 , 1 0 
+2 . 9 8 7 , 1 0 
+0 , 0 0 
+0 , 0 0 
+2 . 9 8 7 , 1 0 
+01
+convenio
+subtotais:
+ 
+1 2 3 . 5 3 6 , 9 7 
+0 , 0 0 
+0 , 0 0 
+1 2 3 . 5 3 6 , 9 7 
+pagamento: 11/08/2022
+01
+fin-549243  /01
+11/08/2022 000057 - banco bradesco s.a.
+banco brades
+4 . 7 3 2 , 0 2 
+4 . 7 3 2 , 0 2 
+0 , 0 0 
+0 , 0 0 
+4 . 7 3 2 , 0 2 
+01
+despesas
+01
+fin-549243  /01
+11/08/2022 000057 - banco bradesco s.a.
+banco brades
+6 . 0 1 1 , 0 9 
+6 . 0 1 1 , 0 9 
+0 , 0 0 
+0 , 0 0 
+6 . 0 1 1 , 0 9 
+01
+despesas
+01
+nf -000925  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 3 0 . 0 0 0 , 0 0 
+2 8 . 8 2 6 , 1 0 
+0 , 0 0 
+0 , 0 0 
+2 8 . 8 2 6 , 1 0 
+01
+matéria-
+subtotais:
+ 
+3 9 . 5 6 9 , 2 1 
+0 , 0 0 
+0 , 0 0 
+3 9 . 5 6 9 , 2 1 
+pagamento: 12/08/2022
+01
+nf -003176  /01
+12/08/2022 000042 - lippel engenharia e equipamentos ei banco brades
+2 . 6 4 2 , 5 0 
+2 . 6 4 2 , 5 0 
+0 , 0 0 
+0 , 0 0 
+2 . 6 4 2 , 5 0 
+01
+peças p/
+01
+nf -003187  /01
+12/08/2022 000042 - lippel engenharia e equipamentos ei banco brades
+3 . 6 8 9 , 0 0 
+3 . 6 8 9 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 6 8 9 , 0 0 
+01
+peças p/
+01
+nf -300465  /01
+12/08/2022 000215 - trucks comercio e tecnologia de ras banco brades
+7 . 4 5 4 , 0 0 
+7 . 4 5 4 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 4 5 4 , 0 0 
+01
+peças p/
+subtotais:
+ 
+1 3 . 7 8 5 , 5 0 
+0 , 0 0 
+0 , 0 0 
+1 3 . 7 8 5 , 5 0 
+pagamento: 15/08/2022
+01
+nf -005633  /01
+28/08/2022 000060 - auto posto e transportadora garcia banco brades
+000166
+8 3 . 6 4 7 , 3 0 
+8 3 . 6 4 7 , 3 0 
+0 , 0 0 
+0 , 0 0 
+8 3 . 6 4 7 , 3 0 
+01
+oleo die
+01
+nf -005634  /01
+28/08/2022 000060 - auto posto e transportadora garcia banco brades
+000166
+9 1 4 , 7 2 
+9 1 4 , 7 2 
+0 , 0 0 
+0 , 0 0 
+9 1 4 , 7 2 
+01
+gasolina
+01
+nf -005636  /01
+28/08/2022 000060 - auto posto e transportadora garcia banco brades
+000166
+2 0 1 . 5 6 3 , 7 7 
+2 0 1 . 5 6 3 , 7 7 
+0 , 0 0 
+0 , 0 0 
+2 0 1 . 5 6 3 , 7 7 
+01
+oleo die
+01
+nf -005637  /01
+28/08/2022 000060 - auto posto e transportadora garcia banco brades
+000166
+3 . 6 7 9 , 0 0 
+3 . 6 7 9 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 6 7 9 , 0 0 
+01
+oleo die
+01
+nf -005638  /01
+31/08/2022 000060 - auto posto e transportadora garcia banco brades
+000166
+1 1 . 6 8 4 , 4 0 
+1 1 . 6 8 4 , 4 0 
+0 , 0 0 
+0 , 0 0 
+1 1 . 6 8 4 , 4 0 
+01
+oleo die
+01
+fin-005640  /01
+15/08/2022 000060 - auto posto e transportadora garcia banco brades
+6 . 1 5 9 , 2 7 
+6 . 1 5 9 , 2 7 
+0 , 0 0 
+0 , 0 0 
+6 . 1 5 9 , 2 7 
+01
+despesas
+01
+fin-826310  /01
+15/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+1 2 . 0 7 2 , 0 8 
+1 2 . 0 7 2 , 0 8 
+0 , 0 0 
+0 , 0 0 
+1 2 . 0 7 2 , 0 8 
+01
+caminhoe
+01
+fin-826311  /01
+15/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+1 2 . 0 7 2 , 0 8 
+1 2 . 0 7 2 , 0 8 
+0 , 0 0 
+0 , 0 0 
+1 2 . 0 7 2 , 0 8 
+01
+caminhoe
+01
+fin-867821  /01
+15/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+1 5 . 2 0 2 , 8 0 
+1 5 . 2 0 2 , 8 0 
+0 , 0 0 
+0 , 0 0 
+1 5 . 2 0 2 , 8 0 
+01
+caminhoe
+01
+nf -001945  /1 
+14/08/2022 000179 - leonilto borsoi dos santos eireli
+banco brades
+000163
+6 . 4 8 0 , 0 0 
+6 . 4 8 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 4 8 0 , 0 0 
+01
+revenda
+01
+nf -001949  /1 
+14/08/2022 000179 - leonilto borsoi dos santos eireli
+banco brades
+000163
+7 . 5 6 0 , 0 0 
+7 . 5 6 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 5 6 0 , 0 0 
+01
+revenda
+01
+nf -001951  /1 
+14/08/2022 000179 - leonilto borsoi dos santos eireli
+banco brades
+000163
+6 . 6 9 6 , 0 0 
+6 . 6 9 6 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 6 9 6 , 0 0 
+01
+revenda
+01
+nf -001955  /1 
+14/08/2022 000179 - leonilto borsoi dos santos eireli
+banco brades
+000163
+3 . 3 4 8 , 0 0 
+3 . 3 4 8 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 3 4 8 , 0 0 
+01
+revenda
+01
+nf -001956  /1 
+14/08/2022 000179 - leonilto borsoi dos santos eireli
+banco brades
+000163
+7 . 4 1 6 , 0 0 
+7 . 4 1 6 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 4 1 6 , 0 0 
+01
+revenda
+01
+nf -001505  /01
+07/08/2022 000260 - log wood transporte de cargas ltda
+banco brades
+000167
+3 . 4 0 0 , 0 0 
+3 . 4 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 4 0 0 , 0 0 
+01
+frete
+01
+nf -001557  /01
+07/08/2022 000260 - log wood transporte de cargas ltda
+banco brades
+000167
+1 . 0 0 0 , 0 0 
+1 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 0 0 0 , 0 0 
+01
+frete
+01
+nf -001558  /01
+07/08/2022 000260 - log wood transporte de cargas ltda
+banco brades
+000167
+1 . 7 6 0 , 0 0 
+1 . 7 6 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 7 6 0 , 0 0 
+01
+frete
+30/08/2022 17:13 hs
+im energy
+página: 005
+títulos pagos
+período: 01/08/2022  a  26/08/2022 *** tipos de documentos: todos *** tipo de baixa: pagto normal *** todas filiais
+data
+valor
+valor
+multa/
+valor
+líquido
+fl
+documento
+vencimento
+fornecedor
+banco
+cheque
+borderô
+parcela
+pagamento
+juros
+desconto
+pago
+baixa subgrupo contrato
+pagamento: 15/08/2022
+01
+nf -001559  /1 
+15/08/2022 000260 - log wood transporte de cargas ltda
+banco brades
+000167
+1 . 7 6 0 , 0 0 
+1 . 7 6 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 7 6 0 , 0 0 
+01
+frete
+01
+nf -000686  /01
+15/08/2022 000183 - lonas e telas gold ltda
+banco brades
+1 . 2 8 0 , 0 0 
+1 . 2 8 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 2 8 0 , 0 0 
+01
+peças p/
+01
+nf -002947  /1 
+16/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000165
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+01
+nf -002953  /1 
+17/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000165
+3 . 1 5 0 , 0 0 
+3 . 1 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 1 5 0 , 0 0 
+01
+revenda
+01
+nf -002956  /1 
+18/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000165
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+01
+nf -002960  /1 
+18/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000165
+6 . 0 9 0 , 0 0 
+6 . 0 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 0 9 0 , 0 0 
+01
+revenda
+01
+nf -002963  /1 
+15/08/2022 000009 - lyptus madeiras ltda
+banco brades
+6 . 2 2 0 , 2 0 
+6 . 2 2 0 , 2 0 
+0 , 0 0 
+0 , 0 0 
+6 . 2 2 0 , 2 0 
+01
+matéria-
+01
+nf -002964  /1 
+19/08/2022 000009 - lyptus madeiras ltda
+banco brades
+000165
+6 . 6 7 0 , 0 0 
+6 . 6 7 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 6 7 0 , 0 0 
+01
+revenda
+01
+nf -004584  /a 
+15/07/2022 000174 - silene maria de carvalho
+banco brades
+2 . 8 3 6 , 0 0 
+2 . 8 3 6 , 0 0 
+0 , 0 6 
+0 , 0 0 
+2 . 8 3 6 , 0 6 
+01
+matéria-
+01
+fin-000008  /01
+15/08/2022 000054 - soropack industria e comercio de pa banco brades
+1 9 . 7 6 9 , 9 4 
+1 9 . 7 6 9 , 9 4 
+0 , 0 0 
+0 , 0 0 
+1 9 . 7 6 9 , 9 4 
+01
+despesas
+subtotais:
+ 
+4 4 4 . 6 1 1 , 5 6 
+0 , 0 6 
+0 , 0 0 
+4 4 4 . 6 1 1 , 6 2 
+pagamento: 16/08/2022
+01
+nf -001009  /1 
+16/08/2022 000172 - big sound pilar do sul ltda
+banco brades
+6 0 0 , 0 0 
+6 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 0 0 , 0 0 
+01
+peças p/
+01
+nf -014768  /00
+16/08/2022 000204 - central park supermercado ltda
+banco brades
+2 . 0 9 9 , 8 8 
+2 . 0 9 9 , 8 8 
+0 , 0 0 
+0 , 0 0 
+2 . 0 9 9 , 8 8 
+01
+cesta ba
+01
+nf -100125  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+8 2 , 1 1 
+8 2 , 1 1 
+0 , 0 0 
+0 , 0 0 
+8 2 , 1 1 
+01
+peças p/
+01
+nf -100385  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+6 5 , 8 5 
+6 5 , 8 5 
+0 , 0 0 
+0 , 0 0 
+6 5 , 8 5 
+01
+peças p/
+01
+nf -100447  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+4 4 , 8 2 
+4 4 , 8 2 
+0 , 0 0 
+0 , 0 0 
+4 4 , 8 2 
+01
+peças p/
+01
+nf -100497  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+4 4 4 , 0 9 
+4 4 4 , 0 9 
+0 , 0 0 
+0 , 0 0 
+4 4 4 , 0 9 
+01
+peças p/
+01
+nf -100602  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+7 8 , 3 0 
+7 8 , 3 0 
+0 , 0 0 
+0 , 0 0 
+7 8 , 3 0 
+01
+peças p/
+01
+nf -100677  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+1 7 9 , 3 9 
+1 7 9 , 3 9 
+0 , 0 0 
+0 , 0 0 
+1 7 9 , 3 9 
+01
+peças p/
+01
+nf -100719  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+5 7 , 5 0 
+5 7 , 5 0 
+0 , 0 0 
+0 , 0 0 
+5 7 , 5 0 
+01
+peças p/
+01
+nf -100746  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+9 3 , 5 0 
+9 3 , 5 0 
+0 , 0 0 
+0 , 0 0 
+9 3 , 5 0 
+01
+epis/uni
+01
+nf -101201  /01
+11/08/2022 000114 - comercio de cereais yokotobi eireli banco brades
+000172
+1 7 0 , 4 9 
+1 7 0 , 4 9 
+0 , 0 0 
+0 , 0 0 
+1 7 0 , 4 9 
+01
+epis/uni
+01
+nf -4595    /01
+15/08/2022 000103 - ed carlos de barros
+banco brades
+5 5 3 , 2 9 
+5 5 3 , 2 9 
+0 , 0 0 
+0 , 0 0 
+5 5 3 , 2 9 
+01
+peças p/
+01
+nf -000962  /1 
+16/08/2022 000156 - elvio de oliveira motta pilar do su banco brades
+8 0 0 , 0 0 
+8 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 0 0 , 0 0 
+01
+manutenç
+01
+nf -000004  /1 
+16/08/2022 000070 - fabio yugo matsuda 30196257859
+banco brades
+3 5 0 , 0 0 
+3 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 5 0 , 0 0 
+01
+serviços
+01
+nf -145301  /01
+16/08/2022 000238 - john deere equipamentos do brasil l banco brades
+2 . 5 9 0 , 5 8 
+2 . 5 9 0 , 5 8 
+0 , 0 0 
+0 , 0 0 
+2 . 5 9 0 , 5 8 
+01
+peças p/
+01
+nf -000967  /01
+02/07/2022 000121 - lazara pereira maciel & cia ltda
+banco brades
+2 6 0 , 0 0 
+2 6 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 6 0 , 0 0 
+01
+peças p/
+01
+nf -004591  /a 
+15/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+000174
+5 . 7 0 0 , 0 0 
+5 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 0 0 , 0 0 
+01
+revenda
+01
+nf -004592  /a 
+15/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+000174
+5 . 7 0 0 , 0 0 
+5 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 0 0 , 0 0 
+01
+revenda
+01
+nf -004593  /a 
+15/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+000174
+2 . 8 5 0 , 0 0 
+2 . 8 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 8 5 0 , 0 0 
+01
+revenda
+01
+nf -004595  /a 
+15/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+000174
+5 . 7 0 0 , 0 0 
+5 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 0 0 , 0 0 
+01
+revenda
+01
+nf -004599  /a 
+15/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+6 . 6 0 0 , 0 0 
+4 . 5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+4 . 5 0 0 , 0 0 
+01
+revenda
+01
+nf -001672  /1 
+16/08/2022 000266 - luciano maximo ribeiro
+banco brades
+8 . 2 0 0 , 0 0 
+8 . 2 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+8 . 2 0 0 , 0 0 
+01
+serviços
+01
+nf -004688  /a 
+15/08/2022 000247 - nilson soares da rosa
+banco brades
+000173
+6 . 6 0 0 , 0 0 
+6 . 6 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 6 0 0 , 0 0 
+01
+matéria-
+01
+nf -004689  /a 
+15/08/2022 000247 - nilson soares da rosa
+banco brades
+000173
+2 . 8 5 0 , 0 0 
+2 . 8 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 8 5 0 , 0 0 
+01
+revenda
+01
+nf -004690  /a 
+15/08/2022 000247 - nilson soares da rosa
+banco brades
+000173
+5 . 7 0 0 , 0 0 
+5 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 0 0 , 0 0 
+01
+revenda
+01
+nf -004691  /a 
+15/08/2022 000247 - nilson soares da rosa
+banco brades
+000173
+2 . 8 5 0 , 0 0 
+2 . 8 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 8 5 0 , 0 0 
+01
+revenda
+01
+nf -004692  /a 
+15/08/2022 000247 - nilson soares da rosa
+banco brades
+000173
+5 . 7 0 0 , 0 0 
+5 . 7 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 . 7 0 0 , 0 0 
+01
+revenda
+01
+nf -004693  /a 
+15/08/2022 000247 - nilson soares da rosa
+banco brades
+000173
+6 . 6 0 0 , 0 0 
+6 . 6 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 6 0 0 , 0 0 
+01
+revenda
+01
+nf -004694  /a 
+15/08/2022 000247 - nilson soares da rosa
+banco brades
+000173
+6 . 6 0 0 , 0 0 
+6 . 6 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 . 6 0 0 , 0 0 
+01
+revenda
+01
+nf -004695  /a 
+15/08/2022 000247 - nilson soares da rosa
+banco brades
+000173
+2 . 8 5 0 , 0 0 
+2 . 8 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 8 5 0 , 0 0 
+01
+revenda
+01
+nf -007717  /01
+16/08/2022 000166 - portal agricola - maquinas e ferram banco brades
+6 4 , 9 0 
+6 4 , 9 0 
+0 , 0 0 
+0 , 0 0 
+6 4 , 9 0 
+01
+peças p/
+01
+nf -007717  /02
+16/08/2022 000166 - portal agricola - maquinas e ferram banco brades
+3 2 9 , 4 3 
+3 2 9 , 4 3 
+0 , 0 0 
+0 , 0 0 
+3 2 9 , 4 3 
+01
+peças p/
+01
+nf -007717  /03
+16/08/2022 000166 - portal agricola - maquinas e ferram banco brades
+9 8 , 8 4 
+9 8 , 8 4 
+0 , 0 0 
+0 , 0 0 
+9 8 , 8 4 
+01
+peças p/
+01
+nf -002747  /1 
+16/08/2022 000106 - rubens alves pilar do sul
+banco brades
+6 3 2 , 0 0 
+6 3 2 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 3 2 , 0 0 
+01
+peças p/
+01
+nf -011290  /01
+16/08/2022 000097 - sandei e sandei comercio de rolamen banco brades
+5 5 0 , 0 0 
+5 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 5 0 , 0 0 
+01
+peças p/
+01
+nf -000927  /1 
+15/07/2022 000227 - tres irmaos reflorestamento e plant banco brades
+1 0 0 . 0 0 0 , 0 0 
+1 3 . 4 8 4 , 1 0 
+0 , 0 0 
+0 , 0 0 
+1 3 . 4 8 4 , 1 0 
+01
+matéria-
+30/08/2022 17:13 hs
+im energy
+página: 006
+títulos pagos
+período: 01/08/2022  a  26/08/2022 *** tipos de documentos: todos *** tipo de baixa: pagto normal *** todas filiais
+data
+valor
+valor
+multa/
+valor
+líquido
+fl
+documento
+vencimento
+fornecedor
+banco
+cheque
+borderô
+parcela
+pagamento
+juros
+desconto
+pago
+baixa subgrupo contrato
+pagamento: 16/08/2022
+01
+nf -5301    /01
+16/08/2022 000045 - uniao acessorios para caminhoes ltd banco brades
+1 3 6 , 0 0 
+1 3 6 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 3 6 , 0 0 
+01
+peças p/
+01
+csc-150254  /01
+15/08/2022 000243 - volvo administradora de consorcio l banco brades
+6 . 0 7 6 , 2 8 
+6 . 0 7 6 , 2 8 
+0 , 0 0 
+0 , 0 0 
+6 . 0 7 6 , 2 8 
+01
+consorci
+subtotais:
+ 
+1 0 2 . 2 4 1 , 3 5 
+0 , 0 0 
+0 , 0 0 
+1 0 2 . 2 4 1 , 3 5 
+pagamento: 17/08/2022
+01
+nf -010808  /1 
+16/08/2022 000069 - cronomax manutencao de cronotacogra banco brades
+5 4 2 , 7 6 
+5 4 2 , 7 6 
+0 , 0 0 
+0 , 0 0 
+5 4 2 , 7 6 
+01
+aferição
+01
+nf -095352  /1 
+17/08/2022 000056 - itaruban reformadora de pneus ltda
+banco brades
+2 . 4 4 4 , 0 0 
+2 . 4 4 4 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 4 4 4 , 0 0 
+01
+serviços
+01
+nf -5302    /01
+17/08/2022 000045 - uniao acessorios para caminhoes ltd banco brades
+1 0 1 , 5 0 
+1 0 1 , 5 0 
+0 , 0 0 
+0 , 0 0 
+1 0 1 , 5 0 
+01
+conserv.
+subtotais:
+ 
+3 . 0 8 8 , 2 6 
+0 , 0 0 
+0 , 0 0 
+3 . 0 8 8 , 2 6 
+pagamento: 18/08/2022
+01
+nf -000230  /1 
+16/08/2022 000110 - antonio sergio ferreira de barros
+banco brades
+3 . 4 6 0 , 0 0 
+3 . 4 6 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 4 6 0 , 0 0 
+01
+manutenç
+01
+nf -000027  /1 
+16/08/2022 000029 - wellington rodrigo honorio santos 4 banco brades
+4 . 3 0 0 , 0 0 
+4 . 3 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+4 . 3 0 0 , 0 0 
+01
+manutenç
+subtotais:
+ 
+7 . 7 6 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 . 7 6 0 , 0 0 
+pagamento: 19/08/2022
+01
+adi-000048  /01
+20/08/2022 000073 - ademar vieira de almeida (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000049  /01
+20/08/2022 000074 - adriano fernandes de camargo (func) banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000050  /01
+20/08/2022 000252 - afonso fernando moraes zacarias (fu banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000051  /01
+20/08/2022 000075 - alan diego moraes zacarias (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000052  /01
+20/08/2022 000150 - alex pedro faria
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+grf-026151  /01
+19/08/2022 000021 - documentos de arrecadação de receit banco brades
+8 6 2 , 2 2 
+8 6 2 , 2 2 
+0 , 0 0 
+0 , 0 0 
+8 6 2 , 2 2 
+01
+gps-inss
+01
+drf-129417  /01
+19/08/2022 000021 - documentos de arrecadação de receit banco brades
+1 0 , 0 3 
+1 0 , 0 3 
+0 , 0 0 
+0 , 0 0 
+1 0 , 0 3 
+01
+irrf
+01
+drf-132866  /01
+19/08/2022 000021 - documentos de arrecadação de receit banco brades
+3 1 , 1 1 
+3 1 , 1 1 
+0 , 0 0 
+0 , 0 0 
+3 1 , 1 1 
+01
+csll/cof
+01
+drf-302503  /01
+19/08/2022 000021 - documentos de arrecadação de receit banco brades
+1 3 . 5 2 7 , 5 9 
+1 3 . 5 2 7 , 5 9 
+0 , 0 0 
+0 , 0 0 
+1 3 . 5 2 7 , 5 9 
+01
+gps-inss
+01
+drf-302540  /01
+19/08/2022 000021 - documentos de arrecadação de receit banco brades
+1 4 . 3 3 7 , 5 6 
+1 4 . 3 3 7 , 5 6 
+0 , 0 0 
+0 , 0 0 
+1 4 . 3 3 7 , 5 6 
+01
+gps-inss
+01
+drf-402357  /01
+19/08/2022 000021 - documentos de arrecadação de receit banco brades
+8 4 0 , 9 5 
+8 4 0 , 9 5 
+0 , 0 0 
+0 , 0 0 
+8 4 0 , 9 5 
+01
+irrf
+01
+adi-000053  /01
+20/08/2022 000269 - fabiano paulo mello (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000054  /01
+20/08/2022 000077 - flavia guedes do prado (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000055  /01
+20/08/2022 000078 - gilmario gomes pereira (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000056  /01
+20/08/2022 000079 - givanildo jose pinto (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000061  /01
+20/08/2022 000271 - juvenal marcos de almeida gomes (fu banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+nf -037301  /4 
+18/08/2022 000044 - laponia sudeste ltda.
+banco brades
+3 . 2 4 9 , 9 9 
+3 . 2 4 9 , 9 9 
+0 , 0 0 
+0 , 0 0 
+3 . 2 4 9 , 9 9 
+01
+peças p/
+01
+adi-000057  /01
+20/08/2022 000080 - leandro celestino suzanna (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+seg-093030  /06
+19/08/2022 000048 - liberty seguros s/a
+banco brades
+7 2 , 6 5 
+7 2 , 6 5 
+0 , 0 0 
+0 , 0 0 
+7 2 , 6 5 
+01
+seguros
+01
+nf -004598  /a 
+15/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+2 . 8 5 0 , 0 0 
+2 . 8 5 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 8 5 0 , 0 0 
+01
+revenda
+01
+nf -004599  /a 
+15/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+6 . 6 0 0 , 0 0 
+2 . 1 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 1 0 0 , 0 0 
+01
+revenda
+01
+nf -004600  /a 
+15/08/2022 000005 - lilian proenca de quevedo rosa
+banco brades
+6 . 6 0 0 , 0 0 
+5 . 1 1 2 , 5 0 
+0 , 0 0 
+0 , 0 0 
+5 . 1 1 2 , 5 0 
+01
+revenda
+01
+adi-000062  /01
+20/08/2022 000272 - luccas vinicius de oliveira gonsale banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+nf -000172  /1 
+16/08/2022 000230 - marilene da rosa souza rodrigues 47 banco brades
+1 . 0 0 0 , 0 0 
+1 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 0 0 0 , 0 0 
+01
+conserto
+01
+seg-800365  /01
+21/08/2022 000122 - porto seguro companhia de seguros g banco brades
+1 7 1 , 0 0 
+1 7 1 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 7 1 , 0 0 
+01
+seguros
+01
+adi-000058  /01
+20/08/2022 000081 - reinaldo de toledo (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000059  /01
+20/08/2022 000270 - rodrigo de paula ferreira (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+01
+adi-000060  /01
+20/08/2022 000251 - samuel da silva camargo (func)
+banco brades
+5 0 0 , 0 0 
+5 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 0 0 , 0 0 
+01
+adiantam
+subtotais:
+ 
+5 1 . 6 6 5 , 6 0 
+0 , 0 0 
+0 , 0 0 
+5 1 . 6 6 5 , 6 0 
+pagamento: 22/08/2022
+30/08/2022 17:13 hs
+im energy
+página: 007
+títulos pagos
+período: 01/08/2022  a  26/08/2022 *** tipos de documentos: todos *** tipo de baixa: pagto normal *** todas filiais
+data
+valor
+valor
+multa/
+valor
+líquido
+fl
+documento
+vencimento
+fornecedor
+banco
+cheque
+borderô
+parcela
+pagamento
+juros
+desconto
+pago
+baixa subgrupo contrato
+pagamento: 22/08/2022
+01
+nf -134764  /01
+22/08/2022 000160 - alves fogaca & cia ltda
+banco brades
+5 9 0 , 0 0 
+5 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+5 9 0 , 0 0 
+01
+peças p/
+01
+fin-291254  /01
+22/08/2022 000165 - banco bradesco financiamentos s.a.
+banco brades
+2 5 . 8 4 5 , 0 8 
+2 5 . 8 4 5 , 0 8 
+0 , 0 0 
+0 , 0 0 
+2 5 . 8 4 5 , 0 8 
+01
+despesas
+01
+fin-559414  /01
+22/08/2022 000057 - banco bradesco s.a.
+banco brades
+6 . 0 6 3 , 7 5 
+6 . 0 6 3 , 7 5 
+0 , 0 0 
+0 , 0 0 
+6 . 0 6 3 , 7 5 
+01
+despesas
+subtotais:
+ 
+3 2 . 4 9 8 , 8 3 
+0 , 0 0 
+0 , 0 0 
+3 2 . 4 9 8 , 8 3 
+pagamento: 23/08/2022
+01
+fin-861515  /01
+23/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+7 . 4 7 0 , 1 9 
+7 . 4 7 0 , 1 9 
+0 , 0 0 
+0 , 0 0 
+7 . 4 7 0 , 1 9 
+01
+caminhoe
+01
+fin-861518  /01
+23/08/2022 000024 - banco volvo (brasil) s.a
+banco brades
+7 . 4 7 0 , 1 9 
+7 . 4 7 0 , 1 9 
+0 , 0 0 
+0 , 0 0 
+7 . 4 7 0 , 1 9 
+01
+caminhoe
+01
+nf -642125  /02
+24/09/2022 000017 - cofer comercio de ferramentas e ser banco brades
+2 . 6 0 0 , 0 0 
+2 . 6 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 6 0 0 , 0 0 
+01
+peças p/
+01
+nf -440039  /01
+24/08/2022 000268 - silcar pneus ltda
+banco brades
+6 . 9 9 7 , 5 0 
+6 . 9 9 7 , 5 0 
+0 , 0 0 
+0 , 0 0 
+6 . 9 9 7 , 5 0 
+01
+compra d
+01
+nf -440040  /01
+24/08/2022 000268 - silcar pneus ltda
+banco brades
+6 . 9 9 7 , 5 0 
+6 . 9 9 7 , 5 0 
+0 , 0 0 
+0 , 0 0 
+6 . 9 9 7 , 5 0 
+01
+compra d
+subtotais:
+ 
+3 1 . 5 3 5 , 3 8 
+0 , 0 0 
+0 , 0 0 
+3 1 . 5 3 5 , 3 8 
+pagamento: 24/08/2022
+01
+nf -042156  /01
+24/08/2022 000044 - laponia sudeste ltda.
+banco brades
+2 . 4 7 5 , 0 0 
+2 . 4 7 5 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 . 4 7 5 , 0 0 
+01
+peças p/
+01
+nf -003103  /3 
+25/08/2022 000042 - lippel engenharia e equipamentos ei banco brades
+6 0 . 0 0 0 , 0 0 
+6 0 . 0 0 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 0 . 0 0 0 , 0 0 
+01
+maquinas
+01
+nf -003325  /01
+25/08/2022 000042 - lippel engenharia e equipamentos ei banco brades
+6 4 2 , 0 0 
+6 4 2 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 4 2 , 0 0 
+01
+peças p/
+01
+nf -410563  /01
+16/08/2022 000019 - ouro safra industria e comercio ltd banco brades
+000176
+1 2 3 , 5 0 
+1 2 3 , 5 0 
+0 , 0 0 
+0 , 0 0 
+1 2 3 , 5 0 
+01
+epis/uni
+01
+nf -410950  /01
+16/08/2022 000019 - ouro safra industria e comercio ltd banco brades
+000176
+2 7 , 0 0 
+2 7 , 0 0 
+0 , 0 0 
+0 , 0 0 
+2 7 , 0 0 
+01
+epis/uni
+01
+nf -411622  /01
+25/08/2022 000019 - ouro safra industria e comercio ltd banco brades
+000176
+1 5 2 , 7 0 
+1 5 2 , 7 0 
+0 , 0 0 
+0 , 0 0 
+1 5 2 , 7 0 
+01
+epis/uni
+01
+nf -5333    /01
+26/08/2022 000045 - uniao acessorios para caminhoes ltd banco brades
+7 9 0 , 0 0 
+7 9 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+7 9 0 , 0 0 
+01
+peças p/
+01
+nf -5335    /01
+25/08/2022 000045 - uniao acessorios para caminhoes ltd banco brades
+6 6 , 0 0 
+6 6 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 6 , 0 0 
+01
+peças p/
+subtotais:
+ 
+6 4 . 2 7 6 , 2 0 
+0 , 0 0 
+0 , 0 0 
+6 4 . 2 7 6 , 2 0 
+pagamento: 25/08/2022
+01
+drf-231519  /01
+25/08/2022 000021 - documentos de arrecadação de receit banco brades
+1 0 0 . 5 2 5 , 1 8 
+1 0 0 . 5 2 5 , 1 8 
+0 , 0 0 
+0 , 0 0 
+1 0 0 . 5 2 5 , 1 8 
+01
+cofins
+01
+drf-519808  /01
+25/08/2022 000021 - documentos de arrecadação de receit banco brades
+2 1 . 7 8 0 , 4 5 
+2 1 . 7 8 0 , 4 5 
+0 , 0 0 
+0 , 0 0 
+2 1 . 7 8 0 , 4 5 
+01
+pis
+subtotais:
+ 
+1 2 2 . 3 0 5 , 6 3 
+0 , 0 0 
+0 , 0 0 
+1 2 2 . 3 0 5 , 6 3 
+pagamento: 26/08/2022
+01
+nf -030899  /04
+28/08/2022 000035 - mercalf diesel ltda.
+banco brades
+3 . 0 8 0 , 0 0 
+3 . 0 8 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+3 . 0 8 0 , 0 0 
+01
+peças p/
+01
+nf -004257  /1 
+28/08/2022 000185 - sao judas caminhoes ltda
+banco brades
+6 8 0 , 0 0 
+6 8 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+6 8 0 , 0 0 
+01
+manutenç
+01
+nf -7459    /01
+28/08/2022 000185 - sao judas caminhoes ltda
+banco brades
+4 . 1 2 0 , 0 0 
+4 . 1 2 0 , 0 0 
+0 , 0 0 
+0 , 0 0 
+4 . 1 2 0 , 0 0 
+01
+peças p/
+01
+nf -5334    /01
+29/08/2022 000045 - uniao acessorios para caminhoes ltd banco brades
+1 . 8 9 8 , 0 0 
+1 . 8 9 8 , 0 0 
+0 , 0 0 
+0 , 0 0 
+1 . 8 9 8 , 0 0 
+01
+peças p/
+subtotais:
+ 
+9 . 7 7 8 , 0 0 
+0 , 0 0 
+0 , 0 0 
+9 . 7 7 8 , 0 0 
+totais do relatório:
+ 2 . 0 8 6 . 5 8 9 , 0 1 
+0 , 2 6 
+0 , 0 0 
+2 . 0 8 6 . 5 8 9 , 2 7 

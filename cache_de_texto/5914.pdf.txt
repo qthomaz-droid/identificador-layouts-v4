@@ -1,0 +1,282 @@
+contrato de cessão de crédito vinculado ao risco sacado
+quadro i - banco
+razão social:
+cnpj/mf:
+endereço:
+cidade:
+estado:
+cep:
+quadro ii - cedente
+nome/razão social:
+cpf/cnpj/mf:
+endereço:
+cidade:
+estado:
+cep:
+quadro iii - cliente
+nome/razão social:
+cpf/cnpj/mf:
+quadro iv - características
+informações prévias
+data:
+quantidade de créditos:
+valor total dos créditos
+r$
+taxa de deságio
+preço da cessão:
+custo efetivo total - cet:
+(período de 30 dias):
+r$
+% aa
+%
+% am
+quadro v - conta para crédito
+banco
+agência
+conta corrente
+quadro vi - tarifa de contratação ("tac")
+r$
+22833-8 (fl 1/5) b6 08/23
+página
+j=1
+fc j
+- fc0 = 0
+(d j –d 0)
+(1+cet)
+365
+cessão - é a operação pela qual o cedente transfere ao banco créditos contra o cliente,
+mediante recebimento de preço ajustado entre as partes após aplicação da taxa de deságio
+indicada no preâmbulo sobre o valor de face dos créditos a serem cedidos e a dedução dos
+tributos incidentes sobre a operação de cessão.
+“cet” : custo efetivo total - é o custo total da operação de cessão de crédito para o cedente,
+se pessoa física, microempresa ou empresa de pequeno porte, conforme definidas na lei
+complementar n.º 123, de 14 de dezembro de 2006, expresso na forma de taxa percentual anual.
+para o cálculo do cet são considerados o valor de face do crédito cedido, a data de vencimento e
+a taxa de deságio aplicada ao crédito cedido, assim como o valor dos eventuais tributos, previstos
+neste instrumento, calculado de acordo com a fórmula abaixo e demonstrativo encaminhado
+conforme apêndice ii, anexo ao presente instrumento. o cet representa as condições vigentes na
+data de cálculo, considerando a data de liberação do crédito como a data de assinatura deste
+documento. se a liberação do crédito ocorrer em data posterior, os valores serão reduzidos e
+constarão do documento de cobrança. neste caso, o cet também será reduzido, podendo o
+cedente, a qualquer momento, solicitar a versão atualizada ao itaú.
+itau unibanco s.a.
+60.701.190/4816-09
+av. brigadeiro faria lima, 3500, itaim bibi
+sao paulo
+sp
+04538-132
+ metal nobre industria mecanica
+14.488.466/0001-92
+nihil
+nihil
+nihil
+nihil
+arcelormittal brasil s/a
+17.469.701/0001-77
+08/07/24
+ 
+1
+ 
+10.242,10
+            9.964,00
+  29,39
+ 
+2,14
+  2,0887
+237-bco bradesco s.a.
+02091
+000000030350-0
+      0,00
+001/007
+ itaú
+22833-8 (fl 2/5) b6 08/23
+página
+j = j-ésimo intervalo existente entre a data de vencimento dos valores periódicos e a data do
+desembolso inicial, expresso em dias corridos;
+n = prazo do contrato, expresso em dias corridos;
+dj = data de vencimento dos valores cedidos, periódicos ou não (fcj);
+d0 = data do desembolso inicial pela instituição (fc0).
+onde:
+fc0 = valor de face do crédito cedido, deduzido, se for o caso, das despesas e tarifas pagas
+antecipadamente;
+fcj = valores cobrados pela instituição, periódicos ou não, incluindo as amortizações, juros, prêmio
+de seguro e tarifa de cadastro ou de renovação de cadastro, quando for o caso, bem como
+qualquer outro custo ou encargo cobrado em decorrência da operação;
+banco.
+objeto - o cedente cede ao banco, sem direito de regresso, os créditos abaixo
+discriminados que o cedente garante existir e que estejam devidamente aceitos ou reconhecidos
+pelo cliente. encontram-se discriminados no apêndice 1 deste contrato os créditos objeto da
+cessão ora contratada ("relação de créditos cedidos"). o cedente declara ainda possuir todos
+os documentos referentes ao lastro da relação de créditos cedidos ao banco, incluindo, mas
+não se limitando as notas fiscais, contratos e faturas, bem como, se obriga a enviar tais
+documentos, imediatamente, mediante simples solicitação, a qualquer tempo, por parte do
+parágrafo primeiro - o banco enviará, nesta data, para a conta corrente, de titularidade do
+cedente, indicada no preâmbulo acima, o preço da cessão também indicado no preâmbulo e
+ajustado entre as partes para a aquisição dos créditos.
+parágrafo segundo - para o cálculo da taxa de deságio, serão considerados a taxa de deságio
+e o prazo decorrente entre a data deste contrato e o vencimento dos créditos. se, no dia de
+vencimento dos créditos cedidos, não houver expediente bancário, será considerado o primeiro dia
+útil subsequente.
+parágrafo terceiro - o cedente declara-se ciente de que o banco poderá
+repassar a ele o valor de tributos e encargos, que forem majorados ou
+que venham a ser criados, exigíveis pelas autoridades competentes em
+razão deste contrato. o banco informará o cedente previamente ao início
+da cobrança em questão.
+declaração do cedente - o cedente, assumindo as responsabilidades civis e penais daí
+decorrentes, declara que os créditos aqui referidos e objetos da cessão ora acordada não são
+objetos de cobrança em qualquer outro banco, bem como, ratifica e confirma a veracidade das
+informações referentes a relação de créditos cedidos, as quais devem estar aderentes com a
+documentação que lastreia os respectivos créditos, em especial no que diz respeito ao valor dos
+créditos e respectiva data de vencimento, a qual não está vencida e não foi prorrogada pelo
+cedente e/ou pelo cliente.
+tarifas bancárias - pelo processamento desta operação e pela cobrança dos créditos ora
+cedidos, o cedente pagará ao banco a tarifa de contratação e de cobrança indicada no
+preâmbulo deste contrato.
+anticorrupção - as partes, por si, suas controladoras, controladas, coligadas,
+administradores, acionistas com poderes de administração, e respectivos funcionários, em especial
+os que venham a ter contato com a execução do presente contrato, declaram, neste ato, estarem
+cientes dos termos das leis e normativos que lhes forem aplicáveis e que dispõem sobre atos
+lesivos contra a administração pública, em especial a lei nº 12.846/13, a fcpa - foreign corrupt
+practices act e a uk bribery act, e que mantém políticas e/ou procedimentos internos objetivando
+o cumprimento de tais normas. as partes se comprometem, ainda, a abster-se de qualquer
+atividade que constitua uma violação às disposições contidas nestas legislações e declaram que
+002/007
+ itaú
+envidam os melhores esforços para que seus eventuais subcontratados se comprometam a
+observar o aqui disposto.
+disposições socioambientais - o cedente (i) declara que respeita e se obriga a
+respeitar, por toda a vigência deste instrumento, a legislação e regulamentação ambiental e social,
+especialmente as normas relativas à saúde e segurança ocupacional e à inexistência de trabalho
+escravo e infantil, devendo assegurar que suas atividades não incentivem a prostituição
+("legislação socioambiental"), e, (ii) se obriga a não utilizar os valores objeto deste instrumento em
+atividades que impliquem na violação da legislação socioambiental. o cedente se compromete
+a apresentar ao banco, se solicitado, no prazo de 5 (cinco) dias úteis, documentos e/ou outras
+informações relativas a aspectos socioambientais de suas atividades. o cedente ressarcirá o
+banco por qualquer quantia que este comprovadamente incorra ou seja compelido a pagar em
+razão de descumprimento pelo de legislação socioambiental em suas atividades, bem como o
+indenizará por quaisquer perdas e danos que venha experimentar relacionadas a danos
+socioambientais ocorridos no âmbito de suas atividades.
+prevenção à lavagem de dinheiro - o cedente, em seu nome e de seus funcionários
+com atuação no presente contrato, declara conhecer e respeitar as leis brasileiras aplicáveis que
+dispõem sobre os crimes de lavagem de dinheiro e de combate ao financiamento ao terrorismo,
+bem como as leis e regulamentos de prevenção à lavagem de dinheiro estrangeiras que sejam
+aplicáveis às partes e/ou ao contrato. o cedente está ciente que o banco é uma instituição
+financeira sujeita a leis, normas e regras específicas nacionais e internacionais, não podendo se
+relacionar ou de outra forma negociar direta ou indiretamente com pessoas ou entidades inclusive,
+governamentais, nem atividades de apoio, que estejam ( sujeitas às sanções administradas ou
+impostas pelo conselho de segurança das nações unidas, u s departament of the treasury ´s
+office of foreign assets control ("união europeia e her majesty's treasury ("hmt") ("sanções"¹
+e/ou ii localizados, organizados ou residentes em países ou territórios sancionados¹).
+parágrafo primeiro - o cedente declara por si, suas controladas, administradores, e, no melhor
+de seu conhecimento, por seus acionistas majoritários ou suas controladoras e funcionários com
+atuação no presente contrato que (i) nenhuma dessas partes é direta ou indiretamente
+sancionada, nem está localizada, estabelecida ou residente em países ou territórios sancionados
+(ii) as atividades previstas neste contrato, incluindo, mas não se limitando ao uso de recursos
+fornecidos pelo banco ou a prestação de serviços ao banco pelo cedente, não envolverão
+direta ou indiretamente qualquer pessoa ou entidade sancionada ou localizada, estabelecida ou
+residente em países ou territórios sancionados; e, (iii) os montantes usados pelo cedente para
+saldar suas obrigações ou de outra forma fazer pagamentos nos termos deste contrato não serão
+oriundos, direta ou indiretamente, de atividades em ou com qualquer pessoa ou entidade
+sancionada ou localizada, estabelecida ou residente em países ou territórios sancionados.
+parágrafo segundo - o cedente está ciente que o banco, por força da legislação e
+normativos supracitados, poderá a qualquer tempo e sem qualquer ônus recusar se a celebrar
+novos contratos ou realizar transações que não estejam em conformidade com suas políticas,
+procedimentos e controles internos.
+parágrafo terceiro - o cedente se compromete a comunicar ao banco, assim que tiver
+conhecimento (i) de ocorrência de qualquer violação das regras, leis e/ou das declarações aqui
+previstas e relacionadas à de prevenção à lavagem de dinheiro, combate do financiamento ao
+terrorismo ou sanções; (ii) de violação pela parte de quaisquer declarações aqui previstas e/ou; (iii)
+de sua inclusão, ou de seus acionistas majoritários ou controladores, em qualquer das listas de
+sanções acima mencionadas. caso se torne sancionada, o cedente se compromete a, se
+solicitado pelo banco, fornecer informações e documentos comprobatórios que demonstrem e
+assegurem a regularidade de suas atividades e status, bem como sua conformidade com essas
+declarações. o banco reserva se o direito de suspender, vencer antecipadamente, ou resolver
+este contrato, conforme o caso, se o cedente for sancionado, seja diretamente ou devido a
+sanções aplicadas a seus acionistas majoritários ou controladores, quando tal desempenho e/ou
+manutenção do contrato resultar em violação de, ou expuser o banco a restrições de quaisquer
+sanções.
+¹csnu: https://www.un.org/securitycouncil/content/un sc consolidated list
+ue: https://data.europa.eu/euodp/pt/data/dataset/consolidated list of persons groups and entities
+subject to eu financial sanctions.
+ofac: https://home.treasury.gov/policy issues/financial sanctions/consolidatedsanctionslistdatafiles
+22833-8 (fl 3/5) b6 08/23
+página
+003/007
+ itaú
+22833-8 (fl 4/5) b6 08/23
+hmt: https://www.gov.uk/government/publications/financial sanctions consolidated list of targets/
+consolidated list of targets
+lei brasileira referente a onu: https://www.in.gov.br/materia/ materia/--/asset_publisher/
+kujrw0tzc2mb/content/id/66191195/do1e 2019 03 08 lei no 13 810 de 8 de marco de 2019
+66191189
+do tratamento de dados pessoais - as partes concordam que o tratamento dos dados
+fornecidos e/ou recebidos por qualquer das partes à outra em razão deste contrato deverá ser
+realizado em consonância com a legislação brasileira, inclusive no tocante às diretrizes previstas
+na lei nº 13.709/2018 ("lei geral de proteção de dados"). o itaú unibanco s.a. declara que o
+tratamento dos dados pessoais é realizado pelo itaú e empresas de seu conglomerado para a
+finalidades relacionadas ao desempenho de suas atividades e propósitos de negócios, com
+segurança e de acordo com a legislação aplicável e a sua política de privacidade, disponível em
+seus sites e aplicativos.
+divulgação de atraso no pagamento - na hipótese de ocorrer descumprimento de
+qualquer obrigação do cedente decorrentes deste contrato, o banco poderá comunicar tal fato
+a qualquer órgão encarregado de cadastrar atraso no pagamento e descumprimento de obrigação
+contratual.
+sistema de informações de crédito (scr) - o cedente autoriza, a qualquer tempo,
+mesmo após o término deste contrato, o banco, as sociedades do conglomerado itaú unibanco
+e as demais instituições aptas a consultar o scr nos termos da regulamentação e que adquiram,
+recebam ou manifestem interesse de adquirir ou de receber em garantia, total ou parcialmente,
+operações de crédito de responsabilidade do cedente ("instituições autorizadas"), a consultar no
+scr informações a seu respeito.
+parágrafo primeiro - o scr é constituído por informações remetidas ao banco central do brasil
+(bacen) sobre operações de crédito, nos termos da regulamentação. a sua finalidade é prover ao
+bacen informações para monitoramento do crédito no sistema financeiro e fiscalização, além de
+viabilizar o intercâmbio de informações entre instituições financeiras.
+parágrafo segundo - o cedente declara-se ciente de que as consultas ao scr serão
+realizadas com base na presente autorização e que as sociedades do conglomerado itaú
+unibanco poderão trocar entre si as informações do cedente constante do seu cadastro.
+parágrafo terceiro - o cedente declara, ainda, ciência de que os dados sobre o montante das
+suas dívidas a vencer e vencidas, inclusive em atraso e baixadas com prejuízo, bem como o valor
+das coobrigações que tenham assumido e das garantias que tenham prestado serão fornecidas ao
+bacen e registrados no scr, valendo essa declaração como comunicação prévia desses
+registros.
+parágrafo quarto - o cedente poderá ter acesso, a qualquer tempo, aos seus dados no scr
+pelos meios disponibilizados pelo bacen, inclusive seu site e, em caso de divergência, pedir sua
+correção, exclusão ou registro de manifestação de discordância, bem como cadastramento de
+medidas judiciais, mediante solicitação à central de atendimento da instituição que efetivou o
+registro dos dados no scr.
+foro de eleição - fica eleito o foro da comarca da capital do estado de são paulo para
+dirimir quaisquer dúvidas oriundas ou fundadas neste contrato, podendo o banco, contudo, optar
+pelo foro da sede do cedente com exclusão de qualquer outro, por mais privilegiado que seja.
+poderes - o cedente, neste ato, declara expressamente sob as penas civis e criminais
+previstas na legislação aplicável, que os seu(s) representante(s) que comparece(m) no presente
+instrumento possui(em) todos os poderes necessários para representar de forma adequada o
+cedente perante o banco para fins da formalização da presente cessão.
+formalização eletrônica e digital - as partes reconhecem que este contrato pode, a
+critério das partes, ser assinado de forma digital e eletrônica nos termos da legislação vigente e,
+reconhecem que, inclusive quando assinado neste formato, este instrumento é válido, autêntico,
+legítimo e eficaz para todos os fins de direito. reconhecem também que eventual divergência entre
+as datas deste instrumento e a data que figure nos elementos indicativos de sua formalização
+eletrônica ou digital existe apenas em virtude de procedimentos formais, valendo para todos os fins
+de direito as datas registradas no instrumento em si para regrar os eventos dessa operação.
+página
+004/007
+ itaú
+data supra.
+banco: itaú unibanco s.a.
+cedente:
+o signatário declara que possui os devidos poderes para realizar esta operação em nome da
+cedente.
+testemunhas:
+1._________________________
+rg:
+cpf:
+2._________________________
+rg:
+cpf:
+obs: esse campo de assinatura, nos casos em que a cessão for contratada eletrônica ou
+digitalmente, poderá ser substituído por assinatura eletrônica ou digital.
+22833-8 (fl 5/5) b6 08/23
+página
+metal nobre industria mecanica
+005/007
+ itaú

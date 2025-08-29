@@ -1,0 +1,717 @@
+extrato
+b r  equipamentos e serviços
+b r equipamentos
+código da conta bancária está entre 17 e 17 e a data de compensação está entre 01/07/2024 e 31/07/2024
+02/10/2024 10:37
+documento
+histórico
+débito
+compensado
+crédito
+código
+5737/27961-7
+banco:
+banco do brasil s.a.
+agência/nro conta:
+17 - banco do brasil br
+01/07/2024
+saldo anterior:
+r$ 1.069,37
+r$ 2.750,00
+repasse br patrimonial
+-1-1-1
+29994
+r$ 2.750,00
+rest aporte br pat
+-1-1
+29995
+r$ 139,90
+mensalidade internet galpão
+0-6-4-8-1-3-3
+30006
+r$ 99,64
+art alia
+-1-1
+30007
+totais do dia:
+r$ 2.750,00
+r$ 2.989,54
+saldo do dia:
+r$ 829,83
+03/07/2024
+saldo anterior:
+r$ 829,83
+r$ 13.500,00
+nf 1715 jvx loc
+-1-1
+30030
+r$ 2.830,50
+nf 1716 jvx serv
+-1-1-1
+30031
+r$ 169,50
+vlr dep ref retenções jvx serv
+-1-1-1-1
+30046
+totais do dia:
+r$ 16.500,00
+r$ 0,00
+saldo do dia:
+r$ 17.329,83
+04/07/2024
+saldo anterior:
+r$ 17.329,83
+r$ 866,24
+recalculo fgts daniel 4 comp
+30032
+r$ 2.404,90
+nf 80032 parc 1-3 cabos aço
+30034
+r$ 5.000,00
+transf entre c/c
+30036
+r$ 294,05
+nf 4149 mat pintura
+-1-1-1-1
+30039
+r$ 254,52
+nf 43315 junta admissão
+-2-1-2
+30040
+r$ 276,11
+nf 2405195204 frete nf 80032 aricabos
+-1-1
+30041
+r$ 178,73
+nf 2405195211 frete nf 8213 micatek
+-1-1-1
+30042
+r$ 522,64
+nf 200768 material nautica
+30043
+r$ 106,00
+internet ilha ricardo
+-5-1
+30044
+r$ 14.500,00
+nf 1674 loc poesia
+-1-1-1-1-1-1
+30045
+totais do dia:
+r$ 14.500,00
+r$ 9.903,19
+saldo do dia:
+r$ 21.926,64
+05/07/2024
+saldo anterior:
+r$ 21.926,64
+r$ 122,22
+coelba ilha apt 201 ref 5-2024
+-1-1
+30049
+r$ 54,66
+luz 06/2024 apto locado br equip
+-4-5-3-3
+30050
+r$ 59,97
+coelba 5/2024 costa oeste ricardo
+-1-1-1
+30051
+r$ 204,32
+parc 2 anuidade crea aju danilo
+-1
+30054
+r$ 259,80
+passagem aju/ssa jenisson e clodon
+30057
+r$ 72,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30119
+r$ 1.500,00
+tranf ricardo
+30128
+extrato
+ de 6
+página 1
+ equipamentos
+documento
+histórico
+débito
+compensado
+crédito
+código
+totais do dia:
+r$ 0,00
+r$ 2.272,97
+saldo do dia:
+r$ 19.653,67
+08/07/2024
+saldo anterior:
+r$ 19.653,67
+r$ 1.200,00
+serv ricardo helenildo
+-1
+30060
+r$ 2.243,00
+chq 850107 granito ricardo
+-1
+30062
+r$ 713,35
+nf 25509 parc 3-3 gear lubrax
+-2
+30065
+r$ 6.650,00
+nf 1698  serv seven
+-1
+30067
+r$ 1.000,00
+nf 1697  loc munck seven
+30068
+r$ 15.000,00
+trans entre c/c cef
+30116
+r$ 10,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30118
+totais do dia:
+r$ 7.650,00
+r$ 19.166,35
+saldo do dia:
+r$ 8.137,32
+09/07/2024
+saldo anterior:
+r$ 8.137,32
+r$ 7.000,00
+transf entre c/c
+30070
+r$ 680,00
+hospedagem jenisson e clodon 09 a 13 jul
+30074
+r$ 20,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30117
+totais do dia:
+r$ 0,00
+r$ 7.700,00
+saldo do dia:
+r$ 437,32
+10/07/2024
+saldo anterior:
+r$ 437,32
+r$ 699,55
+seguro corsa aju parc 1-4
+30103
+r$ 14.500,00
+nf 1717 loc grua corsario
+-1-1-1
+30104
+r$ 2.565,00
+nf 1718 serv grua corsario
+-1-1-1-1
+30105
+r$ 16.000,00
+tranf entre c/c
+30107
+r$ 16,73
+tarifas bb
+-1-1-1-1-1-1-1-
+30311
+totais do dia:
+r$ 17.065,00
+r$ 16.716,28
+saldo do dia:
+r$ 786,04
+11/07/2024
+saldo anterior:
+r$ 786,04
+r$ 10,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30312
+r$ 500,00
+transf enviada stone
+30344
+totais do dia:
+r$ 0,00
+r$ 510,00
+saldo do dia:
+r$ 276,04
+12/07/2024
+saldo anterior:
+r$ 276,04
+r$ 600,00
+nf 1726 loc transformador art studio
+-1
+30131
+r$ 600,00
+tranf entre c/c stone
+30132
+r$ 4,95
+tarifas bb
+-1-1-1-1-1-1-1-
+30313
+r$ 1.080,00
+nf 1707 loc guincho kubo
+30346
+r$ 840,00
+nf 1708 serv guincho kubo
+-1
+30347
+totais do dia:
+r$ 2.520,00
+r$ 604,95
+saldo do dia:
+r$ 2.191,09
+15/07/2024
+saldo anterior:
+r$ 2.191,09
+extrato
+ de 6
+página 2
+documento
+histórico
+débito
+compensado
+crédito
+código
+r$ 2.000,00
+transf c/c stone
+30189
+r$ 13.000,00
+nf 1711 loc axxo
+-1-1-1
+30193
+r$ 3.350,62
+nf 1712 serv axxo
+-1-1-1-1
+30194
+r$ 16.000,00
+tranf para stone
+30228
+r$ 5,94
+tarifas bb
+-1-1-1-1-1-1-1-
+30314
+totais do dia:
+r$ 16.350,62
+r$ 18.005,94
+saldo do dia:
+r$ 535,77
+16/07/2024
+saldo anterior:
+r$ 535,77
+r$ 266,78
+iss retido 6-2024
+-1-1-1-2-1-1-1-
+30230
+r$ 1.928,08
+nf 7569 parc 2-2 rolamentos
+-1-1-1-1
+30245
+r$ 20.000,00
+transf para cef
+30246
+r$ 417,70
+nf 328232 martelete parc 1-3
+30250
+r$ 342,65
+nf 322701 parc 2-3 material
+-1
+30251
+r$ 72,43
+nf 322701 parc 2-3 material
+-1
+30251
+r$ 275,73
+nf 328278  epi bota daniel  e capacetes
+-2-1
+30252
+r$ 650,97
+nf 315639 parc 3-3 epi e mat
+-2
+30253
+r$ 628,59
+nf 325533 colete e luva epi
+30254
+r$ 349,87
+nf 314897 parc 3-3 epi e mat
+-2
+30255
+r$ 336,14
+nf 661880 parc 2-3 talha 3t
+-1
+30256
+r$ 11.000,00
+nf 1713 loc mandarim
+-1-1-1
+30273
+r$ 2.375,00
+nf 1714 serv mandarim
+-1-1-1-1
+30274
+r$ 13.000,00
+nf 1727 loc pelir
+-1-1-1
+30275
+r$ 1.958,75
+nf 1728 serv pelir
+-1-1-1-1
+30276
+r$ 450,00
+nf 1709 elementos e munck house graça
+30277
+r$ 600,00
+nf 1709 elementos e munck house graça
+30277
+r$ 20,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30480
+totais do dia:
+r$ 29.383,75
+r$ 25.288,94
+saldo do dia:
+r$ 4.630,58
+17/07/2024
+saldo anterior:
+r$ 4.630,58
+r$ 1.207,17
+nf 3707 cbp pedido 05-2024
+-1-1-1-1-1
+30269
+r$ 509,43
+sem parar
+0-5-13-5-2
+30270
+r$ 372,53
+nf 2406170789 frete nf28632224 jp locações
+-1-1-1-1-1
+30354
+r$ 120,64
+nf 139365 clips
+30355
+r$ 421,73
+nf 209802 mat eletrico aju
+30356
+r$ 1.005,01
+nf 7614 parc 1-2 rolamentos
+30387
+r$ 4.850,00
+repasse  dep dh bellamar
+-1
+30473
+r$ 500,00
+repasse ricardo
+30474
+r$ 10,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30475
+totais do dia:
+r$ 4.850,00
+r$ 4.146,51
+saldo do dia:
+r$ 5.334,07
+18/07/2024
+saldo anterior:
+r$ 5.334,07
+extrato
+ de 6
+página 3
+documento
+histórico
+débito
+compensado
+crédito
+código
+r$ 4,95
+tarifas bb
+-1-1-1-1-1-1-1-
+30477
+r$ 4.850,00
+repasse vlr dep 17-7 bellamar
+30479
+totais do dia:
+r$ 0,00
+r$ 4.854,95
+saldo do dia:
+r$ 479,12
+19/07/2024
+saldo anterior:
+r$ 479,12
+r$ 1.567,00
+nf 1733 serv união
+-1
+30430
+r$ 6.000,00
+nf 1721 loc sta maria
+-1-1-1
+30431
+r$ 1.235,00
+nf 1722 serv sta maria
+-1-1-1-1
+30432
+r$ 8.000,00
+transf enviada stone
+30463
+r$ 10,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30476
+totais do dia:
+r$ 8.802,00
+r$ 8.010,00
+saldo do dia:
+r$ 1.271,12
+22/07/2024
+saldo anterior:
+r$ 1.271,12
+r$ 435,75
+conta agua 6-2024
+0-5-5-3-12-5-1
+30443
+r$ 214,31
+nf 21159 parc 3-3 farda macil e brandão
+-2
+30444
+r$ 3.903,09
+nf 27617 parc 3-5 material
+-2
+30447
+r$ 545,81
+uber
+-1-1-1-1-1
+30449
+r$ 1.019,15
+seguro voyage parc 2-4
+-1
+30450
+r$ 1.965,70
+nf 1738 serv grua smart cam arv
+-1-1-1
+30455
+r$ 11.500,00
+nf 1735 loc elev smart cam arv
+30456
+r$ 7.125,00
+nf 1736 serv elev smart cam arv
+-1
+30457
+r$ 14.500,00
+nf 1737 loc grua smart cam arv
+-1-1
+30458
+r$ 2.850,00
+nf 1752 loc unck e elev smart corsario
+30459
+r$ 3.600,00
+nf 1752 loc unck e elev smart corsario
+30459
+r$ 4.275,00
+nf 1753 serv elev smart corsario
+-1
+30460
+r$ 40.000,00
+transf enviada stone
+30470
+r$ 22,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30478
+totais do dia:
+r$ 45.815,70
+r$ 46.140,11
+saldo do dia:
+r$ 946,71
+23/07/2024
+saldo anterior:
+r$ 946,71
+r$ 10,00
+tarifas bb
+-1-1-1-1-1-1-1-
+30563
+totais do dia:
+r$ 0,00
+r$ 10,00
+saldo do dia:
+r$ 936,71
+24/07/2024
+saldo anterior:
+r$ 936,71
+r$ 3.325,00
+nf 1734 serv desm 1 cabine união
+-1-1
+30508
+totais do dia:
+r$ 3.325,00
+r$ 0,00
+saldo do dia:
+r$ 4.261,71
+25/07/2024
+saldo anterior:
+r$ 4.261,71
+r$ 1.153,34
+nf 109403 tintas amarelo
+-1-1-1-1
+30513
+r$ 3.000,00
+transf enviada bb
+30520
+extrato
+ de 6
+página 4
+documento
+histórico
+débito
+compensado
+crédito
+código
+r$ 17.000,00
+transf enviada stone
+30527
+r$ 950,00
+cesta 07/2024 aracaju (5 colaboradores)
+0-5-3-5-6-3-3-
+30528
+r$ 506,12
+nf 612664 cabos flex
+-1
+30530
+r$ 575,24
+nf 611213 cabo flex
+30531
+r$ 4.097,60
+vale transporte 08-2024
+0-5-5-4-2-3-5
+30532
+r$ 457,60
+vale transporte 08-2024
+0-5-5-4-2-3-5
+30532
+r$ 217,36
+plano odontologico  7-2024
+-5-5-3
+30533
+r$ 15.599,98
+nf 1754 loc vila vitoria
+30565
+r$ 9.215,00
+nf 1755 serv vila vitoria
+-1
+30566
+totais do dia:
+r$ 24.814,98
+r$ 27.957,26
+saldo do dia:
+r$ 1.119,43
+26/07/2024
+saldo anterior:
+r$ 1.119,43
+r$ 13.666,67
+nf 1732 loc união
+30555
+r$ 8.655,54
+nf 18998 pd 15151 parc 2-4 inversor e modulo
+-2-1-1
+30560
+r$ 429,94
+nf 60101 parc 2-2 material ricardo
+-1
+30561
+r$ 93,40
+netdom mensal
+0-5-4-3-2-6-5-
+30562
+r$ 50,62
+netdom mensal
+0-5-4-3-2-6-5-
+30562
+r$ 32,30
+tarifas bb
+-1-1-1-1-1-1-1-
+30564
+r$ 28.771,45
+nf 1762 parc 1-7 ag brisa
+30567
+r$ 28.771,45
+nf 1763 parc 2-7 ag brisa
+-1
+30568
+r$ 20.000,00
+transf enviada stone
+30569
+r$ 25.000,00
+transf para cef
+30578
+totais do dia:
+r$ 71.209,57
+r$ 54.261,80
+saldo do dia:
+r$ 18.067,20
+29/07/2024
+saldo anterior:
+r$ 18.067,20
+r$ 11.500,00
+nf 1617 loc palazzo
+30557
+r$ 1.200,00
+nf 1725 loc e munck palazzo unique
+30558
+r$ 11.500,00
+nf 1725 loc e munck palazzo unique
+30558
+r$ 4.750,00
+nf 1724 desm palazzo unique
+-1
+30559
+r$ 17.500,00
+transf enviada stone
+30586
+r$ 1.004,98
+nf 7614 parc 2-2 rolamentos
+-1
+30590
+r$ 124,22
+conta energia galpao 6-2024
+0-5-5-5-2-1-2-
+30591
+r$ 1.707,36
+cesta mrv/tenda (8 funci) 7/2024
+30592
+r$ 56,58
+luz 07/2024 apto locado br equip
+-4-5-3-3-1
+30593
+r$ 127,50
+nf 139735 mat
+30594
+r$ 787,50
+nf 4641 parc 3-3 zarcão
+-2-3-1-2
+30595
+r$ 147,00
+assinatura mensal habil10
+-6-11-3-4
+30596
+r$ 294,48
+seguro mensal 06/2024
+0-5-4-5-6-3-4
+30599
+r$ 86,19
+seguro mensal 06/2024
+0-5-4-5-6-3-4
+30599
+r$ 139,90
+mensalidade internet galpão
+0-6-4-8-1-3-4
+30600
+r$ 1.100,00
+aluguel galpão 2 aju
+-6-3
+30601
+extrato
+ de 6
+página 5

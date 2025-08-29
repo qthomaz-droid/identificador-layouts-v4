@@ -1,0 +1,912 @@
+recebíveis resumo
+data de pagamento 01/06/2024 à 30/06/2024
+                       informações de acesso:
+usuário: beatriz maria ladeira rego
+estabelecimento: 2891664064
+cpf/cnpj: 51.221.015/0001-10
+tipo de visualização: raiz de cpf/cnpj
+filtros:
+estabelecimento: 2891664064,2893441062
+visualizar por: bandeira e tipo de lançamento
+totalizador
+quantidade de transações
+valor bruto
+taxa/tarifa
+valor líquido
+426
+r$ 23.461,40
+-r$ 477,35
+r$ 22.984,05
+lista de lançamentos
+data de pagamento                      bandeira                     
+                tipo de lançamento                
+quantidade de
+transações
+   valor bruto    
+   taxa/tarifa    
+  valor líquido   
+agrupamento
+(entradas/saídas)
+03/06/2024                             visa                            
+                        venda débito                        
+            5            
+    r$ 467,33     
+     -r$ 3,80     
+    r$ 463,53     
+                     entradas                     
+03/06/2024                             visa                            
+                      venda parcelada                       
+            8            
+    r$ 646,11     
+    -r$ 15,04     
+    r$ 631,07     
+                     entradas                     
+03/06/2024                          mastercard                                                venda débito                        
+           17            
+   r$ 2.168,25    
+    -r$ 17,56     
+   r$ 2.150,69    
+                     entradas                     
+03/06/2024                          mastercard                                              venda parcelada                       
+           15            
+    r$ 972,61     
+    -r$ 22,71     
+    r$ 949,90     
+                     entradas                     
+03/06/2024                             elo                             
+                        venda débito                        
+            2            
+    r$ 216,87     
+     -r$ 2,47     
+    r$ 214,40     
+                     entradas                     
+03/06/2024                          hipercard                                                venda parcelada                       
+            1            
+     r$ 55,50     
+     -r$ 1,17     
+     r$ 54,33     
+                     entradas                     
+04/06/2024                             visa                            
+                        venda débito                        
+            1            
+    r$ 110,44     
+     -r$ 0,89     
+    r$ 109,55     
+                     entradas                     
+04/06/2024                          mastercard                                                venda débito                        
+            4            
+    r$ 105,65     
+     -r$ 0,85     
+    r$ 104,80     
+                     entradas                     
+04/06/2024                          mastercard                                              venda parcelada                       
+            9            
+    r$ 882,01     
+    -r$ 20,87     
+    r$ 861,14     
+                     entradas                     
+04/06/2024                       american express                      
+                       venda crédito                        
+            1            
+    r$ 357,80     
+    -r$ 12,35     
+    r$ 345,45     
+                     entradas                     
+04/06/2024                             elo                             
+                      venda parcelada                       
+            1            
+     r$ 54,39     
+     -r$ 1,55     
+     r$ 52,84     
+                     entradas                     
+05/06/2024                             visa                            
+                        venda débito                        
+            3            
+     r$ 99,19     
+     -r$ 0,80     
+     r$ 98,39     
+                     entradas                     
+05/06/2024                             visa                            
+                      venda parcelada                       
+            1            
+    r$ 221,61     
+     -r$ 5,67     
+    r$ 215,94     
+                     entradas                     
+05/06/2024                          mastercard                                                venda débito                        
+            2            
+    r$ 238,08     
+     -r$ 1,93     
+    r$ 236,15     
+                     entradas                     
+05/06/2024                          mastercard                                              venda parcelada                       
+            2            
+    r$ 192,81     
+     -r$ 4,94     
+    r$ 187,87     
+                     entradas                     
+05/06/2024                             elo                             
+                        venda débito                        
+            1            
+     r$ 38,40     
+     -r$ 0,44     
+     r$ 37,96     
+                     entradas                     
+06/06/2024                             visa                            
+                        venda débito                        
+            4            
+    r$ 395,98     
+     -r$ 3,20     
+    r$ 392,78     
+                     entradas                     
+06/06/2024                             visa                            
+                      venda parcelada                       
+            4            
+    r$ 479,04     
+    -r$ 12,27     
+    r$ 466,77     
+                     entradas                     
+06/06/2024                          mastercard                                                venda débito                        
+           11            
+    r$ 730,21     
+     -r$ 5,91     
+    r$ 724,30     
+                     entradas                     
+06/06/2024                          mastercard                                               venda crédito                        
+            1            
+     r$ 38,66     
+     -r$ 1,50     
+     r$ 37,16     
+                     entradas                     
+06/06/2024                          mastercard                                              venda parcelada                       
+            8            
+    r$ 986,27     
+    -r$ 25,37     
+    r$ 960,90     
+                     entradas                     
+06/06/2024                             elo                             
+                        venda débito                        
+            1            
+     r$ 40,96     
+     -r$ 0,47     
+     r$ 40,49     
+                     entradas                     
+página 1 de 7
+esse relatório não deve ser utilizado como documento fiscal.
+documento emitido 19/08/2024
+ cielo
+data de pagamento                      bandeira                     
+                tipo de lançamento                
+quantidade de
+transações
+   valor bruto    
+   taxa/tarifa    
+  valor líquido   
+agrupamento
+(entradas/saídas)
+07/06/2024                             visa                            
+                        venda débito                        
+            4            
+    r$ 486,73     
+     -r$ 3,93     
+    r$ 482,80     
+                     entradas                     
+07/06/2024                             visa                            
+                      venda parcelada                       
+            1            
+     r$ 94,14     
+     -r$ 2,41     
+     r$ 91,73     
+                     entradas                     
+07/06/2024                          mastercard                                                venda débito                        
+            7            
+    r$ 647,19     
+     -r$ 5,24     
+    r$ 641,95     
+                     entradas                     
+07/06/2024                          mastercard                                              venda parcelada                       
+            2            
+    r$ 175,83     
+     -r$ 3,49     
+    r$ 172,34     
+                     entradas                     
+07/06/2024                             elo                             
+                        venda débito                        
+            1            
+     r$ 28,80     
+     -r$ 0,33     
+     r$ 28,47     
+                     entradas                     
+09/06/2024                             pix                             
+                         venda pix                          
+            1            
+    r$ 222,00     
+     -r$ 2,13     
+    r$ 219,87     
+                     entradas                     
+10/06/2024                             visa                            
+                        venda débito                        
+           14            
+   r$ 1.568,90    
+    -r$ 12,70     
+   r$ 1.556,20    
+                     entradas                     
+10/06/2024                             visa                            
+                      venda parcelada                       
+            8            
+    r$ 749,92     
+    -r$ 18,34     
+    r$ 731,58     
+                     entradas                     
+10/06/2024                          mastercard                                                venda débito                        
+           13            
+   r$ 1.028,07    
+     -r$ 8,33     
+   r$ 1.019,74    
+                     entradas                     
+10/06/2024                          mastercard                                              venda parcelada                       
+            7            
+    r$ 514,53     
+    -r$ 11,73     
+    r$ 502,80     
+                     entradas                     
+10/06/2024                             elo                             
+                        venda débito                        
+            2            
+    r$ 131,63     
+     -r$ 1,50     
+    r$ 130,13     
+                     entradas                     
+11/06/2024                             visa                            
+                        venda débito                        
+            1            
+     r$ 93,60     
+     -r$ 0,76     
+     r$ 92,84     
+                     entradas                     
+11/06/2024                             visa                            
+                      venda parcelada                       
+            1            
+    r$ 129,74     
+     -r$ 2,58     
+    r$ 127,16     
+                     entradas                     
+11/06/2024                          mastercard                                                venda débito                        
+            9            
+   r$ 1.275,64    
+    -r$ 10,34     
+   r$ 1.265,30    
+                     entradas                     
+11/06/2024                          mastercard                                              venda parcelada                       
+            1            
+     r$ 93,87     
+     -r$ 2,40     
+     r$ 91,47     
+                     entradas                     
+11/06/2024                       american express                      
+                      venda parcelada                       
+            1            
+     r$ 55,10     
+     -r$ 1,41     
+     r$ 53,69     
+                     entradas                     
+11/06/2024                             elo                             
+                        venda débito                        
+            3            
+    r$ 476,95     
+     -r$ 5,44     
+    r$ 471,51     
+                     entradas                     
+12/06/2024                             visa                            
+                        venda débito                        
+            2            
+    r$ 126,58     
+     -r$ 1,03     
+    r$ 125,55     
+                     entradas                     
+12/06/2024                             visa                            
+                      venda parcelada                       
+            2            
+    r$ 173,33     
+     -r$ 4,43     
+    r$ 168,90     
+                     entradas                     
+12/06/2024                          mastercard                                                venda débito                        
+            3            
+    r$ 455,71     
+     -r$ 3,69     
+    r$ 452,02     
+                     entradas                     
+12/06/2024                          mastercard                                              venda parcelada                       
+            4            
+    r$ 397,40     
+     -r$ 8,39     
+    r$ 389,01     
+                     entradas                     
+13/06/2024                             visa                            
+                        venda débito                        
+            4            
+    r$ 224,33     
+     -r$ 1,82     
+    r$ 222,51     
+                     entradas                     
+13/06/2024                             visa                            
+                      venda parcelada                       
+            2            
+    r$ 111,47     
+     -r$ 2,22     
+    r$ 109,25     
+                     entradas                     
+13/06/2024                          mastercard                                                venda débito                        
+            7            
+    r$ 923,20     
+     -r$ 7,49     
+    r$ 915,71     
+                     entradas                     
+13/06/2024                          mastercard                                              venda parcelada                       
+            1            
+     r$ 55,20     
+     -r$ 1,41     
+     r$ 53,79     
+                     entradas                     
+13/06/2024                             elo                             
+                        venda débito                        
+            1            
+     r$ 7,74      
+     -r$ 0,09     
+     r$ 7,65      
+                     entradas                     
+14/06/2024                             visa                            
+                        venda débito                        
+            3            
+    r$ 207,90     
+     -r$ 1,69     
+    r$ 206,21     
+                     entradas                     
+14/06/2024                             visa                            
+                      venda parcelada                       
+            1            
+    r$ 197,04     
+     -r$ 4,63     
+    r$ 192,41     
+                     entradas                     
+14/06/2024                          mastercard                                                venda débito                        
+            7            
+    r$ 888,33     
+     -r$ 7,20     
+    r$ 881,13     
+                     entradas                     
+14/06/2024                          mastercard                                              venda parcelada                       
+            1            
+     r$ 52,04     
+     -r$ 1,04     
+     r$ 51,00     
+                     entradas                     
+17/06/2024                             visa                            
+                        venda débito                        
+           10            
+   r$ 1.186,59    
+     -r$ 9,60     
+   r$ 1.176,99    
+                     entradas                     
+página 2 de 7
+esse relatório não deve ser utilizado como documento fiscal.
+documento emitido 19/08/2024
+data de pagamento                      bandeira                     
+                tipo de lançamento                
+quantidade de
+transações
+   valor bruto    
+   taxa/tarifa    
+  valor líquido   
+agrupamento
+(entradas/saídas)
+17/06/2024                             visa                            
+                      venda parcelada                       
+            4            
+    r$ 624,54     
+    -r$ 14,62     
+    r$ 609,92     
+                     entradas                     
+17/06/2024                          mastercard                                                venda débito                        
+            6            
+    r$ 620,40     
+     -r$ 5,02     
+    r$ 615,38     
+                     entradas                     
+17/06/2024                          mastercard                                              venda parcelada                       
+            6            
+    r$ 408,96     
+    -r$ 10,24     
+    r$ 398,72     
+                     entradas                     
+17/06/2024                             elo                             
+                        venda débito                        
+            2            
+     r$ 54,12     
+     -r$ 0,62     
+     r$ 53,50     
+                     entradas                     
+17/06/2024                             elo                             
+                      venda parcelada                       
+            1            
+     r$ 59,15     
+     -r$ 1,25     
+     r$ 57,90     
+                     entradas                     
+18/06/2024                             visa                            
+                        venda débito                        
+            1            
+     r$ 69,76     
+     -r$ 0,57     
+     r$ 69,19     
+                     entradas                     
+18/06/2024                             visa                            
+                      venda parcelada                       
+            1            
+     r$ 94,39     
+     -r$ 1,88     
+     r$ 92,51     
+                     entradas                     
+18/06/2024                          mastercard                                                venda débito                        
+            8            
+   r$ 1.005,06    
+     -r$ 8,14     
+    r$ 996,92     
+                     entradas                     
+18/06/2024                          mastercard                                              venda parcelada                       
+            2            
+    r$ 152,39     
+     -r$ 3,03     
+    r$ 149,36     
+                     entradas                     
+19/06/2024                             visa                            
+                        venda débito                        
+            2            
+    r$ 328,72     
+     -r$ 2,66     
+    r$ 326,06     
+                     entradas                     
+19/06/2024                             visa                            
+                      venda parcelada                       
+            3            
+    r$ 211,20     
+     -r$ 5,09     
+    r$ 206,11     
+                     entradas                     
+19/06/2024                          mastercard                                                venda débito                        
+            8            
+    r$ 730,10     
+     -r$ 5,92     
+    r$ 724,18     
+                     entradas                     
+19/06/2024                          mastercard                                              venda parcelada                       
+            4            
+    r$ 555,54     
+    -r$ 11,05     
+    r$ 544,49     
+                     entradas                     
+20/06/2024                             visa                            
+                        venda débito                        
+            5            
+    r$ 407,80     
+     -r$ 3,29     
+    r$ 404,51     
+                     entradas                     
+20/06/2024                          mastercard                                                venda débito                        
+            3            
+    r$ 279,74     
+     -r$ 2,26     
+    r$ 277,48     
+                     entradas                     
+20/06/2024                          mastercard                                              venda parcelada                       
+            1            
+     r$ 58,68     
+     -r$ 1,38     
+     r$ 57,30     
+                     entradas                     
+21/06/2024                             visa                            
+                        venda débito                        
+            2            
+    r$ 162,48     
+     -r$ 1,31     
+    r$ 161,17     
+                     entradas                     
+21/06/2024                             visa                            
+                      venda parcelada                       
+            1            
+     r$ 81,22     
+     -r$ 1,62     
+     r$ 79,60     
+                     entradas                     
+21/06/2024                          mastercard                                                venda débito                        
+            2            
+    r$ 198,64     
+     -r$ 1,61     
+    r$ 197,03     
+                     entradas                     
+21/06/2024                             elo                             
+                        venda débito                        
+            1            
+     r$ 28,16     
+     -r$ 0,32     
+     r$ 27,84     
+                     entradas                     
+24/06/2024                             visa                            
+                        venda débito                        
+            3            
+    r$ 390,48     
+     -r$ 3,16     
+    r$ 387,32     
+                     entradas                     
+24/06/2024                             visa                            
+                      venda parcelada                       
+            6            
+    r$ 363,20     
+     -r$ 7,78     
+    r$ 355,42     
+                     entradas                     
+24/06/2024                          mastercard                                                venda débito                        
+           16            
+   r$ 1.291,34    
+    -r$ 10,47     
+   r$ 1.280,87    
+                     entradas                     
+24/06/2024                          mastercard                                              venda parcelada                       
+            3            
+    r$ 289,86     
+     -r$ 6,77     
+    r$ 283,09     
+                     entradas                     
+24/06/2024                             elo                             
+                        venda débito                        
+            2            
+    r$ 335,36     
+     -r$ 3,82     
+    r$ 331,54     
+                     entradas                     
+24/06/2024                             elo                             
+                      venda parcelada                       
+            1            
+    r$ 119,76     
+     -r$ 2,53     
+    r$ 117,23     
+                     entradas                     
+25/06/2024                             visa                            
+                        venda débito                        
+            2            
+    r$ 154,46     
+     -r$ 1,26     
+    r$ 153,20     
+                     entradas                     
+25/06/2024                          mastercard                                                venda débito                        
+            1            
+    r$ 200,00     
+     -r$ 1,62     
+    r$ 198,38     
+                     entradas                     
+25/06/2024                          mastercard                                               venda crédito                        
+            2            
+    r$ 133,68     
+     -r$ 4,52     
+    r$ 129,16     
+                     entradas                     
+25/06/2024                          mastercard                                              venda parcelada                       
+            3            
+    r$ 228,15     
+     -r$ 5,85     
+    r$ 222,30     
+                     entradas                     
+26/06/2024                             visa                            
+                        venda débito                        
+            2            
+    r$ 430,93     
+     -r$ 3,50     
+    r$ 427,43     
+                     entradas                     
+página 3 de 7
+esse relatório não deve ser utilizado como documento fiscal.
+documento emitido 19/08/2024
+data de pagamento                      bandeira                     
+                tipo de lançamento                
+quantidade de
+transações
+   valor bruto    
+   taxa/tarifa    
+  valor líquido   
+agrupamento
+(entradas/saídas)
+26/06/2024                          mastercard                                                venda débito                        
+            2            
+    r$ 155,01     
+     -r$ 1,25     
+    r$ 153,76     
+                     entradas                     
+26/06/2024                          mastercard                                              venda parcelada                       
+            3            
+    r$ 397,05     
+     -r$ 9,89     
+    r$ 387,16     
+                     entradas                     
+26/06/2024                             elo                             
+                        venda débito                        
+            1            
+     r$ 42,00     
+     -r$ 0,48     
+     r$ 41,52     
+                     entradas                     
+27/06/2024                             visa                            
+                        venda débito                        
+            1            
+    r$ 335,13     
+     -r$ 2,71     
+    r$ 332,42     
+                     entradas                     
+27/06/2024                             visa                            
+                      venda parcelada                       
+            1            
+     r$ 56,88     
+     -r$ 1,13     
+     r$ 55,75     
+                     entradas                     
+27/06/2024                          mastercard                                                venda débito                        
+            3            
+    r$ 251,27     
+     -r$ 2,04     
+    r$ 249,23     
+                     entradas                     
+27/06/2024                          mastercard                                              venda parcelada                       
+            3            
+    r$ 223,51     
+     -r$ 5,30     
+    r$ 218,21     
+                     entradas                     
+27/06/2024                       american express                      
+                      venda parcelada                       
+            1            
+     r$ 47,49     
+     -r$ 1,00     
+     r$ 46,49     
+                     entradas                     
+27/06/2024                             elo                             
+                      venda parcelada                       
+            1            
+    r$ 103,93     
+     -r$ 2,19     
+    r$ 101,74     
+                     entradas                     
+28/06/2024                             visa                            
+                        venda débito                        
+            2            
+    r$ 146,98     
+     -r$ 1,19     
+    r$ 145,79     
+                     entradas                     
+28/06/2024                             visa                            
+                      venda parcelada                       
+            2            
+    r$ 124,45     
+     -r$ 2,81     
+    r$ 121,64     
+                     entradas                     
+28/06/2024                          mastercard                                                venda débito                        
+            3            
+    r$ 382,07     
+     -r$ 3,10     
+    r$ 378,97     
+                     entradas                     
+28/06/2024                             elo                             
+                        venda débito                        
+            1            
+    r$ 136,40     
+     -r$ 1,55     
+    r$ 134,85     
+                     entradas                     
+03/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            3            
+    -r$ 631,07    
+     r$ 0,00      
+    -r$ 631,07    
+                      saidas                      
+03/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            4            
+    -r$ 949,90    
+     r$ 0,00      
+    -r$ 949,90    
+                      saidas                      
+03/06/2024                          hipercard                                                  valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 54,33     
+     r$ 0,00      
+    -r$ 54,33     
+                      saidas                      
+04/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            3            
+    -r$ 861,14    
+     r$ 0,00      
+    -r$ 861,14    
+                      saidas                      
+04/06/2024                             elo                             
+                        valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 52,84     
+     r$ 0,00      
+    -r$ 52,84     
+                      saidas                      
+05/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 215,94    
+     r$ 0,00      
+    -r$ 215,94    
+                      saidas                      
+05/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            2            
+    -r$ 187,87    
+     r$ 0,00      
+    -r$ 187,87    
+                      saidas                      
+06/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            2            
+    -r$ 466,77    
+     r$ 0,00      
+    -r$ 466,77    
+                      saidas                      
+06/06/2024                          mastercard                                              ajuste a débito                       
+            1            
+    -r$ 37,16     
+     r$ 0,00      
+    -r$ 37,16     
+                      saidas                      
+06/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            2            
+    -r$ 960,90    
+     r$ 0,00      
+    -r$ 960,90    
+                      saidas                      
+página 4 de 7
+esse relatório não deve ser utilizado como documento fiscal.
+documento emitido 19/08/2024
+data de pagamento                      bandeira                     
+                tipo de lançamento                
+quantidade de
+transações
+   valor bruto    
+   taxa/tarifa    
+  valor líquido   
+agrupamento
+(entradas/saídas)
+07/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 91,73     
+     r$ 0,00      
+    -r$ 91,73     
+                      saidas                      
+07/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            2            
+    -r$ 172,34    
+     r$ 0,00      
+    -r$ 172,34    
+                      saidas                      
+10/06/2024                             visa                            
+                     aluguel de máquina                     
+            2            
+    -r$ 39,90     
+     r$ 0,00      
+    -r$ 39,90     
+                      saidas                      
+10/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            3            
+    -r$ 731,58    
+     r$ 0,00      
+    -r$ 731,58    
+                      saidas                      
+10/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            2            
+    -r$ 502,80    
+     r$ 0,00      
+    -r$ 502,80    
+                      saidas                      
+11/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 127,16    
+     r$ 0,00      
+    -r$ 127,16    
+                      saidas                      
+11/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 91,47     
+     r$ 0,00      
+    -r$ 91,47     
+                      saidas                      
+11/06/2024                       american express                      
+                        valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 53,69     
+     r$ 0,00      
+    -r$ 53,69     
+                      saidas                      
+12/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 168,90    
+     r$ 0,00      
+    -r$ 168,90    
+                      saidas                      
+12/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            3            
+    -r$ 389,01    
+     r$ 0,00      
+    -r$ 389,01    
+                      saidas                      
+13/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 109,25    
+     r$ 0,00      
+    -r$ 109,25    
+                      saidas                      
+13/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 53,79     
+     r$ 0,00      
+    -r$ 53,79     
+                      saidas                      
+14/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 192,41    
+     r$ 0,00      
+    -r$ 192,41    
+                      saidas                      
+14/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            1            
+    -r$ 51,00     
+     r$ 0,00      
+    -r$ 51,00     
+                      saidas                      
+17/06/2024                             visa                            
+                        valor cedido                        
+                       em negociação                        
+            3            
+    -r$ 609,92    
+     r$ 0,00      
+    -r$ 609,92    
+                      saidas                      
+17/06/2024                          mastercard                                                 valor cedido                        
+                       em negociação                        
+            2            
+    -r$ 387,54    
+     r$ 0,00      
+    -r$ 387,54    
+                      saidas                      
+página 5 de 7
+esse relatório não deve ser utilizado como documento fiscal.
+documento emitido 19/08/2024

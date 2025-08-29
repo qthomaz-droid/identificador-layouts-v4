@@ -1,0 +1,276 @@
+desconto de duplicata - borderô
+produto:
+desconto de duplicata situação:
+liquidado
+forma desconto: todos
+tipo de documento: todos
+dados do cliente
+cpf / cnpj:
+10.304.820/0001-20
+nº / nome do cliente:
+20842 / c & s alimentos congelados ltda
+agência / operação / conta 
+corrente:
+01590 / 1292 / 579051649-8
+borderô
+número do borderô:
+5823783
+valor do borderô:
+r$ 13.554,75
+data da concessão:
+03/06/2025 moeda:
+real
+prazo de débito:
+4 dias
+protesto:
+sim
+tarc:
+normal
+percentual de cobrança tarc:
+100,00 %
+percentual desconto:
+100,00 %
+tipo de documento:
+duplicata mercantil
+garantia adicional:
+000
+agência / operação / conta corrente:
+número do certificado:
+valor da garantia:
+r$ 0,00
+dados calculados do borderô
+valor de desconto:
+r$ 13.554,75 valor tarc:
+r$ 73,00
+valor dos juros:
+r$ 149,19
+valor do iof:
+r$ 149,10
+quantidade de títulos: 25
+valor líquido creditado: r$ 13.183,46
+taxa de juros de acordo com o vencimento
+até 30 dias:
+1,66 % 31 a 60 dias:
+1,66 %
+61 a 90 dias:
+1,66 % 91 a 120 dias:
+1,66 %
+a partir de 121 dias: 1,66 %
+dados das duplicatas aprovadas
+quantidade de títulos:
+21
+valor total dos títulos:
+r$ 13.554,75
+dados das duplicatas rejeitadas/excluídas
+quantidade de títulos:
+4
+valor total dos títulos:
+r$ 1.185,20
+borderô
+número borderô:
+5823783
+valor do borderô:
+13.554,75
+dados concessão:
+03/06/2025 moeda:
+real
+prazo débito:
+4 dias dias protesto:
+sim
+tarc:
+normal
+percentual de cobrança tarc: 100,00 %
+percentual de desconto: 100,00 %
+tipo de documento:
+duplicata mercantil
+garantia adicional:
+000
+ag/op/cc
+/ /
+numero certificado:
+valor da garantia:
+000000000000000
+títulos
+nosso 
+número
+seu 
+número
+valor 
+do 
+título
+data de 
+vencimento
+nome do sacado
+cpf / cnpj do
+emitente
+35868090
+68194-1/1
+r$ 2.075,00 23/06/2025
+berzan comercial
+de alimentos ltda
+05.049.033/0001
+-40
+35868091
+68195-1/1
+r$ 172,00
+16/06/2025
+emporio dona 
+oliva ltda
+51.077.273/0001
+-75
+35868092
+68197-1/1
+r$ 845,30
+30/06/2025
+padaria e 
+confeitaria arte 
+pao ltda
+73.864.910/0001
+-96
+35868093
+68199-1/1
+r$ 1.998,60 23/06/2025
+dornelles e cia 
+ltda
+03.470.357/0003
+-93
+35868094
+68200-1/1
+r$ 347,10
+16/06/2025
+cantina da base 
+ltda
+49.696.428/0001
+-00
+35868095
+68201-1/1
+r$ 606,40
+23/06/2025
+joani melania 
+gaffuri
+14.777.662/0001
+-87
+35868096
+68201-1/2
+r$ 606,40
+30/06/2025
+joani melania 
+gaffuri
+14.777.662/0001
+-87
+35868097
+68202-1/1
+r$ 603,00
+23/06/2025
+50.438.637 andre 
+50.438.637/0001
+alex da cruz
+-32
+35868098
+68203-1/1
+r$ 213,20
+16/06/2025
+raone gomes 
+96919140004
+19.230.944/0001
+-83
+35868099
+68204-1/1
+r$ 169,75
+16/06/2025
+vittoni comercio 
+de produtos 
+naturais ei
+30.515.235/0001
+-87
+35868100
+68204-1/2
+r$ 169,75
+23/06/2025
+vittoni comercio 
+de produtos 
+naturais ei
+30.515.235/0001
+-87
+35868101
+68205-1/1
+r$ 227,40
+16/06/2025
+pipas terroir 
+pousada e wine 
+bar ltda.
+30.881.819/0001
+-76
+35868102
+68206-1/1
+r$ 227,40
+16/06/2025
+confeitaria sao 
+roque ltda
+94.480.563/0001
+-78
+35868103
+68207-1/1
+r$ 371,00
+23/06/2025
+mundial moveis 
+planejados ltda
+58.311.829/0001-
+95
+35868104
+68209-1/1
+r$ 606,40
+23/06/2025
+joani melania 
+gaffuri
+14.777.662/0001
+-87
+35868105
+68209-1/2
+r$ 606,40
+30/06/2025
+joani melania 
+gaffuri
+14.777.662/0001
+-87
+35868106
+68210-1/1
+r$ 303,20
+16/06/2025
+caz bistro ltda
+48.099.521/0001
+-74
+35868110
+68174-1/2
+r$ 1.281,75 03/07/2025
+belapan comercio
+de paes e doces 
+ltda
+38.537.900/0001
+-45
+35868111
+68176-1/1
+r$ 738,00
+13/06/2025
+casa baruk 
+espaco de festas e 
+lazer ltda
+41.403.297/0001
+-13
+35868113
+68192-1/1
+r$ 501,10
+16/06/2025
+jane fatima 
+gasperin 
+97821640034
+37.872.466/0001
+-97
+35868114
+68193-1/1
+r$ 885,60
+16/06/2025
+timy ind. e com. de 
+alimentos ltda
+14.239.025/0001
+-57

@@ -1,0 +1,1389 @@
+liquidações de duplicatas a receber
+r m b m moveis eireli
+ordem:
+emissão: 06/06/2022 16:09:59
+documento
+emp
+documento
+código / descrição do cliente
+vencimento
+pagamento vlr.nominal vlr.baixado
+seq.
+crédito em  02/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1262-8
+479-jd costa comercio de moveis ltda
+01/05/2022 02/05/2022
+1.172,67
+1.172,67
+13174
+5356
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.172,67
+vlr.pago:
+001
+1275-7
+479-jd costa comercio de moveis ltda
+02/05/2022 02/05/2022
+1.197,82
+1.197,82
+13559
+5356
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.197,82
+vlr.pago:
+001
+1284-5
+479-jd costa comercio de moveis ltda
+01/05/2022 02/05/2022
+565,33
+565,33
+13839
+5356
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+565,33
+vlr.pago:
+001
+1321-1
+470-ervati moveis e utilidades eireli me
+08/05/2022 02/05/2022
+906,31
+906,31
+14522
+5357
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+906,31
+vlr.pago:
+001
+1332-1
+479-jd costa comercio de moveis ltda
+01/05/2022 02/05/2022
+2.650,36
+2.650,36
+14684
+5356
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+2.650,36
+vlr.pago:
+6.492,49
+total do banco 1 - banco do brasil s.a. =>  
+6.492,49
+total com data de crédito em 02/05/2022 =>  
+crédito em  04/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1278-6
+479-jd costa comercio de moveis ltda
+03/05/2022 04/05/2022
+1.224,62
+1.224,62
+13726
+5371
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.224,62
+vlr.pago:
+1.224,62
+total do banco 1 - banco do brasil s.a. =>  
+1.224,62
+total com data de crédito em 04/05/2022 =>  
+crédito em  06/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1255-3
+107-magazin grande rio ltda
+13/05/2022 06/05/2022
+9.901,33
+9.901,33
+13023
+5434
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+9.901,33
+vlr.pago:
+001
+1333-1
+139-4moveis - comercio de moveis eireli
+01/05/2022 06/05/2022
+5.391,56
+5.391,56
+14702
+5461
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+9,56
+vlr.desc.:
+5.382,00
+vlr.pago:
+15.292,89
+total do banco 1 - banco do brasil s.a. =>  
+15.292,89
+total com data de crédito em 06/05/2022 =>  
+crédito em  09/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1262-9
+479-jd costa comercio de moveis ltda
+06/05/2022 09/05/2022
+1.172,67
+1.172,67
+13175
+5476
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.172,67
+vlr.pago:
+001
+1284-6
+479-jd costa comercio de moveis ltda
+06/05/2022 09/05/2022
+565,33
+565,33
+13840
+5476
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+565,33
+vlr.pago:
+001
+1332-2
+479-jd costa comercio de moveis ltda
+06/05/2022 09/05/2022
+1.696,27
+1.696,27
+14685
+5476
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.696,27
+vlr.pago:
+3.434,27
+total do banco 1 - banco do brasil s.a. =>  
+3.434,27
+total com data de crédito em 09/05/2022 =>  
+crédito em  10/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1275-8
+479-jd costa comercio de moveis ltda
+07/05/2022 10/05/2022
+1.197,82
+1.197,82
+13560
+5502
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.197,82
+vlr.pago:
+001
+1278-7
+479-jd costa comercio de moveis ltda
+08/05/2022 10/05/2022
+1.224,62
+1.224,62
+13727
+5502
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.224,62
+vlr.pago:
+001
+1320-1
+379-amigos eletromoveis ltda
+08/05/2022 10/05/2022
+418,68
+418,68
+14519
+5503
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+418,68
+vlr.pago:
+001
+1322-1
+548-edivaldo elias tres epp
+08/05/2022 10/05/2022
+1.255,84
+1.255,84
+14525
+5505
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.255,84
+vlr.pago:
+001
+1324-1
+571-vandi moveis ltda
+08/05/2022 10/05/2022
+2.551,34
+2.551,34
+14531
+5507
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+2.551,34
+vlr.pago:
+001
+1325-1
+143-dare eletrodomesticos ltda epp
+08/05/2022 10/05/2022
+1.127,34
+1.127,34
+14534
+5504
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.127,34
+vlr.pago:
+001
+1326-1
+110-marlilia lorencini paulini ervati me
+08/05/2022 10/05/2022
+3.176,19
+3.176,19
+14537
+5506
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+3.176,19
+vlr.pago:
+001
+1327-1
+680-davi lagares fagundes - davi moveis ltda
+09/05/2022 10/05/2022
+1.971,24
+1.971,24
+14582
+5508
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.971,24
+vlr.pago:
+12.923,07
+total do banco 1 - banco do brasil s.a. =>  
+12.923,07
+total com data de crédito em 10/05/2022 =>  
+crédito em  11/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1256-3
+110-marlilia lorencini paulini ervati me
+13/05/2022 11/05/2022
+678,67
+678,67
+13026
+página: 1/4
+controle financeiro
+usuário: alexsandra
+liquidações de duplicatas a receber
+r m b m moveis eireli
+ordem:
+emissão: 06/06/2022 16:09:59
+documento
+emp
+documento
+código / descrição do cliente
+vencimento
+pagamento vlr.nominal vlr.baixado
+seq.
+5548
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+678,67
+vlr.pago:
+001
+1323-1
+569-destefani ltda me
+08/05/2022 11/05/2022
+845,50
+845,50
+14528
+5568
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+845,50
+vlr.pago:
+001
+1323-2
+569-destefani ltda me
+28/05/2022 11/05/2022
+760,00
+760,00
+14529
+5568
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+760,00
+vlr.pago:
+001
+1323-3
+569-destefani ltda me
+17/06/2022 11/05/2022
+760,00
+760,00
+14530
+5568
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+760,00
+vlr.pago:
+3.044,17
+total do banco 1 - banco do brasil s.a. =>  
+3.044,17
+total com data de crédito em 11/05/2022 =>  
+crédito em  12/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1262-10
+479-jd costa comercio de moveis ltda
+11/05/2022 12/05/2022
+1.172,67
+1.172,67
+13176
+5574
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.172,67
+vlr.pago:
+001
+1284-7
+479-jd costa comercio de moveis ltda
+11/05/2022 12/05/2022
+565,33
+565,33
+13841
+5574
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+565,33
+vlr.pago:
+001
+1332-3
+479-jd costa comercio de moveis ltda
+11/05/2022 12/05/2022
+1.696,27
+1.696,27
+14686
+5574
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.696,27
+vlr.pago:
+001
+1333-2
+139-4moveis - comercio de moveis eireli
+11/05/2022 12/05/2022
+4.846,33
+4.846,33
+14703
+5576
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+4.846,33
+vlr.pago:
+8.280,60
+total do banco 1 - banco do brasil s.a. =>  
+8.280,60
+total com data de crédito em 12/05/2022 =>  
+crédito em  13/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1275-9
+479-jd costa comercio de moveis ltda
+12/05/2022 13/05/2022
+1.197,82
+1.197,82
+13561
+5592
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.197,82
+vlr.pago:
+1.197,82
+total do banco 1 - banco do brasil s.a. =>  
+1.197,82
+total com data de crédito em 13/05/2022 =>  
+crédito em  16/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1262-11
+479-jd costa comercio de moveis ltda
+16/05/2022 16/05/2022
+1.172,67
+1.172,67
+13177
+5655
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.172,67
+vlr.pago:
+001
+1278-8
+479-jd costa comercio de moveis ltda
+13/05/2022 16/05/2022
+1.224,62
+1.224,62
+13728
+5623
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.224,62
+vlr.pago:
+001
+1284-8
+479-jd costa comercio de moveis ltda
+16/05/2022 16/05/2022
+565,33
+565,33
+13842
+5656
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+565,33
+vlr.pago:
+001
+1329-1
+132-universal moveis ltda
+10/05/2022 16/05/2022
+918,19
+918,19
+14634
+5654
+1 - borderô de acerto
+doc. baixa:
+origem:
+5,52
+vlr.juros:
+0,00
+vlr.desc.:
+923,71
+vlr.pago:
+001
+1332-4
+479-jd costa comercio de moveis ltda
+16/05/2022 16/05/2022
+1.696,27
+1.696,27
+14687
+5657
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.696,27
+vlr.pago:
+5.577,08
+total do banco 1 - banco do brasil s.a. =>  
+5.577,08
+total com data de crédito em 16/05/2022 =>  
+crédito em  18/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1275-10
+479-jd costa comercio de moveis ltda
+17/05/2022 18/05/2022
+1.197,82
+1.197,82
+13562
+5708
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.197,82
+vlr.pago:
+1.197,82
+total do banco 1 - banco do brasil s.a. =>  
+1.197,82
+total com data de crédito em 18/05/2022 =>  
+crédito em  19/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1278-9
+479-jd costa comercio de moveis ltda
+18/05/2022 19/05/2022
+1.224,62
+1.224,62
+13729
+5730
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.224,62
+vlr.pago:
+001
+1319-1
+336-eletromoveis ilha ltda
+18/05/2022 19/05/2022
+4.482,00
+4.482,00
+14518
+5731
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+4.482,00
+vlr.pago:
+5.706,62
+total do banco 1 - banco do brasil s.a. =>  
+5.706,62
+total com data de crédito em 19/05/2022 =>  
+crédito em  20/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1328-1
+322-localiza moveis ltda me
+19/05/2022 20/05/2022
+2.061,84
+2.061,84
+14597
+5760
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+2.061,84
+vlr.pago:
+2.061,84
+total do banco 1 - banco do brasil s.a. =>  
+página: 2/4
+controle financeiro
+usuário: alexsandra
+liquidações de duplicatas a receber
+r m b m moveis eireli
+ordem:
+emissão: 06/06/2022 16:09:59
+documento
+emp
+documento
+código / descrição do cliente
+vencimento
+pagamento vlr.nominal vlr.baixado
+seq.
+2.061,84
+total com data de crédito em 20/05/2022 =>  
+crédito em  23/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1331-1
+36-ari moveis e eletrodomesticos ltda
+20/05/2022 23/05/2022
+316,44
+316,44
+14637
+5786
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+316,44
+vlr.pago:
+316,44
+total do banco 1 - banco do brasil s.a. =>  
+316,44
+total com data de crédito em 23/05/2022 =>  
+crédito em  24/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1262-12
+479-jd costa comercio de moveis ltda
+21/05/2022 23/05/2022
+1.172,67
+1.172,67
+13178
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.172,67
+vlr.pago:
+001
+1272-2
+101-iv luz moveis ltda
+22/05/2022 23/05/2022
+1.501,00
+1.501,00
+13502
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.501,00
+vlr.pago:
+001
+1273-2
+105-luz & mar ltda
+22/05/2022 23/05/2022
+4.878,00
+4.878,00
+13508
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+4.878,00
+vlr.pago:
+001
+1275-11
+479-jd costa comercio de moveis ltda
+22/05/2022 23/05/2022
+1.197,82
+1.197,82
+13563
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.197,82
+vlr.pago:
+001
+1278-10
+479-jd costa comercio de moveis ltda
+23/05/2022 23/05/2022
+1.224,62
+1.224,62
+13730
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.224,62
+vlr.pago:
+001
+1284-9
+479-jd costa comercio de moveis ltda
+21/05/2022 23/05/2022
+565,33
+565,33
+13843
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+565,33
+vlr.pago:
+001
+1332-5
+479-jd costa comercio de moveis ltda
+21/05/2022 23/05/2022
+1.696,27
+1.696,27
+14688
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.696,27
+vlr.pago:
+001
+1372-1
+479-jd costa comercio de moveis ltda
+21/05/2022 23/05/2022
+1.969,12
+1.969,12
+15663
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.969,12
+vlr.pago:
+001
+1374-1
+479-jd costa comercio de moveis ltda
+23/05/2022 23/05/2022
+1.111,69
+1.111,69
+15780
+5804
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.111,69
+vlr.pago:
+15.316,52
+total do banco 1 - banco do brasil s.a. =>  
+15.316,52
+total com data de crédito em 24/05/2022 =>  
+crédito em  25/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1274-2
+161-moveis paris ltda
+22/05/2022 24/05/2022
+508,13
+508,13
+13511
+5827
+4 - retorno bancário
+doc. baixa:
+origem:
+1,02
+vlr.juros:
+0,00
+vlr.desc.:
+509,15
+vlr.pago:
+001
+1333-3
+139-4moveis - comercio de moveis eireli
+21/05/2022 25/05/2022
+4.846,33
+4.846,33
+14704
+5837
+1 - borderô de acerto
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+4.846,33
+vlr.pago:
+5.354,46
+total do banco 1 - banco do brasil s.a. =>  
+5.354,46
+total com data de crédito em 25/05/2022 =>  
+crédito em  27/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1262-13
+479-jd costa comercio de moveis ltda
+26/05/2022 26/05/2022
+1.172,67
+1.172,67
+13179
+5861
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.172,67
+vlr.pago:
+001
+1284-10
+479-jd costa comercio de moveis ltda
+26/05/2022 26/05/2022
+565,33
+565,33
+13844
+5861
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+565,33
+vlr.pago:
+001
+1332-6
+479-jd costa comercio de moveis ltda
+26/05/2022 26/05/2022
+1.696,27
+1.696,27
+14689
+5861
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.696,27
+vlr.pago:
+001
+1372-2
+479-jd costa comercio de moveis ltda
+26/05/2022 26/05/2022
+1.323,73
+1.323,73
+15664
+5861
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.323,73
+vlr.pago:
+001
+1382-1
+230-bomlar moveis e eletrodomesticos ltda ep
+06/06/2022 26/05/2022
+1.567,50
+1.567,50
+15971
+5861
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.567,50
+vlr.pago:
+6.325,50
+total do banco 1 - banco do brasil s.a. =>  
+6.325,50
+total com data de crédito em 27/05/2022 =>  
+crédito em  30/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1275-12
+479-jd costa comercio de moveis ltda
+27/05/2022 27/05/2022
+1.197,82
+1.197,82
+13564
+5885
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.197,82
+vlr.pago:
+001
+1326-2
+110-marlilia lorencini paulini ervati me
+28/05/2022 27/05/2022
+2.855,00
+2.855,00
+14538
+5885
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+2.855,00
+vlr.pago:
+001
+1390-1
+139-4moveis - comercio de moveis eireli
+27/05/2022 27/05/2022
+923,45
+923,45
+16078
+5885
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+923,45
+vlr.pago:
+4.976,27
+total do banco 1 - banco do brasil s.a. =>  
+4.976,27
+total com data de crédito em 30/05/2022 =>  
+página: 3/4
+controle financeiro
+usuário: alexsandra
+liquidações de duplicatas a receber
+r m b m moveis eireli
+ordem:
+emissão: 06/06/2022 16:09:59
+documento
+emp
+documento
+código / descrição do cliente
+vencimento
+pagamento vlr.nominal vlr.baixado
+seq.
+crédito em  31/05/2022
+banco: 1 - banco do brasil s.a.
+001
+1262-14
+479-jd costa comercio de moveis ltda
+31/05/2022 31/05/2022
+1.172,67
+1.172,67
+13180
+5929
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.172,67
+vlr.pago:
+001
+1278-11
+479-jd costa comercio de moveis ltda
+28/05/2022 30/05/2022
+1.224,62
+1.224,62
+13731
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.224,62
+vlr.pago:
+001
+1284-11
+479-jd costa comercio de moveis ltda
+31/05/2022 31/05/2022
+565,33
+565,33
+13845
+5929
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+565,33
+vlr.pago:
+001
+1320-2
+379-amigos eletromoveis ltda
+28/05/2022 30/05/2022
+376,33
+376,33
+14520
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+376,33
+vlr.pago:
+001
+1321-2
+470-ervati moveis e utilidades eireli me
+28/05/2022 30/05/2022
+814,67
+814,67
+14523
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+814,67
+vlr.pago:
+001
+1322-2
+548-edivaldo elias tres epp
+28/05/2022 30/05/2022
+1.128,85
+1.128,85
+14526
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.128,85
+vlr.pago:
+001
+1324-2
+571-vandi moveis ltda
+28/05/2022 30/05/2022
+2.293,33
+2.293,33
+14532
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+2.293,33
+vlr.pago:
+001
+1325-2
+143-dare eletrodomesticos ltda epp
+28/05/2022 30/05/2022
+1.013,33
+1.013,33
+14535
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.013,33
+vlr.pago:
+001
+1332-7
+479-jd costa comercio de moveis ltda
+31/05/2022 31/05/2022
+1.696,27
+1.696,27
+14690
+5929
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.696,27
+vlr.pago:
+001
+1367-1
+139-4moveis - comercio de moveis eireli
+30/05/2022 30/05/2022
+1.244,77
+1.244,77
+15527
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.244,77
+vlr.pago:
+001
+1368-1
+410-pupe de almeida representacoes ltda me
+30/05/2022 30/05/2022
+1.814,54
+1.814,54
+15563
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.814,54
+vlr.pago:
+001
+1371-1
+479-jd costa comercio de moveis ltda
+31/05/2022 31/05/2022
+782,78
+782,78
+15646
+5929
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+782,78
+vlr.pago:
+001
+1372-3
+479-jd costa comercio de moveis ltda
+31/05/2022 31/05/2022
+1.323,73
+1.323,73
+15665
+5929
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+1.323,73
+vlr.pago:
+001
+1374-2
+479-jd costa comercio de moveis ltda
+28/05/2022 30/05/2022
+635,25
+635,25
+15781
+5912
+4 - retorno bancário
+doc. baixa:
+origem:
+0,00
+vlr.juros:
+0,00
+vlr.desc.:
+635,25
+vlr.pago:
+16.086,47
+total do banco 1 - banco do brasil s.a. =>  
+16.086,47
+total com data de crédito em 31/05/2022 =>  
+total de geral =>        71 duplicatas, totalizando baixado: 
+114.808,95
+6,54
+juros:
+9,56
+desconto:
+114.805,93
+pago:
+ cargas...............: não filtrar
+ emissão entre........: 01/01/2000 e 31/05/2022
+ vencimento entre.....: 01/01/2000 e 31/12/2050
+ valores entre........: 0 e 99999999999999
+ situação.............: todos
+ desconsideradas......: não exibir
+ quanto ao desconto...: exibir todas
+liquidação entre.....: 01/01/2000 e 31/12/2050
+ data de crédito entre: 01/05/2022 e 31/05/2022
+-- configuração do relatório --
+página: 4/4
+controle financeiro
+usuário: alexsandra

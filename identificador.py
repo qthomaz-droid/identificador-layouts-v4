@@ -15,7 +15,7 @@ import re
 from collections import defaultdict
 from tqdm import tqdm
 import requests
-import streamlit as st # Importado para usar o st.secrets
+import streamlit as st
 
 # --- CONFIGURAÇÕES ---
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -46,15 +46,9 @@ MODELO_CARREGADO = False
 def buscar_e_mesclar_imagens_api(metadados_locais):
     print("Buscando links de imagem na API do Manager...")
     api_secret = None
-    
-    # --- LÓGICA DE SEGREDOS ATUALIZADA ---
-    # Tenta pegar o segredo do Streamlit primeiro (para o deploy na web)
     try:
         api_secret = st.secrets["api_secret"]
-        print("Segredo da API carregado via st.secrets (ambiente Streamlit).")
     except (AttributeError, KeyError, FileNotFoundError):
-        # Se falhar, tenta pegar do .env (para o bot e treinador local)
-        print("AVISO: st.secrets não encontrado. Tentando carregar do .env via os.getenv().")
         api_secret = os.getenv('API_SECRET')
 
     if not api_secret:
@@ -77,6 +71,10 @@ def buscar_e_mesclar_imagens_api(metadados_locais):
         
         layouts_da_api_objeto = response_layouts.json()
         layouts_da_api_lista = layouts_da_api_objeto.get("data", [])
+
+        if not isinstance(layouts_da_api_lista, list):
+             print(f"ERRO: A chave 'data' na resposta da API não contém uma lista.")
+             return metadados_locais
 
         mapa_imagens = {str(layout.get('codigo')): layout.get('imagem') for layout in layouts_da_api_lista if layout.get('codigo') and layout.get('imagem')}
         
@@ -111,10 +109,11 @@ def carregar_modelo_e_meta():
         MODELO_CARREGADO = False
         print("AVISO: Arquivos de modelo/metadados não encontrados.")
         return False
+
 carregar_modelo_e_meta()
 SENHAS_COMUNS = ["", "123456", "0000"]
+
 def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
-    # (Esta função permanece a mesma, completa e robusta)
     texto_completo = ""
     extensao = os.path.splitext(caminho_arquivo)[1].lower()
     nome_arquivo = os.path.basename(caminho_arquivo)
@@ -160,22 +159,27 @@ def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
         print(f"AVISO: Falha ao processar '{nome_arquivo}'. Erro: {e}.")
         return None
     return texto_completo.lower()
+
 def normalizar_extensao(ext):
     if ext in ['xls', 'xlsx']: return 'excel'
     if ext in ['txt', 'csv']: return 'txt'
     return ext
+
 def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, senha_manual=None):
     if not MODELO_CARREGADO: return {"erro": "Modelo de ML não foi treinado."}
     texto_arquivo = extrair_texto_do_arquivo(caminho_arquivo_cliente, senha_manual=senha_manual)
     if texto_arquivo in ["SENHA_NECESSARIA", "SENHA_INCORRETA"]: return texto_arquivo
     if not texto_arquivo: return {"erro": "Não foi possível ler o conteúdo."}
+    
     vetor_arquivo_novo = VECTORIZER.transform([texto_arquivo])
     similaridades = cosine_similarity(vetor_arquivo_novo, TFIDF_MATRIX)
     scores_brutos = similaridades[0]
+    
     resultados_brutos = []
     for i, score in enumerate(scores_brutos):
         codigo_layout = LAYOUT_LABELS[i]
         resultados_brutos.append({"codigo_layout": codigo_layout, "pontuacao": score * 100})
+    
     if sistema_alvo:
         for res in resultados_brutos:
             meta = METADADOS_LAYOUTS.get(res['codigo_layout'])
@@ -185,7 +189,9 @@ def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, senha_manual=
                 descricao_layout = str(meta.get('descricao', '')).lower()
                 if termo_busca in sistema_layout or termo_busca in descricao_layout:
                     res['pontuacao'] += 25
+    
     resultados_ordenados = sorted(resultados_brutos, key=lambda item: item['pontuacao'], reverse=True)
+    
     extensao_arquivo = normalizar_extensao(os.path.splitext(caminho_arquivo_cliente)[1].lower().replace('.', ''))
     resultados_filtrados = []
     for resultado in resultados_ordenados:
@@ -194,9 +200,12 @@ def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, senha_manual=
             resultado['banco'] = meta.get('descricao', f"Layout {resultado['codigo_layout']}")
             resultado['url_previa'] = meta.get('url_previa', None)
             resultados_filtrados.append(resultado)
+    
     return resultados_filtrados[:5]
+
 def recarregar_modelo():
     return carregar_modelo_e_meta()
+
 def retreinar_modelo_completo():
     if not os.path.exists(PASTA_CACHE): return False
     textos_por_layout = defaultdict(str)

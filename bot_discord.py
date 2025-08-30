@@ -41,7 +41,6 @@ async def on_message(message):
     if message.author == client.user: return
 
     msg_lower = message.content.lower()
-
     if msg_lower == '!ajuda':
         embed = discord.Embed(
             title="🤖 Ajuda do Identificador de Layouts",
@@ -54,13 +53,12 @@ async def on_message(message):
         embed.add_field(name="✅ 3. Criar Tarefa no Trello", value="Use o comando:\n`trello-criar-sistema-relatorio-cliente-movimento-chamado-nomedalista`", inline=False)
         await message.channel.send(embed=embed)
         return
-
     if msg_lower.startswith('trello-criar'):
         await message.channel.send("Recebi o comando para criar um card no Trello...")
         try:
             partes = message.content.split('-')
             if len(partes) != 8:
-                await message.channel.send("❌ Formato incorreto. Use: `trello-criar-sistema-relatorio-cliente-movimento-chamado-nomedalista`")
+                await message.channel.send("❌ Formato incorreto.")
                 return
             _, _, nome_sistema, nome_relatorio, cliente, tipo_movimento, chamado, nome_lista = partes
             if message.channel.id not in arquivos_recentes:
@@ -83,7 +81,6 @@ async def on_message(message):
         except Exception as e:
             await message.channel.send(f"❌ Erro ao criar o card: `{e}`")
         return
-
     if msg_lower.startswith('treinar layout'):
         if treinamento_em_andamento:
             await message.channel.send("Já existe um treinamento em andamento.")
@@ -100,7 +97,7 @@ async def on_message(message):
         caminho_original, nome_original = info_arquivo['caminho'], info_arquivo['nome']
         texto_teste = extrair_texto_do_arquivo(caminho_original, senha_manual=info_arquivo.get('senha_fornecida'))
         if not texto_teste or "SENHA_" in texto_teste:
-            await message.channel.send(f"Não consegui ler o conteúdo de `{nome_original}`. Treinamento cancelado.")
+            await message.channel.send(f"Não consegui ler `{nome_original}`. Treinamento cancelado.")
             return
         treinamento_em_andamento = True
         try:
@@ -121,7 +118,6 @@ async def on_message(message):
         finally:
             treinamento_em_andamento = False
         return
-
     if message.attachments:
         for attachment in message.attachments:
             if os.path.splitext(attachment.filename)[1].lower() in EXTENSOES_SUPORTADAS:
@@ -134,8 +130,7 @@ async def on_message(message):
                 resultados = identificar_layout(caminho_arquivo_temp, sistema_alvo=sistema_alvo)
                 if resultados == "SENHA_NECESSARIA":
                     await msg_processando.edit(content=f"🔒 `{attachment.filename}` está protegido. Envie a senha.")
-                    def check(m):
-                        return m.author == message.author and m.channel == message.channel
+                    def check(m): return m.author == message.author and m.channel == message.channel
                     try:
                         senha_msg = await client.wait_for('message', timeout=120.0, check=check)
                         senha_manual = senha_msg.content
@@ -143,14 +138,10 @@ async def on_message(message):
                         await msg_processando.edit(content=f"Senha recebida. Processando novamente...")
                         resultados = identificar_layout(caminho_arquivo_temp, sistema_alvo=sistema_alvo, senha_manual=senha_manual)
                     except asyncio.TimeoutError:
-                        await msg_processando.edit(content="Tempo esgotado.")
-                        return
-                
+                        await msg_processando.edit(content="Tempo esgotado."); return
                 await msg_processando.delete()
-                
                 if not resultados or isinstance(resultados, dict):
-                    resposta = f"Não encontrei um layout compatível para `{attachment.filename}`."
-                    await message.channel.send(resposta)
+                    await message.channel.send(f"Não encontrei um layout compatível para `{attachment.filename}`.")
                 elif resultados == "SENHA_INCORRETA":
                     await message.channel.send(f"❌ A senha para `{attachment.filename}` está incorreta.")
                 else:

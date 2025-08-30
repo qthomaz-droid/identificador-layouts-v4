@@ -12,5 +12,4 @@ arquivos_de_treinamento/
 .devcontainer/
 .streamlit/secrets.toml
 .env
-
-
+__pycache__/

@@ -1,11 +1,22 @@
 # Arquivo: app.py
 
 import streamlit as st
-from identificador import identificar_layout, recarregar_modelo
 import os
 import subprocess
 import time
+import sys
+from dotenv import load_dotenv
 
+# --- LÓGICA DE CARREGAMENTO EXPLÍCITO DE SEGREDOS ---
+# Garante que os segredos sejam carregados ANTES de importar o 'identificador'
+caminho_secrets = os.path.join(".streamlit", "secrets.toml")
+if os.path.exists(caminho_secrets):
+    load_dotenv(dotenv_path=caminho_secrets)
+    print("Arquivo de segredos do Streamlit carregado para o ambiente.")
+
+from identificador import identificar_layout, recarregar_modelo
+
+# --- Configurações Iniciais ---
 TEMP_DIR = "temp_files"
 TRAIN_DIR = "arquivos_de_treinamento"
 MAP_FILE = "mapeamento_layouts.xlsx"
@@ -14,6 +25,8 @@ for folder in [TEMP_DIR, TRAIN_DIR]:
         os.makedirs(folder)
 st.set_page_config(page_title="Identificador de Layouts", layout="wide")
 st.title("🤖 Identificador Automático de Layouts")
+
+# ... (O resto do seu arquivo app.py permanece o mesmo, pois a lógica de exibição já está correta) ...
 def processar_novo_arquivo():
     uploaded_file = st.session_state.get("file_uploader")
     if uploaded_file:
@@ -35,17 +48,19 @@ if 'senha_incorreta' not in st.session_state: st.session_state.senha_incorreta =
 if 'caminho_arquivo_temp' not in st.session_state: st.session_state.caminho_arquivo_temp = ""
 st.sidebar.title("Painel de Administração")
 if 'authenticated' not in st.session_state: st.session_state.authenticated = False
-username_input = st.sidebar.text_input("Usuário", key="username")
-password_input = st.sidebar.text_input("Senha", type="password", key="password")
-if st.sidebar.button("Login"):
-    if (st.secrets and "admin_credentials" in st.secrets and
-        username_input == st.secrets["admin_credentials"]["username"] and 
-        password_input == st.secrets["admin_credentials"]["password"]):
-        st.session_state.authenticated = True; st.rerun()
-    else:
-        st.sidebar.error("Usuário ou senha incorretos.")
+if not st.session_state.authenticated:
+    username_input = st.sidebar.text_input("Usuário", key="username")
+    password_input = st.sidebar.text_input("Senha", type="password", key="password")
+    if st.sidebar.button("Login"):
+        # A lógica de login agora usa os.getenv, que foi populado pelo dotenv
+        if (os.getenv("username") and os.getenv("password") and
+            username_input == os.getenv("username") and 
+            password_input == os.getenv("password")):
+            st.session_state.authenticated = True; st.rerun()
+        else:
+            st.sidebar.error("Usuário ou senha incorretos.")
 if st.session_state.authenticated:
-    st.sidebar.success(f"Bem-vindo, {st.secrets['admin_credentials']['username']}!")
+    st.sidebar.success(f"Bem-vindo, {os.getenv('username', 'Admin')}!")
     st.sidebar.header("Upload de Arquivos")
     uploaded_map_file = st.sidebar.file_uploader("1. Enviar mapeamento (.xlsx)", type=['xlsx'])
     if uploaded_map_file:
@@ -62,7 +77,7 @@ if st.session_state.authenticated:
     st.sidebar.header("Gerenciamento do Modelo")
     if st.sidebar.button("Iniciar Retreinamento do Modelo"):
         st.sidebar.info("O treinamento foi iniciado em segundo plano...")
-        subprocess.Popen(['python', 'treinador_em_massa.py'])
+        subprocess.Popen([sys.executable, 'treinador_em_massa.py'])
     if st.sidebar.button("Recarregar Modelo na Aplicação"):
         with st.spinner("Recarregando modelo..."):
             if recarregar_modelo():
@@ -87,7 +102,7 @@ elif st.session_state.senha_incorreta:
     st.error("A senha manual está incorreta.")
 elif st.session_state.analise_feita:
     resultados = st.session_state.resultados
-    if resultados and isinstance(resultados, list) and resultados[0]['pontuacao'] >= 85:
+    if resultados and isinstance(resultados, list) and len(resultados) > 0 and resultados[0]['pontuacao'] >= 85:
         st.subheader("🏆 Ranking de Layouts Compatíveis")
     else:
         st.subheader("Estes são os resultados que mais se aproximam")
@@ -95,7 +110,7 @@ elif st.session_state.analise_feita:
         st.error(f"Ocorreu um erro: {resultados['erro']}")
     elif not resultados:
         st.warning("Nenhum layout compatível foi encontrado.")
-    else:
+    elif isinstance(resultados, list):
         for i, res in enumerate(resultados):
             rank = i + 1
             if res['pontuacao'] >= 85:

@@ -15,7 +15,6 @@ import re
 from collections import defaultdict
 from tqdm import tqdm
 import requests
-import streamlit as st
 
 # --- CONFIGURAÇÕES ---
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -39,25 +38,20 @@ ARQUIVO_LABELS = 'layout_labels.joblib'
 ARQUIVO_METADADOS = 'layouts_meta.json'
 PASTA_CACHE = 'cache_de_texto'
 API_BASE_URL = "https://manager.conciliadorcontabil.com.br/api/"
+API_SECRET = os.getenv('API_SECRET') # <-- Lê diretamente do ambiente
 
 VECTORIZER, TFIDF_MATRIX, LAYOUT_LABELS, METADADOS_LAYOUTS = None, None, None, {}
 MODELO_CARREGADO = False
 
 def buscar_e_mesclar_imagens_api(metadados_locais):
     print("Buscando links de imagem na API do Manager...")
-    api_secret = None
-    try:
-        api_secret = st.secrets["api_secret"]
-    except (AttributeError, KeyError, FileNotFoundError):
-        api_secret = os.getenv('API_SECRET')
-
-    if not api_secret:
-        print("AVISO: Segredo da API não configurado. Imagens não serão carregadas.")
+    if not API_SECRET:
+        print("AVISO: Segredo da API não foi carregado no ambiente. Imagens não serão exibidas.")
         return metadados_locais
     
     try:
         token_url = f"{API_BASE_URL}get-token"
-        response_token = requests.post(token_url, data={'secret': api_secret})
+        response_token = requests.post(token_url, data={'secret': API_SECRET})
         response_token.raise_for_status()
         access_token = response_token.json().get("data", {}).get("access_token")
 
@@ -72,13 +66,9 @@ def buscar_e_mesclar_imagens_api(metadados_locais):
         layouts_da_api_objeto = response_layouts.json()
         layouts_da_api_lista = layouts_da_api_objeto.get("data", [])
 
-        if not isinstance(layouts_da_api_lista, list):
-             print(f"ERRO: A chave 'data' na resposta da API não contém uma lista.")
-             return metadados_locais
-
-        mapa_imagens = {str(layout.get('codigo')): layout.get('imagem') for layout in layouts_da_api_lista if layout.get('codigo') and layout.get('imagem')}
+        mapa_imagens = {str(layout.get('codigo')): layout.get('imagem') for layout in layouts_da_api_lista if layout.get('codigo') is not None and layout.get('imagem')}
         
-        print(f"Sucesso! {len(mapa_imagens)} links de imagem encontrados. Mesclando com metadados...")
+        print(f"Sucesso! {len(mapa_imagens)} links de imagem encontrados. Mesclando...")
         for codigo, meta in metadados_locais.items():
             if codigo in mapa_imagens:
                 meta['url_previa'] = mapa_imagens[codigo]
@@ -107,7 +97,6 @@ def carregar_modelo_e_meta():
         return True
     except FileNotFoundError:
         MODELO_CARREGADO = False
-        print("AVISO: Arquivos de modelo/metadados não encontrados.")
         return False
 
 carregar_modelo_e_meta()

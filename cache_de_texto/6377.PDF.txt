@@ -1,0 +1,623 @@
+razão analítico individual
+folha:
+00002
+empresa: 
+0517 centro multidisciplinar de desospitalizacao ltda - me
+cnpj:
+29.269.640/0001-83
+período: 
+01/01/2025 a 31/05/2025
+lcto
+dcto
+data
+c/part.
+c/c
+h i s t ó r i c o
+     débito
+  crédito
+saldo
+conta 10004-7
+1101010100
+caixa                         
+saldo anterior................
+      169.683,83
+d
+24/02
+div  
+vlr rec arcelo mittal
+            0,05
+      169.683,88
+d
+saldo final...................
+            0,05
+      169.683,88
+d
+conta 10044-1
+1102050100
+iss a compensar               
+saldo anterior................
+           34,00
+d
+13/02
+79999-9
+vlr   iss   s/   -   1145/1145
+arcelormittal brasil s.a.
+           82,46
+          116,46
+d
+terceiro:
+014106-arcelor mittal brasil s.a.                                  
+13/02
+79999-9
+vlr   iss   s/   -   1146/1146
+arcelormittal brasil s.a.
+           53,42
+          169,88
+d
+terceiro:
+014106-arcelor mittal brasil s.a.                                  
+saldo final...................
+          135,88
+          169,88
+d
+conta 10064-9
+1203010101
+instalacoes                   
+saldo anterior................
+       32.500,00
+d
+saldo final...................
+       32.500,00
+d
+conta 10065-3
+1203010501
+moveis e utensilios           
+saldo anterior................
+        1.900,00
+d
+saldo final...................
+        1.900,00
+d
+conta 10068-7
+1401010100
+(-) deprec instalacoes        
+saldo anterior................
+       20.858,18
+c
+saldo final...................
+       20.858,18
+c
+conta 10069-1
+1401010100
+(-) depreciacao moveis utens  
+saldo anterior................
+       27.726,10
+c
+saldo final...................
+       27.726,10
+c
+conta 10079-5
+1102030100
+layla cristiny galvao santana 
+saldo anterior................
+       47.685,00
+d
+saldo final...................
+       47.685,00
+d
+conta 10080-8
+1102030100
+home assist solucoes em saude 
+saldo anterior................
+       32.311,11
+d
+saldo final...................
+       32.311,11
+d
+conta 10129-0
+1401010100
+depreciacao maquinas equipamen
+saldo anterior................
+       20.709,61
+c
+saldo final...................
+       20.709,61
+c
+conta 10130-2
+1401010100
+(-) deprec benfeitoria imovei 
+saldo anterior................
+       36.898,66
+c
+saldo final...................
+       36.898,66
+c
+conta 10283-7
+1202010100
+sicoob conta capital          
+saldo anterior................
+        2.412,40
+d
+31/01
+12522-2
+juros    conta   garantida   -
+lc-202412
+          139,52
+        2.551,92
+d
+28/02
+12522-2
+juros    conta   garantida   -
+lc-202501
+          471,38
+        3.023,30
+d
+31/03
+12522-2
+juros    conta   garantida   -
+lc-202502
+          296,81
+        3.320,11
+d
+30/04
+12522-2
+juros    conta   garantida   -
+lc-202503
+          354,77
+        3.674,88
+d
+30/05
+12522-2
+juros    conta   garantida   -
+lc-202504
+          628,73
+        4.303,61
+d
+saldo final...................
+        1.891,21
+        4.303,61
+d
+conta 10421-1
+1102030100
+adiant fornecedores           
+saldo anterior................
+       81.537,80
+d
+07/02
+12522-2
+pg duplic n 25 andressa gomes
+        1.500,00
+       83.037,80
+d
+11/02
+12522-2
+pg duplic n  7787    gran  loc
+locacao
+        2.518,40
+       85.556,20
+d
+razão analítico individual
+folha:
+00003
+empresa: 
+0517 centro multidisciplinar de desospitalizacao ltda - me
+cnpj:
+29.269.640/0001-83
+período: 
+01/01/2025 a 31/05/2025
+lcto
+dcto
+data
+c/part.
+c/c
+h i s t ó r i c o
+     débito
+  crédito
+saldo
+conta 10421-1
+1102030100
+adiant fornecedores           
+(c.)
+18/02
+12522-2
+pg duplic n 8801 ambservice
+          255,91
+       85.812,11
+d
+18/02
+12522-2
+pg duplic  n  362087  cremasco
+medicina
+          292,47
+       86.104,58
+d
+18/02
+12522-2
+pg  duplic   n   49003   fraga
+advogados
+        1.518,00
+       87.622,58
+d
+28/02
+12522-2
+pg  nf  n   14   ana   beatriz
+candotte pereira
+        2.900,00
+       90.522,58
+d
+05/03
+31039-4
+vlr   nf   n  14  ana  beatriz
+candotte pereira
+        2.900,00
+       87.622,58
+d
+02/04
+div  
+vlr  nf  n   8801   ambservice
+limpeza e conservacao eireli
+          255,91
+       87.366,67
+d
+02/04
+43023-8
+vlr  nf  n   362087   cremasco
+medicina diagnostica ltda
+          292,47
+       87.074,20
+d
+02/04
+43023-8
+vlr nf n 49003 fraga advogados
+associados
+        1.518,00
+       85.556,20
+d
+02/04
+43023-8
+vlr nf n 8795 gran loc locacao
+e manutencao ltda
+        2.518,40
+       83.037,80
+d
+02/04
+43023-8
+vlr nf  n  25  andressa  gomes
+salles sampaio
+        1.500,00
+       81.537,80
+d
+16/04
+div  
+pg  duplic n 7/8 farmacia mais
+popular
+        3.511,30
+       85.049,10
+d
+05/05
+div  
+pg duplic n  4  farmacia  mais
+popular
+        2.064,00
+       87.113,10
+d
+06/05
+41016-4
+vlr   nf  n  7  farmacia  mais
+popular
+        1.513,50
+       85.599,60
+d
+06/05
+41016-4
+vlr   nf  n  8  farmacia  mais
+popular
+        1.997,80
+       83.601,80
+d
+16/05
+div  
+pg nf n 4 farmacia mais popular
+        2.064,00
+       85.665,80
+d
+30/05
+12522-2
+pg  nf  n 1453 espaco humanzia
+clinica medica ltda
+       11.200,00
+       96.865,80
+d
+30/05
+12522-2
+pg duplic n 3009 dietetica ref.
+        1.821,42
+       98.687,22
+d
+saldo final...................
+       29.645,50        12.496,08
+       98.687,22
+d
+conta 10458-4
+1102030100
+saude find assit.ltda         
+saldo anterior................
+      196.183,24
+d
+28/02
+12522-2
+pg duplic n 31 saude find.ltda
+       52.620,75
+      248.803,99
+d
+02/04
+43023-8
+vlr nf n 31 saude find ltda
+       52.620,75
+      196.183,24
+d
+30/05
+12522-2
+pg duplic n 45 saude find. ltda
+       39.661,00
+      235.844,24
+d
+saldo final...................
+       92.281,75        52.620,75
+      235.844,24
+d
+conta 10489-0
+1102030100
+patricia duarte bernardi      
+saldo anterior................
+        6.000,00
+d
+03/01
+12522-2
+pg nf  n  24  patricia  duarte
+bernardi
+        3.000,00
+        9.000,00
+d
+19/03
+43023-8
+vlr nf n  24  patricia  duarte
+bernardi
+        3.000,00
+        6.000,00
+d
+saldo final...................
+        3.000,00         3.000,00
+        6.000,00
+d
+conta 10524-8
+1104010100
+contas a identificar          
+saldo anterior................
+            0,00
+30/05
+12522-2
+vlr a identificar
+          500,00
+          500,00
+d
+saldo final...................
+          500,00
+          500,00
+d
+conta 10571-2
+1102050100
+contrib social a compensar    
+saldo anterior................
+            0,00
+02/01
+79999-9
+vlr  csll  s/nf n° - 1083/1083
+38º batalhão de infantaria
+          316,76
+          316,76
+d
+terceiro:
+046237-38º batalhão de infantaria                                  
+06/01
+79999-9
+vlr  csll  s/nf n° - 1095/1095
+fundacao    assistencial   dos
+servidores  do  ministerio  da
+fazend
+          158,44
+          475,20
+d
+terceiro:
+006640-fundacao assistencial dos servidores do ministerio da fazend
+06/02
+79999-9
+vlr  csll  s/nf n° - 1132/1132
+fundacao    assistencial   dos
+razão analítico individual
+folha:
+00004
+empresa: 
+0517 centro multidisciplinar de desospitalizacao ltda - me
+cnpj:
+29.269.640/0001-83
+período: 
+01/01/2025 a 31/05/2025
+lcto
+dcto
+data
+c/part.
+c/c
+h i s t ó r i c o
+     débito
+  crédito
+saldo
+conta 10571-2
+1102050100
+contrib social a compensar    
+(c.)
+servidores  do  ministerio  da
+fazend
+          156,60
+          631,80
+d
+terceiro:
+006640-fundacao assistencial dos servidores do ministerio da fazend
+13/02
+79999-9
+vlr  csll  s/nf n° - 1145/1145
+arcelormittal brasil s.a.
+           41,22
+          673,02
+d
+terceiro:
+014106-arcelor mittal brasil s.a.                                  
+13/02
+79999-9
+vlr  csll  s/nf n° - 1146/1146
+arcelormittal brasil s.a.
+           26,71
+          699,73
+d
+terceiro:
+014106-arcelor mittal brasil s.a.                                  
+26/02
+79999-9
+vlr  csll  s/nf n° - 1153/1153
+38º batalhão de infantaria
+          469,39
+        1.169,12
+d
+terceiro:
+046237-38º batalhão de infantaria                                  
+07/03
+79999-9
+vlr   csll   s/nf  n°  -  1154
+fundacao    assistencial   dos
+servidores  do  ministerio  da
+fazend
+          128,35
+        1.297,47
+d
+terceiro:
+006640-fundacao assistencial dos servidores do ministerio da fazend
+07/03
+79999-9
+vlr   csll   s/nf  n°  -  1155
+superintendencia  regional  de
+saude de sao mateus
+            1,44
+        1.298,91
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+07/03
+79999-9
+vlr   csll   s/nf  n°  -  1156
+superintendência  regional  de
+saúde de colatina
+          112,99
+        1.411,90
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+07/03
+79999-9
+vlr   csll   s/nf  n°  -  1157
+superintendência  regional  de
+saúde de colatina
+           49,50
+        1.461,40
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1159
+secretaria  de estado da saude
+vitoria
+          200,20
+        1.661,60
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1160
+secretaria  de estado da saude
+vitoria
+          178,75
+        1.840,35
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1161
+secretaria  de estado da saude
+vitoria
+           21,45
+        1.861,80
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1162
+secretaria  de estado da saude
+vitoria
+           21,45
+        1.883,25
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1163
+secretaria  de estado da saude
+vitoria
+          200,20
+        2.083,45
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1164
+secretaria  de estado da saude
+vitoria
+           64,35
+        2.147,80
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1165
+secretaria  de estado da saude
+vitoria
+          143,00
+        2.290,80
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1166
+secretaria  de estado da saude
+vitoria
+          200,20
+        2.491,00
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       
+10/03
+79999-9
+vlr   csll   s/nf  n°  -  1167
+secretaria  de estado da saude
+vitoria
+          200,20
+        2.691,20
+d
+terceiro:
+006605-secretaria de estado da saude vitoria                       

@@ -1,0 +1,173 @@
+comprovante 
+× 
+sicoob - sistema de cooperativas de crédito do brasil 
+sisbr - sistema de informática do sicoob 
+03/09/2025 
+comprovante de 
+pagamento de boleto 
+14:54:51 
+cooperativa 
+3008-2 / cooperativa de credito coopermais - sicoob 
+coopermais 
+conta 
+62.126-9 
+cliente 
+alex amancio comercio ltda 
+linha digitável 
+75691.30078 01262.926734 01165.230010 6 11570000077109 
+número do documento 
+0000683833 
+nosso número 
+01026292670030116523 
+número do agendamento 37347079 
+instituição emissora 
+2038232 
+tipo documento 
+título 
+beneficiário 
+nome/razão social 
+iguacu transporte e logistica ltda 
+nome fantasia 
+iguacu transporte e logistica ltda 
+cpf/cnpj 
+34.992.472/0001-90 
+pagador 
+nome/razão social 
+alex amancio comercio ltda 
+nome fantasia 
+alex amancio comercio ltda 
+cpf/cnpj 
+06.140.429/0001-60 
+datas 
+realizado 
+28/07/2025 às 06:31:57 
+pagamento 
+29/07/2025 
+vencimento 
+29/07/2025 
+valores 
+documento 
+r$ 771,09 
+desconto/abatimento 
+r$ 0,00 
+juros/multa 
+r$ 0,00 
+pago 
+r$ 771,09 
+autoriza atualização 
+título 
+não 
+situação 
+efetivado 
+autenticação 
+28631f48-d472-4a25-a9e8-6d2b2f953333 
+ouvidoria sicoob: 08007250996 
+v1.0.4.0 
+ 
+sicoob - sistema de cooperativas de crédito do brasil 
+sisbr - sistema de informática do sicoob 
+03/09/2025 
+efetivação de ted 
+14:54:51 
+número do agendamento 
+37257367 
+data do agendamento 
+22/07/2025 
+data do lançamento 
+22/07/2025 
+finalidade 
+10-crédito em conta 
+valor 
+r$ 3.321,00 
+débito 
+cooperativa 
+3008 
+conta 
+62.126-9 
+nome 
+alex amancio comercio ltda 
+cpf/cnpj 
+06.140.429/0001-60 
+crédito 
+nº instituição/banco 
+341-itau unibanco s.a. 
+nº ispb 
+60701190 
+agência 
+00695-s paulo silva teles 
+conta 
+8.271-9 
+tipo da conta 
+cc-conta corrente 
+nome 
+paraíso das pelucias 
+cpf/cnpj 
+22.077.973/0001-61 
+autenticação 
+b4519f6d-589e-4f67-9988-fc69835b414e 
+ouvidoria sicoob: 08007250996 
+v1.0.4.0 
+ 
+sicoob - sistema de cooperativas de crédito do brasil 
+sisbr - sistema de informática do sicoob 
+03/09/2025 
+comprovante de 
+pagamento simples nacional 
+14:54:51 
+origem da operação 
+banco: 756 - ag: 0001 - bancoob pab - agencia br 
+operação 
+07/25 - recebimento das 
+natureza da operação 
+crédito 
+número da autenticação 
+37226139 
+data do pagamento 
+21/07/2025 
+código de barras 
+85820000068 22460328252 02072025183 50375196644 
+valor total 
+r$ 6.822,46 
+autenticação 
+7eff6463-cfe0-42d7-a417-4271f1a336b9 
+controle interno 
+300800 
+ouvidoria sicoob: 08007250996 
+v1.0.4.0 
+ 
+sicoob - sistema de cooperativas de crédito do brasil 
+sisbr - sistema de informática do sicoob 
+03/09/2025 
+comprovante de 
+pagamento de boleto 
+14:54:51 
+cooperativa 
+3008-2 / cooperativa de credito coopermais - sicoob 
+coopermais 
+conta 
+62.126-9 
+cliente 
+alex amancio comercio ltda 
+linha digitável 
+75696.00013 03000.283394 34626.850142 8 00000000000000 
+número do documento 
+7563008225819 
+nosso número 
+14000283390034626850 
+número do 
+agendamento 
+37213183 
+instituição emissora 
+2038232 
+tipo documento 
+título 
+beneficiário 
+nome/razão social 
+banco cooperativo sicoob s.a. 
+nome fantasia 
+banco cooperativo sicoob s.a. 
+cpf/cnpj 
+02.038.232/0001-64 
+pagador 
+nome/razão social 
+alex amancio me 

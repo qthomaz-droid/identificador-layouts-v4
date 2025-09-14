@@ -1,0 +1,336 @@
+sicoob
+sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob – sisbr
+02/08/2024
+extrato conta corrente
+13:32:24
+coop.: 3008-2 / sicoob coopermais
+conta: 88.877-0 / lorenzi locadora de veiculos ltda
+período: 01/07/2024 - 31/07/2024
+histórico de movimentação
+data
+histórico
+valor
+28/06
+saldo anterior
+14.333,68d
+28/06
+saldo bloq.anterior
+0,00*
+01/07
+déb.iof empréstimos
+794,81d
+doc.: 0284318801
+01/07
+déb.iof
+3,66d
+doc.: iof/1-7
+01/07
+déb.iof
+109,74d
+doc.: iof/1-7
+01/07
+saldo do dia
+15.241,89d
+03/07
+déb.conv.dem.empres
+22.804,59d
+doc.: mastercard
+03/07
+est.déb.conv.dem.em
+22.804,59c
+doc.: mastercard
+03/07
+saldo do dia
+15.241,89d
+05/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+05/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+05/07
+déb.conv.dem.empres
+1.474,21d
+doc.: consórcios
+05/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+05/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+05/07
+est.déb.conv.dem.em
+1.474,21c
+doc.: consórcios
+05/07
+saldo do dia
+15.241,89d
+08/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+08/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+08/07
+déb.conv.dem.empres
+1.474,21d
+doc.: consórcios
+08/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+08/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+08/07
+est.déb.conv.dem.em
+1.474,21c
+doc.: consórcios
+08/07
+saldo do dia
+15.241,89d
+09/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+09/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+09/07
+déb.conv.dem.empres
+1.474,21d
+doc.: consórcios
+09/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+09/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+09/07
+est.déb.conv.dem.em
+1.474,21c
+doc.: consórcios
+09/07
+saldo do dia
+15.241,89d
+10/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+10/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+10/07
+déb.conv.dem.empres
+1.474,21d
+doc.: consórcios
+10/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+10/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+10/07
+est.déb.conv.dem.em
+1.474,21c
+doc.: consórcios
+10/07
+saldo do dia
+15.241,89d
+11/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+11/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+11/07
+déb.conv.dem.empres
+1.474,21d
+doc.: consórcios
+11/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+11/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+11/07
+est.déb.conv.dem.em
+1.474,21c
+doc.: consórcios
+11/07
+saldo do dia
+15.241,89d
+12/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+12/07
+déb.conv.dem.empres
+428,04d
+doc.: consórcios
+12/07
+déb.conv.dem.empres
+1.474,21d
+doc.: consórcios
+12/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+12/07
+est.déb.conv.dem.em
+428,04c
+doc.: consórcios
+12/07
+est.déb.conv.dem.em
+1.474,21c
+doc.: consórcios
+12/07
+saldo do dia
+15.241,89d
+15/07
+déb. conv. seguros
+338,94d
+doc.: allianz se
+15/07
+déb.empréstimo
+117.357,46d
+doc.: 02898870
+15/07
+est.déb. conv. segu
+338,94c
+doc.: allianz se
+15/07
+est.déb.empréstimo
+117.357,46c
+doc.: 02898870
+15/07
+saldo do dia
+15.241,89d
+16/07
+déb. conv. seguros
+338,94d
+doc.: allianz se
+16/07
+déb.empréstimo
+119.804,80d
+doc.: 02898870
+16/07
+est.déb. conv. segu
+338,94c
+doc.: allianz se
+16/07
+est.déb.empréstimo
+119.804,80c
+doc.: 02898870
+16/07
+saldo do dia
+15.241,89d
+17/07
+déb. conv. seguros
+338,94d
+doc.: allianz se
+17/07
+déb.empréstimo
+119.905,00d
+doc.: 02898870
+17/07
+est.déb. conv. segu
+338,94c
+doc.: allianz se
+17/07
+est.déb.empréstimo
+119.905,00c
+doc.: 02898870
+17/07
+saldo do dia
+15.241,89d
+18/07
+déb.empréstimo
+6.513,90d
+doc.: 02487190
+18/07
+déb.empréstimo
+120.005,22d
+doc.: 02898870
+18/07
+est.déb.empréstimo
+120.005,22c
+doc.: 02898870
+18/07
+est.déb.empréstimo
+6.513,90c
+doc.: 02487190
+18/07
+saldo do dia
+15.241,89d
+19/07
+déb.empréstimo
+120.105,47d
+doc.: 02898870
+19/07
+déb.empréstimo
+6.647,83d
+doc.: 02487190
+19/07
+est.déb.empréstimo
+120.105,47c
+doc.: 02898870
+19/07
+est.déb.empréstimo
+6.647,83c
+doc.: 02487190
+19/07
+saldo do dia
+15.241,89d
+22/07
+déb.empréstimo
+6.653,66d
+doc.: 02487190
+22/07
+déb.empréstimo
+120.313,93d
+doc.: 02898870
+22/07
+est.déb.empréstimo
+120.313,93c
+doc.: 02898870
+22/07
+est.déb.empréstimo
+6.653,66c
+doc.: 02487190
+22/07
+saldo do dia
+15.241,89d
+23/07
+déb.empréstimo
+6.657,31d
+doc.: 02487190
+23/07
+déb.empréstimo
+120.414,21d
+doc.: 02898870
+23/07
+créd.ted-str
+390.959,49c
+fms sesa pagto fornecedor
+14.814.026 0001-88
+codigo ted: t925048622
+doc.: 308431681

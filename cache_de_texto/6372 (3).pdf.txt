@@ -1,0 +1,137 @@
+data
+valor
+tipo
+status
+identificador
+descrição
+08-01-2025
+358,79 entrada
+e4a2e2d5-d85d-4fd0-b26f-596d0692a3b8
+transf bancaria recebida
+09-01-2025
+605,69 entrada
+bc9f446b-a05b-4f24-aaf4-107f8cbbd2f0
+transf bancaria recebida
+10-01-2025
+240,12 entrada
+fb25adfc-4258-4db0-acb5-881add7edbd3
+transf bancaria recebida
+10-01-2025
+saída
+1204,6 1334075096
+pix enviado - 46.933.083 cristina aparecida cremonese
+13-01-2025
+1123,63 entrada
+0ad03420-4915-4332-a670-bf55bd877276
+transf bancaria recebida
+13-01-2025
+saída
+1123,63 1346436267
+pix enviado - 46.933.083 cristina aparecida cremonese
+15-01-2025
+192,48 entrada
+f0280975-68fa-4afc-bf03-72a47aa1d8c9
+transf bancaria recebida
+16-01-2025
+19,74 entrada
+f7e5d4d8-b74e-4f87-a2eb-2be708b29f6b
+transf bancaria recebida
+17-01-2025
+203,51 entrada
+e8552e53-5482-4aa6-999d-234bd0357d99
+transf bancaria recebida
+17-01-2025
+174,72 entrada
+bffb1600-8260-4d25-baf0-6ef61ecda1a0
+transf bancaria recebida
+17-01-2025
+saída
+590,45 1364864642
+pix enviado - 46.933.083 cristina aparecida cremonese
+20-01-2025
+525,44 entrada
+b20ed0c4-3514-494c-a2e5-6f46668b58b9
+transf bancaria recebida
+20-01-2025
+463,93 entrada
+709b4647-9fa7-46ca-9090-d30da950da7d
+transf bancaria recebida
+20-01-2025
+59,23 entrada
+2dd7f6a8-939e-4d1c-a0ec-96f63f310953
+transf bancaria recebida
+20-01-2025
+saída
+1048,60 1377858034
+pix enviado - 46.933.083 cristina aparecida cremonese
+22-01-2025
+111,45 entrada
+1aa9dff0-e803-471c-820d-4862c2ce9886
+transf bancaria recebida
+22-01-2025
+93,77 entrada
+4039c8bb-a11d-403e-9b72-dce7b2f495c1
+transf bancaria recebida
+22-01-2025
+saída
+205,22 1388080792
+pix enviado - 46.933.083 cristina aparecida cremonese
+23-01-2025
+256,81 entrada
+5a0c31c7-e65a-4f5e-bcb1-1210d16c5b4f
+transf bancaria recebida
+23-01-2025
+saída
+256,81 1391773086
+pix enviado - 46.933.083 cristina aparecida cremonese
+24-01-2025
+133,26 entrada
+d2fbfcd0-fbd3-4f69-aa0f-f7b95ede1282
+transf bancaria recebida
+24-01-2025
+59,23 entrada
+d707fd04-a2e5-47e5-9ed2-da890c51e500
+transf bancaria recebida
+24-01-2025
+saída
+192,49 1399597185
+pix enviado - 46.933.083 cristina aparecida cremonese
+27-01-2025
+174,86 entrada
+9a140621-2e3f-4c1c-93e2-c4fb8a8bb7eb
+transf bancaria recebida
+27-01-2025
+saída
+174,86 1410054895
+pix enviado - 46.933.083 cristina aparecida cremonese
+27-01-2025
+355,36 entrada
+da282a37-66de-4ff4-b469-67e8e9c82a2c
+transf bancaria recebida
+27-01-2025
+saída
+355,36 1410745104
+pix enviado - 46.933.083 cristina aparecida cremonese
+29-01-2025
+197,12 entrada
+63c9ce89-2977-42f4-ab72-7f021122437f
+transf bancaria recebida
+29-01-2025
+saída
+197,12 1421831005
+pix enviado - 46.933.083 cristina aparecida cremonese
+31-01-2025
+48,46 entrada
+1f1adc84-e0d5-4738-a142-62662f3a051f
+transf bancaria recebida
+31-01-2025
+162,87 entrada
+b9b75064-b2f5-4420-ac1b-e64280ee3936
+transf bancaria recebida
+31-01-2025
+saída
+211,33 1429483328
+pix enviado - 46.933.083 cristina aparecida cremonese
+entradas
+5560,47 saidas
+5560,47

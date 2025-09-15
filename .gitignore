@@ -27,3 +27,5 @@ temp_files/
 # Ficheiros do Sistema Operacional
 .DS_Store
 Thumbs.db
+
+model_assets.zip

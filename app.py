@@ -11,35 +11,34 @@ from dotenv import load_dotenv
 import requests
 import zipfile
 from io import BytesIO
+import pandas as pd
+import csv
 
 # --- LÓGICA DE DOWNLOAD DOS MODELOS (RESOLVE O PROBLEMA DE DEPLOY) ---
 @st.cache_resource
 def setup_model_files():
     """
-    Verifica se os arquivos do modelo existem. Se não, descarrega-os de um link de hospedagem.
+    Verifica se os ficheiros do modelo existem. Se não, descarrega-os de um link de hospedagem.
     O decorador @st.cache_resource garante que isto só seja executado uma vez por sessão.
     """
-    # Lista de arquivos essenciais que a aplicação precisa para funcionar
+    # Lista de ficheiros essenciais que a aplicação precisa para funcionar
     arquivos_essenciais = [
         'layout_embeddings.joblib', 
         'layout_labels.joblib', 
         'layouts_meta.json'
     ]
-    # O vectorizer é parte do modelo antigo, pode ser opcional dependendo da versão
-    if os.path.exists('vectorizer.joblib'):
-        arquivos_essenciais.append('vectorizer.joblib')
 
-    # Verifica se algum dos arquivos essenciais está em falta
+    # Verifica se algum dos ficheiros essenciais está em falta
     precisa_descarregar = any(not os.path.exists(f) for f in arquivos_essenciais)
 
     if precisa_descarregar:
-        with st.spinner("Configurando o ambiente pela primeira vez. A descarregar modelos de IA, por favor aguarde..."):
+        with st.spinner("A configurar o ambiente pela primeira vez. A descarregar modelos de IA, por favor aguarde..."):
             
             # --- IMPORTANTE: SUBSTITUA PELA SUA URL DE DOWNLOAD DIRETO ---
             # 1. Compacte os seus ficheiros de modelo num único 'model_assets.zip'
             # 2. Faça o upload para um serviço como Google Drive, Dropbox ou Sync.com
             # 3. Gere um link de DOWNLOAD DIRETO e cole-o aqui.
-            MODEL_URL = "drive.google.com/uc?export=download&id=1dEdw4WyVyNhLgqrwhrw2xgbLvPo4N9pv"
+            MODEL_URL = "https://drive.google.com/file/d/1M7jjdziKgC8Hg9WI1x3CGMKcGMpkwSRj"
             
             try:
                 # Descarrega o ficheiro zip para a memória
@@ -76,6 +75,8 @@ TEMP_DIR = "temp_files"
 TRAIN_DIR = "arquivos_de_treinamento"
 MAP_FILE = "mapeamento_layouts.xlsx"
 CACHE_DIR = "cache_de_texto"
+LOG_FILE = "admin_log.csv"
+
 for folder in [TEMP_DIR, TRAIN_DIR, CACHE_DIR]:
     if not os.path.exists(folder):
         os.makedirs(folder)
@@ -90,6 +91,15 @@ with col_logo2:
 st.title("IA identificadora de Layouts 🤖")
 
 # --- Funções de Apoio ---
+def log_admin_action(username, action, details):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    if not os.path.exists(LOG_FILE):
+        with open(LOG_FILE, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(["Timestamp", "Admin", "Ação", "Detalhes"])
+    with open(LOG_FILE, 'a', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow([timestamp, username, action, details])
 def analisar_arquivo(caminho_arquivo, sistema=None, descricao=None, tipo_relatorio=None, senha=None):
     st.session_state.resultados = identificar_layout(
         caminho_arquivo, 
@@ -101,10 +111,12 @@ def analisar_arquivo(caminho_arquivo, sistema=None, descricao=None, tipo_relator
     st.session_state.senha_incorreta = (st.session_state.resultados == "SENHA_INCORRETA")
     st.session_state.senha_necessaria = (st.session_state.resultados == "SENHA_NECESSARIA")
     st.session_state.analise_feita = True
-
 def confirmar_e_retreinar(codigo_correto):
     if st.session_state.caminho_arquivo_temp and os.path.exists(st.session_state.caminho_arquivo_temp):
         nome_original = st.session_state.nome_arquivo_original
+        admin_user = os.getenv('username', 'N/A')
+        detalhes_log = f"Arquivo '{nome_original}' confirmado para o layout '{codigo_correto}'."
+        log_admin_action(admin_user, "Confirmação de Layout", detalhes_log)
         timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
         novo_nome_base = f"{codigo_correto}_confirmed_{timestamp}_{nome_original}"
         caminho_destino = os.path.join(TRAIN_DIR, novo_nome_base)
@@ -165,13 +177,67 @@ if st.session_state.authenticated:
                 st.sidebar.success("Modelo recarregado!"); time.sleep(1); st.rerun()
             else:
                 st.sidebar.error("Falha ao recarregar.")
+    st.sidebar.header("Backup e Restauração")
+    with st.sidebar.expander("Gerir Backups"):
+        if st.button("Criar Backup Agora"):
+            with st.spinner("A criar o ficheiro de backup..."):
+                assets_para_backup = [
+                    'mapeamento_layouts.xlsx', 'layouts_meta.json',
+                    'layout_embeddings.joblib', 'layout_labels.joblib',
+                    'arquivos_de_treinamento', 'cache_de_texto'
+                ]
+                zip_buffer = BytesIO()
+                with zipfile.ZipFile(zip_buffer, "a", zipfile.ZIP_DEFLATED, False) as zip_file:
+                    for asset_name in assets_para_backup:
+                        if os.path.exists(asset_name):
+                            if os.path.isfile(asset_name): zip_file.write(asset_name)
+                            elif os.path.isdir(asset_name):
+                                for root, _, files in os.walk(asset_name):
+                                    for file in files:
+                                        file_path = os.path.join(root, file)
+                                        zip_file.write(file_path)
+                zip_buffer.seek(0)
+                st.session_state.backup_data = zip_buffer
+        if 'backup_data' in st.session_state and st.session_state.backup_data is not None:
+            st.download_button(
+                label="Baixar Ficheiro de Backup (.zip)",
+                data=st.session_state.backup_data,
+                file_name=f"backup_identificador_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.zip",
+                mime="application/zip"
+            )
+        uploaded_backup = st.file_uploader("Restaurar a partir de um backup (.zip)", type=['zip'])
+        if uploaded_backup:
+            if st.button("Confirmar Restauração"):
+                with st.spinner("A restaurar o backup..."):
+                    with zipfile.ZipFile(uploaded_backup, 'r') as zip_ref:
+                        zip_ref.extractall(".")
+                    st.success("Backup restaurado com sucesso!")
+                    st.warning("Por favor, clique em 'Recarregar Modelo na Aplicação'.")
+    st.sidebar.header("Log de Atividades")
+    with st.sidebar.expander("Ver Contribuições de Treinamento"):
+        if os.path.exists(LOG_FILE):
+            try:
+                df_log = pd.read_csv(LOG_FILE)
+                st.dataframe(df_log.tail(15))
+                with open(LOG_FILE, "rb") as f:
+                    st.download_button(
+                        label="Baixar log completo (.csv)",
+                        data=f,
+                        file_name="admin_log.csv",
+                        mime="text/csv",
+                    )
+            except pd.errors.EmptyDataError:
+                st.info("O log de atividades ainda está vazio.")
+            except Exception as e:
+                st.error(f"Erro ao ler o log: {e}")
+        else:
+            st.info("O log de atividades ainda está vazio.")
     if st.sidebar.button("Logout"):
         st.session_state.authenticated = False; st.rerun()
 
 # --- INTERFACE PRINCIPAL DO IDENTIFICADOR ---
 st.divider()
 st.header("Identificar Layout")
-
 with st.form(key="search_form"):
     col1, col2, col3 = st.columns(3)
     with col1:
@@ -182,7 +248,6 @@ with st.form(key="search_form"):
         tipo_relatorio_input = st.selectbox("Tipo de Relatório", ("Todos", "Bancário", "Financeiro"))
     uploaded_file = st.file_uploader("Selecione ou arraste um ficheiro para analisar")
     submitted = st.form_submit_button("Analisar / Refazer Busca")
-
 if submitted:
     if uploaded_file is not None:
         with st.spinner('A analisar novo ficheiro...'):
@@ -197,8 +262,6 @@ if submitted:
             analisar_arquivo(st.session_state.caminho_arquivo_temp, sistema=sistema_input, descricao=descricao_input, tipo_relatorio=tipo_relatorio_input)
     else:
         st.warning("Por favor, selecione um ficheiro para analisar.")
-
-# --- LÓGICA DE EXIBIÇÃO DE RESULTADOS ---
 if st.session_state.senha_necessaria:
     st.warning("🔒 O PDF está protegido por senha.")
     senha_manual = st.text_input("Digite a senha do PDF:", type="password", key="pwd_input")
@@ -216,7 +279,6 @@ elif st.session_state.analise_feita:
             st.subheader("🏆 Ranking de Layouts Compatíveis")
         else:
             st.subheader("Estes são os resultados que mais se aproximam")
-        
         for res in resultados:
             with st.container(border=True):
                 col_res_1, col_res_2, col_res_3 = st.columns([1, 3, 1])

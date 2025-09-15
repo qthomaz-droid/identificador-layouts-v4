@@ -26,10 +26,13 @@ AREA_CABECALHO_PERCENTUAL = 0.15
 STOPWORDS = []
 NOME_MODELO_SEMANTICO = 'distiluse-base-multilingual-cased-v1'
 
-ARQUIVO_EMBEDDINGS = 'layout_embeddings.joblib'
-ARQUIVO_LABELS = 'layout_labels.joblib'
-ARQUIVO_METADADOS = 'layouts_meta.json'
-PASTA_CACHE = 'cache_de_texto'
+# --- LÓGICA DE CAMINHOS ABSOLUTOS ---
+DIRETORIO_ATUAL = os.path.dirname(os.path.abspath(__file__))
+ARQUIVO_EMBEDDINGS = os.path.join(DIRETORIO_ATUAL, 'layout_embeddings.joblib')
+ARQUIVO_LABELS = os.path.join(DIRETORIO_ATUAL, 'layout_labels.joblib')
+ARQUIVO_METADADOS = os.path.join(DIRETORIO_ATUAL, 'layouts_meta.json')
+PASTA_CACHE = os.path.join(DIRETORIO_ATUAL, 'cache_de_texto')
+
 API_BASE_URL = "https://manager.conciliadorcontabil.com.br/api/"
 
 MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS = None, None, None, {}
@@ -173,13 +176,9 @@ def normalizar_extensao(ext):
     if ext in ['txt', 'csv']: return 'txt'
     return ext
 def get_compatibilidade_label(pontuacao):
-    """Converte a pontuação numérica em um termo de compatibilidade."""
-    if pontuacao >= 85:
-        return "Alta"
-    elif pontuacao >= 60:
-        return "Média"
-    else:
-        return "Baixa"
+    if pontuacao >= 85: return "Alta"
+    elif pontuacao >= 60: return "Média"
+    else: return "Baixa"
 def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, descricao_adicional=None, tipo_relatorio_alvo=None, senha_manual=None):
     if not MODELO_CARREGADO: return {"erro": "Modelo Semântico não foi treinado."}
     texto_arquivo = extrair_texto_do_arquivo(caminho_arquivo_cliente, senha_manual=senha_manual)

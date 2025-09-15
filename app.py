@@ -33,7 +33,6 @@ for folder in [TEMP_DIR, TRAIN_DIR, CACHE_DIR]:
 
 st.set_page_config(page_title="Identificador Semântico", layout="wide")
 
-# --- Logo ---
 col_logo1, col_logo2, col_logo3 = st.columns([1, 1, 1])
 with col_logo2:
     if os.path.exists("CC_logo_horizontal_branco.png"):
@@ -43,7 +42,6 @@ st.title("IA identificadora de Layouts 🤖")
 
 # --- Funções de Apoio ---
 def log_admin_action(username, action, details):
-    """Função para registar uma ação do administrador."""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     if not os.path.exists(LOG_FILE):
         with open(LOG_FILE, 'w', newline='', encoding='utf-8') as f:
@@ -52,7 +50,6 @@ def log_admin_action(username, action, details):
     with open(LOG_FILE, 'a', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow([timestamp, username, action, details])
-
 def analisar_arquivo(caminho_arquivo, sistema=None, descricao=None, tipo_relatorio=None, senha=None):
     st.session_state.resultados = identificar_layout(
         caminho_arquivo, 
@@ -64,7 +61,6 @@ def analisar_arquivo(caminho_arquivo, sistema=None, descricao=None, tipo_relator
     st.session_state.senha_incorreta = (st.session_state.resultados == "SENHA_INCORRETA")
     st.session_state.senha_necessaria = (st.session_state.resultados == "SENHA_NECESSARIA")
     st.session_state.analise_feita = True
-
 def confirmar_e_retreinar(codigo_correto):
     if st.session_state.caminho_arquivo_temp and os.path.exists(st.session_state.caminho_arquivo_temp):
         nome_original = st.session_state.nome_arquivo_original
@@ -131,41 +127,27 @@ if st.session_state.authenticated:
                 st.sidebar.success("Modelo recarregado!"); time.sleep(1); st.rerun()
             else:
                 st.sidebar.error("Falha ao recarregar.")
-
-    # --- NOVA SECÇÃO DE BACKUP E RESTAURAÇÃO ---
     st.sidebar.header("Backup e Restauração")
     with st.sidebar.expander("Gerir Backups"):
-        # Botão para criar backup
         if st.button("Criar Backup Agora"):
             with st.spinner("A criar o ficheiro de backup..."):
-                # Lista de todos os ficheiros e pastas a incluir
                 assets_para_backup = [
-                    'mapeamento_layouts.xlsx', 
-                    'layouts_meta.json',
-                    'layout_embeddings.joblib',
-                    'layout_labels.joblib',
-                    'vectorizer.joblib',
-                    'arquivos_de_treinamento',
-                    'cache_de_texto'
+                    'mapeamento_layouts.xlsx', 'layouts_meta.json',
+                    'layout_embeddings.joblib', 'layout_labels.joblib',
+                    'vectorizer.joblib', 'arquivos_de_treinamento', 'cache_de_texto'
                 ]
-                
-                # Cria um ficheiro zip em memória
                 zip_buffer = BytesIO()
                 with zipfile.ZipFile(zip_buffer, "a", zipfile.ZIP_DEFLATED, False) as zip_file:
                     for asset_name in assets_para_backup:
                         if os.path.exists(asset_name):
-                            if os.path.isfile(asset_name):
-                                zip_file.write(asset_name)
+                            if os.path.isfile(asset_name): zip_file.write(asset_name)
                             elif os.path.isdir(asset_name):
                                 for root, _, files in os.walk(asset_name):
                                     for file in files:
                                         file_path = os.path.join(root, file)
                                         zip_file.write(file_path)
-                
                 zip_buffer.seek(0)
                 st.session_state.backup_data = zip_buffer
-        
-        # Botão de download só aparece depois de o backup ser criado
         if 'backup_data' in st.session_state and st.session_state.backup_data is not None:
             st.download_button(
                 label="Baixar Ficheiro de Backup (.zip)",
@@ -173,17 +155,14 @@ if st.session_state.authenticated:
                 file_name=f"backup_identificador_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.zip",
                 mime="application/zip"
             )
-
-        # Uploader para restaurar
         uploaded_backup = st.file_uploader("Restaurar a partir de um backup (.zip)", type=['zip'])
         if uploaded_backup:
             if st.button("Confirmar Restauração"):
-                with st.spinner("A restaurar o backup... Por favor, aguarde."):
+                with st.spinner("A restaurar o backup..."):
                     with zipfile.ZipFile(uploaded_backup, 'r') as zip_ref:
-                        zip_ref.extractall(".") # Extrai para a pasta raiz do projeto
+                        zip_ref.extractall(".")
                     st.success("Backup restaurado com sucesso!")
-                    st.warning("Por favor, clique em 'Recarregar Modelo na Aplicação' para que as alterações entrem em vigor.")
-
+                    st.warning("Por favor, clique em 'Recarregar Modelo na Aplicação'.")
     if st.sidebar.button("Logout"):
         st.session_state.authenticated = False; st.rerun()
 
@@ -200,7 +179,6 @@ with st.form(key="search_form"):
         tipo_relatorio_input = st.selectbox("Tipo de Relatório", ("Todos", "Bancário", "Financeiro"))
     uploaded_file = st.file_uploader("Selecione ou arraste um ficheiro para analisar")
     submitted = st.form_submit_button("Analisar / Refazer Busca")
-
 if submitted:
     if uploaded_file is not None:
         with st.spinner('A analisar novo ficheiro...'):
@@ -215,7 +193,6 @@ if submitted:
             analisar_arquivo(st.session_state.caminho_arquivo_temp, sistema=sistema_input, descricao=descricao_input, tipo_relatorio=tipo_relatorio_input)
     else:
         st.warning("Por favor, selecione um ficheiro para analisar.")
-
 if st.session_state.senha_necessaria:
     st.warning("🔒 O PDF está protegido por senha.")
     senha_manual = st.text_input("Digite a senha do PDF:", type="password", key="pwd_input")
@@ -229,7 +206,7 @@ elif st.session_state.senha_incorreta:
 elif st.session_state.analise_feita:
     resultados = st.session_state.resultados
     if isinstance(resultados, list) and resultados:
-        if resultados[0].get('confianca_label') == 'Alta':
+        if resultados[0].get('compatibilidade') == 'Alta':
             st.subheader("🏆 Ranking de Layouts Compatíveis")
         else:
             st.subheader("Estes são os resultados que mais se aproximam")

@@ -19520,7 +19520,7 @@
         "formato": "PDF",
         "sistema": "DESCONHECIDO",
         "tipo_relatorio": "Financeiro",
-        "cabecalho": "formas de pagamento analtico data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento data dinheiro data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento total data data dinheiro data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento total data data dinheiro"
+        "cabecalho": "formas de pagamento analtico data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento data dinheiro data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento total data data dinheiro data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento total data data dinheiro formas de pagamento analtico data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento data dinheiro data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento total data data dinheiro data formato analitico quebra data transao todos lojas caixas todos filtros formas de pagamentos venda recebimento desvmoeda contravale saldo pagamento total data data dinheiro"
     },
     {
         "codigo_layout": "6439",
@@ -19647,6 +19647,55 @@
         "descricao": "CONTAS ONLINE - MOVIMENTAÇÃO MENSAL",
         "formato": "PDF",
         "sistema": "CONTAS ONLINE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6454",
+        "descricao": "CONNECTERE - RELATÓRIO CONAS FINANCEIRAS",
+        "formato": "PDF",
+        "sistema": "CONNECTERE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1421",
+        "descricao": "TRIBANCO 10033696 PDF INTERNET BANKING - JOTAPE",
+        "formato": "PDF",
+        "sistema": "TRIBANCO 10033696 PDF INTERNET BANKING",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1420",
+        "descricao": "TRIBANCO 10033688 PDF INTERNET BANKING - JOTAPE",
+        "formato": "PDF",
+        "sistema": "TRIBANCO 10033688 PDF INTERNET BANKING",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1409",
+        "descricao": "TRIBANCO 10035320 PDF INTERNET BANKING - JOTAPE FILIAL",
+        "formato": "",
+        "sistema": "TRIBANCO 10035320 PDF INTERNET BANKING",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6455",
+        "descricao": "WISE RH - RESUMO DA FOLHA DE PAGAMENTO",
+        "formato": "PDF",
+        "sistema": "WISE RH",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6456",
+        "descricao": "REAL CLUB - EXTRATO DA CONTA",
+        "formato": "PDF",
+        "sistema": "REAL CLUB",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "1442",
+        "descricao": "OFX CAIXA MUNDIAL INDUSTRIA E COMERCIO DE URNAS LTDA",
+        "formato": "OFX",
+        "sistema": "OFX",
         "tipo_relatorio": "Financeiro"
     }
 ]

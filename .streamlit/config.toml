@@ -1,4 +1,14 @@
 # Arquivo: .streamlit/config.toml
 
+# As configurações do servidor ficam aqui (se houver alguma)
 [server]
-fileWatcherType = "none"
+fileWatcherType = "none" # Esta configuração que já tínhamos está correta aqui
+
+# As configurações de tema DEVEM estar em sua própria seção [theme]
+[theme]
+base = "dark"
+primaryColor = "#0072C6"
+backgroundColor = "#0F1116"
+secondaryBackgroundColor = "#1E2027"
+textColor = "#FFFFFF"
+font = "sans serif"

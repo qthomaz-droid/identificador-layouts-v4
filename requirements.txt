@@ -1,14 +1,15 @@
+# Arquivo: requirements.txt
 streamlit
 pandas
 openpyxl
 PyMuPDF
 pytesseract
 Pillow
-discord.py
-python-dotenv
 scikit-learn
 joblib
 tqdm
-py-trello
-func-timeout
+python-dotenv
 requests
+py-trello
+sentence-transformers
+torch

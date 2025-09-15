@@ -4,7 +4,7 @@ title Bot Identificador de Layouts
 
 REM Muda o diretório para a pasta raiz do seu projeto
 REM O /d é importante para mudar de drive, se necessário (ex: do C: para o E:)
-cd /d "E:\PROJETOS_DEV\identificador_layouts"
+cd /d "E:\PROJETOS_DEV\identificador_semantico"
 
 echo Ativando o ambiente virtual (venv)...
 REM Ativa o ambiente virtual. O 'call' é crucial para que o script continue após a ativação.

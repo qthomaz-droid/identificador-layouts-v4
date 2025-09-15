@@ -7,8 +7,17 @@ dist/
 temp_files/
 debug.log
 .vscode/
-arquivos_de_treinamento/
 .devcontainer/
-.streamlit/secrets.toml
+.streamlit/
 .env
 __pycache__/
+
+
+# Modelos de ML e dados
+*.joblib
+layouts_meta.json
+mapeamento_layouts.xlsx
+
+# Pastas de dados
+arquivos_de_treinamento/
+cache_de_texto/

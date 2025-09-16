@@ -14,52 +14,46 @@ from io import BytesIO
 import pandas as pd
 import csv
 
-# --- LÓGICA DE DOWNLOAD DOS MODELOS (RESOLVE O PROBLEMA DE DEPLOY) ---
+# --- LÓGICA DE DOWNLOAD DOS ATIVOS (RESOLVE O PROBLEMA DE DEPLOY) ---
 @st.cache_resource
-def setup_model_files():
+def setup_application_files():
     """
-    Verifica se os ficheiros do modelo existem. Se não, descarrega-os de um link de hospedagem.
-    O decorador @st.cache_resource garante que isto só seja executado uma vez por sessão.
+    Verifica se os ficheiros essenciais (modelos e logos) existem.
+    Se não, descarrega-os de um link de hospedagem.
     """
-    # Lista de ficheiros essenciais que a aplicação precisa para funcionar
+    # Lista de ficheiros que a aplicação precisa para funcionar
     arquivos_essenciais = [
         'layout_embeddings.joblib', 
         'layout_labels.joblib', 
-        'layouts_meta.json'
+        'layouts_meta.json',
+        'CC_logo_horizontal_branco.png' # Adicionamos o logo à lista
     ]
-
-    # Verifica se algum dos ficheiros essenciais está em falta
     precisa_descarregar = any(not os.path.exists(f) for f in arquivos_essenciais)
 
     if precisa_descarregar:
-        with st.spinner("A configurar o ambiente pela primeira vez. A descarregar modelos de IA, por favor aguarde..."):
+        with st.spinner("A configurar o ambiente pela primeira vez. A descarregar ativos da aplicação, por favor aguarde..."):
             
             # --- IMPORTANTE: SUBSTITUA PELA SUA URL DE DOWNLOAD DIRETO ---
-            # 1. Compacte os seus ficheiros de modelo num único 'model_assets.zip'
-            # 2. Faça o upload para um serviço como Google Drive, Dropbox ou Sync.com
+            # 1. Compacte os seus ficheiros essenciais num único 'app_assets.zip'
+            # 2. Faça o upload para um serviço como Google Drive ou Dropbox
             # 3. Gere um link de DOWNLOAD DIRETO e cole-o aqui.
-            MODEL_URL = "https://drive.google.com/uc?export=download&id=1M7jjdziKgC8Hg9WI1x3CGMKcGMpkwSRj"
+            ASSETS_URL = "https://drive.google.com/uc?export=download&id=1M7jjdziKgC8Hg9WI1x3CGMKcGMpkwSRj"
             
             try:
-                # Descarrega o ficheiro zip para a memória
-                response = requests.get(MODEL_URL)
+                response = requests.get(ASSETS_URL)
                 response.raise_for_status()
-                
-                # Extrai o zip para a pasta raiz do projeto
                 with zipfile.ZipFile(BytesIO(response.content)) as z:
                     z.extractall(".")
-
                 st.success("Ambiente configurado com sucesso! A aplicação será recarregada.")
                 time.sleep(2)
                 st.rerun()
-
             except Exception as e:
-                st.error(f"Falha crítica ao descarregar ou extrair os modelos de IA: {e}")
+                st.error(f"Falha crítica ao descarregar os ativos da aplicação: {e}")
                 st.error("Verifique se a URL no app.py está correta e é um link de download direto.")
-                st.stop() # Para a execução da aplicação se os modelos não puderem ser obtidos
+                st.stop()
 
 # Executa a função de configuração no início de cada execução
-setup_model_files()
+setup_application_files()
 
 # --- CARREGAMENTO DE SEGREDOS E O RESTO DA APLICAÇÃO ---
 # Importa o cérebro DEPOIS de a configuração estar pronta
@@ -68,7 +62,6 @@ from identificador import identificar_layout, recarregar_modelo, extrair_texto_d
 caminho_secrets = os.path.join(".streamlit", "secrets.toml")
 if os.path.exists(caminho_secrets):
     load_dotenv(dotenv_path=caminho_secrets)
-    print("Arquivo de segredos do Streamlit carregado para o ambiente.")
 
 # --- Configurações Iniciais ---
 TEMP_DIR = "temp_files"
@@ -76,7 +69,6 @@ TRAIN_DIR = "arquivos_de_treinamento"
 MAP_FILE = "mapeamento_layouts.xlsx"
 CACHE_DIR = "cache_de_texto"
 LOG_FILE = "admin_log.csv"
-
 for folder in [TEMP_DIR, TRAIN_DIR, CACHE_DIR]:
     if not os.path.exists(folder):
         os.makedirs(folder)

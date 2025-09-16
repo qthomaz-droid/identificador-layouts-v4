@@ -230,9 +230,9 @@ st.header("Identificar Layout")
 with st.form(key="search_form"):
     col1, col2, col3 = st.columns(3)
     with col1:
-        sistema_input = st.text_input("Sistema (Opcional)", placeholder="Ex: Dominio, SCI, Prosoft...")
+        sistema_input = st.text_input("Origem (Opcional)", placeholder="Ex: Sicoob, Conta Azul, Bradesco...")
     with col2:
-        descricao_input = st.text_input("Descrição (Opcional)", placeholder="Ex: Extrato de conta, Relatório...")
+        descricao_input = st.text_input("Descrição (Opcional)", placeholder="Ex: Extrato de conta, Relatório de contas a pagar...")
     with col3:
         tipo_relatorio_input = st.selectbox("Tipo de Relatório", ("Todos", "Bancário", "Financeiro"))
     uploaded_file = st.file_uploader("Selecione ou arraste um ficheiro para analisar")

@@ -18,15 +18,13 @@ import csv
 @st.cache_resource
 def setup_application_files():
     """
-    Verifica se os ficheiros essenciais (modelos e logos) existem.
-    Se não, descarrega-os de um link de hospedagem.
+    Verifica se os ficheiros essenciais existem. Se não, descarrega-os de um link de hospedagem.
     """
-    # Lista de ficheiros que a aplicação precisa para funcionar
     arquivos_essenciais = [
         'layout_embeddings.joblib', 
         'layout_labels.joblib', 
         'layouts_meta.json',
-        'CC_logo_horizontal_branco.png' # Adicionamos o logo à lista
+        'CC_logo_horizontal_branco.png'
     ]
     precisa_descarregar = any(not os.path.exists(f) for f in arquivos_essenciais)
 
@@ -34,9 +32,6 @@ def setup_application_files():
         with st.spinner("A configurar o ambiente pela primeira vez. A descarregar ativos da aplicação, por favor aguarde..."):
             
             # --- IMPORTANTE: SUBSTITUA PELA SUA URL DE DOWNLOAD DIRETO ---
-            # 1. Compacte os seus ficheiros essenciais num único 'app_assets.zip'
-            # 2. Faça o upload para um serviço como Google Drive ou Dropbox
-            # 3. Gere um link de DOWNLOAD DIRETO e cole-o aqui.
             ASSETS_URL = "https://drive.google.com/uc?export=download&id=1M7jjdziKgC8Hg9WI1x3CGMKcGMpkwSRj"
             
             try:

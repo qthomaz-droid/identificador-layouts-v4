@@ -38,7 +38,7 @@ def setup_model_files():
             # 1. Compacte os seus ficheiros de modelo num único 'model_assets.zip'
             # 2. Faça o upload para um serviço como Google Drive, Dropbox ou Sync.com
             # 3. Gere um link de DOWNLOAD DIRETO e cole-o aqui.
-            MODEL_URL = "https://drive.google.com/file/d/1M7jjdziKgC8Hg9WI1x3CGMKcGMpkwSRj"
+            MODEL_URL = "https://drive.google.com/uc?export=download&id=1M7jjdziKgC8Hg9WI1x3CGMKcGMpkwSRj"
             
             try:
                 # Descarrega o ficheiro zip para a memória

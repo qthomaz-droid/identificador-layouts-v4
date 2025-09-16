@@ -18,8 +18,10 @@ import csv
 @st.cache_resource
 def setup_application_files():
     """
-    Verifica se os ficheiros essenciais existem. Se não, descarrega-os de um link de hospedagem.
+    Verifica se os ficheiros essenciais (modelos e logo) existem.
+    Se não, descarrega-os de um link de hospedagem.
     """
+    # Lista de ficheiros que a aplicação precisa para funcionar
     arquivos_essenciais = [
         'layout_embeddings.joblib', 
         'layout_labels.joblib', 
@@ -31,8 +33,8 @@ def setup_application_files():
     if precisa_descarregar:
         with st.spinner("A configurar o ambiente pela primeira vez. A descarregar ativos da aplicação, por favor aguarde..."):
             
-            # --- IMPORTANTE: SUBSTITUA PELA SUA URL DE DOWNLOAD DIRETO ---
-            ASSETS_URL = "https://drive.google.com/uc?export=download&id=1M7jjdziKgC8Hg9WI1x3CGMKcGMpkwSRj"
+            # --- URL DE DOWNLOAD DIRETO ATUALIZADA ---
+            ASSETS_URL = "https://drive.google.com/uc?export=download&id=1KEj-mKymVu4sCydpQ_nd5EnUJwPfiGLB"
             
             try:
                 response = requests.get(ASSETS_URL)
@@ -284,3 +286,4 @@ elif st.session_state.analise_feita:
         st.error(f"Ocorreu um erro: {resultados['erro']}")
     elif not resultados:
         st.warning("Nenhum layout compatível encontrado para os filtros selecionados.")
+

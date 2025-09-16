@@ -31,3 +31,5 @@ temp_files/
 Thumbs.db
 
 model_assets.zip
+app_assets.zip
+*.png

@@ -37,7 +37,7 @@ def setup_application_files():
             # 1. Compacte os seus ficheiros essenciais num único 'app_assets.zip'
             # 2. Faça o upload para um serviço como Google Drive ou Dropbox
             # 3. Gere um link de DOWNLOAD DIRETO e cole-o aqui.
-            ASSETS_URL = "URL_DE_DOWNLOAD_DIRETO_DO_SEU_ZIP_AQUI"
+            ASSETS_URL = "https://drive.google.com/uc?export=download&id=1KEj-mKymVu4sCydpQ_nd5EnUJwPfiGLB"
             
             try:
                 response = requests.get(ASSETS_URL)

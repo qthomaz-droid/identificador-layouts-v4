@@ -1,7 +1,6 @@
 # Arquivo: app.py
 
 import streamlit as st
-from identificador import identificar_layout, recarregar_modelo, extrair_texto_do_arquivo
 import os
 import subprocess
 import time
@@ -9,16 +8,60 @@ import sys
 import shutil
 from datetime import datetime
 from dotenv import load_dotenv
-import pandas as pd
-import csv
+import requests
 import zipfile
 from io import BytesIO
+import pandas as pd
+import csv
 
-# --- CARREGAMENTO EXPLÍCITO DE SEGREDOS ---
+# --- LÓGICA DE DOWNLOAD DOS ATIVOS (RESOLVE O PROBLEMA DE DEPLOY) ---
+@st.cache_resource
+def setup_application_files():
+    """
+    Verifica se os ficheiros essenciais (modelos e logo) existem.
+    Se não, descarrega-os de um link de hospedagem.
+    """
+    # Lista de ficheiros que a aplicação precisa para funcionar
+    arquivos_essenciais = [
+        'layout_embeddings.joblib', 
+        'layout_labels.joblib', 
+        'layouts_meta.json',
+        'CC_logo_horizontal_branco.png' # Adicionamos o logo à lista
+    ]
+    precisa_descarregar = any(not os.path.exists(f) for f in arquivos_essenciais)
+
+    if precisa_descarregar:
+        with st.spinner("A configurar o ambiente pela primeira vez. A descarregar ativos da aplicação, por favor aguarde..."):
+            
+            # --- IMPORTANTE: SUBSTITUA PELA SUA URL DE DOWNLOAD DIRETO ---
+            # 1. Compacte os seus ficheiros essenciais num único 'app_assets.zip'
+            # 2. Faça o upload para um serviço como Google Drive ou Dropbox
+            # 3. Gere um link de DOWNLOAD DIRETO e cole-o aqui.
+            ASSETS_URL = "URL_DE_DOWNLOAD_DIRETO_DO_SEU_ZIP_AQUI"
+            
+            try:
+                response = requests.get(ASSETS_URL)
+                response.raise_for_status()
+                with zipfile.ZipFile(BytesIO(response.content)) as z:
+                    z.extractall(".")
+                st.success("Ambiente configurado com sucesso! A aplicação será recarregada.")
+                time.sleep(2)
+                st.rerun()
+            except Exception as e:
+                st.error(f"Falha crítica ao descarregar os ativos da aplicação: {e}")
+                st.error("Verifique se a URL no app.py está correta e é um link de download direto.")
+                st.stop()
+
+# Executa a função de configuração no início de cada execução
+setup_application_files()
+
+# --- CARREGAMENTO DE SEGREDOS E O RESTO DA APLICAÇÃO ---
+# Importa o cérebro DEPOIS de a configuração estar pronta
+from identificador import identificar_layout, recarregar_modelo, extrair_texto_do_arquivo
+
 caminho_secrets = os.path.join(".streamlit", "secrets.toml")
 if os.path.exists(caminho_secrets):
     load_dotenv(dotenv_path=caminho_secrets)
-    print("Arquivo de segredos do Streamlit carregado para o ambiente.")
 
 # --- Configurações Iniciais ---
 TEMP_DIR = "temp_files"
@@ -26,34 +69,21 @@ TRAIN_DIR = "arquivos_de_treinamento"
 MAP_FILE = "mapeamento_layouts.xlsx"
 CACHE_DIR = "cache_de_texto"
 LOG_FILE = "admin_log.csv"
-
 for folder in [TEMP_DIR, TRAIN_DIR, CACHE_DIR]:
     if not os.path.exists(folder):
         os.makedirs(folder)
 
 st.set_page_config(page_title="Identificador Semântico", layout="wide")
 
-# --- Logo ---
 col_logo1, col_logo2, col_logo3 = st.columns([1, 1, 1])
 with col_logo2:
     if os.path.exists("CC_logo_horizontal_branco.png"):
         st.image("CC_logo_horizontal_branco.png")
 
-st.title("Identificador de Layouts 🤖")
+st.title("IA identificadora de Layouts 🤖")
 
-# --- SEÇÃO DE TUTORIAL ---
-with st.expander("💡 Como obter os melhores resultados? Clique aqui para ver o guia rápido!"):
-    st.markdown("""
-    Para aumentar a precisão da IA, **preencha os campos opcionais**. Quanto mais contexto você fornecer, mais inteligente será a busca!
-
-    - **Origem:** Informe o sistema ou banco de origem (Ex:`Sicoob`, `Conta Azul`). A IA dará **preferência** aos layouts com o nome do sistema informado.
-    - **Descrição:** Adicione palavras-chave do relatório (Ex: `Extrato de conta`, `contas a pagar`). A IA buscará por layouts que contenham estes termos no **cabeçalho ou na descrição**.
-    - **Tipo de Relatório:** Filtre os resultados entre relatórios **Bancário** (extratos) ou **Financeiro** (outros).
-    """)
-
-# --- FUNÇÕES DE APOIO (DEFINIDAS NO TOPO) ---
+# --- Funções de Apoio ---
 def log_admin_action(username, action, details):
-    """Função para registrar uma ação do administrador."""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     if not os.path.exists(LOG_FILE):
         with open(LOG_FILE, 'w', newline='', encoding='utf-8') as f:
@@ -62,9 +92,7 @@ def log_admin_action(username, action, details):
     with open(LOG_FILE, 'a', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow([timestamp, username, action, details])
-
 def analisar_arquivo(caminho_arquivo, sistema=None, descricao=None, tipo_relatorio=None, senha=None):
-    """Chama o identificador e atualiza o estado da sessão."""
     st.session_state.resultados = identificar_layout(
         caminho_arquivo, 
         sistema_alvo=sistema, 
@@ -75,30 +103,25 @@ def analisar_arquivo(caminho_arquivo, sistema=None, descricao=None, tipo_relator
     st.session_state.senha_incorreta = (st.session_state.resultados == "SENHA_INCORRETA")
     st.session_state.senha_necessaria = (st.session_state.resultados == "SENHA_NECESSARIA")
     st.session_state.analise_feita = True
-
 def confirmar_e_retreinar(codigo_correto):
-    """Processa a confirmação de um layout e inicia o retreinamento."""
     if st.session_state.caminho_arquivo_temp and os.path.exists(st.session_state.caminho_arquivo_temp):
         nome_original = st.session_state.nome_arquivo_original
         admin_user = os.getenv('username', 'N/A')
         detalhes_log = f"Arquivo '{nome_original}' confirmado para o layout '{codigo_correto}'."
         log_admin_action(admin_user, "Confirmação de Layout", detalhes_log)
-        
         timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
         novo_nome_base = f"{codigo_correto}_confirmed_{timestamp}_{nome_original}"
         caminho_destino = os.path.join(TRAIN_DIR, novo_nome_base)
         shutil.copy(st.session_state.caminho_arquivo_temp, caminho_destino)
-        
         texto_novo = extrair_texto_do_arquivo(caminho_destino)
         if texto_novo:
             caminho_cache = os.path.join(CACHE_DIR, novo_nome_base + '.txt')
             with open(caminho_cache, 'w', encoding='utf-8') as f:
                 f.write(texto_novo)
-        
         st.info(f"O layout '{codigo_correto}' foi reforçado. Iniciando retreinamento rápido...")
         subprocess.Popen([sys.executable, 'treinador_em_massa.py', '--retreinar-rapido'])
     else:
-        st.error("Nenhum arquivo válido para confirmar.")
+        st.error("Nenhum ficheiro válido para confirmar.")
 
 # --- Gerenciamento de Estado ---
 if 'analise_feita' not in st.session_state: st.session_state.analise_feita = False
@@ -112,7 +135,7 @@ if 'authenticated' not in st.session_state: st.session_state.authenticated = Fal
 # --- PAINEL DE ADMIN NA SIDEBAR ---
 st.sidebar.title("Painel de Administração")
 if not st.session_state.authenticated:
-    username_input = st.sidebar.text_input("Usuário", key="username")
+    username_input = st.sidebar.text_input("Utilizador", key="username")
     password_input = st.sidebar.text_input("Senha", type="password", key="password")
     if st.sidebar.button("Login"):
         if (os.getenv("username") and os.getenv("password") and
@@ -120,10 +143,10 @@ if not st.session_state.authenticated:
             password_input == os.getenv("password")):
             st.session_state.authenticated = True; st.rerun()
         else:
-            st.sidebar.error("Usuário ou senha incorretos.")
+            st.sidebar.error("Utilizador ou senha incorretos.")
 if st.session_state.authenticated:
     st.sidebar.success(f"Bem-vindo, {os.getenv('username', 'Admin')}!")
-    st.sidebar.header("Upload de Arquivos")
+    st.sidebar.header("Upload de Ficheiros")
     uploaded_map_file = st.sidebar.file_uploader("1. Enviar mapeamento (.xlsx)", type=['xlsx'])
     if uploaded_map_file:
         try:
@@ -131,17 +154,17 @@ if st.session_state.authenticated:
             st.sidebar.success(f"'{MAP_FILE}' atualizado!")
         except Exception as e:
             st.sidebar.error(f"Erro ao salvar: {e}")
-    uploaded_training_files = st.sidebar.file_uploader("2. Enviar arquivos de treinamento", accept_multiple_files=True)
+    uploaded_training_files = st.sidebar.file_uploader("2. Enviar ficheiros de treinamento", accept_multiple_files=True)
     if uploaded_training_files:
         for file in uploaded_training_files:
             with open(os.path.join(TRAIN_DIR, file.name), "wb") as f: f.write(file.getbuffer())
-        st.sidebar.success(f"{len(uploaded_training_files)} arquivo(s) salvos.")
+        st.sidebar.success(f"{len(uploaded_training_files)} ficheiro(s) salvos.")
     st.sidebar.header("Gerenciamento do Modelo")
     if st.sidebar.button("Iniciar Retreinamento do Modelo"):
         st.sidebar.info("O treinamento foi iniciado em segundo plano...")
         subprocess.Popen([sys.executable, 'treinador_em_massa.py'])
     if st.sidebar.button("Recarregar Modelo na Aplicação"):
-        with st.spinner("Recarregando modelo..."):
+        with st.spinner("A recarregar modelo..."):
             if recarregar_modelo():
                 st.sidebar.success("Modelo recarregado!"); time.sleep(1); st.rerun()
             else:
@@ -210,9 +233,9 @@ st.header("Identificar Layout")
 with st.form(key="search_form"):
     col1, col2, col3 = st.columns(3)
     with col1:
-        sistema_input = st.text_input("Origem (Opcional)", placeholder="Ex: Sicoob, Conta Azul, Bradesco...")
+        sistema_input = st.text_input("Sistema (Opcional)", placeholder="Ex: Dominio, SCI, Prosoft...")
     with col2:
-        descricao_input = st.text_input("Descrição (Opcional)", placeholder="Ex: Extrato de conta, Relatório de contas a pagar...")
+        descricao_input = st.text_input("Descrição (Opcional)", placeholder="Ex: Extrato de conta, Relatório...")
     with col3:
         tipo_relatorio_input = st.selectbox("Tipo de Relatório", ("Todos", "Bancário", "Financeiro"))
     uploaded_file = st.file_uploader("Selecione ou arraste um ficheiro para analisar")

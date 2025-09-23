@@ -26,7 +26,6 @@ AREA_CABECALHO_PERCENTUAL = 0.15
 STOPWORDS = []
 NOME_MODELO_SEMANTICO = 'distiluse-base-multilingual-cased-v1'
 
-# --- LÓGICA DE CAMINHOS ABSOLUTOS ---
 DIRETORIO_ATUAL = os.path.dirname(os.path.abspath(__file__))
 ARQUIVO_EMBEDDINGS = os.path.join(DIRETORIO_ATUAL, 'layout_embeddings.joblib')
 ARQUIVO_LABELS = os.path.join(DIRETORIO_ATUAL, 'layout_labels.joblib')
@@ -37,6 +36,32 @@ API_BASE_URL = "https://manager.conciliadorcontabil.com.br/api/"
 
 MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS = None, None, None, {}
 MODELO_CARREGADO = False
+
+# --- MUDANÇA PRINCIPAL AQUI ---
+@st.cache_resource
+def carregar_recursos_modelo():
+    """
+    Função otimizada que carrega todos os modelos e dados apenas uma vez
+    e os mantém em cache para toda a sessão da aplicação.
+    """
+    print("Executando carregamento completo de recursos (deve acontecer apenas uma vez por sessão)...")
+    try:
+        modelo_semantico = SentenceTransformer(NOME_MODELO_SEMANTICO)
+        layout_embeddings = joblib.load(ARQUIVO_EMBEDDINGS)
+        layout_labels = joblib.load(ARQUIVO_LABELS)
+        with open(ARQUIVO_METADADOS, 'r', encoding='utf-8') as f:
+            meta_list = json.load(f)
+            metadados_locais = {str(item['codigo_layout']): item for item in meta_list}
+        
+        # A busca de imagens também é um recurso que pode ser cacheado
+        metadados_finais = buscar_e_mesclar_imagens_api(metadados_locais)
+        
+        print("Recursos carregados e cacheados com sucesso.")
+        return True, modelo_semantico, layout_embeddings, layout_labels, metadados_finais
+
+    except Exception as e:
+        print(f"AVISO: Arquivos de modelo não encontrados ou erro ao carregar: {e}.")
+        return False, None, None, None, None
 
 def buscar_e_mesclar_imagens_api(metadados_locais):
     print("Buscando links de imagem na API do Manager...")
@@ -73,7 +98,6 @@ def buscar_e_mesclar_imagens_api(metadados_locais):
 
         mapa_imagens = {str(layout.get('codigo')): layout.get('imagem') for layout in layouts_da_api_lista if layout.get('codigo') is not None and layout.get('imagem')}
         
-        print(f"Sucesso! {len(mapa_imagens)} links de imagem encontrados. Mesclando com metadados...")
         for codigo, meta in metadados_locais.items():
             if codigo in mapa_imagens:
                 meta['url_previa'] = mapa_imagens[codigo]
@@ -84,27 +108,16 @@ def buscar_e_mesclar_imagens_api(metadados_locais):
         print(f"ERRO CRÍTICO ao buscar imagens da API: {e}")
         return metadados_locais
 
-def carregar_modelo_semantico():
-    global MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS, MODELO_CARREGADO
-    try:
-        print("Carregando modelo semântico na memória...")
-        MODELO_SEMANTICO = SentenceTransformer(NOME_MODELO_SEMANTICO)
-        LAYOUT_EMBEDDINGS = joblib.load(ARQUIVO_EMBEDDINGS)
-        LAYOUT_LABELS = joblib.load(ARQUIVO_LABELS)
-        with open(ARQUIVO_METADADOS, 'r', encoding='utf-8') as f:
-            meta_list = json.load(f)
-            metadados_locais = {str(item['codigo_layout']): item for item in meta_list}
-        
-        METADADOS_LAYOUTS = buscar_e_mesclar_imagens_api(metadados_locais)
+# Carrega os recursos usando a nova função cacheada
+MODELO_CARREGADO, MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS = carregar_recursos_modelo()
 
-        MODELO_CARREGADO = True
-        print(f"Modelo Semântico e {len(METADADOS_LAYOUTS)} metadados carregados com sucesso.")
-        return True
-    except Exception as e:
-        MODELO_CARREGADO = False
-        print(f"AVISO: Arquivos de modelo não encontrados ou erro ao carregar: {e}.")
-        return False
-carregar_modelo_semantico()
+def recarregar_modelo():
+    """Limpa o cache e força o recarregamento dos recursos."""
+    carregar_recursos_modelo.clear()
+    global MODELO_CARREGADO, MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS
+    MODELO_CARREGADO, MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS = carregar_recursos_modelo()
+    return MODELO_CARREGADO
+
 SENHAS_COMUNS = ["", "123456", "0000"]
 def extrair_texto_do_arquivo(caminho_arquivo, senha_manual=None):
     texto_completo = ""
@@ -236,8 +249,6 @@ def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, descricao_adi
                 resultados_filtrados.append(resultado)
     
     return resultados_filtrados[:5]
-def recarregar_modelo():
-    return carregar_modelo_semantico()
 def retreinar_modelo_completo():
     try:
         subprocess.run([sys.executable, 'treinador_em_massa.py'], check=True)

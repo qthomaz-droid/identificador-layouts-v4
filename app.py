@@ -1,7 +1,6 @@
 # Arquivo: app.py
 
 import streamlit as st
-from identificador import identificar_layout, recarregar_modelo, extrair_texto_do_arquivo
 import os
 import subprocess
 import time
@@ -9,12 +8,54 @@ import sys
 import shutil
 from datetime import datetime
 from dotenv import load_dotenv
-import pandas as pd
-import csv
+import requests
 import zipfile
 from io import BytesIO
+import pandas as pd
+import csv
 
-# --- CARREGAMENTO EXPLÍCITO DE SEGREDOS ---
+# --- LÓGICA DE DOWNLOAD DOS ATIVOS (RESOLVE O PROBLEMA DE DEPLOY) ---
+@st.cache_resource
+def setup_application_files():
+    """
+    Verifica se os ficheiros essenciais (modelos e logo) existem.
+    Se não, descarrega-os de um link de hospedagem.
+    """
+    # Lista de ficheiros que a aplicação precisa para funcionar
+    arquivos_essenciais = [
+        'layout_embeddings.joblib', 
+        'layout_labels.joblib', 
+        'layouts_meta.json',
+        'CC_logo_horizontal_branco.png'
+    ]
+    precisa_descarregar = any(not os.path.exists(f) for f in arquivos_essenciais)
+
+    if precisa_descarregar:
+        with st.spinner("A configurar o ambiente pela primeira vez. A descarregar ativos da aplicação, por favor aguarde..."):
+            
+            # --- IMPORTANTE: SUBSTITUA PELA SUA URL DE DOWNLOAD DIRETO ---
+            ASSETS_URL = "https://drive.google.com/uc?export=download&id=1KEj-mKymVu4sCydpQ_nd5EnUJwPfiGLB"
+            
+            try:
+                response = requests.get(ASSETS_URL)
+                response.raise_for_status()
+                with zipfile.ZipFile(BytesIO(response.content)) as z:
+                    z.extractall(".")
+                st.success("Ambiente configurado com sucesso! A aplicação será recarregada.")
+                time.sleep(2)
+                st.rerun()
+            except Exception as e:
+                st.error(f"Falha crítica ao descarregar os ativos da aplicação: {e}")
+                st.error("Verifique se a URL no app.py está correta e é um link de download direto.")
+                st.stop()
+
+# Executa a função de configuração no início de cada execução
+setup_application_files()
+
+# --- CARREGAMENTO DE SEGREDOS E O RESTO DA APLICAÇÃO ---
+# Importa o cérebro DEPOIS de a configuração estar pronta
+from identificador import identificar_layout, recarregar_modelo, extrair_texto_do_arquivo
+
 caminho_secrets = os.path.join(".streamlit", "secrets.toml")
 if os.path.exists(caminho_secrets):
     load_dotenv(dotenv_path=caminho_secrets)
@@ -26,7 +67,6 @@ TRAIN_DIR = "arquivos_de_treinamento"
 MAP_FILE = "mapeamento_layouts.xlsx"
 CACHE_DIR = "cache_de_texto"
 LOG_FILE = "admin_log.csv"
-
 for folder in [TEMP_DIR, TRAIN_DIR, CACHE_DIR]:
     if not os.path.exists(folder):
         os.makedirs(folder)

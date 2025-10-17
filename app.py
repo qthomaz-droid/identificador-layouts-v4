@@ -1,6 +1,7 @@
 # Arquivo: app.py
 
 import streamlit as st
+from identificador import identificar_layout, recarregar_modelo, extrair_texto_do_arquivo, get_layouts_mapeados
 import os
 import subprocess
 import time
@@ -8,54 +9,13 @@ import sys
 import shutil
 from datetime import datetime
 from dotenv import load_dotenv
-import requests
-import zipfile
-from io import BytesIO
 import pandas as pd
 import csv
+import zipfile
+from io import BytesIO
+from streamlit.components.v1 import html # <-- Importação necessária
 
-# --- LÓGICA DE DOWNLOAD DOS ATIVOS (RESOLVE O PROBLEMA DE DEPLOY) ---
-@st.cache_resource
-def setup_application_files():
-    """
-    Verifica se os ficheiros essenciais (modelos e logo) existem.
-    Se não, descarrega-os de um link de hospedagem.
-    """
-    # Lista de ficheiros que a aplicação precisa para funcionar
-    arquivos_essenciais = [
-        'layout_embeddings.joblib', 
-        'layout_labels.joblib', 
-        'layouts_meta.json',
-        'CC_logo_horizontal_branco.png'
-    ]
-    precisa_descarregar = any(not os.path.exists(f) for f in arquivos_essenciais)
-
-    if precisa_descarregar:
-        with st.spinner("A configurar o ambiente pela primeira vez. A descarregar ativos da aplicação, por favor aguarde..."):
-            
-            # --- IMPORTANTE: SUBSTITUA PELA SUA URL DE DOWNLOAD DIRETO ---
-            ASSETS_URL = "https://drive.google.com/uc?export=download&id=1KEj-mKymVu4sCydpQ_nd5EnUJwPfiGLB"
-            
-            try:
-                response = requests.get(ASSETS_URL)
-                response.raise_for_status()
-                with zipfile.ZipFile(BytesIO(response.content)) as z:
-                    z.extractall(".")
-                st.success("Ambiente configurado com sucesso! A aplicação será recarregada.")
-                time.sleep(2)
-                st.rerun()
-            except Exception as e:
-                st.error(f"Falha crítica ao descarregar os ativos da aplicação: {e}")
-                st.error("Verifique se a URL no app.py está correta e é um link de download direto.")
-                st.stop()
-
-# Executa a função de configuração no início de cada execução
-setup_application_files()
-
-# --- CARREGAMENTO DE SEGREDOS E O RESTO DA APLICAÇÃO ---
-# Importa o cérebro DEPOIS de a configuração estar pronta
-from identificador import identificar_layout, recarregar_modelo, extrair_texto_do_arquivo
-
+# --- CARREGAMENTO EXPLÍCITO DE SEGREDOS ---
 caminho_secrets = os.path.join(".streamlit", "secrets.toml")
 if os.path.exists(caminho_secrets):
     load_dotenv(dotenv_path=caminho_secrets)
@@ -92,6 +52,19 @@ with st.expander("💡 Como obter os melhores resultados? Clique aqui para ver o
     """)
 
 # --- FUNÇÕES DE APOIO (DEFINIDAS NO TOPO) ---
+
+def scroll_to_element(element_id):
+    """Injeta JS para rolar a tela até um elemento âncora."""
+    js = f"""
+    <script>
+        var element = document.getElementById('{element_id}');
+        if (element) {{
+            element.scrollIntoView({{ behavior: 'auto', block: 'start' }});
+        }}
+    </script>
+    """
+    html(js, height=0, width=0)
+
 def log_admin_action(username, action, details):
     """Função para registrar uma ação do administrador."""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -148,6 +121,8 @@ if 'senha_incorreta' not in st.session_state: st.session_state.senha_incorreta =
 if 'caminho_arquivo_temp' not in st.session_state: st.session_state.caminho_arquivo_temp = ""
 if 'nome_arquivo_original' not in st.session_state: st.session_state.nome_arquivo_original = ""
 if 'authenticated' not in st.session_state: st.session_state.authenticated = False
+if 'page_number' not in st.session_state: st.session_state.page_number = 0
+if 'scroll_to_top' not in st.session_state: st.session_state.scroll_to_top = False # Novo estado
 
 # --- PAINEL DE ADMIN NA SIDEBAR ---
 st.sidebar.title("Painel de Administração")
@@ -244,65 +219,134 @@ if st.session_state.authenticated:
     if st.sidebar.button("Logout"):
         st.session_state.authenticated = False; st.rerun()
 
-# --- INTERFACE PRINCIPAL DO IDENTIFICADOR ---
-st.divider()
-st.header("Identificar Layout")
-with st.form(key="search_form"):
-    col1, col2, col3 = st.columns(3)
-    with col1:
-        sistema_input = st.text_input("Origem (Opcional)", placeholder="Ex: Sicoob, Conta Azul, Bradesco...")
-    with col2:
-        descricao_input = st.text_input("Descrição (Opcional)", placeholder="Ex: Extrato de conta, Relatório de contas a pagar...")
-    with col3:
-        tipo_relatorio_input = st.selectbox("Tipo de Relatório", ("Todos", "Bancário", "Financeiro"))
-    uploaded_file = st.file_uploader("Selecione ou arraste um ficheiro para analisar")
-    submitted = st.form_submit_button("Analisar / Refazer Busca")
-if submitted:
-    if uploaded_file is not None:
-        with st.spinner('A analisar novo ficheiro...'):
-            caminho_arquivo = os.path.join(TEMP_DIR, uploaded_file.name)
-            with open(caminho_arquivo, "wb") as f:
-                f.write(uploaded_file.getbuffer())
-            st.session_state.caminho_arquivo_temp = caminho_arquivo
-            st.session_state.nome_arquivo_original = uploaded_file.name
-            analisar_arquivo(caminho_arquivo, sistema=sistema_input, descricao=descricao_input, tipo_relatorio=tipo_relatorio_input)
-    elif st.session_state.caminho_arquivo_temp:
-        with st.spinner(f"A refazer busca para '{st.session_state.nome_arquivo_original}'..."):
-            analisar_arquivo(st.session_state.caminho_arquivo_temp, sistema=sistema_input, descricao=descricao_input, tipo_relatorio=tipo_relatorio_input)
-    else:
-        st.warning("Por favor, selecione um ficheiro para analisar.")
-if st.session_state.senha_necessaria:
-    st.warning("🔒 O PDF está protegido por senha.")
-    senha_manual = st.text_input("Digite a senha do PDF:", type="password", key="pwd_input")
-    if st.button("Tentar novamente"):
-        if senha_manual:
-            with st.spinner('A analisar...'):
-                analisar_arquivo(st.session_state.caminho_arquivo_temp, sistema=sistema_input, descricao=descricao_input, tipo_relatorio=tipo_relatorio_input, senha=senha_manual)
-                st.rerun()
-elif st.session_state.senha_incorreta:
-    st.error("A senha manual está incorreta.")
-elif st.session_state.analise_feita:
-    resultados = st.session_state.resultados
-    if isinstance(resultados, list) and resultados:
-        if resultados[0].get('compatibilidade') == 'Alta':
-            st.subheader("🏆 Ranking de Layouts Compatíveis")
+# --- INTERFACE PRINCIPAL: ABAS ---
+tab1, tab2 = st.tabs(["🔍 Identificar Layout", "📂 Navegar por Todos os Layouts"])
+
+with tab1:
+    st.header("Analisar um Arquivo")
+    with st.form(key="search_form"):
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            sistema_input = st.text_input("Origem (Opcional)", placeholder="Ex: Sicoob, Conta Azul...")
+        with col2:
+            descricao_input = st.text_input("Descrição (Opcional)", placeholder="Ex: Extrato de conta...")
+        with col3:
+            tipo_relatorio_input = st.selectbox("Tipo de Relatório", ("Todos", "Bancário", "Financeiro"))
+        uploaded_file = st.file_uploader("Selecione ou arraste um ficheiro para analisar")
+        submitted = st.form_submit_button("Analisar / Refazer Busca")
+    if submitted:
+        if uploaded_file is not None:
+            with st.spinner('A analisar novo ficheiro...'):
+                caminho_arquivo = os.path.join(TEMP_DIR, uploaded_file.name)
+                with open(caminho_arquivo, "wb") as f:
+                    f.write(uploaded_file.getbuffer())
+                st.session_state.caminho_arquivo_temp = caminho_arquivo
+                st.session_state.nome_arquivo_original = uploaded_file.name
+                analisar_arquivo(caminho_arquivo, sistema=sistema_input, descricao=descricao_input, tipo_relatorio=tipo_relatorio_input)
+        elif st.session_state.caminho_arquivo_temp:
+            with st.spinner(f"A refazer busca para '{st.session_state.nome_arquivo_original}'..."):
+                analisar_arquivo(st.session_state.caminho_arquivo_temp, sistema=sistema_input, descricao=descricao_input, tipo_relatorio=tipo_relatorio_input)
         else:
-            st.subheader("Estes são os resultados que mais se aproximam")
-        for res in resultados:
-            with st.container(border=True):
-                col_res_1, col_res_2, col_res_3 = st.columns([1, 3, 1])
-                with col_res_1:
-                    if res.get("url_previa"):
-                        st.image(res["url_previa"], caption=f"Exemplo {res['codigo_layout']}", width=150)
-                with col_res_2:
-                    st.markdown(f"### {res['banco']}")
-                    st.markdown(f"- **Código:** `{res['codigo_layout']}`\n- **Compatibilidade:** **{res['compatibilidade']}**")
-                with col_res_3:
-                    st.markdown('<div style="display: flex; align-items: center; justify-content: flex-end; height: 100%;">', unsafe_allow_html=True)
-                    if st.button("Confirmar este layout", key=f"confirm_{res['codigo_layout']}"):
-                        confirmar_e_retreinar(res['codigo_layout'])
-                    st.markdown('</div>', unsafe_allow_html=True)
-    elif isinstance(resultados, dict) and 'erro' in resultados:
-        st.error(f"Ocorreu um erro: {resultados['erro']}")
-    elif not resultados:
-        st.warning("Nenhum layout compatível encontrado para os filtros selecionados.")
+            st.warning("Por favor, selecione um ficheiro para analisar.")
+            
+    # Lógica de exibição de resultados da análise
+    if st.session_state.senha_necessaria:
+        st.warning("🔒 O PDF está protegido por senha.")
+        senha_manual = st.text_input("Digite a senha do PDF:", type="password", key="pwd_input")
+        if st.button("Tentar novamente"):
+            if senha_manual:
+                with st.spinner('A analisar...'):
+                    analisar_arquivo(st.session_state.caminho_arquivo_temp, sistema=sistema_input, descricao=descricao_input, tipo_relatorio=tipo_relatorio_input, senha=senha_manual)
+                    st.rerun()
+    elif st.session_state.senha_incorreta:
+        st.error("A senha manual está incorreta.")
+    elif st.session_state.analise_feita:
+        resultados = st.session_state.resultados
+        if isinstance(resultados, list) and resultados:
+            if resultados[0].get('compatibilidade') == 'Alta':
+                st.subheader("🏆 Ranking de Layouts Compatíveis")
+            else:
+                st.subheader("Estes são os resultados que mais se aproximam")
+            for res in resultados:
+                with st.container(border=True):
+                    col_res_1, col_res_2, col_res_3 = st.columns([1, 3, 1])
+                    with col_res_1:
+                        if res.get("url_previa"):
+                            st.image(res["url_previa"], caption=f"Exemplo {res['codigo_layout']}", width=150)
+                    with col_res_2:
+                        st.markdown(f"### {res['banco']}")
+                        st.markdown(f"- **Código:** `{res['codigo_layout']}`\n- **Compatibilidade:** **{res['compatibilidade']}**")
+                    with col_res_3:
+                        st.markdown('<div style="display: flex; align-items: center; justify-content: flex-end; height: 100%;">', unsafe_allow_html=True)
+                        if st.button("Confirmar este layout", key=f"confirm_{res['codigo_layout']}"):
+                            confirmar_e_retreinar(res['codigo_layout'])
+                        st.markdown('</div>', unsafe_allow_html=True)
+        elif isinstance(resultados, dict) and 'erro' in resultados:
+            st.error(f"Ocorreu um erro: {resultados['erro']}")
+        elif not resultados:
+            st.warning("Nenhum layout compatível encontrado para os filtros.")
+
+with tab2:
+    # --- ÂNCORA INVISÍVEL NO TOPO DA ABA ---
+    st.markdown("<div id='top-of-list'></div>", unsafe_allow_html=True)
+    
+    # --- SCRIPT DE SCROLL ---
+    if 'scroll_to_top' in st.session_state and st.session_state.scroll_to_top:
+        scroll_to_element('top-of-list')
+        st.session_state.scroll_to_top = False # Resetar a flag
+
+    st.header("Navegar e Filtrar Todos os Layouts")
+    
+    col_nav1, col_nav2, col_nav3 = st.columns(3)
+    with col_nav1:
+        filtro_sistema = st.text_input("Filtrar por Origem", key="nav_sistema")
+    with col_nav2:
+        filtro_descricao = st.text_input("Filtrar por Descrição", key="nav_descricao")
+    with col_nav3:
+        filtro_tipo = st.selectbox("Filtrar por Tipo", ("Todos", "Bancário", "Financeiro"), key="nav_tipo")
+    
+    layouts_filtrados = get_layouts_mapeados()
+    if filtro_sistema:
+        layouts_filtrados = [l for l in layouts_filtrados if filtro_sistema.lower() in l.get('sistema', '').lower()]
+    if filtro_descricao:
+        layouts_filtrados = [l for l in layouts_filtrados if filtro_descricao.lower() in l.get('descricao', '').lower()]
+    if filtro_tipo != "Todos":
+        layouts_filtrados = [l for l in layouts_filtrados if l.get('tipo_relatorio') == filtro_tipo]
+        
+    st.write(f"**{len(layouts_filtrados)} layouts encontrados**")
+    
+    ITENS_POR_PAGINA = 10
+    total_paginas = max(1, (len(layouts_filtrados) - 1) // ITENS_POR_PAGINA + 1)
+    
+    if st.session_state.page_number >= total_paginas:
+        st.session_state.page_number = 0
+        
+    start_idx = st.session_state.page_number * ITENS_POR_PAGINA
+    end_idx = start_idx + ITENS_POR_PAGINA
+    
+    for layout in layouts_filtrados[start_idx:end_idx]:
+        with st.container(border=True):
+            col_res_1, col_res_2 = st.columns([1, 4])
+            with col_res_1:
+                if layout.get("url_previa"):
+                    st.image(layout["url_previa"], width=150)
+            with col_res_2:
+                st.markdown(f"##### {layout.get('descricao', 'N/A')}")
+                st.markdown(f"**Código:** `{layout.get('codigo_layout', 'N/A')}` | **Origem:** `{layout.get('sistema', 'N/A')}` | **Tipo:** `{layout.get('tipo_relatorio', 'N/A')}`")
+
+    st.divider()
+    col_pag1, col_pag2, col_pag3 = st.columns([1, 2, 1])
+    with col_pag1:
+        if st.button("⬅️ Anterior"):
+            if st.session_state.page_number > 0:
+                st.session_state.page_number -= 1
+                st.session_state.scroll_to_top = True # Ativar a flag
+                st.rerun()
+    with col_pag2:
+        st.write(f"Página **{st.session_state.page_number + 1}** de **{total_paginas}**")
+    with col_pag3:
+        if st.button("Próxima ➡️"):
+            if st.session_state.page_number < total_paginas - 1:
+                st.session_state.page_number += 1
+                st.session_state.scroll_to_top = True # Ativar a flag
+                st.rerun()

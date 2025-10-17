@@ -13,8 +13,8 @@ from datetime import datetime
 import requests
 from dotenv import load_dotenv
 
-# Importa as duas funções de extração do nosso cérebro
-from identificador import extrair_texto_do_arquivo, extrair_texto_do_cabecalho
+# Importa as duas funções de extração do nosso cérebro e as stopwords
+from identificador import extrair_texto_do_arquivo, extrair_texto_do_cabecalho, STOPWORDS
 
 # --- CONFIGURAÇÕES ---
 PASTA_PRINCIPAL_TREINAMENTO = 'arquivos_de_treinamento'
@@ -143,13 +143,18 @@ def atualizar_metadados():
         print(f"ERRO ao ler o arquivo Excel: {e}.")
         return None
 
-def treinar_modelo_ml(mapa_layouts):
+def treinar_modelo_ml():
     print("\n--- Etapa de Treinamento de Machine Learning (Usando Cache) ---")
     textos_por_layout = defaultdict(str)
     
     if not os.path.exists(PASTA_PRINCIPAL_TREINAMENTO):
         print("AVISO: Pasta de treinamento não encontrada. Pulando etapa de ML.")
         return
+    if not os.path.exists(ARQUIVO_METADADOS):
+        print("AVISO: Arquivo de metadados não encontrado. Execute a atualização de metadados primeiro.")
+        return
+    with open(ARQUIVO_METADADOS, 'r', encoding='utf-8') as f:
+        mapa_layouts = {item['codigo_layout']: item for item in json.load(f)}
 
     print("Verificando cache e lendo/gerando textos de treinamento...")
     for nome_arquivo in tqdm(os.listdir(PASTA_PRINCIPAL_TREINAMENTO), desc="Processando arquivos"):
@@ -195,6 +200,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Treinador para o identificador de layouts.")
     parser.add_argument('--sincronizar-api', action='store_true', help="Apenas sincroniza a API para o arquivo Excel e atualiza os metadados.")
     parser.add_argument('--apenas-meta', action='store_true', help="Apenas atualiza os metadados a partir do Excel existente.")
+    parser.add_argument('--retreinar-rapido', action='store_true', help="Apenas retreina o modelo de ML a partir do cache de texto existente.")
     args = parser.parse_args()
 
     if args.sincronizar_api:
@@ -202,13 +208,13 @@ if __name__ == '__main__':
             atualizar_metadados()
     elif args.apenas_meta:
         atualizar_metadados()
+    elif args.retreinar_rapido:
+        treinar_modelo_ml()
     else:
-        # O fluxo completo agora sempre tenta sincronizar primeiro
         sucesso_sinc = sincronizar_mapeamento_com_api()
         if sucesso_sinc:
             mapa_final = atualizar_metadados()
             if mapa_final:
-                treinar_modelo_ml(mapa_final)
+                treinar_modelo_ml()
     
     print("\n--- Processo Concluído ---")
-

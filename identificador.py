@@ -26,6 +26,7 @@ AREA_CABECALHO_PERCENTUAL = 0.15
 STOPWORDS = []
 NOME_MODELO_SEMANTICO = 'distiluse-base-multilingual-cased-v1'
 
+# --- LÓGICA DE CAMINHOS ABSOLUTOS ---
 DIRETORIO_ATUAL = os.path.dirname(os.path.abspath(__file__))
 ARQUIVO_EMBEDDINGS = os.path.join(DIRETORIO_ATUAL, 'layout_embeddings.joblib')
 ARQUIVO_LABELS = os.path.join(DIRETORIO_ATUAL, 'layout_labels.joblib')
@@ -37,7 +38,6 @@ API_BASE_URL = "https://manager.conciliadorcontabil.com.br/api/"
 MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS = None, None, None, {}
 MODELO_CARREGADO = False
 
-# --- MUDANÇA PRINCIPAL AQUI ---
 @st.cache_resource
 def carregar_recursos_modelo():
     """
@@ -53,7 +53,6 @@ def carregar_recursos_modelo():
             meta_list = json.load(f)
             metadados_locais = {str(item['codigo_layout']): item for item in meta_list}
         
-        # A busca de imagens também é um recurso que pode ser cacheado
         metadados_finais = buscar_e_mesclar_imagens_api(metadados_locais)
         
         print("Recursos carregados e cacheados com sucesso.")
@@ -61,7 +60,7 @@ def carregar_recursos_modelo():
 
     except Exception as e:
         print(f"AVISO: Arquivos de modelo não encontrados ou erro ao carregar: {e}.")
-        return False, None, None, None, None
+        return False, None, None, None, {}
 
 def buscar_e_mesclar_imagens_api(metadados_locais):
     print("Buscando links de imagem na API do Manager...")
@@ -108,11 +107,9 @@ def buscar_e_mesclar_imagens_api(metadados_locais):
         print(f"ERRO CRÍTICO ao buscar imagens da API: {e}")
         return metadados_locais
 
-# Carrega os recursos usando a nova função cacheada
 MODELO_CARREGADO, MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS = carregar_recursos_modelo()
 
 def recarregar_modelo():
-    """Limpa o cache e força o recarregamento dos recursos."""
     carregar_recursos_modelo.clear()
     global MODELO_CARREGADO, MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS
     MODELO_CARREGADO, MODELO_SEMANTICO, LAYOUT_EMBEDDINGS, LAYOUT_LABELS, METADADOS_LAYOUTS = carregar_recursos_modelo()
@@ -193,10 +190,10 @@ def get_compatibilidade_label(pontuacao):
     elif pontuacao >= 60: return "Média"
     else: return "Baixa"
 def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, descricao_adicional=None, tipo_relatorio_alvo=None, senha_manual=None):
-    if not MODELO_CARREGADO: return {"erro": "Modelo Semântico não foi treinado."}
+    if not MODELO_CARREGADO: return [{"erro": "Modelo Semântico não foi carregado."}]
     texto_arquivo = extrair_texto_do_arquivo(caminho_arquivo_cliente, senha_manual=senha_manual)
     if texto_arquivo in ["SENHA_NECESSARIA", "SENHA_INCORRETA"]: return texto_arquivo
-    if not texto_arquivo: return {"erro": "Não foi possível ler o conteúdo."}
+    if not texto_arquivo: return [{"erro": "Não foi possível ler o conteúdo."}]
     
     texto_final_para_busca = texto_arquivo + " " + (descricao_adicional or "")
     
@@ -249,6 +246,13 @@ def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, descricao_adi
                 resultados_filtrados.append(resultado)
     
     return resultados_filtrados[:5]
+
+def get_layouts_mapeados():
+    """Retorna a lista completa de metadados dos layouts carregados."""
+    if MODELO_CARREGADO:
+        return list(METADADOS_LAYOUTS.values())
+    return []
+
 def retreinar_modelo_completo():
     try:
         subprocess.run([sys.executable, 'treinador_em_massa.py'], check=True)

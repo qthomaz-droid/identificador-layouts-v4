@@ -332,7 +332,7 @@ with tab2:
                     st.image(layout["url_previa"], width=150)
             with col_res_2:
                 st.markdown(f"##### {layout.get('descricao', 'N/A')}")
-                st.markdown(f"**Código:** `{layout.get('codigo_layout', 'N/A')}` | **Origem:** `{layout.get('sistema', 'N/A')}` | **Tipo:** `{layout.get('tipo_relatorio', 'N/A')}`")
+                st.markdown(f"**Código:** `{layout.get('codigo_layout', 'N/A')}` | **Origem:** `{layout.get('sistema', 'N/A')}`")
 
     st.divider()
     col_pag1, col_pag2, col_pag3 = st.columns([1, 2, 1])

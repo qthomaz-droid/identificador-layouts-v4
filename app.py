@@ -1,7 +1,7 @@
 # Arquivo: app.py
 
 import streamlit as st
-from identificador import identificar_layout, recarregar_modelo, extrair_texto_do_arquivo, get_layouts_mapeados
+from identificador import identificar_layout, recarregar_modelo, extrair_texto_do_arquivo, get_layouts_mapeados, log_search_action
 import os
 import subprocess
 import time
@@ -13,13 +13,11 @@ import pandas as pd
 import csv
 import zipfile
 from io import BytesIO
-from streamlit.components.v1 import html # <-- Importação necessária
 
 # --- CARREGAMENTO EXPLÍCITO DE SEGREDOS ---
 caminho_secrets = os.path.join(".streamlit", "secrets.toml")
 if os.path.exists(caminho_secrets):
     load_dotenv(dotenv_path=caminho_secrets)
-    print("Arquivo de segredos do Streamlit carregado para o ambiente.")
 
 # --- Configurações Iniciais ---
 TEMP_DIR = "temp_files"
@@ -27,9 +25,11 @@ TRAIN_DIR = "arquivos_de_treinamento"
 MAP_FILE = "mapeamento_layouts.xlsx"
 CACHE_DIR = "cache_de_texto"
 LOG_FILE = "admin_log.csv"
+SEARCH_LOG_FILE = "search_log.csv" # <-- Novo arquivo de log
+
 for folder in [TEMP_DIR, TRAIN_DIR, CACHE_DIR]:
     if not os.path.exists(folder):
-        os.makedirs(folder)
+        os.makedirs(folder, exist_ok=True)
 
 st.set_page_config(page_title="Identificador Semântico", layout="wide")
 
@@ -41,32 +41,24 @@ with col_logo2:
 
 st.title("Identificador de Layouts 🤖")
 
-# --- SEÇÃO DE TUTORIAL ---
-with st.expander("💡 Como obter os melhores resultados? Clique aqui para ver o guia rápido!"):
-    st.markdown("""
-    Para aumentar a precisão da IA, **preencha os campos opcionais**. Quanto mais contexto você fornecer, mais inteligente será a busca!
+# --- SEÇÃO SUPERIOR: TUTORIAL E CONTADOR ---
+layouts_mapeados = get_layouts_mapeados()
+total_layouts = len(layouts_mapeados)
 
-    - **Origem:** Informe o sistema ou banco de origem (Ex:Sicoob, Conta Azul). A IA dará preferência aos layouts com o nome do sistema informado. 
-    - **Descrição:** Adicione palavras-chave do relatório (Ex: `Extrato de conta`, `contas a pagar`). A IA buscará por layouts que contenham estes termos no **cabeçalho ou na descrição**.
-    - **Tipo de Relatório:** Filtre os resultados entre relatórios **Bancário** (extratos) ou **Financeiro** (outros).
-    """)
+col_info, col_count = st.columns([3, 1])
+with col_info:
+    with st.expander("💡 Como obter os melhores resultados? Clique aqui para ver o guia rápido!"):
+        st.markdown("""
+        Para aumentar a precisão da IA, **preencha os campos opcionais**. Quanto mais contexto você fornecer, mais inteligente será a busca!
+        - **Origem:** Informe o sistema ou banco de origem (Ex:Sicoob, Conta Azul).
+        - **Descrição:** Adicione palavras-chave do relatório (Ex: `Extrato de conta`, `contas a pagar`).
+        - **Tipo de Relatório:** Filtre entre **Bancário** (extratos) ou **Financeiro**.
+        """)
+with col_count:
+    st.metric("Total de Layouts Mapeados", f"{total_layouts}")
 
 # --- FUNÇÕES DE APOIO (DEFINIDAS NO TOPO) ---
-
-def scroll_to_element(element_id):
-    """Injeta JS para rolar a tela até um elemento âncora."""
-    js = f"""
-    <script>
-        var element = document.getElementById('{element_id}');
-        if (element) {{
-            element.scrollIntoView({{ behavior: 'auto', block: 'start' }});
-        }}
-    </script>
-    """
-    html(js, height=0, width=0)
-
 def log_admin_action(username, action, details):
-    """Função para registrar uma ação do administrador."""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     if not os.path.exists(LOG_FILE):
         with open(LOG_FILE, 'w', newline='', encoding='utf-8') as f:
@@ -77,20 +69,27 @@ def log_admin_action(username, action, details):
         writer.writerow([timestamp, username, action, details])
 
 def analisar_arquivo(caminho_arquivo, sistema=None, descricao=None, tipo_relatorio=None, senha=None):
-    """Chama o identificador e atualiza o estado da sessão."""
     st.session_state.resultados = identificar_layout(
-        caminho_arquivo, 
-        sistema_alvo=sistema, 
-        descricao_adicional=descricao,
-        tipo_relatorio_alvo=tipo_relatorio,
-        senha_manual=senha
+        caminho_arquivo, sistema_alvo=sistema, descricao_adicional=descricao,
+        tipo_relatorio_alvo=tipo_relatorio, senha_manual=senha
     )
     st.session_state.senha_incorreta = (st.session_state.resultados == "SENHA_INCORRETA")
     st.session_state.senha_necessaria = (st.session_state.resultados == "SENHA_NECESSARIA")
     st.session_state.analise_feita = True
 
+    # --- LÓGICA DE LOG DE BUSCA ---
+    if isinstance(st.session_state.resultados, list) and st.session_state.resultados:
+        top_res = st.session_state.resultados[0]
+        log_search_action(
+            filename=st.session_state.nome_arquivo_original,
+            user_origin=sistema,
+            user_desc=descricao,
+            user_type=tipo_relatorio,
+            top_result_code=top_res.get('codigo_layout'),
+            top_result_compat=top_res.get('compatibilidade')
+        )
+
 def confirmar_e_retreinar(codigo_correto):
-    """Processa a confirmação de um layout e inicia o retreinamento."""
     if st.session_state.caminho_arquivo_temp and os.path.exists(st.session_state.caminho_arquivo_temp):
         nome_original = st.session_state.nome_arquivo_original
         admin_user = os.getenv('username', 'N/A')
@@ -122,9 +121,8 @@ if 'caminho_arquivo_temp' not in st.session_state: st.session_state.caminho_arqu
 if 'nome_arquivo_original' not in st.session_state: st.session_state.nome_arquivo_original = ""
 if 'authenticated' not in st.session_state: st.session_state.authenticated = False
 if 'page_number' not in st.session_state: st.session_state.page_number = 0
-if 'scroll_to_top' not in st.session_state: st.session_state.scroll_to_top = False # Novo estado
 
-# --- PAINEL DE ADMIN NA SIDEBAR ---
+# --- PAINEL DE ADMIN NA SIDEBAR (REFEITO) ---
 st.sidebar.title("Painel de Administração")
 if not st.session_state.authenticated:
     username_input = st.sidebar.text_input("Usuário", key="username")
@@ -138,84 +136,57 @@ if not st.session_state.authenticated:
             st.sidebar.error("Usuário ou senha incorretos.")
 if st.session_state.authenticated:
     st.sidebar.success(f"Bem-vindo, {os.getenv('username', 'Admin')}!")
-    st.sidebar.header("Upload de Arquivos")
-    uploaded_map_file = st.sidebar.file_uploader("1. Enviar mapeamento (.xlsx)", type=['xlsx'])
-    if uploaded_map_file:
-        try:
-            with open(MAP_FILE, "wb") as f: f.write(uploaded_map_file.getbuffer())
-            st.sidebar.success(f"'{MAP_FILE}' atualizado!")
-        except Exception as e:
-            st.sidebar.error(f"Erro ao salvar: {e}")
-    uploaded_training_files = st.sidebar.file_uploader("2. Enviar arquivos de treinamento", accept_multiple_files=True)
-    if uploaded_training_files:
-        for file in uploaded_training_files:
-            with open(os.path.join(TRAIN_DIR, file.name), "wb") as f: f.write(file.getbuffer())
-        st.sidebar.success(f"{len(uploaded_training_files)} arquivo(s) salvos.")
-    st.sidebar.header("Gerenciamento do Modelo")
-    if st.sidebar.button("Iniciar Retreinamento do Modelo"):
-        st.sidebar.info("O treinamento foi iniciado em segundo plano...")
-        subprocess.Popen([sys.executable, 'treinador_em_massa.py'])
-    if st.sidebar.button("Recarregar Modelo na Aplicação"):
-        with st.spinner("Recarregando modelo..."):
-            if recarregar_modelo():
-                st.sidebar.success("Modelo recarregado!"); time.sleep(1); st.rerun()
-            else:
-                st.sidebar.error("Falha ao recarregar.")
-    st.sidebar.header("Backup e Restauração")
-    with st.sidebar.expander("Gerir Backups"):
-        if st.button("Criar Backup Agora"):
-            with st.spinner("A criar o ficheiro de backup..."):
-                assets_para_backup = [
-                    'mapeamento_layouts.xlsx', 'layouts_meta.json',
-                    'layout_embeddings.joblib', 'layout_labels.joblib',
-                    'arquivos_de_treinamento', 'cache_de_texto'
-                ]
-                zip_buffer = BytesIO()
-                with zipfile.ZipFile(zip_buffer, "a", zipfile.ZIP_DEFLATED, False) as zip_file:
-                    for asset_name in assets_para_backup:
-                        if os.path.exists(asset_name):
-                            if os.path.isfile(asset_name): zip_file.write(asset_name)
-                            elif os.path.isdir(asset_name):
-                                for root, _, files in os.walk(asset_name):
-                                    for file in files:
-                                        file_path = os.path.join(root, file)
-                                        zip_file.write(file_path)
-                zip_buffer.seek(0)
-                st.session_state.backup_data = zip_buffer
-        if 'backup_data' in st.session_state and st.session_state.backup_data is not None:
-            st.download_button(
-                label="Baixar Ficheiro de Backup (.zip)",
-                data=st.session_state.backup_data,
-                file_name=f"backup_identificador_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.zip",
-                mime="application/zip"
-            )
-        uploaded_backup = st.file_uploader("Restaurar a partir de um backup (.zip)", type=['zip'])
-        if uploaded_backup:
-            if st.button("Confirmar Restauração"):
-                with st.spinner("A restaurar o backup..."):
-                    with zipfile.ZipFile(uploaded_backup, 'r') as zip_ref:
-                        zip_ref.extractall(".")
-                    st.success("Backup restaurado com sucesso!")
-                    st.warning("Por favor, clique em 'Recarregar Modelo na Aplicação'.")
-    st.sidebar.header("Log de Atividades")
-    with st.sidebar.expander("Ver Contribuições de Treinamento"):
-        if os.path.exists(LOG_FILE):
+    
+    # --- 1. Upload de Treinamento em Lote ---
+    st.sidebar.header("Treinamento em Lote (Upload)")
+    with st.sidebar.expander("Adicionar Novos Layouts (via .zip)"):
+        st.info("Envie um ou mais arquivos .zip (até 200MB cada) contendo os seus PDFs de exemplo. Os nomes dos arquivos devem seguir o padrão: `codigo_nomedolayout.pdf`.")
+        
+        uploaded_zip_files = st.file_uploader(
+            "Selecione um ou mais arquivos .zip",
+            type=['zip'],
+            accept_multiple_files=True
+        )
+        
+        if uploaded_zip_files:
+            if st.button("Processar e Iniciar Treinamento"):
+                total_files_extracted = 0
+                with st.spinner("Extraindo arquivos..."):
+                    for uploaded_file in uploaded_zip_files:
+                        try:
+                            with zipfile.ZipFile(uploaded_file, 'r') as zip_ref:
+                                zip_ref.extractall(TRAIN_DIR)
+                                total_files_extracted += len(zip_ref.namelist())
+                        except Exception as e:
+                            st.error(f"Erro ao extrair '{uploaded_file.name}': {e}")
+                
+                st.success(f"{total_files_extracted} arquivos extraídos com sucesso!")
+                st.info("O treinamento completo (sincronização da API + treinamento de ML) foi iniciado em segundo plano. Isto pode levar várias horas.")
+                subprocess.Popen([sys.executable, 'treinador_em_massa.py'])
+
+    # --- 2. Log de Requisições de Usuários ---
+    st.sidebar.header("Log de Requisições de Usuários")
+    with st.sidebar.expander("Ver Log de Buscas"):
+        if os.path.exists(SEARCH_LOG_FILE):
             try:
-                df_log = pd.read_csv(LOG_FILE)
+                df_log = pd.read_csv(SEARCH_LOG_FILE)
                 st.dataframe(df_log.tail(15))
-                with open(LOG_FILE, "rb") as f:
+                with open(SEARCH_LOG_FILE, "rb") as f:
                     st.download_button(
                         label="Baixar log completo (.csv)",
                         data=f,
-                        file_name="admin_log.csv",
+                        file_name="search_log.csv",
                         mime="text/csv",
                     )
             except pd.errors.EmptyDataError:
-                st.info("O log de atividades ainda está vazio.")
+                st.info("O log de buscas ainda está vazio.")
             except Exception as e:
                 st.error(f"Erro ao ler o log: {e}")
         else:
-            st.info("O log de atividades ainda está vazio.")
+            st.info("O log de buscas ainda está vazio.")
+            
+    # --- Botão de Logout ---
+    st.sidebar.button("Logout")
     if st.sidebar.button("Logout"):
         st.session_state.authenticated = False; st.rerun()
 
@@ -287,14 +258,6 @@ with tab1:
             st.warning("Nenhum layout compatível encontrado para os filtros.")
 
 with tab2:
-    # --- ÂNCORA INVISÍVEL NO TOPO DA ABA ---
-    st.markdown("<div id='top-of-list'></div>", unsafe_allow_html=True)
-    
-    # --- SCRIPT DE SCROLL ---
-    if 'scroll_to_top' in st.session_state and st.session_state.scroll_to_top:
-        scroll_to_element('top-of-list')
-        st.session_state.scroll_to_top = False # Resetar a flag
-
     st.header("Navegar e Filtrar Todos os Layouts")
     
     col_nav1, col_nav2, col_nav3 = st.columns(3)
@@ -332,7 +295,7 @@ with tab2:
                     st.image(layout["url_previa"], width=150)
             with col_res_2:
                 st.markdown(f"##### {layout.get('descricao', 'N/A')}")
-                st.markdown(f"**Código:** `{layout.get('codigo_layout', 'N/A')}` | **Origem:** `{layout.get('sistema', 'N/A')}`")
+                st.markdown(f"**Código:** `{layout.get('codigo_layout', 'N/A')}` | **Origem:** `{layout.get('sistema', 'N/A')}` | **Tipo:** `{layout.get('tipo_relatorio', 'N/A')}`")
 
     st.divider()
     col_pag1, col_pag2, col_pag3 = st.columns([1, 2, 1])
@@ -340,7 +303,7 @@ with tab2:
         if st.button("⬅️ Anterior"):
             if st.session_state.page_number > 0:
                 st.session_state.page_number -= 1
-                st.session_state.scroll_to_top = True # Ativar a flag
+                st.session_state.scroll_to_top = True
                 st.rerun()
     with col_pag2:
         st.write(f"Página **{st.session_state.page_number + 1}** de **{total_paginas}**")
@@ -348,9 +311,5 @@ with tab2:
         if st.button("Próxima ➡️"):
             if st.session_state.page_number < total_paginas - 1:
                 st.session_state.page_number += 1
-                st.session_state.scroll_to_top = True # Ativar a flag
-<<<<<<< HEAD
-                st.rerun() 
-=======
+                st.session_state.scroll_to_top = True
                 st.rerun()
->>>>>>> 1577a789c4e2fc6051c8228d92c6b1dfa16102d5

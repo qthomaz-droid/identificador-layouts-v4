@@ -17,6 +17,8 @@ import subprocess
 import sys
 import requests
 import streamlit as st
+import csv
+from datetime import datetime
 
 # --- CONFIGURAÇÕES ---
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -32,6 +34,8 @@ ARQUIVO_EMBEDDINGS = os.path.join(DIRETORIO_ATUAL, 'layout_embeddings.joblib')
 ARQUIVO_LABELS = os.path.join(DIRETORIO_ATUAL, 'layout_labels.joblib')
 ARQUIVO_METADADOS = os.path.join(DIRETORIO_ATUAL, 'layouts_meta.json')
 PASTA_CACHE = os.path.join(DIRETORIO_ATUAL, 'cache_de_texto')
+LOG_FILE = os.path.join(DIRETORIO_ATUAL, 'admin_log.csv')
+SEARCH_LOG_FILE = os.path.join(DIRETORIO_ATUAL, 'search_log.csv')
 
 API_BASE_URL = "https://manager.conciliadorcontabil.com.br/api/"
 
@@ -44,7 +48,7 @@ def carregar_recursos_modelo():
     Função otimizada que carrega todos os modelos e dados apenas uma vez
     e os mantém em cache para toda a sessão da aplicação.
     """
-    print("Executando carregamento completo de recursos (deve acontecer apenas uma vez por sessão)...")
+    print("Executando carregamento completo de recursos...")
     try:
         modelo_semantico = SentenceTransformer(NOME_MODELO_SEMANTICO)
         layout_embeddings = joblib.load(ARQUIVO_EMBEDDINGS)
@@ -248,7 +252,6 @@ def identificar_layout(caminho_arquivo_cliente, sistema_alvo=None, descricao_adi
     return resultados_filtrados[:5]
 
 def get_layouts_mapeados():
-    """Retorna a lista completa de metadados dos layouts carregados."""
     if MODELO_CARREGADO:
         return list(METADADOS_LAYOUTS.values())
     return []
@@ -260,3 +263,24 @@ def retreinar_modelo_completo():
     except Exception as e:
         print(f"Erro ao executar o script de retreinamento: {e}")
         return False
+
+# --- NOVA FUNÇÃO DE LOG DE BUSCA ---
+def log_search_action(filename, user_origin, user_desc, user_type, top_result_code, top_result_compat):
+    """Registra uma busca do usuário no log de requisições."""
+    try:
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        user = os.getenv('username', 'Utilizador Anónimo')
+        
+        # Garante que o cabeçalho exista
+        if not os.path.exists(SEARCH_LOG_FILE):
+            with open(SEARCH_LOG_FILE, 'w', newline='', encoding='utf-8') as f:
+                writer = csv.writer(f)
+                writer.writerow(["Timestamp", "Utilizador", "Ficheiro", "Filtro Origem", "Filtro Descrição", "Filtro Tipo", "Resultado (Layout)", "Compatibilidade"])
+        
+        # Adiciona a nova entrada de log
+        with open(SEARCH_LOG_FILE, 'a', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow([timestamp, user, filename, user_origin, user_desc, user_type, top_result_code, top_result_compat])
+            
+    except Exception as e:
+        print(f"ERRO ao escrever no log de busca: {e}")

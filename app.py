@@ -349,4 +349,4 @@ with tab2:
             if st.session_state.page_number < total_paginas - 1:
                 st.session_state.page_number += 1
                 st.session_state.scroll_to_top = True # Ativar a flag
-                st.rerun()
+                st.rerun() 

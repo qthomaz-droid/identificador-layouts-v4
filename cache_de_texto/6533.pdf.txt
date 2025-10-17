@@ -1,0 +1,393 @@
+relação de pagamentos agrupada por data de pagamento
+gestores
+data: 11/09/2025 14:31:56
+usuário: anderson
+filial "igual" : 2 mediterraneo industria de panificados ltda
+data pagamento "entre" : 01/08/2025 a 31/08/2025
+conta bancária "igual" : 11 201.017-8
+data de pagamento:
+06/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+06/08/2025 18/07/2025
+brf s.a.
+003130551
+3130551
+fornecedor
+boleto
+3.241,22
+3.241,22
+compra de
+201.017-8
+0,00
+total:
+3.241,22
+3.241,22
+0,00
+data de pagamento:
+07/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+07/08/2025 06/08/2025
+servico social da
+sesi
+boleto
+438,03
+438,03
+fornecedores
+201.017-8
+0,00
+total:
+438,03
+438,03
+0,00
+data de pagamento:
+08/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+08/08/2025 07/08/2025
+vivo
+boleto
+142,43
+142,43
+telefone
+201.017-8
+0,00
+total:
+142,43
+142,43
+0,00
+data de pagamento:
+11/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+11/08/2025 10/08/2025
+claro s.a.
+boleto
+342,78
+342,78
+internet
+201.017-8
+0,00
+11/08/2025 10/08/2025
+porto seguro cia de
+boleto
+390,00
+390,00
+seguro de vida
+201.017-8
+0,00
+11/08/2025 10/08/2025
+samp espirito santo
+boleto
+336,00
+336,00
+plano
+201.017-8
+0,00
+11/08/2025 10/08/2025
+up health
+boleto
+2.049,50
+2.049,50
+plano de saúde
+201.017-8
+0,00
+total:
+3.118,28
+3.118,28
+0,00
+data de pagamento:
+13/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+13/08/2025 12/08/2025
+f & l servicos ltda
+manutenção aparelho de
+boleto
+290,00
+290,00
+manutenção com
+201.017-8
+0,00
+total:
+290,00
+290,00
+0,00
+data de pagamento:
+15/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+05/08/2025 03/08/2025
+sintramassas
+taxa ref folha
+transferên
+3.229,13
+3.229,13
+sindipaes
+201.017-8
+0,00
+05/08/2025 04/08/2025
+sintramassas
+taxa ref folha
+transferên
+643,31
+643,31
+sindipaes
+201.017-8
+0,00
+15/08/2025 14/08/2025
+sindipaes
+boleto
+95,00
+95,00
+sindipaes
+201.017-8
+0,00
+brajan sistemas
+www.brajan.com.br
+página: 1
+15/08/2025 14/08/2025
+sizesystems ltda
+boleto
+238,36
+238,36
+brajan sistema
+201.017-8
+0,00
+total:
+4.205,80
+4.205,80
+0,00
+data de pagamento:
+18/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+18/08/2025 17/08/2025
+servico social da
+sesi
+boleto
+327,37
+327,37
+seguranca
+201.017-8
+0,00
+total:
+327,37
+327,37
+0,00
+data de pagamento:
+20/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+20/08/2025 19/08/2025
+simples nacional
+boleto
+2.830,86
+2.830,86
+simples nacional
+201.017-8
+0,00
+20/08/2025 19/08/2025
+fundo de garantia por
+fgts ref folha 07/2025
+boleto
+6.384,81
+6.384,81
+fgts
+201.017-8
+0,00
+20/08/2025 19/08/2025
+secretaria da receita
+boleto
+3.013,59
+3.013,59
+inss
+201.017-8
+0,00
+total:
+12.229,26
+12.229,26
+0,00
+data de pagamento:
+21/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+21/08/2025 20/08/2025
+sindicato das
+boleto
+49,00
+49,00
+vale transporte
+201.017-8
+0,00
+total:
+49,00
+49,00
+0,00
+data de pagamento:
+23/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+23/08/2025 04/08/2025
+brf s.a.
+003139898
+3139898
+fornecedor
+boleto
+2.960,40
+2.960,40
+compra de
+201.017-8
+0,00
+total:
+2.960,40
+2.960,40
+0,00
+data de pagamento:
+26/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+26/08/2025 07/08/2025
+brf s.a.
+003142679
+3142679
+fornecedor
+boleto
+266,82
+266,82
+compra de
+201.017-8
+0,00
+26/08/2025 07/08/2025
+brf s.a.
+003142680
+3142680
+fornecedor
+boleto
+1.651,48
+1.651,48
+compra de
+201.017-8
+0,00
+total:
+1.918,30
+1.918,30
+0,00
+data de pagamento:
+28/08/2025
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+28/08/2025 27/08/2025
+sindicato das
+boleto
+2.866,50
+2.866,50
+vale transporte
+201.017-8
+0,00
+28/08/2025 27/08/2025
+claro s.a.
+boleto
+337,15
+337,15
+internet
+201.017-8
+0,00
+total:
+3.203,65
+3.203,65
+0,00
+total geral:
+32.123,74
+32.123,74
+registros:
+22
+0,00
+brajan sistemas
+www.brajan.com.br
+página: 2

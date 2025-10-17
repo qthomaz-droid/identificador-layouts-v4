@@ -1,0 +1,51 @@
+sicoob - sistema de cooperativas de crédito do brasil
+sisbr - sistema de informática do sicoob
+ 
+data: 03/02/2021
+extrato conta capital
+hora: 10:05:20
+coop.:
+3007 - sicoob leste capixaba
+matrícula:
+73547 - t.j. industrial ltda
+subscrição
+data
+histórico
+valor
+29/01/2021
+saldo anterior
+48.254,36
+saldo ===== >
+48.254,36
+integralização
+data
+histórico
+valor
+29/01/2021
+saldo anterior
+48.254,36
+saldo ===== >
+48.254,36
+devolução
+data
+histórico
+valor
+29/01/2021
+saldo anterior
+0,00
+saldo ===== >
+0,00
+resumo
+saldo subscrito:
+48.254,36
+saldo integralizado:
+48.254,36
+saldo devolver:
+0,00
+saldo valores diversos:
+0,00
+saldo valor bloqueado:
+0,00
+saldo total:
+48.254,36
+ouvidoria sicoob: 08007250996

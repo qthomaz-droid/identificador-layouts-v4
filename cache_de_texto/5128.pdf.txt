@@ -1,0 +1,469 @@
+cópia de relação de pagamentos agrupada por data de pagamento
+gestores
+data: 02/09/2024 07:57:22
+usuário: gabriele
+filial "igual" : 2 kvs distribuidora e prestadora de servicos ltda
+data pagamento "entre" : 01/08/2024 a 31/08/2024
+conta bancária "igual" : 6 571369
+data de pagamento:
+01/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+01/08/2024 11/06/2024 supermercados bh
+000000358
+01082024/1
+devolução de venda
+boleto dda
+255,00
+252,45
+devoluções de
+571369
+2,55
+01/08/2024 26/06/2024 supermercados bh
+000005350
+01082024/1
+devolução de venda
+boleto dda
+39,35
+38,96
+devoluções de
+571369
+0,39
+total:
+294,35
+291,41
+2,94
+data de pagamento:
+02/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+02/08/2024 17/06/2024 frooty com. e ind. de
+000252307
+252307/02
+ref a compra de açai para
+boleto dda
+22.623,41
+22.623,41
+compra de
+571369
+0,00
+02/08/2024 21/06/2024 frooty com. e ind. de
+000252308
+000252308
+ref a compra de açai para
+boleto dda
+2.946,95
+2.946,95
+compra de
+571369
+0,00
+02/08/2024 08/07/2024 funcionarios 
+ferias
+ref as ferias de gabriele
+debito em
+2.623,14
+2.623,14
+férias
+571369
+0,00
+total:
+28.193,50
+28.193,50
+0,00
+data de pagamento:
+05/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+05/08/2024 03/07/2024 funcionarios 
+salario
+ref ao salario do mes de
+debito em
+26.611,06
+26.611,06
+ordenados e
+á
+571369
+0,00
+05/08/2024 05/07/2024 drift com. de
+000012134
+00012134
+devolução de venda
+boleto dda
+16,02
+16,02
+devoluções de
+571369
+0,00
+05/08/2024 22/07/2024 unimed vitoria
+4942126
+20-096040/24
+ref ao plano de saude de
+boleto dda
+278,07
+278,07
+despesa de
+571369
+0,00
+05/08/2024 22/07/2024 unimed vitoria
+4942115
+20-096042/24
+ref ao plano de saude de
+boleto dda
+189,43
+189,43
+despesa de
+571369
+0,00
+05/08/2024 05/08/2024 sicoob
+tarifa 1/1
+ref a tarifa de
+debito em
+2,50
+2,50
+tarifas
+571369
+0,00
+total:
+27.097,08
+27.097,08
+0,00
+data de pagamento:
+06/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+06/08/2024 06/08/2024 sicoob
+tarifa
+ref a tarifa de
+debito em
+42,50
+42,50
+tarifas
+571369
+0,00
+total:
+42,50
+42,50
+0,00
+data de pagamento:
+08/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+08/08/2024 08/07/2024 drift com. de
+000012499
+00012499
+devolução de venda
+boleto dda
+330,59
+330,59
+devoluções de
+571369
+0,00
+total:
+330,59
+330,59
+0,00
+tellace sistemas
+página: 1
+data de pagamento:
+12/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+12/08/2024 12/07/2024 drift com. de
+000012486
+00012486
+devolução de venda
+boleto dda
+16,02
+16,02
+devoluções de
+571369
+0,00
+10/08/2024 30/07/2024 unimed vitoria
+4953042
+20-099121/24
+ref ao plano de saude de
+boleto dda
+123,81
+123,81
+despesa de
+571369
+0,00
+total:
+139,83
+139,83
+0,00
+data de pagamento:
+15/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+15/08/2024 23/07/2024 frooty com. e ind. de
+000254505
+000254505
+ref a compra de acai para
+boleto dda
+17.003,62
+17.003,62
+compra de
+571369
+0,00
+total:
+17.003,62
+17.003,62
+0,00
+data de pagamento:
+20/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+20/08/2024 30/07/2024 unimed vitoria
+4957124
+20-099122/24
+ref ao plano de saude de
+boleto dda
+123,81
+123,81
+despesa de
+571369
+0,00
+20/08/2024 05/08/2024 impostos 
+fgts julho ref ao fgts do mes de
+grf (guia
+2.708,00
+2.708,00
+fgts
+571369
+0,00
+20/08/2024 14/08/2024 impostos 
+inss julho
+ref ao inss do mes de
+dua
+1.010,26
+1.010,26
+inss
+571369
+0,00
+20/08/2024 14/08/2024 impostos 
+simples
+ref ao simples nacional
+dua
+6.212,80
+6.212,80
+simples nacional
+571369
+0,00
+total:
+10.054,87
+10.054,87
+0,00
+data de pagamento:
+23/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+23/08/2024 24/07/2024 drift com. de
+000014787
+00014787
+devolução de venda
+boleto dda
+14,38
+14,38
+devoluções de
+571369
+0,00
+23/08/2024 15/08/2024 funcionarios 
+ferias
+ref as ferias de
+debito em
+2.838,36
+2.838,36
+férias
+571369
+0,00
+total:
+2.852,74
+2.852,74
+0,00
+data de pagamento:
+26/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+25/08/2024 06/08/2024 alfa previdencia e vida
+7504567-9
+ref ao seguro de vida
+boleto dda
+158,08
+158,08
+despesas de
+571369
+0,00
+26/08/2024 26/08/2024 sicoob
+tarifa
+ref a tarifa de
+debito em
+2,50
+2,50
+tarifas
+571369
+0,00
+total:
+160,58
+160,58
+0,00
+data de pagamento:
+29/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+29/08/2024 21/06/2024 realmar distribuidora
+000130461
+29082024/1
+devolução de venda
+boleto dda
+193,50
+185,76
+devoluções de
+571369
+7,74
+29/08/2024 17/07/2024 realmar distribuidora
+000114349
+29082024/1
+devolução de venda
+boleto dda
+91,56
+87,90
+devoluções de
+571369
+3,66
+29/08/2024 17/07/2024 realmar distribuidora
+000109407
+29082024/1
+devolução de venda
+boleto dda
+164,16
+157,59
+devoluções de
+571369
+6,57
+total:
+449,22
+431,25
+17,97
+data de pagamento:
+30/08/2024
+dt. venc. dt. emis.
+fornecedor
+nf
+documento histórico
+espécie
+valor-r$ valor pago
+conta
+c/c
+restante
+tellace sistemas
+página: 2
+30/08/2024 23/07/2024 frooty com. e ind. de
+000254505
+000254505
+ref a compra de acai para
+boleto dda
+17.003,62
+17.003,62
+compra de
+571369
+0,00
+30/08/2024 16/08/2024 climele - medicina e
+34329
+34329
+ref ao serviço de
+boleto dda
+340,67
+340,67
+despesas com
+571369
+0,00
+total:
+17.344,29
+17.344,29
+0,00
+total geral:
+103.963,17
+103.942,26
+registros:
+28
+20,91
+tellace sistemas
+página: 3

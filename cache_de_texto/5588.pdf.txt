@@ -1,0 +1,315 @@
+extrato de compromissadas
+razão social: embalagens allbox ltda
+data-base:
+data de emissão:
+cnpj: 07.570.962/0001-25
+de: 01/05/2024 até: 31/05/2024
+31/05/2024
+ag: 0208 | cc: 0020350-5
+n. operação
+histórico
+data
+movimentação data início
+data
+vencimento indexador
+taxa
+cliente
+pu emissão
+quantidade
+valor principal
+valor bruto
+rendimento
+ir
+valor liquido
+20240502000000672824 aplicação
+02/05/2024
+02/05/2024
+31/05/2024
+cdi
+85,00%
+1012,56645901
+1830
+1.852.996,62
+1.852.996,62
+0,00
+0,00
+1.852.996,62
+resgate
+07/05/2024
+02/05/2024
+31/05/2024
+cdi
+85,00%
+1012,56646274
+1275
+1.291.022,24
+1.292.345,06
+1.322,82
+297,63
+1.292.047,43
+resgate
+09/05/2024
+02/05/2024
+31/05/2024
+cdi
+85,00%
+1012,56645045
+555
+561.974,38
+562.934,41
+960,03
+216,01
+562.718,40
+20240508000000686382 aplicação
+08/05/2024
+08/05/2024
+07/06/2024
+cdi
+85,00%
+831,52462365
+279
+231.995,37
+231.995,37
+0,00
+0,00
+231.995,37
+resgate
+09/05/2024
+08/05/2024
+07/06/2024
+cdi
+85,00%
+831,52462365
+279
+231.995,37
+232.074,58
+79,21
+17,82
+232.056,76
+20240515000000703403 aplicação
+15/05/2024
+15/05/2024
+14/06/2024
+cdi
+85,00%
+1031,05704663
+193
+198.994,01
+198.994,01
+0,00
+0,00
+198.994,01
+resgate
+16/05/2024
+15/05/2024
+14/06/2024
+cdi
+85,00%
+1031,05704663
+193
+198.994,01
+199.060,43
+66,42
+14,95
+199.045,48
+20240522000000721277 aplicação
+22/05/2024
+22/05/2024
+21/06/2024
+cdi
+85,00%
+1025,20683501
+594
+608.972,86
+608.972,86
+0,00
+0,00
+608.972,86
+resgate
+31/05/2024
+22/05/2024
+21/06/2024
+cdi
+85,00%
+1025,20714285
+7
+7.176,45
+7.190,83
+14,38
+3,24
+7.187,59
+resgate
+23/05/2024
+22/05/2024
+21/06/2024
+cdi
+85,00%
+1025,20683134
+587
+601.796,41
+601.997,29
+200,88
+45,20
+601.952,09
+20240524000000728143 aplicação
+24/05/2024
+24/05/2024
+21/06/2024
+cdi
+85,00%
+516,42666666
+30
+15.492,80
+15.492,80
+0,00
+0,00
+15.492,80
+resgate
+31/05/2024
+24/05/2024
+21/06/2024
+cdi
+85,00%
+516,42666666
+30
+15.492,80
+15.513,50
+20,70
+4,66
+15.508,84
+20240529000000739565 aplicação
+29/05/2024
+29/05/2024
+28/06/2024
+cdi
+85,00%
+911,46225559
+3795
+3.458.999,26
+3.458.999,26
+0,00
+0,00
+3.458.999,26
+resgate
+31/05/2024
+29/05/2024
+28/06/2024
+cdi
+85,00%
+911,46225626
+359
+327.214,95
+327.324,17
+109,22
+24,58
+327.299,59
+resgate
+31/05/2024
+29/05/2024
+28/06/2024
+cdi
+85,00%
+911,46225865
+549
+500.392,78
+500.559,81
+167,03
+37,58
+500.522,23
+20240426000000661326
+resgate
+07/05/2024
+26/04/2024
+24/05/2024
+cdi
+85,00%
+1042,79520547
+146
+152.248,10
+152.560,26
+312,16
+70,24
+152.490,02
+resgate
+07/05/2024
+26/04/2024
+24/05/2024
+cdi
+85,00%
+1042,79528735
+87
+90.723,19
+90.909,20
+186,01
+41,85
+90.867,35
+20240430000000669055
+resgate
+07/05/2024
+30/04/2024
+29/05/2024
+cdi
+85,00%
+1046,21870370
+108
+112.991,62
+113.146,01
+154,39
+34,74
+113.111,27
+20240422000000648684
+resgate
+07/05/2024
+22/04/2024
+22/05/2024
+cdi
+85,00%
+899,13967741
+124
+111.493,32
+111.874,57
+381,25
+85,78
+111.788,79
+20240423000000651320
+resgate
+07/05/2024
+23/04/2024
+23/05/2024
+cdi
+85,00%
+1051,82303703
+270
+283.992,22
+284.866,08
+873,86
+196,62
+284.669,46
+20240424000000653957
+resgate
+07/05/2024
+24/04/2024
+24/05/2024
+cdi
+85,00%
+1040,40270833
+48
+49.939,33
+50.075,90
+136,57
+30,73
+50.045,17
+observações: 
+os extratos neste relatório são referentes à data base exibida no cabeçalho com o nome “data-base”. 
+os saldos acima são baseados nas informações disponíveis até este instante e poderão ser alterados a qualquer momento em função de novos lançamentos. 
+1. nos termos deste documento, o itaú unibanco s.a. (“itaú”) se compromete a recomprar e o cliente a revender o título na data de vencimento da operação, 
+conforme previsto resolução bacen nº 3.339, de 26 de janeiro de 2006. 
+2. recompra antecipada: a pedido de cliente ou a critério exclusivo do itaú, a operação poderá ser antecipadamente recomprada, e sua remuneração considerará a taxa definida acima 
+aplicada sobre o valor principal para o período entre a data início e a data da recompra. na recompra antecipada o investidor não fará jus à remuneração esperada na data de vencimento. 
+2.1. observado o disposto no item 2 acima, nos casos de recompra efetuada pelo itaú, incluindo, mas não se limitando aos casos de assembleia geral/extraordinária de debenturistas ou 
+detentores dos títulos lastro da compromissada, os valores atinentes à recompra antecipada poderão ser reaplicados pelo itaú, sendo que o itaú envidará os melhores esforços para que os 
+valores da reaplicação sejam próximos dos valores da recompra antecipada. 
+3. vencimento antecipado: o itaú poderá recomprar/vencer antecipadamente a operação, caso o cliente ingresse em juízo com requerimento de recuperação judicial, independentemente 
+ bba
+de deferimento do processamento da recuperação ou de sua concessão pelo juiz competente, ou propuser qualquer procedimento ou medida prevista na lei nº 11.101/05 e respectivas 
+alterações, incluindo, mas não se limitando à medida cautelar antecedente.

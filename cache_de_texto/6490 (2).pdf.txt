@@ -1,0 +1,74 @@
+prefeitura do município de nova lima
+secretaria municipal da fazenda
+nota fiscal eletrônica de serviços - nfs-e
+rps nº 9928 série 1, emitido em 02/06/2025 11:09:56
+nº da nota
+9872
+data e hora de emissão
+02/06/2025 00:00:00
+código de veriﬁcação
+de4b0b185
+prestador de serviços
+cnpj/cpf: 06.165.667/0001-20
+município: nova lima 
+uf: mg
+nome/razão social: samba mobile multimidia sa
+inscrição municipal: 29652003
+inscrição estadual: 
+endereço: rua ministro orozimbo nonato, 215 - vila da serra - cep: 34006053
+e-mail: ﬁnanceiro@sambatech.com.br
+tomador de serviços
+cnpj/cpf: 40.424.646/0001-10
+município: passo fundo 
+uf: rs
+nome/razão social: ferretto cursos on line 
+ltda
+inscrição municipal: 
+inscrição estadual: 
+endereço: rua uruguai, 421 - centro - cep: 99.010110
+e-mail: rtagliari@gmail.com
+discriminação dos serviços
+utilizacao da plataforma samba videos (ao-vivo e vod) referente a 06/2025 e 15/06/2025 trafego armazenamento encoding
+código do serviço: 1.05 – licenciamento ou cessão de direito de uso de programas de computação.
+valor do serviço (r$)
+28.284,93
+qtd.
+1,00
+desconto (r$)
+0,00
+dedução (r$)
+0,00
+base de cálculo (r$)
+28.284,93
+alíquota (%)
+2,00%
+valor do iss (r$)
+565,70
+total (r$)
+28.284,93
+valor total da nota = r$ 28.284,93
+retenções
+inss (r$)
+0,00
+pis (r$)
+183,85
+cofins (r$)
+848,55
+c.s.l.l (r$)
+282,85
+irrf (r$)
+424,27
+issqn (r$)
+0,00
+outras retenções (r$)
+0,00
+total das retenções(r$)
+1.739,52
+valor líquido da nota
+26.545,41
+outras informações
+- iss de responsabilidade do: prestador de serviço
+- serviço tributado no município: nova lima
+- esta nfse foi emitida com respaldo da lei nº 1.911/2005 e do decreto nº 10.259/2020
+link para validação da nota fiscal - https://www.e-nfs.com.br/e-nfs_novalima/portal/ - "aba serviços"
+ «l samba:

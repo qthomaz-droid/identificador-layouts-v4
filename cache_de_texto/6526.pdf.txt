@@ -1,0 +1,377 @@
+empresa - banqueiro digital
+relatório de despesas - 05/2025
+despesas administrativas (4.1.1.02) - total: 62.829,13
+alugueis (4.1.1.02.0001) - total: 58.184,13
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+housi servicos digitais s.a
+30.032.993/0001-44
+-
+pix
+1/1
+11/05/2025
+8.000,00
+virtual office
+05.193.759/0001-51
+-
+boleto
+1/1
+11/05/2025
+184,13
+o celeiro tech ltda
+55.588.961/0001-50
+-
+pix
+1/1
+12/05/2025
+50.000,00
+total subcategoria
+58.184,13
+honorários contabeis (4.1.1.02.0005) - total: 2.000,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+new vision contabilidade ltda
+23.089.768/0001-89
+-
+boleto
+1/1
+20/05/2025
+2.000,00
+total subcategoria
+2.000,00
+telefonia e internet (4.1.1.02.0006) - total: 600,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+efix telecom telecomunicacoes ltda
+51.582.889/0001-01
+-
+boleto
+1/1
+14/05/2025
+600,00
+total subcategoria
+600,00
+associacao (4.1.1.02.0008) - total: 45,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+polo in
+17.863.437/0001-51
+-
+boleto
+1/1
+18/05/2025
+45,00
+total subcategoria
+45,00
+registro de marca (4.1.1.02.0009) - total: 2.000,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+donadi propriedade industrial ltda
+59.669.133/0001-06
+-
+pix
+1/1
+22/05/2025
+2.000,00
+total subcategoria
+2.000,00
+total categoria
+62.829,13
+folha de pagamento (4.1.1.03) - total: 82.178,59
+prestadores de serviço (4.1.1.03.0001) - total: 63.450,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+carlos vinicius dearo de carvalho
+49.924.770/0001-10
+-
+pix
+1/1
+05/05/2025
+5.000,00
+luis felipe machado de matos pessoa
+49.635.629/0001-05
+-
+pix
+1/1
+05/05/2025
+6.000,00
+acsa gabriele dias lopes
+56.386.283/0001-06
+-
+pix
+1/1
+05/05/2025
+1.700,00
+fabricio ventura vicentin
+60.511.440/0001-35
+-
+pix
+1/1
+05/05/2025
+1.250,00
+lucas alves de azevedo
+59.124.561/0001-45
+-
+pix
+1/1
+05/05/2025
+2.000,00
+bruna santos nogueira
+52.825.081/0001-62
+-
+pix
+1/1
+05/05/2025
+4.000,00
+michael fernando silva vicente
+55.510.521/0001-80
+-
+pix
+1/1
+05/05/2025
+3.500,00
+rafael gomes figueiredo
+43.358.947/0001-81
+-
+pix
+1/1
+05/05/2025
+10.000,00
+wellinton souza de oliveira
+50.747.128/0001-91
+-
+pix
+1/1
+05/05/2025
+7.000,00
+alexandro weslei de arruda
+33.831.956/0001-94
+-
+pix
+1/1
+05/05/2025
+10.000,00
+guilherme geronimo
+52.863.393/0001-60
+-
+pix
+1/1
+05/05/2025
+6.000,00
+luiz henrique meirelles
+43.359.072/0001-32
+-
+pix
+1/1
+05/05/2025
+7.000,00
+total subcategoria
+63.450,00
+estagiarios (4.1.1.03.0003) - total: 1.000,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+lucas filipe camargo giraldino
+499.723.498-29
+-
+pix
+1/1
+05/05/2025
+1.000,00
+total subcategoria
+1.000,00
+rescisoes e homologacoes (4.1.1.03.0004) - total: 11.445,85
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+maria eduarda florencio vieira
+474.897.288-27
+-
+pix
+1/1
+08/05/2025
+5.027,95
+gabriel c. brusarrosco
+478.576.578-08
+-
+pix
+1/1
+09/05/2025
+6.417,90
+total subcategoria
+11.445,85
+salários fixos (4.1.1.03.0005) - total: 6.282,74
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+jonathan rodella delgado
+358.423.558-84
+-
+pix
+1/1
+05/05/2025
+6.282,74
+total subcategoria
+6.282,74
+total categoria
+82.178,59
+logistica (4.1.1.05) - total: 4.700,00
+passagens (4.1.1.05.0001) - total: 4.700,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+nivia regina boszczowski souza
+27.671.091/0001-43
+-
+pix
+1/1
+09/05/2025
+4.700,00
+total subcategoria
+4.700,00
+total categoria
+4.700,00
+marketing (4.1.1.07) - total: 3.955,00
+material de apoio (4.1.1.07.0001) - total: 3.955,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+joia com e ind grafica ltda
+44.879.211/0001-11
+-
+boleto
+1/4
+29/05/2025
+3.955,00
+total subcategoria
+3.955,00
+total categoria
+3.955,00
+servidores e plataformas digitais (4.1.1.08) - total: 31.814,05
+aws (4.1.1.08.0001) - total: 27.202,04
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+amazon aws servicos brasil ltda
+15.436.940/0001-03
+-
+pix
+1/1
+02/05/2025
+27.202,04
+total subcategoria
+27.202,04
+analise de crédito e risco (4.1.1.08.0002) - total: 4.612,01
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+idwall tecnologia ltda
+24.934.106/0001-20
+-
+boleto
+1/1
+15/05/2025
+3.500,00
+assertiva
+15.724.796/0001-00
+-
+boleto
+1/1
+20/05/2025
+1.112,01
+total subcategoria
+4.612,01
+total categoria
+31.814,05
+serviços bancários (4.1.1.09) - total: 11.542,37
+baas (4.1.1.09.0001) - total: 11.542,37
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+celcoin instituicao de pagamento s.a
+13.935.893/0001-09
+-
+boleto
+1/1
+20/05/2025
+8.963,62
+celcoin instituicao de pagamento s.a
+13.935.893/0001-09
+-
+boleto
+1/1
+20/05/2025
+2.578,75
+total subcategoria
+11.542,37
+total categoria
+11.542,37
+diversos (4.1.1.11) - total: 2.200,00
+diversos (4.1.1.11.0001) - total: 2.200,00
+fornecedor
+documento
+caixa
+tipo pag.
+parcela vencimento
+valor pago
+banqueiro digital
+36.234.682/0001-44
+-
+pix
+1/1
+22/05/2025
+2.200,00
+total subcategoria
+2.200,00
+total categoria
+2.200,00
+total geral
+199.219,14

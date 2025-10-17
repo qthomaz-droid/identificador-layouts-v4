@@ -1,0 +1,92 @@
+data
+lançamentos
+beneficiário
+moeda
+valor
+saldo
+01/03/2025
+saldo inicial
+ 
+moeda
+social
+6.293,00
+6.293,00
+06/03/2025
+recebimento
+de servicos
+pedro monteiro
+de oliveira filho
+- 00800006185
+moeda
+social
+232,00
+6.525,00
+07/03/2025
+pagamento
+com cartão nfc
+xirlene ferreira
+de almeida -
+00100018663
+moeda
+social
+276,00
+6.801,00
+11/03/2025
+pagamento
+com cartão nfc
+cacilda luiz
+rodrigues -
+00100141248
+moeda
+social
+150,00
+6.951,00
+19/03/2025
+pagamento
+com cartão nfc
+jose carlos coelho
+- 00100137035
+moeda
+social
+47,00
+6.998,00
+20/03/2025
+pagamento
+com cartão nfc
+dalira de fatima
+machado -
+00100018195
+moeda
+social
+55,00
+7.053,00
+22/03/2025
+recebimento
+de servicos
+guilherme
+castro amaro de
+oliveira -
+00800017774
+moeda
+social
+199,50
+7.252,50
+25/04/2025
+saldo atual
+moeda
+social
+$ 10.554,90
+conta: 21979476100 - tintas noret
+período: 01/03/2025 a 31/03/2025
+mostrar
+25
+linhas
+buscar:
+mostrando 1 a 7 do total de 7 linhas
+anterior
+próximo
+1
+25/04/2025, 09:42
+e-dinheiro | extrato de operações
+https://gerenciador.edinheiro.org/legacy/extrato-comercio.php?ddi=%2b55&envio=&acao=1&celular=156827%7c21979476100&dt_ini=01%2f03…
+1/1

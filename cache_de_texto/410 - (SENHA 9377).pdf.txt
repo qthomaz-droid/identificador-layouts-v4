@@ -1,0 +1,457 @@
+0001
+banco c6 s.a.
+dr:
+aberto
+10/02/2022
+10/02/2022 18:38:02
+pág. 1
+rel. de extrato periódico
+sistema de conta corrente
+dp:
+agência:
+00001170
+conta:
+j zani sales oficina automotiva
+35.603.567/0001-37
+rua primeiro de maio
+casa b
+linhares
+es
+29903-190
+situação: liberada
+936
+categoria de conta:
+gerente: gerente geral
+garantida
+data inicial: 18/10/2021
+data final: 31/12/2021
+agência:
+conta corrente:
+situação:
+0001
+000011706398-
+liberada
+data
+descrição
+doc
+valor d/c
+valor
+j zani sales oficina automotiva
+15/10/2021 saldo disponivel inicial
+0,00
+15/10/2021 saldo vinculado inicial
+0,00
+15/10/2021 saldo bloqueado inicial
+0,00
+05/11/2021 transf recebida-transferência (tef) para j
+000000000000
+1.800,00
+c
+05/11/2021 saldo disponivel
+1.800,00
+08/11/2021 cred loj - cartao cr-paygo - visa
+000000000033
+1.411,84
+c
+08/11/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+204,96
+c
+08/11/2021 saldo disponivel
+3.416,80
+09/11/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.133,03
+c
+09/11/2021 cred loj - cartao cr-paygo - visa
+000000000033
+569,98
+c
+09/11/2021 cred loj - cart debi-paygo - maestro
+000000000033
+2,97
+c
+09/11/2021 saldo disponivel
+5.122,78
+10/11/2021 cred loj - cart debi-paygo - visa electron
+000000000033
+319,61
+c
+10/11/2021 pgto de boletos-boleto
+000000000000
+225,67
+d
+10/11/2021 pgto de boletos-boleto
+000000000000
+99,90
+d
+10/11/2021 pgto de boletos-boleto
+000000000000
+287,46
+d
+10/11/2021 pgto de boletos-boleto
+000000000000
+353,57
+d
+10/11/2021 saldo disponivel
+4.475,79
+11/11/2021 cred loj - cartao cr-paygo - visa
+000000000033
+484,29
+c
+11/11/2021 saldo disponivel
+4.960,08
+12/11/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.916,79
+c
+12/11/2021 cred loj - cart debi-paygo - visa electron
+000000000033
+1.620,92
+c
+12/11/2021 cred loj - cart debi-paygo - maestro
+000000000033
+32,76
+c
+12/11/2021 saldo disponivel
+8.530,55
+16/11/2021 cred loj - cartao cr-paygo - visa
+000000000033
+627,60
+c
+16/11/2021 transf enviada pix-recebimentos maquina c6
+000000000000
+9.000,00
+d
+16/11/2021 transf recebida-transferencia
+000000000109
+34,74
+c
+16/11/2021 saldo disponivel
+192,89
+17/11/2021 transf recebida-transferencia
+000000000109
+571,64
+c
+17/11/2021 saldo disponivel
+764,53
+19/11/2021 cred loj - cartao cr-paygo - visa
+000000000033
+1.035,72
+c
+19/11/2021 saldo disponivel
+1.800,25
+23/11/2021 cred loj - cartao cr-paygo - visa
+000000000033
+2.229,94
+c
+23/11/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.704,79
+c
+23/11/2021 cred loj - cart debi-paygo - visa electron
+000000000033
+1,98
+c
+23/11/2021 saldo disponivel
+5.736,96
+página 1
+0001
+banco c6 s.a.
+dr:
+aberto
+10/02/2022
+10/02/2022 18:38:02
+pág. 2
+rel. de extrato periódico
+sistema de conta corrente
+dp:
+agência:
+00001170
+conta:
+j zani sales oficina automotiva
+35.603.567/0001-37
+rua primeiro de maio
+casa b
+linhares
+es
+29903-190
+situação: liberada
+936
+categoria de conta:
+gerente:
+data inicial: 18/10/2021
+data final: 31/12/2021
+24/11/2021 cred loj - cart debi-paygo - maestro
+000000000033
+992,60
+c
+24/11/2021 saldo disponivel
+6.729,56
+25/11/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+721,60
+c
+25/11/2021 saldo disponivel
+7.451,16
+26/11/2021 transf enviada pix-recebimentos maquina c6
+000000000000
+7.000,00
+d
+26/11/2021 cred loj - cart debi-paygo - elo debito
+000000000033
+198,52
+c
+26/11/2021 transf recebida-transferencia
+000000000109
+1.732,85
+c
+26/11/2021 saldo disponivel
+2.382,53
+29/11/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.353,80
+c
+29/11/2021 cred loj - cart debi-paygo - visa electron
+000000000033
+423,84
+c
+29/11/2021 saldo disponivel
+4.160,17
+30/11/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+157,42
+c
+30/11/2021 cred loj - cart debi-paygo - elo debito
+000000000033
+183,63
+c
+30/11/2021 saldo disponivel
+4.501,22
+01/12/2021 cred loj - cart debi-paygo - visa electron
+000000000033
+585,63
+c
+01/12/2021 transf enviada pix
+000000000000
+5.000,00
+d
+01/12/2021 saldo disponivel
+86,85
+03/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.073,96
+c
+03/12/2021 cred loj - cart debi-paygo - maestro
+000000000033
+963,81
+c
+03/12/2021 cred loj - cart debi-paygo - visa electron
+000000000033
+137,97
+c
+03/12/2021 saldo disponivel
+2.262,59
+06/12/2021 cred loj - cartao cr-paygo - visa
+000000000033
+1.732,85
+c
+06/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+261,56
+c
+06/12/2021 cred loj - cart debi-paygo - elo debito
+000000000033
+992,60
+c
+06/12/2021 saldo disponivel
+5.249,60
+07/12/2021 cred loj - cartao cr-paygo - visa
+000000000033
+2.417,75
+c
+07/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+2.323,24
+c
+07/12/2021 cred loj - cart debi-paygo - maestro
+000000000033
+238,22
+c
+07/12/2021 saldo disponivel
+10.228,81
+08/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.676,76
+c
+08/12/2021 cred loj - cartao cr-paygo - visa
+000000000033
+263,52
+c
+08/12/2021 cred loj - cart debi-paygo - maestro
+000000000033
+2.680,02
+c
+08/12/2021 saldo disponivel
+14.849,11
+09/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.964,81
+c
+09/12/2021 cred loj - cartao cr-paygo - banescard
+000000000033
+304,52
+c
+09/12/2021 cred loj - cartao cr-paygo - visa
+000000000033
+277,17
+c
+09/12/2021 transf enviada pix-pró-labore joviana
+000000000000
+1.958,00
+d
+09/12/2021 saldo disponivel
+15.437,61
+13/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+281,08
+c
+13/12/2021 cred loj - cart debi-paygo - maestro
+000000000033
+262,05
+c
+13/12/2021 saldo disponivel
+15.980,74
+página 2
+0001
+banco c6 s.a.
+dr:
+aberto
+10/02/2022
+10/02/2022 18:38:02
+pág. 3
+rel. de extrato periódico
+sistema de conta corrente
+dp:
+agência:
+00001170
+conta:
+j zani sales oficina automotiva
+35.603.567/0001-37
+rua primeiro de maio
+casa b
+linhares
+es
+29903-190
+situação: liberada
+936
+categoria de conta:
+gerente:
+data inicial: 18/10/2021
+data final: 31/12/2021
+14/12/2021 transf enviada pix
+000000000000
+10.000,00
+d
+14/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+763,66
+c
+14/12/2021 cred loj - cart debi-paygo - elo debito
+000000000033
+416,89
+c
+14/12/2021 transf enviada pix-recebíveis c6
+000000000000
+5.000,00
+d
+14/12/2021 saldo disponivel
+2.161,29
+16/12/2021 cred loj - cartao cr-paygo - visa
+000000000033
+177,10
+c
+16/12/2021 saldo disponivel
+2.338,39
+17/12/2021 cred loj - cartao cr-paygo - visa
+000000000033
+1.650,30
+c
+17/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.307,04
+c
+17/12/2021 saldo disponivel
+5.295,73
+21/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+880,84
+c
+21/12/2021 cred loj - cart debi-paygo - maestro
+000000000033
+296,79
+c
+21/12/2021 transf enviada pix-recebimentos c6
+000000000000
+4.700,00
+d
+21/12/2021 saldo disponivel
+1.773,36
+22/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+815,29
+c
+22/12/2021 cred loj - cart debi-paygo - visa electron
+000000000033
+1.028,33
+c
+22/12/2021 saldo disponivel
+3.616,98
+23/12/2021 cred loj - cartao cr-paygo - elo
+000000000033
+325,00
+c
+23/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+693,39
+c
+23/12/2021 cred loj - cart debi-paygo - maestro
+000000000033
+656,11
+c
+23/12/2021 saldo disponivel
+5.291,48
+24/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.886,41
+c
+24/12/2021 cred loj - cartao cr-paygo - visa
+000000000033
+521,18
+c
+24/12/2021 cred loj - cart debi-paygo - elo debito
+000000000033
+377,19
+c
+24/12/2021 saldo disponivel
+8.076,26
+27/12/2021 cred loj - cartao cr-paygo - mastercard
+000000000033
+1.302,00
+c
+27/12/2021 saldo disponivel
+9.378,26
+31/12/2021 saldo disponivel final
+9.378,26
+31/12/2021 saldo vinculado final
+0,00
+31/12/2021 saldo bloqueado final
+0,00
+31/12/2021 limite total
+0,00
+31/12/2021 limite utilizado
+0,00
+31/12/2021 total disponível para saque (disponivel + limite + aplicacao)
+9.378,26
+27/10/2021  -     08.0000 %
+página 3

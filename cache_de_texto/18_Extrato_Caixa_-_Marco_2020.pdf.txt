@@ -1,0 +1,58 @@
+extrato
+cliente:
+laboratorio alvarenga
+conta:
+0717 / 022 / 00000103-0
+data:
+01/04/2020 - 10:02
+extrato
+data mov.
+nr. doc.
+histórico
+valor
+saldo
+000000
+saldo anterior
+0,00
+383,60 c
+09/03/2020
+000000
+rem basica
+0,00 c
+383,60 c
+09/03/2020
+000000
+cred juros
+0,05 c
+383,65 c
+09/03/2020
+000000
+deb irrf
+0,01 d
+383,64 c
+12/03/2020
+000000
+rem basica
+0,00 c
+383,64 c
+12/03/2020
+000000
+cred juros
+2,94 c
+386,58 c
+12/03/2020
+000000
+deb irrf
+0,66 d
+385,92 c
+12/03/2020
+000000
+cr p saude
+1.500,29 c
+1.886,21 c
+* 670 - não há lançamentos do dia.
+ 
+sac caixa: 0800 726 0101
+pessoas com deficiência auditiva: 0800 726 2492
+ouvidoria: 0800 725 7474
+help desk caixa: 0800 726 0104

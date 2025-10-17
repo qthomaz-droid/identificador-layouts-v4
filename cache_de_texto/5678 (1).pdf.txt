@@ -1,0 +1,443 @@
+número doc.
+cnpj
+26
+conta:
+sicoob - conceito
+data
+descrição
+tipo doc. tipo outros
+*c
+débito
+crédito
+final nc
+saldo final
+-
+11.418.714/0001-30
+01/07/2025
+receb. de parcela - cliente 4073 - clinica
+veterinaria da praia ltda
+i
+628,98
+9.371,91
+9.371,91
+21.745.222/0001-03
+01/07/2025
+receb. de parcela - cliente 3147 - amor
+saúde - colatina
+i
+1.048,30
+10.420,21
+10.420,21
+56.422.877/0001-25
+01/07/2025
+receb. de parcela - cliente 4235 - amor
+saude barra de sao francisco ltda
+i
+700,00
+11.120,21
+11.120,21
+56.422.877/0001-25
+01/07/2025
+receb. de parcela - cliente 4235 - amor
+saude barra de sao francisco ltda
+i
+1.107,49
+12.227,70
+12.227,70
+56.422.877/0001-25
+01/07/2025
+receb. de parcela - cliente 4235 - amor
+saude barra de sao francisco ltda
+i
+990,90
+13.218,60
+13.218,60
+07.662.340/0001-27
+01/07/2025
+receb. de parcela - cliente 1549 - vm
+contadores associados ltda me
+i
+735,13
+13.953,73
+13.953,73
+07.662.340/0001-27
+01/07/2025
+receb. de parcela - cliente 1549 - vm
+contadores associados ltda me
+i
+450,00
+14.403,73
+14.403,73
+5415086
+01/07/2025
+tarifa cobrança
+a
+-13,30
+14.390,43
+14.390,43
+27.724.509/0001-33
+02/07/2025
+receb. de parcela - cliente 32 - cescom
+cesconeto comercial ltda
+i
+1.277,50
+15.667,93
+15.667,93
+27.152.628/0004-01
+02/07/2025
+receb. de parcela - cliente 179 - pianna
+veiculos ltda -sao mateus
+i
+585,97
+16.253,90
+16.253,90
+27.152.628/0001-69
+02/07/2025
+receb. de parcela - cliente 18 - pianna
+veiculos ltda linhares
+i
+262,08
+16.515,98
+16.515,98
+11.970.130/0001-73
+02/07/2025
+receb. de parcela - cliente 645 - clinica
+radiologica face e imagem  ltda me
+i
+299,90
+16.815,88
+16.815,88
+11.970.130/0001-73
+02/07/2025
+receb. de parcela - cliente 645 - clinica
+radiologica face e imagem  ltda me
+i
+240,97
+17.056,85
+17.056,85
+11.970.130/0001-73
+02/07/2025
+receb. de parcela - cliente 645 - clinica
+radiologica face e imagem  ltda me
+i
+524,15
+17.581,00
+17.581,00
+39.814.835/0012-73
+02/07/2025
+receb. de parcela - cliente 4033 - pneumax
+ltda
+i
+314,39
+17.895,39
+17.895,39
+39.814.835/0003-82
+02/07/2025
+receb. de parcela - cliente 2965 - pneumax
+ltda
+i
+1.048,30
+18.943,69
+18.943,69
+lançamentos bancários - completo
+empresa:
+newtel
+data inicial: 01/07/2025 data final: 31/07/2025
+* c : indica se é consolidado ou não
+1
+idealsoft - shop control 9
+05/08/2025
+10:45:45
+tipo doc : h = cheque, p = cheque pré, m = doc, t = ted,  d = cartão de débito,  c = cartão de crédito,  i = depósito,  e = envelope,  f = transferência,  a = débito automático, u = outros, b = boleto e x = pix
+número doc.
+cnpj
+26
+conta:
+sicoob - conceito
+data
+descrição
+tipo doc. tipo outros
+*c
+débito
+crédito
+final nc
+saldo final
+-
+00.827.783/0004-24
+02/07/2025
+receb. de parcela - cliente 42 - kuruma
+veiculos s/a
+i
+200,00
+19.143,69
+19.143,69
+06.087.147/0004-90
+02/07/2025
+receb. de parcela - cliente 4349 - ugbp -
+producao e exportacao ltda
+i
+190,00
+19.333,69
+19.333,69
+5423033
+02/07/2025
+tarifa cobrança
+a
+-15,20
+19.318,49
+19.318,49
+055.152.767-60
+03/07/2025
+receb. de parcela - cliente 3755 - rodrigo
+reis cyrino
+i
+523,10
+19.841,59
+19.841,59
+07.772.740/0001-95
+03/07/2025
+receb. de parcela - cliente 3776 - helmer
+imoveis ltda
+i
+639,24
+20.480,83
+20.480,83
+24.274.106/0001-41
+03/07/2025
+receb. de parcela - cliente 3183 -
+reabilitacao pro-saude aracruz
+ltda
+i
+999,90
+21.480,73
+21.480,73
+43.255.187/0001-87
+03/07/2025
+receb. de parcela - cliente 4039 -
+administradora de cartao de todos
+nova venecia ltda
+i
+1.048,90
+22.529,63
+22.529,63
+43.255.187/0001-87
+03/07/2025
+receb. de parcela - cliente 4039 -
+administradora de cartao de todos
+nova venecia ltda
+i
+999,90
+23.529,53
+23.529,53
+13.513.928/0001-11
+03/07/2025
+receb. de parcela - cliente 673 - carros
+acessorios e insulfilm ltda me
+i
+209,56
+23.739,09
+23.739,09
+18.304.707/0001-57
+03/07/2025
+receb. de parcela - cliente 1662 - industria
+de moveis nesher ltda
+i
+190,00
+23.929,09
+23.929,09
+27.291.400/0001-50
+03/07/2025
+receb. de parcela - cliente 268 - lasa
+linhares agroindustria sa
+i
+628,98
+24.558,07
+24.558,07
+5430963
+03/07/2025
+tarifa cobrança
+a
+-13,30
+24.544,77
+24.544,77
+13.527.082/0001-79
+04/07/2025
+receb. de parcela - cliente 1713 -
+blendcoffe com. exportação  e
+importação ltda
+i
+189,68
+24.734,45
+24.734,45
+14.633.320/0001-93
+04/07/2025
+receb. de parcela - cliente 3122 - consiga
+promotora de vendas e servicos
+ltda
+i
+523,85
+25.258,30
+25.258,30
+00.742.402/0002-42
+04/07/2025
+receb. de parcela - cliente 154 - hotel
+i
+499,90
+25.758,20
+25.758,20
+lançamentos bancários - completo
+empresa:
+newtel
+data inicial: 01/07/2025 data final: 31/07/2025
+* c : indica se é consolidado ou não
+2
+idealsoft - shop control 9
+05/08/2025
+10:45:45
+tipo doc : h = cheque, p = cheque pré, m = doc, t = ted,  d = cartão de débito,  c = cartão de crédito,  i = depósito,  e = envelope,  f = transferência,  a = débito automático, u = outros, b = boleto e x = pix
+número doc.
+cnpj
+26
+conta:
+sicoob - conceito
+data
+descrição
+tipo doc. tipo outros
+*c
+débito
+crédito
+final nc
+saldo final
+-
+rancho linhares ltda epp
+61.276.226/0002-95
+04/07/2025
+receb. de parcela - cliente 3758 - ilumatic s
+a iluminacao e eletrometalurgica
+i
+340,00
+26.098,20
+26.098,20
+61.276.226/0002-95
+04/07/2025
+receb. de parcela - cliente 3758 - ilumatic s
+a iluminacao e eletrometalurgica
+i
+2.446,15
+28.544,35
+28.544,35
+08.002.865/0001-07
+04/07/2025
+receb. de parcela - cliente 4264 - ipc -
+instituto portela de cardiologia s/c
+ltda
+i
+299,90
+28.844,25
+28.844,25
+06.229.849/0001-18
+04/07/2025
+receb. de parcela - cliente 94 -
+angiocardio linhares ltda
+i
+585,97
+29.430,22
+29.430,22
+12.467.567/0001-51
+04/07/2025
+receb. de parcela - cliente 4157 - dakar
+pneus ltda
+i
+280,00
+29.710,22
+29.710,22
+30.634.456/0001-74
+04/07/2025
+receb. de parcela - cliente 2774 - sisinfra
+tecnologia ltda
+i
+209,54
+29.919,76
+29.919,76
+5440554
+04/07/2025
+tarifa cobrança
+a
+-17,10
+29.902,66
+29.902,66
+10.911.720/0001-62
+07/07/2025
+receb. de parcela - cliente 3998 -
+phytospharma farmacia de
+manipulacao ltda
+i
+628,98
+30.531,64
+30.531,64
+11.233.258/0001-54
+07/07/2025
+receb. de parcela - cliente 1978 - amor
+saude linhares-es ltda
+i
+599,90
+31.131,54
+31.131,54
+11.233.258/0001-54
+07/07/2025
+receb. de parcela - cliente 1978 - amor
+saude linhares-es ltda
+i
+1.196,23
+32.327,77
+32.327,77
+11.233.258/0001-54
+07/07/2025
+receb. de parcela - cliente 1978 - amor
+saude linhares-es ltda
+i
+628,98
+32.956,75
+32.956,75
+06.943.085/0001-28
+07/07/2025
+receb. de parcela - cliente 52 - bhs hoteis
+ltda epp
+i
+209,66
+33.166,41
+33.166,41
+07.293.074/0001-02
+07/07/2025
+receb. de parcela - cliente 2401 - bortot
+day hospital ltda
+i
+504,83
+33.671,24
+33.671,24
+12.201.459/0001-32
+07/07/2025
+receb. de parcela - cliente 4226 - centro
+de diagnostico por imagem de
+colatina ltda
+i
+350,00
+34.021,24
+34.021,24
+27.724.509/0001-33
+07/07/2025
+receb. de parcela - cliente 32 - cescom
+i
+532,70
+34.553,94
+34.553,94
+lançamentos bancários - completo
+empresa:
+newtel
+data inicial: 01/07/2025 data final: 31/07/2025
+* c : indica se é consolidado ou não
+3
+idealsoft - shop control 9
+05/08/2025
+10:45:45
+tipo doc : h = cheque, p = cheque pré, m = doc, t = ted,  d = cartão de débito,  c = cartão de crédito,  i = depósito,  e = envelope,  f = transferência,  a = débito automático, u = outros, b = boleto e x = pix

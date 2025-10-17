@@ -1,0 +1,271 @@
+dt.ref: 24/09/2025
+hora: 09:12:19
+emissão: 24/09/2025
+filial
+descricao
+0101
+grupo cunha
+centro custo
+turno trab.
+matricula
+nome
+dep. i.r.
+dep.sal.fam.
+000000001
+005
+000042
+diogo santos de freitas gomes
+dt. demissao
+dt. homologa
+data aviso
+data geracao
+aviso prev tipo resc.
+desc.tp.resc
+dias fer salario salario disalario hresc.efetiv
+25/07/2025
+04/08/2025
+25/07/2025
+25/07/2025
+0,00 10
+term. antec. co
+2,50
+2903,78
+96,79
+13,20 sim
+codigo verba
+descricao
+horas/dias
+proventos
+descontos
+bases
+126
+saldo de salario
+19,00
+1839,06
+0,00
+0,00
+144
+ferias proporcionais
+1,12
+241,98
+0,00
+0,00
+163
+13º proporcional
+1,12
+241,98
+0,00
+0,00
+172
+participacao lucro
+0,00
+54,16
+0,00
+0,00
+328
+diarias nao tributav
+0,00
+450,00
+0,00
+0,00
+350
+1/3 ferias prop res
+0,00
+80,66
+0,00
+0,00
+417
+inss
+0,00
+0,00
+142,74
+0,00
+423
+inss 13º salario
+0,00
+0,00
+18,14
+0,00
+437
+multa contr. experie
+0,00
+0,00
+1258,30
+0,00
+703
+s.cont.ate limite
+0,00
+0,00
+0,00
+1839,06
+705
+base irrf
+0,00
+0,00
+0,00
+1839,06
+709
+s.cont.ate.lim.13º
+0,00
+0,00
+0,00
+241,98
+712
+base irrf 13º
+0,00
+0,00
+0,00
+241,98
+726
+fgts rescisao
+0,00
+0,00
+0,00
+147,12
+747
+inss empresa
+0,00
+0,00
+0,00
+416,21
+748
+% terceiros
+0,00
+0,00
+0,00
+120,70
+749
+% acid. trabalho
+0,00
+0,00
+0,00
+31,22
+753
+ded. inss irrf folha
+0,00
+0,00
+0,00
+142,74
+755
+ded.inss ir 13º sal.
+0,00
+0,00
+0,00
+18,14
+783
+fgts 13º rescisao
+0,00
+0,00
+0,00
+19,35
+888
+base fgts resc disp
+0,00
+0,00
+0,00
+1839,06
+889
+base fgts 13 resc di
+0,00
+0,00
+0,00
+241,98
+913
+salario mes
+0,00
+0,00
+0,00
+2903,78
+a12
+inss folha faixa 1
+7,50
+0,00
+0,00
+113,85
+a13
+inss folha faixa 2
+9,00
+0,00
+0,00
+28,89
+a20
+inss 13. faixa 1
+7,50
+0,00
+0,00
+18,14
+a63
+base ir fol calulad
+0,00
+0,00
+0,00
+1696,32
+a67
+base ir 13º calcula.
+0,00
+0,00
+0,00
+223,84
+a71
+deducao modelo simp.
+0,00
+0,00
+0,00
+607,20
+a73
+deducao modelo simp.
+0,00
+0,00
+0,00
+607,20
+2907,84
+1419,18
+total da filial:     0101
+total funcionario:   
+126 - saldo de sal
+1839,06 417 - inss:
+142,74 703 - s.co
+1839,06
+144 - ferias propo
+241,98 423 - inss 1
+18,14 705 - base
+1839,06
+163 - 13º proporci
+241,98 437 - multa c
+1258,3 709 - s.co
+241,98
+172 - participacao
+54,16
+712 - base
+241,98
+328 - diarias nao 
+450
+726 - fgts
+147,12
+350 - 1/3 ferias p
+80,66
+747 - inss
+416,21
+748 - % te
+120,7
+749 - % ac
+31,22
+755 - ded.
+18,14
+783 - fgts
+19,35
+888 - base
+1839,06
+889 - base
+241,98
+913 - sala
+2903,78
+2907,84
+1419,18
+2907,84
+1419,18
+proventos
+descontos
+bases
+total geral
+v.

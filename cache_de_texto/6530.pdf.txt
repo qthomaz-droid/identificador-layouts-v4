@@ -1,0 +1,241 @@
+nome: coleturb
+cnpj: 21.145.485/0001-81
+cc: 18330109-9
+agência: 0001
+banco: 301
+saldo na data 30/07/2025: r$ 7,69
+intermediado por: bankel
+extrato bancário referente ao período:
+01/04/2025 até 30/04/2025.
+emitido em: 30 de julho de 2025.
+transação
+entrada
+saída
+saldo líquido
+11/04/2025
+p2p recebida
+premier assessoria administrativa ltda
+tipo: default
+r$ 235.000,00
+r$ 0,00
+r$ 235.000,00
+taxa personalizada
+bankel
+tipo: fee
+r$ 0,00
+r$ -1,40
+r$ 234.998,60
+taxa personalizada
+bankel
+tipo: fee
+r$ 0,00
+r$ -1,40
+r$ 234.997,20
+pagamento de parcela de empréstim
+o
+bankel
+tipo: installment
+r$ 0,00
+r$ -3.249,01
+r$ 231.748,19
+taxa personalizada
+bankel
+tipo: fee
+r$ 0,00
+r$ -1,40
+r$ 231.746,79
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -59,90
+r$ 231.686,89
+pagamento de parcela de empréstim
+o
+bankel
+tipo: installment
+r$ 0,00
+r$ -3.249,01
+r$ 228.437,88
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -59,90
+r$ 228.377,98
+pagamento de parcela de empréstim
+o
+bankel
+tipo: installment
+r$ 0,00
+r$ -3.249,01
+r$ 225.128,97
+transação
+entrada
+saída
+saldo líquido
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -179.389,65
+r$ 45.739,32
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -59,90
+r$ 45.679,42
+pagamento de parcela de empréstim
+o
+bankel
+tipo: installment
+r$ 0,00
+r$ -3.249,01
+r$ 42.430,41
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -59,90
+r$ 42.370,51
+pagamento de parcela de empréstim
+o
+bankel
+tipo: installment
+r$ 0,00
+r$ -3.249,01
+r$ 39.121,50
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -59,90
+r$ 39.061,60
+pagamento de parcela de empréstim
+o
+bankel
+tipo: installment
+r$ 0,00
+r$ -3.249,01
+r$ 35.812,59
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -59,90
+r$ 35.752,69
+p2p recebida
+bankel
+tipo: default
+r$ 179.389,65
+r$ 0,00
+r$ 215.142,34
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -70.000,00
+r$ 145.142,34
+p2p recebida
+bankel
+tipo: default
+r$ 70.000,00
+r$ 0,00
+r$ 215.142,34
+pagamento de tarifa
+bankel
+tipo: invoice
+r$ 0,00
+r$ -179.389,65
+r$ 35.752,69
+p2p recebida
+bankel
+tipo: default
+r$ 179.389,65
+r$ 0,00
+r$ 215.142,34
+transação
+entrada
+saída
+saldo líquido
+pix enviado
+lomac locadora de veiculos e
+equipamentos
+tipo: não informado
+r$ 0,00
+r$ -173.536,29
+r$ 41.606,05
+taxa personalizada
+bankel
+tipo: fee
+r$ 0,00
+r$ -1,40
+r$ 41.604,65
+pagamento de título
+pluxee beneficios brasil sa
+tipo: npc
+r$ 0,00
+r$ -2.066,22
+r$ 39.538,43
+pagamento de título
+pluxee beneficios brasil sa
+tipo: npc
+r$ 0,00
+r$ -9.530,56
+r$ 30.007,87
+pix enviado
+soldasul industria comercio e
+importacao ltda
+tipo: não informado
+r$ 0,00
+r$ -15.581,00
+r$ 14.426,87
+taxa personalizada
+bankel
+tipo: fee
+r$ 0,00
+r$ -1,40
+r$ 14.425,47
+12/04/2025
+pix enviado
+posto da 63
+tipo: não informado
+r$ 0,00
+r$ -1.170,00
+r$ 13.255,47
+taxa personalizada
+bankel
+tipo: fee
+r$ 0,00
+r$ -1,40
+r$ 13.254,07
+pix enviado
+jonas daniel jaques
+tipo: não informado
+r$ 0,00
+r$ -950,00
+r$ 12.304,07
+taxa personalizada
+bankel
+tipo: fee
+r$ 0,00
+r$ -1,40
+r$ 12.302,67
+pix enviado
+auto posto jam ltda
+tipo: não informado
+r$ 0,00
+r$ -2.170,00
+r$ 10.132,67
+taxa personalizada
+bankel
+tipo: fee
+r$ 0,00
+r$ -1,40
+r$ 10.131,27
+pix enviado
+andre dias de luiz
+r$ 0,00
+r$ -88,00
+r$ 10.043,27

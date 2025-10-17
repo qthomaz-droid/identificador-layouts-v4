@@ -1,0 +1,335 @@
+rr uniformes
+fluxo caixa de 01/07/2025 até 31/07/2025 comp.:sim
+19/08/2025 18:37:53
+pg. 1
+saldo inicial:
+1,26
+data: 03/07/2025
+quinta
+histórico
+vl. despesa
+núm.lanç.
+natureza financeira
+cc / emp. / caixa
+vl. receita
+tipo
+pg
+saldo geral
+nº doc.
+dt.nf
+itaú -  - transf. de banco sicredi - rr vestuário
+1.975,00
+111833
+transferências positivas
+banco itaú
+0,00
+transferênci
+s
+-1.973,74
+itaú - taxa cartão de credito
+64,95
+113396
+taxa de cartão débito/crédito
+banco itaú
+0,00
+deb. tx. 
+s
+-2.038,69
+itaú - taxa de antecipação cartão de credito
+128,96
+113403
+juros antecipação de recebíveis
+banco itaú
+0,00
+tx. 
+s
+-2.167,65
+rec. venda:junior prado dt:02/07/2025 orc:31028
+0,00
+111742
+clientes - venda de mercadorias 
+banco itaú
+2.172,10
+c/ crédito 
+s
+4,45
+31028 - 1/1
+2.168,91
+somatório dia:
+2.172,10
+saldo dia:
+    3,19
+data: 18/07/2025
+sexta
+histórico
+vl. despesa
+núm.lanç.
+natureza financeira
+cc / emp. / caixa
+vl. receita
+tipo
+pg
+saldo geral
+nº doc.
+dt.nf
+itaú -  - transf. de banco sicoob - rr vestuário
+4.520,00
+112231
+transferências positivas
+banco itaú
+0,00
+transferênci
+s
+-4.515,55
+itaú - taxa cartão de credito
+146,93
+113397
+taxa de cartão débito/crédito
+banco itaú
+0,00
+deb. tx. 
+s
+-4.662,48
+itaú - taxa de antecipação cartão de credito
+247,99
+113404
+juros antecipação de recebíveis
+banco itaú
+0,00
+tx. 
+s
+-4.910,47
+rec. venda:11566_algodoal_basquete dt:10/07/2025 orc:31119
+0,00
+111975
+clientes - venda de mercadorias 
+banco itaú
+898,50
+á receber
+s
+-4.011,97
+1378 2/2
+07/08/25
+rec. venda:11589_avelar_basquete dt:17/07/2025 orc:31145
+0,00
+112143
+clientes - venda de mercadorias 
+banco itaú
+765,00
+á receber
+s
+-3.246,97
+1386 1/1
+11/08/25
+rec. venda:rr uniformes eireli epp dt:18/08/2025 orc:31417
+0,00
+113512
+clientes - venda de mercadorias 
+banco itaú
+338,30
+á receber
+s
+-2.908,67
+31417 - 1/1
+rec. venda:samuel fernando silva dt:17/07/2025 orc:31149
+0,00
+112157
+clientes - venda de mercadorias 
+banco itaú
+2.912,00
+á receber
+s
+3,33
+31149 - 1/1
+4.914,92
+somatório dia:
+4.913,80
+saldo dia:
+   -1,12
+data: 30/07/2025
+quarta
+histórico
+vl. despesa
+núm.lanç.
+natureza financeira
+cc / emp. / caixa
+vl. receita
+tipo
+pg
+saldo geral
+nº doc.
+dt.nf
+11349_alcateia_barra_bonita - 
+1.386,08
+113563
+devoluções em geral
+banco itaú
+0,00
+débito em 
+s
+-1.382,75
+itaú - taxa cartão de credito
+347,67
+113398
+taxa de cartão débito/crédito
+banco itaú
+0,00
+deb. tx. 
+s
+-1.730,42
+itaú - taxa de antecipação cartão de credito
+542,90
+113405
+juros antecipação de recebíveis
+banco itaú
+0,00
+tx. 
+s
+-2.273,32
+rec. venda:08186_familia_resenha_fc dt:19/07/2025 orc:31163
+0,00
+112210
+clientes - venda de mercadorias 
+banco itaú
+1.098,40
+á receber
+s
+-1.174,92
+31163 - 1/1
+rec. venda:11592_sao_bento_f.c dt:21/07/2025 orc:31173
+0,00
+112245
+clientes - venda de mercadorias 
+banco itaú
+1.238,00
+á receber
+s
+63,08
+31173 - 1/1
+rec. venda:11599_insanos_bauru_basket dt:21/07/2025 orc:31166
+0,00
+112237
+clientes - venda de mercadorias 
+banco itaú
+119,80
+á receber
+s
+182,88
+31166 - 1/1
+rec. venda:11599_insanos_bauru_basket dt:21/07/2025 orc:31166
+0,00
+112238
+clientes - venda de mercadorias 
+banco itaú
+239,60
+á receber
+s
+422,48
+31166 - 1/1
+rec. venda:11603_underdogs dt:23/07/2025 orc:31180
+0,00
+112277
+clientes - venda de mercadorias 
+banco itaú
+1.457,50
+á receber
+s
+1.879,98
+31180 - 1/1
+rec. venda:11603_underdogs dt:23/07/2025 orc:31181
+0,00
+112276
+clientes - venda de mercadorias 
+banco itaú
+1.013,40
+á receber
+s
+2.893,38
+31181 - 1/1
+rec. venda:11609_futebol_de_domingo dt:24/07/2025 orc:31185
+0,00
+112292
+clientes - venda de mercadorias 
+banco itaú
+1.882,00
+á receber
+s
+4.775,38
+31185 - 1/1
+rec. venda:11620_otica_elis_fc dt:28/07/2025 orc:31218
+0,00
+112373
+clientes - venda de mercadorias 
+banco itaú
+1.008,10
+á receber
+s
+5.783,48
+31218 - 1/1
+rec. venda:4965_madrugada_fc dt:30/07/2025 orc:31231
+0,00
+112420
+clientes - venda de mercadorias 
+banco itaú
+1.098,20
+á receber
+s
+6.881,68
+31231 - 1/1
+rec. venda:5566_rm_assessoria dt:29/07/2025 orc:31226
+0,00
+112400
+clientes - venda de mercadorias 
+banco itaú
+2.490,96
+á receber
+s
+9.372,64
+31226 - 1/1
+2.276,65
+somatório dia:
+11.645,96
+saldo dia:
+ 9369,31
+data: 31/07/2025
+quinta
+histórico
+vl. despesa
+núm.lanç.
+natureza financeira
+cc / emp. / caixa
+vl. receita
+tipo
+pg
+saldo geral
+nº doc.
+dt.nf
+itaú - taxa cartão de credito
+2,66
+113399
+taxa de cartão débito/crédito
+banco itaú
+0,00
+deb. tx. 
+s
+9.369,98
+rec. venda:inependencia futebol clube dt:30/07/2025 orc:31250
+0,00
+112423
+clientes - venda de mercadorias 
+banco itaú
+269,10
+á receber
+s
+9.639,08
+31250 - 1/1
+2,66
+somatório dia:
+269,10
+saldo dia:
+  266,44
+somatório geral:
+9.363,14
+19.000,96
+9.637,82
+saldo período solicitado:

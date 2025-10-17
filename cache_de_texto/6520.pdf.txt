@@ -1,0 +1,744 @@
+1/10
+página:
+resumo da folha
+empresa:
+71 - bwp florestal transporte e comercio de m
+cnpj:
+45.632.306/0001-07
+emissão:
+25/09/2025
+cálculo:
+folha mensal
+hora:
+14:47:56
+competência:
+07/2025
+nº empregados/contribuintes
+nome da rubrica
+rubrica
+valor informado
+valor calculado
+departamento:    7000001 - pro-labore
+proventos
+pro-labore dias
+9380
+1
+31,00
+12.309,37
+12.309,37
+total:
+descontos
+irrf empregador
+856
+1
+27,50
+2.309,37
+2.309,37
+total:
+10.000,00
+liquido depto:
+resumo das bases do departamento
+inss
+fgts, pis e iss
+irrf conforme competência do cálculo
+base do fgts:
+salário contribuição empregados:
+0,00
+base irrf mensal:
+11.702,17
+0,00
+valor do fgts:
+salário contribuição contribuintes:
+0,00
+valor irrf mensal:
+2.309,37
+0,00
+base do fgts aprendiz:
+excedente:
+12.309,37
+base irrf férias:
+0,00
+0,00
+valor do fgts aprendiz:
+base total:
+12.309,37
+valor irrf férias:
+0,00
+0,00
+segurados:
+0,00
+base irrf partic. lucros:
+0,00
+0,00
+base fgts rescisório:
+empresa:
+0,00
+valor irrf partic. lucros:
+0,00
+0,00
+valor fgts rescisório:
+rat:
+0,00
+base irrf exterior:
+0,00
+0,00
+base fgts resc. mês ant.:
+contribuintes:
+2.461,87
+valor irrf exterior:
+0,00
+0,00
+valor fgts resc. mês ant.:
+terceiros:
+0,00
+0,00
+base irrf 13º salário:
+0,00
+base pis:
+valor pis:
+total inss:
+2.461,87
+0,00
+valor irrf 13º salário:
+0,00
+base iss:
+0,00
+valor total do irrf:
+2.309,37
+valor iss:
+0,00
+irrf aluguéis:
+0,00
+irrf contribuintes:
+0,00
+situações
+no. empregados:
+demitido:
+0
+0
+no. estagiários:
+transferido:
+0
+0
+trabalhando:
+férias:
+0
+0
+mandato sindical:
+afastado direitos integrais:
+0
+0
+aposentadoria:
+afastado acidente de trabalho:
+0
+0
+partic. curso/programa de qualificação:
+afastado serviço militar:
+0
+0
+salário maternidade:
+ausência justificada:
+0
+0
+salário maternidade inss:
+outros afastamentos:
+0
+0
+doença:
+admissões:
+0
+0
+doença profissional:
+no. contribuintes:
+0
+1
+licença sem vencimento:
+0
+departamento:    7000002 - serviços prestados mei
+proventos
+servicos autonomo mei
+388
+4
+104,00
+16.673,80
+16.673,80
+total:
+16.673,80
+liquido depto:
+resumo das bases do departamento
+inss
+fgts, pis e iss
+irrf conforme competência do cálculo
+base do fgts:
+salário contribuição empregados:
+0,00
+base irrf mensal:
+0,00
+0,00
+valor do fgts:
+salário contribuição contribuintes:
+0,00
+valor irrf mensal:
+0,00
+0,00
+base do fgts aprendiz:
+excedente:
+16.673,80
+base irrf férias:
+0,00
+0,00
+valor do fgts aprendiz:
+base total:
+16.673,80
+valor irrf férias:
+0,00
+0,00
+segurados:
+0,00
+base irrf partic. lucros:
+0,00
+0,00
+base fgts rescisório:
+empresa:
+0,00
+valor irrf partic. lucros:
+0,00
+0,00
+valor fgts rescisório:
+rat:
+0,00
+base irrf exterior:
+0,00
+0,00
+base fgts resc. mês ant.:
+contribuintes:
+3.334,76
+valor irrf exterior:
+0,00
+0,00
+valor fgts resc. mês ant.:
+terceiros:
+0,00
+0,00
+base irrf 13º salário:
+0,00
+base pis:
+valor pis:
+total inss:
+3.334,76
+0,00
+valor irrf 13º salário:
+0,00
+base iss:
+0,00
+valor total do irrf:
+0,00
+valor iss:
+0,00
+irrf aluguéis:
+0,00
+irrf contribuintes:
+0,00
+sistema licenciado para contabti assessoria contabil - s/s
+2/10
+página:
+resumo da folha
+empresa:
+71 - bwp florestal transporte e comercio de m
+cnpj:
+45.632.306/0001-07
+emissão:
+25/09/2025
+cálculo:
+folha mensal
+hora:
+14:47:56
+competência:
+07/2025
+nº empregados/contribuintes
+nome da rubrica
+rubrica
+valor informado
+valor calculado
+situações
+no. empregados:
+demitido:
+0
+0
+no. estagiários:
+transferido:
+0
+0
+trabalhando:
+férias:
+0
+0
+mandato sindical:
+afastado direitos integrais:
+0
+0
+aposentadoria:
+afastado acidente de trabalho:
+0
+0
+partic. curso/programa de qualificação:
+afastado serviço militar:
+0
+0
+salário maternidade:
+ausência justificada:
+0
+0
+salário maternidade inss:
+outros afastamentos:
+0
+0
+doença:
+admissões:
+0
+0
+doença profissional:
+no. contribuintes:
+0
+4
+licença sem vencimento:
+0
+departamento:    7000003 - erradiação
+proventos
+periculosidade
+149
+1
+30,00
+791,25
+horas extras 100%
+200
+2
+13:08
+234,52
+insalubridade valor
+237
+3
+910,80
+901,01
+reflexo extras dsr
+250
+2
+8,00
+34,75
+dias normais         
+8781
+4
+123,00
+7.567,22
+9.528,75
+total:
+descontos
+vale transporte
+48
+2
+257,92
+254,70
+plano odontologico
+202
+1
+2,17
+2,17
+seguro de vida
+203
+4
+21,60
+21,43
+plano de saúde - mensalidade
+235
+1
+31,96
+31,96
+alimentação 
+331
+4
+120,00
+119,03
+alojamento
+332
+2
+60,00
+60,00
+ajuda deslocamento
+334
+2
+60,00
+60,00
+desc.adiant.salarial
+981
+4
+3.026,89
+3.026,89
+i.n.s.s.
+998
+4
+32,52
+785,53
+dependente irrf mensal
+9176
+1
+568,77
+568,77 *
+4.361,71
+total:
+informativa
+f.g.t.s  do mes
+996
+4
+0,00
+762,28 *
+762,28
+total:
+5.167,04
+liquido depto:
+resumo das bases do departamento
+inss
+fgts, pis e iss
+irrf conforme competência do cálculo
+base do fgts:
+salário contribuição empregados:
+9.528,75
+base irrf mensal:
+3.806,64
+9.528,75
+valor do fgts:
+salário contribuição contribuintes:
+0,00
+valor irrf mensal:
+0,00
+762,28
+base do fgts aprendiz:
+excedente:
+0,00
+base irrf férias:
+0,00
+0,00
+valor do fgts aprendiz:
+base total:
+9.528,75
+valor irrf férias:
+0,00
+0,00
+segurados:
+785,53
+base irrf partic. lucros:
+0,00
+0,00
+base fgts rescisório:
+empresa:
+1.905,75
+valor irrf partic. lucros:
+0,00
+0,00
+valor fgts rescisório:
+rat:
+285,86
+base irrf exterior:
+0,00
+0,00
+base fgts resc. mês ant.:
+contribuintes:
+0,00
+valor irrf exterior:
+0,00
+0,00
+valor fgts resc. mês ant.:
+terceiros:
+495,48
+0,00
+base irrf 13º salário:
+0,00
+base pis:
+valor pis:
+total inss:
+3.472,62
+0,00
+valor irrf 13º salário:
+0,00
+base iss:
+0,00
+valor total do irrf:
+0,00
+valor iss:
+0,00
+irrf aluguéis:
+0,00
+irrf contribuintes:
+0,00
+sistema licenciado para contabti assessoria contabil - s/s
+3/10
+página:
+resumo da folha
+empresa:
+71 - bwp florestal transporte e comercio de m
+cnpj:
+45.632.306/0001-07
+emissão:
+25/09/2025
+cálculo:
+folha mensal
+hora:
+14:47:56
+competência:
+07/2025
+nº empregados/contribuintes
+nome da rubrica
+rubrica
+valor informado
+valor calculado
+situações
+no. empregados:
+demitido:
+4
+0
+no. estagiários:
+transferido:
+0
+0
+trabalhando:
+férias:
+4
+0
+mandato sindical:
+afastado direitos integrais:
+0
+0
+aposentadoria:
+afastado acidente de trabalho:
+0
+0
+partic. curso/programa de qualificação:
+afastado serviço militar:
+0
+0
+salário maternidade:
+ausência justificada:
+0
+0
+salário maternidade inss:
+outros afastamentos:
+0
+0
+doença:
+admissões:
+0
+3
+doença profissional:
+no. contribuintes:
+0
+0
+licença sem vencimento:
+0
+departamento:    7000004 - corte (hv + misto + arraste)
+proventos
+periculosidade
+149
+1
+30,00
+512,02
+horas extras 50%   
+150
+6
+223:30
+6.231,92
+horas extras 70%
+170
+4
+61:33
+2.109,83
+horas extras 100%
+200
+4
+68:12
+1.683,58
+insalubridade valor
+237
+1
+303,60
+303,60
+reflexo extras dsr
+250
+7
+28,00
+1.485,24
+bônus
+345
+2
+1.716,33
+1.716,33
+adicional noturno 25%
+349
+7
+289:59
+1.414,38
+reflexo adic. noturno - dsr
+350
+7
+28,00
+209,55
+gratificação triênio 1%
+402
+2
+2,00
+89,46
+media valor ferias
+805
+1
+410,17
+410,17
+1/3 das ferias
+931
+1
+33,33
+910,39
+dias normais         
+8781
+11
+319,00
+32.104,93
+dias ferias
+8783
+1
+22,00
+2.321,00
+estorno desc prov emprestimo trab adiant
+9755
+1
+27,49
+27,49
+51.529,89
+total:
+descontos
+vale transporte
+48
+2
+344,22
+209,45
+plano odontologico
+202
+7
+15,19
+15,19
+seguro de vida
+203
+11
+59,40
+55,57
+plano de saúde - mensalidade
+235
+8
+482,34
+482,34
+alimentação 
+331
+11
+330,00
+308,71
+alojamento
+332
+9
+270,00
+270,00
+ajuda deslocamento
+334
+9
+270,00
+270,00
+pensao alimenticia
+434
+1
+726,87
+726,87
+inss ferias
+812
+1
+10,17
+370,12
+inss diferenca ferias
+821
+1
+0,00
+10,43
+adiantamento de ferias
+937
+1
+0,00
+3.047,63
+irrf ferias
+942
+1
+22,50
+223,81
+desc.adiant.salarial
+981
+11
+12.841,98
+12.841,98
+i.n.s.s.
+998
+11
+103,78
+4.910,99
+imposto de renda
+999
+4
+100,00
+1.580,18
+dias faltas
+8792
+1
+1,00
+85,08
+dias faltas dsr
+8794
+1
+1,00
+85,08
+dependente irrf mensal
+9176
+3
+1.137,54
+1.137,54 *
+desc. emp. cred. trabalho nº 2706576267
+9750
+1
+68,73
+68,73
+25.562,16
+total:
+informativa
+fgts ferias
+813
+1
+0,00
+291,32 *
+f.g.t.s  do mes
+996
+11
+0,00
+3.815,21 *
+4.106,53
+total:
+25.967,73
+liquido depto:
+resumo das bases do departamento
+inss
+fgts, pis e iss
+irrf conforme competência do cálculo
+base do fgts:
+salário contribuição empregados:
+51.332,24
+base irrf mensal:
+26.179,67
+51.332,24
+valor do fgts:
+salário contribuição contribuintes:
+0,00
+valor irrf mensal:
+1.580,18
+4.106,53
+sistema licenciado para contabti assessoria contabil - s/s

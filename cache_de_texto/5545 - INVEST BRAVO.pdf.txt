@@ -1,0 +1,466 @@
+pagme pagamentos
+contapag
+1 de
+contas
+extrato da conta
+12/05/2025 - 17:13:50
+filtros utilizados no relatório
+7053364-1
+data inicial:
+01/01/2025
+data final:
+31/01/2025
+nome do cliente:
+justi & cia ltda
+agência:
+3 - invest bravo
+cnjp:
+49.435.472/0001-66
+conta
+660
+cod.
+saldo anterior
+r$ 1.336,10
+data
+número documento
+histórico
+lançamento (r$)
+saldo (r$)
+02/01/2025
+43560000108
+depósito por boleto
+r$ 1.921,50
+r$ 3.257,60
+02/01/2025
+43560000108
+tarifa depósito boleto
+-r$ 4,80
+r$ 3.252,80
+02/01/2025
+03461243 - cc do norte catari...
+pix recebido - luciana ponick de souza
+r$ 630,00
+r$ 3.882,80
+02/01/2025
+03461243 - cc do norte catari...
+ tarifa pix recebido
+-r$ 10,00
+r$ 3.872,80
+02/01/2025
+33 - bco santander (brasil) s.a.
+pix recebido - pierre saade
+r$ 1.031,96
+r$ 4.904,76
+02/01/2025
+33 - bco santander (brasil) s.a.
+ tarifa pix recebido
+-r$ 10,00
+r$ 4.894,76
+02/01/2025
+363.1 - 413049
+crédito ted - credvale fidc multissetorial
+r$ 98.327,59
+r$ 103.222,35
+02/01/2025
+363.1 - 413049
+tarifa crédito ted
+-r$ 245,81
+r$ 102.976,54
+02/01/2025
+341 - itaú unibanco s.a.
+pix recebido - sant martin modas ltda
+r$ 1.460,30
+r$ 104.436,84
+02/01/2025
+341 - itaú unibanco s.a.
+ tarifa pix recebido
+-r$ 10,00
+r$ 104.426,84
+02/01/2025
+16501555 - stone ip s.a.
+pix recebido - villeneuve g emp ltda
+r$ 800,00
+r$ 105.226,84
+02/01/2025
+16501555 - stone ip s.a.
+ tarifa pix recebido
+-r$ 10,00
+r$ 105.216,84
+02/01/2025
+16501555 - stone ip s.a.
+pix recebido - villeneuve g emp ltda
+r$ 2.600,00
+r$ 107.816,84
+02/01/2025
+16501555 - stone ip s.a.
+ tarifa pix recebido
+-r$ 10,00
+r$ 107.806,84
+02/01/2025
+42862613000188
+pix enviado de pj  para pj - t2r confeccoes
+-r$ 11.237,51
+r$ 96.569,33
+02/01/2025
+42862613000188
+tarifa pix enviado de pj para pj
+-r$ 10,00
+r$ 96.559,33
+02/01/2025
+24184196000180
+pix enviado de pj  para pj - eleandro moreira de
+souza 227...
+-r$ 5.957,74
+r$ 90.601,59
+02/01/2025
+24184196000180
+tarifa pix enviado de pj para pj
+-r$ 10,00
+r$ 90.591,59
+02/01/2025
++5571991824571
+pix enviado de pj para pf - helom de oliveira freitas
+-r$ 4.551,81
+r$ 86.039,78
+02/01/2025
++5571991824571
+tarifa pix enviado de pj para pf
+-r$ 10,00
+r$ 86.029,78
+02/01/2025
+48480929000191
+pix enviado de pj  para pj - robson falzetta
+representacoe...
+-r$ 4.000,00
+r$ 82.029,78
+02/01/2025
+48480929000191
+tarifa pix enviado de pj para pj
+-r$ 10,00
+r$ 82.019,78
+02/01/2025
+81999470800
+pix enviado de pj para pf - robson falzetta
+-r$ 3.738,50
+r$ 78.281,28
+02/01/2025
+81999470800
+tarifa pix enviado de pj para pf
+-r$ 10,00
+r$ 78.271,28
+1.0.0
+50521243840
+fourbank
+pagme pagamentos
+contapag
+2 de
+contas
+extrato da conta
+12/05/2025 - 17:13:50
+filtros utilizados no relatório
+7053364-1
+data inicial:
+01/01/2025
+data final:
+31/01/2025
+nome do cliente:
+justi & cia ltda
+agência:
+3 - invest bravo
+cnjp:
+49.435.472/0001-66
+conta
+660
+cod.
+saldo anterior
+r$ 1.336,10
+data
+número documento
+histórico
+lançamento (r$)
+saldo (r$)
+02/01/2025
+86803786820
+pix enviado de pj para pf - joao antonio gomides
+-r$ 10.501,91
+r$ 67.769,37
+02/01/2025
+86803786820
+tarifa pix enviado de pj para pf
+-r$ 10,00
+r$ 67.759,37
+02/01/2025
+26376843808
+pix enviado de pj para pf - sandra mara andrelevicius
+-r$ 802,53
+r$ 66.956,84
+02/01/2025
+26376843808
+tarifa pix enviado de pj para pf
+-r$ 10,00
+r$ 66.946,84
+02/01/2025
+24831243000130
+pix enviado de pj  para pj - jairo nivaldo da silva
+318125...
+-r$ 336,34
+r$ 66.610,50
+02/01/2025
+24831243000130
+tarifa pix enviado de pj para pj
+-r$ 10,00
+r$ 66.600,50
+02/01/2025
+28194817000167
+pix enviado de pj  para pj - credvale fidc
+multissetorial
+-r$ 926,32
+r$ 65.674,18
+02/01/2025
+28194817000167
+tarifa pix enviado de pj para pj
+-r$ 10,00
+r$ 65.664,18
+02/01/2025
+pagamento boleto
+pagamento boleto - office tecn informatica ltda
+-r$ 1.563,26
+r$ 64.100,92
+02/01/2025
+pagamento boleto
+pagamento boleto - textil mn de tec e conf ltda
+-r$ 2.323,35
+r$ 61.777,57
+02/01/2025
+pagamento boleto
+pagamento boleto - textil mn de tec e conf ltda
+-r$ 2.511,11
+r$ 59.266,46
+02/01/2025
+pagamento boleto
+pagamento boleto - finan securitizadora de creditos
+-r$ 485,92
+r$ 58.780,54
+02/01/2025
+pagamento boleto
+pagamento boleto - rodonaves transportes e
+encomend
+-r$ 4.227,29
+r$ 54.553,25
+02/01/2025
+pagamento boleto
+pagamento boleto - urbano agroindustrial ltda
+-r$ 6.860,54
+r$ 47.692,71
+02/01/2025
+pagamento boleto
+pagamento boleto - costura perfeita c m ltda me
+-r$ 154,00
+r$ 47.538,71
+02/01/2025
+pagamento boleto
+pagamento boleto - cavemac indl coml maqs imp exp
+-r$ 371,73
+r$ 47.166,98
+02/01/2025
+pagamento boleto
+pagamento boleto - textil mn de tec e conf ltda
+-r$ 716,80
+r$ 46.450,18
+02/01/2025
+pagamento boleto
+pagamento boleto - coml zipers armarinhos 25 ltd
+-r$ 726,14
+r$ 45.724,04
+02/01/2025
+pagamento boleto
+pagamento boleto - diklatex ne gestao financeira lt
+-r$ 3.840,35
+r$ 41.883,69
+02/01/2025
+pagamento boleto
+pagamento boleto - dalila textil ltda
+-r$ 3.677,62
+r$ 38.206,07
+02/01/2025
+pagamento boleto
+pagamento boleto - diklatex ne gestao financeira
+-r$ 1.276,82
+r$ 36.929,25
+02/01/2025
+pagamento boleto
+pagamento boleto - dalila textil ltda
+-r$ 9.264,80
+r$ 27.664,45
+02/01/2025
+pagamento boleto
+pagamento boleto - dalila textil ltda
+-r$ 2.402,37
+r$ 25.262,08
+02/01/2025
+pagamento boleto
+pagamento boleto - dalila textil ltda
+-r$ 1.839,01
+r$ 23.423,07
+1.0.0
+50521243840
+fourbank
+pagme pagamentos
+contapag
+3 de
+contas
+extrato da conta
+12/05/2025 - 17:13:50
+filtros utilizados no relatório
+7053364-1
+data inicial:
+01/01/2025
+data final:
+31/01/2025
+nome do cliente:
+justi & cia ltda
+agência:
+3 - invest bravo
+cnjp:
+49.435.472/0001-66
+conta
+660
+cod.
+saldo anterior
+r$ 1.336,10
+data
+número documento
+histórico
+lançamento (r$)
+saldo (r$)
+02/01/2025
+pagamento boleto
+pagamento boleto - adar industria e comercio imp e
+-r$ 6.221,99
+r$ 17.201,08
+02/01/2025
+pagamento boleto
+pagamento boleto - ccs serv de imp eireli - me
+-r$ 747,50
+r$ 16.453,58
+02/01/2025
+pagamento boleto
+pagamento boleto - urbano agroindustrial ltda
+-r$ 13.614,46
+r$ 2.839,12
+02/01/2025
+pagamento boleto
+pagamento boleto - amanda cristine teixeira me
+-r$ 1.652,40
+r$ 1.186,72
+02/01/2025
+33 - bco santander (brasil) s.a.
+pix recebido - zaguini   marques comercio de...
+r$ 458,45
+r$ 1.645,17
+02/01/2025
+33 - bco santander (brasil) s.a.
+ tarifa pix recebido
+-r$ 10,00
+r$ 1.635,17
+02/01/2025
+237 - bco bradesco s.a.
+pix recebido - marco antonio rosa penna - epp
+r$ 1.440,47
+r$ 3.075,64
+02/01/2025
+237 - bco bradesco s.a.
+ tarifa pix recebido
+-r$ 10,00
+r$ 3.065,64
+03/01/2025
+08561701 - pagseguro
+internet...
+pix recebido - d.l. oliveira cursino ltda
+r$ 500,00
+r$ 3.565,64
+03/01/2025
+08561701 - pagseguro
+internet...
+ tarifa pix recebido
+-r$ 10,00
+r$ 3.555,64
+03/01/2025
+08561701 - pagseguro
+internet...
+pix recebido - san remo comercio de roupas ltda
+r$ 103,37
+r$ 3.659,01
+03/01/2025
+08561701 - pagseguro
+internet...
+ tarifa pix recebido
+-r$ 10,00
+r$ 3.649,01
+03/01/2025
+08561701 - pagseguro
+internet...
+pix recebido - l. c. alves comercio varejist...
+r$ 500,00
+r$ 4.149,01
+03/01/2025
+08561701 - pagseguro
+internet...
+ tarifa pix recebido
+-r$ 10,00
+r$ 4.139,01
+03/01/2025
+08561701 - pagseguro
+internet...
+pix recebido - san remo comercio de roupas ltda
+r$ 29,51
+r$ 4.168,52
+03/01/2025
+08561701 - pagseguro
+internet...
+ tarifa pix recebido
+-r$ 10,00
+r$ 4.158,52
+03/01/2025
+11581339 - bmp scmepp ltda
+pix recebido - justi  cia ltda
+r$ 130.074,01
+r$ 134.232,53
+03/01/2025
+11581339 - bmp scmepp ltda
+ tarifa pix recebido
+-r$ 325,18
+r$ 133.907,35
+03/01/2025
+16501555 - stone ip s.a.
+pix recebido - villeneuve g emp ltda
+r$ 5.598,68
+r$ 139.506,03
+03/01/2025
+16501555 - stone ip s.a.
+ tarifa pix recebido
+-r$ 13,99
+r$ 139.492,04
+03/01/2025
+16501555 - stone ip s.a.
+pix recebido - big burg loja 02 eireli
+r$ 2.300,24
+r$ 141.792,28
+03/01/2025
+16501555 - stone ip s.a.
+ tarifa pix recebido
+-r$ 10,00
+r$ 141.782,28
+03/01/2025
+16501555 - stone ip s.a.
+pix recebido - big burg loja 3 ltda
+r$ 2.248,48
+r$ 144.030,76
+03/01/2025
+16501555 - stone ip s.a.
+ tarifa pix recebido
+-r$ 10,00
+r$ 144.020,76
+1.0.0
+50521243840
+fourbank

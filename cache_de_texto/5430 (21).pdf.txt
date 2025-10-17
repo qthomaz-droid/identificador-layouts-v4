@@ -1,0 +1,52 @@
+prefeitura do município de londrina
+secretaria municipal de fazenda
+nota fiscal de serviços eletrônica - nfs-e
+data/hora de geração deste espelho: 02/06/25 15:55:16
+número da nota
+000000000074
+cód. de verificação
+u77q-n0kh
+data de emissão
+02/06/2025
+data de cancelamento
+--
+prestador de serviços
+nome/razão social: thyago alexandre kufner 93126395015
+cnpj/cpf: 25.327.409/0001-48
+inscrição municipal (cmc): 2806100
+endereço: rua jerusalem, 300 apt 1304;bloco 1
+gleba fazenda palhano cep 86050520
+município: londrina
+uf: paraná
+tomador de serviços
+nome/razão social: ferretto cursos on line ltda
+cnpj/cpf: 40.424.646/0001-10
+endereço:  rua uruguai, 421 sala 802
+centro cep 99010110
+município: passo fundo
+uf: rio grande do sul
+discriminação dos serviços prestados
+aulas gravadas em maio 2025.
+retenção iss: r$ 0,00
+retenção pis: r$ 0,00
+retenção cofins: r$ 0,00
+retenção ir: r$ 0,00
+retenção csll: r$ 0,00
+retenção inss: r$ 0,00
+valor total da nota = r$ 17.325,00
+código e descrição do serviço
+802 - instrução, treinamento, orientação pedagógica e educacional, avaliação de conhecimentos de qualque...
+deduções de base de cálculo (r$)
+-
+base de cálculo iss (r$)
+17.325,00
+alíquota (%)
+inutilizado conf. art. 59 par. 4º
+valor do iss (r$)
+resolução 140/2018 cgsn
+outras informações
+- valor líquido: r$ 17.325,00. competência: 02/06/2025
+- esta nfs-e foi emitida com respaldo no decreto nº 786, de 04/07/2012. consulta de autenticidade: http://iss.londrina.pr.gov.br
+- documento emitido por me ou epp optante pelo simples nacional. não gera direito a crédito fiscal de ipi.
+- iss devido deve ser recolhido pelo prestador por meio do das.
+- esta nfs-e substitui o rps nº 68, emitido em 2/6/2025.

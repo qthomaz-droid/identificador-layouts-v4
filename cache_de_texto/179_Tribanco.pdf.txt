@@ -1,0 +1,444 @@
+10/02/2021
+ib tribanco
+https://www2.tribancoonline.com.br/tribanco-ib/services/contacorrente/extrato
+1/3
+extrato
+tribanco online - banco triângulo s/a
+10/02/2021
+agência:
+0001
+data inicial:
+01/01/2021
+conta:
+0145557-5
+data final:
+31/01/2021
+titular:
+supermercados celeiro ltda
+ 
+ 
+lançamentos
+data
+descrição
+documento
+valor(r$)
+saldo(r$)
+31/12/2020
+saldo anterior
+0
+0,00
+0,00
+04/01/2021
+cartao super compras
+196
+17.749,48
+0,00
+04/01/2021
+recebto loja s.compras
+196
+-4.581,62
+0,00
+04/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-13.167,86
+0,00
+04/01/2021
+saldo c/c
+0
+0,00
+0,00
+06/01/2021
+cartao super compras
+196
+5.642,07
+0,00
+06/01/2021
+recebto loja s.compras
+196
+-3.082,66
+0,00
+06/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-2.559,41
+0,00
+06/01/2021
+saldo c/c
+0
+0,00
+0,00
+07/01/2021
+cartao super compras
+196
+4.105,65
+0,00
+07/01/2021
+transf.automatica saldo - cobranca
+1455567
+781,89
+0,00
+07/01/2021
+recebto loja s.compras
+196
+-4.887,54
+0,00
+07/01/2021
+saldo c/c
+0
+0,00
+0,00
+08/01/2021
+cartao super compras
+196
+1.949,11
+0,00
+08/01/2021
+transf.automatica saldo - cobranca
+1455567
+4.249,58
+0,00
+08/01/2021
+recebto loja s.compras
+196
+-6.198,69
+0,00
+08/01/2021
+saldo c/c
+0
+0,00
+0,00
+11/01/2021
+cartao super compras
+196
+10.143,39
+0,00
+11/01/2021
+transf.automatica saldo - cobranca
+1455567
+1.259,36
+0,00
+11/01/2021
+recebto loja s.compras
+196
+-11.402,75
+0,00
+11/01/2021
+saldo c/c
+0
+0,00
+0,00
+13/01/2021
+cartao super compras
+196
+4.527,71
+0,00
+13/01/2021
+transf.automatica saldo - cobranca
+1455567
+10.147,53
+0,00
+13/01/2021
+recebto loja s.compras
+196
+-14.675,24
+0,00
+13/01/2021
+saldo c/c
+0
+0,00
+0,00
+14/01/2021
+cartao super compras
+196
+1.335,02
+0,00
+14/01/2021
+transf.automatica saldo - cobranca
+1455567
+1.630,14
+0,00
+14/01/2021
+recebto loja s.compras
+196
+-2.965,16
+0,00
+14/01/2021
+saldo c/c
+0
+0,00
+0,00
+15/01/2021
+cartao super compras
+196
+1.477,87
+0,00
+15/01/2021
+transf.automatica saldo - cobranca
+1455567
+741,32
+0,00
+15/01/2021
+recebto loja s.compras
+196
+-2.219,19
+0,00
+15/01/2021
+saldo c/c
+0
+0,00
+0,00
+18/01/2021
+cartao super compras
+196
+7.406,13
+0,00
+18/01/2021
+recebto loja s.compras
+196
+-2.349,66
+0,00
+18/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-5.056,47
+0,00
+18/01/2021
+saldo c/c
+0
+0,00
+0,00
+20/01/2021
+cartao super compras
+196
+2.909,05
+0,00
+20/01/2021
+recebto loja s.compras
+196
+-2.084,71
+0,00
+ 
+nome: supermercados celeiro ltda
+cnpj: 36.305.837/0001-96
+usuário: celeiro1
+data da impressão: 10/02/2021
+10/02/2021
+ib tribanco
+https://www2.tribancoonline.com.br/tribanco-ib/services/contacorrente/extrato
+2/3
+data
+descrição
+documento
+valor(r$)
+saldo(r$)
+20/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-824,34
+0,00
+20/01/2021
+saldo c/c
+0
+0,00
+0,00
+21/01/2021
+cartao super compras
+196
+3.535,51
+0,00
+21/01/2021
+recebto loja s.compras
+196
+-1.523,22
+0,00
+21/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-2.012,29
+0,00
+21/01/2021
+saldo c/c
+0
+0,00
+0,00
+22/01/2021
+cartao super compras
+196
+3.209,88
+0,00
+22/01/2021
+recebto loja s.compras
+196
+-3.052,83
+0,00
+22/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-157,05
+0,00
+22/01/2021
+comissao cobranca -
+3305
+24,82
+0,00
+22/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-24,82
+0,00
+22/01/2021
+saldo c/c
+0
+0,00
+0,00
+25/01/2021
+cartao super compras
+196
+8.156,76
+0,00
+25/01/2021
+recebto loja s.compras
+196
+-1.736,60
+0,00
+25/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-6.420,16
+0,00
+25/01/2021
+saldo c/c
+0
+0,00
+0,00
+27/01/2021
+cartao super compras
+196
+5.317,44
+0,00
+27/01/2021
+transf.automatica saldo - cobranca
+1455567
+329,93
+0,00
+27/01/2021
+recebto loja s.compras
+196
+-5.647,37
+0,00
+27/01/2021
+saldo c/c
+0
+0,00
+0,00
+28/01/2021
+cartao super compras
+196
+1.592,82
+0,00
+28/01/2021
+recebto loja s.compras
+196
+-821,94
+0,00
+28/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-770,88
+0,00
+28/01/2021
+saldo c/c
+0
+0,00
+0,00
+29/01/2021
+cartao super compras
+196
+2.491,79
+0,00
+29/01/2021
+recebto loja s.compras
+196
+-725,37
+0,00
+29/01/2021
+transf. creditos cartoes - destino cta movimento
+0
+-1.766,42
+0,00
+29/01/2021
+saldo c/c (+)
+0
+0,00
+0,00
+29/01/2021
+saldo cdb conta inteligente (+)
+0
+0,00
+0,00
+29/01/2021
+saldo cdb conta inteligente bloqueado (-)
+0
+0,00
+0,00
+29/01/2021
+saldo c/c
+0
+0,00
+0,00
+posição do dia - 10/02/2021
+ 
+saldo c/c: (+)
+0,00
+ 
+saldo cdb conta inteligente: (+)
+0,00
+ 
+saldo cdb conta inteligente bloqueado: (-)
+0,00
+encargos
+ 
+encargos acumulados até a data(-):
+0,00
+ 
+iof acumulado até a data(-):
+0,00
+ 
+cpmf(-):
+0,00
+lançamentos
+ 
+saldo bloqueado(+):
+0,00
+ 
+bloqueio judicial(-):
+0,00
+ 
+depósito dia(+):
+0,00
+ 
+cheques retidos(-):
+0,00
+saldo final
+ 
+saldo atual:
+0,00
+ 
+total garantia:
+0,00
+ 
+saldo disponível:
+0,00
+ 
+*sujeito a alteração ao longo do dia.
+fale com a central de atendimento ou sac, caso não consiga solução, entre em contato informando o número do protocolo. 
+central de atendimento - 0800 979 3355 e 3003 3366* 
+10/02/2021
+ib tribanco
+https://www2.tribancoonline.com.br/tribanco-ib/services/contacorrente/extrato
+3/3
+sac - serviço de atendimento ao cliente - 0800 727 1247
+ouvidoria - 0800 727 4017 / ouvidoria@tribanco.com.br
+horário de atendimento: de segunda a sexta-feira, exceto feriados, das 08h às 18h.
+custo de ligação local - ligações originadas de celular nas capitais e regiões metropolitanas.

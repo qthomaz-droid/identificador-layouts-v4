@@ -1,0 +1,295 @@
+contas financeiras
+fazendas ecológicas 
+fazendas ecológicas
+cadastros
+situação
+data
+pessoa
+documento
+entrada (r$)
+saída (r$)
+saldo (r$)
+não conciliada
+01/07/2025
+deb. pac.serv. e iof
+0,68
+7.741,42
+pgto debito iof cfe doc para debito pacote serviços e iof
+não conciliada
+01/07/2025
+tarifa sicoob
+0,35
+7.741,07
+pgto juros conta garantida cfe doc para tarifa manutenção de conta sicoob
+não conciliada
+02/07/2025
+49.000,00
+56.741,07
+pgto transferencia pagamento c/nota e sem nota cfe doc para #pessoa#
+não conciliada
+02/07/2025
+4.870,00
+51.871,07
+pgto transferencia p/conta antonio coser cfe doc para #pessoa#
+não conciliada
+02/07/2025
+f.p- salario
+41.158,00
+10.713,07
+pgto salario competencia junho
+não conciliada
+02/07/2025
+coopeavi
+1.474,99
+9.238,08
+pagamento coopeavi 7036/63
+não conciliada
+02/07/2025
+nitrovet - teofilo otoni
+675,00
+8.563,08
+nitrovet 3631/3
+não conciliada
+02/07/2025
+fgts rescisão
+115,54
+8.447,54
+pgto fgts rescisao ezequiel cfe doc para fgts rescisão
+não conciliada
+02/07/2025
+patricia luciana amaral s
+19076/2
+128,15
+8.319,39
+pgto compra tapete para corolla cfe doc 19076/2 para patricia luciana amaral soto 28974911833
+não conciliada
+03/07/2025
+araujo produtos siderurgi
+17987/1
+7.256,00
+1.063,39
+pgto manutenção secador cfe doc 17987/1 para araujo produtos siderurgicos ltda me
+não conciliada
+03/07/2025
+jose luciano negris me
+1815/1
+280,00
+783,39
+pgto manutenção de irrigação cfe doc 1815/1 para jose luciano negris me
+não conciliada
+03/07/2025
+tarifa salario
+85,00
+698,39
+pgto tarifa pagamento de salario cfe doc para tarifa salario
+não conciliada
+04/07/2025
+42.400,00
+43.098,39
+rcto pagamento boletos cfe doc para #pessoa#
+1
+  de  
+9
+emitido em:
+01/08/2025 09:18
+ ea
+ ebro
+não conciliada
+04/07/2025
+40.000,00
+3.098,39
+rcto pagamento colheita de café cfe doc para #pessoa#
+não conciliada
+04/07/2025
+real life internet
+500,00
+2.598,39
+pagamento real life
+não conciliada
+04/07/2025
+ciee
+300,00
+2.298,39
+pagamento ciee menores aprendizes
+não conciliada
+04/07/2025
+mj center comercial
+1.056,23
+1.242,16
+mj center comercial169650/1
+não conciliada
+07/07/2025
+casa do adubo
+183375/1
+1.008,53
+233,63
+pgto adubo foliar para café nf 183375 cfe doc 183375/1 para casa do adubo s.a. (l-6)
+não conciliada
+07/07/2025
+acqua fertil irrigacao -
+632,50
+(398,87)
+acqua fertil irrigacao -72159/1
+não conciliada
+07/07/2025
+deb. pac.serv. e iof
+25,85
+(424,72)
+pgto debito pacote serviços cfe doc para debito pacote serviços e iof
+não conciliada
+08/07/2025
+cg andaimes ltda
+24/1
+760,00
+(1.184,72)
+pgto manutenção secador e recolhedeira cfe doc 24/1 para cg andaimes ltda
+não conciliada
+08/07/2025
+2,00
+(1.186,72)
+rcto cfe doc para #pessoa#
+não conciliada
+09/07/2025
+5.000,00
+3.813,28
+rcto cfe doc para #pessoa#
+não conciliada
+09/07/2025
+coopeavi
+237,61
+3.575,67
+coopeavi7094/63
+não conciliada
+09/07/2025
+h.m pecas
+528,00
+3.047,67
+h.m pecas15754/1
+não conciliada
+09/07/2025
+edp
+399,24
+2.648,43
+edp034208827
+não conciliada
+09/07/2025
+campo racoes matriz
+6.831,66
+(4.183,23)
+campo racoes matriz146053/1
+não conciliada
+09/07/2025
+campo racoes matriz
+4.227,29
+(8.410,52)
+situação
+data
+pessoa
+documento
+entrada (r$)
+saída (r$)
+saldo (r$)
+2
+  de  
+9
+emitido em:
+01/08/2025 09:18
+ ebro
+campo racoes matriz146054/1
+não conciliada
+09/07/2025
+agro agricola
+5.700,00
+(14.110,52)
+agro agricola44455/1
+não conciliada
+09/07/2025
+edp
+7.530,69
+(21.641,21)
+edp034210400
+não conciliada
+09/07/2025
+edp
+1.304,64
+(22.945,85)
+edp034190904
+não conciliada
+09/07/2025
+edp
+889,53
+(23.835,38)
+edp034197435
+não conciliada
+09/07/2025
+edp
+297,18
+(24.132,56)
+edp033153168
+não conciliada
+09/07/2025
+edp
+915,93
+(25.048,49)
+edp034191390
+não conciliada
+09/07/2025
+mj center comercial
+771,31
+(25.819,80)
+mj center comercial170289/1
+não conciliada
+09/07/2025
+madeireira paraju ltda
+150,00
+(25.969,80)
+madeireira paraju ltda656/1
+não conciliada
+09/07/2025
+nozival bonomo me
+2.240,45
+(28.210,25)
+nozival bonomo me14550/1
+não conciliada
+09/07/2025
+produtiva
+1.179,00
+(29.389,25)
+produtiva175/1 e 176/1
+não conciliada
+09/07/2025
+economia pecuaria
+9,80
+(29.399,05)
+economia pecuaria31723/1
+não conciliada
+09/07/2025
+a.v. maquinas e ferrament
+160,00
+(29.559,05)
+a.v. maquinas e ferrament9397/1
+não conciliada
+09/07/2025
+help consult
+190,00
+(29.749,05)
+help consult10740
+não conciliada
+09/07/2025
+h.m pecas
+162,00
+(29.911,05)
+h.m pecas15818/1
+situação
+data
+pessoa
+documento
+entrada (r$)
+saída (r$)
+saldo (r$)
+3
+  de  
+9
+emitido em:
+01/08/2025 09:18
+ ebro

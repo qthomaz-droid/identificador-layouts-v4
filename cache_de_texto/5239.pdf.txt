@@ -1,0 +1,90 @@
+tipo consulta:
+data inicial:
+data final:
+entrada
+04/09/2023
+04/09/2023
+relatório  -  cheques por período
+cedente:
+90433 - d.w. granitos e marmores ltda
+situação:
+não informada
+valor (r$)
+valor 
+tarifa
+emitente
+agência
+vencimento
+compe
+banco
+conta
+entrada
+nº título
+nº do cheque
+1.700,00
+20/10/2023
+2483
+18
+claudiano cardoso de souza
+001
+940005181-0
+04/09/2023
+0,00
+405-0
+850.902
+1.750,00
+20/11/2023
+2483
+18
+claudiano cardoso de souza
+001
+550005181-0
+04/09/2023
+0,00
+406-8
+850.903
+1.750,00
+20/12/2023
+2483
+18
+claudiano cardoso de souza
+001
+250005181-0
+04/09/2023
+0,00
+407-5
+850.904
+1.750,00
+15/01/2024
+2483
+18
+claudiano cardoso de souza
+001
+190005181-0
+04/09/2023
+0,00
+408-2
+850.905
+1.750,00
+30/01/2024
+2483
+18
+claudiano cardoso de souza
+001
+270005181-0
+04/09/2023
+0,00
+409-0
+850.906
+total de registros:
+5
+total de valores:
+8.700,00
+página 1 de 1
+gerado em:
+versão:
+22/11/2023 14:41:20
+2.0.99.07
+ordenado por:
+nº do cheque
+ doodis

@@ -1,0 +1,705 @@
+dt.ref: 19/09/2025
+hora: 16:13:52
+emissão: 19/09/2025
+filial:
+0101
+descricao:
+grupo cunha
+filial:
+0101
+centro custo:
+000000001
+turno trab.: 003
+matricula:
+000007
+nome:
+diogo antonio pereira gomes dep. i.r.:
+base fer.ini: 21/01/2024
+base fer.fim:
+20/01/2025
+inic. ferias:22/07/2025
+fim   ferias:05/08/2025 dt.rec.fer.: 18/07/2025
+% 13 salar 0
+dias ferias:
+15 dias ab.pec.:
+0 salario mes:
+2866,52 salario dia:
+95,5507 salario hora:
+13,03
+tipo calculo: normal
+cod.
+descricao
+ref.
+proventos
+descontos
+bases
+liquido
+037
+adic. cargo conf fer
+10,00
+382,20
+0,00
+0,00
+038
+adic. cargo confianc
+5,00
+191,10
+0,00
+0,00
+129
+ferias
+10,00
+955,51
+0,00
+0,00
+130
+ferias mes seguinte
+5,00
+477,75
+0,00
+0,00
+134
+1/3 sobre ferias
+0,00
+445,90
+0,00
+0,00
+135
+1/3 sobre fer. m.s.
+0,00
+222,95
+0,00
+0,00
+418
+inss ferias
+0,00
+0,00
+133,87
+0,00
+501
+inss ferias mes seg
+0,00
+0,00
+66,94
+0,00
+703
+s.cont.ate limite
+0,00
+0,00
+0,00
+1783,61
+706
+base irrf ferias
+0,00
+0,00
+0,00
+2283,50
+754
+ded. inss ir ferias
+0,00
+0,00
+0,00
+200,81
+a16
+inss ferias faixa 1
+7,50
+0,00
+0,00
+113,85
+a17
+inss ferias faixa 2
+9,00
+0,00
+0,00
+86,96
+a36
+inf ded bs inss fer
+0,00
+0,00
+0,00
+1783,61
+a37
+inf ded inss ferias
+0,00
+0,00
+0,00
+133,87
+a38
+inf ded bs fgts fer
+0,00
+0,00
+0,00
+1783,61
+a65
+base ir ferias calc.
+0,00
+0,00
+0,00
+2149,63
+a72
+deducao modelo simp.
+0,00
+0,00
+0,00
+607,20
+2675,41
+200,81
+2474,60
+filial:
+0101
+centro custo:
+000000001
+turno trab.: 005
+matricula:
+000022
+nome:
+joao rodrigues neto
+dep. i.r.:02
+base fer.ini: 07/11/2023
+base fer.fim:
+06/11/2024
+inic. ferias:01/07/2025
+fim   ferias:20/07/2025 dt.rec.fer.: 27/06/2025
+% 13 salar 0
+dias ferias:
+20 dias ab.pec.:
+10 salario mes:
+2903,78 salario dia:
+96,7927 salario hora:
+13,2
+tipo calculo: normal
+cod.
+descricao
+ref.
+proventos
+descontos
+bases
+liquido
+129
+ferias
+20,00
+1935,85
+0,00
+0,00
+131
+abono pecuniario
+10,00
+967,93
+0,00
+0,00
+total funcionario:   000007 - diogo antonio pereira gomes   
+134
+1/3 sobre ferias
+0,00
+833,48
+0,00
+0,00
+136
+1/3 sobre ab. pec.
+0,00
+416,74
+0,00
+0,00
+139
+media ferias horas
+20,00
+564,58
+0,00
+0,00
+418
+inss ferias
+0,00
+0,00
+293,47
+0,00
+420
+irrf ferias
+15,00
+0,00
+67,54
+0,00
+703
+s.cont.ate limite
+0,00
+0,00
+0,00
+3333,91
+706
+base irrf ferias
+0,00
+0,00
+0,00
+3457,18
+716
+ded. depend. ferias
+2,00
+0,00
+0,00
+379,18
+754
+ded. inss ir ferias
+0,00
+0,00
+0,00
+293,47
+991
+med abono hr
+10,00
+282,29
+0,00
+0,00
+a16
+inss ferias faixa 1
+7,50
+0,00
+0,00
+113,85
+a17
+inss ferias faixa 2
+9,00
+0,00
+0,00
+114,82
+a18
+inss ferias faixa 3
+12,00
+0,00
+0,00
+64,80
+a36
+inf ded bs inss fer
+0,00
+0,00
+0,00
+3333,91
+a37
+inf ded inss ferias
+0,00
+0,00
+0,00
+293,47
+cod.
+descricao
+ref.
+proventos
+descontos
+bases
+liquido
+a38
+inf ded bs fgts fer
+0,00
+0,00
+0,00
+3333,91
+a65
+base ir ferias calc.
+0,00
+0,00
+0,00
+3750,65
+a66
+ir ferias calculado.
+15,00
+0,00
+0,00
+77,35
+a72
+deducao modelo simp.
+0,00
+0,00
+0,00
+607,20
+5000,87
+361,01
+4639,86
+filial:
+0101
+centro custo:
+000000001
+turno trab.: 005
+matricula:
+000021
+nome:
+jose da cunha castro junior dep. i.r.:
+base fer.ini: 06/11/2023
+base fer.fim:
+05/11/2024
+inic. ferias:01/07/2025
+fim   ferias:20/07/2025 dt.rec.fer.: 27/06/2025
+% 13 salar 0
+dias ferias:
+20 dias ab.pec.:
+10 salario mes:
+2903,78 salario dia:
+96,7927 salario hora:
+13,2
+tipo calculo: normal
+cod.
+descricao
+ref.
+proventos
+descontos
+bases
+liquido
+129
+ferias
+20,00
+1935,85
+0,00
+0,00
+131
+abono pecuniario
+10,00
+967,93
+0,00
+0,00
+134
+1/3 sobre ferias
+0,00
+855,58
+0,00
+0,00
+136
+1/3 sobre ab. pec.
+0,00
+427,79
+0,00
+0,00
+139
+media ferias horas
+20,00
+630,89
+0,00
+0,00
+418
+inss ferias
+0,00
+0,00
+304,08
+0,00
+420
+irrf ferias
+15,00
+0,00
+92,27
+0,00
+703
+s.cont.ate limite
+0,00
+0,00
+0,00
+3422,32
+706
+base irrf ferias
+0,00
+0,00
+0,00
+3850,11
+754
+ded. inss ir ferias
+0,00
+0,00
+0,00
+304,08
+991
+med abono hr
+10,00
+315,45
+0,00
+0,00
+a16
+inss ferias faixa 1
+7,50
+0,00
+0,00
+113,85
+a17
+inss ferias faixa 2
+9,00
+0,00
+0,00
+114,82
+a18
+inss ferias faixa 3
+12,00
+0,00
+0,00
+75,41
+a36
+inf ded bs inss fer
+0,00
+0,00
+0,00
+3422,32
+a37
+inf ded inss ferias
+0,00
+0,00
+0,00
+304,08
+a38
+inf ded bs fgts fer
+0,00
+0,00
+0,00
+3422,32
+a65
+base ir ferias calc.
+0,00
+0,00
+0,00
+3546,03
+total funcionario:   000022 - joao rodrigues neto           
+a66
+ir ferias calculado.
+15,00
+0,00
+0,00
+137,74
+a72
+deducao modelo simp.
+0,00
+0,00
+0,00
+607,20
+5133,49
+396,35
+4737,14
+filial: 0101
+037 - adic. ca
+1 037 - adic. ca
+10 037 - adic. c
+382,2 037 - adic. c
+0 037 - adic. c
+0
+038 - adic. ca
+1 038 - adic. ca
+5 038 - adic. c
+191,1 038 - adic. c
+0 038 - adic. c
+0
+129 - ferias:
+3 129 - ferias:
+50 129 - ferias:
+4827,21 129 - ferias:
+0 129 - ferias:
+0
+130 - ferias m
+1 130 - ferias m
+5 130 - ferias 
+477,75 130 - ferias 
+0 130 - ferias 
+0
+131 - abono pe
+2 131 - abono pe
+20 131 - abono p
+1935,86 131 - abono p
+0 131 - abono p
+0
+134 - 1/3 sobr
+3 134 - 1/3 sobr
+0 134 - 1/3 sob
+2134,96 134 - 1/3 sob
+0 134 - 1/3 sob
+0
+135 - 1/3 sobr
+1 135 - 1/3 sobr
+0 135 - 1/3 sob
+222,95 135 - 1/3 sob
+0 135 - 1/3 sob
+0
+136 - 1/3 sobr
+2 136 - 1/3 sobr
+0 136 - 1/3 sob
+844,53 136 - 1/3 sob
+0 136 - 1/3 sob
+0
+139 - media fe
+2 139 - media fe
+40 139 - media f
+1195,47 139 - media f
+0 139 - media f
+0
+418 - inss fer
+3 418 - inss fer
+0 418 - inss fe
+0 418 - inss fe
+731,42 418 - inss fe
+0
+420 - irrf fer
+2 420 - irrf fer
+30 420 - irrf fe
+0 420 - irrf fe
+159,81 420 - irrf fe
+0
+501 - inss fer
+1 501 - inss fer
+0 501 - inss fe
+0 501 - inss fe
+66,94 501 - inss fe
+0
+703 - s.cont.a
+3 703 - s.cont.a
+0 703 - s.cont.
+0 703 - s.cont.
+0 703 - s.cont.
+8539,84
+706 - base irr
+3 706 - base irr
+0 706 - base ir
+0 706 - base ir
+0 706 - base ir
+9590,79
+716 - ded. dep
+1 716 - ded. dep
+2 716 - ded. de
+0 716 - ded. de
+0 716 - ded. de
+379,18
+754 - ded. ins
+3 754 - ded. ins
+0 754 - ded. in
+0 754 - ded. in
+0 754 - ded. in
+798,36
+991 - med abon
+2 991 - med abon
+20 991 - med abo
+597,74 991 - med abo
+0 991 - med abo
+0
+a16 - inss fer
+3 a16 - inss fer
+22,5 a16 - inss fe
+0 a16 - inss fe
+0 a16 - inss fe
+341,55
+a17 - inss fer
+3 a17 - inss fer
+27 a17 - inss fe
+0 a17 - inss fe
+0 a17 - inss fe
+316,6
+a18 - inss fer
+2 a18 - inss fer
+24 a18 - inss fe
+0 a18 - inss fe
+0 a18 - inss fe
+140,21
+a36 - inf ded 
+3 a36 - inf ded 
+0 a36 - inf ded
+0 a36 - inf ded
+0 a36 - inf ded
+8539,84
+a37 - inf ded 
+3 a37 - inf ded 
+0 a37 - inf ded
+0 a37 - inf ded
+0 a37 - inf ded
+731,42
+a38 - inf ded 
+3 a38 - inf ded 
+0 a38 - inf ded
+0 a38 - inf ded
+0 a38 - inf ded
+8539,84
+a65 - base ir 
+3 a65 - base ir 
+0 a65 - base ir
+0 a65 - base ir
+0 a65 - base ir
+9446,31
+a66 - ir feria
+2 a66 - ir feria
+30 a66 - ir feri
+0 a66 - ir feri
+0 a66 - ir feri
+215,09
+a72 - deducao 
+3 a72 - deducao 
+0 a72 - deducao
+0 a72 - deducao
+0 a72 - deducao
+1821,6
+12809,77
+958,17
+11851,60
+total geral
+037 - adic. ca
+1 037 - adic. ca
+10 037 - adic. c
+382,2 037 - adic. c
+0 037 - adic. c
+0
+038 - adic. ca
+1 038 - adic. ca
+5 038 - adic. c
+191,1 038 - adic. c
+0 038 - adic. c
+0
+129 - ferias:
+3 129 - ferias:
+50 129 - ferias:
+4827,21 129 - ferias:
+0 129 - ferias:
+0
+130 - ferias m
+1 130 - ferias m
+5 130 - ferias 
+477,75 130 - ferias 
+0 130 - ferias 
+0
+131 - abono pe
+2 131 - abono pe
+20 131 - abono p
+1935,86 131 - abono p
+0 131 - abono p
+0
+134 - 1/3 sobr
+3 134 - 1/3 sobr
+0 134 - 1/3 sob
+2134,96 134 - 1/3 sob
+0 134 - 1/3 sob
+0
+135 - 1/3 sobr
+1 135 - 1/3 sobr
+0 135 - 1/3 sob
+222,95 135 - 1/3 sob
+0 135 - 1/3 sob
+0
+136 - 1/3 sobr
+2 136 - 1/3 sobr
+0 136 - 1/3 sob
+844,53 136 - 1/3 sob
+0 136 - 1/3 sob
+0
+139 - media fe
+2 139 - media fe
+40 139 - media f
+1195,47 139 - media f
+0 139 - media f
+0
+418 - inss fer
+3 418 - inss fer
+0 418 - inss fe
+0 418 - inss fe
+731,42 418 - inss fe
+0
+420 - irrf fer
+2 420 - irrf fer
+30 420 - irrf fe
+0 420 - irrf fe
+159,81 420 - irrf fe
+0
+total funcionario:   000021 - jose da cunha castro junior   
+cod.
+ref.
+proventos
+descontos
+bases
+cod.
+ref.
+proventos
+descontos
+bases

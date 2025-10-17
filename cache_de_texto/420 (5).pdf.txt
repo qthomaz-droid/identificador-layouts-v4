@@ -1,0 +1,487 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+data/hora de emissão:
+cooperativa:
+conta:
+período:
+21/08/2025 15:59:37
+3010
+158.365-4
+01/05/2025 - 30/06/2025
+situação do aceite:
+situação do título:
+reconhecido
+liquidado
+dados do titulo
+linha digitável do código de barras:
+74891.12529 46139.401676 56041.431018 1 10740000105847
+número documento:
+01407395 2
+nosso número:
+252461394
+instituição emissora:
+748 - bco cooperativo sicredi s.a.
+data vencimento:
+07/05/2025
+nome/razão social do beneficiário:
+lube distribuidora ltda
+nome fantasia do beneficiário:
+lube distribuidora ltda
+cpf/cnpj beneficiário:
+03.447.509/0001-75
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 1.058,47
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 1.058,47
+dados do titulo
+linha digitável do código de barras:
+74891.12529 46140.801674 56041.431034 8 10810000105847
+número documento:
+01407395 3
+nosso número:
+252461408
+instituição emissora:
+748 - bco cooperativo sicredi s.a.
+data vencimento:
+14/05/2025
+nome/razão social do beneficiário:
+lube distribuidora ltda
+nome fantasia do beneficiário:
+lube distribuidora ltda
+cpf/cnpj beneficiário:
+03.447.509/0001-75
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 1.058,47
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 1.058,47
+dados do titulo
+linha digitável do código de barras:
+75691.30102 01090.526722 60652.880018 8 10720000360560
+número documento:
+0000152974
+nosso número:
+01009052670026065288
+instituição emissora:
+756 - banco sicoob s.a.
+data vencimento:
+05/05/2025
+nome/razão social do beneficiário:
+rfp comercio e servicos ltda
+nome fantasia do beneficiário:
+rfp comercio e servicos ltda
+cpf/cnpj beneficiário:
+21.778.775/0001-62
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 3.605,60
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 3.605,60
+dados do titulo
+linha digitável do código de barras:
+00190.00009 03122.631017 16938.527179 4 10770000020437
+número documento:
+116938527
+nosso número:
+00031226310116938527
+instituição emissora:
+1 - banco do brasil s.a.
+data vencimento:
+10/05/2025
+nome/razão social do beneficiário:
+safe2pay instituicao de pagamento ltda
+nome fantasia do beneficiário:
+safetopay intermediacao de negocios ltda
+cpf/cnpj beneficiário:
+31.037.942/0001-78
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 204,37
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 204,37
+dados do titulo
+linha digitável do código de barras:
+75691.43402 01085.766101 03502.170057 1 10680000525000
+número documento:
+00000065430005
+nosso número:
+01008576610000350217
+instituição emissora:
+756 - banco sicoob s.a.
+data vencimento:
+01/05/2025
+nome/razão social do beneficiário:
+amitec industria e comercio de amidos ltda
+nome fantasia do beneficiário:
+amitec industria e comercio de amidos ltda
+cpf/cnpj beneficiário:
+00.518.707/0001-94
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 5.250,00
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 5.250,00
+dados do titulo
+linha digitável do código de barras:
+34191.09149 57975.692930 80151.910009 7 10690000765310
+número documento:
+0097370602
+nosso número:
+29380151910914579756
+instituição emissora:
+341 - itau unibanco s.a.
+data vencimento:
+02/05/2025
+nome/razão social do beneficiário:
+bunge alimentos s a
+nome fantasia do beneficiário:
+bunge alimentos s a
+cpf/cnpj beneficiário:
+84.046.101/0001-93
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 7.653,10
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 7.653,10
+dados do titulo
+linha digitável do código de barras:
+74891.12529 45536.001675 56041.431042 1 10740000105847
+número documento:
+01405925 2
+nosso número:
+252455360
+instituição emissora:
+748 - bco cooperativo sicredi s.a.
+data vencimento:
+07/05/2025
+nome/razão social do beneficiário:
+lube distribuidora ltda
+nome fantasia do beneficiário:
+lube distribuidora ltda
+cpf/cnpj beneficiário:
+03.447.509/0001-75
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 1.058,47
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 1.058,47
+dados do titulo
+linha digitável do código de barras:
+74891.12529 45537.801677 56041.431067 1 10810000105847
+número documento:
+01405925 3
+nosso número:
+252455378
+instituição emissora:
+748 - bco cooperativo sicredi s.a.
+data vencimento:
+14/05/2025
+nome/razão social do beneficiário:
+lube distribuidora ltda
+nome fantasia do beneficiário:
+lube distribuidora ltda
+cpf/cnpj beneficiário:
+03.447.509/0001-75
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 1.058,47
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 1.058,47
+dados do titulo
+linha digitável do código de barras:
+02190.00197 75800.023816 62004.021986 1 10740000216646
+número documento:
+17398/5
+nosso número:
+0001975803
+instituição emissora:
+21 - bco banestes s.a.
+data vencimento:
+07/05/2025
+nome/razão social do beneficiário:
+liderset embalagens
+nome fantasia do beneficiário:
+liderset embalagens
+cpf/cnpj beneficiário:
+17.569.001/0001-54
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 2.166,46
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 2.166,46
+valor mínimo e máximo:
+o valor máximo é r$ 2.166,46.
+dados do titulo
+linha digitável do código de barras:
+00190.00009 03486.442001 00000.698175 9 10740000382395
+número documento:
+18685
+nosso número:
+00034864420000000698
+instituição emissora:
+1 - banco do brasil s.a.
+data vencimento:
+07/05/2025
+nome/razão social do beneficiário:
+impri+ etiquetas adesivas ltda
+nome fantasia do beneficiário:
+impri+ etiquetas adesivas ltda
+cpf/cnpj beneficiário:
+45.309.252/0001-35
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 3.823,95
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 3.823,95
+dados do titulo
+linha digitável do código de barras:
+74891.12529 11911.107180 57034.681080 5 10740001518516
+número documento:
+102086/002
+nosso número:
+252119111
+instituição emissora:
+748 - bco cooperativo sicredi s.a.
+data vencimento:
+07/05/2025
+nome/razão social do beneficiário:
+moinho globo alimentos sa
+nome fantasia do beneficiário:
+moinho globo alimentos sa
+cpf/cnpj beneficiário:
+81.442.014/0001-67
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 15.185,16
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 15.185,16
+dados do titulo
+linha digitável do código de barras:
+75691.30102 01002.194601 01590.090013 1 10750000128092
+número documento:
+89022
+nosso número:
+01000219460000159009
+instituição emissora:
+756 - banco sicoob s.a.
+data vencimento:
+08/05/2025
+nome/razão social do beneficiário:
+auto servico venturim ltda
+nome fantasia do beneficiário:
+auto servico venturim ltda
+cpf/cnpj beneficiário:
+31.786.429/0001-80
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 1.280,92
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 1.280,92
+dados do titulo
+linha digitável do código de barras:
+75691.43402 01085.766101 03502.240066 6 10750000525000
+número documento:
+00000065430006
+nosso número:
+01008576610000350224
+instituição emissora:
+756 - banco sicoob s.a.
+data vencimento:
+08/05/2025
+nome/razão social do beneficiário:
+amitec industria e comercio de amidos ltda
+nome fantasia do beneficiário:
+amitec industria e comercio de amidos ltda
+cpf/cnpj beneficiário:
+00.518.707/0001-94
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 5.250,00
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 5.250,00
+dados do titulo
+linha digitável do código de barras:
+34191.09149 57975.772930 80151.910009 1 10760000765310
+número documento:
+0097370603
+nosso número:
+29380151910914579757
+instituição emissora:
+341 - itau unibanco s.a.
+data vencimento:
+09/05/2025
+nome/razão social do beneficiário:
+bunge alimentos s a
+nome fantasia do beneficiário:
+bunge alimentos s a
+cpf/cnpj beneficiário:
+84.046.101/0001-93
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 7.653,10
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 7.653,10
+dados do titulo
+linha digitável do código de barras:
+03399.66640 16400.000127 35792.001014 6 10770000015000
+número documento:
+12357920
+nosso número:
+0000012357920
+instituição emissora:
+33 - bco santander (brasil) s.a.
+data vencimento:
+10/05/2025
+nome/razão social do beneficiário:
+samp espirito santo assistencia medica l
+nome fantasia do beneficiário:
+samp espirito santo assistencia medica l
+cpf/cnpj beneficiário:
+02.403.281/0001-59
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 150,00
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 150,00
+valor mínimo e máximo:
+o percentual mínimo é 100%. o percentual máximo é 100%.
+dados do titulo
+linha digitável do código de barras:
+34191.57007 00532.478401 59983.140001 1 10770000361111
+número documento:
+25022504
+nosso número:
+84059983115700005324
+instituição emissora:
+341 - itau unibanco s.a.
+data vencimento:
+10/05/2025
+nome/razão social do beneficiário:
+b d f ind de maquinas ltda
+nome fantasia do beneficiário:
+b d f ind de maquinas ltda
+cpf/cnpj beneficiário:
+42.763.015/0001-51
+nome/razão social do pagador:
+fortmassas ltda
+cpf/cnpj pagador:
+44.996.503/0001-34
+valor do documento:
+r$ 3.611,11
+(-) desconto/abatimento:
+r$ 0,00
+(+) outros acréscimos:
+r$ 0,00
+(=) valor cobrado:
+r$ 3.611,11
+dados do titulo
+linha digitável do código de barras:
+00190.00009 02962.759003 00011.517174 1 10780000167500
+número documento:
+zg-17095

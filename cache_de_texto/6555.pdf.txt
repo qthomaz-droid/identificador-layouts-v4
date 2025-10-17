@@ -1,0 +1,1118 @@
+gestores
+data: 06/08/2025 13:16:20
+usuário: paulo henrique
+bkp - relatório conciliação
+filial "igual" : 1 summer fruit industria e comercio de alimentos ltda
+situação "igual" : conciliado
+data "entre" : 01/07/2025 a 31/07/2025
+documento
+data conciliação
+descrição
+tipo
+valor 
+data movimento:
+01/07/2025
+pagamento fornecedor: supermercados bh comercio de alimentos
+000006071
+d
+r$ 306,80
+09/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000326201
+d
+r$ 4.295,48
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: supermercados bh comercio de alimentos
+000003968
+d
+r$ 206,00
+09/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: geraldo pereira duarte
+000059392
+c
+r$ 941,50
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: ar certiflex ltda
+certificad
+d
+r$ 120,00
+14/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: auto servico irmaos pimentel ltda
+000059300
+c
+r$ 2.014,50
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: milanez & falqueto ltda
+000059406
+c
+r$ 975,60
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000326280
+d
+r$ 2.578,10
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: supermercados bh comercio de alimentos
+000003881
+d
+r$ 1.315,40
+09/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: supermercados bh comercio de alimentos
+000004496
+d
+r$ 155,80
+09/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: dm - action producoes e eventos ltda
+17695
+d
+r$ 304,50
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: supermercados bh comercio de alimentos
+00009074
+d
+r$ 91,99
+09/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000326289
+d
+r$ 5.973,28
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000326304
+d
+r$ 19.133,79
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000326320
+d
+r$ 3.258,15
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: 14.602.987 priscila borges wandekoken
+p324161
+c
+r$ 192,80
+11/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: lindomar tobias carminati belem
+p324347
+c
+r$ 125,00
+11/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000327546
+d
+r$ 1.182,48
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: supergasbras energia ltda
+9044726403
+d
+r$ 408,52
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: pedro jovino dos santos neto
+ferias 1/1
+d
+r$ 1.901,54
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: michael ramos da fonseca
+ferias 1/1
+d
+r$ 1.943,72
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: nilton cesar 
+pintura 1/
+d
+r$ 1.500,00
+11/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: jb comercio mat de const ltda-epp
+nfc0157256
+d
+r$ 695,28
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente:  drift com. de alimentos s/a
+000059766
+c
+r$ 3.077,39
+09/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: wellington rodrigues de oliveira
+003468
+d
+r$ 14.452,00
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059135
+c
+r$ 742,12
+09/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059136
+c
+r$ 2.437,92
+09/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente:  realmar distribuidora ltda.
+000059146
+c
+r$ 822,53
+09/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059134
+c
+r$ 527,62
+09/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente:  realmar distribuidora ltda.
+000059147
+c
+r$ 4.288,32
+09/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente:  drift com. de alimentos s/a
+000059765
+c
+r$ 1.655,86
+09/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente:  drift com. de alimentos s/a
+000059794
+c
+r$ 2.715,58
+09/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: alm supermercados eireli
+000059400
+c
+r$ 1.340,50
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: itapoa supermercado ltda
+000059387
+c
+r$ 2.641,20
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: marcelo bermond 09405787780
+000059393
+c
+r$ 336,00
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: supermercados calvi ltda
+000059379
+c
+r$ 568,50
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: supermercados casagrande ltda
+000059367
+c
+r$ 2.403,34
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: supermercados calvi ltda
+000059302
+c
+r$ 1.320,00
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: itapoa supermercado ltda
+000059388
+c
+r$ 1.650,00
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: supermercados noroeste ltda
+000059399
+c
+r$ 1.683,00
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: lara gomes reis costa
+000059391
+c
+r$ 265,50
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: supermarcados fiorese ltda
+000059353
+c
+r$ 2.265,70
+07/07/2025
+01/07/2025
+01/07/2025
+recebimento cliente: cervejaria speranza ltda
+p324165
+c
+r$ 90,40
+11/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: supermercados bh comercio de alimentos
+000006817
+d
+r$ 298,78
+09/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: guarapari comercio de combustiveis ltda
+155286
+d
+r$ 5.011,50
+07/07/2025
+01/07/2025
+página: 1
+tellace sistemas
+01/07/2025
+recebimento cliente: lindomar tobias carminati belem
+p324061
+c
+r$ 146,40
+11/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000327537
+d
+r$ 527,80
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000326156
+d
+r$ 14.210,00
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: edenred solucoes de pagamento hyla s.a
+000326183
+d
+r$ 1.766,10
+07/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: supermercados bh comercio de alimentos
+00003556
+d
+r$ 327,20
+09/07/2025
+01/07/2025
+01/07/2025
+pagamento fornecedor: supermercados bh comercio de alimentos
+000004844
+d
+r$ 475,40
+09/07/2025
+01/07/2025
+02/07/2025
+recebimento cliente:  realmar distribuidora ltda.
+000059166
+c
+r$ 117,27
+14/07/2025
+02/07/2025
+02/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059167
+c
+r$ 1.459,68
+14/07/2025
+02/07/2025
+02/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059168
+c
+r$ 208,28
+14/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: geraldo pereira duarte
+almoco 1/1
+d
+r$ 20,00
+11/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: 26.281.749 sidnei dos santos duarte
+almoco 1/1
+d
+r$ 22,00
+11/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: katia valesque silva fonseca
+descarga 1
+d
+r$ 600,00
+11/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: tarifa bancaria
+tarifa  1/
+d
+r$ 5,00
+14/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: maycon castelari
+estaciona 
+d
+r$ 260,00
+11/07/2025
+02/07/2025
+02/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059162
+c
+r$ 208,28
+14/07/2025
+02/07/2025
+02/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059161
+c
+r$ 1.290,24
+14/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: supermercados casagrande ltda
+037081
+d
+r$ 56,34
+07/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: telefonica brasil s a
+vivo 
+d
+r$ 97,90
+07/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: vitoria purificadores ltda
+469
+d
+r$ 2.680,00
+07/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: macval equipamentos industriais eireli
+12579
+d
+r$ 194,10
+07/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: agiservt limpeza, conservacao, carga,
+000002040
+d
+r$ 318,90
+07/07/2025
+02/07/2025
+02/07/2025
+recebimento pix:  michael ramos da fonseca
+p323931
+c
+r$ 46,00
+11/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: 26.281.749 sidnei dos santos duarte
+almoco 1/1
+d
+r$ 22,00
+11/07/2025
+02/07/2025
+02/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059163
+c
+r$ 2.855,04
+14/07/2025
+02/07/2025
+02/07/2025
+pagamento fornecedor: tarifa bancaria
+tarifa 1/2
+d
+r$ 3,00
+14/07/2025
+02/07/2025
+02/07/2025
+recebimento cliente:  realmar distribuidora ltda.
+000059164
+c
+r$ 99,07
+14/07/2025
+02/07/2025
+02/07/2025
+recebimento cliente:  realmar distribuidora ltda.
+000059165
+c
+r$ 1.440,00
+14/07/2025
+02/07/2025
+03/07/2025
+pagamento fornecedor: alelo instituicao de pagamento sa
+veloev 1/7
+d
+r$ 750,00
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: frigelar comercio e industria ltda
+670145
+d
+r$ 125,12
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: moderna produtos em metais
+3426
+d
+r$ 214,02
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: expresso premium transporte e logistica
+000035961
+d
+r$ 2.622,85
+07/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: bomplastic bom jesus plasticos ltda
+001
+d
+r$ 3.660,75
+07/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: tr ferrari transporte & logistica ltda
+000000302
+d
+r$ 3.300,00
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: allianz seguros s/a
+ods3951 9/
+d
+r$ 810,96
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059187
+c
+r$ 723,36
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059177
+c
+r$ 916,99
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: bflex rotulos e etiquetas ltda
+3803
+d
+r$ 31.050,62
+07/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: bomplastic bom jesus plasticos ltda
+001
+d
+r$ 9.566,86
+07/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercados bh comercio de alimentos
+000059428
+c
+r$ 1.366,08
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: latam air
+viagem 1/4
+d
+r$ 681,38
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059181
+c
+r$ 258,05
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059183
+c
+r$ 205,06
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercado dede ltda epp
+000059537
+c
+r$ 3.700,20
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: anna rita zambon pilon 08096475754
+000059535
+c
+r$ 242,76
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercados bh comercio de alimentos
+000059448
+c
+r$ 1.590,13
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercado gianizeli ltda epp
+000059447
+c
+r$ 378,90
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercado bigossi ltda - epp
+000059445
+c
+r$ 535,30
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercados bh comercio de alimentos
+000059439
+c
+r$ 1.650,82
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: mercantil partecam ltda
+000004587
+d
+r$ 341,67
+07/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercado dede ltda
+000059539
+c
+r$ 1.798,80
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: pompeu comercio de pneus ltda
+7841
+d
+r$ 128,33
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: anilson paganini bayerl
+mercadoria
+d
+r$ 47,50
+11/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: mecanica caus eireli epp
+202514023
+d
+r$ 320,00
+07/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercado gomeram ltda
+000059436
+c
+r$ 774,00
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercados bh comercio de alimentos
+000059433
+c
+r$ 1.358,28
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: mecanica caus eireli epp
+14558
+d
+r$ 435,52
+07/07/2025
+03/07/2025
+página: 2
+tellace sistemas
+03/07/2025
+pagamento fornecedor: mv descargas sao judas tadeu ltda
+descarga 1
+d
+r$ 448,00
+11/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: pompeu comercio de pneus ltda
+7842
+d
+r$ 128,33
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: allianz seguros s/a
+allianz  1
+d
+r$ 716,49
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: leroy merlin 
+leroy 4/8
+d
+r$ 111,65
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercados bh comercio de alimentos
+000059432
+c
+r$ 748,44
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercados bh comercio de alimentos
+000059431
+c
+r$ 3.009,13
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: porto seguro companhia de seguros
+seguro 6/1
+d
+r$ 1.209,99
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059184
+c
+r$ 4.153,92
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059186
+c
+r$ 521,86
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059189
+c
+r$ 562,18
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059190
+c
+r$ 3.153,41
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: drift com. de alimentos s/a
+18503
+d
+r$ 54,68
+07/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059178
+c
+r$ 2.295,36
+14/07/2025
+03/07/2025
+03/07/2025
+pagamento fornecedor: descarga
+descarga 1
+d
+r$ 2.000,00
+14/07/2025
+03/07/2025
+03/07/2025
+recebimento cliente: supermercado dede ltda epp
+000059536
+c
+r$ 1.562,20
+14/07/2025
+03/07/2025
+04/07/2025
+recebimento cliente: itapoa supermercado ltda
+000059451
+c
+r$ 5.647,00
+14/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente: itapoa supermercado ltda
+000059450
+c
+r$ 1.958,00
+14/07/2025
+04/07/2025
+04/07/2025
+pagamento fornecedor: supermercados casagrande ltda
+081336
+d
+r$ 33,45
+07/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059153
+c
+r$ 623,23
+14/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente: itapoa supermercado ltda
+000059455
+c
+r$ 5.065,00
+14/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059191
+c
+r$ 158,98
+14/07/2025
+04/07/2025
+04/07/2025
+pagamento fornecedor: eletrotintas comercial ltda
+001
+d
+r$ 471,75
+07/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente: supermercados calvi ltda
+000059411
+c
+r$ 2.112,00
+14/07/2025
+04/07/2025
+04/07/2025
+pagamento fornecedor: congelux comercio e servicos ltda me
+000000549
+d
+r$ 1.200,00
+07/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente: itapoa supermercado ltda
+000059452
+c
+r$ 4.113,00
+14/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente: costanox acos inoxidaveis eireli
+000059419
+c
+r$ 280,80
+14/07/2025
+04/07/2025
+04/07/2025
+pagamento fornecedor: 50.772.220 fabiano martins de matos
+000000085
+d
+r$ 220,00
+07/07/2025
+04/07/2025
+04/07/2025
+pagamento fornecedor: ifood beneficios
+001117567
+d
+r$ 793,00
+14/07/2025
+04/07/2025
+04/07/2025
+pagamento fornecedor: supergasbras energia ltda
+9044811245
+d
+r$ 372,02
+07/07/2025
+04/07/2025
+04/07/2025
+pagamento fornecedor: ifood beneficios
+001117566
+d
+r$ 1.078,80
+14/07/2025
+04/07/2025
+04/07/2025
+recebimento pix:  taciane arcobele cola
+p324063
+c
+r$ 72,80
+11/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente: cervejaria speranza ltda
+pedido 324
+c
+r$ 537,48
+11/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente: supermercados bh comercio de alimentos
+000059456
+c
+r$ 1.465,39
+14/07/2025
+04/07/2025
+04/07/2025
+recebimento cliente: supermercados casagrande ltda
+000059427
+c
+r$ 2.094,23
+14/07/2025
+04/07/2025
+04/07/2025
+recebimento pix:  carlos eduardo silva resieri
+p324378
+c
+r$ 16,76
+11/07/2025
+04/07/2025
+04/07/2025
+recebimento pix:  v. s . vailante simoes - rancho do osmar
+p324489
+c
+r$ 220,66
+11/07/2025
+04/07/2025
+04/07/2025
+recebimento pix:  v. s . vailante simoes - rancho do osmar
+p324346
+c
+r$ 220,66
+11/07/2025
+04/07/2025
+07/07/2025
+pagamento fornecedor: bruno silva fonseca
+prolabore 
+d
+r$ 1.351,02
+14/07/2025
+07/07/2025
+07/07/2025
+pro labore oli augusto da fonseca
+pro labore
+c
+r$ 1.351,02
+21/07/2025
+07/07/2025
+07/07/2025
+recebimento cliente: supermercados bh comercio de alimentos
+000059477
+c
+r$ 1.165,72
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: w o servicos de marketing ltda
+002025114
+d
+r$ 1.580,00
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: unimed vitoria cooperativa de trabalho
+005511948
+d
+r$ 624,54
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: mecanica caus eireli epp
+14573
+d
+r$ 665,29
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: mecanica caus eireli epp
+202514037
+d
+r$ 320,00
+14/07/2025
+07/07/2025
+07/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059219
+c
+r$ 876,96
+14/07/2025
+07/07/2025
+07/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059182
+c
+r$ 1.219,20
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: pack x embalagens ltda
+1061
+d
+r$ 7.945,66
+14/07/2025
+07/07/2025
+07/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059228
+c
+r$ 775,68
+14/07/2025
+07/07/2025
+07/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059220
+c
+r$ 1.085,76
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: bdnet solucoes tecnologicas
+810798
+d
+r$ 150,00
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: superfruti comercio de
+2588
+d
+r$ 520,28
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: vinicius de oliveira pereira
+003485
+d
+r$ 3.396,00
+14/07/2025
+07/07/2025
+07/07/2025
+recebimento cliente:  drift com. de alimentos s/a
+000059784
+c
+r$ 1.289,03
+14/07/2025
+07/07/2025
+07/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059180
+c
+r$ 2.935,68
+14/07/2025
+07/07/2025
+07/07/2025
+recebimento cliente:  realmar distribuidora ltda
+000059206
+c
+r$ 1.313,76
+14/07/2025
+07/07/2025
+07/07/2025
+pagamento fornecedor: total pest control imunizacao es ltda
+000000432
+d
+r$ 665,00
+14/07/2025
+07/07/2025
+página: 3
+tellace sistemas

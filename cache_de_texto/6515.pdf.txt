@@ -1,0 +1,45 @@
+nº documento
+número 
+nf/recibo
+id
+ca
+responsável
+unidade
+vencimento pagamento
+fornecedor
+serviço
+valor [r$]
+observação
+02
+nota fiscal
+11181
+13863
+ca
+luiz guilherme
+hst vv
+05/01/2025
+03/01/2025 salles contabilidade ltda
+contabilidade
+r$2.118,00
+03
+rpa
+6
+13914
+ca
+marlon
+hst vv
+07/01/2025
+03/01/2025 franceline kuffer de almeida
+atendimento clinico
+r$3.000,00
+04
+nota fiscal
+aguardando 
+chrystian
+hst vv
+30/12/2024
+03/01/2025 	ubsclender lucio de aguiar 59093358634
+serviços prestados
+r$5.000,00
+fluxo de pagamentos - hst vv
+03/01/2025

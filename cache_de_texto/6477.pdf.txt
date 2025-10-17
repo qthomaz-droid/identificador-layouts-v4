@@ -1,0 +1,643 @@
+empresa: ww padua - veiculos e pecas ltda
+referente a 01/07/2025 a 31/07/2025
+página: 1
+data: 17/09/2025
+relatório: razão contábil
+revenda: grupo titoneli auto - padua
+revenda divisão:
+1. ww padua - veiculos e pecas ltda
+13:53:01
+dt. lcto.
+conta contábil
+saldo anterior
+histórico
+descrição
+débito
+crédito
+saldo
+contra partida
+  5.1.1.04.02
+pat-programa alimentacao trabalhador
+      5.1.1.04.02.001
+pat-programa alimentacao trabalhador
+129.733,49
+1/07/2025
+3.318,00
+133.051,49
+ - conforme lancamento bancario: 43161  (deb nf 6-restaurante e 
+lanchonete verde cheiro)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+7/07/2025
+140,00
+133.191,49
+ - conforme lancamento caixa: 35124  (pago a renato e lucimar)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+7/07/2025
+3.383,75
+136.575,24
+ - conforme lancamento bancario: 43613  (deb bar da ana)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+14/07/2025
+140,00
+136.715,24
+ - conforme lancamento caixa: 35623  (pago renato e lucimar)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+14/07/2025
+1.652,00
+138.367,24
+ - conforme lancamento bancario: 44096  (deb nf 10357840-guilherme 
+geronimo barroso - bar do posto)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+21/07/2025
+140,00
+138.507,24
+ - conforme lancamento caixa: 36069  (pago renato e lucimar)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+28/07/2025
+140,00
+138.647,24
+ - conforme lancamento caixa: 36438  (pago renato e lucimar)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+29/07/2025
+8.840,00
+147.487,24
+ - conforme lancamento bancario: 45303  (deb pluxee)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+147.487,24
+0,00
+17.753,75
+saldo atual
+ 
+  5.1.1.04.03
+vale transporte
+      5.1.1.04.03.001
+vale transporte
+2.691,80
+21/07/2025
+1.278,80
+3.970,60
+ - conforme lancamento bancario: 44688  (deb nf 45-auto viação 
+unidos de padua)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+3.970,60
+0,00
+1.278,80
+saldo atual
+ 
+  5.1.1.04.04
+plano de saude
+      5.1.1.04.04.001
+plano de saude
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+  5.1.1.04.05
+prov.participacao de resultados
+      5.1.1.04.05.001
+prov.participacao de resultados
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+  5.1.1.04.06
+seguro de vida
+      5.1.1.04.06.001
+seguro de vida
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+  5.1.1.04.08
+farmacia
+      5.1.1.04.08.001
+farmacia
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+  5.1.1.04.09
+demais contas
+      5.1.1.04.09.001
+demais contas
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+  5.1.1.05.01
+formacao profissional
+      5.1.1.05.01.001
+formacao profissional
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+  5.1.1.06.01
+gastos diversos com empregados
+      5.1.1.06.01.001
+uniformes e vestuarios
+7.804,13
+11/07/2025
+45,00
+7.849,13
+ - conforme lancamento caixa: 35488  (pago bota chocolate)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+linx sistemas e consultoria ltda;
+usuário: tg.contabil
+empresa: ww padua - veiculos e pecas ltda
+referente a 01/07/2025 a 31/07/2025
+página: 2
+data: 17/09/2025
+relatório: razão contábil
+revenda: grupo titoneli auto - padua
+revenda divisão:
+1. ww padua - veiculos e pecas ltda
+13:53:01
+dt. lcto.
+conta contábil
+saldo anterior
+histórico
+descrição
+débito
+crédito
+saldo
+contra partida
+15/07/2025
+652,73
+8.501,86
+ - conforme lancamento bancario: 44163  (deb nf 105058-citerol)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+16/07/2025
+44,90
+8.546,76
+ - conforme lancamento caixa: 35764  (pago bota marcinho)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+8.546,76
+0,00
+742,63
+saldo atual
+ 
+      5.1.1.06.01.002
+ lanches e refeicoes
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+      5.1.1.06.01.003
+epi - equipamento seguranca
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+      5.1.1.06.01.004
+outros gastos com empregados
+12.596,58
+2/07/2025
+300,00
+12.896,58
+ - conforme lancamento caixa: 34801  (pago transporte nando)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+7/07/2025
+1.161,00
+14.057,58
+ - conforme lancamento caixa: 35134  (pago nf 10335-churrascaria 
+planalto)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+17/07/2025
+679,20
+14.736,78
+ - conforme lancamento caixa: 35963  (pago nf 10382164-adriano 
+gomes do prado)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+21/07/2025
+165,00
+14.901,78
+ - conforme lancamento bancario: 44686  (deb nf 2475-marcelo 
+gonçalves cruz)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+14.901,78
+0,00
+2.305,20
+saldo atual
+ 
+      5.1.1.06.01.005
+contribuicao sindical e assistencial
+4.878,00
+1/07/2025
+405,00
+5.283,00
+ - conforme lancamento bancario: 43159  (deb assobrav)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+88,00
+5.371,00
+ - conforme lancamento bancario: 43909  (deb cdl)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+5.371,00
+0,00
+493,00
+saldo atual
+ 
+      5.1.1.06.01.006
+diarias e ajuda de custo funcionários
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+  5.1.1.07.01
+gastos com socios
+      5.1.1.07.01.001
+gastos com socios
+4.572,80
+28/07/2025
+70,00
+4.642,80
+ - conforme lancamento caixa: 36424  (pago nf 5319-borracharia 
+gloria - polo branco tatiana)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+28/07/2025
+80,00
+4.722,80
+ - conforme lancamento caixa: 36425  (pago nf 5320-borracharia 
+gloria - amarok wagner)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+4.722,80
+0,00
+150,00
+saldo atual
+ 
+  5.1.2.01.01
+servicos prof. - pessoa fisica
+      5.1.2.01.01.001
+servicos prof. - pessoa fisica
+2.980,00
+2.980,00
+0,00
+0,00
+saldo atual
+ 
+      5.1.2.01.01.002
+ajua de custo serv. p. fisica
+0,00
+0,00
+0,00
+0,00
+saldo atual
+ 
+  5.1.2.01.02
+servicos prof. - pessoa juridica
+      5.1.2.01.02.001
+servicos prof. - pessoa juridica
+205.051,81
+1/07/2025
+215,11
+205.266,92
+ - conforme lancamento bancario: 43163  (deb nf 27338-linx)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+linx sistemas e consultoria ltda;
+usuário: tg.contabil
+empresa: ww padua - veiculos e pecas ltda
+referente a 01/07/2025 a 31/07/2025
+página: 3
+data: 17/09/2025
+relatório: razão contábil
+revenda: grupo titoneli auto - padua
+revenda divisão:
+1. ww padua - veiculos e pecas ltda
+13:53:01
+dt. lcto.
+conta contábil
+saldo anterior
+histórico
+descrição
+débito
+crédito
+saldo
+contra partida
+1/07/2025
+500,00
+205.766,92
+ - conforme lancamento bancario: 43164  (deb nf 27195-linx)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+1/07/2025
+360,49
+206.127,41
+ - conforme lancamento bancario: 43165  (deb nf 27195-linx)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+1/07/2025
+641,87
+206.769,28
+ - conforme lancamento bancario: 15690  (rateio linx)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+4/07/2025
+210,00
+206.979,28
+ - conforme lancamento bancario: 43497  (deb nf 1944-mba 
+engenharia)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+4/07/2025
+1.077,50
+208.056,78
+ - conforme lancamento bancario: 43498  (deb nf 4122-med trab)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+4/07/2025
+683,55
+208.740,33
+ - conforme lancamento bancario: 43499  (deb nf 1244444-auto 
+avaliar)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+4/07/2025
+1.498,07
+210.238,40
+ - conforme lancamento bancario: 43502  (deb adyen br ltda)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+7/07/2025
+600,00
+210.838,40
+ - conforme lancamento caixa: 35123  (pago mnf 334-maria lindalva 
+da silva araujo)
+código [1]
+ 
+ 
+ 
+1110101001
+caixa geral
+7/07/2025
+1.159,35
+211.997,75
+ - conforme lancamento bancario: 43606  (deb onst brasileiro meio 
+ambiente)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+7/07/2025
+49,00
+212.046,75
+ - conforme lancamento bancario: 43612  (deb linx)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+766,67
+212.813,42
+ - conforme lancamento bancario: 16106  (deb nf 5179-hostlp)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+350,00
+213.163,42
+ - conforme lancamento bancario: 16108  (deb nf progitar)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+2.850,00
+216.013,42
+ - conforme lancamento bancario: 43893  (rateio tavares garcia)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+1.301,22
+217.314,64
+ - conforme lancamento bancario: 43896  (deb nf 3117-informbank)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+766,66
+218.081,30
+ - conforme lancamento bancario: 43898  (deb nf 5178-hostlp)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+719,82
+218.801,12
+ - conforme lancamento bancario: 43904  (deb nf 313179-oic optical)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+490,00
+219.291,12
+ - conforme lancamento bancario: 43906  (deb nf 21282-system corp)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+10/07/2025
+197,00
+219.488,12
+ - conforme lancamento bancario: 43907  (deb sesi)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+11/07/2025
+728,34
+220.216,46
+ - conforme lancamento bancario: 43984  (deb nf 230309-autenticis)
+código [1]
+ 
+ 
+ 
+1110201001
+banco do itau ag 6095 c/c 3027-3
+14/07/2025
+2.751,75
+222.968,21
+ - conforme lancamento bancario: 44091  (deb nf 24937-syonet)
+código [1]
+ 
+ 
+ 
+linx sistemas e consultoria ltda;
+usuário: tg.contabil

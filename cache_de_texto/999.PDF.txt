@@ -1,0 +1,109 @@
+qa master tecnologia da informacao ltda
+danisantosdados@gmail.com
+data
+descrição
+status
+moeda
+bruto
+tarifa
+líquido
+02/05/2023
+pagamento geral: quick ops
+ id: 4pr12853a91376015
+concluído
+brl
+8.974,09
+-574,94
+8.399,15
+02/05/2023
+retenção geral
+ id: 41b72997nv818920h
+concluído
+brl
+-8.399,15
+0,00
+-8.399,15
+23/05/2023
+liberação de retenção geral
+ id: 2yu58025k20158905
+concluído
+brl
+8.399,15
+0,00
+8.399,15
+23/05/2023
+pagamento geral: quick ops
+ id: 4pr12853a91376015
+concluído
+brl
+8.974,09
+0,00
+8.974,09
+23/05/2023
+retirada geral
+ id: 41d75590pp077060w
+concluído
+brl
+-8.399,15
+0,00
+-8.399,15
+02/06/2023
+pagamento geral: quick ops
+ id: 1e876820s96179902
+concluído
+brl
+10.216,24
+-654,44
+9.561,80
+02/06/2023
+retenção geral
+ id: 1ck65643ks266860p
+concluído
+brl
+-9.561,80
+0,00
+-9.561,80
+23/06/2023
+liberação de retenção geral
+ id: 0fl49924g1075212m
+concluído
+brl
+9.561,80
+0,00
+9.561,80
+23/06/2023
+pagamento geral: quick ops
+ id: 1e876820s96179902
+concluído
+brl
+10.216,24
+0,00
+10.216,24
+24/06/2023
+retirada geral
+ id: 6lk80107442505727
+concluído
+brl
+-9.561,80
+0,00
+-9.561,80
+03/07/2023
+pagamento geral: quick ops
+ id: 9s4579198p952022y
+concluído
+brl
+9.424,98
+-603,80
+8.821,18
+03/07/2023
+retenção geral
+ id: 4aj73373cd531003a
+concluído
+brl
+-8.821,18
+0,00
+-8.821,18
+histórico de transações
+janeiro 01, 2023 até julho 13, 2023
+janeiro 01, 2023 até julho 13, 2023
+página  1

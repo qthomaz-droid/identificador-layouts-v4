@@ -1,0 +1,144 @@
+extrato da conta investimento
+período de 01/08/25 a 31/08/25
+conta corrente - movimentações
+data
+descrição
+lançamento r$
+saldo r$
+01/08/25
+saldo anterior
+20.990,85
+01/08/25
+ir - btc petz3
+-21,68
+20.969,17
+01/08/25
+liq bolsa (corretagem btc aluguel)
+-31,50
+20.937,67
+01/08/25
+taxa remuneração - btc petz3
+96,36
+21.034,03
+12/08/25
+taxa remuneração - btc vamo3
+46,15
+21.080,18
+12/08/25
+ir - btc vamo3
+-10,38
+21.069,80
+12/08/25
+ir - btc petz3
+-43,14
+21.026,66
+12/08/25
+liq bolsa (corretagem btc aluguel)
+-76,59
+20.950,07
+12/08/25
+taxa remuneração - btc petz3
+191,75
+21.141,82
+18/08/25
+liq bolsa (corretagem btc aluguel)
+-1,08
+21.140,74
+18/08/25
+ir - btc vamo3
+-0,79
+21.139,95
+18/08/25
+taxa remuneração - btc vamo3
+3,54
+21.143,49
+18/08/25
+liq bolsa (taxa sobre valor em custódia taxa sobre posição 1026)
+-13,90
+21.129,59
+18/08/25
+liq bolsa (taxa sobre valor em custódia estorno de taxa sobre posição 1026)
+13,90
+21.143,49
+20/08/25
+ir - btc vamo3
+-1,59
+21.141,90
+20/08/25
+liq bolsa (corretagem btc aluguel)
+-2,16
+21.139,74
+20/08/25
+taxa remuneração - btc vamo3
+7,09
+21.146,83
+22/08/25
+ir - btc petz3
+-31,82
+21.115,01
+22/08/25
+taxa remuneração - btc petz3
+141,46
+21.256,47
+22/08/25
+liq bolsa (corretagem btc aluguel)
+-42,92
+21.213,55
+22/08/25
+rendimentos s/ fii maua re ci - mcre11
+5.339,79
+26.553,34
+25/08/25
+ir - btc petz3
+-25,89
+26.527,45
+25/08/25
+liq bolsa (corretagem btc aluguel)
+-36,72
+26.490,73
+25/08/25
+taxa remuneração - btc petz3
+115,09
+26.605,82
+ 0) |
+extrato da conta investimento
+período de 01/08/25 a 31/08/25
+data
+descrição
+lançamento r$
+saldo r$
+26/08/25
+ir - btc petz3
+-10,84
+26.594,98
+26/08/25
+liq bolsa (corretagem btc aluguel)
+-15,25
+26.579,73
+26/08/25
+taxa remuneração - btc petz3
+48,19
+26.627,92
+28/08/25
+ir - btc petz3
+-18,02
+26.609,90
+28/08/25
+liq bolsa (corretagem btc aluguel)
+-25,99
+26.583,91
+28/08/25
+taxa remuneração - btc petz3
+80,11
+26.664,02
+31/08/25
+saldo final + rendimento provisionado de saldo remunerado
+-
+26.664,02
+total de
+créditos
+6.083,43
+total de
+débitos
+-
+ 0) |

@@ -1,0 +1,1232 @@
+moulin atacadista de alimentos eireli
+petr@erp - sistema integrado de gestão administrativa - copyright (c) 2021
+00005 - contas a pagar quitados - modelo i
+filtro de pagamento de 01/10/2021 à 31/10/2021
+04/11/21
+código 
+nf 
+fornecedor 
+histórico 
+vencto 
+pagto 
+vr. título
+amortizado obs
+002004955
+000001
+h g mecanica diesel ltda me 
+compra de mercadoria
+15/10/21
+15/10/21
+451,75
+451,75
+002005337
+000134
+f.a.s. itagiba 
+compra de mercadoria
+04/10/21
+04/10/21
+577,38
+577,38
+002005372
+000073
+plastzan ind. e com. de plásticos ltda 
+compra de mercadoria
+02/10/21
+04/10/21
+4.195,04
+4.195,04
+002005373
+000073
+plastzan ind. e com. de plásticos ltda 
+compra de mercadoria
+09/10/21
+11/10/21
+4.195,04
+4.195,04
+002005374
+000073
+plastzan ind. e com. de plásticos ltda 
+compra de mercadoria
+16/10/21
+15/10/21
+4.195,04
+4.195,04
+002005403
+000017
+bellocopo descartaveis ltda 
+compra de mercadoria
+04/10/21
+04/10/21
+2.703,57
+2.703,57
+002005404
+000017
+bellocopo descartaveis ltda 
+compra de mercadoria
+11/10/21
+11/10/21
+2.703,57
+2.703,57
+002005411
+000844
+nutriave alimentos ltda 
+compra de mercadoria
+01/10/21
+01/10/21
+4.532,98
+4.532,98
+002005414
+000883
+multpel com. de papeis e embalagens ltda
+compra de mercadoria
+01/10/21
+01/10/21
+213,50
+213,50
+002005422
+000124
+distripack dist de embalagens ltda 
+compra de mercadoria
+04/10/21
+04/10/21
+461,48
+461,48
+002005426
+001371
+unilider distribuidora s/a 
+compra de mercadoria
+05/10/21
+05/10/21
+188,67
+188,67
+002005438
+000966
+mb 5 - comercio importacao e exportacao 
+compra de mercadoria
+07/10/21
+07/10/21
+593,07
+593,07
+002005442
+000008
+r & a industria e comercio de produtos a
+compra de mercadoria
+06/10/21
+06/10/21
+1.397,00
+1.397,00
+002005470
+000008
+cooperativa triticola sepeense ltda 
+compra de mercadoria
+05/10/21
+05/10/21
+3.466,67
+3.466,67
+002005471
+000008
+cooperativa triticola sepeense ltda
+compra de mercadoria
+12/10/21
+13/10/21
+3.466,67
+3.466,67
+002005473
+000017
+bellocopo descartaveis ltda 
+compra de mercadoria
+01/10/21
+01/10/21
+868,47
+868,47
+002005474
+000017
+bellocopo descartaveis ltda 
+compra de mercadoria
+08/10/21
+08/10/21
+868,48
+868,48
+002005475
+000017
+bellocopo descartaveis ltda 
+compra de mercadoria
+15/10/21
+15/10/21
+868,48
+868,48
+002005476
+000017
+bellocopo descartaveis ltda 
+compra de mercadoria
+22/10/21
+26/10/21
+868,48
+868,48
+002005481
+000125
+distripack dist de embalagens ltda 
+compra de mercadoria
+04/10/21
+04/10/21
+498,38
+498,38
+002005482
+000125
+distripack dist de embalagens ltda
+compra de mercadoria
+11/10/21
+11/10/21
+498,38
+498,38
+002005483
+000125
+distripack dist de embalagens ltda 
+compra de mercadoria
+18/10/21
+15/10/21
+498,38
+498,38
+002005485
+000885
+multpel com. de papeis e embalagens ltda
+compra de mercadoria
+04/10/21
+04/10/21
+161,50
+161,50
+002005488
+000694
+lca ind. com. prod. alimenticios ltda 
+compra de mercadoria
+05/10/21
+05/10/21
+960,00
+960,00
+002005489
+000967
+mb 5 - comercio importacao e exportacao 
+compra de mercadoria
+10/10/21
+04/10/21
+1.382,70
+1.382,70
+002005494
+000497
+santher fabrica de papel santa therezinh
+compra de mercadoria
+05/10/21
+05/10/21
+1.137,33
+1.137,33
+002005500
+001016
+comercial cerealista pretti ltda
+compra de mercadoria
+11/10/21
+11/10/21
+645,60
+645,60
+002005515
+000126
+distripack dist de embalagens ltda 
+compra de mercadoria
+11/10/21
+11/10/21
+1.122,27
+1.122,27
+002005516
+000126
+distripack dist de embalagens ltda
+compra de mercadoria
+18/10/21
+15/10/21
+1.122,27
+1.122,27
+002005517
+000126
+distripack dist de embalagens ltda 
+compra de mercadoria
+25/10/21
+25/10/21
+1.122,27
+1.122,27
+002005505
+000916
+epoca com.dist.prod.alim.ind.ltda-filial
+compra de mercadoria
+07/10/21
+07/10/21
+1.341,60
+1.341,60
+002005507
+000327
+domingos costa industrias alimentic s/a 
+compra de mercadoria
+08/10/21
+08/10/21
+435,29
+435,29
+002005520
+000126
+distripack dist de embalagens ltda
+compra de mercadoria
+18/10/21
+15/10/21
+1.476,00
+1.476,00
+002005521
+000126
+distripack dist de embalagens ltda 
+compra de mercadoria
+25/10/21
+25/10/21
+1.476,00
+1.476,00
+002005524
+000093
+brunoro produtos selecionados ltda
+compra de mercadoria
+11/10/21
+11/10/21
+1.061,05
+1.061,05
+002005526
+000009
+petisco e mara s a 
+compra de mercadoria
+05/10/21
+05/10/21
+910,00
+910,00
+002005527
+000009
+petisco e mara s a 
+compra de mercadoria
+12/10/21
+13/10/21
+910,00
+910,00
+002005514
+000126
+distripack dist de embalagens ltda 
+compra de mercadoria
+04/10/21
+04/10/21
+1.122,25
+1.122,25
+002005519
+000126
+distripack dist de embalagens ltda
+compra de mercadoria
+11/10/21
+11/10/21
+1.476,00
+1.476,00
+002005528
+000009
+petisco e mara s a 
+compra de mercadoria
+19/10/21
+18/10/21
+910,00
+910,00
+002005536
+000790
+p e l agroindustria de laticinios ltda 
+compra de mercadoria
+02/10/21
+04/10/21
+455,00
+455,00
+002005537
+000034
+cerealista norte sul ltda. 
+compra de mercadoria
+04/10/21
+04/10/21
+2.212,50
+2.212,50
+002005538
+000034
+cerealista norte sul ltda. 
+compra de mercadoria
+11/10/21
+11/10/21
+2.212,50
+2.212,50
+002005539
+000034
+cerealista norte sul ltda. 
+compra de mercadoria
+18/10/21
+15/10/21
+2.212,50
+2.212,50
+002005540
+000034
+cerealista norte sul ltda. 
+compra de mercadoria
+25/10/21
+25/10/21
+2.212,50
+2.212,50
+002005545
+001374
+unilider distribuidora s/a 
+compra de mercadoria
+13/10/21
+13/10/21
+702,92
+702,92
+002005546
+001374
+unilider distribuidora s/a 
+compra de mercadoria
+20/10/21
+18/10/21
+702,92
+702,92
+002005544
+001374
+unilider distribuidora s/a 
+compra de mercadoria
+06/10/21
+06/10/21
+702,91
+702,91
+002005551
+000020
+spr alimentos sabor gourmet ltda
+compra de mercadoria
+12/10/21
+05/10/21
+1.227,48
+1.227,48
+002005553
+000001
+h g mecanica diesel ltda me 
+compra de mercadoria
+14/10/21
+14/10/21
+119,60
+119,60
+002005554
+000173
+realcafe soluvel do brasil s/a 
+compra de mercadoria
+18/10/21
+15/10/21
+1.824,70
+1.824,70
+002005555
+000126
+distripack dist de embalagens ltda 
+compra de mercadoria
+11/10/21
+11/10/21
+366,70
+366,70
+002005556
+000126
+distripack dist de embalagens ltda
+compra de mercadoria
+18/10/21
+15/10/21
+366,70
+366,70
+002005557
+000126
+distripack dist de embalagens ltda 
+compra de mercadoria
+25/10/21
+25/10/21
+366,70
+366,70
+002005559
+000126
+distripack dist de embalagens ltda
+compra de mercadoria
+18/10/21
+15/10/21
+387,00
+387,00
+002005560
+000126
+distripack dist de embalagens ltda 
+compra de mercadoria
+25/10/21
+25/10/21
+387,00
+387,00
+002005561
+000126
+distripack dist de embalagens ltda
+compra de mercadoria
+18/10/21
+15/10/21
+357,15
+357,15
+002005562
+000013
+tio joca alimentos ltda 
+compra de mercadoria
+13/10/21
+13/10/21
+3.305,66
+3.305,66
+002005563
+000013
+tio joca alimentos ltda 
+compra de mercadoria
+20/10/21
+18/10/21
+3.305,67
+3.305,67
+002005564
+000013
+tio joca alimentos ltda 
+compra de mercadoria
+27/10/21
+26/10/21
+3.305,67
+3.305,67
+002005567
+001905
+atacadao s.a. 
+compra de mercadoria
+18/10/21
+15/10/21
+7.065,60
+7.065,60
+002005568
+000013
+diogo theodoro de souza 12970712717 
+compra de mercadoria
+20/10/21
+28/10/21
+1.490,00
+1.490,00
+002005570
+000201
+minas mais alimentos ltda 
+compra de mercadoria
+08/10/21
+08/10/21
+1.850,00
+1.850,00
+002005571
+001123
+predilecta alimentos ltda 
+compra de mercadoria
+02/10/21
+04/10/21
+704,85
+704,85
+002005573
+001909
+atacadao s.a. 
+compra de mercadoria
+22/10/21
+25/10/21
+325,70
+325,70
+002005574
+001909
+atacadao s.a. 
+compra de mercadoria
+22/10/21
+25/10/21
+3.252,60
+3.252,60
+002005575
+000037
+sokimica comercio e industria -eireli
+compra de mercadoria
+20/10/21
+18/10/21
+364,14
+364,14
+002005576
+000037
+sokimica comercio e industria -eireli 
+compra de mercadoria
+27/10/21
+26/10/21
+364,14
+364,14
+002005580
+000072
+abbaspel ind e comercio de papeis ltda 
+compra de mercadoria
+29/10/21
+26/10/21
+446,00
+446,00
+002005585
+000195
+cooperativa de laticinios selita 
+compra de mercadoria
+18/10/21
+15/10/21
+1.514,85
+1.514,85
+002005586
+000195
+cooperativa de laticinios selita
+compra de mercadoria
+25/10/21
+25/10/21
+1.514,85
+1.514,85
+002005588
+000050
+adm do brasil ltda 
+compra de mercadoria
+09/10/21
+11/10/21
+6.717,93
+6.717,93
+002005589
+000050
+adm do brasil ltda 
+compra de mercadoria
+16/10/21
+15/10/21
+6.717,94
+6.717,94
+002005590
+000050
+adm do brasil ltda 
+compra de mercadoria
+23/10/21
+28/10/21
+6.717,94
+6.717,94
+002005591
+000127
+distripack dist de embalagens ltda
+compra de mercadoria
+23/10/21
+25/10/21
+303,50
+303,50
+002005592
+000127
+distripack dist de embalagens ltda 
+compra de mercadoria
+25/10/21
+25/10/21
+557,69
+557,69
+002005595
+002287
+brf s.a. 
+compra de mercadoria
+29/09/21
+01/10/21
+52,38
+52,38
+002005596
+002287
+brf s.a.
+compra de mercadoria
+17/10/21
+15/10/21
+439,50
+439,50
+002005597
+000013
+sebastiao uliana 
+compra de mercadoria
+27/10/21
+28/10/21
+1.375,20
+1.375,20
+002005599
+003249
+unimarka distribuidora s/a 
+compra de mercadoria
+27/10/21
+26/10/21
+1.472,50
+1.472,50
+002005600
+000014
+qualilux industria e comercio de papel e
+compra de mercadoria
+24/10/21
+25/10/21
+1.350,00
+1.350,00
+002005604
+000017
+bellocopo descartaveis ltda 
+compra de mercadoria
+20/10/21
+18/10/21
+771,98
+771,98
+002005606
+000017
+bellocopo descartaveis ltda 
+compra de mercadoria
+27/10/21
+26/10/21
+771,98
+771,98
+002005610
+000105
+sabor fino comercio e industria ltda 
+compra de mercadoria
+28/10/21
+26/10/21
+874,10
+874,10
+002005611
+001022
+comercial cerealista pretti ltda
+compra de mercadoria
+28/10/21
+26/10/21
+5.119,12
+5.119,12
+002005612
+001377
+unilider distribuidora s/a 
+compra de mercadoria
+27/10/21
+26/10/21
+997,97
+997,97
+002005613
+000920
+epoca com.dist.prod.alim.ind.ltda-filial
+compra de mercadoria
+27/10/21
+26/10/21
+127,80
+127,80 q 
+002005614
+000206
+mix certo distribuidora de cosmet. alime
+compra de mercadoria
+20/10/21
+18/10/21
+707,11
+707,11
+002005617
+000075
+plastzan ind. e com. de plásticos ltda 
+compra de mercadoria
+21/10/21
+19/10/21
+3.937,50
+3.937,50
+002005618
+000075
+plastzan ind. e com. de plásticos ltda 
+compra de mercadoria
+28/10/21
+26/10/21
+3.937,50
+3.937,50
+002005622
+074546
+espirito santo centrais eletricas socied
+compra de mercadoria
+17/09/21
+01/10/21
+370,09
+370,09
+002005623
+telefonica brasil s.a. 
+telefone 
+01/10/21
+01/10/21
+152,41
+152,41
+002005625
+001022
+comercial cerealista pretti ltda
+compra de mercadoria
+01/10/21
+04/10/21
+239,62
+239,62
+002005627
+000020
+drift com.de alimentos s/a. 
+compra de mercadoria
+05/10/21
+28/10/21
+324,03
+324,03
+002005634
+equipenet consultoria e sistemas 
+sistema de vendas 
+05/10/21
+05/10/21
+220,00
+220,00
+002005639
+moulin atacadista de alimentos eireli 
+imposto 
+06/10/21
+06/10/21
+362,40
+362,40 retroativo a agosto
+002005641
+000798
+p e l agroindustria de laticinios ltda 
+compra de mercadoria
+23/10/21
+25/10/21
+682,50
+682,50
+002005643
+001913
+atacadao s.a. 
+compra de mercadoria
+28/10/21
+26/10/21
+200,34
+200,34
+002005644
+000013
+dma distribuidora s/a - loja 57
+compra de mercadoria
+07/10/21
+28/10/21
+1.195,20
+1.195,20
+page 1 of 2
+04/11/2021
+002005645
+moulin atacadista de alimentos eireli 
+imposto 
+07/10/21
+07/10/21
+274,38
+274,38 fgts 
+002005646
+000001
+zioni ionily ceotto pilar papeis eirel
+compra de mercadoria
+17/10/21
+15/10/21
+10.180,00
+10.180,00
+002005647
+000034
+safra ind e com de alcool p/uso dom ltda
+compra de mercadoria
+21/10/21
+19/10/21
+2.106,66
+2.106,66
+002005648
+000034
+safra ind e com de alcool p/uso dom ltda
+compra de mercadoria
+28/10/21
+26/10/21
+2.106,68
+2.106,68
+002005651
+000013
+dma distribuidora s/a - loja 57 
+compra de mercadoria
+08/10/21
+28/10/21
+2.448,00
+2.448,00
+002005652
+000003
+posto universal ltda 
+compra de mercadoria
+08/10/21
+25/10/21
+4.649,10
+4.649,10
+002005654
+000128
+distripack dist de embalagens ltda 
+compra de mercadoria
+25/10/21
+25/10/21
+400,58
+400,58
+002005660
+000128
+distripack dist de embalagens ltda
+compra de mercadoria
+25/10/21
+25/10/21
+292,12
+292,12
+002005665
+000370
+ind de massas alimenticias villoni ltda 
+compra de mercadoria
+29/10/21
+26/10/21
+1.037,01
+1.037,01
+002005666
+000071
+takente ind. e com. de embalagens ltda 
+compra de mercadoria
+11/10/21
+11/10/21
+1.928,08
+1.928,08
+002005667
+000072
+campeao comercio industria de cafe ltda 
+compra de mercadoria
+07/10/21
+28/10/21
+108,15
+108,15
+002005668
+000021
+drift com.de alimentos s/a. 
+compra de mercadoria
+09/10/21
+28/10/21
+17,29
+17,29
+002005669
+000021
+drift com.de alimentos s/a. 
+compra de mercadoria
+09/10/21
+28/10/21
+76,20
+76,20
+002005670
+000108
+rezende & cia ltda 
+compra de mercadoria
+07/10/21
+28/10/21
+624,80
+624,80
+002005671
+000108
+rezende & cia ltda 
+compra de mercadoria
+09/10/21
+28/10/21
+183,20
+183,20
+002005672
+equipenet consultoria e sistemas 
+sistema de vendas 
+11/10/21
+11/10/21
+495,00
+495,00
+002005673
+000018
+cooperativa triticola sepeense ltda 
+compra de mercadoria
+27/10/21
+26/10/21
+3.060,00
+3.060,00
+002005698
+000001
+jupiter distribuidora de hortifrutigranj
+compra de mercadoria
+09/10/21
+28/10/21
+200,25
+200,25
+002005699
+001920
+atacadao s.a. 
+compra de mercadoria
+10/10/21
+15/10/21
+13.000,00
+13.000,00
+002005700
+unimed sul capixaba - cooperativa de t-f
+plano de saúde 
+13/10/21
+13/10/21
+930,12
+930,12
+002005705
+000630
+copapa companhia paduana de papeis 
+compra de mercadoria
+28/10/21
+26/10/21
+692,67
+692,67
+002005715
+000009
+serra atacado e distribuidora de aliment
+compra de mercadoria
+05/10/21
+18/10/21
+82,08
+82,08
+002005717
+001025
+comercial cerealista pretti ltda 
+compra de mercadoria
+14/10/21
+26/10/21
+64,42
+64,42
+002005725
+000021
+drift com.de alimentos s/a. 
+compra de mercadoria
+16/10/21
+28/10/21
+275,52
+275,52
+002005726
+000021
+drift com.de alimentos s/a. 
+compra de mercadoria
+16/10/21
+28/10/21
+158,29
+158,29
+002005727
+000857
+nutriave alimentos ltda 
+compra de mercadoria
+16/10/21
+25/10/21
+122,89
+122,89
+002005728
+000857
+nutriave alimentos ltda 
+compra de mercadoria
+16/10/21
+25/10/21
+838,71
+838,71
+002005730
+moulin atacadista de alimentos eireli
+imposto 
+18/10/21
+18/10/21
+4.529,13
+4.529,13 icms 
+002005731
+pierri servicos ocupacionais e comercio 
+folha de pagamento
+18/10/21
+18/10/21
+110,00
+110,00
+002005732
+unimed sul capixaba - cooperativa de t-f
+plano de saúde 
+18/10/21
+18/10/21
+342,38
+342,38
+002005733
+moulin atacadista de alimentos eireli 
+imposto 
+18/10/21
+18/10/21
+1.625,02
+1.625,02 inss 
+002005734
+moulin atacadista de alimentos eireli
+imposto 
+18/10/21
+18/10/21
+48,32
+48,32 st aluguel
+002005737
+001873
+mb 5 - comercio importacao e exportacao 
+compra de mercadoria
+17/10/21
+28/10/21
+477,09
+477,09
+002005738
+002298
+brf s.a. 
+compra de mercadoria
+19/10/21
+25/10/21
+53,40
+53,40 s 
+002005739
+002298
+brf s.a.
+compra de mercadoria
+25/10/21
+25/10/21
+2.698,38
+2.698,38
+002005741
+000330
+domingos costa industrias alimentic s/a 
+compra de mercadoria
+15/10/21
+28/10/21
+1.434,60
+1.434,60
+002005742
+001922
+atacadao s.a. 
+compra de mercadoria
+15/10/21
+25/10/21
+1.302,95
+1.302,95 s 
+002005756
+100947
+debora guimaraes lima brandao 
+compra de mercadoria
+21/10/21
+28/10/21
+43,00
+43,00
+002005757
+001927
+atacadao s.a. 
+compra de mercadoria
+21/10/21
+25/10/21
+810,00
+810,00
+002005758
+001927
+atacadao s.a. 
+compra de mercadoria
+21/10/21
+25/10/21
+3.717,27
+3.717,27
+002005759
+001927
+atacadao s.a. 
+compra de mercadoria
+21/10/21
+25/10/21
+633,00
+633,00
+002005760
+000071
+takente ind. e com. de embalagens ltda 
+compra de mercadoria
+27/10/21
+26/10/21
+4.331,42
+4.331,42
+002005761
+000071
+takente ind. e com. de embalagens ltda 
+compra de mercadoria
+27/10/21
+26/10/21
+3.732,75
+3.732,75
+002005765
+000071
+takente ind. e com. de embalagens ltda 
+compra de mercadoria
+23/10/21
+26/10/21
+5.052,08
+5.052,08
+002005769
+000013
+dma distribuidora s/a - loja 57 
+compra de mercadoria
+23/10/21
+28/10/21
+1.497,00
+1.497,00
+002005771
+076297
+espirito santo centrais eletricas socied
+compra de mercadoria
+19/10/21
+26/10/21
+382,66
+382,66
+002005772
+000013
+dma distribuidora s/a - loja 57 
+compra de mercadoria
+23/10/21
+28/10/21
+2.400,00
+2.400,00
+002005774
+001927
+atacadao s.a. 
+compra de mercadoria
+21/10/21
+25/10/21
+1.396,65
+1.396,65
+002005801
+000013
+dma distribuidora s/a - loja 57 
+compra de mercadoria
+26/10/21
+28/10/21
+2.160,00
+2.160,00
+002005802
+000071
+takente ind. e com. de embalagens ltda 
+compra de mercadoria
+21/10/21
+26/10/21
+27,83
+27,83
+002005813
+000021
+drift com.de alimentos s/a. 
+compra de mercadoria
+28/10/21
+28/10/21
+89,76
+89,76
+002005816
+018264
+martins com serv distr sa 
+compra de mercadoria
+23/10/21
+28/10/21
+44,66
+44,66
+002005819
+moulin atacadista de alimentos eireli 
+imposto 
+28/10/21
+28/10/21
+2.934,78
+2.934,78 irpj 
+002005820
+moulin atacadista de alimentos eireli
+imposto 
+28/10/21
+28/10/21
+1.760,86
+1.760,86 csll 
+total do agrupamento (0153) ===> 
+239.392,54
+total do relatório (0153) ===> 
+239.392,54
+page 2 of 2
+04/11/2021

@@ -1,0 +1,578 @@
+prefeitura do município de teresina
+nota fiscal de serviços eletrônica
+relatório de serviços tomados
+total de registros: 29
+prestador
+documento
+serviço
+iss
+guia
+#
+cnpj
+razão
+mun./uf
+emissão
+num.
+doc
+situação
+trb
+lista
+valor nf
+dedução valor serv.
+ret.
+alíq.
+valor iss data pgto
+1
+49.154.947/0001-46 smart tecnologia ltda
+teresina/pi
+01/01/2024 00000400
+nf
+n
+h
+639920000
+570,00
+0,00
+570,00
+não
+0,00
+0,00
+2
+49.571.001/0001-85
+d santos barbosa
+servicos
+teresina/pi
+02/01/2024 00000012
+nf
+n
+h
+821130000
+11.000,00
+0,00
+11.000,00
+não
+0,00
+0,00
+3
+47.209.240/0001-64
+a f rodrigues da costa
+representacao
+teresina/pi
+02/01/2024 00000017
+nf
+n
+h
+453070600
+16.201,07
+0,00
+16.201,07
+não
+0,00
+0,00
+4
+47.227.109/0001-20
+f b gomes da silva
+representacao
+teresina/pi
+02/01/2024 00000018
+nf
+n
+h
+453070600
+10.020,09
+0,00
+10.020,09
+não
+0,00
+0,00
+5
+20.259.543/0001-35 carles codina satorras
+teresina/pi
+02/01/2024 00002672
+nf
+n
+h
+381140001
+179,00
+0,00
+179,00
+não
+0,00
+0,00
+6
+51.604.310/0001-56
+j b pereira maciel
+servicos
+teresina/pi
+02/01/2024 00000010
+nf
+n
+h
+731900200
+11.078,11
+0,00
+11.078,11
+não
+0,00
+0,00
+7
+46.693.528/0001-94
+e ribeiro costa
+representacao
+teresina/pi
+02/01/2024 00000018
+nf
+n
+h
+453070600
+8.285,07
+0,00
+8.285,07
+não
+0,00
+0,00
+8
+47.209.072/0001-07
+w l da silva
+representacao
+teresina/pi
+02/01/2024 00000017
+nf
+n
+h
+453070600
+12.707,94
+0,00
+12.707,94
+não
+0,00
+0,00
+9
+46.676.212/0001-94
+s r nascimento
+representacao
+teresina/pi
+02/01/2024 00000020
+nf
+n
+h
+453070600
+8.201,56
+0,00
+8.201,56
+não
+0,00
+0,00
+10
+46.693.325/0001-06
+s m da silva
+representacao
+teresina/pi
+02/01/2024 00000020
+nf
+n
+h
+453070600
+4.593,43
+0,00
+4.593,43
+não
+0,00
+0,00
+11
+48.329.330/0001-51
+j f aguiar monteiro
+representacao
+teresina/pi
+02/01/2024 00000015
+nf
+n
+h
+453070600
+3.891,50
+0,00
+3.891,50
+não
+0,00
+0,00
+12
+48.329.623/0001-39
+a c cavalcante de freitas
+filho representacao
+teresina/pi
+02/01/2024 00000015
+nf
+n
+h
+453070600
+5.783,97
+0,00
+5.783,97
+não
+0,00
+0,00
+13
+07.241.136/0001-32
+unimed teresina - coop
+trabalho medico
+teresina/pi
+03/01/2024 02950881
+nf
+n
+t
+655020002
+27.936,51
+0,00
+27.936,51
+não
+5,00
+1.396,82
+14
+06.510.499/0001-63
+camara de dirigentes
+lojistas de teresina
+teresina/pi
+03/01/2024 00173125
+nf
+n
+t
+829110001
+2.123,84
+0,00
+2.123,84
+não
+5,00
+106,19
+14/02/2024
+15
+21.345.898/0001-00
+ssmcemax seguranca e
+vigilancia privada ltda
+teresina/pi
+03/01/2024 00001042
+nf
+n
+t
+801110101
+22.133,12
+0,00
+22.133,12
+não
+5,00
+1.106,65
+03/01/2024
+16
+00.361.325/0001-08
+humana assistencia
+medica ltda
+teresina/pi
+04/01/2024 04225703
+nf
+n
+t
+655020002
+276,21
+0,00
+276,21
+não
+5,00
+13,81
+17
+29.231.179/0001-70
+borges e chaves
+sociedade de advogados
+teresina/pi
+04/01/2024 00000247
+nf
+n
+h
+691170100
+4.942,00
+0,00
+4.942,00
+não
+0,00
+0,00
+18
+47.556.054/0001-00
+j r alves da silva
+representacao
+teresina/pi
+04/01/2024 00000004
+nf
+n
+h
+453070600
+5.047,33
+0,00
+5.047,33
+não
+0,00
+0,00
+registros nesta página: 19
+página 1 de 3
+prefeitura do município de teresina
+nota fiscal de serviços eletrônica
+relatório de serviços tomados
+prestador
+documento
+serviço
+iss
+guia
+#
+cnpj
+razão
+mun./uf
+emissão
+num.
+doc
+situação
+trb
+lista
+valor nf
+dedução valor serv.
+ret.
+alíq.
+valor iss data pgto
+19
+18.945.601/0001-32
+ready tecnologia da
+informacao ltda
+teresina/pi
+04/01/2024 00004863
+nf
+n
+t
+631190000
+450,00
+0,00
+450,00
+não
+5,00
+22,50
+08/02/2024
+20
+18.945.601/0001-32
+ready tecnologia da
+informacao ltda
+teresina/pi
+05/01/2024 00004864
+nf
+n
+t
+620910000
+8.500,00
+0,00
+8.500,00
+não
+5,00
+425,00
+08/02/2024
+21
+39.410.439/0001-28 ready security ltda.
+teresina/pi
+06/01/2024 00000458
+nf
+n
+h
+620910000
+1.400,00
+0,00
+1.400,00
+não
+0,00
+0,00
+22
+29.748.204/0001-97
+ayrtton luyz cunha
+miranda
+teresina/pi
+12/01/2024 00000644
+nf
+n
+h
+532020200
+21.064,00
+0,00
+21.064,00
+não
+0,00
+0,00
+23
+22.574.676/0001-21
+monik filismina costa
+moura - eireli
+teresina/pi
+18/01/2024 00000905
+nf
+n
+t
+711970400
+3.950,00
+0,00
+3.950,00
+não
+5,00
+197,50
+24
+23.649.809/0001-44
+redito contabil
+sociedade simples ltda
+teresina/pi
+22/01/2024 00007816
+nf
+n
+g
+692060100
+4.440,25
+0,00
+4.440,25
+não
+0,00
+0,00
+25
+41.518.945/0001-87
+fortes tecnologia em
+sistemas ltda
+teresina/pi
+22/01/2024 00180901
+nf
+n
+t
+620910000
+821,54
+0,00
+821,54
+não
+5,00
+41,07
+07/02/2024
+26
+17.271.063/0001-85
+robson rodrigues da
+silva 98980386320
+teresina/pi
+24/01/2024 00000351
+nf
+n
+h
+452000100
+460,15
+0,00
+460,15
+não
+0,00
+0,00
+27
+29.748.204/0001-97
+ayrtton luyz cunha
+miranda
+teresina/pi
+24/01/2024 00000646
+nf
+n
+h
+532020200
+21.064,00
+0,00
+21.064,00
+não
+0,00
+0,00
+28
+15.668.566/0002-44 united car ltda.
+teresina/pi
+26/01/2024 00025595
+nf
+n
+t
+452000100
+415,00
+0,00
+415,00
+não
+5,00
+20,75
+09/02/2024
+29
+20.813.800/0001-39 isar veiculos ltda
+teresina/pi
+26/01/2024 00009524
+nf
+n
+t
+452000100
+723,93
+0,00
+723,93
+não
+5,00
+36,19
+07/02/2024
+ total geral: 
+218.259,62
+0,00
+218.259,62
+3.366,48
+legenda
+configuração:
+contribuinte:
+im 454575-3
+mgr distribuidora de auto pecas ltda
+período:
+01/01/2024 a 31/01/2024
+tributação:
+issqn próprio / retenção na fonte
+situação nf:
+normais
+cnae:
+todos
+documento:
+"nf"/"a" - nfse
+"rd" - recibo/diversos
+"e" - nf serie única
+"a1" - nf serie a1
+"bb" - boleto bancário
+"ce" - carnê escolar
+"h" - nf mista eletrônica
+"p" - propaganda e publicidade
+"f" - cupom fiscal
+registros nesta página: 11
+página 2 de 3
+prefeitura do município de teresina
+nota fiscal de serviços eletrônica
+relatório de serviços tomados
+"av" - nf avulsa
+"g" - contribuintes dispensados de utilizar nf
+"u" - serie única
+"ot" - outros documentos(pessoa jurídica)
+"r" - rpa ou recibo (pessoa física)
+"om" - nf de outro município
+"rp" - recibo provisório de serviços(rps)
+situação nf:
+"n" - normal
+"c" - cancelada
+"s" - substituta (novas)
+"s" - substituída (antigas)
+operação:
+"a" - sem dedução
+"b" - com dedução
+"c" - imune/isenta de issqn
+"d" - devolução/simples remessa
+"j" - intermediação
+tributação:
+"t" - tributável
+"g" - fixo
+"h" - simples nacional
+"f" - imune
+"c" - isento
+"k" - exigibilidade
+"m" - mei
+"e" - não incidente
+"a sem dedução
+"b" - dedução/materiais
+"d" - devolução/simples remessa
+"g" - contrução civil
+"i" - sociedade civil
+"j" - intermediação
+ 
+página 3 de 3

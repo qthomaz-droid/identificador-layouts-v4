@@ -1,0 +1,119 @@
+1
+/
+1
+maranata contabilidade s/s ltda - me
+número da nfs-e
+453
+autenticidade
+cnpj: 06.075.031/0001-98
+avenida jorge walter - - 1039
+situação
+emitida
+cep: 87.302-016 - bairro: centro
+município: campo mourão - paraná
+tipo
+preenchido
+telefone: (44) 3017-5515
+email: maranata_contabil@terra.com.br
+insc. municipal: 11216                insc. estadual: isento
+nota fiscal de serviço eletrônica - série nfe
+estado de paraná
+prefeitura municipal de campo mourão
+secretaria de finanças e orçamento
+identificador
+7483 1206 2512 4418 6500 6075 0312 0250 6739 4585
+data fato gerador
+data/hora emissão
+12/06/2025
+12/06/2025, 12:44
+tomador do serviço
+nome/razão social
+ferretto cursos on line ltda
+cpf/cnpj
+40.424.646/0001-10
+endereço
+uruguai
+número
+421
+complemento
+sala 802
+bairro
+centro
+cep
+99010110
+cidade - estado
+passo fundo - rs
+telefone 
+não informado
+email
+não informado
+descrição dos serviços prestados
+serviço
+1719
+local prestação
+7483
+alíquota
+5%
+situação trib.
+ntifx
+valor serviço
+450,00
+desc. incondic.
+0,00
+valor dedução
+0,00
+valor iss
+ntifx
+descrição do serviço:
+prestaçao de serviços
+valor total
+450,00
+desc. incondicional
+0,00
+dedução
+0,00
+base de cálculo
+450,00
+issqn
+ntifx
+issrf
+0,00
+ir
+0,00
+inss
+0,00
+csll
+0,00
+cofins
+0,00
+pis
+0,00
+outras retenções
+0,00
+total trib. federais
+0,00
+desc. condicional
+0,00
+valor líquido
+450,00
+descrição dos subitens da lista de serviço em acordo com a lei complementar 116/03.
+1719
+contabilidade, inclusive serviços tecnicos e auxiliares. 150,00 ufcms por socio mais 40,50 ufcms, por auxiliar habilitado.
+legenda do local de prestação do serviço
+7483
+campo mourão
+outras informações
+ntifx - não tributada - iss regime fixo
+(1719) serviço tributado no município do prestador
+contribuinte enquadrado como fixo anual de iss ou iss em regime estimado/fixo
+autorização para emissão de nota fiscal de serviço eletrônica: 54/2009 de 20/08/2009 00:00:00
+a veracidade das informações declaradas na nfs-e podem ser consultadas no site: 
+https://campomourao.atende.net/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse/detalhar/1/identificador/
+7483120625124418650060750312025067394585
+a data de vencimento do iss quando o mesmo for devido no município do prestador: 15/07/2025
+valor aproximado dos tributos: federais r$60,52 (13,45%), estaduais r$0,00 (0,00%), municipais r$20,47 (4,55%), com base na lei 12.741/2012 e no decreto 
+8.264/2014 - fonte ibpt
+observações: colocar em observação: prestação de serviços referente a divulgação no período de 12/05/2025 a 12/06/2025
+pix cnpj 06075031000198
+chave de acesso nfs-e nacional
+41043031206075031000198000000000045325060000000008

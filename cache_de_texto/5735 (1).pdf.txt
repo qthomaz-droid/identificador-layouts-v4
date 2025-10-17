@@ -1,0 +1,833 @@
+extrato
+grupo de empresa 1 - construção e incorporação
+período 01/01/2024 até 31/12/2024
+empresa 1 - rj engenharia e construções ltda.
+conta 01 - caixa 4670
+saldo anterior 12.509,20
+data
+or
+histórico
+documento
+título
+saídas
+entradas
+saldo conciliação
+03/01/2024
+cp
+pagamento cheque piso
+fat.06.01
+1900/8
+2.700,00
+9.809,20 03/01/2024
+apropriação: 1 - rj engenharia - sede
+2.01.01.03 - insumos gerais de obras
+100,00%
+2.700,00
+10/01/2024
+cp
+pagamento águas do rio
+fat.219677
+4979/1
+4.329,28
+5.479,92 10/01/2024
+10/01/2024
+cp
+pagamento prefeitura municipal de sao
+goncalo
+darm.862498945
+5691/1
+473,80
+5.006,12 10/01/2024
+11/01/2024
+cp
+pagamento xs5 administradora de
+consorcios s.a.
+fat.729
+895/7
+713,00
+4.293,12 11/01/2024
+apropriação: 1 - rj engenharia - sede
+2.03.02.03 - consórcios
+100,00%
+713,00
+11/01/2024
+cp
+pagto juros xs5 administradora de
+consorcios s.a.
+fat.729
+895/7
+35,51
+4.257,61 11/01/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.07 - multas e juros
+100,00%
+35,51
+11/01/2024
+cp
+pagamento xs5 administradora de
+consorcios s.a.
+fat.729
+895/8
+713,00
+3.544,61 11/01/2024
+apropriação: 1 - rj engenharia - sede
+2.03.02.03 - consórcios
+100,00%
+713,00
+11/01/2024
+cp
+pagto juros xs5 administradora de
+consorcios s.a.
+fat.729
+895/8
+28,14
+3.516,47 11/01/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.07 - multas e juros
+100,00%
+28,14
+11/01/2024
+cp
+pagamento xs5 administradora de
+consorcios s.a.
+fat.729
+895/9
+713,00
+2.803,47 11/01/2024
+apropriação: 1 - rj engenharia - sede
+2.03.02.03 - consórcios
+100,00%
+713,00
+11/01/2024
+cp
+pagto juros xs5 administradora de
+consorcios s.a.
+fat.729
+895/9
+21,24
+2.782,23 11/01/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.07 - multas e juros
+100,00%
+21,24
+12/01/2024
+bc
+transferência destino: 0 - itaú rj
+trem.59652
+1.600,00
+1.182,23 12/01/2024
+15/01/2024
+cx
+resgate de aplicação resg autom
+av.727220
+7,40
+1.189,63 15/01/2024
+apropriação: 1 - rj engenharia - sede
+1.03.02.01 - resgate de aplicações
+100,00%
+7,40
+16/01/2024
+cx
+aplicação eres autom
+av.727220
+7,40
+1.182,23 16/01/2024
+apropriação: 1 - rj engenharia - sede
+2.03.02.01 - aplicações financeiras
+100,00%
+7,40
+16/01/2024
+cx
+aplicação tar ch dev
+av.14
+72,00
+1.110,23 16/01/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+72,00
+16/01/2024
+cx
+aplicação taxa devol
+av.23
+0,35
+1.109,88 16/01/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+0,35
+17/01/2024
+bc
+resgate de aplicação resg autom
+av.1
+7,39
+1.117,27 17/01/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+1.03.02.01 - resgate de aplicações
+100,00%
+7,39
+18/01/2024
+cx
+aplicação eres autom
+av.727220
+7,39
+1.109,88 18/01/2024
+apropriação: 1 - rj engenharia - sede
+2.03.02.01 - aplicações financeiras
+100,00%
+7,39
+18/01/2024
+cx
+aplicação tar ch dev
+av.14
+72,00
+1.037,88 18/01/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+72,00
+18/01/2024
+cx
+aplicação taxa devol
+av.23
+0,35
+1.037,53 18/01/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+0,35
+24/01/2024
+cp
+pagamento auxílio transporte
+fat.84584
+6011/1
+916,40
+121,13 24/01/2024
+apropriação: 1 - rj engenharia - sede
+2.01.03.03 - vale transporte
+100,00%
+916,40
+25/01/2024
+cx
+tarifa bancária manut cta
+av.0
+55,00
+66,13 25/01/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+55,00
+26/01/2024
+cp
+pagamento conselho regional dos
+tecnicos industriais
+fat.8236710405
+6082/1
+62,57
+3,56 26/01/2024
+31/01/2024
+cx
+resgate de aplicação resg autom
+av.727220
+7,42
+10,98 31/01/2024
+apropriação: 1 - rj engenharia - sede
+1.03.02.01 - resgate de aplicações
+100,00%
+7,42
+02/02/2024
+bc
+transferência origem: 01 - caixa 0174
+trem.546546
+15.000,00
+15.010,98 02/02/2024
+02/02/2024
+bc
+transferência origem: 01 - caixa 0174
+trem.5156
+14.000,00
+29.010,98 02/02/2024
+02/02/2024
+bc
+transferência origem: 0 - itaú rj
+trem.545646
+21.000,00
+50.010,98 02/02/2024
+02/02/2024
+cp
+pagamento marmonir comercio e servicos
+de marmores e acabamentos  ltda
+ct.marm2024
+15211/
+2
+37.036,32
+12.974,66 02/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.04.10 - pagamento empréstimos
+100,00%
+37.036,32
+02/02/2024
+cp
+encargos de financiamento bancário marmonir
+comercio e servicos de marmores e
+acabamentos  ltda
+ct.marm2024
+15211/
+2
+12.963,68
+10,98 02/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.04.10 - pagamento empréstimos
+100,00%
+12.963,68
+05/02/2024
+cx
+tarifa bancária tax ccf bc
+av.1
+55,45
+-44,47 05/02/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+55,45
+03/06/2025 - 11:12:59
+sienge / softplan
+1 de 3    
+ rj engenharia
+
+e construções
+extrato
+grupo de empresa 1 - construção e incorporação
+período 01/01/2024 até 31/12/2024
+data
+or
+histórico
+documento
+título
+saídas
+entradas
+saldo conciliação
+05/02/2024
+cx
+tarifa bancária manut cad
+av.20
+36,50
+-80,97 05/02/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+36,50
+05/02/2024
+cx
+tarifa bancária tax ccf bc
+av.2
+6,82
+-87,79 05/02/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+6,82
+05/02/2024
+cr recebimento julia carolina da mota
+fat.5886496
+373/1
+120,00
+32,21 05/02/2024
+apropriação: 1 - rj engenharia - sede
+1.02.02.08 - mútuo - recebimento
+100,00%
+120,00
+07/02/2024
+bc
+transferência origem: 01 - caixa 0174
+trem.5413
+50.000,00
+50.032,21 07/02/2024
+07/02/2024
+bc
+transferência destino: 01 - itau diantus
+trem.4546
+29.300,00
+20.732,21 07/02/2024
+07/02/2024
+bc
+transferência destino: 0 - itaú rj
+trem.45479
+13.500,00
+7.232,21 07/02/2024
+07/02/2024
+cp
+pagamento caixa economica federal
+ct.7605-0003
+famp
+2200/9
+6.135,25
+1.096,96 07/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.04.06 - pagamento empréstimos bancos
+100,00%
+6.135,25
+07/02/2024
+cp
+pagto juros caixa economica federal
+ct.7605-0003
+famp
+2200/9
+244,86
+852,10 07/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.07 - multas e juros
+100,00%
+244,86
+08/02/2024
+bc
+transferência origem: 0 - itaú rj
+trem.54584
+10.000,00
+10.852,10 08/02/2024
+09/02/2024
+cp
+pagamento cheque piso
+fat.06.01
+1900/5
+5.258,00
+5.594,10 09/02/2024
+apropriação: 1 - rj engenharia - sede
+2.01.01.03 - insumos gerais de obras
+100,00%
+5.258,00
+20/02/2024
+cp
+pagamento xs5 administradora de
+consorcios s.a.
+fat.729
+895/10
+713,00
+4.881,10 20/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.02.03 - consórcios
+100,00%
+713,00
+20/02/2024
+cp
+pagto juros xs5 administradora de
+consorcios s.a.
+fat.729
+895/10
+23,38
+4.857,72 20/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.07 - multas e juros
+100,00%
+23,38
+20/02/2024
+cp
+pagamento xs5 administradora de
+consorcios s.a.
+fat.729
+895/11
+713,00
+4.144,72 20/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.02.03 - consórcios
+100,00%
+713,00
+20/02/2024
+cp
+pagto juros xs5 administradora de
+consorcios s.a.
+fat.729
+895/11
+16,01
+4.128,71 20/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.07 - multas e juros
+100,00%
+16,01
+26/02/2024
+bc
+tarifa bancária
+av.45646
+55,00
+4.073,71 26/02/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.05 - tarifas bancárias
+100,00%
+55,00
+05/03/2024
+cp
+pagamento cheque piso
+fat.06.01
+1900/
+10
+2.699,00
+1.374,71 05/03/2024
+apropriação: 1 - rj engenharia - sede
+2.01.01.03 - insumos gerais de obras
+100,00%
+2.699,00
+06/03/2024
+cp
+pagamento genilson magalhães da silva
+nfse.1
+6644/1
+550,00
+824,71 06/03/2024
+19/03/2024
+bc
+tarifa bancária
+trb.1
+1,30
+823,41 19/03/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.05 - tarifas bancárias
+100,00%
+1,30
+19/03/2024
+bc
+transferência destino: 01 - caixa 0174
+trem.1
+800,00
+23,41 19/03/2024
+08/04/2024
+bc
+transferência origem: 01 - caixa 0174
+tra.1
+10.000,00
+10.023,41 08/04/2024
+08/04/2024
+cp
+pagamento caixa economica federal
+ct.7605-0003
+famp
+2200/
+11
+6.135,25
+3.888,16 08/04/2024
+apropriação: 1 - rj engenharia - sede
+2.03.04.06 - pagamento empréstimos bancos
+100,00%
+6.135,25
+08/04/2024
+cp
+pagto juros caixa economica federal
+ct.7605-0003
+famp
+2200/
+11
+250,38
+3.637,78 08/04/2024
+apropriação: 1 - rj engenharia - sede
+2.03.01.07 - multas e juros
+100,00%
+250,38
+08/04/2024
+cx
+tarifa bancária manut cta
+av.0
+55,00
+3.582,78 08/04/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+55,00
+15/04/2024
+bc
+transferência origem: 01 - caixa 0174
+tra.1
+3.000,00
+6.582,78 15/04/2024
+15/04/2024
+cp
+pagamento caixa economica federal
+ct.7605-0003
+famp
+2200/
+12
+6.131,25
+451,53 15/04/2024
+apropriação: 1 - rj engenharia - sede
+2.03.04.06 - pagamento empréstimos bancos
+100,00%
+6.131,25
+24/04/2024
+bc
+transferência origem: 01 - caixa 0174 hortensia
+trem.1
+2.300,00
+2.751,53 24/04/2024
+24/04/2024
+cx
+tarifa bancária taxa devol
+av.23
+0,35
+2.751,18 24/04/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+0,35
+24/04/2024
+cx
+tarifa bancária tar ch dev
+av.14
+72,00
+2.679,18 24/04/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+72,00
+26/04/2024
+bc
+transferência destino: 01 - caixa 4670
+trem.1
+100,00
+2.779,18 26/04/2024
+26/04/2024
+cx
+tarifa bancária manut cta
+av.0
+55,00
+2.724,18 26/04/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+55,00
+26/04/2024
+cx
+tarifa bancária tar ch dev
+av.14
+72,00
+2.652,18 26/04/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+72,00
+03/06/2025 - 11:12:59
+sienge / softplan
+2 de 3    
+ rj engenharia
+
+e construções
+extrato
+grupo de empresa 1 - construção e incorporação
+período 01/01/2024 até 31/12/2024
+data
+or
+histórico
+documento
+título
+saídas
+entradas
+saldo conciliação
+26/04/2024
+cx
+tarifa bancária taxa devol
+av.23
+0,35
+2.651,83 26/04/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+0,35
+29/04/2024
+bc
+transferência origem: 01 - caixa 0174
+trem.1
+100,00
+2.751,83 29/04/2024
+10/05/2024
+cp
+pagamento nutriud comercial ltda
+danf.75
+8579/1
+2.500,00
+251,83 10/05/2024
+23/05/2024
+cp
+pagamento jose luiz pontes da silva
+reem.230501
+8983/1
+50,00
+201,83 23/05/2024
+23/05/2024
+cp
+pagamento jose luiz pontes da silva
+reem.270501
+9084/1
+200,00
+1,83 23/05/2024
+05/06/2024
+bc
+transferência origem: 01 - caixa 0174
+tra.1
+3.000,00
+3.001,83 05/06/2024
+05/06/2024
+bc
+pag. tarifa conta
+av.1
+55,45
+2.946,38 05/06/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+55,45
+05/06/2024
+bc
+pag. tarifa conta
+av.1
+6,82
+2.939,56 05/06/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+6,82
+05/06/2024
+bc
+pag. tarifa conta
+av.1
+55,00
+2.884,56 05/06/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.01 - tarifa de manutenção de conta
+corrente
+100,00%
+55,00
+17/06/2024
+bc
+transferência origem: 0 - itaú rj
+tra.1
+6.200,00
+9.084,56 17/06/2024
+17/06/2024
+cp
+pagamento caixa economica federal
+ct.7605-0003
+famp
+2200/
+14
+6.131,25
+2.953,31 17/06/2024
+apropriação: 1 - rj engenharia - sede
+2.03.04.06 - pagamento empréstimos bancos
+100,00%
+6.131,25
+25/06/2024
+bc
+pag. tarifa conta
+av.1
+55,00
+2.898,31 25/06/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.01 - tarifa de manutenção de conta
+corrente
+100,00%
+55,00
+17/07/2024
+bc
+transferência destino: 01 - caixa 0174
+tra.1
+2.898,00
+0,31 17/07/2024
+12/08/2024
+bc
+tarifa bancária manut cta
+trb.1
+0,31
+0,00 12/08/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.05 - tarifas bancárias
+100,00%
+0,31
+16/09/2024
+bc
+transferência origem: 01 - caixa 0174
+tra.1
+6.200,00
+6.200,00 16/09/2024
+16/09/2024
+cp
+pagamento caixa economica federal
+ct.7605-0003
+famp
+2200/
+17
+6.131,25
+68,75 16/09/2024
+apropriação: 1 - rj engenharia - sede
+2.03.04.06 - pagamento empréstimos bancos
+100,00%
+6.131,25
+25/10/2024
+bc
+pag. tarifa conta tar man cc
+trb.1
+68,75
+0,00 25/10/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.01 - tarifa de manutenção de conta
+corrente
+100,00%
+68,75
+03/12/2024
+bc
+tarifa bancária tar man cc
+trb.1
+5,47
+-5,47 03/12/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+2.03.01.01 - tarifa de manutenção de conta
+corrente
+100,00%
+5,47
+03/12/2024
+bc
+resgate de aplicação cred emp
+av.1
+5,47
+0,00 03/12/2024
+apropriação: 12001 - operações financeiras - rj
+engenharia
+1.03.01.02 - rendimentos de conta-corrente
+100,00%
+5,47
+total
+153.556,88
+141.047,68
+0,00
+total da empresa
+153.556,88
+141.047,68
+0,00
+total do grupo de empresa
+153.556,88
+141.047,68
+0,00
+03/06/2025 - 11:12:59
+sienge / softplan
+3 de 3    
+ rj engenharia
+
+e construções

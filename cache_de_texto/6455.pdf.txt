@@ -1,0 +1,349 @@
+folha de pagamento da rotina:
+folha de pagamento
+mês base:
+01/2025
+adenilton matos de a
+nome
+colab.:
+adenilton matos de abreu junior
+49001.1 vendedor(a)
+cargo/nível:
+490058
+admissão: 08/07/2024
+últ.afast:
+c.d.c:
+49.49.1.1.1 vendas
+data pagamento: 06/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 04/02/2025 11:22
+retorno:
+demissão:
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista             30,00         1.822,00        084 reembolso v transporte          0,00           283,20
+199 arredondamento                  0,00             0,24        728 premio                          0,00           285,35
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00           141,21        121 vale transporte                 0,00           109,32
+123 desc.adiantamento quinz         0,00           728,80        200 arredond. mes anterior          0,00             0,46
+____________________________________________________b    a    s    e    s_________________________________________________
+191 total func.ativos               1,00             0,00        300 salario base                    0,00         1.822,00
+301 inss descontado para gps        0,00           141,21        305 acumulo incidencias inss.       0,00         1.822,00
+308 inss parte empresa              0,00           364,40        310 base inss. ate lim. max.        0,00         1.822,00
+315 base f.g.t.s                    0,00         1.822,00        317 base total fgts                 0,00         1.822,00
+320 f.g.t.s do mes                  0,00           145,76        322 total recolhimento fgts         0,00           145,76
+325 base i.r.r.f s/salario          0,00           528,40        340 total de vencimentos            0,00         2.390,79
+345 total de descontos              0,00           979,79        350 liquido                         0,00         1.411,00
+401 prov. ac. ferias                0,00         1.417,11        402 prov. ac. ferias mes ant.       0,00         1.214,67
+403 prov. ferias do mes             0,00           202,44        411 fgts prov ac ferias             8,00           113,37
+412 fgts prov ac fer mes ant        0,00            97,17        413 fgts prov ferias mes            0,00            16,20
+431 prov acumulada 13 salario       1,00           151,83        433 prov 13 salario mes             0,00           151,83
+441 fgts prov acum 13 salario       8,00            12,15        443 fgts prov 13 sal mes            0,00            12,15
+496 inss gps aviso previo           0,00           141,21
+adriane cavagioni la
+nome
+colab.:
+adriane cavagioni lavoyer
+49020.1 lider administrativo
+cargo/nível:
+490038
+admissão: 17/08/2023
+últ.afast:
+c.d.c:
+49.49.2.1.1 administrativo
+data pagamento: 06/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 04/02/2025 11:22
+retorno:
+demissão:
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista             30,00         2.200,00        084 reembolso v transporte          0,00           283,20
+199 arredondamento                  0,00             0,89        404 premição extra                  0,00           400,00
+728 premio                          0,00           300,00
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00           175,23        121 vale transporte                 0,00           132,00
+200 arredond. mes anterior          0,00             0,86
+____________________________________________________b    a    s    e    s_________________________________________________
+191 total func.ativos               1,00             0,00        300 salario base                    0,00         2.200,00
+301 inss descontado para gps        0,00           175,23        305 acumulo incidencias inss.       0,00         2.200,00
+308 inss parte empresa              0,00           440,00        310 base inss. ate lim. max.        0,00         2.200,00
+315 base f.g.t.s                    0,00         2.200,00        317 base total fgts                 0,00         2.200,00
+320 f.g.t.s do mes                  0,00           176,00        322 total recolhimento fgts         0,00           176,00
+325 base i.r.r.f s/salario          0,00         1.635,20        340 total de vencimentos            0,00         3.184,09
+345 total de descontos              0,00           308,09        350 liquido                         0,00         2.876,00
+401 prov. ac. ferias                0,00         2.938,12        402 prov. ac. ferias mes ant.       0,00         2.693,68
+403 prov. ferias do mes             0,00           244,44        411 fgts prov ac ferias             8,00           235,05
+412 fgts prov ac fer mes ant        0,00           215,49        413 fgts prov ferias mes            0,00            19,56
+431 prov acumulada 13 salario       1,00           183,33        433 prov 13 salario mes             0,00           183,33
+441 fgts prov acum 13 salario       8,00            14,67        443 fgts prov 13 sal mes            0,00            14,67
+496 inss gps aviso previo           0,00           175,23
+ana julia fornazaro
+nome
+colab.:
+ana julia fornazaro beraldo
+49011.1 assistente comercial
+cargo/nível:
+490056
+admissão: 29/04/2024
+últ.afast:
+c.d.c:
+49.49.1.1.1 vendas
+data pagamento: 06/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 04/02/2025 11:39
+retorno:
+demissão:
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista             30,00         1.822,00        084 reembolso v transporte          0,00           283,20
+199 arredondamento                  0,00             0,62        728 premio                          0,00           319,32
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00           141,21        121 vale transporte                 0,00           109,32
+200 arredond. mes anterior          0,00             0,61
+____________________________________________________b    a    s    e    s_________________________________________________
+191 total func.ativos               1,00             0,00        300 salario base                    0,00         1.822,00
+301 inss descontado para gps        0,00           141,21        305 acumulo incidencias inss.       0,00         1.822,00
+308 inss parte empresa              0,00           364,40        310 base inss. ate lim. max.        0,00         1.822,00
+315 base f.g.t.s                    0,00         1.822,00        317 base total fgts                 0,00         1.822,00
+320 f.g.t.s do mes                  0,00           145,76        322 total recolhimento fgts         0,00           145,76
+325 base i.r.r.f s/salario          0,00         1.257,20        340 total de vencimentos            0,00         2.425,14
+345 total de descontos              0,00           251,14        350 liquido                         0,00         2.174,00
+401 prov. ac. ferias                0,00         1.822,00        402 prov. ac. ferias mes ant.       0,00         1.619,56
+403 prov. ferias do mes             0,00           202,44        411 fgts prov ac ferias             8,00           145,76
+412 fgts prov ac fer mes ant        0,00           129,56        413 fgts prov ferias mes            0,00            16,20
+431 prov acumulada 13 salario       1,00           151,83        433 prov 13 salario mes             0,00           151,83
+441 fgts prov acum 13 salario       8,00            12,15        443 fgts prov 13 sal mes            0,00            12,15
+página: 1 de 8
+04/02/2025 14.03.38
+emissão:
+ ajul
+folha de pagamento da rotina:
+folha de pagamento
+mês base:
+01/2025
+ana julia fornazaro
+nome
+496 inss gps aviso previo           0,00           141,21
+ana julia souza ferr
+nome
+colab.:
+ana julia souza ferreira dos santos
+49011.1 assistente comercial
+cargo/nível:
+490039
+admissão: 18/09/2023
+últ.afast:
+c.d.c:
+49.49.1.1.1 vendas
+data pagamento: 06/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 04/02/2025 11:22
+retorno:
+demissão:
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista             30,00         1.822,00        084 reembolso v transporte          0,00           129,80
+199 arredondamento                  0,00             0,02        728 premio                          0,00           491,56
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00           141,21        121 vale transporte                 0,00           109,32
+200 arredond. mes anterior          0,00             0,85
+____________________________________________________b    a    s    e    s_________________________________________________
+191 total func.ativos               1,00             0,00        300 salario base                    0,00         1.822,00
+301 inss descontado para gps        0,00           141,21        305 acumulo incidencias inss.       0,00         1.822,00
+308 inss parte empresa              0,00           364,40        310 base inss. ate lim. max.        0,00         1.822,00
+315 base f.g.t.s                    0,00         1.822,00        317 base total fgts                 0,00         1.822,00
+320 f.g.t.s do mes                  0,00           145,76        322 total recolhimento fgts         0,00           145,76
+325 base i.r.r.f s/salario          0,00         1.257,20        340 total de vencimentos            0,00         2.443,38
+345 total de descontos              0,00           251,38        350 liquido                         0,00         2.192,00
+401 prov. ac. ferias                0,00         2.028,37        402 prov. ac. ferias mes ant.       0,00         1.825,93
+403 prov. ferias do mes             0,00           202,44        411 fgts prov ac ferias             8,00           162,27
+412 fgts prov ac fer mes ant        0,00           146,07        413 fgts prov ferias mes            0,00            16,20
+431 prov acumulada 13 salario       1,00           151,83        433 prov 13 salario mes             0,00           151,83
+441 fgts prov acum 13 salario       8,00            12,15        443 fgts prov 13 sal mes            0,00            12,15
+496 inss gps aviso previo           0,00           141,21
+ana laura sanches ro
+nome
+colab.:
+ana laura sanches rodrigues
+49018.1 assistente administrativo
+cargo/nível:
+490055
+admissão: 15/04/2024
+últ.afast:
+c.d.c:
+49.49.2.1.1 administrativo
+data pagamento: 06/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 04/02/2025 11:22
+retorno:
+demissão:
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista             30,00         2.000,00        084 reembolso v transporte          0,00           283,20
+199 arredondamento                  0,00             0,65
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00           157,23        121 vale transporte                 0,00           120,00
+123 desc.adiantamento quinz         0,00           800,00        200 arredond. mes anterior          0,00             0,62
+____________________________________________________b    a    s    e    s_________________________________________________
+191 total func.ativos               1,00             0,00        300 salario base                    0,00         2.000,00
+301 inss descontado para gps        0,00           157,23        305 acumulo incidencias inss.       0,00         2.000,00
+308 inss parte empresa              0,00           400,00        310 base inss. ate lim. max.        0,00         2.000,00
+315 base f.g.t.s                    0,00         2.000,00        317 base total fgts                 0,00         2.000,00
+320 f.g.t.s do mes                  0,00           160,00        322 total recolhimento fgts         0,00           160,00
+325 base i.r.r.f s/salario          0,00           635,20        340 total de vencimentos            0,00         2.283,85
+345 total de descontos              0,00         1.077,85        350 liquido                         0,00         1.206,00
+401 prov. ac. ferias                0,00         2.222,23        402 prov. ac. ferias mes ant.       0,00         2.000,00
+403 prov. ferias do mes             0,00           222,23        411 fgts prov ac ferias             8,00           177,78
+412 fgts prov ac fer mes ant        0,00           160,00        413 fgts prov ferias mes            0,00            17,78
+431 prov acumulada 13 salario       1,00           166,67        433 prov 13 salario mes             0,00           166,67
+441 fgts prov acum 13 salario       8,00            13,33        443 fgts prov 13 sal mes            0,00            13,33
+496 inss gps aviso previo           0,00           157,23
+anna clara pereira r
+nome
+colab.:
+anna clara pereira rocha
+49016.1 lider comercial
+cargo/nível:
+490016
+admissão: 18/01/2023
+últ.afast:
+c.d.c:
+49.49.1.1.1 vendas
+data pagamento: 06/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 04/02/2025 11:28
+retorno:
+demissão:
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista             17,00         1.416,67        019 quebra de caixa                17,00            53,83
+033 ferias gozo mes                13,00         1.083,33        034 ferias var. gozo mes            0,00            41,04
+035 1/3 ferias gozadas no mes       0,00           374,79        084 reembolso v transporte          0,00           236,00
+199 arredondamento                  0,00             0,40        728 premio                          0,00           720,37
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00           133,64        109 inss ferias                     0,00           116,12
+118 liquido de ferias               0,00         1.383,04        121 vale transporte                 0,00            85,00
+200 arredond. mes anterior          0,00             0,63
+____________________________________________________b    a    s    e    s_________________________________________________
+191 total func.ativos               1,00             0,00        300 salario base                    0,00         2.500,00
+301 inss descontado para gps        0,00           249,76        305 acumulo incidencias inss.       0,00         2.969,66
+308 inss parte empresa              0,00           593,93        310 base inss. ate lim. max.        0,00         2.969,66
+315 base f.g.t.s                    0,00         2.969,66        317 base total fgts                 0,00         2.969,66
+320 f.g.t.s do mes                  0,00           237,57        322 total recolhimento fgts         0,00           237,57
+325 base i.r.r.f s/salario          0,00           905,70        340 total de vencimentos            0,00         3.926,43
+345 total de descontos              0,00         1.718,43        350 liquido                         0,00         2.208,00
+página: 2 de 8
+04/02/2025 14.03.38
+emissão:
+ ajul
+folha de pagamento da rotina:
+folha de pagamento
+mês base:
+01/2025
+anna clara pereira r
+nome
+401 prov. ac. ferias                0,00         1.729,47        402 prov. ac. ferias mes ant.       0,00         1.441,23
+403 prov. ferias do mes             0,00           288,24        411 fgts prov ac ferias             8,00           138,36
+412 fgts prov ac fer mes ant        0,00           115,30        413 fgts prov ferias mes            0,00            23,06
+416 baixa provisao ferias           0,00         1.499,16        418 baixa fgts prov ferias          0,00           119,93
+431 prov acumulada 13 salario       1,00           212,82        433 prov 13 salario mes             0,00           212,82
+441 fgts prov acum 13 salario       8,00            17,03        443 fgts prov 13 sal mes            0,00            17,03
+496 inss gps aviso previo           0,00           249,76
+beatriz bello bisson
+nome
+colab.:
+beatriz bello bisson
+49011.1 assistente comercial
+cargo/nível:
+490065
+admissão: 20/01/2025
+últ.afast:
+c.d.c:
+49.49.1.1.1 vendas
+data pagamento: 07/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 03/02/2025 09:56
+retorno:
+demissão: 29/01/2025
+rescisao antecipada iniciativa
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista             10,00           545,67        084 reembolso v transporte          0,00           106,20
+100 insuficiencia de saldo          0,00           376,71
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00            40,92        121 vale transporte                 0,00            32,74
+130 desc.inden.contr.art.480        0,00           954,92
+____________________________________________________b    a    s    e    s_________________________________________________
+193 total func.demitidos            1,00             0,00        300 salario base                    0,00         1.637,00
+301 inss descontado para gps        0,00            40,92        305 acumulo incidencias inss.       0,00           545,67
+308 inss parte empresa              0,00           109,13        310 base inss. ate lim. max.        0,00           545,67
+315 base f.g.t.s                    0,00           545,67        317 base total fgts                 0,00           545,67
+320 f.g.t.s do mes                  0,00            43,65        322 total recolhimento fgts         0,00            43,65
+325 base i.r.r.f s/salario          0,00           -19,13        340 total de vencimentos            0,00         1.028,58
+345 total de descontos              0,00         1.028,58        350 liquido                         0,00             0,00
+411 fgts prov ac ferias             8,00             0,00        441 fgts prov acum 13 salario       8,00             0,00
+496 inss gps aviso previo           0,00            40,92
+flaviana aparecida d
+nome
+colab.:
+flaviana aparecida de jesus santos
+49001.1 vendedor(a)
+cargo/nível:
+490003
+admissão: 15/03/2022
+últ.afast:
+c.d.c:
+49.49.1.1.1 vendas
+data pagamento: 06/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 04/02/2025 11:22
+retorno:
+demissão:
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista             21,00         1.275,40        019 quebra de caixa                21,00            66,50
+033 ferias gozo mes                 9,00           546,60        034 ferias var. gozo mes            0,00            25,55
+035 1/3 ferias gozadas no mes       0,00           190,72        084 reembolso v transporte          0,00           571,20
+199 arredondamento                  0,00             0,62
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00           109,62        109 inss ferias                     0,00            57,03
+118 liquido de ferias               0,00           705,84        121 vale transporte                 0,00            76,52
+200 arredond. mes anterior          0,00             0,58
+____________________________________________________b    a    s    e    s_________________________________________________
+191 total func.ativos               1,00             0,00        300 salario base                    0,00         1.822,00
+301 inss descontado para gps        0,00           166,65        305 acumulo incidencias inss.       0,00         2.104,77
+308 inss parte empresa              0,00           420,95        310 base inss. ate lim. max.        0,00         2.104,77
+315 base f.g.t.s                    0,00         2.104,77        317 base total fgts                 0,00         2.104,77
+320 f.g.t.s do mes                  0,00           168,38        322 total recolhimento fgts         0,00           168,38
+325 base i.r.r.f s/salario          0,00           777,10        340 total de vencimentos            0,00         2.676,59
+345 total de descontos              0,00           949,59        350 liquido                         0,00         1.727,00
+401 prov. ac. ferias                0,00         1.057,81        402 prov. ac. ferias mes ant.       0,00           846,93
+403 prov. ferias do mes             0,00           210,88        411 fgts prov ac ferias             8,00            84,62
+412 fgts prov ac fer mes ant        0,00            67,75        413 fgts prov ferias mes            0,00            16,87
+416 baixa provisao ferias           0,00           762,87        418 baixa fgts prov ferias          0,00            61,03
+431 prov acumulada 13 salario       1,00           157,37        433 prov 13 salario mes             0,00           157,37
+441 fgts prov acum 13 salario       8,00            12,59        443 fgts prov 13 sal mes            0,00            12,59
+496 inss gps aviso previo           0,00           166,65
+gabriela moraes do p
+nome
+colab.:
+gabriela moraes do prado bersoti
+49001.1 vendedor(a)
+cargo/nível:
+490066
+admissão: 29/01/2025
+últ.afast:
+c.d.c:
+49.49.1.1.1 vendas
+data pagamento: 06/02/2025
+alocação: 2.2.2.2 geral
+data processamento: 04/02/2025 11:23
+retorno:
+demissão:
+_______________________________________________v  e  n  c  i  m  e  n  t  o  s____________________________________________
+001 salario mensalista              2,00           109,13        084 reembolso v transporte          0,00           318,60
+_________________________________________________d  e  s  c  o  n  t  o  s________________________________________________
+101 i.n.s.s.                        0,00             8,18        121 vale transporte                 0,00             6,55
+____________________________________________________b    a    s    e    s_________________________________________________
+191 total func.ativos               1,00             0,00        300 salario base                    0,00         1.637,00
+301 inss descontado para gps        0,00             8,18        305 acumulo incidencias inss.       0,00           109,13
+308 inss parte empresa              0,00            21,83        310 base inss. ate lim. max.        0,00           109,13
+315 base f.g.t.s                    0,00           109,13        317 base total fgts                 0,00           109,13
+320 f.g.t.s do mes                  0,00             8,73        322 total recolhimento fgts         0,00             8,73
+325 base i.r.r.f s/salario          0,00          -455,67        340 total de vencimentos            0,00           427,73
+página: 3 de 8
+04/02/2025 14.03.38
+emissão:
+ ajul

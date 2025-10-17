@@ -1,0 +1,72 @@
+tipo consulta:
+data inicial:
+data final:
+entrada
+01/05/2021
+30/09/2021
+relatório - títulos por período
+conta corrente:
+318230
+cedente:
+754609 - avelar pedras & transportes ltda
+cpf/cnpj sacado:
+sacado
+entrada
+nosso número
+seu número
+valor (r$)
+dt. limite pgto
+vencimento
+43-9
+45-01
+ck construcao e empreendimentos imobiliarios
+20/07/2021
+110,00
+19/08/2021
+44-6
+45-02
+ck construcao e empreendimentos imobiliarios
+20/07/2021
+110,00
+18/09/2021
+45-3
+45-03
+ck construcao e empreendimentos imobiliarios
+20/07/2021
+110,01
+18/10/2021
+46-0
+145-01
+ck construcao e empreendimentos imobiliarios
+20/07/2021
+1.100,00
+19/08/2021
+47-8
+145-02
+ck construcao e empreendimentos imobiliarios
+20/07/2021
+1.100,00
+18/09/2021
+48-5
+145-03
+ck construcao e empreendimentos imobiliarios
+20/07/2021
+1.100,01
+18/10/2021
+49-2
+55-01
+leon construtora ltda
+21/09/2021
+3.665,60
+06/10/2021
+total de registros:
+7
+total de valores:
+7.295,62
+página 1 de 1
+gerado em:
+versão:
+28/10/2021 16:07:45
+2.0.51.04
+ordenado por:
+sacado

@@ -1,0 +1,326 @@
+folha de pagamento - 01/2025
+238-singular ensino forte ltda epp          
+10912157000147
+rua cel alfredo flaquer 76  09020-040 santo andre sp
+rflrfcomp_r
+folhamax 
+data:
+07/02/25
+hora:
+14:45:17
+página:
+     1
+tomador
+geral  
+totais - 
+ger                               
+ger                               
+evento
+referência
+valor
+evento
+referência
+valor
+ 1-vencimento 
+     60,00
+    360,00
+037 prolabore                
+005 dias trabalhados         
+    47.120,14
+     3.036,00
+      7,00
+     90,00
+101 curso reg.manha          
+079 autonomos/honorarios     
+       960,15
+     1.930,95
+      9,00
+     23,00
+106 curso tarde              
+105 curso manha              
+     9.051,04
+     3.245,01
+      0,00
+      6,00
+123 salario mensalista       
+107 curso noite              
+     1.736,20
+     6.864,32
+      0,00
+      0,00
+132 d.s.r (cursos)           
+130 hora atividade           
+     2.020,56
+     5.773,11
+     45,00
+      0,00
+504 curso medicina           
+318 salario coordenacao      
+     8.898,51
+    18.724,83
+      0,00
+     60,00
+f12 1/3 de ferias            
+f11 ferias                   
+     6.107,88
+     2.035,96
+      4,00
+     60,00
+f22 inss s/fer.dev.mes post. 
+f15 inss sobre ferias-dev.(v)
+       677,75
+        36,46
+      1,00
+     20,00
+r15 13.sal.prop.resc.        
+r06 saldo de salario         
+     1.083,09
+       135,39
+      0,00
+      7,00
+r20 1/3 ferias  resc.        
+r19 f.prop.resc.             
+       947,71
+       315,90
+      0,00
+      5,00
+t45 insuf.de saldo do mes    
+t27 s.familia                
+       325,00
+       258,38
+  2-desconto  
+      1,00
+      0,00
+121 faltas - 01              
+036 ticket                   
+        78,00
+        49,50
+      0,00
+      0,00
+473 plano odonto porto       
+152 mensalidade sindical     
+        82,30
+       433,10
+      0,00
+      0,00
+500 desc. emprestimo         
+490 santa helena             
+     3.454,88
+     1.898,73
+      0,00
+     24,00
+c01 adiantamento (cx)        
+a30 vale transporte          
+       831,22
+     1.881,82
+      0,00
+      0,00
+f19 inss sobre ferias(d)     
+f16 ferias recebidas         
+     7.419,39
+       677,75
+    261,50
+      0,00
+t07 inss                     
+r00 liquido de rescisao      
+     2.372,54
+     9.537,07
+     55,00
+      7,50
+t16 inss outros (dir/aut)    
+t13 inss 13.quitação         
+        10,15
+       439,56
+     22,50
+    285,00
+t20 irrf ferias              
+t18 irrf                     
+     6.050,97
+        46,70
+ 3-vencto. s.c.
+      4,00
+     60,00
+f21 sc.in/fg fer.prop.mês pos
+f20 sc.in/fg fer.prop/integr.
+     8.143,84
+       486,14
+ 4-descto. s.c.
+    261,50
+     13,00
+t08 inss sobre irrf          
+t05 dependentes              
+     2.464,67
+     9.537,07
+      7,50
+      0,00
+t14 inss 13.quitação sobre ir
+t11 inss ferias sobre irrf   
+       677,75
+        10,15
+   5-neutro   
+      0,00
+     15,00
+c03 s.contr.irrf sobre adto. 
+c02 irrf sobre adiantamento  
+        74,48
+     5.096,46
+     22,50
+      0,00
+f29 irrf férias              
+f10 medias hrs/vrs fer.aquis.
+        12,47
+        46,70
+      0,00
+      0,00
+t01 total de vencimentos     
+t00 liquido a receber        
+    86.020,66
+   121.284,34
+      0,00
+      0,00
+t06 s.contr.inss (folha/fer) 
+t02 total de desconto        
+    35.263,68
+   115.028,24
+      0,00
+      0,00
+t10 inss ferias              
+t09 s.contr.inss ferias      
+     8.143,84
+       677,75
+      0,00
+      0,00
+t15 s.contr.outros (dir/aut) 
+t12 s.contr.inss 13.quitação 
+       135,39
+     3.996,15
+      0,00
+      0,00
+t19 s.contr.irrf ferias      
+t17 s.contr.irrf             
+    96.785,50
+     7.466,09
+      0,00
+      0,00
+t23 s.contr.fgts             
+t21 s.contr.irrf 13.quitação 
+       125,24
+   115.163,63
+      0,00
+    280,00
+t26 s.contr.s.familia        
+t24 fgts                     
+     9.212,94
+    11.321,00
+salário contr.inss
+t06+t12+            
+(
+simples
+)
+n
+      115.163,63
+prolabore/autonomos
+037+079+            
+(
+)
+        3.996,15
+empresa
+prolabores+autonomos
+       23.032,73
+          799,23        23.831,96
+20,00
+20,00
+2100
+gps
+( + ) empresa
+% )
+(
+% )
+(
+-
+inss
+salario familia
+salário maternidade
+auxilio natalidade
+terceiros
+gfip
+( + ) out.entidades
+total
+        9.986,78
+            0,00
+            0,00
+          325,00
+        6.679,49
+          325,00
+ 5,80
+0115
+terceiros
+       41.324,86
+( - ) deduções
+( + ) segurados
+t07+t13+t16+        
+039+d19+            
+046+                
+t27+                
+115
+qt.empr.
+35
+% )
+(
+(
+(
+(
+(
+)
+)
+)
+)
+-
+        1.151,64
+ 0,5000 % )
+(  2,0000 x
+ac.trabalho
+ 1,0000
+( + ) 
+rat x fap
+515
+fpas
+( - ) t.serviços, retenção
+            0,00
+empresa
+segurados
+            0,00
+            0,00
+saldo
+total
+            0,00
+            0,00
+( - ) t.serviços, compensação
+            0,00
+( - ) compensação
+            0,00
+tipo de movimento   -   rescisão
+( + ) fgts geral:
+      115.163,63         9.212,94
+folha de pagamento - 01/2025
+238-singular ensino forte ltda epp          
+10912157000147
+rua cel alfredo flaquer 76  09020-040 santo andre sp
+rflrfcomp_r
+folhamax 
+data:
+07/02/25
+hora:
+14:45:17
+página:
+     2
+j  
+      1218,48               97,47       
+( - ) fgts aprendiz:
+            0,00             0,00
+        9.212,94
+      115.163,63
+( = ) fgts a recolher:
+            0,00             0,00
+( - ) fgts rescisão:
+tipo de movimento   -   afastados

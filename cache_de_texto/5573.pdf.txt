@@ -1,0 +1,446 @@
+tipo
+pagamento
+dt
+caixa
+paciente
+valor
+caixa
+(r$)
+valor
+parcela
+(r$)
+historico
+vl
+aprovado
+(r$)
+dt
+aprovação
+anexo
+data
+pagtodos
+transação pagtodos
+(venda de
+crédito (sem
+aprovação) -
+implantodontia)
+287 cartão de
+credito
+2024-
+02-29
+142,12 0,00
+pagamento de
+crédito do
+paciente:
+sabrynna
+santos lima
+(nº cartão:
+0000) (venda
+de crédito
+(sem
+aprovação) -
+prótese)
+0,00
+master
+card -
+0000
+2024-03-
+05
+e8e59f17b60f4692b3974dce3bb7b564
+288 cartão de
+credito
+2024-
+02-29
+96,04
+0,00
+pagamento de
+crédito do
+paciente: jose
+claudio dos
+santos (nº
+cartão: 0000)
+(venda de
+crédito (sem
+aprovação) -
+ortodontia)
+0,00
+visa - 0000
+2024-02-
+29
+1bf85510049148fd8a959806a2ec2e31
+289 cartão de
+credito
+2024-
+02-29
+apolonio
+tavares
+ferreira
+252,84 260,90
+parcela 10 de
+10 (cartão de
+todos - clínica
+geral)
+2.609,00
+2023-05-05
+master
+card -
+-5361
+2024-02-
+29
+3603c78754824d50ba6203bd2373f398
+290 cartão de
+credito
+2024-
+02-29
+augusto cesar
+cavalcante
+barbosa
+127,57 131,50
+parcela 2 de 2
+(cartão de
+todos - clínica
+geral)
+263,00
+2024-01-05
+visa - -7306
+2024-03-
+05
+7b0314696297428b92a7989fed52f302
+291 cartão de
+credito
+2024-
+02-29
+wanderson
+oliveira marques
+101,86 105,00
+parcela 1 de 1
+(cartão de
+todos - clínica
+geral)
+105,00
+2024-01-30
+elo - 6507-
+4018
+2024-02-
+29
+3210217597c0492196d7edc00e609aa1
+total parcela - cartão de credito
+16.224,42
+total caixa - cartão de credito
+35.469,51
+cartão de débito - eletron
+tipo
+pagamento
+dt
+caixa
+paciente
+valor
+caixa
+(r$)
+valor
+parcela
+(r$)
+historico
+vl
+aprovado
+(r$)
+dt
+aprovação
+anexo
+data
+pagtodos
+transação pagtodos
+292 cartão de
+débito -
+eletron
+2024-
+02-01
+690,97
+0,00
+pagamento de crédito
+do paciente: lucivania
+conceição da silva
+santos (nº cartão:
+4392-8111) (venda de
+crédito (sem
+aprovação) -
+implantodontia)
+0,00
+visa -
+4392-
+8111
+2024-02-
+01
+acde9c8b604245e4b044d9e30da1172f
+total parcela - cartão de débito - eletron
+0,00
+total caixa - cartão de débito - eletron
+690,97
+total recebimento anterior
+36.160,48
+despesas [fechar detalhamento]
+dinheiro
+tipo
+pagamento
+dt caixa
+valor caixa
+(r$)
+historico
+1
+dinheiro
+2024-02-
+01
+156.00
+40% compra café/açucar/leite. (lanche, álcool, sacola de lixo (supermercado))
+2
+dinheiro
+2024-02-
+05
+2140.51
+pagamento dra lays solange pereira medeiros (pag. dra lays solange pereira medeiros)
+3
+dinheiro
+2024-02-
+05
+946.39
+pagamento dra francyelle deodato cavalcante (pag. dra francyelle deodato cavalcante)
+4
+dinheiro
+2024-02-
+05
+50.00
+pagamento de proteticos tabela - arapiraca - laboratório ricardo (gastos com protético ortodontia)
+5
+dinheiro
+2024-02-
+05
+1219.81
+pagamento dra millena jacinto de oliveira (pag. dra millena jacinto de oliveira)
+6
+dinheiro
+2024-02-
+05
+12.00
+quentinha maria abs. (lanche, álcool, sacola de lixo (supermercado))
+7
+dinheiro
+2024-02-
+05
+20.00
+pagamento repetição dra ana carolina da cunha (pag. repet. dra ana carolina da cunha)
+8
+dinheiro
+2024-02-
+05
+82.00
+40% manutenção vazamento cozinha. (manut. de equipamentos - mão de obra)
+9
+dinheiro
+2024-02-
+05
+4160.14
+pagamento dra ana carolina da cunha (pag. dra ana carolina da cunha)
+total caixa - dinheiro
+26.317,53
+tipo
+pagamento
+dt caixa
+valor caixa
+(r$)
+historico
+10 dinheiro
+2024-02-
+05
+4775.65
+pagamento dr gabriel de oliveira lins (pag. dr gabriel de oliveira lins)
+11 dinheiro
+2024-02-
+05
+298.07
+pagamento dr lucas rodrigues santana. (pag. dr lucas rodrigues santana.)
+12 dinheiro
+2024-02-
+06
+180.00
+termo de quitação - paciente: gildo ferreira barbosa. (db de dinheiro)
+13 dinheiro
+2024-02-
+06
+50.00
+bonificação 06/12 milena. (pr - recepcionista)
+14 dinheiro
+2024-02-
+07
+1734.21
+férias juliana pereira - de 27/04/2022 a 26/04/2023. (férias (1/3 férias) (integral))
+15 dinheiro
+2024-02-
+07
+50.00
+meta batida 06/02 rosu alne. (pr - recepcionista)
+16 dinheiro
+2024-02-
+07
+36.00
+15 luvas 03 12x24. (gastos com dental geral - s/ luvas)
+17 dinheiro
+2024-02-
+07
+160.00
+pagamento de proteticos tabela - arapiraca - laboratório ricardo (repeticao de trabalhos proteticos -
+ortodontia)
+18 dinheiro
+2024-02-
+07
+235.00
+pagamento de proteticos tabela - arapiraca - laboratório ricardo (gastos com protético ortodontia)
+19 dinheiro
+2024-02-
+07
+18.00
+dental shopp - edta. (gastos com dental geral - s/ luvas)
+20 dinheiro
+2024-02-
+08
+27.00
+kinitos compra de 06un chapeu carnavalesco. (gastos com dental geral - s/ luvas)
+21 dinheiro
+2024-02-
+09
+134.00
+marmita asb, bolo, compra seringa (lanche, álcool, sacola de lixo (supermercado))
+22 dinheiro
+2024-02-
+15
+75.00
+pagamento de proteticos tabela - arapiraca - laboratório ricardo (repeticao de trabalhos proteticos -
+ortodontia)
+23 dinheiro
+2024-02-
+15
+105.00
+pagamento de proteticos tabela - arapiraca - laboratório ricardo (gastos com protético ortodontia)
+24 dinheiro
+2024-02-
+16
+75.00
+pagamento de proteticos tabela - arapiraca - laboratório ricardo (repeticao de trabalhos proteticos -
+ortodontia)
+25 dinheiro
+2024-02-
+17
+65.00
+uber funcionários. (gastos com dental geral - s/ luvas)
+26 dinheiro
+2024-02-
+20
+69.40
+kinitos - mat p/dia mais sorrisso. (gastos com dental geral - s/ luvas)
+27 dinheiro
+2024-02-
+20
+90.00
+40% tecnico t.i. (manut. de informática)
+28 dinheiro
+2024-02-
+20
+135.00
+pagamento dr lucas rodrigues santana. (pag. dr lucas rodrigues santana.)
+29 dinheiro
+2024-02-
+20
+70.00
+40% w.e limpeza de vidros. (materiais de limpeza)
+30 dinheiro
+2024-02-
+20
+4791.43
+pagamento dr joao moreira de lima neto (pag. dr joao moreira de lima neto)
+31 dinheiro
+2024-02-
+20
+35.00
+uber funcionarios - (mototaxi)
+32 dinheiro
+2024-02-
+20
+3022.94
+pagamento dr gabriel de oliveira lins (pag. dr gabriel de oliveira lins)
+33 dinheiro
+2024-02-
+20
+60.00
+03 cxs luvas p. (gastos com dental geral - s/ luvas)
+34 dinheiro
+2024-02-
+21
+128.00
+dental shop - 01 bob. termo selante. (gastos com dental geral - s/ luvas)
+35 dinheiro
+2024-02-
+21
+100.00
+bonificação meta do dia 20/02/24 - rosy. (pr - recepcionista)
+36 dinheiro
+2024-02-
+22
+190.00
+dental shop - 10 pt luvas. (gastos com dental geral - s/ luvas)
+37 dinheiro
+2024-02-
+22
+13.00
+pilhas p/equipamento. (manut. de equipamentos - mão de obra)
+38 dinheiro
+2024-02-
+22
+80.00
+gerlane - ref aparelho paciente dia 21/02/24. (vale - saída (máximo de 100 reais))
+39 dinheiro
+2024-02-
+22
+105.00
+termo de quitação paciente: rosivania da silva araujo. (gastos com dental geral - s/ luvas)
+40 dinheiro
+2024-02-
+23
+445.00
+rosy - vrl ref tratamento da filha p/dividir em 4x. (vale - saída (máximo de 100 reais))
+41 dinheiro
+2024-02-
+27
+50.00
+bonificação paga tiago. (pr - recepcionista)
+42 dinheiro
+2024-02-
+28
+102.00
+bolo / refri niver funci - gerlane. (lanche, álcool, sacola de lixo (supermercado))
+43 dinheiro
+2024-02-
+28
+25.98
+kinitos - balas p/ação. (lanche, álcool, sacola de lixo (supermercado))
+total caixa - dinheiro
+26.317,53
+transação bancaria
+tipo pagamento
+dt caixa
+valor caixa
+(r$)
+historico
+44
+transação
+bancaria
+2024-02-
+01
+8081.93
+royalties - amorsaúde arapiraca ref. à 12/2023 (royalties)
+45
+transação
+bancaria
+2024-02-
+05
+3000.00
+40% aluguel fev24. (aluguel)
+total caixa - transação bancaria
+121.828,79

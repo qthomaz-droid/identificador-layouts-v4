@@ -1,0 +1,318 @@
+0001 - coopermotores
+03/09/2025 - 15:24:21
+movimento de caixa
+movimento ref. periodo: de 01/08/2025 a 31/08/2025
+financeiro
+histórico de caixa
+emp. planilha histórico e complemento                                  movimento usuário c.res.  natureza     débito        crédito
+0001 00023412 000280 credito banco do brasil 0001 retorno:000000413-03 01/08/2025  sui               d      1.000,00           0,00
+0001 00023424 000345 debito banco do brasil 0001 dpl: 000041173-02 de  01/08/2025  sui               c          0,00         315,00
+0001 00023425 000345 debito banco do brasil 0001 dpl: 000424725-02 de  01/08/2025  sui               c          0,00         326,86
+0001 00023426 000345 debito banco do brasil 0001 dpl: 000332510-01 de  01/08/2025  sui               c          0,00         350,00
+0001 00023427 000345 debito banco do brasil 0001 dpl: 000010295-01 de  01/08/2025  sui               c          0,00         375,00
+0001 00023428 000345 debito banco do brasil 0001 dpl: 000065124-01 de  01/08/2025  sui               c          0,00         380,97
+0001 00023429 000345 debito banco do brasil 0001 dpl: 000329885-02 de  01/08/2025  sui               c          0,00         573,33
+0001 00023430 000345 debito banco do brasil 0001 dpl: 000030418-01 de  01/08/2025  sui               c          0,00         600,00
+0001 00023431 000345 debito banco do brasil 0001 dpl: 000000137-01 de  01/08/2025  sui               c          0,00         777,00
+0001 00023432 000345 debito banco do brasil 0001 dpl: 001134306-a7 de  01/08/2025  sui               c          0,00       1.178,46
+0001 00023433 000345 debito banco do brasil 0001 dpl: 000459031-01 de  01/08/2025  sui               c          0,00       1.400,00
+0001 00023435 000345 debito banco do brasil 0001 dpl: 000002279-01 de  01/08/2025  sui               c          0,00         366,66
+0001 00023436 000345 debito banco do brasil 0001 dpl: 000001503-01 de  01/08/2025  sui               c          0,00         400,00
+0001 00023437 000345 debito banco do brasil 0001 dpl: 000759995-01 de  01/08/2025  sui               c          0,00         443,22
+0001 00023438 000345 debito banco do brasil 0001 dpl: 000027191-01 de  01/08/2025  sui               c          0,00         500,00
+0001 00023460 000345 debito banco do brasil 0001 brasolda comercio de  01/08/2025  sui               c          0,00       2.312,60
+0001 00023511 000345 debito banco do brasil 0001 engepecas equipamento 01/08/2025  sui               c          0,00       1.081,72
+0001 00023570 000345 debito banco do brasil 0001 tar. agrupadas - ocor 01/08/2025  sui               c          0,00           6,00
+0001 00023572 000345 debito banco do brasil 0001 chapeco materiais ele 01/08/2025  sui               c          0,00         668,28
+0001 00023573 000280 credito banco do brasil 0001 an pneus e servicos  01/08/2025  sui               d      4.000,00           0,00
+0001 00024614 000345 debito banco do brasil 0001 dpl: 000006055-01 de  01/08/2025  sui               c          0,00         698,60
+0001 00023560 000280 credito banco do brasil 0001 retorno:000000352-a2 04/08/2025  sui               d      1.695,00           0,00
+0001 00023561 000280 credito banco do brasil 0001 retorno:000000345-a2 04/08/2025  sui               d      1.685,27           0,00
+0001 00023562 000280 credito banco do brasil 0001 retorno:000000411-03 04/08/2025  sui               d        500,00           0,00
+0001 00023574 000280 credito banco do brasil 0001 de carli & cia ltda  04/08/2025  sui               d      1.600,00           0,00
+0001 00023582 000345 debito banco do brasil 0001 dpl: 000010320-01 de  04/08/2025  sui               c          0,00          66,00
+0001 00023583 000345 debito banco do brasil 0001 dpl: 000334506-01 de  04/08/2025  sui               c          0,00         225,73
+0001 00023585 000345 debito banco do brasil 0001 dpl: 000305103-01 de  04/08/2025  sui               c          0,00         214,56
+0001 00023586 000345 debito banco do brasil 0001 dpl: 000355888-01 de  04/08/2025  sui               c          0,00         205,97
+0001 00023587 000345 debito banco do brasil 0001 dpl: 000624817-01 de  04/08/2025  sui               c          0,00         198,96
+0001 00023588 000345 debito banco do brasil 0001 dpl: 000074163-01 de  04/08/2025  sui               c          0,00       1.216,44
+0001 00023589 000345 debito banco do brasil 0001 auto viacao chapeco l 04/08/2025  sui               c          0,00         412,25
+0001 00023687 000345 debito banco do brasil 0001 dpl: 000441587-01 de  04/08/2025  sui               c          0,00       2.457,00
+0001 00023802 000345 debito banco do brasil 0001 engepecas equipamento 04/08/2025  sui               c          0,00          46,52
+0001 00023803 000345 debito banco do brasil 0001 bransales atacadista  04/08/2025  sui               c          0,00         661,96
+0001 00023804 000345 debito banco do brasil 0001 tar. agrupadas - ocor 04/08/2025  sui               c          0,00           9,00
+0001 00023782 000280 credito banco do brasil 0001 retorno:000000548-01 05/08/2025  sui               d         88,00           0,00
+0001 00023783 000280 credito banco do brasil 0001 retorno:000000326-a3 05/08/2025  sui               d        933,77           0,00
+0001 00023784 000280 credito banco do brasil 0001 retorno:000000327-a4 05/08/2025  sui               d      2.500,00           0,00
+0001 00023785 000280 credito banco do brasil 0001 retorno:000000527-a1 05/08/2025  sui               d        727,00           0,00
+0001 00023786 000280 credito banco do brasil 0001 retorno:000000529-01 05/08/2025  sui               d      1.175,00           0,00
+0001 00023787 000280 credito banco do brasil 0001 retorno:000000485-02 05/08/2025  sui               d      1.033,33           0,00
+0001 00023811 000345 debito banco do brasil 0001 dpl: 000493370-01 de  05/08/2025  sui               c          0,00         106,12
+0001 00023812 000345 debito banco do brasil 0001 dpl: 000003473-01 de  05/08/2025  sui               c          0,00         180,80
+0001 00023813 000345 debito banco do brasil 0001 dpl: 000002802-01 de  05/08/2025  sui               c          0,00         300,00
+0001 00023814 000345 debito banco do brasil 0001 dpl: 000001264-01 de  05/08/2025  sui               c          0,00         616,00
+0001 00023815 000345 debito banco do brasil 0001 dpl: 000072025-01 de  05/08/2025  sui               c          0,00         706,44
+0001 00023816 000345 debito banco do brasil 0001 dpl: 000229727-03 de  05/08/2025  sui               c          0,00         804,60
+0001 00023817 000345 debito banco do brasil 0001 dpl: 000003250-01 de  05/08/2025  sui               c          0,00       1.088,00
+0001 00023818 000345 debito banco do brasil 0001 dpl: 000004891-04 de  05/08/2025  sui               c          0,00       1.730,76
+0001 00023874 000345 debito banco do brasil 0001 dpl: 000072025-01 de  05/08/2025  sui               c          0,00       2.693,16
+0001 00023924 000345 debito banco do brasil 0001 dpl: 000867611-01 de  05/08/2025  sui               c          0,00         120,56
+0001 00023926 000345 debito banco do brasil 0001 fortbras autopecas s. 05/08/2025  sui               c          0,00         249,95
+0001 00023927 000345 debito banco do brasil 0001 ars comercio de pecas 05/08/2025  sui               c          0,00         112,00
+0001 00023897 000280 credito banco do brasil 0001 retorno:000000409-03 06/08/2025  sui               d      2.270,80           0,00
+0001 00023898 000280 credito banco do brasil 0001 retorno:000000412-03 06/08/2025  sui               d        600,00           0,00
+0001 00023899 000280 credito banco do brasil 0001 retorno:000000414-03 06/08/2025  sui               d        588,43           0,00
+0001 00023900 000280 credito banco do brasil 0001 retorno:000000476-02 06/08/2025  sui               d        588,50           0,00
+0001 00023931 000280 credito banco do brasil 0001 dpl: 000000294-a3 de 06/08/2025  sui               d      2.688,95           0,00
+0001 00023932 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00       3.665,58
+0001 00023933 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00       3.301,77
+0001 00023935 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00       3.157,67
+0001 00023936 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00       2.666,76
+0001 00023937 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00       2.295,83
+0001 00023938 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00       2.927,54
+0001 00023939 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00       2.162,93
+0001 00023940 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00       2.681,72
+0001 00023941 000345 debito banco do brasil 0001 dpl: 000072025-01 de  06/08/2025  sui               c          0,00         623,83
+0001 00023949 000345 debito banco do brasil 0001 dpl: 000000012-01 de  06/08/2025  sui               c          0,00       3.000,00
+0001 00023951 000345 debito banco do brasil 0001 dpl: 000052827-01 de  06/08/2025  sui               c          0,00         272,81
+0001 00023952 000345 debito banco do brasil 0001 dpl: 000065309-01 de  06/08/2025  sui               c          0,00         324,22
+0001 00023953 000345 debito banco do brasil 0001 dpl: 000047896-01 de  06/08/2025  sui               c          0,00         637,68
+0001 00023954 000345 debito banco do brasil 0001 dpl: 000011657-01 de  06/08/2025  sui               c          0,00         770,50
+0001 00023955 000345 debito banco do brasil 0001 dpl: 000000331-04 de  06/08/2025  sui               c          0,00       4.000,00
+0001 00023958 000345 debito banco do brasil 0001 dpl: 000000005-01 de  06/08/2025  sui               c          0,00       1.220,00
+0001 00024098 000345 debito banco do brasil 0001 dpl: 006642762-01 de  06/08/2025  sui               c          0,00         276,80
+0001 00024158 000280 credito banco do brasil 0001 fantastico comercio  06/08/2025  sui               d      2.200,00           0,00
+0001 00024194 000345 debito banco do brasil 0001 tar. agrupadas - ocor 06/08/2025  sui               c          0,00          63,45
+0001 00024212 000345 debito banco do brasil 0001 60.906.362 cristina p 06/08/2025  sui               c          0,00         685,00
+0001 00024213 000345 debito banco do brasil 0001 bremm car centro auto 06/08/2025  sui               c          0,00         980,00
+0001 00024214 000345 debito banco do brasil 0001 51.463.433 wanda tere 06/08/2025  sui               c          0,00         160,00
+0001 00024169 000280 credito banco do brasil 0001 retorno:000000477-02 07/08/2025  sui               d        584,99           0,00
+0001 00024170 000280 credito banco do brasil 0001 retorno:000000478-02 07/08/2025  sui               d        250,00           0,00
+0001 00024171 000280 credito banco do brasil 0001 retorno:000000348-a2 07/08/2025  sui               d      3.735,14           0,00
+0001 00024172 000280 credito banco do brasil 0001 retorno:000000480-02 07/08/2025  sui               d      1.833,33           0,00
+0001 00024173 000280 credito banco do brasil 0001 retorno:000000534-01 07/08/2025  sui               d        280,00           0,00
+0001 00024225 000345 debito banco do brasil 0001 dpl: 000005363-05 de  07/08/2025  sui               c          0,00          84,41
+0001 00024226 000345 debito banco do brasil 0001 dpl: 000592948-01 de  07/08/2025  sui               c          0,00         133,00
+0001 00024227 000345 debito banco do brasil 0001 dpl: 000017401-01 de  07/08/2025  sui               c          0,00         168,28
+0001 00024228 000345 debito banco do brasil 0001 dpl: 000065334-01 de  07/08/2025  sui               c          0,00         298,65
+0001 00024229 000345 debito banco do brasil 0001 dpl: 000003005-01 de  07/08/2025  sui               c          0,00         330,00
+0001 00024230 000345 debito banco do brasil 0001 dpl: 000004094-05 de  07/08/2025  sui               c          0,00         356,56
+0001 00024232 000345 debito banco do brasil 0001 dpl: 000330386-02 de  07/08/2025  sui               c          0,00         558,33
+0001 00024233 000345 debito banco do brasil 0001 dpl: 000000705-06 de  07/08/2025  sui               c          0,00         830,00
+0001 00024234 000345 debito banco do brasil 0001 dpl: 000064184-03 de  07/08/2025  sui               c          0,00       1.872,70
+0001 00024235 000345 debito banco do brasil 0001 dpl: 000008915-01 000 07/08/2025  sui               c          0,00         599,57
+0001 00024236 000345 debito banco do brasil 0001 dpl: 000014145-01 de  07/08/2025  sui               c          0,00         300,86
+página 1 de 5
+ ce certtus
+0001 - coopermotores
+03/09/2025 - 15:24:21
+movimento de caixa
+movimento ref. periodo: de 01/08/2025 a 31/08/2025
+financeiro
+histórico de caixa
+emp. planilha histórico e complemento                                  movimento usuário c.res.  natureza     débito        crédito
+0001 00024237 000345 debito banco do brasil 0001 dpl: 000120878-01 000 07/08/2025  sui               c          0,00       1.469,58
+0001 00024238 000345 debito banco do brasil 0001 dpl: 000000069-01 de  07/08/2025  sui               c          0,00         263,20
+0001 00024239 000345 debito banco do brasil 0001 dpl: 000002548-01 de  07/08/2025  sui               c          0,00         282,19
+0001 00024240 000345 debito banco do brasil 0001 dpl: 000004456-01 000 07/08/2025  sui               c          0,00       1.981,31
+0001 00024241 000345 debito banco do brasil 0001 dpl: 000070460-01 000 07/08/2025  sui               c          0,00       2.602,40
+0001 00024242 000345 debito banco do brasil 0001 dpl: 000000241-01 000 07/08/2025  sui               c          0,00         504,10
+0001 00024243 000345 debito banco do brasil 0001 dpl: 000088198-01 000 07/08/2025  sui               c          0,00         852,78
+0001 00024244 000345 debito banco do brasil 0001 dpl: 000000642-01 000 07/08/2025  sui               c          0,00         493,78
+0001 00024245 000345 debito banco do brasil 0001 dpl: 000017075-01 000 07/08/2025  sui               c          0,00       1.073,09
+0001 00024283 000345 debito banco do brasil 0001 engepecas equipamento 07/08/2025  sui               c          0,00         641,96
+0001 00024323 000280 credito banco do brasil 0001 dpl: 000000268-04 de 07/08/2025  sui               d      1.377,49           0,00
+0001 00024360 000345 debito banco do brasil 0001 tar. agrupadas - ocor 07/08/2025  sui               c          0,00          15,00
+0001 00024349 000280 credito banco do brasil 0001 retorno:000000535-01 08/08/2025  sui               d        136,06           0,00
+0001 00024350 000280 credito banco do brasil 0001 retorno:000000481-03 08/08/2025  sui               d      2.333,00           0,00
+0001 00024351 000280 credito banco do brasil 0001 retorno:000000256-05 08/08/2025  sui               d      2.166,67           0,00
+0001 00024396 000345 debito banco do brasil 0001 dpl: 000333143-01 de  08/08/2025  sui               c          0,00         147,50
+0001 00024397 000345 debito banco do brasil 0001 dpl: 000052863-01 de  08/08/2025  sui               c          0,00         219,64
+0001 00024398 000345 debito banco do brasil 0001 dpl: 000099000-02 de  08/08/2025  sui               c          0,00         342,72
+0001 00024399 000345 debito banco do brasil 0001 dpl: 000444259-01 de  08/08/2025  sui               c          0,00         344,85
+0001 00024400 000345 debito banco do brasil 0001 dpl: 000065237-01 de  08/08/2025  sui               c          0,00         362,00
+0001 00024401 000345 debito banco do brasil 0001 dpl: 001165393-a1 de  08/08/2025  sui               c          0,00         932,11
+0001 00024402 000345 debito banco do brasil 0001 dpl: 000025121-03 de  08/08/2025  sui               c          0,00       3.826,74
+0001 00024491 000280 credito banco do brasil 0001 dpl: 000000579-01 de 08/08/2025  sui               d      5.300,00           0,00
+0001 00024492 000280 credito banco do brasil 0001 dpl: 000000290-02 00 08/08/2025  sui               d      3.209,06           0,00
+0001 00024526 000345 debito banco do brasil 0001 tar. agrupadas - ocor 08/08/2025  sui               c          0,00          23,15
+0001 00024531 000280 credito banco do brasil 0001 dpl: 000000587-01 de 08/08/2025  sui               d        650,00           0,00
+0001 00024532 000345 debito banco do brasil 0001 engepecas equipamento 08/08/2025  sui               c          0,00          42,08
+0001 00024533 000345 debito banco do brasil 0001 mepar ferragens e fer 08/08/2025  sui               c          0,00          19,59
+0001 00024498 000280 credito banco do brasil 0001 retorno:000000566-01 11/08/2025  sui               d        327,52           0,00
+0001 00024499 000280 credito banco do brasil 0001 retorno:000000354-01 11/08/2025  sui               d      4.592,25           0,00
+0001 00024500 000280 credito banco do brasil 0001 retorno:000000539-01 11/08/2025  sui               d      2.400,00           0,00
+0001 00024501 000280 credito banco do brasil 0001 retorno:000000540-01 11/08/2025  sui               d        200,00           0,00
+0001 00024502 000280 credito banco do brasil 0001 retorno:000000521-02 11/08/2025  sui               d      1.233,00           0,00
+0001 00024543 000345 debito banco do brasil 0001 dpl: 000001290-01 de  11/08/2025  sui               c          0,00          24,00
+0001 00024544 000345 debito banco do brasil 0001 dpl: 000000081-01 de  11/08/2025  sui               c          0,00         150,00
+0001 00024545 000345 debito banco do brasil 0001 dpl: 000036396-01 de  11/08/2025  sui               c          0,00         230,00
+0001 00024546 000345 debito banco do brasil 0001 dpl: 000005680-01 de  11/08/2025  sui               c          0,00         271,50
+0001 00024547 000345 debito banco do brasil 0001 dpl: 000000338-a3 de  11/08/2025  sui               c          0,00         362,50
+0001 00024548 000345 debito banco do brasil 0001 dpl: 000013830-01 de  11/08/2025  sui               c          0,00         420,00
+0001 00024549 000345 debito banco do brasil 0001 dpl: 000008034-03 de  11/08/2025  sui               c          0,00         466,66
+0001 00024550 000345 debito banco do brasil 0001 dpl: 000002084-02 000 11/08/2025  sui               c          0,00         650,00
+0001 00024551 000345 debito banco do brasil 0001 dpl: 000042345-01 de  11/08/2025  sui               c          0,00         809,10
+0001 00024552 000345 debito banco do brasil 0001 dpl: 000073643-03 de  11/08/2025  sui               c          0,00         920,00
+0001 00024553 000345 debito banco do brasil 0001 dpl: 000000074-a1 de  11/08/2025  sui               c          0,00       1.050,00
+0001 00024554 000345 debito banco do brasil 0001 dpl: 000027241-01 de  11/08/2025  sui               c          0,00       1.160,00
+0001 00024555 000345 debito banco do brasil 0001 dpl: 000000001-09 000 11/08/2025  sui               c          0,00      28.964,00
+0001 00024556 000345 debito banco do brasil 0001 dpl: 000003019-01 de  11/08/2025  sui               c          0,00         100,00
+0001 00024557 000345 debito banco do brasil 0001 dpl: 000333966-01 de  11/08/2025  sui               c          0,00         124,00
+0001 00024558 000345 debito banco do brasil 0001 dpl: 000335176-01 de  11/08/2025  sui               c          0,00         169,10
+0001 00024559 000345 debito banco do brasil 0001 dpl: 000051060-01 de  11/08/2025  sui               c          0,00         223,80
+0001 00024560 000345 debito banco do brasil 0001 dpl: 000460333-01 de  11/08/2025  sui               c          0,00         252,00
+0001 00024566 000345 debito banco do brasil 0001 dpl: 000033636-01 de  11/08/2025  sui               c          0,00       8.855,62
+0001 00024569 000345 debito banco do brasil 0001 dpl: 000127342-09 de  11/08/2025  sui               c          0,00      10.375,00
+0001 00024570 000345 debito banco do brasil 0001 dpl: 145736954-01 de  11/08/2025  sui               c          0,00         123,04
+0001 00024785 000345 debito banco do brasil 0001 dpl: 000006797-01 de  11/08/2025  sui               c          0,00          40,00
+0001 00024786 000345 debito banco do brasil 0001 dpl: 000002667-01 de  11/08/2025  sui               c          0,00          43,00
+0001 00024788 000345 debito banco do brasil 0001 otoclin - clinica aud 11/08/2025  sui               c          0,00          35,00
+0001 00024789 000345 debito banco do brasil 0001 tar. agrupadas - ocor 11/08/2025  sui               c          0,00           3,00
+0001 00024762 000280 credito banco do brasil 0001 retorno:000000537-01 12/08/2025  sui               d        398,81           0,00
+0001 00024763 000280 credito banco do brasil 0001 retorno:000000491-02 12/08/2025  sui               d      1.142,10           0,00
+0001 00024794 000345 debito banco do brasil 0001 dpl: 000460072-01 de  12/08/2025  sui               c          0,00         533,73
+0001 00024795 000345 debito banco do brasil 0001 dpl: 000004802-01 de  12/08/2025  sui               c          0,00       1.305,97
+0001 00024796 000345 debito banco do brasil 0001 dpl: 000143537-01 de  12/08/2025  sui               c          0,00          88,57
+0001 00024797 000345 debito banco do brasil 0001 dpl: 000359206-01 000 12/08/2025  sui               c          0,00         141,25
+0001 00024798 000345 debito banco do brasil 0001 dpl: 001215383-01 de  12/08/2025  sui               c          0,00         119,17
+0001 00024812 000345 debito banco do brasil 0001 dpl: 000333401-01 de  12/08/2025  sui               c          0,00          60,00
+0001 00024813 000345 debito banco do brasil 0001 dpl: 000334081-01 de  12/08/2025  sui               c          0,00         125,20
+0001 00024814 000345 debito banco do brasil 0001 dpl: 000106432-01 de  12/08/2025  sui               c          0,00         157,13
+0001 00024815 000345 debito banco do brasil 0001 dpl: 000002091-02 de  12/08/2025  sui               c          0,00         335,00
+0001 00024816 000345 debito banco do brasil 0001 dpl: 000000234-02 de  12/08/2025  sui               c          0,00         352,25
+0001 00024817 000345 debito banco do brasil 0001 dpl: 000134942-01 de  12/08/2025  sui               c          0,00         360,00
+0001 00024818 000345 debito banco do brasil 0001 dpl: 000000301-01 de  12/08/2025  sui               c          0,00         373,80
+0001 00024819 000345 debito banco do brasil 0001 dpl: 000153684-04 de  12/08/2025  sui               c          0,00       1.114,07
+0001 00024820 000345 debito banco do brasil 0001 dpl: 061417371-02 de  12/08/2025  sui               c          0,00       1.294,60
+0001 00024821 000345 debito banco do brasil 0001 dpl: 000002509-05 de  12/08/2025  sui               c          0,00       3.250,00
+0001 00024872 000280 credito banco do brasil 0001 dpl: 000000254-01 de 12/08/2025  sui               d      3.000,00           0,00
+0001 00024885 000345 debito banco do brasil 0001 dpl: 000000001-01 de  12/08/2025  sui               c          0,00         957,00
+0001 00024929 000345 debito banco do brasil 0001 tar. agrupadas - ocor 12/08/2025  sui               c          0,00          15,73
+0001 00024930 000345 debito banco do brasil 0001 mepar ferragens e fer 12/08/2025  sui               c          0,00         633,05
+0001 00024900 000280 credito banco do brasil 0001 retorno:000000250-a6 13/08/2025  sui               d      3.600,00           0,00
+0001 00024901 000280 credito banco do brasil 0001 retorno:000000298-a5 13/08/2025  sui               d      3.273,51           0,00
+0001 00024902 000280 credito banco do brasil 0001 retorno:000000300-a4 13/08/2025  sui               d      2.595,13           0,00
+0001 00024903 000280 credito banco do brasil 0001 retorno:000000301-a4 13/08/2025  sui               d      1.985,51           0,00
+0001 00024904 000280 credito banco do brasil 0001 retorno:000000428-03 13/08/2025  sui               d        108,00           0,00
+0001 00024905 000280 credito banco do brasil 0001 retorno:000000495-03 13/08/2025  sui               d        800,00           0,00
+0001 00024906 000280 credito banco do brasil 0001 retorno:000000544-01 13/08/2025  sui               d        500,00           0,00
+0001 00024907 000280 credito banco do brasil 0001 retorno:000000303-a5 13/08/2025  sui               d      2.771,60           0,00
+0001 00024935 000280 credito banco do brasil 0001 dpl: 000000315-a3 de 13/08/2025  sui               d      3.811,30           0,00
+0001 00024937 000345 debito banco do brasil 0001 dpl: 000000077-01 de  13/08/2025  sui               c          0,00         150,00
+0001 00024938 000345 debito banco do brasil 0001 dpl: 000005672-01 de  13/08/2025  sui               c          0,00         360,00
+0001 00024940 000345 debito banco do brasil 0001 dpl: 000003719-01 de  13/08/2025  sui               c          0,00         398,26
+0001 00024941 000345 debito banco do brasil 0001 dpl: 000205768-01 de  13/08/2025  sui               c          0,00         483,34
+0001 00024942 000345 debito banco do brasil 0001 dpl: 000073992-02 de  13/08/2025  sui               c          0,00         491,24
+0001 00024943 000345 debito banco do brasil 0001 dpl: 000078009-01 de  13/08/2025  sui               c          0,00         650,00
+0001 00024944 000345 debito banco do brasil 0001 dpl: 000000285-01 de  13/08/2025  sui               c          0,00         645,75
+0001 00024945 000345 debito banco do brasil 0001 dpl: 000323451-05 de  13/08/2025  sui               c          0,00         670,00
+0001 00024949 000345 debito banco do brasil 0001 dpl: 000155589-01 de  13/08/2025  sui               c          0,00       1.232,07
+página 2 de 5
+ ce certtus
+0001 - coopermotores
+03/09/2025 - 15:24:21
+movimento de caixa
+movimento ref. periodo: de 01/08/2025 a 31/08/2025
+financeiro
+histórico de caixa
+emp. planilha histórico e complemento                                  movimento usuário c.res.  natureza     débito        crédito
+0001 00025035 000280 credito banco do brasil 0001 retorno:000000420-03 14/08/2025  sui               d      3.324,75           0,00
+0001 00025036 000280 credito banco do brasil 0001 retorno:000000304-04 14/08/2025  sui               d      1.750,00           0,00
+0001 00025037 000280 credito banco do brasil 0001 retorno:000000429-03 14/08/2025  sui               d        233,50           0,00
+0001 00025038 000280 credito banco do brasil 0001 retorno:000000555-01 14/08/2025  sui               d     13.000,00           0,00
+0001 00025063 000345 debito banco do brasil 0001 dpl: 000003039-01 de  14/08/2025  sui               c          0,00         130,00
+0001 00025064 000345 debito banco do brasil 0001 dpl: 000020718-01 de  14/08/2025  sui               c          0,00         400,00
+0001 00025066 000345 debito banco do brasil 0001 dpl: 000002806-01 de  14/08/2025  sui               c          0,00         470,00
+0001 00025067 000345 debito banco do brasil 0001 dpl: 001168211-a1 de  14/08/2025  sui               c          0,00         683,10
+0001 00025068 000345 debito banco do brasil 0001 dpl: 000445108-01 de  14/08/2025  sui               c          0,00         742,00
+0001 00025099 000345 debito banco do brasil 0001 buschle & lepper s/a  14/08/2025  sui               c          0,00         510,00
+0001 00025113 000280 credito banco do brasil 0001 ajuste de cheque 000 14/08/2025  sui               d     10.000,00           0,00
+0001 00025116 000280 credito banco do brasil 0001 transportes freiberg 14/08/2025  sui               d      2.500,00           0,00
+0001 00025210 000345 debito banco do brasil 0001 tar. agrupadas - ocor 14/08/2025  sui               c          0,00          22,34
+0001 00025211 000345 debito banco do brasil 0001 bransales atacadista  14/08/2025  sui               c          0,00       1.443,32
+0001 00025194 000280 credito banco do brasil 0001 retorno:000000542-01 15/08/2025  sui               d        462,73           0,00
+0001 00025195 000280 credito banco do brasil 0001 retorno:000000309-05 15/08/2025  sui               d        350,00           0,00
+0001 00025196 000280 credito banco do brasil 0001 retorno:000000432-03 15/08/2025  sui               d      1.933,50           0,00
+0001 00025197 000280 credito banco do brasil 0001 retorno:000000560-01 15/08/2025  sui               d     18.500,00           0,00
+0001 00025198 000280 credito banco do brasil 0001 retorno:000000447-a3 15/08/2025  sui               d      1.050,00           0,00
+0001 00025216 000345 debito banco do brasil 0001 dpl: 000005677-01 de  15/08/2025  sui               c          0,00          30,00
+0001 00025217 000345 debito banco do brasil 0001 dpl: 000493655-01 de  15/08/2025  sui               c          0,00          60,00
+0001 00025218 000345 debito banco do brasil 0001 dpl: 000004439-01 de  15/08/2025  sui               c          0,00         180,00
+0001 00025219 000345 debito banco do brasil 0001 dpl: 000000080-01 de  15/08/2025  sui               c          0,00         210,00
+0001 00025220 000345 debito banco do brasil 0001 dpl: 000048093-01 de  15/08/2025  sui               c          0,00         220,00
+0001 00025221 000345 debito banco do brasil 0001 dpl: 000424725-03 de  15/08/2025  sui               c          0,00         326,86
+0001 00025222 000345 debito banco do brasil 0001 dpl: 000006999-a7 de  15/08/2025  sui               c          0,00         540,00
+0001 00025223 000345 debito banco do brasil 0001 dpl: 000038718-02 de  15/08/2025  sui               c          0,00         572,00
+0001 00025224 000345 debito banco do brasil 0001 dpl: 001876038-01 de  15/08/2025  sui               c          0,00         685,26
+0001 00025225 000345 debito banco do brasil 0001 dpl: 000002087-02 de  15/08/2025  sui               c          0,00         705,00
+0001 00025226 000345 debito banco do brasil 0001 dpl: 000025272-03 de  15/08/2025  sui               c          0,00         739,65
+0001 00025227 000345 debito banco do brasil 0001 dpl: 000202507-01 de  15/08/2025  sui               c          0,00         796,96
+0001 00025228 000345 debito banco do brasil 0001 dpl: 000451051-03 de  15/08/2025  sui               c          0,00         816,60
+0001 00025229 000345 debito banco do brasil 0001 dpl: 000000181-03 de  15/08/2025  sui               c          0,00       1.022,14
+0001 00025231 000345 debito banco do brasil 0001 dpl: 001822843-05 de  15/08/2025  sui               c          0,00       2.139,83
+0001 00025232 000345 debito banco do brasil 0001 dpl: 771872507-01 de  15/08/2025  sui               c          0,00       1.358,64
+0001 00025233 000345 debito banco do brasil 0001 dpl: 000000385-02 de  15/08/2025  sui               c          0,00         162,00
+0001 00025234 000345 debito banco do brasil 0001 dpl: 000026701-05 de  15/08/2025  sui               c          0,00       4.500,00
+0001 00025235 000345 debito banco do brasil 0001 dpl: 000000472-01 de  15/08/2025  sui               c          0,00       4.790,00
+0001 00025237 000345 debito banco do brasil 0001 dpl: 000447482-01 de  15/08/2025  sui               c          0,00         120,00
+0001 00025344 000345 debito banco do brasil 0001 tar. agrupadas - ocor 15/08/2025  sui               c          0,00           6,00
+0001 00025319 000280 credito banco do brasil 0001 retorno:000000259-a6 18/08/2025  sui               d      4.600,00           0,00
+0001 00025320 000280 credito banco do brasil 0001 retorno:000000437-03 18/08/2025  sui               d        475,00           0,00
+0001 00025321 000280 credito banco do brasil 0001 retorno:000000518-a2 18/08/2025  sui               d         60,00           0,00
+0001 00025322 000280 credito banco do brasil 0001 retorno:000000499-02 18/08/2025  sui               d        350,00           0,00
+0001 00025323 000280 credito banco do brasil 0001 retorno:000000455-03 18/08/2025  sui               d      1.200,00           0,00
+0001 00025345 000280 credito banco do brasil 0001 dpl: 000000095-06 de 18/08/2025  sui               d      2.020,78           0,00
+0001 00025353 000345 debito banco do brasil 0001 dpl: 000042537-01 de  18/08/2025  sui               c          0,00         719,20
+0001 00025354 000345 debito banco do brasil 0001 dpl: 000141219-01 002 18/08/2025  sui               c          0,00         114,14
+0001 00025355 000345 debito banco do brasil 0001 dpl: 000361737-01 de  18/08/2025  sui               c          0,00          49,20
+0001 00025356 000345 debito banco do brasil 0001 dpl: 000636344-01 de  18/08/2025  sui               c          0,00          38,68
+0001 00025357 000345 debito banco do brasil 0001 dpl: 000003070-01 de  18/08/2025  sui               c          0,00         230,00
+0001 00025358 000345 debito banco do brasil 0001 dpl: 001837781-04 de  18/08/2025  sui               c          0,00         727,02
+0001 00025442 000280 credito banco do brasil 0001 dpl: 000000603-01 de 18/08/2025  sui               d      6.500,00           0,00
+0001 00025485 000345 debito banco do brasil 0001 tar. agrupadas - ocor 18/08/2025  sui               c          0,00          20,65
+0001 00025457 000280 credito banco do brasil 0001 retorno:000000536-01 19/08/2025  sui               d      1.015,24           0,00
+0001 00025458 000280 credito banco do brasil 0001 retorno:000000288-a4 19/08/2025  sui               d      2.691,21           0,00
+0001 00025459 000280 credito banco do brasil 0001 retorno:000000502-03 19/08/2025  sui               d      1.125,00           0,00
+0001 00025460 000280 credito banco do brasil 0001 retorno:000000547-01 19/08/2025  sui               d        341,02           0,00
+0001 00025461 000280 credito banco do brasil 0001 retorno:000000562-01 19/08/2025  sui               d      2.143,10           0,00
+0001 00025491 000280 credito banco do brasil 0001 dpl: 000000336-03 de 19/08/2025  sui               d        415,56           0,00
+0001 00025494 000345 debito banco do brasil 0001 dpl: 000003075-01 de  19/08/2025  sui               c          0,00         130,00
+0001 00025495 000345 debito banco do brasil 0001 dpl: 000006503-01 de  19/08/2025  sui               c          0,00         531,00
+0001 00025496 000345 debito banco do brasil 0001 dpl: 000006519-01 de  19/08/2025  sui               c          0,00         671,94
+0001 00025497 000345 debito banco do brasil 0001 dpl: 000907074-01 de  19/08/2025  sui               c          0,00         757,72
+0001 00025498 000345 debito banco do brasil 0001 dpl: 000005676-02 de  19/08/2025  sui               c          0,00         900,72
+0001 00025499 000345 debito banco do brasil 0001 dpl: 001857602-02 de  19/08/2025  sui               c          0,00       1.383,33
+0001 00025500 000345 debito banco do brasil 0001 dpl: 000004891-05 de  19/08/2025  sui               c          0,00       1.730,76
+0001 00025550 000345 debito banco do brasil 0001 ivan viana dos santos 19/08/2025  sui               c          0,00         140,70
+0001 00025638 000345 debito banco do brasil 0001 tar. agrupadas - ocor 19/08/2025  sui               c          0,00           7,50
+0001 00025622 000280 credito banco do brasil 0001 retorno:000000430-03 20/08/2025  sui               d        963,40           0,00
+0001 00025623 000280 credito banco do brasil 0001 retorno:000000508-03 20/08/2025  sui               d        200,00           0,00
+0001 00025624 000280 credito banco do brasil 0001 retorno:000000356-a1 20/08/2025  sui               d      3.442,50           0,00
+0001 00025625 000280 credito banco do brasil 0001 retorno:000000509-02 20/08/2025  sui               d        600,00           0,00
+0001 00025626 000280 credito banco do brasil 0001 retorno:000000557-01 20/08/2025  sui               d      1.800,00           0,00
+0001 00025654 000345 debito banco do brasil 0001 dpl: 006577989-01 de  20/08/2025  sui               c          0,00          19,41
+0001 00025655 000345 debito banco do brasil 0001 dpl: 000008844-02 de  20/08/2025  sui               c          0,00         222,00
+0001 00025656 000345 debito banco do brasil 0001 dpl: 000003419-01 de  20/08/2025  sui               c          0,00         292,81
+0001 00025657 000345 debito banco do brasil 0001 dpl: 000025076-01 de  20/08/2025  sui               c          0,00         517,21
+0001 00025658 000345 debito banco do brasil 0001 dpl: 000005645-01 de  20/08/2025  sui               c          0,00         540,00
+0001 00025659 000345 debito banco do brasil 0001 dpl: 000047968-01 de  20/08/2025  sui               c          0,00       1.199,00
+0001 00025660 000345 debito banco do brasil 0001 dpl: 001149693-a3 de  20/08/2025  sui               c          0,00       1.221,31
+0001 00025661 000345 debito banco do brasil 0001 dpl: 000000256-01 de  20/08/2025  sui               c          0,00       7.202,00
+0001 00025667 000345 debito banco do brasil 0001 dpl: 000072025-01 de  20/08/2025  sui               c          0,00       2.403,99
+0001 00025668 000345 debito banco do brasil 0001 dpl: 000072025-02 de  20/08/2025  sui               c          0,00       3.548,54
+0001 00025669 000345 debito banco do brasil 0001 dpl: 000072025-01 de  20/08/2025  sui               c          0,00      32.654,83
+0001 00025802 000345 debito banco do brasil 0001 giacomelli auto mecan 20/08/2025  sui               c          0,00         630,00
+0001 00025803 000345 debito banco do brasil 0001 mepar ferragens e fer 20/08/2025  sui               c          0,00       1.033,28
+0001 00025804 000345 debito banco do brasil 0001 brasolda comercio de  20/08/2025  sui               c          0,00       2.312,60
+0001 00025805 000345 debito banco do brasil 0001 engepecas equipamento 20/08/2025  sui               c          0,00         959,05
+0001 00025806 000345 debito banco do brasil 0001 tar. agrupadas - ocor 20/08/2025  sui               c          0,00          16,23
+0001 00025788 000280 credito banco do brasil 0001 retorno:000000425-03 21/08/2025  sui               d        245,88           0,00
+0001 00025789 000280 credito banco do brasil 0001 retorno:000000501-02 21/08/2025  sui               d        405,33           0,00
+0001 00025790 000280 credito banco do brasil 0001 retorno:000000572-01 21/08/2025  sui               d        685,17           0,00
+0001 00025791 000280 credito banco do brasil 0001 retorno:000000439-03 21/08/2025  sui               d      2.261,34           0,00
+0001 00025792 000280 credito banco do brasil 0001 retorno:000000443-03 21/08/2025  sui               d        575,00           0,00
+0001 00025822 000345 debito banco do brasil 0001 dpl: 000172213-01 de  21/08/2025  sui               c          0,00         170,00
+0001 00025823 000345 debito banco do brasil 0001 dpl: 000010358-01 de  21/08/2025  sui               c          0,00         412,20
+página 3 de 5
+ ce certtus

@@ -13,8 +13,8 @@ from datetime import datetime
 import requests
 from dotenv import load_dotenv
 
-# Importa as duas funções de extração do nosso cérebro e as stopwords
-from identificador import extrair_texto_do_arquivo, extrair_texto_do_cabecalho, STOPWORDS
+# Importa as duas funções de extração do nosso cérebro
+from identificador import extrair_texto_do_arquivo, extrair_texto_do_cabecalho
 
 # --- CONFIGURAÇÕES ---
 PASTA_PRINCIPAL_TREINAMENTO = 'arquivos_de_treinamento'
@@ -211,6 +211,7 @@ if __name__ == '__main__':
     elif args.retreinar_rapido:
         treinar_modelo_ml()
     else:
+        # Fluxo completo (chamado pelo botão de upload do ZIP)
         sucesso_sinc = sincronizar_mapeamento_com_api()
         if sucesso_sinc:
             mapa_final = atualizar_metadados()

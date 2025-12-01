@@ -16,7 +16,7 @@
     {
         "codigo_layout": "6",
         "descricao": "CEF - EXTRATO CEF TEXTO",
-        "formato": "PDF",
+        "formato": "TXT",
         "sistema": "CEF CAIXA ECONOMICA FEDERAL",
         "tipo_relatorio": "Bancário"
     },
@@ -10438,7 +10438,7 @@
     {
         "codigo_layout": "2",
         "descricao": "ALTERDATA",
-        "formato": "PDF",
+        "formato": "TEXTO",
         "sistema": "ALTERDATA",
         "tipo_relatorio": "Financeiro",
         "cabecalho": "prefeitura da cidade de so paulo damsp documento de arrecadao do municpio de so paulo nomerazo social vencimento cpfcnpj ccm incidncia valor secretaria municipal da fazenda gabriella otilia ribeiro claro cursos gerenciais"
@@ -11542,7 +11542,7 @@
     {
         "codigo_layout": "5555",
         "descricao": "SPF BANK - EXTRATO",
-        "formato": "",
+        "formato": "PDF",
         "sistema": "SPF BANK",
         "tipo_relatorio": "Bancário",
         "cabecalho": "extrato detalhado gerado em pix enviado gt bios industria comercio de oleos ltda pix enviado gt bios industria comercio de oleos ltda"
@@ -17829,7 +17829,7 @@
     },
     {
         "codigo_layout": "6239",
-        "descricao": "NFE - NFE",
+        "descricao": "NFE - XML DE SAÍDA",
         "formato": "XML",
         "sistema": "NFE",
         "tipo_relatorio": "Financeiro"
@@ -19703,7 +19703,7 @@
     {
         "codigo_layout": "1442",
         "descricao": "OFX CAIXA MUNDIAL INDUSTRIA E COMERCIO DE URNAS LTDA",
-        "formato": "OFX",
+        "formato": "PDF",
         "sistema": "OFX",
         "tipo_relatorio": "Financeiro"
     },
@@ -20814,5 +20814,992 @@
         "sistema": "PREFEITURA MUNICIPAL DE SÃO SEBASTIÃO DO PARAÍSO",
         "tipo_relatorio": "Financeiro",
         "cabecalho": "prefeitura municipal de so sebastio do paraso secretaria de planejamento gesto gerncia de arrecadao de tributos emitido em por raquel de azevedo faria prefeitura municipal de so sebastio do paraso secretaria de planejamento gesto gerncia de arrecadao de tributos emitido em por raquel de azevedo faria prefeitura municipal de so sebastio do paraso secretaria de planejamento gesto gerncia de arrecadao de tributos emitido em por raquel de azevedo faria data nmero srie situao tomador tomador valor total base de alquota valor issqn issqn"
+    },
+    {
+        "codigo_layout": "6579",
+        "descricao": "EGS - CONTAS RECEBIDAS",
+        "formato": "PDF",
+        "sistema": "EGS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6580",
+        "descricao": "IDEALSOFT - RECEBIVEIS BAIXADOS (PERSONALIZADO)",
+        "formato": "PDF",
+        "sistema": "IDEALSOFT",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6581",
+        "descricao": "DESCONHECIDO - BOLETOS PAGOS TXT",
+        "formato": "TXT",
+        "sistema": "DESCONHECIDO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6582",
+        "descricao": "CAIXA ECONOMICA -  ESPELHO DE RETORNO",
+        "formato": "PDF",
+        "sistema": "CAIXA ECONOMICA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6583",
+        "descricao": "WK RADAR -  ISS PROPRIO A RECOLHER",
+        "formato": "PDF",
+        "sistema": "WK RADAR",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6584",
+        "descricao": "EGS - CONTAS PAGAS",
+        "formato": "PDF",
+        "sistema": "EGS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6585",
+        "descricao": "SISTEMA PARA ADMINISTRAÇÃO DE TRANSPORTE -  EXTRATO",
+        "formato": "PDF",
+        "sistema": "SISTEMA PARA ADMINISTRAÇÃO DE TRANSPORTE",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6586",
+        "descricao": "ITAÚ - EXTRATO DE FUNDOS DE INVESTIMENTOS",
+        "formato": "PDF",
+        "sistema": "ITAÚ",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6587",
+        "descricao": "BLING - RELATÓRIO DE NOTAS FISCAIS DE SAÍDA",
+        "formato": "PDF",
+        "sistema": "BLING",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6588",
+        "descricao": "SOFT TRADE - FOLHA DE PAGAMENTO",
+        "formato": "PDF",
+        "sistema": "SOFT TRADE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6589",
+        "descricao": "NFSE - NOTA FISCAL DE SERVIÇO XML V2",
+        "formato": "XML",
+        "sistema": "NFSE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6590",
+        "descricao": "CEF - FATURA CARTÃO COM SENHA V2",
+        "formato": "PDF",
+        "sistema": "CEF CAIXA ECONOMICA FEDERAL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6591",
+        "descricao": "VENTURA INVEST - DEMONSTRATIVO DE OPERAÇÕES",
+        "formato": "PDF",
+        "sistema": "VENTURA INVEST",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6592",
+        "descricao": "APPELFINANCE - BAIXA DE PAGAMENTOS",
+        "formato": "PDF",
+        "sistema": "APPELFINANCE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6593",
+        "descricao": "SICOOB - COMPROVANTES DE RECEBIMENTO (BAIXADOS)",
+        "formato": "PDF",
+        "sistema": "SICOOB",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6594",
+        "descricao": "SANTANDER - RESUMO DE OPERAÇÃO DE ANTECIPAÇÃO",
+        "formato": "PDF",
+        "sistema": "SANTANDER",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6595",
+        "descricao": "SICREDI - CONTRATO DE CREDITO",
+        "formato": "PDF",
+        "sistema": "SICREDI",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1316",
+        "descricao": "BRADESCO FILIAL PAMPULHA - 8",
+        "formato": "PDF",
+        "sistema": "BRADESCO FILIAL PAMPULHA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6596",
+        "descricao": "DESCONHECIDO - PRE ESPELHO DA FATURA POR TITULAR",
+        "formato": "PDF",
+        "sistema": "DESCONHECIDO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6597",
+        "descricao": "SOFTPOOL - EXTRATO ANALÍTICO P/ SIMPLES CONFERÊNCIA",
+        "formato": "PDF",
+        "sistema": "SOFTPOOL",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6598",
+        "descricao": "PREF. BELO HORIZONTE - ISS RETIDO A RECOLHER",
+        "formato": "PDF",
+        "sistema": "PREF. BELO HORIZONTE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1134",
+        "descricao": "CARTÃO DE CRÉDITO - 9764",
+        "formato": "PDF",
+        "sistema": "CARTÃO DE CRÉDITO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6599",
+        "descricao": "AMIGO PAY - EXTRATO",
+        "formato": "PDF",
+        "sistema": "AMIGO PAY",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6600",
+        "descricao": "WHINTOR - EXTRATO COMPENSAÇÃO",
+        "formato": "PDF",
+        "sistema": "WHINTOR",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6601",
+        "descricao": "NOMUS - PAGAMENTOS",
+        "formato": "PDF",
+        "sistema": "NOMUS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6602",
+        "descricao": "DESCONHECIDO - VALORES FATURADOS",
+        "formato": "PDF",
+        "sistema": "DESCONHECIDO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6603",
+        "descricao": "COMPROVANTES COM FILIAL [BOLETOS] V2",
+        "formato": "PDF",
+        "sistema": "COMPROVANTES",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6604",
+        "descricao": "DESCONHECIDO - CONTAS PAGAS",
+        "formato": "PDF",
+        "sistema": "DESCONHECIDO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6605",
+        "descricao": "ECO CENTAURO - CONTAS PAGAS V2",
+        "formato": "PDF",
+        "sistema": "ECO CENTAURO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1385",
+        "descricao": "SICOOB - 2445446-7",
+        "formato": "PDF",
+        "sistema": "SICOOB",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6606",
+        "descricao": "SPDATA - MOVIMENTO POR CDC ANALITICO",
+        "formato": "PDF",
+        "sistema": "SPDATA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6607",
+        "descricao": "PUTRO ADP - RESUMO DA FOLHA",
+        "formato": "PDF",
+        "sistema": "PUTRO ADP",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6608",
+        "descricao": "DOMÍNIO - CONTAS A RECEBER",
+        "formato": "",
+        "sistema": "DOMÍNIO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6609",
+        "descricao": "GESTOR - DOCUMENTOS BAIXADOS",
+        "formato": "PDF",
+        "sistema": "GESTOR",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6610",
+        "descricao": "ITAU - FRANCESINHA V2",
+        "formato": "PDF",
+        "sistema": "ITAU",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6611",
+        "descricao": "GOVERNO FEDERAL - GRU",
+        "formato": "PDF",
+        "sistema": "GOVERNO FEDERAL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6612",
+        "descricao": "EXODUS - RELATÓRIO DE VENDAS",
+        "formato": "PDF",
+        "sistema": "EXODUS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6613",
+        "descricao": "GES - ASDR",
+        "formato": "PDF",
+        "sistema": "GES",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6614",
+        "descricao": "GES - DÉBITOS DOS CONVENIOS",
+        "formato": "PDF",
+        "sistema": "GES",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6615",
+        "descricao": "SGLOC - EXTRATO CONTA CORRENTE",
+        "formato": "PDF",
+        "sistema": "SGLOC",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6616",
+        "descricao": "MEGA - EXTRATO BANCÁRIO ANALITICO",
+        "formato": "PDF",
+        "sistema": "MEGA",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6617",
+        "descricao": "GES - EXTRATO",
+        "formato": "PDF",
+        "sistema": "GES",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6618",
+        "descricao": "GES - CONTAS A RECEBER",
+        "formato": "PDF",
+        "sistema": "GES",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6619",
+        "descricao": "GES - CONTAS A PAGAR",
+        "formato": "PDF",
+        "sistema": "GES",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6620",
+        "descricao": "3LM SOFTWARE - EXTRATO DE CONTA CORRENTE",
+        "formato": "PDF",
+        "sistema": "3LM SOFTWARE",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6621",
+        "descricao": "GES - DÉBITOS DOS CONTRIBUINTES",
+        "formato": "PDF",
+        "sistema": "GES",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6622",
+        "descricao": "UAU! SOFTWARE - CONTAS RECEBIDAS V2",
+        "formato": "PDF",
+        "sistema": "UAU! SOFTWARE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6623",
+        "descricao": "PET SHOP CONTROL - RELATÓRIO DE CONTAS",
+        "formato": "PDF",
+        "sistema": "PET SHOP CONTROL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1054",
+        "descricao": "BB EXTRATO POR PERÍODO PDF (55561-4)",
+        "formato": "PDF",
+        "sistema": "BB BANCO DO BRASIL",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6624",
+        "descricao": "CONTROLLE - RELATÓRIO PERSONALIZADO",
+        "formato": "PDF",
+        "sistema": "CONTROLLE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6625",
+        "descricao": "PET SHOP CONTROL - AUDITORIA DE VENDA",
+        "formato": "PDF",
+        "sistema": "PET SHOP CONTROL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6626",
+        "descricao": "MAGALUPAY - EXTRATO DA CARTEIRA",
+        "formato": "",
+        "sistema": "MAGALUPAY",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "2317",
+        "descricao": "BLING - CONCILIAÇÃO NUBANK",
+        "formato": "",
+        "sistema": "BLING",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6627",
+        "descricao": "GESTOR - NEGÓCIOS REALIZADOS",
+        "formato": "PDF",
+        "sistema": "GESTOR",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1083",
+        "descricao": "NUBANK - EXTRATO FILIAL",
+        "formato": "PDF",
+        "sistema": "NUBANK",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6628",
+        "descricao": "GOWD - EXTRATO",
+        "formato": "PDF",
+        "sistema": "GOWD",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6629",
+        "descricao": "GERENTE MAX - EXTRATO",
+        "formato": "PDF",
+        "sistema": "GERENTE MAX",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6630",
+        "descricao": "SISVETOR -  DESPESAS REALIZADAS",
+        "formato": "",
+        "sistema": "SISVETOR",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6631",
+        "descricao": "TOTVS - FOLHA ANALITICA MENSAL",
+        "formato": "PDF",
+        "sistema": "TOTVS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6632",
+        "descricao": "IOB - RESUMO GPS",
+        "formato": "PDF",
+        "sistema": "IOB",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6633",
+        "descricao": "IFOOD - REPASSE",
+        "formato": "PDF",
+        "sistema": "IFOOD",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6634",
+        "descricao": "STRATEGIX - CONTAS A PAGAR",
+        "formato": "PDF",
+        "sistema": "STRATEGIX",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6635",
+        "descricao": "BB - RELAÇÃO DE PAGAMENTOS",
+        "formato": "PDF",
+        "sistema": "BB BANCO DO BRASIL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6636",
+        "descricao": "ASSAS - COMPROVANTE DE PAGAMENTO",
+        "formato": "PDF",
+        "sistema": "ASSAS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6637",
+        "descricao": "REALCLUB - RECEBIMENTOS DO MÓDULO CAIXA",
+        "formato": "PDF",
+        "sistema": "REALCLUB",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6638",
+        "descricao": "SISPRIME - FATURA",
+        "formato": "PDF",
+        "sistema": "SISPRIME",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6639",
+        "descricao": "UP VENDAS - DEMONSTRATIVO DOS VALORES PAGOS PELO ESTABELECIMENTO",
+        "formato": "PDF",
+        "sistema": "UP VENDAS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6640",
+        "descricao": "VIASOFT CONSTRUSHOW - EXTRATO DO PORTADOR",
+        "formato": "PDF",
+        "sistema": "VIASOFT CONSTRUSHOW",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6641",
+        "descricao": "SANTANDER - BOLETOS",
+        "formato": "PDF",
+        "sistema": "SANTANDER",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6642",
+        "descricao": "BANCO DO BRASIL - BOLETOS",
+        "formato": "PDF",
+        "sistema": "BANCO DO BRASIL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6643",
+        "descricao": "UAIRANGO - RESUMO DE PEDIDOS APROVADOS",
+        "formato": "PDF",
+        "sistema": "UAIRANGO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6644",
+        "descricao": "SUPERLOGICA - MOVIMENTAÇÃO DAS CONTAS BANCÁRIAS",
+        "formato": "PDF",
+        "sistema": "SUPERLOGICA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6645",
+        "descricao": "MASTERMAQ SOFTWARE -  RELAÇÃO DE FATURAS EM ABERTO",
+        "formato": "PDF",
+        "sistema": "MASTERMAQ SOFTWARE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6646",
+        "descricao": "SI9 SISTEMAS - RELATÓRIO DE FECHAMENTO DE BANCO",
+        "formato": "PDF",
+        "sistema": "SI9 SISTEMAS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1336",
+        "descricao": "BANCO ARBI - EXTRATO - C/C 388650 - PAYHOP",
+        "formato": "PDF",
+        "sistema": "BANCO ARBI",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "1370",
+        "descricao": "BANCO ARBI - EXTRATO - C/C 389320- PAYHOP",
+        "formato": "PDF",
+        "sistema": "BANCO ARBI",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "1342",
+        "descricao": "BANCO ARBI - EXTRATO - C/C 387425 - PAYHOP",
+        "formato": "PDF",
+        "sistema": "BANCO ARBI",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6647",
+        "descricao": "EWR - RELATÓRIO DE PAGAMENTOS",
+        "formato": "",
+        "sistema": "EWR",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6648",
+        "descricao": "SYSCAR  - RELATÓRIO GESTÃO FINANCEIRA",
+        "formato": "PDF",
+        "sistema": "SYSCAR",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6649",
+        "descricao": "QUIVER - RELATÓRIO DE CONTAS PAGAS",
+        "formato": "PDF",
+        "sistema": "QUIVER",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1453",
+        "descricao": "BANESTES 870263 - 1",
+        "formato": "PDF",
+        "sistema": "BANESTES 870263",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6650",
+        "descricao": "SERVICE LOGIC - RECEBIMENTOS",
+        "formato": "PDF",
+        "sistema": "SERVICE LOGIC",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6651",
+        "descricao": "SERVICE LOGIC - CONTRATO TRANSPORTE",
+        "formato": "PDF",
+        "sistema": "SERVICE LOGIC",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6652",
+        "descricao": "CONTA AZUL - FATURA DE LOCAÇÃO",
+        "formato": "PDF",
+        "sistema": "CONTA AZUL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6653",
+        "descricao": "CONTAINER SOLUTION - RELATÓRIO DE DESCONTOS",
+        "formato": "",
+        "sistema": "CONTAINER SOLUTION",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6654",
+        "descricao": "SPINCARE - TITULOS A PAGAR",
+        "formato": "PDF",
+        "sistema": "SPINCARE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6655",
+        "descricao": "ALPHA 7 - ANALISE DE NOTAS FISCAIS DE ENTRADA",
+        "formato": "PDF",
+        "sistema": "ALPHA 7",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6656",
+        "descricao": "SISTEMA BIAGRE - EXTRATO DE CONTAS",
+        "formato": "PDF",
+        "sistema": "SISTEMA BIAGRE",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "1374",
+        "descricao": "EXTRATO 914-0",
+        "formato": "PDF",
+        "sistema": "EXTRATO",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6657",
+        "descricao": "OBJETIVA - RELATÓRIO DE PAGAMENTO DE CLIENTES",
+        "formato": "PDF",
+        "sistema": "OBJETIVA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6658",
+        "descricao": "LH SISTEMAS E CONSULTORIA - RELATÓRIO DE CONTAS A PAGAR",
+        "formato": "PDF",
+        "sistema": "LH SISTEMAS E CONSULTORIA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6659",
+        "descricao": "ULTRACAR - MOVIMENTO DE CAIXA",
+        "formato": "PDF",
+        "sistema": "ULTRACAR",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6660",
+        "descricao": "TOTVS - RESUMO DA FOLHA V2",
+        "formato": "PDF",
+        "sistema": "TOTVS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6661",
+        "descricao": "NFE - XML DE ENTRADA",
+        "formato": "XML",
+        "sistema": "NFE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6662",
+        "descricao": "OBJETIVA - RELATÓRIO DE PAGAMENTO DE FORNECEDORES",
+        "formato": "PDF",
+        "sistema": "OBJETIVA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6663",
+        "descricao": "ZENITE GE - EXTRATO V2",
+        "formato": "PDF",
+        "sistema": "ZENITE GE",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6664",
+        "descricao": "IXC SOFT - RELATÓRIO DA CONTA CAIXA SANGRIA",
+        "formato": "PDF",
+        "sistema": "IXC SOFT",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6665",
+        "descricao": "COMMERCE SISTEMAS - CONTAS A PAGAR",
+        "formato": "",
+        "sistema": "COMMERCE SISTEMAS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6666",
+        "descricao": "AVEC - SALÃOVIP  - PAGAMENTOS",
+        "formato": "PDF",
+        "sistema": "AVEC",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6667",
+        "descricao": "COMMERCE SISTEMAS - CONTAS A RECEBER",
+        "formato": "PDF",
+        "sistema": "COMMERCE SISTEMAS",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6668",
+        "descricao": "ALTERDATA - PROVISÃO DE 13º SALARIO",
+        "formato": "",
+        "sistema": "ALTERDATA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6669",
+        "descricao": "SEFAZ - EXTRATO DEMONSTRATIVO DA FATURA",
+        "formato": "PDF",
+        "sistema": "SEFAZ",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6670",
+        "descricao": "OBJETIVA - PAGAMENTOS DE FORNECEDOR",
+        "formato": "PDF",
+        "sistema": "OBJETIVA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6671",
+        "descricao": "SANKHYA - EXTRATO BANCARIO",
+        "formato": "PDF",
+        "sistema": "SANKHYA",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6672",
+        "descricao": "SAID - EXTRATO",
+        "formato": "PDF",
+        "sistema": "SAID",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6673",
+        "descricao": "WVETRO - EXTRATO BANCÁRIO",
+        "formato": "PDF",
+        "sistema": "WVETRO",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6674",
+        "descricao": "LIDERW - AVISO PRÉVIO DE FÉRIAS",
+        "formato": "PDF",
+        "sistema": "LIDERW",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6675",
+        "descricao": "UNIMED - ANALITICO DE TAXA",
+        "formato": "PDF",
+        "sistema": "UNIMED",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6676",
+        "descricao": "INNET SOLUÇÕES - DUPLICATAS POR DATA DE RECEBIMENTO",
+        "formato": "PDF",
+        "sistema": "INNET SOLUÇÕES",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6677",
+        "descricao": "ELO - FATURA DE CARTÃO",
+        "formato": "PDF",
+        "sistema": "ELO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1411",
+        "descricao": "CONNECTERE - RELATÓRIO QI",
+        "formato": "PDF",
+        "sistema": "CONNECTERE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6678",
+        "descricao": "INNET SOLUÇÕES - DUPLICATAS POR DATA DE PAGAMENTO",
+        "formato": "PDF",
+        "sistema": "INNET SOLUÇÕES",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1283",
+        "descricao": "PLANILHA DESPESAS BANCO SICRED - CLINICA CIRURGICA S.J.",
+        "formato": "PDF",
+        "sistema": "PLANILHA DESPESAS BANCO SICRED",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6679",
+        "descricao": "SGBR - LISTAGEM DE PAGAMENTOS",
+        "formato": "",
+        "sistema": "SGBR",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6680",
+        "descricao": "CONSISA - RESUMO DA FOLHA MENSAL - P/ FILIAL",
+        "formato": "PDF",
+        "sistema": "CONSISA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6681",
+        "descricao": "DESCONHECIDO - RECEBIMENTOS",
+        "formato": "PDF",
+        "sistema": "DESCONHECIDO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6682",
+        "descricao": "RK SOFTWARE - PAGAMENTOS NO PERIODO",
+        "formato": "PDF",
+        "sistema": "RK SOFTWARE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6683",
+        "descricao": "BB - INVESTIMENTOS CDB",
+        "formato": "PDF",
+        "sistema": "BB BANCO DO BRASIL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6684",
+        "descricao": "BRASTEL - EXTRATO DAS CONTAS",
+        "formato": "PDF",
+        "sistema": "BRASTEL",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6685",
+        "descricao": "SIAGRI - CONTAS RECEBIDAS",
+        "formato": "PDF",
+        "sistema": "SIAGRI",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6686",
+        "descricao": "KAMINO - EXTRATO",
+        "formato": "PDF",
+        "sistema": "KAMINO",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6687",
+        "descricao": "DESCONHECIDO - TITULOS A PAGAR",
+        "formato": "",
+        "sistema": "DESCONHECIDO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6688",
+        "descricao": "DOMÍNIO - RESUMO GERAL V2",
+        "formato": "PDF",
+        "sistema": "DOMÍNIO",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6689",
+        "descricao": "KOINONIA SOFTWARE - RECEBIDAS",
+        "formato": "PDF",
+        "sistema": "KOINONIA SOFTWARE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1627",
+        "descricao": "BANCO ABC - BIG MATRIZ 1288",
+        "formato": "PDF",
+        "sistema": "BANCO ABC",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6690",
+        "descricao": "KOINONIA SOFTWARE - CONTAS PAGAS",
+        "formato": "PDF",
+        "sistema": "KOINONIA SOFTWARE",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6691",
+        "descricao": "IDEALIZE SISTEMAS - EXTRATO BANCÁRIO",
+        "formato": "PDF",
+        "sistema": "IDEALIZE SISTEMAS",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6692",
+        "descricao": "SICOOB - EXTRATO DE OPERAÇÃO DE CRÉDITO",
+        "formato": "",
+        "sistema": "SICOOB",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6693",
+        "descricao": "NEXT ERP - RELATÓRIO DE CONTAS A PAGAR",
+        "formato": "",
+        "sistema": "NEXT ERP",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6694",
+        "descricao": "SANKHYA - RECIBO DE REPASSE",
+        "formato": "PDF",
+        "sistema": "SANKHYA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6695",
+        "descricao": "VAREJO FACIL - CONTAS A PAGAR ANALITICO V2",
+        "formato": "PDF",
+        "sistema": "VAREJO FACIL",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6696",
+        "descricao": "DP SISTEMA - TITULOS PAGOS",
+        "formato": "PDF",
+        "sistema": "DP SISTEMA",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6697",
+        "descricao": "LOCAWEB - FATURA",
+        "formato": "PDF",
+        "sistema": "LOCAWEB",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6698",
+        "descricao": "ETECH - DEMOSNTRATIVO DE DESPESAS",
+        "formato": "PDF",
+        "sistema": "ETECH",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6699",
+        "descricao": "BRB - FATURA",
+        "formato": "PDF",
+        "sistema": "BRB",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6700",
+        "descricao": "AERO- DEMONSTRATIVO DE PAGAMENTO",
+        "formato": "PDF",
+        "sistema": "AERO-",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6701",
+        "descricao": "ADIPLAN - RECIBO DE REPASSE",
+        "formato": "PDF",
+        "sistema": "ADIPLAN",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "6702",
+        "descricao": "HYPERLOCAL BANK - EXTRATO DA CONTA",
+        "formato": "PDF",
+        "sistema": "HYPERLOCAL BANK",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6703",
+        "descricao": "RECARGA PAY - EXTRATO",
+        "formato": "",
+        "sistema": "RECARGA PAY",
+        "tipo_relatorio": "Bancário"
+    },
+    {
+        "codigo_layout": "6704",
+        "descricao": "LIDERW - FOLHA DE PAGAMENTO",
+        "formato": "PDF",
+        "sistema": "LIDERW",
+        "tipo_relatorio": "Financeiro"
+    },
+    {
+        "codigo_layout": "1172",
+        "descricao": "EXTRATO BANCO DO BRASIL - DULCIMAR",
+        "formato": "PDF",
+        "sistema": "EXTRATO BANCO DO BRASIL",
+        "tipo_relatorio": "Bancário"
     }
 ]

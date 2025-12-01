@@ -12,3 +12,4 @@ requests
 py-trello
 sentence-transformers
 torch
+PyGithub

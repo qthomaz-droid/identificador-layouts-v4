@@ -1,0 +1,900 @@
+relatório extrato bancário
+mvma engenharia e particpações ltda
+período: 01/2023
+conta: itau - 376860 - 0532
+conc.
+condição
+data
+histórico
+valor
+nota fiscal
+tipo
+cheque
+ 0,00
+saldo anterior
+debito em c
+03/01/2023
+d
+sim
+taxas bancárias
+12103
+itaucard financeira
+ 122,00
+debito em c
+03/01/2023
+d
+sim
+taxas bancárias
+12103
+itaucard financeira
+ 218,04
+transferênc
+03/01/2023
+d
+sim
+despesa - obra rafaela dant
+11107
+flavio almeida
+nfs 
+ 239,40
+transferênc
+03/01/2023
+d
+sim
+certificados
+11104
+certfort certificadora
+40333
+ 240,00
+boleto
+03/01/2023
+d
+sim
+despesa - obra diogo bahia
+11110
+astral transportadora lt
+nf
+ 260,82
+transferênc
+03/01/2023
+d
+sim
+despesa - obra mauricio e cr
+11108
+flavio almeida
+nfs
+ 956,98
+transferênc
+03/01/2023
+d
+sim
+custo adm
+11106
+flavio almeida
+nf'd
+ 2.222,42
+transferênc
+03/01/2023
+d
+sim
+transporte / estadia
+11109
+rodrigo moita
+ 3.381,98
+transferênc
+03/01/2023
+c
+sim
+obras rj
+290
+alfa engenharia
+ 16.000,00
+boleto
+03/01/2023
+d
+sim
+iss
+4058
+rio de janeiro gabinete do p
+ 47.156,09
+-38.797,73
+saldo diário 03/01/2023
+transferênc
+05/01/2023
+d
+sim
+despesa - obra rafaela dant
+12106
+lupi bazar e ferragens
+ 2,53
+transferênc
+05/01/2023
+d
+sim
+despesa - obra rafaela dant
+12105
+isocom - isolamentos comé
+ 50,94
+transferênc
+05/01/2023
+d
+sim
+limpeza  escritório
+7884
+regina (limpeza)
+ 1.000,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+7042
+nicoly conceição quirino inácio
+ 2.100,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+9913
+mariana pelucio pequeno
+ 2.150,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+6972
+leonardo passamani carvalho
+ 2.750,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+4991
+mauro mauricio l. santos
+ 2.750,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+4988
+vallesca alves de souza
+ 3.400,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+4990
+cilon laurentino da silva
+ 3.650,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+3963
+lidiane vieira bispo
+ 4.500,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+8465
+lara herminia estevam
+ 5.000,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+3962
+sabrina celestino elizeu
+ 5.500,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+7759
+rafael freire da silva
+ 5.500,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+4986
+jefferson faria santos de oliveira
+ 7.000,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+5702
+sérgio rony da silva junior
+ 8.500,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+7040
+diogo emery braga duprat
+ 8.500,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+4002
+thais elias ribeiro
+ 10.000,00
+transferênc
+05/01/2023
+d
+sim
+pagamento salários
+8464
+fernanda silva fernandez
+ 10.000,00
+transferênc
+05/01/2023
+d
+sim
+alugueis e condominios
+4004
+julia borges de britto pere
+ 10.215,83
+transferênc
+05/01/2023
+c
+sim
+obras rj
+290
+alfa engenharia
+ 93.000,00
+-38.367,03
+saldo diário 05/01/2023
+transferênc
+06/01/2023
+c
+sim
+obras rj
+291
+diogo alexandre de melo b
+ 4.288,90
+-34.078,13
+saldo diário 06/01/2023
+transferênc
+09/01/2023
+c
+sim
+obras rj
+212
+amsterdam sauer joalhei
+ 54.900,88
+ 20.822,75
+saldo diário 09/01/2023
+transferênc
+10/01/2023
+d
+sim
+despesa - obra rodrigo card
+11225
+sabrina celestino elizeu
+ 14,90
+transferênc
+10/01/2023
+d
+sim
+despesas papelaria
+11222
+sabrina celestino elizeu
+ 16,40
+transferênc
+10/01/2023
+d
+sim
+despesa - obra rafaela dant
+11226
+sabrina celestino elizeu
+ 25,75
+transferênc
+10/01/2023
+d
+sim
+transporte
+11231
+sebastião alves dos santos marq
+ 32,00
+transferênc
+10/01/2023
+d
+sim
+transporte
+11231
+sebastião alves dos santos marq
+ 32,00
+boleto
+10/01/2023
+d
+sim
+telefone/internet
+4005
+claro sa
+ 60,91
+transferênc
+10/01/2023
+d
+sim
+despesa - obra rodrigo card
+11225
+sabrina celestino elizeu
+ 105,50
+transferênc
+10/01/2023
+d
+sim
+despesas copa
+11227
+sabrina celestino elizeu
+ 115,27
+transferênc
+10/01/2023
+d
+sim
+despesas comercial
+11224
+sabrina celestino elizeu
+recibo
+ 116,00
+transferênc
+10/01/2023
+d
+sim
+transporte / estadia
+11228
+mariana pelucio pequeno
+ 117,07
+transferênc
+10/01/2023
+d
+sim
+transporte
+11231
+sebastião alves dos santos marq
+ 155,80
+transferênc
+10/01/2023
+d
+sim
+transporte
+11231
+sebastião alves dos santos marq
+ 182,20
+transferênc
+10/01/2023
+d
+sim
+transporte
+11230
+lidiane vieira bispo
+ 190,12
+boleto
+10/01/2023
+d
+sim
+despesa - obra rafaela dant
+11105
+cpa on-line contabilidade e
+foc525
+ 200,00
+transferênc
+10/01/2023
+d
+sim
+transporte / estadia
+11219
+rafael freire da silva
+recibo
+ 204,82
+boleto
+10/01/2023
+d
+sim
+honorários contábeis
+7771
+cpa on-line contabilidade e
+doc 5768 
+ 304,00
+boleto
+10/01/2023
+d
+sim
+despesa - obra roberto mesq
+11203
+aguia locações e perfuraç
+nf 125 nf
+ 327,68
+boleto
+10/01/2023
+d
+sim
+despesa - obra rafaela dant
+12107
+casa do construtor
+reembol
+ 387,73
+boleto
+10/01/2023
+d
+sim
+despesa - obra diogo bahia
+11232
+materiais de construção c
+reembol
+ 472,04
+erp scam - www.softwar.com.br - impresso em : 06/03/2023 10:55:05 página: 1 de 3
+relatório extrato bancário
+mvma engenharia e particpações ltda
+período: 01/2023
+conta: itau - 376860 - 0532
+conc.
+condição
+data
+histórico
+valor
+nota fiscal
+tipo
+cheque
+boleto
+10/01/2023
+d
+sim
+honorários contábeis
+4010
+cpa on-line contabilidade e
+ 556,00
+transferênc
+10/01/2023
+d
+sim
+transporte
+11231
+sebastião alves dos santos marq
+ 670,95
+transferênc
+10/01/2023
+c
+sim
+obras rj
+292
+mauricio fernandes nasci
+ 1.089,20
+transferênc
+10/01/2023
+d
+sim
+transporte
+11231
+sebastião alves dos santos marq
+ 1.467,51
+transferênc
+10/01/2023
+d
+sim
+despesa - obra diogo rodrig
+11234
+wellington da costa ribeiro
+ 2.637,62
+transferênc
+10/01/2023
+d
+sim
+transporte / estadia
+11220
+sabrina celestino elizeu
+contrat
+ 3.845,50
+boleto
+10/01/2023
+d
+sim
+outros
+4136
+itaucard financeira
+ 6.326,67
+transferênc
+10/01/2023
+c
+sim
+obras rj
+207
+mauricio fernandes nasci
+ 38.705,62
+ 42.053,13
+saldo diário 10/01/2023
+boleto
+12/01/2023
+d
+sim
+despesa - obra roberto mesq
+11203
+aguia locações e perfuraç
+nf 125 nf
+ 320,00
+transferênc
+12/01/2023
+d
+sim
+despesas copa
+4009
+bar e mercearia afonso ce
+ 730,97
+transferênc
+12/01/2023
+d
+sim
+despesas copa
+4009
+bar e mercearia afonso ce
+ 730,97
+transferênc
+12/01/2023
+d
+sim
+amortização de empréstimos
+7358
+ricardo ferraz
+ 3.757,84
+ 36.513,35
+saldo diário 12/01/2023
+boleto
+17/01/2023
+d
+sim
+telefone/internet
+4077
+telefônica brasil s.a.
+ 241,67
+transferênc
+17/01/2023
+d
+sim
+despesas comercial
+11433
+jefferson faria santos de oliveira
+nfc - nº 7
+ 424,84
+boleto
+17/01/2023
+d
+sim
+luz
+4011
+estabelecimento unificado
+ 471,27
+transferênc
+17/01/2023
+d
+não
+despesa - obra florense
+12143
+henrrique wernck machad
+nf pende
+ 5.000,00
+ 30.375,57
+saldo diário 17/01/2023
+transferênc
+18/01/2023
+d
+sim
+despesa - obra familia nune
+12145
+thacecon ltda
+nf reemb
+ 7.364,06
+ 23.011,51
+saldo diário 18/01/2023
+boleto
+19/01/2023
+d
+sim
+despesa - obra ri happy ipa
+12135
+casa do construtor
+reembol
+ 305,00
+debito em c
+19/01/2023
+d
+sim
+custo adm
+12139
+due domotica
+nf630402
+ 1.110,79
+boleto
+19/01/2023
+d
+sim
+despesa - obra ri happy ipa
+12147
+madeiras e ferragens goi
+nf5500 r
+ 2.230,81
+boleto
+19/01/2023
+d
+sim
+despesa - obra florense
+12148
+nhj do brasil módulos habi
+nf56 ree
+ 2.400,00
+transferênc
+19/01/2023
+d
+sim
+pagamento salários
+6972
+leonardo passamani carvalho
+ 2.750,00
+transferênc
+19/01/2023
+d
+sim
+pagamento salários
+4991
+mauro mauricio l. santos
+ 2.750,00
+transferênc
+19/01/2023
+d
+sim
+pagamento salários
+4990
+cilon laurentino da silva
+ 3.650,00
+boleto
+19/01/2023
+d
+sim
+despesa - obra ri happy ipa
+12146
+braz 66 ferragens e acabam
+nf36567 r
+ 3.998,29
+ 3.816,62
+saldo diário 19/01/2023
+boleto
+20/01/2023
+d
+sim
+impostos
+4061
+secretaria de estado de f
+ 1.248,14
+ 2.568,48
+saldo diário 20/01/2023
+boleto
+24/01/2023
+d
+sim
+telefone/internet
+4083
+telefônica brasil s.a.
+ 159,99
+boleto
+24/01/2023
+d
+sim
+despesa - obra rafaela dant
+12153
+isocom - isolamentos comé
+nf109910 r
+ 315,13
+boleto
+24/01/2023
+d
+sim
+pis
+4062
+secretaria de estado de f
+8109
+ 791,20
+transferênc
+24/01/2023
+d
+sim
+despesa - obra familia nune
+12152
+joel francisco moreira
+nf pende
+ 1.500,00
+boleto
+24/01/2023
+d
+sim
+cofins
+4063
+secretaria de estado de f
+2172
+ 3.651,66
+transferênc
+24/01/2023
+d
+sim
+aporte
+12151
+alfa engenharia
+ 29.500,00
+-33.349,50
+saldo diário 24/01/2023
+boleto
+26/01/2023
+d
+sim
+despesa - obra frederico mot
+11624
+aguia entulho transporte
+nf25127
+ 760,00
+transferênc
+26/01/2023
+d
+sim
+despesa - obra rafaela dant
+11638
+rafael freire da silva
+ 2.000,00
+transferênc
+26/01/2023
+d
+sim
+despesa - obra florense
+12154
+fertel
+nf pende
+ 7.883,05
+transferênc
+26/01/2023
+c
+sim
+obras rj
+290
+alfa engenharia
+ 7.883,05
+-36.109,50
+saldo diário 26/01/2023
+transferênc
+27/01/2023
+c
+sim
+obras rj
+293
+frederico gonçalves nune
+ 8.864,06
+-27.245,44
+saldo diário 27/01/2023
+boleto
+30/01/2023
+d
+sim
+despesa - obra frederico mot
+11623
+lupi bazar e ferragens
+nf31375 n
+ 240,60
+boleto
+30/01/2023
+d
+sim
+despesa - obra frederico mot
+11623
+lupi bazar e ferragens
+nf31375 n
+ 271,80
+-27.757,84
+saldo diário 30/01/2023
+transferênc
+31/01/2023
+d
+sim
+despesa - obra roberto mesq
+11793
+flavio almeida
+ 16,00
+transferênc
+31/01/2023
+d
+sim
+despesa - obra familia nune
+11795
+flavio almeida
+ 258,53
+transferênc
+31/01/2023
+d
+não
+custo adm
+11814
+vinfotec
+ 380,00
+debito em c
+31/01/2023
+d
+sim
+impostos
+9742
+secretaria de estado de f
+da rec f
+ 586,29
+transferênc
+31/01/2023
+d
+sim
+despesa - obra rafaela dant
+11792
+flavio almeida
+ 923,86
+transferênc
+31/01/2023
+d
+sim
+despesa - obra mauricio e cr
+11794
+flavio almeida
+ 1.442,77
+erp scam - www.softwar.com.br - impresso em : 06/03/2023 10:55:05 página: 2 de 3
+relatório extrato bancário
+mvma engenharia e particpações ltda
+período: 01/2023
+conta: itau - 376860 - 0532
+conc.
+condição
+data
+histórico
+valor
+nota fiscal
+tipo
+cheque
+transferênc
+31/01/2023
+d
+sim
+custo adm
+11791
+flavio almeida
+ 1.810,27
+transferênc
+31/01/2023
+d
+sim
+despesa - obra frederico mot
+11796
+joel madeiros sabino
+008
+ 5.600,00
+-38.775,56
+saldo diário 31/01/2023
+1.total de débitos no período:
+2.total de créditos no período:
+-r$ 38.775,56
+3. saldo do período(2-1) + saldo anterior:
+r$ 263.507,27
+r$ 224.731,71
+4.limite:
+r$ 0,00
+saldo (3+4):
+-r$ 38.775,56
+transferencias a crédito:
+transferencias a débito:
+transferências internas:
+erp scam - www.softwar.com.br - impresso em : 06/03/2023 10:55:05 página: 3 de 3

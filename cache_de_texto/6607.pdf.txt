@@ -1,0 +1,1137 @@
+dunas hoteis 
+e residencias ltda 
+50.122.537/0001-00 
+resumo de folha 
+página 
+1 
+seleção geral 
+competência 
+: janeiro/2025 
+processo 
+de 
+folha: 
+mensal 
+nº 
+2967 
+vínculo: 
+todos 
+código denominação 
+qtde. 
+total 
+natureza 
+in 
+fg 
+ir natureza 
+esocial 
+0010 
+salário 
+base 
+1.026,68 
+8.520,37 
+pag 
+x 
+x 
+x 
+1000 
+- salário, 
+vencimento, 
+soldo 
+0030 
+salário família 
+0,00 
+130,00 
+pag 
+1409 
+- salério-familia 
+0500 
+desc 
+sem remunerado 
+366,69 
+3.044,42 
+pag 
+x 
+x 
+x 
+1012 
+- descanso 
+semanal remunerado 
+- 
+dsr 
+e 
+feriado 
+0502 
+dsr 
+(h.e./adic.not.) 
+0,00 
+65,34 
+pag 
+x 
+x 
+x 
+1012 
+- descanso 
+semanal remunerado 
+- 
+dsr 
+e 
+feriado 
+0591 
+1/3 adic const 
+fer 
+0,00 
+2.532,46 
+pag 
+x 
+x 
+1017 
+- tergo constitucional 
+de 
+férias 
+0700 
+prémio 
+0,00 
+8.520,23 
+pag 
+x 
+2501 
+- prémios 
+0809 
+salario maternidade 
+0,00 
+1.713,80 
+pag 
+x 
+x 
+x 
+4050 
+- saldrio-maternidade 
+1800 
+adicional noturno 
+20% 
+218,06 
+339,74 
+pag 
+x 
+x 
+x 
+1205 
+- adicional noturno 
+2751 
+media férias 
+0,00 
+706,25 
+pag 
+x 
+x 
+1016 
+- férias 
+2761 
+férias 
+no més 
+110,00 
+6.891,13 
+pag 
+x 
+x 
+1016 
+- férias 
+5500 
+ir retido 
+0,00 
+22,28 
+des 
+9203 
+- 
+imposto 
+de renda retido 
+na fonte 
+5560 
+inss 
+0,00 
+1.035,63 
+des 
+x 
+9201 
+- contribuicdo previdencidria 
+5580 
+inss 
+de ferias 
+0,00 
+832,56 
+des 
+x 
+9201 
+- contribuicdo previdencidria 
+9953 
+liquido férias 
+0,00 
+9.297,28 
+des 
+9221 
+- desconto 
+de 
+férias 
+5501 
+base 
+ir 
+0,00 
+15.812,62 
+bas 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+5561 
+base 
+inss 
+0,00 
+13.683,67 
+bas 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+5581 
+base 
+inss 
+ferias 
+0,00 
+10.129,84 
+bas 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+7521 
+base 
+ir ferias 
+0,00 
+7.870,64 
+bas 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8000 
+salario contribuicao 
+0,00 
+22.099,71 
+bas 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8002 
+contribuicdo 
+- 
+trib. 
+salário 
+0,00 
+22.099,71 
+bas 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8100 
+inss empregador 
+260,00 
+4.419,92 
+enc 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8101 
+rat 
+0,00 
+442,00 
+enc 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8102 
+salario 
+educacao 
+32,50 
+552,48 
+enc 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8103 
+incra 
+2,60 
+44,24 
+enc 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8106 
+senac 
+13,00 
+221,03 
+enc 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8107 
+sesc 
+19,50 
+331,50 
+enc 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+8108 
+sebrae 
+7,80 
+132,64 
+enc 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6400 
+prov.férias-acum. 
+més anterior 
+0,00 
+31.454,72 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6401 
+prov.férias 
+inss-acum. 
+mês anterior 
+0,00 
+8.429,86 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6402 
+prov.férias 
+fgts-acum. 
+mês anterior 
+0,00 
+2.516,38 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6403 
+prov.férias 
+- valor 
+més 
+0,00 
+3.298,57 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6404 
+prov.férias 
+inss 
+- valor 
+més 
+0,00 
+916,99 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6405 
+prov.férias 
+fgts 
+- valor 
+més 
+0,00 
+263,91 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6406 
+prov.férias 
+- ajuste 
+- 
+pos 
+0,00 
+510,26 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6407 
+prov.férias 
+inss 
+- ajuste 
+- 
+pos 
+0,00 
+456,42 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6408 
+prov.férias 
+fgts 
+- ajuste 
+- 
+pos 
+0,00 
+40,79 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6412 
+prov.férias 
+- 
+saldo atual 
+250,00 
+25.133,67 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6413 
+prov.férias 
+inss 
+- 
+saldo atual 
+0,00 
+6.987,17 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6414 
+prov.férias 
+fgts 
+- 
+saldo atual 
+0,00 
+2.010,69 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+m 
+3253 
+/ 
+007 
+/ 
+g 
+/ 
+2503716749 
+/ 
+012025 
+- 
+19 
+/ 
+2967 
+/ 
+6710 
+3253 
+fcan
+ dunas hoteis e residencias ltda
+50.122.537/0001-00
+
+resumo de folha
+
+página 1
+
+seleção geral
+
+competência : janeiro/2025
+processo de folha: mensal nº 2967
+
+vínculo: todos
+
+código denominação qtde. total natureza in fg ir natureza esocial
+
+0010 salário base 1.026,68 8.520,37 pag x x x 1000 salário, vencimento, soldo
+
+0030 salário família 0,00 130,00 pag 1409 salário-família
+
+0500 desc sem remunerado 366,69 3.044,42 pag x x x 1012 descanso semanal remunerado - dsr e feriado
+0502 dsr (h.e./adic.not.) 0,00 65,34 pag x x x 1012 descanso semanal remunerado - dsr e feriado
+0591 1/3 adic const fer 0,00 2.532,46 pag xxx x 1017 terço constitucional de férias
+
+0700 prêmio 0,00 8.520,23 pag x 2501 prêmios
+
+0809 salario maternidade 0,00 1.713,80 pag x x x 4050 salário-maternidade
+
+1800 adicional noturno 20% 218,06 339,74 pag xx x x 1205 adicional noturno
+
+2751 media férias 0,00 706,25 pag xxx x 1016 férias
+
+2761 férias no mês 110,00 6.891,13 pag xxx x 1016 férias
+
+5500 ir retido 0,00 22,28 des 9203 imposto de renda retido na fonte
+
+5560 inss 0,00 1.035,63 des x 9201 contribuição previdenciária
+
+5580 inss de ferias 0,00 832,56 des x 9201 contribuição previdenciária
+
+9953 líquido férias 0,00 9.297,28 des 9221 desconto de férias
+
+5501 base ir 0,00 15.812,62 bas xxx x x 0001 código de folha não participa do esocial
+5561 base inss 0,00 13.683,67 bas xxx x x 0001 código de folha não participa do esocial
+5581 base inss ferias 0,00 10.129,84 bas xxx x x 0001 código de folha não participa do esocial
+7521 base ir ferias 0,00 7.870,64 bas xxx x x 0001 código de folha não participa do esocial
+8000 salario contribuicao 0,00 22.099,71 bas xxx x x 0001 código de folha não participa do esocial
+8002 contribuição - trib. salário 0,00 22.099,71 bas xxx x x 0001 código de folha não participa do esocial
+8100 inss empregador 260,00 4.419,92 enc xxx x x 0001 código de folha não participa do esocial
+8101 rat 0,00 442,00 enc xxx x x 0001 código de folha não participa do esocial
+8102 salario educacao 32,50 552,48 enc xxx x x 0001 código de folha não participa do esocial
+8103 incra 2,60 44,24 enc xxx x x 0001 código de folha não participa do esocial
+8106 senac 13,00 221,03 enc xxx x x 0001 código de folha não participa do esocial
+8107 sesc 19,50 331,50 enc xxx x x 0001 código de folha não participa do esocial
+8108 sebrae 7,80 132,64 enc xxx x x 0001 código de folha não participa do esocial
+6400 prov.férias-acum. mês anterior 0,00 31.454,72 pro xxx x x 0001 código de folha não participa do esocial
+6401 prov.férias inss-acum. mês anterior 0,00 8.429,86 pro xxx x x 0001 código de folha não participa do esocial
+6402 prov.férias fgts-acum. mês anterior 0,00 2.516,38 pro xxx x x 0001 código de folha não participa do esocial
+6403 prov.férias - valor mês 0,00 3.298,57 pro xxx x x 0001 código de folha não participa do esocial
+6404 prov.férias inss - valor mês 0,00 916,99 pro xxx x x 0001 código de folha não participa do esocial
+6405 prov.férias fgts - valor mês 0,00 263,91 pro xxx x x 0001 código de folha não participa do esocial
+6406 prov.férias - ajuste - pos 0,00 510,26 pro xxx x x 0001 código de folha não participa do esocial
+6407 prov.férias inss - ajuste - pos 0,00 456,42 pro xxx x x 0001 código de folha não participa do esocial
+6408 prov.férias fgts - ajuste - pos 0,00 40,79 pro xxx x x 0001 código de folha não participa do esocial
+6412 prov.férias - saldo atual 250,00 25.133,67 pro xxx x x 0001 código de folha não participa do esocial
+6413 prov.férias inss - saldo atual 0,00 6.987,17 pro xxx x x 0001 código de folha não participa do esocial
+6414 prov.férias fgts - saldo atual 0,00 2.010,69 pro xxx x x 0001 código de folha não participa do esocial
+£2d 3253 / 007 / g / 2503716749 / 012025 - 19 / 2967 / 6710 3253 fcan
+resumo de folha 
+dunas hoteis 
+e residencias ltda 
+50.122.537/0001-00 
+página 
+2 
+seleção geral 
+competência 
+: 
+janeiro/2025 
+processo 
+de 
+folha: 
+mensal 
+nº 
+2967 
+vínculo: 
+todos 
+código denominação 
+qtde. 
+total 
+natureza 
+in 
+fg 
+ir natureza 
+esocial 
+6521 
+prov. 
+13º 
+sal 
+inss 
+- 
+acm. 
+atual 
+0,00 
+761,17 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6522 
+prov. 
+13° 
+sal 
+fgts 
+- 
+acm. 
+atual 
+0,00 
+219,06 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6523 
+prov. 
+13° 
+sal 
+- 
+acm. 
+atual 
+13,00 
+2.738,05 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6525 
+prov. 
+13° 
+sal 
+- valor 
+més 
+0,00 
+2.738,05 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6526 
+prov. 
+13° 
+sal 
+inss 
+- valor 
+més 
+0,00 
+761,17 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6527 
+prov. 
+13° 
+sal 
+fgts 
+- valor 
+més 
+0,00 
+219,06 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6409 
+prov.férias 
+- 
+baixas 
+0,00 
+10.129,84 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6410 
+prov.férias 
+inss 
+- 
+baixas 
+0,00 
+2.816,10 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6411 
+prov.férias 
+fgts 
+- 
+baixas 
+0,00 
+810,39 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+6415 
+prov.férias 
+- ajuste 
+- neg 
+0,00 
+0,04 
+pro 
+x 
+x 
+x 
+0001 
+- 
+codigo 
+de 
+folha nao participa 
+do 
+esocial 
+m 
+3253 
+/ 
+007 
+/ 
+g 
+/ 2503716749 
+/ 012025 
+- 
+19 
+/ 2967 
+/ 
+6710 
+3253 fcan
+ resumo de folha
+
+dunas hoteis e residencias ltda
+50.122.537/0001-00 página 2
+
+seleção geral
+
+competência : janeiro/2025
+processo de folha: mensal nº 2967
+vínculo: todos
+código denominação qtde. total natureza in fg ir natureza esocial
+6521 prov. 13º sal inss - acm. atual 0,00 761,17 pro x x x 0001 - código de folha não participa do esocial
+6522 prov. 13º sal fgts - acm. atual 0,00 219,06 pro x x x 0001 - código de folha não participa do esocial
+6523 prov. 13º sal - acm. atual 13,00 2.738,05 pro x x x 0001 - código de folha não participa do esocial
+6525 prov. 13º sal - valor mês 0,00 2.738,05 pro x x x 0001 - código de folha não participa do esocial
+6526 prov. 13º sal inss - valor mês 0,00 761,17 pro x x x 0001 - código de folha não participa do esocial
+6527 prov. 13º sal fgts - valor mês 0,00 219,06 pro x x x 0001 - código de folha não participa do esocial
+6409 prov.férias - baixas 0,00 10.129,84 pro x x x 0001 - código de folha não participa do esocial
+6410 prov.férias inss - baixas 0,00 2.816,10 pro x x x 0001 - código de folha não participa do esocial
+6411 prov.férias fgts - baixas 0,00 810,39 pro x x x 0001 - código de folha não participa do esocial
+6415 prov.férias - ajuste - neg 0,00 0,04 pro x x x 0001 - código de folha não participa do esocial
+
+£2d 3253 / 007 / g / 2503716749 / 012025 - 19 / 2967 / 6710 3253 fcan
+dunas hoteis 
+e residencias ltda 
+50.122.537/0001-00 
+resumo de folha 
+página 
+3 
+empresa: 
+** total geral 
+** 
+total de pagamentos geral 
+total de descontos 
+geral 
+total líquido 
+geral 
+total de pagamentos rescisão 
+total de descontos 
+rescisão 
+total líquido 
+rescisão 
+total de pagtos. rescisão complementar 
+total de desc. 
+total líquido 
+rescisão complementar 
+rescisão complementar 
+total de pagamentos 
+(mensal 
+total de descontos 
+(mensal 
+total líquido 
+(mensal) 
+total de pagtos. 
+(mensal complementar 
+total de desc. 
+total líquido 
+(mensal complementar 
+(mensal complementar 
+total de pagamentos distrib. 
+lucros 
+total de descontos 
+distrib. 
+lucros 
+total líquido 
+distrib. 
+lucros 
+total de pagamentos 130 salário 
+total de descontos 
+130 salário 
+total líquido 
+130 salario 
+total de pagtos. adiant. 
+130 salário 
+total de desc. 
+adiant. 
+130 salário 
+total liquido 
+ adiant. 
+130 salário 
+total de pagamentos intermitente 
+total de descontos 
+intermitente 
+total liquido 
+intermitente 
+empreg. rescisdo 
+empreg. rescisdo complementar 
+empreg. mensal 
+empreg. mensal complementar 
+empreg. distribuicdo de lucros 
+empreg. 
+13° 
+empreg. adiantamento 13° 
+empreg. 
+intermitente 
+007 
+- dunas hoteis 
+e residencias ltda 
+32.463,74 
+11.187,75 
+21.275,99 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+32.463,74 
+11.187,75 
+21.275,99 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+0,00 
+2 
+3253 
+/ 
+007 
+/ 
+g 
+/ 2503716749 
+/ 012025 
+- 
+19 
+/ 2967 
+/ 
+6710 
+3253 fcan
+ dunas hoteis e residencias ltda
+50.122.537/0001-00
+
+resumo de folha
+
+página 3
+
+** total geral **
+empresa: 007 - dunas hoteis e residencias ltda
+
+total de pagamentos geral
+total de descontos geral
+total líquido geral
+
+total de pagamentos rescisão
+total de descontos rescisão
+total líquido rescisão
+
+total de pagtos. rescisão complementar
+total de desc. rescisão complementar
+total líquido — rescisão complementar
+
+total de pagamentos (mensal
+total de descontos (mensal
+total líquido (mensal
+
+total de pagtos. (mensal complementar
+total de desc. (mensal complementar
+total líquido (mensal complementar
+
+total de pagamentos distrib. lucros
+total de descontos distrib. lucros
+total líquido distrib. lucros
+
+total de pagamentos 130 salário
+total de descontos 130 salário
+total líquido 130 salário
+
+total de pagtos. adiant. 130 salário
+total de desc. adiant. 130 salário
+total líquido — adiant. 130 salário
+
+total de pagamentos intermitente
+total de descontos intermitente
+total líquido intermitente
+
+no. empreg. rescisão
+
+no. empreg. rescisão complementar
+no. empreg. mensal
+
+no. empreg. mensal complementar
+no. empreg. distribuição de lucros
+no. empreg. 13º
+
+no. empreg. adiantamento 13º
+
+no. empreg. intermitente
+
+32.463,74
+11.187,75
+21.275,99
+
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+
+32.463,74
+11.187,75
+21.275,99
+
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+
+0,00
+0,00
+0,00
+
+paes
+
+3253 / 007 / g / 2503716749 / 012025 - 19 / 2967 / 6710 3253 fcan

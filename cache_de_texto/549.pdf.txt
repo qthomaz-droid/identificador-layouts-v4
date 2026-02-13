@@ -1,0 +1,533 @@
+despesas - pagas
+pagamento: 01/01/2022 à 31/01/2022
+filial: bms transportes ltda - me
+cód: qdm1
+fornecedor: todos(as)
+plano de conta: todos(as)
+centro de custo: todos(as)
+vr. título
+vr. pag.
+dt. venc.
+dt. pag.
+juros
+desc.
+favorecido
+conta
+ref.
+forma de pag.
+parc.
+jaracatia distribuidora ltda
+r$ 8,00
+duplicata
+1/1
+05/01/2022
+099329
+73.549-3 sicoob gaivota
+r$ 8,00
+05/01/2022
+0,00
+0,00
+gransystem software ltda
+r$ 605,00
+duplicata
+1/1
+06/01/2022
+73.549-3 sicoob gaivota
+r$ 605,00
+05/01/2022
+0,00
+0,00
+bk consultoria e sistema ltda
+r$ 360,00
+dinheiro
+1/1
+03/01/2022
+caixa interno
+r$ 360,00
+06/01/2022
+0,00
+0,00
+minas transportes e tornearia  ltda me
+r$ 3.850,00
+transferencia
+1/1
+06/01/2022
+pix gaivota
+r$ 3.850,00
+06/01/2022
+0,00
+0,00
+armando pneus e transportes ltda
+r$ 59,50
+duplicata
+1/1
+06/01/2022
+73.549-3 sicoob gaivota
+r$ 59,50
+06/01/2022
+0,00
+0,00
+bk consultoria e sistema ltda
+r$ 59,00
+dinheiro
+1/1
+03/01/2022
+caixa interno
+r$ 59,00
+06/01/2022
+0,00
+0,00
+grafic vigilante ltda me
+r$ 190,00
+dinheiro
+1/1
+06/12/2021
+caixa interno
+r$ 234,00
+06/01/2022
+44,00
+0,00
+auto posto 3d ltda
+r$ 150,00
+debito
+1/1
+06/01/2022
+73.549-3 sicoob gaivota
+r$ 150,00
+06/01/2022
+0,00
+0,00
+posto fortaleza
+r$ 3.487,96
+transferencia
+1/1
+05/01/2022
+73.549-3 sicoob gaivota
+r$ 3.487,96
+06/01/2022
+0,00
+0,00
+adenilson messias castro 
+r$ 4.154,19
+adiantamento
+1/1
+06/01/2022
+conta investimento
+r$ 4.154,19
+06/01/2022
+0,00
+0,00
+zampirolo pneus ltda me 
+r$ 1.731,80
+duplicata
+1/1
+10/01/2022
+73.549-3 sicoob gaivota
+r$ 1.731,80
+07/01/2022
+0,00
+0,00
+sudeste comercio de combustiveisltda
+r$ 7.912,65
+duplicata
+1/1
+11/01/2022
+73.549-3 sicoob gaivota
+r$ 7.912,65
+11/01/2022
+0,00
+0,00
+carrocerias melo
+r$ 8.000,00
+cheque a prazo
+1/1
+11/01/2022
+73.549-3 sicoob gaivota
+r$ 8.000,00
+11/01/2022
+0,00
+0,00
+cardan cachoeiro pecas e servicos ltda - me
+r$ 480,00
+duplicata
+1/1
+13/01/2022
+73.549-3 sicoob gaivota
+r$ 480,00
+12/01/2022
+0,00
+0,00
+jeferson auto eletrica
+r$ 2.650,00
+cheque a prazo
+1/1
+12/01/2022
+73.549-3 sicoob gaivota
+r$ 2.650,00
+12/01/2022
+0,00
+0,00
+unimed saude noroeste capixaba de medicos
+r$ 459,95
+duplicata
+1/1
+15/01/2022
+73.549-3 sicoob gaivota
+r$ 459,95
+13/01/2022
+0,00
+0,00
+zampirolo pneus ltda me 
+r$ 946,40
+duplicata
+2/2
+17/01/2022
+73.549-3 sicoob gaivota
+r$ 946,40
+13/01/2022
+0,00
+0,00
+minas transportes e tornearia  ltda me
+r$ 452,03
+deposito
+1/1
+14/01/2022
+pix  bms
+r$ 452,03
+14/01/2022
+0,00
+0,00
+posto fortaleza
+r$ 2.575,31
+duplicata
+1/1
+14/01/2022
+73.549-3 sicoob gaivota
+r$ 2.575,31
+14/01/2022
+0,00
+0,00
+posto de molas soturno ltda
+r$ 123,50
+duplicata
+1/1
+14/01/2022
+73.549-3 sicoob gaivota
+r$ 123,50
+14/01/2022
+0,00
+0,00
+sicoob cooperativa
+r$ 2.138,86
+debito
+8/26
+14/01/2022
+48357-5 sicoob bms
+r$ 2.138,86
+14/01/2022
+0,00
+0,00
+sudeste comercio de combustiveisltda
+r$ 12.384,60
+duplicata
+1/1
+18/01/2022
+48357-5 sicoob bms
+r$ 12.384,60
+17/01/2022
+0,00
+0,00
+grupo help consult
+r$ 495,00
+duplicata
+1/1
+17/01/2022
+73.549-3 sicoob gaivota
+r$ 495,00
+17/01/2022
+0,00
+0,00
+castelao com de pecas e servicos ltda me
+r$ 203,00
+duplicata
+1/1
+17/01/2022
+012555
+pix gaivota
+r$ 203,00
+17/01/2022
+0,00
+0,00
+adilson messias castro
+r$ 4.192,49
+cheque a vista
+1/1
+17/01/2022
+73.549-3 sicoob gaivota
+r$ 4.192,49
+17/01/2022
+0,00
+0,00
+data/hora: 29/09/2022 16:19:09 -  página 1 de 2
+gerado por: gransystem
+vr. título
+vr. pag.
+dt. venc.
+dt. pag.
+juros
+desc.
+favorecido
+conta
+ref.
+forma de pag.
+parc.
+sicoob cooperativa
+r$ 5.977,87
+debito
+8/28
+17/01/2022
+48357-5 sicoob bms
+r$ 5.977,87
+17/01/2022
+0,00
+0,00
+borracharia do trevo
+r$ 1.120,00
+cheque a prazo
+1/1
+17/01/2022
+cheque de terceiros 
+r$ 1.120,00
+17/01/2022
+0,00
+0,00
+borracharia do trevo
+r$ 1.280,00
+cheque a prazo
+1/1
+17/01/2022
+cheque de terceiros 
+r$ 1.280,00
+17/01/2022
+0,00
+0,00
+grupo help consult
+r$ 495,00
+duplicata
+1/1
+17/01/2022
+73.549-3 sicoob gaivota
+r$ 495,00
+17/01/2022
+0,00
+0,00
+sicoob cooperativa
+r$ 12.068,16
+debito
+8/51
+17/01/2022
+73.549-3 sicoob gaivota
+r$ 12.068,16
+17/01/2022
+0,00
+0,00
+volvo administradora de consorcio ltda
+r$ 3.881,70
+duplicata
+57/94
+18/01/2022
+73.549-3 sicoob gaivota
+r$ 3.881,70
+17/01/2022
+0,00
+0,00
+sicoob cooperativa
+r$ 2.147,12
+debito
+8/28
+16/01/2022
+48357-5 sicoob bms
+r$ 2.147,12
+17/01/2022
+0,00
+0,00
+armando pneus e transportes ltda
+r$ 142,50
+duplicata
+1/1
+19/01/2022
+73.549-3 sicoob gaivota
+r$ 142,50
+18/01/2022
+0,00
+0,00
+armando pneus e transportes ltda
+r$ 70,00
+duplicata
+1/1
+19/01/2022
+73.549-3 sicoob gaivota
+r$ 70,00
+18/01/2022
+0,00
+0,00
+caprini auto pecas, import export ltda
+r$ 4.507,50
+duplicata
+1/4
+20/01/2022
+201897
+73.549-3 sicoob gaivota
+r$ 4.507,50
+18/01/2022
+0,00
+0,00
+simples nacional
+r$ 1.343,40
+duplicata
+1/1
+20/01/2022
+73.549-3 sicoob gaivota
+r$ 1.343,40
+18/01/2022
+0,00
+0,00
+sicoob cooperativa
+r$ 4.171,87
+debito
+9/48
+20/01/2022
+73.549-3 sicoob gaivota
+r$ 4.171,87
+20/01/2022
+0,00
+0,00
+simples nacional
+r$ 18.553,06
+duplicata
+1/1
+20/01/2022
+73.549-3 sicoob gaivota
+r$ 18.553,06
+20/01/2022
+0,00
+0,00
+tacografo
+r$ 207,34
+duplicata
+1/1
+24/01/2022
+73.549-3 sicoob gaivota
+r$ 207,34
+24/01/2022
+0,00
+0,00
+infotech (andre teixeira)
+r$ 50,00
+dinheiro
+1/1
+24/01/2022
+caixa interno
+r$ 50,00
+24/01/2022
+0,00
+0,00
+tacografo
+r$ 207,34
+duplicata
+1/1
+24/01/2022
+73.549-3 sicoob gaivota
+r$ 207,34
+24/01/2022
+0,00
+0,00
+mapfre vera cruz seguradora s/a
+r$ 429,52
+duplicata
+1/1
+25/01/2022
+73.549-3 sicoob gaivota
+r$ 429,52
+25/01/2022
+0,00
+0,00
+inspecao tecnica colatina ltda
+r$ 890,00
+transferencia
+1/1
+25/01/2022
+22172 caixa economica
+federal
+r$ 890,00
+25/01/2022
+0,00
+0,00
+sobre rodas comercio e equipamento ltda
+r$ 566,08
+duplicata
+2/3
+28/01/2022
+036998
+73.549-3 sicoob gaivota
+r$ 566,08
+27/01/2022
+0,00
+0,00
+lider atacado-pecas para carretas e trucks ltda
+r$ 784,03
+duplicata
+3/4
+28/01/2022
+001544
+73.549-3 sicoob gaivota
+r$ 784,03
+27/01/2022
+0,00
+0,00
+caprini auto pecas, import export ltda
+r$ 352,53
+duplicata
+3/3
+30/01/2022
+196334
+73.549-3 sicoob gaivota
+r$ 352,53
+27/01/2022
+0,00
+0,00
+auto posto zampirolo ltda
+r$ 8.000,71
+duplicata
+1/1
+26/01/2022
+73.549-3 sicoob gaivota
+r$ 8.000,71
+28/01/2022
+0,00
+0,00
+autobarra pecas e mecanica ltda me
+r$ 22.412,07
+cheque a prazo
+1/1
+31/01/2022
+22172 caixa economica
+federal
+r$ 22.412,07
+31/01/2022
+0,00
+0,00
+welgen frisso
+r$ 135.000,00
+cheque a prazo
+1/1
+31/01/2022
+48357-5 sicoob bms
+r$ 135.000,00
+31/01/2022
+0,00
+0,00
+r$ 282.327,04
+total a pagar: 
+data/hora: 29/09/2022 16:19:09 -  página 2 de 2
+gerado por: gransystem

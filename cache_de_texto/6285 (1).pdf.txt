@@ -1,0 +1,797 @@
+posto joquei (1)
+movimento financeiro de 01/10/2025 até 31/10/2025
+lbc gas station versão 10.23z
+gerado em 18/11/2025 às 09:59
+© lbc sistemas ltda - todos os direitos reservados
+banco safra
+data
+documento
+origem
+descrição do lançamento
+crédito r$ débito r$ st
+saldo r$
+saldo
+reconc.r$
+saldo inicial em 01/10/2025
+13,63
+13,63
+01/10/2025 7
+receitas
+recebimento de cartão: cartao
+11.985,64
+r
+11.999,27
+11.999,27
+01/10/2025
+contas a pagar
+folha de pagamento ( salarios): retirada rodrigo
+7.500,00 r
+4.499,27
+4.499,27
+01/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+13,34 r
+4.485,93
+4.485,93
+01/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+4.400,00 r
+85,93
+85,93
+total crédito/débito em 01/10/2025
+11.985,64
+11.913,34
+saldo final em 01/10/2025
+85,93
+85,93
+02/10/2025
+receitas
+recebimento de cartão: cartao
+11.987,13
+r
+12.073,06
+12.073,06
+02/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+15,33 r
+12.057,73
+12.057,73
+02/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+12.000,00 r
+57,73
+57,73
+total crédito/débito em 02/10/2025
+11.987,13
+12.015,33
+saldo final em 02/10/2025
+57,73
+57,73
+03/10/2025
+receitas
+recebimento de cartão: cartao
+14.487,32
+r
+14.545,05
+14.545,05
+03/10/2025
+transf.entre contas
+resgate (origem: safra - alpicaçao cdb)
+5.500,04
+r
+20.045,09
+20.045,09
+03/10/2025
+transf.entre contas
+ted entre contas (destino: itau)
+20.000,00 r
+45,09
+45,09
+03/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+20,54 r
+24,55
+24,55
+total crédito/débito em 03/10/2025
+19.987,36
+20.020,54
+saldo final em 03/10/2025
+24,55
+24,55
+06/10/2025 1442575
+contas a pagar
+(compras) raizen combustiveis s/a  0010-14 (1/1)
+26.978,60 r
+-26.954,05
+-26.954,05
+06/10/2025
+receitas
+recebimento de cartão: cartao
+41.947,00
+r
+14.992,95
+14.992,95
+06/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+50,85 r
+14.942,10
+14.942,10
+06/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+14.000,00 r
+942,10
+942,10
+total crédito/débito em 06/10/2025
+41.947,00
+41.029,45
+saldo final em 06/10/2025
+942,10
+942,10
+07/10/2025
+receitas
+recebimento de cartão: cartao
+10.525,94
+r
+11.468,04
+11.468,04
+07/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+9,08 r
+11.458,96
+11.458,96
+07/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+11.000,00 r
+458,96
+458,96
+total crédito/débito em 07/10/2025
+10.525,94
+11.009,08
+saldo final em 07/10/2025
+458,96
+458,96
+08/10/2025
+receitas
+recebimento de cartão: cartao
+17.689,73
+r
+18.148,69
+18.148,69
+08/10/2025
+transf.entre contas
+resgate aplicaçao (origem: safra - alpicaçao cdb)
+35.100,15
+r
+53.248,84
+53.248,84
+08/10/2025
+transf.entre contas
+ted entre contas (destino: caixa econômica federa
+52.900,00 r
+348,84
+348,84
+08/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+22,94 r
+325,90
+325,90
+08/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+300,00 r
+25,90
+25,90
+total crédito/débito em 08/10/2025
+52.789,88
+53.222,94
+saldo final em 08/10/2025
+25,90
+25,90
+09/10/2025
+transf.entre contas
+ted entre contas (destino: banco brasil)
+15.000,00 r
+-14.974,10
+-14.974,10
+09/10/2025
+receitas
+recebimento de cartão: cartao
+14.069,29
+r
+-904,81
+-904,81
+09/10/2025
+transf.entre contas
+resgate safra (origem: safra - alpicaçao cdb)
+1.000,01
+r
+95,20
+95,20
+09/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+14,17 r
+81,03
+81,03
+total crédito/débito em 09/10/2025
+15.069,30
+15.014,17
+saldo final em 09/10/2025
+81,03
+81,03
+10/10/2025 1550
+pagamento múltiplo de tí
+(pgto títulos) erg transportes
+8.550,00 r
+-8.468,97
+-8.468,97
+10/10/2025
+receitas
+recebimento de cartão: cartao
+13.473,00
+r
+5.004,03
+5.004,03
+10/10/2025
+transf.entre contas
+ted entre contas (origem: safra - alpicaçao cdb)
+1.000,01
+r
+6.004,04
+6.004,04
+10/10/2025
+transf.entre contas
+ted entre contas (destino: caixa econômica federa
+5.000,00 r
+1.004,04
+1.004,04
+10/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+11,16 r
+992,88
+992,88
+10/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+900,00 r
+92,88
+92,88
+total crédito/débito em 10/10/2025
+14.473,01
+14.461,16
+saldo final em 10/10/2025
+92,88
+92,88
+13/10/2025
+receitas
+recebimento de cartão: cartao
+43.933,39
+r
+44.026,27
+44.026,27
+13/10/2025
+transf.entre contas
+ted entre contas (destino: caixa econômica federa
+44.500,00 r
+-473,73
+-473,73
+13/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+45,42 r
+-519,15
+-519,15
+13/10/2025
+transf.entre contas
+resgate safra (origem: safra - alpicaçao cdb)
+1.000,01
+r
+480,86
+480,86
+13/10/2025
+transf.entre contas
+aplicação safra (destino: safra - alpicaçao cdb)
+400,00 r
+80,86
+80,86
+total crédito/débito em 13/10/2025
+44.933,40
+44.945,42
+saldo final em 13/10/2025
+80,86
+80,86
+14/10/2025
+receitas
+recebimento de cartão: cartao
+15.189,64
+r
+15.270,50
+15.270,50
+14/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+14,48 r
+15.256,02
+15.256,02
+14/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+15.000,00 r
+256,02
+256,02
+total crédito/débito em 14/10/2025
+15.189,64
+15.014,48
+saldo final em 14/10/2025
+256,02
+256,02
+15/10/2025
+receitas
+recebimento de cartão: cartao
+10.870,30
+r
+11.126,32
+11.126,32
+15/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+18,90 r
+11.107,42
+11.107,42
+15/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+11.000,00 r
+107,42
+107,42
+total crédito/débito em 15/10/2025
+10.870,30
+11.018,90
+saldo final em 15/10/2025
+107,42
+107,42
+16/10/2025 1052580
+contas a pagar
+(compras) gasmig cia de gas de minas gerais (1/1)
+39.304,52 r
+-39.197,10
+-39.197,10
+16/10/2025
+receitas
+recebimento de cartão: cartao
+14.110,15
+r
+-25.086,95
+-25.086,95
+16/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+14,95 r
+-25.101,90
+-25.101,90
+16/10/2025
+transf.entre contas
+resgate safra (origem: safra - alpicaçao cdb)
+25.600,07
+r
+498,17
+498,17
+16/10/2025
+transf.entre contas
+aplicação safra (destino: safra - alpicaçao cdb)
+400,00 r
+98,17
+98,17
+(pág.1)
+posto joquei (1)
+movimento financeiro de 01/10/2025 até 31/10/2025
+lbc gas station versão 10.23z
+gerado em 18/11/2025 às 09:59
+© lbc sistemas ltda - todos os direitos reservados
+banco safra
+data
+documento
+origem
+descrição do lançamento
+crédito r$ débito r$ st
+saldo r$
+saldo
+reconc.r$
+total crédito/débito em 16/10/2025
+39.710,22
+39.719,47
+saldo final em 16/10/2025
+98,17
+98,17
+17/10/2025
+receitas
+recebimento de cartão: cartao
+10.540,84
+r
+10.639,01
+10.639,01
+17/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+14,67 r
+10.624,34
+10.624,34
+17/10/2025
+transf.entre contas
+aplicação safra (destino: safra - alpicaçao cdb)
+10.000,00 r
+624,34
+624,34
+total crédito/débito em 17/10/2025
+10.540,84
+10.014,67
+saldo final em 17/10/2025
+624,34
+624,34
+20/10/2025
+transf.entre contas
+pix cef (destino: caixa econômica federal)
+56.700,00 r
+-56.075,66
+-56.075,66
+20/10/2025
+receitas
+recebimento de cartão: cartao
+45.392,52
+r
+-10.683,14
+-10.683,14
+20/10/2025
+transf.entre contas
+resgate safra (origem: safra - alpicaçao cdb)
+11.400,03
+r
+716,89
+716,89
+20/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+46,40 r
+670,49
+670,49
+20/10/2025
+transf.entre contas
+aplicação safra (destino: safra - alpicaçao cdb)
+600,00 r
+70,49
+70,49
+total crédito/débito em 20/10/2025
+56.792,55
+57.346,40
+saldo final em 20/10/2025
+70,49
+70,49
+21/10/2025
+transf.entre contas
+ted cef (destino: caixa econômica federal)
+16.000,00 r
+-15.929,51
+-15.929,51
+21/10/2025
+receitas
+recebimento de cartão: cartao
+16.300,00
+r
+370,49
+370,49
+21/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+14,11 r
+356,38
+356,38
+21/10/2025
+transf.entre contas
+aplicação safra (destino: safra - alpicaçao cdb)
+300,00 r
+56,38
+56,38
+total crédito/débito em 21/10/2025
+16.300,00
+16.314,11
+saldo final em 21/10/2025
+56,38
+56,38
+22/10/2025
+receitas
+recebimento de cartão: cartao
+12.236,86
+r
+12.293,24
+12.293,24
+22/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+17,44 r
+12.275,80
+12.275,80
+22/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+12.000,00 r
+275,80
+275,80
+total crédito/débito em 22/10/2025
+12.236,86
+12.017,44
+saldo final em 22/10/2025
+275,80
+275,80
+23/10/2025
+receitas
+recebimento de cartão: cartao
+12.569,25
+r
+12.845,05
+12.845,05
+23/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+15,46 r
+12.829,59
+12.829,59
+23/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+12.000,00 r
+829,59
+829,59
+total crédito/débito em 23/10/2025
+12.569,25
+12.015,46
+saldo final em 23/10/2025
+829,59
+829,59
+24/10/2025 1569
+pagamento múltiplo de tí
+(pgto títulos) erg transportes
+7.980,00 r
+-7.150,41
+-7.150,41
+24/10/2025
+receitas
+recebimento de cartão: cartao
+19.474,99
+r
+12.324,58
+12.324,58
+24/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+20,12 r
+12.304,46
+12.304,46
+24/10/2025
+transf.entre contas
+aplicaçao safra (destino: safra - alpicaçao cdb)
+12.000,00 r
+304,46
+304,46
+total crédito/débito em 24/10/2025
+19.474,99
+20.000,12
+saldo final em 24/10/2025
+304,46
+304,46
+27/10/2025 119372
+contas a pagar
+(compras) decminas distribuicao e logistica s.a. (3/3)
+1.494,90 r
+-1.190,44
+-1.190,44
+27/10/2025 20145
+contas a pagar
+despesa (despesas diversas c/ nf) comercial niular
+1.350,00 r
+-2.540,44
+-2.540,44
+27/10/2025 1450973
+contas a pagar
+(compras) raizen combustiveis s/a  0010-14 (1/1)
+73.655,25 r
+-76.195,69
+-76.195,69
+27/10/2025
+receitas
+recebimento de cartão: cartao
+43.991,21
+r
+-32.204,48
+-32.204,48
+27/10/2025
+transf.entre contas
+resgate safra (origem: safra - alpicaçao cdb)
+32.900,16
+r
+695,68
+695,68
+27/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+52,46 r
+643,22
+643,22
+27/10/2025
+transf.entre contas
+aplicação safra (destino: safra - alpicaçao cdb)
+600,00 r
+43,22
+43,22
+total crédito/débito em 27/10/2025
+76.891,37
+77.152,61
+saldo final em 27/10/2025
+43,22
+43,22
+28/10/2025
+receitas
+recebimento de cartão: cartao
+16.665,00
+r
+16.708,22
+16.708,22
+28/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+17,16 r
+16.691,06
+16.691,06
+28/10/2025
+transf.entre contas
+aplicação safra (destino: safra - alpicaçao cdb)
+16.000,00 r
+691,06
+691,06
+total crédito/débito em 28/10/2025
+16.665,00
+16.017,16
+saldo final em 28/10/2025
+691,06
+691,06
+29/10/2025
+contas a pagar
+despesa (despesas adminstrativas) aluguel dg gest
+4.600,00 r
+-3.908,94
+-3.908,94
+29/10/2025
+receitas
+recebimento de cartão: cartao
+12.129,03
+r
+8.220,09
+8.220,09
+29/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+13,50 r
+8.206,59
+8.206,59
+29/10/2025
+contas a pagar
+despesas financeiras: tarifa pix enviado
+0,99 r
+8.205,60
+8.205,60
+29/10/2025
+transf.entre contas
+aplicaçaõ safra (destino: safra - alpicaçao cdb)
+8.000,00 r
+205,60
+205,60
+total crédito/débito em 29/10/2025
+12.129,03
+12.614,49
+saldo final em 29/10/2025
+205,60
+205,60
+30/10/2025
+transf.entre contas
+ted entre contas (destino: itau)
+39.900,00 r
+-39.694,40
+-39.694,40
+30/10/2025
+receitas
+recebimento de cartão: cartao
+11.204,28
+r
+-28.490,12
+-28.490,12
+30/10/2025
+transf.entre contas
+resgate safra (origem: safra - alpicaçao cdb)
+28.600,09
+r
+109,97
+109,97
+30/10/2025
+contas a pagar
+despesas financeiras: tarifa pix enviado
+0,99 r
+108,98
+108,98
+30/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+14,49 r
+94,49
+94,49
+total crédito/débito em 30/10/2025
+39.804,37
+39.915,48
+saldo final em 30/10/2025
+94,49
+94,49
+31/10/2025
+contas a pagar
+despesa (impostos e tributos) csll
+2.560,53 r
+-2.466,04
+-2.466,04
+31/10/2025
+contas a pagar
+despesa (folha pagamento - outras despesas) segu
+143,76 r
+-2.609,80
+-2.609,80
+31/10/2025 1578
+pagamento múltiplo de tí
+(pgto títulos) erg transportes
+5.700,00 r
+-8.309,80
+-8.309,80
+31/10/2025
+receitas
+recebimento de cartão: cartao
+10.630,87
+r
+2.321,07
+2.321,07
+31/10/2025
+contas a pagar
+despesas financeiras: tarifa pix enviado
+0,99 r
+2.320,08
+2.320,08
+31/10/2025
+contas a pagar
+despesas financeiras: tarifa pix safra
+16,97 r
+2.303,11
+2.303,11
+31/10/2025
+transf.entre contas
+aplicação safra (destino: safra - alpicaçao cdb)
+2.300,00 r
+3,11
+3,11
+total crédito/débito em 31/10/2025
+10.630,87
+10.722,25
+saldo final em 31/10/2025
+3,11
+3,11
+saldo final em 31/10/2025
+3,11
+3,11
+total crédito/débito no período
+573.503,95
+573.514,47
+(pág.2)

@@ -1,0 +1,52 @@
+cpf/ cnpj
+nome
+agência
+conta
+dados do cliente
+extrato depósito a prazo
+sm colchoes e moveis ltda
+18.163.138/0001-77
+478-2
+67706-7
+resumo
+                                banco do brasil
+               17/11/2025  -   auto-atendimento    -   12.52.01
+                           resumo de cdb/bb reaplic
+agência : 0478-2   conta : 67.706-x
+cliente : sm colchoes e moveis ltda
+                       período : 01/10/2025 a 31/10/2025
+==============================================================================
+                                 bb cdb di
+==============================================================================
+data  dt.proc histórico                                                 valor
+30/09         saldo anterior
+                valor capital                                      146.500,00
+              resgates no período
+                valor capital                                       18.000,00
+                valor juros até mês ant                              1.835,95
+                valor juros no mês                                     137,64
+                valor ir                                               383,50-
+                valor líquido                                       19.590,09
+              rendimento  mensal
+                valor juros                                          1.623,20
+31/10         saldo final
+                valor capital                                      128.500,00
+------------------------------------------------------------------------------
+                         resumo dos depositos em ser
+------------------------------------------------------------------------------
+nr.depósito     dt.aplic   capital inicial saldo de capital    taxa vencimento
+4200964334284 03/01/2025         27.000,00        12.500,00   95,00 07/12/2029
+3700978329874 13/05/2025         15.000,00        15.000,00   95,00 17/04/2030
+0200978832403 11/06/2025         55.000,00        55.000,00   95,00 16/05/2030
+2500979264850 09/07/2025         13.000,00        13.000,00   95,00 13/06/2030
+4100973261982 01/08/2025         33.000,00        33.000,00   95,00 05/07/2030
+------------------------------------------------------------------------------
+                   rendimento bruto no periodo por deposito
+------------------------------------------------------------------------------
+                    data nr. depósito rend.bruto
+                    31/10 0200978832403           2.983,20
+ |
+                    31/10 2500979264850             570,18
+                    31/10 3700978329874             985,80
+                    31/10 4100973261982           1.142,46
+                    31/10 4200964334284           1.380,25

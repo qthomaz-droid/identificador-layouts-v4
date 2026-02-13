@@ -1,0 +1,699 @@
+fornecedor:
+8 - vimetal comercial ltda
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+- entrada 22854 - 1/1
+05/06/2025
+127410
+06/05/2025
+29
+5.220,00
+fabricação sao 
+diogo
+02/06/2025
+0,00
+22854
+total:
+5.220,00
+0,00
+total pago*:
+5.220,00
+fornecedor:
+12 - fibra loc e serv p/ contruc
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+locação sanitarios pat 
+116, 362 - 01/04 a 30/04/25
+04/06/2025
+8863
+02/05/2025
+10
+1.400,00
+locação
+02/06/2025
+0,00
+0
+total:
+1.400,00
+0,00
+total pago*:
+1.400,00
+fornecedor:
+26 - escelsa
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+inst 92633 - maio/2025 - 
+geraldo
+02/06/2025
+326183
+60
+19/05/2025
+4
+1.024,02
+despesas 
+escritório
+02/06/2025
+0,00
+0
+inst 1068322 - maio/2025 - 
+terreno leilão
+02/06/2025
+325808
+37
+19/05/2025
+4
+423,68
+despesas 
+escritório
+02/06/2025
+0,00
+0
+total:
+1.447,70
+0,00
+total pago*:
+1.447,70
+fornecedor:
+30 - eletrovan material eletrico ltda.
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+- entrada 22646 - 2/3
+05/06/2025
+287623
+11/04/2025
+12
+2.027,70
+material de 
+segurança
+02/06/2025
+0,00
+22646
+- entrada 22785 - 1/1
+03/06/2025
+288545
+05/05/2025
+13
+440,00
+material obra
+02/06/2025
+0,00
+22785
+- entrada 22830 - 1/1
+02/06/2025
+288693
+06/05/2025
+13
+510,00
+material obra
+02/06/2025
+0,00
+22830
+total:
+2.977,70
+0,00
+total pago*:
+2.977,70
+fornecedor:
+46 - ebalmaq comercio e informatica ltda
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+48ª parcela aditivo do 
+sistema secullum ponto 
+web pro
+01/06/2025
+16367
+02/05/2025
+19
+1.899,00
+prestador de 
+serviços
+02/06/2025
+0,00
+0
+total:
+1.899,00
+0,00
+total pago*:
+1.899,00
+fornecedor:
+53 - dme distribuidora de material eletrico ltda
+contas pagas por fornecedor
+empresa:
+mmi manuntenção e montagem industrial ltda
+filial:
+1 - mmi manuntencao e montagem industrial ltda
+departamento:
+c. de custo:
+todos
+todos
+data inicial:
+01/06/2025
+data final: 06/06/2025
+1
+18/06/2025
+10:25:19
+idealsoft - shop control 9
+* valor pago: valor conta - valor pago em crédito.
+ mmi
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+- entrada 22784 - 1/1
+04/06/2025
+181530
+05/05/2025
+13
+1.672,00
+material obra
+02/06/2025
+0,00
+22784
+- entrada 22786 - 1/1
+01/06/2025
+181475
+02/05/2025
+13
+1.248,00
+material obra
+02/06/2025
+0,00
+22786
+- entrada 22853 - 1/1
+05/06/2025
+181563
+06/05/2025
+13
+724,00
+material obra
+02/06/2025
+0,00
+22853
+total:
+3.644,00
+0,00
+total pago*:
+3.644,00
+fornecedor:
+57 - unimed vitoria cooperativa de trabalho medico
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+mensalidade
+05/06/2025
+547139
+2
+17/05/2025
+7
+654,91
+plano de saude / 
+exames
+02/06/2025
+0,00
+0
+coparticipação
+05/06/2025
+543446
+3
+03/05/2025
+7
+170,00
+plano de saude / 
+exames
+02/06/2025
+0,00
+0
+total:
+824,91
+0,00
+total pago*:
+824,91
+fornecedor:
+63 - distribuidora nacional de auto pecas ltda
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+- entrada 22884 - 1/1
+03/06/2025
+329876
+06/05/2025
+14
+190,00
+oficinas
+02/06/2025
+0,00
+22884
+total:
+190,00
+0,00
+total pago*:
+190,00
+fornecedor:
+95 - lojao dos parafusos ltda
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+- entrada 22802 - 1/1
+02/06/2025
+83822
+06/05/2025
+4
+96,10
+despesas 
+escritório
+02/06/2025
+0,00
+22802
+- entrada 22802 - 1/1
+02/06/2025
+83822
+06/05/2025
+13
+258,00
+material obra
+02/06/2025
+0,00
+22802
+- entrada 22803 - 1/1
+02/06/2025
+83807
+05/05/2025
+13
+313,00
+material obra
+02/06/2025
+0,00
+22803
+- entrada 22804 - 1/1
+02/06/2025
+83808
+05/05/2025
+13
+120,00
+material obra
+02/06/2025
+0,00
+22804
+- entrada 22827 - 1/1
+03/06/2025
+83831
+09/05/2025
+13
+1.113,00
+material obra
+02/06/2025
+0,00
+22827
+- entrada 22838 - 1/1
+04/06/2025
+83875
+07/05/2025
+13
+1.062,96
+material obra
+02/06/2025
+0,00
+22838
+total:
+2.963,06
+0,00
+total pago*:
+2.963,06
+fornecedor:
+124 - tintolac comercial ltda
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+- entrada 22787 - 1/1
+01/06/2025
+285617
+02/05/2025
+13
+258,35
+material obra
+02/06/2025
+0,00
+22787
+- entrada 22829 - 1/1
+04/06/2025
+285723
+05/05/2025
+4
+630,00
+despesas 
+escritório
+02/06/2025
+0,00
+22829
+total:
+888,35
+0,00
+total pago*:
+888,35
+fornecedor:
+129 - carraras mat. de const. e util. ltd
+contas pagas por fornecedor
+empresa:
+mmi manuntenção e montagem industrial ltda
+filial:
+1 - mmi manuntencao e montagem industrial ltda
+departamento:
+c. de custo:
+todos
+todos
+data inicial:
+01/06/2025
+data final: 06/06/2025
+2
+18/06/2025
+10:25:19
+idealsoft - shop control 9
+* valor pago: valor conta - valor pago em crédito.
+ mmi
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+- entrada 22635 - 2/2
+05/06/2025
+9570
+07/04/2025
+4
+139,95
+despesas 
+escritório
+02/06/2025
+0,00
+0
+- entrada 22635 - 2/2
+05/06/2025
+9570
+07/04/2025
+13
+296,20
+material obra
+02/06/2025
+0,00
+0
+- entrada 22635 - 2/2
+05/06/2025
+9570
+07/04/2025
+13
+8,45
+material obra
+02/06/2025
+0,00
+0
+- entrada 22635 - 2/2
+05/06/2025
+9570
+07/04/2025
+14
+44,85
+oficinas
+02/06/2025
+0,00
+0
+- entrada 22635 - 2/2
+05/06/2025
+9570
+07/04/2025
+4
+2.184,70
+despesas 
+escritório
+02/06/2025
+0,00
+0
+- entrada 22635 - 2/2
+05/06/2025
+9570
+07/04/2025
+13
+71,20
+material obra
+02/06/2025
+0,00
+0
+- entrada 22635 - 2/2
+05/06/2025
+9570
+07/04/2025
+4
+731,00
+despesas 
+escritório
+02/06/2025
+0,00
+22635
+- entrada 22845 - 1/1
+05/06/2025
+9655
+06/05/2025
+4
+3.169,00
+despesas 
+escritório
+02/06/2025
+0,00
+22845
+- entrada 22845 - 1/1
+05/06/2025
+9655
+06/05/2025
+13
+4,00
+material obra
+02/06/2025
+0,00
+22845
+- entrada 22845 - 1/1
+05/06/2025
+9655
+06/05/2025
+13
+199,00
+material obra
+02/06/2025
+0,00
+22845
+- entrada 22845 - 1/1 - igor
+05/06/2025
+9655
+06/05/2025
+4
+187,50
+despesas 
+escritório
+02/06/2025
+0,00
+22845
+- entrada 22845 - 1/1
+05/06/2025
+9655
+06/05/2025
+13
+104,00
+material obra
+02/06/2025
+0,00
+22845
+total:
+7.139,85
+0,00
+total pago*:
+7.139,85
+fornecedor:
+159 - sindifer
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+contribuição social - 6/12
+06/06/2025
+0
+29/05/2025
+6
+1.050,00
+encargos/tributo
+s/taxas
+02/06/2025
+0,00
+0
+total:
+1.050,00
+0,00
+total pago*:
+1.050,00
+fornecedor:
+171 - fundo de caixa
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+prestação de serviço - 
+guilherme ferrari de 
+carvalho - 1º periodo
+05/06/2025
+0
+04/06/2025
+28
+1.122,53
+outside
+02/06/2025
+0,00
+0
+estacionamento vale - 
+igor
+05/06/2025
+0
+29/05/2025
+4
+100,00
+despesas 
+escritório
+02/06/2025
+0,00
+0
+estacionamento vale - 
+adm
+05/06/2025
+0
+29/05/2025
+4
+100,00
+despesas 
+escritório
+02/06/2025
+0,00
+0
+total:
+1.322,53
+0,00
+total pago*:
+1.322,53
+fornecedor:
+179 - oficina bosio e coser ltda epp
+venc.
+emissão
+descrição
+plano nível 3
+valor
+nota
+pgto.
+créd. emp.
+seq.
+correção vazamento de 
+ar
+02/06/2025
+27264
+02/05/2025
+14
+57,11
+oficinas
+02/06/2025
+0,00
+0
+total:
+57,11
+0,00
+total pago*:
+57,11
+contas pagas por fornecedor
+empresa:
+mmi manuntenção e montagem industrial ltda
+filial:
+1 - mmi manuntencao e montagem industrial ltda
+departamento:
+c. de custo:
+todos
+todos
+data inicial:
+01/06/2025
+data final: 06/06/2025
+3
+18/06/2025
+10:25:19
+idealsoft - shop control 9
+* valor pago: valor conta - valor pago em crédito.
+ mmi

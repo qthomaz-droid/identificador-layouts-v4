@@ -1,0 +1,788 @@
+1
+conta
+extrato compensação
+dt. compen.
+trans.
+histórico
+vl saídas
+vl entradas
+período:
+caixa/banco:
+moeda:
+a
+dt. lanc.
+saldo
+nro. doc.
+func.conc.
+crédito
+débito
+31/10/2025
+01/10/2025
+d
+brasil
+dinheiro
+605 - extrato caixa/banco
+04/11/2025 12:11:37
+page 1
+desconsiderar estornos:não
+908.489,73
+1-d
+saldo inicial:
+952.475,67
+01/10/25 00:00
+100916
+baixa automatica arq.mag.01/10/2025
+cleidiane d
+01/10/25
+0
+101
+1
+43.985,94
+949.481,51
+01/10/25 00:00
+100968
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+02/10/25
+20407
+1
+vl.pagto.cf.bordero 20407
+-2.994,16
+948.981,51
+01/10/25 00:00
+100969
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+02/10/25
+20408
+1
+vl.pagto.cf.bordero 20408
+-500,00
+938.041,94
+01/10/25 00:00
+100970
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+02/10/25
+20409
+1
+vl.pagto.cf.bordero 20409
+-10.939,57
+937.141,94
+01/10/25 00:00
+100971
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+02/10/25
+20410
+1
+vl.pagto.cf.bordero 20410
+-900,00
+937.041,94
+01/10/25 00:00
+100972
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+02/10/25
+20411
+1
+vl.pagto.cf.bordero 20411
+-100,00
+934.887,05
+01/10/25 00:00
+100973
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+02/10/25
+20412
+1
+vl.pagto.cf.bordero 20412
+-2.154,89
+934.717,05
+01/10/25 00:00
+100974
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+02/10/25
+20413
+1
+vl.pagto.cf.bordero 20413
+-170,00
+933.367,05
+01/10/25 00:00
+100975
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+02/10/25
+20414
+1
+vl.pagto.cf.bordero 20414
+-1.350,00
+933.360,40
+tarifas bancaria
+01/10/25 00:00
+100976
+tarifa liquid cbr com reg
+cleidiane d
+02/10/25
+0
+301009
+0
+-6,65
+933.357,34
+tarifas bancaria
+01/10/25 00:00
+100977
+tarifa baixa de titulo
+cleidiane d
+02/10/25
+0
+301009
+0
+-3,06
+933.356,72
+tarifas bancaria
+01/10/25 00:00
+100978
+tarifa instr cbr com reg
+cleidiane d
+02/10/25
+0
+301009
+0
+-0,62
+933.355,04
+tarifas bancaria
+01/10/25 00:00
+100979
+tarifa pix enviado
+cleidiane d
+02/10/25
+0
+301009
+0
+-1,68
+933.373,64
+rendimentos de 
+01/10/25 00:00
+100980
+rendimento aplicação bb
+cleidiane d
+02/10/25
+0
+0
+301007
+18,60
+1.011.304,92
+02/10/25 00:00
+100967
+baixa automatica arq.mag.02/10/2025
+cleidiane d
+02/10/25
+0
+101
+1
+77.931,28
+1.018.321,92
+02/10/25 00:00
+101028
+baixa ref. titulo nro. 107760-1(001)
+cleidiane d
+03/10/25
+171646
+101
+1
+sociedade benef israelitabras hospi (bi)
+7.017,00
+1.018.296,27
+tarifas bancaria
+02/10/25 00:00
+101030
+tarifa liquid cbr com reg
+cleidiane d
+03/10/25
+0
+301009
+0
+-25,65
+1.018.295,25
+tarifas bancaria
+02/10/25 00:00
+101031
+tarifa baixa de titulo
+cleidiane d
+03/10/25
+0
+301009
+0
+-1,02
+1.018.289,47
+tarifas bancaria
+02/10/25 00:00
+101032
+tarifa instr cbr com reg
+cleidiane d
+03/10/25
+0
+301009
+0
+-5,78
+1.035.744,39
+venda produtos
+02/10/25 00:00
+101036
+recebimento prohope
+cleidiane d
+03/10/25
+0
+0
+101
+17.454,92
+1.035.766,00
+rendimentos de 
+02/10/25 00:00
+101037
+rendimento aplicação bb
+cleidiane d
+03/10/25
+0
+0
+301007
+21,61
+1.018.311,08
+venda produtos
+02/10/25 00:00
+101036
+estorno conciliacao
+cleidiane d
+03/10/25
+0
+0
+101
+recebimento prohope
+-17.454,92
+1
+conta
+extrato compensação
+dt. compen.
+trans.
+histórico
+vl saídas
+vl entradas
+período:
+caixa/banco:
+moeda:
+a
+dt. lanc.
+saldo
+nro. doc.
+func.conc.
+crédito
+débito
+31/10/2025
+01/10/2025
+d
+brasil
+dinheiro
+605 - extrato caixa/banco
+04/11/2025 12:11:37
+page 2
+desconsiderar estornos:não
+1.018.311,08
+1-d
+saldo inicial:
+1.018.452,84
+02/10/25 00:00
+101077
+baixa ref. titulo nro. 107130-1(001)
+cleidiane d
+03/10/25
+170328
+101
+1
+hospital prohope (bi)
+141,76
+1.018.619,24
+02/10/25 00:00
+101079
+baixa ref. titulo nro. 107133-1(001)
+cleidiane d
+03/10/25
+170334
+101
+1
+hospital prohope (bi)
+166,40
+1.019.176,64
+02/10/25 00:00
+101081
+baixa ref. titulo nro. 107279-1(001)
+cleidiane d
+03/10/25
+170644
+101
+1
+hospital prohope (bi)
+557,40
+1.019.769,45
+02/10/25 00:00
+101083
+baixa ref. titulo nro. 106992-1(001)
+cleidiane d
+03/10/25
+170044
+101
+1
+hospital prohope (bi)
+592,81
+1.020.587,02
+02/10/25 00:00
+101085
+baixa ref. titulo nro. 107272-1(001)
+cleidiane d
+03/10/25
+170630
+101
+1
+hospital prohope (bi)
+817,57
+1.021.850,68
+02/10/25 00:00
+101087
+baixa ref. titulo nro. 107277-1(001)
+cleidiane d
+03/10/25
+170640
+101
+1
+hospital prohope (bi)
+1.263,66
+1.024.663,27
+02/10/25 00:00
+101089
+baixa ref. titulo nro. 106996-1(001)
+cleidiane d
+03/10/25
+170054
+101
+1
+hospital prohope (bi)
+2.812,59
+1.027.975,01
+02/10/25 00:00
+101091
+baixa ref. titulo nro. 106513-1(001)
+cleidiane d
+03/10/25
+169054
+101
+1
+hospital prohope (bi)
+3.311,74
+1.031.483,97
+02/10/25 00:00
+101093
+baixa ref. titulo nro. 107129-1(001)
+cleidiane d
+03/10/25
+170326
+101
+1
+hospital prohope (bi)
+3.508,96
+1.035.056,99
+02/10/25 00:00
+101095
+baixa ref. titulo nro. 106373-1(001)
+cleidiane d
+03/10/25
+168763
+101
+1
+hospital prohope (bi)
+3.573,02
+1.035.070,43
+02/10/25 00:00
+101053
+baixa ref. titulo nro. 107275-1(001)
+cleidiane d
+03/10/25
+170636
+101
+1
+hospital prohope (bi)
+13,44
+1.035.097,31
+02/10/25 00:00
+101055
+baixa ref. titulo nro. 107131-1(001)
+cleidiane d
+03/10/25
+170330
+101
+1
+hospital prohope (bi)
+26,88
+1.035.130,59
+02/10/25 00:00
+101057
+baixa ref. titulo nro. 107003-1(001)
+cleidiane d
+03/10/25
+170068
+101
+1
+hospital prohope (bi)
+33,28
+1.035.170,91
+02/10/25 00:00
+101059
+baixa ref. titulo nro. 107001-1(001)
+cleidiane d
+03/10/25
+170064
+101
+1
+hospital prohope (bi)
+40,32
+1.035.221,60
+02/10/25 00:00
+101061
+baixa ref. titulo nro. 107274-1(001)
+cleidiane d
+03/10/25
+170634
+101
+1
+hospital prohope (bi)
+50,69
+1.035.272,80
+02/10/25 00:00
+101063
+baixa ref. titulo nro. 107134-1(001)
+cleidiane d
+03/10/25
+170336
+101
+1
+hospital prohope (bi)
+51,20
+1.035.325,96
+02/10/25 00:00
+101065
+baixa ref. titulo nro. 106995-1(001)
+cleidiane d
+03/10/25
+170052
+101
+1
+hospital prohope (bi)
+53,16
+1.035.400,28
+02/10/25 00:00
+101067
+baixa ref. titulo nro. 107132-1(001)
+cleidiane d
+03/10/25
+170332
+101
+1
+hospital prohope (bi)
+74,32
+1.035.480,92
+02/10/25 00:00
+101069
+baixa ref. titulo nro. 107002-1(001)
+cleidiane d
+03/10/25
+170066
+101
+1
+hospital prohope (bi)
+80,64
+1.035.569,52
+02/10/25 00:00
+101071
+baixa ref. titulo nro. 106997-1(001)
+cleidiane d
+03/10/25
+170056
+101
+1
+hospital prohope (bi)
+88,60
+1.035.663,60
+02/10/25 00:00
+101073
+baixa ref. titulo nro. 107276-1(001)
+cleidiane d
+03/10/25
+170638
+101
+1
+hospital prohope (bi)
+94,08
+1.035.766,00
+02/10/25 00:00
+101075
+baixa ref. titulo nro. 107280-1(001)
+cleidiane d
+03/10/25
+170646
+101
+1
+hospital prohope (bi)
+102,40
+1
+conta
+extrato compensação
+dt. compen.
+trans.
+histórico
+vl saídas
+vl entradas
+período:
+caixa/banco:
+moeda:
+a
+dt. lanc.
+saldo
+nro. doc.
+func.conc.
+crédito
+débito
+31/10/2025
+01/10/2025
+d
+brasil
+dinheiro
+605 - extrato caixa/banco
+04/11/2025 12:11:37
+page 3
+desconsiderar estornos:não
+1.035.766,00
+1-d
+saldo inicial:
+1.115.432,34
+03/10/25 00:00
+101002
+baixa automatica arq.mag.03/10/2025
+cleidiane d
+03/10/25
+0
+101
+1
+79.666,34
+1.115.416,19
+tarifas bancaria
+03/10/25 00:00
+101111
+tarifa liquid cbr com reg
+cleidiane d
+06/10/25
+0
+301009
+0
+-16,15
+1.115.414,64
+tarifas bancaria
+03/10/25 00:00
+101112
+tarifa instr cbr com reg
+cleidiane d
+06/10/25
+0
+301009
+0
+-1,55
+1.115.462,36
+rendimentos de 
+03/10/25 00:00
+101113
+rendimento aplicação bb
+cleidiane d
+06/10/25
+0
+0
+301007
+47,72
+1.180.544,18
+06/10/25 00:00
+101100
+baixa automatica arq.mag.06/10/2025
+cleidiane d
+06/10/25
+0
+101
+1
+65.081,82
+1.179.752,00
+06/10/25 00:00
+101125
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20439
+1
+vl.pagto.cf.bordero 20439
+-792,18
+1.179.706,77
+06/10/25 00:00
+101126
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20440
+1
+vl.pagto.cf.bordero 20440
+-45,23
+1.175.318,37
+06/10/25 00:00
+101127
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20441
+1
+vl.pagto.cf.bordero 20441
+-4.388,40
+1.165.238,25
+06/10/25 00:00
+101128
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20442
+1
+vl.pagto.cf.bordero 20442
+-10.080,12
+1.165.095,03
+06/10/25 00:00
+101129
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20443
+1
+vl.pagto.cf.bordero 20443
+-143,22
+1.164.915,13
+06/10/25 00:00
+101130
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20444
+1
+vl.pagto.cf.bordero 20444
+-179,90
+1.164.565,03
+06/10/25 00:00
+101131
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20445
+1
+vl.pagto.cf.bordero 20445
+-350,10
+1.163.565,03
+06/10/25 00:00
+101132
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20446
+1
+vl.pagto.cf.bordero 20446
+-1.000,00
+1.161.387,53
+06/10/25 00:00
+101133
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20447
+1
+vl.pagto.cf.bordero 20447
+-2.177,50
+1.082.012,53
+06/10/25 00:00
+101134
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20448
+1
+vl.pagto.cf.bordero 20448
+-79.375,00
+1.081.264,75
+06/10/25 00:00
+101135
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20449
+1
+vl.pagto.cf.bordero 20449
+-747,78
+979.185,39
+06/10/25 00:00
+101136
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20450
+1
+vl.pagto.cf.bordero 20450
+-102.079,36
+976.347,89
+06/10/25 00:00
+101137
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20451
+1
+vl.pagto.cf.bordero 20451
+-2.837,50
+973.174,14
+06/10/25 00:00
+101138
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20452
+1
+vl.pagto.cf.bordero 20452
+-3.173,75
+969.064,74
+06/10/25 00:00
+101139
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20453
+1
+vl.pagto.cf.bordero 20453
+-4.109,40
+849.367,54
+06/10/25 00:00
+101140
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20454
+1
+vl.pagto.cf.bordero 20454
+-119.697,20
+841.807,54
+06/10/25 00:00
+101141
+baixa pela rotina 775 (nenhuma observação
+cleidiane d
+07/10/25
+20455
+1
+vl.pagto.cf.bordero 20455
+-7.560,00

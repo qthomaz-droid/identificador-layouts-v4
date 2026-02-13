@@ -1,0 +1,83 @@
+sacador / avalista
+cpf/cnpj
+recibo do pagador
+341-7
+34191.09016 70021.070878 53566.020003 1 99720000057000
+beneficiário
+agência / código do beneficiário
+espécie
+quantidade
+carteira / nosso número
+call tecnologia ltda - cnpj: 06.235.610/0001-50
+0875/35660-2
+r$
+109/01700210-7
+número do documento
+cpf/cnpj do beneficiário
+vencimento
+valor documento
+01700210
+06235610000150
+25/01/2025
+r$ 570,00
+(-) desconto / abatimentos
+(-) outras deduções
+(+) mora / multa
+(+) outros acréscimos
+(=) valor cobrado
+ 
+pagador
+associacao dos servidores do trt decima regiao (asdr) cnpj: 00.720.300/0001-45
+q sepn 513 conjunto b 1. subsolo,
+asa norte - brasília/df - cep: 70760-522
+instruções
+autenticação mecânica
+após o vencimento cobrar multa de 2% e juros de 1% ao mês
+não receber após 24/02/2025
+corte na linha pontilhada
+341-7 34191.09016 70021.070878 53566.020003 1 99720000057000
+local de pagamento
+vencimento
+até o vencimento, preferencialmente no itaú. após o vencimento, somente no itaú
+25/01/2025
+beneficiário
+agência / código do beneficiário
+call tecnologia ltda - cnpj: 06.235.610/0001-50
+0875/35660-2
+data do documento
+número do documento
+espécie doc.
+aceite
+data processamento
+nosso número
+02/01/2025
+01700210
+dm
+n
+20/01/2025
+109/01700210-7
+uso do banco
+carteira
+espécie
+quantidade
+valor
+(=) valor documento
+109
+r$
+r$ 570,00
+instruções (texto de responsabilidade do beneficiário)
+após o vencimento cobrar multa de 2% e juros de 1% ao mês
+não receber após 24/02/2025
+(-) desconto
+(-) outras deduções / abatimentos
+(+) mora / multa / juros
+(+) outros acréscimos
+(=) valor cobrado
+pagador
+associacao dos servidores do trt decima regiao (asdr) cnpj: 00.720.300/0001-45
+q sepn 513 conjunto b 1. subsolo,
+asa norte - brasília/df - cep: 70760-522
+call tecnologia ltda - 06.235.610/0001-50
+ficha de compensação / autenticação mecânica
+corte a folha neste ponto antes de levar ao banco
+ (er sanco itaú s.a.

@@ -1,0 +1,549 @@
+nome:
+endereço:
+cep:
+cpf/cnpj:
+cidade:
+uf:
+gr6 eventos prod grav e edit ltda
+avenida conceicao 1923
+02072002
+17.977.383/0001-55
+sao paulo
+sp
+movimentação renda fixa - 30/04/2024 à 31/07/2024
+emitente
+tipo 
+operação
+classe 
+papel
+indexador
+perc./taxa
+data 
+operação
+data 
+vencimento
+valor 
+aplicado
+valor bruto
+iof
+ir
+valor líquido
+banco daycoval s/a
+bloq. posição
+cdb
+pós
+100,00
+22/05/2024
+02/03/2026
+1.773.264,54
+1.773.264,54
+0,00
+0,00
+1.773.264,54
+banco daycoval s/a
+bloq. posição
+cdb
+pós
+100,00
+22/05/2024
+02/03/2026
+6.940.693,00
+7.081.911,53
+0,00
+0,00
+7.081.911,53
+banco daycoval s/a
+bloq. posição
+cdb
+pós
+101,00
+04/07/2024
+25/05/2026
+3.000,00
+3.033,49
+0,00
+0,00
+3.033,49
+banco daycoval s/a
+bloq. posição
+cdb
+pós
+100,00
+16/07/2024
+02/03/2026
+1.773.264,54
+1.799.919,40
+0,00
+0,00
+1.799.919,40
+banco daycoval s/a
+bloq. posição
+cdb
+pós
+100,00
+16/07/2024
+02/03/2026
+6.940.693,00
+7.188.363,50
+0,00
+0,00
+7.188.363,50
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+100,00
+20/05/2024
+02/03/2026
+6.940.693,00
+7.076.352,73
+0,00
+0,00
+7.076.352,73
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+103,00
+20/05/2024
+16/09/2024
+300.000,00
+367.320,90
+0,00
+0,00
+367.320,90
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+103,00
+20/05/2024
+19/07/2024
+396.265,44
+495.150,31
+0,00
+0,00
+495.150,31
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+104,00
+22/05/2024
+12/03/2025
+450.000,00
+517.770,00
+0,00
+0,00
+517.770,00
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+101,00
+22/05/2024
+01/12/2025
+3.484,33
+3.668,41
+0,00
+0,00
+3.668,41
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+101,00
+22/05/2024
+01/12/2025
+0,95
+1,00
+0,00
+0,00
+1,00
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+101,00
+22/05/2024
+01/12/2025
+305.194,90
+321.319,26
+0,00
+0,00
+321.319,26
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+104,00
+22/05/2024
+21/03/2025
+100.000,00
+114.635,50
+0,00
+0,00
+114.635,50
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+100,00
+16/07/2024
+02/03/2026
+1.773.264,54
+1.799.919,40
+0,00
+0,00
+1.799.919,40
+banco daycoval s/a
+desbloq. 
+posição
+cdb
+pós
+100,00
+16/07/2024
+02/03/2026
+6.940.693,00
+7.188.363,50
+0,00
+0,00
+7.188.363,50
+banco daycoval s/a
+emissão
+cdb
+pós
+100,00
+22/05/2024
+02/03/2026
+1.773.264,54
+1.773.264,54
+0,00
+0,00
+1.773.264,54
+banco daycoval s/a
+emissão
+cdb
+pós
+101,00
+24/05/2024
+25/05/2026
+8.800.000,00
+8.800.000,00
+0,00
+0,00
+8.800.000,00
+banco daycoval s/a
+emissão
+cdb
+pós
+100,50
+15/07/2024
+20/07/2027
+1.250.000,00
+1.250.000,00
+0,00
+0,00
+1.250.000,00
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+22/05/2024
+01/12/2025
+308.680,18
+324.988,67
+0,00
+3.669,41
+321.319,26
+banco daycoval s/a
+resgate
+cdb
+pós
+104,00
+22/05/2024
+21/03/2025
+100.000,00
+114.635,50
+0,00
+2.561,21
+112.074,29
+banco daycoval s/a
+resgate
+cdb
+pós
+104,00
+22/05/2024
+12/03/2025
+450.000,00
+517.770,00
+0,00
+11.859,75
+505.910,25
+banco daycoval s/a
+resgate
+cdb
+pós
+103,00
+22/05/2024
+16/09/2024
+300.000,00
+367.617,90
+0,00
+11.833,13
+355.784,77
+banco daycoval s/a
+resgate
+cdb
+pós
+103,00
+22/05/2024
+19/07/2024
+396.265,44
+495.550,93
+0,00
+17.374,96
+478.175,97
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+29/05/2024
+25/05/2026
+1.500.000,00
+1.501.785,52
+1.481,98
+68,29
+1.500.235,25
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+03/06/2024
+25/05/2026
+750.000,00
+751.488,53
+982,42
+113,87
+750.392,24
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+11/06/2024
+25/05/2026
+499.000,00
+501.181,40
+872,56
+294,48
+500.014,36
+extrato consolidado
+em investimentos
+impressão realizada em 23/08/2024 às 16:41:44
+ composição da carteira
+
+100,00%
+
+e produtos
+| em renda fixa
+
+ bancodaycoval
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+14/06/2024
+25/05/2026
+997.000,00
+1.002.550,41
+1.665,12
+874,19
+1.000.011,10
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+21/06/2024
+25/05/2026
+113.000,00
+113.854,60
+51,27
+180,74
+113.622,59
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+27/06/2024
+25/05/2026
+298.000,00
+300.730,37
+0,00
+614,33
+300.116,04
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+05/07/2024
+25/05/2026
+793.000,00
+802.172,06
+0,00
+2.063,71
+800.108,35
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+17/07/2024
+25/05/2026
+618.000,00
+627.134,32
+0,00
+2.055,22
+625.079,10
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+19/07/2024
+25/05/2026
+164.000,00
+166.556,03
+0,00
+575,10
+165.980,93
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+19/07/2024
+25/05/2026
+238.000,00
+241.709,37
+0,00
+834,60
+240.874,77
+banco daycoval s/a
+resgate
+cdb
+pós
+101,00
+22/07/2024
+25/05/2026
+143.000,00
+145.286,34
+0,00
+514,42
+144.771,92
+posição renda fixa - 31/07/2024
+emitente
+classe 
+papel
+indexador
+perc./taxa
+data 
+aplicação
+liquidez 
+após
+data 
+vencimento
+valor 
+aplicado
+valor bruto
+iof
+ir
+valor líquido
+banco daycoval s/a
+cdb
+pós
+100,00
+11/03/2024
+12/03/2024
+02/03/2026
+6.940.693,00
+7.219.476,13
+0,00
+62.726,20
+7.156.749,93
+banco daycoval s/a
+cdb
+pós
+100,00
+22/05/2024
+23/05/2024
+02/03/2026
+1.773.264,54
+1.807.709,81
+0,00
+7.750,18
+1.799.959,63
+banco daycoval s/a
+cdb
+pós
+101,00
+24/05/2024
+25/05/2024
+25/05/2026
+2.687.000,00
+2.737.549,29
+0,00
+11.373,59
+2.726.175,70
+banco daycoval s/a
+cdb
+pós
+100,50
+15/07/2024
+16/07/2024
+20/07/2027
+1.250.000,00
+1.255.932,82
+2.729,09
+720,83
+1.252.482,90
+total papel cdb
+12.650.957,54
+13.020.668,05
+2.729,09
+82.570,80
+12.935.368,16
+total classe papel
+12.650.957,54
+13.020.668,05
+2.729,09
+82.570,80
+12.935.368,16
+ 
+s.a.c.: banco daycoval s/a
+são paulo: 0xx11 3138-0531 demais localidades: 08007750500
+ouvidoria: 08007770900 - atendimento mediante protocolo fornecido pelo sac
+total da carteira (líquido)
+r$ 12.935.368,16
+2 de 2
+banco daycoval - todos os direitos reservados
+extrato consolidado
+em investimentos
+impressão realizada em 23/08/2024 às 16:41:44
+ bancodaycoval

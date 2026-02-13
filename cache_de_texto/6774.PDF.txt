@@ -1,0 +1,560 @@
+ 
+ 
+ 06/11/2025 11:51:14
+pag. 0001
+quality  
+ 
+fluxo de caixa 
+ 
+ baixas de 01/10/2025 à 31/10/2025 [analítico]
+ 
+filial: 1 - q-matriz                                             despesa/realizada/data baixa
+despesas
+receitas
+resultado
+saldo anterior
+32.564.392,00
+10.182.763,00
+-22.381.629,00
+dt.venc.
+dt.ope.
+conta
+fornecedor
+/n.documento
+valor t b dt.baixa
+01/10/2025 01/10/2025 10907
+estorno caroline ba req - 833640 
+55,00 d s 01/10/2025
+01/10/2025 01/10/2025 10905
+empréstimo
+61,50 d s 01/10/2025
+01/10/2025 01/10/2025 10907
+estorno: devolução 
+110,00 d s 01/10/2025
+01/10/2025 01/10/2025 10803
+vivo internet matri
+196,24 d s 01/10/2025
+01/10/2025 01/10/2025 11307
+starlink fabiano
+235,00 d s 01/10/2025
+01/10/2025 01/10/2025 11307
+starlink flávia 
+324,25 d s 01/10/2025
+01/10/2025 01/10/2025 10402
+arbrent contabilida nf 1405
+5.777,75 d s 01/10/2025
+01/10/2025 01/10/2025 10411
+carolina 
+6.500,00 d s 01/10/2025
+01/10/2025 01/10/2025 11307
+fernanda
+8.500,00 d s 01/10/2025
+01/10/2025 01/10/2025 11307
+fabiano
+9.500,00 d s 01/10/2025
+01/10/2025 01/10/2025 11307
+fernanda
+11.500,00 d s 01/10/2025
+01/10/2025 01/10/2025 11307
+flávia 
+14.000,00 d s 01/10/2025
+01/10/2025 01/10/2025 10311
+boleto vt catedral
+60,00 d s 06/10/2025
+02/10/2025 02/10/2025 11103
+ceb kit net 
+74,78 d s 02/10/2025
+02/10/2025 02/10/2025 10412
+benincasa e santos 
+1.000,00 d s 02/10/2025
+02/10/2025 12/09/2025 10201
+aromitalia
+215805
+1.203,97 d s 02/10/2025
+02/10/2025 02/10/2025 11202
+powdermix equip par nf 23605
+1.218,87 d s 02/10/2025
+03/10/2025 03/10/2025 10304
+rescisão thiago geo
+2.115,31 d s 03/10/2025
+03/10/2025 03/10/2025 10304
+rescisão renata dos
+6.169,33 d s 03/10/2025
+05/10/2025 05/10/2025 10309
+portal guia da alma nf 9843
+704,00 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+0,48 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+3,20 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+3,27 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+6,83 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+8,03 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+11,30 d s 06/10/2025
+06/10/2025 06/10/2025 10499
+uber camile p/tagua
+15,00 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+16,41 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+18,87 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+34,75 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+44,06 d s 06/10/2025
+06/10/2025 06/10/2025 10904
+taxa administrativa
+211,37 d s 06/10/2025
+06/10/2025 06/10/2025 10902
+tarifas bancaria
+253,79 d s 06/10/2025
+06/10/2025 06/10/2025 10403
+up business - agênc nf 4244
+560,00 d s 06/10/2025
+06/10/2025 06/10/2025 10604
+lider locação de im fatura 7049
+2.651,24 d s 06/10/2025
+06/10/2025 06/10/2025 10304
+rescisão alessandra
+3.966,05 d s 06/10/2025
+06/10/2025 06/10/2025 10301
+salários funcionári matriz e filiais
+53.688,66 d s 06/10/2025
+07/10/2025 07/10/2025 10902
+tarifa bancaria
+3,31 d s 07/10/2025
+07/10/2025 07/10/2025 10311
+boleto segunda via 
+20,00 d s 07/10/2025
+07/10/2025 07/10/2025 10902
+tarifas bancaria
+23,40 d s 07/10/2025
+07/10/2025 07/10/2025 10301
+diferença salarial
+gabriela nogueira
+90,90 d s 07/10/2025
+07/10/2025 07/10/2025 10301
+diferença salarial heloisa barufi
+109,09 d s 07/10/2025
+07/10/2025 07/10/2025 10311
+boleto vt utb
+315,50 d s 07/10/2025
+07/10/2025 07/10/2025 10603
+modfier informatica nf 964
+3.990,00 d s 07/10/2025
+08/10/2025 08/10/2025 10902
+tarifa bancaria
+1,43 d s 08/10/2025
+08/10/2025 08/10/2025 10411
+mei tamires dos san nf 16
+1.914,46 d s 08/10/2025
+08/10/2025 08/10/2025 10603
+handover - mensalid nf 3000/ 3064 / 31 2.808,87 d s 08/10/2025
+08/10/2025 08/10/2025 10411
+mei jessika sousa
+nf 10
+3.700,60 d s 08/10/2025
+08/10/2025 08/10/2025 10411
+mei valdomiro rodri nf 27
+5.000,00 d s 08/10/2025
+09/10/2025 09/10/2025 10499
+uber
+22,00 d s 09/10/2025
+10/10/2025 10/10/2025 10902
+tarifa bancaria
+37,50 d s 10/10/2025
+10/10/2025 10/10/2025 10902
+tarifas bancaria
+83,03 d s 10/10/2025
+ 
+ 
+ 06/11/2025 11:51:14
+pag. 0002
+quality  
+ 
+fluxo de caixa 
+ 
+ baixas de 01/10/2025 à 31/10/2025 [analítico]
+ 
+filial: 1 - q-matriz                                             despesa/realizada/data baixa
+dt.venc.
+dt.ope.
+conta
+fornecedor
+/n.documento
+valor t b dt.baixa
+10/10/2025 10/10/2025 10803
+age tecnologia matr
+150,19 d s 10/10/2025
+10/10/2025 10/10/2025 10603
+licença conta azul 
+155,00 d s 10/10/2025
+10/10/2025 10/10/2025 10902
+tarifas bancaria
+198,80 d s 10/10/2025
+10/10/2025 10/10/2025 10902
+tarifa bancaria
+283,80 d s 10/10/2025
+10/10/2025 10/10/2025 11109
+condominio matriz
+ancora
+662,80 d s 10/10/2025
+10/10/2025 10/10/2025 10309
+rita saude
+nf 31484
+743,29 d s 10/10/2025
+10/10/2025 10/10/2025 11101
+aluguel kit net 
+977,50 d s 10/10/2025
+10/10/2025 10/10/2025 11006
+facebook anuncios
+1.000,00 d s 10/10/2025
+10/10/2025 10/10/2025 10317
+sintrafarma funcion matriz
+1.008,42 d s 10/10/2025
+10/10/2025 10/10/2025 10309
+central dos exames
+nf 20105
+1.029,80 d s 10/10/2025
+10/10/2025 10/10/2025 10905
+empréstimo
+1.089,61 d s 10/10/2025
+10/10/2025 10/10/2025 11104
+prime serviços - se nf 5097
+1.129,22 d s 10/10/2025
+10/10/2025 10/10/2025 10411
+william alexandre - nf 42 - pix
+1.200,00 d s 10/10/2025
+10/10/2025 10/10/2025 11104
+prime serviços
+nf 5059
+19.874,19 d s 10/10/2025
+11/10/2025 11/10/2025 10603
+blip - licenciament nf 31539
+91.607,61 d s 13/10/2025
+12/10/2025 12/10/2025 10603
+fagron tech
+16.865,76 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+1,82 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+2,18 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+2,39 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+2,96 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+7,93 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+10,23 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+10,83 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+12,81 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+16,09 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+19,17 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+24,25 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+36,34 d s 13/10/2025
+13/10/2025 13/10/2025 10411
+diaria limpeza lab
+50,00 d s 13/10/2025
+13/10/2025 13/10/2025 10904
+taxa administrativa
+218,66 d s 13/10/2025
+13/10/2025 13/10/2025 10411
+saida do caixa - 18
+300,00 d s 13/10/2025
+13/10/2025 13/10/2025 10311
+boleto vt semob
+528,00 d s 13/10/2025
+13/10/2025 13/10/2025 10705
+anfarmag
+614,80 d s 13/10/2025
+13/10/2025 13/10/2025 10407
+correios
+11.222,58 d s 13/10/2025
+14/10/2025 14/10/2025 10902
+tarifa bancaria
+1,13 d s 14/10/2025
+14/10/2025 14/10/2025 11012
+ parceiros 
+inovah
+72.387,22 d s 14/10/2025
+15/10/2025 15/10/2025 10902
+tarifa bancaria
+1,73 d s 15/10/2025
+15/10/2025 15/10/2025 10902
+tarifa bancaria
+4,14 d s 15/10/2025
+15/10/2025 15/10/2025 10803
+tim matriz 
+669,39 d s 15/10/2025
+15/10/2025 15/10/2025 10603
+autoplan - fernando nf 35
+1.035,00 d s 15/10/2025
+15/10/2025 15/10/2025 11006
+ai9 tecnologia
+nf 15734
+3.609,03 d s 15/10/2025
+15/10/2025 15/10/2025 10603
+assistec informatic nf 22537
+4.500,00 d s 15/10/2025
+16/10/2025 16/10/2025 10902
+tarifa bancaria
+4,63 d s 16/10/2025
+16/10/2025 16/10/2025 10902
+tarifa bancaria
+5,00 d s 16/10/2025
+16/10/2025 15/09/2025 10603
+ifood club
+cartão 1150
+5,95 d s 16/10/2025
+16/10/2025 19/09/2025 10201
+dipirona atacao dro cartão 1150
+12,94 d s 16/10/2025
+16/10/2025 16/10/2025 11006
+ebn canva 
+cartão 7451
+24,15 d s 16/10/2025
+16/10/2025 16/10/2025 10801
+chip virtual did te cartão
+39,90 d s 16/10/2025
+16/10/2025 15/09/2025 10326
+ifd drogaria rosari cartão 1150
+54,97 d s 16/10/2025
+16/10/2025 16/10/2025 10322
+mercado livre
+cartão
+88,58 d s 16/10/2025
+16/10/2025 16/10/2025 10322
+mercado livre
+cartão
+88,58 d s 16/10/2025
+16/10/2025 16/10/2025 10322
+mercado livre
+cartão
+88,58 d s 16/10/2025
+16/10/2025 16/10/2025 11401
+purificador de agua cartão 7451
+100,01 d s 16/10/2025
+16/10/2025 14/08/2025 10201
+saboaria peter 
+nfa 398173
+118,51 d s 16/10/2025
+ 
+ 
+ 06/11/2025 11:51:14
+pag. 0003
+quality  
+ 
+fluxo de caixa 
+ 
+ baixas de 01/10/2025 à 31/10/2025 [analítico]
+ 
+filial: 1 - q-matriz                                             despesa/realizada/data baixa
+dt.venc.
+dt.ope.
+conta
+fornecedor
+/n.documento
+valor t b dt.baixa
+16/10/2025 01/08/2025 11104
+leroy merlin
+cartão 1150
+139,11 d s 16/10/2025
+16/10/2025 16/10/2025 10326
+trend viagens
+cartão
+148,68 d s 16/10/2025
+16/10/2025 10/09/2025 10603
+assinatura adobe
+cartão 1150
+161,76 d s 16/10/2025
+16/10/2025 20/09/2025 10326
+ifd fornello alimen cartão 1150 
+203,68 d s 16/10/2025
+16/10/2025 10/07/2025 11403
+kabum monitor lg 21 cartão 1150 nf0255
+204,29 d s 16/10/2025
+16/10/2025 16/10/2025 10803
+ starlink internet cartão 7451
+239,40 d s 16/10/2025
+16/10/2025 07/08/2025 10502
+manutenção montana cartão 1150 nf874 
+258,54 d s 16/10/2025
+16/10/2025 08/08/2025 10699
+mercado livre
+cartão 1150
+265,74 d s 16/10/2025
+16/10/2025 18/08/2025 11499
+asaas editora  banc cartão bb
+350,00 d s 16/10/2025
+16/10/2025 07/08/2025 10602
+mlp kabum - lançame nfa 025540984
+391,07 d s 16/10/2025
+16/10/2025 23/08/2025 11104
+loroy merlin 
+nfa - 
+468,64 d s 16/10/2025
+16/10/2025 30/07/2025 11104
+leroy merlin
+cartão 1150
+472,00 d s 16/10/2025
+16/10/2025 16/09/2025 11104
+kevin vidraceiro - nfa - 
+583,34 d s 16/10/2025
+16/10/2025 16/10/2025 11106
+guia iptu matriz
+6° parcela
+612,14 d s 16/10/2025
+16/10/2025 16/10/2025 10403
+sad consultoria - c nf 127583
+935,95 d s 16/10/2025
+16/10/2025 14/08/2025 10699
+markenting 
+cartão bb 
+968,33 d s 16/10/2025
+16/10/2025 01/08/2025 11403
+dell computadores
+cartão 1150 nf7884 1.094,99 d s 16/10/2025
+16/10/2025 16/10/2025 11202
+powdermix equip par nf 23605
+1.099,87 d s 16/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+1,30 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+1,54 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+2,67 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+2,80 d s 17/10/2025
+17/10/2025 17/10/2025 10902
+tarifa bancaria
+5,05 d s 17/10/2025
+17/10/2025 17/10/2025 10902
+tarifa bancaria
+5,36 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+5,62 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+6,81 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+7,80 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+12,08 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+13,19 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+13,54 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+21,35 d s 17/10/2025
+17/10/2025 17/10/2025 10411
+diaria dayane limpe
+100,00 d s 17/10/2025
+17/10/2025 17/10/2025 10904
+taxa administrativa
+157,47 d s 17/10/2025
+17/10/2025 17/10/2025 11203
+hidrosolo ambiental nf 3646
+204,93 d s 17/10/2025
+17/10/2025 17/10/2025 11203
+ortofarma - fagronl nf 10797
+825,74 d s 17/10/2025
+17/10/2025 17/10/2025 11006
+facebook anuncios
+2.000,00 d s 17/10/2025
+17/10/2025 17/10/2025 11006
+google anuncios
+3.500,00 d s 17/10/2025
+18/10/2025 18/10/2025 10412
+darlan honorio - ad pix 
+3.000,00 d s 20/10/2025
+18/10/2025 18/10/2025 11101
+aluguel loja matriz
+3.736,38 d s 20/10/2025
+18/10/2025 18/10/2025 10499
+cartão caixa
+26.012,98 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+0,79 d s 20/10/2025
+20/10/2025 20/10/2025 10902
+tarifa bancaria
+1,62 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+3,01 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+3,27 d s 20/10/2025
+20/10/2025 20/10/2025 10902
+tarifa bancaria
+3,50 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+5,05 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+5,25 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+6,12 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+7,17 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+7,71 d s 20/10/2025
+20/10/2025 20/10/2025 10902
+tarifa bancaria
+10,12 d s 20/10/2025
+20/10/2025 20/10/2025 10904
+taxa administrativa
+11,46 d s 20/10/2025
+20/10/2025 20/10/2025 10499
+uber camile para ta
+13,00 d s 20/10/2025
+20/10/2025 20/10/2025 10499
+uber mateus adv par
+32,00 d s 20/10/2025

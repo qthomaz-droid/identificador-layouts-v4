@@ -1,0 +1,140 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+ 
+ 
+pagamentos
+data/hora de emissão:
+03/02/2023 14:16:56
+cooperativa:
+4351
+conta:
+74.969-9  gilmar rizzardo
+período:
+01/01/2023 - 31/01/2023
+tipo de movimentação:
+pagamentos
+data/hora movimento
+id transação
+histórico
+nome de destinatário
+instituição do
+destinatário
+tipo de chave
+chave do destinatário
+descrição
+valor
+03/01/2023 14:16:12
+e0539281020230
+1031715vn7ej3t4
+bwm
+pagamento
+pix via
+chave
+paula f. kazmirczak
+cc região
+meridional brasil
+cpf/cnpj
+***217.1**/0001-**
+nf 10
+r$ 3.000,00
+05/01/2023 16:27:50
+e0539281020230
+1051927tbl0qalyr
+fw
+pagamento
+pix via
+chave
+fatima regina matje
+itaú unibanco s.a.
+cpf/cnpj
+***.409.7**-**
+nf 44 628
+337
+r$ 535,45
+06/01/2023 17:34:53
+e0539281020230
+1062034yp1gyihl
+00f
+pagamento
+pix via
+chave
+central ltda
+itaú unibanco s.a.
+cpf/cnpj
+***760.153/0001-**
+4 boletos
+r$ 970,71
+11/01/2023 11:41:54
+e0539281020230
+11114417ix2puj
+xmvv
+pagamento
+pix via
+chave
+zini ind com prod
+alimenticos ltda
+bco bradesco s.a.
+e-mail
+****zini.com.br
+pedido zini
+r$ 3.015,00
+13/01/2023 15:14:23
+e0539281020230
+1131812nl33c59
+ojan
+pagamento
+pix via
+chave
+central ltda
+itaú unibanco s.a.
+cpf/cnpj
+***760.153/0001-**
+nf 92307
+r$ 581,03
+18/01/2023 11:34:12
+e0539281020230
+1181433jmf97q
+oqjxn
+pagamento
+pix via
+chave
+fatima regina matje
+itaú unibanco s.a.
+cpf/cnpj
+***.409.7**-**
+nf 836 514
+r$ 702,95
+24/01/2023 14:31:48
+e0539281020230
+1241730tmckwo
+9fpgq
+pagamento
+pix via
+chave
+al materiais e
+acabamentos para
+construcao ltda
+bco do brasil s.a.
+cpf/cnpj
+***986.834/0001-**
+nf 2072
+r$ 450,00
+25/01/2023 14:15:08
+e0539281020230
+1251714rga8m4
+cxyrm
+pagamento
+pix via
+chave
+fatima regina matje
+itaú unibanco s.a.
+cpf/cnpj
+***.409.7**-**
+nf 44933619
+r$ 674,46
+resumo
+valor total:
+r$ 9.929,60
+quantidade de registros:
+8
+ouvidoria sicoob: 08007250996

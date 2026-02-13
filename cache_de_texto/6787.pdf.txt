@@ -1,0 +1,419 @@
+relatório de extrato bancário ff cred 11/12/2025 17:08:12
+cnpj: 07.147.898/0001-74 razão social: compagnoni transportes ltda
+data inicial
+data final
+01/11/2025
+30/11/2025
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+data/hora
+tipo
+descrição
+valor
+saldo
+anterior
+saldo
+cpf/cnpj
+nome/razão social
+agencia  conta
+29/11/2025 18:12 recebimento
+ciot: 4660032574730790 | origem: 40139458000140
+9.264,70
+27.350,84
+36.615,54
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+29/11/2025 17:02 recebimento
+ciot: 4650032573600197 | origem: 40139458000140
+9.197,81
+18.153,03
+27.350,84
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+29/11/2025 17:00 recebimento
+ciot: 4690032573580093 | origem: 40139458000140
+9.252,15
+8.900,88
+18.153,03
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+29/11/2025 15:11 recebimento
+ciot: 4660032571140897 | origem: 40139458000140
+8.900,88
+0,00
+8.900,88
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+28/11/2025 11:54
+pagamento
+transferência pix enviada
+2.901,58
+2.901,58
+0,00
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+27/11/2025 17:52 recebimento
+ciot: 4600032407390795 | origem: 40139458000140
+2.901,58
+0,00
+2.901,58
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+27/11/2025 11:00
+pagamento
+ted
+5.738,86
+5.738,86
+0,00
+07.147.898/0001-74
+compagnoni transportes ltda
+0001
+51004795
+27/11/2025 11:00 recebimento
+ciot: 4650032392720590 | origem: 40139458000140
+2.840,99
+2.897,87
+5.738,86
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+27/11/2025 10:59 recebimento
+ciot: 4660032391960596 | origem: 40139458000140
+2.892,31
+5,56
+2.897,87
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+27/11/2025 10:49
+pagamento
+ted
+600,00
+605,56
+5,56
+07.147.898/0001-74
+compagnoni transportes ltda
+0001
+51004795
+27/11/2025 10:48
+pagamento
+transferência pix enviada
+5.000,00
+5.605,56
+605,56
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+27/11/2025 10:32 recebimento
+ciot: 4630032396350793 | origem: 40139458000140
+2.770,22
+2.835,34
+5.605,56
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+27/11/2025 10:30 recebimento
+ciot: 4680032390960398 | origem: 40139458000140
+2.835,34
+0,00
+2.835,34
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+26/11/2025 10:14
+pagamento
+ted
+7.440,36
+7.440,36
+0,00
+07.147.898/0001-74
+compagnoni transportes ltda
+0001
+51004795
+26/11/2025 10:13 recebimento
+ciot: 4600032407390795 | origem: 40139458000140
+7.440,36
+0,00
+7.440,36
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+26/11/2025 10:12
+pagamento
+ted
+7.406,21
+7.406,21
+0,00
+07.147.898/0001-74
+compagnoni transportes ltda
+0001
+51004795
+25/11/2025 17:16 recebimento
+ciot: 4630032396350793 | origem: 40139458000140
+7.406,21
+0,00
+7.406,21
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+25/11/2025 16:58
+pagamento
+ted
+2.959,05
+2.959,05
+0,00
+07.147.898/0001-74
+compagnoni transportes ltda
+0001
+51004795
+25/11/2025 16:56
+pagamento
+ted
+14.000,00
+16.959,05
+2.959,05
+07.147.898/0001-74
+compagnoni transportes ltda
+0001
+51004795
+25/11/2025 16:52
+pagamento
+transferência pix enviada
+5.000,00
+21.959,05
+16.959,05
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+25/11/2025 16:50 recebimento
+ciot: 4660032391960596 | origem: 40139458000140
+7.393,64
+14.565,41
+21.959,05
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+25/11/2025 16:49 recebimento
+ciot: 4650032392720590 | origem: 40139458000140
+7.307,51
+7.257,90
+14.565,41
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+25/11/2025 16:49 recebimento
+ciot: 4680032390960398 | origem: 40139458000140
+7.257,90
+0,00
+7.257,90
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+19/11/2025 08:20
+pagamento
+transferência pix enviada
+2.627,56
+2.627,56
+0,00
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+18/11/2025 18:38 recebimento
+ciot: 4610032054720790 | origem: 40139458000140
+2.627,56
+0,00
+2.627,56
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+18/11/2025 09:55
+pagamento
+transferência pix enviada
+2.652,27
+2.652,27
+0,00
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+17/11/2025 19:02 recebimento
+ciot: 4670032054740294 | origem: 40139458000140
+2.652,27
+0,00
+2.652,27
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+17/11/2025 09:34
+pagamento
+ted
+13.648,53
+13.648,53
+0,00
+07.147.898/0001-74
+compagnoni transportes ltda
+0001
+51004795
+16/11/2025 14:47
+pagamento
+tarifa manutenção de conta 11/2025
+12,90
+13.661,43
+13.648,53
+39.738.065/0001-74
+tarifa manutenção de conta 11/2025
+0001
+51004795
+16/11/2025 13:38 recebimento
+ciot: 4610032054720790 | origem: 40139458000140
+6.795,45
+6.865,98
+13.661,43
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+16/11/2025 13:37 recebimento
+ciot: 4670032054740294 | origem: 40139458000140
+6.865,98
+0,00
+6.865,98
+40.139.458/0001-40
+débito/crédito avulso
+0001
+51000802
+14/11/2025 09:03
+pagamento
+transferência pix enviada
+1.229,88
+1.229,88
+0,00
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+14/11/2025 08:57 recebimento
+ciot: 4610031951090492 | origem: 42456625000102
+1.229,88
+0,00
+1.229,88
+42.456.625/0001-02
+débito/crédito avulso
+0001
+51000804
+13/11/2025 12:01
+pagamento
+transferência pix enviada
+4.779,33
+4.779,33
+0,00
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+13/11/2025 11:19 recebimento
+ciot: 4610031951090492 | origem: 42456625000102
+3.569,83
+1.209,50
+4.779,33
+42.456.625/0001-02
+débito/crédito avulso
+0001
+51000804
+13/11/2025 09:24 recebimento
+ciot: 4640031897480493 | origem: 42456625000102
+1.209,50
+0,00
+1.209,50
+42.456.625/0001-02
+débito/crédito avulso
+0001
+51000804
+12/11/2025 10:38
+pagamento
+transferência pix enviada
+3.509,77
+3.509,77
+0,00
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+12/11/2025 09:54 recebimento
+ciot: 4640031897480493 | origem: 42456625000102
+3.509,77
+0,00
+3.509,77
+42.456.625/0001-02
+débito/crédito avulso
+0001
+51000804
+05/11/2025 15:24
+pagamento
+transferência pix enviada
+3.325,91
+3.325,91
+0,00
+07.147.898/0001-74
+transfêrencias
+0001
+51004795
+05/11/2025 15:21 recebimento
+transferência pix recebida
+1.657,98
+1.667,93
+3.325,91
+-----
+transfêrencias
+-----
+-----
+05/11/2025 15:20 recebimento
+transferência pix recebida
+1.667,93
+0,00
+1.667,93
+-----
+transfêrencias
+-----
+-----

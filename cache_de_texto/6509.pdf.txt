@@ -1,0 +1,293 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+movimentação - pagamentos
+data/hora de emissão: 05/09/2025 09:41:06
+cooperativa: 3140
+conta corrente: 75.216-9
+período: 04/09/2025 - 04/09/2025 
+tipo de movimentação: pagamentos
+data movimento
+histórico
+destinatário
+cpf/cnpj do destinatário
+instituição
+valor
+04/09/2025
+pagamento - pix via chave
+rv rondon com. deriv. de petroleo...
+49.960.109/0001-60
+ccpi do sudoeste mt/pa
+r$ 413,00
+04/09/2025
+pagamento - pix via chave
+r5 lem imperador ltda
+18.430.590/0001-58
+ccla oeste mineiro ltda-...
+r$ 540,09
+04/09/2025
+pagamento - pix via chave
+marcelino almeida de araujo
+***.417.525-**
+bco santander (brasil) s.a.
+r$ 150,00
+04/09/2025
+pagamento - pix via chave
+z n carnes e frios ltda
+40.240.752/0002-25
+bco santander (brasil) s.a.
+r$ 1.127,00
+04/09/2025
+pagamento - pix via chave
+jose ray de sousa pacheco
+***.326.913-**
+caixa economica federal
+r$ 152,00
+04/09/2025
+pagamento - pix via chave
+mecanica guaranta ltda
+34.259.418/0001-30
+bco santander (brasil) s.a.
+r$ 300,00
+04/09/2025
+pagamento - pix via chave
+coelho & costa ltda
+27.424.461/0001-48
+bco bradesco s.a.
+r$ 150,00
+04/09/2025
+pagamento - pix via chave
+fabricio ribeiro marques
+***.246.591-**
+neon pagamentos s.a. ip
+r$ 130,00
+04/09/2025
+pagamento - pix via chave
+e l s m miranda ltda
+55.257.781/0001-96
+bco santander (brasil) s.a.
+r$ 2.500,00
+04/09/2025
+pagamento - pix via chave
+mercevolks patagonia pecas e aces...
+10.957.585/0001-96
+bco bradesco s.a.
+r$ 2.356,50
+04/09/2025
+pagamento - pix via chave
+caico distribuidora de laticinios...
+10.543.788/0001-36
+bco do brasil s.a.
+r$ 484,00
+04/09/2025
+pagamento - pix copia e cola
+mgh gestao e servicos ltda
+53.434.293/0001-81
+bco santander (brasil) s.a.
+r$ 539,46
+04/09/2025
+pagamento - pix via chave
+nacional auto pecas ltda
+42.065.413/0001-02
+coop sicredi grandes rios
+r$ 1.422,00
+04/09/2025
+pagamento - pix via chave
+borracharia monteiro ltda
+39.624.603/0001-08
+sicoob credisul
+r$ 120,00
+04/09/2025
+pagamento - pix via chave
+rodocella comercio e transportes...
+04.785.737/0001-18
+bco do brasil s.a.
+r$ 550,00
+04/09/2025
+pagamento - pix via chave
+tiago diniz pereira
+***.638.103-**
+bco c6 s.a.
+r$ 70,00
+04/09/2025
+pagamento - pix via chave
+breno franca da silva
+***.379.736-**
+caixa economica federal
+r$ 105,00
+04/09/2025
+pagamento - pix via chave
+daniel marcos herculano
+***.187.283-**
+caixa economica federal
+r$ 250,00
+04/09/2025
+pagamento - pix via chave
+mercevolks patagonia pecas e aces...
+10.957.585/0001-96
+bco bradesco s.a.
+r$ 263,08
+04/09/2025
+pagamento - pix via chave
+mscamacam pecas e servicos ltda
+38.443.752/0002-80
+cc vale do são francisco...
+r$ 560,00
+04/09/2025
+pagamento - pix via chave
+tiago h de oliveira
+***.918.428-**
+itaú unibanco s.a.
+r$ 50,00
+04/09/2025
+pagamento - pix copia e cola
+estado de minas gerais
+18.715.615/0001-60
+itaú unibanco s.a.
+r$ 7.965,68
+04/09/2025
+pagamento - pix via chave
+lotus atacarejo ltda
+27.783.801/0001-27
+caixa economica federal
+r$ 145,00
+04/09/2025
+pagamento - pix via chave
+jhonata franca dos santos
+***.352.485-**
+nu pagamentos s.a.
+r$ 128,70
+04/09/2025
+pagamento - pix via chave
+carmo santos transportadora e com... 02.077.440/0001-72
+bco bradesco s.a.
+r$ 2.183,00
+04/09/2025
+pagamento - pix via chave
+3n center truck ltda
+51.949.889/0001-99
+nu pagamentos s.a.
+r$ 3.000,00
+04/09/2025
+pagamento - pix via chave
+dvap para-brisas e servicos ltda
+26.961.227/0001-97
+bco do brasil s.a.
+r$ 2.480,00
+04/09/2025
+pagamento - pix via chave
+anderson carlos dos santos
+***.027.136-**
+itaú unibanco s.a.
+r$ 800,00
+04/09/2025
+pagamento - pix via chave
+henrique rodrigues cardoso
+***.658.911-**
+banco inter
+r$ 40,00
+04/09/2025
+pagamento - pix via chave
+wilian ferreira costa
+***.968.834-**
+bco santander (brasil) s.a.
+r$ 25,00
+04/09/2025
+pagamento - pix via chave
+lays rodrigues ayala
+***.055.521-**
+cc poup inv união dos es...
+r$ 296,50
+04/09/2025
+pagamento - pix via chave
+gotemburgo veiculos ltda
+02.233.622/0012-48
+itaú unibanco s.a.
+r$ 3.499,32
+04/09/2025
+pagamento - pix via chave
+d caminho caminhoes ltda
+34.507.958/0001-95
+itaú unibanco s.a.
+r$ 5.410,00
+04/09/2025
+pagamento - pix via chave
+centro oeste auto refrigeracao ltda
+28.929.780/0001-78
+bco do brasil s.a.
+r$ 2.050,00
+04/09/2025
+pagamento - pix via chave
+sul do para saude cooperativa de...
+14.112.023/0007-98
+pagseguro internet ip s.a.
+r$ 355,96
+04/09/2025
+pagamento - pix via chave
+enzo derivados de petroleo ltda
+04.467.958/0002-29
+ccla sicoob credmissão l...
+r$ 26,00
+04/09/2025
+pagamento - pix via chave
+luis felipe de andrade dantas
+***.900.483-**
+nu pagamentos s.a.
+r$ 60,00
+04/09/2025
+pagamento - pix via chave
+rherisson pinheiro de moura santos
+29.829.664/0001-40
+cloudwalk ip ltda
+r$ 60,00
+04/09/2025
+pagamento - pix via chave
+almenara medcenter ltda
+20.594.014/0001-98
+cora scfi
+r$ 592,00
+04/09/2025
+pagamento - pix via chave
+antonio del fuzzi
+***.564.329-**
+bco bradesco s.a.
+r$ 100,00
+04/09/2025
+pagamento - pix via chave
+esfiharia tio ale ltda
+12.069.468/0001-11
+bco bradesco s.a.
+r$ 99,00
+04/09/2025
+pagamento - pix via chave
+service molas ltda
+17.718.429/0001-11
+itaú unibanco s.a.
+r$ 270,00
+04/09/2025
+pagamento - pix via chave
+ideal auto pecas ltda
+12.275.282/0001-19
+caixa economica federal
+r$ 1.600,00
+04/09/2025
+pagamento - pix via chave
+cleber rodrigues santos
+***.898.885-**
+nu pagamentos s.a.
+r$ 50,00
+04/09/2025
+pagamento - pix via chave
+service molas ltda
+17.718.429/0001-11
+itaú unibanco s.a.
+r$ 540,00
+04/09/2025
+pagamento - pix via chave
+diverlan rodrigues de oliveira
+***.110.116-**
+caixa economica federal
+r$ 180,00
+valor total: r$ 44.188,29
+quantidade de registros: 46
+ouvidoria sicoob: 08007250996 
+resumo

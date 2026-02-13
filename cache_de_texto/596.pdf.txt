@@ -1,0 +1,70 @@
+detalhamento de remessa
+conta:
+3007 - cooperativa crédito leste capixaba
+147.274-7
+data emissão:
+07/10/2022
+horário emissão: 16:05
+tipo
+histórico:
+status:
+número remessa:
+liberada
+7275061.3007-
+pagador
+documento
+vl.operação(r$) tx.juros(%) tx.mora(%) vl.juros(r$) vl.iof(r$) vl.tarifa(r$) vl.disponível(r$)
+nome associado:
+v.de j.v.thomaz ind. e comercio
+cpf/cnpj associado:
+36.596.556/0001-30
+valor remessa:
+7.350,71
+valor iof:
+29,17
+valor tarifa:
+0,00
+valor líquido:
+7.199,03
+23/09/2022
+data remessa:
+r$
+r$
+r$
+r$
+cet mensal:
+4.1883%
+cet anual:
+64.7402%
+boleto
+08.617.951/0001-16 master 
+80047
+5.038,71
+1,9400
+1,0000
+45,61
+19,93
+0,00
+5.038,71
+boleto
+22.649.153/0001-05 comercio de 
+80030
+1.156,00
+1,9400
+1,0000
+18,68
+4,71
+0,00
+1.156,00
+boleto
+22.649.153/0001-05 comercio de 
+80022
+1.156,00
+1,9400
+1,0000
+8,22
+4,53
+0,00
+1.156,00
+total de registros:
+3

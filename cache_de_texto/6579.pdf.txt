@@ -1,0 +1,332 @@
+contas recebidas - data baixa
+data:
+15/08/2025
+usuário:
+cris
+empresa:
+1
+página:
+1/2
+data baixa:
+01/07/2025
+até
+31/07/2025
+data vcto
+doc/par
+tipo doc
+cliente
+cpf/cnpj
+vlr desc
+vlr desp
+vlr recebido
+histórico
+forma pgto.
+conta banco
+data baixa:
+01/07/2025
+02/07/2025
+345/1
+55
+marcos aurelio da silva
+927.943.009-20
+0,00
+0,00
+1.000,00
+boleto
+sicred ag 2606
+total:
+0,00
+0,00
+1.000,00
+data baixa:
+02/07/2025
+07/07/2025
+342/1
+55
+estaleiro navship ltda
+07.171.021/0001-19
+0,00
+0,00
+1.612,77
+transferência
+sicred ag 2606
+total:
+0,00
+0,00
+1.612,77
+data baixa:
+04/07/2025
+03/07/2025
+337/1
+55
+sucatas orlando dalmolin ltda
+78.827.730/0001-58
+0,00
+0,00
+1.647,20
+boleto
+sicred ag 2606
+total:
+0,00
+0,00
+1.647,20
+data baixa:
+07/07/2025
+19/06/2025
+325/1
+55
+detroit brasil ltda
+04.988.669/0001-94
+0,00
+0,00
+30.583,87
+pix
+sicred ag 2606
+total:
+0,00
+0,00
+30.583,87
+data baixa:
+08/07/2025
+08/07/2025
+294/3
+55
+fluipress automacao ltda
+85.203.925/0001-92
+0,00
+0,00
+7.810,00
+boleto
+sicred ag 2606
+total:
+0,00
+0,00
+7.810,00
+data baixa:
+10/07/2025
+09/07/2025
+348/1
+55
+metalurgica metalmara ltda
+79.393.831/0001-20
+0,00
+0,00
+750,00
+boleto
+sicred ag 2606
+11/07/2025
+343/1
+55
+detroit brasil ltda
+04.988.669/0001-94
+0,00
+0,00
+25.804,95
+transferência
+sicred ag 2606
+15/07/2025
+353/1
+55
+detroit brasil ltda
+04.988.669/0001-94
+0,00
+0,00
+51.469,67
+transferência
+sicred ag 2606
+total:
+0,00
+0,00
+78.024,62
+data baixa:
+11/07/2025
+30/07/2025
+358/2
+55
+meso oceanica
+13.966.745/0001-51
+0,00
+0,00
+10.948,00
+pix
+sicred ag 2606
+total:
+0,00
+0,00
+10.948,00
+data baixa:
+15/07/2025
+13/07/2025
+344/1
+55
+edisse maria lobo auth
+004.468.699-45
+0,00
+0,00
+2.000,00
+boleto
+sicred ag 2606
+15/07/2025
+267/2
+ped
+meso oceanica
+13.966.745/0001-51
+0,00
+0,00
+15.000,00
+pedido número 267
+pix
+sicred ag 2606
+17/07/2025
+359/1
+55
+nova rota comercio de pecas e aces
+03.319.974/0001-20
+0,00
+0,00
+7.929,60
+boleto
+sicred ag 2606
+total:
+0,00
+0,00
+24.929,60
+data baixa:
+18/07/2025
+18/07/2025
+377/1
+55
+pfiffner do brasil
+08.161.189/0001-06
+2,30
+0,00
+177,70
+taxa da maquina
+cartão de débito
+sicred ag 2606
+total:
+2,30
+0,00
+177,70
+data baixa:
+23/07/2025
+23/07/2025
+350/1
+55
+estaleiro navship ltda
+07.171.021/0001-19
+0,00
+0,00
+1.319,54
+transferência
+sicred ag 2606
+total:
+0,00
+0,00
+1.319,54
+data baixa:
+24/07/2025
+ nex me
+contas recebidas - data baixa
+data:
+15/08/2025
+usuário:
+cris
+empresa:
+1
+página:
+2/2
+data baixa:
+01/07/2025
+até
+31/07/2025
+data vcto
+doc/par
+tipo doc
+cliente
+cpf/cnpj
+vlr desc
+vlr desp
+vlr recebido
+histórico
+forma pgto.
+conta banco
+24/07/2025
+202500000000304/
+1
+nfse
+bravi outsourcing and private label 17.106.938/0002-74
+6,10
+0,00
+173,90
+desconto da maquina
+cartão de crédito
+sicred ag 2606
+total:
+6,10
+0,00
+173,90
+data baixa:
+28/07/2025
+06/08/2025
+319/1
+ped
+luis anderson da costa
+026.001.419-28
+0,00
+0,00
+50.000,00
+pedido número 319
+pix
+sicred ag 2606
+total:
+0,00
+0,00
+50.000,00
+data baixa:
+30/07/2025
+29/07/2025
+355/1
+55
+sucatas orlando dalmolin ltda
+78.827.730/0001-58
+0,00
+0,00
+1.623,20
+boleto
+sicred ag 2606
+30/07/2025
+267/3
+ped
+meso oceanica
+13.966.745/0001-51
+0,00
+0,00
+15.000,00
+pedido número 267
+pix
+sicred ag 2606
+total:
+0,00
+0,00
+16.623,20
+data baixa:
+31/07/2025
+30/07/2025
+352/1
+55
+drillco tools do brasil comercial e i 12.241.211/0001-03
+0,00
+0,00
+9.121,63
+boleto
+sicred ag 2606
+total:
+0,00
+0,00
+9.121,63
+total geral:
+8,40
+0,00
+233.972,03
+ nex me

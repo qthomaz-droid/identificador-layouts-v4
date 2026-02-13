@@ -1,0 +1,611 @@
+ 
+extrato de: agência 1219 | conta 90698-0
+data da operação: 08/10/2025 - 18:51:36
+período do extrato: 01/07/2025 a 30/09/2025
+filtro de resultados: -
+lançamentos
+data
+descrição
+documento
+tipo
+valor
+saldo (r$)
+30/09/2025
+pix qr code estatic  
+rem: daniel henrique barbo 30/09
+1458036
+crédito
+280,00
+1.377,03
+30/09/2025
+transferencia pix  
+des: paulo cesar camargo 30/09
+1747359
+débito
+-130,00
+1.247,03
+30/09/2025
+saldo do dia
+1.247,03
+24/09/2025
+pix qr code estatic  
+rem: patricia miranda de s 24/09
+1202438
+crédito
+140,00
+1.239,01
+24/09/2025
+pix qr code dinamico  
+des: auto posto braz ltda 24/09
+1758597
+débito
+-141,98
+1.097,03
+24/09/2025
+saldo do dia
+1.097,03
+22/09/2025
+pix qr code estatic  
+rem: clayton da silveira 20/09
+1145306
+crédito
+140,00
+1.297,75
+22/09/2025
+pix qr code dinamico  
+des: telefonica bras 22/09
+1029333
+débito
+-179,90
+1.117,85
+22/09/2025
+pix qr code dinamico  
+des: ifood.com agencia de 20/09
+1856123
+débito
+-18,84
+1.099,01
+22/09/2025
+saldo do dia
+1.099,01
+19/09/2025
+pix qr code dinamico  
+des: ifood com agencia de 19/09
+1123073
+débito
+-18,89
+1.157,75
+19/09/2025
+saldo do dia
+1.157,75
+17/09/2025
+transferencia pix  
+rem: maria eduarda ruani m 17/09
+1416526
+crédito
+270,00
+1.275,64
+17/09/2025
+transferencia pix  
+des: gavron & mendes 17/09
+1302505
+débito
+-99,00
+1.176,64
+17/09/2025
+saldo do dia
+1.176,64
+16/09/2025
+rentab.invest facilcred*  
+4734496
+crédito
+0,01
+1.485,62
+16/09/2025
+rentab.invest facilcred*  
+7857851
+crédito
+0,02
+1.485,64
+16/09/2025
+pagto eletronico tributo  
+plataforma-simples nacional
+641358
+débito
+-480,00
+1.005,64
+16/09/2025
+saldo do dia
+1.005,64
+15/09/2025
+transferencia pix  
+rem: camila schmidt carval 13/09
+1114443
+crédito
+190,00
+1.743,79
+15/09/2025
+pix qr code estatic  
+rem: erica soares henrique 13/09
+1217279
+crédito
+140,00
+1.883,79
+15/09/2025
+rentab.invest facilcred*  
+4734496
+crédito
+0,01
+1.883,80
+15/09/2025
+tarifa bancaria  
+mei bradesco
+10925
+débito
+-51,55
+1.832,25
+15/09/2025
+pix qr code estatico  
+des: cruzada nacional de e 14/09
+2030497
+débito
+-150,00
+1.682,25
+15/09/2025
+pix qr code dinamico  
+des: auto posto nova curit 14/09
+1224341
+débito
+-174,75
+1.507,50
+15/09/2025
+pix qr code dinamico  
+des: ifood com agencia de 15/09
+1305233
+débito
+-21,89
+1.485,61
+15/09/2025
+saldo do dia
+1.485,61
+11/09/2025
+transferencia pix  
+rem: coritiba sociedade an 11/09
+1640286
+crédito
+330,00
+713,79
+11/09/2025
+transferencia pix  
+rem: coritiba sociedade an 11/09
+1640289
+crédito
+4.200,00
+4.913,79
+11/09/2025
+pix qr code estatic  
+rem: luiz carlos de lima 11/09
+1210030
+crédito
+140,00
+5.053,79
+11/09/2025
+transferencia pix  
+des: paula regiane santos 11/09
+1730435
+débito
+-2.500,00
+2.553,79
+11/09/2025
+transferencia pix  
+des: paula regiane santos 11/09
+1731386
+débito
+-1.000,00
+1.553,79
+11/09/2025
+saldo do dia
+1.553,79
+10/09/2025
+rentab.invest facilcred*  
+2472020
+crédito
+0,03
+1.283,60
+10/09/2025
+rentab.invest facilcred*  
+4572166
+crédito
+0,05
+1.283,65
+10/09/2025
+rentab.invest facilcred*  
+5638736
+crédito
+0,03
+1.283,68
+10/09/2025
+rentab.invest facilcred*  
+9053596
+crédito
+0,11
+1.283,79
+10/09/2025
+transferencia pix  
+des: you bem estar ltda 10/09
+702300
+débito
+-800,00
+483,79
+10/09/2025
+transferencia pix  
+des: paula regiane santos 10/09
+1144056
+débito
+-100,00
+383,79
+10/09/2025
+saldo do dia
+383,79
+09/09/2025
+rentab.invest facilcred*  
+9053596
+crédito
+0,01
+1.300,47
+09/09/2025
+transferencia pix  
+des: diego cesar bueno piv 06/09
+1204536
+débito
+-16,90
+1.283,57
+09/09/2025
+saldo do dia
+1.283,57
+05/09/2025
+transferencia pix  
+rem: miriam r w c 90221427 05/09
+1507453
+crédito
+280,00
+1.712,25
+05/09/2025
+rentab.invest facilcred*  
+9053596
+crédito
+0,03
+1.712,28
+05/09/2025
+pagto eletron cobranca  
+pro essence
+18
+débito
+-149,00
+1.563,28
+05/09/2025
+transferencia pix  
+des: clinepel 05/09
+1011270
+débito
+-245,92
+1.317,36
+05/09/2025
+transferencia pix  
+des: diego cesar bueno piv 05/09
+1226260
+débito
+-16,90
+1.300,46
+05/09/2025
+saldo do dia
+1.300,46
+04/09/2025
+pix qr code estatic  
+rem: maria das gracas brag 04/09
+1744026
+crédito
+190,00
+1.362,25
+04/09/2025
+pix qr code estatic  
+rem: mario antonio pupia d 04/09
+1954581
+crédito
+250,00
+1.612,25
+04/09/2025
+pagto eletron cobranca  
+veloz contador
+17
+débito
+-180,00
+1.432,25
+04/09/2025
+saldo do dia
+1.432,25
+02/09/2025
+pix qr code estatic  
+rem: magna rosangela silva 02/09
+1609298
+crédito
+270,00
+1.274,12
+02/09/2025
+pix qr code estatic  
+rem: fabiano leite 02/09
+1631109
+crédito
+90,00
+1.364,12
+02/09/2025
+transferencia pix  
+des: diego cesar bueno piv 02/09
+1246089
+débito
+-16,90
+1.347,22
+02/09/2025
+pix qr code dinamico  
+des: auto posto braz ltda 02/09
+1655275
+débito
+-174,97
+1.172,25
+02/09/2025
+saldo do dia
+1.172,25
+01/09/2025
+rentab.invest facilcred*  
+7939273
+crédito
+0,03
+1.204,92
+01/09/2025
+rentab.invest facilcred*  
+9053596
+crédito
+0,01
+1.204,93
+01/09/2025
+pagto eletron cobranca  
+nossa saude
+16
+débito
+-190,81
+1.014,12
+01/09/2025
+transferencia pix  
+des: newton pugsley 01/09
+1526360
+débito
+-10,00
+1.004,12
+01/09/2025
+saldo do dia
+1.004,12
+26/08/2025
+rentab.invest facilcred*  
+4864377
+crédito
+0,09
+2.023,06
+26/08/2025
+rentab.invest facilcred*  
+6953815
+crédito
+0,02
+2.023,08
+26/08/2025
+pix qr code dinamico  
+des: itau unibanco holding 26/08
+1137528
+débito
+-818,19
+1.204,89
+26/08/2025
+saldo do dia
+1.204,89
+25/08/2025
+pix qr code estatic  
+rem: ana lucia dias plaza 23/08
+1053456
+crédito
+270,00
+2.114,54
+25/08/2025
+pix qr code estatic  
+rem: joao gabriel farinea 23/08
+1121442
+crédito
+250,00
+2.364,54
+25/08/2025
+pagto eletron cobranca  
+proessence
+15
+débito
+-254,68
+2.109,86
+25/08/2025
+transferencia pix  
+des: diego cesar bueno piv 25/08
+1107010
+débito
+-16,90
+2.092,96
+25/08/2025
+pix qr code dinamico  
+des: auto posto braz ltda 25/08
+1457095
+débito
+-69,99
+2.022,97
+25/08/2025
+saldo do dia
+2.022,97
+22/08/2025
+transferencia pix  
+rem: grazielle ricetti 22/08
+1353074
+crédito
+140,00
+1.721,44
+22/08/2025
+pix qr code estatic  
+rem: ivanete sant ana de l 22/08
+1508293
+crédito
+140,00
+1.861,44
+22/08/2025
+transferencia pix  
+des: diego cesar bueno piv 22/08
+1047206
+débito
+-16,90
+1.844,54
+22/08/2025
+saldo do dia
+1.844,54
+21/08/2025
+rentab.invest facilcred*  
+3637039
+crédito
+0,01
+1.763,05
+21/08/2025
+rentab.invest facilcred*  
+4864377
+crédito
+0,01
+1.763,06
+21/08/2025
+pix qr code dinamico  
+des: telefonica bras 21/08
+2229572
+débito
+-181,62
+1.581,44
+21/08/2025
+saldo do dia
+1.581,44
+20/08/2025
+pix qr code estatic  
+rem: gabriel otavio de oli 20/08
+1852364
+crédito
+140,00
+1.794,94
+20/08/2025
+transferencia pix  
+des: diego cesar bueno piv 20/08
+1118287
+débito
+-31,90
+1.763,04
+20/08/2025
+saldo do dia
+1.763,04
+19/08/2025
+rentab.invest facilcred*  
+3637039
+crédito
+0,01
+1.736,59
+19/08/2025
+pagto eletron cobranca  
+proessence
+14
+débito
+-81,65
+1.654,94
+19/08/2025
+saldo do dia
+1.654,94
+18/08/2025
+pix qr code estatic  
+rem: fernanda de fatima pa 18/08
+1549478
+crédito
+380,00
+2.878,05
+18/08/2025
+rentab.invest facilcred*  
+1181828
+crédito
+0,04
+2.878,09
+18/08/2025
+rentab.invest facilcred*  
+5936638
+crédito
+0,06
+2.878,15
+18/08/2025
+rentab.invest facilcred*  
+6585286
+crédito
+0,01
+2.878,16
+18/08/2025
+rentab.invest facilcred*  
+8869211
+crédito
+0,08
+2.878,24
+18/08/2025
+pagto eletronico tributo  
+internet --receita federal/sp
+5304323
+débito
+-660,00
+2.218,24
+18/08/2025
+pagto eletronico tributo  
+internet --simples nacional
+5647990
+débito
+-299,40
+1.918,84
+18/08/2025
+pix qr code dinamico  
+des: pelanda conveniencia 18/08
+1204019
+débito
+-146,79
+1.772,05
+18/08/2025
+pix qr code dinamico  
+des: pelanda conveniencia 18/08
+1235032
+débito
+-35,47
+1.736,58
+18/08/2025
+saldo do dia
+1.736,58
+15/08/2025
+pix qr code estatic  
+rem: geovana maria camargo 15/08
+1009000
+crédito
+140,00
+2.144,95
+15/08/2025
+pix qr code estatic  
+rem: gislaine martins barr 15/08
+1105383
+crédito
+370,00
+2.514,95
+15/08/2025
+transferencia pix  
+des: diego cesar bueno piv 15/08
+1257246
+débito
+-16,90
+2.498,05
+15/08/2025
+saldo do dia
+2.498,05

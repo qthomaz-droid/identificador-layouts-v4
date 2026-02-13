@@ -1,0 +1,85 @@
+0 3 3 - 7
+recibo do pagador
+vencimento
+agência / cod. beneﬁciário
+3846 / 008106266
+data do documento
+26/12/2024
+no. do documento
+espécie doc.
+dm
+aceite
+não
+data processamento
+26/12/2024
+nosso número
+0000000002330
+uso do banco
+carteira
+rápida com registro
+espécie moeda
+real
+quantidade
+1
+(x) valor
+(=) valor do documento
+local de pagamento
+pagável preferencialmente no banco santander
+beneﬁciário
+master consultoria e auditorias contabei - 03.305.944/0001-65
+sds conjunto baracat, 511 - asa sul - cep: 70392-900 - brasilia - df
+05/01/2025
+1.700,00
+mensagem / instruções (texto de responsabilidade do beneﬁciário)
+(-) descontos/abatimento
+(+) mora/multa
+(=) valor cobrado
+pagador
+associacao servidores do trt 10 regiao - 00.720.300/0001-45
+sepn 513 bloco b lote 02
+brasilia / df - 70760-525
+beneﬁciário final
+autenticação mecânica
+0 3 3 - 7
+03399.81060.26600.000009.00233.001015.1.99520000170000
+vencimento
+agência / cod. beneﬁciário
+3846 / 008106266
+data do documento
+26/12/2024
+no. do documento
+espécie doc.
+dm
+aceite
+não
+data processamento
+26/12/2024
+nosso número
+0000000002330
+uso do banco
+carteira
+rápida com registro
+espécie moeda
+real
+quantidade
+1
+(x) valor
+(=) valor do documento
+local de pagamento
+pagável preferencialmente no banco santander
+beneﬁciário
+master consultoria e auditorias contabei - 03.305.944/0001-65
+sds conjunto baracat, 511 - asa sul - cep: 70392-900 - brasilia - df
+05/01/2025
+1.700,00
+mensagem / instruções (texto de responsabilidade do beneﬁciário)
+(-) descontos/abatimento
+(+) mora/multa
+(=) valor cobrado
+pagador
+associacao servidores do trt 10 regiao - 00.720.300/0001-45
+sepn 513 bloco b lote 02
+brasilia / df - 70760-525
+beneﬁciário final
+autenticação mecânica
+ «> santander

@@ -1,0 +1,1120 @@
+relatório de pagamentos de fornecedor
+empresa:
+1
+página:
+período de 01/04/2025 à 30/04/2025  e tipo por  dt pagamento, com modelo por documento por ordem de portador e 
+bergami comercio ltda                                                                               
+filial documento inicial:
+portador inicial:
+banco inicial:
+conta caixa inicial:
+usuário inicial:
+fornecedor:
+filial final:
+filial documento final:
+portador final:
+banco final:
+conta caixa final:
+usuário final:
+complemento:
+0099 - creditos                                
+0001 - diniz automacao e materiais 
+0001 - diniz automacao e materiais 
+0001 - diniz automacao e materiais 
+0002 - diniz fios e cabos                                      
+0001 - carteira                                
+000001 - jadilso bergami                                 
+999999 - objetiva                                                    
+000700 - jadilso                                                     
+000001 - fundo de caixa (crédito)                
+000001 - banco do brasil                         
+100000 - carteira                                
+  - todos
+todos os fornecedores
+todos os caixas fisicos
+caixa físico:
+filial inicial:
+exc
+fl
+fornecedor
+documento
+fl
+pc
+vencto
+vr pago
+vr multa
+vr j uros
+desconto
+vr total
+nota fiscal
+portador: 000001 - carteira
+ 1
+ 1
+ 747,41
+ 747,41
+ 1
+ 254 ferragens 
+negrao 
+não
+ 676
+24/04/25
+ 676
+ 1
+ 1
+ 1236,06
+ 1236,06
+ 2
+ 95 ferragens 
+negrao 
+não
+ 994
+15/04/25
+ 994
+ 1
+ 2
+ 7375,00
+ 7375,00
+ 1
+ 246 voltz 
+paineis ltda
+não
+ 1230
+21/03/25
+ 1230
+ 1
+ 2
+ 7375,02
+ 7375,02
+ 4
+ 246 voltz 
+paineis ltda
+não
+ 1230
+18/04/25
+ 1230
+ 1
+ 2
+ 7375,00
+ 7375,00
+ 3
+ 246 voltz 
+paineis ltda
+não
+ 1230
+21/04/25
+ 1230
+ 1
+ 2
+ 7375,00
+ 7375,00
+ 2
+ 246 voltz 
+paineis ltda
+não
+ 1230
+18/04/25
+ 1230
+ 1
+ 2
+ 1700,83
+ 1700,83
+ 1
+ 246 voltz 
+paineis ltda
+não
+ 1427
+15/04/25
+ 1427
+ 1
+ 1
+ 1174,31
+ 1174,31
+ 1
+ 95 ferragens 
+negrao 
+não
+ 2790
+12/04/25
+ 2790
+ 1
+ 2
+ 938,14
+ 938,14
+ 1
+ 52 funar 
+industria e 
+não
+ 2933
+18/04/25
+ 2933
+ 1
+ 1
+ 372,00
+ 372,00
+ 1
+ 223 distriweg 
+equipament
+não
+ 3616
+14/04/25
+ 3616
+ 1
+ 1
+ 1066,57
+ 1066,57
+ 2
+ 216 andaluz 
+ind. import. e 
+não
+ 4259
+14/04/25
+ 4259
+ 1
+ 1
+ 665,32
+ 665,32
+ 1
+ 190 siga 
+industria e 
+não
+ 4611
+14/04/25
+ 4611
+ 1
+ 1
+ 2642,58
+ 2642,58
+ 3
+ 191 andaluz 
+industria 
+não
+ 6041
+29/04/25
+ 6041
+ 1
+ 1
+ 270,59
+ 270,59
+ 1
+ 206 jr comercio 
+de 
+não
+ 6080
+21/04/25
+ 6080
+ 1
+ 1
+ 1383,87
+ 1383,87
+ 1
+ 222 epx 
+capacitore
+não
+ 1619
+21/04/25
+ 6116
+ 1
+ 1
+ 2111,99
+ 2111,99
+ 2
+ 191 andaluz 
+industria 
+não
+ 6256
+15/04/25
+ 6256
+ 1
+ 1
+ 367,63
+ 367,63
+ 1
+ 191 andaluz 
+industria 
+não
+ 6732
+14/04/25
+ 6732
+ 1
+ 1
+ 1780,30
+ 1780,30
+ 1
+ 77 neg 
+industria de 
+não
+ 7720
+04/04/25
+ 7720
+ 1
+ 1
+ 1489,79
+ 1489,79
+ 2
+ 77 neg 
+industria de 
+não
+ 7720
+19/04/25
+ 7720
+ 1
+ 1
+ 944,97
+ 944,97
+ 1
+ 227 virtual 
+distribuidor
+não
+ 7922
+16/04/25
+ 7922
+ 1
+ 1
+ 695,00
+ 695,00
+ 2
+ 177 rima eletro 
+eletronica 
+não
+ 7938
+06/04/25
+ 7938
+ 1
+ 1
+ 549,75
+ 549,75
+ 3
+ 188 lukma sao 
+paulo 
+não
+ 13316
+02/04/25
+ 13316
+ 1
+ 1
+ 779,87
+ 779,87
+ 1
+ 188 lukma sao 
+paulo 
+não
+ 13717
+15/04/25
+ 13717
+ 1
+ 1
+ 825,95
+ 825,95
+ 2
+ 188 lukma sao 
+paulo 
+não
+ 13717
+29/04/25
+ 13717
+ 1
+ 1
+ 789,24
+ 789,24
+ 2
+ 243 betel 
+materiais 
+não
+ 13790
+03/04/25
+ 13790
+ 1
+ 1
+ 8186,48
+ 8186,48
+ 2
+ 250 copper 
+barras 
+não
+ 21097
+02/04/25
+ 21097
+ 1
+ 1
+ 5561,97
+ 5561,97
+ 3
+ 209 jva 
+participaco
+não
+ 21762
+09/04/25
+ 21762
+objetiva soluções.
+gerado em 08/05/2025 as 17:23:36
+estação: servidor - usuário: jadilso bergami
+relatório de pagamentos de fornecedor
+empresa:
+2
+página:
+período de 01/04/2025 à 30/04/2025  e tipo por  dt pagamento, com modelo por documento por ordem de portador e 
+bergami comercio ltda                                                                               
+exc
+fl
+fornecedor
+documento
+fl
+pc
+vencto
+vr pago
+vr multa
+vr j uros
+desconto
+vr total
+nota fiscal
+ 1
+ 1
+ 3815,27
+ 3815,27
+ 2
+ 209 jva 
+participaco
+não
+ 23286
+14/04/25
+ 23286
+ 1
+ 1
+ 1589,58
+ 1589,58
+ 2
+ 209 jva 
+participaco
+não
+ 23530
+21/04/25
+ 23530
+ 1
+ 1
+ 2491,01
+ 2491,01
+ 2
+ 209 jva 
+participaco
+não
+ 24620
+18/04/25
+ 24620
+ 1
+ 1
+ 982,62
+ 982,62
+ 1
+ 181 ind.com.esc
+adas 
+não
+ 44166
+23/04/25
+ 44166
+ 1
+ 2
+ 6761,99
+ 6761,99
+ 1
+ 143 neoaluminio 
+ind. com. de 
+não
+ 45551
+07/04/25
+ 45551
+ 1
+ 2
+ 6761,99
+ 6761,99
+ 2
+ 143 neoaluminio 
+ind. com. de 
+não
+ 45551
+14/04/25
+ 45551
+ 1
+ 2
+ 6762,02
+ 6762,02
+ 3
+ 143 neoaluminio 
+ind. com. de 
+não
+ 45551
+22/04/25
+ 45551
+ 1
+ 1
+ 1314,12
+ 1314,12
+ 3
+ 2 maxtech 
+comercial 
+não
+ 52913
+07/04/25
+ 52913
+ 1
+ 1
+ 1072,89
+ 1072,89
+ 1
+ 2 maxtech 
+comercial 
+não
+ 53279
+30/04/25
+ 53279
+ 1
+ 1
+ 1366,86
+ 1366,86
+ 1
+ 156 inpol 
+industria e 
+não
+ 53812
+17/04/25
+ 53812
+ 1
+ 1
+ 1284,37
+ 1284,37
+ 1
+ 62 olivo ind 
+prod 
+não
+ 57245
+20/04/25
+ 57245
+ 1
+ 1
+ 5383,01
+ 5383,01
+ 1
+ 12 wise 
+transform
+não
+ 60522
+02/04/25
+ 60522
+ 1
+ 1
+ 2680,00
+ 2680,00
+ 1
+ 12 wise 
+transform
+não
+ 60523
+02/04/25
+ 60523
+ 1
+ 2
+ 1840,00
+ 1840,00
+ 1
+ 12 wise 
+transform
+não
+ 60780
+18/04/25
+ 60780
+ 1
+ 2
+ 3270,00
+ 3270,00
+ 1
+ 12 wise 
+transform
+não
+ 60784
+18/04/25
+ 60784
+ 1
+ 1
+ 1340,12
+ 1340,12
+ 1
+ 23 lombard 
+industria 
+não
+ 69749
+24/04/25
+ 69749
+ 1
+ 1
+ 159,19
+ 159,19
+ 1
+ 202 iguacu 
+transporte 
+não
+ 80177
+14/04/25
+ 80177
+ 1
+ 2
+ 301,62
+ 301,62
+ 1
+ 202 iguacu 
+transporte 
+não
+ 81104
+21/04/25
+ 81104
+ 1
+ 1
+ 204,36
+ 204,36
+ 2
+ 65 soprano 
+industria 
+não
+ 84670
+09/04/25
+ 84670
+ 1
+ 1
+ 2104,00
+ 2104,00
+ 3
+ 249 kotubo 
+tubos 
+não
+ 10133
+14/04/25
+ 110133
+ 1
+ 2
+ 5030,00
+ 5030,00
+ 5
+ 141 dacota 
+condutores 
+não
+ 113930
+03/04/25
+ 113930
+ 1
+ 2
+ 5032,35
+ 5032,35
+ 6
+ 141 dacota 
+condutores 
+não
+ 113930
+10/04/25
+ 113930
+ 1
+ 2
+ 4293,00
+ 4293,00
+ 1
+ 141 dacota 
+condutores 
+não
+ 114683
+03/04/25
+ 114683
+ 1
+ 2
+ 4293,00
+ 4293,00
+ 2
+ 141 dacota 
+condutores 
+não
+ 114683
+10/04/25
+ 114683
+ 1
+ 2
+ 4293,00
+ 4293,00
+ 3
+ 141 dacota 
+condutores 
+não
+ 114683
+17/04/25
+ 114683
+ 1
+ 2
+ 4293,00
+ 4293,00
+ 4
+ 141 dacota 
+condutores 
+não
+ 114683
+24/04/25
+ 114683
+ 1
+ 2
+ 2727,00
+ 2727,00
+ 1
+ 141 dacota 
+condutores 
+não
+ 115519
+29/04/25
+ 115519
+ 1
+ 1
+ 1776,43
+ 1776,43
+ 1
+ 19 andaluz 
+ind. 
+não
+ 139460
+14/04/25
+ 139460
+ 1
+ 1
+ 244,91
+ 244,91
+ 1
+ 19 andaluz 
+ind. 
+não
+ 139541
+17/04/25
+ 139541
+ 1
+ 1
+ 1117,78
+ 1117,78
+ 2
+ 6 decorlux 
+material 
+não
+ 181364
+01/04/25
+ 181364
+ 1
+ 1
+ 1117,78
+ 1117,78
+ 3
+ 6 decorlux 
+material 
+não
+ 181364
+15/04/25
+ 181364
+ 1
+ 1
+ 1117,78
+ 1117,78
+ 4
+ 6 decorlux 
+material 
+não
+ 181364
+29/04/25
+ 181364
+ 1
+ 1
+ 136,81
+ 136,81
+ 1
+ 201 braspress 
+transporte
+não
+ 198293
+17/04/25
+ 198293
+objetiva soluções.
+gerado em 08/05/2025 as 17:23:36
+estação: servidor - usuário: jadilso bergami
+relatório de pagamentos de fornecedor
+empresa:
+3
+página:
+período de 01/04/2025 à 30/04/2025  e tipo por  dt pagamento, com modelo por documento por ordem de portador e 
+bergami comercio ltda                                                                               
+exc
+fl
+fornecedor
+documento
+fl
+pc
+vencto
+vr pago
+vr multa
+vr j uros
+desconto
+vr total
+nota fiscal
+ 1
+ 1
+ 136,81
+ 136,81
+ 1
+ 201 braspress 
+transporte
+não
+ 198293
+17/04/25
+ 198293
+ 1
+ 1
+ 1130,87
+ 1130,87
+ 1
+ 8 exatron ind. 
+eletr. ltda
+não
+ 241987
+04/04/25
+ 241987
+ 1
+ 1
+ 910,06
+ 910,06
+ 2
+ 8 exatron ind. 
+eletr. ltda
+não
+ 241987
+11/04/25
+ 241987
+ 1
+ 1
+ 910,05
+ 910,05
+ 3
+ 8 exatron ind. 
+eletr. ltda
+não
+ 241987
+18/04/25
+ 241987
+ 1
+ 1
+ 464,72
+ 464,72
+ 3
+ 73 soprano 
+industria 
+não
+ 265579
+06/04/25
+ 265579
+ 1
+ 2
+ 6142,29
+ 6142,29
+ 3
+ 114 lamesa 
+cabos 
+não
+ 266039
+04/04/25
+ 266039
+ 1
+ 2
+ 6142,29
+ 6142,29
+ 4
+ 114 lamesa 
+cabos 
+não
+ 266039
+11/04/25
+ 266039
+ 1
+ 2
+ 6142,29
+ 6142,29
+ 5
+ 114 lamesa 
+cabos 
+não
+ 266039
+18/04/25
+ 266039
+ 1
+ 2
+ 1036,40
+ 1036,40
+ 2
+ 114 lamesa 
+cabos 
+não
+ 266527
+04/04/25
+ 266527
+ 1
+ 2
+ 7271,88
+ 7271,88
+ 1
+ 114 lamesa 
+cabos 
+não
+ 267319
+11/04/25
+ 267319
+ 1
+ 2
+ 7271,88
+ 7271,88
+ 2
+ 114 lamesa 
+cabos 
+não
+ 267319
+18/04/25
+ 267319
+ 1
+ 2
+ 7271,88
+ 7271,88
+ 3
+ 114 lamesa 
+cabos 
+não
+ 267319
+25/04/25
+ 267319
+ 1
+ 2
+ 8440,79
+ 8440,79
+ 1
+ 114 lamesa 
+cabos 
+não
+ 268292
+25/04/25
+ 268292
+ 1
+ 1
+ 699,93
+ 699,93
+ 3
+ 73 soprano 
+industria 
+não
+ 271108
+23/04/25
+ 271108
+ 1
+ 1
+ 1270,52
+ 1270,52
+ 3
+ 73 soprano 
+industria 
+não
+ 271242
+23/04/25
+ 271242
+ 1
+ 1
+ 4541,82
+ 4541,82
+ 3
+ 73 soprano 
+industria 
+não
+ 271852
+25/04/25
+ 271852
+ 1
+ 1
+ 2238,09
+ 2238,09
+ 1
+ 73 soprano 
+industria 
+não
+ 281551
+03/04/25
+ 281551
+ 1
+ 1
+ 656,45
+ 656,45
+ 1
+ 73 soprano 
+industria 
+não
+ 286978
+26/04/25
+ 286978
+ 1
+ 1
+ 3091,12
+ 3091,12
+ 1
+ 73 soprano 
+industria 
+não
+ 288431
+28/04/25
+ 288431
+ 1
+ 1
+ 1986,71
+ 1986,71
+ 3
+ 5 enerbras 
+materiais 
+não
+ 323319
+03/04/25
+ 323319
+ 1
+ 1
+ 1509,93
+ 1509,93
+ 1
+ 5 enerbras 
+materiais 
+não
+ 327406
+27/04/25
+ 327406
+ 1
+ 1
+ 2911,47
+ 2911,47
+ 2
+ 172 eletro 
+metalurgic
+não
+ 333737
+14/04/25
+ 333737
+ 1
+ 1
+ 418,87
+ 418,87
+ 1
+ 9 trd 
+transporte 
+não
+ 434447
+09/05/25
+ 434447
+ 1
+ 1
+ 1980,82
+ 1980,82
+ 3
+ 111 produtos 
+eletronicos 
+não
+ 453772
+16/04/25
+ 453772
+ 1
+ 1
+ 2789,13
+ 2789,13
+ 1
+ 111 produtos 
+eletronicos 
+não
+ 459640
+15/04/25
+ 459640
+ 1
+ 1
+ 6737,09
+ 6737,09
+ 3
+ 35 intelli ind. 
+term. eletr. 
+não
+ 633945
+09/04/25
+ 633945
+ 1
+ 1
+ 580,49
+ 580,49
+ 3
+ 10 mar-girius 
+continental 
+não
+ 1460422
+22/04/25
+ 1460422
+ 1
+ 1
+ 575,69
+ 575,69
+ 3
+ 10 mar-girius 
+continental 
+não
+ 1462228
+27/04/25
+ 1462228
+ 1
+ 1
+ 1045,11
+ 1045,11
+ 2
+ 10 mar-girius 
+continental 
+não
+ 1466133
+02/04/25
+ 1466133
+ 1
+ 1
+ 1045,11
+ 1045,11
+ 3
+ 10 mar-girius 
+continental 
+não
+ 1466133
+30/04/25
+ 1466133
+ 1
+ 1
+ 908,22
+ 908,22
+ 2
+ 10 mar-girius 
+continental 
+não
+ 1475783
+10/04/25
+ 1475783
+ 1
+ 1
+ 908,22
+ 908,22
+ 3
+ 10 mar-girius 
+continental 
+não
+ 1475783
+24/04/25
+ 1475783
+ 1
+ 1
+ 851,02
+ 851,02
+ 1
+ 10 mar-girius 
+continental 
+não
+ 1480673
+10/04/25
+ 1480673
+objetiva soluções.
+gerado em 08/05/2025 as 17:23:36
+estação: servidor - usuário: jadilso bergami

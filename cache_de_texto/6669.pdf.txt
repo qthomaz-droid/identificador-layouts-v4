@@ -1,0 +1,783 @@
+16 - carimbo de identificação
+ficha do contribuinte
+- detalhamento campo 11
+  corr. principal = 0,00
+  corr. infracao = 0,00
+  juros = 0,00
+  selic = 0,00
+01
+02 - município
+03 - receita
+02
+1965-8
+1124
+04 - tipo
+05 - inscrição/cgc/cpf
+estado da paraíba
+1 
+16.540.688-7
+secretaria de estado da
+fazenda - sefaz
+17 - especificação da receita
+18 - reservado
+19 - n. controle
+06 - referência
+07 - data de vencimento
+dar - mod 2
+icms-simples nacional-fronteira
+3046203262
+10/2025
+15/12/2025
+20 - nome da firma ou razão social
+08 - documento
+09 - parcela
+guara comercio ltda
+21 - endereço
+10 - valor principal
+governador flavio ribeiro coutinho, 220, loja t-402
+r$40.664,02
+22 - bairro
+23 - cep
+24 - município
+11 - juros / selic
+parque verde
+58102-835
+cabedelo
+r$0,00
+25 - informações complementares
+12 - acréscimo moratório / multa de mora
+locais de pagamento itau, santander, banco do brasil, caixa economica federal,
+bradesco nao receber apos 15/12/2025
+r$0,00
+13 - multa por infração
+r$0,00
+14 - honorários
+r$0,00
+26 - valor por extenso
+15 - total a recolher
+quarenta mil e seiscentos e sessenta e quatro reais e dois centavos
+r$40.664,02
+27 - autenticação mecânica
+28 - data da emissão
+29 - matrícula
+03/11/2025
+ 
+85620000406-2 64020186253-2 49304620326-8 21124000000-3
+                         
+16 - carimbo de identificação
+ficha do estado/caixa
+- detalhamento campo 11
+  corr. principal = 0,00
+  corr. infracao = 0,00
+  juros = 0,00
+  selic = 0,00
+01
+02 - município
+03 - receita
+02
+1965-8
+1124
+04 - tipo
+05 - inscrição/cgc/cpf
+estado da paraíba
+1 
+16.540.688-7
+secretaria de estado da
+fazenda - sefaz
+17 - especificação da receita
+18 - reservado
+19 - n. controle
+06 - referência
+07 - data de vencimento
+dar - mod 2
+icms-simples nacional-fronteira
+3046203262
+10/2025
+15/12/2025
+20 - nome da firma ou razão social
+08 - documento
+09 - parcela
+guara comercio ltda
+21 - endereço
+10 - valor principal
+governador flavio ribeiro coutinho, 220, loja t-402
+r$40.664,02
+22 - bairro
+23 - cep
+24 - município
+11 - juros / selic
+parque verde
+58102-835
+cabedelo
+r$0,00
+25 - informações complementares
+12 - acréscimo moratório / multa de mora
+locais de pagamento itau, santander, banco do brasil, caixa economica federal,
+bradesco nao receber apos 15/12/2025
+r$0,00
+13 - multa por infração
+r$0,00
+14 - honorários
+r$0,00
+26 - valor por extenso
+15 - total a recolher
+quarenta mil e seiscentos e sessenta e quatro reais e dois centavos
+r$40.664,02
+27 - autenticação mecânica
+28 - data da emissão
+29 - matrícula
+03/11/2025
+ 
+85620000406-2 64020186253-2 49304620326-8 21124000000-3
+                         
+governo do estado da paraíba
+secretaria de estado da fazenda - sefaz
+gerência de fiscalização de mercadoria em trânsito
+     emissão: 03/11/2025
+     folha: 1 de 2
+extrato demonstrativo da fatura
+nosso número: 3046203262
+receita: 1124
+icms-simples nacional-fronteira
+16.540.688-7
+guara comercio ltda
+endereço:
+governador flavio ribeiro coutinho, 220, loja t-
+402
+bairro:
+parque verde
+cep:
+58102-835
+município:
+cabedelo
+sr. contribuinte: qualquer reclamação, procurar a repartição fiscal do seu domicílio até o vencimento
+atenção: o valor "total frete" só deverá ser considerado a partir das faturas de referência 04/2016 em diante.
+nota
+fiscal
+data
+cobrança
+data
+emissão
+nome empresarial
+cnpj-emitente
+uf
+total icms
+total bc
+total frete
+data
+mdfe/cte
+23048
+01/10/2025
+16/09/2025
+primar industria textil ltda
+03.663.243/0001-06
+mg
+1.105,71
+8.505,55
+0,00
+01/10/2025
+243222
+01/10/2025
+16/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+119,70
+1.496,72
+0,00
+01/10/2025
+695032
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+385,97
+2.969,03
+0,00
+01/10/2025
+695033
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+367,20
+2.824,72
+0,00
+01/10/2025
+695034
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+797,45
+6.134,50
+0,00
+01/10/2025
+695035
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+217,60
+1.673,83
+0,00
+01/10/2025
+695036
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+1.286,60
+9.896,73
+0,00
+01/10/2025
+695037
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+580,95
+4.469,07
+0,00
+01/10/2025
+695038
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+145,24
+1.117,26
+0,00
+01/10/2025
+695039
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+886,70
+6.820,79
+0,00
+01/10/2025
+695040
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+406,94
+3.130,07
+0,00
+01/10/2025
+695041
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+705,00
+5.423,34
+0,00
+01/10/2025
+695042
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+359,04
+2.761,91
+0,00
+01/10/2025
+695043
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+206,72
+1.590,14
+0,00
+01/10/2025
+695044
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+692,00
+5.322,75
+0,00
+01/10/2025
+695045
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+301,88
+2.322,17
+0,00
+01/10/2025
+695046
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+131,79
+1.013,81
+0,00
+01/10/2025
+695047
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+159,55
+1.227,30
+0,00
+01/10/2025
+695048
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+134,37
+1.033,57
+0,00
+01/10/2025
+695076
+01/10/2025
+16/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+908,21
+6.986,40
+0,00
+01/10/2025
+243306
+01/10/2025
+17/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+667,77
+8.346,91
+0,00
+01/10/2025
+243307
+01/10/2025
+17/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+255,02
+3.187,58
+0,00
+01/10/2025
+695156
+01/10/2025
+17/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+1.106,12
+8.508,47
+0,00
+01/10/2025
+695259
+01/10/2025
+17/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+238,66
+1.836,01
+0,00
+01/10/2025
+2374
+01/10/2025
+18/09/2025
+brascent industria e
+comercio
+52.200.778/0001-48
+sp
+77,88
+599,09
+0,00
+01/10/2025
+23063
+01/10/2025
+18/09/2025
+primar industria textil ltda
+03.663.243/0001-06
+mg
+124,14
+954,97
+0,00
+01/10/2025
+695319
+01/10/2025
+18/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+1.048,31
+8.063,81
+0,00
+01/10/2025
+695320
+01/10/2025
+18/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+213,23
+1.640,40
+0,00
+01/10/2025
+695321
+01/10/2025
+18/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+439,52
+3.381,13
+0,00
+01/10/2025
+695344
+01/10/2025
+18/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+565,70
+4.351,43
+0,00
+01/10/2025
+695436
+01/10/2025
+18/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+1.024,04
+7.877,58
+0,00
+01/10/2025
+695437
+01/10/2025
+18/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+1.060,80
+8.160,10
+0,00
+01/10/2025
+695456
+01/10/2025
+18/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+292,27
+2.248,32
+0,00
+5504
+01/10/2025
+19/09/2025
+catu comercio de cosmeticos
+s
+26.072.717/0001-32
+sp
+13,97
+107,46
+0,00
+03/10/2025
+243483
+01/10/2025
+19/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+841,97
+10.524,85
+0,00
+01/10/2025
+243508
+01/10/2025
+19/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+269,92
+3.373,74
+0,00
+01/10/2025
+243509
+01/10/2025
+19/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+658,62
+8.232,21
+0,00
+01/10/2025
+243646
+01/10/2025
+19/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+242,06
+3.025,17
+0,00
+01/10/2025
+695661
+01/10/2025
+19/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+379,44
+2.918,87
+0,00
+01/10/2025
+695662
+01/10/2025
+19/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+302,75
+2.328,83
+0,00
+01/10/2025
+695663
+01/10/2025
+19/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+1.973,07
+15.177,74
+0,00
+01/10/2025
+695664
+01/10/2025
+19/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+910,13
+7.000,98
+0,00
+01/10/2025
+695793
+01/10/2025
+19/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+1.357,54
+10.443,17
+0,00
+01/10/2025
+5647
+01/10/2025
+22/09/2025
+catu comercio de cosmeticos
+s
+26.072.717/0001-32
+sp
+130,21
+1.001,61
+0,00
+03/10/2025
+243678
+01/10/2025
+22/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+401,05
+5.013,06
+0,00
+01/10/2025
+247844
+01/10/2025
+22/09/2025
+metalsinos industria
+comercio
+91.437.418/0001-16
+rs
+51,18
+393,64
+0,00
+24/09/2025
+1626
+01/10/2025
+23/09/2025
+tecnoplaque
+02.741.674/0001-72
+sp
+31,25
+240,46
+0,00
+26/09/2025
+243826
+01/10/2025
+23/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+385,28
+4.815,12
+0,00
+01/10/2025
+243869
+01/10/2025
+23/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+404,28
+5.052,43
+0,00
+01/10/2025
+696042
+01/10/2025
+23/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+2.066,25
+15.894,16
+0,00
+02/10/2025
+243931
+01/10/2025
+24/09/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+567,19
+7.089,92
+0,00
+01/10/2025
+697027
+02/10/2025
+30/09/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+3.225,60
+24.811,70
+0,00
+09/10/2025
+697177
+04/10/2025
+02/10/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+310,55
+2.388,77
+0,00
+697189
+04/10/2025
+02/10/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+90,62
+697,04
+0,00
+245080
+05/10/2025
+03/10/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+171,07
+2.138,26
+0,00
+08/10/2025
+697888
+09/10/2025
+07/10/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+9,54
+73,30
+0,00
+67398
+11/10/2025
+08/10/2025
+sulnove industria de
+embalage
+06.889.781/0001-01
+sc
+20,26
+155,86
+0,00
+17/10/2025
+14681
+11/10/2025
+09/10/2025
+festpromo - produtos
+promocio
+35.167.884/0001-58
+sp
+92,94
+714,94
+0,00
+28/10/2025
+698165
+11/10/2025
+09/10/2025
+calcados bibi ltda
+97.748.958/0001-05
+rs
+77,50
+596,19
+0,00
+17/10/2025
+245663
+15/10/2025
+13/10/2025
+calcados bibi ltda. filial
+ba
+97.748.958/0030-31
+ba
+42,29
+528,61
+0,00
+18/10/2025

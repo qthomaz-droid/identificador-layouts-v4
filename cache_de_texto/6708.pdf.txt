@@ -1,0 +1,930 @@
+número
+do título
+valor
+a pagar
+data
+emissão
+data
+vencto.
+status
+valor
+total
+valor
+pago
+data
+ pagto.
+tipo de
+documento
+observação
+num.
+cheque
+valor
+juros
+valor
+desconto
+valor
+multa
+data
+entrada
+loja n° docto
+1
+inbahia rep.e distribuicoes ltda
+-
+fornecedor:
+gerado pela nf: 841213 -
+entradanfe sambanet
+2704661572207
+22/07/24
+14/12/24
+14/01/25
+bt
+160,06
+0,00
+160,06 14/01/25
+boleto
+0,00
+0,00
+0,00
+1
+841213
+gerado pela nf: 877171 -
+entradanfe sambanet
+4836661572911
+29/11/24
+29/11/24
+03/01/25
+bt
+447,72
+0,00
+449,22 03/01/25
+boleto
+0,00
+0,00
+1,50
+1
+877171
+gerado pela nf: 878979 -
+entradanfe sambanet
+4936661570512
+05/12/24
+04/12/24
+01/01/25
+bt
+342,50
+0,00
+344,00 31/12/24
+boleto
+0,00
+0,00
+1,50
+1
+878979
+gerado pela nf: 878979 -
+entradanfe sambanet
+4936661570512
+05/12/24
+04/12/24
+08/01/25
+bt
+342,50
+0,00
+344,00 08/01/25
+boleto
+0,00
+0,00
+1,50
+1
+878979
+gerado pela nf: 880711 -
+entradanfe sambanet
+5014661571012
+10/12/24
+10/12/24
+07/01/25
+bt
+415,04
+0,00
+416,54 07/01/25
+boleto
+0,00
+0,00
+1,50
+1
+880711
+gerado pela nf: 880711 -
+entradanfe sambanet
+5014661571012
+10/12/24
+10/12/24
+14/01/25
+bt
+415,04
+0,00
+416,54 14/01/25
+boleto
+0,00
+0,00
+1,50
+1
+880711
+gerado pela nf: 880712 -
+entradanfe sambanet
+5017661571012
+10/12/24
+10/12/24
+07/01/25
+ab
+158,56
+158,56
+0,00
+boleto
+0,00
+0,00
+0,00
+1
+880712
+gerado pela nf: 880712 -
+entradanfe sambanet
+5017661571012
+10/12/24
+10/12/24
+14/01/25
+bt
+158,56
+0,00
+160,06 07/01/25
+boleto
+0,00
+0,00
+1,50
+1
+880712
+gerado pela nf: 882948 -
+entradanfe sambanet
+5137661571612
+16/12/24
+16/12/24
+06/01/25
+bt
+759,02
+0,00
+760,52 06/01/25
+boleto
+0,00
+0,00
+1,50
+1
+882948
+gerado pela nf: 882948 -
+entradanfe sambanet
+5137661571612
+16/12/24
+16/12/24
+13/01/25
+bt
+759,02
+0,00
+760,52 13/01/25
+boleto
+0,00
+0,00
+1,50
+1
+882948
+gerado pela nf: 882948 -
+entradanfe sambanet
+5137661571612
+16/12/24
+16/12/24
+20/01/25
+bt
+759,02
+0,00
+760,52 20/01/25
+boleto
+0,00
+0,00
+1,50
+1
+882948
+gerado pela nf: 883726 -
+entradanfe sambanet
+5264661572012
+20/12/24
+19/12/24
+16/01/25
+bt
+215,94
+0,00
+217,44 16/01/25
+boleto
+0,00
+0,00
+1,50
+1
+883726
+gerado pela nf: 886950 -
+entradanfe sambanet
+5556661571601
+16/01/25
+16/01/25
+16/01/25
+ab
+51,66
+51,66
+0,00
+boleto
+0,00
+0,00
+0,00
+1
+886950
+valor total fornecedor:
+4.984,64
+210,22
+4.789,42
+0,00
+15,00
+0,00
+2
+biscoito ryal industria ltda
+-
+fornecedor:
+gerado pela nf: 11863 -
+entradanfe sambanet
+5288661572312
+23/12/24
+19/12/24
+09/01/25
+bt
+1.268,00
+0,00
+1.268,00 09/01/25
+boleto
+0,00
+0,00
+0,00
+1
+11863
+valor total fornecedor:
+1.268,00
+0,00
+1.268,00
+0,00
+0,00
+0,00
+3
+comercial de alimentos j. m. ribeiro ltda
+-
+fornecedor:
+gerado pela nf: 574996 -
+entradanfe sambanet
+5105661571312
+13/12/24
+11/12/24
+01/01/25
+bt
+1.255,17
+0,00
+1.255,17 31/12/24
+boleto
+0,00
+0,00
+0,00
+1
+574996
+gerado pela nf: 578755 -
+entradanfe sambanet
+5361661573112
+31/12/24
+29/12/24
+19/01/25
+bt
+512,26
+0,00
+512,26 20/01/25
+boleto
+0,00
+0,00
+0,00
+1
+578755
+pág. 1 de 28
+k & m supermercados ltda
+humaita | nº 337 | mandacaru
+jequie - ba |  cep: 45210-038 |  tel.: (73) 9801-3720
+04/02/2025 17:52
+relatório de títulos a pagar
+loja: 1
+período de vencimento: 01/01/2025 à 28/01/2025
+situação: todos
+relatório analítico
+quebra por: fornecedor
+versão: 1.0.0.0
+número
+do título
+valor
+a pagar
+data
+emissão
+data
+vencto.
+status
+valor
+total
+valor
+pago
+data
+ pagto.
+tipo de
+documento
+observação
+num.
+cheque
+valor
+juros
+valor
+desconto
+valor
+multa
+data
+entrada
+loja n° docto
+valor total fornecedor:
+1.767,43
+0,00
+1.767,43
+0,00
+0,00
+0,00
+4
+concord distribuidora de alimentos ltda
+-
+fornecedor:
+gerado pela nf: 875752 -
+entradanfe sambanet
+5103661571312
+13/12/24
+12/12/24
+10/01/25
+bt
+660,76
+0,00
+660,76 10/01/25
+boleto
+0,00
+0,00
+0,00
+1
+875752
+gerado pela nf: 875752 -
+entradanfe sambanet
+5103661571312
+13/12/24
+12/12/24
+17/01/25
+bt
+660,76
+0,00
+660,76 17/01/25
+boleto
+0,00
+0,00
+0,00
+1
+875752
+valor total fornecedor:
+1.321,52
+0,00
+1.321,52
+0,00
+0,00
+0,00
+5
+jbs s/a
+-
+fornecedor:
+gerado pela nf: 951271 -
+entradanfe sambanet
+5074661571212
+12/12/24
+12/12/24
+02/01/25
+bt
+3.878,82
+0,00
+3.878,82 02/01/25
+boleto
+0,00
+0,00
+0,00
+1
+951271
+gerado pela nf: 953506 -
+entradanfe sambanet
+5255661572012
+20/12/24
+19/12/24
+02/01/25
+bt
+4.053,59
+0,00
+4.053,59 02/01/25
+boleto
+0,00
+0,00
+0,00
+1
+953506
+gerado pela nf: 953506 -
+entradanfe sambanet
+5255661572012
+20/12/24
+19/12/24
+09/01/25
+bt
+4.053,60
+0,00
+4.053,60 09/01/25
+boleto
+0,00
+0,00
+0,00
+1
+953506
+gerado pela nf: 954131 -
+entradanfe sambanet
+5285661572312
+23/12/24
+21/12/24
+06/01/25
+bt
+2.905,80
+0,00
+2.905,80 06/01/25
+boleto
+0,00
+0,00
+0,00
+1
+954131
+gerado pela nf: 954131 -
+entradanfe sambanet
+5285661572312
+23/12/24
+21/12/24
+13/01/25
+bt
+2.905,80
+0,00
+2.905,80 13/01/25
+boleto
+0,00
+0,00
+0,00
+1
+954131
+gerado pela nf: 954709 -
+entradanfe sambanet
+5340661572712
+27/12/24
+24/12/24
+14/01/25
+bt
+1.780,03
+0,00
+1.780,03 14/01/25
+boleto
+0,00
+0,00
+0,00
+1
+954709
+gerado pela nf: 958353 -
+entradanfe sambanet
+5452661571001
+10/01/25
+09/01/25
+23/01/25
+bt
+322,59
+0,00
+322,59 23/01/25
+boleto
+0,00
+0,00
+0,00
+1
+958353
+valor total fornecedor:
+19.900,23
+0,00
+19.900,23
+0,00
+0,00
+0,00
+6
+norsa refrigerantes s.a.
+-
+fornecedor:
+gerado pela nf: 1753788 -
+entradanfe sambanet
+3662661571609
+16/09/24
+13/09/24
+13/01/25
+bt
+1.591,64
+0,00
+1.591,64 13/01/25
+boleto
+0,00
+0,00
+0,00
+1
+1753788
+gerado pela nf: 1802783 -
+entradanfe sambanet
+4728661572211
+22/11/24
+30/12/24
+04/01/25
+bt
+2.008,93
+0,00
+2.008,93 04/01/25
+boleto
+0,00
+0,00
+0,00
+1
+1802783
+gerado pela nf: 1810217 -
+entradanfe sambanet
+4886661570312
+03/12/24
+02/12/24
+13/01/25
+bt
+598,80
+0,00
+598,80 13/01/25
+boleto
+0,00
+0,00
+0,00
+1
+1810217
+gerado pela nf: 1811167 -
+entradanfe sambanet
+4905661570412
+04/12/24
+03/12/24
+07/01/25
+bt
+312,16
+0,00
+312,16 07/01/25
+boleto
+0,00
+0,00
+0,00
+1
+1811167
+gerado pela nf: 1815509 -
+entradanfe sambanet
+4990661571012
+10/12/24
+09/12/24
+08/01/25
+ab
+2.972,57
+2.972,57
+0,00
+boleto
+0,00
+0,00
+0,00
+1
+1815509
+gerado pela nf: 1819092 -
+entradanfe sambanet
+5091661571312
+13/12/24
+12/12/24
+11/01/25
+ab
+1.284,84
+1.284,84
+0,00
+boleto
+0,00
+0,00
+0,00
+1
+1819092
+pág. 2 de 28
+k & m supermercados ltda
+humaita | nº 337 | mandacaru
+jequie - ba |  cep: 45210-038 |  tel.: (73) 9801-3720
+04/02/2025 17:52
+relatório de títulos a pagar
+loja: 1
+período de vencimento: 01/01/2025 à 28/01/2025
+situação: todos
+relatório analítico
+quebra por: fornecedor
+versão: 1.0.0.0
+número
+do título
+valor
+a pagar
+data
+emissão
+data
+vencto.
+status
+valor
+total
+valor
+pago
+data
+ pagto.
+tipo de
+documento
+observação
+num.
+cheque
+valor
+juros
+valor
+desconto
+valor
+multa
+data
+entrada
+loja n° docto
+gerado pela nf: 1825516 -
+entradanfe sambanet
+5280661572312
+23/12/24
+19/12/24
+18/01/25
+ab
+2.473,73
+2.473,73
+0,00
+boleto
+0,00
+0,00
+0,00
+1
+1825516
+gerado pela nf: 1825399 -
+entradanfe sambanet
+5281661572312
+23/12/24
+19/12/24
+27/01/25
+bt
+59,92
+0,00
+59,92 27/01/25
+boleto
+0,00
+0,00
+0,00
+1
+1825399
+gerado pela nf: 1827940 -
+entradanfe sambanet
+5304661572612
+26/12/24
+23/12/24
+22/01/25
+ab
+700,41
+700,41
+0,00
+boleto
+0,00
+0,00
+0,00
+1
+1827940
+gerado pela nf: 1830469 -
+entradanfe sambanet
+5344661572712
+27/12/24
+26/12/24
+28/01/25
+bt
+691,54
+0,00
+691,54 28/01/25
+boleto
+0,00
+0,00
+0,00
+1
+1830469
+gerado pela nf: 1848744 -
+entradanfe sambanet
+5611661572101
+21/01/25
+20/01/25
+27/01/25
+bt
+42,23
+0,00
+42,23 27/01/25
+boleto
+0,00
+0,00
+0,00
+1
+1848744
+gerado pela nf: 1848792 -
+entradanfe sambanet
+5616661572101
+21/01/25
+20/01/25
+25/01/25
+bt
+1.654,44
+0,00
+1.654,44 27/01/25
+boleto
+0,00
+0,00
+0,00
+1
+1848792
+valor total fornecedor:
+14.391,21
+7.431,55
+6.959,66
+0,00
+0,00
+0,00
+7
+cervejaria petropolis s/a
+-
+fornecedor:
+gerado pela nf: 185352 -
+entradanfe sambanet
+5404661570601
+06/01/25
+03/01/25
+18/01/25
+bt
+432,34
+0,00
+434,29 22/01/25
+boleto
+0,00
+0,00
+1,95
+1
+185352
+valor total fornecedor:
+432,34
+0,00
+434,29
+0,00
+1,95
+0,00
+8
+alianca atacadista ltda
+-
+fornecedor:
+gerado pela nf: 312461 -
+entradanfe sambanet
+5063661571212
+12/12/24
+09/12/24
+06/01/25
+bt
+291,51
+0,00
+291,51 06/01/25
+boleto
+0,00
+0,00
+0,00
+1
+312461
+gerado pela nf: 313373 -
+entradanfe sambanet
+5397661570301
+03/01/25
+30/12/24
+20/01/25
+bt
+719,73
+0,00
+719,73 20/01/25
+boleto
+0,00
+0,00
+0,00
+1
+313373
+valor total fornecedor:
+1.011,24
+0,00
+1.011,24
+0,00
+0,00
+0,00
+10
+bahiafrios comercio de frios ltda
+-
+fornecedor:
+gerado pela nf: 411085 -
+entradanfe sambanet
+5099661571312
+13/12/24
+13/12/24
+03/01/25
+bt
+323,70
+0,00
+323,70 03/01/25
+boleto
+0,00
+0,00
+0,00
+1
+411085
+gerado pela nf: 414384 -
+entradanfe sambanet
+5375661573112
+31/12/24
+31/12/24
+21/01/25
+bt
+297,80
+0,00
+297,80 21/01/25
+boleto
+0,00
+0,00
+0,00
+1
+414384
+gerado pela nf: 417335 -
+entradanfe sambanet
+5558661571701
+17/01/25
+17/01/25
+17/01/25
+ab
+54,40
+54,40
+0,00
+boleto
+0,00
+0,00
+0,00
+1
+417335
+valor total fornecedor:
+675,90
+54,40
+621,50
+0,00
+0,00
+0,00
+13
+dist de prod alim sao roque ltda
+-
+fornecedor:
+gerado pela nf: 3665587 -
+entradanfe sambanet
+5071661571212
+12/12/24
+06/12/24
+06/01/25
+bt
+772,57
+0,00
+772,57 06/01/25
+boleto
+0,00
+0,00
+0,00
+1
+3665587
+pág. 3 de 28
+k & m supermercados ltda
+humaita | nº 337 | mandacaru
+jequie - ba |  cep: 45210-038 |  tel.: (73) 9801-3720
+04/02/2025 17:52
+relatório de títulos a pagar
+loja: 1
+período de vencimento: 01/01/2025 à 28/01/2025
+situação: todos
+relatório analítico
+quebra por: fornecedor
+versão: 1.0.0.0

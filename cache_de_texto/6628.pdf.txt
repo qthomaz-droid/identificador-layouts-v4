@@ -1,0 +1,1113 @@
+page: 1
+date: 03/09/2025
+alias: transacional, account type: payment, name: lazo, document: 48.943.888/0001-22.
+ispb: 33630661, institution: gowd ip ltda, branch: 0001, account: 84805659893710101000.
+period: 01/08/2025 00:00:00 - 31/08/2025 23:59:59.
+balance of the day 31/08/2025 23:59:59: r$ 30.915,09.
+created at
+amount
+balance
+currency
+payment
+method
+description
+name
+document
+bank
+name
+bank
+ispb
+branch
+number
+account
+number
+external
+code
+identifier
+e2e id
+identifier
+refund
+e2e id
+refund
+31/08/2025 
+18:41:39
+r$ -0,27
+r$ 30.915,09
+brl
+pix
+variable fee t
+ransfer
+ana lucia j
+esus a oliv
+eira
+***.704.365-
+**
+itaú uniban
+co s.a.
+60701190
+2801
+84407
+22795583412
+262916096
+0b5e15e4-b4
+e6-4ba7-be7
+f-87f979cfb7
+19
+e6070119020
+2508312141dy
+5oo1ic9fx
+31/08/2025 
+18:41:39
+r$ 270,26
+r$ 30.915,36
+brl
+pix
+order payme
+nt transfer
+ana lucia j
+esus a oliv
+eira
+***.704.365-
+**
+itaú uniban
+co s.a.
+60701190
+2801
+84407
+22795583412
+262916096
+0b5e15e4-b4
+e6-4ba7-be7
+f-87f979cfb7
+19
+e6070119020
+2508312141dy
+5oo1ic9fx
+31/08/2025 
+12:47:39
+r$ -0,20
+r$ 30.645,10
+brl
+pix
+variable fee t
+ransfer
+aurelina agui
+ar molin
+***.557.999-
+**
+nu pagamen
+tos - ip
+18236120
+1
+463042203
+22795496289
+386692608
+a3fe130a-d84
+5-4c40-8cdc
+-d2c639e7f2
+ca
+e1823612020
+2508311547s1
+3feb1dbf3
+31/08/2025 
+12:47:39
+r$ 200,00
+r$ 30.645,30
+brl
+pix
+order payme
+nt transfer
+aurelina agui
+ar molin
+***.557.999-
+**
+nu pagamen
+tos - ip
+18236120
+1
+463042203
+22795496289
+386692608
+a3fe130a-d84
+5-4c40-8cdc
+-d2c639e7f2
+ca
+e1823612020
+2508311547s1
+3feb1dbf3
+30/08/2025
+ 19:07:08
+r$ -0,50
+r$ 30.445,30
+brl
+pix
+variable fee t
+ransfer
+gustavo ar
+aujo santo
+s
+***.696.988-
+**
+cloudwalk
+ ip ltda
+18189547
+1
+164112620
+22795229539
+859562496
+32f6e35a-21e
+e-4028-af83
+-c0b808e533
+00
+e1818954720
+2508302207l
+ttg80sfi0d
+30/08/2025
+ 19:07:08
+r$ 500,00
+r$ 30.445,80
+brl
+pix
+order payme
+nt transfer
+gustavo ar
+aujo santo
+s
+***.696.988-
+**
+cloudwalk
+ ip ltda
+18189547
+1
+164112620
+22795229539
+859562496
+32f6e35a-21e
+e-4028-af83
+-c0b808e533
+00
+e1818954720
+2508302207l
+ttg80sfi0d
+30/08/2025
+ 15:27:58
+r$ -0,60
+r$ 29.945,80
+brl
+pix
+variable fee t
+ransfer
+gustavo ar
+aujo santo
+s
+***.696.988-
+**
+cloudwalk
+ ip ltda
+18189547
+1
+164112620
+22795174653
+584965632
+33be8fde-63
+24-4e3a-b59
+e-6661227b8
+99a
+e1818954720
+2508301827c
+eva6qi0omv
+30/08/2025
+ 15:27:58
+r$ 600,00
+r$ 29.946,40
+brl
+pix
+order payme
+nt transfer
+gustavo ar
+aujo santo
+s
+***.696.988-
+**
+cloudwalk
+ ip ltda
+18189547
+1
+164112620
+22795174653
+584965632
+33be8fde-63
+24-4e3a-b59
+e-6661227b8
+99a
+e1818954720
+2508301827c
+eva6qi0omv
+30/08/2025
+ 15:17:10
+r$ -100,00
+r$ 29.346,40
+brl
+pix
+refund - orig
+in p2p - brl
+maria lucia 
+nunes de al
+meida
+***.432.446-
+**
+nu pagamen
+tos - ip
+18236120
+1
+843056422
+227951719180
+39474176
+9bd02191-e4
+ed-4b23-a26
+f-eb34b377e
+05e
+e1823612020
+2508301816s1
+93811adbc
+84eea1cc-8e
+db-4c45-8d5
+0-58b30ef40
+3fa
+d3363066120
+2508301817v
+e4j8y1klrl
+30/08/2025
+ 15:17:07
+r$ -0,10
+r$ 29.446,40
+brl
+pix
+variable fee t
+ransfer
+maria lucia 
+nunes de al
+meida
+***.432.446-
+**
+nu pagamen
+tos - ip
+18236120
+1
+843056422
+227951719180
+39474176
+9bd02191-e4
+ed-4b23-a26
+f-eb34b377e
+05e
+e1823612020
+2508301816s1
+93811adbc
+84eea1cc-8e
+db-4c45-8d5
+0-58b30ef40
+3fa
+d3363066120
+2508301817v
+e4j8y1klrl
+ vw) gowd
+page: 2
+30/08/2025
+ 15:17:07
+r$ 100,00
+r$ 29.446,50
+brl
+pix
+order payme
+nt transfer
+maria lucia 
+nunes de al
+meida
+***.432.446-
+**
+nu pagamen
+tos - ip
+18236120
+1
+843056422
+227951719180
+39474176
+9bd02191-e4
+ed-4b23-a26
+f-eb34b377e
+05e
+e1823612020
+2508301816s1
+93811adbc
+84eea1cc-8e
+db-4c45-8d5
+0-58b30ef40
+3fa
+d3363066120
+2508301817v
+e4j8y1klrl
+29/08/2025
+ 23:28:17
+r$ -0,05
+r$ 29.346,50
+brl
+pix
+variable fee t
+ransfer
+marcel abrao
+ ribeiro dias
+***.564.116-*
+*
+mercado pa
+go ip ltda.
+10573521
+1
+56035225899
+22794933215
+575998464
+7271007f-200
+a-4132-8fa8-
+e6dd5e1245b
+e
+e1057352120
+2508300228g
+ojyxp2w7cc
+29/08/2025
+ 23:28:17
+r$ 50,00
+r$ 29.346,55
+brl
+pix
+order payme
+nt transfer
+marcel abrao
+ ribeiro dias
+***.564.116-*
+*
+mercado pa
+go ip ltda.
+10573521
+1
+56035225899
+22794933215
+575998464
+7271007f-200
+a-4132-8fa8-
+e6dd5e1245b
+e
+e1057352120
+2508300228g
+ojyxp2w7cc
+29/08/2025
+ 10:55:22
+r$ -0,21
+r$ 29.296,55
+brl
+pix
+variable fee t
+ransfer
+ana lucia d
+e jesus alm
+eida
+***.704.365-
+**
+caixa econ
+omica fede
+ral
+00360305
+4116
+7538336487
+22794743471
+535820800
+f44aa589-a5
+20-42ba-862
+8-010358049
+a87
+e003603052
+02508291355
+860d6a9cab6
+29/08/2025
+ 10:55:22
+r$ 202,99
+r$ 29.296,76
+brl
+pix
+order payme
+nt transfer
+ana lucia d
+e jesus alm
+eida
+***.704.365-
+**
+caixa econ
+omica fede
+ral
+00360305
+4116
+7538336487
+22794743471
+535820800
+f44aa589-a5
+20-42ba-862
+8-010358049
+a87
+e003603052
+02508291355
+860d6a9cab6
+29/08/2025
+ 09:35:27
+r$ -10,00
+r$ 29.093,77
+brl
+pix
+variable fee t
+ransfer
+roneivon m
+arques pin
+heiro
+***.076.286-
+**
+itaú uniban
+co s.a.
+60701190
+5294
+200885
+22794723354
+188357632
+7488e0b2-15
+96-4c8f-a88
+b-d69d2f2a0
+9b3
+e6070119020
+2508291234d
+y5ipewk5hu
+29/08/2025
+ 09:35:27
+r$ 10.000,00
+r$ 29.103,77
+brl
+pix
+order payme
+nt transfer
+roneivon m
+arques pin
+heiro
+***.076.286-
+**
+itaú uniban
+co s.a.
+60701190
+5294
+200885
+22794723354
+188357632
+7488e0b2-15
+96-4c8f-a88
+b-d69d2f2a0
+9b3
+e6070119020
+2508291234d
+y5ipewk5hu
+29/08/2025
+ 09:30:53
+r$ -0,33
+r$ 19.103,77
+brl
+pix
+variable fee t
+ransfer
+manoel perei
+ra monteiro j
+unior
+***.552.922-
+**
+mercado pa
+go ip ltda.
+10573521
+1
+19232748615
+22794721867
+896086528
+93b91cdb-cd
+49-449a-96a
+9-4e702bc98
+b0c
+e1057352120
+2508291230yj
+po46tnvpp
+29/08/2025
+ 09:30:53
+r$ 330,00
+r$ 19.104,10
+brl
+pix
+order payme
+nt transfer
+manoel perei
+ra monteiro j
+unior
+***.552.922-
+**
+mercado pa
+go ip ltda.
+10573521
+1
+19232748615
+22794721867
+896086528
+93b91cdb-cd
+49-449a-96a
+9-4e702bc98
+b0c
+e1057352120
+2508291230yj
+po46tnvpp
+28/08/2025
+ 20:38:55
+r$ -730,00
+r$ 18.774,10
+brl
+pix
+refund - orig
+in p2p - brl
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794525342
+465130496
+6a1e6242-dc
+3d-4e0c-b85
+b-4961a0286
+39e
+e2085587520
+25082823276
+pthsj7c64p
+8e0d2701-69
+68-497d-a64
+b-913414c169
+12
+d3363066120
+2508282338x
+4g3pq04uu3
+28/08/2025
+ 20:27:46
+r$ -0,73
+r$ 19.504,10
+brl
+pix
+variable fee t
+ransfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794525342
+465130496
+6a1e6242-dc
+3d-4e0c-b85
+b-4961a0286
+39e
+e2085587520
+25082823276
+pthsj7c64p
+8e0d2701-69
+68-497d-a64
+b-913414c169
+12
+d3363066120
+2508282338x
+4g3pq04uu3
+28/08/2025
+ 20:27:46
+r$ 730,00
+r$ 19.504,83
+brl
+pix
+order payme
+nt transfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794525342
+465130496
+6a1e6242-dc
+3d-4e0c-b85
+b-4961a0286
+39e
+e2085587520
+25082823276
+pthsj7c64p
+8e0d2701-69
+68-497d-a64
+b-913414c169
+12
+d3363066120
+2508282338x
+4g3pq04uu3
+28/08/2025
+ 20:00:28
+r$ -0,55
+r$ 18.774,83
+brl
+pix
+variable fee t
+ransfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794518525
+807570944
+cfb65e09-3e
+2b-4a5c-8fb
+8-d4757613e
+75b
+e2085587520
+25082822597
+n7qt6rolt4
+28/08/2025
+ 20:00:28
+r$ 550,00
+r$ 18.775,38
+brl
+pix
+order payme
+nt transfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794518525
+807570944
+cfb65e09-3e
+2b-4a5c-8fb
+8-d4757613e
+75b
+e2085587520
+25082822597
+n7qt6rolt4
+page: 3
+28/08/2025
+ 19:55:23
+r$ -0,80
+r$ 18.225,38
+brl
+pix
+variable fee t
+ransfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794517279
+513739264
+87a68fde-cd
+89-4bf2-9d4
+8-6a3c4f393
+d31
+e2085587520
+25082822556
+6ogtwxc2d
+m
+28/08/2025
+ 19:55:23
+r$ 800,00
+r$ 18.226,18
+brl
+pix
+order payme
+nt transfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794517279
+513739264
+87a68fde-cd
+89-4bf2-9d4
+8-6a3c4f393
+d31
+e2085587520
+25082822556
+6ogtwxc2d
+m
+28/08/2025
+ 19:42:56
+r$ -0,71
+r$ 17.426,18
+brl
+pix
+variable fee t
+ransfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794514128
+506814464
+b8789efe-8f
+30-47a1-bdc1
+-d7240ea856
+22
+e2085587520
+2508282242
+n5uaiw1zj6
+h
+28/08/2025
+ 19:42:56
+r$ 705,00
+r$ 17.426,89
+brl
+pix
+order payme
+nt transfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794514128
+506814464
+b8789efe-8f
+30-47a1-bdc1
+-d7240ea856
+22
+e2085587520
+2508282242
+n5uaiw1zj6
+h
+28/08/2025
+ 19:42:51
+r$ -10,00
+r$ 16.721,89
+brl
+pix
+variable fee t
+ransfer
+roneivon m
+arques pin
+heiro
+***.076.286-
+**
+itaú uniban
+co s.a.
+60701190
+5294
+200885
+22794513590
+386368512
+e1b5bb3e-1e7
+c-4cef-a964-
+ad6c733d3d4
+c
+e6070119020
+2508282242
+dy5r3elpmv
+9
+28/08/2025
+ 19:42:51
+r$ 10.000,00
+r$ 16.731,89
+brl
+pix
+order payme
+nt transfer
+roneivon m
+arques pin
+heiro
+***.076.286-
+**
+itaú uniban
+co s.a.
+60701190
+5294
+200885
+22794513590
+386368512
+e1b5bb3e-1e7
+c-4cef-a964-
+ad6c733d3d4
+c
+e6070119020
+2508282242
+dy5r3elpmv
+9
+28/08/2025
+ 19:17:36
+r$ -0,64
+r$ 6.731,89
+brl
+pix
+variable fee t
+ransfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794507724
+517752832
+403ff8e8-f91
+6-41d8-b87a
+-07f40d6a0e
+f4
+e2085587520
+2508282217o
+ptm8w5aeo
+c
+28/08/2025
+ 19:17:36
+r$ 640,00
+r$ 6.732,53
+brl
+pix
+order payme
+nt transfer
+murilo dos 
+santos silv
+a
+***.273.283-
+**
+neon paga
+mentos s.a.
+ ip
+20855875
+655
+326542817
+22794507724
+517752832
+403ff8e8-f91
+6-41d8-b87a
+-07f40d6a0e
+f4
+e2085587520
+2508282217o
+ptm8w5aeo
+c
+28/08/2025
+ 18:16:53
+r$ -1,10
+r$ 6.092,53
+brl
+pix
+variable fee t
+ransfer
+america el
+vira plaz p
+ena
+***.339.982-
+**
+banco inte
+r
+00416968
+1
+464138558
+22794492013
+886328832
+b432a384-51
+48-468b-a30
+4-070f32a1cf
+9c
+e0041696820
+25082821159
+2yduccs0aa
+28/08/2025
+ 18:16:53
+r$ 1.095,00
+r$ 6.093,63
+brl
+pix
+order payme
+nt transfer
+america el
+vira plaz p
+ena
+***.339.982-
+**
+banco inte
+r
+00416968
+1
+464138558
+22794492013
+886328832
+b432a384-51
+48-468b-a30
+4-070f32a1cf
+9c
+e0041696820
+25082821159
+2yduccs0aa
+28/08/2025
+ 17:55:39
+r$ -0,10
+r$ 4.998,63
+brl
+pix
+variable fee t
+ransfer
+andre galdin
+o magalhaes
+***.311.823-*
+*
+mercado pa
+go ip ltda.
+10573521
+1
+56937876275
+22794487108
+813705216
+f3519931-5be
+6-493b-8f51-
+12393b4bf019
+e1057352120
+25082820550
+8dzavqddif
+28/08/2025
+ 17:55:39
+r$ 100,00
+r$ 4.998,73
+brl
+pix
+order payme
+nt transfer
+andre galdin
+o magalhaes
+***.311.823-*
+*
+mercado pa
+go ip ltda.
+10573521
+1
+56937876275
+22794487108
+813705216
+f3519931-5be
+6-493b-8f51-
+12393b4bf019
+e1057352120
+25082820550
+8dzavqddif
+28/08/2025
+ 12:31:58
+r$ -0,69
+r$ 4.898,73
+brl
+pix
+variable fee t
+ransfer
+jonathan cre
+moni gomes
+***.091.008-
+**
+mercado pa
+go ip ltda.
+10573521
+1
+10470275308
+22794405638
+518747136
+a4988fdd-77
+be-4120-934
+8-a6ae4e9c6
+d22
+e1057352120
+2508281531uf
+ztfyktsmf
+28/08/2025
+ 12:31:58
+r$ 690,00
+r$ 4.899,42
+brl
+pix
+order payme
+nt transfer
+jonathan cre
+moni gomes
+***.091.008-
+**
+mercado pa
+go ip ltda.
+10573521
+1
+10470275308
+22794405638
+518747136
+a4988fdd-77
+be-4120-934
+8-a6ae4e9c6
+d22
+e1057352120
+2508281531uf
+ztfyktsmf

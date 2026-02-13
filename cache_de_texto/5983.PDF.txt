@@ -1,0 +1,242 @@
+empresa: 2 supermercado queiroz ltda   cnpj: 32.699.820/0001-00
+13/02/2025 09:05:45
+l i v r o    c a i x a 
+v. ciss 04
+folha: 1
+1110204 c/c banco caixa economica - 00001
+conta
+empresa
+complemento
+usuário
+movimento orig. nat.
+entrada
+saída
+planilha
+período de 01/01/2025 a 31/01/2025
+2
+ajuste saldo da conta caixa
+diego
+08/01/2025
+cai
+c
+,00
+445.918,14
+713022
+2
+recebimento de administradora de cartao: sicredi - realizado
+pelo fechamento manual de conciliação de cartões
+mateus
+10/01/2025 tes d
+205,54
+,00
+713799
+2
+pag de título:  forn: 33631-caixa economica federal. tit:
+1207-6
+angelica
+11/01/2025
+cai
+c
+,00
+3.454,27
+715585
+2
+despesa - despesas bancarias - 10/01/2025
+angelica
+10/01/2025
+cai
+c
+,00
+75,00
+715595
+2
+recebimento de administradora de cartao: sicredi - realizado
+pelo fechamento manual de conciliação de cartões
+mateus
+13/01/2025 tes d
+488,92
+,00
+721586
+2
+recebimento de administradora de cartao: sicredi - realizado
+pelo fechamento manual de conciliação de cartões
+mateus
+13/01/2025 tes d
+23,15
+,00
+721589
+2
+transf. - 14/01/2025
+angelica
+14/01/2025
+cai
+d
+30.000,00
+,00
+726414
+2
+despesa - seguros - 15/01/2025
+angelica
+15/01/2025
+cai
+c
+,00
+254,39
+738230
+2
+elo credito recebeu no sicredi
+mateus
+16/01/2025
+cai
+d
+81,01
+,00
+738308
+2
+visa credito recebeu caixa baixa sicredi
+mateus
+16/01/2025
+cai
+d
+9,11
+,00
+738314
+2
+recebeu na  caixa
+diego
+15/01/2025
+cai
+d
+172,90
+,00
+739890
+2
+recebeu na caixa
+diego
+15/01/2025
+cai
+d
+162,83
+,00
+739891
+2
+transferencia entre contas, c/c banco caixa
+economica  para bradesco
+diego
+24/01/2025
+cai
+c
+,00
+15.000,00
+771036
+2
+antecipação de cartão que caiu na caixa
+economeica federal
+mateus
+23/01/2025
+cai
+d
+21.117,03
+,00
+780283
+2
+antecipação de cartão que caiu na caixa
+mateus
+23/01/2025
+cai
+d
+23.210,52
+,00
+780284
+2
+restante da taxa antecipação mastercard caiu na
+caixa
+mateus
+23/01/2025
+cai
+d
+2,06
+,00
+780289
+2
+restante da taxa antecipacao visa caiu na caixa
+mateus
+23/01/2025
+cai
+d
+,02
+,00
+780290
+2
+antecipação masterc caiu na caixa
+mateus
+23/01/2025
+cai
+d
+2.496,84
+,00
+780318
+2
+restante taxa antecipação masterc
+mateus
+23/01/2025
+cai
+c
+,00
+2,14
+780321
+2
+despesa - tarifa pix - 24/01/2025
+angelica
+24/01/2025
+cai
+c
+,00
+8,50
+781703
+2
+despesa - tarifa pix - 24/01/2025
+angelica
+24/01/2025
+cai
+c
+,00
+8,50
+781714
+2
+transf. - 24/01/2025
+angelica
+24/01/2025
+cai
+c
+,00
+30.000,00
+781730
+2
+cartão elo recebeu na caixa
+mateus
+14/01/2025
+cai
+d
+176,47
+,00
+800600
+2
+cartão visa recebeu na caixa
+mateus
+14/01/2025
+cai
+d
+344,34
+,00
+800602
+total de débitos e créditos ------>
+78.490,74
+movimento do período ------>
+494.720,94
+saldo inicial do caixa ------>
+saldo final de caixa ------>
+447.024,98
+-416.230,20
+30.794,78
+o software cisspoder está licenciado para supermercado queiroz ltda                                    - cnpj: 32.699.820/0001-00

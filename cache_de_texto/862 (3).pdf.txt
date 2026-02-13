@@ -1,0 +1,170 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+movimentação - pagamentos
+data/hora de emissão: 24/10/2025 17:13:50
+cooperativa: 3007
+conta corrente: 122.469-7
+período: 01/07/2025 - 31/07/2025
+tipo de movimentação: pagamentos
+data
+id transação
+histórico
+destinatário
+tipo de
+movimentação
+identificador (txid)
+valor
+05/07/2025
+e32430233202507051218ynthfebip1x
+pagamento
+pix via
+chave
+***.970.825-**
+jeane da silva francisco
+pagamento
+-
+r$ 1.841,05d
+05/07/2025
+e32430233202507051219wfc6mlml36c
+pagamento
+pix via
+chave
+***.915.067-**
+raiza oliveira serafim
+pagamento
+-
+r$ 1.771,27d
+05/07/2025
+e32430233202507051219xrhhplxyjki
+pagamento
+pix via
+chave
+***.522.607-**
+maria mônica dos santos
+pagamento
+-
+r$ 1.790,35d
+05/07/2025
+e32430233202507051219uvnlu3nb7es
+pagamento
+pix via
+chave
+***.377.197-**
+chaiana dos reis
+lombardi
+pagamento
+-
+r$ 1.855,35d
+05/07/2025
+e32430233202507051220ixnmhzd1z7a
+pagamento
+pix via
+chave
+***.671.227-**
+ediclei teixeira da costa
+pagamento
+-
+r$ 2.434,32d
+18/07/2025
+e32430233202507181824vzin5jzo8ge
+pagamento
+pix copia e
+cola
+27.080.571/0001-30
+espirito santo
+secretaria de estado
+da fazenda
+pagamento
+e62163db3e1c4e54a617700d9069eefe
+r$ 101,63d
+18/07/2025
+e32430233202507181824u8o9uyyv18z
+pagamento
+pix copia e
+cola
+27.080.571/0001-30
+espirito santo
+secretaria de estado
+da fazenda
+pagamento
+b26a244c54984ee2b633e8a71771f838
+r$ 344,32d
+18/07/2025
+e32430233202507181825mgxqwnosfcn
+pagamento
+pix copia e
+cola
+00.360.305/0001-04
+caixa economica
+federal
+pagamento
+b646adef8f5546209961a8393f530451
+r$ 954,43d
+21/07/2025
+e32430233202507211319tzyqmvarm6u
+pagamento
+pix via
+chave
+26.131.080/0001-08
+btz
+hortifrutigranjeiros
+ltda
+pagamento
+-
+r$ 1.535,90d
+21/07/2025
+e32430233202507211324wdvfofsrydh
+pagamento
+pix copia e
+cola
+27.142.702/0001-66
+municipio de aracruz
+pagamento
+85e63dad05284f268d6778add3c7d8bb
+r$ 11,30d
+25/07/2025
+e32430233202507251932zq3a9fviz58
+pagamento
+pix copia e
+cola
+00.394.460/0058-87
+ministerio da fazenda
+pagamento
+07162519103458119049235918
+r$ 3.619,90d
+25/07/2025
+e32430233202507251932pq9iyirb5nc
+pagamento
+pix copia e
+cola
+46.252.899/0001-30
+versatil alimentos ltda
+pagamento
+kk6g232xel65a0daee4dd13kk2759980114
+r$ 158,00d
+25/07/2025
+e324302332025072522403h6l77bh6t2
+pagamento
+pix via
+chave
+26.131.080/0001-08
+btz
+hortifrutigranjeiros
+ltda
+pagamento
+-
+r$ 3.410,93d
+31/07/2025
+e32430233202507312238h0upfwlvlb1
+pagamento
+pix copia e
+cola
+00.394.460/0058-87
+ministerio da fazenda
+pagamento
+07182520269884412098007989
+r$ 2.226,71d
+resumo
+valor total: r$ 22.055,46
+quantidade de registros: 14
+ouvidoria bancoob: 08007250996

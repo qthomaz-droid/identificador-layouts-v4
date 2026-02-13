@@ -1,0 +1,67 @@
+braz e braz s a
+cnpj 10.251.429/0001-05
+agência 0001 conta 0495840-1 tipo garantia
+extrato da conta
+período: 01/05/2025 - 31/05/2025
+data
+movimento
+crédito (r$)
+débito (r$)
+09/05/2025
+07:29:52
+recebimento ted
+26.994.558/0068-30 - superintendencia reg. de admin. da
+1 re
+r$ 148.810,90
+09/05/2025
+14:30:54
+recebimento boleto
+07.533.543/0001-13 - safemed medicina e seguranca do
+trabalho
+r$ 52.800,00
+09/05/2025
+total liquidação boleto
+r$ 52.800,00
+16/05/2025
+08:04:33
+recebimento ted
+13.170.790/0001-03 - tribunal de contas do e de sergipe
+r$ 36.918,56
+16/05/2025
+total liquidação boleto
+r$ 0,00
+27/05/2025
+10:15:36
+ted - str0007
+32.528.241/0001-02 - daniele multiplo fidc np
+r$ 98.439,19
+27/05/2025
+total liquidação boleto
+r$ 0,00
+30/05/2025
+16:13:59
+recebimento ted
+10.251.429/0001-05 - braz e braz s a
+r$ 90.000,00
+30/05/2025
+16:18:49
+recebimento ted
+10.251.429/0001-05 - braz e braz sa
+r$ 56.500,00
+30/05/2025
+total liquidação boleto
+r$ 0,00
+totais no período
+saldo inicial em: 01/05/2025 - r$ 36,61
+saldo final em: 31/05/2025 - r$ 286.626,88
+saldo bloqueado - r$ 0,00
+saldo disponivel - r$ 286.626,88
+emitido por victoria silva
+data da emissão 05/06/2025 15:37:08
+05/06/2025, 15:37
+extrato bancário
+https://dantec.danielebanco.com.br/#/app/scrow/extrato-bmp
+1/1
+fat.15334
+fat.15070
+fat.15234

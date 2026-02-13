@@ -1,0 +1,1258 @@
+relatório posição de estoque
+silvana fardin nolasco ferreira borgo
+filtros: lojas:[5006]   período:[01-10-2025 à 31-10-2025] gestão estratégica:[todos] gestão tática:[todos] gestão de mercado:[todos] saldo:[positivo] ordem:[produto] direção:[asc] linha:[ambos] exibir
+ean:[false] movimentação:[todos] custo/preço:[custo reposição]
+loja
+produto
+und
+estoque inicial
+entrada
+saída
+total
+estoque final
+custo
+5006
+00000000001004 - floratta des col my blue 75ml
+und
+11,000
+3,000
+6,000
+18,52
+8,000
+111,12
+5006
+00000000001296 - pmpck the blend des antit aer 2x75g
+und
+8,000
+0,000
+2,000
+24,10
+6,000
+48,20
+5006
+00000000001302 - pmpck lily des antit aer 2x75g
+und
+17,000
+7,000
+13,000
+22,49
+11,000
+292,37
+5006
+00000000001314 - pmpck zaad des antit aer 2x75g
+und
+4,000
+18,000
+8,000
+23,22
+14,000
+185,76
+5006
+00000000001317 - pmpck malbec des antit aer 2x75g
+und
+28,000
+2,000
+9,000
+22,77
+21,000
+204,93
+5006
+00000000001428 - nspa loc antiox des hid cpo m/ruby 400ml
+und
+0,000
+15,000
+13,000
+13,78
+2,000
+179,14
+5006
+00000000001630 - nspa des col bdy splsh m/ruby 200ml
+und
+8,000
+1,000
+8,000
+34,33
+1,000
+274,64
+5006
+00000000001634 - nspa gel esf cpo morango ruby 175g
+und
+9,000
+22,000
+19,000
+19,14
+12,000
+363,66
+5006
+00000000001640 - nspa loc antiox des hid cpo m/ruby 200ml
+und
+4,000
+0,000
+4,000
+10,60
+0,000
+42,40
+5006
+00000000001676 - nspa ol multif ameixa 85ml
+und
+7,000
+0,000
+7,000
+53,86
+0,000
+377,02
+5006
+00000000001680 - nspa ol multif ameixa negra 85ml
+und
+6,000
+0,000
+6,000
+53,86
+0,000
+323,16
+5006
+00000000001697 - nspa ol multif quinoa 85ml
+und
+1,000
+0,000
+1,000
+51,57
+0,000
+51,57
+5006
+00000000001786 - make b bas liq mate salicylic 150 30g
+und
+2,000
+1,000
+2,000
+34,52
+1,000
+69,04
+5006
+00000000001787 - make b bas liq mate salicylic 120 30g
+und
+1,000
+1,000
+2,000
+34,52
+0,000
+69,04
+5006
+00000000001788 - make b bas liq mate salicylic 100 30g
+und
+1,000
+0,000
+1,000
+34,92
+0,000
+34,92
+5006
+00000000001789 - make b bas liq mate salicylic 220 30g
+und
+3,000
+0,000
+2,000
+34,52
+1,000
+69,04
+5006
+00000000001790 - make b bas liq mate salicylic 190 30g
+und
+2,000
+0,000
+2,000
+34,52
+0,000
+69,04
+5006
+00000000001806 - make b bas liq mate salicylic 180 30g
+und
+2,000
+0,000
+2,000
+34,52
+0,000
+69,04
+5006
+00000000001808 - make b bas liq mate salicylic 200 30g
+und
+2,000
+0,000
+2,000
+35,02
+0,000
+70,04
+5006
+00000000001861 - make b bas liq mate salicylic 320 30g
+und
+1,000
+0,000
+1,000
+34,14
+0,000
+34,14
+5006
+00000000001862 - make b bas liq mate salicylic 290 30g
+und
+2,000
+0,000
+2,000
+34,14
+0,000
+68,28
+5006
+00000000002100 - intense bat crem pop rosa 3,6g
+und
+1,000
+10,000
+5,000
+4,34
+6,000
+21,70
+5006
+00000000002239 - intense bas liq mate camufl pop 100 20ml
+und
+3,000
+0,000
+3,000
+10,03
+0,000
+30,09
+5006
+00000000002240 - intense bas liq mate camufl pop 120 20ml
+und
+6,000
+0,000
+6,000
+10,13
+0,000
+60,78
+5006
+00000000002252 - intense bas liq mate camufl pop 140 20ml
+und
+3,000
+0,000
+3,000
+10,03
+0,000
+30,09
+5006
+00000000002256 - intense bas liq mate camufl pop 160 20ml
+und
+3,000
+0,000
+3,000
+7,46
+0,000
+22,38
+5006
+00000000002257 - intense bas liq mate camufl pop 190 20ml
+und
+8,000
+0,000
+8,000
+10,02
+0,000
+80,16
+5006
+00000000002258 - intense bas liq mate camufl pop 210 20ml
+und
+3,000
+0,000
+3,000
+12,01
+0,000
+36,03
+5006
+00000000002259 - intense bas liq mate camufl pop 230 20ml
+und
+3,000
+0,000
+1,000
+7,06
+2,000
+7,06
+5006
+00000000002260 - intense bas liq mate camufl pop 240 20ml
+und
+2,000
+0,000
+2,000
+7,62
+0,000
+15,24
+5006
+00000000002274 - intense bas liq mate camufl pop 260 20ml
+und
+1,000
+0,000
+1,000
+12,00
+0,000
+12,00
+5006
+00000000002276 - intense bas liq mate camufl pop 300 20ml
+und
+3,000
+0,000
+3,000
+7,66
+0,000
+22,98
+5006
+00000000002285 - intense bas liq mate camufl pop 320 20ml
+und
+8,000
+0,000
+8,000
+7,77
+0,000
+62,16
+5006
+00000000002286 - intense bas liq mate camufl pop 330 20ml
+und
+3,000
+0,000
+3,000
+10,03
+0,000
+30,09
+5006
+00000000002483 - intense lap p/olho pop preto 1,1g
+und
+13,000
+0,000
+8,000
+6,19
+5,000
+49,52
+5006
+00000000003517 - caixa p inst 2021 verde economica
+und
+-53,000
+299,000
+148,000
+3,31
+98,000
+489,88
+5006
+00000000003530 - caixa m inst 2021 verde economica
+und
+197,000
+129,000
+13,000
+2,89
+313,000
+37,57
+5006
+00000000003542 - caixa g inst 2021 rosa economica
+und
+75,000
+0,000
+65,000
+0,00
+10,000
+0,00
+5006
+00000000003554 - caixa g inst 2021 verde economica
+und
+49,000
+0,000
+39,000
+8,38
+10,000
+326,82
+5006
+00000000004480 - botik acq gel hid fac antis ac/polig 50g
+und
+5,000
+0,000
+5,000
+29,71
+0,000
+148,55
+5006
+00000000004481 - botik crem hid fac firm ac/poligl 50g
+und
+5,000
+1,000
+2,000
+29,71
+4,000
+59,42
+página 1 /
+05/11/2025 13:37
+retaguardagb - 8.0.63101
+27
+loja
+produto
+und
+estoque inicial
+entrada
+saída
+total
+estoque final
+custo
+5006
+00000000004482 - botik loc hid antiol aci pol fac 110ml
+und
+4,000
+0,000
+4,000
+27,81
+0,000
+111,24
+5006
+00000000004510 - ref botik cr fac firm ac/hialur 40g
+und
+13,000
+0,000
+11,000
+41,95
+2,000
+461,45
+5006
+00000000004520 - botik gel cr fac firm ac/hialur 40g
+und
+20,000
+0,000
+18,000
+38,41
+2,000
+691,38
+5006
+00000000004522 - ref botik gel cr fac firm ac/hial 40g v2
+und
+20,000
+0,000
+20,000
+42,37
+0,000
+847,40
+5006
+00000000004539 - botik cr fac firmador ac/hial 40g v2
+und
+18,000
+0,000
+16,000
+57,72
+2,000
+923,52
+5006
+00000000005009 - ma cherie des col 100ml v6
+und
+3,000
+3,000
+5,000
+51,28
+1,000
+256,40
+5006
+00000000005125 - ma cherie loc desc hid cpo 200ml
+und
+0,000
+3,000
+3,000
+19,57
+0,000
+58,71
+5006
+00000000005546 - make b primer fac antiol salicylic 30g
+und
+1,000
+4,000
+3,000
+28,77
+2,000
+86,31
+5006
+00000000019734 - thaty des col boticoll 100ml
+und
+14,000
+0,000
+11,000
+57,38
+3,000
+631,18
+5006
+00000000022249 - free des col boticoll 100ml v4
+und
+8,000
+0,000
+8,000
+56,39
+0,000
+451,12
+5006
+00000000025458 - floratta des col blue 75ml
+und
+18,000
+6,000
+11,000
+53,87
+13,000
+592,57
+5006
+00000000025804 - intense des col gloss 50ml
+und
+17,000
+0,000
+2,000
+29,74
+15,000
+59,48
+5006
+00000000026401 - make b primer olh v2
+und
+1,000
+0,000
+1,000
+5,86
+0,000
+5,86
+5006
+00000000027707 - boticoll connexion des col 100ml v2
+und
+4,000
+2,000
+2,000
+25,44
+4,000
+50,88
+5006
+00000000027858 - make b lap retr p/olh pret pck
+und
+14,000
+5,000
+12,000
+22,86
+7,000
+274,32
+5006
+00000000029046 - boticoll connex des bdy spr 100ml v6 pck
+und
+8,000
+0,000
+4,000
+7,19
+4,000
+28,76
+5006
+00000000029226 - elysee crem hid des cpo acetinado 250g
+und
+9,000
+0,000
+6,000
+49,37
+3,000
+296,22
+5006
+00000000030247 - egeo des col pina blast 90ml
+und
+11,000
+0,000
+10,000
+52,82
+1,000
+528,20
+5006
+00000000033424 - estj floratta flowers sort reg/22
+und
+6,000
+0,000
+3,000
+81,93
+3,000
+245,79
+5006
+00000000033427 - lily geleia des hid corporal glow 250g
+und
+10,000
+0,000
+7,000
+65,81
+3,000
+460,67
+5006
+00000000036226 - estj glamour sec bl reg/22
+und
+2,000
+0,000
+2,000
+53,23
+0,000
+106,46
+5006
+00000000036485 - estj coffee w/seduc reg/22
+und
+2,000
+0,000
+2,000
+61,45
+0,000
+122,90
+5006
+00000000036486 - estj floratta blue reg/22
+und
+2,000
+0,000
+2,000
+49,20
+0,000
+98,40
+5006
+00000000036488 - ref make b po comp fac hyal 50 8g
+und
+1,000
+0,000
+1,000
+28,13
+0,000
+28,13
+5006
+00000000036637 - ref make b po comp fac hyal 60 8g
+und
+2,000
+0,000
+2,000
+27,64
+0,000
+55,28
+5006
+00000000036826 - ref make b po comp fac hyal 70 8g
+und
+1,000
+0,000
+1,000
+27,67
+0,000
+27,67
+5006
+00000000037693 - ref make b po comp fac hyal 10 8g
+und
+1,000
+0,000
+1,000
+27,67
+0,000
+27,67
+5006
+00000000037694 - ref make b po comp fac hyal 20 8g
+und
+2,000
+0,000
+2,000
+28,13
+0,000
+56,26
+5006
+00000000037695 - ref make b po comp fac hyal 25 8g
+und
+1,000
+0,000
+1,000
+28,13
+0,000
+28,13
+5006
+00000000037696 - ref make b po comp fac hyal 15 8g
+und
+1,000
+0,000
+1,000
+28,13
+0,000
+28,13
+5006
+00000000037699 - ref make b po comp fac hyal 30 8g
+und
+2,000
+0,000
+2,000
+17,43
+0,000
+34,86
+5006
+00000000039235 - celebre des bdy spr forca 100ml
+und
+4,000
+0,000
+4,000
+6,44
+0,000
+25,76
+5006
+00000000040085 - make b pincel base po fibras duplas
+und
+2,000
+0,000
+2,000
+26,20
+0,000
+52,40
+5006
+00000000040088 - make b pincel aplicar sombra
+und
+2,000
+0,000
+1,000
+12,60
+1,000
+12,60
+5006
+00000000040121 - estj zaad reg/22
+und
+2,000
+0,000
+2,000
+72,83
+0,000
+145,66
+5006
+00000000042113 - capinha nuvem em silicone
+und
+4,000
+0,000
+4,000
+3,90
+0,000
+15,60
+5006
+00000000042223 - capinha rosa e algodao em silicone
+und
+1,000
+0,000
+1,000
+9,63
+0,000
+9,63
+5006
+00000000043566 - make b pinc escova base
+und
+1,000
+0,000
+1,000
+25,07
+0,000
+25,07
+5006
+00000000043785 - cbem capinha deleite silicone
+und
+1,000
+0,000
+1,000
+9,57
+0,000
+9,57
+5006
+00000000043848 - make b pinc kabuki retr rose gold
+und
+1,000
+0,000
+1,000
+25,31
+0,000
+25,31
+5006
+00000000043932 - match escv p/modelar e alisar abs
+und
+4,000
+0,000
+4,000
+28,35
+0,000
+113,40
+5006
+00000000043956 - match pente p/ cachos pp
+und
+6,000
+0,000
+6,000
+10,24
+0,000
+61,44
+5006
+00000000043960 - match escv p/acab abs
+und
+1,000
+0,000
+1,000
+9,29
+0,000
+9,29
+5006
+00000000043977 - intense espnj limpeza facial silicone
+und
+2,000
+0,000
+2,000
+9,68
+0,000
+19,36
+5006
+00000000044410 - make b pinc leque
+und
+3,000
+0,000
+3,000
+5,93
+0,000
+17,79
+5006
+00000000044411 - make b pinc contorno angular
+und
+5,000
+0,000
+5,000
+21,47
+0,000
+107,35
+5006
+00000000044581 - make b pincel p/marcar concavo
+und
+2,000
+0,000
+2,000
+9,89
+0,000
+19,78
+página 2 /
+05/11/2025 13:37
+retaguardagb - 8.0.63101
+27
+loja
+produto
+und
+estoque inicial
+entrada
+saída
+total
+estoque final
+custo
+5006
+00000000044764 - sophie cj pinc c/2 un
+und
+2,000
+0,000
+2,000
+12,52
+0,000
+25,04
+5006
+00000000044807 - match estj pratico p/cabelos
+und
+2,000
+0,000
+2,000
+10,46
+0,000
+20,92
+5006
+00000000045544 - nspa espnj verde konjac
+und
+2,000
+0,000
+2,000
+10,07
+0,000
+20,14
+5006
+00000000045557 - boti apontador chumbo
+und
+3,000
+1,000
+1,000
+14,35
+3,000
+14,35
+5006
+00000000045568 - boti baby capinha fido amarela silicone
+und
+2,000
+0,000
+2,000
+6,43
+0,000
+12,86
+5006
+00000000045627 - intense cj pinc mini fac c/4
+und
+5,000
+0,000
+4,000
+32,32
+1,000
+129,28
+5006
+00000000045629 - intense kit espnj c/2 und
+und
+3,000
+0,000
+2,000
+9,53
+1,000
+19,06
+5006
+00000000046381 - egeo blue necess azul pes s/alc
+und
+1,000
+0,000
+1,000
+16,99
+0,000
+16,99
+5006
+00000000046470 - boti mascara prot malha preta m
+und
+1,000
+0,000
+1,000
+8,67
+0,000
+8,67
+5006
+00000000046471 - boti mascara prot malha cinza mescla m
+und
+1,000
+0,000
+1,000
+7,88
+0,000
+7,88
+5006
+00000000046472 - cbem mascara prot malha estampada m
+und
+3,000
+0,000
+3,000
+8,67
+0,000
+26,01
+5006
+00000000046645 - zaad necess pes nat/21 vda
+und
+1,000
+0,000
+1,000
+41,76
+0,000
+41,76
+5006
+00000000046893 - match necessaire c/visor pes
+und
+1,000
+0,000
+1,000
+17,87
+0,000
+17,87
+5006
+00000000046895 - boti massag cpo pp
+und
+6,000
+0,000
+6,000
+10,34
+0,000
+62,04
+5006
+00000000046898 - zaad edp expedition 95ml
+und
+7,000
+0,000
+7,000
+63,97
+0,000
+447,79
+5006
+00000000046931 - estj boticoll sortido reg/22
+und
+3,000
+0,000
+3,000
+78,82
+0,000
+236,46
+5006
+00000000047144 - cbem des antit aer protect/bty 90g/150ml
+und
+10,000
+0,000
+8,000
+9,60
+2,000
+76,80
+5006
+00000000047145 - cbem des antit roll protect/beauty 55ml
+und
+68,000
+0,000
+43,000
+5,16
+25,000
+221,88
+5006
+00000000047146 - cbem des antit aer inv protect 90g/150ml
+und
+6,000
+0,000
+5,000
+8,87
+1,000
+44,35
+5006
+00000000047147 - cbem des roll inv protect 55ml
+und
+4,000
+0,000
+4,000
+10,80
+0,000
+43,20
+5006
+00000000047148 - cbem des ant aer clin ult/prot 90g/150ml
+und
+3,000
+0,000
+3,000
+15,58
+0,000
+46,74
+5006
+00000000047149 - men des ant aer clin ultr/prot 90g/150ml
+und
+3,000
+0,000
+3,000
+11,84
+0,000
+35,52
+5006
+00000000047150 - men des antit aer cool protect 90g/150ml
+und
+7,000
+0,000
+7,000
+15,15
+0,000
+106,05
+5006
+00000000047151 - cbem des antit aer s/alum 90g/150ml
+und
+5,000
+1,000
+4,000
+9,65
+2,000
+38,60
+5006
+00000000047152 - men des antit aer inv protect 90g/150ml
+und
+6,000
+0,000
+3,000
+15,16
+3,000
+45,48
+5006
+00000000047154 - cbem des roll s/alum 55ml
+und
+7,000
+0,000
+7,000
+4,74
+0,000
+33,18
+5006
+00000000047165 - cbem des antit cr clin ultra protect 50g
+und
+4,000
+1,000
+3,000
+10,44
+2,000
+31,32
+5006
+00000000047235 - boti sun prot sol cpo fps 30 200g
+und
+2,000
+0,000
+1,000
+17,80
+1,000
+17,80
+5006
+00000000047321 - botik srum alt/pot acid mand/tranex 30ml
+und
+7,000
+0,000
+6,000
+67,95
+1,000
+407,70
+5006
+00000000047339 - liz des col sublime 100ml
+und
+19,000
+0,000
+17,000
+56,43
+2,000
+959,31
+5006
+00000000047411 - arbo necess lona
+und
+1,000
+0,000
+1,000
+26,58
+0,000
+26,58
+5006
+00000000047552 - botica 214 edp foug arom ver/firenz 90ml
+und
+13,000
+0,000
+10,000
+90,80
+3,000
+908,00
+5006
+00000000047553 - botica 214 edp flor frut ver/firenz 75ml
+und
+7,000
+2,000
+8,000
+89,96
+1,000
+719,68
+5006
+00000000047596 - boti sun gel pos sol acqua gel 120g
+und
+6,000
+0,000
+6,000
+6,82
+0,000
+40,92
+5006
+00000000047598 - boti sun pr fac antiol acq fl fps30 40ml
+und
+5,000
+0,000
+5,000
+22,80
+0,000
+114,00
+5006
+00000000047599 - boti sun prot fac antiol a/fl fps70 40ml
+und
+11,000
+0,000
+5,000
+27,52
+6,000
+137,60
+5006
+00000000047600 - boti sun pr fac antis acq fld fps30 40ml
+und
+6,000
+0,000
+6,000
+9,84
+0,000
+59,04
+5006
+00000000047602 - boti sun pr fac antis acq fld fps70 40ml
+und
+3,000
+6,000
+7,000
+27,28
+2,000
+190,96
+5006
+00000000047629 - botica 214 edp gold/gard 75ml v2
+und
+21,000
+7,000
+4,000
+38,34
+24,000
+153,36
+5006
+00000000047637 - match shamp matiz prot/loiros 250ml
+und
+3,000
+0,000
+3,000
+19,15
+0,000
+57,45
+5006
+00000000047639 - match cond prot/loiros 250ml
+und
+5,000
+0,000
+5,000
+20,82
+0,000
+104,10
+5006
+00000000047779 - boti baby loc hid cpo nan/nen 150ml
+und
+2,000
+1,000
+3,000
+18,33
+0,000
+54,99
+5006
+00000000047803 - cbem aromat de amb netflix 60ml
+und
+1,000
+0,000
+1,000
+8,45
+0,000
+8,45
+5006
+00000000047851 - arbo des col forest 100ml
+und
+7,000
+0,000
+5,000
+65,87
+2,000
+329,35
+5006
+00000000047905 - boticoll acqua fresca des col 100ml v2
+und
+5,000
+7,000
+10,000
+19,68
+2,000
+196,80
+5006
+00000000047913 - match cond resp/cach 250ml v2
+und
+3,000
+0,000
+3,000
+13,38
+0,000
+40,14
+5006
+00000000047949 - the blend edp 100ml v2
+und
+10,000
+15,000
+14,000
+84,83
+11,000
+1.187,62
+página 3 /
+05/11/2025 13:37
+retaguardagb - 8.0.63101
+27

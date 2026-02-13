@@ -1,0 +1,293 @@
+balancete
+d. b. minotto
+40.497.040/0001-05
+01/07/2023 a 31/07/2023
+código
+descrição da conta
+saldo atual
+crédito
+débito
+saldo anterior
+1.01.01.01.01.0001caixa
+279,50 d
+2.100,00
+2.650,00
+-270,50 c
+1.01.01.02.01.0007banco do brasil
+40.654,18 d
+24.383,59
+38.177,70
+26.860,07 d
+1.01.01.02.01.0008receba fácil
+3.898,73 d
+196,50
+196,50
+3.898,73 d
+1.01.01.02.01.0009banco cora
+1.553,40 d
+11.705,72
+12.495,76
+763,36 d
+1.01.02.01.03
+adiantamentos a funcionários –
+circulante
+21.817,29 d
+0,00
+625,00
+21.192,29 d
+1.01.02.01.98
+outros adiantamentos – circulante
+39.324,85 d
+0,00
+628,58
+38.696,27 d
+1.01.02.02.01
+duplicatas a receber – operações
+com partes não relacionadas - no
+país
+-3.040,00 c
+0,00
+0,00
+-3.040,00 c
+1.01.02.02.01.0008pet gold
+-500,00 c
+0,00
+0,00
+-500,00 c
+1.01.02.02.01.0012infiniti comercio e servicos
+-3.600,00 c
+0,00
+0,00
+-3.600,00 c
+1.01.02.02.01.0015maia cosmeticos
+-250,00 c
+0,00
+0,00
+-250,00 c
+1.01.02.02.01.0033representacoes dourado
+-750,00 c
+0,00
+0,00
+-750,00 c
+1.01.02.02.01.0035engtech engenharia e
+construção ltda
+-800,00 c
+0,00
+0,00
+-800,00 c
+1.01.02.02.01.0037natulac industria e comercio
+-800,00 c
+0,00
+0,00
+-800,00 c
+1.01.02.02.01.0040dll sports solutions
+-400,00 c
+0,00
+0,00
+-400,00 c
+1.01.02.02.01.0041triton servicos
+-550,00 c
+0,00
+0,00
+-550,00 c
+1.01.02.02.01.0042corpsvisage
+-500,00 c
+0,00
+0,00
+-500,00 c
+1.01.02.02.01.0045pet gold radiologia
+-500,00 c
+0,00
+0,00
+-500,00 c
+1.01.02.02.01.0047skycargo express transporte e
+servicos
+-300,00 c
+0,00
+0,00
+-300,00 c
+1.02.03.05.28
+outros imobilizados
+4.959,34 d
+0,00
+0,00
+4.959,34 d
+2.01.01.01.01
+salários e remunerações a pagar
+-373.747,60 d
+0,00
+12.360,00
+-361.387,60 d
+2.01.01.01.02
+participações no resultado a pagar
+-1.000,00 d
+0,00
+0,00
+-1.000,00 d
+2.01.01.01.03
+inss a recolher
+-9.676,85 d
+0,00
+581,82
+-9.095,03 d
+2.01.01.01.04
+fgts a recolher
+-17.328,37 d
+0,00
+1.573,85
+-15.754,52 d
+2.01.01.05.01
+adiantamentos de clientes - no país
+512.798,31 c
+31.850,00
+0,00
+480.948,31 c
+2.01.01.07.02
+empréstimos ou financiamentos - no
+país - circulante
+-700,00 d
+0,00
+700,00
+0,00 c
+2.01.01.09.09
+parcelamentos especiais a recolher -
+tributos federais – circulante
+-4.567,90 d
+0,00
+344,30
+-4.223,60 d
+2.01.01.09.28
+outros tributos a recolher –
+circulante
+-1.784,99 d
+0,00
+815,69
+-969,30 d
+2.01.01.17.03
+mútuos – partes relacionadas – no
+país – circulante
+4.771,00 c
+0,00
+0,00
+4.771,00 c
+2.01.01.17.28.0001cartão cora
+-4.842,62 d
+555,83
+1.717,01
+-3.681,44 d
+3.01.01.01.01.06
+receita da prestação de serviços no
+mercado interno
+69.991,80 c
+5.142,80
+0,00
+64.849,00 c
+código
+descrição da conta
+saldo atual
+crédito
+débito
+saldo anterior
+3.01.01.05.01.05
+outras receitas financeiras
+944,06 c
+150,76
+0,00
+793,30 c
+3.01.01.05.01.99
+outras receitas operacionais
+82.836,35 c
+6.583,40
+0,00
+76.252,95 c
+3.01.01.07.01.02
+(-) ordenados, salários, gratificações e
+outras remunerações a empregados
+200,00 d
+0,00
+0,00
+200,00 d
+3.01.01.07.01.04
+(-) outros serviços prestados por
+pessoa física ou jurídica
+37.936,21 d
+0,00
+2.891,86
+35.044,35 d
+3.01.01.07.01.13
+(-) alimentação do trabalhador
+282,14 d
+0,00
+76,14
+206,00 d
+3.01.01.07.01.16
+(-) demais impostos, taxas e
+contribuições, exceto ir e csll
+1.602,53 d
+0,00
+408,90
+1.193,63 d
+3.01.01.07.01.18
+(-) aluguéis
+53.500,00 d
+0,00
+3.000,00
+50.500,00 d
+3.01.01.07.01.19
+(-) despesas com veículos e de
+conservação de bens e instalações
+675,00 d
+0,00
+65,00
+610,00 d
+3.01.01.07.01.20
+(-) propaganda, publicidade e
+patrocínio
+13.115,91 d
+0,00
+1.094,00
+12.021,91 d
+3.01.01.07.01.35
+(-) bens de pequeno valor unitário ou
+de vida útil de até um ano deduzidos
+como despesa
+130,00 d
+0,00
+0,00
+130,00 d
+3.01.01.07.01.36
+(-) despesas com energia elétrica
+16.681,26 d
+0,00
+855,30
+15.825,96 d
+3.01.01.07.01.37
+(-) despesas com água e esgoto
+1.063,80 d
+0,00
+0,00
+1.063,80 d
+3.01.01.07.01.38
+(-) despesas com telefone e internet
+3.753,53 d
+0,00
+129,87
+3.623,66 d
+3.01.01.07.01.39
+(-) despesas com correios e malotes
+226,54 d
+0,00
+0,00
+226,54 d
+3.01.01.09.01.08
+(-) outras despesas financeiras
+6.853,90 d
+0,00
+81,60
+6.772,30 d
+3.01.01.09.01.99
+(-) outras despesas operacionais
+21.175,08 d
+0,00
+1.199,72
+19.975,36 d

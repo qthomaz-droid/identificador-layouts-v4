@@ -1,0 +1,614 @@
+página: 0001
+08 de dezembro de 2025 18:18:53
+listagem de conferência de lançamentos
+período...: 01/01/2025 a 30/11/2025
+ouro verde comercio de fertilizan.e represe.ltda
+controle de caixa - versão: 2311(03)
+----------------------------------------------------------------------------------------------------------------------------------------
+hora  p. conta histórico padrão                   complemento histórico                     operação   valor lançamento  pro  n-controle
+----------------------------------------------------------------------------------------------------------------------------------------
+data...: quinta-feira, 2 de janeiro de 2025
+08:40 2.01.001 031 coelba
+coelba 01/2025
+saída
+        1.204,47
+não
+00009563
+17:54 2.03.001 015 fretes
+m h transportes nfª8508
+saída
+       12.212,20
+não
+00009561
+08:35 2.01.005 021 informatica
+santos tecnologia nfª2089/2024-a
+saída
+        1.636,63
+não
+00009562
+17:39 2.01.005 021 informatica
+rodolfo rodrigues
+saída
+        1.584,00
+não
+00009570
+11:29 9.01.017 001 pago a
+ana lucia machado da silva araujo nfº190
+saída
+        1.626,00
+não
+00009589
+10:29 2.05.018 001 pago a
+marzolini dos anjos cnpj:10.762.121/0001
+saída
+        1.770,00
+não
+00009607
+17:27 2.05.007 001 pago a
+crea-ba nfª57897345
+saída
+           99,64
+não
+00009560
+09:22 2.05.018 001 pago a
+compra de racao e raticida
+saída
+          265,00
+não
+00009585
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:          0,00
+entradas.:          0,00
+saídas.:     20.397,94
+saldo dia.:    -20.397,94
+saldo atual.:    -20.397,94
+data...: sexta-feira, 3 de janeiro de 2025
+10:44 2.03.003 016 carrego e descarrego
+efre sena de lisboa cpf:294.448.908-99
+saída
+           66,00
+não
+00009572
+08:44 9.01.009 033 posto aguas claras
+nejaim nfª5242
+saída
+          465,35
+não
+00009584
+10:41 2.01.006 001 pago a
+pedreira bastos ramos ltda cnpj:10.501.4
+saída
+          300,00
+não
+00009571
+17:28 2.01.006 001 pago a
+hiper surpresa cnpj:10.617.076/0001-14
+saída
+          353,10
+não
+00009569
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:    -20.397,94
+entradas.:          0,00
+saídas.:      1.184,45
+saldo dia.:     -1.184,45
+saldo atual.:    -21.582,39
+data...: segunda-feira, 6 de janeiro de 2025
+10:19 2.01.004 048 internet
+zhonet ltda nfª16240
+saída
+          151,20
+não
+00009565
+10:07 2.05.012 001 pago a
+ardafs nfª9995
+saída
+          420,00
+não
+00009564
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:    -21.582,39
+entradas.:          0,00
+saídas.:        571,20
+saldo dia.:       -571,20
+saldo atual.:    -22.153,59
+data...: terça-feira, 7 de janeiro de 2025
+11:06 9.01.033 053 c.d.l
+camara de dirigentes lojistas de utinga
+saída
+          506,00
+não
+00009573
+17:23 2.05.018 001 pago a
+jacobina extintores ltda nfª518
+saída
+        2.000,00
+não
+00009568
+11:00 2.05.005 001 pago a
+ibama nfª10194727
+saída
+          579,67
+não
+00009566
+11:10 2.05.018 001 pago a
+onivalson soares cnpj:26.749.441/0001-84
+saída
+        2.562,00
+não
+00009567
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:    -22.153,59
+entradas.:          0,00
+saídas.:      5.647,67
+saldo dia.:     -5.647,67
+saldo atual.:    -27.801,26
+data...: quarta-feira, 8 de janeiro de 2025
+16:00 2.02.001 020 despesas de salario
+ferias edurado jesus damaceno (15 dias)
+saída
+        1.048,44
+não
+00009577
+15:50 9.01.017 001 pago a
+nacional auto pecas cnpj:55.254.3130001-
+saída
+        2.580,00
+não
+00009576
+14:13 2.05.014 001 pago a
+m maria de andrade silva nfª102446577
+saída
+          169,00
+não
+00009574
+15:48 2.05.009 001 pago a
+oi fixo (3337-1280) f:1600211273825
+saída
+           95,12
+não
+00009575
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:    -27.801,26
+entradas.:          0,00
+saídas.:      3.892,56
+saldo dia.:     -3.892,56
+saldo atual.:    -31.693,82
+data...: quinta-feira, 9 de janeiro de 2025
+08:59 9.01.004 019 agua e gas
+mauricio silva muniz nfª65
+saída
+          408,00
+não
+00009578
+16:29 2.03.003 016 carrego e descarrego
+evandro p. brito cpf:611.211.935-82
+saída
+          473,00
+não
+00009579
+16:34 2.03.001 015 fretes
+cibrafertil nfª37811
+saída
+        6.500,00
+não
+00009580
+17:52 2.05.001 001 pago a
+dae cod:0759 (icms)
+saída
+       43.002,96
+não
+00009582
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:    -31.693,82
+entradas.:          0,00
+saídas.:     50.383,96
+saldo dia.:    -50.383,96
+saldo atual.:    -82.077,78
+data...: sexta-feira, 10 de janeiro de 2025
+11:00 2.03.003 016 carrego e descarrego
+valdenir santana de oliveira cpf:306.839
+saída
+          180,00
+não
+00009587
+========================================================================================================================================
+totais ====>
+entradas...:             0,00
+saídas...:        82.257,78
+página: 0002
+08 de dezembro de 2025 18:18:53
+listagem de conferência de lançamentos
+período...: 01/01/2025 a 30/11/2025
+ouro verde comercio de fertilizan.e represe.ltda
+controle de caixa - versão: 2311(03)
+----------------------------------------------------------------------------------------------------------------------------------------
+hora  p. conta histórico padrão                   complemento histórico                     operação   valor lançamento  pro  n-controle
+----------------------------------------------------------------------------------------------------------------------------------------
+data...: sexta-feira, 10 de janeiro de 2025
+08:33 2.01.002 030 embasa
+embasa 01/2025 deposito
+saída
+           51,08
+não
+00009883
+10:44 2.03.001 015 fretes
+heringer nfª139838/837
+saída
+        7.000,00
+não
+00009654
+17:54 9.01.009 033 posto aguas claras
+nejaim nfª5236
+saída
+       14.545,58
+não
+00009583
+10:54 2.05.018 001 pago a
+silas nunes lyra nº25001
+saída
+          500,00
+não
+00009586
+11:06 2.05.018 001 pago a
+marzolini dos anjos cnpj:10.762.121/0001
+saída
+           87,82
+não
+00009588
+17:44 2.05.007 001 pago a
+crea-ba nfª57908528
+saída
+          103,03
+não
+00009581
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:    -82.077,78
+entradas.:          0,00
+saídas.:     22.467,51
+saldo dia.:    -22.467,51
+saldo atual.:   -104.545,29
+data...: sábado, 11 de janeiro de 2025
+11:46 2.03.003 016 carrego e descarrego
+valdenir santana de oliveira cpf:306.839
+saída
+           72,00
+não
+00009590
+11:47 2.03.003 016 carrego e descarrego
+juvenilson
+saída
+          330,00
+não
+00009591
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -104.545,29
+entradas.:          0,00
+saídas.:        402,00
+saldo dia.:       -402,00
+saldo atual.:   -104.947,29
+data...: segunda-feira, 13 de janeiro de 2025
+10:45 2.03.001 015 fretes
+transportadora porto sil nfª2966
+saída
+        5.488,00
+não
+00009655
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -104.947,29
+entradas.:          0,00
+saídas.:      5.488,00
+saldo dia.:     -5.488,00
+saldo atual.:   -110.435,29
+data...: terça-feira, 14 de janeiro de 2025
+08:41 9.01.048 070 consultoria tributaria
+andreia fraga oliveira nfª36
+saída
+        2.674,25
+não
+00009644
+09:15 2.03.003 016 carrego e descarrego
+jhoni brito
+saída
+           48,00
+não
+00009606
+10:31 9.01.017 001 pago a
+revisa car nfª2024713
+saída
+          580,00
+não
+00009615
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -110.435,29
+entradas.:          0,00
+saídas.:      3.302,25
+saldo dia.:     -3.302,25
+saldo atual.:   -113.737,54
+data...: quarta-feira, 15 de janeiro de 2025
+08:57 2.05.009 001 pago a
+oi fixo f:1600211280123
+saída
+          107,29
+não
+00009658
+08:59 2.05.009 001 pago a
+oi fixo f:1600211280124
+saída
+           95,12
+não
+00009659
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -113.737,54
+entradas.:          0,00
+saídas.:        202,41
+saldo dia.:       -202,41
+saldo atual.:   -113.939,95
+data...: quinta-feira, 16 de janeiro de 2025
+16:22 2.01.006 001 pago a
+e pedreira bastos ramos cnpj:10.501.488/
+saída
+           20,00
+não
+00009592
+16:32 2.01.006 001 pago a
+e pedreira bastos ramos cnpj:10.501.488/
+saída
+           85,00
+não
+00009594
+16:35 2.05.018 001 pago a
+marzolini dos anjos cnpj:10.762.121/0001
+saída
+           11,77
+não
+00009595
+16:45 2.05.018 001 pago a
+marzilini dos anjos cnpj:1.762.121/0001-
+saída
+          119,70
+não
+00009596
+11:58 2.05.010 001 pago a
+alvara dam:284100
+saída
+          553,54
+não
+00009657
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -113.939,95
+entradas.:          0,00
+saídas.:        790,01
+saldo dia.:       -790,01
+saldo atual.:   -114.729,96
+data...: sexta-feira, 17 de janeiro de 2025
+08:36 2.01.002 030 embasa
+embasa 01/2025
+saída
+          424,54
+não
+00009885
+17:55 2.05.018 001 pago a
+marzolini dos anjos cnpj:10.762.121/0001
+saída
+           80,69
+não
+00009599
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -114.729,96
+entradas.:          0,00
+saídas.:        505,23
+saldo dia.:       -505,23
+saldo atual.:   -115.235,19
+data...: sábado, 18 de janeiro de 2025
+09:18 9.01.043 001 pago a
+sefaz-ba parcela 5/24
+saída
+        1.660,74
+não
+00009662
+09:19 9.01.043 001 pago a
+sefaz-ba parcela 5/24
+saída
+        1.434,07
+não
+00009663
+========================================================================================================================================
+totais ====>
+entradas...:             0,00
+saídas...:       118.330,00
+página: 0003
+08 de dezembro de 2025 18:18:53
+listagem de conferência de lançamentos
+período...: 01/01/2025 a 30/11/2025
+ouro verde comercio de fertilizan.e represe.ltda
+controle de caixa - versão: 2311(03)
+----------------------------------------------------------------------------------------------------------------------------------------
+hora  p. conta histórico padrão                   complemento histórico                     operação   valor lançamento  pro  n-controle
+----------------------------------------------------------------------------------------------------------------------------------------
+data...: sábado, 18 de janeiro de 2025
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -115.235,19
+entradas.:          0,00
+saídas.:      3.094,81
+saldo dia.:     -3.094,81
+saldo atual.:   -118.330,00
+data...: segunda-feira, 20 de janeiro de 2025
+08:19 2.03.003 016 carrego e descarrego
+matheus souza rocha
+saída
+          204,00
+não
+00009600
+09:02 2.05.011 001 pago a
+joao albino nfªcarn 2024-12
+saída
+        2.824,00
+não
+00009660
+08:23 2.01.006 001 pago a
+a p bastos de queiroz cnpj:05.002.945/00
+saída
+           20,97
+não
+00009601
+10:09 2.05.003 001 pago a
+f.g.t.s cod:12/2024 
+saída
+        6.576,70
+não
+00009651
+11:48 2.05.004 001 pago a
+g.p.s cod:2998835302
+saída
+       33.991,19
+não
+00009656
+10:40 9.01.007 001 pago a
+yelum seguros nfª71-31020-a
+saída
+        4.097,80
+não
+00009665
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -118.330,00
+entradas.:          0,00
+saídas.:     47.714,66
+saldo dia.:    -47.714,66
+saldo atual.:   -166.044,66
+data...: terça-feira, 21 de janeiro de 2025
+08:26 2.03.003 016 carrego e descarrego
+juvenilson
+saída
+           90,00
+não
+00009602
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -166.044,66
+entradas.:          0,00
+saídas.:         90,00
+saldo dia.:        -90,00
+saldo atual.:   -166.134,66
+data...: quarta-feira, 22 de janeiro de 2025
+17:03 9.01.050 071 radio fm
+radio fm nfª20257
+saída
+          430,00
+não
+00009597
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -166.134,66
+entradas.:          0,00
+saídas.:        430,00
+saldo dia.:       -430,00
+saldo atual.:   -166.564,66
+data...: quinta-feira, 23 de janeiro de 2025
+09:04 9.01.046 068 darf pis 6912 e cofins 5856
+darf cod:6912
+saída
+        5.789,64
+não
+00009649
+09:02 9.01.046 068 darf pis 6912 e cofins 5856
+darf cod:5856
+saída
+       26.667,45
+não
+00009648
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -166.564,66
+entradas.:          0,00
+saídas.:     32.457,09
+saldo dia.:    -32.457,09
+saldo atual.:   -199.021,75
+data...: sexta-feira, 24 de janeiro de 2025
+08:43 2.03.003 016 carrego e descarrego
+juvenilson silva santos
+saída
+          332,00
+não
+00009603
+16:25 2.05.018 001 pago a
+marzolini dos anjos cnpj:10.762.121/0001
+saída
+           86,36
+não
+00009593
+08:55 2.05.001 001 pago a
+dae cod:2011 (tpp-vegetal-adab)
+saída
+          812,12
+não
+00009647
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -199.021,75
+entradas.:          0,00
+saídas.:      1.230,48
+saldo dia.:     -1.230,48
+saldo atual.:   -200.252,23
+data...: segunda-feira, 27 de janeiro de 2025
+09:07 2.03.003 016 carrego e descarrego
+jairo santos
+saída
+          272,00
+não
+00009605
+08:51 2.03.003 016 carrego e descarrego
+evandro p. brito cpf:611.211.935-87
+saída
+          320,00
+não
+00009604
+10:14 2.03.001 015 fretes
+fertimax nfª104557/1045
+saída
+        2.600,00
+não
+00009652
+10:32 2.03.001 015 fretes
+rn transportes de cargas nfª13155
+saída
+        1.967,00
+não
+00009653
+16:25 2.01.001 001 pago a
+coelba
+saída
+        1.313,76
+não
+00009667
+09:05 9.01.015 037 saude
+bradesco saude
+saída
+       17.780,89
+não
+00009661
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -200.252,23
+entradas.:          0,00
+saídas.:     24.253,65
+saldo dia.:    -24.253,65
+saldo atual.:   -224.505,88
+data...: terça-feira, 28 de janeiro de 2025
+10:05 2.05.014 001 pago a
+clin med medicina do trabalho nfª1183172
+saída
+           50,00
+não
+00009650
+17:14 9.01.022 040 radio cultura 
+radio cultura nfº20253
+saída
+          300,00
+não
+00009598
+----------------------------------------------------------------------------------------------------------------------------------------
+saldo anterior.:   -224.505,88
+entradas.:          0,00
+saídas.:        350,00
+saldo dia.:       -350,00
+saldo atual.:   -224.855,88
+========================================================================================================================================
+totais ====>
+entradas...:             0,00
+saídas...:       224.855,88

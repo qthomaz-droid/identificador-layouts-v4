@@ -1,0 +1,226 @@
+ 
+data
+ 
+mp
+ 
+cheque nº
+ 
+referência
+ 
+con
+ 
+extrato de conta
+ 
+página:
+ 
+1
+ 
+25/06/2024
+ 
+10:50
+ 
+entradas
+ 
+saídas
+ 
+documento
+ 
+cliente / fornec
+ 
+conta 341- banco itau cia representaçoes   0796   000073880:  de 01/04/2024 à 30/04/2024
+ 
+saldo
+ 
+saldo inicial:
+ 
+5.710,31
+ 
+saldo inicial conciliado:
+ 
+10.686,82
+ 
+banco itau cia representaçoes - ag: 0796 - conta: 000073
+ 
+02/04/24
+ 
+139,00
+ 
+e
+ 
+ tar plano adapt 1 0
+ 
+x
+ 
+5.571,31
+ 
+549732
+ 
+bco itau s.a
+ 
+05/04/24
+ 
+2.513,36
+ 
+e
+ 
+pro labore filip/liliam
+ 
+x
+ 
+3.057,95
+ 
+pro-labor#107
+ 
+cia repr
+ 
+10/04/24
+ 
+254,07
+ 
+e
+ 
+alvara 2024
+ 
+x
+ 
+2.803,88
+ 
+550295
+ 
+prefeitura
+ 
+10/04/24
+ 
+224,64
+ 
+e
+ 
+comissão 2% caio (sia)
+ 
+x
+ 
+2.579,24
+ 
+rpm rep#48
+ 
+rpm represen
+ 
+15/04/24
+ 
+951,67
+ 
+e
+ 
+contabilidade 
+ 
+x
+ 
+1.627,57
+ 
+aro con#59
+ 
+aro contabil
+ 
+16/04/24
+ 
+b
+ 
+comissoes da cia repres
+ 
+x
+ 
+15.584,84
+ 
+17.212,41
+ 
+sia.comiss#55
+ 
+sia-ctba
+ 
+19/04/24
+ 
+b
+ 
+rendimento
+ 
+x
+ 
+2,08
+ 
+17.214,49
+ 
+550834
+ 
+bco itau
+ 
+19/04/24
+ 
+310,64
+ 
+e
+ 
+gps inss cia representaç
+ 
+x
+ 
+16.903,85
+ 
+  prolab.#121
+ 
+gps
+ 
+19/04/24
+ 
+10.000,00
+ 
+e
+ 
+transf p poup filip
+ 
+x
+ 
+6.903,85
+ 
+22/04/24
+ 
+1.118,34
+ 
+e
+ 
+das simples nacional cia 
+ 
+x
+ 
+5.785,51
+ 
+das.simple#27
+ 
+das simples
+ 
+30/04/24
+ 
+b
+ 
+rendimento 
+ 
+x
+ 
+0,10
+ 
+5.785,61
+ 
+555392
+ 
+bco itau
+ 
+15.587,02
+ 
+15.511,72
+ 
+5.785,61
+ 
+saldos finais:
+ 
+saldo conciliado:
+ 
+10.762,12

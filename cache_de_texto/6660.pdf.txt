@@ -1,0 +1,1098 @@
+resumo da folha geral
+comp:
+0
+08/2025
+30.677.132/0001-13
+maruipe 2793  vitoria es
+descrição
+12/11/2025 10:31:13
+valor
+v.12.1.2410.219
+fortes engenharia ltda
+per:
+cx:
+ref
+cod
+n.f.
+todos
+emissão:
+01.001.01.0001
+seção:
+ref
+n.f.
+cod
+descrição
+valor
+totais da seção
+administração central - obra 01
+65,00
+salario familia
+0005
+1,00
+1
+463,43
+arredondamento +
+0020
+0,00
+1
+2.976,42
+ferias indenizadas
+0024
+0,00
+1
+2.113,26
+ferias proporcionais
+0025
+0,00
+3
+70.572,73
+adiant. quinzenal
+0034
+0,00
+35
+799,89
+abono de ferias
+0039
+10,00
+1
+4.540,10
+ferias no mes
+0041
+40,00
+2
+1.518,00
+pagamento autonomo
+0046
+0,00
+1
+2.879,40
+13o salario rescisao
+0048
+0,00
+3
+266,63
+1/3 de abono de ferias
+0056
+10,00
+1
+4.748,96
+aviso previo indenizado
+0062
+48,00
+1
+249,74
+13o. salario indenizado
+0071
+0,00
+1
+1.513,37
+1/3 ferias no mes
+0076
+40,00
+2
+20.996,19
+hora extra 50%
+0082
+872,99
+72
+10.342,86
+bolsa estagio
+0101
+0,00
+13
+20.518,30
+bolsa menor aprendiz
+0136
+0,00
+28
+5.073,66
+d. s. r de horas extras
+0159
+0,00
+70
+2,27
+adicional not. h.e 20%
+0178
+1,00
+1
+723,68
+atestado medico
+0215
+8,00
+7
+4.122,68
+gratificacao fixa
+0223
+0,00
+3
+5.655,33
+premio produção - horas
+0255
+313,15
+30
+51,68
+dsr.he.  resc
+0317
+3,00
+2
+30.360,00
+pro-labore
+0462
+440,00
+2
+992,14
+adicional 1/3 férias vencidas rescisão
+0505
+0,00
+1
+704,41
+adicional 1/3 férias proporcionais res
+0507
+0,00
+3
+7.756,19
+saldo de salário (dias)
+0519
+46,00
+3
+567.234,86
+dias trabalhados
+0520
+2.660,00
+94
+50,60
+rest. faltas mes ant. (dia)
+0524
+2,00
+1
+25,30
+rest. d.s.r de faltas mes ant. (dia)
+0525
+1,00
+1
+33.934,73
+abono funcao gerencial
+0601
+0,00
+6
+1.214,40
+insalubridade 40%
+0627
+0,00
+2
+592,67
+recesso estagio proporcional
+9008
+7,00
+1
+117,39
+f.g.t.s. quitacao
+0026
+8,00
+b
+1
+270,84
+f.g.t.s artigo 22
+0028
+40,00
+b
+1
+159,83
+f.g.t.s. 13o rescisao
+0031
+0,00
+b
+1
+4.091,32
+total entregue vale transporte
+0032
+0,00
+b
+27
+31.698,76
+ferias pagas no mes anterior
+0044
+46,00
+b
+4
+128,64
+fgts depositado na rescisao
+0073
+18,00
+b
+3
+10.566,25
+1/3 ferias pagas mes anterior
+0078
+46,00
+b
+4
+151,67
+inss ferias desc. mes anterior
+0197
+9,00
+b
+1
+55,34
+fgts 13o dep. rescisao
+0199
+10,00
+b
+2
+42.058,80
+inss com aliquota normal
+0203
+0,00
+b
+125
+533,05
+inss ferias c/ aliquota normal
+0204
+0,00
+b
+2
+245,61
+inss 13o. com aliquota normal
+0205
+0,00
+b
+3
+151,67
+inss fer.desc.mes ant.alq.nor.
+0207
+9,00
+b
+1
+4.091,34
+total calculado para compra de vale tr
+0221
+0,00
+b
+27
+6.210,00
+plano saude parte empresa - samp
+0391
+0,00
+b
+54
+3.855,86
+seguro de vida parte empresa
+0393
+0,00
+b
+94
+637,80
+valor transporte custo empresa
+0509
+0,00
+b
+12
+12.990,13
+dias de dsr no mes
+0528
+447,00
+b
+94
+6.320,10
+base irrf férias envelope
+0537
+0,00
+b
+2
+799,89
+base de abono férias envelope
+0548
+0,00
+b
+1
+1.206,82
+dias de dsr rescisão
+0553
+7,00
+b
+3
+379,91
+fgts aviso previo
+0622
+8,00
+b
+1
+19,97
+fgts 13o indenizado
+0623
+8,00
+b
+1
+25.502,40
+valor a deduzir de irrf simplificado f
+0630
+0,00
+b
+41
+607,20
+valor a deduzir de irrf simplificado f
+0631
+0,00
+b
+1
+9.278,74
+remuneração base empréstimo crédito do 
+0640
+0,00
+b
+3
+1.620,56
+férias proporciais - campo 65 do termo 
+1025
+10,00
+b
+3
+492,70
+férias indenizadas - campo 71 do termo 
+2025
+2,00
+b
+1
+2.976,42
+férias vencidas sem aviso prévio - cam
+3025
+30,00
+b
+1
+42.058,80
+i.n.s.s.
+0003
+0,00
+125
+92.722,92
+i.r.r.f.
+0004
+0,00
+57
+3.453,52
+vale transporte
+0006
+162,00
+27
+245,61
+inss 13o salario
+0011
+0,00
+3
+1.032,74
+pensao alimenticia
+0013
+47,00
+2
+70.572,73
+adiant. quinzenal (desconto)
+0019
+0,00
+35
+102,82
+i.r.r.f.  ferias
+0030
+0,00
+1
+6.266,12
+adiantamento conf. recibo
+0043
+0,00
+2
+6.363,43
+empréstimos do empregador - desconto
+0060
+6.363,43
+15
+4.911,69
+desconto farmacia rede farmes es
+0097
+4.604,71
+27
+533,05
+i.n.s.s ferias
+0098
+0,00
+2
+666,84
+seguro de vida em grupo
+0103
+0,00
+11
+2.205,10
+atraso
+0163
+163,27
+60
+93,00
+desconto alimentação
+0167
+0,00
+93
+1.097,38
+contrib. negocial mensal (1%)
+0169
+0,00
+31
+3,00
+vale transporte interno
+0234
+0,00
+3
+234,00
+pensão alim. judicial informada
+0285
+0,00
+1
+515,00
+emprestimo consig bv
+0358
+0,00
+2
+7.636,10
+assist. medica samp
+0402
+0,00
+30
+19.018,90
+assist. medica unimed
+0413
+0,00
+18
+2.610,57
+desconto partic. unimed
+0414
+0,00
+13
+910,00
+desconto credito nao utilizado
+0444
+0,00
+1
+1.794,64
+i.n.s.s. pro-labore
+0463
+0,00
+2
+166,98
+i.n.s.s. autonomo
+0470
+0,00
+1
+6.038,00
+i.r.r.f. pessoa física
+0475
+0,00
+2
+2.190,70
+desconto unimed odonto
+0492
+0,00
+34
+3.819,90
+faltas (dia)
+0515
+19,00
+4
+1.329,23
+d.s.r de faltas (dia)
+0516
+9,00
+5
+1,00
+desconto cesta - es
+0547
+0,00
+1
+1.053,59
+desconto p/ recup. de custos
+0602
+0,00
+3
+121,89
+pro rata - samp
+0633
+0,00
+2
+306,26
+pro rata unimed
+0634
+0,00
+1
+86,54
+pro rata odont
+0635
+0,00
+1
+2.092,18
+desconto empréstimo crédito do trabalh
+0636
+0,00
+3
+201,33
+desconto farmacia proximo mês es
+0649
+0,00
+1
+119,40
+assist medica samp prox mes
+0655
+0,00
+1
+520.483,92
+líquido
+55.321,54
+fgts esocial
+282.574,96
+descontos
+690.850,90
+base irrf
+55,34
+fgts 13o. sal. esocial
+0,00
+inss empresa
+3.129,14
+base irrf 13º
+0,00
+fgts indeniz. esocial
+21.343,59
+inss sat
+6.320,10
+base irrf férias
+117,39
+fgts rescisório esocial
+41.264,28
+inss terceiro
+0,00
+base irrf plr
+159,83
+fgts 13º rescisório esocial
+62.607,87
+inss total (emp+sat+terc)
+713.487,60
+base sal. fam.
+399,89
+fgts indeniz. resc. esocial
+19.548,60
+inss sat ajustado
+35,00
+num. depend. irrf
+706.856,72
+base fgts esocial
+60.812,88
+inss (emp+sat_ajust+terc)
+0,00
+fórmula 1
+881,51
+base fgts 13o. sal. esocial
+44.950,75
+inss segurado
+0,00
+fórmula 2
+0,00
+base fgts indeniz. esocial
+7.354,23
+estorno inss
+0,00
+fórmula 3
+1.467,40
+base fgts resc. esocial
+708.324,12
+base inss - gps
+0,00
+fórmula 4
+1.997,89
+base fgts 13º resc. esocial
+3.129,14
+base inss 13º - gps
+0,00
+fórmula 5
+4.998,70
+base fgts ind resc. esocial
+280.149,21
+base inss ac. teto
+0,00
+fórmula 6
+708.324,12
+base inss - envelope
+0,00
+base inss ac. teto 13º
+0,00
+fórmula 7
+3.129,14
+base inss 13º - envelope
+0,00
+base inss 15 anos
+0,00
+fórmula 8
+3.129,14
+base inss 13º - envelope
+0,00
+base inss 13º 15 anos
+0,00
+fórmula 9
+803.058,88
+proventos
+0,00
+base inss 20 anos
+0,00
+fórmula 10
+55.819,27
+fgts dep.
+0,00
+base inss 13º 20 anos
+0,00
+fórmula 11
+235,15
+fgts 13º dep.
+0,00
+base inss 25 anos
+0,00
+fórmula 12
+55.321,99
+fgts dep. (sefip)
+0,00
+base inss 13º 25 anos
+0,00
+fórmula 13
+55,34
+fgts 13º dep. (sefip)
+708.324,12
+base inss ñ exp. risco
+0,00
+fórmula 14
+128,66
+fgts rescisão (sefip)
+3.129,14
+base inss 13º ñ exp. risco
+0,00
+fórmula 15
+55,34
+fgts 13º rescisão (sefip)
+1.518,00
+base inss auton.
+713.073,08
+base fgts
+30.360,00
+base inss pro-labore
+3.129,14
+base fgts 13º
+706.856,72
+base fgts (sefip)
+881,51
+base fgts 13º (sefip)
+7.843,53
+base fgts demitidos
+3.129,14
+base fgts 13º demitidos
+1
+página:
+resumo da folha geral
+comp:
+0
+08/2025
+30.677.132/0001-13
+maruipe 2793  vitoria es
+descrição
+12/11/2025 10:31:13
+valor
+v.12.1.2410.219
+fortes engenharia ltda
+per:
+cx:
+ref
+cod
+n.f.
+todos
+emissão:
+01.001.01.0001
+seção:
+ref
+n.f.
+cod
+descrição
+valor
+totais da seção
+administração central - obra 01
+1.627,17
+base fgts resc.(sefip)
+881,51
+base fgts 13º resc.(sefip)
+total de funcionários
+141
+ativos
+136
+demitidos
+5
+serv. militar
+0
+af. previdência
+0
+aviso prévio
+0
+férias
+0
+af. ac. trabalho
+0
+lic. sem vencto
+0
+outros
+0
+lic. remunerada
+0
+c/ dem. mês
+0
+licença paternidade
+0
+transf. no mês
+0
+c/ resc. compl.
+0
+apos. invalidez
+0
+recesso remunerado de estágio
+0
+licença maternidade
+0
+contrato de trabalho suspenso
+0
+doença ocupacional
+0
+licença mater. compl. 180 dias
+0
+admissão próximo mês
+0
+2
+página:
+resumo da folha geral
+comp:
+0
+08/2025
+30.677.132/0001-13
+maruipe 2793  vitoria es
+descrição
+12/11/2025 10:31:13
+valor
+v.12.1.2410.219
+fortes engenharia ltda
+per:
+cx:
+ref
+cod
+n.f.
+todos
+emissão:
+01.001.01.0002
+seção:
+ref
+n.f.
+cod
+descrição
+valor
+totais da seção
+rateio de mão de obra  - obra 02
+7.306,00
+adiant. quinzenal
+0034
+0,00
+3
+648,40
+hora extra 50%
+0082
+13,79
+2
+3.789,80
+hora extra 100%
+0083
+41,18
+2
+853,51
+d. s. r de horas extras
+0159
+0,00
+2
+74.221,33
+dias trabalhados
+0520
+180,00
+6
+6.096,06
+abono funcao gerencial
+0601
+0,00
+1
+4.463,66
+inss com aliquota normal
+0203
+0,00
+b
+6
+361,91
+seguro de vida parte empresa
+0393
+0,00
+b
+6
+1.686,85
+dias de dsr no mes
+0528
+30,00
+b
+6
+1.214,40
+valor a deduzir de irrf simplificado f
+0630
+0,00
+b
+2
+4.463,66
+i.n.s.s.
+0003
+0,00
+6
+16.565,39
+i.r.r.f.
+0004
+0,00
+5
+7.306,00
+adiant. quinzenal (desconto)
+0019
+0,00
+3
+190,87
+seguro de vida em grupo
+0103
+0,00
+3
+123,80
+atraso
+0163
+4,78
+2
+6,00
+desconto alimentação
+0167
+0,00
+6
+235,54
+contrib. negocial mensal (1%)
+0169
+0,00
+3
+2,00
+vale transporte interno
+0234
+0,00
+2
+3.559,48
+assist. medica unimed
+0413
+0,00
+4
+508,24
+desconto partic. unimed
+0414
+0,00
+4
+259,62
+desconto unimed odonto
+0492
+0,00
+1
+59.694,50
+líquido
+6.838,80
+fgts esocial
+33.220,60
+descontos
+85.485,30
+base irrf
+0,00
+fgts 13o. sal. esocial
+0,00
+inss empresa
+0,00
+base irrf 13º
+0,00
+fgts indeniz. esocial
+2.564,55
+inss sat
+0,00
+base irrf férias
+0,00
+fgts rescisório esocial
+4.958,14
+inss terceiro
+0,00
+base irrf plr
+0,00
+fgts 13º rescisório esocial
+7.522,69
+inss total (emp+sat+terc)
+85.609,10
+base sal. fam.
+0,00
+fgts indeniz. resc. esocial
+2.348,87
+inss sat ajustado
+7,00
+num. depend. irrf
+85.485,30
+base fgts esocial
+7.307,01
+inss (emp+sat_ajust+terc)
+0,00
+fórmula 1
+0,00
+base fgts 13o. sal. esocial
+4.463,66
+inss segurado
+0,00
+fórmula 2
+0,00
+base fgts indeniz. esocial
+123,80
+estorno inss
+0,00
+fórmula 3
+0,00
+base fgts resc. esocial
+85.485,30
+base inss - gps
+0,00
+fórmula 4
+0,00
+base fgts 13º resc. esocial
+0,00
+base inss 13º - gps
+0,00
+fórmula 5
+0,00
+base fgts ind resc. esocial
+45.602,46
+base inss ac. teto
+0,00
+fórmula 6
+85.485,30
+base inss - envelope
+0,00
+base inss ac. teto 13º
+0,00
+fórmula 7
+0,00
+base inss 13º - envelope
+0,00
+base inss 15 anos
+0,00
+fórmula 8
+0,00
+base inss 13º - envelope
+0,00
+base inss 13º 15 anos
+0,00
+fórmula 9
+92.915,10
+proventos
+0,00
+base inss 20 anos
+0,00
+fórmula 10
+6.838,83
+fgts dep.
+0,00
+base inss 13º 20 anos
+0,00
+fórmula 11
+0,00
+fgts 13º dep.
+0,00
+base inss 25 anos
+0,00
+fórmula 12
+6.838,82
+fgts dep. (sefip)
+0,00
+base inss 13º 25 anos
+0,00
+fórmula 13
+0,00
+fgts 13º dep. (sefip)
+85.485,30
+base inss ñ exp. risco
+0,00
+fórmula 14
+0,00
+fgts rescisão (sefip)
+0,00
+base inss 13º ñ exp. risco
+0,00
+fórmula 15
+0,00
+fgts 13º rescisão (sefip)
+0,00
+base inss auton.
+85.485,30
+base fgts
+0,00
+base inss pro-labore
+0,00
+base fgts 13º
+85.485,30
+base fgts (sefip)
+0,00
+base fgts 13º (sefip)
+0,00
+base fgts demitidos
+0,00
+base fgts 13º demitidos
+0,00
+base fgts resc.(sefip)
+0,00
+base fgts 13º resc.(sefip)
+total de funcionários
+6
+ativos
+6
+demitidos
+0
+serv. militar
+0
+af. previdência
+0
+aviso prévio
+0
+férias
+0
+af. ac. trabalho
+0
+lic. sem vencto
+0
+outros
+0
+lic. remunerada
+0
+c/ dem. mês
+0
+licença paternidade
+0
+transf. no mês
+0
+c/ resc. compl.
+0
+apos. invalidez
+0
+recesso remunerado de estágio
+0
+licença maternidade
+0
+contrato de trabalho suspenso
+0
+doença ocupacional
+0
+licença mater. compl. 180 dias
+0
+admissão próximo mês
+0
+3
+página:

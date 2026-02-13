@@ -1,0 +1,6054 @@
+o que vendi - detalhamento das vendas
+razão social: mercado donato ltda
+cód. estabelecimento: 410413
+cnpj/cpf: 15.370.915/0001-66
+período: 01/03/2025 a 31/03/2025
+número do terminal: não informado
+tipo de moeda: real
+ > o que vendi
+ dados do estabelecimento
+cartão(ões): mastercard crédito, mastercard débito, visa crédito, visa débito, elo crédito, elo débito, amex crédito,
+hipercard crédito
+modalidade(s): crédito à vista, crédito parcelado lojista, crédito parcelado emissor, débito, carnê, recorrente, parcelado bndes, crediário
+por onde vendi: pos, tef, e-commerce, troca de arquivos, superget, iata
+ > detalhamento das vendas
+cód.
+estabelecimento
+cartões
+data/hora
+da venda
+data prevista
+do 1º
+pagamento
+número do cartão
+número da
+autorização
+número do
+comprovante
+de vendas
+número do
+terminal
+descrição do lançamento
+total de
+parcelas
+valor bruto
+valor bruto: r$ 389.888,70
+valor da taxa e/ou tarifa: - r$ 4.232,61
+valor líquido: r$ 385.656,09
+emissor cartão
+valor da taxa
+e/ou tarifa
+valor líquido
+410413
+mastercard débito
+01/03/2025 07:07:55
+05/03/2025
+544731******5646
+080172
+000105819
+14185294 venda debito a vista
+1
+r$ 4,50
+nacional
+- r$ 0,04
+r$ 4,46
+410413
+mastercard débito
+01/03/2025 07:09:00
+05/03/2025
+522626******0304
+081618
+000105823
+14185294 venda debito a vista
+1
+r$ 25,54
+nacional
+- r$ 0,20
+r$ 25,34
+410413
+mastercard crédito
+01/03/2025 07:10:28
+01/04/2025
+523284******1907
+002253
+000105825
+14185294 venda credito a vista
+1
+r$ 40,03
+nacional
+- r$ 0,60
+r$ 39,43
+410413
+mastercard débito
+01/03/2025 07:17:53
+05/03/2025
+230650******5003
+ljfvqw
+000105827
+14185294 venda debito a vista
+1
+r$ 20,85
+nacional
+- r$ 0,16
+r$ 20,69
+410413
+mastercard débito
+01/03/2025 07:18:31
+05/03/2025
+550209******3823
+429654
+000105829
+14185294 venda debito a vista
+1
+r$ 12,24
+nacional
+- r$ 0,10
+r$ 12,14
+410413
+mastercard débito
+01/03/2025 07:19:56
+05/03/2025
+550209******3526
+692373
+000105831
+14185294 venda debito a vista
+1
+r$ 41,49
+nacional
+- r$ 0,33
+r$ 41,16
+410413
+mastercard débito
+01/03/2025 07:20:36
+05/03/2025
+550209******2562
+245315
+000078803
+14313212 venda debito a vista
+1
+r$ 26,95
+nacional
+- r$ 0,21
+r$ 26,74
+410413
+mastercard débito
+01/03/2025 07:21:07
+05/03/2025
+550272******0626
+842983
+000078807
+14313212 venda debito a vista
+1
+r$ 6,58
+nacional
+- r$ 0,05
+r$ 6,53
+410413
+visa débito
+01/03/2025 07:21:34
+05/03/2025
+410863******0011
+213854
+000105833
+14185294 venda debito a vista
+1
+r$ 3,99
+nacional
+- r$ 0,03
+r$ 3,96
+410413
+mastercard crédito
+01/03/2025 07:21:37
+01/04/2025
+514004******7086
+r43164
+000078809
+14313212 venda credito a vista
+1
+r$ 6,48
+nacional
+- r$ 0,10
+r$ 6,38
+410413
+visa débito
+01/03/2025 07:22:06
+05/03/2025
+439267******2427
+968527
+000105835
+14185294 venda debito a vista
+1
+r$ 28,23
+nacional
+- r$ 0,22
+r$ 28,01
+410413
+visa crédito
+01/03/2025 07:22:34
+01/04/2025
+410863******8090
+223874
+000105837
+14185294 venda credito a vista
+1
+r$ 3,99
+nacional
+- r$ 0,06
+r$ 3,93
+410413
+mastercard débito
+01/03/2025 07:22:54
+05/03/2025
+514945******3187
+m94678
+000078811
+14313212 venda debito a vista
+1
+r$ 9,99
+nacional
+- r$ 0,08
+r$ 9,91
+410413
+visa crédito
+01/03/2025 07:23:09
+01/04/2025
+410863******8090
+231474
+000105839
+14185294 venda credito a vista
+1
+r$ 3,99
+nacional
+- r$ 0,06
+r$ 3,93
+410413
+mastercard débito
+01/03/2025 07:25:12
+05/03/2025
+544635******0729
+115972
+000078813
+14313212 venda debito a vista
+1
+r$ 13,28
+nacional
+- r$ 0,10
+r$ 13,18
+410413
+mastercard débito
+01/03/2025 07:26:49
+05/03/2025
+544731******8962
+265979
+000105841
+14185294 venda debito a vista
+1
+r$ 79,66
+nacional
+- r$ 0,63
+r$ 79,03
+410413
+visa débito
+01/03/2025 07:33:48
+05/03/2025
+412967******7767
+103586
+000105843
+14185294 venda debito a vista
+1
+r$ 89,96
+nacional
+- r$ 0,71
+r$ 89,25
+410413
+visa débito
+01/03/2025 07:37:37
+05/03/2025
+439267******6657
+096282
+000105845
+14185294 venda debito a vista
+1
+r$ 117,06
+nacional
+- r$ 0,92
+r$ 116,14
+410413
+visa crédito
+01/03/2025 07:52:19
+01/04/2025
+439020******5757
+064865
+000105851
+14185294 venda credito a vista
+1
+r$ 23,00
+nacional
+- r$ 0,34
+r$ 22,66
+410413
+visa débito
+01/03/2025 07:52:56
+05/03/2025
+439013******3012
+562358
+000105853
+14185294 venda debito a vista
+1
+r$ 131,36
+nacional
+- r$ 1,04
+r$ 130,32
+410413
+mastercard débito
+01/03/2025 07:57:01
+05/03/2025
+550209******9082
+549942
+000078815
+14313212 venda debito a vista
+1
+r$ 59,92
+nacional
+- r$ 0,47
+r$ 59,45
+410413
+visa débito
+01/03/2025 07:57:19
+05/03/2025
+439267******9639
+285210
+000105855
+14185294 venda debito a vista
+1
+r$ 19,46
+nacional
+- r$ 0,15
+r$ 19,31
+410413
+visa débito
+01/03/2025 08:00:14
+05/03/2025
+476333******3129
+881295
+000105857
+14185294 venda debito a vista
+1
+r$ 59,56
+nacional
+- r$ 0,47
+r$ 59,09
+410413
+mastercard crédito
+01/03/2025 08:00:27
+01/04/2025
+515467******5377
+510272
+000078817
+14313212 venda credito a vista
+1
+r$ 41,77
+nacional
+- r$ 0,62
+r$ 41,15
+410413
+mastercard crédito
+01/03/2025 08:11:53
+01/04/2025
+516292******6596
+781707
+000105861
+14185294 venda credito a vista
+1
+r$ 18,46
+nacional
+- r$ 0,28
+r$ 18,18
+410413
+mastercard crédito
+01/03/2025 08:13:07
+01/04/2025
+547184******3007
+533416
+000078819
+14313212 venda credito a vista
+1
+r$ 19,96
+nacional
+- r$ 0,30
+r$ 19,66
+410413
+mastercard débito
+01/03/2025 08:19:16
+05/03/2025
+230650******5349
+yixkw9
+000105863
+14185294 venda debito a vista
+1
+r$ 20,35
+nacional
+- r$ 0,16
+r$ 20,19
+410413
+mastercard débito
+01/03/2025 08:28:05
+05/03/2025
+515467******6587
+715130
+000105865
+14185294 venda debito a vista
+1
+r$ 16,16
+nacional
+- r$ 0,13
+r$ 16,03
+410413
+mastercard débito
+01/03/2025 08:30:30
+05/03/2025
+550209******9082
+489818
+000105867
+14185294 venda debito a vista
+1
+r$ 6,39
+nacional
+- r$ 0,05
+r$ 6,34
+410413
+mastercard débito
+01/03/2025 08:31:55
+05/03/2025
+525662******0423
+m53202
+000105869
+14185294 venda debito a vista
+1
+r$ 15,17
+nacional
+- r$ 0,12
+r$ 15,05
+410413
+mastercard débito
+01/03/2025 08:35:00
+05/03/2025
+544635******0367
+956560
+000078821
+14313212 venda debito a vista
+1
+r$ 40,38
+nacional
+- r$ 0,32
+r$ 40,06
+410413
+mastercard débito
+01/03/2025 08:35:26
+05/03/2025
+550209******7623
+377979
+000105871
+14185294 venda debito a vista
+1
+r$ 6,32
+nacional
+- r$ 0,05
+r$ 6,27
+410413
+visa débito
+01/03/2025 08:35:44
+05/03/2025
+434562******7759
+on6sh4
+000078823
+14313212 venda debito a vista
+1
+r$ 103,09
+nacional
+- r$ 0,81
+r$ 102,28
+410413
+mastercard débito
+01/03/2025 08:37:09
+05/03/2025
+550209******0870
+382250
+000105875
+14185294 venda debito a vista
+1
+r$ 6,84
+nacional
+- r$ 0,05
+r$ 6,79
+410413
+mastercard débito
+01/03/2025 08:37:53
+05/03/2025
+544635******0367
+582598
+000105877
+14185294 venda debito a vista
+1
+r$ 19,90
+nacional
+- r$ 0,16
+r$ 19,74
+410413
+visa débito
+01/03/2025 08:41:04
+05/03/2025
+485464******8148
+131269
+000078825
+14313212 venda debito a vista
+1
+r$ 57,00
+nacional
+- r$ 0,45
+r$ 56,55
+410413
+visa crédito
+01/03/2025 08:42:27
+01/04/2025
+453067******8553
+603562
+000078827
+14313212 venda credito a vista
+1
+r$ 59,59
+nacional
+- r$ 0,89
+r$ 58,70
+410413
+mastercard crédito
+01/03/2025 08:43:45
+01/04/2025
+522590******1134
+r67877
+000078829
+14313212 venda credito a vista
+1
+r$ 25,49
+nacional
+- r$ 0,38
+r$ 25,11
+410413
+visa débito
+01/03/2025 08:44:34
+05/03/2025
+439267******9550
+952028
+000078831
+14313212 venda debito a vista
+1
+r$ 7,49
+nacional
+- r$ 0,06
+r$ 7,43
+410413
+visa débito
+01/03/2025 08:51:16
+05/03/2025
+485464******8148
+331881
+000078833
+14313212 venda debito a vista
+1
+r$ 4,29
+nacional
+- r$ 0,03
+r$ 4,26
+410413
+visa débito
+01/03/2025 08:53:53
+05/03/2025
+410863******9123
+535769
+000105879
+14185294 venda debito a vista
+1
+r$ 16,79
+nacional
+- r$ 0,13
+r$ 16,66
+410413
+mastercard crédito
+01/03/2025 08:55:18
+01/04/2025
+550209******3948
+423255
+000105881
+14185294 venda credito a vista
+1
+r$ 81,12
+nacional
+- r$ 1,21
+r$ 79,91
+410413
+mastercard débito
+01/03/2025 08:55:47
+05/03/2025
+516292******5818
+966229
+000105883
+14185294 venda debito a vista
+1
+r$ 6,39
+nacional
+- r$ 0,05
+r$ 6,34
+410413
+visa crédito
+01/03/2025 08:56:57
+06/03/2025
+435087******4080
+200253
+000105885
+14185294 venda credito a vista
+1
+r$ 56,54
+nacional
+- r$ 0,84
+r$ 55,70
+410413
+visa débito
+01/03/2025 08:59:06
+05/03/2025
+498401******9574
+132350
+000105887
+14185294 venda debito a vista
+1
+r$ 88,97
+nacional
+- r$ 0,70
+r$ 88,27
+410413
+elo débito
+01/03/2025 08:59:23
+05/03/2025
+506722******1050
+205630
+000078837
+14313212 venda debito a vista
+1
+r$ 107,97
+nacional
+- r$ 1,50
+r$ 106,47
+410413
+mastercard crédito
+01/03/2025 09:01:17
+01/04/2025
+516292******0774
+245243
+000105889
+14185294 venda credito a vista
+1
+r$ 68,91
+nacional
+- r$ 1,03
+r$ 67,88
+410413
+elo crédito
+01/03/2025 09:02:17
+01/04/2025
+509485******0981
+597565
+000078843
+14313212 venda credito a vista
+1
+r$ 17,98
+nacional
+- r$ 0,38
+r$ 17,60
+410413
+mastercard crédito
+01/03/2025 09:08:28
+01/04/2025
+559045******1386
+595110
+000105891
+14185294 venda credito a vista
+1
+r$ 19,29
+nacional
+- r$ 0,29
+r$ 19,00
+410413
+visa débito
+01/03/2025 09:11:26
+05/03/2025
+473896******6575
+133091
+000105895
+14185294 venda debito a vista
+1
+r$ 16,74
+nacional
+- r$ 0,13
+r$ 16,61
+410413
+mastercard débito
+01/03/2025 09:15:02
+05/03/2025
+608710******9111
+024844
+000105897
+14185294 venda debito a vista
+1
+r$ 24,08
+nacional
+- r$ 0,19
+r$ 23,89
+410413
+mastercard débito
+01/03/2025 09:15:49
+05/03/2025
+514945******8108
+m88779
+000105899
+14185294 venda debito a vista
+1
+r$ 31,05
+nacional
+- r$ 0,25
+r$ 30,80
+410413
+mastercard crédito
+01/03/2025 09:16:30
+01/04/2025
+544859******9672
+015214
+000105901
+14185294 venda credito a vista
+1
+r$ 13,43
+nacional
+- r$ 0,20
+r$ 13,23
+410413
+visa crédito
+01/03/2025 09:19:23
+01/04/2025
+490144******1102
+029339
+000105903
+14185294 venda credito a vista
+1
+r$ 23,00
+nacional
+- r$ 0,34
+r$ 22,66
+410413
+elo débito
+01/03/2025 09:19:48
+05/03/2025
+650570******4496
+666939
+000105905
+14185294 venda debito a vista
+1
+r$ 3,21
+nacional
+- r$ 0,04
+r$ 3,17
+410413
+mastercard crédito
+01/03/2025 09:20:07
+01/04/2025
+544731******7792
+201291
+000078847
+14313212 venda credito a vista
+1
+r$ 71,26
+nacional
+- r$ 1,06
+r$ 70,20
+410413
+mastercard débito
+01/03/2025 09:26:11
+05/03/2025
+502121******5398
+261671
+000105907
+14185294 venda debito a vista
+1
+r$ 79,62
+nacional
+- r$ 0,63
+r$ 78,99
+410413
+visa crédito
+01/03/2025 09:27:47
+01/04/2025
+410863******0609
+275175
+000105909
+14185294 venda credito a vista
+1
+r$ 64,20
+nacional
+- r$ 0,96
+r$ 63,24
+410413
+visa débito
+01/03/2025 09:28:33
+05/03/2025
+439267******3677
+768984
+000105911
+14185294 venda debito a vista
+1
+r$ 22,01
+nacional
+- r$ 0,17
+r$ 21,84
+410413
+visa crédito
+01/03/2025 09:30:49
+01/04/2025
+477176******8899
+089880
+000078851
+14313212 venda credito a vista
+1
+r$ 50,80
+nacional
+- r$ 0,76
+r$ 50,04
+410413
+visa crédito
+01/03/2025 09:32:01
+01/04/2025
+453211******6291
+620550
+000105913
+14185294 venda credito a vista
+1
+r$ 38,10
+nacional
+- r$ 0,57
+r$ 37,53
+410413
+visa débito
+01/03/2025 09:33:45
+05/03/2025
+439267******4372
+881036
+000078857
+14313212 venda debito a vista
+1
+r$ 117,26
+nacional
+- r$ 0,93
+r$ 116,33
+410413
+mastercard débito
+01/03/2025 09:35:53
+05/03/2025
+589916******9225
+m35257
+000105915
+14185294 venda debito a vista
+1
+r$ 46,08
+nacional
+- r$ 0,36
+r$ 45,72
+410413
+visa débito
+01/03/2025 09:36:34
+05/03/2025
+439267******8509
+936844
+000105917
+14185294 venda debito a vista
+1
+r$ 36,64
+nacional
+- r$ 0,29
+r$ 36,35
+410413
+mastercard débito
+01/03/2025 09:37:19
+05/03/2025
+511477******4868
+249682
+000105919
+14185294 venda debito a vista
+1
+r$ 5,24
+nacional
+- r$ 0,04
+r$ 5,20
+410413
+mastercard débito
+01/03/2025 09:37:37
+05/03/2025
+234074******8026
+738379
+000078859
+14313212 venda debito a vista
+1
+r$ 39,07
+nacional
+- r$ 0,31
+r$ 38,76
+410413
+visa débito
+01/03/2025 09:38:35
+05/03/2025
+485464******3732
+234731
+000105921
+14185294 venda debito a vista
+1
+r$ 41,61
+nacional
+- r$ 0,33
+r$ 41,28
+410413
+visa crédito
+01/03/2025 09:38:53
+01/04/2025
+406669******5813
+685763
+000078861
+14313212 venda credito a vista
+1
+r$ 29,44
+nacional
+- r$ 0,44
+r$ 29,00
+410413
+mastercard crédito
+01/03/2025 09:42:12
+01/04/2025
+531681******8273
+015683
+000105923
+14185294 venda credito a vista
+1
+r$ 165,31
+nacional
+- r$ 2,46
+r$ 162,85
+410413
+visa débito
+01/03/2025 09:42:47
+05/03/2025
+485464******2802
+134971
+000078863
+14313212 venda debito a vista
+1
+r$ 30,28
+nacional
+- r$ 0,24
+r$ 30,04
+410413
+elo débito
+01/03/2025 09:44:57
+05/03/2025
+506722******8006
+119579
+000078867
+14313212 venda debito a vista
+1
+r$ 68,00
+nacional
+- r$ 0,95
+r$ 67,05
+410413
+mastercard crédito
+01/03/2025 09:46:13
+01/04/2025
+523284******0108
+078926
+000105925
+14185294 venda credito a vista
+1
+r$ 61,62
+nacional
+- r$ 0,92
+r$ 60,70
+410413
+mastercard débito
+01/03/2025 09:46:58
+05/03/2025
+589916******6464
+m03812
+000078869
+14313212 venda debito a vista
+1
+r$ 54,97
+nacional
+- r$ 0,43
+r$ 54,54
+410413
+visa débito
+01/03/2025 09:48:08
+05/03/2025
+498406******6546
+135293
+000105927
+14185294 venda debito a vista
+1
+r$ 58,91
+nacional
+- r$ 0,47
+r$ 58,44
+410413
+mastercard crédito
+01/03/2025 09:48:36
+01/04/2025
+534562******6027
+hrkpsk
+000078871
+14313212 venda credito a vista
+1
+r$ 43,96
+nacional
+- r$ 0,66
+r$ 43,30
+410413
+mastercard débito
+01/03/2025 09:48:36
+05/03/2025
+522626******4574
+158035
+000105929
+14185294 venda debito a vista
+1
+r$ 10,99
+nacional
+- r$ 0,09
+r$ 10,90
+410413
+visa débito
+01/03/2025 09:53:03
+05/03/2025
+439267******2361
+292031
+000105931
+14185294 venda debito a vista
+1
+r$ 176,50
+nacional
+- r$ 1,39
+r$ 175,11
+410413
+mastercard débito
+01/03/2025 09:54:22
+05/03/2025
+522840******0784
+542753
+000105933
+14185294 venda debito a vista
+1
+r$ 34,82
+nacional
+- r$ 0,28
+r$ 34,54
+410413
+visa débito
+01/03/2025 09:54:44
+05/03/2025
+452204******6300
+020959
+000105935
+14185294 venda debito a vista
+1
+r$ 12,98
+nacional
+- r$ 0,10
+r$ 12,88
+410413
+visa débito
+01/03/2025 09:56:38
+05/03/2025
+439267******2012
+375067
+000078873
+14313212 venda debito a vista
+1
+r$ 287,18
+nacional
+- r$ 2,27
+r$ 284,91
+410413
+visa débito
+01/03/2025 09:57:05
+05/03/2025
+485464******6362
+335830
+000105937
+14185294 venda debito a vista
+1
+r$ 29,16
+nacional
+- r$ 0,23
+r$ 28,93
+410413
+mastercard crédito
+01/03/2025 09:57:52
+01/04/2025
+515467******7626
+125859
+000105939
+14185294 venda credito a vista
+1
+r$ 64,03
+nacional
+- r$ 0,95
+r$ 63,08
+410413
+mastercard débito
+01/03/2025 10:00:10
+05/03/2025
+550209******1500
+623622
+000078875
+14313212 venda debito a vista
+1
+r$ 2,19
+nacional
+- r$ 0,02
+r$ 2,17
+410413
+visa débito
+01/03/2025 10:01:16
+05/03/2025
+485464******6362
+636080
+000105941
+14185294 venda debito a vista
+1
+r$ 72,90
+nacional
+- r$ 0,58
+r$ 72,32
+410413
+elo débito
+01/03/2025 10:02:33
+05/03/2025
+506722******6699
+506528
+000105943
+14185294 venda debito a vista
+1
+r$ 70,53
+nacional
+- r$ 0,98
+r$ 69,55
+410413
+mastercard débito
+01/03/2025 10:05:08
+05/03/2025
+589916******8028
+m60140
+000078877
+14313212 venda debito a vista
+1
+r$ 18,99
+nacional
+- r$ 0,15
+r$ 18,84
+410413
+elo débito
+01/03/2025 10:06:16
+05/03/2025
+650489******6103
+021109
+000078879
+14313212 venda debito a vista
+1
+r$ 15,46
+nacional
+- r$ 0,21
+r$ 15,25
+410413
+elo débito
+01/03/2025 10:07:22
+05/03/2025
+650489******0105
+021214
+000105945
+14185294 venda debito a vista
+1
+r$ 38,10
+nacional
+- r$ 0,53
+r$ 37,57
+410413
+mastercard crédito
+01/03/2025 10:08:10
+01/04/2025
+514945******1420
+005385
+000078881
+14313212 venda credito a vista
+1
+r$ 21,26
+nacional
+- r$ 0,32
+r$ 20,94
+410413
+visa crédito
+01/03/2025 10:13:57
+01/04/2025
+459314******2250
+047106
+000078883
+14313212 venda credito a vista
+1
+r$ 79,82
+nacional
+- r$ 1,19
+r$ 78,63
+410413
+mastercard crédito
+01/03/2025 10:15:28
+01/04/2025
+516292******0476
+519060
+000105947
+14185294 venda credito a vista
+1
+r$ 57,93
+nacional
+- r$ 0,86
+r$ 57,07
+410413
+mastercard crédito
+01/03/2025 10:15:51
+01/04/2025
+516292******0476
+692011
+000105949
+14185294 venda credito a vista
+1
+r$ 31,98
+nacional
+- r$ 0,48
+r$ 31,50
+410413
+visa débito
+01/03/2025 10:17:11
+05/03/2025
+490144******5230
+127364
+000078885
+14313212 venda debito a vista
+1
+r$ 131,23
+nacional
+- r$ 1,04
+r$ 130,19
+410413
+visa débito
+01/03/2025 10:17:49
+05/03/2025
+466079******1191
+089049
+000078887
+14313212 venda debito a vista
+1
+r$ 23,22
+nacional
+- r$ 0,18
+r$ 23,04
+410413
+elo crédito
+01/03/2025 10:19:08
+01/04/2025
+650507******2474
+766968
+000105951
+14185294 venda credito a vista
+1
+r$ 87,78
+nacional
+- r$ 1,83
+r$ 85,95
+410413
+mastercard crédito
+01/03/2025 10:20:43
+01/04/2025
+543882******3952
+026387
+000078889
+14313212 venda credito a vista
+1
+r$ 56,42
+nacional
+- r$ 0,84
+r$ 55,58
+410413
+mastercard crédito
+01/03/2025 10:22:02
+01/04/2025
+536380******3136
+r81055
+000105953
+14185294 venda credito a vista
+1
+r$ 160,02
+nacional
+- r$ 2,38
+r$ 157,64
+410413
+mastercard crédito
+01/03/2025 10:23:10
+01/04/2025
+222985******0496
+458975
+000105955
+14185294 venda credito a vista
+1
+r$ 67,26
+nacional
+- r$ 1,00
+r$ 66,26
+410413
+visa crédito
+01/03/2025 10:25:53
+01/04/2025
+498407******7723
+580508
+000105957
+14185294 venda credito a vista
+1
+r$ 18,35
+nacional
+- r$ 0,27
+r$ 18,08
+410413
+mastercard débito
+01/03/2025 10:26:27
+05/03/2025
+637529******4122
+229069
+000105959
+14185294 venda debito a vista
+1
+r$ 10,99
+nacional
+- r$ 0,09
+r$ 10,90
+410413
+mastercard débito
+01/03/2025 10:29:56
+05/03/2025
+525663******6208
+m56837
+000105961
+14185294 venda debito a vista
+1
+r$ 327,84
+nacional
+- r$ 2,59
+r$ 325,25
+410413
+visa crédito
+01/03/2025 10:30:00
+01/04/2025
+415274******2327
+073111
+000078891
+14313212 venda credito a vista
+1
+r$ 13,50
+nacional
+- r$ 0,20
+r$ 13,30
+410413
+mastercard débito
+01/03/2025 10:30:46
+05/03/2025
+550209******0838
+464166
+000078893
+14313212 venda debito a vista
+1
+r$ 8,38
+nacional
+- r$ 0,07
+r$ 8,31
+410413
+mastercard crédito
+01/03/2025 10:30:48
+01/04/2025
+527680******9112
+r84477
+000105963
+14185294 venda credito a vista
+1
+r$ 50,81
+nacional
+- r$ 0,76
+r$ 50,05
+410413
+visa débito
+01/03/2025 10:31:43
+05/03/2025
+485464******7044
+137908
+000078895
+14313212 venda debito a vista
+1
+r$ 15,99
+nacional
+- r$ 0,13
+r$ 15,86
+410413
+elo débito
+01/03/2025 10:32:38
+05/03/2025
+506722******9158
+206030
+000078897
+14313212 venda debito a vista
+1
+r$ 26,81
+nacional
+- r$ 0,37
+r$ 26,44
+410413
+mastercard crédito
+01/03/2025 10:33:20
+01/04/2025
+544731******0345
+332660
+000078899
+14313212 venda credito a vista
+1
+r$ 16,53
+nacional
+- r$ 0,25
+r$ 16,28
+410413
+mastercard crédito
+01/03/2025 10:39:54
+01/04/2025
+222763******2037
+017883
+000105965
+14185294 venda credito a vista
+1
+r$ 111,70
+nacional
+- r$ 1,66
+r$ 110,04
+410413
+visa débito
+01/03/2025 10:40:54
+05/03/2025
+402383******6934
+411078
+000105967
+14185294 venda debito a vista
+1
+r$ 14,52
+nacional
+- r$ 0,11
+r$ 14,41
+410413
+mastercard crédito
+01/03/2025 10:41:17
+01/04/2025
+520132******4738
+412257
+000105969
+14185294 venda credito a vista
+1
+r$ 11,55
+nacional
+- r$ 0,17
+r$ 11,38
+410413
+mastercard débito
+01/03/2025 10:42:42
+05/03/2025
+550209******1864
+241444
+000105971
+14185294 venda debito a vista
+1
+r$ 20,30
+nacional
+- r$ 0,16
+r$ 20,14
+410413
+mastercard débito
+01/03/2025 10:45:07
+05/03/2025
+589916******4689
+m43724
+000078901
+14313212 venda debito a vista
+1
+r$ 32,25
+nacional
+- r$ 0,25
+r$ 32,00
+410413
+visa débito
+01/03/2025 10:46:22
+05/03/2025
+439267******4088
+535614
+000105973
+14185294 venda debito a vista
+1
+r$ 50,30
+nacional
+- r$ 0,40
+r$ 49,90
+410413
+visa crédito
+01/03/2025 10:47:06
+01/04/2025
+485464******5173
+724228
+000105975
+14185294 venda credito a vista
+1
+r$ 55,72
+nacional
+- r$ 0,83
+r$ 54,89
+410413
+visa débito
+01/03/2025 10:48:43
+05/03/2025
+439267******7522
+594216
+000078903
+14313212 venda debito a vista
+1
+r$ 12,98
+nacional
+- r$ 0,10
+r$ 12,88
+410413
+visa débito
+01/03/2025 10:49:28
+05/03/2025
+452204******6209
+021833
+000105977
+14185294 venda debito a vista
+1
+r$ 24,59
+nacional
+- r$ 0,19
+r$ 24,40
+410413
+mastercard débito
+01/03/2025 10:53:51
+05/03/2025
+589916******6494
+m00785
+000105979
+14185294 venda debito a vista
+1
+r$ 24,53
+nacional
+- r$ 0,19
+r$ 24,34
+410413
+mastercard débito
+01/03/2025 10:54:16
+05/03/2025
+555507******1225
+n4we09
+000078905
+14313212 venda debito a vista
+1
+r$ 25,71
+nacional
+- r$ 0,20
+r$ 25,51
+410413
+mastercard crédito
+01/03/2025 10:55:44
+01/04/2025
+530034******0559
+023539
+000105981
+14185294 venda credito a vista
+1
+r$ 48,30
+nacional
+- r$ 0,72
+r$ 47,58
+410413
+visa débito
+01/03/2025 10:57:47
+05/03/2025
+489389******1023
+575267
+000105983
+14185294 venda debito a vista
+1
+r$ 19,46
+nacional
+- r$ 0,15
+r$ 19,31
+410413
+mastercard crédito
+01/03/2025 11:04:44
+01/04/2025
+526259******3725
+044976
+000105985
+14185294 venda credito a vista
+1
+r$ 24,48
+nacional
+- r$ 0,36
+r$ 24,12
+410413
+mastercard débito
+01/03/2025 11:06:28
+05/03/2025
+516292******2734
+576084
+000105987
+14185294 venda debito a vista
+1
+r$ 51,21
+nacional
+- r$ 0,40
+r$ 50,81
+410413
+visa débito
+01/03/2025 11:09:18
+05/03/2025
+439267******9094
+098100
+000105989
+14185294 venda debito a vista
+1
+r$ 217,98
+nacional
+- r$ 1,72
+r$ 216,26
+410413
+visa débito
+01/03/2025 11:10:21
+05/03/2025
+439267******2427
+122020
+000105991
+14185294 venda debito a vista
+1
+r$ 11,02
+nacional
+- r$ 0,09
+r$ 10,93
+410413
+visa débito
+01/03/2025 11:11:18
+05/03/2025
+410863******4158
+112869
+000078909
+14313212 venda debito a vista
+1
+r$ 100,00
+nacional
+- r$ 0,79
+r$ 99,21
+410413
+visa débito
+01/03/2025 11:11:36
+05/03/2025
+452204******3128
+021439
+000105993
+14185294 venda debito a vista
+1
+r$ 92,71
+nacional
+- r$ 0,73
+r$ 91,98
+410413
+visa débito
+01/03/2025 11:11:43
+05/03/2025
+410863******4158
+114869
+000078911
+14313212 venda debito a vista
+1
+r$ 105,69
+nacional
+- r$ 0,83
+r$ 104,86
+410413
+mastercard débito
+01/03/2025 11:12:16
+05/03/2025
+523284******1715
+m09575
+000105995
+14185294 venda debito a vista
+1
+r$ 30,41
+nacional
+- r$ 0,24
+r$ 30,17
+410413
+mastercard débito
+01/03/2025 11:13:14
+05/03/2025
+589916******3503
+m49798
+000078913
+14313212 venda debito a vista
+1
+r$ 13,98
+nacional
+- r$ 0,11
+r$ 13,87
+410413
+visa débito
+01/03/2025 11:14:31
+05/03/2025
+410863******2741
+143770
+000105999
+14185294 venda debito a vista
+1
+r$ 63,78
+nacional
+- r$ 0,50
+r$ 63,28
+410413
+mastercard débito
+01/03/2025 11:14:34
+05/03/2025
+589916******7163
+m23190
+000078915
+14313212 venda debito a vista
+1
+r$ 46,25
+nacional
+- r$ 0,37
+r$ 45,88
+410413
+mastercard débito
+01/03/2025 11:17:04
+05/03/2025
+550209******5785
+503188
+000078917
+14313212 venda debito a vista
+1
+r$ 55,71
+nacional
+- r$ 0,44
+r$ 55,27
+410413
+visa crédito
+01/03/2025 11:17:15
+01/04/2025
+410863******1218
+172068
+000106001
+14185294 venda credito a vista
+1
+r$ 129,62
+nacional
+- r$ 1,93
+r$ 127,69
+410413
+visa débito
+01/03/2025 11:19:31
+05/03/2025
+410863******4906
+193774
+000078919
+14313212 venda debito a vista
+1
+r$ 22,77
+nacional
+- r$ 0,18
+r$ 22,59
+410413
+mastercard débito
+01/03/2025 11:20:28
+05/03/2025
+530750******5079
+186146
+000106003
+14185294 venda debito a vista
+1
+r$ 68,74
+nacional
+- r$ 0,54
+r$ 68,20
+410413
+visa débito
+01/03/2025 11:21:09
+05/03/2025
+439267******0813
+391545
+000106005
+14185294 venda debito a vista
+1
+r$ 18,97
+nacional
+- r$ 0,15
+r$ 18,82
+410413
+mastercard débito
+01/03/2025 11:24:02
+05/03/2025
+550209******2127
+531720
+000106007
+14185294 venda debito a vista
+1
+r$ 4,99
+nacional
+- r$ 0,04
+r$ 4,95
+410413
+mastercard débito
+01/03/2025 11:28:06
+05/03/2025
+230744******9617
+122613
+000106009
+14185294 venda debito a vista
+1
+r$ 42,41
+nacional
+- r$ 0,34
+r$ 42,07
+410413
+mastercard crédito
+01/03/2025 11:29:08
+01/04/2025
+548573******6913
+347612
+000106011
+14185294 venda credito a vista
+1
+r$ 59,53
+nacional
+- r$ 0,89
+r$ 58,64
+410413
+visa débito
+01/03/2025 11:31:25
+05/03/2025
+423808******7691
+313772
+000078923
+14313212 venda debito a vista
+1
+r$ 12,17
+nacional
+- r$ 0,10
+r$ 12,07
+410413
+visa crédito
+01/03/2025 11:33:43
+01/04/2025
+412177******5129
+039054
+000106013
+14185294 venda credito a vista
+1
+r$ 182,64
+nacional
+- r$ 2,72
+r$ 179,92
+410413
+visa débito
+01/03/2025 11:34:42
+05/03/2025
+404025******3129
+147007
+000078925
+14313212 venda debito a vista
+1
+r$ 293,94
+nacional
+- r$ 2,32
+r$ 291,62
+410413
+visa débito
+01/03/2025 11:35:24
+05/03/2025
+498442******9991
+641729
+000078927
+14313212 venda debito a vista
+1
+r$ 48,90
+nacional
+- r$ 0,39
+r$ 48,51
+410413
+mastercard débito
+01/03/2025 11:35:43
+05/03/2025
+516292******0487
+120996
+000106015
+14185294 venda debito a vista
+1
+r$ 130,83
+nacional
+- r$ 1,03
+r$ 129,80
+410413
+mastercard débito
+01/03/2025 11:37:17
+05/03/2025
+502121******1524
+372242
+000106017
+14185294 venda debito a vista
+1
+r$ 68,89
+nacional
+- r$ 0,54
+r$ 68,35
+410413
+mastercard débito
+01/03/2025 11:38:34
+05/03/2025
+515467******3566
+325680
+000106019
+14185294 venda debito a vista
+1
+r$ 39,34
+nacional
+- r$ 0,31
+r$ 39,03
+410413
+visa crédito
+01/03/2025 11:39:47
+01/04/2025
+417400******3743
+3pawdp
+000106021
+14185294 venda credito a vista
+1
+r$ 46,01
+nacional
+- r$ 0,69
+r$ 45,32
+410413
+visa débito
+01/03/2025 11:42:33
+05/03/2025
+405894******0101
+022015
+000106023
+14185294 venda debito a vista
+1
+r$ 18,97
+nacional
+- r$ 0,15
+r$ 18,82
+410413
+mastercard crédito
+01/03/2025 11:48:22
+01/04/2025
+521043******9755
+036888
+000106025
+14185294 venda credito a vista
+1
+r$ 590,98
+nacional
+- r$ 8,81
+r$ 582,17
+410413
+mastercard débito
+01/03/2025 11:51:39
+05/03/2025
+502121******1524
+514642
+000106027
+14185294 venda debito a vista
+1
+r$ 42,87
+nacional
+- r$ 0,34
+r$ 42,53
+410413
+visa crédito
+01/03/2025 11:52:25
+01/04/2025
+433487******8148
+735584
+000106029
+14185294 venda credito a vista
+1
+r$ 22,12
+nacional
+- r$ 0,33
+r$ 21,79
+410413
+elo crédito
+01/03/2025 11:53:36
+01/04/2025
+655000******2536
+635312
+000078929
+14313212 venda credito a vista
+1
+r$ 174,83
+nacional
+- r$ 3,65
+r$ 171,18
+1 de 58
+o que vendi - detalhamento das vendas
+razão social: mercado donato ltda
+cód. estabelecimento: 410413
+cnpj/cpf: 15.370.915/0001-66
+período: 01/03/2025 a 31/03/2025
+número do terminal: não informado
+tipo de moeda: real
+ > o que vendi
+ dados do estabelecimento
+cartão(ões): mastercard crédito, mastercard débito, visa crédito, visa débito, elo crédito, elo débito, amex crédito,
+hipercard crédito
+modalidade(s): crédito à vista, crédito parcelado lojista, crédito parcelado emissor, débito, carnê, recorrente, parcelado bndes, crediário
+por onde vendi: pos, tef, e-commerce, troca de arquivos, superget, iata
+ > detalhamento das vendas
+cód.
+estabelecimento
+cartões
+data/hora
+da venda
+data prevista
+do 1º
+pagamento
+número do cartão
+número da
+autorização
+número do
+comprovante
+de vendas
+número do
+terminal
+descrição do lançamento
+total de
+parcelas
+valor bruto
+valor bruto: r$ 389.888,70
+valor da taxa e/ou tarifa: - r$ 4.232,61
+valor líquido: r$ 385.656,09
+emissor cartão
+valor da taxa
+e/ou tarifa
+valor líquido
+410413
+mastercard débito
+01/03/2025 11:53:39
+05/03/2025
+230650******3917
+msklvo
+000106031
+14185294 venda debito a vista
+1
+r$ 29,79
+nacional
+- r$ 0,24
+r$ 29,55
+410413
+mastercard crédito
+01/03/2025 11:54:19
+01/04/2025
+514087******6053
+r93130
+000106033
+14185294 venda credito a vista
+1
+r$ 18,97
+nacional
+- r$ 0,28
+r$ 18,69
+410413
+visa débito
+01/03/2025 11:57:27
+05/03/2025
+417402******3896
+2lrpo1
+000078931
+14313212 venda debito a vista
+1
+r$ 384,07
+nacional
+- r$ 3,03
+r$ 381,04
+410413
+mastercard débito
+01/03/2025 11:57:53
+05/03/2025
+589916******1845
+m34840
+000106035
+14185294 venda debito a vista
+1
+r$ 28,47
+nacional
+- r$ 0,22
+r$ 28,25
+410413
+visa débito
+01/03/2025 11:58:54
+05/03/2025
+417402******3896
+drjhwr
+000078933
+14313212 venda debito a vista
+1
+r$ 8,99
+nacional
+- r$ 0,07
+r$ 8,92
+410413
+visa crédito
+01/03/2025 11:59:20
+01/04/2025
+470598******1667
+019786
+000106037
+14185294 venda credito a vista
+1
+r$ 39,64
+nacional
+- r$ 0,59
+r$ 39,05
+410413
+visa débito
+01/03/2025 12:00:42
+05/03/2025
+485464******9083
+143246
+000078935
+14313212 venda debito a vista
+1
+r$ 3,99
+nacional
+- r$ 0,03
+r$ 3,96
+410413
+visa débito
+01/03/2025 12:00:55
+05/03/2025
+439267******9750
+373240
+000106039
+14185294 venda debito a vista
+1
+r$ 5,27
+nacional
+- r$ 0,04
+r$ 5,23
+410413
+visa crédito
+01/03/2025 12:02:54
+01/04/2025
+415896******4196
+625847
+000078937
+14313212 venda credito a vista
+1
+r$ 129,97
+nacional
+- r$ 1,94
+r$ 128,03
+410413
+mastercard débito
+01/03/2025 12:03:33
+05/03/2025
+550209******9486
+764210
+000078939
+14313212 venda debito a vista
+1
+r$ 138,37
+nacional
+- r$ 1,09
+r$ 137,28
+410413
+visa débito
+01/03/2025 12:03:43
+05/03/2025
+439267******7348
+440972
+000106041
+14185294 venda debito a vista
+1
+r$ 48,42
+nacional
+- r$ 0,38
+r$ 48,04
+410413
+mastercard débito
+01/03/2025 12:04:28
+05/03/2025
+521438******7352
+130115
+000078943
+14313212 venda debito a vista
+1
+r$ 124,63
+nacional
+- r$ 0,98
+r$ 123,65
+410413
+visa débito
+01/03/2025 12:04:40
+05/03/2025
+439267******1355
+461096
+000106043
+14185294 venda debito a vista
+1
+r$ 9,04
+nacional
+- r$ 0,07
+r$ 8,97
+410413
+mastercard débito
+01/03/2025 12:05:00
+05/03/2025
+520132******6542
+050549
+000078945
+14313212 venda debito a vista
+1
+r$ 25,38
+nacional
+- r$ 0,20
+r$ 25,18
+410413
+visa débito
+01/03/2025 12:05:22
+05/03/2025
+439267******3677
+477698
+000106045
+14185294 venda debito a vista
+1
+r$ 12,37
+nacional
+- r$ 0,10
+r$ 12,27
+410413
+mastercard débito
+01/03/2025 12:05:54
+05/03/2025
+637529******3117
+557504
+000078947
+14313212 venda debito a vista
+1
+r$ 28,98
+nacional
+- r$ 0,23
+r$ 28,75
+410413
+visa débito
+01/03/2025 12:07:49
+05/03/2025
+417402******0659
+mk1w5u
+000078949
+14313212 venda debito a vista
+1
+r$ 44,84
+nacional
+- r$ 0,35
+r$ 44,49
+410413
+visa débito
+01/03/2025 12:10:52
+05/03/2025
+439267******2426
+603410
+000106049
+14185294 venda debito a vista
+1
+r$ 33,22
+nacional
+- r$ 0,26
+r$ 32,96
+410413
+mastercard débito
+01/03/2025 12:12:17
+05/03/2025
+525662******0423
+m84356
+000078951
+14313212 venda debito a vista
+1
+r$ 51,55
+nacional
+- r$ 0,41
+r$ 51,14
+410413
+visa débito
+01/03/2025 12:12:19
+05/03/2025
+466717******3256
+z84oge
+000106051
+14185294 venda debito a vista
+1
+r$ 94,90
+nacional
+- r$ 0,75
+r$ 94,15
+410413
+mastercard débito
+01/03/2025 12:12:57
+05/03/2025
+515495******9870
+291040
+000106053
+14185294 venda debito a vista
+1
+r$ 39,03
+nacional
+- r$ 0,31
+r$ 38,72
+410413
+mastercard débito
+01/03/2025 12:13:42
+05/03/2025
+550209******4002
+029680
+000078953
+14313212 venda debito a vista
+1
+r$ 82,56
+nacional
+- r$ 0,65
+r$ 81,91
+410413
+mastercard débito
+01/03/2025 12:15:23
+05/03/2025
+230744******2953
+783132
+000078955
+14313212 venda debito a vista
+1
+r$ 92,19
+nacional
+- r$ 0,73
+r$ 91,46
+410413
+visa débito
+01/03/2025 12:15:25
+05/03/2025
+466717******3256
+7d748r
+000106055
+14185294 venda debito a vista
+1
+r$ 33,90
+nacional
+- r$ 0,27
+r$ 33,63
+410413
+visa débito
+01/03/2025 12:16:30
+05/03/2025
+400176******2119
+144199
+000106057
+14185294 venda debito a vista
+1
+r$ 12,57
+nacional
+- r$ 0,10
+r$ 12,47
+410413
+mastercard débito
+01/03/2025 12:17:25
+05/03/2025
+526863******1341
+m89671
+000078957
+14313212 venda debito a vista
+1
+r$ 72,76
+nacional
+- r$ 0,57
+r$ 72,19
+410413
+elo crédito
+01/03/2025 12:18:56
+01/04/2025
+509084******6684
+050736
+000078959
+14313212 venda credito a vista
+1
+r$ 18,65
+nacional
+- r$ 0,39
+r$ 18,26
+410413
+elo crédito
+01/03/2025 12:21:02
+01/04/2025
+650597******2047
+744879
+000078961
+14313212 venda credito a vista
+1
+r$ 17,15
+nacional
+- r$ 0,36
+r$ 16,79
+410413
+mastercard crédito
+01/03/2025 12:21:50
+01/04/2025
+515467******7626
+169606
+000078963
+14313212 venda credito a vista
+1
+r$ 12,50
+nacional
+- r$ 0,19
+r$ 12,31
+410413
+mastercard débito
+01/03/2025 12:24:14
+05/03/2025
+550209******7286
+370830
+000106059
+14185294 venda debito a vista
+1
+r$ 107,44
+nacional
+- r$ 0,85
+r$ 106,59
+410413
+visa débito
+01/03/2025 12:24:24
+05/03/2025
+476332******0111
+612290
+000078965
+14313212 venda debito a vista
+1
+r$ 10,97
+nacional
+- r$ 0,09
+r$ 10,88
+410413
+mastercard débito
+01/03/2025 12:24:54
+05/03/2025
+544731******9699
+250277
+000078967
+14313212 venda debito a vista
+1
+r$ 4,99
+nacional
+- r$ 0,04
+r$ 4,95
+410413
+mastercard débito
+01/03/2025 12:24:57
+05/03/2025
+523284******8458
+m72869
+000106061
+14185294 venda debito a vista
+1
+r$ 39,96
+nacional
+- r$ 0,32
+r$ 39,64
+410413
+mastercard débito
+01/03/2025 12:26:21
+05/03/2025
+515894******5897
+334276
+000078969
+14313212 venda debito a vista
+1
+r$ 53,07
+nacional
+- r$ 0,42
+r$ 52,65
+410413
+mastercard débito
+01/03/2025 12:29:09
+05/03/2025
+550209******9216
+113599
+000106063
+14185294 venda debito a vista
+1
+r$ 40,74
+nacional
+- r$ 0,32
+r$ 40,42
+410413
+elo crédito
+01/03/2025 12:38:12
+01/04/2025
+509084******0444
+097282
+000078973
+14313212 venda credito a vista
+1
+r$ 8,98
+nacional
+- r$ 0,19
+r$ 8,79
+410413
+mastercard crédito
+01/03/2025 12:38:58
+01/04/2025
+550209******8242
+389225
+000106065
+14185294 venda credito a vista
+1
+r$ 121,32
+nacional
+- r$ 1,81
+r$ 119,51
+410413
+mastercard crédito
+01/03/2025 12:40:18
+01/04/2025
+515467******4506
+118790
+000106067
+14185294 venda credito a vista
+1
+r$ 20,05
+nacional
+- r$ 0,30
+r$ 19,75
+410413
+elo débito
+01/03/2025 12:42:03
+05/03/2025
+650529******9205
+022622
+000106069
+14185294 venda debito a vista
+1
+r$ 89,95
+nacional
+- r$ 1,25
+r$ 88,70
+410413
+visa débito
+01/03/2025 12:49:12
+05/03/2025
+498407******0447
+146156
+000078977
+14313212 venda debito a vista
+1
+r$ 38,15
+nacional
+- r$ 0,30
+r$ 37,85
+410413
+mastercard débito
+01/03/2025 12:55:16
+05/03/2025
+589916******9225
+m55649
+000106071
+14185294 venda debito a vista
+1
+r$ 28,37
+nacional
+- r$ 0,22
+r$ 28,15
+410413
+visa débito
+01/03/2025 12:58:33
+05/03/2025
+485464******2929
+746718
+000078981
+14313212 venda debito a vista
+1
+r$ 7,18
+nacional
+- r$ 0,06
+r$ 7,12
+410413
+mastercard débito
+01/03/2025 12:59:06
+05/03/2025
+550275******8010
+178484
+000078983
+14313212 venda debito a vista
+1
+r$ 19,99
+nacional
+- r$ 0,16
+r$ 19,83
+410413
+visa crédito
+01/03/2025 12:59:56
+01/04/2025
+422061******0961
+000052
+000078985
+14313212 venda credito a vista
+1
+r$ 53,90
+nacional
+- r$ 0,80
+r$ 53,10
+410413
+mastercard crédito
+01/03/2025 13:00:18
+01/04/2025
+534520******0117
+r91993
+000106073
+14185294 venda credito a vista
+1
+r$ 91,45
+nacional
+- r$ 1,36
+r$ 90,09
+410413
+mastercard débito
+01/03/2025 13:02:35
+05/03/2025
+534520******8124
+711578
+000106075
+14185294 venda debito a vista
+1
+r$ 3,79
+nacional
+- r$ 0,03
+r$ 3,76
+410413
+mastercard crédito
+01/03/2025 13:03:52
+01/04/2025
+550272******5811
+490040
+000014785
+14972044 venda credito a vista
+1
+r$ 22,47
+nacional
+- r$ 0,33
+r$ 22,14
+410413
+visa débito
+01/03/2025 13:05:21
+05/03/2025
+497250******7376
+147126
+000106077
+14185294 venda debito a vista
+1
+r$ 195,49
+nacional
+- r$ 1,54
+r$ 193,95
+410413
+mastercard débito
+01/03/2025 13:06:31
+05/03/2025
+550209******7132
+915123
+000078987
+14313212 venda debito a vista
+1
+r$ 36,32
+nacional
+- r$ 0,29
+r$ 36,03
+410413
+visa débito
+01/03/2025 13:06:31
+05/03/2025
+410863******3280
+439035
+000014789
+14972044 venda debito a vista
+1
+r$ 29,84
+nacional
+- r$ 0,24
+r$ 29,60
+410413
+visa débito
+01/03/2025 13:08:07
+05/03/2025
+489389******6657
+081283
+000014791
+14972044 venda debito a vista
+1
+r$ 37,51
+nacional
+- r$ 0,30
+r$ 37,21
+410413
+visa débito
+01/03/2025 13:08:37
+05/03/2025
+439267******0352
+771198
+000106081
+14185294 venda debito a vista
+1
+r$ 61,64
+nacional
+- r$ 0,49
+r$ 61,15
+410413
+visa débito
+01/03/2025 13:10:59
+05/03/2025
+439267******4130
+812022
+000014793
+14972044 venda debito a vista
+1
+r$ 38,67
+nacional
+- r$ 0,31
+r$ 38,36
+410413
+mastercard débito
+01/03/2025 13:15:09
+05/03/2025
+514945******1147
+m59341
+000106085
+14185294 venda debito a vista
+1
+r$ 167,03
+nacional
+- r$ 1,32
+r$ 165,71
+410413
+mastercard débito
+01/03/2025 13:16:38
+05/03/2025
+522626******1733
+478502
+000014795
+14972044 venda debito a vista
+1
+r$ 13,77
+nacional
+- r$ 0,11
+r$ 13,66
+410413
+mastercard débito
+01/03/2025 13:17:40
+05/03/2025
+550209******9486
+048374
+000078989
+14313212 venda debito a vista
+1
+r$ 547,10
+nacional
+- r$ 4,32
+r$ 542,78
+410413
+mastercard débito
+01/03/2025 13:18:28
+05/03/2025
+550209******9486
+806131
+000078991
+14313212 venda debito a vista
+1
+r$ 4,99
+nacional
+- r$ 0,04
+r$ 4,95
+410413
+visa débito
+01/03/2025 13:20:56
+05/03/2025
+452204******6300
+022423
+000106087
+14185294 venda debito a vista
+1
+r$ 5,59
+nacional
+- r$ 0,04
+r$ 5,55
+410413
+mastercard débito
+01/03/2025 13:20:58
+05/03/2025
+550209******8519
+192734
+000078993
+14313212 venda debito a vista
+1
+r$ 64,98
+nacional
+- r$ 0,51
+r$ 64,47
+410413
+visa crédito
+01/03/2025 13:22:28
+01/04/2025
+498556******7832
+091712
+000106091
+14185294 venda credito a vista
+1
+r$ 62,37
+nacional
+- r$ 0,93
+r$ 61,44
+410413
+mastercard crédito
+01/03/2025 13:25:33
+01/04/2025
+521437******2731
+015794
+000106093
+14185294 venda credito a vista
+1
+r$ 84,21
+nacional
+- r$ 1,25
+r$ 82,96
+410413
+visa crédito
+01/03/2025 13:26:20
+01/04/2025
+470598******1667
+015834
+000106095
+14185294 venda credito a vista
+1
+r$ 40,24
+nacional
+- r$ 0,60
+r$ 39,64
+410413
+visa crédito
+01/03/2025 13:26:55
+01/04/2025
+490144******0990
+005875
+000078995
+14313212 venda credito a vista
+1
+r$ 138,99
+nacional
+- r$ 2,07
+r$ 136,92
+410413
+mastercard débito
+01/03/2025 13:27:20
+05/03/2025
+230744******0429
+697905
+000106097
+14185294 venda debito a vista
+1
+r$ 145,97
+nacional
+- r$ 1,15
+r$ 144,82
+410413
+mastercard débito
+01/03/2025 13:28:30
+05/03/2025
+550209******3641
+890860
+000106099
+14185294 venda debito a vista
+1
+r$ 84,06
+nacional
+- r$ 0,66
+r$ 83,40
+410413
+mastercard débito
+01/03/2025 13:29:29
+05/03/2025
+525663******6777
+m90272
+000078997
+14313212 venda debito a vista
+1
+r$ 62,40
+nacional
+- r$ 0,49
+r$ 61,91
+410413
+mastercard débito
+01/03/2025 13:32:30
+05/03/2025
+523284******2020
+m22331
+000106103
+14185294 venda debito a vista
+1
+r$ 16,98
+nacional
+- r$ 0,13
+r$ 16,85
+410413
+mastercard débito
+01/03/2025 13:33:35
+05/03/2025
+520132******6992
+334670
+000106105
+14185294 venda debito a vista
+1
+r$ 99,28
+nacional
+- r$ 0,78
+r$ 98,50
+410413
+visa crédito
+01/03/2025 13:35:06
+01/04/2025
+440771******2934
+351277
+000106107
+14185294 venda credito a vista
+1
+r$ 545,26
+nacional
+- r$ 8,12
+r$ 537,14
+410413
+visa crédito
+01/03/2025 13:35:43
+01/04/2025
+440771******2934
+354877
+000106109
+14185294 venda credito a vista
+1
+r$ 156,76
+nacional
+- r$ 2,34
+r$ 154,42
+410413
+mastercard débito
+01/03/2025 13:37:56
+05/03/2025
+526863******2886
+m80394
+000078999
+14313212 venda debito a vista
+1
+r$ 38,71
+nacional
+- r$ 0,31
+r$ 38,40
+410413
+mastercard crédito
+01/03/2025 13:38:15
+01/04/2025
+550209******0006
+533121
+000106111
+14185294 venda credito a vista
+1
+r$ 60,00
+nacional
+- r$ 0,89
+r$ 59,11
+410413
+mastercard crédito
+01/03/2025 13:38:28
+01/04/2025
+223115******1021
+054873
+000106113
+14185294 venda credito a vista
+1
+r$ 62,92
+nacional
+- r$ 0,94
+r$ 61,98
+410413
+mastercard débito
+01/03/2025 13:39:10
+05/03/2025
+550209******7126
+977311
+000106115
+14185294 venda debito a vista
+1
+r$ 11,28
+nacional
+- r$ 0,09
+r$ 11,19
+410413
+mastercard crédito
+01/03/2025 13:41:01
+01/04/2025
+546069******9262
+162815
+000106117
+14185294 venda credito a vista
+1
+r$ 115,22
+nacional
+- r$ 1,72
+r$ 113,50
+410413
+mastercard débito
+01/03/2025 13:41:49
+05/03/2025
+526863******2614
+m67861
+000106119
+14185294 venda debito a vista
+1
+r$ 41,47
+nacional
+- r$ 0,33
+r$ 41,14
+410413
+visa débito
+01/03/2025 13:42:54
+05/03/2025
+439267******4619
+344454
+000106121
+14185294 venda debito a vista
+1
+r$ 114,07
+nacional
+- r$ 0,90
+r$ 113,17
+410413
+visa débito
+01/03/2025 13:48:09
+05/03/2025
+496046******0123
+812919
+000106127
+14185294 venda debito a vista
+1
+r$ 55,50
+nacional
+- r$ 0,44
+r$ 55,06
+410413
+mastercard crédito
+01/03/2025 13:48:52
+01/04/2025
+550209******2972
+547933
+000106129
+14185294 venda credito a vista
+1
+r$ 20,75
+nacional
+- r$ 0,31
+r$ 20,44
+410413
+mastercard crédito
+01/03/2025 13:51:29
+01/04/2025
+516292******1558
+215977
+000106131
+14185294 venda credito a vista
+1
+r$ 88,04
+nacional
+- r$ 1,31
+r$ 86,73
+410413
+mastercard crédito
+01/03/2025 13:59:27
+01/04/2025
+545974******0242
+075081
+000106133
+14185294 venda credito a vista
+1
+r$ 49,11
+nacional
+- r$ 0,73
+r$ 48,38
+410413
+visa débito
+01/03/2025 14:02:10
+05/03/2025
+490144******3823
+313278
+000106135
+14185294 venda debito a vista
+1
+r$ 24,38
+nacional
+- r$ 0,19
+r$ 24,19
+410413
+mastercard crédito
+01/03/2025 14:05:01
+01/04/2025
+522840******9306
+050564
+000079015
+14313212 venda credito a vista
+1
+r$ 37,12
+nacional
+- r$ 0,55
+r$ 36,57
+410413
+mastercard débito
+01/03/2025 14:07:49
+05/03/2025
+234074******1021
+479854
+000106139
+14185294 venda debito a vista
+1
+r$ 20,00
+nacional
+- r$ 0,16
+r$ 19,84
+410413
+mastercard crédito
+01/03/2025 14:09:10
+01/04/2025
+543966******2582
+171277
+000106143
+14185294 venda credito a vista
+1
+r$ 58,29
+nacional
+- r$ 0,87
+r$ 57,42
+410413
+mastercard débito
+01/03/2025 14:10:44
+05/03/2025
+234074******1021
+490500
+000106145
+14185294 venda debito a vista
+1
+r$ 42,97
+nacional
+- r$ 0,34
+r$ 42,63
+410413
+mastercard débito
+01/03/2025 14:11:09
+05/03/2025
+550209******5930
+562627
+000014799
+14972044 venda debito a vista
+1
+r$ 14,98
+nacional
+- r$ 0,12
+r$ 14,86
+410413
+mastercard débito
+01/03/2025 14:13:13
+05/03/2025
+234074******1021
+490500
+000106151
+14185294 cancelamento debito a vista
+1
+- r$ 42,97
+nacional
+r$ 0,34
+- r$ 42,63
+410413
+mastercard débito
+01/03/2025 14:14:19
+05/03/2025
+234074******1021
+497616
+000106155
+14185294 venda debito a vista
+1
+r$ 38,87
+nacional
+- r$ 0,31
+r$ 38,56
+410413
+mastercard débito
+01/03/2025 14:14:33
+05/03/2025
+589916******2908
+m26770
+000014801
+14972044 venda debito a vista
+1
+r$ 25,98
+nacional
+- r$ 0,21
+r$ 25,77
+410413
+mastercard crédito
+01/03/2025 14:15:03
+01/04/2025
+539091******6913
+090378
+000106157
+14185294 venda credito a vista
+1
+r$ 65,79
+nacional
+- r$ 0,98
+r$ 64,81
+410413
+mastercard débito
+01/03/2025 14:15:13
+05/03/2025
+234074******9026
+499682
+000014803
+14972044 venda debito a vista
+1
+r$ 36,96
+nacional
+- r$ 0,29
+r$ 36,67
+410413
+mastercard débito
+01/03/2025 14:16:02
+05/03/2025
+589916******3626
+m93317
+000014805
+14972044 venda debito a vista
+1
+r$ 5,99
+nacional
+- r$ 0,05
+r$ 5,94
+410413
+mastercard débito
+01/03/2025 14:19:52
+05/03/2025
+550209******6271
+250334
+000106159
+14185294 venda debito a vista
+1
+r$ 23,04
+nacional
+- r$ 0,18
+r$ 22,86
+410413
+mastercard débito
+01/03/2025 14:22:04
+05/03/2025
+553450******4015
+ntcbuk
+000014807
+14972044 venda debito a vista
+1
+r$ 39,17
+nacional
+- r$ 0,31
+r$ 38,86
+410413
+mastercard débito
+01/03/2025 14:22:36
+05/03/2025
+553450******4015
+0f03cs
+000014809
+14972044 venda debito a vista
+1
+r$ 4,99
+nacional
+- r$ 0,04
+r$ 4,95
+410413
+mastercard crédito
+01/03/2025 14:27:59
+01/04/2025
+522840******9306
+280464
+000106161
+14185294 venda credito a vista
+1
+r$ 7,98
+nacional
+- r$ 0,12
+r$ 7,86
+410413
+mastercard crédito
+01/03/2025 14:41:58
+01/04/2025
+522840******1127
+420557
+000106163
+14185294 venda credito a vista
+1
+r$ 23,56
+nacional
+- r$ 0,35
+r$ 23,21
+410413
+mastercard débito
+01/03/2025 14:43:34
+05/03/2025
+516292******5215
+070708
+000106165
+14185294 venda debito a vista
+1
+r$ 17,41
+nacional
+- r$ 0,14
+r$ 17,27
+410413
+mastercard débito
+01/03/2025 14:46:07
+05/03/2025
+550209******3169
+554626
+000106167
+14185294 venda debito a vista
+1
+r$ 128,43
+nacional
+- r$ 1,01
+r$ 127,42
+410413
+mastercard crédito
+01/03/2025 14:53:36
+01/04/2025
+523421******5045
+266146
+000106169
+14185294 venda credito a vista
+1
+r$ 82,14
+nacional
+- r$ 1,22
+r$ 80,92
+410413
+mastercard débito
+01/03/2025 15:00:22
+05/03/2025
+589916******2712
+m48666
+000014811
+14972044 venda debito a vista
+1
+r$ 44,09
+nacional
+- r$ 0,35
+r$ 43,74
+410413
+visa débito
+01/03/2025 15:00:51
+05/03/2025
+490144******4782
+350783
+000014813
+14972044 venda debito a vista
+1
+r$ 12,36
+nacional
+- r$ 0,10
+r$ 12,26
+410413
+elo débito
+01/03/2025 15:03:45
+05/03/2025
+506722******2462
+507711
+000106171
+14185294 venda debito a vista
+1
+r$ 58,85
+nacional
+- r$ 0,82
+r$ 58,03
+410413
+visa crédito
+01/03/2025 15:15:31
+01/04/2025
+422061******8291
+154457
+000106173
+14185294 venda credito a vista
+1
+r$ 67,37
+nacional
+- r$ 1,00
+r$ 66,37
+410413
+elo débito
+01/03/2025 15:17:25
+05/03/2025
+506722******6406
+695729
+000106177
+14185294 venda debito a vista
+1
+r$ 63,78
+nacional
+- r$ 0,89
+r$ 62,89
+410413
+visa débito
+01/03/2025 15:18:09
+05/03/2025
+439267******6244
+706152
+000106179
+14185294 venda debito a vista
+1
+r$ 35,88
+nacional
+- r$ 0,28
+r$ 35,60
+410413
+elo débito
+01/03/2025 15:18:58
+05/03/2025
+650488******3203
+023629
+000106181
+14185294 venda debito a vista
+1
+r$ 47,21
+nacional
+- r$ 0,66
+r$ 46,55
+410413
+mastercard crédito
+01/03/2025 15:19:13
+01/04/2025
+544890******1910
+099642
+000014815
+14972044 venda credito a vista
+1
+r$ 25,62
+nacional
+- r$ 0,38
+r$ 25,24
+410413
+mastercard débito
+01/03/2025 15:22:00
+05/03/2025
+525663******5805
+m12711
+000106185
+14185294 venda debito a vista
+1
+r$ 91,04
+nacional
+- r$ 0,72
+r$ 90,32
+410413
+visa débito
+01/03/2025 15:23:15
+05/03/2025
+456858******6108
+023947
+000014817
+14972044 venda debito a vista
+1
+r$ 41,64
+nacional
+- r$ 0,33
+r$ 41,31
+410413
+mastercard crédito
+01/03/2025 15:23:51
+01/04/2025
+544972******6896
+r38357
+000106187
+14185294 venda credito a vista
+1
+r$ 46,34
+nacional
+- r$ 0,69
+r$ 45,65
+410413
+visa débito
+01/03/2025 15:28:18
+05/03/2025
+417402******7594
+aowg5j
+000079021
+14313212 venda debito a vista
+1
+r$ 42,41
+nacional
+- r$ 0,34
+r$ 42,07
+410413
+mastercard débito
+01/03/2025 15:35:13
+05/03/2025
+230650******0804
+iwu6wg
+000106191
+14185294 venda debito a vista
+1
+r$ 3,99
+nacional
+- r$ 0,03
+r$ 3,96
+410413
+mastercard débito
+01/03/2025 15:35:42
+05/03/2025
+546069******0212
+052956
+000079023
+14313212 venda debito a vista
+1
+r$ 5,07
+nacional
+- r$ 0,04
+r$ 5,03
+410413
+mastercard crédito
+01/03/2025 15:39:34
+01/04/2025
+522590******2023
+r53664
+000079025
+14313212 venda credito a vista
+1
+r$ 6,99
+nacional
+- r$ 0,10
+r$ 6,89
+410413
+mastercard crédito
+01/03/2025 15:47:50
+01/04/2025
+522840******9306
+475564
+000079027
+14313212 venda credito a vista
+1
+r$ 9,99
+nacional
+- r$ 0,15
+r$ 9,84
+410413
+visa débito
+01/03/2025 15:47:58
+05/03/2025
+410863******1985
+480467
+000106195
+14185294 venda debito a vista
+1
+r$ 25,43
+nacional
+- r$ 0,20
+r$ 25,23
+410413
+visa crédito
+01/03/2025 15:54:47
+01/04/2025
+470598******1667
+036448
+000079029
+14313212 venda credito a vista
+1
+r$ 87,62
+nacional
+- r$ 1,31
+r$ 86,31
+410413
+mastercard crédito
+01/03/2025 15:56:55
+01/04/2025
+522840******9306
+570064
+000106197
+14185294 venda credito a vista
+1
+r$ 7,99
+nacional
+- r$ 0,12
+r$ 7,87
+410413
+mastercard crédito
+01/03/2025 15:56:56
+01/04/2025
+230744******3106
+333824
+000079031
+14313212 venda credito a vista
+1
+r$ 20,67
+nacional
+- r$ 0,31
+r$ 20,36
+410413
+mastercard débito
+01/03/2025 16:00:03
+05/03/2025
+589916******7758
+m21824
+000079033
+14313212 venda debito a vista
+1
+r$ 11,85
+nacional
+- r$ 0,09
+r$ 11,76
+410413
+mastercard crédito
+01/03/2025 16:03:15
+01/04/2025
+550209******0720
+638187
+000079035
+14313212 venda credito a vista
+1
+r$ 42,24
+nacional
+- r$ 0,63
+r$ 41,61
+410413
+visa débito
+01/03/2025 16:03:55
+05/03/2025
+422061******7928
+040161
+000106199
+14185294 venda debito a vista
+1
+r$ 120,86
+nacional
+- r$ 0,95
+r$ 119,91
+410413
+mastercard débito
+01/03/2025 16:07:26
+05/03/2025
+515467******9511
+386514
+000106201
+14185294 venda debito a vista
+1
+r$ 7,99
+nacional
+- r$ 0,06
+r$ 7,93
+410413
+visa débito
+01/03/2025 16:08:35
+05/03/2025
+417402******6078
+ujpmid
+000079037
+14313212 venda debito a vista
+1
+r$ 9,89
+nacional
+- r$ 0,08
+r$ 9,81
+410413
+visa débito
+01/03/2025 16:10:54
+05/03/2025
+410863******5555
+105862
+000106203
+14185294 venda debito a vista
+1
+r$ 7,29
+nacional
+- r$ 0,06
+r$ 7,23
+410413
+mastercard débito
+01/03/2025 16:11:59
+05/03/2025
+550209******0271
+573161
+000079039
+14313212 venda debito a vista
+1
+r$ 31,90
+nacional
+- r$ 0,25
+r$ 31,65
+410413
+visa débito
+01/03/2025 16:14:05
+05/03/2025
+439267******4573
+494866
+000079041
+14313212 venda debito a vista
+1
+r$ 24,22
+nacional
+- r$ 0,19
+r$ 24,03
+410413
+mastercard débito
+01/03/2025 16:15:21
+05/03/2025
+544635******8262
+974599
+000079043
+14313212 venda debito a vista
+1
+r$ 62,46
+nacional
+- r$ 0,49
+r$ 61,97
+410413
+mastercard débito
+01/03/2025 16:16:07
+05/03/2025
+544731******0829
+162774
+000106205
+14185294 venda debito a vista
+1
+r$ 69,38
+nacional
+- r$ 0,55
+r$ 68,83
+410413
+visa crédito
+01/03/2025 16:19:34
+01/04/2025
+410863******0802
+193954
+000106207
+14185294 venda credito a vista
+1
+r$ 64,19
+nacional
+- r$ 0,96
+r$ 63,23
+410413
+visa débito
+01/03/2025 16:23:22
+05/03/2025
+410863******5040
+903838
+000079045
+14313212 venda debito a vista
+1
+r$ 39,68
+nacional
+- r$ 0,31
+r$ 39,37
+410413
+elo crédito
+01/03/2025 16:25:30
+01/04/2025
+650905******0449
+654375
+000079047
+14313212 venda credito a vista
+1
+r$ 112,02
+nacional
+- r$ 2,34
+r$ 109,68
+410413
+visa débito
+01/03/2025 16:25:37
+05/03/2025
+489639******4852
+lrwdlj
+000106211
+14185294 venda debito a vista
+1
+r$ 38,64
+nacional
+- r$ 0,31
+r$ 38,33
+410413
+elo débito
+01/03/2025 16:26:24
+05/03/2025
+650042******8103
+024578
+000079049
+14313212 venda debito a vista
+1
+r$ 51,12
+nacional
+- r$ 0,71
+r$ 50,41
+410413
+visa débito
+01/03/2025 16:29:03
+05/03/2025
+416091******0113
+148982
+000106213
+14185294 venda debito a vista
+1
+r$ 3,99
+nacional
+- r$ 0,03
+r$ 3,96
+410413
+mastercard débito
+01/03/2025 16:32:41
+05/03/2025
+541674******2396
+661197
+000106215
+14185294 venda debito a vista
+1
+r$ 20,65
+nacional
+- r$ 0,16
+r$ 20,49
+410413
+mastercard débito
+01/03/2025 16:34:50
+05/03/2025
+550209******3622
+660194
+000106217
+14185294 venda debito a vista
+1
+r$ 23,15
+nacional
+- r$ 0,18
+r$ 22,97
+410413
+mastercard crédito
+01/03/2025 16:35:50
+01/04/2025
+544785******7124
+r35065
+000079051
+14313212 venda credito a vista
+1
+r$ 29,15
+nacional
+- r$ 0,43
+r$ 28,72
+410413
+mastercard débito
+01/03/2025 16:35:51
+05/03/2025
+589916******0668
+m16835
+000106219
+14185294 venda debito a vista
+1
+r$ 63,08
+nacional
+- r$ 0,50
+r$ 62,58
+410413
+visa crédito
+01/03/2025 16:36:56
+01/04/2025
+473896******8885
+743476
+000079053
+14313212 venda credito a vista
+1
+r$ 12,79
+nacional
+- r$ 0,19
+r$ 12,60
+410413
+mastercard débito
+01/03/2025 16:39:56
+05/03/2025
+559525******1876
+ts1d66
+000106221
+14185294 venda debito a vista
+1
+r$ 19,07
+nacional
+- r$ 0,15
+r$ 18,92
+410413
+visa débito
+01/03/2025 16:43:26
+05/03/2025
+485464******1683
+160211
+000106225
+14185294 venda debito a vista
+1
+r$ 85,60
+nacional
+- r$ 0,68
+r$ 84,92
+410413
+mastercard débito
+01/03/2025 16:44:39
+05/03/2025
+589916******6416
+m05769
+000106227
+14185294 venda debito a vista
+1
+r$ 32,88
+nacional
+- r$ 0,26
+r$ 32,62
+410413
+mastercard débito
+01/03/2025 16:45:13
+05/03/2025
+525664******1437
+m05637
+000106229
+14185294 venda debito a vista
+1
+r$ 18,98
+nacional
+- r$ 0,15
+r$ 18,83
+410413
+visa débito
+01/03/2025 16:46:07
+05/03/2025
+439267******1587
+967166
+000079055
+14313212 venda debito a vista
+1
+r$ 49,48
+nacional
+- r$ 0,39
+r$ 49,09
+410413
+elo crédito
+01/03/2025 16:47:55
+01/04/2025
+509485******0366
+720552
+000106231
+14185294 venda credito a vista
+1
+r$ 29,02
+nacional
+- r$ 0,61
+r$ 28,41
+410413
+mastercard débito
+01/03/2025 16:48:39
+05/03/2025
+515470******5247
+m45038
+000106233
+14185294 venda debito a vista
+1
+r$ 15,77
+nacional
+- r$ 0,12
+r$ 15,65
+410413
+visa débito
+01/03/2025 16:51:05
+05/03/2025
+410863******9102
+511058
+000106235
+14185294 venda debito a vista
+1
+r$ 50,00
+nacional
+- r$ 0,40
+r$ 49,60
+410413
+mastercard débito
+01/03/2025 16:51:24
+05/03/2025
+512707******5725
+325852
+000106237
+14185294 venda debito a vista
+1
+r$ 162,37
+nacional
+- r$ 1,28
+r$ 161,09
+410413
+visa débito
+01/03/2025 16:54:32
+05/03/2025
+456858******6107
+025286
+000106239
+14185294 venda debito a vista
+1
+r$ 184,68
+nacional
+- r$ 1,46
+r$ 183,22
+2 de 58
+o que vendi - detalhamento das vendas
+razão social: mercado donato ltda
+cód. estabelecimento: 410413
+cnpj/cpf: 15.370.915/0001-66
+período: 01/03/2025 a 31/03/2025
+número do terminal: não informado
+tipo de moeda: real
+ > o que vendi
+ dados do estabelecimento
+cartão(ões): mastercard crédito, mastercard débito, visa crédito, visa débito, elo crédito, elo débito, amex crédito,
+hipercard crédito
+modalidade(s): crédito à vista, crédito parcelado lojista, crédito parcelado emissor, débito, carnê, recorrente, parcelado bndes, crediário
+por onde vendi: pos, tef, e-commerce, troca de arquivos, superget, iata
+ > detalhamento das vendas
+cód.
+estabelecimento
+cartões
+data/hora
+da venda
+data prevista
+do 1º
+pagamento
+número do cartão
+número da
+autorização
+número do
+comprovante
+de vendas
+número do
+terminal
+descrição do lançamento
+total de
+parcelas
+valor bruto
+valor bruto: r$ 389.888,70
+valor da taxa e/ou tarifa: - r$ 4.232,61
+valor líquido: r$ 385.656,09
+emissor cartão
+valor da taxa
+e/ou tarifa
+valor líquido
+410413
+mastercard débito
+01/03/2025 16:57:22
+05/03/2025
+550209******4082
+476085
+000014819
+14972044 venda debito a vista
+1
+r$ 53,90
+nacional
+- r$ 0,43
+r$ 53,47
+410413
+visa débito
+01/03/2025 16:58:57
+05/03/2025
+422061******8020
+590354
+000106243
+14185294 venda debito a vista
+1
+r$ 5,78
+nacional
+- r$ 0,05
+r$ 5,73
+410413
+mastercard crédito
+01/03/2025 17:00:34
+01/04/2025
+553308******7630
+048853
+000079057
+14313212 venda credito a vista
+1
+r$ 4,49
+internacional
+- r$ 0,07
+r$ 4,42
+410413
+mastercard crédito
+01/03/2025 17:00:56
+01/04/2025
+553308******1995
+060796
+000106245
+14185294 venda credito a vista
+1
+r$ 5,28
+internacional
+- r$ 0,08
+r$ 5,20
+410413
+mastercard débito
+01/03/2025 17:01:09
+05/03/2025
+550209******9913
+716391
+000014821
+14972044 venda debito a vista
+1
+r$ 139,31
+nacional
+- r$ 1,10
+r$ 138,21
+410413
+elo crédito
+01/03/2025 17:05:42
+01/04/2025
+509464******0059
+980465
+000014823
+14972044 venda credito a vista
+1
+r$ 27,95
+nacional
+- r$ 0,58
+r$ 27,37
+410413
+mastercard débito
+01/03/2025 17:06:14
+05/03/2025
+547036******3270
+128962
+000106247
+14185294 venda debito a vista
+1
+r$ 36,86
+nacional
+- r$ 0,29
+r$ 36,57
+410413
+mastercard débito
+01/03/2025 17:07:35
+05/03/2025
+515590******5528
+074169
+000014825
+14972044 venda debito a vista
+1
+r$ 56,36
+nacional
+- r$ 0,45
+r$ 55,91
+410413
+visa débito
+01/03/2025 17:08:03
+05/03/2025
+439267******2611
+296584
+000106251
+14185294 venda debito a vista
+1
+r$ 130,00
+nacional
+- r$ 1,03
+r$ 128,97
+410413
+visa crédito
+01/03/2025 17:08:58
+01/04/2025
+410863******4738
+090972
+000106253
+14185294 venda credito a vista
+1
+r$ 5,39
+nacional
+- r$ 0,08
+r$ 5,31
+410413
+visa débito
+01/03/2025 17:09:59
+05/03/2025
+452204******6209
+025265
+000106255
+14185294 venda debito a vista
+1
+r$ 22,54
+nacional
+- r$ 0,18
+r$ 22,36
+410413
+mastercard crédito
+01/03/2025 17:11:35
+01/04/2025
+521437******2731
+099158
+000106257
+14185294 venda credito a vista
+1
+r$ 90,51
+nacional
+- r$ 1,35
+r$ 89,16
+410413
+visa débito
+01/03/2025 17:12:05
+05/03/2025
+476331******1127
+244861
+000014827
+14972044 venda debito a vista
+1
+r$ 55,10
+nacional
+- r$ 0,44
+r$ 54,66
+410413
+mastercard débito
+01/03/2025 17:13:18
+05/03/2025
+234074******4025
+938692
+000014829
+14972044 venda debito a vista
+1
+r$ 30,98
+nacional
+- r$ 0,24
+r$ 30,74
+410413
+mastercard débito
+01/03/2025 17:15:25
+05/03/2025
+230744******2198
+536657
+000106259
+14185294 venda debito a vista
+1
+r$ 31,35
+nacional
+- r$ 0,25
+r$ 31,10
+410413
+elo débito
+01/03/2025 17:18:56
+05/03/2025
+506722******5900
+463409
+000014833
+14972044 venda debito a vista
+1
+r$ 127,56
+nacional
+- r$ 1,77
+r$ 125,79
+410413
+mastercard débito
+01/03/2025 17:20:28
+05/03/2025
+542820******9327
+203674
+000014835
+14972044 venda debito a vista
+1
+r$ 29,94
+nacional
+- r$ 0,24
+r$ 29,70
+410413
+mastercard débito
+01/03/2025 17:24:25
+05/03/2025
+550209******5610
+620192
+000106261
+14185294 venda debito a vista
+1
+r$ 34,71
+nacional
+- r$ 0,27
+r$ 34,44
+410413
+elo débito
+01/03/2025 17:24:37
+05/03/2025
+650488******8303
+025059
+000079059
+14313212 venda debito a vista
+1
+r$ 27,97
+nacional
+- r$ 0,39
+r$ 27,58
+410413
+mastercard débito
+01/03/2025 17:25:57
+05/03/2025
+524830******1817
+792469
+000106263
+14185294 venda debito a vista
+1
+r$ 43,23
+nacional
+- r$ 0,34
+r$ 42,89
+410413
+visa débito
+01/03/2025 17:27:35
+05/03/2025
+485464******7116
+162860
+000079061
+14313212 venda debito a vista
+1
+r$ 183,55
+nacional
+- r$ 1,45
+r$ 182,10
+410413
+mastercard débito
+01/03/2025 17:27:47
+05/03/2025
+544731******8999
+275287
+000106265
+14185294 venda debito a vista
+1
+r$ 69,14
+nacional
+- r$ 0,55
+r$ 68,59
+410413
+mastercard débito
+01/03/2025 17:30:30
+05/03/2025
+589916******8365
+m85641
+000106267
+14185294 venda debito a vista
+1
+r$ 35,94
+nacional
+- r$ 0,28
+r$ 35,66
+410413
+mastercard débito
+01/03/2025 17:31:37
+05/03/2025
+544731******9699
+314677
+000014837
+14972044 venda debito a vista
+1
+r$ 17,90
+nacional
+- r$ 0,14
+r$ 17,76
+410413
+visa débito
+01/03/2025 17:34:47
+05/03/2025
+439267******5474
+709281
+000079063
+14313212 venda debito a vista
+1
+r$ 39,42
+nacional
+- r$ 0,31
+r$ 39,11
+410413
+mastercard crédito
+01/03/2025 17:35:36
+01/04/2025
+512267******2127
+r42996
+000079065
+14313212 venda credito a vista
+1
+r$ 43,65
+nacional
+- r$ 0,65
+r$ 43,00
+410413
+mastercard débito
+01/03/2025 17:38:01
+05/03/2025
+502121******1524
+380642
+000106269
+14185294 venda debito a vista
+1
+r$ 122,74
+nacional
+- r$ 0,97
+r$ 121,77
+410413
+visa débito
+01/03/2025 17:38:14
+05/03/2025
+410863******9283
+119268
+000079067
+14313212 venda debito a vista
+1
+r$ 44,77
+nacional
+- r$ 0,35
+r$ 44,42
+410413
+visa débito
+01/03/2025 17:39:36
+05/03/2025
+498442******1847
+363581
+000106271
+14185294 venda debito a vista
+1
+r$ 22,18
+nacional
+- r$ 0,18
+r$ 22,00
+410413
+elo débito
+01/03/2025 17:39:59
+05/03/2025
+650570******1106
+867508
+000106273
+14185294 venda debito a vista
+1
+r$ 53,90
+nacional
+- r$ 0,75
+r$ 53,15
+410413
+elo débito
+01/03/2025 17:41:15
+05/03/2025
+506722******0952
+811095
+000106275
+14185294 venda debito a vista
+1
+r$ 65,33
+nacional
+- r$ 0,91
+r$ 64,42
+410413
+mastercard débito
+01/03/2025 17:41:45
+05/03/2025
+516292******8262
+001359
+000106277
+14185294 venda debito a vista
+1
+r$ 13,00
+nacional
+- r$ 0,10
+r$ 12,90
+410413
+visa crédito
+01/03/2025 17:42:48
+01/04/2025
+498408******2324
+047185
+000014839
+14972044 venda credito a vista
+1
+r$ 179,57
+nacional
+- r$ 2,68
+r$ 176,89
+410413
+visa crédito
+01/03/2025 17:43:26
+01/04/2025
+410863******0981
+434270
+000014841
+14972044 venda credito a vista
+1
+r$ 50,75
+nacional
+- r$ 0,76
+r$ 49,99
+410413
+visa débito
+01/03/2025 17:45:59
+05/03/2025
+489389******7587
+460590
+000079071
+14313212 venda debito a vista
+1
+r$ 51,04
+nacional
+- r$ 0,40
+r$ 50,64
+410413
+visa crédito
+01/03/2025 17:47:21
+01/04/2025
+485464******7603
+068861
+000014843
+14972044 venda credito a vista
+1
+r$ 10,99
+nacional
+- r$ 0,16
+r$ 10,83
+410413
+mastercard débito
+01/03/2025 17:58:39
+05/03/2025
+511477******7664
+971785
+000106279
+14185294 venda debito a vista
+1
+r$ 14,75
+nacional
+- r$ 0,12
+r$ 14,63
+410413
+mastercard débito
+01/03/2025 17:59:17
+05/03/2025
+544731******9972
+592277
+000106281
+14185294 venda debito a vista
+1
+r$ 15,76
+nacional
+- r$ 0,12
+r$ 15,64
+410413
+mastercard débito
+01/03/2025 18:01:29
+05/03/2025
+550209******8226
+057762
+000014845
+14972044 venda debito a vista
+1
+r$ 100,15
+nacional
+- r$ 0,79
+r$ 99,36
+410413
+mastercard crédito
+01/03/2025 18:02:29
+01/04/2025
+558120******0027
+025153
+000014847
+14972044 venda credito a vista
+1
+r$ 45,96
+nacional
+- r$ 0,68
+r$ 45,28
+410413
+visa débito
+01/03/2025 18:02:34
+05/03/2025
+493100******2794
+025308
+000106283
+14185294 venda debito a vista
+1
+r$ 77,20
+nacional
+- r$ 0,61
+r$ 76,59
+410413
+mastercard crédito
+01/03/2025 18:03:48
+01/04/2025
+558120******0027
+035453
+000014849
+14972044 venda credito a vista
+1
+r$ 9,99
+nacional
+- r$ 0,15
+r$ 9,84
+410413
+mastercard crédito
+01/03/2025 18:05:12
+01/04/2025
+544731******1278
+052170
+000079073
+14313212 venda credito a vista
+1
+r$ 16,13
+nacional
+- r$ 0,24
+r$ 15,89
+410413
+visa débito
+01/03/2025 18:06:09
+05/03/2025
+423808******3174
+061362
+000106285
+14185294 venda debito a vista
+1
+r$ 22,09
+nacional
+- r$ 0,17
+r$ 21,92
+410413
+mastercard débito
+01/03/2025 18:07:11
+05/03/2025
+543142******5235
+808817
+000106287
+14185294 venda debito a vista
+1
+r$ 36,97
+nacional
+- r$ 0,29
+r$ 36,68
+410413
+visa débito
+01/03/2025 18:08:14
+05/03/2025
+439267******9449
+225254
+000106289
+14185294 venda debito a vista
+1
+r$ 2,00
+nacional
+- r$ 0,02
+r$ 1,98
+410413
+mastercard débito
+01/03/2025 18:08:42
+05/03/2025
+516292******5939
+072202
+000079075
+14313212 venda debito a vista
+1
+r$ 177,17
+nacional
+- r$ 1,40
+r$ 175,77
+410413
+mastercard débito
+01/03/2025 18:09:19
+05/03/2025
+589916******3503
+m73775
+000106291
+14185294 venda debito a vista
+1
+r$ 32,61
+nacional
+- r$ 0,26
+r$ 32,35
+410413
+mastercard crédito
+01/03/2025 18:10:18
+01/04/2025
+527680******5118
+r74786
+000106293
+14185294 venda credito a vista
+1
+r$ 34,97
+nacional
+- r$ 0,52
+r$ 34,45
+410413
+mastercard crédito
+01/03/2025 18:10:47
+01/04/2025
+535016******1775
+497699
+000014853
+14972044 venda credito a vista
+1
+r$ 36,94
+nacional
+- r$ 0,55
+r$ 36,39
+410413
+mastercard crédito
+01/03/2025 18:11:26
+01/04/2025
+522590******1134
+r75808
+000106295
+14185294 venda credito a vista
+1
+r$ 112,85
+nacional
+- r$ 1,68
+r$ 111,17
+410413
+mastercard débito
+01/03/2025 18:13:57
+05/03/2025
+223115******3021
+099630
+000106297
+14185294 venda debito a vista
+1
+r$ 36,27
+nacional
+- r$ 0,29
+r$ 35,98
+410413
+visa débito
+01/03/2025 18:14:14
+05/03/2025
+439267******0725
+318407
+000079077
+14313212 venda debito a vista
+1
+r$ 36,83
+nacional
+- r$ 0,29
+r$ 36,54
+410413
+mastercard crédito
+01/03/2025 18:14:52
+01/04/2025
+515314******2514
+882208
+000106299
+14185294 venda credito a vista
+1
+r$ 52,81
+nacional
+- r$ 0,79
+r$ 52,02
+410413
+elo débito
+01/03/2025 18:15:55
+05/03/2025
+506722******6524
+341257
+000079079
+14313212 venda debito a vista
+1
+r$ 13,68
+nacional
+- r$ 0,19
+r$ 13,49
+410413
+visa débito
+01/03/2025 18:16:20
+05/03/2025
+439013******5371
+775384
+000106301
+14185294 venda debito a vista
+1
+r$ 153,20
+nacional
+- r$ 1,21
+r$ 151,99
+410413
+visa débito
+01/03/2025 18:16:37
+05/03/2025
+439267******9833
+351154
+000079081
+14313212 venda debito a vista
+1
+r$ 12,39
+nacional
+- r$ 0,10
+r$ 12,29
+410413
+elo débito
+01/03/2025 18:17:07
+05/03/2025
+506722******0952
+360024
+000079083
+14313212 venda debito a vista
+1
+r$ 10,58
+nacional
+- r$ 0,15
+r$ 10,43
+410413
+elo débito
+01/03/2025 18:18:21
+05/03/2025
+650488******5208
+025833
+000106303
+14185294 venda debito a vista
+1
+r$ 89,21
+nacional
+- r$ 1,24
+r$ 87,97
+410413
+mastercard débito
+01/03/2025 18:19:14
+05/03/2025
+589916******3827
+m09073
+000079085
+14313212 venda debito a vista
+1
+r$ 25,90
+nacional
+- r$ 0,20
+r$ 25,70
+410413
+visa débito
+01/03/2025 18:19:37
+05/03/2025
+498401******5237
+665991
+000014855
+14972044 venda debito a vista
+1
+r$ 211,04
+nacional
+- r$ 1,67
+r$ 209,37
+410413
+mastercard crédito
+01/03/2025 18:20:14
+01/04/2025
+233026******8650
+f09cdf
+000014857
+14972044 venda credito a vista
+1
+r$ 106,10
+nacional
+- r$ 1,58
+r$ 104,52
+410413
+mastercard débito
+01/03/2025 18:22:15
+05/03/2025
+550209******6283
+867852
+000079087
+14313212 venda debito a vista
+1
+r$ 27,57
+nacional
+- r$ 0,22
+r$ 27,35
+410413
+mastercard crédito
+01/03/2025 18:22:17
+01/04/2025
+550209******7510
+582773
+000014859
+14972044 venda credito a vista
+1
+r$ 16,99
+nacional
+- r$ 0,25
+r$ 16,74
+410413
+mastercard crédito
+01/03/2025 18:24:26
+01/04/2025
+233026******7340
+2d9b0e
+000079089
+14313212 venda credito a vista
+1
+r$ 3,99
+nacional
+- r$ 0,06
+r$ 3,93
+410413
+visa débito
+01/03/2025 18:26:20
+05/03/2025
+496046******0143
+410833
+000106309
+14185294 venda debito a vista
+1
+r$ 46,18
+nacional
+- r$ 0,36
+r$ 45,82
+410413
+elo débito
+01/03/2025 18:26:29
+05/03/2025
+506722******2769
+502006
+000014861
+14972044 venda debito a vista
+1
+r$ 21,40
+nacional
+- r$ 0,30
+r$ 21,10
+410413
+visa débito
+01/03/2025 18:27:21
+05/03/2025
+485464******3615
+166446
+000106311
+14185294 venda debito a vista
+1
+r$ 26,75
+nacional
+- r$ 0,21
+r$ 26,54
+410413
+mastercard débito
+01/03/2025 18:32:29
+05/03/2025
+679002******5033
+m81476
+000106313
+14185294 venda debito a vista
+1
+r$ 31,30
+nacional
+- r$ 0,25
+r$ 31,05
+410413
+mastercard débito
+01/03/2025 18:33:47
+05/03/2025
+550209******0160
+221236
+000014865
+14972044 venda debito a vista
+1
+r$ 4,60
+nacional
+- r$ 0,04
+r$ 4,56
+410413
+visa crédito
+01/03/2025 18:34:34
+01/04/2025
+417400******0725
+35h1f3
+000106315
+14185294 venda credito a vista
+1
+r$ 112,80
+nacional
+- r$ 1,68
+r$ 111,12
+410413
+mastercard débito
+01/03/2025 18:36:03
+05/03/2025
+589916******8751
+m81764
+000079093
+14313212 venda debito a vista
+1
+r$ 22,25
+nacional
+- r$ 0,18
+r$ 22,07
+410413
+mastercard débito
+01/03/2025 18:39:20
+05/03/2025
+230650******5368
+rga94m
+000079095
+14313212 venda debito a vista
+1
+r$ 9,01
+nacional
+- r$ 0,07
+r$ 8,94
+410413
+visa débito
+01/03/2025 18:39:36
+05/03/2025
+439267******4659
+700191
+000014867
+14972044 venda debito a vista
+1
+r$ 14,54
+nacional
+- r$ 0,11
+r$ 14,43
+410413
+visa débito
+01/03/2025 18:40:27
+05/03/2025
+434562******7759
+sr9rsf
+000106317
+14185294 venda debito a vista
+1
+r$ 50,97
+nacional
+- r$ 0,40
+r$ 50,57
+410413
+mastercard débito
+01/03/2025 18:44:13
+05/03/2025
+516292******7262
+502140
+000106321
+14185294 venda debito a vista
+1
+r$ 92,27
+nacional
+- r$ 0,73
+r$ 91,54
+410413
+visa crédito
+01/03/2025 18:44:53
+01/04/2025
+417400******1440
+ival4d
+000079097
+14313212 venda credito a vista
+1
+r$ 22,84
+nacional
+- r$ 0,34
+r$ 22,50
+410413
+mastercard débito
+01/03/2025 18:45:17
+05/03/2025
+589916******6252
+m13992
+000106323
+14185294 venda debito a vista
+1
+r$ 14,48
+nacional
+- r$ 0,11
+r$ 14,37
+410413
+mastercard débito
+01/03/2025 18:50:07
+05/03/2025
+550209******7088
+957658
+000106325
+14185294 venda debito a vista
+1
+r$ 26,83
+nacional
+- r$ 0,21
+r$ 26,62
+410413
+mastercard débito
+01/03/2025 18:51:56
+05/03/2025
+550209******7559
+837089
+000079099
+14313212 venda debito a vista
+1
+r$ 18,29
+nacional
+- r$ 0,14
+r$ 18,15
+410413
+visa débito
+01/03/2025 18:53:44
+05/03/2025
+456858******1207
+025938
+000079101
+14313212 venda debito a vista
+1
+r$ 32,96
+nacional
+- r$ 0,26
+r$ 32,70
+410413
+mastercard débito
+01/03/2025 18:53:46
+05/03/2025
+550209******5409
+998077
+000014869
+14972044 venda debito a vista
+1
+r$ 94,96
+nacional
+- r$ 0,75
+r$ 94,21
+410413
+visa débito
+01/03/2025 18:55:27
+05/03/2025
+439267******0537
+940333
+000079103
+14313212 venda debito a vista
+1
+r$ 39,97
+nacional
+- r$ 0,32
+r$ 39,65
+410413
+visa débito
+01/03/2025 18:57:40
+05/03/2025
+439267******4935
+973818
+000014871
+14972044 venda debito a vista
+1
+r$ 6,17
+nacional
+- r$ 0,05
+r$ 6,12
+410413
+elo débito
+01/03/2025 18:58:11
+05/03/2025
+506722******2462
+981357
+000079105
+14313212 venda debito a vista
+1
+r$ 34,72
+nacional
+- r$ 0,48
+r$ 34,24
+410413
+visa débito
+01/03/2025 18:59:24
+05/03/2025
+466717******7949
+jze36a
+000106327
+14185294 venda debito a vista
+1
+r$ 38,65
+nacional
+- r$ 0,31
+r$ 38,34
+410413
+mastercard débito
+01/03/2025 19:00:19
+05/03/2025
+514945******1479
+m77381
+000106329
+14185294 venda debito a vista
+1
+r$ 3,99
+nacional
+- r$ 0,03
+r$ 3,96
+410413
+mastercard débito
+01/03/2025 19:01:10
+05/03/2025
+589916******2905
+m92145
+000106331
+14185294 venda debito a vista
+1
+r$ 44,69
+nacional
+- r$ 0,35
+r$ 44,34
+410413
+mastercard débito
+01/03/2025 19:01:16
+05/03/2025
+222763******5029
+230427
+000079107
+14313212 venda debito a vista
+1
+r$ 136,39
+nacional
+- r$ 1,08
+r$ 135,31
+410413
+mastercard débito
+01/03/2025 19:03:43
+05/03/2025
+550209******0496
+836234
+000079111
+14313212 venda debito a vista
+1
+r$ 30,00
+nacional
+- r$ 0,24
+r$ 29,76
+410413
+mastercard débito
+01/03/2025 19:04:03
+05/03/2025
+534520******2124
+494368
+000106333
+14185294 venda debito a vista
+1
+r$ 57,93
+nacional
+- r$ 0,46
+r$ 57,47
+410413
+visa débito
+01/03/2025 19:04:59
+05/03/2025
+466717******7893
+dz1ttw
+000106335
+14185294 venda debito a vista
+1
+r$ 18,99
+nacional
+- r$ 0,15
+r$ 18,84
+410413
+visa débito
+01/03/2025 19:08:40
+05/03/2025
+439267******6196
+133271
+000014875
+14972044 venda debito a vista
+1
+r$ 117,42
+nacional
+- r$ 0,93
+r$ 116,49
+410413
+mastercard débito
+01/03/2025 19:09:15
+05/03/2025
+530750******5590
+373820
+000014877
+14972044 venda debito a vista
+1
+r$ 11,79
+nacional
+- r$ 0,09
+r$ 11,70
+410413
+mastercard crédito
+01/03/2025 19:09:56
+01/04/2025
+523284******1907
+091339
+000106337
+14185294 venda credito a vista
+1
+r$ 49,91
+nacional
+- r$ 0,74
+r$ 49,17
+410413
+mastercard débito
+01/03/2025 19:10:08
+05/03/2025
+537142******7760
+272704
+000014881
+14972044 venda debito a vista
+1
+r$ 9,38
+nacional
+- r$ 0,07
+r$ 9,31
+410413
+visa débito
+01/03/2025 19:12:16
+05/03/2025
+432034******7128
+026276
+000106339
+14185294 venda debito a vista
+1
+r$ 41,32
+nacional
+- r$ 0,33
+r$ 40,99
+410413
+mastercard débito
+01/03/2025 19:15:56
+05/03/2025
+230650******0804
+7i2eqd
+000079113
+14313212 venda debito a vista
+1
+r$ 30,85
+nacional
+- r$ 0,24
+r$ 30,61
+410413
+visa débito
+01/03/2025 19:16:35
+05/03/2025
+439267******5978
+244957
+000106345
+14185294 venda debito a vista
+1
+r$ 161,70
+nacional
+- r$ 1,28
+r$ 160,42
+410413
+visa crédito
+01/03/2025 19:18:23
+01/04/2025
+459360******3907
+154970
+000014885
+14972044 venda credito a vista
+1
+r$ 76,92
+nacional
+- r$ 1,15
+r$ 75,77
+410413
+mastercard crédito
+01/03/2025 19:19:01
+01/04/2025
+516292******8245
+195508
+000014887
+14972044 venda credito a vista
+1
+r$ 77,35
+nacional
+- r$ 1,15
+r$ 76,20
+410413
+visa crédito
+01/03/2025 19:31:13
+01/04/2025
+407838******9389
+368214
+000079115
+14313212 venda credito a vista
+1
+r$ 104,84
+nacional
+- r$ 1,56
+r$ 103,28
+410413
+mastercard débito
+01/03/2025 19:31:41
+05/03/2025
+544731******9699
+315677
+000106347
+14185294 venda debito a vista
+1
+r$ 31,30
+nacional
+- r$ 0,25
+r$ 31,05
+410413
+elo débito
+01/03/2025 19:48:19
+05/03/2025
+650527******8101
+027189
+000079117
+14313212 venda debito a vista
+1
+r$ 6,78
+nacional
+- r$ 0,09
+r$ 6,69
+410413
+mastercard débito
+02/03/2025 07:05:45
+05/03/2025
+516292******2943
+872147
+000014889
+14972044 venda debito a vista
+1
+r$ 26,97
+nacional
+- r$ 0,21
+r$ 26,76
+410413
+mastercard crédito
+02/03/2025 07:09:27
+02/04/2025
+516292******6774
+420997
+000014893
+14972044 venda credito a vista
+1
+r$ 15,82
+nacional
+- r$ 0,24
+r$ 15,58
+410413
+mastercard débito
+02/03/2025 07:10:27
+05/03/2025
+516292******0909
+753141
+000014895
+14972044 venda debito a vista
+1
+r$ 5,37
+nacional
+- r$ 0,04
+r$ 5,33
+410413
+visa crédito
+02/03/2025 07:11:48
+02/04/2025
+417400******0870
+o731ik
+000106349
+14185294 venda credito a vista
+1
+r$ 22,94
+nacional
+- r$ 0,34
+r$ 22,60
+410413
+visa débito
+02/03/2025 07:13:04
+05/03/2025
+410863******0005
+130760
+000106353
+14185294 venda debito a vista
+1
+r$ 8,98
+nacional
+- r$ 0,07
+r$ 8,91
+410413
+visa débito
+02/03/2025 07:15:03
+05/03/2025
+439267******0813
+361597
+000106355
+14185294 venda debito a vista
+1
+r$ 14,98
+nacional
+- r$ 0,12
+r$ 14,86
+410413
+visa crédito
+02/03/2025 07:17:13
+02/04/2025
+475093******8037
+171758
+000106357
+14185294 venda credito a vista
+1
+r$ 108,70
+nacional
+- r$ 1,62
+r$ 107,08
+410413
+visa crédito
+02/03/2025 07:19:29
+02/04/2025
+498442******9062
+555739
+000106359
+14185294 venda credito a vista
+1
+r$ 76,48
+nacional
+- r$ 1,14
+r$ 75,34
+410413
+mastercard débito
+02/03/2025 07:19:35
+05/03/2025
+514945******8751
+m41574
+000014897
+14972044 venda debito a vista
+1
+r$ 69,86
+nacional
+- r$ 0,55
+r$ 69,31
+410413
+mastercard crédito
+02/03/2025 07:22:35
+02/04/2025
+553665******5771
+057833
+000106361
+14185294 venda credito a vista
+1
+r$ 45,07
+nacional
+- r$ 0,67
+r$ 44,40
+410413
+mastercard crédito
+02/03/2025 07:25:12
+02/04/2025
+525496******6199
+063127
+000106363
+14185294 venda credito a vista
+1
+r$ 39,21
+nacional
+- r$ 0,58
+r$ 38,63
+410413
+mastercard débito
+02/03/2025 07:25:24
+05/03/2025
+589916******2673
+m39377
+000014899
+14972044 venda debito a vista
+1
+r$ 3,76
+nacional
+- r$ 0,03
+r$ 3,73
+410413
+mastercard débito
+02/03/2025 07:26:13
+05/03/2025
+544731******5646
+261972
+000106365
+14185294 venda debito a vista
+1
+r$ 26,21
+nacional
+- r$ 0,21
+r$ 26,00
+410413
+visa crédito
+02/03/2025 07:28:10
+02/04/2025
+425850******2889
+281483
+000014901
+14972044 venda credito a vista
+1
+r$ 32,84
+nacional
+- r$ 0,49
+r$ 32,35
+410413
+elo débito
+02/03/2025 07:28:56
+05/03/2025
+650032******1602
+431105
+000106367
+14185294 venda debito a vista
+1
+r$ 109,69
+nacional
+- r$ 1,52
+r$ 108,17
+410413
+visa débito
+02/03/2025 07:30:59
+05/03/2025
+434562******7759
+ikudxq
+000106369
+14185294 venda debito a vista
+1
+r$ 49,61
+nacional
+- r$ 0,39
+r$ 49,22
+410413
+visa crédito
+02/03/2025 07:33:15
+02/04/2025
+412177******6316
+065523
+000079119
+14313212 venda credito a vista
+1
+r$ 33,59
+nacional
+- r$ 0,50
+r$ 33,09
+410413
+mastercard débito
+02/03/2025 07:39:34
+05/03/2025
+544731******8962
+394579
+000106371
+14185294 venda debito a vista
+1
+r$ 29,24
+nacional
+- r$ 0,23
+r$ 29,01
+410413
+elo débito
+02/03/2025 07:48:39
+05/03/2025
+650528******6809
+034019
+000079123
+14313212 venda debito a vista
+1
+r$ 17,28
+nacional
+- r$ 0,24
+r$ 17,04
+410413
+mastercard débito
+02/03/2025 07:51:44
+05/03/2025
+521434******5718
+315567
+000106373
+14185294 venda debito a vista
+1
+r$ 9,57
+nacional
+- r$ 0,08
+r$ 9,49
+410413
+mastercard débito
+02/03/2025 07:57:44
+05/03/2025
+589916******9014
+m98509
+000079125
+14313212 venda debito a vista
+1
+r$ 56,51
+nacional
+- r$ 0,45
+r$ 56,06
+410413
+mastercard crédito
+02/03/2025 07:58:28
+02/04/2025
+527451******1333
+128696
+000079127
+14313212 venda credito a vista
+1
+r$ 35,15
+nacional
+- r$ 0,52
+r$ 34,63
+410413
+elo débito
+02/03/2025 07:59:48
+05/03/2025
+650032******0192
+630645
+000106375
+14185294 venda debito a vista
+1
+r$ 18,90
+nacional
+- r$ 0,26
+r$ 18,64
+410413
+mastercard débito
+02/03/2025 08:00:00
+05/03/2025
+545960******2714
+621964
+000079129
+14313212 venda debito a vista
+1
+r$ 120,36
+nacional
+- r$ 0,95
+r$ 119,41
+410413
+mastercard débito
+02/03/2025 08:00:14
+05/03/2025
+550209******3823
+300598
+000106377
+14185294 venda debito a vista
+1
+r$ 12,97
+nacional
+- r$ 0,10
+r$ 12,87
+410413
+mastercard crédito
+02/03/2025 08:01:03
+02/04/2025
+520018******1252
+033218
+000014903
+14972044 venda credito a vista
+1
+r$ 96,18
+nacional
+- r$ 1,43
+r$ 94,75
+410413
+mastercard crédito
+02/03/2025 08:01:31
+02/04/2025
+523431******3383
+026675
+000079131
+14313212 venda credito a vista
+1
+r$ 58,10
+nacional
+- r$ 0,87
+r$ 57,23
+410413
+visa débito
+02/03/2025 08:02:53
+05/03/2025
+417402******0053
+bpfobi
+000014905
+14972044 venda debito a vista
+1
+r$ 7,13
+nacional
+- r$ 0,06
+r$ 7,07
+410413
+mastercard débito
+02/03/2025 08:03:41
+05/03/2025
+550209******1570
+706449
+000014907
+14972044 venda debito a vista
+1
+r$ 38,09
+nacional
+- r$ 0,30
+r$ 37,79
+410413
+mastercard crédito
+02/03/2025 08:05:02
+02/04/2025
+546997******2199
+554225
+000079133
+14313212 venda credito a vista
+1
+r$ 89,19
+nacional
+- r$ 1,33
+r$ 87,86
+410413
+visa débito
+02/03/2025 08:06:42
+05/03/2025
+439267******2905
+687268
+000106381
+14185294 venda debito a vista
+1
+r$ 40,00
+nacional
+- r$ 0,32
+r$ 39,68
+410413
+mastercard crédito
+02/03/2025 08:08:06
+02/04/2025
+525664******7509
+044005
+000014909
+14972044 venda credito a vista
+1
+r$ 13,00
+nacional
+- r$ 0,19
+r$ 12,81
+410413
+mastercard débito
+02/03/2025 08:13:02
+05/03/2025
+525662******0731
+m60308
+000014911
+14972044 venda debito a vista
+1
+r$ 29,03
+nacional
+- r$ 0,23
+r$ 28,80
+410413
+elo crédito
+02/03/2025 08:19:13
+02/04/2025
+509084******0123
+222923
+000106383
+14185294 venda credito a vista
+1
+r$ 35,11
+nacional
+- r$ 0,73
+r$ 34,38
+410413
+visa débito
+02/03/2025 08:21:52
+05/03/2025
+439267******8906
+834215
+000014913
+14972044 venda debito a vista
+1
+r$ 5,99
+nacional
+- r$ 0,05
+r$ 5,94
+410413
+mastercard débito
+02/03/2025 08:22:25
+05/03/2025
+550209******5406
+011873
+000014915
+14972044 venda debito a vista
+1
+r$ 6,39
+nacional
+- r$ 0,05
+r$ 6,34
+410413
+mastercard crédito
+02/03/2025 08:22:27
+02/04/2025
+550209******0376
+395075
+000106385
+14185294 venda credito a vista
+1
+r$ 6,62
+nacional
+- r$ 0,10
+r$ 6,52
+410413
+mastercard débito
+02/03/2025 08:22:51
+05/03/2025
+637529******8130
+109470
+000106387
+14185294 venda debito a vista
+1
+r$ 10,48
+nacional
+- r$ 0,08
+r$ 10,40
+410413
+mastercard débito
+02/03/2025 08:23:24
+05/03/2025
+637529******8130
+110048
+000106389
+14185294 venda debito a vista
+1
+r$ 5,99
+nacional
+- r$ 0,05
+r$ 5,94
+410413
+mastercard débito
+02/03/2025 08:24:00
+05/03/2025
+522626******3666
+179040
+000014917
+14972044 venda debito a vista
+1
+r$ 13,14
+nacional
+- r$ 0,10
+r$ 13,04
+410413
+elo débito
+02/03/2025 08:26:21
+05/03/2025
+506722******6831
+881901
+000106391
+14185294 venda debito a vista
+1
+r$ 32,71
+nacional
+- r$ 0,45
+r$ 32,26
+410413
+elo débito
+02/03/2025 08:28:26
+05/03/2025
+650488******0301
+034588
+000106393
+14185294 venda debito a vista
+1
+r$ 105,23
+nacional
+- r$ 1,46
+r$ 103,77
+410413
+elo débito
+02/03/2025 08:30:23
+05/03/2025
+650495******1103
+034162
+000014919
+14972044 venda debito a vista
+1
+r$ 98,79
+nacional
+- r$ 1,37
+r$ 97,42
+410413
+visa crédito
+02/03/2025 08:33:33
+02/04/2025
+416439******7192
+jwvety
+000014921
+14972044 venda credito a vista
+1
+r$ 35,64
+nacional
+- r$ 0,53
+r$ 35,11
+410413
+mastercard débito
+02/03/2025 08:34:25
+05/03/2025
+515590******9044
+343067
+000014923
+14972044 venda debito a vista
+1
+r$ 11,68
+nacional
+- r$ 0,09
+r$ 11,59
+410413
+mastercard débito
+02/03/2025 08:36:13
+05/03/2025
+550209******7741
+971904
+000106397
+14185294 venda debito a vista
+1
+r$ 64,93
+nacional
+- r$ 0,51
+r$ 64,42
+410413
+mastercard débito
+02/03/2025 08:37:59
+05/03/2025
+515469******0826
+m47856
+000106401
+14185294 venda debito a vista
+1
+r$ 66,50
+nacional
+- r$ 0,53
+r$ 65,97
+410413
+visa crédito
+02/03/2025 08:44:12
+02/04/2025
+439094******8888
+537537
+000106405
+14185294 venda credito a vista
+1
+r$ 147,45
+nacional
+- r$ 2,20
+r$ 145,25
+3 de 58

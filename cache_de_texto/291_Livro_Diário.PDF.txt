@@ -1,0 +1,143 @@
+                                      diario geral da contabilidade do mes de janeiro de 2021 - consolidado                                      
+empresa: 006 super transportes e logistica ltda
+cnpj:    23.756.727/0002-80                                                                                       emissao: 23/11/2021 folha: 0001
+data     conta                                            documento  item historico                                    debito             credito
+01/01/21 00410-3 horas extras                             0000000001 0001 vlr  hora extra conf folha n/ me              97.55                    
+s - ferias                      
+01/01/21 00200-3 ferias a pagar                           0000000001 0002 vlr  hora extra conf folha n/ me                                  97.55
+s - ferias                      
+02/01/21 22054-0 resultado de exercicio                   0000000001 0001 vr resultado de exercicio que se         642.607.15                    
+transfere para lucro acumulado m
+atriz e filial  2020            
+02/01/21 01630-6 zarb comercio e distribuidor de alimento 0000000001 0001 vr que se transfere ref ctrc cli          14.279.72                    
+ente zarb com dist alimentos - p
+eriodo 01 a 14/12/2020          
+02/01/21 00272-0 lucros acumulados                        0000000001 0002 vr resultado de exercicio que se                             642.607.15
+transfere para lucro acumulado m
+atriz e filial  2020            
+02/01/21 00061-2 clientes                                 0000000001 0002 vr que se transfere ref ctrc cli                              14.279.72
+ente zarb com dist alimentos - p
+eriodo 01 a 14/12/2020          
+02/01/21 00012-4 caixa super log ponta grossa             0000000004 0001 vr que se transfere referente es          21.443.28                    
+torno de valor                  
+02/01/21 10217-2 unilider distribuidora s.a               0000000004 0002 vr que se transfere referente es                              21.443.28
+torno de valor                  
+02/01/21 01306-4 tecidos e armarinhos miguel bartolomeu s 0000000005 0001 vr que se transfere ref baixa de              22.18                    
+mercadoria bonificada           
+02/01/21 00279-8 ajustes devedores de periodos anteriores 0000000005 0002 vr que se transfere ref baixa de                                  22.18
+mercadoria bonificada em 2020   
+02/01/21 61671-0 emprestimo bradesco - nº 5434580         0000000010 0001 vr que se transfere ref empresti         630.000.00                    
+mo bradesco 5434580 curto prazo 
+para longo prazo                
+02/01/21 02030-3 emprestimo bradesco nº 5434580 - lp      0000000010 0002 vr que se transfere ref empresti                             630.000.00
+mo bradesco 5434580 curto prazo 
+para longo prazo                
+02/01/21 99679-3 emprestimo sicoob l.p.                   0000000012 0001 vr que se transfere ref empresti         124.999.92                    
+mo 739451 longo prazo para empre
+stimo 739450 curto prazo        
+02/01/21 02031-0 emprestimo sicoob 739451 cp              0000000012 0002 vr que se transfere ref empresti                             124.999.92
+mo 739451 longo prazo para empre
+stimo 739450 curto prazo        
+02/01/21 01482-6 banco banestes s/a                       0000000015 0001 vr ref estorno de valor duplicid                                   1.29
+ade                             
+02/01/21 00012-4 caixa super log ponta grossa             0000000015 0002 vr ref estorno de valor duplicid               1.29                    
+ade                             
+02/01/21 04315-0 banestes s/a.                            0000000016 0001 vr ref baixa lancamento indevido              98.05                    
+02/01/21 00012-4 caixa super log ponta grossa             0000000016 0002 vr ref baixa lancamento indevido                                  98.05
+02/01/21 99679-3 emprestimo sicoob l.p.                   0000000019 0001 valor  que se transfere referent         127.259.04                    
+e a 12 parcelas (08 a 19)  empre
+stimo sicoob lp para emprestimo 
+sicoob cp contrato 695000       
+02/01/21 99678-5 emprestimo sicoob c.p.                   0000000019 0002 valor  que se transfere referent                             127.259.04
+e a 12 parcelas (08 a 19)  empre
+stimo sicoob lp para emprestimo 
+sicoob cp contrato 695000       
+02/01/21 99679-3 emprestimo sicoob l.p.                   0000000020 0001 valor  que se transfere referent         127.259.04                    
+e a 12 parcelas (08 a 19)  empre
+stimo sicoob lp para emprestimo 
+sicoob cp contrato 695018       
+02/01/21 99678-5 emprestimo sicoob c.p.                   0000000020 0002 valor  que se transfere referent                             127.259.04
+                                                                                      saldo a transportar        1.688.067.22        1.560.808.18
+praxio tecnologia
+                                      diario geral da contabilidade do mes de janeiro de 2021 - consolidado                                      
+empresa: 006 super transportes e logistica ltda
+cnpj:    23.756.727/0002-80                                                                                       emissao: 23/11/2021 folha: 0002
+data     conta                                            documento  item historico                                    debito             credito
+                                                                                      saldo de transporte        1.688.067.22        1.560.808.18
+e a 12 parcelas (08 a 19)  empre
+stimo sicoob lp para emprestimo 
+sicoob cp contrato 695018       
+02/01/21 99679-3 emprestimo sicoob l.p.                   0000000021 0001 valor  que se transfere referent          63.577.80                    
+e a 12 parcelas (08 a 19)  empre
+stimo sicoob lp para emprestimo 
+sicoob cp contrato 695057       
+02/01/21 99678-5 emprestimo sicoob c.p.                   0000000021 0002 valor  que se transfere referent                              63.577.80
+e a 12 parcelas (08 a 19)  empre
+stimo sicoob lp para emprestimo 
+sicoob cp contrato 695057       
+02/01/21 91235-2 emprestimo sicoob 661038 l.p.            0000000022 0001 valor emprestimo sicoob 661038 l          20.833.33                    
+.p. que se transfere para empres
+timo sicoob 661038 l.p. referent
+e parcelas 20214                
+02/01/21 91234-4 emprestimo sicoob 661038 c.p.            0000000022 0002 valor emprestimo sicoob 661038 l                              20.833.33
+.p. que se transfere para empres
+timo sicoob 661038 l.p. referent
+e parcelas 2021                 
+02/01/21 91198-4 emprestimo sicoob 639289 c.p.            0000000023 0001 vr que se transfere ref empresti                              49.776.76
+mo sicoob 939289 lp par empresti
+mo sicoob cp 639289             
+02/01/21 91197-6 emprestimo sicoob 639289 l.p.            0000000023 0002 vr que se transfere ref empresti          49.776.76                    
+mo sicoob 939289 lp par empresti
+mo sicoob cp 639289             
+02/01/21 91195-0 emprestimo sicoob 639501 l.p.            0000000024 0001 valor que se transfere emprestim          97.500.00                    
+o sicoob 639501 l.p. p/ empresti
+mo sicoob 639501 c.p. ano 2020  
+02/01/21 91196-8 emprestimo sicoob 639501 c.p.            0000000024 0002 valor que se transfere emprestim                              97.500.00
+o sicoob 639501 l.p. p/ empresti
+mo sicoob 639501 c.p. ano 2020  
+02/01/21 10089-7 gps - inss supertransportes filial       0000000025 0001 vr que se transfere de gps inss           18.791.78                    
+supertransporres filial para par
+acelamento inss super           
+02/01/21 91624-2 parcelamento inss super                  0000000025 0002 vr que se transfere de gps inss                               18.791.78
+supertransporres filial para par
+acelamento inss super           
+02/01/21 00279-8 ajustes devedores de periodos anteriores 0000000026 0001 valor que se transfere referente          10.500.00                    
+ajuste de exercicio anterior - x
+film - ref estorno lancamento ba
+seado no ifrs e no cpc 32 o qual
+reclassifica a obrigacao para re
+cuperacao futura e difere os imp
+ostos incidentes                
+02/01/21 04987-5 xfilm - insulfilm e adesivos             0000000026 0002 valor que se transfere referente                              10.500.00
+ajuste de exercicio anterior - x
+film - ref estorno lancamento ba
+seado no ifrs e no cpc 32 o qual
+reclassifica a obrigacao para re
+cuperacao futura e difere os imp
+ostos incidentes                
+02/01/21 00279-8 ajustes devedores de periodos anteriores 0000000028 0001 valor que se transfere referente                              33.317.84
+ajuste de exercicio anterior - b
+eneficios e servicos - ref estor
+                                                                                      saldo a transportar        1.949.046.89        1.949.046.89
+praxio tecnologia
+                                      diario geral da contabilidade do mes de janeiro de 2021 - consolidado                                      
+empresa: 006 super transportes e logistica ltda
+cnpj:    23.756.727/0002-80                                                                                       emissao: 23/11/2021 folha: 0003
+data     conta                                            documento  item historico                                    debito             credito
+                                                                                      saldo de transporte        1.949.046.89        1.949.046.89
+no lancamento baseado no ifrs e 
+no cpc 32 o qual reclassifica a 
+obrigacao para recuperacao futur
+a e difere os impostos incidente
+s                               
+02/01/21 10155-9 vr beneficios e servicos de processament 0000000028 0002 valor que se transfere referente          33.317.84                    
+ajuste de exercicio anterior - b
+eneficios e servicos - ref estor
+no lancamento baseado no ifrs e 
+no cpc 32 o qual reclassifica a 
+obrigacao para recuperacao futur
+a e difere os impostos incidente
+s                               
+                                                                                  totais do mês de janeiro       1.982.364.73        1.982.364.73
+                                                                                             totais gerais       1.982.364.73        1.982.364.73
+praxio tecnologia

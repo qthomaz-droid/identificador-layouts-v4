@@ -1,0 +1,311 @@
+date
+documentid
+amount
+method
+type bankaccount
+bankconciliation
+01/07/2020 202007011725
+1.210,00 transferência
+credit pagseguro
+20200701_arrecadação.dízimos e ofertas.dízimos
+01/07/2020 202007011843
+1.684,54 transferência
+debit
+pagseguro
+20200701_dívidas.pessoal.união.irpf
+01/07/2020 202007011844
+4.987,37 transferência
+debit
+pagseguro
+20200701_pessoal.pastor.sustento.vencimentos
+01/07/2020 202007011845
+50,00 transferência
+debit
+pagseguro
+20200701_administração.documentação.cartório
+01/07/2020 20200701_717451
+391,74 pg luz/gas
+debit
+caixa
+20200701_manutenção.contas básicas.luz
+01/07/2020 20200701_718685
+153,40 pg luz/gas
+debit
+caixa
+20200701_pessoal.pastor.sustento.luz
+02/07/2020 202007020724
+2,67 rendimento da conta credit pagseguro
+20200731_administração.banco.investimentos.rendimentos
+02/07/2020 202007021019
+150,00 transferência
+credit pagseguro
+20200702_arrecadação.dízimos e ofertas.dízimos
+02/07/2020 202007021102
+1.335,00 transferência
+credit pagseguro
+20200702_arrecadação.dízimos e ofertas.dízimos
+02/07/2020 20200702_021219 1.000,00 cred tev
+credit caixa
+20200702_arrecadação.dízimos e ofertas.dízimos
+03/07/2020 202007031627
+700,00 transferência
+credit pagseguro
+20200703_arrecadação.dízimos e ofertas.dízimos
+06/07/2020 20200706_061303
+798,93 envio tev
+debit
+caixa
+20200706_pessoal.missionários.guiomar
+06/07/2020 20200706_568355
+399,00 pag boleto
+debit
+caixa
+20200706_administração.documentação.certificado digital
+07/07/2020 20200707_071753
+247,00 cred tev
+credit caixa
+20200707_arrecadação.dízimos e ofertas.dízimos
+07/07/2020 20200707_200064
+180,00 doc elet
+credit caixa
+20200707_arrecadação.dízimos e ofertas.dízimos
+08/07/2020 202007081223
+600,00 transferência
+credit pagseguro
+20200708_arrecadação.dízimos e ofertas.dízimos
+08/07/2020 202007081841
+2.600,00 transferência
+credit pagseguro
+20200708_arrecadação.dízimos e ofertas.dízimos
+09/07/2020 202007091910
+1.500,00 transferência
+credit pagseguro
+20200709_arrecadação.dízimos e ofertas.dízimos,20200709_arrecadação.dízimos e ofertas.dízimos
+10/07/2020 202007101239
+1.500,00 transferência
+credit pagseguro
+20200710_arrecadação.dízimos e ofertas.dízimos
+10/07/2020 202007101358
+110,00 transferência
+credit pagseguro
+20200710_arrecadação.dízimos e ofertas.dízimos
+10/07/2020 202007101659
+81,35 transferência
+debit
+pagseguro
+20200710_manutenção.templo.outras
+10/07/2020 202007101700
+730,52 transferência
+debit
+pagseguro
+20200710_administração.presbitério.taxa arrecadação
+10/07/2020 20200710_635387
+49,49 pag agua
+debit
+caixa
+20200710_manutenção.contas básicas.água
+10/07/2020 20200710_688984
+500,00 pag boleto
+debit
+caixa
+20200710_administração.contabilidade.gestão contábil
+10/07/2020 20200710_694380 1.558,30 pag boleto
+debit
+caixa
+20200710_pessoal.pastor.sustento.aluguel
+10/07/2020 20200710_696707
+360,00 pag boleto
+debit
+caixa
+20200710_pessoal.pastor.sustento.condomínio
+14/07/2020 202007141013
+250,00 transferência
+credit pagseguro
+20200714_arrecadação.dízimos e ofertas.dízimos
+14/07/2020 202007141257
+1.100,00 transferência
+credit pagseguro
+20200714_arrecadação.dízimos e ofertas.dízimos
+14/07/2020 202007141755
+850,00 transferência
+credit pagseguro
+20200714_arrecadação.dízimos e ofertas.dízimos
+14/07/2020 202007141800
+650,00 transferência
+credit pagseguro
+20200714_arrecadação.dízimos e ofertas.dízimos
+14/07/2020 20200714_000001
+50,00 cred ted
+credit caixa
+20200714_arrecadação.dízimos e ofertas.dízimos
+14/07/2020 20200714_141507
+64,00 cred tev
+credit caixa
+20200714_pessoal.secretário.reembolso.saúde co participação
+14/07/2020 20200714_470658
+530,23 pag darf
+debit
+caixa
+20200714_dívidas.pessoal.receita.irpf
+14/07/2020 20200714_471765
+530,23 pag darf
+debit
+caixa
+20200714_dívidas.pessoal.receita.irpf
+14/07/2020 20200714_472062
+530,23 pag darf
+debit
+caixa
+20200714_dívidas.pessoal.receita.irpf
+14/07/2020 20200714_472430
+530,23 pag darf
+debit
+caixa
+20200714_dívidas.pessoal.receita.irpf
+14/07/2020 20200714_473899
+530,23 pag darf
+debit
+caixa
+20200714_dívidas.pessoal.receita.irpf
+14/07/2020 20200714_474387
+530,23 pag darf
+debit
+caixa
+20200714_dívidas.pessoal.receita.irpf
+14/07/2020 20200714_475014
+530,23 pag darf
+debit
+caixa
+20200714_dívidas.pessoal.receita.irpf
+14/07/2020 20200714_475363
+530,23 pag darf
+debit
+caixa
+20200714_dívidas.pessoal.receita.irpf
+15/07/2020 202007151004
+1.520,00 transferência
+credit pagseguro
+20200715_arrecadação.dízimos e ofertas.dízimos
+15/07/2020 202007151005
+1.360,00 transferência
+credit pagseguro
+20200715_arrecadação.dízimos e ofertas.dízimos
+15/07/2020 202007151007
+3.385,00 transferência
+credit pagseguro
+20200715_arrecadação.dízimos e ofertas.dízimos
+15/07/2020 20200715_151741
+300,00 dp din lot
+credit caixa
+20200715_arrecadação.dízimos e ofertas.dízimos
+15/07/2020 20200715_564486 2.097,16 pag boleto
+debit
+caixa
+20200715_pessoal.secretário.plano saúde.negociação,20200715_pessoal.secretário.plano saúde.co-participação
+15/07/2020 20200715_621227
+169,20 pg prefeit
+debit
+caixa
+20200715_pessoal.pastor.sustento.iptu
+15/07/2020 20200715_642347
+97,78 pag fone
+debit
+caixa
+20200715_manutenção.contas básicas.internet
+15/07/2020 20200715_658348 1.220,21 pg org gov
+debit
+caixa
+20200715_pessoal.pastor.impostos.inss
+16/07/2020 202007160815
+2,26 rendimento da conta credit pagseguro
+20200731_administração.banco.investimentos.rendimentos
+16/07/2020 20200716_100000
+428,00 dp dinh ag
+credit caixa
+20200716_arrecadação.dízimos e ofertas.dízimos
+16/07/2020 20200716_100000 2.000,00 dp che 24h
+credit caixa
+20200716_arrecadação.dízimos e ofertas.dízimos
+17/07/2020 202007171358
+600,00 transferência
+credit pagseguro
+20200717_arrecadação.dízimos e ofertas.dízimos
+18/07/2020 202007181642
+47,50 cacau show bh padebit
+cartão pagseg20200718_programações.comemorações
+18/07/2020 202007182319
+11,67 devolução saldo cartãcredit pagseguro
+resgate de saldo cartão pré-pago
+19/07/2020 202007200256
+2.713,05 transferência
+debit
+pagseguro
+20200719_pessoal.missionários.luis e cristina
+20/07/2020 202007201141
+22.060,00transferência
+credit pagseguro
+20200720_arrecadação.dízimos e ofertas.dízimos
+20/07/2020 202007201216
+100,00 transferência
+credit pagseguro
+20200720_arrecadação.dízimos e ofertas.dízimos
+20/07/2020 20200720_181643
+20,00 cp maestro
+debit
+caixa
+20200718_programações.comemorações
+20/07/2020 20200720_201526
+150,00 cred tev
+credit caixa
+20200720_pessoal.secretário.reembolso.luz
+20/07/2020 20200720_217466
+57,46 pg org gov
+debit
+caixa
+20200720_manutenção.templo.limpeza templo.impostos rpa
+20/07/2020 20200720_446774
+620,73 pag darf
+debit
+caixa
+20200720_pessoal.pastor.impostos.irpf
+20/07/2020 20200720_684240
+541,20 pag boleto
+debit
+caixa
+20200720_administração.sindicato.dívidas
+22/07/2020 202007221444
+24.000,00transferência
+credit pagseguro
+transf de valores da caixa para o pagseguro
+22/07/2020 20200722_178869 24.000,00envio ted
+debit
+caixa
+transf de valores da caixa para o pagseguro
+23/07/2020 202007231414
+350,00 transferência
+credit pagseguro
+20200723_arrecadação.dízimos e ofertas.dízimos
+24/07/2020 202007240805
+6,82 rendimento da conta credit pagseguro
+20200731_administração.banco.investimentos.rendimentos
+27/07/2020 202007271647
+850,00 pagamento de conta
+debit
+pagseguro
+20200727_pessoal.pastor.sustento.benefícios
+27/07/2020 20200727_062020
+99,00 db cest pj
+debit
+caixa
+20200727_administração.banco.tarifa bancária.manutenção conta
+27/07/2020 20200727_104785 2.200,00 dp che 24h
+credit caixa
+20200727_arrecadação.dízimos e ofertas.dízimos
+30/07/2020 202007301553
+509,00 transferência
+credit pagseguro
+20200730_arrecadação.dízimos e ofertas.dízimos
+31/07/2020 202007311208
+770,00 transferência
+credit pagseguro
+20200731_arrecadação.dízimos e ofertas.dízimos

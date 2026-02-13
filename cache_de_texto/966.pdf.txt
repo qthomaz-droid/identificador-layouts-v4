@@ -1,0 +1,328 @@
+relatório de transacões
+01/03/2023 a 31/03/2023
+data e hora
+pagador
+id da 
+transação
+status da 
+transação
+valor bruto da 
+venda
+tarifa
+valor líquido da 
+venda
+01/03/2023 
+20:08:29
+nayara machado
+1040562256
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+01/03/2023 
+20:08:42
+denis souza
+1040562517
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+05/03/2023 
+19:24:26
+barbara da cruz fim
+1045133389
+completada
+r$ 8,90
+r$ 
+0,44
+r$ 8,46
+05/03/2023 
+19:24:27
+daniele wantil
+1045133404
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+05/03/2023 
+19:29:06
+raquel marques
+1045137130
+completada
+r$ 15,00
+r$ 
+0,75
+r$ 14,25
+08/03/2023 
+20:03:03
+lorrane pacheco
+1049553376
+completada
+r$ 20,00
+r$ 
+1,00
+r$ 19,00
+08/03/2023 
+20:09:09
+meryelen alves
+1049561781
+completada
+r$ 2,00
+r$ 
+0,10
+r$ 1,90
+12/03/2023 
+10:13:41
+silvana moura borges
+1054071052
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+12/03/2023 
+10:13:42
+lucilene mara jacinto 
+pereira
+1054071068
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+12/03/2023 
+19:24:14
+samuel oliveira
+1054538333
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+12/03/2023 
+19:27:11
+débora rodrigues
+1054541020
+completada
+r$ 15,85
+r$ 
+0,79
+r$ 15,06
+12/03/2023 
+19:27:13
+daniel hutter
+1054541053
+completada
+r$ 20,00
+r$ 
+1,00
+r$ 19,00
+12/03/2023 
+19:27:35
+charllyson lopes
+1054541389
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+12/03/2023 
+19:27:40
+wagner teixeira dalbao
+1054541448
+completada
+r$ 20,00
+r$ 
+1,00
+r$ 19,00
+12/03/2023 
+19:28:59
+leonardo grifo freire
+1054542677
+completada
+r$ 4,00
+r$ 
+0,20
+r$ 3,80
+15/03/2023 
+20:06:44
+rodolfo miranda
+1058504193
+completada
+r$ 20,00
+r$ 
+1,00
+r$ 19,00
+19/03/2023 
+10:34:58
+nicole herkenhoff
+1062414964
+completada
+r$ 20,00
+r$ 
+1,00
+r$ 19,00
+19/03/2023 
+10:35:10
+tiago sa
+1062415136
+completada
+r$ 2,00
+r$ 
+0,10
+r$ 1,90
+19/03/2023 
+10:39:04
+jhonathan raphael de melo 
+lopes
+1062418535
+completada
+r$ 1,50
+r$ 
+0,07
+r$ 1,43
+19/03/2023 
+19:06:20
+alan gonçalves
+1062825523
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+19/03/2023 
+19:09:18
+tiago sa
+1062828242
+completada
+r$ 2,00
+r$ 
+0,10
+r$ 1,90
+19/03/2023 
+19:09:20
+cátia cirlene wingler 
+fernandes
+1062828273
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50
+19/03/2023 
+19:09:56
+fernanda teixeira da silva 
+luquetti
+1062828760
+completada
+r$ 9,00
+r$ 
+0,45
+r$ 8,55
+19/03/2023 
+19:12:02
+barbara da cruz fim
+1062830540
+completada
+r$ 12,49
+r$ 
+0,62
+r$ 11,87
+20/03/2023 
+17:50:56
+miriã evangelista dos 
+santos
+1063923237
+não 
+autorizado
+r$ 500,00
+r$ 
+0,00
+r$ 0,00
+20/03/2023 
+17:51:33
+miriã evangelista dos 
+santos
+1063924395
+completada
+r$ 400,00
+r$ 
+19,96
+r$ 380,04
+25/03/2023 
+19:33:31
+jhonathan raphael de melo 
+lopes
+1069476628
+completada
+r$ 1,50
+r$ 
+0,07
+r$ 1,43
+26/03/2023 
+19:12:12
+tiago sa
+1070251414
+completada
+r$ 2,00
+r$ 
+0,10
+r$ 1,90
+26/03/2023 
+19:17:33
+leonardo grifo freire
+1070255486
+completada
+r$ 5,00
+r$ 
+0,25
+r$ 4,75
+26/03/2023 
+19:18:49
+barbara da cruz fim
+1070256465
+completada
+r$ 11,87
+r$ 
+0,59
+r$ 11,28
+26/03/2023 
+19:18:50
+glaube bento
+1070256480
+completada
+r$ 2,00
+r$ 
+0,10
+r$ 1,90
+ picpay | empresas
+29/03/2023 
+20:01:20
+elias lima
+1073240579
+completada
+r$ 36,00
+r$ 
+1,80
+r$ 34,20
+29/03/2023 
+20:03:21
+tiago sa
+1073242602
+completada
+r$ 2,00
+r$ 
+0,10
+r$ 1,90
+29/03/2023 
+20:04:29
+samuel oliveira
+1073243739
+completada
+r$ 10,00
+r$ 
+0,50
+r$ 9,50

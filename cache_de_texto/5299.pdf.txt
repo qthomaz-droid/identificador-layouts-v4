@@ -1,0 +1,80 @@
+extrato de conta de pagamento
+nome: daniele guarilha pontes
+documento: 28.275.097/0001-64
+nº da conta: 366283
+período: 01/11/2023 a 01/12/2023
+data/hora
+valor da transação
+tipo
+status
+descrição
+29/11/2023 - 10:22:30
+r$ 29,09
+saída
+aprovada
+transação pague direto - saldo cashback
+29/11/2023 - 10:22:30
+r$ 2.016,85
+saída
+aprovada
+transação pague direto - saldo conta
+29/11/2023 - 10:21:40
+r$ 2.046,00
+entrada
+aprovada
+entrada pix
+15/11/2023 - 13:00:19
+r$ 29,09
+entrada
+aprovada
+transferencia de outro bees bank
+15/11/2023 - 10:35:32
+r$ 7,40
+saída
+aprovada
+transação pague direto - saldo cashback
+15/11/2023 - 10:35:32
+r$ 3.833,99
+saída
+aprovada
+transação pague direto - saldo conta
+15/11/2023 - 09:59:47
+r$ 1.701,85
+entrada
+aprovada
+entrada pix
+13/11/2023 - 17:00:29
+r$ 7,40
+entrada
+aprovada
+transferencia de outro bees bank
+13/11/2023 - 14:44:27
+r$ 13,51
+saída
+aprovada
+transação pague direto - saldo cashback
+13/11/2023 - 14:44:26
+r$ 740,19
+saída
+aprovada
+transação pague direto - saldo conta
+01/11/2023 - 16:00:41
+r$ 13,51
+entrada
+aprovada
+transferencia de outro bees bank
+01/11/2023 - 13:42:42
+r$ 8,54
+saída
+aprovada
+transação pague direto - saldo cashback
+01/11/2023 - 13:42:42
+r$ 1.351,58
+saída
+aprovada
+transação pague direto - saldo conta
+01/11/2023 - 13:41:08
+r$ 4.000,00
+entrada
+aprovada
+entrada pix

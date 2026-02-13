@@ -1,0 +1,93 @@
+recibo do pagador
+001-9
+beneficiário
+agência / código do beneficiário
+espécie
+quantidade
+nosso número
+servico social da industria departamento regional do distrito federal -
+cnpj:03.803.317/0007-40
+1507-5/00312208-5
+r$
+29220140000000631
+beneficiário endereço
+sia trecho 2 lote 1125 , zona industrial (guará) - brasília/df - cep: 71200-020
+número do documento
+cpf/cnpj
+vencimento
+valor documento
+21279
+03.803.317/0007-40
+07/02/2025
+r$ 50,00
+(-) desconto / abatimentos
+(-) outras deduções
+(+) mora / multa
+(+) outros acréscimos
+(=) valor cobrado
+s
+ 
+pagador
+asdr - associacao dos servid do trt - 10ª regiao cnpj: 00.720.300/0001-45
+quadra sepn 513 bloco b
+asa norte - brasília/df - cep: 70760-522
+instruções
+autenticação mecânica
+após o vencimento cobrar 2,00% de multa/juros de 1,00% ao mês. 
+.
+corte na linha pontilhada
+001-9
+local de pagamento
+vencimento
+pagável em qualquer banco até o vencimento. após, atualize o boleto no site bb.com.br
+07/02/2025
+beneficiário
+agência / código beneficiário
+servico social da industria departamento regional do distrito federal - cnpj:03.803.317/0007-40
+1507-5/00312208-5
+data do documento
+no documento
+espécie doc.
+aceite
+data emissão
+nosso número
+08/01/2025
+21279
+dm
+n
+08/01/2025
+29220140000000631
+uso do banco
+carteira
+espécie
+quantidade
+(x) valor
+(=) valor documento
+17
+r$
+r$ 50,00
+instruções (texto de responsabilidade do beneficiário)
+após o vencimento cobrar 2,00% de multa/juros de 1,00% ao mês. 
+.
+(-) desconto / abatimentos
+(-) outras deduções
+(+) mora / multa
+(+) outros acréscimos
+(=) valor cobrado
+pagador
+asdr - associacao dos servid do trt - 10ª regiao cnpj: 00.720.300/0001-45
+quadra sepn 513 bloco b
+asa norte - brasília/df - cep: 70760-522
+cód. baixa
+sacador / avalista: -
+autenticação mecânica - ficha de compensação
+corte na linha pontilhada
+ 00190.00009 02922.014002 00000.631176 3 99850000005000
+ a e
+
+lat
+
+e pa
+e e
+
+ £ bancodobrasil

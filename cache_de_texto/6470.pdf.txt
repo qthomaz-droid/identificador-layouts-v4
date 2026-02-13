@@ -1,0 +1,780 @@
+estab
+tipo doc
+ fornecedor
+documento
+parc
+compet
+dt.emissão
+dt.entrada
+dt.vencto
+ class.financeira
+ c.custo
+ caixa/banco
+valor pago
+ histórico/observa
+╚════►data pagamento: 15/08/2025
+7.276,66
+001
+avulso
+ 00363 - fretes (ce) 
+0003888/999
+1
+08/2025
+09/01/2025
+09/01/2025
+15/08/2025
+ 112.006 - frete 
+motorista 
+ 01-estabelecimento 
+ 017-banco do brasil 
+-10685-2 
+7.276,66
+ saque dinheiro 
+motoristas 
+╚════►data pagamento: 20/08/2025
+267,50
+001
+n.fiscal
+ 11010 - kalunga sa (ce) 
+0029717/001
+1
+08/2025
+20/08/2025
+28/08/2025
+20/08/2025
+ 101.018 - material de 
+manutenção 
+maquinas 
+ 01003002-depto. 
+financeiro 
+ 017-banco do brasil 
+-10685-2 
+267,50
+ pgt fornecedor
+╚════►data pagamento: 21/08/2025
+1.216,86
+001
+n.fiscal
+ 11028 - tiao truck center 
+ltda (ce) 
+0034099/001
+1
+08/2025
+21/08/2025
+09/09/2025
+21/08/2025
+ 101.020 - material de 
+manutenção 
+veiculos 
+ 01-estabelecimento 
+ 017-banco do brasil 
+-10685-2 
+765,51
+ ref sómente as 
+falta valor da no
+serviço 
+001
+n.fiscal
+ 11023 - venturi confecções 
+ltda (sc) 
+0004115/001
+1
+08/2025
+21/08/2025
+10/09/2025
+21/08/2025
+ 101.004 - amostras 
+de materia prima 
+ 01001-produção 
+ 017-banco do brasil 
+-10685-2 
+451,35
+ amostras pagas
+╚════►data pagamento: 22/08/2025
+9.747,86
+001
+avulso
+ 00363 - fretes (ce) 
+0003889/999
+1
+08/2025
+09/01/2025
+09/01/2025
+22/08/2025
+ 112.006 - frete 
+motorista 
+ 01-estabelecimento 
+ 017-banco do brasil 
+-10685-2 
+7.372,86
+ saque dinheiro 
+motoristas 
+001
+avulso
+ 00363 - fretes (ce) 
+0000031/999
+1
+08/2025
+10/01/2025
+10/01/2025
+22/08/2025
+ 103.014 - frete de 
+vendas 
+ 01003003-depto. 
+comercial 
+ 017-banco do brasil 
+-10685-2 
+2.375,00
+ fretes televend
+╚════►data pagamento: 25/08/2025
+383.357,55
+001
+avulso
+ 00106 - am tecidos e 
+aviamentos ltda (ce) 
+0009346/999
+1
+08/2025
+27/05/2025
+27/05/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+630,86
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00106 - am tecidos e 
+aviamentos ltda (ce) 
+0009351/999
+1
+08/2025
+27/05/2025
+27/05/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+325,46
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00106 - am tecidos e 
+aviamentos ltda (ce) 
+0009443/999
+1
+08/2025
+26/06/2025
+26/06/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+776,30
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00106 - am tecidos e 
+aviamentos ltda (ce) 
+0009525/999
+1
+08/2025
+24/07/2025
+24/07/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+607,45
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00109 - textil farbe s.a (sc) 
+0027142/999
+1
+08/2025
+05/06/2025
+05/06/2025
+25/08/2025
+ 101.031 - tecidos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+1.245,24
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00112 - passamanaria do 
+nordeste s/a (ce) 
+0014178/999
+1
+08/2025
+25/04/2025
+25/04/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+1.987,03
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00125 - enel brasil s/a (ce) 
+0003351/999
+1
+08/2025
+09/08/2022
+09/08/2022
+25/08/2025
+ 104.029 - consumo 
+de energia fabrica 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+2.182,69
+ pagamentos de 
+fornecedores 
+
+
+
+
+
+gcweb - marbelle
+28471 - relatorio de pagamentos por período
+período: data pagamento data inicial: 01/08/2025 data final: 31/08/2025 estabelecimento: todos caixa/banco: todos grupo de fornecedores: todos fornecedor: todos classificação financeira:
+todos centro de custo: todos transferência: sem transferencias database do cheque: data compensação
+11/09/2025 16:49
+contabilidade
+vr:1.0.0
+ marbelle
+estab
+tipo doc
+ fornecedor
+documento
+parc
+compet
+dt.emissão
+dt.entrada
+dt.vencto
+ class.financeira
+ c.custo
+ caixa/banco
+valor pago
+ histórico/observa
+001
+avulso
+ 00149 - c r industria de 
+embalagens ltda - epp (ce) 
+0021206/999
+1
+08/2025
+24/06/2025
+24/06/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+1.200,00
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00149 - c r industria de 
+embalagens ltda - epp (ce) 
+0021255/999
+1
+08/2025
+26/06/2025
+26/06/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+16.850,40
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00162 - delfa industria e 
+comercio de acessorios 
+do vestua (ce) 
+0006758/999
+1
+08/2025
+25/06/2025
+25/06/2025
+25/08/2025
+ 101.033 - bojos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+3.691,40
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00162 - delfa industria e 
+comercio de acessorios 
+do vestua (ce) 
+0035528/999
+1
+08/2025
+24/04/2025
+24/04/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+8.053,08
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00162 - delfa industria e 
+comercio de acessorios 
+do vestua (ce) 
+0035556/999
+1
+08/2025
+25/04/2025
+25/04/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+4.232,83
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00178 - dae (ce) 
+0021715/999
+1
+08/2025
+21/08/2025
+21/08/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+34.424,09
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00190 - tba magalhaes me 
+(ce) 
+0025910/999
+1
+08/2025
+26/05/2025
+26/05/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+3.175,14
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00190 - tba magalhaes me 
+(ce) 
+0026180/999
+1
+08/2025
+11/07/2025
+11/07/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+2.321,92
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00243 - malharia princesa 
+s.a. (ce) 
+0015836/999
+1
+08/2025
+09/06/2025
+09/06/2025
+25/08/2025
+ 101.031 - tecidos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+497,07
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00243 - malharia princesa 
+s.a. (ce) 
+0015874/999
+1
+08/2025
+25/06/2025
+25/06/2025
+25/08/2025
+ 101.031 - tecidos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+1.466,77
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00243 - malharia princesa 
+s.a. (ce) 
+0015882/999
+1
+08/2025
+26/06/2025
+26/06/2025
+25/08/2025
+ 101.031 - tecidos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+48.004,05
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00348 - sografica - sobral 
+grafica ltda (ce) 
+0015657/999
+1
+08/2025
+25/06/2025
+25/06/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+8.360,00
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032525/999
+1
+08/2025
+30/05/2025
+30/05/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+950,84
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+0032530/999
+1
+08/2025
+30/05/2025
+30/05/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+3.351,75
+ pagamentos de 
+fornecedores 
+gcweb - marbelle
+28471 - relatorio de pagamentos por período
+período: data pagamento data inicial: 01/08/2025 data final: 31/08/2025 estabelecimento: todos caixa/banco: todos grupo de fornecedores: todos fornecedor: todos classificação financeira:
+todos centro de custo: todos transferência: sem transferencias database do cheque: data compensação
+11/09/2025 16:49
+contabilidade
+vr:1.0.0
+ marbelle
+estab
+tipo doc
+ fornecedor
+documento
+parc
+compet
+dt.emissão
+dt.entrada
+dt.vencto
+ class.financeira
+ c.custo
+ caixa/banco
+valor pago
+ histórico/observa
+(ce) 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032535/999
+1
+08/2025
+30/05/2025
+30/05/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+149,40
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032550/999
+1
+08/2025
+11/06/2025
+11/06/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+1.178,31
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032555/999
+1
+08/2025
+11/06/2025
+11/06/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+280,57
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032566/999
+1
+08/2025
+18/06/2025
+18/06/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+116,80
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032571/999
+1
+08/2025
+18/06/2025
+18/06/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+586,34
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032576/999
+1
+08/2025
+18/06/2025
+18/06/2025
+25/08/2025
+ 101.032 - aviamentos 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+147,39
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032622/999
+1
+08/2025
+04/07/2025
+04/07/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+82,20
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00391 - fitas elasticas 
+estrela do nordeste ltda 
+(ce) 
+0032637/999
+1
+08/2025
+10/07/2025
+10/07/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+2.206,33
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00558 - mercado pago.com 
+representacoes ltda (ce) 
+0020394/999
+1
+08/2025
+22/08/2025
+22/08/2025
+25/08/2025
+ 101.018 - material de 
+manutenção 
+maquinas 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+314,57
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00610 - zanotti s.a. (ce) 
+0034294/999
+1
+08/2025
+10/07/2025
+10/07/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+1.995,00
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00643 - lance comunicação 
+ltda (ce) 
+0027381/999
+1
+08/2025
+05/08/2025
+05/08/2025
+25/08/2025
+ 101.001 - 
+pagamentos a 
+fornecedores 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+950,00
+ pagamentos de 
+fornecedores 
+001
+avulso
+ 00674 - pis cumulativo 
+mensal (ce) 
+0017124/999
+1
+08/2025
+17/01/2025
+17/01/2025
+25/08/2025
+ 109.008 - pis 
+ 01-estabelecimento 
+ 008-banco do brasil 
+(10834-0) 
+13.920,78
+ pagamentos de 
+fornecedores 
+gcweb - marbelle
+28471 - relatorio de pagamentos por período
+período: data pagamento data inicial: 01/08/2025 data final: 31/08/2025 estabelecimento: todos caixa/banco: todos grupo de fornecedores: todos fornecedor: todos classificação financeira:
+todos centro de custo: todos transferência: sem transferencias database do cheque: data compensação
+11/09/2025 16:49
+contabilidade
+vr:1.0.0
+ marbelle

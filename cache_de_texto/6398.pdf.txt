@@ -1,0 +1,814 @@
+visualizar relatório de transações de cliente pix
+não informado
+01/01/2025 - 31/01/2025
+identificador:
+período:
+2025-08-22 11:23:20
+operação
+agência/conta
+origem
+cpf/cnpj
+pagador
+cpf/cnpj
+recebedor
+nome
+recebedor
+agência/conta
+destino
+chave pix
+pagador
+chave pix
+recebedor
+id
+transação
+id
+devolução
+descrição
+mensagem
+tipo iniciação
+de pagamento
+data
+hora
+banco
+origem
+banco
+destino
+valor
+transação
+descrição
+rejeição
+nome
+pagador
+motivo
+rejeição
+origem
+devolução
+status
+transação
+recebimen
+to
+e607011902
+0250131181
+7dy5hdhsl
+ts2
+itau
+unibanco
+sa
+saude
+alegria e
+sustentabi
+lida
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 8.333,88
+264/23412
+31/01/2025
+15:17:28
+1619/391707
+221059940001
+43
+11687691000
+160
+chave pix
+acatada
+pelo
+bacen
+recebimen
+to
+e607011902
+0250131181
+7dy5vfxut
+frp
+itau
+unibanco
+sa
+saude
+alegria e
+sustentabi
+lida
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 2.402,56
+264/23412
+31/01/2025
+15:17:15
+1619/391707
+221059940001
+43
+11687691000
+160
+chave pix
+acatada
+pelo
+bacen
+recebimen
+to
+e000000002
+0250131172
+2391812498
+96
+bco do
+brasil sa
+francisco
+fontenele
+filho
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 70,00
+264/23412
+31/01/2025
+14:22:52
+2917/1142020
+33418402810
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e607011902
+0250131155
+1dy5n355o
+k2e
+itau
+unibanco
+sa
+unimed do
+ceara - fed
+das soc
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 2.300,19
+264/23412
+31/01/2025
+12:51:28
+8789/16527
+103953580001
+14
+pix manual
+acatada
+pelo
+bacen
+recebimen
+to
+e000000002
+0250131124
+1328219353
+08
+bco do
+brasil sa
+francisco
+fontenele
+filho
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 274,00
+264/23412
+31/01/2025
+09:42:13
+2917/1142020
+33418402810
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+página:1
+ banco do
+nordeste
+
+vá
+
+operação
+agência/conta
+origem
+cpf/cnpj
+pagador
+cpf/cnpj
+recebedor
+nome
+recebedor
+agência/conta
+destino
+chave pix
+pagador
+chave pix
+recebedor
+id
+transação
+id
+devolução
+descrição
+mensagem
+tipo iniciação
+de pagamento
+data
+hora
+banco
+origem
+banco
+destino
+valor
+transação
+descrição
+rejeição
+nome
+pagador
+motivo
+rejeição
+origem
+devolução
+status
+transação
+recebimen
+to
+e182361202
+0250131110
+4s128f614e5
+1
+nu
+pagamento
+s - ip
+camila
+oliveira da
+cunha souza
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 20,00
+264/23412
+31/01/2025
+08:04:19
+1/623001922
+60524289379
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e904008882
+0250131104
+4337537876
+67
+bco
+santander
+brasil sa
+maria
+meiriene
+alves
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 67,00
+264/23412
+31/01/2025
+07:44:18
+2477/10063958
+04505872319
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e182361202
+0250131104
+1s12b632f18
+4
+nu
+pagamento
+s - ip
+maria elenita
+dos santos
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 181,00
+264/23412
+31/01/2025
+07:42:23
+1/250328718
+97821721387
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e000000002
+0250131103
+7186137905
+04
+bco do
+brasil sa
+maria
+aparecida
+santos
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 253,00
+264/23412
+31/01/2025
+07:37:42
+1469/62090
+22252983434
+11687691000
+160
+chave pix
+acatada
+pelo
+bacen
+recebimen
+to
+e182361202
+0250131102
+1s10e6db70
+3c
+nu
+pagamento
+s - ip
+francisca
+iranilda da
+costa
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 195,00
+264/23412
+31/01/2025
+07:21:50
+1/555644321
+00299827313
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e182361202
+0250131100
+6s18cd08e4
+3f
+nu
+pagamento
+s - ip
+maria aldenir
+gomes
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 150,00
+264/23412
+31/01/2025
+07:06:57
+1/513275692
+83613137372
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e000000002
+0250131095
+2387808962
+42
+bco do
+brasil sa
+sara
+raquel
+silva
+queiroz
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 166,00
+264/23412
+31/01/2025
+06:53:00
+3881/222801
+07206948332
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e171924512
+0250131094
+8dy5txn7l
+a21
+bco
+itaucard sa
+elizangela
+celestino
+bezerra
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 80,00
+264/23412
+31/01/2025
+06:48:37
+500/84180678
+90650646304
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+página:2
+operação
+agência/conta
+origem
+cpf/cnpj
+pagador
+cpf/cnpj
+recebedor
+nome
+recebedor
+agência/conta
+destino
+chave pix
+pagador
+chave pix
+recebedor
+id
+transação
+id
+devolução
+descrição
+mensagem
+tipo iniciação
+de pagamento
+data
+hora
+banco
+origem
+banco
+destino
+valor
+transação
+descrição
+rejeição
+nome
+pagador
+motivo
+rejeição
+origem
+devolução
+status
+transação
+recebimen
+to
+e607011902
+0250130143
+8dy57np7t
+ru2
+itau
+unibanco
+sa
+saude
+alegria e
+sustentabi
+lida
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 5.180,52
+264/23412
+30/01/2025
+11:38:12
+1619/391707
+221059940001
+43
+11687691000
+160
+chave pix
+acatada
+pelo
+bacen
+recebimen
+to
+e182361202
+0250130142
+3s1894178b
+cc
+nu
+pagamento
+s - ip
+suyane sousa
+de oliveira
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 10,00
+264/23412
+30/01/2025
+11:24:07
+1/170071483
+11051941326
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e182361202
+0250130141
+3s0675356d
+71
+nu
+pagamento
+s - ip
+jamiris falcão
+alves
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 24,00
+264/23412
+30/01/2025
+11:13:20
+1/775463120
+07525894310
+11687691000
+160
+chave pix
+acatada
+pelo
+bacen
+recebimen
+to
+e003603052
+0250130102
+8f1cc1dafcce
+caixa
+economica
+federal
+maria
+gesivane
+siqueira
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 52,00
+264/23412
+30/01/2025
+07:29:05
+1955/788353455
+7
+04708748302
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+pagamento
+e072373732
+0250129203
+5nlde2g5m
+hsy
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+60913038300
+nu
+pagamento
+s - ip
+thalia
+nascimento
+beserra
+r$ 300,00
+1/745213476
+29/01/2025
+17:36:03
+264/23412
+116876910001
+60
+60913038300
+chave pix
+acatada
+pelo
+bacen
+recebimen
+to
+e608891282
+0250129153
+6unukj69xt
+df
+bco sofisa
+sa
+lidonildo
+costa
+pereira
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 287,00
+264/23412
+29/01/2025
+12:37:20
+1/3403442
+04182028341
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+recebimen
+to
+e182361202
+0250128191
+1s196ac21f2
+a
+nu
+pagamento
+s - ip
+lucivane
+abreu falcão
+alves
+116876910001
+60
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+r$ 40,00
+264/23412
+28/01/2025
+16:12:19
+1/161629705
+74627180306
+11687691000
+160
+qr code
+estático
+acatada
+pelo
+bacen
+pagamento
+e072373732
+0250128190
+7qxiyzwyb
+mik
+bco do
+nordeste
+do brasil
+sa
+a b
+pacheco
+322358330001
+28
+banco inter
+yada
+comercio e
+ser
+r$ 2.000,00
+1/336946309
+28/01/2025
+16:08:08
+264/23412
+116876910001
+60
+32235833000
+128
+chave pix
+acatada
+pelo
+bacen
+página:3

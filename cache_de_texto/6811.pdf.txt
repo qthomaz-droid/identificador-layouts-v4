@@ -1,0 +1,998 @@
+contas a pagar
+06/01/2026
+1
+pag.
+ filtro:  doc = bl e de = 01/11/2025 e até: = 06/01/2026 e campo: = vencimento e  status pago
+tot. em atraso : 9.185.722,33
+ 
+acréscimo
+fornecedor
+dt.pag.
+dt.vecto.
+vr. pag.
+valor
+doc.
+03/11/2025
+caixa
+unid.
+vr. a pag.
+dt. emi.
+desc. ou
+03/11/2025
+02/11/2025
+350,00
+350,00
+bl 62833
+0,00
+167
+350,00
+loctrad loc e com e const ltd
+07/10/2025
+00003
+hist.:locação de betoneira, limpeza e manutenção
+03/11/2025
+02/11/2025
+880,00
+880,00
+bl 62834
+0,00
+108
+880,00
+loctrad loc e com e const ltd
+07/10/2025
+00003
+hist.:locação de betoneira, limpeza e manutenção
+03/11/2025
+03/11/2025
+520,00
+520,00
+bl 62896
+0,00
+108
+520,00
+loctrad loc e com e const ltd
+13/10/2025
+00003
+hist.:locação travas, piso metalico e andaime tubular
+03/11/2025
+03/11/2025
+921,66
+921,66
+bl 510
+0,00
+079
+921,66
+fl distribuidora de auto peça
+01/09/2025
+00003
+hist.:maquinas tva, oleo 15w40 20lt
+03/11/2025
+03/11/2025
+4.698,00
+4.698,00
+bl 1185
+0,00
+129
+4.698,00
+concrecon concreto e constr
+14/10/2025
+00003
+hist.:concretagem, 3103
+03/11/2025
+03/11/2025
+9.396,00
+9.396,00
+bl 1205
+0,00
+129
+9.396,00
+concrecon concreto e constr
+15/10/2025
+00003
+hist.:concretagem, 3174 e 3175
+03/11/2025
+01/11/2025
+2.145,70
+2.145,70
+bl 640824343
+0,00
+025
+2.145,70
+bsb rastreadores wm brasil t
+03/11/2025
+00003
+hist.:mensalidade, rastreamento e monitoramento de 43 
+veiculos
+03/11/2025
+03/11/2025
+263,40
+263,40
+bl 1021002
+0,00
+079
+263,40
+itatiaia comércio mat. constr
+03/09/2025
+00003
+hist.:desempenadeira, tinta eco, plug macho, botina
+03/11/2025
+03/11/2025
+177,31
+177,31
+bl 1021001
+0,00
+166
+177,31
+itatiaia comércio mat. constr
+03/09/2025
+00003
+hist.:luvas e botinas
+03/11/2025
+03/11/2025
+810,00
+810,00
+bl 3455
+0,00
+079
+810,00
+tec molas comércio de peças e
+29/09/2025
+00003
+hist.:manutenção cb - 37, polo jk, serviço feixe de molas
+03/11/2025
+02/11/2025
+3.385,95
+3.385,95
+bl 2842136
+0,00
+108
+3.385,95
+objetiva
+07/10/2025
+00003
+hist.:cabo rede cat6
+03/11/2025
+01/11/2025
+650,00
+650,00
+bl 108631
+0,00
+045
+650,00
+central comercio e represent
+07/10/2025
+00003
+hist.:ração special dog gold, bionew, vac elevencell e 
+zuppy
+03/11/2025
+01/11/2025
+675,00
+675,00
+bl 108632
+0,00
+045
+675,00
+central comercio e represent
+07/10/2025
+00003
+hist.:conector, haste cobreada, cabo subterraneo, 
+eletrificador de cerca
+03/11/2025
+03/11/2025
+490,00
+490,00
+bl 30482
+0,00
+108
+490,00
+salvalack madermack comer
+08/10/2025
+00003
+hist.:thinner
+03/11/2025
+02/11/2025
+220,15
+220,15
+bl 6135
+0,00
+108
+220,15
+sks aco pronto industria e co
+14/10/2025
+00003
+hist.:treliça soldada
+03/11/2025
+03/11/2025
+4.698,00
+4.698,00
+bl 11929
+0,00
+129
+4.698,00
+concrecon concreto e constr
+15/10/2025
+00003
+hist.:concretagem, 184935
+03/11/2025
+03/11/2025
+10.008,57
+10.960,62
+bl 4112300122
+952,05
+025
+10.960,62
+secretaria de estado de econ
+03/11/2025
+00003
+hist.:parcelamento iss
+03/11/2025
+03/11/2025
+9.986,39
+10.462,41
+bl 4112300122
+476,02
+025
+10.462,41
+secretaria de estado de econ
+03/11/2025
+00003
+hist.:parcelamento iss
+total parcial
+50.276,13
+51.704,20
+1.428,07
+51.704,20
+acréscimo
+fornecedor
+dt.pag.
+dt.vecto.
+vr. pag.
+valor
+doc.
+04/11/2025
+caixa
+unid.
+vr. a pag.
+dt. emi.
+desc. ou
+04/11/2025
+04/11/2025
+1.780,00
+1.780,00
+bl 4737
+0,00
+095
+1.780,00
+brasmaq serviços e manutenç
+23/09/2025
+00003
+hist.:locação de balancim elétrico plataforma de 1 a 
+6m
+04/11/2025
+04/11/2025
+9.396,00
+9.396,00
+bl 1219
+0,00
+129
+9.396,00
+concrecon concreto e constr
+16/10/2025
+00003
+hist.:concretagem, 3211, 3213
+04/11/2025
+04/11/2025
+554,10
+554,10
+bl 49781
+0,00
+079
+554,10
+sotreq s
+27/08/2025
+00003
+hist.:tanque
+04/11/2025
+04/11/2025
+592,62
+592,62
+bl 1021556
+0,00
+095
+592,62
+itatiaia comércio mat. constr
+08/09/2025
+00003
+hist.:cabos
+04/11/2025
+04/11/2025
+520,79
+520,79
+bl 1032328
+0,00
+095
+520,79
+itatiaia comércio mat. constr
+09/09/2025
+00003
+hist.:cabos, luvas, joelhos e fitas
+04/11/2025
+04/11/2025
+189,59
+189,59
+bl 1043409
+0,00
+045
+189,59
+itatiaia comércio mat. constr
+07/10/2025
+00003
+hist.:protetor e botinas
+contas a pagar
+06/01/2026
+2
+pag.
+ filtro:  doc = bl e de = 01/11/2025 e até: = 06/01/2026 e campo: = vencimento e  status pago
+acréscimo
+fornecedor
+dt.pag.
+dt.vecto.
+vr. pag.
+valor
+doc.
+04/11/2025
+caixa
+unid.
+vr. a pag.
+dt. emi.
+desc. ou
+04/11/2025
+04/11/2025
+26.425,36
+26.425,36
+bl 1043437
+0,00
+045
+26.425,36
+itatiaia comércio mat. constr
+07/10/2025
+00003
+hist.:cabos e dutos
+04/11/2025
+04/11/2025
+134.842,76
+134.842,76
+bl 26551
+0,00
+129
+134.842,76
+awa distribuidora de mercad
+09/10/2025
+00003
+hist.:cordoalha cp190 rb 12,7mm
+04/11/2025
+04/11/2025
+2.234,51
+2.242,34
+bl 811628
+7,83
+159
+2.242,34
+sinobras siderurgica norte b
+16/10/2025
+00003
+hist.:vergalhão ca50 16,00
+04/11/2025
+04/11/2025
+4.698,00
+4.698,00
+bl 12780
+0,00
+129
+4.698,00
+concrecon concreto e constr
+16/10/2025
+00003
+hist.:concretagem, 83116
+04/11/2025
+04/11/2025
+192,00
+192,00
+bl 235
+0,00
+095
+192,00
+plantae shop promocao de ve
+03/11/2025
+00003
+hist.:pratos para vasos 49x60
+total parcial
+181.425,73
+181.433,56
+7,83
+181.433,56
+acréscimo
+fornecedor
+dt.pag.
+dt.vecto.
+vr. pag.
+valor
+doc.
+05/11/2025
+caixa
+unid.
+vr. a pag.
+dt. emi.
+desc. ou
+05/11/2025
+05/11/2025
+997,50
+997,50
+bl 13551
+0,00
+079
+997,50
+rotta comercio de rolamento
+07/10/2025
+00003
+hist.:manutenção: 15w40 deitonci-4 20l, 7un
+05/11/2025
+05/11/2025
+9.368,00
+9.368,00
+bl 0919
+0,00
+008
+9.368,00
+associação escola americana
+23/12/2024
+00003
+hist.:mensalidade escola americana
+05/11/2025
+05/11/2025
+14.280,00
+14.280,00
+bl 11955
+0,00
+129
+14.280,00
+concrecon concreto e constr
+20/10/2025
+00003
+hist.:concretagem, 185023, 185028
+05/11/2025
+05/11/2025
+619,16
+619,16
+bl 49789
+0,00
+079
+619,16
+sotreq s
+27/08/2025
+00003
+hist.:tampa
+05/11/2025
+05/11/2025
+680,33
+680,33
+bl 395130
+0,00
+108
+680,33
+condor atacadista de materi
+01/09/2025
+00003
+hist.:fita isol, lona amarela, fita crepe e prego
+05/11/2025
+05/11/2025
+259,33
+259,33
+bl 427918
+0,00
+045
+259,33
+condor atacadista de materi
+08/10/2025
+00003
+hist.:trincha, rolo, automativo, caixa de inspecao
+05/11/2025
+05/11/2025
+129,29
+129,29
+bl 427912
+0,00
+129
+129,29
+condor atacadista de materi
+08/10/2025
+00003
+hist.:mang nivel crist
+05/11/2025
+05/11/2025
+145,94
+145,94
+bl 44585
+0,00
+129
+145,94
+casa dos parafusos ferragen
+14/10/2025
+00003
+hist.:bucha, pa aut atarr e buchas
+05/11/2025
+05/11/2025
+1.000,00
+1.000,00
+bl 2546
+0,00
+166
+1.000,00
+comercial mais vidros
+21/10/2025
+00003
+hist.:espelho cristal prata de 4mm lapidado colado 
+medindo 1580x800
+05/11/2025
+05/11/2025
+112,00
+112,00
+bl 7114
+0,00
+045
+112,00
+jw comercio de ferramentas
+21/10/2025
+00003
+hist.:oleo p/ motor 4t 1000ml 10w30sl
+05/11/2025
+05/11/2025
+1.110,00
+1.110,00
+bl 978
+0,00
+129
+1.110,00
+triangulo atacadista de mad
+23/10/2025
+00003
+hist.:madeira nativa serrada 10cm
+total parcial
+28.701,55
+28.701,55
+0,00
+28.701,55
+acréscimo
+fornecedor
+dt.pag.
+dt.vecto.
+vr. pag.
+valor
+doc.
+06/11/2025
+caixa
+unid.
+vr. a pag.
+dt. emi.
+desc. ou
+06/11/2025
+06/11/2025
+1.548,00
+1.548,00
+bl 40390
+0,00
+167
+1.548,00
+otima locadora de equipamen
+09/10/2025
+00003
+hist.:locação de perfuratriz e complementos
+06/11/2025
+06/11/2025
+104,05
+104,05
+bl 05112504
+0,00
+025
+104,05
+crea df
+05/11/2025
+00003
+hist.:limpeza e manutenção de lagos; ct 109/203; 3ª 
+vigencia; novacap
+06/11/2025
+06/11/2025
+194,00
+194,00
+bl 1022576
+0,00
+166
+194,00
+itatiaia comércio mat. constr
+08/09/2025
+00003
+hist.:tinta econova, tinta piso, massa corrida e imperm 
+tecplus
+06/11/2025
+06/11/2025
+1.253,71
+1.253,71
+bl 412041
+0,00
+129
+1.253,71
+condor atacadista de materi
+11/09/2025
+00003
+hist.:tela hex, cartucho, pino com arruela
+06/11/2025
+06/11/2025
+165,07
+165,07
+bl 1033563
+0,00
+129
+165,07
+itatiaia comércio mat. constr
+11/09/2025
+00003
+hist.:tampao, cx premoldada, pino c/ arruela e 
+fincapino
+06/11/2025
+06/11/2025
+126,92
+126,92
+bl 4494865
+0,00
+008
+126,92
+caesb companhia de saneamen
+25/09/2025
+00003
+hist.:consumo de agua - scia qd 13
+06/11/2025
+06/11/2025
+525,86
+525,86
+bl 1044565
+0,00
+159
+525,86
+itatiaia comércio mat. constr
+09/10/2025
+00003
+hist.:lona preta 8x100 80 kg
+contas a pagar
+06/01/2026
+3
+pag.
+ filtro:  doc = bl e de = 01/11/2025 e até: = 06/01/2026 e campo: = vencimento e  status pago
+acréscimo
+fornecedor
+dt.pag.
+dt.vecto.
+vr. pag.
+valor
+doc.
+06/11/2025
+caixa
+unid.
+vr. a pag.
+dt. emi.
+desc. ou
+06/11/2025
+06/11/2025
+300,00
+300,00
+bl 428595
+0,00
+045
+300,00
+condor atacadista de materi
+09/10/2025
+00003
+hist.:zarcao 18l verde
+06/11/2025
+06/11/2025
+448,40
+448,40
+bl 2845429
+0,00
+108
+448,40
+objetiva
+14/10/2025
+00003
+hist.:mod tomada 2p+t
+06/11/2025
+06/11/2025
+230,10
+230,10
+bl 14490
+0,00
+108
+230,10
+papelaria e informatica opça
+14/10/2025
+00003
+hist.:cartucho, envelope, arquivo morto e elastico
+total parcial
+4.896,11
+4.896,11
+0,00
+4.896,11
+acréscimo
+fornecedor
+dt.pag.
+dt.vecto.
+vr. pag.
+valor
+doc.
+10/11/2025
+caixa
+unid.
+vr. a pag.
+dt. emi.
+desc. ou
+10/11/2025
+10/11/2025
+1.050,00
+1.050,00
+bl 63001
+0,00
+079
+1.050,00
+loctrad loc e com e const ltd
+13/10/2025
+00003
+hist.:cortadora de piso bfg 500 rental
+10/11/2025
+10/11/2025
+900,00
+900,00
+bl 63002
+0,00
+167
+900,00
+loctrad loc e com e const ltd
+13/10/2025
+00003
+hist.:punho, marteletes, ponteira e talhadeira
+10/11/2025
+10/11/2025
+300,00
+300,00
+bl 63019
+0,00
+079
+300,00
+loctrad loc e com e const ltd
+13/10/2025
+00003
+hist.:betoneira 400l e limpeza e manutenção de 
+betoneira
+10/11/2025
+10/11/2025
+6.180,00
+6.180,00
+bl 12824
+0,00
+129
+6.180,00
+concrecon concreto e constr
+21/10/2025
+00003
+hist.:concretagem, 83212
+10/11/2025
+10/11/2025
+13.154,40
+13.154,40
+bl 1249
+0,00
+129
+13.154,40
+concrecon concreto e constr
+21/10/2025
+00003
+hist.:concretagem, 3293, 3298 e 3304
+10/11/2025
+10/11/2025
+38.070,00
+38.070,00
+bl 11990
+0,00
+129
+38.070,00
+concrecon concreto e constr
+21/10/2025
+00003
+hist.:concretagem, 185065, 185068, 185087, 185119, 185124, 
+185141, 185143, 185151 e 185152
+10/11/2025
+10/11/2025
+18.240,00
+18.240,00
+bl 12024
+0,00
+129
+18.240,00
+concrecon concreto e constr
+23/10/2025
+00003
+hist.:concretagem, 185225, 185242, 185252 e 185266
+10/11/2025
+10/11/2025
+4.698,00
+4.698,00
+bl 12859
+0,00
+167
+4.698,00
+concrecon concreto e constr
+23/10/2025
+00003
+hist.:concretagem, 83341
+10/11/2025
+08/11/2025
+95,36
+95,36
+bl 2954233
+0,00
+150
+95,36
+neoenergia
+07/10/2025
+00003
+hist.:consumo de energia - qi 09, casa do thiago
+10/11/2025
+10/11/2025
+97,15
+97,15
+bl 07112504
+0,00
+025
+97,15
+cartório 1 oficio de notas, re
+07/11/2025
+00003
+hist.:taxa de cancelamento protesto - neoenergia 
+03/10/24
+10/11/2025
+10/11/2025
+3.870,05
+3.870,05
+bl
+0,00
+008
+3.870,05
+condomínio edifício san paolo
+29/11/2024
+00003
+hist.:taxa condominial ed. san paolo
+10/11/2025
+08/11/2025
+3.452,65
+3.452,65
+bl 380136
+0,00
+045
+3.452,65
+gravia industria de perfilado
+29/09/2025
+00003
+hist.:perfil, tubo, ferro e barra rosqueada
+10/11/2025
+10/11/2025
+940,00
+940,00
+bl 228
+0,00
+159
+940,00
+baterias riacho - comercio de
+09/10/2025
+00003
+hist.:100 me bateria
+10/11/2025
+09/11/2025
+780,00
+780,00
+bl 31833
+0,00
+108
+780,00
+unitintas comércio de tintas
+10/10/2025
+00003
+hist.:toq fos select
+10/11/2025
+10/11/2025
+127,08
+127,08
+bl 1045838
+0,00
+108
+127,08
+itatiaia comércio mat. constr
+13/10/2025
+00003
+hist.:papelão ondulado bobinas
+10/11/2025
+08/11/2025
+1.554,48
+1.554,48
+bl 17138
+0,00
+115
+1.554,48
+premoldado brasil premolda
+13/10/2025
+00003
+hist.:tijolo macico p/sinalizaçao detran 40x16x08cm
+10/11/2025
+10/11/2025
+750,00
+750,00
+bl 606
+0,00
+129
+750,00
+g b madeiras ltda
+14/10/2025
+00003
+hist.:espacador fu 40
+10/11/2025
+09/11/2025
+1.091,21
+1.091,21
+bl 775383
+0,00
+045
+1.091,21
+brasilux tintas técnicas
+15/10/2025
+00003
+hist.:laca nitro, catalisador, pu aromatico, 
+catalisador
+10/11/2025
+10/11/2025
+10.200,00
+10.200,00
+bl 606
+0,00
+129
+10.200,00
+trace engenharia e projetos l
+05/11/2025
+00003
+hist.:controle tecnologico do concreto
+total parcial
+105.550,38
+105.550,38
+0,00
+105.550,38
+acréscimo
+fornecedor
+dt.pag.
+dt.vecto.
+vr. pag.
+valor
+doc.
+11/11/2025
+caixa
+unid.
+vr. a pag.
+dt. emi.
+desc. ou
+11/11/2025
+11/11/2025
+680,00
+680,00
+bl 4839
+0,00
+095
+680,00
+brasmaq serviços e manutenç
+21/10/2025
+00003
+hist.:locação de balacim eletrico

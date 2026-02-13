@@ -1,0 +1,607 @@
+par - detalhamento de remessa
+data de emissão:
+27/10/2022
+hora de emissão:
+11:39:38
+4346 - sicoob credileste
+plataforma de serviços financeiros do sicoob - sisbr
+ detalhamento da remessa
+ associado(cpf/cnpj):
+32.487.223/0001-11 - atacadao araujo eireli
+conta corrente:
+10.090-0
+ nº da remessa:
+5772718.4346-2022
+data da solicitação: 11/02/2022
+situação:
+liberada
+qtde
+valor disponível
+valor juros
+valor líquido
+valor tarifa
+ lote
+valor iof
+valor tac
+ resumo da remessa
+42
+ boleto
+r$ 45.032,56
+r$ 46.249,94
+r$ 981,15
+r$ 236,23
+r$ 0,00
+r$ 0,00
+ total da remessa
+42
+r$ 46.249,94
+r$ 981,15
+r$ 45.032,56
+r$ 0,00
+r$ 236,23
+r$ 0,00
+responsável: samuelm4346_00
+origem:
+balcão
+a
+ boleto
+ 1,8400 %
+r$ 981,15
+r$ 236,23
+r$ 45.032,56
+ 2,3409 %
+ 32,5148 %
+ tx juros
+ tipo
+vlr juros
+vlr iof
+vlr líquido
+cet mês
+cet ano
+ 9,8400 %
+ tx juros inad
+ 8,0000 %
+ tx mora
+risco
+valor nominal
+% seg.
+vencimento
+valor disponível
+valor juros
+lista de recebíveis
+valor liquido
+pagador / adquirente
+documento
+valor iof
+status
+r$ 828,14
+22/03/2022
+81643
+0,00 %
+r$ 4,36
+r$ 828,14
+r$ 19,80
+r$ 803,98
+37.743.526/0001-71 andrade material de construcao ltda
+pré-aprovado
+r$ 828,14
+15/03/2022
+81636
+0,00 %
+r$ 4,16
+r$ 828,14
+r$ 16,25
+r$ 807,73
+37.743.526/0001-71 andrade material de construcao ltda
+pré-aprovado
+r$ 1.673,24
+22/03/2022
+81611
+0,00 %
+r$ 8,82
+r$ 1.673,24
+r$ 40,02
+r$ 1.624,40
+32.938.145/0001-24 arino rodrigues alves 02745181637
+pré-aprovado
+r$ 1.673,24
+15/03/2022
+81604
+0,00 %
+r$ 8,38
+r$ 1.673,24
+r$ 32,83
+r$ 1.632,03
+32.938.145/0001-24 arino rodrigues alves 02745181637
+pré-aprovado
+r$ 736,98
+25/03/2022
+81589
+0,00 %
+r$ 3,97
+r$ 736,98
+r$ 18,98
+r$ 714,03
+36.263.191/0001-21 jose carlos r. da silva terraplanagem
+pré-aprovado
+r$ 736,98
+15/03/2022
+81571
+0,00 %
+r$ 3,70
+r$ 736,98
+r$ 14,46
+r$ 718,82
+36.263.191/0001-21 jose carlos r. da silva terraplanagem
+pré-aprovado
+r$ 2.323,03
+23/03/2022
+81288
+0,00 %
+r$ 12,33
+r$ 2.323,03
+r$ 56,98
+r$ 2.253,72
+11.086.925/0001-13 antonio elias de campos filho (deposito
+pré-aprovado
+r$ 1.225,96
+25/03/2022
+81231
+0,00 %
+r$ 6,60
+r$ 1.225,96
+r$ 31,57
+r$ 1.187,79
+05.576.648/0001-24 adelmo pereira da silva
+pré-aprovado
+r$ 1.225,96
+15/03/2022
+81224
+0,00 %
+r$ 6,15
+r$ 1.225,96
+r$ 24,06
+r$ 1.195,75
+05.576.648/0001-24 adelmo pereira da silva
+pré-aprovado
+r$ 912,00
+22/03/2022
+81145
+0,00 %
+r$ 4,80
+r$ 912,00
+r$ 21,81
+r$ 885,39
+05.394.801/0001-00 marcelo fernandes apolonio
+pré-aprovado
+r$ 517,15
+22/03/2022
+81106
+0,00 %
+r$ 2,73
+r$ 517,15
+r$ 12,36
+r$ 502,06
+38.117.674/0001-43 ana paula rodrigues avelino ferreira 013
+pré-aprovado
+r$ 1.171,50
+21/03/2022
+81080
+0,00 %
+r$ 6,13
+r$ 1.171,50
+r$ 27,30
+r$ 1.138,07
+11.262.910/0001-69 rogerio rosa teixeira
+pré-aprovado
+r$ 1.171,50
+14/03/2022
+81073
+0,00 %
+r$ 5,83
+r$ 1.171,50
+r$ 22,27
+r$ 1.143,40
+11.262.910/0001-69 rogerio rosa teixeira
+pré-aprovado
+r$ 512,25
+14/03/2022
+81059
+0,00 %
+r$ 2,55
+r$ 512,25
+r$ 9,73
+r$ 499,97
+09.638.726/0001-29 oliveira & oliveira junior ltda
+pré-aprovado
+r$ 2.073,37
+30/03/2022
+81034
+0,00 %
+r$ 11,53
+r$ 2.073,37
+r$ 59,76
+r$ 2.002,08
+10.940.342/0001-45 pereira material de construcao de vargem
+pré-aprovado
+r$ 2.073,37
+16/03/2022
+81027
+0,00 %
+r$ 10,47
+r$ 2.073,37
+r$ 41,96
+r$ 2.020,94
+10.940.342/0001-45 pereira material de construcao de vargem
+pré-aprovado
+atacadao araujo eireli
+par - 0001
+johnysr4346_00
+3
+ sicoob
+ detalhamento da remessa
+ associado(cpf/cnpj):
+32.487.223/0001-11 - atacadao araujo eireli
+conta corrente:
+10.090-0
+ nº da remessa:
+5772718.4346-2022
+data da solicitação: 11/02/2022
+situação:
+liberada
+qtde
+valor disponível
+valor juros
+valor líquido
+valor tarifa
+ lote
+valor iof
+valor tac
+ resumo da remessa
+42
+ boleto
+r$ 45.032,56
+r$ 46.249,94
+r$ 981,15
+r$ 236,23
+r$ 0,00
+r$ 0,00
+ total da remessa
+42
+r$ 46.249,94
+r$ 981,15
+r$ 45.032,56
+r$ 0,00
+r$ 236,23
+r$ 0,00
+responsável: samuelm4346_00
+origem:
+balcão
+valor nominal
+% seg.
+vencimento
+valor disponível
+valor juros
+lista de recebíveis
+valor liquido
+pagador / adquirente
+documento
+valor iof
+status
+r$ 1.360,00
+14/03/2022
+80999
+0,00 %
+r$ 6,77
+r$ 1.360,00
+r$ 25,85
+r$ 1.327,38
+09.523.342/0001-60 cleiton marcos de andrade (construshop f
+pré-aprovado
+r$ 663,33
+14/03/2022
+80935
+0,00 %
+r$ 3,30
+r$ 663,33
+r$ 12,61
+r$ 647,42
+36.347.493/0001-88 rodrigo lourenco lima 08401294673
+pré-aprovado
+r$ 1.369,39
+24/03/2022
+80895
+0,00 %
+r$ 7,31
+r$ 1.369,39
+r$ 34,43
+r$ 1.327,65
+43.928.689/0001-21 kassia kelly silva costa 11593093616
+pré-aprovado
+r$ 1.369,39
+14/03/2022
+80888
+0,00 %
+r$ 6,81
+r$ 1.369,39
+r$ 26,03
+r$ 1.336,55
+43.928.689/0001-21 kassia kelly silva costa 11593093616
+pré-aprovado
+r$ 1.516,90
+01/04/2022
+80863
+0,00 %
+r$ 8,55
+r$ 1.516,90
+r$ 45,58
+r$ 1.462,77
+20.901.701/0001-09 maria j pereira
+pré-aprovado
+r$ 689,29
+11/03/2022
+80791
+0,00 %
+r$ 3,35
+r$ 689,29
+r$ 11,83
+r$ 674,11
+02.910.490/0001-99 deposito pereira prado ltda
+pré-aprovado
+r$ 1.037,83
+17/03/2022
+80777
+0,00 %
+r$ 5,28
+r$ 1.037,83
+r$ 21,64
+r$ 1.010,91
+22.358.552/0001-09 otavio teixeira ferraz
+pré-aprovado
+r$ 1.037,83
+10/03/2022
+80760
+0,00 %
+r$ 5,01
+r$ 1.037,83
+r$ 17,18
+r$ 1.015,64
+22.358.552/0001-09 otavio teixeira ferraz
+pré-aprovado
+r$ 497,50
+10/03/2022
+80745
+0,00 %
+r$ 2,40
+r$ 497,50
+r$ 8,23
+r$ 486,87
+26.419.819/0001-81 m f moreira
+pré-aprovado
+r$ 734,35
+10/03/2022
+80720
+0,00 %
+r$ 3,54
+r$ 734,35
+r$ 12,16
+r$ 718,65
+27.357.582/0001-14 materiais de construcao dois irmaos ltda
+pré-aprovado
+r$ 511,60
+10/03/2022
+80706
+0,00 %
+r$ 2,47
+r$ 511,60
+r$ 8,46
+r$ 500,67
+23.894.988/0001-85 l.m.k material de construcao eireli
+pré-aprovado
+r$ 1.266,13
+15/03/2022
+80680
+0,00 %
+r$ 6,35
+r$ 1.266,13
+r$ 24,84
+r$ 1.234,94
+18.035.861/0001-70 junior materiais de construcao ltda (dep
+pré-aprovado
+r$ 1.064,75
+24/03/2022
+80587
+0,00 %
+r$ 5,68
+r$ 1.064,75
+r$ 26,77
+r$ 1.032,30
+04.566.656/0001-27 iriema rosa dos santos
+pré-aprovado
+r$ 1.064,75
+14/03/2022
+80570
+0,00 %
+r$ 5,30
+r$ 1.064,75
+r$ 20,24
+r$ 1.039,21
+04.566.656/0001-27 iriema rosa dos santos
+pré-aprovado
+r$ 777,50
+16/03/2022
+80548
+0,00 %
+r$ 3,92
+r$ 777,50
+r$ 15,73
+r$ 757,85
+34.957.954/0001-09 s l da silva eireli (saymo lopes-maderei
+pré-aprovado
+r$ 1.172,16
+15/03/2022
+80444
+0,00 %
+r$ 5,88
+r$ 1.172,16
+r$ 23,00
+r$ 1.143,28
+18.680.402/0001-40 aldimeria rosa lopes
+pré-aprovado
+r$ 1.166,16
+11/03/2022
+80397
+0,00 %
+r$ 5,68
+r$ 1.166,16
+r$ 20,02
+r$ 1.140,46
+09.523.342/0001-60 cleiton marcos de andrade (construshop f
+pré-aprovado
+r$ 745,51
+14/03/2022
+80358
+0,00 %
+r$ 3,71
+r$ 745,51
+r$ 14,17
+r$ 727,63
+12.981.391/0002-32 izaura ventura de oliveira
+pré-aprovado
+r$ 1.059,29
+14/03/2022
+80326
+0,00 %
+r$ 5,27
+r$ 1.059,29
+r$ 20,13
+r$ 1.033,89
+35.381.107/0001-01 joelma nascimento braz sousa (isaac)
+pré-aprovado
+r$ 960,97
+21/03/2022
+80208
+0,00 %
+r$ 5,03
+r$ 960,97
+r$ 22,39
+r$ 933,55
+10.409.786/0001-59 c l p moreira me
+pré-aprovado
+r$ 960,97
+11/03/2022
+80190
+0,00 %
+r$ 4,67
+r$ 960,97
+r$ 16,50
+r$ 939,80
+10.409.786/0001-59 c l p moreira me
+pré-aprovado
+r$ 840,00
+11/03/2022
+80150
+0,00 %
+r$ 4,09
+r$ 840,00
+r$ 14,42
+r$ 821,49
+21.475.678/0001-09 nilo moreira
+pré-aprovado
+r$ 775,98
+11/03/2022
+80089
+0,00 %
+r$ 3,78
+r$ 775,98
+r$ 13,32
+r$ 758,88
+35.521.378/0001-15 ivonildo dias moreira 94467129634 (md ma
+pré-aprovado
+r$ 1.536,75
+10/03/2022
+79996
+0,00 %
+r$ 7,41
+r$ 1.536,75
+r$ 25,44
+r$ 1.503,90
+08.170.416/0001-60 lair sabino produtos para agricultura e
+pré-aprovado
+r$ 1.555,32
+21/03/2022
+79577
+0,00 %
+r$ 8,14
+r$ 1.555,32
+r$ 36,24
+r$ 1.510,94
+05.983.033/0001-12 elber material de construcao
+pré-aprovado
+atacadao araujo eireli
+par - 0001
+johnysr4346_00
+3
+ detalhamento da remessa
+ associado(cpf/cnpj):
+32.487.223/0001-11 - atacadao araujo eireli
+conta corrente:
+10.090-0
+ nº da remessa:
+5772718.4346-2022
+data da solicitação: 11/02/2022
+situação:
+liberada
+qtde
+valor disponível
+valor juros
+valor líquido
+valor tarifa
+ lote
+valor iof
+valor tac
+ resumo da remessa
+42
+ boleto
+r$ 45.032,56
+r$ 46.249,94
+r$ 981,15
+r$ 236,23
+r$ 0,00
+r$ 0,00
+ total da remessa
+42
+r$ 46.249,94
+r$ 981,15
+r$ 45.032,56
+r$ 0,00
+r$ 236,23
+r$ 0,00
+responsável: samuelm4346_00
+origem:
+balcão
+valor nominal
+% seg.
+vencimento
+valor disponível
+valor juros
+lista de recebíveis
+valor liquido
+pagador / adquirente
+documento
+valor iof
+status
+r$ 833,48
+10/03/2022
+79348
+0,00 %
+r$ 4,02
+r$ 833,48
+r$ 13,80
+r$ 815,66
+06.332.476/0001-06 wania lucia souto pinheiro
+pré-aprovado
+atacadao araujo eireli
+par - 0001
+johnysr4346_00
+3

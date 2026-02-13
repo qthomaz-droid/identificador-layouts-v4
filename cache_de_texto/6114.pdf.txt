@@ -1,0 +1,42 @@
+                          f i c h a   g r a f i c a  - v8.05.00
+cooperativa ..: 00023-0 sicredi essencia                               data: 24/03/2025  hora: 16:07  pagina: 01  titulo: c52220017-2
+associado ....: 34959-1 wks exportacoes ltda             situacao ..: normal                numero de parcelas ...:           000/001
+composicao ...: 267     ccb rotativo pj                  liberacao .: 28/01/2025            valor financiado .....:      1.500.000,00
+finalidade ...: zka     ccb/rot/scm/9001/deb. inad s/i   dia base ..: 05                    recursos proprios ....:              0,00
+fonte recurso : 004     rec. proprios patr. da credi     natureza ..: 21 -      ccb         rec prop proagro mais :              0,00
+tx jr normal .:      1,890000%a.m.   percent cm normal :   0,00                             rendas a apropriar ...:              0,00
+index cm normal : nula                                                                      cm provisionada ......:              0,00
+inadimplencia : comissao de permanencia = cm/nula + juros de   2,890000%a.m.                juros provisionados ..:              0,00
+parcelas .....: 001) 21/01/2026 100,00%
+=====================================================================================================================================
+data        cod  historico                             parcela    valor do debito         valor do credito             valor do saldo
+=====================================================================================================================================
+                 saldo anterior                                                                                                  0,00
+28/01/2025  051  liberacao de titulo                                         1,00                                                1,00
+28/01/2025  509  debito tarifa                                             150,00                                              151,00
+28/01/2025  519  pagamento de tarifa                                                                150,00                       1,00
+28/01/2025  050  liberacao contrato rotativo                           500.000,00                                          500.001,00
+29/01/2025  050  liberacao contrato rotativo                           300.000,00                                          800.001,00
+29/01/2025  050  liberacao contrato rotativo                           160.000,00                                          960.001,00
+30/01/2025  050  liberacao contrato rotativo                           400.000,00                                        1.360.001,00
+31/01/2025  050  liberacao contrato rotativo                            50.000,00                                        1.410.001,00
+31/01/2025  050  liberacao contrato rotativo                            20.000,00                                        1.430.001,00
+03/02/2025  521  iof - pessoa juridica                                     174,25                                        1.430.175,25
+03/02/2025  522  pagamento iof - p. juridica                                                        174,25               1.430.001,00
+03/02/2025  546  debito adicional iof - pj                               5.434,00                                        1.435.435,00
+03/02/2025  526  pagamento adicional iof - pj                                                     5.434,00               1.430.001,00
+03/02/2025  560  pagamento jr contratuais                  001                                    4.445,82               1.425.555,18
+03/02/2025  060  juros contratuais (1,8900%)               001           4.445,82                                        1.430.001,00
+04/02/2025  050  liberacao contrato rotativo                            69.999,00                                        1.500.000,00
+05/03/2025  546  debito adicional iof - pj                                 266,00                                        1.500.266,00
+05/03/2025  526  pagamento adicional iof - pj                                                       266,00               1.500.000,00
+05/03/2025  060  juros contratuais (1,8900%)               001          28.305,90                                        1.528.305,90
+05/03/2025  521  iof - pessoa juridica                                   1.713,39                                        1.530.019,29
+05/03/2025  522  pagamento iof - p. juridica                                                      1.713,39               1.528.305,90
+06/03/2025  560  pagamento jr contratuais                  001                                   28.305,90               1.500.000,00
+=====================================================================================================================================
+totais                                                               1.540.489,36                40.489,36               1.500.000,00
+=====================================================================================================================================
+                             sicredi fone (fale conosco): para qualquer região sem custo: 0800 724 4770
+          sac sicredi: deficientes auditivos ou de fala: 0800 724 0525 / informações, elogios e reclamações: 0800 724 7220
+                             ouvidoria sicredi:  0800 646 2519 - endereço eletrônico: www.sicredi.com.br

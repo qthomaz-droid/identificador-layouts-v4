@@ -1,0 +1,995 @@
+listar duplicata a pagar
+paga
+status:
+entre 01/07/2025 e 31/07/2025
+vencimento
+nº duplicata
+fornecedor / transportadora
+venc.
+pgto.
+#
+status
+plastex ltda
+banco
+valor (r$)
+n. doc
+3225
+007
+cristal master industria e
+01/07/2025
+banco
+paga
+-
+15.910,00
+32630
+3497
+001
+l u plastc recicladora ltda
+01/07/2025
+banco
+paga
+-
+36.000,00
+98
+3498
+001
+l u plastc recicladora ltda
+01/07/2025
+banco
+paga
+-
+1.200,00
+99
+3244
+003
+trajano materiais reciclaveis
+01/07/2025
+banco
+paga
+-
+13.274,00
+948
+3431
+003
+cristal master industria e
+01/07/2025
+banco
+paga
+-
+14.724,28
+32859
+3080
+003
+dutofort industria de
+02/07/2025
+banco
+paga
+-
+11.005,75
+4198
+3479
+001
+iridium ltda
+02/07/2025
+banco
+paga
+-
+675,00
+1236
+3482
+001
+el shadday industria de
+02/07/2025
+banco
+paga
+-
+43.401,00
+630
+3341
+003
+de - pet reciclagem ltda
+02/07/2025
+banco
+paga
+-
+1.852,00
+5897
+3446
+003
+cartopel artefatos de papel &
+03/07/2025
+banco
+paga
+-
+1.125,22
+1281
+3343
+002
+de - pet reciclagem ltda
+03/07/2025
+banco
+paga
+-
+701,66
+5919
+3360
+001
+quimica finizola industria e
+04/07/2025
+banco
+paga
+-
+7.000,00
+8390
+3270
+007
+cristal master industria e
+04/07/2025
+banco
+paga
+-
+3.381,74
+32664
+3383
+005
+plasvan industria e comercio
+04/07/2025
+banco
+paga
+-
+16.666,00
+31146
+3427
+004
+american polymers do brasil
+04/07/2025
+banco
+paga
+-
+3.435,64
+55
+3503
+001
+etiquetas guararapes
+04/07/2025
+banco
+paga
+-
+5.076,75
+36701
+3499
+001
+mg industria plastica e
+04/07/2025
+banco
+paga
+-
+2.480,35
+1744
+3377
+002
+trajano materiais reciclaveis
+05/07/2025
+banco
+paga
+-
+13.294,00
+956
+3399
+003
+m p de medeiros linhares ltda
+05/07/2025
+banco
+paga
+-
+10.719,70
+8389
+3402
+003
+m p de medeiros linhares ltda
+05/07/2025
+banco
+paga
+-
+682,20
+8396
+3474
+002
+m p de medeiros linhares ltda
+05/07/2025
+banco
+paga
+-
+596,65
+9110
+3480
+001
+iridium ltda
+06/07/2025
+banco
+paga
+-
+5.250,00
+1240
+3558
+001
+m p de medeiros linhares ltda
+07/07/2025
+banco
+paga
+-
+16.033,80
+9963
+3561
+001
+m p de medeiros linhares ltda
+07/07/2025
+banco
+paga
+-
+2.680,30
+9983
+3306
+006
+cristal master industria e
+07/07/2025
+banco
+paga
+-
+1.882,57
+32722
+3417
+004
+cristal master industria e
+07/07/2025
+banco
+paga
+-
+16.138,46
+32847
+3487
+003
+norpolim nordeste polimeros
+07/07/2025
+banco
+paga
+-
+19.357,00
+7206
+3285
+002
+dutofort industria de
+07/07/2025
+banco
+paga
+-
+2.480,92
+4327
+3477
+002
+m p de medeiros linhares ltda
+07/07/2025
+banco
+paga
+-
+15.814,28
+9107
+3432
+004
+cristal master industria e
+08/07/2025
+banco
+paga
+-
+14.724,28
+32859
+3126
+001
+supermercado bahamas s/a
+08/07/2025
+banco
+paga
+-
+96,60
+317182
+3311
+002
+ouro fino casa completa ltda
+08/07/2025
+banco
+paga
+-
+36,93
+10737
+3422
+001
+quimica finizola industria e
+09/07/2025
+banco
+paga
+-
+14.000,00
+8395
+3456
+003
+courofio industria & comercio
+09/07/2025
+banco
+paga
+-
+6.677,34
+3196
+3459
+003
+courofio industria & comercio
+09/07/2025
+banco
+paga
+-
+152,00
+3198
+3447
+004
+cartopel artefatos de papel &
+10/07/2025
+banco
+paga
+-
+1.125,24
+1281
+3491
+001
+pbsil fabricacao de produtos
+10/07/2025
+banco
+paga
+-
+7.980,00
+16065
+3511
+001
+lider comercio e industria
+10/07/2025
+banco
+paga
+-
+934,12
+4993162
+3421
+001
+quimica finizola industria e
+10/07/2025
+banco
+paga
+-
+10.300,00
+8398
+3530
+001
+trajano materiais reciclaveis
+11/07/2025
+banco
+paga
+-
+17.592,00
+965
+3428
+005
+american polymers do brasil
+11/07/2025
+banco
+paga
+-
+3.435,66
+55
+3500
+002
+mg industria plastica e
+11/07/2025
+banco
+paga
+-
+2.480,35
+1744
+3504
+002
+etiquetas guararapes
+11/07/2025
+banco
+paga
+-
+5.076,76
+36701
+3541
+001
+l u plastc recicladora ltda
+11/07/2025
+banco
+paga
+-
+37.392,00
+100
+3542
+001
+l u plastc recicladora ltda
+11/07/2025
+banco
+paga
+-
+520,00
+101
+3543
+001
+plasvan industria e comercio
+11/07/2025
+banco
+paga
+-
+19.500,00
+31528
+3396
+003
+m p de medeiros linhares ltda
+12/07/2025
+banco
+paga
+-
+3.830,57
+8753
+3393
+003
+m p de medeiros linhares ltda
+13/07/2025
+banco
+paga
+-
+11.259,12
+8744
+3390
+003
+m p de medeiros linhares ltda
+13/07/2025
+banco
+paga
+-
+229,72
+8751
+3307
+007
+cristal master industria e
+14/07/2025
+banco
+paga
+-
+1.882,58
+32722
+3549
+001
+de - pet reciclagem ltda
+14/07/2025
+banco
+paga
+-
+2.768,00
+5964
+3488
+004
+norpolim nordeste polimeros
+14/07/2025
+banco
+paga
+-
+19.357,00
+7206
+3418
+005
+cristal master industria e
+14/07/2025
+banco
+paga
+-
+16.138,46
+32847
+3413
+003
+clean fortal industria e
+14/07/2025
+banco
+paga
+-
+64.359,16
+6440
+3347
+003
+el shadday industria de
+14/07/2025
+banco
+paga
+-
+25.568,00
+623
+3535
+001
+clean fortal industria e
+14/07/2025
+banco
+paga
+-
+64.359,17
+6549
+3606
+001
+m p de medeiros linhares ltda
+15/07/2025
+banco
+paga
+-
+1.040,41
+10193
+3522
+002
+m p de medeiros linhares ltda
+15/07/2025
+banco
+paga
+-
+4.898,04
+9666
+3525
+002
+m p de medeiros linhares ltda
+15/07/2025
+banco
+paga
+-
+9.866,02
+9630
+3615
+001
+m p de medeiros linhares ltda
+15/07/2025
+banco
+paga
+-
+158,31
+10340
+3609
+001
+m p de medeiros linhares ltda
+15/07/2025
+banco
+paga
+-
+16.342,75
+10179
+3433
+005
+cristal master industria e
+15/07/2025
+banco
+paga
+-
+14.724,28
+32859
+página 1 de 2
+emitido em 19/08/2025 às 10:48am
+plastex ltda
+3538
+001
+de - pet reciclagem ltda
+16/07/2025
+banco
+paga
+-
+5.302,00
+5955
+3528
+002
+m p de medeiros linhares ltda
+16/07/2025
+banco
+paga
+-
+3.799,60
+9753
+3483
+002
+el shadday industria de
+17/07/2025
+banco
+paga
+-
+43.401,00
+630
+3481
+001
+quimica finizola industria e
+17/07/2025
+banco
+paga
+-
+12.150,00
+8404
+3442
+003
+m p de medeiros linhares ltda
+18/07/2025
+banco
+paga
+-
+1.005,00
+8756
+3657
+dpnt4968
+ - sabrina cabral santiago ltda
+18/07/2025
+banco
+paga
+-
+1.400,00
+16538
+3439
+003
+m p de medeiros linhares ltda
+18/07/2025
+banco
+paga
+-
+11.443,81
+8755
+3588
+001
+plasvan industria e comercio
+18/07/2025
+banco
+paga
+-
+13.000,00
+31599
+3344
+003
+de - pet reciclagem ltda
+18/07/2025
+banco
+paga
+-
+701,67
+5919
+3544
+002
+plasvan industria e comercio
+18/07/2025
+banco
+paga
+-
+19.500,00
+31528
+3505
+003
+etiquetas guararapes
+18/07/2025
+banco
+paga
+-
+5.076,76
+36701
+3672
+002
+lider comercio e industria
+19/07/2025
+banco
+paga
+-
+56,42
+4965144
+3378
+003
+trajano materiais reciclaveis
+20/07/2025
+banco
+paga
+-
+13.296,00
+956
+3658
+001
+m p de medeiros linhares ltda
+21/07/2025
+banco
+paga
+-
+826,76
+10384
+3419
+006
+cristal master industria e
+21/07/2025
+banco
+paga
+-
+16.138,46
+32847
+3489
+005
+norpolim nordeste polimeros
+21/07/2025
+banco
+paga
+-
+19.357,00
+7206
+3653
+001
+m p de medeiros linhares ltda
+21/07/2025
+banco
+paga
+-
+15.265,10
+10321
+3661
+001
+m p de medeiros linhares ltda
+21/07/2025
+banco
+paga
+-
+192,74
+10685
+3434
+006
+cristal master industria e
+22/07/2025
+banco
+paga
+-
+14.724,28
+32859
+3628
+001
+plasvan industria e comercio
+24/07/2025
+banco
+paga
+-
+19.500,00
+31669
+3478
+003
+m p de medeiros linhares ltda
+25/07/2025
+banco
+paga
+-
+15.814,30
+9107
+3568
+001
+el shadday industria de
+25/07/2025
+banco
+paga
+-
+4.910,00
+637
+3475
+003
+m p de medeiros linhares ltda
+25/07/2025
+banco
+paga
+-
+596,64
+9110
+3644
+001
+lider comercio e industria
+25/07/2025
+banco
+paga
+-
+682,79
+5013682
+3641
+001
+lider comercio e industria
+25/07/2025
+banco
+paga
+-
+166,97
+5013667
+3593
+001
+reciclagem novo horizonte
+25/07/2025
+banco
+paga
+-
+38.475,00
+1
+3589
+002
+plasvan industria e comercio
+25/07/2025
+banco
+paga
+-
+13.000,00
+31599
+3545
+003
+plasvan industria e comercio
+25/07/2025
+banco
+paga
+-
+19.500,00
+31528
+3550
+002
+de - pet reciclagem ltda
+28/07/2025
+banco
+paga
+-
+2.768,00
+5964
+3536
+002
+clean fortal industria e
+28/07/2025
+banco
+paga
+-
+64.359,17
+6549
+3462
+002
+dutofort industria de
+28/07/2025
+banco
+paga
+-
+6.726,53
+4409
+3559
+002
+m p de medeiros linhares ltda
+29/07/2025
+banco
+paga
+-
+16.158,56
+9963
+3573
+002
+dutofort industria de
+29/07/2025
+banco
+paga
+-
+348,33
+4411
+3562
+002
+m p de medeiros linhares ltda
+29/07/2025
+banco
+paga
+-
+2.680,30
+9983
+3435
+007
+cristal master industria e
+29/07/2025
+banco
+paga
+-
+14.724,32
+32859
+3420
+007
+cristal master industria e
+29/07/2025
+banco
+paga
+-
+16.154,63
+32847
+3531
+002
+trajano materiais reciclaveis
+29/07/2025
+banco
+paga
+-
+17.592,00
+965
+3692
+001
+m p de medeiros linhares ltda
+30/07/2025
+banco
+paga
+-
+762,47
+10744
+3689
+001
+m p de medeiros linhares ltda
+30/07/2025
+banco
+paga
+-
+18.939,01
+10687
+3699
+001
+m p de medeiros linhares ltda
+30/07/2025
+banco
+paga
+-
+5.162,50
+10686
+3587
+001
+l u plastc recicladora ltda
+30/07/2025
+banco
+paga
+-
+880,00
+117
+3586
+001
+l u plastc recicladora ltda
+30/07/2025
+banco
+paga
+-
+30.000,00
+115
+3739
+dpnt1191
+ - tvt transportes ltda
+31/07/2025
+banco
+paga
+-
+200,00
+37007
+3733
+dpnt5033
+ - sabrina cabral santiago ltda
+31/07/2025
+banco
+paga
+-
+1.400,00
+16725
+3629
+002
+plasvan industria e comercio
+31/07/2025
+banco
+paga
+-
+19.500,00
+31669
+3539
+002
+de - pet reciclagem ltda
+31/07/2025
+banco
+paga
+-
+5.302,00
+5955
+total
+1.214.584,2
+página 2 de 2
+emitido em 19/08/2025 às 10:48am
+plastex ltda

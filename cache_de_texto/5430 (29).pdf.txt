@@ -1,0 +1,77 @@
+prefeitura do município de são paulo
+número da nota
+14946
+data e hora de emissão
+08/05/2025 11:55:25
+código de verificação
+budy-anfs
+secretaria municipal de finanças
+nota fiscal eletrônica de serviços - nf-e
+rps n 15045 série b1, emitido em 30/04/2025
+prestador de serviços
+cpf/cnpj:33.843.545/0001-19
+inscrição municipal: 6.292.758-2
+nome/razão social:
+mongodb servicos de software no brasil ltda.
+município: são paulo
+uf:
+sp
+endereço: r s bento 470 andar 10  lado par - centro - cep: 01010-001
+tomador de serviços
+cpf/cnpj:40.424.646/0001-10
+nome/razão social:
+ferretto cursos on line ltda
+inscrição municipal:
+endereço: rua uruguai 421, sala 802 - centro - cep: 99010-110
+município: passo fundo
+uf:
+rs
+e-mail: rtagliari@gmail.com
+discriminação dos serviços
+processamento, armazenamento ou hospedagem de dados, textos, imagens, vídeos, páginas 
+eletrônicas
+valor do serviço:                           r$5.861,92
+valor liquido:                              r$5.861,92
+vencimento: 05/06/2025
+valor total aproximado dos tributos federais, estaduais e municipal, conforme disposto na lei 
+n 12741 / 12 = r$712,23
+cld_atl_cre mongodb atlas credit 01/04/2025 - 30/04/2025 invoice ibr013984 po2025 not 
+required. em caso de duvidas entrar em contato com: brazil-otc@mongodb.com
+valor total do serviço = r$ 5.861,92
+código do serviço
+02684 - processamento, armazenamento ou hospedagem de dados, textos, imagens, entre outros e congêneres
+inss (r$)
+0,00
+outras informações
+- esta nf-e foi emitida com respaldo na lei n 14.097/2005.
+- esta nf-e não gera crédito
+- esta nf-e substitui o rps n 15045 série b1, emitido em 30/04/2025
+- data de vencimento do iss desta nf-e: 10/06/2025
+irrf (r$)
+0,00
+csll (r$)
+0,00
+cofins (r$)
+0,00
+pis (r$)
+0,00
+valor total das deduções (r$)
+0,00
+base de cálculo (r$)
+5.861,92
+alíquota (%)
+2,90
+valor do iss (r$)
+169,99
+crédito (r$)
+0,00
+número inscrição da obra
+0
+município da prestação do serviço
+0
+valor aproximado dos tributos / fonte
+r$ 0,00 (0,00%)
+intermediário de serviços
+cpf/cnpj:
+nome/razão social:
+valor total recebido = r$ 0,00

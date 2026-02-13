@@ -1,0 +1,525 @@
+relatório de contas
+de: 01/09/2025 até: 30/09/2025
+14/10/2025
+página 1 de 3  
+data lançamento: 23/05/2025
+descrição: maquina de secar
+banco: 
+valor r$: 10.997,01
+plano de conta: imobilizados
+tipo custo: nenhum
+grupo: petshop
+ 1.221,89
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 4
+ 1.221,89
+22/09/2025
+boleto
+24/09/2025
+data lançamento: 14/08/2025
+descrição: compra bsb vet
+banco: 
+valor r$: 1.982,42
+plano de conta: shampoos e produ
+tipo custo: varável
+grupo: 
+ 991,20
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 3
+ 495,60
+04/09/2025
+boleto
+04/09/2025
+ 4
+ 495,60
+11/09/2025
+boleto
+11/09/2025
+grupo
+quantidade
+rateio
+banho mensal
+r$ 991,20
+ 100,00%
+data lançamento: 01/09/2025
+descrição: faxina
+banco: pagbank
+valor r$: 1.000,00
+plano de conta: limpeza
+tipo custo: fixo
+grupo: petshop
+ 1.000,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 200,00
+01/09/2025
+deposito
+01/09/2025
+ 2
+ 200,00
+08/09/2025
+deposito
+08/09/2025
+ 3
+ 200,00
+15/09/2025
+deposito
+15/09/2025
+ 4
+ 200,00
+22/09/2025
+deposito
+24/09/2025
+ 5
+ 200,00
+29/09/2025
+deposito
+30/09/2025
+data lançamento: 01/09/2025
+descrição: free raquel
+banco: pagbank
+valor r$: 160,00
+plano de conta: servico prestado 
+tipo custo: varável
+grupo: banho e tosa
+ 160,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 160,00
+29/08/2025
+deposito
+01/09/2025
+data lançamento: 02/09/2025
+descrição: mesa dobravel
+banco: pagbank
+valor r$: 180,00
+plano de conta: material escritor
+tipo custo: fixo
+grupo: petshop
+ 180,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 180,00
+02/09/2025
+pix
+02/09/2025
+data lançamento: 03/09/2025
+descrição: salario bia
+banco: pagbank
+valor r$: 2.469,12
+plano de conta: folha de pagament
+tipo custo: fixo
+grupo: petshop
+ 2.469,12
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 2.469,12
+03/09/2025
+pix
+03/09/2025
+data lançamento: 08/09/2025
+descrição: contabilidade
+banco: pagbank
+valor r$: 759,00
+plano de conta: escritório contáb
+tipo custo: fixo
+grupo: petshop
+ 759,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 759,00
+10/09/2025
+boleto
+10/09/2025
+data lançamento: 08/09/2025
+descrição: internet
+banco: pagbank
+valor r$: 250,00
+plano de conta: 
+tipo custo: 
+grupo: petshop
+ 250,00
+total r$:
+página 2 de 3  
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 250,00
+13/09/2025
+boleto
+15/09/2025
+data lançamento: 08/09/2025
+descrição: inss
+banco: pagbank
+valor r$: 473,00
+plano de conta: inss a recolher
+tipo custo: fixo
+grupo: petshop
+ 473,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 473,00
+19/09/2025
+boleto
+19/09/2025
+data lançamento: 08/09/2025
+descrição: fgts
+banco: pagbank
+valor r$: 134,48
+plano de conta: fgts a recolher
+tipo custo: fixo
+grupo: petshop
+ 134,48
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 134,48
+19/09/2025
+boleto
+19/09/2025
+data lançamento: 08/09/2025
+descrição: sistema
+banco: pagbank
+valor r$: 291,33
+plano de conta: sistema de inform
+tipo custo: fixo
+grupo: petshop
+ 291,33
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 291,33
+23/09/2025
+boleto
+24/09/2025
+data lançamento: 08/09/2025
+descrição: verisure
+banco: pagbank
+valor r$: 217,00
+plano de conta: sistema de segura
+tipo custo: fixo
+grupo: petshop
+ 217,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 217,00
+05/09/2025
+deposito
+08/09/2025
+data lançamento: 08/09/2025
+descrição: pro labore
+banco: pagbank
+valor r$: 6.000,00
+plano de conta: pro labore
+tipo custo: fixo
+grupo: petshop
+ 6.000,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 6.000,00
+08/09/2025
+pix
+08/09/2025
+data lançamento: 08/09/2025
+descrição: simples nacional
+banco: pagbank
+valor r$: 1.101,57
+plano de conta: simples nacional
+tipo custo: fixo
+grupo: petshop
+ 1.101,57
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 1.101,57
+22/09/2025
+boleto
+24/09/2025
+data lançamento: 08/09/2025
+descrição: free leonan
+banco: pagbank
+valor r$: 120,00
+plano de conta: servico prestado 
+tipo custo: varável
+grupo: banho e tosa
+ 120,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 120,00
+08/09/2025
+pix
+08/09/2025
+data lançamento: 08/09/2025
+descrição: gasolina
+banco: pagbank
+valor r$: 150,00
+plano de conta: combustível
+tipo custo: fixo
+grupo: transporte
+ 150,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 150,00
+08/09/2025
+pix
+08/09/2025
+data lançamento: 10/09/2025
+descrição: royalties
+banco: 
+valor r$: 1.450,89
+plano de conta: royalties
+tipo custo: fixo
+grupo: petshop
+ 1.450,89
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 1.450,89
+15/09/2025
+boleto
+15/09/2025
+página 3 de 3  
+data lançamento: 11/09/2025
+descrição: free julio
+banco: pagbank
+valor r$: 780,00
+plano de conta: servico prestado 
+tipo custo: varável
+grupo: petshop
+ 780,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 780,00
+11/09/2025
+pix
+11/09/2025
+data lançamento: 12/09/2025
+descrição: free ezequiel
+banco: pagbank
+valor r$: 120,00
+plano de conta: servico prestado 
+tipo custo: varável
+grupo: banho e tosa
+ 120,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 120,00
+12/09/2025
+pix
+12/09/2025
+data lançamento: 15/09/2025
+descrição: energia
+banco: pagbank
+valor r$: 953,49
+plano de conta: energia
+tipo custo: fixo
+grupo: petshop
+ 953,49
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 953,49
+28/09/2025
+deposito
+29/09/2025
+data lançamento: 19/09/2025
+descrição: água
+banco: pagbank
+valor r$: 598,50
+plano de conta: água
+tipo custo: fixo
+grupo: petshop
+ 598,50
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 598,50
+28/09/2025
+deposito
+29/09/2025
+data lançamento: 25/09/2025
+descrição: toalhas
+banco: pagbank
+valor r$: 430,00
+plano de conta: shampoos e produ
+tipo custo: varável
+grupo: petshop
+ 430,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 430,00
+25/09/2025
+pix
+25/09/2025
+data lançamento: 26/09/2025
+descrição: gasolina
+banco: pagbank
+valor r$: 150,00
+plano de conta: combustível
+tipo custo: fixo
+grupo: transporte
+ 150,00
+total r$:
+valor r$
+parcela
+forma de pagto
+data de 
+pagamento
+vencimento 
+da parcela
+ 1
+ 150,00
+26/09/2025
+pix
+26/09/2025
+ 20.001,47
+total geral r$:
+ 20.001,47
+total não pago r$:
+total pago r$:

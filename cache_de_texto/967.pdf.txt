@@ -1,0 +1,72 @@
+sicoob
+sistema de cooperativas de crédito do brasil
+sisbr - sistema de informática do sicoob
+ 
+01/06/2023
+extrato conta poupança
+15:31:38
+ 
+agência: 0001-9 / banco sicoob
+conta: 65.161.370-1 / gl irrigacoes e consultoria agronomica ltda
+período: 01/05/2023 - 01/06/2023
+data
+doc
+historico
+valor
+01/05/2023
+saldo anterior
+100,00c
+02/05/2023 39625894
+cred trf cc intercre
+5.000,00c
+saldo do dia
+5.100,00c
+08/05/2023
+dep dinheiro intercr
+360,00c
+saldo do dia
+5.460,00c
+31/05/2023 40854263
+cred trf cc intercre
+6.914,55c
+saldo do dia
+12.374,55c
+saldo por sub-conta
+grupo 02
+conta
+sld.disp
+sld.conta
+28
+100,00c
+100,00c
+30
+5.000,00c
+5.000,00c
+36
+360,00c
+360,00c
+57
+6.914,55c
+6.914,55c
+resumo do saldo atual
+saldo total sub-contas....:
+12.374,55c
+grupo 01...............(+):
+0,00
+grupo 02...............(+):
+12.374,55c
+créditos do dia........(+):
+0,00
+débitos do dia.........(-):
+0,00
+saldo atual............(=):
+12.374,55c
+ir previsto............(-):
+0,00d
+saldo bloqueado........(-):
+0,00*
+saldo bloq judicial....(-):
+0,00d
+saldo disp. para saque....:
+12.374,55c
+ouvidoria bancoob: 0800-646-4001

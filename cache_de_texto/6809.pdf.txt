@@ -1,0 +1,1237 @@
+718 - contas pagas
+período de lançamento:
+conta..: todas
+filial...: '1'
+grupo de conta:
+page 1
+03/11/2025 15:16:25
+todos
+tipo: analítico
+usuário lançamento: todos
+período de vencimento:
+período de pagamento:
+período de emissão:
+todos
+todos
+ 01/10/2025 a 31/10/2025
+todos
+: 1-banco do brasil
+banco
+dt.pagamento
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+filial:
+285526
+100001
+622oesa comercio e represen 304712
+2.535,27
+100
+1
+112289
+din
+1
+-
+histórico
+2.535,27
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 304712 - 
+01/10/2025
+285537
+100001
+36dunorte distribuidora de p 3064733
+886,02
+100
+1
+112289
+din
+2
+-
+histórico
+886,02
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 3064733 - 
+01/10/2025
+285780
+100001
+121mikitos indust. e comerc. d 280961
+320,00
+100
+1
+112289
+din
+1
+-
+histórico
+320,00
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 280961 - 
+01/10/2025
+285793
+100001
+55fennix brasil distribuidora 276385
+1.051,29
+100
+1
+112289
+din
+2
+-
+histórico
+1.051,29
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 276385 - 
+01/10/2025
+285796
+100001
+395m.l. foods comercio de pro 44159
+5.985,00
+100
+1
+112289
+din
+1
+-
+histórico
+5.985,00
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 44159 - 
+01/10/2025
+285800
+100001
+60cb comercio e distribuidor 764616
+585,32
+100
+1
+112289
+din
+2
+-
+histórico
+585,32
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 764616 - 
+01/10/2025
+285808
+100001
+789josiane santos de lima ltd
+6
+1.425,00
+100
+1
+112289
+din
+2
+-
+histórico
+1.425,00
+0,00
+0,00
+1
+0,00
+vlr. ref. compras cf. nf. num. 6 - 
+01/10/2025
+285840
+100001
+479nexus comercio e distribu
+94832
+744,46
+100
+1
+112289
+din
+1
+-
+histórico
+744,46
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 94832 - 
+01/10/2025
+286155
+100001
+365j a f de lima
+20156
+283,95
+100
+1
+112289
+din
+1
+-
+histórico
+283,95
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 20156 - 
+01/10/2025
+286179
+100001
+35rcl comercio de produtos 175290
+944,06
+100
+1
+112289
+din
+1
+-
+histórico
+944,06
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 175290 - 
+01/10/2025
+285818
+300009
+121mikitos indust. e comerc. d 280962
+269,00
+300
+1
+112289
+din
+1
+-
+histórico
+269,00
+0,00
+0,00
+1
+0,00
+doação de geladinhos e salgadinhos dia das cr
+01/10/2025
+286409
+300027
+054.536.607 gabriel moraes m 5
+5.313,00
+300
+1
+112289
+din
+1
+-
+histórico
+5.313,00
+0,00
+0,00
+1
+0,00
+pagamento de prestador de serviços - serviço
+01/10/2025
+total do dia...........................:
+20.342,37
+12
+títulos listados
+0,00
+0,00
+0,00
+vl.dev.
+vl.descfin
+vlr.título
+vl.juros
+dt.pagamento
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+filial:
+286143
+100001
+33m. c. viana neto
+11876
+7.367,28
+100
+1
+112340
+din
+1
+-
+histórico
+7.367,28
+0,00
+0,00
+1
+0,00
+vlr. ref. compras cf. nf. num. 11876 - 
+02/10/2025
+285532
+100001
+159jose r cortez eireli
+63852
+229,74
+100
+1
+112323
+din
+3
+-
+histórico
+229,74
+0,00
+0,00
+1
+0,00
+dup: 003. vlr. ref. compras cf. nf. num. 63852 - 
+02/10/2025
+285546
+100001
+788beta industria e comercio 5960
+1.747,96
+100
+1
+112323
+din
+2
+-
+histórico
+1.747,96
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 5960 - 
+02/10/2025
+285590
+100001
+36dunorte distribuidora de p 3065528
+2.071,36
+100
+1
+112323
+din
+2
+-
+histórico
+2.071,36
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 3065528 - 
+02/10/2025
+285837
+100001
+38ocidental comercio de frio 1148988
+2.162,61
+100
+1
+112323
+din
+2
+-
+histórico
+2.162,61
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 1148988 - 
+02/10/2025
+285856
+100001
+39duraes distribuidora de es 613820
+903,00
+100
+1
+112323
+din
+1
+-
+histórico
+903,00
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 613820 - 
+02/10/2025
+285866
+100001
+39duraes distribuidora de es 613822
+723,16
+100
+1
+112323
+din
+1
+-
+histórico
+723,16
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 613822 - 
+02/10/2025
+718 - contas pagas
+período de lançamento:
+conta..: todas
+filial...: '1'
+grupo de conta:
+page 2
+03/11/2025 15:16:25
+todos
+tipo: analítico
+usuário lançamento: todos
+período de vencimento:
+período de pagamento:
+período de emissão:
+todos
+todos
+ 01/10/2025 a 31/10/2025
+todos
+: 1-banco do brasil
+banco
+dt.pagamento
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+filial:
+286049
+100001
+146matupi fabricacao de latic 18367
+736,80
+100
+1
+112323
+din
+1
+-
+histórico
+756,18
+0,00
+19,38
+1
+0,00
+vlr. ref. compras cf. nf. num. 18367 - 
+02/10/2025
+286050
+100001
+146matupi fabricacao de latic 1139
+1.185,60
+100
+1
+112323
+din
+1
+-
+histórico
+1.216,31
+0,00
+30,71
+1
+0,00
+vlr. ref. compras cf. nf. num. 1139 - 
+02/10/2025
+286051
+100001
+667victoria comercio interna
+7088
+1.523,62
+100
+1
+112323
+din
+1
+-
+histórico
+1.523,62
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 7088 - 
+02/10/2025
+286088
+100001
+231falcao comercio de frios l 55616
+3.873,90
+100
+1
+112323
+din
+1
+-
+histórico
+3.873,90
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 55616 - 
+02/10/2025
+286108
+100001
+36dunorte distribuidora de p 3068784
+832,80
+100
+1
+112323
+din
+1
+-
+histórico
+832,80
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 3068784 - 
+02/10/2025
+286250
+100001
+582tempero bom preço
+154
+2.370,00
+100
+1
+112323
+din
+1
+-
+histórico
+2.370,00
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 154 - 
+02/10/2025
+285605
+100001
+36dunorte distribuidora de p 3066295
+1.850,03
+100
+1
+112324
+din
+2
+-
+histórico
+1.850,03
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 3066295 - 
+02/10/2025
+285618
+100001
+121mikitos indust. e comerc. d 280741
+304,77
+100
+1
+112324
+din
+2
+-
+histórico
+304,77
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 280741 - 
+02/10/2025
+285626
+100001
+40empresa brasileira de dist 2216141
+2.175,42
+100
+1
+112324
+din
+3
+-
+histórico
+2.175,42
+0,00
+0,00
+1
+0,00
+dup: 003. vlr. ref. compras cf. nf. num. 2216141 - 
+02/10/2025
+285629
+100001
+40empresa brasileira de dist 2216142
+1.971,70
+100
+1
+112324
+din
+3
+-
+histórico
+1.971,70
+0,00
+0,00
+1
+0,00
+dup: 003. vlr. ref. compras cf. nf. num. 2216142 - 
+02/10/2025
+285648
+100001
+327fabrica virrosas limitada
+20015
+2.379,00
+100
+1
+112324
+din
+1
+-
+histórico
+2.379,00
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 20015 - 
+02/10/2025
+286087
+100001
+757sao jose comercio de latic 1097
+2.513,60
+100
+1
+112324
+din
+2
+-
+histórico
+2.513,60
+0,00
+0,00
+1
+0,00
+vlr. ref. compras cf. nf. num. 1097 - 
+02/10/2025
+286243
+100001
+52brother`s industria de alim985282
+897,77
+100
+1
+112324
+din
+1
+-
+histórico
+897,77
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 985282 - 
+02/10/2025
+286248
+100001
+280elias martins da silva
+830127
+2.383,40
+100
+1
+112324
+din
+1
+-
+histórico
+2.383,40
+0,00
+0,00
+1
+0,00
+vlr. ref. compras cf. nf. num. 830127 - 
+02/10/2025
+286253
+100001
+109i c melo & cia ltda
+40044
+357,36
+100
+1
+112324
+din
+1
+-
+histórico
+357,36
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 40044 - 
+02/10/2025
+286261
+100001
+757sao jose comercio de latic 1125
+2.020,97
+100
+1
+112324
+din
+1
+-
+histórico
+2.020,97
+0,00
+0,00
+1
+0,00
+vlr. ref. compras cf. nf. num. 1125 - 
+02/10/2025
+286414
+100001
+559c s comercio de pescados 2827
+3.180,60
+100
+1
+112324
+din
+1
+-
+histórico
+3.180,60
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 2827 - 
+02/10/2025
+285819
+100022
+33m. c. viana neto
+11869
+2.520,00
+100
+1
+112340
+din
+1
+-
+histórico
+2.520,00
+0,00
+0,00
+1
+0,00
+fistas adesivas - (parcela: 1)
+02/10/2025
+285154
+200027
+33m. c. viana neto
+11817
+2.280,00
+200
+1
+112340
+din
+1
+-
+histórico
+2.280,00
+0,00
+0,00
+1
+0,00
+bandeja b4 - (parcela: 1)
+02/10/2025
+285872
+200027
+33m. c. viana neto
+11841
+3.031,50
+200
+1
+112340
+din
+1
+-
+histórico
+3.031,50
+0,00
+0,00
+1
+0,00
+sacos de papel padaria - (parcela: 1)
+02/10/2025
+286273
+200027
+33m. c. viana neto
+11903
+1.650,00
+200
+1
+112340
+din
+1
+-
+histórico
+1.650,00
+0,00
+0,00
+1
+0,00
+bandeja b3 absorventes - (parcela: 1)
+02/10/2025
+286274
+200027
+33m. c. viana neto
+11904
+1.260,00
+200
+1
+112340
+din
+1
+-
+1.260,00
+0,00
+0,00
+1
+0,00
+02/10/2025
+718 - contas pagas
+período de lançamento:
+conta..: todas
+filial...: '1'
+grupo de conta:
+page 3
+03/11/2025 15:16:26
+todos
+tipo: analítico
+usuário lançamento: todos
+período de vencimento:
+período de pagamento:
+período de emissão:
+todos
+todos
+ 01/10/2025 a 31/10/2025
+todos
+: 1-banco do brasil
+banco
+dt.pagamento
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+filial:
+histórico sacos de papel padaria - (parcela: 1)
+286275
+200027
+33m. c. viana neto
+11888
+3.635,00
+200
+1
+112340
+din
+1
+-
+histórico
+3.635,00
+0,00
+0,00
+1
+0,00
+bandejas para açougue - (parcela: 1)
+02/10/2025
+285153
+200027
+574city plastik industria e co
+48563
+7.227,80
+200
+1
+112324
+din
+5
+-
+histórico
+7.227,80
+0,00
+0,00
+1
+0,00
+sacolas personalizadas/10kg/15kg - (parcela: 5)
+02/10/2025
+286444
+300027
+0precisou serv. contabeis l 1025
+5.540,70
+300
+1
+112327
+din
+1
+-
+histórico
+5.540,70
+0,00
+0,00
+1
+0,00
+prestação de serviços contabeis - (parcela: 1)
+02/10/2025
+286439
+301001
+146matupi fabricacao de latic 18367
+-19,38
+301
+1
+112323
+din
+1
+-
+histórico
+-19,38
+0,00
+0,00
+1
+0,00
+desconto financ. pag. duplicata - 
+02/10/2025
+286440
+301001
+146matupi fabricacao de latic 1139
+-30,71
+301
+1
+112323
+din
+1
+-
+histórico
+-30,71
+0,00
+0,00
+1
+0,00
+desconto financ. pag. duplicata - 
+02/10/2025
+total do dia...........................:
+72.857,36
+34
+títulos listados
+50,09
+0,00
+0,00
+vl.dev.
+vl.descfin
+vlr.título
+vl.juros
+dt.pagamento
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+filial:
+286663
+300005
+185matheus sampaio pinto 
+0
+588,69
+300
+1
+112690
+-
+histórico
+588,69
+0,00
+0,00
+1
+0,00
+rescisoes trabalhistas - 
+03/10/2025
+total do dia...........................:
+588,69
+1
+títulos listados
+0,00
+0,00
+0,00
+vl.dev.
+vl.descfin
+vlr.título
+vl.juros
+dt.pagamento
+lanc.
+conta
+fornecedor
+nº nota
+vlr.título
+grupo
+cod.
+cod.
+bco.
+trans
+tppgto
+valor
+vl.dev.
+vl.descfin
+vl.juros
+filial:
+286091
+100001
+634via certa importacao e dis
+33078
+667,49
+100
+1
+112749
+din
+1
+-
+histórico
+667,49
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 33078 - 
+06/10/2025
+286178
+100001
+231falcao comercio de frios l 55675
+10.918,95
+100
+1
+112749
+din
+1
+-
+histórico
+10.918,95
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 55675 - 
+06/10/2025
+285579
+100001
+71j a f de lima
+141242
+1.405,93
+100
+1
+112749
+din
+2
+-
+histórico
+1.405,93
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 141242 - 
+06/10/2025
+285587
+100001
+53tapajós comércio de perfu 530005
+371,87
+100
+1
+112749
+din
+2
+-
+histórico
+371,87
+0,00
+0,00
+1
+0,00
+dup: 002. vlr. ref. compras cf. nf. num. 530005 - 
+06/10/2025
+285704
+100001
+14marques & melo ltda
+444160
+2.070,63
+100
+1
+112749
+din
+3
+-
+histórico
+2.070,63
+0,00
+0,00
+1
+0,00
+vlr. ref. compras cf. nf. num. 444160 - 
+06/10/2025
+286106
+100001
+53tapajós comércio de perfu 530799
+5.079,94
+100
+1
+112749
+din
+1
+-
+histórico
+5.079,94
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 530799 - 
+06/10/2025
+286111
+100001
+603femar ind e com de bebidas 34574
+545,89
+100
+1
+112749
+din
+1
+-
+histórico
+545,89
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 34574 - 
+06/10/2025
+286214
+100001
+231falcao comercio de frios l 55699
+3.013,65
+100
+1
+112749
+din
+1
+-
+histórico
+3.013,65
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 55699 - 
+06/10/2025
+285392
+100001
+4atacadao s.a.
+1768600
+933,60
+100
+1
+112749
+din
+1
+-
+histórico
+933,60
+0,00
+0,00
+1
+0,00
+dup: 001. vlr. ref. compras cf. nf. num. 1768600 - 
+06/10/2025
+285450
+100001
+615sabia comercio de cosmeti 228297
+3.026,25
+100
+1
+112749
+din
+3
+-
+histórico
+3.026,25
+0,00
+0,00
+1
+0,00
+vlr. ref. compras cf. nf. num. 228297 - 
+06/10/2025

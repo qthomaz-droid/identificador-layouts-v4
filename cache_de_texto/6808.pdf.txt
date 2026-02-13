@@ -1,0 +1,1046 @@
+lojao dos motoqueiros - altamira
+a pagar/pagas - listagem sintética
+documento
+fornecedor
+dt lancamentodt vencimento
+par
+valor
+dias
+corrigido dt pagamento
+pagamento
+valor pago
+nº nf
+emp
+plano
+observações
+fp-1732/
+27/11/2025
+15/11/2025
+1/1
+773,88
+-16
+773,88
+01/12/25
+773,88
+boleto
+aguia confeccoes ltda
+1
+compras de mercadorias
+fe-1675/559
+31/10/2025
+15/11/2025
+1/5
+773,87
+-3
+773,87
+18/11/25
+773,87
+boleto
+aguia confeccoes ltda
+63
+1
+compras de mercadorias
+fp-1733/
+27/11/2025
+30/11/2025
+1/1
+773,86
+-1
+0,00
+773,86
+boleto
+aguia confeccoes ltda
+1
+compras de mercadorias
+fe-1676/559
+31/10/2025
+30/11/2025
+2/5
+773,87
+-1
+773,87
+01/12/25
+773,87
+boleto
+aguia confeccoes ltda
+63
+1
+compras de mercadorias
+fe-1707/573
+11/11/2025
+11/11/2025
+1/1
+13,50
+-1
+13,50
+12/11/25
+13,50
+dinheiro
+atacadao moto pecas
+1
+despesas
+fe-1407/483
+20/08/2025
+12/11/2025
+3/3
+715,62
+0
+715,62
+12/11/25
+715,62
+boleto
+atacadao moto pecas
+3894
+1
+compras de mercadorias
+fe-1718/577
+18/11/2025
+18/11/2025
+1/1
+88,00
+0
+88,00
+18/11/25
+88,00
+dinheiro
+atacadao moto pecas
+1
+despesas
+fe-1720/578
+19/11/2025
+19/11/2025
+1/1
+85,00
+-2
+85,00
+21/11/25
+85,00
+dinheiro
+atacadao moto pecas
+1
+despesas
+fe-1554/522
+20/09/2025
+22/11/2025
+2/4
+2.446,93
+-4
+2.446,93
+26/11/25
+2.446,93
+boleto
+auto bicicletao - maraba iii
+49152
+1
+compras de mercadorias
+fe-1382/471
+13/08/2025
+10/11/2025
+4/4
+587,94
+0
+587,94
+10/11/25
+587,94
+boleto
+brautoparts
+22982
+1
+compras de mercadorias
+fe-1631/544
+21/10/2025
+17/11/2025
+1/3
+586,54
+-1
+586,54
+18/11/25
+586,54
+boleto
+brautoparts
+26272
+1
+compras de mercadorias
+fe-1694/564
+05/11/2025
+05/11/2025
+1/1
+20,00
+0
+20,00
+05/11/25
+20,00
+dinheiro
+brr motos
+1
+despesas
+fe-1698/568
+07/11/2025
+07/11/2025
+1/1
+18,00
+-3
+18,00
+10/11/25
+18,00
+dinheiro
+brr motos
+1
+despesas
+fe-1702/570
+07/11/2025
+07/11/2025
+1/1
+18,00
+-3
+18,00
+10/11/25
+18,00
+dinheiro
+brr motos
+1
+despesas
+fp-1474/
+02/09/2025
+21/11/2025
+3/3
+1.398,33
+0
+1.398,33
+21/11/25
+1.398,33
+boleto
+brutus distrib pneus
+1
+compras de mercadorias
+fp-1481/
+02/09/2025
+14/11/2025
+3/4
+1.514,89
+-4
+1.514,89
+18/11/25
+1.514,89
+boleto
+c &amp j distribuidora amazonia ltda
+1
+compras de mercadorias
+fe-1564/524
+22/09/2025
+20/11/2025
+2/3
+1.200,20
+-1
+1.200,20
+21/11/25
+1.200,20
+a prazo
+c &amp j distribuidora amazonia ltda
+1501899
+1
+despesas
+fp-1489/
+02/09/2025
+12/11/2025
+3/4
+2.898,73
+0
+2.898,73
+12/11/25
+2.898,73
+boleto
+cairu
+1
+compras de mercadorias
+fe-1695/565
+06/11/2025
+05/11/2025
+1/1
+189,00
+-5
+189,00
+10/11/25
+189,00
+dinheiro
+casa ferreira moto pecas
+1
+despesas
+fe-1696/566
+06/11/2025
+06/11/2025
+1/1
+121,50
+-4
+121,50
+10/11/25
+121,50
+dinheiro
+casa ferreira moto pecas
+1
+despesas
+fe-1727/580
+21/11/2025
+21/11/2025
+1/1
+40,00
+-5
+40,00
+26/11/25
+40,00
+dinheiro
+casa ferreira moto pecas
+1
+despesas
+fe-1704/572
+10/11/2025
+10/11/2025
+1/1
+146,00
+0
+146,00
+10/11/25
+146,00
+dinheiro
+casa ferreira pecas e acessorios
+1
+despesas
+página 1 de 4
+01/12/2025 18:10:38
+desenvolvido por lc sistemas - v3.1.9
+impresso:
+documento
+fornecedor
+dt lancamentodt vencimento
+par
+valor
+dias
+corrigido dt pagamento
+pagamento
+valor pago
+nº nf
+emp
+plano
+observações
+fe-1498/495
+03/09/2025
+19/11/2025
+3/4
+1.487,62
+-2
+1.487,62
+21/11/25
+1.487,62
+boleto
+ciclo cairu ltda
+1
+despesas
+fp-1129/
+30/05/2025
+08/11/2025
+7/13
+377,96
+-2
+377,96
+10/11/25
+377,96
+pix
+claro
+1
+telefone
+fe-1387/472
+13/08/2025
+04/11/2025
+5/5
+643,23
+0
+643,23
+04/11/25
+643,23
+boleto
+cobra rolamentos e autopecas s/a
+195820
+1
+compras de mercadorias
+fe-1559/523
+22/09/2025
+13/11/2025
+3/5
+558,09
+0
+558,09
+13/11/25
+558,09
+boleto
+cobra rolamentos e autopecas s/a
+199609
+1
+compras de mercadorias
+fe-1560/523
+22/09/2025
+27/11/2025
+4/5
+558,09
+-4
+558,09
+01/12/25
+558,09
+boleto
+cobra rolamentos e autopecas s/a
+199609
+1
+compras de mercadorias
+fe-1642/548
+22/10/2025
+20/11/2025
+1/2
+564,00
+-1
+564,00
+21/11/25
+564,00
+boleto
+colina distribuidora
+1
+despesas
+fe-1668/557
+30/10/2025
+13/11/2025
+1/4
+699,00
+0
+699,00
+13/11/25
+699,00
+boleto
+comercial mariano
+1
+despesas
+fe-1669/557
+30/10/2025
+28/11/2025
+2/4
+699,00
+-3
+699,00
+01/12/25
+699,00
+boleto
+comercial mariano
+1
+despesas
+fe-1378/470
+13/08/2025
+10/11/2025
+4/4
+932,05
+0
+932,05
+10/11/25
+932,05
+boleto
+companhia brasileira de distribuicao
+116813
+1
+compras de mercadorias
+fe-1628/543
+21/10/2025
+17/11/2025
+1/3
+600,37
+-1
+600,37
+18/11/25
+600,37
+boleto
+companhia brasileira de distribuicao
+130520
+1
+compras de mercadorias
+fp-1046/
+08/05/2025
+05/11/2025
+7/8
+500,00
+0
+500,00
+05/11/25
+500,00
+pix
+contabilidade brasil
+1
+contabilidade
+fp-1723/simples
+21/11/2025
+21/11/2025
+1/1
+267,72
+0
+267,72
+21/11/25
+267,72
+pix
+dae
+1
+simples
+fp-1722/multa
+21/11/2025
+28/11/2025
+1/1
+2.981,26
+8
+2.981,26
+20/11/25
+2.981,26
+pix
+dae
+1
+multas icms
+fe-1394/476
+14/08/2025
+01/11/2025
+6/7
+442,48
+-2
+442,48
+03/11/25
+442,48
+boleto
+damasio motopecas pa
+170291
+1
+compras de mercadorias
+fe-1502/496
+03/09/2025
+02/11/2025
+3/5
+307,82
+-1
+307,82
+03/11/25
+307,82
+boleto
+damasio motopecas pa
+172116
+1
+compras de mercadorias
+fe-1549/521
+19/09/2025
+03/11/2025
+2/5
+502,26
+0
+502,26
+03/11/25
+502,26
+boleto
+damasio motopecas pa
+173786
+1
+compras de mercadorias
+fe-1418/487
+26/08/2025
+08/11/2025
+4/5
+444,52
+-2
+444,52
+10/11/25
+444,52
+boleto
+damasio motopecas pa
+1
+despesas
+fe-1531/506
+12/09/2025
+10/11/2025
+3/5
+386,84
+0
+386,84
+10/11/25
+386,84
+boleto
+damasio motopecas pa
+173028
+1
+compras de mercadorias
+fe-1395/476
+14/08/2025
+11/11/2025
+7/7
+442,45
+-1
+442,45
+12/11/25
+442,45
+boleto
+damasio motopecas pa
+170291
+1
+compras de mercadorias
+fe-1430/491
+01/09/2025
+12/11/2025
+4/5
+242,99
+0
+242,99
+12/11/25
+242,99
+boleto
+damasio motopecas pa
+171763
+1
+compras de mercadorias
+fe-1618/541
+16/10/2025
+14/11/2025
+1/5
+1.714,95
+-4
+1.714,95
+18/11/25
+1.714,95
+boleto
+damasio motopecas pa
+176326
+1
+compras de mercadorias
+fe-1623/542
+16/10/2025
+14/11/2025
+1/5
+122,34
+-4
+122,34
+18/11/25
+122,34
+boleto
+damasio motopecas pa
+176307
+1
+compras de mercadorias
+fe-1503/496
+03/09/2025
+17/11/2025
+4/5
+307,82
+-1
+307,82
+18/11/25
+307,82
+boleto
+damasio motopecas pa
+172116
+1
+compras de mercadorias
+fe-1550/521
+19/09/2025
+18/11/2025
+3/5
+502,26
+0
+502,26
+18/11/25
+502,26
+boleto
+damasio motopecas pa
+173786
+1
+compras de mercadorias
+fe-1635/546
+22/10/2025
+20/11/2025
+1/5
+945,18
+-1
+945,18
+21/11/25
+945,18
+boleto
+damasio motopecas pa
+176807
+1
+compras de mercadorias
+fe-1419/487
+26/08/2025
+23/11/2025
+5/5
+444,52
+-3
+444,52
+26/11/25
+444,52
+boleto
+damasio motopecas pa
+1
+despesas
+página 2 de 4
+01/12/2025 18:10:38
+desenvolvido por lc sistemas - v3.1.9
+impresso:
+documento
+fornecedor
+dt lancamentodt vencimento
+par
+valor
+dias
+corrigido dt pagamento
+pagamento
+valor pago
+nº nf
+emp
+plano
+observações
+fe-1532/506
+12/09/2025
+25/11/2025
+4/5
+386,84
+-1
+386,84
+26/11/25
+386,84
+boleto
+damasio motopecas pa
+173028
+1
+compras de mercadorias
+fe-1431/491
+01/09/2025
+27/11/2025
+5/5
+242,98
+-4
+242,98
+01/12/25
+242,98
+boleto
+damasio motopecas pa
+171763
+1
+compras de mercadorias
+fe-1619/541
+16/10/2025
+29/11/2025
+2/5
+1.714,95
+-2
+1.714,95
+01/12/25
+1.714,95
+boleto
+damasio motopecas pa
+176326
+1
+compras de mercadorias
+fe-1624/542
+16/10/2025
+29/11/2025
+2/5
+122,34
+-2
+122,34
+01/12/25
+122,34
+boleto
+damasio motopecas pa
+176307
+1
+compras de mercadorias
+fp-1724/funcion
+21/11/2025
+21/11/2025
+1/1
+429,45
+2
+429,45
+19/11/25
+429,45
+pix
+darf
+1
+inss
+fp-959/
+12/04/2025
+22/11/2025
+8/12
+546,42
+-4
+546,42
+26/11/25
+546,42
+c. credito tef
+despesa com cartao de credito
+1
+material de expediente (escritorio)
+rampas oficina loja
+fp-1177/jato de agua
+07/06/2025
+22/11/2025
+6/6
+58,16
+-4
+58,16
+26/11/25
+58,16
+c. credito tef
+despesa com cartao de credito
+1
+material de expediente (escritorio)
+fe-1651/552
+27/10/2025
+12/11/2025
+1/4
+1.220,06
+0
+1.220,06
+12/11/25
+1.220,06
+boleto
+eurostar do brasil sa
+1465352
+1
+compras de mercadorias
+fe-1656/553
+28/10/2025
+12/11/2025
+1/1
+375,26
+0
+375,26
+12/11/25
+375,26
+boleto
+eurostar do brasil sa
+1465353
+1
+compras de mercadorias
+fp-1725/funcion
+21/11/2025
+21/11/2025
+1/1
+441,28
+2
+441,28
+19/11/25
+441,28
+pix
+fgts
+1
+fgts
+fe-1605/540
+14/10/2025
+07/11/2025
+1/4
+987,36
+-3
+987,36
+10/11/25
+987,36
+boleto
+fil402-mariano/ananindeua
+106634
+1
+compras de mercadorias
+fe-1606/540
+14/10/2025
+24/11/2025
+2/4
+987,38
+-2
+987,38
+26/11/25
+987,38
+boleto
+fil402-mariano/ananindeua
+106634
+1
+compras de mercadorias
+fp-1726/
+21/11/2025
+19/11/2025
+1/1
+316,87
+-2
+316,87
+21/11/25
+316,87
+pix
+frete
+1
+correios, malotes e sedex (adm)
+fp-1060/
+08/05/2025
+05/11/2025
+7/8
+169,90
+0
+169,90
+05/11/25
+169,90
+pix
+ibl banda larga internet
+1
+servico de acesso a internet
+fp-1705/
+10/11/2025
+10/11/2025
+1/1
+1.081,76
+0
+1.081,76
+10/11/25
+1.081,76
+pix
+imposto sob frete de fora
+1
+taxas, contribuicoes e mensalidades
+fe-1686/561
+01/11/2025
+01/11/2025
+1/1
+17,50
+-2
+17,50
+03/11/25
+17,50
+dinheiro
+jaguar motos
+1
+despesas
+fe-1689/563
+03/11/2025
+03/11/2025
+1/1
+39,50
+-1
+39,50
+04/11/25
+39,50
+dinheiro
+jaguar motos
+1
+despesas
+fe-1697/567
+06/11/2025
+06/11/2025
+1/1
+25,90
+-4
+25,90
+10/11/25
+25,90
+dinheiro
+jaguar motos
+1
+despesas
+fe-1701/569
+07/11/2025
+07/11/2025
+1/1
+29,00
+-3
+29,00
+10/11/25
+29,00
+dinheiro
+jaguar motos
+1
+despesas
+fe-1709/574
+11/11/2025
+11/11/2025
+1/1
+79,00
+-1
+79,00
+12/11/25
+79,00
+dinheiro
+jaguar motos
+1
+despesas
+fe-1710/575
+14/11/2025
+13/11/2025
+1/1
+8,40
+-5
+8,40
+18/11/25
+8,40
+dinheiro
+jaguar motos
+1
+despesas
+fe-1688/562
+03/11/2025
+18/11/2025
+1/1
+323,50
+0
+323,50
+18/11/25
+323,50
+boleto
+jaguar motos
+1
+despesas
+fe-1721/579
+20/11/2025
+20/11/2025
+1/1
+14,95
+-1
+14,95
+21/11/25
+14,95
+dinheiro
+jaguar motos
+1
+despesas
+fp-1074/
+10/05/2025
+15/11/2025
+6/7
+175,00
+-3
+175,00
+18/11/25
+175,00
+pix
+lc sistemas
+1
+servicos de terceiros - programador
+fe-1682/560
+01/11/2025
+15/11/2025
+1/4
+333,60
+-3
+333,60
+18/11/25
+333,60
+boleto
+lumax industria e comercio de oleo
+1
+despesas
+fe-1683/560
+01/11/2025
+29/11/2025
+2/4
+333,60
+-2
+333,60
+01/12/25
+333,60
+boleto
+lumax industria e comercio de oleo
+1
+despesas
+página 3 de 4
+01/12/2025 18:10:38
+desenvolvido por lc sistemas - v3.1.9
+impresso:

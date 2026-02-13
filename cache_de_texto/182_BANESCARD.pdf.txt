@@ -1,0 +1,1125 @@
+banestes - banco do estado do espírito santo
+produtos
+taxas(%)
+prazos
+parcelas
+cartao banescard débito
+1,50
+1
+cartao banescard crédito
+1 a 1
+2,55
+30
+cartao banescard crédito
+2 a 6
+2,90
+30
+relatório extrato de repasses efetivados - sintético
+marina presentes
+br-262 6555
+cariacica
+29.145-762
+39101
+09.022.762/0003-25
+021
+0091
+cpf/cnpj:
+banco:
+agência:
+informações do estabelecimento:
+endereço:
+nome:
+sao francisco
+es
+cep:
+20/01/2021 10:19
+repasses do período: 01/12/2020
+31/12/2020
+a
+código:
+extrato para simples conferência
+bairro:
+cidade:
+uf:
+data repasse
+data
+movimentação
+qtd
+lancs
+descrição
+valor bruto
+valor recebido
+parc
+valor antecipado crédito antecipação
+valor  líquido
+data prevista
+pagamento
+data
+antecipação
+01/12/2020
+02/09/2020
+01/12/2020
+1
+venda a credito parcelada
+3/3
+85,33
+82,85
+0,00
+0,00
+82,85
+02/10/2020
+01/12/2020
+1
+venda a credito parcelada
+2/2
+113,99
+110,68
+0,00
+0,00
+110,68
+02/10/2020
+01/12/2020
+1
+venda a credito parcelada
+2/3
+88,98
+86,40
+0,00
+0,00
+86,40
+02/10/2020
+01/12/2020
+1
+venda a credito parcelada
+2/5
+41,99
+40,78
+0,00
+0,00
+40,78
+30/11/2020
+01/12/2020
+1
+venda a debito
+1/1
+44,99
+44,32
+0,00
+0,00
+44,32
+5
+repasse(s) no dia
+5
+01/12
+375,28
+365,03
+0,00
+0,00
+365,03
+02/12/2020
+03/09/2020
+02/12/2020
+1
+venda a credito parcelada
+3/6
+85,82
+83,34
+0,00
+0,00
+83,34
+1
+repasse(s) no dia
+1
+02/12
+85,82
+83,34
+0,00
+0,00
+83,34
+03/12/2020
+04/09/2020
+03/12/2020
+1
+venda a credito parcelada
+3/4
+79,99
+77,67
+0,00
+0,00
+77,67
+03/11/2020
+03/12/2020
+1
+venda a credito parcelada
+1/3
+36,66
+35,60
+0,00
+0,00
+35,60
+03/11/2020
+03/12/2020
+1
+venda a credito parcelada
+1/5
+45,99
+44,66
+0,00
+0,00
+44,66
+03/11/2020
+03/12/2020
+1
+venda a credito rotativo
+1/1
+79,98
+77,94
+0,00
+0,00
+77,94
+02/12/2020
+03/12/2020
+3
+venda a debito
+1/1
+599,86
+590,86
+0,00
+0,00
+590,86
+7
+repasse(s) no dia
+5
+03/12
+842,48
+826,73
+0,00
+0,00
+826,73
+04/12/2020
+05/10/2020
+04/12/2020
+1
+venda a credito parcelada
+2/3
+39,99
+38,83
+0,00
+0,00
+38,83
+05/10/2020
+04/12/2020
+1
+venda a credito parcelada
+2/4
+49,99
+48,54
+0,00
+0,00
+48,54
+05/10/2020
+04/12/2020
+1
+venda a credito parcelada
+2/5
+107,99
+104,86
+0,00
+0,00
+104,86
+03/12/2020
+04/12/2020
+3
+venda a debito
+1/1
+149,97
+147,72
+0,00
+0,00
+147,72
+6
+repasse(s) no dia
+4
+04/12
+347,94
+339,95
+0,00
+0,00
+339,95
+07/12/2020
+06/10/2020
+07/12/2020
+1
+venda a credito parcelada
+2/4
+34,99
+33,98
+0,00
+0,00
+33,98
+07/10/2020
+07/12/2020
+2
+venda a credito parcelada
+2/3
+76,66
+74,45
+0,00
+0,00
+74,45
+07/10/2020
+07/12/2020
+1
+venda a credito parcelada
+2/6
+71,66
+69,59
+0,00
+0,00
+69,59
+08/10/2020
+07/12/2020
+1
+venda a credito parcelada
+2/2
+75,00
+72,82
+0,00
+0,00
+72,82
+08/10/2020
+07/12/2020
+1
+venda a credito parcelada
+2/5
+39,99
+38,83
+0,00
+0,00
+38,83
+04/12/2020
+07/12/2020
+4
+venda a debito
+1/1
+217,93
+214,66
+0,00
+0,00
+214,66
+07/12/2020
+07/12/2020
+3
+venda a debito
+1/1
+195,96
+193,02
+0,00
+0,00
+193,02
+13
+repasse(s) no dia
+7
+07/12
+712,19
+697,35
+0,00
+0,00
+697,35
+08/12/2020
+10/08/2020
+08/12/2020
+1
+venda a credito parcelada
+4/6
+39,16
+38,03
+0,00
+0,00
+38,03
+09/10/2020
+08/12/2020
+1
+venda a credito parcelada
+2/2
+40,00
+38,84
+0,00
+0,00
+38,84
+09/10/2020
+08/12/2020
+1
+venda a credito parcelada
+2/3
+48,32
+46,92
+0,00
+0,00
+46,92
+09/10/2020
+08/12/2020
+1
+venda a credito parcelada
+2/5
+59,99
+58,25
+0,00
+0,00
+58,25
+relatório extrato de repasses efetivados - sintético
+20/01/2021 10:19
+ - marina presentes
+3910
+1
+09022762000325
+cnpj:
+estabelecimento:
+período: 01/12/2020 a 31/12/2020
+extrato para simples conferência
+data repasse
+data
+movimentação
+qtd
+lancs
+descrição
+valor bruto
+valor recebido
+parc
+valor antecipado crédito antecipação
+valor  líquido
+data prevista
+pagamento
+data
+antecipação
+08/12/2020
+07/12/2020
+08/12/2020
+1
+venda a debito
+1/1
+49,99
+49,24
+0,00
+0,00
+49,24
+5
+repasse(s) no dia
+5
+08/12
+237,46
+231,28
+0,00
+0,00
+231,28
+09/12/2020
+09/11/2020
+09/12/2020
+2
+venda a credito parcelada
+1/2
+84,98
+82,52
+0,00
+0,00
+82,52
+09/11/2020
+09/12/2020
+1
+venda a credito parcelada
+1/3
+39,99
+38,83
+0,00
+0,00
+38,83
+09/11/2020
+09/12/2020
+1
+venda a credito parcelada
+1/4
+81,98
+79,61
+0,00
+0,00
+79,61
+08/12/2020
+09/12/2020
+1
+venda a debito
+1/1
+39,99
+39,39
+0,00
+0,00
+39,39
+5
+repasse(s) no dia
+4
+09/12
+246,94
+240,35
+0,00
+0,00
+240,35
+10/12/2020
+12/08/2020
+10/12/2020
+1
+venda a credito parcelada
+4/4
+65,01
+63,11
+0,00
+0,00
+63,11
+10/11/2020
+10/12/2020
+1
+venda a credito rotativo
+1/1
+69,99
+68,21
+0,00
+0,00
+68,21
+2
+repasse(s) no dia
+2
+10/12
+135,00
+131,32
+0,00
+0,00
+131,32
+11/12/2020
+11/11/2020
+11/12/2020
+1
+venda a credito rotativo
+1/1
+69,98
+68,20
+0,00
+0,00
+68,20
+1
+repasse(s) no dia
+1
+11/12
+69,98
+68,20
+0,00
+0,00
+68,20
+14/12/2020
+13/10/2020
+14/12/2020
+10
+venda a credito parcelada
+2/2
+655,94
+636,90
+0,00
+0,00
+636,90
+13/10/2020
+14/12/2020
+10
+venda a credito parcelada
+2/3
+560,91
+544,67
+0,00
+0,00
+544,67
+13/10/2020
+14/12/2020
+1
+venda a credito parcelada
+2/5
+40,00
+38,84
+0,00
+0,00
+38,84
+13/10/2020
+14/12/2020
+2
+venda a credito parcelada
+2/6
+78,31
+76,04
+0,00
+0,00
+76,04
+14/10/2020
+14/12/2020
+1
+venda a credito parcelada
+2/3
+29,99
+29,12
+0,00
+0,00
+29,12
+15/10/2020
+14/12/2020
+2
+venda a credito parcelada
+2/2
+175,98
+170,87
+0,00
+0,00
+170,87
+12/11/2020
+14/12/2020
+1
+venda a credito parcelada
+1/2
+29,99
+29,12
+0,00
+0,00
+29,12
+11/12/2020
+14/12/2020
+3
+venda a debito
+1/1
+459,97
+453,07
+0,00
+0,00
+453,07
+14/12/2020
+14/12/2020
+8
+venda a debito
+1/1
+654,91
+645,09
+0,00
+0,00
+645,09
+38
+repasse(s) no dia
+9
+14/12
+2.686,00
+2.623,72
+0,00
+0,00
+2.623,72
+15/12/2020
+16/10/2020
+15/12/2020
+1
+venda a credito parcelada
+2/2
+40,00
+38,84
+0,00
+0,00
+38,84
+14/12/2020
+15/12/2020
+1
+venda a debito
+1/1
+69,99
+68,94
+0,00
+0,00
+68,94
+2
+repasse(s) no dia
+2
+15/12
+109,99
+107,78
+0,00
+0,00
+107,78
+16/12/2020
+16/11/2020
+16/12/2020
+2
+venda a credito parcelada
+1/3
+106,65
+103,56
+0,00
+0,00
+103,56
+16/11/2020
+16/12/2020
+1
+venda a credito rotativo
+1/1
+49,99
+48,72
+0,00
+0,00
+48,72
+3
+repasse(s) no dia
+2
+16/12
+156,64
+152,28
+0,00
+0,00
+152,28
+17/12/2020
+16/12/2020
+17/12/2020
+4
+venda a debito
+1/1
+394,96
+389,04
+0,00
+0,00
+389,04
+4
+repasse(s) no dia
+1
+17/12
+394,96
+389,04
+0,00
+0,00
+389,04
+18/12/2020
+19/10/2020
+18/12/2020
+1
+venda a credito parcelada
+2/6
+43,33
+42,08
+0,00
+0,00
+42,08
+18/11/2020
+18/12/2020
+1
+venda a credito rotativo
+1/1
+79,99
+77,95
+0,00
+0,00
+77,95
+17/12/2020
+18/12/2020
+2
+venda a debito
+1/1
+129,98
+128,03
+0,00
+0,00
+128,03
+4
+repasse(s) no dia
+3
+18/12
+253,30
+248,06
+0,00
+0,00
+248,06
+21/12/2020
+21/10/2020
+21/12/2020
+1
+venda a credito parcelada
+2/3
+83,33
+80,92
+0,00
+0,00
+80,92
+relatório extrato de repasses efetivados - sintético
+20/01/2021 10:19
+ - marina presentes
+3910
+1
+09022762000325
+cnpj:
+estabelecimento:
+período: 01/12/2020 a 31/12/2020
+extrato para simples conferência
+data repasse
+data
+movimentação
+qtd
+lancs
+descrição
+valor bruto
+valor recebido
+parc
+valor antecipado crédito antecipação
+valor  líquido
+data prevista
+pagamento
+data
+antecipação
+21/12/2020
+20/11/2020
+21/12/2020
+1
+venda a credito rotativo
+1/1
+49,99
+48,72
+0,00
+0,00
+48,72
+18/12/2020
+21/12/2020
+5
+venda a debito
+1/1
+572,94
+564,35
+0,00
+0,00
+564,35
+21/12/2020
+21/12/2020
+18
+venda a debito
+1/1
+2.561,57
+2.523,17
+0,00
+0,00
+2.523,17
+25
+repasse(s) no dia
+4
+21/12
+3.267,83
+3.217,16
+0,00
+0,00
+3.217,16
+22/12/2020
+23/10/2020
+22/12/2020
+1
+venda a credito parcelada
+2/6
+31,66
+30,75
+0,00
+0,00
+30,75
+21/12/2020
+22/12/2020
+8
+venda a debito
+1/1
+950,89
+936,62
+0,00
+0,00
+936,62
+9
+repasse(s) no dia
+2
+22/12
+982,55
+967,37
+0,00
+0,00
+967,37
+23/12/2020
+25/08/2020
+23/12/2020
+1
+venda a credito parcelada
+4/4
+66,51
+64,56
+0,00
+0,00
+64,56
+23/11/2020
+23/12/2020
+1
+venda a credito parcelada
+1/6
+41,66
+40,46
+0,00
+0,00
+40,46
+23/11/2020
+23/12/2020
+3
+venda a credito rotativo
+1/1
+129,97
+126,66
+0,00
+0,00
+126,66
+22/12/2020
+23/12/2020
+19
+venda a debito
+1/1
+1.645,71
+1.621,05
+0,00
+0,00
+1.621,05
+24
+repasse(s) no dia
+4
+23/12
+1.883,85
+1.852,73
+0,00
+0,00
+1.852,73
+24/12/2020
+24/11/2020
+24/12/2020
+1
+venda a credito parcelada
+1/5
+35,99
+34,95
+0,00
+0,00
+34,95
+23/12/2020
+24/12/2020
+26
+venda a debito
+1/1
+3.642,44
+3.587,82
+0,00
+0,00
+3.587,82
+27
+repasse(s) no dia
+2
+24/12
+3.678,43
+3.622,77
+0,00
+0,00
+3.622,77
+28/12/2020
+28/09/2020
+28/12/2020
+1
+venda a credito parcelada
+3/3
+216,67
+210,38
+0,00
+0,00
+210,38
+28/09/2020
+28/12/2020
+1
+venda a credito parcelada
+3/6
+39,16
+38,03
+0,00
+0,00
+38,03
+29/09/2020
+28/12/2020
+1
+venda a credito parcelada
+3/3
+33,33
+32,35
+0,00
+0,00
+32,35
+26/10/2020
+28/12/2020
+2
+venda a credito parcelada
+2/2
+125,00
+121,37
+0,00
+0,00
+121,37
+27/10/2020
+28/12/2020
+1
+venda a credito parcelada
+2/2
+39,99
+38,83
+0,00
+0,00
+38,83
+25/11/2020
+28/12/2020
+1
+venda a credito parcelada
+1/2
+59,98
+58,24
+0,00
+0,00
+58,24
+27/11/2020
+28/12/2020
+1
+venda a credito parcelada
+1/6
+66,66
+64,73
+0,00
+0,00
+64,73
+24/12/2020
+28/12/2020
+17
+venda a debito
+1/1
+1.814,70
+1.787,49
+0,00
+0,00
+1.787,49
+28/12/2020
+28/12/2020
+5
+venda a debito
+1/1
+591,90
+583,02
+0,00
+0,00
+583,02
+30
+repasse(s) no dia
+9
+28/12
+2.987,39
+2.934,44
+0,00
+0,00
+2.934,44
+29/12/2020
+30/09/2020
+29/12/2020
+1
+venda a credito parcelada
+3/6
+84,99
+82,53
+0,00
+0,00
+82,53
+28/12/2020
+29/12/2020
+2
+venda a debito
+1/1
+199,98
+196,98
+0,00
+0,00
+196,98
+3
+repasse(s) no dia
+2
+29/12
+284,97
+279,51
+0,00
+0,00
+279,51
+30/12/2020
+30/11/2020
+30/12/2020
+2
+venda a credito parcelada
+1/3
+209,98
+203,89
+0,00
+0,00
+203,89
+30/11/2020
+30/12/2020
+1
+venda a credito parcelada
+1/5
+50,99
+49,52
+0,00
+0,00
+49,52
+30/11/2020
+30/12/2020
+1
+venda a credito rotativo
+1/1
+79,99
+77,95
+0,00
+0,00
+77,95
+4
+repasse(s) no dia
+3
+30/12
+340,96
+331,36
+0,00
+0,00
+331,36
+31/12/2020
+30/12/2020
+31/12/2020
+3
+venda a debito
+1/1
+174,97
+172,35
+0,00
+0,00
+172,35
+3
+repasse(s) no dia
+1
+31/12
+174,97
+172,35
+0,00
+0,00
+172,35
+           repasse(s) no mês 12/2020
+221
+78
+20.254,93
+19.882,12
+0,00
+0,00
+19.882,12
+total do período:
+221
+20.254,93
+19.882,12
+0,00
+0,00
+19.882,12

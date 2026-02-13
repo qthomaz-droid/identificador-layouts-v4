@@ -1,0 +1,351 @@
+nicoffee cafe ltda
+extrato de contas
+filtros
+período:01/10/2025 a 31/10/2025
+modelo: detalhado
+incluir não conciliados: não
+imprimir caixas sem movimentação: não
+imprimir movimentações futuras: não
+    sc - sicoob
+    saldo anterior 3.590.416,27      saldo não conciliado : 414.927,80
+emp
+registro
+dia
+cheque
+documento
+cliente / fornecedor
+histórico
+entradas      
+saídas       
+saldo    
+1
+260
+01/10
+0
+1205-1/1
+17 - cafe tres coracoes s.a
+recebido de tra-1205-1/1
+rs450.000,00
+rs 0,00
+4.040.4
+1
+1476
+03/10
+0
+1197-1/1
+208 - aurelio baldon silva
+pago a che-1197-1/1
+rs 0,00
+rs
+101.500,00
+3.938.9
+1
+1489
+03/10
+139 - bruno dos santos de oliveira
+folha mensal bruno - set 25 tra-
+rs 0,00
+rs 1.634,77
+3.937.2
+1
+1490
+03/10
+170 - karine damaceno martins
+folha mensal karine - set 25 tra-
+rs 0,00
+rs 1.634,77
+3.935.6
+1
+1491
+03/10
+2 - agenor nicoli neto
+pro-labore agenor - set 25 tra-
+rs 0,00
+rs 1.351,02
+3.934.2
+1
+1492
+03/10
+93 - josimar maduro de oliveira
+folha mensal josimar - set 25 tra-
+rs 0,00
+rs 1.933,77
+3.932.3
+1
+1457
+08/10
+0
+1199-1/1
+87 - sergio flavio carnielli
+pago a che-1199-1/1
+rs 0,00
+rs 76.000,00
+3.856.3
+1
+1458
+08/10
+0
+1211-1/1
+98 - neil joaquim de almeida
+pago a din-1211-1/1
+rs 0,00
+rs 12.150,00
+3.844.2
+1
+1459
+08/10
+0
+1212-1/1
+133 - maximiano rodrigues neto
+pago a -1212-1/1
+rs 0,00
+rs 28.000,00
+3.816.2
+1
+1460
+08/10
+0
+1213-1/1
+13 - fernando antonio de oliveira
+pago a -1213-1/1
+rs 0,00
+rs 33.750,00
+3.782.4
+1
+1464
+08/10
+0
+20913
+95 - auto posto bixu de pe ltda
+pago a bol-20913
+rs 0,00
+rs 407,97
+3.782.0
+1
+1461
+09/10
+0
+1 - 79
+88 - sicoob credicope
+transferência de sicoob para banco do brasil din-
+1 - 79
+rs 0,00
+rs 250,00
+3.781.8
+1
+1462
+09/10
+0
+1214-1/1
+211 - antonia marcia ferreira
+pago a -1214-1/1
+rs 0,00
+rs 13.500,00
+3.768.3
+1
+1463
+15/10
+0
+1210-1/1
+70 - ney de almeida filho
+pago a che-1210-1/1
+rs 0,00
+rs
+129.600,00
+3.638.7
+1
+1467
+17/10
+0
+1198-1/1
+205 - valter luiz carnielli
+pago a che-1198-1/1
+rs 0,00
+rs
+145.000,00
+3.493.7
+1
+1468
+17/10
+0
+1221-1/1
+210 - marco antonio dalfior
+pago a -1221-1/1
+rs 0,00
+rs 30.785,00
+3.462.9
+1
+1469
+17/10
+0
+1222-1/1
+186 - eduardo fazolo carnielli
+pago a -1222-1/1
+rs 0,00
+rs 68.500,00
+3.394.4
+1
+1470
+20/10
+0
+1223-1/1
+211 - antonia marcia ferreira
+pago a -1223-1/1
+rs 0,00
+rs 54.000,00
+3.340.4
+1
+1471
+20/10
+0
+1224-1/1
+35 - everton pereira neitzel
+pago a -1224-1/1
+rs 0,00
+rs 34.250,00
+3.306.1
+1
+1472
+20/10
+07162528609301406
+84 - secretaria da receita federal do brasil
+darf previdenciário - set 25 imp-
+07162528609301406
+rs 0,00
+rs 26.074,11
+3.280.0
+1
+1473
+20/10
+01251013975087940
+84 - secretaria da receita federal do brasil
+fgts - set 25 imp-01251013975087940
+rs 0,00
+rs 440,00
+3.279.6
+1
+1474
+20/10
+0
+1 - 80
+88 - sicoob credicope
+transferência de dinheiro entre caixas din-1 - 80
+rs 0,00
+rs 15.000,00
+3.264.6
+1
+1477
+22/10
+0
+1216-1/1
+212 - gabriel junior paixao
+pago a che-1216-1/1
+rs 0,00
+rs 99.280,00
+3.165.3
+1
+1478
+22/10
+0
+1225-1/1
+53 - jose de abreu
+pago a tra-1225-1/1
+rs 0,00
+rs 14.000,00
+3.151.3
+1
+1479
+23/10
+0
+1234-1/1
+47 - sostenes pedro de oliveira
+pago a -1234-1/1
+rs 0,00
+rs 28.000,00
+3.123.3
+1
+1480
+28/10
+0
+1218-1/1
+213 - augusto moreira de paula magalhaes
+pago a che-1218-1/1
+rs 0,00
+rs 99.280,00
+3.024.0
+1
+1481
+28/10
+0
+1227-1/1
+214 - arthur neitzel
+pago a che-1227-1/1
+rs 0,00
+rs 66.975,00
+2.957.1
+1
+1482
+28/10
+0
+1233-1/1
+53 - jose de abreu
+pago a -1233-1/1
+rs 0,00
+rs 70.000,00
+2.887.1
+1
+1483
+28/10
+0
+1245-1/1
+7 - julio cesar de nadai
+pago a -1245-1/1
+rs 0,00
+rs 40.500,00
+2.846.6
+1
+259
+29/10
+0
+1217-1/1
+17 - cafe tres coracoes s.a
+recebido de tra-1217-1/1
+rs420.000,00
+rs 0,00
+3.266.6
+1
+259
+29/10
+0
+1220-1/1
+17 - cafe tres coracoes s.a
+recebido de tra-1220-1/1
+rs420.000,00
+rs 0,00
+3.686.6
+1
+1484
+30/10
+0
+1215-1/1
+134 - fernando freitas borba
+pago a che-1215-1/1
+rs 0,00
+rs
+149.600,00
+3.537.0
+32 registro(s)
+total
+rs
+1.290.000,00
+rs
+1.343.396,41
+rs
+3.537.0
+0 registro(s)
+saldo não conciliado
+rs
+414.927,80
+geral
+rs3.122.092,06
+impresso em 05/11/2025 11:08 por nicoffee

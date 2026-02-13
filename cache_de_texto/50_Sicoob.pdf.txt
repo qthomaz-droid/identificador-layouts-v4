@@ -1,0 +1,344 @@
+sicoob
+sistema de cooperativas de crédito do brasil
+sisbr - sistema de informática do sicoob
+01/07/2020
+extrato conta corrente
+08:32:06
+período:
+01/06/2020 a 30/06/2020
+cooperativa:
+4036-3 / sicoob vale do aço
+conta:
+19.779.001-1 / a aposentados e pensionistas ipatinga - aapi
+saldos anteriores
+29/05/2020
+saldo anterior
+295.096,19c
+29/05/2020
+saldo bloqueado anterior
+0,00*
+data
+documento
+histórico
+valor
+01/06/2020
+-
+debito pagamento salario
+214.901,05d
+01/06/2020
+142
+dep.dinheiro
+1.900,00c
+01/06/2020
+0000002885
+créd.liquidação cobrança
+77,50c
+01/06/2020
+0000002885
+tarifa cobrança
+2,08d
+01/06/2020
+lc-202005
+juros conta garantida
+2,98d
+saldo do dia
+82.167,58c
+02/06/2020
+85
+dep.dinheiro
+3.900,00c
+02/06/2020
+0000000914
+créd.liquidação cobrança
+484,00c
+02/06/2020
+0000000914
+tarifa cobrança
+4,16d
+saldo do dia
+86.547,42c
+03/06/2020
+cemig dist
+déb.conv.en.elétrica e gás
+2.504,40d
+03/06/2020
+126
+dep.dinheiro
+1.300,00c
+03/06/2020
+0000000835
+créd.liquidação cobrança
+298,00c
+03/06/2020
+0000000835
+tarifa cobrança
+10,40d
+saldo do dia
+85.630,62c
+04/06/2020
+-
+debito pagamento salario
+3.121,76d
+04/06/2020
+91
+dep.dinheiro
+2.000,00c
+04/06/2020
+0000002473
+créd.liquidação cobrança
+62,00c
+04/06/2020
+0000002473
+tarifa cobrança
+2,08d
+saldo do dia
+84.568,78c
+05/06/2020
+81
+dep.dinheiro
+2.700,00c
+05/06/2020
+0000002600
+créd.liquidação cobrança
+124,00c
+05/06/2020
+0000002600
+tarifa cobrança
+4,16d
+saldo do dia
+87.388,62c
+08/06/2020
+97
+dep.dinheiro
+2.700,00c
+08/06/2020
+0000002276
+créd.liquidação cobrança
+62,00c
+08/06/2020
+0000002276
+tarifa cobrança
+1,34d
+saldo do dia
+90.149,28c
+09/06/2020
+183
+dep.dinheiro
+4.200,00c
+09/06/2020 emp consig outros débitos
+10.130,24d
+09/06/2020 cap consig outros débitos
+3.235,00d
+09/06/2020
+0000003063
+créd.liquidação cobrança
+124,00c
+09/06/2020
+0000003063
+tarifa cobrança
+2,08d
+saldo do dia
+81.105,96c
+10/06/2020
+28
+dep.cheque bloq.1d
+1.875,80*
+10/06/2020
+29
+dep.cheque bloq.1d
+300.000,00*
+10/06/2020
+30
+dep.cheque bloq.1d
+150.000,00*
+10/06/2020
+153
+dep.dinheiro
+1.300,00c
+saldo do dia
+82.405,96c
+12/06/2020
+-
+debito pagamento salario
+17.143,30d
+12/06/2020
+850854
+devol.cheque depositado
+150.000,00d
+22-divergência ou insuficiência assinatu
+12/06/2020
+30
+liberação de depósito bloqueado
+150.000,00c
+12/06/2020
+28
+liberação de depósito bloqueado
+1.875,80c
+12/06/2020
+29
+liberação de depósito bloqueado
+300.000,00c
+saldo do dia
+367.138,46c
+15/06/2020
+142
+dep.dinheiro
+2.000,00c
+15/06/2020
+0000002964
+créd.liquidação cobrança
+139,50c
+15/06/2020
+0000002964
+tarifa cobrança
+3,42d
+saldo do dia
+369.274,54c
+16/06/2020
+149
+dep.dinheiro
+2.900,00c
+saldo do dia
+372.174,54c
+17/06/2020
+-
+debito pagamento salario
+158.361,81d
+17/06/2020
+91
+dep.dinheiro
+2.200,00c
+saldo do dia
+216.012,73c
+18/06/2020
+130
+dep.dinheiro
+1.200,00c
+saldo do dia
+217.212,73c
+19/06/2020
+-
+debito pagamento salario
+390,00d
+19/06/2020
+118
+dep.dinheiro
+1.900,00c
+saldo do dia
+218.722,73c
+22/06/2020
+-
+debito pagamento salario
+1.106,89d
+22/06/2020
+133
+dep.dinheiro
+1.900,00c
+22/06/2020
+41 - 44
+aplicação rdc
+200.000,00d
+saldo do dia
+19.515,84c
+23/06/2020
+66
+dep.dinheiro
+2.400,00c
+23/06/2020
+0000000921
+créd.liquidação cobrança
+244,00c
+23/06/2020
+0000000921
+tarifa cobrança
+4,16d
+saldo do dia
+22.155,68c
+24/06/2020
+23
+dep.cheque bloq.1d
+200.000,00*
+nome: a aposentados e pensionistas ipati
+cpf cnpj: 21.028.535 0001-40
+24/06/2020
+0000003325
+créd.liquidação cobrança
+62,00c
+24/06/2020
+0000003325
+tarifa cobrança
+1,34d
+saldo do dia
+22.216,34c
+25/06/2020
+89
+dep.dinheiro
+1.800,00c
+25/06/2020
+23
+liberação de depósito bloqueado
+200.000,00c
+saldo do dia
+224.016,34c
+26/06/2020
+-
+debito pagamento salario
+797,23d
+26/06/2020
+80
+dep.dinheiro
+1.000,00c
+saldo do dia
+224.219,11c
+29/06/2020
+-
+debito pagamento salario
+8.960,00d
+29/06/2020
+129
+dep.dinheiro
+2.300,00c
+saldo do dia
+217.559,11c
+30/06/2020
+155760882
+créd.ted-str
+170.278,23c
+previdencia usiminas
+16.619.488 0001-70
+codigo ted: t532142103
+30/06/2020
+155761071
+créd.ted-str
+10.736,58c
+previdencia usiminas
+16.619.488 0001-70
+codigo ted: t532142302
+30/06/2020
+104
+dep.dinheiro
+1.800,00c
+saldo do dia
+400.373,92c
+resumo
+saldo em conta corrente (+):
+400.373,92c
+limite conta garantida (+):
+20.000,00c
+saldo disponível (=):
+420.373,92c
+saldo bloqueado em conta corrente:
+0,00*
+vencimento conta garantida:
+11/08/2020 
+taxa conta garantida (a.m.):
+6,43%
+custo efetivo total - cet (a.m.):
+6,93%
+custo efetivo total - cet (a.a.):
+126,04%
+saldo de aplicações em 29/06/2020
+rdc - longo cdi
+1.223.355,42c
+000 extratos emitidos até 29/06/2020
+ouvidoria sicoob: 08007250996

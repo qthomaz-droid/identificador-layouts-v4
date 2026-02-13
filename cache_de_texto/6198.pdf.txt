@@ -1,0 +1,327 @@
+extratos 
+'r] 
+extrato mensal - deposito a vista - pj - 39700811 
+período: 
+02/01/2025 a 31/01/2025 
+movimentação 
+data 
+ histérico 
+documento 
+débito 
+crédito 
+saldo 
+saldo anterior 
+9.690,58 
+03/01 
+deb.liq.oper.emprestimo 
+419971615 
+9.690,58 
+0,00 
+0,00 
+03/01 
+recebimento via pix 
+0,00 
+141.790,96 
+141.790,96 
+03/01 
+deb.liq.oper.emprestimo 
+419984034 
+132.100,38 
+0,00 
+9.690,58 
+03/01 
+pagamento de swap 
+419985261 
+2.708,11 
+0,00 
+6.982,47 
+06/01 
+credito de cobranca 
+825714888 
+0,00 
+8.600,00 
+15.582,47 
+06/01 
+tarifa de liq de tit cob propria na 
+420179337 
+6,50 
+0,00 
+15.575,97 
+06/01 
+resgate titulos renda fixa 
+420194107 
+0,00 
+1.508.360,29 
+1.523.936,26 
+06/01 
+aplicacao tits de renda fixa 
+420200353 
+1.508.360,29 
+0,00 
+15.575,97 
+09/01 
+tarifa de liq de tit cob propria na 
+420460379 
+1,30 
+0,00 
+15.574,67 
+09/01 
+tarifa de liq de tit cob propria na 
+420460786 
+1,30 
+0,00 
+15.573,37 
+09/01 
+tar baixa de titulo 
+420461091 
+0,45 
+0,00 
+15.572,92 
+10/01 
+tarifa de registro cobranca on-line 
+420548126 
+6,50 
+0,00 
+15.566,42 
+13/01 
+tarifa de liq de tit cob propria na 
+420776108 
+3,90 
+0,00 
+15.562,52 
+14/01 
+tarifa de lig de tit cob propria na 
+420861756 
+1,30 
+0,00 
+15.561,22 
+15/01 
+tarifa de lig de tit cob propria na 
+420941379 
+5,20 
+0,00 
+15.556,02 
+16/01 
+credito de cobranca 
+826629472 
+0,00 
+168.000,00 
+183.556,02 
+16/01 
+tarifa de liq de tit cob propria na 
+421030255 
+1,30 
+0,00 
+183.554,72 
+16/01 
+tarifa de lig de tit cob propria na 
+421030269 
+1,30 
+0,00 
+183.553,42 
+16/01 
+debito por ted 1b 
+826648504 
+150.000,00 
+0,00 
+33.553,42 
+17/01 
+credito de cobranca 
+826701224 
+0,00 
+5.189,99 
+38.743,41 
+17/01 
+tarifa de lig de tit cob propria na 
+421108119 
+1,30 
+0,00 
+38.742,11 
+17/01 
+tarifa de registro cobranca on-line 
+421108502 
+13,00 
+0,00 
+38.729,11 
+20/01 
+credito de cobranca 
+826782122 
+0,00 
+10.429,38 
+49.158,49 
+20/01 
+tarifa de lig de tit cob propria na 
+421317573 
+1,30 
+0,00 
+49.157,19 
+20/01 
+tar baixa de titulo 
+421317709 
+0,45 
+0,00 
+49.156,74 
+21/01 
+tarifa de liq de tit cob propria na 
+421412838 
+1,30 
+0,00 
+49.155,44 
+23/01 
+tarifa de registro cobranca on-line 
+421572471 
+71,50 
+0,00 
+49.083,94 
+27/01 
+tarifa de lig de tit cob propria na 
+421854619 
+1,30 
+0,00 
+49.082,64 
+3/5
+ extratos by
+
+extrato mensal - deposito a vista - pj - 39700811
+
+período: 02/01/2025 a 31/01/2025
+
+movimentação
+data histórico documento débito crédito saldo
+saldo anterior 9.690,58
+03/01 deb.liq.oper.emprestimo 419971615 9.690,58 0,00 0,00
+03/01 recebimento via pix 0,00 141.790,96 141.790,96
+03/01 deb.liq.oper.emprestimo 419984034 132.100,38 0,00 9.690,58
+03/01 pagamento de swap 419985261 2.708,11 0,00 6.982,47
+06/01 credito de cobranca 825714888 0,00 8.600,00 15.582,47
+06/01 tarifa de liq de tit cob propria na 420179337 6,50 0,00 15.575,97
+06/01 resgate titulos renda fixa 420194107 0,00 1.508.360,29 1.523.936,26
+06/01 aplicacao tits de renda fixa 420200353 1.508.360,29 0,00 15.575,97
+09/01 tarifa de liq de tit cob propria na 420460379 1,30 0,00 15.574,67
+09/01 tarifa de lig de tit cob propria na 420460786 1,30 0,00 15.573,37
+09/01 tar baixa de titulo 420461091 0,45 0,00 15.572,92
+10/01 tarifa de registro cobranca on-line 420548126 6,50 0,00 15.566,42
+13/01 tarifa de liq de tit cob propria na 420776108 3,90 0,00 15.562,52
+14/01 tarifa de liq de tit cob propria na 420861756 1,30 0,00 15.561,22
+15/01 tarifa de lig de tit cob propria na 420941379 5,20 0,00 15.556,02
+16/01 credito de cobranca 826629472 0,00 168.000,00 183.556,02
+16/01 tarifa de liq de tit cob propria na 421030255 1,30 0,00 183.554,72
+16/01 tarifa de liq de tit cob propria na 421030269 1,30 0,00 183.553,42
+16/01 debito por ted ib 826648504 150.000,00 0,00 33.553,42
+17/01 credito de cobranca 826701224 0,00 5.189,99 38.743,41
+17/01 tarifa de liq de tit cob propria na 421108119 1,30 0,00 38.742,11
+17/01 tarifa de registro cobranca on-line 421108502 13,00 0,00 38.729,11
+20/01 credito de cobranca 826782122 0,00 10.429,38 49.158,49
+20/01 tarifa de liq de tit cob propria na 421317573 1,30 0,00 49.157,19
+20/01 tar baixa de titulo 421317709 0,45 0,00 49.156,74
+21/01 tarifa de liq de tit cob propria na 421412838 1,30 0,00 49.155,44
+23/01 tarifa de registro cobranca on-line 421572471 71,50 0,00 49.083,94
+27/01 tarifa de liq de tit cob propria na 421854619 1,30 0,00 49.082,64
+
+3/5
+data 
+28/01 
+29/01 
+31/01 
+31/01 
+31/01 
+histórico 
+tarifa de lig de tit cob propria na 
+tarifa de lig de tit cob propria na 
+credito de cobranca 
+tarifa de lig de tit cob propria na 
+tarifa de lig de tit cob propria na 
+saldo atual 
+saldo bloqueado 
+saldo bloqueado jud/adm 
+saldo disponivel 
+documento 
+421932990 
+422003051 
+827682877 
+422145606 
+422145823 
+débito 
+1,30 
+1,30 
+0,00 
+3,90 
+1,30 
+crédito 
+0,00 
+0,00 
+10.073,59 
+0,00 
+0,00 
+saldo 
+49.081,34 
+49.080,04 
+59.153,63 
+59.149,73 
+59.148,43 
+59.148,43 
+0,00 
+0,00 
+59.148,43 
+4/5
+ data
+28/01
+29/01
+31/01
+31/01
+31/01
+
+histórico
+
+tarifa de liq de tit cob propria na
+tarifa de lig de tit cob propria na
+credito de cobranca
+
+tarifa de liq de tit cob propria na
+tarifa de liq de tit cob propria na
+saldo atual
+
+saldo bloqueado
+
+saldo bloqueado jud/adm
+saldo disponível
+
+documento
+421932990
+422003051
+827682877
+422145606
+
+422145823
+
+débito
+1,30
+1,30
+0,00
+3,90
+
+1,30
+
+crédito
+0,00
+
+0,00
+10.073,59
+0,00
+
+0,00
+
+saldo
+49.081,34
+49.080,04
+59.153,63
+59.149,73
+59.148,43
+59.148,43
+
+0,00
+0,00
+
+59.148,43
+
+415

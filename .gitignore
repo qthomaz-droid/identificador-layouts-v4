@@ -1,0 +1,35 @@
+# Ambiente Virtual do Python
+venv/
+.venv/
+
+.devcontainer/
+
+# Ficheiros compilados do Python
+__pycache__/
+*.pyc
+
+# Modelos de ML e dados gerados
+# *.joblib
+# layouts_meta.json
+# model_version.txt
+# admin_log.csv
+
+# Pastas de dados e temporárias
+arquivos_de_treinamento/
+# cache_de_texto/
+temp_files/
+
+# Ficheiros de segredos e ambiente
+.streamlit/secrets.toml
+.env
+
+# Ficheiros do VSCode
+.vscode/
+
+# Ficheiros do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+model_assets.zip
+app_assets.zip
+# *.png

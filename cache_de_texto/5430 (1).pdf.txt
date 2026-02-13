@@ -1,0 +1,146 @@
+danfse v1.0
+documento auxiliar da nfs-e
+chave de acesso da nfs-e
+35503082238105030000135000000000000724018105812212
+a autenticidade desta nfs-e pode ser verificada
+pela leitura deste código qr ou pela consulta da
+chave de acesso no portal nacional da nfs-e
+número da nfs-e
+7
+competência da nfs-e
+28/01/2024
+data e hora da emissão da nfs-e
+28/01/2024 01:41:15
+número da dps
+7
+série da dps
+900
+data e hora da emissão da dps
+28/01/2024 01:41:15
+emitente da nfs-e
+prestador do serviço
+cnpj / cpf / nif
+38.105.030/0001-35
+inscrição municipal
+-
+telefone
+(11) 8937-1246
+nome / nome empresarial
+benjamin noel 30085413801
+e-mail
+financeiro@carolnoel.com
+endereço
+camundo, 366
+município
+são paulo - sp
+cep
+4071040
+simples nacional na data de competência
+optante - microempreendedor individual (mei)
+regime de apuração tributária pelo sn
+-
+tomador do serviço
+cnpj / cpf / nif
+48.564.012/0001-75
+inscrição municipal
+-
+telefone
+-
+nome / nome empresarial
+tnt corp ltda
+e-mail
+juridico@wiseaccounting.com.br
+endereço
+tocantins, 956, sala 07
+município
+barueri - sp
+cep
+06455-020
+intermediário do serviço não identificado na nfs-e
+serviço prestado
+código de tributação nacional
+13.03.01 - fotografia e
+cinematografia, inclusive revelação,
+ampliaç...
+código de tributação municipal
+-
+local da prestação
+são paulo - sp
+país da prestação
+-
+descrição do serviço
+fotografia evento
+tributação municipal
+tributação do issqn
+operação tributável
+país resultado da prestação do serviço
+-
+município de incidência do issqn
+são paulo - sp
+regime especial de tributação
+nenhum
+tipo de imunidade
+-
+suspensão da exigibilidade do issqn
+não
+número processo suspensão
+-
+benefício municipal
+-
+valor do serviço
+r$ 500,00
+desconto incondicionado
+-
+total deduções/reduções
+-
+cálculo do bm
+-
+bc issqn
+-
+alíquota aplicada
+-
+retenção do issqn
+não retido
+issqn apurado
+-
+tributação federal
+irrf
+-
+cp
+-
+csll
+-
+pis
+-
+cofins
+-
+retenção do pis/cofins
+-
+total tributação federal
+-
+valor total da nfs-e
+valor do serviço
+r$ 500,00
+desconto condicionado
+r$
+desconto incondicionado
+r$
+issqn retido
+-
+irrf, cp,csll - retidos
+r$ 0,00
+pis/cofins retidos
+-
+valor líquido da nfs-e
+r$ 500,00
+totais aproximados dos tributos
+federais
+-
+estaduais
+-
+municipais
+-
+informações complementares
+nbs: 114081300
+ nota fiscal de
+servico eletrônica

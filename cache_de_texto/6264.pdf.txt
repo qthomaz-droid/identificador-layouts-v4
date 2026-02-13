@@ -1,0 +1,251 @@
+pires  aguiar odontologia
+rua pastor hollerbach, 280 - grão pará, teofilo otoni - mg, 39800148
+relatório de recebíveis analítico
+período: (últimos 30 dias) 08/06/2025 à 07/07/2025 | status: todos
+data trans.
+data
+pagto.
+bandeira
+plat.
+captura
+tipo
+modalidade
+num. serial
+cód.
+aut.
+nsu rede
+nsu auto
+status
+parcela
+valor
+bruto
+motivo
+desconto
+valor
+líquido
+26/06/25
+12:54
+27/06/2025
+maestro
+propria
+débito
+pb1s24c171157
+545469
+318176397
+626030132670133
+pago
+1/1
+r$
+3.000,00
+- r$ 34,50
+r$ 2.965,50
+26/06/25
+11:46
+28/07/2025
+mastercard
+propria
+crédito
+pb1s24c171157
+102383
+318042650
+626030132670130
+a receber
+1/1
+r$ 250,00
+- r$ 4,63
+r$ 245,37
+24/06/25
+10:40
+24/07/2025
+mastercard
+propria
+crédito
+pb1s24c171157
+461969
+315214287
+624030132670128
+antecipado
+1/4
+r$ 300,00
+antecipado em
+25/06/2025
+- r$ 7,38
+r$ 292,62
+24/06/25
+10:40
+25/08/2025
+mastercard
+propria
+crédito
+pb1s24c171157
+461969
+315214287
+624030132670128
+antecipado
+2/4
+r$ 300,00
+antecipado em
+25/06/2025
+- r$ 7,38
+r$ 292,62
+24/06/25
+10:40
+22/09/2025
+mastercard
+propria
+crédito
+pb1s24c171157
+461969
+315214287
+624030132670128
+antecipado
+3/4
+r$ 300,00
+antecipado em
+25/06/2025
+- r$ 7,38
+r$ 292,62
+24/06/25
+10:40
+22/10/2025
+mastercard
+propria
+crédito
+pb1s24c171157
+461969
+315214287
+624030132670128
+antecipado
+4/4
+r$ 300,00
+antecipado em
+25/06/2025
+- r$ 7,38
+r$ 292,62
+23/06/25
+18:14
+23/07/2025
+visa
+propria
+crédito
+pb1s24c171157
+503232
+314669741
+623030132670126
+antecipado
+1/1
+r$ 250,00
+antecipado em
+25/06/2025
+- r$ 4,93
+r$ 245,07
+12/06/25
+15:58
+14/07/2025
+visa
+propria
+crédito
+pb1s24c171157
+190386
+295913722
+612030132670116
+antecipado
+1/4
+r$ 250,00
+antecipado em
+25/06/2025
+- r$ 6,00
+r$ 244,00
+12/06/25
+15:58
+11/08/2025
+visa
+propria
+crédito
+pb1s24c171157
+190386
+295913722
+612030132670116
+antecipado
+2/4
+r$ 250,00
+antecipado em
+25/06/2025
+- r$ 6,00
+r$ 244,00
+12/06/25
+15:58
+10/09/2025
+visa
+propria
+crédito
+pb1s24c171157
+190386
+295913722
+612030132670116
+antecipado
+3/4
+r$ 250,00
+antecipado em
+25/06/2025
+- r$ 6,00
+r$ 244,00
+12/06/25
+15:58
+10/10/2025
+visa
+propria
+crédito
+pb1s24c171157
+190386
+295913722
+612030132670116
+antecipado
+4/4
+r$ 250,00
+antecipado em
+25/06/2025
+- r$ 6,00
+r$ 244,00
+10/06/25
+16:11
+11/06/2025
+visa
+electron
+propria
+débito
+pb1s24c171157
+019762
+292746516
+610030132670111
+pago
+1/1
+r$ 500,00
+- r$ 5,75
+r$ 494,25
+data trans.
+data
+pagto.
+bandeira
+plat.
+captura
+tipo
+modalidade
+num. serial
+cód.
+aut.
+nsu rede
+nsu auto
+status
+parcela
+valor
+bruto
+motivo
+desconto
+valor
+líquido
+total
+r$
+6.200,00
+r$ 103,33
+r$ 6.096,67

@@ -1,0 +1,213 @@
+08/12/25
+11:59:24
+página:
+     1
+hora:
+data:
+ranalic_servic_1
+analítico de serviço - fatura
+gerado por:
+carolina.borges     
+63537
+cnpj: 00.771.945/0001-07
+                              
+filtros
+fatura de:
+fatura até:
+unimed responsável:
+empresa contratante de:
+empresa contratante até:
+fundação:
+competência de:
+competência até:
+dia vencimento:
+grupo de empresas:
+agrupamento:
+65164
+0
+0
+0
+                                             
+0
+0
+0
+0
+0
+63517
+cliente alta genetics do brasil ltda                                          
+empresa:50-alta brasil                                                                              
+familia                                                                                             
+dependente                                                                                          
+guia                                                                                                
+prestador
+descrição
+proc
+          
+valor
+          
+          
+                    
+total
+qtde
+part.
+data 
+atend.
+tp
+nr.docto
+docto 
+princ.
+tipo
+atend.
+0021.0017.021972                                                                                    
+0021.0017.021972-30 -   titular: denise alves da silva   cpf: 052.544.446-73   matrícula: 592   idade: 44   repasse: n   plano: vd - pré-estabelecido   acomodação: coletivo
+0021.0017.021972-30 - sophia gabrielly alves dos santos   cpf: 179.224.306-55   idade: 6
+     28,69
+          
+          
+1,00000
+1
+147728              
+10101012        
+ 
+147728              
+e
+               
+             28,69
+em consultório (no horá
+10/10/2025
+djalma antonio abrao jr         
+0021.0017.021972-30 - sophia gabrielly alves dos santos   cpf: 179.224.306-55   idade: 6
+      5,98
+          
+          
+1,00000
+1
+147732              
+41301323        
+ 
+147732              
+e
+               
+              5,98
+tonometria - binocular   
+10/10/2025
+djalma antonio abrao jr         
+total dependente -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+             34,67
+                  
+34,67
+                                                                                                    
+                    
+                  
+           0,00
+                                                                                                    
+                    
+                  
+           0,00
+total familia ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+             34,67
+                  
+34,67
+dependente                                                                                          
+guia                                                                                                
+prestador
+descrição
+proc
+          
+valor
+          
+          
+                    
+total
+qtde
+part.
+data 
+atend.
+tp
+nr.docto
+docto 
+princ.
+tipo
+atend.
+0021.0017.021974                                                                                    
+0021.0017.021974-00 -   titular: maria eduarda alves de siqueira bermejo   cpf: 485.098.198-40   matrícula: 597   idade: 26   repasse: n   plano: vd - pré-estabelecido   acomodação: coletivo
+0021.0017.021974-00 - maria eduarda alves de siqueira bermejo   cpf: 485.098.198-40   idade: 26
+     28,69
+          
+          
+1,00000
+1
+229959              
+10101012        
+ 
+229959              
+e
+               
+             28,69
+em consultório (no horá
+22/10/2025
+raquel alves m soares           
+0021.0017.021974-00 - maria eduarda alves de siqueira bermejo   cpf: 485.098.198-40   idade: 26
+     28,69
+          
+          
+1,00000
+1
+238390              
+10101012        
+ 
+238390              
+e
+               
+             28,69
+em consultório (no horá
+23/10/2025
+patricia lopes prospero        
+total dependente -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+             57,38
+                  
+57,38
+                                                                                                    
+                    
+                  
+           0,00
+                                                                                                    
+                    
+                  
+           0,00
+total familia ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+             57,38
+                  
+57,38
+total empresa:50-alta brasil ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+             92,05
+                  
+92,05
+quantidade de documentos:
+4
+resumo por tipo de documento de atendimento (em real)
+01 - médico --------------------------------------------------------------------------              92,05
+subtotal da fatura:
+            92,05
+total da fatura:
+            92,05
+total dependentes:
+total titulares:
+           0,00
+           0,00
+total de taxa de adm:
+total de taxa de interc:
+          0,00
+          0,00
+valor bruto da fatura:
+     92,05
+irf:
+valor líquido da fatura:
+             1,38
+             87,31
+pis:
+          0,60
+cofins:
+          2,76
+csll:
+          0,00

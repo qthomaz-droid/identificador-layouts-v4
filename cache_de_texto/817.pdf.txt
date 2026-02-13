@@ -1,0 +1,508 @@
+documento
+operação
+vr. entrada
+vr. saida
+saldo anterior:
+seq.
+doc. pagto
+saldo disp.
+saldo conc.
+viarural com. de prod. agrop. ltda - extrato de todas as empresas selecionadas
+relatório extrato bancário
+01/02/2023 a 15/02/2023
+pessoa | observação
+disponivel :
+conciliado :
+período de movimentação:
+mnemônico:
+ag.:
+itau m
+4385
+conta: 55284
+0,00
+0,00
+c
+01/02/2023
+data:
+208110
+2.207,70
+39
+064855/1
+venda de mercadoria
+78 - ac e e agropecuaria ltda
+2.207,70
+2.207,70
+ü
+208113
+150,06
+39
+064783/1
+venda de mercadoria
+5125 - miaddus latiddus comercial ltda
+2.357,76
+2.357,76
+ü
+210754
+202
+ajuda de custo
+1.000,00
+6703 - daniel alves barreto rezende
+1.357,76
+1.357,76
+ü
+210755
+202
+ajuda de custo
+1.200,00
+7709 - joao pedro de paulo tiburcio
+157,76
+157,76
+ü
+210756
+202
+ajuda de custo
+1.200,00
+4211 - hudson fabiano pereira coelho
+-1.042,24
+-1.042,24
+ü
+3.400,00
+2.357,76
+totais do dia:
+02/02/2023
+data:
+207765
+2
+1361
+pagamento de titulos em lote
+272.000,96
+-273.043,20
+-273.043,20
+ü
+208111
+78,00
+39
+064947/1
+venda de mercadoria
+2974 - celso guimaraes santana junior
+-272.965,20
+-272.965,20
+ü
+209303
+1.763,79
+39
+064890/1
+venda de mercadoria
+1149 - so racao produtos agropecuarios ltda
+-271.201,41
+-271.201,41
+ü
+209320
+1.390,10
+39
+064996/1
+venda de mercadoria
+8007 - agro avelar ltda
+-269.811,31
+-269.811,31
+ü
+272.000,96
+3.231,89
+totais do dia:
+03/02/2023
+data:
+208112
+2
+1362
+pagamento de titulos em lote
+235.410,32
+-505.221,63
+-269.811,31
+ 
+211799
+78,00
+39
+064842/1
+venda de mercadoria
+3808 - cleison castro de almeida
+-505.143,63
+-269.733,31
+ü
+235.410,32
+78,00
+totais do dia:
+06/02/2023
+data:
+208457
+117
+salario fixo
+1.943,90
+6374 - dyanna ribeiro silva
+-507.087,53
+-269.733,31
+ 
+208458
+115
+fgts / gfip / grfc
+163,69
+3022 - guia de recolhimento do fgts
+-507.251,22
+-269.897,00
+ü
+209951
+1.185,65
+39
+065134/1
+venda de mercadoria
+8095 - 49.157.934 rudson correia mendes
+-506.065,57
+-268.711,35
+ü
+209960
+1.004,16
+39
+065067/1
+venda de mercadoria
+7773 - l a de sales me
+-505.061,41
+-267.707,19
+ü
+209963
+938,96
+39
+065075/1
+venda de mercadoria
+6306 - valdison junior moreira da silva
+-504.122,45
+-266.768,23
+ü
+210274
+115
+fgts / gfip / grfc
+163,69
+3022 - guia de recolhimento do fgts
+-504.286,14
+-266.768,23
+ 
+2.271,28
+3.128,77
+totais do dia:
+07/02/2023
+data:
+211800
+323,24
+39
+065114/1
+venda de mercadoria
+5125 - miaddus latiddus comercial ltda
+-503.962,90
+-266.444,99
+ü
+0,00
+323,24
+totais do dia:
+08/02/2023
+data:
+209304
+2
+1366
+pagamento de titulos em lote
+189.187,37
+-693.150,27
+-455.632,36
+ü
+209952
+1.453,24
+39
+065309/1
+venda de mercadoria
+8107 - agropecuaria agro olhos ltda
+-691.697,03
+-454.179,12
+ü
+209962
+1.199,08
+39
+065209/1
+venda de mercadoria
+2120 - r. a. teixeira
+-690.497,95
+-452.980,04
+ü
+211789
+337,28
+39
+065068/1
+venda de mercadoria
+676 - rodrigues e ferro produtos veterinarios ltda m
+-690.160,67
+-452.642,76
+ü
+página 1 de 3
+28/02/2023 10:44:59
+desenvolvido por: razem gestã£o empresarial - www.razem.com.br
+documento
+operação
+vr. entrada
+vr. saida
+saldo anterior:
+seq.
+doc. pagto
+saldo disp.
+saldo conc.
+viarural com. de prod. agrop. ltda - extrato de todas as empresas selecionadas
+relatório extrato bancário
+01/02/2023 a 15/02/2023
+pessoa | observação
+disponivel :
+conciliado :
+período de movimentação:
+mnemônico:
+ag.:
+itau m
+4385
+conta: 55284
+0,00
+0,00
+c
+08/02/2023
+data:
+211798
+2.072,48
+39
+065269/1
+venda de mercadoria
+8186 - fiuza agro e racao ltda
+-688.088,19
+-450.570,28
+ü
+189.187,37
+5.062,08
+totais do dia:
+09/02/2023
+data:
+209655
+2
+1367
+pagamento de titulos em lote
+182.353,97
+-870.442,16
+-632.924,25
+ü
+209658
+1.314,38
+39
+063271/1
+venda de mercadoria
+868 - joe ran mendes ferreira me
+-869.127,78
+-631.609,87
+ü
+182.353,97
+1.314,38
+totais do dia:
+10/02/2023
+data:
+210771
+121
+eventos com funcionarios
+322,64
+3297 - viarural com de prod agrop ltda
+-869.450,42
+-631.609,87
+ 
+211801
+156,95
+39
+065374/1
+venda de mercadoria
+5125 - miaddus latiddus comercial ltda
+-869.293,47
+-631.452,92
+ü
+211802
+636,88
+39
+060267/4
+venda de mercadoria
+4337 - fort nutri produtos agropecuaria ltda
+-868.656,59
+-630.816,04
+ü
+211803
+32,80
+39
+065365/1
+venda de mercadoria
+2974 - celso guimaraes santana junior
+-868.623,79
+-630.783,24
+ü
+211805
+1.528,65
+39
+065441/1
+venda de mercadoria
+8047 - associacao dos produtores rurais da picarra
+-867.095,14
+-629.254,59
+ü
+322,64
+2.355,28
+totais do dia:
+13/02/2023
+data:
+210279
+38
+13702/1
+compra de mercadoria para revenda
+2.903,20
+2907 - rawell quimica eireli epp
+-869.998,34
+-632.157,79
+ü
+211804
+444,40
+39
+065419/1
+venda de mercadoria
+6969 - aves e pecuaria - mgr ltda
+-869.553,94
+-631.713,39
+ü
+211806
+1.879,24
+39
+065581/1
+venda de mercadoria
+7736 - leila denise lima barbosa 05628171310
+-867.674,70
+-629.834,15
+ü
+211807
+739,06
+39
+065483/1
+venda de mercadoria
+8043 - roberto barbuio
+-866.935,64
+-629.095,09
+ü
+211808
+3.214,20
+39
+065513/1
+venda de mercadoria
+8202 - francierison costa amaral ltda
+-863.721,44
+-625.880,89
+ü
+2.903,20
+6.276,90
+totais do dia:
+14/02/2023
+data:
+210762
+774,90
+39
+063503/1
+venda de mercadoria
+509 - carlos henrique rodrigues pereira
+-862.946,54
+-625.105,99
+ü
+210764
+403,00
+39
+063239/1
+venda de mercadoria
+943 - valdivina vieira da mota oliveira
+-862.543,54
+-624.702,99
+ü
+210765
+0,94
+39
+063239/1
+venda de mercadoria
+943 - valdivina vieira da mota oliveira
+-862.542,60
+-624.702,99
+ 
+0,00
+1.178,84
+totais do dia:
+15/02/2023
+data:
+211114
+2
+1373
+pagamento de titulos em lote
+241.211,84
+-1.103.754,44
+-865.914,83
+ü
+211796
+208
+92/17-92
+consorcio
+3.626,83
+3197 - banco itau
+-1.107.381,27
+-869.541,66
+ü
+211797
+208
+020295/17-76
+consorcio
+593,27
+3197 - banco itau
+-1.107.974,54
+-870.134,93
+ü
+245.431,94
+0,00
+totais do dia:
+página 2 de 3
+28/02/2023 10:44:59
+desenvolvido por: razem gestã£o empresarial - www.razem.com.br
+documento
+operação
+vr. entrada
+vr. saida
+saldo anterior:
+seq.
+doc. pagto
+saldo disp.
+saldo conc.
+viarural com. de prod. agrop. ltda - extrato de todas as empresas selecionadas
+relatório extrato bancário
+01/02/2023 a 15/02/2023
+pessoa | observação
+disponivel :
+conciliado :
+período de movimentação:
+mnemônico:
+ag.:
+itau m
+4385
+conta: 55284
+0,00
+0,00
+c
+25.306,20
+entradas no período:
+conciliadas:
+totais: 25.307,14
+a conciliar: 0,94
+saídas no período:
+totais: 1.133.281,68 conciliadas: 895.441,13
+a conciliar: 237.840,55
+saldo final no período:
+disponível:
+conciliado:
+-1.107.974,54
+-870.134,93
+página 3 de 3
+28/02/2023 10:44:59
+desenvolvido por: razem gestã£o empresarial - www.razem.com.br

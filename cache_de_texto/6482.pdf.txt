@@ -1,0 +1,971 @@
+movimentação de títulos financeiros
+jg suprimentos ltda
+empresa:
+06/09/2025
+dt. atual:
+conta:
+dt. neg.
+dt. venc.
+vlr. parc.
+vlr. pago
+multa
+juros
+desc.
+nº único:
+nº nota:
+desdob.:
+dt. baixa
+caixa pdv jran
+parceiro
+r$ 300,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+credito cliente
+139634
+42920
+top:
+devolução de venda - nf própria
+conta:
+caixa pdv jran
+04/08/2025
+04/08/2025
+r$ 300,00
+0
+04/08/2025
+3322 - servdrill perfuracao e sondagem ltda
+total:
+r$ 300,00
+r$ 300,00
+r$ 0,00
+r$ 0,00
+conta:
+dt. neg.
+dt. venc.
+vlr. parc.
+vlr. pago
+multa
+juros
+desc.
+nº único:
+nº nota:
+desdob.:
+dt. baixa
+conta basa - emp 1 matriz
+parceiro
+r$ 100,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+basa tarifa mensal
+hist.:
+tp. tit.:
+débito em conta
+141203
+100
+top:
+conta:
+conta basa - emp
+05/08/2025
+05/08/2025
+r$ 100,00
+05/08/2025
+7761 - despesa bancaria
+total:
+r$ 100,00
+r$ 100,00
+r$ 0,00
+r$ 0,00
+conta:
+dt. neg.
+dt. venc.
+vlr. parc.
+vlr. pago
+multa
+juros
+desc.
+nº único:
+nº nota:
+desdob.:
+dt. baixa
+conta bb - emp 1 matriz
+parceiro
+r$ 1.028,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+alelo despesa, aguardando nota fiscal
+hist.:
+tp. tit.:
+boleto
+144461
+1028
+top:
+conta:
+conta bb - emp 1
+14/08/2025
+14/08/2025
+r$ 1.028,00
+14/08/2025
+7159 - alelo instituicao de pagamento sa
+r$ 3.180,58
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+boleto
+146394
+7058
+top:
+compra - ct-e
+conta:
+conta bb - emp 1
+06/08/2025
+05/09/2025
+r$ 3.180,58
+1
+05/09/2025
+8929 - alog norte transportes de cargas ltda
+r$ 840,40
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+gnre
+143714
+6951
+top:
+compra - ct-e
+conta:
+conta bb - emp 1
+01/08/2025
+31/08/2025
+r$ 840,40
+1
+01/09/2025
+8929 - alog norte transportes de cargas ltda
+r$ 2.340,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+gnre
+141497
+6984
+top:
+compra - ct-e
+conta:
+conta bb - emp 1
+01/08/2025
+31/08/2025
+r$ 2.340,00
+1
+01/09/2025
+8929 - alog norte transportes de cargas ltda
+r$ 1.238,89
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+boleto
+146720
+1937166
+top:
+compra - revenda
+conta:
+conta bb - emp 1
+05/08/2025
+02/09/2025
+r$ 1.238,89
+1
+02/09/2025
+7145 - amev importadora e distribuidora ltda
+r$ 416,66
+r$ 0,00
+r$ 0,00 r$ 0,00
+nf 764 abastecimento camioente
+hist.:
+tp. tit.:
+pix
+140108
+764
+top:
+conta:
+conta bb - emp 1
+04/08/2025
+04/08/2025
+r$ 416,66
+04/08/2025
+8269 - auto posto ferroviario ltda
+r$ 4.192,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+nfs 199 plotagem atego
+hist.:
+tp. tit.:
+pix
+141115
+199
+top:
+conta:
+conta bb - emp 1
+06/08/2025
+06/08/2025
+r$ 4.192,00
+06/08/2025
+9021 - cavalcante comunicacao ltda
+r$ 352,26
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+boleto
+145109
+1410412
+top:
+compra - revenda
+conta:
+conta bb - emp 1
+05/08/2025
+02/09/2025
+r$ 352,26
+1
+02/09/2025
+6907 - cofer importadora e distribuidora ltda
+r$ 365,72
+r$ 0,00
+r$ 0,00 r$ 0,00
+nf 156013 van
+hist.:
+tp. tit.:
+pix
+146755
+156013
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+20/08/2025
+r$ 365,72
+20/08/2025
+7696 - combustivel
+r$ 410,92
+r$ 0,00
+r$ 0,00 r$ 0,00
+nf 7297 auto posto oliveiras
+hist.:
+tp. tit.:
+pix
+148179
+7297
+top:
+conta:
+conta bb - emp 1
+25/08/2025
+25/08/2025
+r$ 410,92
+25/08/2025
+7696 - combustivel
+r$ 331,56
+r$ 0,00
+r$ 0,00 r$ 0,00
+nf 156112 posto coxamin abastecimento van
+hist.:
+tp. tit.:
+pix
+147199
+156112
+top:
+conta:
+conta bb - emp 1
+21/08/2025
+21/08/2025
+r$ 331,56
+21/08/2025
+7696 - combustivel
+ suprimentos
+
+sua solução em suprimentos industriais
+r$ 5.557,52
+r$ 0,00
+r$ 0,00 r$ 0,00
+boleto referente ao fretes realizados para: filial, sodexo, marks, parente andrade,
+hist.:
+tp. tit.:
+boleto
+141197
+32190
+top:
+conta:
+conta bb - emp 1
+07/08/2025
+14/08/2025
+r$ 5.557,52
+14/08/2025
+7028 - comercio transportes boa esperanca ltda
+r$ 618,72
+r$ 0,00
+r$ 0,00 r$ 0,00
+seu posto.com aguardando nota fiscal, material revenda
+hist.:
+tp. tit.:
+boleto
+144469
+61872
+top:
+conta:
+conta bb - emp 1
+14/08/2025
+14/08/2025
+r$ 618,72
+14/08/2025
+7769 - compra a vista
+r$ 1.386,53
+r$ 0,00
+r$ 0,00 r$ 0,00
+bnr equipamentos
+hist.:
+tp. tit.:
+débito em conta
+144454
+138653
+top:
+conta:
+conta bb - emp 1
+14/08/2025
+14/08/2025
+r$ 1.386,53
+14/08/2025
+7769 - compra a vista
+r$ 23,17
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+148686
+2317
+top:
+conta:
+conta bb - emp 1
+26/08/2025
+26/08/2025
+r$ 23,17
+26/08/2025
+7761 - despesa bancaria
+r$ 11,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz tarifas pix
+hist.:
+tp. tit.:
+débito em conta
+149316
+1
+top:
+conta:
+conta bb - emp 1
+27/08/2025
+27/08/2025
+r$ 11,00
+27/08/2025
+7761 - despesa bancaria
+r$ 34,95
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+140048
+3495
+top:
+conta:
+conta bb - emp 1
+04/08/2025
+04/08/2025
+r$ 34,95
+04/08/2025
+7761 - despesa bancaria
+r$ 20,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+141202
+20
+top:
+conta:
+conta bb - emp 1
+05/08/2025
+05/08/2025
+r$ 20,00
+05/08/2025
+7761 - despesa bancaria
+r$ 2,17
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+147220
+217
+top:
+conta:
+conta bb - emp 1
+18/08/2025
+18/08/2025
+r$ 2,17
+18/08/2025
+7761 - despesa bancaria
+r$ 53,59
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+144448
+1408
+top:
+conta:
+conta bb - emp 1
+14/08/2025
+14/08/2025
+r$ 53,59
+14/08/2025
+7761 - despesa bancaria
+r$ 20,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+147200
+20
+top:
+conta:
+conta bb - emp 1
+21/08/2025
+21/08/2025
+r$ 20,00
+21/08/2025
+7761 - despesa bancaria
+r$ 20,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+147327
+20
+top:
+conta:
+conta bb - emp 1
+19/08/2025
+19/08/2025
+r$ 20,00
+19/08/2025
+7761 - despesa bancaria
+r$ 3,40
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb tarifa
+hist.:
+tp. tit.:
+débito em conta
+141127
+340
+top:
+conta:
+conta bb - emp 1
+06/08/2025
+06/08/2025
+r$ 3,40
+06/08/2025
+7761 - despesa bancaria
+r$ 22,15
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+148153
+2215
+top:
+conta:
+conta bb - emp 1
+25/08/2025
+25/08/2025
+r$ 22,15
+25/08/2025
+7761 - despesa bancaria
+r$ 75,40
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+141201
+7540
+top:
+conta:
+conta bb - emp 1
+05/08/2025
+05/08/2025
+r$ 75,40
+05/08/2025
+7761 - despesa bancaria
+r$ 20,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+bb matriz
+hist.:
+tp. tit.:
+débito em conta
+140240
+1082025
+top:
+conta:
+conta bb - emp 1
+01/08/2025
+01/08/2025
+r$ 20,00
+01/08/2025
+7761 - despesa bancaria
+r$ 30,43
+r$ 0,00
+r$ 0,00 r$ 0,00
+despesa cobrança matriz
+hist.:
+tp. tit.:
+débito em conta
+140157
+4082025
+top:
+conta:
+conta bb - emp 1
+04/08/2025
+04/08/2025
+r$ 30,43
+04/08/2025
+7815 - despesa cobranca
+r$ 8,95
+r$ 0,00
+r$ 0,00 r$ 0,00
+despesa cobrança matriz
+hist.:
+tp. tit.:
+débito em conta
+140155
+4082025
+top:
+conta:
+conta bb - emp 1
+04/08/2025
+04/08/2025
+r$ 8,95
+04/08/2025
+7815 - despesa cobranca
+r$ 220,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+compra certificado digital steffane e glauciene
+hist.:
+tp. tit.:
+pix
+148729
+280
+top:
+conta:
+conta bb - emp 1
+26/08/2025
+26/08/2025
+r$ 220,00
+26/08/2025
+7825 - despesa loja
+r$ 927,50
+r$ 0,00
+r$ 0,00 r$ 0,00
+nfs 14 adesivo lixeiras
+hist.:
+tp. tit.:
+pix
+148173
+14
+top:
+conta:
+conta bb - emp 1
+25/08/2025
+25/08/2025
+r$ 927,50
+25/08/2025
+7825 - despesa loja
+r$ 60,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+compra certificado digital steffane e glauciene
+hist.:
+tp. tit.:
+pix
+148727
+280
+top:
+conta:
+conta bb - emp 1
+26/08/2025
+26/08/2025
+r$ 60,00
+26/08/2025
+7825 - despesa loja
+r$ 79,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+compra sem nota fiscal, material de limpeza oficina
+hist.:
+tp. tit.:
+pix
+149322
+79
+top:
+conta:
+conta bb - emp 1
+27/08/2025
+27/08/2025
+r$ 79,00
+27/08/2025
+7825 - despesa loja
+r$ 17.023,63
+r$ 0,00
+r$ 0,00 r$ 0,00
+nfs 11 08/2025 premiação meta.
+hist.:
+tp. tit.:
+transferencia
+150513
+82025
+top:
+conta:
+conta bb - emp 1
+30/08/2025
+05/09/2025
+r$ 17.023,63
+05/09/2025
+7164 - e l arruda representacoes ltda
+r$ 1.548,32
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+boleto
+140487
+10854
+top:
+compra - revenda
+conta:
+conta bb - emp 1
+05/08/2025
+02/09/2025
+r$ 1.548,32
+1
+02/09/2025
+7019 - epi comercio e distribuicao ltda
+r$ 122,37
+r$ 0,00
+r$ 0,00 r$ 0,00
+08/2025 c.c. 3023018984 são luis residencia
+hist.:
+tp. tit.:
+boleto
+146743
+82025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 122,37
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 969,36
+r$ 0,00
+r$ 0,00 r$ 0,00
+07/2025 c.c. 3023018984 são luis residencia
+hist.:
+tp. tit.:
+boleto
+146745
+72025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 969,36
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 265,32
+r$ 0,00
+r$ 0,00 r$ 0,00
+07/2025 c.c. 3023243333 cd jg
+hist.:
+tp. tit.:
+boleto
+146751
+72025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 265,32
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 1.423,99
+r$ 0,00
+r$ 0,00 r$ 0,00
+08/2025 c.c. 3025371401 residencia rodolfo peba
+hist.:
+tp. tit.:
+boleto
+146750
+72025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 1.423,99
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 23,86
+r$ 0,00
+r$ 0,00 r$ 0,00
+07/2025 c.c. 3017055541 al santos galpão
+hist.:
+tp. tit.:
+boleto
+146748
+72025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 23,86
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 69,49
+r$ 0,00
+r$ 0,00 r$ 0,00
+07/2025 c.c. 3027274403 mirante lt 20
+hist.:
+tp. tit.:
+boleto
+146753
+72025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 69,49
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 7.551,64
+r$ 0,00
+r$ 0,00 r$ 0,00
+07/2025 c.c. 3020736380 loja
+hist.:
+tp. tit.:
+boleto
+146754
+72025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 7.551,64
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 998,19
+r$ 0,00
+r$ 0,00 r$ 0,00
+08/2025 c.c. 3025371401 residencia rodolfo peba
+hist.:
+tp. tit.:
+boleto
+146749
+82025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 998,19
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 123,02
+r$ 0,00
+r$ 0,00 r$ 0,00
+07/2025 c.c. 3023906383
+hist.:
+tp. tit.:
+boleto
+146752
+72025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 123,02
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 21,01
+r$ 0,00
+r$ 0,00 r$ 0,00
+08/2025 c.c. 3017055541 al santos galpão
+hist.:
+tp. tit.:
+boleto
+146747
+82025
+top:
+conta:
+conta bb - emp 1
+20/08/2025
+22/08/2025
+r$ 21,01
+20/08/2025
+7840 - equatorial cemar/celpa
+r$ 9.230,19
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+boleto
+143446
+11144
+top:
+compra - revenda
+conta:
+conta bb - emp 1
+05/08/2025
+02/09/2025
+r$ 9.230,19
+1
+02/09/2025
+6939 - escaleve escada ind com distr ltda
+r$ 1.966,50
+r$ 0,00
+r$ 0,00 r$ 0,00
+nfs 29036 goldpass premiação
+hist.:
+tp. tit.:
+boleto
+147325
+29036
+top:
+conta:
+conta bb - emp 1
+19/08/2025
+19/08/2025
+r$ 1.966,50
+19/08/2025
+8040 - gold pass comunicação ltda
+r$ 10.836,45
+r$ 0,00
+r$ 0,00 r$ 0,00
+nfs 28827 premição pedro e jose
+hist.:
+tp. tit.:
+boleto
+141172
+28827
+top:
+conta:
+conta bb - emp 1
+05/08/2025
+05/08/2025
+r$ 10.836,45
+05/08/2025
+8040 - gold pass comunicação ltda
+r$ 110,00
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+<sem tipo de
+140120
+5329
+top:
+compra - uso/consumo (uso direto)
+conta:
+conta bb - emp 1
+01/08/2025
+01/09/2025
+r$ 110,00
+1
+01/09/2025
+6756 - h m de araujo ltda
+r$ 1.874,66
+r$ 0,00
+r$ 0,00 r$ 0,00
+hist.:
+tp. tit.:
+boleto
+145132
+9912
+top:
+compra - revenda
+conta:
+conta bb - emp 1
+01/08/2025
+30/08/2025
+r$ 1.874,66
+1
+01/09/2025
+7255 - hm messias amapa comercio de moveis me
+r$ 1.004,40
+r$ 0,00
+r$ 0,00 r$ 0,00
+alimentação 07/2025
+hist.:
+tp. tit.:
+boleto
+141134
+72025
+top:
+conta:
+conta bb - emp 1
+07/08/2025
+07/08/2025
+r$ 1.004,40
+07/08/2025
+8981 - ifood beneficios e serviços ltda
+r$ 939,19
+r$ 0,00
+r$ 0,00 r$ 0,00
+nota fiscal de serviço ash - implantação totvs impostos
+hist.:
+tp. tit.:
+boleto
+144299
+372127393
+top:
+conta:
+conta bb - emp 1
+14/08/2025
+20/08/2025
+r$ 939,19
+20/08/2025
+7669 - imposto federal darf

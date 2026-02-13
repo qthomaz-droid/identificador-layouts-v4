@@ -1,0 +1,1177 @@
+vencimento - compras / contas
+12/09/2025 12:08:04
+período: 01/08/2025 a 31/08/2025
+contas pagas
+ 
+subsetor: todos - setor: todos
+ 
+ 
+entidade: geral
+ 
+blue medic 
+ 
+compra
+fornecedor
+nota
+compra
+d. venc
+par
+d.  pagto
+valor fundo
+observação
+01/08/2025   sexta-feira
+tipo despesa
+sit. cobr.
+1553
+01/08/2025
+01/08/2025
+01/08/2025
+2,00 ita977418
+01082025 
+itau unibanco 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1781
+01/08/2025
+01/08/2025
+01/08/2025
+29,28 brb209037594
+001206 
+brb 
+iof 
+ 
+1/1
+deposito
+ 
+28
+12/12/2024
+01/08/2025
+01/08/2025
+75,74 ita977418
+134441-4 
+caesb 
+água e esgoto 
+ 
+8/12
+outros
+ 
+1782
+01/08/2025
+01/08/2025
+01/08/2025
+195,25 brb209037594
+001221 
+brb 
+iof 
+ 
+1/1
+deposito
+ 
+2001
+01/08/2025
+01/08/2025
+01/08/2025
+246,31 pay2
+01082025 
+auto posto esquina limitada 
+combustíveis 
+ 
+1/1
+cartao
+ 
+1542
+04/08/2025
+01/08/2025
+01/08/2025
+250,00 pay2
+94925 
+auto posto esquina limitada 
+despesas de viagens 
+ 
+1/1
+cartao
+ 
+26
+12/12/2024
+01/08/2025
+01/08/2025
+307,48 ita977418
+70787731-
+caesb 
+água e esgoto 
+ 
+8/12
+outros
+ 
+1515
+01/08/2025
+01/08/2025
+01/08/2025
+360,00 ita977418
+ 
+cim engenharia 
+despesa filial palma 
+ 
+1/1
+boleto 
+ 
+1550
+01/08/2025
+01/08/2025
+01/08/2025
+415,01 ita977418
+957-
+latam airlines brasil 
+fretes e carretos 
+ 
+1/1
+deposito
+ 
+1551
+01/08/2025
+01/08/2025
+01/08/2025
+1.070,00 ita977418
+010825 
+health mercantil fundo de investimento 
+juros pagos 
+ 
+1/1
+deposito
+ 
+1483
+29/07/2025
+01/08/2025
+01/08/2025
+1.285,75 ita977418
+2522 
+nk log 
+fretes e carretos 
+ 
+1/1
+boleto 
+ 
+1783
+01/08/2025
+01/08/2025
+01/08/2025
+1.724,87 brb209037594
+001106 
+brb 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1254
+01/07/2025
+01/08/2025
+01/08/2025
+3.000,00 ita977418
+2025 2 
+denes vilarindo porto ltda 
+serviços de terceiro 
+ 
+2/6
+deposito
+ 
+1549
+01/08/2025
+01/08/2025
+01/08/2025
+3.000,00 ita977418
+2025 
+leonardo evangelista rodrigues da ltda 
+serviços de terceiro 
+ 
+1/5
+outros
+ 
+1253
+01/07/2025
+01/08/2025
+01/08/2025
+5.000,00 ita977418
+ 
+adl consultorias e representacoes 
+serviços de terceiro 
+ 
+2/6
+deposito
+ 
+subtotal
+16.961,69
+não pagos
+0,00
+pagos
+16.961,69
+descontos
+juros
+0,00
+0,00
+compra
+fornecedor
+nota
+compra
+d. venc
+par
+d.  pagto
+valor fundo
+observação
+04/08/2025   segunda-feira
+tipo despesa
+sit. cobr.
+1944
+04/08/2025
+04/08/2025
+04/08/2025
+0,70 bra392413
+7632419 08 
+bradesco est unif 
+iof 
+ 
+1/1
+deposito
+ 
+1558
+04/08/2025
+04/08/2025
+04/08/2025
+7,60 ita977418
+0408252 
+itau unibanco 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1943
+04/08/2025
+04/08/2025
+04/08/2025
+11,84 bra392413
+7632419 09 
+bradesco est unif 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1560
+04/08/2025
+04/08/2025
+04/08/2025
+66,01 ita977418
+0408255 
+itau unibanco 
+iof 
+ 
+1/1
+deposito
+ 
+1557
+04/08/2025
+04/08/2025
+04/08/2025
+396,62 ita977418
+040820251 
+itau unibanco 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1559
+04/08/2025
+04/08/2025
+04/08/2025
+1.963,06 ita977418
+0408253 
+itau unibanco 
+iof 
+ 
+1/1
+deposito
+ 
+subtotal
+2.445,83
+não pagos
+0,00
+pagos
+2.445,83
+descontos
+juros
+0,00
+0,00
+compra
+fornecedor
+nota
+compra
+d. venc
+par
+d.  pagto
+valor fundo
+observação
+05/08/2025   terça-feira
+tipo despesa
+sit. cobr.
+1591
+05/08/2025
+05/08/2025
+05/08/2025
+1,77 ita977418
+10000224 
+itau unibanco 
+juros operação desco 
+ 
+1/1
+outros
+ 
+1592
+05/08/2025
+05/08/2025
+05/08/2025
+1,77 ita977418
+10000223 
+itau unibanco 
+juros operação desco 
+ 
+1/1
+outros
+ 
+1594
+05/08/2025
+05/08/2025
+05/08/2025
+2,13 ita977418
+10000221 
+itau unibanco 
+juros operação desco 
+ 
+1/1
+outros
+ 
+vencimento - compras / contas
+12/09/2025 12:08:05
+período: 01/08/2025 a 31/08/2025
+contas pagas
+ 
+subsetor: todos - setor: todos
+ 
+ 
+entidade: geral
+ 
+blue medic 
+ 
+1595
+05/08/2025
+05/08/2025
+05/08/2025
+4,00 ita977418
+05082025 
+itau unibanco 
+tarifas bancárias 
+ 
+1/1
+outros
+ 
+1593
+05/08/2025
+05/08/2025
+05/08/2025
+8,53 ita977418
+10000225 
+itau unibanco 
+juros operação desco 
+ 
+1/1
+outros
+ 
+1596
+06/08/2025
+05/08/2025
+05/08/2025
+8,89 ita977418
+10000226 
+itau unibanco 
+juros operação desco 
+ 
+1/1
+outros
+ 
+1590
+05/08/2025
+05/08/2025
+05/08/2025
+9,96 ita977418
+10000222 
+itau unibanco 
+juros operação desco 
+ 
+1/1
+outros
+ 
+1598
+05/08/2025
+05/08/2025
+05/08/2025
+40,70 ita977418
+05082025 
+correios sede 
+correios 
+ 
+1/1
+outros
+ 
+37
+12/12/2024
+05/08/2025
+05/08/2025
+60,00 ita977418
+18147  
+payfy 
+financeiras 
+ 
+8/12
+outros
+ 
+1599
+05/08/2025
+05/08/2025
+05/08/2025
+109,90 ita977418
+0508252 
+takashi 
+reembolso 
+ 
+1/1
+deposito
+ 
+34
+12/12/2024
+05/08/2025
+05/08/2025
+120,00 ita977418
+38764 
+bio projetos sustentaveis 
+coletor de resíduos 
+ 
+8/12
+outros
+ 
+29
+12/12/2024
+03/08/2025
+05/08/2025
+148,27 ita977418
+044747503
+vivo s/a 
+telefone 
+ 
+8/12
+outros
+ 
+1586
+05/08/2025
+05/08/2025
+05/08/2025
+250,00 ita977418
+710 
+itau unibanco 
+descontos concedidos 
+ 
+1/1
+outros
+ 
+1587
+05/08/2025
+05/08/2025
+05/08/2025
+250,00 ita977418
+709 
+itau unibanco 
+descontos concedidos 
+ 
+1/1
+outros
+ 
+38
+12/12/2024
+05/08/2025
+05/08/2025
+278,94 ita977418
+rt8387910
+verisure brasil monitoramento de alarmes alarme 
+ 
+8/12
+outros
+ 
+1584
+05/08/2025
+05/08/2025
+05/08/2025
+300,00 ita977418
+707 
+itau unibanco 
+descontos concedidos 
+ 
+1/1
+outros
+ 
+925
+07/05/2025
+05/08/2025
+05/08/2025
+403,34 ita977418
+37159 
+biometal 
+compra mercadorias p 
+ 
+3/3
+outros
+ 
+44
+13/12/2024
+05/08/2025
+05/08/2025
+645,06 ita977418
+000000001
+apice contabil 
+honorários contábeis 
+ 
+8/12
+outros
+ 
+1588
+05/08/2025
+05/08/2025
+05/08/2025
+1.200,00 ita977418
+711 
+itau unibanco 
+descontos concedidos 
+ 
+1/1
+outros
+ 
+1589
+05/08/2025
+05/08/2025
+05/08/2025
+1.250,00 ita977418
+712 
+itau unibanco 
+descontos concedidos 
+ 
+1/1
+outros
+ 
+1585
+05/08/2025
+05/08/2025
+05/08/2025
+1.400,00 ita977418
+708 
+itau unibanco 
+descontos concedidos 
+ 
+1/1
+outros
+ 
+subtotal
+6.493,26
+não pagos
+0,00
+pagos
+6.493,26
+descontos
+juros
+0,00
+0,00
+compra
+fornecedor
+nota
+compra
+d. venc
+par
+d.  pagto
+valor fundo
+observação
+06/08/2025   quarta-feira
+tipo despesa
+sit. cobr.
+2004
+06/08/2025
+06/08/2025
+06/08/2025
+136,27 pay2
+19818 
+plasticos santa rita 
+material de limpeza 
+ 
+1/1
+deposito
+ 
+1613
+06/08/2025
+06/08/2025
+06/08/2025
+500,00 ita977418
+999999 
+blue medic 
+transferencia 
+ 
+1/1
+carteira
+ 
+1582
+05/08/2025
+06/08/2025
+06/08/2025
+877,08 ita977418
+07 2025 2 
+rafael conceição dos santos 
+serviços de terceiro 
+ 
+1/1
+outros
+ 
+1614
+06/08/2025
+06/08/2025
+06/08/2025
+1.000,00 ita977418
+060825 
+flávio luiz de andrade 
+empréstimos/financia 
+ 
+1/1
+deposito
+ 
+1581
+05/08/2025
+06/08/2025
+06/08/2025
+1.122,66 ita977418
+2025 07 
+lucas vinícius nunes catunda 
+serviços de terceiro 
+ 
+1/1
+outros
+ 
+1564
+05/08/2025
+06/08/2025
+06/08/2025
+1.524,82 ita977418
+07-2025 
+antonio  machado 
+salários 
+ 
+1/1
+outros
+ 
+1571
+05/08/2025
+06/08/2025
+06/08/2025
+1.524,82 cofre
+07-2025 
+laura angelica gobo guimaraes 
+salários 
+ 
+1/1
+outros
+ 
+1565
+05/08/2025
+06/08/2025
+06/08/2025
+1.877,27 ita977418
+07-2025 
+cleiciane hatsue rufino iendo 
+salários 
+ 
+1/1
+outros
+ 
+1548
+04/08/2025
+01/08/2025
+06/08/2025
+2.064,78 ita977418
+132790 
+maac travel corporate 
+despesas de viagens 
+ 
+1/1
+outros
+ 
+1568
+05/08/2025
+06/08/2025
+06/08/2025
+2.285,43 ita977418
+07-2025 
+gabriel sousa silva couto 
+salários 
+ 
+1/1
+outros
+ 
+1563
+05/08/2025
+06/08/2025
+06/08/2025
+2.297,77 ita977418
+07-2025 
+larissa rios de sena 
+salários 
+ 
+1/1
+outros
+ 
+1492
+30/07/2025
+05/08/2025
+06/08/2025
+2.519,38 ita977418
+049686 
+dynamic travel 
+despesas de viagens 
+ 
+1/1
+outros
+ 
+1575
+05/08/2025
+06/08/2025
+06/08/2025
+2.526,91 ita977418
+07-2025 
+ricardo ferreira de lima 
+salários 
+ 
+1/1
+outros
+ 
+1570
+05/08/2025
+06/08/2025
+06/08/2025
+2.592,60 ita977418
+07-2025 
+kayo de sousa mendes 
+salários 
+ 
+1/1
+outros
+ 
+1569
+05/08/2025
+06/08/2025
+06/08/2025
+2.636,60 ita977418
+07-2025 
+gabriela machado negreiros 
+salários 
+ 
+1/1
+outros
+ 
+vencimento - compras / contas
+12/09/2025 12:08:07
+período: 01/08/2025 a 31/08/2025
+contas pagas
+ 
+subsetor: todos - setor: todos
+ 
+ 
+entidade: geral
+ 
+blue medic 
+ 
+1574
+05/08/2025
+06/08/2025
+06/08/2025
+2.636,60 ita977418
+07-2025 
+priscila cristina araújo ribeiro 
+salários 
+ 
+1/1
+outros
+ 
+1371
+15/07/2025
+29/07/2025
+06/08/2025
+2.739,32 ita977418
+049259 
+dynamic travel 
+despesas de viagens 
+ 
+1/1
+boleto 
+ 
+1576
+05/08/2025
+06/08/2025
+06/08/2025
+2.922,60 ita977418
+07-2025 
+washington alencar de oliveira 
+salários 
+ 
+1/1
+outros
+ 
+1566
+05/08/2025
+06/08/2025
+06/08/2025
+2.969,21 ita977418
+07-2025 
+cristiana moreira lima 
+salários 
+ 
+1/1
+outros
+ 
+1567
+05/08/2025
+06/08/2025
+06/08/2025
+3.391,82 ita977418
+07-2025 
+danúbio forlan borges duarte 
+salários 
+ 
+1/1
+outros
+ 
+1130
+05/06/2025
+04/08/2025
+06/08/2025
+4.430,29 ita977418
+493 
+volmed atacado 
+venda de mercadorias 
+ 
+2/6
+outros
+ 
+1612
+06/08/2025
+06/08/2025
+06/08/2025
+5.050,00 ita977418
+06082025 
+flávio luiz de andrade 
+serviços de terceiro 
+ 
+1/1
+deposito
+ 
+1572
+05/08/2025
+06/08/2025
+06/08/2025
+5.214,02 ita977418
+07-2025 
+maria nazaret silveira rios 
+salários 
+ 
+1/1
+outros
+ 
+1262
+30/06/2025
+30/07/2025
+06/08/2025
+6.004,85 ita977418
+946 
+volmed atacado 
+venda de mercadorias 
+ 
+1/6
+outros
+ 
+1577
+05/08/2025
+06/08/2025
+06/08/2025
+6.774,19 ita977418
+07-2025 
+wesley santos alencar 
+salários 
+ 
+1/1
+outros
+ 
+subtotal
+67.119,29
+não pagos
+0,00
+pagos
+67.119,29
+descontos
+juros
+277,30
+0,00
+compra
+fornecedor
+nota
+compra
+d. venc
+par
+d.  pagto
+valor fundo
+observação
+08/08/2025   sexta-feira
+tipo despesa
+sit. cobr.
+1648
+08/08/2025
+08/08/2025
+08/08/2025
+4,00 ita977418
+080825 
+itau unibanco 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1652
+08/08/2025
+08/08/2025
+08/08/2025
+31,50 ita977418
+0808252 
+itau unibanco 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1651
+08/08/2025
+08/08/2025
+08/08/2025
+260,00 ita977418
+080820252 
+itau unibanco 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1653
+08/08/2025
+08/08/2025
+08/08/2025
+359,51 ita977418
+0808253 
+itau unibanco 
+iof 
+ 
+1/1
+deposito
+ 
+1646
+08/08/2025
+08/08/2025
+08/08/2025
+422,94 ita977418
+08082025 
+ricardo ferreira de lima 
+ajuda de custo 
+ 
+1/1
+deposito
+ 
+1350
+08/07/2025
+07/08/2025
+08/08/2025
+1.144,00 ita977418
+109003 
+ortoeste 
+venda de mercadorias 
+ 
+1/1
+carteira
+ 
+1647
+08/08/2025
+08/08/2025
+08/08/2025
+1.220,00 ita977418
+080825 
+flávio luiz de andrade 
+empréstimos/financia 
+ 
+1/1
+deposito
+ 
+1644
+15/07/2025
+30/07/2025
+08/08/2025
+1.493,28 ita977418
+979 
+arklog 
+fretes e carretos 
+ 
+1/1
+deposito
+ 
+1654
+08/08/2025
+08/08/2025
+08/08/2025
+3.961,71 ita977418
+0808254 
+itau unibanco 
+juros operação desco 
+ 
+1/1
+deposito
+ 
+subtotal
+8.896,94
+não pagos
+0,00
+pagos
+8.896,94
+descontos
+juros
+104,00
+0,00
+compra
+fornecedor
+nota
+compra
+d. venc
+par
+d.  pagto
+valor fundo
+observação
+11/08/2025   segunda-feira
+tipo despesa
+sit. cobr.
+1660
+11/08/2025
+11/08/2025
+11/08/2025
+8,00 ita977418
+11082025 
+itau unibanco 
+tarifas bancárias 
+ 
+1/1
+deposito
+ 
+1658
+29/07/2025
+10/08/2025
+11/08/2025
+22,00 bra392413
+2907252 
+bradesco est unif 
+despesas cartão de c 
+ 
+1/1
+outros
+ 
+1945
+11/08/2025
+11/08/2025
+11/08/2025
+22,00 bra392413
+11082025 
+bradesco est unif 
+despesas cartão de c 
+ 
+1/1
+outros
+ 
+1519
+04/08/2025
+10/08/2025
+11/08/2025
+33,56 bra392413
+000031966 
+restaurante bom sabor 
+despesas de viagens 
+ 
+1/1
+outros
+ 
+1657
+29/07/2025
+10/08/2025
+11/08/2025
+39,38 bra392413
+290725 
+top espetinhos  
+alimentação 
+ 
+1/1
+cartao
+ 
+1529
+04/08/2025
+10/08/2025
+11/08/2025
+56,07 bra392413
+2349 
+frango na brasa 
+despesas de viagens 
+ 
+1/1
+outros
+ 
+1525
+04/08/2025
+10/08/2025
+11/08/2025
+75,80 bra392413
+000066237 
+restaurante ecologico 
+despesas de viagens 
+ 
+1/1
+outros
+ 
+1527
+04/08/2025
+10/08/2025
+11/08/2025
+78,05 bra392413
+000066221 
+restaurante ecologico 
+despesas de viagens 
+ 
+1/1
+outros
+ 
+1528
+04/08/2025
+10/08/2025
+11/08/2025
+80,75 bra392413
+000000312 
+forneria e pizzaria paulistana 
+despesas de viagens 
+ 
+1/1
+outros
+ 

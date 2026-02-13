@@ -1,0 +1,85 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+recebimento
+data/hora de emissão:
+cooperativa: 
+conta corrente: 
+período: 
+tipo de movimentação: 
+09/01/2025 23:22:42
+3007
+108.383-0
+01/12/2024 - 31/12/2024
+recebimento
+data/hora movimento
+id transação
+histórico
+nome do pagador
+descrição
+identificador (txid)
+valor
+02/12/2024 16:41:30
+e2812760320241202
+194100155765173
+recebimento pix 
+via chave
+pedro onorio grippa
+-
+r$ 677,50 
+05/12/2024 17:01:12
+e3243023320241205
+2001qohplyglc9s
+recebimento pix 
+via chave
+maycon fantin porto
+-
+r$ 500,00 
+20/12/2024 23:53:08
+e6074694820241221
+0251a1723h6z0ys
+recebimento pix 
+via chave
+fabio junior paulino de almeida
+-
+r$ 1.000,00 
+26/12/2024 13:06:04
+e0036030520241226
+16049f55af58193
+recebimento pix 
+via chave
+cleir lecco bertazo
+advogado
+r$ 2.744,68 
+26/12/2024 20:54:09
+e0000000020241226
+235353955443636
+recebimento pix 
+via chave
+centro medico norte
+-
+r$ 2.500,00 
+27/12/2024 11:30:30
+e3243023320241227
+14307du8cfooiec
+recebimento pix 
+via chave
+treviso apart hotel, comercio e 
+servicos eireli
+-
+r$ 15.000,00 
+30/12/2024 15:34:39
+e6074694820241230
+1834a17230giffe
+recebimento pix 
+via chave
+fabio junior paulino de almeida
+-
+r$ 280,00 
+30/12/2024 16:39:23
+e0000000020241230
+193909919222425
+recebimento pix 
+via chave
+daniel lebarke croscopp
+-
+r$ 1.610,00 

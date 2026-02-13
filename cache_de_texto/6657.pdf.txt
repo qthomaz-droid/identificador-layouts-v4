@@ -1,0 +1,684 @@
+relatório de pagamento de clientes
+empresa:
+1
+página:
+período de 02-pagamento: 01/04/2025 à 30/04/2025 por ordem de 04-dt pagamento e sub-ordem de 01-cliente e modelo por recibo, referente ao cliente: 0 - todos os clientes
+bergami comercio ltda                                                                               
+filial inicial:
+1 - diniz automacao e materiais eletricos
+filial final: 1 - diniz automacao e materiais eletricos
+filial docto. inicial:
+filial docto. final:
+cobrador inicial:
+cobrador final:
+vendedor inicial:
+vendedor final:
+portador inicial:
+portador final:
+conta banco inicial:
+conta banco final:
+usuario inicial:
+usuario final:
+parceiros:
+situação inicial:
+situação final:
+empresa inicial:
+empresa final:
+1 - diniz automacao e materiais eletricos
+2 - diniz fios e cabos
+1 - carteira
+55 - cobranca bancaria
+1 - jadilso bergami
+999999 - objetiva
+1 - carteira
+99 - creditos
+0 - 
+1521845 - sicoob diniz fios e cabos                                   
+1 - jadilso bergami
+999999 - objetiva
+0 - 
+6 - cliente no spc
+1 - 
+999999 - diversas
+recibo
+dt emissão
+ dinheiro
+cheque
+cheque-pré
+ cartão créd
+cartão déb
+banco/pix
+outros
+financeira
+filial
+créditos
+total
+cliente
+troco
+dt pagamento: 01/04/2025 07:50:40,873
+ 12992
+ 1
+01/04/2025
+ 607,33
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 607,33
+ 12993
+ 1
+01/04/2025
+ 534,00
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 534,00
+ 12996
+ 1
+01/04/2025
+ 283,20
+84 - las palmas fruticola lt
+3-banco
+ 0,00
+ 283,20
+ 13003
+ 1
+01/04/2025
+ 2.300,00
+247 - fabio agostini
+3-banco
+ 0,00
+ 2.300,00
+ 13002
+ 1
+01/04/2025
+ 62,40
+1067 - ugbp - producao e ex
+3-banco
+ 0,00
+ 62,40
+ 13000
+ 1
+01/04/2025
+ 392,50
+1197 - wesley sesana
+3-banco
+ 0,00
+ 392,50
+ 13001
+ 1
+01/04/2025
+ 59,43
+1322 - lienge comercio enge
+3-banco
+ 0,00
+ 59,43
+ 12997
+ 1
+01/04/2025
+ 590,00
+1658 - industria de embalag
+3-banco
+ 0,00
+ 590,00
+ 12994
+ 1
+01/04/2025
+ 1.000,00
+1705 - machine desenvolvim
+3-banco
+ 0,00
+ 1.000,00
+ 12995
+ 1
+01/04/2025
+ 520,00
+1705 - machine desenvolvim
+3-banco
+ 0,00
+ 520,00
+ 12998
+ 1
+01/04/2025
+ 2.450,00
+1825 - tx rental ltda
+3-banco
+ 0,00
+ 2.450,00
+ 12999
+ 1
+01/04/2025
+ 265,94
+1840 - verde mudas e planta
+3-banco
+ 0,00
+ 265,94
+dt pagamento: 02/04/2025 08:59:33,253
+ 13007
+ 1
+02/04/2025
+ 39,00
+776 - mundo eletrico eireli
+3-banco
+ 0,00
+ 39,00
+ 13006
+ 1
+02/04/2025
+ 440,00
+1166 - max anderson prezot
+3-banco
+ 0,00
+ 440,00
+ 13005
+ 1
+02/04/2025
+ 744,00
+1362 - valdecir covre
+3-banco
+ 0,00
+ 744,00
+dt pagamento: 03/04/2025 07:45:39,863
+ 13009
+ 1
+03/04/2025
+ 861,81
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 861,81
+objetiva soluções
+gerado em 08/05/2025 as 17:22:15
+estação: servidor - usuário: jadilso bergami
+relatório de pagamento de clientes
+empresa:
+2
+página:
+período de 02-pagamento: 01/04/2025 à 30/04/2025 por ordem de 04-dt pagamento e sub-ordem de 01-cliente e modelo por recibo, referente ao cliente: 0 - todos os clientes
+bergami comercio ltda                                                                               
+recibo
+dt emissão
+ dinheiro
+cheque
+cheque-pré
+ cartão créd
+cartão déb
+banco/pix
+outros
+financeira
+filial
+créditos
+total
+cliente
+troco
+ 13010
+ 1
+03/04/2025
+ 567,36
+84 - las palmas fruticola lt
+3-banco
+ 0,00
+ 567,36
+ 13015
+ 1
+03/04/2025
+ 150,00
+273 - sergio luiz  milanez ri
+3-banco
+ 0,00
+ 150,00
+ 13012
+ 1
+03/04/2025
+ 200,00
+320 - v. dej. v. thomas ind. e  
+3-banco
+ 0,00
+ 200,00
+ 13013
+ 1
+03/04/2025
+ 500,00
+320 - v. dej. v. thomas ind. e  
+3-banco
+ 0,00
+ 500,00
+ 13014
+ 1
+03/04/2025
+ 140,00
+320 - v. dej. v. thomas ind. e  
+3-banco
+ 0,00
+ 140,00
+ 13016
+ 1
+03/04/2025
+ 277,00
+605 - micra microbiologia e 
+3-banco
+ 0,00
+ 277,00
+ 13018
+ 1
+03/04/2025
+ 48,00
+758 - daniel lucio loser sirt
+3-banco
+ 0,00
+ 48,00
+ 13017
+ 1
+03/04/2025
+ 234,95
+1260 - josemar moro
+3-banco
+ 0,00
+ 234,95
+ 13011
+ 1
+03/04/2025
+ 1.313,34
+1514 - fabrilar industria de
+3-banco
+ 0,00
+ 1.313,34
+dt pagamento: 04/04/2025 09:32:28,903
+ 13021
+ 1
+04/04/2025
+ 588,41
+106 - ary bortolini
+3-banco
+ 0,00
+ 588,41
+ 13022
+ 1
+04/04/2025
+ 370,05
+ 370,05
+792 - ibae industria brasilei
+0-
+ 0,00
+ 13020
+ 1
+04/04/2025
+ 327,14
+1766 - capixaba inox ltda
+3-banco
+ 0,00
+ 327,14
+dt pagamento: 07/04/2025 08:16:53,923
+ 13026
+ 1
+07/04/2025
+ 1.776,17
+549 - bertek produtos e se
+3-banco
+ 0,00
+ 1.776,17
+ 13032
+ 1
+07/04/2025
+ 37,90
+657 - sidney da silva
+3-banco
+ 0,00
+ 37,90
+ 13028
+ 1
+07/04/2025
+ 179,70
+747 - japira irrigações ltda
+3-banco
+ 0,00
+ 179,70
+ 13031
+ 1
+07/04/2025
+ 68,39
+873 - sidmar frutas agrone
+3-banco
+ 0,00
+ 68,39
+ 13025
+ 1
+07/04/2025
+ 325,60
+1038 - rb consorcio
+3-banco
+ 0,00
+ 325,60
+ 13027
+ 1
+07/04/2025
+ 784,56
+1763 - ramon libardi armani
+3-banco
+ 0,00
+ 784,56
+ 13030
+ 1
+07/04/2025
+ 51,21
+1835 - rancheiro s.a.
+3-banco
+ 0,00
+ 51,21
+ 13029
+ 1
+07/04/2025
+ 351,36
+ 347,00
+ 346,99
+1858 - alan da cruz rodrigu
+3-banco
+ 0,00
+ 351,37
+dt pagamento: 08/04/2025 07:59:33,903
+ 13035
+ 1
+08/04/2025
+ 1.223,37
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 1.223,37
+ 13036
+ 1
+08/04/2025
+ 413,33
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 413,33
+ 13037
+ 1
+08/04/2025
+ 780,09
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 780,09
+ 13038
+ 1
+08/04/2025
+ 325,23
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 325,23
+objetiva soluções
+gerado em 08/05/2025 as 17:22:15
+estação: servidor - usuário: jadilso bergami
+relatório de pagamento de clientes
+empresa:
+3
+página:
+período de 02-pagamento: 01/04/2025 à 30/04/2025 por ordem de 04-dt pagamento e sub-ordem de 01-cliente e modelo por recibo, referente ao cliente: 0 - todos os clientes
+bergami comercio ltda                                                                               
+recibo
+dt emissão
+ dinheiro
+cheque
+cheque-pré
+ cartão créd
+cartão déb
+banco/pix
+outros
+financeira
+filial
+créditos
+total
+cliente
+troco
+ 13064
+ 1
+08/04/2025
+ 360,00
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 360,00
+ 13065
+ 1
+08/04/2025
+ 288,82
+3 - caliman agricola s/a
+3-banco
+ 0,00
+ 288,82
+ 13042
+ 1
+08/04/2025
+ 5.876,00
+11 - cimol- comercio e indus
+3-banco
+ 0,00
+ 5.876,00
+ 13057
+ 1
+08/04/2025
+ 385,00
+20 - alessandro de araujo m
+3-banco
+ 0,00
+ 385,00
+ 13045
+ 1
+08/04/2025
+ 788,20
+86 - jose carlos pomperma
+3-banco
+ 0,00
+ 788,20
+ 13074
+ 1
+08/04/2025
+ 950,00
+93 - mauricio almeida siquei
+3-banco
+ 0,00
+ 950,00
+ 13067
+ 1
+08/04/2025
+ 145,00
+113 - tm comercio de extint
+3-banco
+ 0,00
+ 145,00
+ 13068
+ 1
+08/04/2025
+ 130,00
+113 - tm comercio de extint
+3-banco
+ 0,00
+ 130,00
+ 13066
+ 1
+08/04/2025
+ 595,03
+159 - jorge luiz marin e out
+3-banco
+ 0,00
+ 595,03
+ 13049
+ 1
+08/04/2025
+ 770,00
+190 - jorge tintori
+3-banco
+ 0,00
+ 770,00
+ 13053
+ 1
+08/04/2025
+ 200,00
+229 - liesa linhares embalag
+3-banco
+ 0,00
+ 200,00
+ 13073
+ 1
+08/04/2025
+ 1.230,00
+247 - fabio agostini
+3-banco
+ 0,00
+ 1.230,00
+ 13055
+ 1
+08/04/2025
+ 350,00
+248 - industria de moveis rio
+3-banco
+ 0,00
+ 350,00
+ 13041
+ 1
+08/04/2025
+ 3.200,00
+298 - jose roberto da ros
+3-banco
+ 0,00
+ 3.200,00
+ 13056
+ 1
+08/04/2025
+ 600,00
+314 - beta engenharia e pro
+3-banco
+ 0,00
+ 600,00
+ 13043
+ 1
+08/04/2025
+ 2.327,54
+316 - marcos joao marin e o
+3-banco
+ 0,00
+ 2.327,54
+ 13058
+ 1
+08/04/2025
+ 1.000,00
+318 - eduardo matede rigon
+3-banco
+ 0,00
+ 1.000,00
+ 13070
+ 1
+08/04/2025
+ 116,00
+371 - l & a materiais eletrico
+3-banco
+ 0,00
+ 116,00
+ 13044
+ 1
+08/04/2025
+ 1.698,45
+390 - proteinorte alimento
+3-banco
+ 0,00
+ 1.698,45
+ 13069
+ 1
+08/04/2025
+ 776,00
+450 - ala pescados eireli
+3-banco
+ 0,00
+ 776,00
+ 13059
+ 1
+08/04/2025
+ 1.480,00
+503 - jairo correa
+3-banco
+ 0,00
+ 1.480,00
+ 13047
+ 1
+08/04/2025
+ 450,00
+757 - vix energia renovavel
+3-banco
+ 0,00
+ 450,00
+ 13034
+ 1
+08/04/2025
+ 950,00
+896 - genivaldo bassani
+3-banco
+ 0,00
+ 950,00
+ 13039
+ 1
+08/04/2025
+ 300,00
+986 - eric lorencini
+3-banco
+ 0,00
+ 300,00
+ 13040
+ 1
+08/04/2025
+ 128,10
+1098 - bgj fazendas do bras
+3-banco
+ 0,00
+ 128,10
+ 13061
+ 1
+08/04/2025
+ 115,00
+1098 - bgj fazendas do bras
+3-banco
+ 0,00
+ 115,00
+ 13054
+ 1
+08/04/2025
+ 350,00
+1123 - joel ferreira matted
+3-banco
+ 0,00
+ 350,00
+ 13048
+ 1
+08/04/2025
+ 750,00
+1197 - wesley sesana
+3-banco
+ 0,00
+ 750,00
+ 13072
+ 1
+08/04/2025
+ 400,00
+1392 - a r de oliveira instala
+3-banco
+ 0,00
+ 400,00
+ 13060
+ 1
+08/04/2025
+ 140,00
+1567 - waldir durao netto
+3-banco
+ 0,00
+ 140,00
+ 13050
+ 1
+08/04/2025
+ 1.700,00
+1817 - alfa materiais eletric
+3-banco
+ 0,00
+ 1.700,00
+objetiva soluções
+gerado em 08/05/2025 as 17:22:15
+estação: servidor - usuário: jadilso bergami

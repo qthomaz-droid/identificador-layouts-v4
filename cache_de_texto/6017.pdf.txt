@@ -1,0 +1,409 @@
+consultar boletos e instruções
+g3310409023200111
+04/11/2024 09:05:43
+beneficiário
+agência
+372-7
+beneficiário
+22796-x michelle cosmeticos ltda
+data do movimento 01/11/2024
+totais
+operação
+quantidade
+valor
+registrado
+4
+7.160,28 c
+baixado
+32
+42.748,75
+liquidado (vlrs. nominais)
+17
+19.324,21 c
+- acrescimos
+1
+18,64 c
+vlr.rec.cbr.simples/vinc.
+17
+13.061,99 c
+- valor sem float
+0
+0,00
+- valor com float
+17
+13.061,99 c
+- valor com cheque a comp.
+0
+0,00
+lancamentos cobranca
+36
+77,99 d
+- total de debito no dia
+36
+77,99 d
+- tarifas
+53
+113,86 d
+- despesas cartorarias
+0
+0,00 d
+- total de credito no dia
+0
+0,00 c
+lancamentos desc./vendor
+9
+27.094,60 d
+- debito desconto/vendor
+9
+27.094,60 d
+- credito desconto/vendor
+0
+0,00 c
+valor recebido - desconto
+7
+6.280,86 c
+valor recebido - vendor
+0
+0,00 c
+modalidade simples carteira:17 variacao:19
+16392810000047009-x comercial prjr ltda
+21/10/2024
+253,69 0,00 0,00 0,00 rgm
+0,00 c
+179814
+16392810000047250-5 maria abigair alves silva 21/10/2024
+230,40 0,00 0,00 0,00 rgm
+0,00 c 180135/a
+16392810000047300-5 comercial prjr ltda
+21/10/2024
+2.716,10 0,00 0,00 0,00 rgm
+0,00 c
+180177
+16392810000048298-5 hiper carijos ltda
+01/03/2025
+3.960,09 0,00 0,00 0,00
+rg
+0,00 c
+181579
+modalidade vinculada carteira:17 variacao:19
+16392810000044589-3 mercado lindalva
+aparecida de
+01/08/2024
+335,65 2,18 0,00 0,00
+bx
+2,18 d 175565/c
+16392810000045298-9 del fiori cosmeticos
+ltda
+06/08/2024
+1.343,13 2,18 0,00 0,00
+bx
+2,18 d 176749/b
+16392810000045294-6 del fiori cosmeticos
+ltda
+11/08/2024
+514,21 2,18 0,00 0,00
+bx
+2,18 d 176746/c
+16392810000044586-9 mercado lindalva
+aparecida de
+16/08/2024
+313,18 2,18 0,00 0,00
+bx
+2,18 d 175564/d
+16392810000045299-7 del fiori cosmeticos
+ltda
+16/08/2024
+1.343,13 2,18 0,00 0,00
+bx
+2,18 d 176749/c
+16392810000045663-1 drog sta maria
+bondespachense
+19/08/2024
+211,67 2,18 0,00 0,00
+bx
+2,18 d 177181/b
+16392810000045839-1 henrique leao da silva
+barbosa
+19/08/2024
+365,45 2,18 0,00 0,00
+bx
+2,18 d
+177548
+16392810000046125-2 rosas cosmeticos e
+perfumaria
+20/08/2024
+544,92 2,18 0,00 0,00
+bx
+2,18 d 177996/a
+16392810000045295-4 del fiori cosmeticos
+ltda
+21/08/2024
+514,23 2,18 0,00 0,00
+bx
+2,18 d 176746/d
+16392810000045300-4 del fiori cosmeticos
+ltda
+26/08/2024
+1.343,15 2,18 0,00 0,00
+bx
+2,18 d 176749/d
+16392810000046123-6 rosas cosmeticos e
+perfumaria
+28/08/2024
+498,96 2,18 0,00 0,00
+bx
+2,18 d
+177994
+16392810000046124-4 rosas cosmeticos e
+perfumaria
+28/08/2024
+924,11 2,18 0,00 0,00
+bx
+2,18 d
+177995
+16392810000046128-7 rosas cosmeticos e
+perfumaria
+28/08/2024
+691,81 2,18 0,00 0,00
+bx
+2,18 d
+177998
+16392810000046069-8 drogafarma de baependi
+ltda
+30/08/2024
+367,49 2,18 0,00 0,00
+bx
+2,18 d 177948/b
+16392810000045995-9 roberta machado
+vasconcelos me
+02/09/2024
+650,02 2,18 0,00 0,00
+bx
+2,18 d 177778/b
+16392810000046309-3 carlos antonio de
+oliveira & c
+03/09/2024
+224,85 2,18 0,00 0,00
+bx
+2,18 d 178531/a
+16392810000046000-0 roberta machado
+vasconcelos me
+07/09/2024
+988,73 2,18 0,00 0,00
+bx
+2,18 d 177783/c
+16392810000046126-0 rosas cosmeticos e
+perfumaria
+09/09/2024
+544,92 2,18 0,00 0,00
+bx
+2,18 d 177996/b
+16392810000046070-1 drogafarma de baependi
+ltda
+14/09/2024
+367,49 2,18 0,00 0,00
+bx
+2,18 d 177948/c
+16392810000045876-6 drogaria mario e
+almeida ltda
+15/09/2024
+990,65 2,18 0,00 0,00
+bx
+2,18 d 177580/d
+16392810000045883-9 drogaria mario e
+almeida ltda
+20/09/2024
+1.038,75 2,18 0,00 0,00
+bx
+2,18 d 177582/e
+16392810000046127-9 rosas cosmeticos e
+perfumaria
+29/09/2024
+544,93 2,18 0,00 0,00
+bx
+2,18 d 177996/c
+16392810000046547-9 damara perf.cosmeticos
+ltda
+29/09/2024
+1.587,59 2,18 0,00 0,00
+bx
+2,18 d 179221/b
+16392810000046913-x drogaria drugstore
+minasprev l
+01/11/2024 01/11/2024 301,80 2,11 0,00 0,00 lqb 299,69 * 179572/c 1981-x
+16392810000046916-4 drogaria drugstore
+minasprev l
+01/11/2024 01/11/2024 5.117,79 2,11 0,00 0,00 lqb 5.115,68
+* 179573/c 1981-x
+16392810000046922-9 real cereais
+importacao export
+01/11/2024 01/11/2024 513,77 2,11 0,00 0,00 lqb 511,66 * 179576/c 1981-x
+16392810000046928-8 supermercado castro e
+oliveira
+01/11/2024 01/11/2024 634,71 2,11 0,00 0,00 lqb 632,60 * 179579/c 1981-x
+16392810000046936-9 etica drogaria e
+perfumaria lt
+01/11/2024 01/11/2024 357,47 2,11 0,00 0,00 lqb 355,36 * 179586/c 1981-x
+16392810000046940-7 souza farma com.de
+medicamento
+01/11/2024 01/11/2024 433,33 2,11 0,00 0,00 lqb 431,22 * 179589/c 1981-x
+16392810000046943-1 drogaria e perfumaria
+carvalho
+01/11/2024 01/11/2024 341,03 2,11 0,00 0,00 lqb 338,92 * 179591/c 1981-x
+16392810000046948-2 iguasuper eireli epp
+01/11/2024 01/11/2024 814,99 2,11 0,00 0,00 lqb 812,88 * 179594/c 1981-x
+16392810000046952-0 comercial acg ltda me
+01/11/2024 01/11/2024 452,68 2,11 0,00 0,00 lqb 450,57 * 179597/c 1981-x
+16392810000046957-1 comercial acg ltda me
+01/11/2024 01/11/2024 430,41 2,11 0,00 0,00 lqb 428,30 * 179600/c 1981-x
+16392810000046973-3 andre luiz silva
+01/11/2024 01/11/2024 185,94 2,11 0,00 0,00 lqb 183,83 * 179614/c 1981-x
+16392810000047703-5 drogaria medcenter
+ltda me
+01/11/2024 01/11/2024 420,47 2,11 0,00 0,00 lqb 418,36 * 180826/a 1981-x
+16392810000047711-6 drogaria lagopratense 01/11/2024 01/11/2024 402,39 2,11 0,00 0,00 lqb 400,28 * 180834/a 1981-x
+16392810000047717-5 drogaria vitoi
+drugstore ltda
+01/11/2024 01/11/2024 1.030,52 2,11 0,00 0,00 lqb 1.028,41
+* 180838/a 1981-x
+16392810000047751-5 maria ap.ferreira
+rodrigues fa
+01/11/2024 01/11/2024 711,79 2,11 0,00 0,00 lqb 709,68 * 180876/a 1981-x
+16392810000047771-x drogaria ww ltda
+01/11/2024 01/11/2024 611,12 2,11 0,00 0,00 lqb 609,01 * 180889/a 1981-x
+16392810000047800-7 drogaria e perfumaria
+nova ser
+01/11/2024 01/11/2024 301,78 2,11 0,00 0,00 lqb 299,67 * 180906/a 1981-x
+modalidade desconto-cobranca carteira:17 variacao:19
+16392810000047009-x comercial prjr ltda
+21/10/2024
+253,69 0,00 1,24 0,00
+db
+0,00 c
+179814
+16392810000047250-5 maria abigair alves silva 21/10/2024
+230,40 0,00 1,13 0,00
+db
+0,00 c 180135/a
+16392810000047300-5 comercial prjr ltda
+21/10/2024
+2.716,10 0,00 13,33 0,00
+db
+0,00 c
+180177
+16392810000046650-5 lucia batista marinho de
+almei
+26/10/2024
+1.864,66 2,18 0,00 0,00
+bx
+2,18 d 179276/b
+16392810000047142-8 michele aparecida da
+silva 114
+26/10/2024 01/11/2024 803,46 2,11 18,64 0,00 lqb
+2,11 d 179994/b 1981-x
+16392810000046031-0 lucia batista marinho de
+almei
+27/10/2024
+2.395,33 2,18 0,00 0,00
+bx
+2,18 d 177836/d
+16392810000046432-4 lucia batista marinho de
+almei
+29/10/2024
+3.405,40 2,18 0,00 0,00
+bx
+2,18 d 179018/c
+16392810000046823-0 lucia batista marinho de
+almei
+31/10/2024
+1.003,69 2,18 0,00 0,00
+bx
+2,18 d 179429/b
+16392810000046874-5 lucia batista marinho de
+almei
+31/10/2024
+5.252,49 2,18 0,00 0,00
+bx
+2,18 d 179475/b
+16392810000047308-0 lucia batista marinho de
+almei
+31/10/2024
+9.377,97 2,18 0,00 0,00
+bx
+2,18 d 180188/a
+16392810000047088-x joao henrique ltda me
+03/11/2024 01/11/2024 321,64 2,11 0,00 0,00 lqb
+2,11 d 179865/b 1981-x
+16392810000046621-1 alessandra campos lima 04/11/2024 01/11/2024 2.440,53 2,11 0,00 0,00 lqb
+2,11 d 179255/c 1981-x
+16392810000047606-3 alessandra campos lima 04/11/2024 01/11/2024 1.267,03 2,11 0,00 0,00 lqb
+2,11 d 180668/a 1981-x
+16392810000047108-8 alessandra campos lima 05/11/2024 01/11/2024 786,59 2,11 0,00 0,00 lqb
+2,11 d 179970/b 1981-x
+16392810000047818-x drog. planalto nova
+serrana lt
+06/11/2024 01/11/2024 471,54 2,11 0,00 0,00 lqb
+2,11 d 180914/a 1981-x
+16392810000047832-5 drog. planalto nova
+serrana lt
+06/11/2024 01/11/2024 171,43 2,11 0,00 0,00 lqb
+2,11 d 180924/a 1981-x
+*** dados da operacao de desconto carteira:17 variacao:19 ***
+16392810000047009-x comercial prjr ltda
+21/10/2024
+253,69 0,00 7,20 0,00
+db
+260,89
+d
+179814
+16392810000047250-5 maria abigair alves silva 21/10/2024
+230,40 0,00 6,54 0,00
+db
+236,94
+d 180135/a
+16392810000047300-5 comercial prjr ltda
+21/10/2024
+2.716,10 0,00 77,17 0,00
+db 2.793,27
+d
+180177
+16392810000046650-5 lucia batista marinho de
+almei
+26/10/2024
+1.864,66 0,00 10,08 2,49
+bx 1.908,29
+d 179276/b
+16392810000046031-0 lucia batista marinho de
+almei
+27/10/2024
+2.395,33 0,00 14,59 3,20
+bx 2.452,16
+d 177836/d
+16392810000046432-4 lucia batista marinho de
+almei
+29/10/2024
+3.405,40 0,00 19,87 3,41
+bx 3.483,03
+d 179018/c
+16392810000046823-0 lucia batista marinho de
+almei
+31/10/2024
+1.003,69 0,00 5,54 0,33
+bx 1.024,61
+d 179429/b
+16392810000046874-5 lucia batista marinho de
+almei
+31/10/2024
+5.252,49 0,00 29,03 1,75
+bx 5.362,00
+d 179475/b
+16392810000047308-0 lucia batista marinho de
+almei
+31/10/2024
+9.377,97 0,00 43,65 3,13
+bx 9.573,41
+d 180188/a
+transação efetuada com sucesso por: j1802676 neuza candida pinto.
+serviço de atendimento ao consumidor - sac 0800 729 0722
+ouvidoria bb 0800 729 5678
+para deficientes auditivos 0800 729 0088

@@ -1,0 +1,124 @@
+operação:
+39161
+aditivo: 39161
+empresa: esf
+cedente: 1505 - wb ind e com de perfilados de aco ltda - 16.564.598/0001-81
+data: 02/09/2025
+identificador global: 010101 - aquisição - duplicata - operado
+local de cobrança: 5 - bradesco diretiva
+filtro: -
+deságio : 1.6
+taxa advalorem : 0.0
+dmais : 2
+tarifa cobrança: 0.0
+quant títulos : 3
+cálculo da operação
+valor de face dos títulos
+22.425,17
+( - ) desconto
+0,00
+valor bruto
+22.425,17
+quantidade títulos
+3
+( - ) deságio
+559,06
+( - ) iof
+0,00
+débitos:
+( - ) tarifa de ted
+40,00
+( - ) tac
+140,00
+créditos:
+( - ) recompra
+0,00
+( - ) recibo pendência
+0,00
+( + ) irrf
+0,00
+valor líquido
+21.686,11
+prazo médio ponderado vencimento
+44,00
+prazo médio ponderado d+
+47,00
+títulos
+documento
+vencimento
+dmais
+prazo
+deságio
+valor
+iof
+valor
+desconto
+valor
+operado
+sac cpf/cnpj nome/razão social
+12150/001
+01/10/2025
+2
+31
+123,55
+0,00
+7.475,05
+0,00
+7.475,05
+04200500000128 centro automotivo
+lafer ltda
+12150/002
+16/10/2025
+2
+48
+190,44
+0,00
+7.475,06
+0,00
+7.475,06
+04200500000128 centro automotivo
+lafer ltda
+12150/003
+31/10/2025
+2
+62
+245,07
+0,00
+7.475,06
+0,00
+7.475,06
+04200500000128 centro automotivo
+lafer ltda
+pagamentos
+forma de pagto
+loc cobrança
+numero doc
+valor bco
+ted
+paulista
+21.686,11
+611
+cnpj favorecido
+nome favorecido
+banco favorecido
+agência/conta favorecido
+16564598000181
+wb ind e com de perfilados de aco ltda
+756 - banco
+cooperativo
+sicoob/sp-credicitrus
+4128 / 185434
+chave pix
+netfactor - 25.01
+ventura fundo de investimento em direitos
+creditórios
+demonstrativo de operações
+ordenado por vencimento do título
+página: 1 de 1
+emissão: 02/09/2025
+hora de emissão: 14:37:04
+nf 12150
+ (à ventura
+
+invest
+

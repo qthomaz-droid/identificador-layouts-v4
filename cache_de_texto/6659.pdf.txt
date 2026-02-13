@@ -1,0 +1,995 @@
+conceito auto pecas e servicos ltda
+movimento de caixa
+emissão:
+12/03/2025
+15:31:06
+hora:
+periodo: 01/02/2025 - 28/02/2025 (filtro: data de lançamento)
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-836,63
+cod.
+1.000,00
+1276
+039-2
+039-2
+marcos leisson alves
+18612-0
+c
+03/02/2025
+281-2
+720,67
+1278
+carta
+o 8800
+8800cartao2-4
+sebastiao pinhero
+18612-0
+c
+03/02/2025
+260-1
+1279
+11777
+polo carro novo  shc
+18612-0
+d
+03/02/2025
+249,20
+1216-1
+1293
+579610
+cofermeta sa
+18612-0
+d
+03/02/2025
+577,81
+1118-1
+1294
+polo
+minas pneus ltda
+18612-0
+d
+03/02/2025
+724,50
+1231-1
+1295
+cartao
+super pro comercio
+18612-0
+d
+03/02/2025
+652,73
+1048-1
+1296
+mat de limpeza
+tambasa
+18612-0
+d
+03/02/2025
+209,69
+1233-1
+1297
+produto
+fornecedor diversos
+18612-0
+d
+03/02/2025
+1.000,00
+1234-1
+1298
+construcao e reforma
+fornecedor diversos
+18612-0
+d
+03/02/2025
+130,06
+1235-1
+1299
+ret
+jose humberto borges
+18612-0
+d
+03/02/2025
+138,44
+1236-1
+1300
+comb cartao
+polo carro novo  shc
+18612-0
+d
+03/02/2025
+399,16
+1237-1
+1301
+uber
+fornecedor diversos
+18612-0
+d
+03/02/2025
+219,08
+1238-1
+1302
+comb
+gol-puk-9073
+18612-0
+d
+03/02/2025
+183,10
+1239-1
+1303
+celular-1-6
+fornecedor diversos
+18612-0
+d
+03/02/2025
+124,83
+1240-1
+1304
+ 6495
+fornecedor diversos
+18612-0
+d
+03/02/2025
+15,50
+1166-1
+3.811,00
+1305
+entrada
+entrada
+itau-ceasa-ag-5620-c-c-
+18612-0
+c
+03/02/2025
+422-1
+1306
+compra 88/2 - 000045643
+l e l resende pecas
+18612-0
+d
+03/02/2025
+655,67
+775-2
+1306
+45685-2
+l e l resende pecas
+18612-0
+d
+03/02/2025
+520,00
+785-2
+1306
+compra 3/3 - 000009432
+morati
+18612-0
+d
+03/02/2025
+161,67
+398-3
+1306
+18601
+eletropar autopecas
+18612-0
+d
+03/02/2025
+414,14
+1081-1
+1306
+643738-643348-2
+polipecas distribuidora 18612-0
+d
+03/02/2025
+845,41
+872-1
+1306
+45970-2
+l e l resende pecas
+18612-0
+d
+03/02/2025
+298,00
+852-2
+1306
+18320-1
+eletropar autopecas
+18612-0
+d
+03/02/2025
+308,92
+948-1
+1306
+9647-2
+morati
+18612-0
+d
+03/02/2025
+468,33
+786-2
+1306
+compra 22/5 - 000060658
+robiel mg industria e
+18612-0
+d
+03/02/2025
+397,16
+426-5
+1306
+compra 17/3 - 000044881
+l e l resende pecas
+18612-0
+d
+03/02/2025
+1.697,50
+411-3
+1306
+15355
+parts diesel ltda
+18612-0
+d
+03/02/2025
+425,00
+1079-1
+1306
+compra 19/3 - 000005294
+pd diesel  epaminondas
+18612-0
+d
+03/02/2025
+556,61
+418-3
+1306
+46169-2
+l e l resende pecas
+18612-0
+d
+03/02/2025
+224,50
+961-2
+1306
+5637-2
+pd diesel  epaminondas
+18612-0
+d
+03/02/2025
+1.097,50
+784-2
+1306
+28179
+powermax seguranca
+18612-0
+d
+03/02/2025
+498,06
+1152-1
+1307
+sal
+jaqueline  felix dos
+18612-0
+d
+03/02/2025
+969,38
+1242-1
+1367
+juros bancario
+sicoob -banco ag-4030
+18612-0
+d
+03/02/2025
+344,98
+1295-1
+1369
+tarifa
+sicoob -banco ag-4030
+18612-0
+d
+03/02/2025
+41,03
+1246-1
+total do dia:
+5.531,67
+14.547,96
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+0,00
+0,00
+0,00
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-9.852,92
+cod.
+3.918,29
+1310
+052-
+2129
+052-2129-2
+perfil engenharia ltda
+18612-0
+c
+04/02/2025
+307-2
+1.100,00
+1311
+093-2
+ronaldinho diesel
+18612-0
+c
+04/02/2025
+300-1
+1.485,00
+1312
+012
+020-4
+superconcreto ltda
+18612-0
+c
+04/02/2025
+193-4
+985,48
+1313
+064-
+2140
+064-2140
+superconcreto ltda
+18612-0
+c
+04/02/2025
+344-1
+1314
+tarifa
+18612-0
+d
+04/02/2025
+41,03
+1246-1
+1327
+saida
+conceito auto pecas e
+18612-0
+d
+04/02/2025
+1.000,00
+1260-1
+página 1 de 8
+conceito auto pecas e servicos ltda
+movimento de caixa
+emissão:
+12/03/2025
+15:31:06
+hora:
+periodo: 01/02/2025 - 28/02/2025 (filtro: data de lançamento)
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-3.405,18
+cod.
+1328
+manutencao veiculos
+polo hjn-5e96 2008/2009
+18612-0
+d
+04/02/2025
+185,00
+1265-1
+41,03
+1368
+estorno de lançamento de
+sicoob -banco ag-4030
+18612-0
+c
+04/02/2025
+04/02/2025
+3.052,00
+1371
+o.s. 0000192 - placa:
+cap3 aluguel de
+18612-0
+c
+04/02/2025
+428-3
+1372
+tar
+sicoob -banco ag-4030
+18612-0
+d
+04/02/2025
+29,77
+1296-1
+total do dia:
+10.581,80
+1.255,80
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+41,03
+41,03
+41,03
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-526,92
+cod.
+1322
+16894-4
+18612-0
+d
+05/02/2025
+513,15
+633-4
+513,15
+1323
+estorno de lançamento de
+eletropar autopecas
+18612-0
+c
+05/02/2025
+05/02/2025
+3.052,00
+1331
+o.s. 0000192 - placa:
+18612-0
+c
+05/02/2025
+428-3
+1336
+estorno de lançamento de
+18612-0
+d
+05/02/2025
+05/02/2025
+3.052,00
+3.052,00
+1337
+o.s. 0000192 - placa:
+18612-0
+c
+05/02/2025
+428-3
+361,80
+1340
+o.s. 0000194 - particular
+cmip mineracao
+18612-0
+c
+05/02/2025
+427-1
+1370
+estorno de lançamento de
+18612-0
+d
+05/02/2025
+05/02/2025
+3.052,00
+1373
+consorcio
+sicoob -banco ag-4030
+18612-0
+d
+05/02/2025
+639,66
+1297-1
+total do dia:
+6.978,95
+7.256,81
+total mov.estornadas:
+total mov.avulsas:*
+6.104,00
+6.617,15
+6.617,15
+6.617,15
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-804,78
+cod.
+1.494,38
+1338
+066-
+2142-1
+066-2142-1
+mg mix concreto e
+18612-0
+c
+06/02/2025
+347-1
+617,47
+1339
+085-
+2156-1
+085-2156-1
+superconcreto ltda
+18612-0
+c
+06/02/2025
+393-1
+1346
+sal
+18612-0
+d
+06/02/2025
+969,38
+1271-1
+3.248,41
+1347
+104-
+2171-
+pix
+104-2171 pix
+transportadora bhz
+18612-0
+c
+06/02/2025
+430-1
+3.334,00
+1348
+8849-3
+4687-3
+drilling do brasil
+18612-0
+c
+06/02/2025
+109-1
+8.000,00
+1350
+0158
+0158
+itau-ceasa-ag-5620-c-c-
+18612-0
+c
+06/02/2025
+432-1
+1361
+comissao
+18612-0
+d
+06/02/2025
+1.727,36
+1289-1
+1362
+sal
+adenilson bernardo da
+18612-0
+d
+06/02/2025
+1.826,79
+1290-1
+1363
+sal
+guilherme ferreira da
+18612-0
+d
+06/02/2025
+932,80
+1291-1
+1364
+sal
+jonathan christie
+18612-0
+d
+06/02/2025
+1.700,81
+1292-1
+1365
+sal
+adilson bernardo da
+18612-0
+d
+06/02/2025
+932,78
+1293-1
+1366
+pro labore
+fatinha
+18612-0
+d
+06/02/2025
+1.351,00
+1294-1
+1374
+ta
+sicoob -banco ag-4030
+18612-0
+d
+06/02/2025
+14,20
+1298-1
+969,38
+1375
+estorno de lançamento de
+jaqueline  felix dos
+18612-0
+c
+06/02/2025
+06/02/2025
+1.727,36
+1476
+estorno de lançamento de
+paulo geraldo de jesus
+18612-0
+c
+06/02/2025
+06/02/2025
+total do dia:
+19.391,00
+9.455,12
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+2.696,74
+2.696,74
+2.696,74
+página 2 de 8
+conceito auto pecas e servicos ltda
+movimento de caixa
+emissão:
+12/03/2025
+15:31:06
+hora:
+periodo: 01/02/2025 - 28/02/2025 (filtro: data de lançamento)
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+9.131,10
+cod.
+1375
+jan-2025
+cemig
+18612-0
+d
+07/02/2025
+737,06
+1075-1
+1375
+28982-1
+tb turbo diesel
+18612-0
+d
+07/02/2025
+550,00
+1077-1
+4.737,85
+1380
+o.s. 0000030 - placa:
+flancar de iguacu
+18612-0
+c
+07/02/2025
+268-3
+1381
+ 2120
+cemetral-eduardo
+18612-0
+d
+07/02/2025
+400,00
+1122-1
+1382
+2127
+cemetral-eduardo
+18612-0
+d
+07/02/2025
+400,00
+1122-2
+1383
+002136
+cemetral-eduardo
+18612-0
+d
+07/02/2025
+250,00
+1143-1
+1384
+ 2057-2150
+cemetral-eduardo
+18612-0
+d
+07/02/2025
+400,00
+1159-1
+1385
+ 2063-1
+cemetral-eduardo
+18612-0
+d
+07/02/2025
+350,00
+1165-1
+1387
+13
+cleiton antonio chaves
+18612-0
+d
+07/02/2025
+3.000,00
+1308-1
+1388
+combustivel
+polo carro novo  shc
+18612-0
+d
+07/02/2025
+196,54
+1309-1
+1477
+sal
+paulo geraldo de jesus
+18612-0
+d
+07/02/2025
+1.727,36
+1289-1
+total do dia:
+4.737,85
+8.010,96
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+0,00
+0,00
+0,00
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+5.857,99
+cod.
+5.700,00
+1389
+trans
+trans
+itau-ceasa-ag-5620-c-c-
+18612-0
+c
+10/02/2025
+438-1
+1391
+rodomang ltda
+18612-0
+d
+10/02/2025
+131,00
+1200-1
+1392
+compra 150/1 pix
+mega parts diesel ltda
+18612-0
+d
+10/02/2025
+1.243,46
+945-1
+1393
+aluguel
+ekicesson
+18612-0
+d
+10/02/2025
+4.500,00
+1311-1
+1393
+1
+ricardoinformatica
+18612-0
+d
+10/02/2025
+239,60
+1303-1
+1394
+45842-2
+l e l resende pecas
+18612-0
+d
+10/02/2025
+359,33
+802-2
+1394
+46579-1
+l e l resende pecas
+18612-0
+d
+10/02/2025
+455,26
+1041-1
+1394
+45078-3
+l e l resende pecas
+18612-0
+d
+10/02/2025
+458,67
+445-3
+1394
+ 15541
+parts diesel ltda
+18612-0
+d
+10/02/2025
+383,00
+1073-1
+1394
+61918-1
+robiel mg industria e
+18612-0
+d
+10/02/2025
+698,31
+1047-1
+1394
+17084-4
+eletropar autopecas
+18612-0
+d
+10/02/2025
+520,98
+648-4
+1394
+18645-1
+eletropar autopecas
+18612-0
+d
+10/02/2025
+342,40
+1051-1
+1394
+21656
+maximiano locadora de
+18612-0
+d
+10/02/2025
+457,30
+1198-1
+1394
+52483
+rp pecas rafael
+18612-0
+d
+10/02/2025
+300,00
+1065-1
+1394
+17674-3
+eletropar autopecas
+18612-0
+d
+10/02/2025
+482,03
+846-3
+1394
+contabilidade
+krv-contabilidade
+18612-0
+d
+10/02/2025
+1.518,00
+1213-1
+1394
+1
+ricardoinformatica
+18612-0
+d
+10/02/2025
+500,00
+1304-1
+1394
+52412
+rp pecas rafael
+18612-0
+d
+10/02/2025
+319,67
+1046-1
+1394
+borges e valentim
+18612-0
+d
+10/02/2025
+844,65
+1230-1
+1394
+46545-1
+l e l resende pecas
+18612-0
+d
+10/02/2025
+983,34
+1049-1
+1396
+serv terceiros
+terra
+18612-0
+d
+10/02/2025
+200,44
+1310-1
+1.167,62
+1397
+carta-
+2
+cartao119-2
+18612-0
+c
+10/02/2025
+342-3
+1402
+carta-
+2
+estorno de lançamento de
+18612-0
+d
+10/02/2025
+10/02/2025
+1.167,62
+1409
+tarifa
+sicoob -banco ag-4030
+18612-0
+d
+10/02/2025
+84,90
+1313-1
+total do dia:
+6.867,62
+16.189,96
+total mov.estornadas:
+total mov.avulsas:*
+1.167,62
+1.167,62
+1.167,62
+1.167,62
+página 3 de 8

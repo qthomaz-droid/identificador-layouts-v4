@@ -1,0 +1,364 @@
+sicoob - sistema de cooperativas de crédito do brasil
+sisbr - sistema de informática do sicoob
+ 
+data: 12/03/2020
+extrato conta corrente
+hora: 14:21:55
+coop.:
+3009-0 - sicoob norte
+conta:
+65.770-0 - preta confeccoes ltda
+data
+documento
+histórico
+valor
+29/11/2019
+saldo anterior
+7.475,42d
+29/11/2019
+saldo bloqueado anterior
+0,00*
+02/12/2019
+816450
+compra mastercard maestro
+63,70d
+acougue frigocenter sao
+mateus bra
+02/12/2019
+7067354
+déb.transf.contas
+dif.titularidade
+408,00d
+fav.: eliane cristina thomazini
+borsoi m
+02/12/2019
+0195436201
+déb.iof empréstimos
+38,85d
+02/12/2019
+iof/2-12
+déb.iof
+6,28d
+02/12/2019
+iof/2-12
+déb.iof
+62,44d
+saldo do dia ===== >
+8.054,69d
+03/12/2019
+mastercard
+déb.conv.demais empresas
+1.120,70d
+03/12/2019
+224
+dep.dinheiro
+1.149,00c
+envelope: 0396627895
+saldo do dia ===== >
+8.026,39d
+04/12/2019
+87
+dep.dinheiro
+187,00c
+envelope: 0396627887
+04/12/2019
+88
+dep.dinheiro
+720,00c
+envelope: 0396627879
+04/12/2019
+8
+dep cheque coop/ag
+321,00c
+envelope: 0396627903
+04/12/2019
+242
+dep.dinheiro
+205,00c
+envelope: 0396627911
+04/12/2019
+243
+dep.dinheiro
+1.497,00c
+envelope: 0182249623
+04/12/2019
+244
+dep.dinheiro
+1.000,00c
+envelope: 0396616526
+04/12/2019
+245
+dep.dinheiro
+1.000,00c
+envelope: 0396616500
+04/12/2019
+203
+tarifa impressão folha cheque
+atm
+12,00d
+saldo do dia ===== >
+3.108,39d
+05/12/2019
+7093099
+déb.transf.contas dif.tit.
+intercredis
+100,00d
+fav.: lazzari, moreira & paigel
+advogado
+05/12/2019
+125
+dep.dinheiro
+834,00c
+envelope: 0396627846
+05/12/2019
+126
+dep.dinheiro
+190,00c
+envelope: 0421420613
+05/12/2019
+700.165
+cheque compe integrada
+640,65d
+saldo do dia ===== >
+2.825,04d
+06/12/2019
+700.163
+cheque compe integrada
+1.567,70d
+saldo do dia ===== >
+4.392,74d
+09/12/2019
+1954362
+liberação parcela empréstimo
+7.000,00c
+09/12/2019
+180
+dep.dinheiro
+850,00c
+envelope: 0396627697
+09/12/2019
+700.151
+cheque compe integrada
+673,57d
+09/12/2019
+700.154
+cheque compe integrada
+379,00d
+saldo do dia ===== >
+2.404,69c
+10/12/2019
+57
+dep.dinheiro
+1.480,00c
+envelope: 0396627820
+10/12/2019
+102096
+compra mastercard maestro
+1.248,88d
+sara cristina pereira sao paulo
+bra
+10/12/2019
+039124
+compra mastercard maestro
+949,35d
+la chocole sao paulo bra
+10/12/2019
+281900
+compra mastercard maestro
+534,40d
+coinage confeccoes sao paulo
+bra
+10/12/2019
+531906
+compra mastercard maestro
+754,65d
+talgui confeccoes sao paulo bra
+10/12/2019
+176514
+deb.parcelas subsc./integr.
+50,00d
+saldo do dia ===== >
+347,41c
+11/12/2019
+990057
+compra mastercard maestro
+32,50d
+estapar terr aero vix vitoria bra
+saldo do dia ===== >
+314,91c
+12/12/2019
+7142174
+déb.tit.compe efetivado
+1.849,32d
+12/12/2019
+7142192
+déb.tit.compe efetivado
+2.698,77d
+12/12/2019
+0195436201
+déb.iof empréstimos
+38,79d
+saldo do dia ===== >
+4.271,97d
+13/12/2019
+7152288
+créd.transf.contas
+600,00c
+rem.: danielle vidal bonomo
+13/12/2019
+269
+dep.cheque bloq.1d
+1.000,00*
+envelope: 0182249581
+13/12/2019
+270
+dep.dinheiro
+570,00c
+envelope: 0396627804
+13/12/2019
+271
+dep.dinheiro
+387,00c
+envelope: 0182249599
+saldo do dia ===== >
+2.714,97d
+16/12/2019
+162
+dep.dinheiro
+1.084,00c
+envelope: 0396627945
+16/12/2019
+163
+dep.dinheiro
+450,00c
+envelope: 0396627986
+16/12/2019
+164
+dep.dinheiro
+170,00c
+envelope: 0396627770
+16/12/2019
+168
+dep.dinheiro
+1.500,00c
+envelope: 0439067448
+16/12/2019
+7163774
+déb.tit.compe efetivado
+9.550,45d
+16/12/2019
+269
+liberação de depósito
+bloqueado
+1.000,00c
+16/12/2019
+700.166
+cheque compe integrada
+500,65d
+saldo do dia ===== >
+8.562,07d
+18/12/2019
+243
+dep.dinheiro
+1.015,00c
+envelope: 0396627788
+18/12/2019
+244
+dep.dinheiro
+600,00c
+envelope: 0182249557
+18/12/2019
+245
+dep.dinheiro
+1.100,00c
+envelope: 0396627796
+saldo do dia ===== >
+5.847,07d
+19/12/2019
+700.181
+chq coop/ag.dep.em conta
+395,00d
+saldo do dia ===== >
+6.242,07d
+24/12/2019
+2138059
+déb tac repactuação
+300,00d
+24/12/2019
+rp01287370
+pagto entrada renegociação
+250,00d
+24/12/2019
+7214461
+déb.transf.contas
+dif.titularidade
+136,70d
+fav.: eliane cristina thomazini
+borsoi m
+saldo do dia ===== >
+6.928,77d
+26/12/2019
+700.158
+cheque compe integrada
+393,56d
+saldo do dia ===== >
+7.322,33d
+27/12/2019
+7228091
+créd.transf.contas
+500,00c
+rem.: danielle vidal bonomo
+saldo do dia ===== >
+6.822,33d
+30/12/2019
+700.167
+cheque compe integrada
+500,65d
+saldo do dia ===== >
+7.322,98d
+31/12/2019
+176514
+créd.juros s/capital
+9,78c
+31/12/2019
+0213805901
+déb. repactuação de crédito
+450,29d
+31/12/2019
+0213805901
+déb seguro prestamista
+repactuação
+18,00d
+31/12/2019
+lc-201911
+juros conta garantida
+319,51d
+saldo do dia ===== >
+8.101,00d
+resumo
+saldo em conta corrente(+):
+8.101,00d
+saldo em conta investimento(+):
+0,00c
+limite conta garantida(+):
+10.000,00c
+saldo disponível(=):
+1.899,00c
+saldo bloqueado em conta corrente:
+0,00
+saldo bloqueado em conta investimento:
+0,00
+vencimento conta garantida:
+02/03/2020
+taxa conta garantida(a.m.):
+5,97%
+previsão cpmf:
+0,00d
+previsão iof:
+0,00d
+previsão encargos:
+0,00d
+previsão tarifas:
+0,00d
+extrato no.:000
+ouvidoria sicoob: 08007250996

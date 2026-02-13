@@ -1,0 +1,598 @@
+data emissão:
+hora emissão:
+10/01/2024
+11:42:34
+00003 - yara matriz
+extrato de movimento financeiro 01/12/2023 a 31/12/2023
+página: 1/3
+agente: 0 a 99999   ação: 0 a 99999   classe: 0 a 99999
+conta: 589
+576.169,89
+saldo anterior: 
+pagamentos
+data
+doc.financ
+documento
+tipo
+agente
+fil.
+débito
+crédito
+01/12/2023
+99996685533409443872
+9
+92469-001
+esp
+realmar distribuidora ltda
+9,59
+01/12/2023
+99996685533409443876
+9
+27289-001
+esp
+folha de pagamento mensal
+2.265,60
+01/12/2023
+99996685533409443886
+9
+52022-001
+esp
+itapoa supermercado ltda.
+1.425,08
+02/12/2023
+99996685533409443885
+9
+172872-001
+esp
+itapoa supermercado ltda
+292,70
+04/12/2023
+99996685533409443878
+9
+68-001
+esp
+folha de pagamento 13º  quitacao
+1.442,54
+04/12/2023
+99996685533409443879
+9
+4-001
+esp
+thaynan carlini bravim 166030216702
+1.000,00
+04/12/2023
+99996685533409443888
+9
+52129-001
+esp
+itapoa supermercado ltda.
+1.002,80
+04/12/2023
+99996685533409443891
+9
+345099-001
+esp
+wal mart brasil ltda
+549,50
+05/12/2023
+99996685533409443874
+9
+223556-001
+esp
+realmar distribuidora ltda
+60,00
+05/12/2023
+99996685533409443875
+9
+5122023-001
+esp
+givanildo firme evangelista
+2.200,00
+05/12/2023
+99996685533409443881
+9
+145583-001
+esp
+vimercati material de construcao ltda
+47,50
+05/12/2023
+99996685533409443882
+9
+11285-001
+esp
+realmar distribuidora ltda
+95,76
+05/12/2023
+99996685533409443887
+9
+32-001
+esp
+p quintino condimentos
+353,20
+05/12/2023
+99996685533409443889
+9
+173037-001
+esp
+itapoa supermercado ltda
+603,04
+05/12/2023
+99996685533409443892
+9
+4098-001
+esp
+pessin & pagani material de construcao
+39,80
+05/12/2023
+99996685533409443893
+9
+537997-001
+esp
+auto posto fenix ltda
+60,00
+06/12/2023
+99996685533409443877
+9
+9-001
+esp
+carlos antonio de araujo rodrigues 72
+4.000,00
+06/12/2023
+99996685533409443880
+9
+405124-001
+esp
+manoel nolasco da vitoria
+100,00
+06/12/2023
+99996685533409443883
+9
+2943-001
+esp
+rosimerio terce - me
+150,00
+06/12/2023
+99996685533409443884
+9
+2945-001
+esp
+rosimerio terce - me
+150,00
+06/12/2023
+99996685533409443890
+9
+1425-001
+esp
+drift comercio de alimentos s/a
+126,94
+07/12/2023
+99996685533409443894
+9
+405162-001
+esp
+filipe lopes pessotti
+150,06
+08/12/2023
+99996685533409443895
+9
+1886-001
+esp
+vencedor comercio de mangueiras, fix
+14,00
+08/12/2023
+99996685533409443896
+9
+52343-001
+esp
+itapoa supermercado ltda.
+403,82
+11/12/2023
+99996685533409443897
+9
+405165-001
+esp
+jean carlos de oliveira nogueira
+100,00
+11/12/2023
+99996685533409443898
+9
+4113-001
+esp
+pessin & pagani material de construcao
+11,40
+11/12/2023
+99996685533409443899
+9
+539827-001
+esp
+auto posto fenix ltda
+50,00
+11/12/2023
+99996685533409443902
+9
+8354-001
+esp
+atacado preco baixo utilidades e brinq
+764,99
+12/12/2023
+99996685533409443903
+9
+171578-001
+esp
+via varejo s/a
+139,00
+12/12/2023
+99996685533409443904
+9
+171577-001
+esp
+via varejo s/a
+119,00
+12/12/2023
+99996685533409443905
+9
+52510-001
+esp
+itapoa supermercado ltda.
+156,42
+12/12/2023
+99996685533409443906
+9
+53094-001
+esp
+casa & video brasil s.a
+129,90
+12/12/2023
+99996685533409443907
+9
+79058-001
+esp
+jovelino colodetti ltda
+490,00
+14/12/2023
+99996685533409443900
+3
+405108-001
+esp
+tribunal justica estado es
+1.500,00
+14/12/2023
+99996685533409443901
+3
+405168-001
+esp
+tribunal justica estado es
+6.123,66
+14/12/2023
+99996685533409443908
+3
+14122023-001
+esp
+espolio ney geraldo
+5.000,00
+14/12/2023
+99996685533409443911
+9
+255-001
+esp
+mega bacana bar e restaurante eireli
+2.084,00
+14/12/2023
+99996685533409443912
+9
+2946-001
+esp
+rosimerio terce - me
+200,00
+\\yasrvmtz202\megaxt\formatos\temp\financ\temp_yasrvmtz202_carla.siqueira\stc_extrato_movto_financ_filtroclasse_te
+data emissão:
+hora emissão:
+10/01/2024
+11:42:34
+00003 - yara matriz
+extrato de movimento financeiro 01/12/2023 a 31/12/2023
+página: 2/3
+agente: 0 a 99999   ação: 0 a 99999   classe: 0 a 99999
+data
+doc.financ
+documento
+tipo
+agente
+fil.
+débito
+crédito
+14/12/2023
+99996685533409443913
+9
+4125-001
+esp
+pessin & pagani material de construcao
+9,90
+14/12/2023
+99996685533409443914
+9
+4006877828-001
+esp
+secretaria da fazenda estadual - es
+240,78
+15/12/2023
+99996685533409443909
+9
+405194-001
+esp
+filipe lopes pessotti
+296,79
+15/12/2023
+99996685533409443910
+9
+2947-001
+esp
+rosimerio terce - me
+210,00
+15/12/2023
+99996685533409443915
+9
+15122023-001
+esp
+givanildo firme evangelista
+2.650,00
+15/12/2023
+99996685533409443920
+9
+405208-001
+esp
+manoel nolasco da vitoria
+100,00
+16/12/2023
+99996685533409443916
+9
+52786-001
+esp
+itapoa supermercado ltda.
+193,78
+18/12/2023
+99996685533409443917
+9
+52833-001
+esp
+itapoa supermercado ltda.
+275,89
+18/12/2023
+99996685533409443918
+9
+11485-001
+esp
+realmar distribuidora ltda
+28,90
+18/12/2023
+99996685533409443919
+9
+119080-001
+esp
+itapoa supermercado ltda
+44,73
+18/12/2023
+99996685533409443921
+9
+57125-001
+esp
+difemaq ferramentas e maquinas ltda
+74,00
+18/12/2023
+99996685533409443922
+9
+211787-001
+esp
+rdg acos do brasil sa
+116,00
+19/12/2023
+99996685533409443923
+9
+405211-001
+esp
+jean carlos de oliveira nogueira
+100,00
+19/12/2023
+99996685533409443924
+9
+48436-001
+esp
+maquil maquinas e ferramentas ltda e
+71,50
+19/12/2023
+99996685533409443925
+9
+52887-001
+esp
+itapoa supermercado ltda.
+134,50
+21/12/2023
+99996685533409443927
+9
+131453-001
+esp
+realmar distribuidora ltda
+19,18
+21/12/2023
+99996685533409443928
+9
+113420-001
+esp
+realmar distribuidora ltda
+11,99
+21/12/2023
+99996685533409443948
+9
+211299-001
+esp
+rdg acos do brasil sa
+967,84
+21/12/2023
+99996685533409443949
+9
+373681-001
+esp
+perfilados rio doce ltda
+132,16
+22/12/2023
+99996685533409443926
+9
+22122023-001
+esp
+givanildo firme evangelista
+500,00
+22/12/2023
+99996685533409443929
+9
+263096-001
+esp
+posto solipetro gas ltda
+80,00
+22/12/2023
+99996685533409443932
+9
+405221-001
+esp
+rogerio barbosa belem
+277,50
+22/12/2023
+99996685533409443933
+9
+4135-001
+esp
+pessin & pagani material de construcao
+9,50
+26/12/2023
+99996685533409443934
+9
+11609-001
+esp
+realmar distribuidora ltda
+53,95
+27/12/2023
+99996685533409443935
+9
+5285-001
+esp
+auto posto america ltda
+80,00
+28/12/2023
+99996685533409443936
+9
+5313-001
+esp
+manoel nolasco da vitoria
+80,00
+28/12/2023
+99996685533409443937
+9
+2091-001
+esp
+vencedor comercio de mangueiras, fix
+8,80
+29/12/2023
+99996685533409443938
+9
+79504-001
+esp
+jovelino colodetti ltda
+368,94
+total pagamentos:
+40.546,93
+movimentações
+data
+doc.financ
+documento
+tipo
+agente
+fil.
+débito
+crédito
+01/12/2023
+01122023
+3
+transf. entrada
+trfe
+589-tesouraria - es
+1.930,00
+04/12/2023
+004122023
+3
+transf. entrada
+trfe
+589-tesouraria - es
+20.000,00
+\\yasrvmtz202\megaxt\formatos\temp\financ\temp_yasrvmtz202_carla.siqueira\stc_extrato_movto_financ_filtroclasse_te
+data emissão:
+hora emissão:
+10/01/2024
+11:42:34
+00003 - yara matriz
+extrato de movimento financeiro 01/12/2023 a 31/12/2023
+página: 3/3
+agente: 0 a 99999   ação: 0 a 99999   classe: 0 a 99999
+data
+doc.financ
+documento
+tipo
+agente
+fil.
+débito
+crédito
+04/12/2023
+04122023
+3
+transf. entrada
+trfe
+589-tesouraria - es
+3.000,00
+05/12/2023
+05122023
+3
+transf. entrada
+trfe
+589-tesouraria - es
+2.000,00
+07/12/2023
+07122023
+3
+transf. saída
+trfs
+57401-sicoob sul serrano
+190,00
+11/12/2023
+11122023
+3
+transf. entrada
+trfe
+589-tesouraria - es
+3.000,00
+13/12/2023
+13122023
+3
+transf. entrada
+trfe
+589-tesouraria - es
+20.000,00
+19/12/2023
+19122023
+3
+transf. entrada
+trfe
+589-tesouraria - es
+2.000,00
+51.930,00
+total movimentações:
+190,00
+total documento:
+51.930,00
+saldo geral:
+11.193,07
+total deb:
+total pelt:
+0,00
+0,00
+40.736,93
+saldo final:
+587.362,96
+\\yasrvmtz202\megaxt\formatos\temp\financ\temp_yasrvmtz202_carla.siqueira\stc_extrato_movto_financ_filtroclasse_te

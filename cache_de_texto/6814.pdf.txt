@@ -1,0 +1,1064 @@
+pagamento
+tipo
+documento
+valor título
+multa/juros
+desconto
+total pago forma de pag.
+observação/histórico
+00001 abatedouro coroaves
+01/10/2025
+nf
+2194570-1
+200.200,00
+800,80
+0,00
+201.000,80 net empresa bradesco
+| 
+07/10/2025
+nf
+2197321-1
+199.500,00
+0,00
+0,00
+199.500,00 net empresa bradesco
+| 
+07/10/2025
+nf
+2197316-1
+199.500,00
+0,00
+0,00
+199.500,00 net empresa bradesco
+| 
+07/10/2025
+nf
+2197307-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+07/10/2025
+nf
+2197305-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+10/10/2025
+nf
+2196706-1
+200.200,00
+3.203,20
+0,00
+203.403,20 net empresa bradesco
+| 
+10/10/2025
+nf
+2196707-1
+200.200,00
+3.203,20
+0,00
+203.403,20 net empresa bradesco
+| 
+10/10/2025
+nf
+2196708-1
+200.200,00
+3.203,20
+0,00
+203.403,20 net empresa bradesco
+| 
+13/10/2025
+nf
+2199211-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+13/10/2025
+nf
+2199222-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+14/10/2025
+nf
+2199861-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+14/10/2025
+nf
+2199852-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+14/10/2025
+nf
+2199838-1
+200.200,00
+0,00
+0,00
+200.200,00 banco safra
+| 
+14/10/2025
+nf
+2199850-1
+200.200,00
+0,00
+0,00
+200.200,00 banco safra
+| 
+15/10/2025
+nf
+2197314-1
+200.200,00
+6.406,40
+0,00
+206.606,40 net empresa bradesco
+| 
+15/10/2025
+nf
+2196723-1
+200.200,00
+7.207,20
+0,00
+207.407,20 net empresa bradesco
+| 
+17/10/2025
+nf
+2196726-1
+200.200,00
+0,00
+0,00
+200.200,00 transf. bancária
+| safra
+17/10/2025
+nf
+2199220-1
+199.500,00
+3.192,00
+0,00
+202.692,00 net empresa bradesco
+| 
+17/10/2025
+nf
+2199207-1
+200.200,00
+3.203,20
+0,00
+203.403,20 net empresa bradesco
+| 
+17/10/2025
+nf
+2199213-1
+200.200,00
+3.203,20
+0,00
+203.403,20 net empresa bradesco
+| 
+17/10/2025
+nf
+2199837-1
+200.200,00
+2.402,40
+0,00
+202.602,40 net empresa bradesco
+| 
+20/10/2025
+nf
+2201862-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+20/10/2025
+nf
+2201845-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+20/10/2025
+nf
+2201837-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+20/10/2025
+nf
+2201859-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+20/10/2025
+nf
+2201847-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+21/10/2025
+nf
+2202523-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+21/10/2025
+nf
+2202498-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+21/10/2025
+nf
+2202508-1
+199.500,00
+0,00
+0,00
+199.500,00 net empresa bradesco
+| 
+21/10/2025
+nf
+2202496-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+21/10/2025
+nf
+2202497-1
+200.200,00
+0,00
+0,00
+200.200,00 net empresa bradesco
+| 
+27/10/2025
+nf
+2204647-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+27/10/2025
+nf
+2204648-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+27/10/2025
+nf
+2204649-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+27/10/2025
+nf
+2204651-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+27/10/2025
+nf
+2204661-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+28/10/2025
+nf
+2205357-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+28/10/2025
+nf
+2205356-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+28/10/2025
+nf
+2205355-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+28/10/2025
+nf
+2205360-1
+217.360,00
+0,00
+0,00
+217.360,00 banco safra
+| 
+28/10/2025
+nf
+2205345-1
+217.360,00
+0,00
+0,00
+217.360,00 net empresa bradesco
+| 
+total do fornecedor:
+8.377.000,00
+36.024,80
+0,00
+8.413.024,80
+01849 abatedouro santa monica
+01/10/2025
+mpr
+000000801
+9.600,00
+0,00
+0,00
+9.600,00 transf. bancária
+| nf 801 adriana priscila
+01/10/2025
+mpr
+000000802
+480,00
+0,00
+0,00
+480,00 net empresa bradesco
+| nf 802 adriana priscila
+06/10/2025
+mpr
+000000803
+12.000,00
+0,00
+0,00
+12.000,00 net empresa bradesco
+| 
+06/10/2025
+mpr
+000000805
+249,60
+0,00
+0,00
+249,60 net empresa bradesco
+| 
+período: 01/10/2025 a 31/10/2025
+empresa: <todas>
+forma de pagamento: < todas >
+continua...
+14/11/2025 15:05:23 leticia        
+masterfrigo jg com.prod.aliment.ltda
+1
+contas pagas por fornecedor e formas de pagamento
+pagamento
+tipo
+documento
+valor título
+multa/juros
+desconto
+total pago forma de pag.
+observação/histórico
+01849 abatedouro santa monica
+10/10/2025
+mpr
+000000807
+6.492,00
+0,00
+0,00
+6.492,00 banco safra
+| 
+10/10/2025
+mpr
+000000806
+12.000,00
+0,00
+0,00
+12.000,00 banco safra
+| 
+23/10/2025
+mpr
+000000814
+12.000,00
+0,00
+0,00
+12.000,00 transf. bancária
+| bradesco
+23/10/2025
+mpr
+000000817
+7.164,00
+0,00
+0,00
+7.164,00 transf. bancária
+| bradesco
+total do fornecedor:
+59.985,60
+0,00
+0,00
+59.985,60
+01636 alianca nav.e logistica
+09/10/2025
+fterc 002191109
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| frete ref. nf 2191109 
+abatedouro coroaves- cte 
+177891 alianca
+09/10/2025
+fterc 002194574
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2194574 coroaves
+09/10/2025
+fterc 002194571
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2194571 coroaves
+09/10/2025
+fterc 002191118
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| frete ref. nf 2191118 
+abatedouro coroaves- cte 
+177892 alianca
+09/10/2025
+fterc 002194562
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2194562 coroaves
+09/10/2025
+fterc 002193848
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2193848 coroaves
+09/10/2025
+fterc 002191098
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| frete ref. nf 2191098 
+abatedouro coroaves- cte 
+177895 alianca
+09/10/2025
+fterc 002191742
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| frete ref. nf 2191742 
+abatedouro coroaves- cte 
+177897 alianca
+09/10/2025
+fterc 002193846
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2193846 coroaves
+09/10/2025
+fterc 002191097
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| frete ref. nf 2191097 
+abatedouro coroaves - cte 
+177894 alianca
+09/10/2025
+fterc 002194570
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2194570 coroaves
+09/10/2025
+fterc 002193857
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2193857 coroaves
+09/10/2025
+fterc 002193847
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2193847 coroaves
+09/10/2025
+fterc 002191096
+14.599,30
+0,00
+0,00
+14.599,30 net empresa bradesco
+| frete ref. nf 2191096 
+abatedouro coroaves- cte 
+177893 alianca
+09/10/2025
+fterc 002191766
+14.599,30
+0,00
+0,00
+14.599,30 net empresa bradesco
+| frete ref. nf 2191766 
+abatedouro coroaves- cte 
+177898 alianca
+09/10/2025
+fterc 000326104
+14.455,39
+0,00
+0,00
+14.455,39 net empresa bradesco
+| frete ref. nf 326104 
+avenorte - cte 177896 
+alianca
+09/10/2025
+fterc 000326129
+14.455,39
+0,00
+0,00
+14.455,39 net empresa bradesco
+| frete ref. nf 326129 
+avenorte- cte 177899 alianca
+09/10/2025
+fterc 000326453
+14.453,16
+0,00
+0,00
+14.453,16 net empresa bradesco
+| nf 326453 avenorte
+09/10/2025
+fterc 000326450
+14.450,69
+0,00
+0,00
+14.450,69 net empresa bradesco
+| nf 326450 avenorte
+09/10/2025
+fterc 002767326
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| nf 2767326 pioneiro
+16/10/2025
+fterc 000326896
+14.455,39
+0,00
+0,00
+14.455,39 net empresa bradesco
+| nf 326896 avenorte
+16/10/2025
+fterc 000895140
+14.843,54
+0,00
+0,00
+14.843,54 net empresa bradesco
+| nf 895140 mais fgo
+16/10/2025
+fterc 002197321
+14.599,30
+0,00
+0,00
+14.599,30 net empresa bradesco
+| nf 2197321 coroaves
+16/10/2025
+fterc 002197316
+14.599,30
+0,00
+0,00
+14.599,30 net empresa bradesco
+| nf 2197316 coroaves
+16/10/2025
+fterc 002197314
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2197314 coroaves
+16/10/2025
+fterc 002197307
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2197307 coroaves
+16/10/2025
+fterc 002197305
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2197305 coroaves
+16/10/2025
+fterc 002196708
+14.601,18
+0,00
+0,00
+14.601,18 não cobrados
+| nf 2196708 coroaves
+16/10/2025
+fterc 002196726
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2196726 coroaves
+16/10/2025
+fterc 002196707
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2196707 coroaves
+16/10/2025
+fterc 002196706
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2196706 coroaves
+16/10/2025
+fterc 002196723
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| nf 2196723 coroaves
+16/10/2025
+fterc 002770381
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| nf 2770381 pioneiro
+16/10/2025
+fterc 002770387
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| nf 2770387 pioneiro
+16/10/2025
+fterc 002770388
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| nf 2770388 pioneiro
+16/10/2025
+fterc 002770393
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| nf 2770393 pioneiro
+16/10/2025
+fterc 002770382
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| nf 2770382 pioneiro
+17/10/2025
+fterc 002767315
+14.446,88
+417,25
+0,00
+14.864,13 net empresa bradesco
+| nf 2767315 nf 2767315 
+pioneiropioneiro
+17/10/2025
+fterc 002767316
+14.446,88
+417,25
+0,00
+14.864,13 net empresa bradesco
+| nf 2767316 pioneiro
+continua...
+14/11/2025 15:05:23 leticia        
+masterfrigo jg com.prod.aliment.ltda
+2
+contas pagas por fornecedor e formas de pagamento
+pagamento
+tipo
+documento
+valor título
+multa/juros
+desconto
+total pago forma de pag.
+observação/histórico
+01636 alianca nav.e logistica
+17/10/2025
+fterc 002764023
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764023 
+pioneiro - cte 177877 alianca
+17/10/2025
+fterc 002764021
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764021 
+pioneiro - cte 177878 alianca
+17/10/2025
+fterc 002767321
+14.446,88
+417,25
+0,00
+14.864,13 net empresa bradesco
+| nf 2767321 pioneiro
+17/10/2025
+fterc 002767320
+14.446,88
+417,25
+0,00
+14.864,13 net empresa bradesco
+| nf 2767320 pioneiro
+17/10/2025
+fterc 002764028
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764028 
+pioneiro - cte 177889 alianca
+17/10/2025
+fterc 002764019
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764019 
+pioneiro - cte 177879 alianca.
+17/10/2025
+fterc 002764994
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764994 
+pioneiro - cte 177875 alianca
+17/10/2025
+fterc 002764848
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764848 
+pioneiro - cte 177876 alianca
+17/10/2025
+fterc 002764010
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764010 
+pioneiro - cte 177881alianca
+17/10/2025
+fterc 002764013
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764013 
+pioneiro - cte 177888 alianca
+17/10/2025
+fterc 002764015
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764015 
+pioneiro- cte 177880 alianca
+17/10/2025
+fterc 002764958
+14.443,12
+417,10
+0,00
+14.860,22 net empresa bradesco
+| frete ref. nf 2764958 
+pioneiro - cte 177890 alianca
+23/10/2025
+fterc 002773162
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| 
+23/10/2025
+fterc 002773157
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| 
+23/10/2025
+fterc 002199207
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+23/10/2025
+fterc 002199861
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+23/10/2025
+fterc 002773160
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| nf 2773160 pioneiro
+23/10/2025
+fterc 002773168
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| 
+23/10/2025
+fterc 002773169
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| 
+23/10/2025
+fterc 002773159
+14.446,88
+0,00
+0,00
+14.446,88 net empresa bradesco
+| 
+23/10/2025
+fterc 002199852
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+23/10/2025
+fterc 002199850
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+23/10/2025
+fterc 002199838
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+23/10/2025
+fterc 002199837
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+23/10/2025
+fterc 002199222
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+23/10/2025
+fterc 002199211
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+23/10/2025
+fterc 002199220
+14.599,30
+0,00
+0,00
+14.599,30 net empresa bradesco
+| 
+23/10/2025
+fterc 002199213
+14.601,18
+0,00
+0,00
+14.601,18 net empresa bradesco
+| 
+30/10/2025
+fterc 002776089
+14.446,88
+0,00
+0,00
+14.446,88 banco safra
+| nf 2776089 pioneiro
+30/10/2025
+fterc 002775979
+14.446,88
+0,00
+0,00
+14.446,88 banco safra
+| nf 2775979 pioneiro
+30/10/2025
+fterc 002775978
+14.446,88
+0,00
+0,00
+14.446,88 banco safra
+| nf 2775978 pioneiro
+30/10/2025
+fterc 002775977
+14.446,88
+0,00
+0,00
+14.446,88 banco safra
+| nf 2775977 pioneiro
+30/10/2025
+fterc 002775982
+14.446,88
+0,00
+0,00
+14.446,88 banco safra
+| nf 2775982 pioneiro
+30/10/2025
+fterc 002775988
+14.446,88
+0,00
+0,00
+14.446,88 banco safra
+| nf 2775988 pioneiro
+30/10/2025
+fterc 002201837
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2201837 coroaves
+30/10/2025
+fterc 002201859
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2201859 coroaves
+30/10/2025
+fterc 002201847
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2201847 coroaves
+30/10/2025
+fterc 002201862
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2201862 coroaves
+30/10/2025
+fterc 002201845
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2201845 coroaves
+30/10/2025
+fterc 002202496
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2202496 
+coroavescoroaves
+30/10/2025
+fterc 002202523
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2202523 coroaves
+30/10/2025
+fterc 002202498
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2202498 coroaves
+30/10/2025
+fterc 002202508
+14.599,30
+0,00
+0,00
+14.599,30 banco safra
+| nf 2202508 coroaves
+30/10/2025
+fterc 002202497
+14.601,18
+0,00
+0,00
+14.601,18 banco safra
+| nf 2202497 coroaves
+total do fornecedor:
+1.206.417,94
+5.840,00
+0,00
+1.212.257,94
+continua...
+14/11/2025 15:05:23 leticia        
+masterfrigo jg com.prod.aliment.ltda
+3
+contas pagas por fornecedor e formas de pagamento

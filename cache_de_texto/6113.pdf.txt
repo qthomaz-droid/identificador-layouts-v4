@@ -1,0 +1,40 @@
+extrato de movimentação financeira - 
+lançament
+documento
+unid.
+cliente/forneced
+forma 
+conciliad
+valor
+cw - banco caixa econ 
+conta 
+saldo 
+115,55
+31/05/202
+24/06/20
+cw aduana 
+cw aduana assessoria 
+6.000,00
+não
+saldo 
+6.115,55
+24/06/202
+cw - banco caixa econ 
+25/06/20
+cw aduana 
+banco caixa econ 
+débito automático
+-5.872,66
+não
+12/48
+25/06/20
+cw aduana 
+banco caixa econ 
+débito automático
+-105,00
+não
+tb
+saldo 
+137,89
+25/06/202
+cw - banco caixa econ 

@@ -1,0 +1,19 @@
++---------------------------------------------------------------------------------------spdata-+
+|sgh - controle de estoque - movimento por cdc analitico - por item - saida           pag:   1 |
+|                                     fundaçao sao carlos                                      |
+| cdc: 010000 a 010001  preco: médio                             processamento: janeiro/2025   |
+| emitido em: 15/10/2025 as 04:27    periodo: 01/01/1990 a 31/12/2999                          |
++----------------------------------------------------------------------------------------------+
+ cdc:  10001 ambg     ambulatorio geral -      
++------+-----------------------------------------+------+------------+------------+------------+
+|item  | nome do item                            | unid.| quantidade |valor unit. | valor total|
++------+-----------------------------------------+------+------------+------------+------------+
+   1210 atestado médico                           bloco         1,000      16,9000        16,90 
+   1191 prescrição p/a                            bloco         2,000      18,3000        36,60 
+   1211 receituário médico                        bloco         2,000      18,0000        36,00 
+                                                                                   ------------
+                                               total material de escritório /.:           89,50
+                                               total do cdc...................:           89,50
+         total do movimento
+                                               geral material de escritório /.:           89,50
+                                               total geral ...................:           89,50

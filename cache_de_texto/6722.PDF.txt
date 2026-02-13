@@ -1,0 +1,665 @@
+p&a informática
+07/11/2025 14:38:13
+primola fragrancias ltda - ba
+pág. 1
+movimentação financeira
+31/10/2025
+período: 01/10/2025
+a
+tipo
+documento
+bordero/cheque
+débito
+crédito
+saldo
+código
+histórico
+saldo inicial >>>>>>>
+97.866,86
+01/10/2025
+>>>>>>
+2
+itaú c/c 05595-3
+>>>>>>
+c
+20066
+       0
+50.000,00
+147.866,86
+ref. - rsgate trust b itau
+    0,00
+01102025.14
+d
+20065
+       0
+    0,00
+147.832,31
+ref. - tarifa b itau
+   34,55
+01102025
+u
+20067
+       0
+1.392,72
+149.225,03
+ref. - transferencia conta garantida
+    0,00
+01102025.14
+u
+20068
+       0
+56.024,92
+205.249,95
+ref. - transferencia conta garantida
+    0,00
+01102025.14
+u
+20079
+       0
+25.000,00
+230.249,95
+ref. - transfeencia bancos
+    0,00
+01102025
+r
+150465
+       0
+34.973,01
+265.222,96
+vlr ref. faturamento- global amazonia fabricacao de produtos de 
+limpeza ltda m.avulsa: global amazonia fabricacao de
+    0,00
+a-25485-3
+r
+152622
+       0
+2.301,32
+267.524,28
+vlr ref. faturamento- industria oriental ltda
+    0,00
+v1-25766-4
+r
+152630
+       0
+1.914,70
+269.438,98
+vlr ref. faturamento- industria oriental ltda
+    0,00
+v1-25767-4
+p
+150939
+   11099
+    0,00
+265.867,55
+ref.- funcionários - 4/7 acordo trabalhista adriana jeseus
+3.571,43
+b
+2284820255050029-4
+p
+152302
+   11099
+    0,00
+245.047,18
+compra de materia prima- givaudan do brasil ltda
+20.820,37
+b
+633106-1
+p
+152303
+   11099
+    0,00
+235.138,23
+compra de materia prima- givaudan do brasil ltda
+9.908,95
+b
+633074-1
+p
+152852
+   11099
+    0,00
+213.707,66
+compra de materia prima- givaudan do brasil ltda
+21.430,57
+b
+633115-1
+p
+154720
+   11099
+    0,00
+198.599,06
+compra de materia prima- arogreen do brasil ltda
+15.108,60
+b
+1738-2
+p
+154734
+   11099
+    0,00
+191.066,71
+compra de materia prima- comercial inter-link ltda
+7.532,35
+b
+60054-2
+p
+154749
+   11099
+    0,00
+190.205,69
+compra de materia prima- sm empreendimentos farmaceuticos ltda 
+m.avulsa: sm empreendimentos farmaceutic
+  861,02
+b
+a-58011-2
+p
+154777
+   11099
+    0,00
+175.817,09
+compra de materia prima- svb embalagens do nordeste ltda
+14.388,60
+b
+3781-1
+p
+154979
+   11099
+    0,00
+175.591,84
+ref.- embalagens aruana - material copa-cozinha go
+  225,25
+b
+a-32860-1
+p
+157234
+   11099
+    0,00
+175.167,24
+ref.- prestação de serviço - thiago gomes - prest. serv. 15 dias go
+  424,60
+b
+01102025.52
+p
+157251
+   11099
+    0,00
+173.667,24
+ref.- its telecomunicacoes ltda - acesso internet 0+9/2025
+1.500,00
+b
+2592650
+p
+157252
+   11099
+    0,00
+172.149,24
+ref.- prestacon serviços ltda - serv. contábeis go 09/2025
+1.518,00
+b
+9307
+p
+157261
+   11099
+    0,00
+171.627,67
+frete- trans-imperio brasil transporte e logistica ltda - conhe. 
+166492/166509
+  521,57
+b
+60479
+p
+157263
+   11099
+    0,00
+171.325,52
+frete- tg transportes gerais e dist ltda   go - conhe.373446/373447
+  302,15
+b
+654886
+p
+157265
+   11099
+    0,00
+166.625,52
+ref.- refresh soluções tecnologia em ti ltda - manut. informatica 09/25 
+- 20 toner
+4.700,00
+b
+1452
+p
+157266
+   11099
+    0,00
+147.949,32
+ref.- funcionários - matriz transporte 10/2025
+18.676,20
+b
+01102025.1
+p
+157267
+   11099
+    0,00
+146.324,92
+ref.- funcionários - filial go transporte 10/2025
+1.624,40
+b
+01102025.8
+p&a informática
+07/11/2025 14:38:13
+primola fragrancias ltda - ba
+pág. 2
+movimentação financeira
+31/10/2025
+período: 01/10/2025
+a
+tipo
+documento
+bordero/cheque
+débito
+crédito
+saldo
+código
+histórico
+p
+157288
+   11099
+    0,00
+143.490,12
+ref.- funcionários - filial mg transporte 10/2025
+2.834,80
+b
+01102025
+p
+157289
+   11099
+    0,00
+142.713,12
+frete- tg transportes gerais e dist ltda mg - conhe. 
+897427/897824/897826/897838
+  777,00
+b
+654887
+total conta >>>>>>>>>>
+126.760,41
+171.606,67
+4
+bb c/c 27.279-5
+>>>>>>
+d
+20069
+       0
+    0,00
+142.705,08
+ref. - tarifa b brasil
+    8,04
+01102025.69
+d
+20070
+       0
+    0,00
+142.700,99
+ref. - tarifa b brasil
+    4,09
+01102025.69
+t
+20064
+       0
+    0,00
+138.700,99
+ref. - transferencia bancos
+4.000,00
+01102025.25
+t
+20079
+       0
+    0,00
+113.700,99
+ref. - transfeencia bancos
+25.000,00
+01102025
+r
+153751
+       0
+1.197,33
+114.898,32
+vlr ref. faturamento- aimer cosmeticos ltda
+    0,00
+v2-334-2
+r
+154258
+       0
+1.738,97
+116.637,29
+vlr ref. faturamento- aldelino pinheiro araujo cruz 02569067423
+    0,00
+v1-26012-2
+r
+154282
+       0
+1.584,09
+118.221,38
+vlr ref. faturamento- uni versos industria e comercio ltda m.avulsa: 
+uni versos industria e comerci
+    0,00
+a-26016-2
+r
+154568
+       0
+3.854,28
+122.075,66
+vlr ref. faturamento- o perfumista criacoes ltda m.avulsa: o 
+perfumista criacoes ltda
+    0,00
+a-26054-1
+total conta >>>>>>>>>>
+29.012,13
+8.374,67
+8
+bb c/c 30909-5 
+>>>>>>
+u
+20064
+       0
+4.000,00
+126.075,66
+ref. - transferencia bancos
+    0,00
+01102025.25
+total conta >>>>>>>>>>
+0,00
+4.000,00
+9
+itaú c/v 31860-9
+>>>>>>
+t
+20067
+       0
+    0,00
+124.682,94
+ref. - transferencia conta garantida
+1.392,72
+01102025.14
+t
+20068
+       0
+    0,00
+68.658,02
+ref. - transferencia conta garantida
+56.024,92
+01102025.14
+r
+151903
+       0
+  921,96
+69.579,98
+vlr ref. faturamento- central das essencias ltda
+    0,00
+v1-25669-3
+r
+151908
+       0
+2.951,31
+72.531,29
+vlr ref. faturamento- souza monteiro perfumaria ltda m.avulsa: 
+souza monteiro perfumaria ltda
+    0,00
+a-25670-3
+r
+151915
+       0
+1.039,66
+73.570,95
+vlr ref. faturamento- itauna quimica ltda
+    0,00
+v2-282-4
+r
+151916
+       0
+3.717,90
+77.288,85
+vlr ref. faturamento- monteiro e andrade perfumaria ltda m.avulsa: 
+monteiro e andrade perfumaria
+    0,00
+a-25671-3
+r
+152096
+       0
+1.193,69
+78.482,54
+vlr ref. faturamento- itauna quimica ltda
+    0,00
+v2-280-4
+r
+153125
+       0
+1.395,07
+79.877,61
+vlr ref. faturamento- aimer cosmeticos ltda
+    0,00
+v2-318-4
+r
+153541
+       0
+  598,24
+80.475,85
+vlr ref. faturamento- gyn quimica e derivados ltda
+    0,00
+v2-12088-2
+r
+153896
+       0
+4.895,46
+85.371,31
+vlr ref. faturamento- pinho ind. e com. de cosmeticos ltda
+    0,00
+v1-25948-4
+p&a informática
+07/11/2025 14:38:13
+primola fragrancias ltda - ba
+pág. 3
+movimentação financeira
+31/10/2025
+período: 01/10/2025
+a
+tipo
+documento
+bordero/cheque
+débito
+crédito
+saldo
+código
+histórico
+r
+154232
+       0
+1.317,21
+86.688,52
+vlr ref. faturamento- asbr industria e comercio de produtos de 
+higiene e limpeza ltda m.avulsa: asbr industria e comercio
+    0,00
+a-26010-2
+r
+154411
+       0
+  859,04
+87.547,56
+vlr ref. faturamento- alfa moura industria e comercio eireli
+    0,00
+v1-26039-2
+r
+154537
+       0
+  546,18
+88.093,74
+vlr ref. faturamento- pollux industria e comercio de produtos de 
+limpeza ltda
+    0,00
+v1-26050-1
+r
+154786
+       0
+  133,46
+88.227,20
+vlr ref. faturamento- 48.994.807 vancleide santos de santana
+    0,00
+v1-26077-1
+r
+154919
+       0
+1.714,44
+89.941,64
+vlr ref. faturamento- c a e - industria e comercio de produtos 
+quimicos ltda
+    0,00
+v1-26091-1
+r
+155248
+       0
+  748,24
+90.689,88
+vlr ref. faturamento- nasi industria de cosmeticos ltda m.avulsa: nasi 
+industria de cosmeticos l
+    0,00
+a-26138-1
+r
+155415
+       0
+23.091,93
+113.781,81
+vlr ref. faturamento- fc oliveira e cia
+    0,00
+v1-26149-1
+total conta >>>>>>>>>>
+57.417,64
+45.123,79
+113.781,81
+213.190,18
+229.105,13
+saldo do dia  >>>>>>>>>
+02/10/2025
+>>>>>>
+1
+caixa-fundo fixo- matriz
+>>>>>>
+u
+20076
+       0
+5.000,00
+118.781,81
+ref. - transferencia bancos
+    0,00
+02102025.6
+total conta >>>>>>>>>>
+0,00
+5.000,00
+2
+itaú c/c 05595-3
+>>>>>>
+d
+20071
+       0
+    0,00
+118.751,58
+ref. - tarifa b itau
+   30,23
+02102025
+d
+20072
+       0
+    0,00
+118.729,65
+ref. - tarifa b itau
+   21,93
+02102025
+d
+20075
+       0
+    0,00
+68.729,65
+ref. - aplicação trust b itau
+50.000,00
+02102025.69
+t
+20076
+       0
+    0,00
+63.729,65
+ref. - transferencia bancos
+5.000,00
+02102025.6
+u
+20073
+       0
+  598,24
+64.327,89
+ref. - transferencia conta garantida
+    0,00
+02102025
+u
+20074
+       0
+44.525,55
+108.853,44
+ref. - transferencia conta garantida
+    0,00
+02102025.69
+r
+148991
+       0
+46.547,60
+155.401,04
+vlr ref. faturamento- global amazonia fabricacao de produtos de 
+limpeza ltda m.avulsa: global amazonia fabricacao de
+    0,00
+a-25275-3
+r
+154775
+       0
+  300,00
+155.701,04
+vlr ref. faturamento- 53.895.385 edivan fernandes da silva
+    0,00
+v1-26074-1
+p
+152220
+   11100
+    0,00
+145.035,21
+compra de materia prima- givaudan do brasil ltda
+10.665,83
+b
+633315-1
+p
+152467
+   11100
+    0,00
+143.805,40
+compra de materia prima- givaudan do brasil ltda
+1.229,81
+b
+633192-1
+p
+154457
+   11100
+    0,00
+142.338,33
+compra de materia prima- comercial inter-link ltda
+1.467,07
+b
+59987-3
+p
+154497
+   11100
+    0,00
+138.909,62
+compra de materia prima- citral oleos essenciais ltda
+3.428,71
+b
+31593-3
+p
+154710
+   11100
+    0,00
+137.809,52
+compra de materia prima- arogreen do brasil ltda
+1.100,10
+b
+1743-2

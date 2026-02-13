@@ -1,0 +1,900 @@
+1
+relatório de cartas frete
+sistema informática - leve cargas
+data:
+página: 
+versão: 
+25.8.2.1
+01/09/2025
+grv logistica ltda - epp
+filial: 
+placa: 
+motorista: 
+usuário: livia               
+proprietário: 
+bipe's cancelados: não
+mostrar apenas com diferença negativa: não
+recibos sem documento vinculado: não
+tipo pessoa proprietário: física
+modelo: modelo 2
+quebrar por placa: não
+gerar somente proprietários com número do nit:  não
+analítico
+tipo de relatório:
+período de : 01/08/2025 até: 31/08/2025
+uf / cidade coleta:  - 
+uf / cidade entrega:  - 
+coleta:  
+contrato comercial:  
+apenas bipes com abastecimento no ctf tag:  não
+meio homologado: nenhum, nddcargo, rodocred, repom, pamcard, sistemainfo, extratta
+tipo de veículo:
+conjunto:
+filial
+bipe
+emissão
+proprietário
+cpf / cnpj
+rg
+data nasc.
+número pis
+base irrf
+valor irrf
+base inss
+valor inss
+sest / senat
+frete bruto
+placa
+recibo
+frete liq. pago
+débitos
+créditos
+pedágio
+meio homolog
+vale abast.
+proprietário:  adailton da silva sousa
+ 0,00
+05/08/2025
+ 15518
+mt
+36306541500
+224480472
+ 800,00
+ 80,00
+ 160,00
+ 0,00
+ 4,00
+mnb052
+7
+11428
+17/09/1965
+ 796,00
+adailton da silva so
+ 0,00
+ 0,00
+ 0,00
+12115024259
+nenhum
+ 0,00
+ 0,00
+11/08/2025
+ 15544
+mt
+36306541500
+224480472
+ 800,00
+ 160,00
+ 160,00
+ 0,00
+ 4,00
+mnb052
+7
+11438
+17/09/1965
+ 796,00
+adailton da silva so
+ 0,00
+ 0,00
+ 0,00
+12115024259
+nenhum
+ 0,00
+ 0,00
+18/08/2025
+ 15580
+mt
+36306541500
+224480472
+ 800,00
+ 240,00
+ 160,00
+ 0,00
+ 4,00
+mnb052
+7
+11457
+17/09/1965
+ 796,00
+adailton da silva so
+ 0,00
+ 0,00
+ 0,00
+12115024259
+nenhum
+ 0,00
+total do proprietário:
+ 2.400,00
+ 480,00
+ 0,00
+ 0,00
+ 12,00
+ 2.388,00
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  aildo de freitas alves
+ 0,00
+22/08/2025
+ 15604
+mt
+02878960564
+1354408746
+ 2.800,00
+ 218,40
+ 560,00
+ 61,60
+ 14,00
+nzy3i92 
+11473
+29/03/1986
+ 2.724,40
+aildo de freitas alv
+ 0,00
+ 0,00
+ 0,00
+20634291445
+nenhum
+ 0,00
+total do proprietário:
+ 2.800,00
+ 560,00
+ 61,60
+ 0,00
+ 14,00
+ 2.724,40
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  ailton de lima west
+ 0,00
+14/08/2025
+ 15565
+mt
+04975184575
+1280842270
+ 900,00
+ 90,00
+ 180,00
+ 0,00
+ 4,50
+jqf8j9
+1
+11451
+09/12/1990
+ 895,50
+ailton de lima west
+ 0,00
+ 0,00
+ 0,00
+16020102352
+nenhum
+ 0,00
+ 0,00
+15/08/2025
+ 15576
+mt
+04975184575
+1280842270
+ 900,00
+ 180,00
+ 180,00
+ 0,00
+ 4,50
+jqf8j9
+1
+11456
+09/12/1990
+ 895,50
+ailton de lima west
+ 0,00
+ 0,00
+ 0,00
+16020102352
+nenhum
+ 0,00
+ 0,00
+19/08/2025
+ 15589
+mt
+04975184575
+1280842270
+ 900,00
+ 270,00
+ 180,00
+ 0,00
+ 4,50
+jqf8j9
+1
+11463
+09/12/1990
+ 895,50
+ailton de lima west
+ 0,00
+ 0,00
+ 0,00
+16020102352
+nenhum
+ 0,00
+total do proprietário:
+ 2.700,00
+ 540,00
+ 0,00
+ 0,00
+ 13,50
+ 2.686,50
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  bruna morais de souza da rosa mello
+ 0,00
+04/08/2025
+ 97
+rj
+06206931935
+15874878
+ 12.000,00
+ 936,00
+ 2.400,00
+ 264,00
+ 60,00
+bbx6e9
+7
+27
+24/02/1989
+ 11.676,00
+bruna morais de so
+ 0,00
+ 0,00
+ 0,00
+13002766517
+nenhum
+ 0,00
+ 0,00
+15/08/2025
+ 105
+rj
+06206931935
+15874878
+ 12.000,00
+ 1.942,51
+ 2.400,00
+ 193,49
+ 60,00
+bbx6e9
+7
+34
+24/02/1989
+ 11.746,51
+bruna morais de so
+ 0,00
+ 0,00
+ 0,00
+13002766517
+nenhum
+ 0,00
+ 98,84
+29/08/2025
+ 113
+rj
+06206931935
+15874878
+ 12.000,00
+ 3.142,51
+ 2.400,00
+ 0,00
+ 60,00
+mgz474
+9
+38
+24/02/1989
+ 11.841,16
+bruna morais de so
+ 0,00
+ 0,00
+ 0,00
+13002766517
+nenhum
+ 0,00
+total do proprietário:
+ 36.000,00
+ 7.200,00
+ 457,49
+ 98,84
+ 180,00
+ 35.263,67
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  fabio da silva albano
+ 0,00
+06/08/2025
+ 100
+rj
+28009849880
+30457906
+ 3.340,00
+ 260,52
+ 668,00
+ 73,48
+ 16,70
+dte849
+4
+29
+12/09/1978
+ 3.249,82
+fabio da silva alban
+ 0,00
+ 0,00
+ 0,00
+12740542811
+nenhum
+ 0,00
+total do proprietário:
+ 3.340,00
+ 668,00
+ 73,48
+ 0,00
+ 16,70
+ 3.249,82
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+2
+relatório de cartas frete
+sistema informática - leve cargas
+data:
+página: 
+versão: 
+25.8.2.1
+01/09/2025
+grv logistica ltda - epp
+filial
+bipe
+emissão
+proprietário
+cpf / cnpj
+rg
+data nasc.
+número pis
+base irrf
+valor irrf
+base inss
+valor inss
+sest / senat
+frete bruto
+placa
+recibo
+frete liq. pago
+débitos
+créditos
+pedágio
+meio homolog
+vale abast.
+proprietário:  glenda de moraes carneiro
+ 0,00
+28/08/2025
+ 15632
+mt
+06242125560
+258979
+ 900,00
+ 70,20
+ 180,00
+ 19,80
+ 4,50
+jqf8j9
+1
+11486
+01/08/1975
+ 875,70
+glenda de moraes c
+ 0,00
+ 0,00
+ 0,00
+19834628750
+nenhum
+ 0,00
+total do proprietário:
+ 900,00
+ 180,00
+ 19,80
+ 0,00
+ 4,50
+ 875,70
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  jackson arantes maciel
+ 0,00
+06/08/2025
+ 15528
+mt
+00847435733
+927566
+ 11.000,00
+ 858,00
+ 2.200,00
+ 242,00
+ 55,00
+msa7a5
+3
+11430
+02/05/1972
+ 10.703,00
+jackson arantes ma
+ 0,00
+ 0,00
+ 0,00
+12292415218
+nenhum
+ 0,00
+total do proprietário:
+ 11.000,00
+ 2.200,00
+ 242,00
+ 0,00
+ 55,00
+ 10.703,00
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  joao francisco da silva 
+ 0,00
+07/08/2025
+ 15533
+mt
+97305413453
+60662082
+ 4.900,00
+ 382,20
+ 980,00
+ 107,80
+ 24,50
+cnr7b9
+1
+11433
+20/02/1975
+ 4.767,70
+joao francisco da s
+ 0,00
+ 0,00
+ 0,00
+12489186681
+nenhum
+ 0,00
+total do proprietário:
+ 4.900,00
+ 980,00
+ 107,80
+ 0,00
+ 24,50
+ 4.767,70
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  joel cristo claro
+ 0,00
+27/08/2025
+ 15623
+mt
+03251710923
+ 6.331,66
+ 633,17
+ 1.266,33
+ 0,00
+ 31,66
+asp5b0
+5
+11483
+30/10/1981
+ 6.300,00
+joel cristo claro
+ 0,00
+ 0,00
+ 0,00
+12632921491
+nenhum
+ 0,00
+total do proprietário:
+ 6.331,66
+ 1.266,33
+ 0,00
+ 0,00
+ 31,66
+ 6.300,00
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  jose dias da silva filho
+ 0,00
+02/08/2025
+ 15513
+mt
+43591817449
+2489027
+ 4.900,00
+ 382,20
+ 980,00
+ 107,80
+ 24,50
+clu321
+6
+11424
+19/06/1963
+ 4.767,70
+jose dias da silva f
+ 0,00
+ 0,00
+ 0,00
+12280851417
+nenhum
+ 0,00
+ 0,00
+25/08/2025
+ 15615
+mt
+43591817449
+2489027
+ 4.900,00
+ 764,40
+ 980,00
+ 107,80
+ 24,50
+clu321
+6
+11478
+19/06/1963
+ 4.767,70
+jose dias da silva f
+ 0,00
+ 0,00
+ 0,00
+12280851417
+nenhum
+ 0,00
+total do proprietário:
+ 9.800,00
+ 1.960,00
+ 215,60
+ 0,00
+ 49,00
+ 9.535,40
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  luciano almeida rocha
+ 0,00
+01/08/2025
+ 15506
+mt
+55187064568
+479992762
+ 2.800,00
+ 218,40
+ 560,00
+ 61,60
+ 14,00
+jmq0c0
+9
+11419
+21/04/1969
+ 2.724,40
+luciano almeida roc
+ 0,00
+ 0,00
+ 0,00
+12475024390
+nenhum
+ 0,00
+total do proprietário:
+ 2.800,00
+ 560,00
+ 61,60
+ 0,00
+ 14,00
+ 2.724,40
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  nerinaldo valentim rafael
+ 0,00
+11/08/2025
+ 15543
+mt
+39084965515
+3998745 ssp ba
+ 800,00
+ 80,00
+ 160,00
+ 0,00
+ 4,00
+mua0c
+38
+11437
+10/01/1967
+ 796,00
+nerinaldo valentim r
+ 0,00
+ 0,00
+ 0,00
+26985745138
+nenhum
+ 0,00
+ 0,00
+14/08/2025
+ 15571
+mt
+39084965515
+3998745 ssp ba
+ 800,00
+ 160,00
+ 160,00
+ 0,00
+ 4,00
+mua0c
+38
+11452
+10/01/1967
+ 796,00
+nerinaldo valentim r
+ 0,00
+ 0,00
+ 0,00
+26985745138
+nenhum
+ 0,00
+ 0,00
+19/08/2025
+ 15588
+mt
+39084965515
+3998745 ssp ba
+ 800,00
+ 240,00
+ 160,00
+ 0,00
+ 4,00
+mua0c
+38
+11462
+10/01/1967
+ 796,00
+nerinaldo valentim r
+ 0,00
+ 0,00
+ 0,00
+26985745138
+nenhum
+ 0,00
+ 0,00
+22/08/2025
+ 15605
+mt
+39084965515
+3998745 ssp ba
+ 800,00
+ 320,00
+ 160,00
+ 0,00
+ 4,00
+mua0c
+38
+11474
+10/01/1967
+ 796,00
+nerinaldo valentim r
+ 0,00
+ 0,00
+ 0,00
+26985745138
+nenhum
+ 0,00
+ 0,00
+25/08/2025
+ 15610
+mt
+39084965515
+3998745 ssp ba
+ 800,00
+ 400,00
+ 160,00
+ 0,00
+ 4,00
+mua0c
+38
+11477
+10/01/1967
+ 796,00
+nerinaldo valentim r
+ 0,00
+ 0,00
+ 0,00
+26985745138
+nenhum
+ 0,00
+total do proprietário:
+ 4.000,00
+ 800,00
+ 0,00
+ 0,00
+ 20,00
+ 3.980,00
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  nilza maria silva
+ 0,00
+19/08/2025
+ 15587
+mt
+20080794572
+005624525
+ 3.500,00
+ 273,00
+ 700,00
+ 77,00
+ 17,50
+iaa0e31 
+11461
+01/11/1967
+ 3.405,50
+nilza maria silva
+ 0,00
+ 0,00
+ 0,00
+16297104914
+nenhum
+ 0,00
+total do proprietário:
+ 3.500,00
+ 700,00
+ 77,00
+ 0,00
+ 17,50
+ 3.405,50
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+3
+relatório de cartas frete
+sistema informática - leve cargas
+data:
+página: 
+versão: 
+25.8.2.1
+01/09/2025
+grv logistica ltda - epp
+filial
+bipe
+emissão
+proprietário
+cpf / cnpj
+rg
+data nasc.
+número pis
+base irrf
+valor irrf
+base inss
+valor inss
+sest / senat
+frete bruto
+placa
+recibo
+frete liq. pago
+débitos
+créditos
+pedágio
+meio homolog
+vale abast.
+proprietário:  ruy kleber alves pinto
+ 0,00
+01/08/2025
+ 6570
+pe
+00381007707
+082719972
+ 9.800,00
+ 764,40
+ 1.960,00
+ 215,60
+ 49,00
+czc470
+1
+7204
+ 9.535,40
+ruy kleber alves p
+ 0,00
+ 0,00
+ 0,00
+12313133011
+nenhum
+ 0,00
+total do proprietário:
+ 9.800,00
+ 1.960,00
+ 215,60
+ 0,00
+ 49,00
+ 9.535,40
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+proprietário:  walter ribeiro dos santos
+ 0,00
+05/08/2025
+ 15515
+mt
+05057784595
+ 4.000,00
+ 312,00
+ 800,00
+ 88,00
+ 20,00
+qla0b1
+6
+11426
+19/05/1993
+ 3.892,00
+walter ribeiro dos s
+ 0,00
+ 0,00
+ 0,00
+16547295401
+nenhum
+ 0,00
+total do proprietário:
+ 4.000,00
+ 800,00
+ 88,00
+ 0,00
+ 20,00
+ 3.892,00
+ 0,00
+ 0,00
+ 0,00
+ 0,00
+total geral:
+ 20.854,33
+ 1.619,97
+ 98,84
+ 521,36
+ 104.271,66
+ 102.031,49
+ 0,00
+ 0,00
+ 0,00
+ 0,00

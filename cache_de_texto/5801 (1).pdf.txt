@@ -1,0 +1,523 @@
+sige - sistema integrado de gestão empresarial - be resolution
+rfin310 - relatório de movimentação financeira
+11/09/2025 15:19
+h
+0001/ 0002
+emissão: 
+página : 
+lancto
+histórico
+débito
+crédito
+saldo
+chave fato titulo
+c. o.
+carteira:
+saldo anterior.:
+sicoob - jamar  - ag 4340 c/c 152.380-5
+15.570,77
+1081
+676,00
+01/08/2025
+16.246,77
+026274595 adc 1   620575 
+s b
+crédito cfe. docto. nº adc-1-620575/1 ref. adto. de joao alenio
+8.238,29
+01/08/2025
+24.485,06
+026274601 adc 1   620557 
+s b
+crédito cfe. docto. nº adc-1-620557/1 ref. adto. de  ms papelari
+118,65
+01/08/2025
+24.603,71
+026276325 adc 1   620575 
+s b
+crédito cfe. docto. nº adc-1-620575/2 ref. adto. de joao alenio
+1.430,00
+01/08/2025
+26.033,71
+026288913 adc 1   620390 
+s b
+crédito cfe. docto. nº adc-1-620390/1 ref. adto. de kelly cristi
+267,05
+01/08/2025
+25.766,66
+026275035
+s b
+ik// movvi ref fatura 18098-01
+2.417,59
+01/08/2025
+23.349,07
+026275039
+s b
+ik// transjornal ref fatura 0076258-0
+12.500,00
+01/08/2025
+10.849,07
+026275471 adf 0   88     1 
+s b
+adf-0-88/1 gi// adiantamento de nf - jamar x mdj
+8.868,83
+04/08/2025
+19.717,90
+026281505 adc 1   620633 
+s b
+crédito cfe. docto. nº adc-1-620633/1 ref. adto. de kebs soluc
+151,97
+04/08/2025
+19.565,93
+026279271
+s b
+ik// cantelle ref fatura 20305-1
+618,90
+05/08/2025
+20.184,83
+026281795 adc 1   620557 
+s b
+crédito cfe. docto. nº adc-1-620557/2 ref. adto. de ms papelaria
+882,00
+05/08/2025
+21.066,83
+026284169 adc 1   620788 
+s b
+crédito cfe. docto. nº adc-1-620788/1 ref. adto. de rafael vinic
+20.000,00
+05/08/2025
+41.066,83
+026285331
+s b
+gi// ted brad (1092) p/ sicoob (1081)
+4.482,85
+05/08/2025
+45.549,68
+026290823
+s b
+mrgp//crédito cartão (pagar me) nf-1215/1
+3,67
+05/08/2025
+45.546,01
+026290891
+s b
+mrgp/pagar me ref taxa de transferencia.
+7,86
+05/08/2025
+45.538,15
+026290907
+s b
+mrgp//pagar me ref serviços de gateway (01/07/2025 a 31/07/202
+1.495,00
+06/08/2025
+47.033,15
+026287095 adc 1   620685 
+s b
+crédito cfe. docto. nº adc-1-620685/1 ref. adto. de matheus gr
+30.000,00
+06/08/2025
+77.033,15
+026287409
+s b
+gi// ted brad (1092) p/ sicoob (1081)
+278,50
+06/08/2025
+77.311,65
+026288891 adc 1   620390 
+s b
+crédito cfe. docto. nº adc-1-620390/2 ref. adto. de kelly cristi
+36.000,00
+06/08/2025
+113.311,65
+026289851 adc 1   122    1
+s b
+crédito cfe. docto. nº adc-1-122/1 ref. adto. de mdj - supriment
+9.010,00
+06/08/2025
+104.301,65
+026286381 adf 1   4438   1
+s b
+adf-1-4438/1 gi// adf funcionarios mdj-lda-jamar - saldo de sa
+14.880,00
+06/08/2025
+89.421,65
+026286779
+s b
+gi// ted sicoob (1081) p/ cx - ibba
+1.297,72
+06/08/2025
+88.123,93
+026288225
+s b
+ik// jamef transportes ref fatura 6010117
+62.040,00
+06/08/2025
+26.083,93
+026291189
+s b
+gi// ted sicoob (1081) p/ cx - jamar
+25.010,00
+06/08/2025
+1.073,93
+026291205
+s b
+gi// ted sicoob (1081) p/ cx - jamar sp
+659,94
+07/08/2025
+1.733,87
+026320513
+s b
+mrgp//créditocartão (pagar me) nf-5157/3
+3,67
+07/08/2025
+1.730,20
+026320523
+s b
+mrgp//pagar me ref taxa de transferencia.
+142,51
+08/08/2025
+1.587,69
+026297621
+s b
+ik// movvi ref fatura 18225-01
+76,00
+11/08/2025
+1.663,69
+026303535 adc 1   621284 
+s b
+crédito cfe. docto. nº adc-1-621284/1 ref. adto. de tiago henriq
+1.062,60
+11/08/2025
+601,09
+026302309
+s b
+dbg/acn-honorarios jamar-pr -ref  07 /25     cta 4347
+339,17
+11/08/2025
+261,92
+026302313
+s b
+ik// expresso princesa dos campos ref fatura 40494-1
+180,00
+11/08/2025
+81,92
+026306855
+s b
+dbg/sicoob 1081 debito pacote serviços
+1.480,46
+12/08/2025
+1.562,38
+026304401 adc 1   621101 
+s b
+crédito cfe. docto. nº adc-1-621101/1 ref. adto. de dermeval m
+3.518,98
+12/08/2025
+5.081,36
+026307407 adc 1   621339 
+s b
+crédito cfe. docto. nº adc-1-621339/1 ref. adto. de plataforma 
+1.915,47
+12/08/2025
+6.996,83
+026307491 adc 1   621377 
+s b
+crédito cfe. docto. nº adc-1-621377/1 ref. adto. de paula cibele
+0,50
+12/08/2025
+6.997,33
+026307513 adc 1   621377 
+s b
+crédito cfe. docto. nº adc-1-621377/2 ref. adto. de paula cibele
+94,31
+12/08/2025
+7.091,64
+026307527 adc 1   621284 
+s b
+crédito cfe. docto. nº adc-1-621284/2 ref. adto. de tiago henriq
+7.447,88
+12/08/2025
+14.539,52
+026320647
+s b
+mrgp//crédito cartão (pagar me antecip) nfs-1237/1-1145/2 e 5
+1.740,20
+12/08/2025
+16.279,72
+026320679 adc 1   123    1
+s b
+crédito cfe. docto. nº adc-1-123/1 ref. adto. de lm informatica
+3,67
+12/08/2025
+16.276,05
+026320745
+s b
+mrgp//pagar me ref taxa de transferencia.
+1.747,00
+14/08/2025
+18.023,05
+026330161
+s b
+crédito ref. título nº   nfl-1-1249/1 de amk comercio e manut de
+1.372,16
+14/08/2025
+19.395,21
+026330171
+s b
+crédito ref. título nº   nfl-1-1256/1 de amk comercio e manut de
+1.421,22
+14/08/2025
+20.816,43
+026365475
+s b
+mrgp//crédito cartão (pagar me) nf-1251/1
+675,00
+14/08/2025
+20.141,43
+026325787
+s b
+gi// wilson a postai - despesa de viagem ida  a sao paulo - pe
+3,67
+14/08/2025
+20.137,76
+026336851
+s b
+mrgp//pagar me ref taxa de transferencia
+14.885,06
+15/08/2025
+5.252,70
+026327439 adf 1   4459   1
+s b
+adf-1-4459/1 gi// adf de ferias funcionarios mdj-sp - nº 341  (
+11.152,31
+18/08/2025
+16.405,01
+026332369
+s b
+crédito ref. título nº  nfl-1-1115/2 de amk comercio e manut de
+3.194,16
+18/08/2025
+19.599,17
+026332405
+s b
+crédito ref. título nº  nfl-1-1126/2 de amk comercio e manut de
+3.029,09
+18/08/2025
+22.628,26
+026332413
+s b
+crédito ref. título nº  nfl-1-1224/1 de amk comercio e manut de
+3.249,50
+18/08/2025
+25.877,76
+026332435
+s b
+crédito ref. título nº   nfl-1-1139/2 de amk comercio e manut de
+383,33
+18/08/2025
+26.261,09
+026336753
+s b
+mrgp//crédito cartão (pagar me ) nf-5232/1
+3,67
+18/08/2025
+26.257,42
+026336841
+s b
+mrgp//pagar me ref taxa de transferencia
+182,43
+19/08/2025
+26.439,85
+026335185 adc 1   621878 
+s b
+crédito cfe. docto. nº adc-1-621878/1 ref. adto. de atomo print
+357,42
+19/08/2025
+26.797,27
+026336801
+s b
+mrgp//crédito cartão (pagar me ) nf-4208/2
+3,67
+19/08/2025
+26.793,60
+026336825
+s b
+mrgp//pagar me ref taxa de transferencia
+1.992,55
+20/08/2025
+28.786,15
+026346331 adc 1   622042 
+s b
+crédito cfe. docto. nº adc-1-622042/1 ref. adto. de marcos anto
+9.400,00
+20/08/2025
+19.386,15
+026338795
+s b
+gi// adiantamento quinzenal - funcionarios mdj-mga - ref. a
+441,60
+20/08/2025
+18.944,55
+026340529
+s b
+gi// dbg/fgts- jamar- pró-labore - 07 /25    cta 4203
+15.000,00
+20/08/2025
+3.944,55
+026341185 adf 0   91     1 
+s b
+adf-0-91/1 gi// adiantamento de nf - jamar x mdj
+800,00
+21/08/2025
+4.744,55
+026342781 adc 1   622096 
+s b
+crédito cfe. docto. nº adc-1-622096/1 ref. adto. de jose robert
+343,92
+25/08/2025
+5.088,47
+026353765 adc 1   622392 
+s b
+crédito cfe. docto. nº adc-1-622392/1 ref. adto. de victoria ma
+www.atualcs.com.br
+sige - sistema integrado de gestão empresarial - be resolution
+rfin310 - relatório de movimentação financeira
+11/09/2025 15:19
+h
+0002/ 0002
+emissão: 
+página : 
+lancto
+histórico
+débito
+crédito
+saldo
+chave fato titulo
+c. o.
+carteira:
+saldo anterior.:
+sicoob - jamar  - ag 4340 c/c 152.380-5
+15.570,77
+1081
+3.000,00
+25/08/2025
+8.088,47
+026353827 adc 1   622388 
+s b
+crédito cfe. docto. nº adc-1-622388/1 ref. adto. de kelly cristi
+3.156,69
+25/08/2025
+11.245,16
+026369675
+s b
+mrgp//crédito cartão (pagar me ) nfs-5224/2-5225/2-5238/1-523
+151,59
+25/08/2025
+11.093,57
+026351591
+s b
+rfbc/tw transportes - ref. fatura de fretes nº 2808560-5
+3,67
+25/08/2025
+11.089,90
+026369715
+s b
+mrgp//pagar me ref taxa de transferencia .
+1.098,87
+26/08/2025
+12.188,77
+026353829 adc 1   622388 
+s b
+crédito cfe. docto. nº adc-1-622388/2 ref. adto. de kelly cristi
+778,88
+26/08/2025
+12.967,65
+026369775
+s b
+mrgp//crédito cartão (pagar me) nf-5184/3-5236/1
+3,67
+26/08/2025
+12.963,98
+026369865
+s b
+mrgp//pagar me ref taxa de transferencia.
+57,23
+27/08/2025
+13.021,21
+026367243 adc 1   5      1 
+s b
+crédito cfe. docto. nº adc-1-5/1 ref. adto. de amk comercio e ma
+3.151,86
+27/08/2025
+16.173,07
+026369887
+s b
+mrgp//crédito cartão (pagar me) nf-1188/2
+348,00
+27/08/2025
+15.825,07
+026366015
+s b
+gi// reembolso wilson - ref. compra de 02 leitores de código de b
+3,67
+27/08/2025
+15.821,40
+026369891
+s b
+mrgp//pagar me ref taxa de transferencia.
+938,00
+28/08/2025
+16.759,40
+026368471 adc 1   622676 
+s b
+crédito cfe. docto. nº adc-1-622676/1 ref. adto. de 60.460.879 le
+353,91
+28/08/2025
+17.113,31
+026369929 adc 1   124    1
+s b
+crédito cfe. docto. nº adc-1-124/1 ref. adto. de velize otton tr
+617,53
+28/08/2025
+16.495,78
+026368521
+s b
+ik// translovato ref fatura 6999
+3,67
+28/08/2025
+16.492,11
+026380847
+s b
+dbg/pagar-me- taxa de transferencia
+76,55
+29/08/2025
+16.568,66
+026379833 adc 1   622392 
+s b
+crédito cfe. docto. nº adc-1-622392/2 ref. adto. de victoria ma
+536,80
+29/08/2025
+16.031,86
+026376569
+s b
+rfbc/movvi transportes - ref. fatura de fretes nº 18679_01
+1.527,37
+29/08/2025
+14.504,49
+026376573
+s b
+ik// transapucarana ref fatura 226230
+14.504,49
+saldo real:
+14.504,49
+saldo conciliado:
+filtros utilizados:
+empresa.:
+periodo contábil.:
+código da conta.:
+0
+999
+01/08/2025
+31/08/2025
+31/12/2007
+até
+até
+www.atualcs.com.br

@@ -1,0 +1,96 @@
+folha:        1
+siga/finr470/v.12
+extrato bancario entre  01/11/2025 e 30/11/2025  em  real
+dt.ref: 27/11/2025
+hora: 17:44:55
+emissão: 02/12/2025
+grupo de empresa: sinergy / filial: matriz - sinergy
+banco: 001 - banco do brasil
+agencia: 5745 conta: 9387
+saldo inicial:       -44.452,38
+data
+beneficiario
+operacao
+documento
+prefixo/titulo
+             entradas                saidas           saldo atual
+14/11/2025
+escritorio porto ale
+desc 5,0%
+s25-000501
+             4.997,76                  0,00            -39.454,62
+17/11/2025
+fls-65 tintas renner baixado xenon
+             9.993,62                  0,00            -29.461,00
+17/11/2025
+fls-114 marista baixado xenon
+             3.288,00                  0,00            -26.173,00
+27/11/2025
+repasse comissao sinergy nd s25- 16
+            41.131,20                  0,00             14.958,20
+27/11/2025
+ref empresarial visa
+167.560.893
+                 0,00              5.024,48              9.933,72
+27/11/2025
+ref iof saldo devedor conta
+391.100.702
+                 0,00                722,59              9.211,13
+27/11/2025
+ref juros saldo devedor conta
+511.058.527
+                 0,00              5.940,65              3.270,48
+27/11/2025
+ref empresarial visa
+66.133.826
+                 0,00              2.892,48                378,00
+27/11/2025
+ref cobranca referente a 30/06/2025
+893.310.802.060.096
+                 0,00                 63,00                315,00
+27/11/2025
+ref cobranca referente a 01/07/2025
+893.310.802.064.878
+                 0,00                 63,00                252,00
+27/11/2025
+ref cobranca referente a 31/07/2025
+893.310.802.083.990
+                 0,00                 63,00                189,00
+27/11/2025
+ref cobranca referente a 29/08/2025
+893.310.802.109.002
+                 0,00                 63,00                126,00
+27/11/2025
+ref cobranca referente a 30/09/2025
+893.310.802.133.825
+                 0,00                 63,00                 63,00
+27/11/2025
+ref cobranca referente a 31/10/2025
+893.310.802.161.079
+                 0,00                 63,00                  0,00
+historico
+nao conciliados
+conciliados
+total
+saldo inicial...........:
+saldo final 31/12/2007
+      -44.452,38
+entradas no periodo.....:
+saldo final 31/12/2007
+       59.410,58
+            0,00
+       59.410,58
+saidas no periodo ......:
+saldo final 31/12/2007
+       14.958,20
+            0,00
+       14.958,20
+limite de credito.......:
+saldo final 31/12/2007
+            0,00
+saldo atual ............:
+saldo final 31/12/2007
+            0,00
+hora: 17:44:55
+ "wstand
+ qwrys

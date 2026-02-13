@@ -1,0 +1,335 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+ 
+pagamentos
+data/hora de emissão:
+11/03/2024 10:18:42
+cooperativa:
+3003
+conta:
+5.956-0  oficina irmaos bazoni ltda
+período:
+01/01/2024 - 31/01/2024
+tipo de movimentação:
+pagamentos
+data/hora movimento
+id transação
+históric
+o
+nome de
+destinatário
+instituição do
+destinatário
+tipo de chave
+chave do
+destinatário
+descrição identificador (txid)
+valor
+03/01/2024 15:10:06
+e324670862024
+01031809ogz7z
+gvydwp
+pagament
+o pix via
+chave
+as de abreu dalto
+me
+sicoob sul
+cpf/cnpj
+***715.972/0001-**
+nota 6831
+-
+r$ 65,00
+05/01/2024 14:11:42
+e324670862024
+010517113zqd
+dulolyi
+pagament
+o pix via
+chave
+adriano batista de
+oliveira
+sicoob sul
+cpf/cnpj
+***682.261/0001-**
+nota 1763
+-
+r$ 150,00
+10/01/2024 15:22:50
+e324670862024
+01101822d4mp
+dqazfu4
+pagament
+o pix via
+chave
+maria luzia
+sturiao bravin
+caixa
+economica
+federal
+cpf/cnpj
+***.956.777-**
+aluguel
+-
+r$ 3.751,73
+10/01/2024 15:26:05
+e324670862024
+01101824ek4hy
+v9gz5a
+pagament
+o pix via
+chave
+marco antonio de
+souza lima
+itaú unibanco
+s.a.
+cpf/cnpj
+***.800.307-**
+nota 37
+-
+r$ 200,00
+10/01/2024 15:27:50
+e324670862024
+01101827xn6yy
+wngbfq
+pagament
+o pix via
+chave
+douglas barros
+lopes 14400549755
+sicoob sul
+cpf/cnpj
+***637.798/0001-**
+-
+-
+r$ 240,00
+12/01/2024 16:56:10
+e324670862024
+0112195575ne
+qbgmzxr
+pagament
+o pix via
+chave
+marataizes
+piscinas
+coop sicredi
+união rs
+cpf/cnpj
+***542.745/0001-**
+solicitado
+por maurilio
+-
+r$ 370,00
+15/01/2024 10:37:30
+e324670862024
+011513361u7rj
+wzwiiz
+pagament
+o pix via
+chave
+sartorio silva
+sociedade de
+advogados
+sicoob
+credirochas
+cpf/cnpj
+***918.678/0001-**
+advogados
+-
+r$ 3.960,00
+15/01/2024 13:08:31
+e324670862024
+01151607g97lw
+poh3pb
+pagament
+o pix via
+chave
+lucio's
+rolamentos
+comercio e
+importacao ltda
+bco do brasil
+s.a.
+cpf/cnpj
+***248.426/0006-**
+-
+-
+r$ 52,00
+16/01/2024 14:56:39
+e324670862024
+011617568sxg
+crihzmb
+pagament
+o pix via
+chave
+print art ltda
+stone ip s.a.
+cpf/cnpj
+***181.168/0001-**
+-
+-
+r$ 280,00
+16/01/2024 16:34:14
+e324670862024
+01161933y0b7p
+2unpo1
+pagament
+o pix via
+chave
+pronto aluminio
+itaú unibanco
+s.a.
+cpf/cnpj
+***377.882/0001-**
+-
+-
+r$ 1.600,00
+17/01/2024 14:23:56
+e324670862024
+01171723lg3lp
+fpjl0e
+pagament
+o pix via
+chave
+real onibus ltda
+itaú unibanco
+s.a.
+cpf/cnpj
+***580.748/0001-**
+-
+-
+r$ 180,00
+18/01/2024 17:14:27
+e324670862024
+01182013utnhn
+2wz0mt
+pagament
+o pix via
+chave
+posto nogueira
+ltda
+coop sicoob uni
+sudeste
+cpf/cnpj
+***124.023/0001-**
+parte da
+nota 39021
+-
+r$ 300,00
+22/01/2024 13:56:36
+e324670862024
+01221655yqlso
+b5bjlh
+pagament
+o pix via
+chave
+adenir jose
+silveira da silva
+itaú unibanco
+s.a.
+cpf/cnpj
+***.463.137-**
+nota 33
+-
+r$ 700,00
+ 
+23/01/2024 08:34:25
+e324670862024
+0123113242buz
+bsbvi0
+pagament
+o pix via
+chave
+vd comercio de
+veiculos ltda
+bco bradesco
+s.a.
+cpf/cnpj
+***786.983/0001-**
+294184
+-
+r$ 50,00
+23/01/2024 15:05:27
+e324670862024
+012318040geh
+swoikzf
+pagament
+o pix via
+chave
+marcelo pneus
+coop sicredi
+união rs
+cpf/cnpj
+***063.683/0001-**
+nota 7220
+-
+r$ 963,00
+29/01/2024 10:20:46
+e324670862024
+012913209cye
+egw8upw
+pagament
+o pix via
+chave
+itadisa itapemirim
+distribuidora de
+pecas ltda
+sicoob sul
+cpf/cnpj
+***468.610/0001-**
+nota 5981
+-
+r$ 160,00
+29/01/2024 16:31:45
+e324670862024
+012919304jgio
+wszu0o
+pagament
+o pix via
+chave
+adenir jose
+silveira da silva
+itaú unibanco
+s.a.
+cpf/cnpj
+***.463.137-**
+nota 37
+-
+r$ 500,00
+30/01/2024 16:33:20
+e324670862024
+01301932g5gq
+oiot2wd
+pagament
+o pix via
+chave
+bruno jacomelli
+de souza
+banco sicoob
+s.a
+cpf/cnpj
+***.943.107-**
+nota 20
+-
+r$ 450,00
+31/01/2024 16:31:47
+e324670862024
+01311931vxlo
+6tljryt
+pagament
+o pix via
+chave
+as de abreu dalto
+me
+sicoob sul
+cpf/cnpj
+***715.972/0001-**
+nota 7059
+-
+r$ 60,00
+resumo
+valor total:
+r$ 14.031,73
+quantidade de registros:
+19
+ouvidoria sicoob: 08007250996

@@ -1,0 +1,829 @@
+transações por conta corrente
+cód
+tipo financeiro
+plano de contas
+cliente
+dt. lanç.
+dt. comp.
+dt. vcto
+situação
+operação
+doc.
+descrição
+vlr líquido
+dt pagto
+vlr pago
+conta :  sp - bradesco ag 1322 cc 0054997-5
+reembolsável
+88797
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+15,16
+01/07/2025
+15,16
+não
+88808
+009 - socios
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+saida
+2º
+trimeste/2
+distribuição de lucros 2º tirmestre
+2025
+009.01 - lauro zimmer
+350.000,00
+01/07/2025
+350.000,00
+não
+88807
+009 - socios
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+saida
+2º
+trimeste/2
+distribução de lucros 2º trimestre
+2025
+009.02 - rafael bornhausen
+350.000,00
+01/07/2025
+350.000,00
+não
+88806
+009 - socios
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+saida
+2º
+trimeste/2
+distribuição de lucros 2º
+trimestre/2025
+009.40 - marcelo peregrino
+98.956,18
+01/07/2025
+98.956,18
+não
+88805
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+3,80
+01/07/2025
+3,80
+não
+88804
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+1,03
+01/07/2025
+1,03
+não
+87953
+015 - cartão credito
+empresa
+03/06/2025
+03/08/2025
+01/07/2025
+pago
+saida
+015.01 - despesas diversas
+1.231,54
+01/07/2025
+1.231,54
+não
+88803
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+261,36
+01/07/2025
+261,36
+não
+88802
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+9,33
+01/07/2025
+9,33
+não
+88801
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+8,06
+01/07/2025
+8,06
+não
+88800
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+0,28
+01/07/2025
+0,28
+não
+88799
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+2,08
+01/07/2025
+2,08
+não
+88798
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+0,66
+01/07/2025
+0,66
+não
+88794
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+48,90
+01/07/2025
+48,90
+não
+88795
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+0,39
+01/07/2025
+0,39
+não
+88796
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+01/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+11,38
+01/07/2025
+11,38
+não
+88810
+100 - receitas
+bornhausen e zimmer advogados -
+sp
+14/07/2025
+14/07/2025
+02/07/2025
+pago
+entrada
+referente a transferência entre
+contas de mesma
+100.09 - entrada caixa
+200.000,00
+02/07/2025
+200.000,00
+não
+88809
+011 - despesas diversas
+14/07/2025
+14/07/2025
+02/07/2025
+pago
+saida
+serviços prestados
+011.02 - honorários terceiros
+190.064,36
+02/07/2025
+190.064,36
+não
+88577
+001 - prestadores de
+serviços
+03/07/2025
+03/07/2025
+10/07/2025
+pago
+saida
+jun.2025
+serviços prestados no mês de
+junho/2025
+001.01 - cartorios
+26,34
+10/07/2025
+26,34
+não
+88737
+001 - prestadores de
+serviços
+banco bradesco s/a
+10/07/2025
+10/07/2025
+10/07/2025
+pago
+saida
+reembolsável -
+desarquivamento
+001.02 - custas processuais
+58,83
+10/07/2025
+58,83
+não
+88811
+100 - receitas
+aplicações
+14/07/2025
+14/07/2025
+10/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+0,01
+10/07/2025
+0,01
+não
+página
+de
+1
+1
+relatório emitido em:
+04/08/2025 10:29
+ autojur ez
+
+ autojur [e
+
+ bornhausen
+&zimmer
+cód
+tipo financeiro
+plano de contas
+cliente
+dt. lanç.
+dt. comp.
+dt. vcto
+situação
+operação
+doc.
+descrição
+vlr líquido
+dt pagto
+vlr pago
+conta :  sp - bradesco ag 1322 cc 0054997-5
+reembolsável
+89028
+007 - bancos
+29/07/2025
+29/07/2025
+14/07/2025
+pago
+saida
+transf
+pgto pix
+tarifa bancária transferência
+pagamento pix
+007.01 - despesas bancarias
+1,75
+14/07/2025
+1,75
+não
+88879
+007 - bancos
+16/07/2025
+16/07/2025
+15/07/2025
+pago
+saida
+tarifa
+cesta 1
+tarifa bancaria cesta empresarial
+1
+007.01 - despesas bancarias
+177,05
+15/07/2025
+177,05
+não
+88878
+100 - receitas
+aplicações
+16/07/2025
+16/07/2025
+15/07/2025
+pago
+entrada
+entab.inve
+st
+entab.invest facilcred*
+100.08 - resgate aplicações
+0,03
+15/07/2025
+0,03
+não
+88584
+100 - receitas
+cadam s.a.
+03/07/2025
+03/07/2025
+24/07/2025
+pago
+entrada
+nf 3817
+êxito: 0800122-
+96.2025.8.14.9100
+100.01 - contratos
+32.847,50
+16/07/2025
+32.847,50
+não
+88877
+100 - receitas
+banco do brasil s.a.
+16/07/2025
+16/07/2025
+16/07/2025
+pago
+entrada
+nf 3843
+sucumbência: 0000896-
+71.2008.8.20.0150
+100.12 - honorários de
+sucumbência
+4.006,55
+16/07/2025
+4.006,55
+não
+88874
+100 - receitas
+cadam s.a.
+16/07/2025
+16/07/2025
+16/07/2025
+pago
+entrada
+nf3820
+iniciais: 10494.721042/2025-93 -
+pagamento de 50% r$
+100.01 - contratos
+3.519,37
+16/07/2025
+3.519,37
+não
+88514
+100 - receitas
+cadam s.a.
+01/07/2025
+01/07/2025
+15/07/2025
+pago
+entrada
+nf 3816
+iniciais: 0800122-
+96.2025.8.14.9100
+100.01 - contratos
+28.155,00
+16/07/2025
+28.155,00
+não
+88893
+100 - receitas
+banco do brasil s.a.
+17/07/2025
+17/07/2025
+17/07/2025
+pago
+entrada
+nf 3844
+sucumbência: 0145910-
+83.2022.8.13.0702
+100.12 - honorários de
+sucumbência
+202.213,35
+17/07/2025
+202.213,35
+não
+88942
+100 - receitas
+estamparia industrial
+aratell limitada
+18/07/2025
+18/07/2025
+17/07/2025
+pago
+entrada
+nf 3846
+sucumbência: 0218701-
+36.2011.8.26.0100
+100.12 - honorários de
+sucumbência
+1.522.247,00
+17/07/2025
+1.622.000,00
+não
+88930
+100 - receitas
+município de camocim de são
+félix
+18/07/2025
+18/07/2025
+25/07/2025
+pago
+entrada
+nf 3845
+sucumbência: 0000209-
+14.2008.8.17.0430
+100.12 - honorários de
+sucumbência
+15.595,19
+18/07/2025
+15.595,19
+não
+88990
+011 - despesas diversas
+25/07/2025
+25/07/2025
+18/07/2025
+pago
+saida
+devolulção referente a retenção
+dos impostps pagos
+011.01 - despesas diversas
+99.753,00
+18/07/2025
+99.753,00
+não
+88991
+100 - receitas
+aplicações
+25/07/2025
+25/07/2025
+18/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred
+100.08 - resgate aplicações
+1,35
+18/07/2025
+1,35
+não
+88992
+100 - receitas
+aplicações
+25/07/2025
+25/07/2025
+18/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred
+100.08 - resgate aplicações
+0,21
+18/07/2025
+0,21
+não
+88993
+100 - receitas
+aplicações
+25/07/2025
+25/07/2025
+18/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+1,38
+18/07/2025
+1,38
+não
+88458
+100 - receitas
+cadam s.a.
+30/06/2025
+30/06/2025
+18/07/2025
+pago
+entrada
+nf 3820
+iniciais: 10494.721042/2025-93 -
+pago 50% r$ 3.519,37
+100.01 - contratos
+7.038,75
+23/07/2025
+3.519,38
+não
+88259
+010 - tributos e impostos
+23/06/2025
+23/07/2025
+25/07/2025
+pago
+saida
+jun.2025
+período de apuração junho/2025
+pis/cofins
+10.220,53
+25/07/2025
+10.220,53
+não
+86560
+005 - despesas c/
+pessoal
+28/04/2025
+28/04/2025
+26/07/2025
+pago
+saida
+jul.2025
+005.04 - plano saúde
+9.051,69
+25/07/2025
+9.051,69
+não
+89027
+100 - receitas
+aplicações
+29/07/2025
+29/07/2025
+25/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred*
+100.08 - resgate aplicações
+0,67
+25/07/2025
+0,67
+não
+89113
+030 - complementos
+01/08/2025
+01/08/2025
+31/07/2025
+pago
+saida
+tranferências entre contas de
+mesma titularidade
+030.01 - transferencias entre
+contas
+240.336,24
+31/07/2025
+240.336,24
+não
+89114
+100 - receitas
+aplicações
+01/08/2025
+01/08/2025
+31/07/2025
+pago
+entrada
+rentab.inv
+est
+rentab.invest facilcred
+100.08 - resgate aplicações
+25,61
+31/07/2025
+25,61
+não
+86723
+009 - socios
+29/04/2025
+29/07/2025
+31/07/2025
+pago
+saida
+jul.2025
+pró-labore-  abril/2025
+009.40 - marcelo peregrino
+1.351,02
+31/07/2025
+1.351,02
+não
+86672
+009 - socios
+29/04/2025
+29/04/2025
+31/07/2025
+pago
+saida
+jul.2025
+pró-labore-  julho/2025
+009.02 - rafael bornhausen
+1.351,02
+31/07/2025
+1.351,02
+não
+86697
+009 - socios
+29/04/2025
+29/07/2025
+31/07/2025
+pago
+saida
+jul.2025
+pró-labore-  julho/2025
+009.01 - lauro zimmer
+1.351,02
+31/07/2025
+1.351,02
+não
+85327
+005 - despesas c/
+pessoal
+27/03/2025
+27/07/2025
+31/07/2025
+pago
+saida
+jul.2025
+salário  - julho/2025.
+005.03 - saldo de salário
+8.648,41
+31/07/2025
+8.648,41
+não
+página
+de
+2
+2
+relatório emitido em:
+04/08/2025 10:29
+ autojur ez
+
+ autojur [e
+
+cód
+tipo financeiro
+plano de contas
+cliente
+dt. lanç.
+dt. comp.
+dt. vcto
+situação
+operação
+doc.
+descrição
+vlr líquido
+dt pagto
+vlr pago
+conta :  sp - bradesco ag 1322 cc 0054997-5
+reembolsável
+86483
+005 - despesas c/
+pessoal
+24/04/2025
+24/04/2025
+31/07/2025
+pago
+saida
+jul.2025
+bolsa-estágio julho/2025 - r$
+1.800,00
+005.13 - estagiários
+2.000,00
+31/07/2025
+2.000,00
+não
+89112
+007 - bancos
+01/08/2025
+01/08/2025
+31/07/2025
+pago
+saida
+tarifa ted
+tarifa doc/ted internet
+007.01 - despesas bancarias
+13,35
+31/07/2025
+13,35
+não
+r$ 2.112.248,03
+r$ 1.364.592,33
+entradas:
+saídas:
+saldo filtrado:
+r$ 747.655,70
+r$ 1.552.108,41
+saldo da conta sp - bradesco ag
+r$ 1.553.039,56
+saldo referencia data
+31/07/2025
+:
+página
+de
+3
+3
+relatório emitido em:
+04/08/2025 10:29
+ autojur ez
+
+ autojur [e
+

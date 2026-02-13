@@ -1,0 +1,360 @@
+relatório de contas recebidas
+modelo:
+data/hora:
+usuário:
+página:
+1
+22/06/2022 às 11:20:16
+alexandro
+1  de 1
+cód: 0095
+docum.
+filial
+emissão
+cliente
+vencimento
+valor
+n. fatura
+vl pago
+acréscimo desconto
+pago em
+conta
+003295/1
+agranel
+19/04/2022
+companhia de alimentos uniaves
+29/04/2022
+11.034,14
+0,00
+003295-g/2022
+0,00
+11.034,14
+03/05/2022
+107413-0
+003296/1
+agranel
+20/04/2022
+companhia de alimentos uniaves
+02/05/2022
+11.625,93
+0,00
+003296-g/2022
+0,00
+11.625,93
+03/05/2022
+107413-0
+003299/1
+agranel
+22/04/2022
+companhia de alimentos uniaves
+02/05/2022
+9.579,62
+0,00
+003299-g/2022
+0,00
+9.579,62
+03/05/2022
+107413-0
+003297/1
+agranel
+22/04/2022
+companhia de alimentos uniaves
+02/05/2022
+9.523,20
+0,00
+003297-g/2022
+0,00
+9.523,20
+03/05/2022
+107413-0
+003303/1
+agranel
+23/04/2022
+companhia de alimentos uniaves
+03/05/2022
+9.280,47
+0,00
+003303-g/2022
+0,00
+9.280,47
+03/05/2022
+107413-0
+003301/1
+agranel
+23/04/2022
+companhia de alimentos uniaves
+03/05/2022
+10.818,69
+0,00
+003301-g/2022
+0,00
+10.818,69
+03/05/2022
+107413-0
+003300/1
+agranel
+23/04/2022
+companhia de alimentos uniaves
+03/05/2022
+10.529,46
+0,00
+003300-g/2022
+0,00
+10.529,46
+03/05/2022
+107413-0
+total da data de pagamento 03/05/2022 :
+72.391,51
+72.391,51
+0,00
+0,00
+003304/1
+agranel
+26/04/2022
+companhia de alimentos uniaves
+06/05/2022
+16.428,40
+0,00
+003304-g/2022
+0,00
+16.428,40
+06/05/2022
+107413-0
+003306/1
+agranel
+26/04/2022
+companhia de alimentos uniaves
+06/05/2022
+10.582,47
+0,00
+003306-g/2022
+0,00
+10.582,47
+06/05/2022
+107413-0
+003305/1
+agranel
+26/04/2022
+companhia de alimentos uniaves
+06/05/2022
+15.316,48
+0,00
+003305-g/2022
+0,00
+15.316,48
+06/05/2022
+107413-0
+total da data de pagamento 06/05/2022 :
+42.327,35
+42.327,35
+0,00
+0,00
+003307/1
+agranel
+27/04/2022
+companhia de alimentos uniaves
+09/05/2022
+11.026,08
+0,00
+003307-g/2022
+0,00
+11.026,08
+17/05/2022
+107413-0
+total da data de pagamento 17/05/2022 :
+11.026,08
+11.026,08
+0,00
+0,00
+003308/1
+agranel
+27/04/2022
+companhia de alimentos uniaves
+09/05/2022
+11.219,83
+0,00
+003308-g/2022
+0,00
+11.219,83
+06/05/2022
+107413-0
+total da data de pagamento 06/05/2022 :
+11.219,83
+11.219,83
+0,00
+0,00
+003309/1
+agranel
+28/04/2022
+companhia de alimentos uniaves
+09/05/2022
+9.624,26
+0,00
+003309-g/2022
+0,00
+9.624,26
+17/05/2022
+107413-0
+003310/1
+agranel
+28/04/2022
+companhia de alimentos uniaves
+09/05/2022
+11.694,85
+0,00
+003310-g/2022
+0,00
+11.694,85
+17/05/2022
+107413-0
+003311/1
+agranel
+03/05/2022
+companhia de alimentos uniaves
+13/05/2022
+10.893,40
+0,00
+003311-g/2022
+0,00
+10.893,40
+17/05/2022
+107413-0
+003313/1
+agranel
+04/05/2022
+companhia de alimentos uniaves
+16/05/2022
+10.819,00
+0,00
+003313-g/2022
+0,00
+10.819,00
+17/05/2022
+107413-0
+003312/1
+agranel
+04/05/2022
+companhia de alimentos uniaves
+16/05/2022
+9.455,00
+0,00
+003312-g/2022
+0,00
+9.455,00
+17/05/2022
+107413-0
+003314/1
+agranel
+05/05/2022
+companhia de alimentos uniaves
+16/05/2022
+9.628,60
+0,00
+003314-g/2022
+0,00
+9.628,60
+17/05/2022
+107413-0
+003316/1
+agranel
+07/05/2022
+companhia de alimentos uniaves
+17/05/2022
+10.670,20
+0,00
+003316-g/2022
+0,00
+10.670,20
+17/05/2022
+107413-0
+003315/1
+agranel
+07/05/2022
+companhia de alimentos uniaves
+17/05/2022
+11.383,20
+0,00
+003315-g/2022
+0,00
+11.383,20
+17/05/2022
+107413-0
+total da data de pagamento 17/05/2022 :
+84.168,51
+84.168,51
+0,00
+0,00
+003317/1
+agranel
+10/05/2022
+companhia de alimentos uniaves
+20/05/2022
+10.974,00
+0,00
+003317-g/2022
+0,00
+10.974,00
+31/05/2022
+107413-0
+003321/1
+agranel
+10/05/2022
+companhia de alimentos uniaves
+20/05/2022
+15.388,40
+0,00
+003321-g/2022
+0,00
+15.388,40
+31/05/2022
+107413-0
+003320/1
+agranel
+10/05/2022
+companhia de alimentos uniaves
+20/05/2022
+9.622,40
+0,00
+003320-g/2022
+0,00
+9.622,40
+31/05/2022
+107413-0
+003319/1
+agranel
+10/05/2022
+companhia de alimentos uniaves
+20/05/2022
+9.566,60
+0,00
+003319-g/2022
+0,00
+9.566,60
+31/05/2022
+107413-0
+003318/1
+agranel
+10/05/2022
+companhia de alimentos uniaves
+20/05/2022
+10.843,80
+0,00
+003318-g/2022
+0,00
+10.843,80
+31/05/2022
+107413-0
+total da data de pagamento 31/05/2022 :
+56.395,20
+56.395,20
+0,00
+0,00
+totais gerais :
+277.528,48
+0,00
+0,00
+277.528,48
+período selecionado: 01/05/2022 até 31/05/2022
+filtros utilizados:
+gw sistemas (www.gwsistemas.com.br)
+ licença liberada para evandro careta

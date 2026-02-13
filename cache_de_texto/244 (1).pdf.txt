@@ -1,0 +1,287 @@
+dados da conta de origem
+nome do titular
+assoc idosos taguatinga df
+conta de origem
+024.046.192-4 - conta corrente
+tipo de conta *
+conta corrente
+poupança integrada
+poupança salário
+tipos de extrato *
+mês *
+detalhamento
+data: 03/06/2025
+hora:  10:01:07
+lançamentos    
+data
+descrição
+doc
+valor
+saldo
+ 
+saldo anterior
+ 
+0,00
+02/05/2025
+credito de ted pag c.corrente
+004802
+46.877,00 +
+46.877,00 +
+05/05/2025
+aplicacao cdb/rdb
+000000
+46.877,00 -
+0,00
+06/05/2025
+debito pagamento ferias
+235644
+1.077,16 -
+1.077,16 -
+06/05/2025
+resgate cdb/rdb
+000000
+1.077,17 +
+0,01 +
+08/05/2025
+debito cobranca outro banco
+476407
+194,00 -
+193,99 -
+08/05/2025
+debito cobranca outro banco
+476584
+101,20 -
+295,19 -
+08/05/2025
+debito cobranca outro banco
+478417
+249,50 -
+544,69 -
+08/05/2025
+debito cobranca outro banco
+479680
+765,00 -
+1.309,69 -
+08/05/2025
+resgate cdb/rdb
+000000
+1.309,69 +
+0,00
+12/05/2025
+debito pagamento ferias
+719513
+3.049,26 -
+3.049,26 -
+12/05/2025
+resgate cdb/rdb
+000000
+3.049,26 +
+0,00
+15/05/2025
+debito pix
+000000
+1.336,18 -
+1.336,18 -
+15/05/2025
+resgate cdb/rdb
+000000
+1.336,18 +
+0,00
+20/05/2025
+debito cobranca outro banco
+118238
+2.000,00 -
+2.000,00 -
+20/05/2025
+resgate cdb/rdb
+000000
+2.000,00 +
+0,00
+27/05/2025
+debito pix
+000000
+2.448,04 -
+2.448,04 -
+27/05/2025
+pagamento tributo federal
+185714
+3.321,80 -
+5.769,84 -
+27/05/2025
+deb ted pag dif titularidade c
+000000
+450,00 -
+6.219,84 -
+27/05/2025
+deb ted pag dif titularidade c
+000000
+1.200,00 -
+7.419,84 -
+27/05/2025
+deb ted str lote dif titul. cc
+000000
+1.200,00 -
+8.619,84 -
+27/05/2025
+deb ted pag dif titularidade c
+000000
+1.100,00 -
+9.719,84 -
+27/05/2025
+deb ted pag dif titularidade c
+000000
+500,00 -
+10.219,84 -
+27/05/2025
+resgate cdb/rdb
+000000
+17.513,34 +
+7.293,50 +
+28/05/2025
+debito pagamento de salario
+479413
+1.994,52 -
+5.298,98 +
+28/05/2025
+debito pagamento de salario
+479689
+865,07 -
+4.433,91 +
+28/05/2025
+debito pagamento de salario
+479926
+3.963,48 -
+470,43 +
+28/05/2025
+debito pagamento de salario
+480094
+2.191,72 -
+1.721,29 -
+28/05/2025
+debito pagamento de salario
+480213
+2.228,00 -
+3.949,29 -
+28/05/2025
+debito pagamento de salario
+480334
+1.994,52 -
+5.943,81 -
+28/05/2025
+debito pagamento de salario
+480444
+1.994,52 -
+7.938,33 -
+mensal
+maio/2025
+brb banknet | banco de brasília
+https://brbbanknet.brb.com.br/netbanking/principal.xhtml#netbanking
+1 of 2
+03/06/2025, 10:01
+data
+descrição
+doc
+valor
+saldo
+28/05/2025
+debito pagamento de salario
+480532
+2.607,49 -
+10.545,82 -
+28/05/2025
+debito pagamento de salario
+480607
+3.296,29 -
+13.842,11 -
+28/05/2025
+debito pix
+000000
+986,97 -
+14.829,08 -
+28/05/2025
+resgate cdb/rdb
+000000
+14.829,08 +
+0,00
+29/05/2025
+debito pix
+000000
+1.500,00 -
+1.500,00 -
+29/05/2025
+debito pix
+000000
+3.323,00 -
+4.823,00 -
+29/05/2025
+debito pix
+000000
+812,00 -
+5.635,00 -
+29/05/2025
+debito pix
+000000
+1.500,00 -
+7.135,00 -
+29/05/2025
+debito pix
+000000
+5.000,00 -
+12.135,00 -
+29/05/2025
+debito pix
+000000
+2.500,00 -
+14.635,00 -
+29/05/2025
+debito pix
+000000
+2.500,00 -
+17.135,00 -
+29/05/2025
+pagamento tributo federal
+135173
+1.203,71 -
+18.338,71 -
+29/05/2025
+debito pagamento de salario
+138367
+3.292,84 -
+21.631,55 -
+29/05/2025
+debito pagamento de salario
+138436
+1.933,77 -
+23.565,32 -
+29/05/2025
+debito pagamento de salario
+138525
+3.821,18 -
+27.386,50 -
+29/05/2025
+resgate cdb/rdb
+000000
+27.386,50 +
+0,00
+30/05/2025
+deb ted pag dif titularidade c
+000000
+7.293,50 -
+7.293,50 -
+30/05/2025
+resgate cdb/rdb
+000000
+7.293,50 +
+0,00
+mensagem institucional
+conheca nossos canais digitais
+acesse: novo.brb.com.br
+telefones
+brb telebanco 3322-1515
+sac brb 0800-648-6161
+ouvidoria 0800-642-1105
+pessoas com deficiencia 0800-648-6162
+brb banknet | banco de brasília
+https://brbbanknet.brb.com.br/netbanking/principal.xhtml#netbanking
+2 of 2
+03/06/2025, 10:01

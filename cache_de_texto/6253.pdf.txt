@@ -1,0 +1,786 @@
+data:
+hora:
+03/06/2025
+08:33:01
+página: 1 / 3
+listagem cronológica de títulos a pagar
+1-souto e silva
+ordem: data e número do titulo     periodo: 01/05/2025 a 31/05/2025     tipo data: data de vencimento     situacao de titulos: liquidados     layout: b
+filtros:
+unidade(s) de negócio: 1
+(#) indica previsão      (+) indica despesa
+un vencim.
+código fornecedor
+título
+emissão
+ats
+valor
+juros
+descto
+saldo
+observação
+tp tit
+1 01/05/25
+386 palma flex industria de
+1
+12840-1 01/04/25
+-33
+5.410,93
+0,00
+0,00
+0,00
++
+total do dia......
+1
+quantidade de títulos:
+01/05/25
+5.410,93
+0,00
+0,00
+0,00
+1 02/05/25
+271 p.p. transportes de car
+1
+5266-1 23/04/25
+-32
+756,65
+0,00
+0,00
+0,00 frete
++
+total do dia......
+1
+quantidade de títulos:
+02/05/25
+756,65
+0,00
+0,00
+0,00
+1 05/05/25
+132 carla da silva souto ar
+1
+202504-1 28/04/25
+-29
+5.573,31
+0,00
+0,00
+0,00 pro labore carla
++
+1 05/05/25
+35 bradesco auto companhia
+1
+869336143-3 19/02/25
+-29
+1.720,79
+0,00
+0,00
+0,00 seguro carro rdb4109 +
+total do dia......
+2
+quantidade de títulos:
+05/05/25
+7.294,10
+0,00
+0,00
+0,00
+1 06/05/25
+42 tricont assessoria cont
+1
+202503-5 16/12/24
+-28
+587,63
+0,00
+0,00
+0,00 contabilidade
++
+total do dia......
+1
+quantidade de títulos:
+06/05/25
+587,63
+0,00
+0,00
+0,00
+1 07/05/25
+14 baplast industria e com
+1
+12581-3 26/03/25
+-27
+4.634,06
+0,00
+0,00
+0,00
++
+1 07/05/25
+89 clicheria alpha valinho
+1
+91518-1 07/05/25
+-27
+781,10
+0,00
+0,00
+0,00 clicheria
++
+1 07/05/25
+440 darnel embalagens ltda
+1
+1683294-1 07/04/25
+-27
+6.357,94
+0,00
+0,00
+0,00
++
+total do dia......
+3
+quantidade de títulos:
+07/05/25
+11.773,10
+0,00
+0,00
+0,00
+1 08/05/25
+416 soluti certificadora di
+1
+2025-3 26/02/25
+-26
+258,35
+0,00
+0,00
+0,00 aluguel impressora
++
+1 08/05/25
+271 p.p. transportes de car
+1
+5275-1 30/04/25
+-26
+200,00
+0,00
+0,00
+0,00 frete
++
+total do dia......
+2
+quantidade de títulos:
+08/05/25
+458,35
+0,00
+0,00
+0,00
+1 09/05/25
+14 baplast industria e com
+1
+12656-1 11/04/25
+-25
+1.842,08
+0,00
+0,00
+0,00
++
+1 09/05/25
+21 secretaria da fazenda e
+1
+20255-1 06/05/25
+-25
+11.548,62
+0,00
+0,00
+0,00 icms regime normal
++
+total do dia......
+2
+quantidade de títulos:
+09/05/25
+13.390,70
+0,00
+0,00
+0,00
+1 10/05/25
+151 banco do brasil sa
+1
+12023-19 01/11/23
+-24
+302,87
+60,86
+0,00
+0,00
++
+1 10/05/25
+386 palma flex industria de
+1
+12614-3 11/03/25
+-24
+4.806,75
+0,00
+0,00
+0,00
++
+1 10/05/25
+524 gols star
+1
+20246-5 16/12/24
+-24
+970,72
+0,00
+0,00
+0,00 segurança
++
+1 10/05/25
+432 banco bradesco s.a.
+1 100320211-28 10/03/21
+-24
+2.194,54
+0,00
+0,00
+0,00 3 consorcios
++
+total do dia......
+4
+quantidade de títulos:
+10/05/25
+8.274,88
+60,86
+0,00
+0,00
+1 13/05/25
+39 andarai pneus 
+1
+22201-1 07/05/25
+-21
+370,00
+0,00
+0,00
+0,00 placa nyj1574
++
+1 13/05/25
+89 clicheria alpha valinho
+1
+91518-2 07/05/25
+-21
+781,10
+0,00
+0,00
+0,00 clicheria
++
+total do dia......
+2
+quantidade de títulos:
+13/05/25
+1.151,10
+0,00
+0,00
+0,00
+1 14/05/25
+14 baplast industria e com
+1
+12581-4 26/03/25
+-20
+4.634,08
+0,00
+0,00
+0,00
++
+total do dia......
+1
+quantidade de títulos:
+14/05/25
+4.634,08
+0,00
+0,00
+0,00
+1 15/05/25
+591 reobote comercio e serv
+1
+9450-1 15/05/25
+-19
+225,00
+0,00
+0,00
+0,00 gas empilhadeira
++
+1 15/05/25
+70 liberty seguros s.a
+1
+20255-4 14/01/25
+-19
+1.717,66
+0,00
+0,00
+0,00 frontier placa sjn6a84 +
+1 15/05/25
+234 olho de aguia vigilanci
+1
+20256-5 17/12/24
+-19
+269,00
+0,00
+0,00
+0,00 monitoramento
++
+1 15/05/25
+234 olho de aguia vigilanci
+1
+20257-5 17/12/24
+-19
+234,00
+0,00
+0,00
+0,00 rastreamento veiculo +
+1 15/05/25
+349 gd serviços internet lt
+1
+20257-5 17/12/24
+-19
+350,00
+0,00
+0,00
+0,00 serv internet
++
+total do dia......
+5
+quantidade de títulos:
+15/05/25
+2.795,66
+0,00
+0,00
+0,00
+data:
+hora:
+03/06/2025
+08:33:01
+página: 2 / 3
+listagem cronológica de títulos a pagar
+1-souto e silva
+ordem: data e número do titulo     periodo: 01/05/2025 a 31/05/2025     tipo data: data de vencimento     situacao de titulos: liquidados     layout: b
+un vencim.
+código fornecedor
+título
+emissão
+ats
+valor
+juros
+descto
+saldo
+observação
+tp tit
+1 16/05/25
+14 baplast industria e com
+1
+12656-2 11/04/25
+-18
+1.842,08
+0,00
+0,00
+0,00
++
+1 16/05/25
+386 palma flex industria de
+1
+12840-2 01/04/25
+-18
+5.410,93
+0,00
+0,00
+0,00
++
+1 16/05/25
+572 plano networtks serviço
+1
+20258-5 17/12/24
+-18
+300,00
+0,00
+0,00
+0,00 linknet
++
+1 16/05/25
+500 banco do nordeste do br
+1
+15224535-27 17/08/22
+-18
+6.935,92
+0,00
+0,00
+0,00 emprestimo bnb
++
+total do dia......
+4
+quantidade de títulos:
+16/05/25
+14.488,93
+0,00
+0,00
+0,00
+1 17/05/25
+48 empresa baiana de aguas
+1
+20259-5 26/12/24
+-17
+215,11
+0,00
+0,00
+0,00 embasa
++
+1 17/05/25
+440 darnel embalagens ltda
+1
+1683294-2 07/04/25
+-17
+6.357,75
+0,00
+0,00
+0,00
++
+total do dia......
+2
+quantidade de títulos:
+17/05/25
+6.572,86
+0,00
+0,00
+0,00
+1 20/05/25
+89 clicheria alpha valinho
+1
+91518-3 07/05/25
+-14
+781,10
+0,00
+0,00
+0,00 clicheria
++
+total do dia......
+1
+quantidade de títulos:
+20/05/25
+781,10
+0,00
+0,00
+0,00
+1 21/05/25
+21 secretaria da fazenda e
+1
+12411-1 21/05/25
+-13
+3.041,35
+0,00
+0,00
+0,00 inss
++
+1 21/05/25
+55 porto seguro companhia 
+1
+58612986-3 19/03/25
+-13
+2.216,84
+0,00
+0,00
+0,00 seguro predio 
++
+total do dia......
+2
+quantidade de títulos:
+21/05/25
+5.258,19
+0,00
+0,00
+0,00
+1 22/05/25
+271 p.p. transportes de car
+1
+5281-1 14/05/25
+-12
+899,95
+0,00
+0,00
+0,00 frete
++
+1 22/05/25
+14 baplast industria e com
+1
+12697-1 24/04/25
+-12
+3.356,93
+0,00
+0,00
+0,00
++
+total do dia......
+2
+quantidade de títulos:
+22/05/25
+4.256,88
+0,00
+0,00
+0,00
+1 23/05/25
+620 sara moreira mascarenha
+1
+10-2 17/04/25
+-11
+500,00
+0,00
+0,00
+0,00 marketing
++
+1 23/05/25
+14 baplast industria e com
+1
+12656-3 11/04/25
+-11
+1.842,08
+0,00
+0,00
+0,00
++
+1 23/05/25
+21 secretaria da fazenda e
+1
+20256-15 19/02/25
+-11
+4.121,68
+0,00
+0,00
+0,00 pis/cofins
++
+1 23/05/25
+52 companhia de eletricida
+1
+20259-5 17/12/24
+-11
+738,71
+0,00
+0,00
+0,00 coelba
++
+total do dia......
+4
+quantidade de títulos:
+23/05/25
+7.202,47
+0,00
+0,00
+0,00
+1 24/05/25
+500 banco do nordeste do br
+1
+20256-5 15/01/25
+-10
+1.675,58
+0,00
+0,00
+0,00 energia solar
++
+total do dia......
+1
+quantidade de títulos:
+24/05/25
+1.675,58
+0,00
+0,00
+0,00
+1 26/05/25
+68 ministerio da fazenda
+1
+20259-1 20/05/25
+-8
+2.154,82
+0,00
+0,00
+0,00 icms
++
+1 26/05/25
+389 telefonia brasil
+1
+202591-5 17/12/24
+-8
+21,32
+0,00
+0,00
+0,00 monitoramento dados +
+1 26/05/25
+389 telefonia brasil
+1
+202592-5 17/12/24
+-8
+446,65
+0,00
+0,00
+0,00 vivo ip
++
+1 26/05/25
+35 bradesco auto companhia
+1
+865614554-1 21/05/25
+-8
+1.306,69
+0,00
+0,00
+0,00 seguro do nyx0a78 
++
+total do dia......
+4
+quantidade de títulos:
+26/05/25
+3.929,48
+0,00
+0,00
+0,00
+1 27/05/25
+14 baplast industria e com
+1
+12738-1 29/04/25
+-7
+639,78
+0,00
+0,00
+0,00
++
+1 27/05/25
+440 darnel embalagens ltda
+1
+1683294-3 07/04/25
+-7
+6.357,76
+0,00
+0,00
+0,00
++
+total do dia......
+2
+quantidade de títulos:
+27/05/25
+6.997,54
+0,00
+0,00
+0,00
+1 28/05/25
+591 reobote comercio e serv
+1
+9534-1 21/05/25
+-6
+225,00
+0,00
+0,00
+0,00 gas empilhadeira
++
+1 28/05/25
+14 baplast industria e com
+1
+12744-1 30/04/25
+-6
+2.049,05
+0,00
+0,00
+0,00
++
+total do dia......
+2
+quantidade de títulos:
+28/05/25
+2.274,05
+0,00
+0,00
+0,00
+1 29/05/25
+14 baplast industria e com
+1
+12697-2 24/04/25
+-5
+3.356,93
+0,00
+0,00
+0,00
++
+total do dia......
+1
+quantidade de títulos:
+29/05/25
+3.356,93
+0,00
+0,00
+0,00
+1 30/05/25
+14 baplast industria e com
+1
+12656-4 11/04/25
+-4
+1.842,10
+0,00
+0,00
+0,00
++
+data:
+hora:
+03/06/2025
+08:33:01
+página: 3 / 3
+listagem cronológica de títulos a pagar
+1-souto e silva
+ordem: data e número do titulo     periodo: 01/05/2025 a 31/05/2025     tipo data: data de vencimento     situacao de titulos: liquidados     layout: b
+un vencim.
+código fornecedor
+título
+emissão
+ats
+valor
+juros
+descto
+saldo
+observação
+tp tit
+1 30/05/25
+108 servti servico de tecno
+1
+202593-5 17/12/24
+-4
+461,96
+0,00
+0,00
+0,00 sistema 
++
+1 30/05/25
+21 secretaria da fazenda e
+1
+202594-5 17/12/24
+-4
+2.367,81
+0,00
+0,00
+0,00 parcelamento simples +
+total do dia......
+3
+quantidade de títulos:
+30/05/25
+4.671,87
+0,00
+0,00
+0,00
+total do mes......
+52
+quantidade de títulos:
+05/2025
+117.993,06
+60,86
+0,00
+0,00
+52
+quantidade de títulos:
+117.993,06
+60,86
+0,00
+0,00
+total geral
+totais por tipo de titulo
+tipo
+titulo
+quantidade
+saldo % s/total
+1
+duplicata
+52
+0,00
+100,00
+0,00
+total
+100,00

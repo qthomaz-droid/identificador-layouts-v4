@@ -1,0 +1,544 @@
+01/03/2024, 16:04
+home banking
+about:blank
+1/1
+home banking
+id
+vencimento
+sacado
+documento
+liquidação
+idg
+sit
+valor
+valor pago
+evento
+empresa
+216118 
+15/02/2024
+good drill ltda
+13851/003
+08/02/2024
+010101 
+operado
+7.666,68
+7.666,68
+557 - baixa por deposito - sac 
+esf 
+216124 
+18/02/2024
+desmontec servicos t
+13860/003
+20/02/2024
+010101 
+operado
+9.333,34
+9.333,34
+557 - baixa por deposito - sac 
+esf 
+216127 
+15/02/2024
+arcope pecas e equip
+13852/003
+15/02/2024
+010101 
+operado
+14.700,00
+14.700,00
+557 - baixa por deposito - sac 
+esf 
+219667 
+30/01/2024
+polimix concreto ltd
+13901/001
+15/02/2024
+010110 
+recompra
+24.300,00
+25.174,80
+398 - compensação recompra dentro operacao 
+esf 
+219669 
+02/02/2024
+desmontec servicos t
+13899/002
+02/02/2024
+010101 
+operado
+11.200,00
+11.200,00
+557 - baixa por deposito - sac 
+esf 
+219672 
+02/02/2024
+minercol comercio de
+13898/002
+02/02/2024
+010101 
+operado
+20.300,00
+20.300,00
+557 - baixa por deposito - sac 
+esf 
+220158 
+04/02/2024
+good drill ltda
+13904/002
+02/02/2024
+010101 
+operado
+9.200,00
+9.200,00
+557 - baixa por deposito - sac 
+esf 
+220959 
+10/02/2024
+comercial zaffari lt
+13920/002
+14/02/2024
+010101 
+operado
+19.200,00
+19.200,00
+557 - baixa por deposito - sac 
+esf 
+221677 
+30/01/2024
+polimix concreto ltd
+13928/001
+02/02/2024
+010101 
+operado
+38.250,00
+38.250,00
+557 - baixa por deposito - sac 
+esf 
+223348 
+09/02/2024
+a.s vitoria spe ltda
+13949/001
+09/02/2024
+010130 
+solic prorrogacao
+65.995,00
+65.995,00
+557 - baixa por deposito - sac 
+esf 
+224233 
+05/02/2024
+avalon participacoes
+13953/001
+05/02/2024
+010130 
+solic prorrogacao
+151.714,00
+151.714,00
+557 - baixa por deposito - sac 
+esf 
+224986 
+06/02/2024
+supermix concreto s/
+13957/001
+06/02/2024
+010101 
+operado
+22.400,00
+22.400,00
+557 - baixa por deposito - sac 
+esf 
+224987 
+08/02/2024
+good drill ltda
+13958/001
+02/02/2024
+010101 
+operado
+9.200,00
+9.200,00
+557 - baixa por deposito - sac 
+esf 
+224990 
+08/02/2024
+arcope pecas e equip
+13959/001
+05/02/2024
+010101 
+operado
+9.800,00
+9.800,00
+557 - baixa por deposito - sac 
+esf 
+224993 
+08/02/2024
+edgar almeida de sou
+13960/001
+19/02/2024
+010110 
+recompra
+5.000,00
+5.155,00
+398 - compensação recompra dentro operacao 
+esf 
+225275 
+01/02/2024
+klabin s.a.
+13962/001
+02/02/2024
+010101 
+operado
+98.000,00
+98.000,00
+557 - baixa por deposito - sac 
+esf 
+225354 
+08/02/2024
+mantiqueira alimento
+13965/001
+08/02/2024
+010101 
+operado
+41.683,54
+41.683,54
+557 - baixa por deposito - sac 
+esf 
+225355 
+08/02/2024
+concrevit concreto v
+13966/001
+08/02/2024
+010101 
+operado
+19.800,00
+19.800,00
+557 - baixa por deposito - sac 
+esf 
+225753 
+09/02/2024
+m vituzzo construtor
+13969/001
+02/02/2024
+010101 
+operado
+46.100,00
+46.100,00
+557 - baixa por deposito - sac 
+esf 
+225754 
+09/02/2024
+m vituzzo construtor
+13968/001
+02/02/2024
+010101 
+operado
+51.900,00
+51.900,00
+557 - baixa por deposito - sac 
+esf 
+226094 
+13/02/2024
+lagoa quente hjr con
+13970/001
+14/02/2024
+010101 
+operado
+4.700,00
+4.700,00
+557 - baixa por deposito - sac 
+esf 
+226095 
+13/02/2024
+hoga construcoes ltd
+13971/001
+14/02/2024
+010101 
+operado
+880,00
+880,00
+557 - baixa por deposito - sac 
+esf 
+226096 
+15/02/2024
+capricche s.a.
+13976/001
+15/02/2024
+010101 
+operado
+140.000,00
+140.000,00
+557 - baixa por deposito - sac 
+esf 
+226488 
+17/02/2024
+polipiso do brasil l
+13977/001
+20/02/2024
+010101 
+operado
+13.475,00
+13.475,00
+557 - baixa por deposito - sac 
+esf 
+226687 
+18/02/2024
+concrefiber sf comer
+13979/001
+20/02/2024
+010101 
+operado
+57.950,00
+57.950,00
+557 - baixa por deposito - sac 
+esf 
+226689 
+18/02/2024
+komecs comercio e se
+13983/001
+20/02/2024
+010101 
+operado
+47.000,00
+47.000,00
+557 - baixa por deposito - sac 
+esf 
+227486 
+20/02/2024
+progeren construcoes
+13987/001
+20/02/2024
+010101 
+operado
+8.512,00
+8.512,00
+557 - baixa por deposito - sac 
+esf 
+227487 
+20/02/2024
+distrito de irrigaca
+13988/001
+20/02/2024
+010101 
+operado
+6.840,00
+6.840,00
+557 - baixa por deposito - sac 
+esf 
+227488 
+20/02/2024
+supermix concreto s
+13989/001
+20/02/2024
+010101 
+operado
+17.700,00
+17.700,00
+557 - baixa por deposito - sac 
+esf 
+227489 
+22/02/2024
+marka ind e com de p
+13991/001
+21/02/2024
+010101 
+operado
+2.814,00
+2.814,00
+557 - baixa por deposito - sac 
+esf 
+227490 
+22/02/2024
+marka ind e com de p
+13992/001
+21/02/2024
+010101 
+operado
+6.934,40
+6.934,40
+557 - baixa por deposito - sac 
+esf 
+227491 
+12/02/2024
+wl mineracao ltda
+13990/001
+14/02/2024
+010101 
+operado
+2.900,00
+2.900,00
+557 - baixa por deposito - sac 
+esf 
+227492 
+21/02/2024
+concrevit concreto v
+13996/001
+21/02/2024
+010101 
+operado
+16.500,00
+16.500,00
+557 - baixa por deposito - sac 
+esf 
+227493 
+23/02/2024
+arcope pecas e equip
+13997/001
+20/02/2024
+010101 
+operado
+10.200,00
+10.200,00
+557 - baixa por deposito - sac 
+esf 
+227497 
+13/02/2024
+guimar guidi marmore
+13995/001
+19/02/2024
+010110 
+recompra
+580,00
+595,08
+398 - compensação recompra dentro operacao 
+esf 
+227941 
+22/02/2024
+matricula 12.924 emp
+14000/001
+20/02/2024
+010101 
+operado
+106.400,00
+106.400,00
+557 - baixa por deposito - sac 
+esf 
+227942 
+22/02/2024
+concrecon concreto e
+13999/001
+22/02/2024
+010101 
+operado
+13.200,00
+13.200,00
+557 - baixa por deposito - sac 
+esf 
+228380 
+23/02/2024
+royal comercio e dis
+14002/001
+26/02/2024
+010101 
+operado
+10.050,00
+10.050,00
+557 - baixa por deposito - sac 
+esf 
+228381 
+26/02/2024
+bl&m engenharia ltda
+14005/001
+26/02/2024
+010101 
+operado
+68.400,00
+68.400,00
+557 - baixa por deposito - sac 
+esf 
+228382 
+28/02/2024
+norte rocha extracao
+14007/001
+28/02/2024
+010101 
+operado
+8.700,00
+8.700,00
+557 - baixa por deposito - sac 
+esf 
+228383 
+28/02/2024
+polipiso do brasil l
+14008/001
+28/02/2024
+010101 
+operado
+15.575,00
+15.575,00
+557 - baixa por deposito - sac 
+esf 
+228385 
+28/02/2024
+guimar guidi marmore
+14006\1
+28/02/2024
+010101 
+operado
+348,00
+348,00
+557 - baixa por deposito - sac 
+esf 
+228829 
+28/02/2024
+m vituzzo construtor
+14010/001
+26/02/2024
+010101 
+operado
+47.500,00
+47.500,00
+557 - baixa por deposito - sac 
+esf 
+228831 
+28/02/2024
+supermix concreto s/
+14013/001
+28/02/2024
+010101 
+operado
+22.400,00
+22.400,00
+557 - baixa por deposito - sac 
+esf 
+229088 
+16/02/2024
+spe golf 1 empreendi
+14014/001
+16/02/2024
+010101 
+operado
+9.450,00
+9.450,00
+557 - baixa por deposito - sac 
+esf 
+229089 
+15/02/2024
+546 locacao de bens
+14017/001
+15/02/2024
+010101 
+operado
+1.500,00
+1.500,00
+557 - baixa por deposito - sac 
+esf 
+229090 
+05/03/2024
+acumuladores moura s
+14016/001
+29/02/2024
+010101 
+operado
+72.200,00
+72.200,00
+557 - baixa por deposito - sac 
+esf 
+229091 
+21/02/2024
+mineracao vale do ri
+14015/001
+21/02/2024
+010101 
+operado
+560,00
+560,00
+557 - baixa por deposito - sac 
+esf 

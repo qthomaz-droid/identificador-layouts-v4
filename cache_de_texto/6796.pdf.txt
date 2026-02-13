@@ -1,0 +1,120 @@
+-----------------------------------------------
+     sisbr-sistema de informatica do sicoob
+      31/10/2025 - comprovante - 08:11:38
+       arrecadacao de darf / darf simples
+               origem da operacao
+banco: 756 - ag: 0001 - bancoob pab - agencia br
+      canal de pagamento internet banking
+operacao:......................05/01 - convenios
+natureza da operacao:....................credito
+n. da autenticacao:........................00001
+codigo de barras:        85820000041 45910385253
+                         04071625290 18766251790
+data pagamento:.......................31/10/2025
+periodo de apuracao:............................
+numero do cpf ou cnpj:..........................
+codigo receita:.................................
+numero de referencia:...........................
+data vencimento:................................
+receita bruta acumulada:........................
+percentual:.....................................
+valor principal:................................
+valor da multa:.................................
+valor dos juros e/ou encargos:..................
+valor total:............................4.145,91
+-----------------------------------------------
+autenticacao:
+bancoob0001008 311025 058 0000....4.145,91 0501
+ci:3239
+4c392c64-b524-4a42-ac28-9d50786d3263
+-----------------------------------------------
+    modelo aprovado pela srf - ade conjunto
+          corat/cotec no 001, de 2006.
+      ouvidoria banco sicoob: 08006464001
+-----------------------------------------------
+emitido em 31/10/2025 - 16:19:38
+comprovante de pagamento
+dados do pagador
+banco
+85
+agência
+101
+conta/dv
+11287667 - newmix alimentos ltda
+cpf/cnpj
+**.995.102/0001-**
+dados do beneficiário
+beneficiário
+dende do taua s a dentaua
+cpf/cnpj
+**.719.951/0001-**
+banco
+bco santander 0brasil0 s.a.
+dados do pagamento
+data/hora transação
+31/10/2025 07:55:37
+data do vencimento
+31/10/2025
+valor título
+6.694,40
+encargos
+0,00
+descontos
+0,00
+sequência de autenticação
+14073
+data do pagamento
+31/10/2025
+valor
+6.694,40
+linha digitável
+03399.61583 47100.000000 02420.101012 1 12510000669440
+protocolo
+575c.010c.011f.0a19.1c35.4f60
+sac - 0800 647 2200 |  atendimento de segunda a sexta das 07:00 às 22:00
+ouvidoria - 0800 644 1100 | atendimento todos os dias úteis das 08:00 às 17:00
+finais de semana e feriados das 08:00 às 20:00
+ g)ailos
+emitido em 31/10/2025 - 16:19:38
+comprovante de pagamento
+dados do pagador
+banco
+85
+agência
+101
+conta/dv
+11287667 - newmix alimentos ltda
+cpf/cnpj
+**.995.102/0001-**
+dados do beneficiário
+beneficiário
+italia comercio e distribuidora ltd
+cpf/cnpj
+**.144.456/0001-**
+banco
+bco abc brasil s.a.
+dados do pagamento
+data/hora transação
+31/10/2025 07:55:37
+data do vencimento
+31/10/2025
+valor título
+10.281,60
+encargos
+0,00
+descontos
+122,40
+sequência de autenticação
+14081
+data do pagamento
+31/10/2025
+valor
+10.159,20
+linha digitável
+24690.00117 21502.476605 01316.721834 7 12510001028160
+protocolo
+591e.3c50.011f.0a19.1c35.4605
+sac - 0800 647 2200 |  atendimento de segunda a sexta das 07:00 às 22:00
+ouvidoria - 0800 644 1100 | atendimento todos os dias úteis das 08:00 às 17:00
+finais de semana e feriados das 08:00 às 20:00
+ g)ailos

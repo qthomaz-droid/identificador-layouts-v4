@@ -1,0 +1,1149 @@
+10252 - contas a pagar por fornecedor vitoria
+cod. empresa:  multi-valor 3
+movimento:  entre 01/08/2025 e 31/08/2025
+versão 1
+financeiro/contas a pagar
+05/12/2025 13:06:30
+cód.
+cliente
+descrição cliente
+n° nota
+movimento
+título
+digito
+título
+descr pgto
+valor título
+saldo
+título
+vencimento
+descrição cliente
+3 j comercio e serviços de maquinas ltda-me
+1009250
+3 j comercio e serviços de
+226
+29/08/2025
+226
+01
+remessa pagamento itau
+lj03
+1.037,41
+0,00
+19/09/2025
+1009250
+3 j comercio e serviços de
+534
+29/08/2025
+534
+01
+remessa pagamento itau
+lj03
+300,00
+0,00
+19/09/2025
+1.337,41
+0,00
+descrição cliente
+44.092.987 elias martins de albuquerque
+1017598
+44.092.987 elias martins de
+1476533
+07/08/2025
+1476533
+01
+remessa pagamento itau
+lj03
+300,00
+0,00
+14/08/2025
+300,00
+0,00
+descrição cliente
+54.254.269 jaciane brasil
+1015996
+54.254.269 jaciane brasil
+376
+25/08/2025
+376
+01
+remessa pagamento itau
+lj03
+980,00
+0,00
+23/09/2025
+980,00
+0,00
+descrição cliente
+a c distribuidora de cereais ltda
+1102
+a c distribuidora de cereais ltda
+188729
+05/08/2025
+188729
+01
+remessa pagamento itau
+lj03
+8.397,66
+0,00
+05/09/2025
+1102
+a c distribuidora de cereais ltda
+188729
+05/08/2025
+188729
+02
+remessa pagamento itau
+lj03
+8.397,67
+0,00
+12/09/2025
+1102
+a c distribuidora de cereais ltda
+188729
+05/08/2025
+188729
+03
+remessa pagamento itau
+lj03
+8.397,67
+0,00
+22/09/2025
+1102
+a c distribuidora de cereais ltda
+189351
+16/08/2025
+189351
+01
+remessa pagamento itau
+lj03
+1.127,00
+0,00
+15/09/2025
+1102
+a c distribuidora de cereais ltda
+189351
+16/08/2025
+189351
+02
+remessa pagamento itau
+lj03
+1.127,00
+0,00
+22/09/2025
+1102
+a c distribuidora de cereais ltda
+189351
+16/08/2025
+189351
+03
+remessa pagamento itau
+lj03
+1.127,00
+0,00
+02/10/2025
+1102
+a c distribuidora de cereais ltda
+189431
+16/08/2025
+189431
+01
+remessa pagamento itau
+lj03
+10.197,16
+0,00
+15/09/2025
+1102
+a c distribuidora de cereais ltda
+189431
+16/08/2025
+189431
+02
+remessa pagamento itau
+lj03
+10.197,17
+0,00
+22/09/2025
+1102
+a c distribuidora de cereais ltda
+189431
+16/08/2025
+189431
+03
+remessa pagamento itau
+lj03
+10.197,17
+0,00
+02/10/2025
+1102
+a c distribuidora de cereais ltda
+189814
+27/08/2025
+189814
+01
+remessa pagamento itau
+lj03
+8.397,66
+0,00
+28/09/2025
+1102
+a c distribuidora de cereais ltda
+189814
+27/08/2025
+189814
+02
+remessa pagamento itau
+lj03
+8.397,67
+0,00
+05/10/2025
+1102
+a c distribuidora de cereais ltda
+189814
+27/08/2025
+189814
+03
+remessa pagamento itau
+lj03
+8.397,67
+0,00
+15/10/2025
+1102
+a c distribuidora de cereais ltda
+189947
+29/08/2025
+189947
+01
+remessa pagamento itau
+lj03
+8.397,66
+0,00
+29/09/2025
+1102
+a c distribuidora de cereais ltda
+189947
+29/08/2025
+189947
+02
+remessa pagamento itau
+lj03
+8.397,67
+0,00
+06/10/2025
+1102
+a c distribuidora de cereais ltda
+189947
+29/08/2025
+189947
+03
+remessa pagamento itau
+lj03
+8.397,67
+0,00
+16/10/2025
+109.551,50
+0,00
+descrição cliente
+a carvalho da silva cia ltda
+1020228
+a carvalho da silva cia ltda
+133807
+12/08/2025
+133807
+01
+pag deposito 21 dias
+2.679,00
+0,00
+03/09/2025
+1020228
+a carvalho da silva cia ltda
+135730
+06/08/2025
+135730
+01
+remessa pagamento itau
+lj03
+10.161,60
+0,00
+26/09/2025
+1020228
+a carvalho da silva cia ltda
+137152
+07/08/2025
+137152
+01
+remessa pagamento itau
+lj03
+1.309,00
+0,00
+04/10/2025
+14.149,60
+0,00
+descrição cliente
+a paes e filhos ltda
+1018380
+a paes e filhos ltda
+568
+07/08/2025
+568
+01
+remessa pagamento itau
+lj03
+1.025,00
+0,00
+16/09/2025
+1.025,00
+0,00
+descrição cliente
+abatedouro coroaves ltda
+1015801
+abatedouro coroaves ltda
+2179535
+21/08/2025
+2179535
+01
+remessa pagamento itau
+lj03
+210.750,00
+0,00
+22/08/2025
+210.750,00
+0,00
+descrição cliente
+adelson g ferreira ltda
+1016332
+adelson g ferreira ltda
+249
+01/08/2025
+249
+01
+remessa pagamento itau
+lj03
+5.670,00
+0,00
+16/08/2025
+1016332
+adelson g ferreira ltda
+261
+07/08/2025
+261
+01
+remessa pagamento itau
+lj03
+4.410,00
+0,00
+22/08/2025
+1016332
+adelson g ferreira ltda
+266
+08/08/2025
+266
+01
+remessa pagamento itau
+lj03
+5.670,00
+0,00
+23/08/2025
+1016332
+adelson g ferreira ltda
+275
+14/08/2025
+275
+01
+remessa pagamento itau
+lj03
+3.150,00
+0,00
+29/08/2025
+1016332
+adelson g ferreira ltda
+279
+15/08/2025
+279
+01
+remessa pagamento itau
+lj03
+5.040,00
+0,00
+30/08/2025
+1016332
+adelson g ferreira ltda
+329
+22/08/2025
+329
+01
+remessa pagamento itau
+lj03
+3.150,00
+0,00
+06/09/2025
+vitoria supermercados - coroado
+informação confidencial
+página 1 de 46
+cód.
+cliente
+descrição cliente
+n° nota
+movimento
+título
+digito
+título
+descr pgto
+valor título
+saldo
+título
+vencimento
+1016332
+adelson g ferreira ltda
+358
+28/08/2025
+358
+01
+remessa pagamento itau
+lj03
+2.475,00
+0,00
+12/09/2025
+1016332
+adelson g ferreira ltda
+369
+29/08/2025
+369
+01
+remessa pagamento itau
+lj03
+7.425,00
+0,00
+13/09/2025
+36.990,00
+0,00
+descrição cliente
+adf f distribuidora de bebidas ltda
+1013132
+adf f distribuidora de bebidas
+ltda
+348636
+11/08/2025
+348636
+01
+remessa pagamento itau
+lj03
+15.423,00
+0,00
+08/09/2025
+15.423,00
+0,00
+descrição cliente
+adilino machado de lima
+1020936
+adilino machado de lima
+08/08/2025
+8082025
+01
+pagamento pix
+70,00
+0,00
+08/08/2025
+70,00
+0,00
+descrição cliente
+adora comercio de sorvetes ltda
+1014918
+adora comercio de sorvetes ltda
+2553
+13/08/2025
+2553
+01
+remessa pagamento itau
+lj03
+920,83
+0,00
+10/09/2025
+920,83
+0,00
+descrição cliente
+agm com e dist de mat de perf e lim ltda
+3432
+agm com e dist de mat de perf e
+lim
+147000
+11/08/2025
+147000
+01
+remessa pagamento itau
+lj03
+7.163,14
+0,00
+10/10/2025
+7.163,14
+0,00
+descrição cliente
+agm industria comercio e rep ltda
+1433
+agm industria comercio e rep
+ltda
+42611
+11/08/2025
+42611
+01
+remessa pagamento itau
+lj03
+1.153,68
+0,00
+10/10/2025
+1.153,68
+0,00
+descrição cliente
+agro comercio e beneficiamento bueno brandense ltda - filial
+1006407
+agro comercio e beneficiamento
+37800
+01/08/2025
+37800
+01
+remessa pagamento itau
+lj03
+1.611,00
+0,00
+15/09/2025
+1006407
+agro comercio e beneficiamento
+38413
+15/08/2025
+38413
+01
+remessa pagamento itau
+lj03
+3.379,50
+0,00
+28/09/2025
+1006407
+agro comercio e beneficiamento
+38632
+22/08/2025
+38632
+01
+remessa pagamento itau
+lj03
+9.764,46
+0,00
+03/10/2025
+14.754,96
+0,00
+descrição cliente
+agroindustria e com de der do leite ltd
+944
+agroindustria e com de der do
+56726
+01/08/2025
+56726
+01
+remessa pagamento itau
+lj03
+6.966,35
+0,00
+14/09/2025
+944
+agroindustria e com de der do
+56817
+07/08/2025
+56817
+01
+remessa pagamento itau
+lj03
+7.519,25
+0,00
+20/09/2025
+944
+agroindustria e com de der do
+56983
+15/08/2025
+56983
+01
+remessa pagamento itau
+lj03
+9.580,75
+0,00
+28/09/2025
+944
+agroindustria e com de der do
+57098
+22/08/2025
+57098
+01
+remessa pagamento itau
+lj03
+8.630,75
+0,00
+05/10/2025
+944
+agroindustria e com de der do
+57174
+28/08/2025
+57174
+01
+remessa pagamento itau
+lj03
+5.484,35
+0,00
+11/10/2025
+38.181,45
+0,00
+descrição cliente
+agua branca ltda
+1019265
+agua branca ltda
+964
+01/08/2025
+964
+01
+remessa pagamento itau
+lj03
+6.579,72
+0,00
+30/08/2025
+1019265
+agua branca ltda
+981
+01/08/2025
+981
+01
+remessa pagamento itau
+lj03
+8.529,30
+0,00
+30/08/2025
+1019265
+agua branca ltda
+1009
+04/08/2025
+1009
+01
+remessa pagamento itau
+lj03
+1.188,00
+0,00
+03/09/2025
+1019265
+agua branca ltda
+1018
+05/08/2025
+1018
+01
+remessa pagamento itau
+lj03
+5.760,00
+0,00
+03/09/2025
+1019265
+agua branca ltda
+1029
+06/08/2025
+1029
+01
+remessa pagamento itau
+lj03
+7.010,64
+0,00
+04/09/2025
+1019265
+agua branca ltda
+1058
+08/08/2025
+1058
+01
+remessa pagamento itau
+lj03
+8.482,50
+0,00
+07/09/2025
+1019265
+agua branca ltda
+1075
+11/08/2025
+1075
+01
+remessa pagamento itau
+lj03
+5.059,80
+0,00
+10/09/2025
+1019265
+agua branca ltda
+1081
+11/08/2025
+1081
+01
+remessa pagamento itau
+lj03
+3.510,00
+0,00
+10/09/2025
+1019265
+agua branca ltda
+1082
+13/08/2025
+1082
+01
+remessa pagamento itau
+lj03
+4.050,00
+0,00
+11/09/2025
+1019265
+agua branca ltda
+1107
+16/08/2025
+1107
+01
+remessa pagamento itau
+lj03
+405,00
+0,00
+13/09/2025
+1019265
+agua branca ltda
+1133
+20/08/2025
+1133
+01
+remessa pagamento itau
+lj03
+1.303,20
+0,00
+18/09/2025
+1019265
+agua branca ltda
+1151
+21/08/2025
+1151
+01
+remessa pagamento itau
+lj03
+2.133,00
+0,00
+20/09/2025
+1019265
+agua branca ltda
+1168
+22/08/2025
+1168
+01
+remessa pagamento itau
+lj03
+6.056,10
+0,00
+21/09/2025
+1019265
+agua branca ltda
+1194
+26/08/2025
+1194
+01
+remessa pagamento itau
+lj03
+2.910,60
+0,00
+24/09/2025
+1019265
+agua branca ltda
+1210
+26/08/2025
+1210
+01
+remessa pagamento itau
+lj03
+2.034,00
+0,00
+24/09/2025
+1019265
+agua branca ltda
+1217
+28/08/2025
+1217
+01
+remessa pagamento itau
+lj03
+3.150,90
+0,00
+26/09/2025
+1019265
+agua branca ltda
+1238
+30/08/2025
+1238
+01
+remessa pagamento itau
+lj03
+18.573,30
+0,00
+27/09/2025
+86.736,06
+0,00
+descrição cliente
+aguas de manaus s/a
+vitoria supermercados - coroado
+informação confidencial
+página 2 de 46
+cód.
+cliente
+descrição cliente
+n° nota
+movimento
+título
+digito
+título
+descr pgto
+valor título
+saldo
+título
+vencimento
+1004099
+aguas de manaus s/a
+05/08/2025
+1630800
+00
+01
+remessa pagamento itau
+lj03
+119,71
+0,00
+21/08/2025
+119,71
+0,00
+descrição cliente
+aguiar comercio de produtos alimenticios eireli
+1011461
+aguiar comercio de produtos
+10386
+20/08/2025
+10386
+01
+remessa pagamento itau
+lj03
+35.699,40
+0,00
+19/10/2025
+1011461
+aguiar comercio de produtos
+10435
+27/08/2025
+10435
+01
+remessa pagamento itau
+lj03
+24.750,00
+0,00
+25/10/2025
+60.449,40
+0,00
+descrição cliente
+aguiar soares comercio de carnes e frios ltda
+1572
+aguiar soares comercio de
+carnes
+9472
+11/08/2025
+9472
+01
+remessa pagamento itau
+lj03
+3.800,00
+0,00
+10/10/2025
+1572
+aguiar soares comercio de
+carnes
+9574
+26/08/2025
+9574
+01
+remessa pagamento itau
+lj03
+20.751,00
+0,00
+25/10/2025
+24.551,00
+0,00
+descrição cliente
+alana arielle santana mesquita 03994179238
+1008220
+alana arielle santana mesquita
+1481621
+15/08/2025
+1481621
+01
+remessa pagamento itau
+lj03
+499,32
+0,00
+25/09/2025
+1008220
+alana arielle santana mesquita
+1487303
+29/08/2025
+1487303
+01
+remessa pagamento itau
+lj03
+499,32
+0,00
+01/10/2025
+998,64
+0,00
+descrição cliente
+alex da silva rodrigues
+1020268
+alex da silva rodrigues
+08/08/2025
+8082025
+01
+pagamento pix
+70,00
+0,00
+08/08/2025
+70,00
+0,00
+descrição cliente
+alexandre castro ferreira
+1020373
+alexandre castro ferreira
+08/08/2025
+8082025
+01
+pagamento pix
+70,00
+0,00
+08/08/2025
+70,00
+0,00
+descrição cliente
+alfredo trindade dutra neto
+1009956
+alfredo trindade dutra neto
+08/08/2025
+8082025
+01
+pagamento pix
+100,00
+0,00
+08/08/2025
+1009956
+alfredo trindade dutra neto
+22/08/2025
+2208202
+5
+01
+pagamento pix
+100,00
+0,00
+22/08/2025
+200,00
+0,00
+descrição cliente
+alifir menezes de araujo
+1020619
+alifir menezes de araujo
+08/08/2025
+8082025
+01
+pagamento pix
+70,00
+0,00
+08/08/2025
+70,00
+0,00
+descrição cliente
+almi santos de medeiros - epp
+1004698
+almi santos de medeiros - epp
+108064
+02/08/2025
+108064
+01
+pag deposito 21 dias
+4.368,00
+0,00
+27/09/2025
+1004698
+almi santos de medeiros - epp
+108960
+18/08/2025
+108960
+01
+remessa pagamento itau
+lj03
+300,00
+0,00
+14/10/2025
+4.668,00
+0,00
+descrição cliente
+amanda manuelle martins fonseca
+1018272
+amanda manuelle martins
+fonseca
+01/08/2025
+72025
+01
+pagamento pix
+266,07
+0,00
+01/08/2025
+266,07
+0,00
+descrição cliente
+amazon etiquetas ind com ltda
+925
+amazon etiquetas ind com ltda
+54766
+11/08/2025
+54766
+01
+remessa pagamento itau
+lj03
+384,23
+0,00
+10/09/2025
+925
+amazon etiquetas ind com ltda
+54766
+11/08/2025
+54766
+02
+remessa pagamento itau
+lj03
+384,22
+0,00
+25/09/2025
+925
+amazon etiquetas ind com ltda
+54808
+13/08/2025
+54808
+01
+remessa pagamento itau
+lj03
+879,00
+0,00
+11/09/2025
+925
+amazon etiquetas ind com ltda
+54965
+20/08/2025
+54965
+01
+remessa pagamento itau
+lj03
+6.174,00
+0,00
+18/09/2025
+925
+amazon etiquetas ind com ltda
+54983
+21/08/2025
+54983
+01
+remessa pagamento itau
+lj03
+1.155,00
+0,00
+19/09/2025
+925
+amazon etiquetas ind com ltda
+54995
+21/08/2025
+54995
+01
+remessa pagamento itau
+lj03
+882,50
+0,00
+19/09/2025
+9.858,95
+0,00
+descrição cliente
+amazon milk industria e comercio ltda
+211
+amazon milk industria e comercio
+207204
+13/08/2025
+207204
+01
+remessa pagamento itau
+lj03
+6.706,02
+0,00
+09/09/2025
+211
+amazon milk industria e comercio
+207204
+13/08/2025
+207204
+02
+remessa pagamento itau
+lj03
+6.706,03
+0,00
+16/09/2025
+13.412,05
+0,00
+descrição cliente
+amazon quimica industria e comercio de produtos quimicos
+1000655
+amazon quimica industria e
+12969
+02/08/2025
+12969
+01
+remessa pagamento itau
+lj03
+31.070,02
+0,00
+05/09/2025
+1000655
+amazon quimica industria e
+13019
+08/08/2025
+13019
+01
+remessa pagamento itau
+lj03
+17.390,00
+0,00
+13/09/2025
+1000655
+amazon quimica industria e
+13042
+11/08/2025
+13042
+01
+remessa pagamento itau
+lj03
+32.500,04
+0,00
+16/09/2025
+1000655
+amazon quimica industria e
+13076
+13/08/2025
+13076
+01
+remessa pagamento itau
+lj03
+21.360,00
+0,00
+18/09/2025
+1000655
+amazon quimica industria e
+13101
+16/08/2025
+13101
+01
+remessa pagamento itau
+lj03
+14.050,00
+0,00
+20/09/2025
+vitoria supermercados - coroado
+informação confidencial
+página 3 de 46

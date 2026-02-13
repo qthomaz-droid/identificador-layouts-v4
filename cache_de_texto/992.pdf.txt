@@ -1,0 +1,573 @@
+degan importacao e exportacao ltda
+14.878.058/0001-47
+documentos movimentados no período
+(16)3266-3737
+emissão
+vencimento
+-------------cliente--------------------
+vlr.face
+juros
+multa
+desc.
+recebido
+recebim.
+situação
+degan
+módulo: financeiro receber   
+-------documento-------
+-----valores recebidos----
+baixado
+----------valores-----------
+borborema / sp
+período movimentados
+01/06/2023
+à
+20/06/2023
+geral
+representante
+empresa
+01 - degan importacao e export - degan importa
+tipos de documentos
+nfe/ ctr/ crc/ drf/ rcb/ rpa/ adf/ con/ apo/ pre/
+n. recibo
+período digitados
+período emitidos
+pessoa referenciada
+geral
+ep
+07/06/2023
+06/06/2023
+0,00
+0,00
+0,00
+29.869,00
+23/05/2023
+jorge ismael de biasi filho
+rec-tot
+nfe/cta 013628
+01/01
+0,00
+29.869,00
+4673
+002116
+ted
+58818-0
+87.261,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+08/06/2023
+06/06/2023
+0,00
+0,00
+0,00
+28.645,00
+24/05/2023
+jorge ismael de biasi filho
+rec-tot
+nfe/cta 013651
+01/01
+0,00
+28.645,00
+4673
+002116
+ted
+58818-0
+87.261,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+09/06/2023
+06/06/2023
+0,00
+0,00
+0,00
+28.747,00
+25/05/2023
+jorge ismael de biasi filho
+rec-tot
+nfe/cta 013671
+01/01
+0,00
+28.747,00
+4673
+002116
+ted
+58818-0
+87.261,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+12/06/2023
+12/06/2023
+0,00
+0,00
+0,00
+27.761,00
+26/05/2023
+jorge ismael de biasi filho
+rec-tot
+nfe/cta 013675
+01/01
+0,00
+27.761,00
+4674
+002116
+ted
+58818-0
+27.761,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+651,50
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013699
+01/01
+0,00
+651,50
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+645,50
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013700
+01/01
+0,00
+645,50
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+619,50
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013701
+01/01
+0,00
+619,50
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+663,00
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013702
+01/01
+0,00
+663,00
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+685,50
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013703
+01/01
+0,00
+685,50
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+641,00
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013708
+01/01
+0,00
+641,00
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+653,50
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013709
+01/01
+0,00
+653,50
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+608,00
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013710
+01/01
+0,00
+608,00
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+669,50
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013711
+01/01
+0,00
+669,50
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+642,50
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013712
+01/01
+0,00
+642,50
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+635,00
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013713
+01/01
+0,00
+635,00
+4657
+000763
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+29/06/2023
+16/06/2023
+0,00
+0,00
+0,00
+592,50
+30/05/2023
+urias castilho 
+rec-tot
+nfe/cta 013714
+01/01
+0,00
+592,50
+4657
+000763
+01
+fr020202
+23/06/2023 16:25:48
+usuário:
+página 1 de 2
+product by office line brasil (14) 3441 7052
+alline
+degan importacao e exportacao ltda
+14.878.058/0001-47
+documentos movimentados no período
+(16)3266-3737
+emissão
+vencimento
+-------------cliente--------------------
+vlr.face
+juros
+multa
+desc.
+recebido
+recebim.
+situação
+degan
+módulo: financeiro receber   
+-------documento-------
+-----valores recebidos----
+baixado
+----------valores-----------
+borborema / sp
+período movimentados
+01/06/2023
+à
+20/06/2023
+geral
+representante
+empresa
+01 - degan importacao e export - degan importa
+tipos de documentos
+nfe/ ctr/ crc/ drf/ rcb/ rpa/ adf/ con/ apo/ pre/
+n. recibo
+período digitados
+período emitidos
+pessoa referenciada
+geral
+ep
+ted
+11.422-7
+7.707,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+15/06/2023
+19/06/2023
+0,00
+0,00
+0,00
+28.747,00
+31/05/2023
+usina sao jose da estiva s
+rec-tot
+nfe/cta 013717
+01/01
+0,00
+28.747,00
+4672
+002158
+ted
+58818-0
+88.230,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+16/06/2023
+19/06/2023
+0,00
+0,00
+0,00
+29.563,00
+01/06/2023
+usina sao jose da estiva s
+rec-tot
+nfe/cta 013726
+01/01
+0,00
+29.563,00
+4672
+002158
+ted
+58818-0
+88.230,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+19/06/2023
+19/06/2023
+0,00
+0,00
+0,00
+29.920,00
+02/06/2023
+usina sao jose da estiva s
+rec-tot
+nfe/cta 013735
+01/01
+0,00
+29.920,00
+4672
+002158
+ted
+58818-0
+88.230,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+20/06/2023
+20/06/2023
+0,00
+0,00
+0,00
+28.509,00
+05/06/2023
+jorge ismael de biasi filho
+rec-tot
+nfe/cta 013744
+01/01
+0,00
+28.509,00
+4675
+002116
+ted
+58818-0
+28.509,00
+0
+forma recbto:
+c.c:
+docto:
+valor:
+01
+0,00
+0,00
+0,00
+0,00
+20
+total documentos..........................................:
+239.468,00
+fr020202
+23/06/2023 16:25:48
+usuário:
+página 2 de 2
+product by office line brasil (14) 3441 7052
+alline

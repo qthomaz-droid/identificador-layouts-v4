@@ -1,0 +1,810 @@
+06/05/2025 10:08 pag.: 1/6
+farmacia maracana
+perimetral qd 4 lt 4 casa 1
+relatorio subtotal por vencimento
+========================================================================================================================================
+| data vncto | codigo
+| nome fornecedor
+| nr. nota
+|
+valor
+| data pagto |
+valor pago
+|
+----------------------------------------------------------------------------------------------------------------------------------------
+| 01/04/2025 | 382
+| palmed - palmas medicamentos ltda
+|
+803873|
+272,47|
+|
+0,00|
+| 01/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+410278|
+426,08|
+|
+0,00|
+| 01/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+350523|
+126,86|
+|
+0,00|
+| 01/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+350426|
+171,89|
+|
+0,00|
+| 01/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+350525|
+608,10|
+|
+0,00|
+| 01/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+350529|
+321,47|
+|
+0,00|
+| 01/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+350752|
+937,63|
+|
+0,00|
+| 01/04/2025 | 435
+| armazem mateus s.a. - cd87
+|
+9546529|
+497,40|
+|
+0,00|
+| 01/04/2025 | 388
+| panpharma distribuidora de medicamentos
+|
+9895238|
+10,30|
+|
+0,00|
+| 01/04/2025 | 442
+| m m produtos farmaceuticos e hospitalare
+|
+2152|
+306,84|
+|
+0,00|
+| 01/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+894569|
+2.129,50|
+|
+0,00|
+| 01/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+791774|
+307,04|
+|
+0,00|
+| 01/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+407595|
+270,75|
+|
+0,00|
+| 01/04/2025 | 30002
+| andrade comercio e distrib ltda
+|
+285358|
+604,93|
+|
+0,00|
+| 01/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+|
+510,58|
+|
+0,00|
+| 01/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+863884|
+8.522,24|
+|
+0,00|
+| 01/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+|
+617,71|
+|
+0,00|
+| 01/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+310082|
+647,04|
+|
+0,00|
+| 01/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+310155|
+620,15|
+|
+0,00|
+| 01/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+306022|
+410,75|
+|
+0,00|
+| 01/04/2025 | 382
+| palmed - palmas medicamentos ltda
+|
+799188|
+414,13|
+|
+0,00|
+| 01/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+306691|
+339,00|
+|
+0,00|
+| 01/04/2025 | 382
+| palmed - palmas medicamentos ltda
+|
+799202|
+270,45|
+|
+0,00|
+| 01/04/2025 | 388
+| panpharma distribuidora de medicamentos
+|
+9972836|
+366,26|
+|
+0,00|
+| 01/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+360697|
+214,14|
+|
+0,00|
+| 01/04/2025 | 382
+| palmed - palmas medicamentos ltda
+|
+794745|
+124,63|
+|
+0,00|
+----------------------------------------------------------------------------------------------------------------------------------------
+total:
+20.048,34
+total pago:
+0,00
+========================================================================================================================================
+| data vncto | codigo
+| nome fornecedor
+| nr. nota
+|
+valor
+| data pagto |
+valor pago
+|
+----------------------------------------------------------------------------------------------------------------------------------------
+| 02/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+897677|
+742,12|
+|
+0,00|
+| 02/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+408020|
+19,85|
+|
+0,00|
+| 02/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+310339|
+481,83|
+|
+0,00|
+| 02/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+407905|
+910,91|
+|
+0,00|
+| 02/04/2025 | 425
+| alc dist. de medicam. perf. e mat. hospi
+|
+49813|
+216,26|
+|
+0,00|
+| 02/04/2025 | 1002
+| g.o log distribuidora de medicamentos lt
+|
+7888|
+738,91|
+|
+0,00|
+| 02/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+361081|
+334,53|
+|
+0,00|
+| 02/04/2025 | 24002
+| real distribuidora e logistica ltda- fil
+|
+62375|
+2.468,29|
+|
+0,00|
+| 02/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+361080|
+632,14|
+|
+0,00|
+| 02/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+361079|
+186,03|
+|
+0,00|
+----------------------------------------------------------------------------------------------------------------------------------------
+total:
+6.730,87
+total pago:
+0,00
+========================================================================================================================================
+| data vncto | codigo
+| nome fornecedor
+| nr. nota
+|
+valor
+| data pagto |
+valor pago
+|
+----------------------------------------------------------------------------------------------------------------------------------------
+| 03/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+310496|
+754,39|
+|
+0,00|
+| 03/04/2025 | 54002
+| leve-me comercio de letronicos ldta
+|
+105623|
+356,50|
+|
+0,00|
+| 03/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+408360|
+117,48|
+|
+0,00|
+| 03/04/2025 | 1002
+| g.o log distribuidora de medicamentos lt
+|
+7898|
+536,56|
+|
+0,00|
+| 03/04/2025 | 382
+| palmed - palmas medicamentos ltda
+|
+805958|
+599,35|
+|
+0,00|
+| 03/04/2025 | 38002
+| f & f distribuidora de prod farm ltda
+|
+2173|
+1.011,26|
+|
+0,00|
+| 03/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+869326|
+498,31|
+|
+0,00|
+| 03/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+900410|
+971,68|
+|
+0,00|
+| 03/04/2025 | 395
+| centrofarma distribuidora farmaceutica l
+|
+288212|
+388,66|
+|
+0,00|
+| 03/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+307038|
+103,89|
+|
+0,00|
+| 03/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+306962|
+302,23|
+|
+0,00|
+| 03/04/2025 | 395
+| centrofarma distribuidora farmaceutica l
+|
+284873|
+294,70|
+|
+0,00|
+----------------------------------------------------------------------------------------------------------------------------------------
+total:
+5.935,01
+total pago:
+0,00
+========================================================================================================================================
+| data vncto | codigo
+| nome fornecedor
+| nr. nota
+|
+valor
+| data pagto |
+valor pago
+|
+----------------------------------------------------------------------------------------------------------------------------------------
+| 04/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+310625|
+333,77|
+|
+0,00|
+| 04/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+408453|
+696,52|
+|
+0,00|
+| 04/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+408661|
+301,33|
+|
+0,00|
+| 04/04/2025 | 395
+| centrofarma distribuidora farmaceutica l
+|
+286180|
+786,67|
+|
+0,00|
+| 04/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+308122|
+615,49|
+|
+0,00|
+| 04/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+405889|
+490,45|
+|
+0,00|
+| 04/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+308070|
+512,13|
+|
+0,00|
+06/05/2025 10:08 pag.: 2/6
+farmacia maracana
+perimetral qd 4 lt 4 casa 1
+relatorio subtotal por vencimento
+========================================================================================================================================
+| 04/04/2025 | 408
+| nestle brasil ltda
+|
+567822|
+808,34|
+|
+0,00|
+| 04/04/2025 | 421
+| estrela distribuiçao ltda
+|
+105151|
+1.832,64|
+|
+0,00|
+| 04/04/2025 | 395
+| centrofarma distribuidora farmaceutica l
+|
+287107|
+370,13|
+|
+0,00|
+| 04/04/2025 | 1002
+| g.o log distribuidora de medicamentos lt
+|
+7637|
+262,00|
+|
+0,00|
+| 04/04/2025 | 1002
+| g.o log distribuidora de medicamentos lt
+|
+7620|
+229,50|
+|
+0,00|
+| 04/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+902955|
+125,24|
+|
+0,00|
+| 04/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+306493|
+392,99|
+|
+0,00|
+----------------------------------------------------------------------------------------------------------------------------------------
+total:
+7.757,20
+total pago:
+0,00
+========================================================================================================================================
+| data vncto | codigo
+| nome fornecedor
+| nr. nota
+|
+valor
+| data pagto |
+valor pago
+|
+----------------------------------------------------------------------------------------------------------------------------------------
+| 05/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+411216|
+179,74|
+|
+0,00|
+| 05/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+361908|
+314,73|
+|
+0,00|
+| 05/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+361715|
+1.012,65|
+|
+0,00|
+| 05/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+351802|
+713,37|
+|
+0,00|
+| 05/04/2025 | 388
+| panpharma distribuidora de medicamentos
+|
+9983800|
+164,22|
+|
+0,00|
+| 05/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+411214|
+832,89|
+|
+0,00|
+| 05/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+408932|
+832,31|
+|
+0,00|
+| 05/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+410993|
+161,10|
+|
+0,00|
+| 05/04/2025 | 388
+| panpharma distribuidora de medicamentos
+|
+9983652|
+260,49|
+|
+0,00|
+----------------------------------------------------------------------------------------------------------------------------------------
+total:
+4.471,50
+total pago:
+0,00
+========================================================================================================================================
+| data vncto | codigo
+| nome fornecedor
+| nr. nota
+|
+valor
+| data pagto |
+valor pago
+|
+----------------------------------------------------------------------------------------------------------------------------------------
+| 06/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+406281|
+93,54|
+|
+0,00|
+| 06/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+363096|
+304,48|
+|
+0,00|
+| 06/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+411536|
+161,10|
+|
+0,00|
+| 06/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+363187|
+526,21|
+|
+0,00|
+----------------------------------------------------------------------------------------------------------------------------------------
+total:
+1.085,33
+total pago:
+0,00
+========================================================================================================================================
+| data vncto | codigo
+| nome fornecedor
+| nr. nota
+|
+valor
+| data pagto |
+valor pago
+|
+----------------------------------------------------------------------------------------------------------------------------------------
+| 07/04/2025 | 385
+| arcom s a
+|
+21130059|
+138,18|
+|
+0,00|
+| 07/04/2025 | 385
+| arcom s a
+|
+21130061|
+589,09|
+|
+0,00|
+| 07/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+307455|
+395,84|
+|
+0,00|
+| 07/04/2025 | 24002
+| real distribuidora e logistica ltda- fil
+|
+63091|
+4.337,39|
+|
+0,00|
+| 07/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+363958|
+63,60|
+|
+0,00|
+| 07/04/2025 | 1002
+| g.o log distribuidora de medicamentos lt
+|
+8264|
+364,53|
+|
+0,00|
+| 07/04/2025 | 5002
+| jc distribuicao logistica imp. e exp. de
+|
+129395|
+2.327,03|
+|
+0,00|
+| 07/04/2025 | 435
+| armazem mateus s.a. - cd87
+|
+9651304|
+377,55|
+|
+0,00|
+| 07/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+308265|
+351,76|
+|
+0,00|
+| 07/04/2025 | 382
+| palmed - palmas medicamentos ltda
+|
+800071|
+404,46|
+|
+0,00|
+| 07/04/2025 | 388
+| panpharma distribuidora de medicamentos
+|
+9995879|
+114,29|
+|
+0,00|
+| 07/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+363953|
+287,45|
+|
+0,00|
+| 07/04/2025 | 442
+| m m produtos farmaceuticos e hospitalare
+|
+2178|
+277,71|
+|
+0,00|
+| 07/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+364141|
+1.290,48|
+|
+0,00|
+----------------------------------------------------------------------------------------------------------------------------------------
+total:
+11.319,36
+total pago:
+0,00
+========================================================================================================================================
+| data vncto | codigo
+| nome fornecedor
+| nr. nota
+|
+valor
+| data pagto |
+valor pago
+|
+----------------------------------------------------------------------------------------------------------------------------------------
+| 08/04/2025 | 395
+| centrofarma distribuidora farmaceutica l
+|
+287417|
+400,08|
+|
+0,00|
+| 08/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+909921|
+187,86|
+|
+0,00|
+| 08/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+909614|
+1.119,03|
+|
+0,00|
+| 08/04/2025 | 423
+| profarma dist.prod.farmaceuticos s/
+|
+909882|
+1.467,43|
+|
+0,00|
+| 08/04/2025 | 380
+| medcentro to distribuidora de produtos f
+|
+307583|
+356,02|
+|
+0,00|
+| 08/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+409216|
+205,11|
+|
+0,00|
+| 08/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+409463|
+349,50|
+|
+0,00|
+| 08/04/2025 | 434
+| panpharma distribuidora de medicamentos
+|
+364851|
+2.223,74|
+|
+0,00|
+| 08/04/2025 | 415
+| nazaria dist prod farmaceuticos ltda
+|
+409274|
+412,63|
+|
+0,00|

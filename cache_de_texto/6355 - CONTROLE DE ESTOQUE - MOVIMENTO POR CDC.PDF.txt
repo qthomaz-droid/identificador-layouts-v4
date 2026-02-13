@@ -1,0 +1,47 @@
++---------------------------------------------------------------------------------------spdata-+
+|sgh - controle de estoque - movimento por cdc sintetico por cdc - saida              pag:   1 |
+|                                     fundaçao sao carlos                                      |
+| periodo: 01/05/2025 a 31/05/2025  preco: médio                 processamento: maio/2025      |
+| emitido em: 04/07/2025 as 15:46        local: 99-inventario geral       cdc: 000000 a 000092 |
++------+--------+-------------------------------+--------------+---------------+---------------+
+|codigo| sigla  | nome                          | medicamentos |    outros     |  valor total  |
++------+--------+-------------------------------+--------------+---------------+---------------+
+      1 rpa      recepcao pronto atendimento (g           0,00          292,37          292,37
+      2 re       centro de especialidades                 0,00          215,26          215,26
+      7 rx       radiologia                               0,00            3,20            3,20
+      8 tc       tomografia computadorizada               0,00        7.294,26        7.294,26
+     11 cme      central de materias estereliza           0,00       14.738,40       14.738,40
+     12 lavan    lavanderia                               0,00       12.339,30       12.339,30
+     13 limp     limpeza                                  0,00        8.874,58        8.874,58
+     14 nutri    servico de nutricao e dietetic           0,00       36.068,05       36.068,05
+     16 fatcon   faturamento convenios                    0,00          345,99          345,99
+     17 fatsus   faturamento sus                          0,00          319,48          319,48
+     19 comp     compras                                  0,00          111,15          111,15
+     20 rh       gerencia de recursos humanos             0,00          133,38          133,38
+     23 bs       agencia trasfusional                     0,00          732,61          732,61
+     24 farm     farmacia hospitalar                      0,00          769,75          769,75
+     25 manut    manutencao                               0,00        9.205,54        9.205,54
+     27 dira     diretoria adm./ financeira / c           0,00        2.249,46        2.249,46
+     30 cc       centro cirurgico                         0,00      124.527,66      124.527,66
+     31 utcc     unidade de internacao clinica            0,00       22.488,92       22.488,92
+     32 utcm     unidade de internacao clinica            0,00       46.122,03       46.122,03
+     34 uti      uti                                      0,00       92.830,56       92.830,56
+     35 endo     endoscopia                               0,00           55,22           55,22
+     38 gasem    gases medicinais                         0,00       61.344,06       61.344,06
+     39 recac    avaliação cirúrgica                      0,00           47,14           47,14
+     40 recor    ortopedia                                0,00          635,88          635,88
+     43 ti       t.i.                                     0,00          797,24          797,24
+     44 uips     unidade de internação pediátri           0,00          415,13          415,13
+     45 uims     unidade de internação maternid           0,00        1.947,64        1.947,64
+     46 uicccp   uni.int. clin. cirur. conênio            0,00        2.292,48        2.292,48
+     50          uni. int. clin. médica convêni           0,00        9.182,25        9.182,25
+     51 salv     sala vermelha - pronto atendim           0,00       12.080,59       12.080,59
+     52 ambpa    ambulatorio geral - p.a                  0,00       10.697,27       10.697,27
+     53 pqc      pequena cirurgia                         0,00          106,48          106,48
+     55 ncli     nutrição clínica                         0,00           52,34           52,34
+     65 sernut   serviço de nutrição                      0,00           51,38           51,38
+     77 sf       supervisão faturamento/drg/aud           0,00           92,00           92,00
+     80 rtenf    rt de enfermagem                         0,00          652,22          652,22
+     82 sde34a   supervisor de enfermagem - 3º            0,00           15,18           15,18
+                     total geral.....:                    0,00      480.126,45      480.126,45
+                     total percentual:                    0,00%           0,00%           0,00% 

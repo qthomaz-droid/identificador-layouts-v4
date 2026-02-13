@@ -1,0 +1,471 @@
+lh sistemas e consultoria ltda
+em - 06/02/2025 as 17:52:22
+fred comercio de frios                  
+página -    1
+pagrel - relatorio de contas a pagar quitado de 01/01/2025 ate 31/01/2025
+-------------------------------------------------------------------------------------
+data lan.
+documento
+n.par.fornecedor
+cheque
+vl. parcela vencimento   valor juros valor desconto valor pago pagamento lj portador
+descricao
+conta: 00 outras                   sub-conta: 00 outras              
+31/01/2025 mn0000002165   1 00142 federacao do comercio                150,00 31/01/2025
+     150,00 31/01/2025 01 pix       
+ref. contribuicao negocial emp
+total conta/sub-conta:
+     150,00
++        0,00 -        0,00      150,00
+conta: 02 compras                  sub-conta: 01 fornecedor          
+20/12/2024 pf002060002   1 00001 frisa frigorifico rio             14.353,22 02/01/2025
+  14.353,22 02/01/2025 01 boleto ban
+referente a entrada de mercado
+13/12/2024 pf000046723   3 00046 laticinios bimbo ltda              6.294,96 01/01/2025
+   6.294,96 02/01/2025 01 boleto ban
+referente a entrada de mercado
+05/12/2024 pf000442770   1 00069 seara alimentos ltda               7.532,04 31/12/2024
+   7.532,04 02/01/2025 01 boleto ban
+referente a entrada de mercado
+18/11/2024 pf000191888   4 00071 grupo total brasil ind              8.467,94 31/12/2024
+   8.467,94 02/01/2025 01 boleto ban
+referente a entrada de mercado
+29/12/2024 pf001797128   1 00093 rio de janeiro refresc             13.617,22 02/01/2025
+  13.617,22 02/01/2025 01 boleto ban
+referente a entrada de mercado
+13/12/2024 pf002717621   1 00002 abav abatedouro atilio              3.305,31 03/01/2025
+   3.305,31 03/01/2025 01 boleto ban
+referente a entrada de mercado
+06/12/2024 pf000000636   3 00137 fort industria e comer              2.101,66 03/01/2025
+   2.101,65 03/01/2025 01 boleto ban
+boleto ban                    
+27/12/2024 pf002062663   1 00001 frisa frigorifico rio              8.774,87 06/01/2025
+   8.774,87 06/01/2025 01 boleto ban
+referente a entrada de mercado
+13/12/2024 pf000034195   1 00028 comprolog import e dis              8.186,17 03/01/2025
+   8.186,17 06/01/2025 01 pix       
+referente a entrada de mercado
+20/12/2024 pf000010456   2 00043 sabor mineiro alimento             14.000,00 02/01/2025
+  14.000,00 06/01/2025 01 boleto ban
+referente a entrada de mercado
+25/11/2024 pf000002340   5 00081 dura mais jp  industri              5.160,00 07/12/2024
+   5.160,00 06/01/2025 01 boleto ban
+referente a entrada de mercado
+27/12/2024 pf000399022   1 00124 nobredo com e logistic              4.810,60 06/01/2025
+   4.810,60 06/01/2025 01 boleto ban
+referente a entrada de mercado
+05/12/2024 pf000007487   3 00136 plastsul industrial de              1.578,72 06/01/2025
+   1.578,72 06/01/2025 01 boleto ban
+referente a entrada de mercado
+02/12/2024 pf000026815   2 00005 l e m fritas   ltda                  875,00 08/01/2025
+     875,00 08/01/2025 01 boleto ban
+referente a entrada de mercado
+18/12/2024 pf002722146   1 00002 abav abatedouro atilio              6.057,95 09/01/2025
+   6.057,95 09/01/2025 01 boleto ban
+referente a entrada de mercado
+18/12/2024 pf001448627   1 00045 predilecta alimentos l              2.812,35 09/01/2025
+   2.812,35 09/01/2025 01 boleto ban
+referente a entrada de mercado
+03/01/2025 pf001806053   1 00093 rio de janeiro refresc              3.856,98 09/01/2025
+   3.856,98 09/01/2025 01 boleto ban
+referente a entrada de mercado
+20/12/2024 pf000578455   1 00104 comercio de alimentos              2.497,50 09/01/2025
+   2.497,50 09/01/2025 01 boleto ban
+referente a entrada de mercado
+05/01/2025 pf000045617   2 00010 magisfood comercio e l              2.074,35 10/01/2025
+   2.074,35 10/01/2025 01 boleto ban
+referente a entrada de mercado
+20/12/2024 pf014448869   1 00026 rio branco  alimento s              2.732,40 01/01/2025
+   2.732,40 10/01/2025 01 pix       
+referente a entrada de mercado
+20/12/2024 pf000047539   3 00046 laticinios bimbo ltda              5.714,96 02/01/2025
+   5.714,96 10/01/2025 01 pix       
+referente a entrada de mercado
+06/12/2024 pf000083506   3 00088 conrail ind e com de p              1.707,99 03/01/2025
+   1.707,99 10/01/2025 01 pix       
+referente a entrada de mercado
+27/12/2024 pf002725443   1 00002 abav abatedouro atilio              6.057,95 13/01/2025
+   6.057,95 13/01/2025 01 boleto ban
+referente a entrada de mercado
+07/01/2025 pf001451089   2 00045 predilecta alimentos l              1.355,25 13/01/2025
+   1.355,25 13/01/2025 01 boleto ban
+referente a entrada de mercado
+30/12/2024 pf000548108   1 00047 so fruta alimentos ltd              2.779,50 12/01/2025
+   2.779,50 13/01/2025 01 boleto ban
+referente a entrada de mercado
+11/01/2025 pf000766571   1 00118 ambev s.a                          1.152,00 13/01/2025
+   1.152,00 13/01/2025 01 pix       
+referente a entrada de mercado
+29/12/2024 pf000049536   3 00116 thega industria e come              4.548,66 14/01/2025
+   4.548,66 14/01/2025 01 boleto ban
+referente a entrada de mercado
+03/01/2025 pf000401156   1 00124 nobredo com e logistic             12.183,90 14/01/2025
+  12.183,90 14/01/2025 01 boleto ban
+referente a entrada de mercado
+07/01/2025 pf000446342   2 00129 stella d oro alimentos              1.419,00 14/01/2025
+   1.419,00 14/01/2025 01 boleto ban
+referente a entrada de mercado
+10/01/2025 pf000045750   2 00010 magisfood comercio e l              3.088,25 16/01/2025
+   3.088,25 16/01/2025 01 dinheiro  
+referente a entrada de mercado
+27/12/2024 pf000047964   2 00046 laticinios bimbo ltda              2.890,97 16/01/2025
+   2.890,97 16/01/2025 01 dinheiro  
+referente a entrada de mercado
+10/01/2025 pf001817275   1 00093 rio de janeiro refresc             14.094,30 16/01/2025
+  14.094,30 16/01/2025 01 boleto ban
+referente a entrada de mercado
+10/01/2025 pf001817277   1 00093 rio de janeiro refresc             14.045,77 16/01/2025
+  14.045,77 16/01/2025 01 boleto ban
+referente a entrada de mercado
+10/01/2025 pf001817279   1 00093 rio de janeiro refresc                494,95 16/01/2025
+     494,95 16/01/2025 01 boleto ban
+referente a entrada de mercado
+30/12/2024 pf000181601   3 00098 iplac induatria plasti              8.801,72 17/01/2025
+   8.801,72 17/01/2025 01 boleto ban
+referente a entrada de mercado
+07/01/2025 pf000402122   1 00124 nobredo com e logistic              6.265,70 19/01/2025
+   6.265,70 20/01/2025 01 boleto ban
+referente a entrada de mercado
+08/01/2025 pf002069966   1 00001 frisa frigorifico rio             10.810,70 22/01/2025
+  10.810,70 22/01/2025 01 boleto ban
+referente a entrada de mercado
+02/01/2025 pf002729879   1 00002 abav abatedouro atilio              6.544,41 20/01/2025 +       43,62
+   6.588,03 22/01/2025 01 boleto ban
+referente a entrada de mercado
+09/01/2025 pf002070650   1 00001 frisa frigorifico rio              7.274,26 23/01/2025
+   7.274,26 23/01/2025 01 boleto ban
+referente a entrada de mercado
+17/01/2025 pf001827692   1 00093 rio de janeiro refresc              6.083,08 24/01/2025
+   6.083,08 24/01/2025 01 boleto ban
+referente a entrada de mercado
+30/12/2024 pf000106584   3 00099 replast industria e co              1.117,34 27/01/2025
+   1.117,34 27/01/2025 01 dinheiro  
+referente a entrada de mercado
+07/01/2025 pf002067580   1 00001 frisa frigorifico rio             10.124,72 17/01/2025
+  10.124,72 30/01/2025 01 boleto ban
+referente a entrada de mercado
+28/01/2025 pf000045951   2 00010 magisfood comercio e l              2.880,90 30/01/2025
+   2.880,90 30/01/2025 01 boleto ban
+referente a entrada de mercado
+03/01/2025 pf000048400   2 00046 laticinios bimbo ltda                340,00 30/01/2025
+     340,00 30/01/2025 01 boleto ban
+referente a entrada de mercado
+20/01/2025 pf000049662   3 00046 laticinios bimbo ltda              3.942,58 30/01/2025
+   3.942,58 30/01/2025 01 boleto ban
+referente a entrada de mercado
+total conta/sub-conta:
+ 254.808,10
++       43,62 -        0,00  254.851,71
+conta: 03 emprestimo               sub-conta: 01 emprestimo          
+02/01/2025 mn0000002061   1 00038 banestes                           1.523,15 02/01/2025
+   1.523,15 02/01/2025 01 pix       
+ref. prestacao cred. ao consum
+22/01/2025 mn0000002132   1 00038 banestes                           5.073,58 22/01/2025
+   5.073,58 22/01/2025 01 pix       
+ref. pronampe parc 12/37      
+27/01/2025 mn0000002147   1 00038 banestes                           3.595,30 27/01/2025
+   3.595,30 27/01/2025 01 pix       
+ref. emprestimo parc 8/36     
+27/01/2025 mn0000002145   1 00130 sicred s.a                         6.702,38 27/01/2025
+   6.702,38 27/01/2025 01 pix       
+ref. emprestimo parc 2/36     
+29/01/2025 mn0000002153   1 00017 cloud walk  inst. de p                421,00 29/01/2025
+     421,00 29/01/2025 01 pix       
+ref. emprestimo inteligente   
+total conta/sub-conta:
+  17.315,41
++        0,00 -        0,00   17.315,41
+lh sistemas e consultoria ltda
+em - 06/02/2025 as 17:52:23
+fred comercio de frios                  
+página -    2
+pagrel - relatorio de contas a pagar quitado de 01/01/2025 ate 31/01/2025
+-------------------------------------------------------------------------------------
+data lan.
+documento
+n.par.fornecedor
+cheque
+vl. parcela vencimento   valor juros valor desconto valor pago pagamento lj portador
+descricao
+conta: 03 emprestimo               sub-conta: 02 aporte              
+10/01/2025 mn0000002094   1 00036 thiago frederico neiva              5.000,00 10/01/2025
+   5.000,00 10/01/2025 01 pix       
+ref. aporte                   
+total conta/sub-conta:
+   5.000,00
++        0,00 -        0,00    5.000,00
+conta: 04 servico                  sub-conta: 09 internet            
+06/01/2025 mn0000002072   1 00029 malugarinfor com de pr                 79,90 06/01/2025
+      79,90 06/01/2025 01 pix       
+ref. internet dez/2024        
+total conta/sub-conta:
+      79,90
++        0,00 -        0,00       79,90
+conta: 04 servico                  sub-conta: 10 software e programas
+06/01/2025 mn0000002071   1 00014 lh sistemas e consulto                167,67 06/01/2025
+     167,67 06/01/2025 01 boleto ban
+ref. manutencao sistemas dez/2
+total conta/sub-conta:
+     167,67
++        0,00 -        0,00      167,67
+conta: 04 servico                  sub-conta: 11 energia             
+17/01/2025 mn0000002119   1 00013 edp - espirito santo d              1.764,92 17/01/2025
+   1.764,92 17/01/2025 01 pix       
+ref. energia dez/2024         
+17/01/2025 mn0000002120   1 00013 edp - espirito santo d                169,85 17/01/2025
+     169,85 17/01/2025 01 pix       
+ref. energia dez/2024         
+total conta/sub-conta:
+   1.934,77
++        0,00 -        0,00    1.934,77
+conta: 04 servico                  sub-conta: 12 assessoria          
+29/01/2025 mn0000002155   1 00018 linear servicos contab                802,50 29/01/2025
+     802,50 29/01/2025 01 boleto ban
+ref. servicos contabeis dez/24
+total conta/sub-conta:
+     802,50
++        0,00 -        0,00      802,50
+conta: 04 servico                  sub-conta: 13 frete               
+07/01/2025 mn0000002085   1 00108 tpl transportes                    2.444,43 07/01/2025
+   2.444,43 07/01/2025 01 boleto ban
+ref. frete de mercadoria / des
+total conta/sub-conta:
+   2.444,43
++        0,00 -        0,00    2.444,43
+conta: 04 servico                  sub-conta: 14 telefone            
+28/01/2025 mn0000002150   1 00127 vivo telefonia                       189,95 28/01/2025
+     189,95 28/01/2025 01 boleto ban
+ref. servico  telefonia jan/25
+total conta/sub-conta:
+     189,95
++        0,00 -        0,00      189,95
+conta: 05 impostos  e taxas        sub-conta: 03 simples nacional    
+24/01/2025 mn0000002143   1 00016 secretaria da receita             11.382,58 24/01/2025 +    2.691,98
+  14.074,56 24/01/2025 01 pix       
+ref. simples nacional agosto/2
+31/01/2025 mn0000002164   1 00016 secretaria da receita              1.329,38 31/01/2025
+   1.329,38 31/01/2025 01 pix       
+ref. doc. de arrecadacao do si
+total conta/sub-conta:
+  12.711,96
++    2.691,98 -        0,00   15.403,94
+conta: 06 adiantamento             sub-conta: 01 adiantamento        
+06/01/2025 mn0000002075   1 00017 cloud walk  inst. de p              4.516,02 06/01/2025
+   4.516,02 06/01/2025 01 pix       
+ref. regularizacao infinity   
+06/01/2025 mn0000002070   1 00038 banestes                          10.081,47 06/01/2025
+  10.081,47 06/01/2025 01 pix       
+ref. regularizacao adiantament
+06/01/2025 mn0000002076   1 00132 stone instituicao de p              2.274,50 06/01/2025
+   2.274,50 06/01/2025 01 cartao de 
+ref. regularizacao stone      
+07/01/2025 mn0000002077   1 00017 cloud walk  inst. de p              3.544,87 07/01/2025
+   3.544,87 07/01/2025 01 pix       
+ref. regularizacao infinity   
+07/01/2025 mn0000002079   1 00038 banestes                          11.941,18 07/01/2025
+  11.941,18 07/01/2025 01 pix       
+ref. regularizacao adiantament
+07/01/2025 mn0000002078   1 00132 stone instituicao de p              4.157,39 07/01/2025
+   4.157,39 07/01/2025 01 pix       
+ref. regularizacao stone      
+08/01/2025 mn0000002089   1 00017 cloud walk  inst. de p             15.482,40 08/01/2025
+  15.482,40 08/01/2025 01 pix       
+ref. regularizacao infinity   
+08/01/2025 mn0000002087   1 00038 banestes                          15.449,25 08/01/2025
+  15.449,25 08/01/2025 01 pix       
+ref. regularizacao adiantament
+08/01/2025 mn0000002088   1 00132 stone instituicao de p              6.271,94 08/01/2025
+   6.271,94 08/01/2025 01 pix       
+ref. reguraizacao stone       
+09/01/2025 mn0000002092   1 00017 cloud walk  inst. de p              5.983,39 09/01/2025
+   5.983,39 09/01/2025 01 pix       
+ref. regularizacao infinity   
+09/01/2025 mn0000002090   1 00038 banestes                           5.508,52 09/01/2025
+   5.508,52 09/01/2025 01 pix       
+ref. regularizacao adiantament
+09/01/2025 mn0000002091   1 00132 stone instituicao de p              5.533,09 09/01/2025
+   5.533,09 09/01/2025 01 pix       
+ref. regularizacao stone      
+10/01/2025 mn0000002101   1 00017 cloud walk  inst. de p              3.020,71 10/01/2025
+   3.020,71 10/01/2025 01 pix       
+ref. regularizacao infinity   
+10/01/2025 mn0000002095   1 00038 banestes                          12.412,99 10/01/2025
+  12.412,99 10/01/2025 01 pix       
+ref. regularizacao adiantament
+lh sistemas e consultoria ltda
+em - 06/02/2025 as 17:52:23
+fred comercio de frios                  
+página -    3
+pagrel - relatorio de contas a pagar quitado de 01/01/2025 ate 31/01/2025
+-------------------------------------------------------------------------------------
+data lan.
+documento
+n.par.fornecedor
+cheque
+vl. parcela vencimento   valor juros valor desconto valor pago pagamento lj portador
+descricao
+10/01/2025 mn0000002096   1 00132 stone instituicao de p                903,44 10/01/2025
+     903,44 10/01/2025 01 pix       
+ref. regularizacao stone      
+14/01/2025 mn0000002106   1 00017 cloud walk  inst. de p             19.187,08 14/01/2025
+  19.187,08 14/01/2025 01 pix       
+ref. regularizacao infinity   
+14/01/2025 mn0000002104   1 00038 banestes                           4.632,44 14/01/2025
+   4.632,44 14/01/2025 01 pix       
+ref. regularizacao adiantament
+14/01/2025 mn0000002108   1 00132 stone instituicao de p              6.041,87 14/01/2025
+   6.041,87 14/01/2025 01 pix       
+ref. regularizacao stone      
+15/01/2025 mn0000002111   1 00017 cloud walk  inst. de p              1.932,16 15/01/2025
+   1.932,16 15/01/2025 01 pix       
+ref. regularizacao adiantament
+15/01/2025 mn0000002109   1 00038 banestes                           1.239,45 15/01/2025
+   1.239,45 15/01/2025 01 pix       
+ref. regularizacao adiantament
+15/01/2025 mn0000002110   1 00132 stone instituicao de p              1.022,79 15/01/2025
+   1.022,79 15/01/2025 01 pix       
+ref. regularizacao stone      
+16/01/2025 mn0000002112   1 00017 cloud walk  inst. de p              1.722,64 16/01/2025
+   1.722,64 16/01/2025 01 pix       
+ref. regularizacao infinity   
+16/01/2025 mn0000002113   1 00038 banestes                           3.194,59 16/01/2025
+   3.194,59 16/01/2025 01 pix       
+ref. regularizacao adiantament
+16/01/2025 mn0000002116   1 00132 stone instituicao de p              3.751,90 16/01/2025
+   3.751,90 16/01/2025 01 pix       
+ref. regularizacao stone      
+17/01/2025 mn0000002122   1 00017 cloud walk  inst. de p              2.418,39 17/01/2025
+   2.418,39 17/01/2025 01 pix       
+ref. regularizacao infinity   
+17/01/2025 mn0000002117   1 00038 banestes                           2.264,83 17/01/2025
+   2.264,83 17/01/2025 01 pix       
+ref. regularizacao adiantament
+17/01/2025 mn0000002121   1 00132 stone instituicao de p              3.671,12 17/01/2025
+   3.671,12 17/01/2025 01 pix       
+ref. regularizacao stone      
+20/01/2025 mn0000002123   1 00017 cloud walk  inst. de p              5.208,37 20/01/2025
+   5.208,37 20/01/2025 01 pix       
+ref. regularizacao infinity   
+20/01/2025 mn0000002126   1 00038 banestes                          10.240,97 20/01/2025
+  10.240,97 20/01/2025 01 pix       
+ref. regularizacao adiantament
+20/01/2025 mn0000002127   1 00132 stone instituicao de p              1.617,40 20/01/2025
+   1.617,40 20/01/2025 01 pix       
+ref. regularizacao stone      
+21/01/2025 mn0000002129   1 00017 cloud walk  inst. de p              3.124,38 21/01/2025
+   3.124,38 21/01/2025 01 pix       
+ref. regularizacao infinity   
+21/01/2025 mn0000002130   1 00038 banestes                           4.732,93 21/01/2025
+   4.732,93 21/01/2025 01 pix       
+ref. regularizacao adiantament
+21/01/2025 mn0000002128   1 00132 stone instituicao de p              2.494,51 21/01/2025
+   2.494,51 21/01/2025 01 pix       
+ref. regularizacao stone      
+22/01/2025 mn0000002133   1 00017 cloud walk  inst. de p              2.240,23 22/01/2025
+   2.240,23 22/01/2025 01 pix       
+ref. regularizacao infinity   
+22/01/2025 mn0000002131   1 00038 banestes                             390,00 22/01/2025
+     390,00 22/01/2025 01 pix       
+ref. regularizacao adiantament
+22/01/2025 mn0000002134   1 00132 stone instituicao de p              1.801,87 22/01/2025
+   1.801,87 22/01/2025 01 pix       
+ref. regularizacao stone      
+23/01/2025 mn0000002138   1 00017 cloud walk  inst. de p              1.267,62 23/01/2025
+   1.267,62 23/01/2025 01 pix       
+ref. regularizacao infinity   
+23/01/2025 mn0000002135   1 00038 banestes                           4.987,76 23/01/2025
+   4.987,76 23/01/2025 01 pix       
+ref. regularizacao adiantament
+23/01/2025 mn0000002139   1 00132 stone instituicao de p              3.767,18 23/01/2025
+   3.767,18 23/01/2025 01 pix       
+ref. regularizacao stone      
+24/01/2025 mn0000002144   1 00017 cloud walk  inst. de p              2.982,34 24/01/2025
+   2.982,34 24/01/2025 01 pix       
+ref. regularizacao infinity   
+24/01/2025 mn0000002140   1 00038 banestes                           6.100,99 24/01/2025
+   6.100,99 24/01/2025 01 pix       
+ref. regularizacao adiantament
+24/01/2025 mn0000002141   1 00132 stone instituicao de p              3.071,28 24/01/2025
+   3.071,28 24/01/2025 01 pix       
+ref. regularizacao stone      
+28/01/2025 mn0000002151   1 00017 cloud walk  inst. de p             15.398,01 28/01/2025
+  15.398,01 28/01/2025 01 pix       
+ref. regularizacao infinity   
+28/01/2025 mn0000002148   1 00038 banestes                          20.102,56 28/01/2025
+  20.102,56 28/01/2025 01 pix       
+ref. regularizacao adiantament
+28/01/2025 mn0000002149   1 00132 stone instituicao de p              7.053,18 28/01/2025
+   7.053,18 28/01/2025 01 pix       
+ref. regularizacao stone      
+29/01/2025 mn0000002152   1 00017 cloud walk  inst. de p                600,00 29/01/2025
+     600,00 29/01/2025 01 pix       
+ref. regularizacao infinity   
+29/01/2025 mn0000002157   1 00038 banestes                             252,84 29/01/2025
+     252,84 29/01/2025 01 pix       
+ref. regularizacao adiantament
+29/01/2025 mn0000002156   1 00130 sicred s.a                             6,75 29/01/2025
+       6,75 29/01/2025 01 pix       
+ref. regularizacao sicred     
+29/01/2025 mn0000002154   1 00132 stone instituicao de p              1.524,43 29/01/2025
+   1.524,43 29/01/2025 01 pix       
+ref. regularizacao stone      
+30/01/2025 mn0000002162   1 00017 cloud walk  inst. de p              1.821,21 30/01/2025
+   1.821,21 30/01/2025 01 pix       
+ref. regularizacao infinity   
+30/01/2025 mn0000002159   1 00038 banestes                           4.356,74 30/01/2025
+   4.356,74 30/01/2025 01 pix       
+ref. regularizacao adiantament
+30/01/2025 mn0000002161   1 00132 stone instituicao de p              3.348,00 30/01/2025
+   3.348,00 30/01/2025 01 pix       
+ref. regularizacao stone      
+31/01/2025 mn0000002167   1 00017 cloud walk  inst. de p              3.540,52 31/01/2025
+   3.540,52 31/01/2025 01 pix       
+ref. regularizacao infinity   
+31/01/2025 mn0000002163   1 00038 banestes                           1.122,47 31/01/2025
+   1.122,47 31/01/2025 01 pix       
+ref. regularizacao adiantament
+31/01/2025 mn0000002166   1 00132 stone instituicao de p              2.157,83 31/01/2025
+   2.157,83 31/01/2025 01 pix       
+ref. regularizacao stone      
+total conta/sub-conta:
+ 273.472,79
++        0,00 -        0,00  273.472,79
+conta: 07 aluguel                  sub-conta: 01 aluguel loja        
+02/01/2025 mn0000002062   1 00035 daterra negocios imobi              2.000,00 02/01/2025
+   2.000,00 02/01/2025 01 pix       
+ref. aluguel loja 10 e 13 dez/
+06/01/2025 mn0000002074   1 00035 daterra negocios imobi              1.000,00 06/01/2025
+   1.000,00 06/01/2025 01 pix       
+ref. aluguel loja 12 dez/2024 
+10/01/2025 mn0000002097   1 00035 daterra negocios imobi              1.400,00 10/01/2025
+   1.400,00 10/01/2025 01 boleto ban
+ref. aluguel loja 11 dez/2024 
+total conta/sub-conta:
+   4.400,00
++        0,00 -        0,00    4.400,00
+conta: 09 pessoal                  sub-conta: 01 salario             
+07/01/2025 mn0000002083   1 00056 izabelli ferreira da s              1.652,52 07/01/2025
+   1.652,52 07/01/2025 01 pix       
+ref. salario dez/2024         
+07/01/2025 mn0000002084   1 00066 amanda de jesus nascim              1.389,11 07/01/2025
+   1.389,11 07/01/2025 01 pix       
+ref. salario dez/2024         
+07/01/2025 mn0000002082   1 00109 henrique araujo chaves              1.719,30 07/01/2025
+   1.719,30 07/01/2025 01 pix       
+ref. salario dez/2024         
+07/01/2025 mn0000002081   1 00117 maria aparecida dos an              1.451,15 07/01/2025
+   1.451,15 07/01/2025 01 pix       
+ref. salario dez/2024         
+07/01/2025 mn0000002080   1 00133 kaua silva de jesus                1.389,11 07/01/2025
+   1.389,11 07/01/2025 01 pix       
+ref. salario dez/2024         
+total conta/sub-conta:
+   7.601,19
++        0,00 -        0,00    7.601,19
+conta: 09 pessoal                  sub-conta: 02 plano de saude      
+10/01/2025 mn0000002098   1 00054 up health adm de benef              1.204,16 10/01/2025
+   1.204,16 10/01/2025 01 boleto ban
+ref. plano de saude dez/2024  
+total conta/sub-conta:
+   1.204,16
++        0,00 -        0,00    1.204,16

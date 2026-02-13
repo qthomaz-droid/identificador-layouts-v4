@@ -1,0 +1,757 @@
+a t a c a d o   m e n d o n c a
+sistema de controle comercial
+em: 26/11/25
+relacao de contas a pagar por conta caixa - liquidadas / docs: todos
+periodo de 01/10/25 a 31/10/25
+pagina: 0001
+conta caixa: todos
+----------------------------------------------------------------------------------------------------------------------------------
+duplicata
+emissao
+vencim.
+sit.
+cobr.
+valor inic.
+valor dupl.
+atso loja liq
+juros dt.liqui
+val. liqui.
+----------------------------------------------------------------------------------------------------------------------------------
+conta: 0003 : 01.01.01.01.01 venda a vista | 01.01.01.01  | 01.01.01 faturamento | 01.01 receitas
+72363-003
+20/06/25
+18/10/25 liqui. dupl.
+  11.040,22
+  11.040,22
+     0 atd
+      0,00 15/10/25
+  11.040,22
+mk br s.a
+totais da conta  =====>
+         0,00
+      0,00
+     11.040,22
+----------------------------------------------------------------------------------------------------------------------------------
+conta: 0021 : 02.01.07 contas a pagar | 02.01 despesas operacionais | 02 despesas diversas
+132916-a
+02/10/25
+28/09/25 liqui. dep.
+   2.652,90
+   2.652,90
+     5 atd
+      0,00 03/10/25
+   2.652,90
+aco nobre moveis eireli  epp
+100190
+27/09/25
+02/10/25 liqui. bole.
+   5.388,82
+   5.388,82
+     0 atd
+      0,00 01/10/25
+   5.388,82
+prattica logistica comercial ltda
+138904-003
+07/06/25
+02/10/25 liqui. dupl.
+   4.023,00
+   4.023,00
+     0 atd
+      0,00 01/10/25
+   4.023,00
+elgin ind - matriz manaus
+144532-001
+25/09/25
+02/10/25 liqui. dupl.
+   3.269,37
+   3.269,37
+     0 atd
+      0,00 01/10/25
+   3.269,37
+magic toys do brasil 
+14713-003
+10/07/25
+02/10/25 liqui. dupl.
+   7.343,60
+   7.343,60
+     0 atd
+      0,00 01/10/25
+   7.343,60
+trovatto
+163559-004
+04/06/25
+02/10/25 liqui. dupl.
+     808,00
+     808,00
+     0 atd
+      0,00 01/10/25
+     808,00
+imop
+163562-004
+11/06/25
+02/10/25 liqui. dupl.
+     808,00
+     808,00
+     0 atd
+      0,00 01/10/25
+     808,00
+imop
+163563-004
+06/06/25
+02/10/25 liqui. dupl.
+   1.617,00
+   1.617,00
+     0 atd
+      0,00 01/10/25
+   1.617,00
+imop
+166673
+19/09/25
+02/10/25 liqui. bole.
+   1.505,25
+   1.505,25
+     0 atd
+      0,00 01/10/25
+   1.505,25
+prattica logistica comercial ltda
+18031-003
+12/06/25
+02/10/25 liqui. dupl.
+   1.603,83
+   1.603,83
+     0 atd
+      0,00 01/10/25
+   1.603,83
+departamento jeans
+196272-003
+22/05/25
+02/10/25 liqui. dupl.
+   1.139,04
+   1.139,04
+     0 atd
+      0,00 01/10/25
+   1.139,04
+sua cia
+212632-001
+05/09/25
+02/10/25 liqui. dupl.
+   4.303,72
+   4.303,72
+     0 atd
+      0,00 01/10/25
+   4.303,72
+mk ne ltda
+2304266-05
+13/05/25
+02/10/25 liqui. dupl.
+   5.832,95
+   5.832,95
+     0 atd
+      0,00 01/10/25
+   5.832,95
+atlas  eletrodomesticos (matriz)
+2304287 05/07
+14/05/25
+02/10/25 liqui. dupl.
+     931,78
+     931,78
+     0 atd
+      0,00 01/10/25
+     931,78
+atlas  eletrodomesticos (matriz)
+305-004
+11/04/25
+02/10/25 liqui. dupl.
+   4.307,70
+   4.307,70
+     0 atd
+      0,00 01/10/25
+   4.307,70
+informal industria e comercio de confeccoes ltda
+336211-005
+01/05/25
+02/10/25 liqui. dupl.
+     684,42
+     684,42
+     0 atd
+      0,00 01/10/25
+     684,42
+bella janela 0001 - matriz
+35192-005
+13/05/25
+02/10/25 liqui. dupl.
+   1.440,00
+   1.440,00
+     0 atd
+      0,00 01/10/25
+   1.440,00
+solar colchoes
+3664-003
+04/08/25
+02/10/25 liqui. dupl.
+   1.877,88
+   1.877,88
+     0 atd
+      0,00 01/10/25
+   1.877,88
+estilo livre
+3718-003
+05/06/25
+02/10/25 liqui. dupl.
+   1.398,00
+   1.398,00
+     0 atd
+      0,00 01/10/25
+   1.398,00
+gazin industria de colchoes ltda (araguatins/to)
+372731-003
+02/08/25
+02/10/25 liqui. dupl.
+     477,00
+     477,00
+     0 atd
+      0,00 01/10/25
+     477,00
+imcal
+372732-003
+02/08/25
+02/10/25 liqui. dupl.
+     657,00
+     657,00
+     0 atd
+      0,00 01/10/25
+     657,00
+imcal
+414195-001
+18/06/25
+02/10/25 liqui. dupl.
+     797,00
+     797,00
+     0 atd
+      0,00 01/10/25
+     797,00
+calcados beira rio
+a t a c a d o   m e n d o n c a
+sistema de controle comercial
+em: 26/11/25
+relacao de contas a pagar por conta caixa - liquidadas / docs: todos
+periodo de 01/10/25 a 31/10/25
+pagina: 0002
+conta caixa: todos
+----------------------------------------------------------------------------------------------------------------------------------
+duplicata
+emissao
+vencim.
+sit.
+cobr.
+valor inic.
+valor dupl.
+atso loja liq
+juros dt.liqui
+val. liqui.
+----------------------------------------------------------------------------------------------------------------------------------
+433973-005
+27/05/25
+02/10/25 liqui. dupl.
+   1.026,03
+   1.026,03
+     0 atd
+      0,00 01/10/25
+   1.026,03
+sallo fabrica
+4729-002
+09/07/25
+02/10/25 liqui. dupl.
+   1.754,00
+   1.754,00
+     0 atd
+      0,00 01/10/25
+   1.754,00
+gazin industria de colchoes ltda (araguatins/to)
+49869-004
+17/06/25
+02/10/25 liqui. dupl.
+   1.227,00
+   1.227,00
+     0 atd
+      0,00 01/10/25
+   1.227,00
+mallei calcados ltda
+5821-002
+30/07/25
+02/10/25 liqui. dupl.
+   1.343,00
+   1.343,00
+     0 atd
+      0,00 01/10/25
+   1.343,00
+gazin industria de colchoes ltda (araguatins/to)
+5879 02/07
+30/07/25
+02/10/25 liqui. dupl.
+   1.522,36
+   1.522,00
+     0 atd
+      0,00 01/10/25
+   1.522,00
+gazin industria de colchoes ltda (araguatins/to)
+5880-002
+30/07/25
+02/10/25 liqui. dupl.
+     674,00
+     674,00
+     0 atd
+      0,00 01/10/25
+     674,00
+gazin industria de colchoes ltda (araguatins/to)
+6138-002
+02/08/25
+02/10/25 liqui. dupl.
+   1.762,00
+   1.762,00
+     0 atd
+      0,00 01/10/25
+   1.762,00
+gazin industria de colchoes ltda (araguatins/to)
+833550-001
+05/09/25
+02/10/25 liqui. dupl.
+  10.944,02
+  10.944,02
+     0 atd
+      0,00 01/10/25
+  10.944,02
+mk br s.a
+83766 04/04
+04/06/25
+02/10/25 liqui. dupl.
+   2.170,00
+   2.170,00
+     0 atd
+      0,00 01/10/25
+   2.170,00
+soma moveis ltda
+83769-004
+11/06/25
+02/10/25 liqui. dupl.
+   2.170,00
+   2.170,00
+     0 atd
+      0,00 01/10/25
+   2.170,00
+soma moveis ltda
+83770-004
+06/06/25
+02/10/25 liqui. dupl.
+   3.070,00
+   3.070,00
+     0 atd
+      0,00 01/10/25
+   3.070,00
+soma moveis ltda
+840398-001
+05/09/25
+02/10/25 liqui. dupl.
+   2.351,50
+   2.351,50
+     0 atd
+      0,00 01/10/25
+   2.351,50
+mk br s.a
+894797-002
+30/08/25
+02/10/25 liqui. dupl.
+     800,00
+   4.413,24
+     0 atd
+      0,00 01/10/25
+   4.413,24
+cairu industria de bicicletas ltda
+1159
+01/10/25
+03/10/25 liqui. bole.
+   1.834,78
+   1.834,78
+     0 atd
+      0,00 01/10/25
+   1.834,78
+casi contabilidade(palmas accouting ltda
+124637-003
+23/07/25
+03/10/25 liqui. dupl.
+   1.022,34
+   1.022,34
+     0 atd
+      0,00 01/10/25
+   1.022,34
+di paula
+138975-003
+10/07/25
+03/10/25 liqui. dupl.
+  15.890,00
+  15.890,00
+     0 atd
+      0,00 01/10/25
+  15.890,00
+elgin ind - matriz manaus
+1551 02/04
+10/07/25
+03/10/25 liqui. dupl.
+   2.640,00
+   8.055,00
+     0 atd
+      0,00 01/10/25
+   8.055,00
+arthcowjeans (jose risonelson ferreira de lima)
+1806893-002
+25/07/25
+03/10/25 liqui. dupl.
+     959,60
+     959,60
+     0 atd
+      0,00 01/10/25
+     959,60
+dass - umbro
+1872475-001
+08/09/25
+03/10/25 liqui. dupl.
+  13.698,58
+  13.698,58
+     0 atd
+      0,00 03/10/25
+  13.698,58
+color visao do brasil ind acrilica ltda
+1872574-001
+09/09/25
+03/10/25 liqui. dupl.
+   4.822,43
+   4.822,43
+     0 atd
+      0,00 03/10/25
+   4.822,43
+color visao do brasil ind acrilica ltda
+1971940-005
+30/04/25
+03/10/25 liqui. dupl.
+   3.743,89
+   3.743,89
+     0 atd
+      0,00 01/10/25
+   3.743,89
+itatiaia moveis
+2472409932 0
+01/10/25
+03/10/25 liqui. bole.
+   1.344,00
+   1.344,00
+     0 atd
+      0,00 01/10/25
+   1.344,00
+j v de moraes -me (corpo belo)uniformes
+2509-005
+10/05/25
+03/10/25 liqui. dupl.
+   1.447,00
+   1.447,00
+     0 atd
+      0,00 01/10/25
+   1.447,00
+gazin industria de colchoes ltda (araguatins/to)
+2854992-002
+11/07/25
+03/10/25 liqui. dupl.
+     431,46
+     431,46
+     0 atd
+      0,00 01/10/25
+     431,46
+vulcabras azaleia
+2854993-002
+11/07/25
+03/10/25 liqui. dupl.
+     431,46
+     431,46
+     0 atd
+      0,00 01/10/25
+     431,46
+vulcabras azaleia
+2854994-002
+11/07/25
+03/10/25 liqui. dupl.
+     431,46
+     431,46
+     0 atd
+      0,00 01/10/25
+     431,46
+vulcabras azaleia
+2873987-002
+08/08/25
+03/10/25 liqui. dupl.
+     570,00
+     570,00
+     0 atd
+      0,00 01/10/25
+     570,00
+vulcabras azaleia
+a t a c a d o   m e n d o n c a
+sistema de controle comercial
+em: 26/11/25
+relacao de contas a pagar por conta caixa - liquidadas / docs: todos
+periodo de 01/10/25 a 31/10/25
+pagina: 0003
+conta caixa: todos
+----------------------------------------------------------------------------------------------------------------------------------
+duplicata
+emissao
+vencim.
+sit.
+cobr.
+valor inic.
+valor dupl.
+atso loja liq
+juros dt.liqui
+val. liqui.
+----------------------------------------------------------------------------------------------------------------------------------
+298594-003
+28/04/25
+03/10/25 liqui. dupl.
+     378,00
+     378,00
+     0 atd
+      0,00 01/10/25
+     378,00
+calcados beira rio
+299781-003
+25/04/25
+03/10/25 liqui. dupl.
+     384,00
+     384,00
+     0 atd
+      0,00 01/10/25
+     384,00
+calcados beira rio
+301900-003
+25/04/25
+03/10/25 liqui. dupl.
+     711,00
+     711,00
+     0 atd
+      0,00 01/10/25
+     711,00
+calcados beira rio
+3107755-001
+17/09/25
+03/10/25 liqui. dupl.
+  14.530,06
+  14.530,21
+     0 atd
+      0,00 01/10/25
+  14.530,21
+whirlpool
+3107756-001
+17/09/25
+03/10/25 liqui. dupl.
+   6.995,91
+   6.995,96
+     0 atd
+      0,00 01/10/25
+   6.995,96
+whirlpool
+349509-003
+18/07/25
+03/10/25 liqui. dupl.
+     528,57
+     528,57
+     0 atd
+      0,00 01/10/25
+     528,57
+bella janela 0001 - matriz
+36646-004
+12/05/25
+03/10/25 liqui. dupl.
+   8.976,36
+   8.976,36
+     0 atd
+      0,00 01/10/25
+   8.976,36
+semp tcl ar condicionado
+4724520-003
+07/05/25
+03/10/25 liqui. dupl.
+     146,32
+     146,32
+     0 atd
+      0,00 01/10/25
+     146,32
+lupo
+4973-003
+08/07/25
+03/10/25 liqui. dupl.
+   1.343,00
+   1.343,00
+     0 atd
+      0,00 01/10/25
+   1.343,00
+gazin industria de colchoes ltda (araguatins/to)
+545995-003
+26/04/25
+03/10/25 liqui. dupl.
+     354,00
+     354,00
+     0 atd
+      0,00 01/10/25
+     354,00
+calcados beira rio s/a
+546048-003
+29/04/25
+03/10/25 liqui. dupl.
+     403,00
+     403,00
+     0 atd
+      0,00 01/10/25
+     403,00
+calcados beira rio s/a
+546066-003
+24/04/25
+03/10/25 liqui. dupl.
+     355,00
+     355,00
+     0 atd
+      0,00 01/10/25
+     355,00
+calcados beira rio s/a
+643227-003
+08/07/25
+03/10/25 liqui. dupl.
+   1.023,30
+   1.023,30
+     0 atd
+      0,00 01/10/25
+   1.023,30
+karsten s.a.
+643230-003
+08/07/25
+03/10/25 liqui. dupl.
+   1.016,09
+   1.016,09
+     0 atd
+      0,00 01/10/25
+   1.016,09
+karsten s.a.
+643544 03/03
+24/07/25
+03/10/25 liqui. dupl.
+   1.110,65
+   1.110,65
+     0 atd
+      0,00 01/10/25
+   1.110,65
+karsten s.a.
+684258-006
+16/04/25
+03/10/25 liqui. dupl.
+   1.579,20
+   1.579,20
+     0 atd
+      0,00 01/10/25
+   1.579,20
+gelius-mtz
+8631-001
+06/09/25
+03/10/25 liqui. dupl.
+   3.229,00
+   3.229,00
+     0 atd
+      0,00 01/10/25
+   3.229,00
+styllus do brasil industria de moveis eireli
+9605-005
+02/04/25
+03/10/25 liqui. dupl.
+   1.948,00
+   1.948,00
+     0 atd
+      0,00 01/10/25
+   1.948,00
+gazin s.a
+9606-005
+02/04/25
+03/10/25 liqui. dupl.
+     974,00
+     974,00
+     0 atd
+      0,00 01/10/25
+     974,00
+gazin s.a
+9607-005
+02/04/25
+03/10/25 liqui. dupl.
+     974,00
+     974,00
+     0 atd
+      0,00 01/10/25
+     974,00
+gazin s.a
+123532-002
+05/06/25
+04/10/25 liqui. dupl.
+     733,20
+     733,20
+     0 atd
+      0,00 02/10/25
+     733,20
+calcados pegada nordeste ltda fl 07
+164899-001
+25/08/25
+04/10/25 liqui. dupl.
+   1.038,76
+   1.038,76
+     0 atd
+      0,00 02/10/25
+   1.038,76
+calcados pegada nordeste ltda fl 10
+1820417-004
+04/06/25
+04/10/25 liqui. dupl.
+  16.412,36
+  16.412,36
+     0 atd
+      0,00 02/10/25
+  16.412,36
+color visao do brasil ind acrilica ltda
+27809-001
+23/09/25
+04/10/25 liqui. dupl.
+   1.061,64
+   1.061,64
+     0 atd
+      0,00 02/10/25
+   1.061,64
+habitat
+285144-005
+16/05/25
+04/10/25 liqui. dupl.
+   3.677,97
+   3.677,97
+     0 atd
+      0,00 02/10/25
+   3.677,97
+patrimar moveis ltda
+304435-003
+22/08/25
+04/10/25 liqui. dupl.
+  12.847,95
+  12.847,95
+     0 atd
+      0,00 02/10/25
+  12.847,95
+tbl - mandirituba
+327349-001
+27/08/25
+04/10/25 liqui. dupl.
+  13.515,26
+  13.515,26
+     0 atd
+      0,00 02/10/25
+  13.515,26
+mueller fogoes ltda

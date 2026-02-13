@@ -1,0 +1,705 @@
+contas a receber - recebidas
+data recbto. final : 31/07/2025 # cliente inicial : 0 # cliente final : 99999 # data inicial : 01/07/2025 # data final : 31/07/20
+codigo nome cliente
+nº documento
+vencimento
+valor
+relatório de contas recebidas por ordem de vencimento, cliente ou documento
+página 1
+14/08/2025
+descrição
+juros recebimento
+valor recebido
+desconto
+264 a nova pão e vinho
+121003
+09/06/2025
+1.010,00
+nf/121003
+0,00 07/07/2025
+1.010,00
+0,00
+264 a nova pão e vinho
+121034
+10/06/2025
+750,00
+nf/121034
+0,00 07/07/2025
+750,00
+0,00
+264 a nova pão e vinho
+121133
+12/06/2025
+850,00
+nf/121133
+0,00 07/07/2025
+850,00
+0,00
+264 a nova pão e vinho
+121270
+14/06/2025
+810,00
+nf/121270
+0,00 07/07/2025
+810,00
+0,00
+264 a nova pão e vinho
+121419
+18/06/2025
+750,00
+nf/121419
+0,00 07/07/2025
+750,00
+0,00
+264 a nova pão e vinho
+121532
+20/06/2025
+889,00
+nf 121532
+0,00 07/07/2025
+889,00
+0,00
+264 a nova pão e vinho
+121615
+23/06/2025
+900,00
+nf 121615
+0,00 07/07/2025
+900,00
+0,00
+264 a nova pão e vinho
+121754
+26/06/2025
+575,00
+nf 121754
+0,00 07/07/2025
+575,00
+0,00
+264 a nova pão e vinho
+122013
+04/07/2025
+1.210,00
+nf/122013
+0,00 07/07/2025
+1.116,00
+0,00
+264 a nova pão e vinho
+122013
+04/07/2025
+94,00
+nf/122013
+0,00 07/07/2025
+90,00
+4,00
+264 a nova pão e vinho
+122007
+04/07/2025
+770,00
+nf/122007
+0,00 23/07/2025
+770,00
+0,00
+264 a nova pão e vinho
+122010
+04/07/2025
+880,00
+nf/122010
+0,00 23/07/2025
+880,00
+0,00
+264 a nova pão e vinho
+122236
+09/07/2025
+1.110,00
+nf/122236
+0,00 23/07/2025
+1.110,00
+0,00
+264 a nova pão e vinho
+122572
+18/07/2025
+1.385,00
+nf/122572
+0,00 23/07/2025
+1.385,00
+0,00
+264 a nova pão e vinho
+122575
+18/07/2025
+825,00
+nf/122575
+0,00 23/07/2025
+825,00
+0,00
+264 a nova pão e vinho
+122706
+22/07/2025
+670,00
+nf/122706
+0,00 23/07/2025
+670,00
+0,00
+total recebimento
+13.380,00
+desconto --->
+4,00
+juros-->
+0,00
+466 ac comercio de hortifrutigranjeiros lt
+118584
+17/04/2025
+875,00
+nf 118584
+0,00 02/07/2025
+875,00
+0,00
+total recebimento
+875,00
+desconto --->
+0,00
+juros-->
+0,00
+373 acre comercial e atacadista de alimento
+115666
+17/02/2025
+276,00
+nf 115666
+0,00 04/07/2025
+275,00
+1,00
+373 acre comercial e atacadista de alimento
+122145
+07/07/2025
+4.755,00
+nf 122145
+0,00 11/07/2025
+4.755,00
+0,00
+373 acre comercial e atacadista de alimento
+122681
+21/07/2025
+3.595,00
+nf/122681
+0,00 25/07/2025
+3.595,00
+0,00
+total recebimento
+8.625,00
+desconto --->
+1,00
+juros-->
+0,00
+64 agro comercial shimizu ltda. - shimizu
+121033
+10/06/2025
+1.230,00
+nf/121033
+0,00 01/07/2025
+1.230,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+84247
+08/10/2024
+582,50
+ 
+2,50 02/07/2025
+585,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+121105
+11/06/2025
+1.500,00
+nf 121105
+0,00 03/07/2025
+1.500,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+121140
+12/06/2025
+3.300,00
+nf/121140
+0,00 03/07/2025
+3.300,00
+0,00
+14/08/2025 07:28:36
+página 1 de 1
+codigo nome cliente
+nº documento
+vencimento
+valor
+relatório de contas recebidas por ordem de vencimento, cliente ou documento
+página 2
+14/08/2025
+descrição
+juros recebimento
+valor recebido
+desconto
+64 agro comercial shimizu ltda. - shimizu
+121725
+26/06/2025
+1.040,00
+nf 121725
+0,00 10/07/2025
+1.040,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+121727
+26/06/2025
+950,00
+nf 121727
+0,00 10/07/2025
+950,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+121769
+27/06/2025
+300,00
+nf 121769
+0,00 11/07/2025
+300,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+121637
+23/06/2025
+1.260,00
+nf 121637
+0,00 14/07/2025
+1.260,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+121892
+01/07/2025
+1.600,00
+nf/121892
+0,00 14/07/2025
+1.600,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+121898
+01/07/2025
+450,00
+nf 121898
+0,00 15/07/2025
+450,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+122067
+04/07/2025
+1.050,00
+nf/122067
+0,00 25/07/2025
+1.050,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+122068
+04/07/2025
+690,00
+nf/122068
+0,00 25/07/2025
+690,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+122202
+08/07/2025
+270,00
+nf/122202
+0,00 29/07/2025
+270,00
+0,00
+64 agro comercial shimizu ltda. - shimizu
+122320
+11/07/2025
+980,00
+nf/122320
+0,00 30/07/2025
+980,00
+0,00
+total recebimento
+15.205,00
+desconto --->
+0,00
+juros-->
+2,50
+461 alecrim comercio de alimentos ltda
+119983
+19/05/2025
+1.115,00
+nf/119983
+0,00 04/07/2025
+1.110,00
+5,00
+461 alecrim comercio de alimentos ltda
+120956
+09/06/2025
+750,00
+nf/120956
+0,00 04/07/2025
+750,00
+0,00
+461 alecrim comercio de alimentos ltda
+116394
+03/03/2025
+425,00
+nf 116394
+0,00 07/07/2025
+415,00
+10,00
+461 alecrim comercio de alimentos ltda
+116951
+14/03/2025
+305,00
+nf 116951
+0,00 07/07/2025
+305,00
+0,00
+461 alecrim comercio de alimentos ltda
+117562
+28/03/2025
+710,00
+nf 117562
+0,00 07/07/2025
+710,00
+0,00
+461 alecrim comercio de alimentos ltda
+118306
+11/04/2025
+720,00
+nf 118306
+0,00 24/07/2025
+720,00
+0,00
+461 alecrim comercio de alimentos ltda
+118701
+23/04/2025
+760,00
+nf 118701
+0,00 24/07/2025
+760,00
+0,00
+total recebimento
+4.770,00
+desconto --->
+15,00
+juros-->
+0,00
+442 amorim total comercio de alimento ltda
+121684
+25/06/2025
+732,84
+nf 121684
+0,00 03/07/2025
+732,84
+0,00
+442 amorim total comercio de alimento ltda
+121629
+23/06/2025
+459,99
+nf 121629
+0,00 04/07/2025
+459,99
+0,00
+442 amorim total comercio de alimento ltda
+121847
+28/06/2025
+443,25
+nf 121847
+0,00 04/07/2025
+443,25
+0,00
+442 amorim total comercio de alimento ltda
+121709
+25/06/2025
+290,58
+nf 121709
+0,00 07/07/2025
+290,58
+0,00
+442 amorim total comercio de alimento ltda
+122042
+04/07/2025
+140,00
+nf122042
+0,00 09/07/2025
+140,00
+0,00
+442 amorim total comercio de alimento ltda
+121761
+26/06/2025
+528,94
+nf 121761
+0,00 10/07/2025
+528,94
+0,00
+442 amorim total comercio de alimento ltda
+121964
+02/07/2025
+566,38
+nf 121964
+0,00 14/07/2025
+566,38
+0,00
+442 amorim total comercio de alimento ltda
+122140
+07/07/2025
+551,60
+nf/122140
+0,00 18/07/2025
+551,60
+0,00
+442 amorim total comercio de alimento ltda
+122227
+09/07/2025
+699,35
+nf/122227
+0,00 23/07/2025
+699,35
+0,00
+442 amorim total comercio de alimento ltda
+122310
+11/07/2025
+581,15
+nf/122310
+0,00 23/07/2025
+581,15
+0,00
+14/08/2025 07:28:36
+página 2 de 2
+codigo nome cliente
+nº documento
+vencimento
+valor
+relatório de contas recebidas por ordem de vencimento, cliente ou documento
+página 3
+14/08/2025
+descrição
+juros recebimento
+valor recebido
+desconto
+442 amorim total comercio de alimento ltda
+122397
+15/07/2025
+517,13
+nf/122397
+0,00 24/07/2025
+487,13
+30,00
+442 amorim total comercio de alimento ltda
+122589
+18/07/2025
+413,70
+nf/122589
+0,00 30/07/2025
+413,70
+0,00
+442 amorim total comercio de alimento ltda
+122479
+16/07/2025
+320,13
+nf/122479
+0,00 31/07/2025
+320,13
+0,00
+total recebimento
+6.215,04
+desconto --->
+30,00
+juros-->
+0,00
+474 andrade e cardoso mercadinho ltda
+121315
+16/06/2025
+1.195,00
+nf/121315
+22,94 02/07/2025
+1.217,94
+0,00
+474 andrade e cardoso mercadinho ltda
+121673
+25/06/2025
+865,00
+nf 121673
+11,07 08/07/2025
+876,07
+0,00
+474 andrade e cardoso mercadinho ltda
+122144
+07/07/2025
+900,00
+nf/122144
+17,28 17/07/2025
+917,28
+0,00
+474 andrade e cardoso mercadinho ltda
+122374
+14/07/2025
+940,00
+nfe/122374
+9,02 21/07/2025
+949,02
+0,00
+total recebimento
+3.960,31
+desconto --->
+0,00
+juros-->
+60,31
+296 andreia silva santana
+121854
+30/06/2025
+420,00
+nf 121584
+0,00 07/07/2025
+420,00
+0,00
+296 andreia silva santana
+121978
+02/07/2025
+630,00
+nf 121978
+0,00 07/07/2025
+630,00
+0,00
+296 andreia silva santana
+122051
+04/07/2025
+620,00
+nf 122051
+0,00 07/07/2025
+620,00
+0,00
+296 andreia silva santana
+122151
+07/07/2025
+490,00
+nf 122151
+0,00 14/07/2025
+490,00
+0,00
+296 andreia silva santana
+122235
+09/07/2025
+610,00
+nf 12235
+0,00 14/07/2025
+610,00
+0,00
+296 andreia silva santana
+122292
+11/07/2025
+610,00
+nf 122292
+0,00 14/07/2025
+610,00
+0,00
+296 andreia silva santana
+122356
+14/07/2025
+480,00
+nfe/122356
+0,00 21/07/2025
+480,00
+0,00
+296 andreia silva santana
+122482
+16/07/2025
+586,00
+nf/122482
+0,00 21/07/2025
+586,00
+0,00
+296 andreia silva santana
+122562
+18/07/2025
+570,00
+nfe/122562
+0,00 21/07/2025
+570,00
+0,00
+total recebimento
+5.016,00
+desconto --->
+0,00
+juros-->
+0,00
+202 ao consumidor
+78907
+28/06/2025
+6.040,00
+nfce-78907
+0,00 11/07/2025
+6.040,00
+0,00
+202 ao consumidor
+78908
+28/06/2025
+2.972,90
+nfce-78908
+0,00 11/07/2025
+1.960,00
+0,00
+202 ao consumidor
+78884
+28/06/2025
+9.870,00
+nfce-78884
+0,00 14/07/2025
+5.624,10
+0,00
+202 ao consumidor
+78908
+28/06/2025
+1.012,90
+nfce-78908
+0,00 14/07/2025
+1.012,90
+0,00
+202 ao consumidor
+78883
+28/06/2025
+9.870,00
+nfce-78883
+0,00 16/07/2025
+3.539,10
+0,00
+202 ao consumidor
+78884
+28/06/2025
+4.245,90
+nfce-78884
+0,00 16/07/2025
+4.245,90
+0,00
+202 ao consumidor
+78883
+28/06/2025
+6.330,90
+nfce-78883
+0,00 21/07/2025
+5.835,00
+0,00
+202 ao consumidor
+78883
+28/06/2025
+495,90
+nfce-78883
+0,00 21/07/2025
+495,00
+0,90
+202 ao consumidor
+78909
+28/06/2025
+1.245,00
+nfce-78909
+0,00 28/07/2025
+1.245,00
+0,00
+202 ao consumidor
+78912
+28/06/2025
+7.057,90
+nfce-78912
+0,00 28/07/2025
+3.983,00
+0,00
+14/08/2025 07:28:36
+página 3 de 3

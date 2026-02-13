@@ -1,0 +1,81 @@
+               sisbb  -  sistema de informacoes banco do brasil                 
+               09.01.2025  -   auto-atendimento    -   13:58:08                 
+                                                                                
+                        extrato de cartao de credito                            
+                          para simples conferencia                              
+                                                                                
+               cliente: alexsandra brandao                                      
+               cartao: **************** ourocard corporativo vi                 
+               ================================================                 
+                     fatura com vencimento em 10.10.2024                 
+               lancamentos em real                                              
+               cart. data  descricao                 v a l o r                  
+               2293  06.11 dell          parc 11        464,16                  
+               2293  28.08 linkedin                     226,04                  
+               2293  02.09 uber * pending                22,98                  
+               2293  02.09 uber * pending                67,93                  
+               2293  02.09 uber * pending                47,62                  
+               2293  03.09 uber * pending                29,77                  
+               2293  03.09 uber * pending                18,33                  
+               8439  03.09 iof - compra no exteri        49,00                  
+               2293  04.09 uber * pending                24,90                  
+               2293  04.09 uber * pending                23,08                  
+               2293  04.09 uber * pending                22,98                  
+               8439  04.09 iof - compra no exteri        13,31                  
+               2293  05.09 uber * pending                46,14                  
+               2293  09.09 uber * pending                36,40                  
+               2293  09.09 uber * pending                36,90                  
+               2293  09.09 uber * pending                39,92                  
+               2293  09.09 uber * pending                45,34                  
+               2293  09.09 uber* trip                    42,15                  
+               8439  10.09 pgto debito conta 0021     1.666,83-                 
+               2293  10.09 uber * pending                11,89                  
+               2293  10.09 uber * pending                41,96                  
+               2293  10.09 uber * pending                46,94                  
+               2293  10.09 uber * pending                43,65                  
+               2293  10.09 uber * pending                59,73                  
+               2293  11.09 uber * pending                33,97                  
+               2293  11.09 uber * pending                25,01                  
+               2293  11.09 uber * pending                19,60                  
+               2293  12.09 uber * pending                23,77                  
+               2293  12.09 uber * pending                16,31                  
+               2293  12.09 uber * pending                36,56                  
+               2293  17.09 uber * pending                 6,30                  
+               2293  17.09 uber   *uber   *trip          28,27                  
+               2293  18.09 uber * pending                23,97                  
+               2293  19.09 uber * pending                20,76                  
+               2293  19.09 uber * pending                31,74                  
+               2293  19.09 uber * pending                31,88                  
+               2293  19.09 uber * pending                20,48                  
+               2293  21.09 linkedin                      52,49                  
+               2293  23.09 uber * pending               107,93                  
+               2293  24.09 uber * pending                97,48                  
+               2293  24.09 uber * pending                32,91                  
+               2293  24.09 uber * pending                 4,73                  
+               2293  24.09 uber   *uber   *trip          46,67                  
+               2293  24.09 uber * pending                49,64                  
+               2293  25.09 uber * pending                28,87                  
+               2293  25.09 uber * pending                 3,09                  
+               2293  25.09 uber * pending                24,86                            
+               cart. data  descricao                 v a l o r                  
+               2293  02.09 gladia                     1.118,83                  
+                           val. dolar americano         190,20                  
+                           taxa dolar em 02.09          5,8824                  
+               2293  03.09 chatbotkit                   304,09                  
+                           val. dolar americano          52,00                  
+                           taxa dolar em 03.09          5,8479                  
+                                                                                
+                                                                                
+               resumo da fatura                                                 
+                                    ---- r$ ----   --- us$ ---                  
+                   limite unico            0,00                                 
+                   lim. do cartao          0,00                                 
+                   lim. parcelado          0,00                                 
+                   saldo anterior      1.666,83                                 
+                   pagtos/credito      1.666,83           0,00                  
+                   compras/debito      2.228,41         242,20                  
+                   saldo atual         2.228,41         242,20                  
+                   sld convertido      1.422,92                                 
+                   saldo total         3.651,33                                 
+                   pg. minimo            547,70                                 
+               ------------------------------------------------                 

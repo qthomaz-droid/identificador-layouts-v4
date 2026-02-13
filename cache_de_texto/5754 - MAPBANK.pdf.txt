@@ -1,0 +1,675 @@
+mapbank - 14.615.234/0001-58
+cliente: terra e mar serviços ltda - agência: 0001 - conta: 11019 
+pág. 1
+lançamentos
+de 01/07/2025 00:00:00 até 31/07/2025 23:59:59 - gerado em: 07/08/2025 10:49:28
+descrição
+valor
+saldo na conta
+tipo
+debitado
+creditado
+referência
+data/hora
+saldo anterior
+---
+r$ 12,00
+saldo
+---
+---
+---
+01/07/2025 00:00:00
+recebimento pix crédito - transação #12060
+r$ 10.300,00
+r$ 10.312,00
+crédito
+terra e mar servicos 
+ltda
+terra e mar serviços 
+ltda
+e60701190202507032045dy5jrabxpe
+x
+03/07/2025 17:45:04
+taxa administrativa - taxa administrativa 
+(débito)  - transação #12061
+-r$ 206,00
+r$ 10.106,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+03/07/2025 17:45:04
+recebimento pix crédito - transação #13000
+r$ 6.000,00
+r$ 16.106,00
+crédito
+terra e mar servicos 
+ltda
+terra e mar serviços 
+ltda
+e60701190202507041151dy5optpxe9
+m
+04/07/2025 08:52:06
+taxa administrativa - taxa administrativa 
+(débito)  - transação #13001
+-r$ 120,00
+r$ 15.986,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+04/07/2025 08:52:06
+recebimento pix crédito - transação #13363
+r$ 1.500,00
+r$ 17.486,00
+crédito
+terra e mar servicos 
+ltda
+terra e mar serviços 
+ltda
+e82639451202507041421309s4nhzgx
+f
+04/07/2025 11:21:49
+taxa administrativa - taxa administrativa 
+(débito)  - transação #13364
+-r$ 30,00
+r$ 17.456,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+04/07/2025 11:21:49
+recebimento pix crédito - transação #13367
+r$ 2.000,00
+r$ 19.456,00
+crédito
+terra e mar servicos 
+ltda
+terra e mar serviços 
+ltda
+e82639451202507041422bvj32j8gpzr
+04/07/2025 11:22:47
+taxa administrativa - taxa administrativa 
+(débito)  - transação #13368
+-r$ 40,00
+r$ 19.416,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+04/07/2025 11:22:47
+recebimento pix crédito - transação #14150
+r$ 10.000,00
+r$ 29.416,00
+crédito
+luccas domingos
+terra e mar serviços 
+ltda
+e18236120202507042146s046c01f19b
+04/07/2025 18:47:17
+taxa administrativa - taxa administrativa 
+(débito)  - transação #14151
+-r$ 200,00
+r$ 29.216,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+04/07/2025 18:47:17
+transação pix débito - transação #14170
+-r$ 800,00
+r$ 28.416,00
+débito
+terra e mar serviços 
+ltda
+eva
+e14615234202507042237460566cc284
+04/07/2025 19:37:46
+recebimento pix crédito - transação #14173
+r$ 12.000,00
+r$ 40.416,00
+crédito
+aughusto cesar alves
+terra e mar serviços 
+ltda
+e60746948202507050035a1737fxyt28
+04/07/2025 21:36:16
+taxa administrativa - taxa administrativa 
+(débito)  - transação #14174
+-r$ 240,00
+r$ 40.176,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+04/07/2025 21:36:16
+transação pix débito - transação #14192
+-r$ 3.458,00
+r$ 36.718,00
+débito
+terra e mar serviços 
+ltda
+nilson linhares
+e1461523420250705135142525a4fcce
+05/07/2025 10:52:28
+transação pix débito - transação #14196
+-r$ 5.013,00
+r$ 31.705,00
+débito
+terra e mar serviços 
+ltda
+murilo moreira
+e1461523420250705135317103c6a5c7
+05/07/2025 10:53:37
+transação pix débito - transação #14197
+-r$ 4.086,00
+r$ 27.619,00
+débito
+terra e mar serviços 
+ltda
+maxwell josé dos santos 
+sobrinho
+e1461523420250705135514922db29a4
+05/07/2025 10:55:38
+transação pix débito - transação #14198
+-r$ 3.257,00
+r$ 24.362,00
+débito
+terra e mar serviços 
+ltda
+joel soares da silva junior
+e1461523420250705135939386a6cf79
+05/07/2025 10:59:59
+transação pix débito - transação #14199
+-r$ 2.154,00
+r$ 22.208,00
+débito
+terra e mar serviços 
+ltda
+joao lucas caixeta 
+vargas
+e14615234202507051400312436d69e1
+05/07/2025 11:00:46
+transação pix débito - transação #14200
+-r$ 3.375,00
+r$ 18.833,00
+débito
+terra e mar serviços 
+ltda
+adilson pedro 
+bernardes
+e1461523420250705140117346cd5ca8
+05/07/2025 11:01:33
+transação pix débito - transação #14201
+-r$ 4.394,00
+r$ 14.439,00
+débito
+terra e mar serviços 
+ltda
+adriano mariano
+e1461523420250705140205233ab4fdd
+05/07/2025 11:02:34
+mapbank - 14.615.234/0001-58
+cliente: terra e mar serviços ltda - agência: 0001 - conta: 11019 
+pág. 2
+descrição
+valor
+saldo na conta
+tipo
+debitado
+creditado
+referência
+data/hora
+recebimento pix crédito - transação #14203
+r$ 500,00
+r$ 14.939,00
+crédito
+aughusto cesar alves 
+ltda
+terra e mar serviços 
+ltda
+e9040088820250705141142116277095
+05/07/2025 11:12:00
+taxa administrativa - taxa administrativa 
+(débito)  - transação #14204
+-r$ 10,00
+r$ 14.929,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+05/07/2025 11:12:00
+transação pix débito - transação #14210
+-r$ 14.929,00
+r$ 0,00
+débito
+terra e mar serviços 
+ltda
+terra & mar 
+participacoes
+e1461523420250705141529130b97bf2
+05/07/2025 11:16:11
+recebimento pix crédito - transação #14811
+r$ 12.500,00
+r$ 12.500,00
+crédito
+veber industria metal 
+mecanica ltda
+terra e mar serviços 
+ltda
+e60701190202507071122dy56nfx78pj
+07/07/2025 09:25:43
+taxa administrativa - taxa administrativa 
+(débito)  - transação #14812
+-r$ 250,00
+r$ 12.250,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+07/07/2025 09:25:43
+recebimento pix crédito - transação #14969
+r$ 6.000,00
+r$ 18.250,00
+crédito
+terra e mar servicos 
+ltda
+terra e mar serviços 
+ltda
+e826394512025070714420hdd3abtvc
+v
+07/07/2025 11:42:36
+taxa administrativa - taxa administrativa 
+(débito)  - transação #14970
+-r$ 120,00
+r$ 18.130,00
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+07/07/2025 11:42:37
+transação pix débito - transação #15278
+-r$ 10.000,00
+r$ 8.130,00
+débito
+terra e mar serviços 
+ltda
+terra e mar servicos 
+ltda
+e146152342025070721045480266ddbf
+07/07/2025 18:06:14
+transação pix débito - transação #15298
+-r$ 7.600,00
+r$ 530,00
+débito
+terra e mar serviços 
+ltda
+terra e mar servicos 
+ltda
+e14615234202507072118373789cb992
+07/07/2025 18:18:54
+transação pix débito - transação #15309
+-r$ 500,00
+r$ 30,00
+débito
+terra e mar serviços 
+ltda
+eva
+e1461523420250707212546173d61d7a
+07/07/2025 18:25:46
+recebimento pix crédito - transação #16328
+r$ 140,00
+r$ 170,00
+crédito
+terra e mar servicos 
+ltda
+terra e mar serviços 
+ltda
+e82639451202507082040j7vyhr2mi13
+08/07/2025 17:40:39
+taxa administrativa - taxa administrativa 
+(débito)  - transação #16329
+-r$ 2,80
+r$ 167,20
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+08/07/2025 17:40:40
+recebimento pix crédito - transação #19480
+r$ 3.345,00
+r$ 3.512,20
+crédito
+terra e mar servicos 
+ltda
+terra e mar serviços 
+ltda
+e82639451202507102028cmv6mmhj92
+j
+10/07/2025 17:30:39
+taxa administrativa - taxa administrativa 
+(débito)  - transação #19481
+-r$ 66,90
+r$ 3.445,30
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+10/07/2025 17:30:39
+transação pix débito - transação #21166
+-r$ 2.000,00
+r$ 1.445,30
+débito
+terra e mar serviços 
+ltda
+terra e mar servicos 
+ltda
+e1461523420250711210503060febba4
+11/07/2025 18:05:03
+transação pix débito - transação #21195
+-r$ 1.000,00
+r$ 445,30
+débito
+terra e mar serviços 
+ltda
+eva
+e14615234202507112122385763a2d39
+11/07/2025 18:22:39
+transação pix débito - transação #26006
+-r$ 20,00
+r$ 425,30
+débito
+terra e mar serviços 
+ltda
+terra e mar servicos 
+ltda
+e1461523420250714231325513fc4999
+14/07/2025 20:13:25
+recebimento pix crédito - transação #26873
+r$ 3.296,48
+r$ 3.721,78
+crédito
+c renk mancais bras 
+ltda
+terra e mar serviços 
+ltda
+e0000000020250715105605561986566
+15/07/2025 12:19:13
+taxa administrativa - taxa administrativa 
+(débito)  - transação #26874
+-r$ 65,93
+r$ 3.655,85
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+15/07/2025 12:19:14
+recebimento pix crédito - transação #27279
+r$ 3.210,91
+r$ 6.866,76
+crédito
+textil renauxview sa
+terra e mar serviços 
+ltda
+e78825270202507151722xkpcthemwqr
+15/07/2025 15:33:42
+taxa administrativa - taxa administrativa 
+(débito)  - transação #27280
+-r$ 64,22
+r$ 6.802,54
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+15/07/2025 15:33:42
+transação pix débito - transação #27511
+-r$ 2.827,43
+r$ 3.975,11
+débito
+terra e mar serviços 
+ltda
+banco do brasil sa
+e14615234202507152018183052cd12f
+15/07/2025 17:18:18
+mapbank - 14.615.234/0001-58
+cliente: terra e mar serviços ltda - agência: 0001 - conta: 11019 
+pág. 3
+descrição
+valor
+saldo na conta
+tipo
+debitado
+creditado
+referência
+data/hora
+transação pix débito - transação #27515
+-r$ 147,30
+r$ 3.827,81
+débito
+terra e mar serviços 
+ltda
+unitaten assessoria 
+empresarial
+e1461523420250715201959481fb0275
+15/07/2025 17:19:59
+transação pix débito - transação #27522
+-r$ 186,70
+r$ 3.641,11
+débito
+terra e mar serviços 
+ltda
+unitaten assessoria 
+empresarial
+e14615234202507152020497736724ca
+15/07/2025 17:20:50
+transação pix débito - transação #27523
+-r$ 186,70
+r$ 3.454,41
+débito
+terra e mar serviços 
+ltda
+unitaten assessoria 
+empresarial
+e1461523420250715202113941c6b25d
+15/07/2025 17:21:14
+transação pix débito - transação #27524
+-r$ 209,98
+r$ 3.244,43
+débito
+terra e mar serviços 
+ltda
+unitaten assessoria 
+empresarial
+e14615234202507152021280691b09cb
+15/07/2025 17:21:28
+transação pix débito - transação #27528
+-r$ 209,96
+r$ 3.034,47
+débito
+terra e mar serviços 
+ltda
+unitaten assessoria 
+empresarial
+e1461523420250715202152963d4d497
+15/07/2025 17:21:53
+transação pix débito - transação #27532
+-r$ 209,96
+r$ 2.824,51
+débito
+terra e mar serviços 
+ltda
+unitaten assessoria 
+empresarial
+e1461523420250715202210007e9a290
+15/07/2025 17:22:10
+transação pix débito - transação #27533
+-r$ 909,39
+r$ 1.915,12
+débito
+terra e mar serviços 
+ltda
+municipio de itajai
+e14615234202507152023091294cc745
+15/07/2025 17:23:09
+transação pix débito - transação #27551
+-r$ 1.100,00
+r$ 815,12
+débito
+terra e mar serviços 
+ltda
+eva
+e1461523420250715203250193ac545e
+15/07/2025 17:32:50
+transação pix débito - transação #28523
+-r$ 585,89
+r$ 229,23
+débito
+terra e mar serviços 
+ltda
+komprao koch 
+atacadista
+e146152342025071612114896282eee6
+16/07/2025 09:11:49
+recebimento pix crédito - transação #28619
+r$ 2.441,49
+r$ 2.670,72
+crédito
+zanella engenharia e 
+indu
+terra e mar serviços 
+ltda
+e0000000020250716104141142462720
+16/07/2025 10:09:38
+taxa administrativa - taxa administrativa 
+(débito)  - transação #28620
+-r$ 48,83
+r$ 2.621,89
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+16/07/2025 10:09:39
+recebimento pix crédito - transação #28805
+r$ 2.931,29
+r$ 5.553,18
+crédito
+textil renauxview sa
+terra e mar serviços 
+ltda
+e78825270202507161419zhhli6ugmrk
+16/07/2025 11:23:46
+taxa administrativa - taxa administrativa 
+(débito)  - transação #28806
+-r$ 58,63
+r$ 5.494,55
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+16/07/2025 11:23:46
+recebimento pix crédito - transação #29569
+r$ 37.649,65
+r$ 43.144,20
+crédito
+netzsch do brasil 
+industria e comercio 
+ltda
+terra e mar serviços 
+ltda
+e60746948202507161304i2656z9hlcw
+16/07/2025 15:14:09
+taxa administrativa - taxa administrativa 
+(débito)  - transação #29570
+-r$ 752,99
+r$ 42.391,21
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+16/07/2025 15:14:09
+transação pix débito - transação #29883
+-r$ 2.907,04
+r$ 39.484,17
+débito
+terra e mar serviços 
+ltda
+cristiane sasse alves 
+05746168963
+e1461523420250716201728515a3bd7e
+16/07/2025 17:18:07
+transação pix débito - transação #29889
+-r$ 30.000,00
+r$ 9.484,17
+débito
+terra e mar serviços 
+ltda
+terra e mar servicos 
+ltda
+e1461523420250716202054067d67e14
+16/07/2025 17:20:54
+recebimento pix crédito - transação #29897
+r$ 4.719,82
+r$ 14.203,99
+crédito
+jungheinrich lift truck 
+comerc
+terra e mar serviços 
+ltda
+e60701190202507161350dy5zyihka8u
+16/07/2025 17:24:49
+taxa administrativa - taxa administrativa 
+(débito)  - transação #29898
+-r$ 94,40
+r$ 14.109,59
+débito
+terra e mar serviços 
+ltda
+taxa administrativa
+---
+16/07/2025 17:24:49
+transação pix débito - transação #29934
+-r$ 810,19
+r$ 13.299,40
+débito
+terra e mar serviços 
+ltda
+luiz antonio tironi
+e1461523420250716204211147171daf
+16/07/2025 17:42:23
+transação pix débito - transação #29961
+-r$ 3.000,48
+r$ 10.298,92
+débito
+terra e mar serviços 
+ltda
+pewag helevar 
+comercio e importacao 
+de produtos 
+metalurgicos ltda
+e146152342025071620455790747bc88
+16/07/2025 17:46:10
+transação pix débito - transação #30004
+-r$ 3.000,00
+r$ 7.298,92
+débito
+terra e mar serviços 
+ltda
+eva
+e1461523420250716210941100d5ed65
+16/07/2025 18:09:41

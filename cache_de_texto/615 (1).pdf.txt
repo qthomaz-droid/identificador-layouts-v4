@@ -1,0 +1,342 @@
+fechamento de conta financeira
+pag.: 1 de 65
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 5.27.13
+usuário: sheila
+estabelecimento(s): 0003 - fibra tecnologia e serviços ltda
+período dos lançamentos: 01/10/2025 até 31/10/2025
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+não visualizar contas com saldo zerado
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+conta:
+0020 - banestes fibra tec
+data: 01/10/2025
+saldo anterior:
+19.070,57
+l - 00001
+3.962,62
+0,00
+23.033,19
+serviços terceirizados
+shinagawa refratários do brasil l 3559
+shinagawa refratários do brasil ltda
+l - 00005
+0,00
+0,90
+23.032,29
+tarifa bancária
+ref: tarifa bancária - fornecedor: tarifas bancárias -  nf:  - déb. automático,  tarifas bancárias
+l - 00002
+0,00
+59,43
+22.972,86
+multas rescisórias fgts
+ref: multas rescisórias fgts - fornecedor: multa rescisoria -  nf:  - gfd,  multa rescisoria
+l - 00003
+0,00
+1.403,10
+21.569,76
+aquisição equipamentos
+ref: aquisição equipamentos - fornecedor: mercado livre -  nf:  - aguardando n/f - aquisição de um giroflex para 
+evento da garra,  mercado livre
+t - 00002
+0,00
+2.216,35
+19.353,41
+origem: banestes fibra tec/destino: soma fibra tec
+transferência da banestes fibra tec p/ soma fibra tec
+l - 00004
+0,00
+10.281,35
+9.072,06
+empréstimo fibra
+ref: empréstimo fibra - fornecedor: fibra negócios e serviços ltda -  nf:  - ted/pix s/ nf,  fibra negócios e serviço
+ltda
+9.072,06
+total da data(01/10/2025):
+3.962,62
+13.961,13
+data: 02/10/2025
+saldo anterior:
+9.072,06
+l - 00001
+65.672,53
+0,00
+74.744,59
+serviços terceirizados
+atacado uniao ltda
+3651
+atacado uniao ltda
+l - 00002
+4.454,66
+0,00
+79.199,25
+serviços terceirizados
+atacado uniao ltda
+3652
+atacado uniao ltda
+l - 00004
+0,00
+39,61
+79.159,64
+multas rescisórias fgts
+ref: multas rescisórias fgts - fornecedor: multa rescisoria -  nf:  - gfd,  multa rescisoria
+t - 00002
+0,00
+948,06
+78.211,58
+origem: banestes fibra tec/destino: soma fibra tec
+transferência da banestes fibra tec p/ soma fibra tec
+l - 00003
+0,00
+10.822,00
+67.389,58
+refeições antecipado
+87146263
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - bonificação de 
+férias garra,  vr beneficios e serv de proc. s.a.
+l - 00005
+0,00
+31.899,05
+35.490,53
+empréstimo fibra
+ref: empréstimo fibra - fornecedor: fibra negócios e serviços ltda -  nf:  - ted/pix s/ nf,  fibra negócios e serviço
+ltda
+35.490,53
+total da data(02/10/2025):
+70.127,19
+43.708,72
+continua...
+ obs.
+fechamento de conta financeira
+pag.: 2 de 65
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 5.27.13
+usuário: sheila
+estabelecimento(s): 0003 - fibra tecnologia e serviços ltda
+período dos lançamentos: 01/10/2025 até 31/10/2025
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+não visualizar contas com saldo zerado
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+data: 03/10/2025
+saldo anterior:
+35.490,53
+l - 00002
+4.515,00
+0,00
+40.005,53
+serviços terceirizados
+atacado uniao ltda
+082025*,.
+atacado uniao ltda
+l - 00001
+59.016,48
+0,00
+99.022,01
+serviços terceirizados
+atacado uniao ltda
+3650
+atacado uniao ltda
+l - 00040
+5.200,00
+0,00
+104.222,01
+receitas de empréstimo fibra
+fibra negocios e serviços ltda
+baixa de contas a receber rápido
+t - 00003
+419.700,00
+0,00
+523.922,01
+origem: spx fibra tec/destino: banestes fibra tec
+transferência da spx fibra tec p/ banestes fibra tec
+t - 00005
+38.700,00
+0,00
+562.622,01
+origem: bpm fibra tec/destino: banestes fibra tec
+transferência da bpm fibra tec p/ banestes fibra tec
+l - 00004
+0,00
+54,34
+562.567,67
+materiais e serviços clientes
+6729
+ref: materiais e serviços clientes - fornecedor: mercado livre -  nf:  - aguardando n/f - 50 clips jacarés para 
+implantação multiscan,  mercado livre
+l - 00005
+0,00
+183,62
+562.384,05
+refeições antecipado
+87316315
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - cesta ari bahia 
+garra,  vr beneficios e serv de proc. s.a.
+l - 00003
+0,00
+184,57
+562.199,48
+multas rescisórias fgts
+ref: multas rescisórias fgts - fornecedor: multa rescisoria -  nf:  - gfd,  multa rescisoria
+l - 00036
+0,00
+299,00
+561.900,48
+materiais e serviços clientes
+91 961
+ref: materiais e serviços clientes - fornecedor: resolve maquinas -  nf:  - ted/pix s/ nf ,  resolve maquinas
+l - 00006
+0,00
+535,68
+561.364,80
+refeições antecipado
+87251118
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - ari bahia garra,  v
+beneficios e serv de proc. s.a.
+l - 00038
+0,00
+688,95
+560.675,85
+refeições antecipado
+87318744
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - cesta luiz henriq
+itatiba,  vr beneficios e serv de proc. s.a.
+l - 00007
+0,00
+1.500,00
+559.175,85
+refeições antecipado
+87318428
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - cesta cco garra, 
+vr beneficios e serv de proc. s.a.
+l - 00039
+0,00
+1.600,00
+557.575,85
+refeições antecipado
+87319457
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - cesta luiz henriq
+manaus,  vr beneficios e serv de proc. s.a.
+continua...
+ obs.
+fechamento de conta financeira
+pag.: 3 de 65
+empresa: fibra negocios e serviços ltda
+fortes ag financeiro - versão 5.27.13
+usuário: sheila
+estabelecimento(s): 0003 - fibra tecnologia e serviços ltda
+período dos lançamentos: 01/10/2025 até 31/10/2025
+imprimir estabelecimentos/contas sem movimento no período (não marcado)
+não visualizar contas com saldo zerado
+data
+movimento
+receita/despesa
+entrada
+saída
+saldo
+l - 00008
+0,00
+1.619,84
+555.956,01
+refeições antecipado
+87321355
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - julio cesar fibra 
+tec e tec serviços,  vr beneficios e serv de proc. s.a.
+l - 00009
+0,00
+2.176,32
+553.779,69
+refeições antecipado
+87315565
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - duilio fibra tec,  v
+beneficios e serv de proc. s.a.
+l - 00010
+0,00
+2.313,84
+551.465,85
+refeições antecipado
+87343900
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - carlos magno 
+fibra tec,  vr beneficios e serv de proc. s.a.
+l - 00011
+0,00
+2.600,00
+548.865,85
+refeições antecipado
+87251001
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - ari bahia fibra tec
+vr beneficios e serv de proc. s.a.
+l - 00012
+0,00
+5.102,88
+543.762,97
+refeições antecipado
+87315929
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - euclydes fibra ne
+vr beneficios e serv de proc. s.a.
+l - 00041
+0,00
+5.269,42
+538.493,55
+refeições antecipado
+87325460
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - cesta davidson 
+minas gerais,  vr beneficios e serv de proc. s.a.
+l - 00013
+0,00
+5.580,00
+532.913,55
+refeições antecipado
+87316697
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - euclydes garra,  
+vr beneficios e serv de proc. s.a.
+l - 00014
+0,00
+5.726,41
+527.187,14
+refeições antecipado
+87315384
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - weverson fibra t
+vr beneficios e serv de proc. s.a.
+t - 00002
+0,00
+8.255,29
+518.931,85
+origem: banestes fibra tec/destino: soma fibra tec
+transferência da banestes fibra tec p/ soma fibra tec
+l - 00015
+0,00
+8.331,10
+510.600,75
+refeições antecipado
+87316686
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - filipe fibra tec,  v
+beneficios e serv de proc. s.a.
+l - 00016
+0,00
+8.820,00
+501.780,75
+refeições antecipado
+87316896
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - katiucia garra,  v
+beneficios e serv de proc. s.a.
+l - 00017
+0,00
+9.653,78
+492.126,97
+refeições antecipado
+87322156
+ref: refeições antecipado - fornecedor: vr beneficios e serv de proc. s.a. -  nf:  - aguardando n/f - apoio fibra tec,  v
+beneficios e serv de proc. s.a.
+continua...
+ obs.

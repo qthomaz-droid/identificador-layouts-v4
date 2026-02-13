@@ -1,0 +1,1285 @@
+relatório de cartão \ financeira
+empresa:
+1
+página:
+período de recebimento de 01/07/2025 à 31/07/2025 por ordem de dt vencimento e sub-ordem de dt recebimento, modelo de relatório: 
+documentos, situação dos documentos: pagos
+decor moveis eireli                                                                                 
+tipo de documentos: cartão débito,  cartão crédito,  financeira
+52 - santander                                                   
+1 - visa                                                        
+10 - minchio decor                                               
+10 - minchio decor                                               
+filial inicial:
+filial final:
+administradora inicial:
+administradora final:
+conta final:
+conta incial:
+1 - carteira                                                    
+1 - carteira                                                    
+emissão
+adm.
+filial
+liberação
+excluido
+tipo
+vr liquido
+taxa
+vr desconto
+vr parcela
+dt pagto
+dt vecto
+pc
+doc. fiscal
+dt vencimento - 01/07/2025
+ 10
+ 22
+ 1
+01/07/25
+01/07/25
+ 3.100,00
+ 80,29
+ 2,59
+ 3.019,71 cartão crédito
+nâo
+31/05/25
+ 9362
+20365992
+ 10
+ 22
+ 1
+01/07/25
+01/07/25
+ 3.000,00
+ 77,70
+ 2,59
+ 2.922,30 cartão crédito
+nâo
+31/05/25
+ 9362
+176643630
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 6.100,00
+ 157,99
+ 5.942,01
+quant. documentos:
+ 2
+dt vencimento - 03/07/2025
+ 10
+ 22
+ 4
+03/07/25
+01/07/25
+ 319,50
+ 8,27
+ 2,59
+ 311,23 cartão crédito
+nâo
+01/03/25
+ 8964
+15545144
+ 10
+ 22
+ 4
+03/07/25
+01/07/25
+ 216,00
+ 5,59
+ 2,59
+ 210,41 cartão crédito
+nâo
+01/03/25
+184338604
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 535,50
+ 13,86
+ 521,64
+quant. documentos:
+ 2
+dt vencimento - 04/07/2025
+ 10
+ 11
+ 1
+04/07/25
+04/07/25
+ 1.000,00
+ 9,10
+ 0,91
+ 990,90 cartão débito
+nâo
+03/07/25
+180438308
+ 10
+ 12
+ 1
+04/07/25
+07/07/25
+ 50,00
+ 0,96
+ 1,92
+ 49,04 cartão crédito
+nâo
+04/06/25
+ 9371
+185343054
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 1.050,00
+ 10,06
+ 1.039,94
+quant. documentos:
+ 2
+dt vencimento - 05/07/2025
+ 10
+ 23
+ 7
+05/07/25
+01/07/25
+ 465,00
+ 12,04
+ 2,59
+ 452,96 cartão crédito
+nâo
+30/11/24
+ 8429
+20918638
+ 10
+ 23
+ 7
+05/07/25
+01/07/25
+ 900,00
+ 23,31
+ 2,59
+ 876,69 cartão crédito
+nâo
+30/11/24
+ 8421
+173229854
+ 10
+ 23
+ 7
+05/07/25
+01/07/25
+ 900,00
+ 23,31
+ 2,59
+ 876,69 cartão crédito
+nâo
+30/11/24
+ 8428
+20986598
+ 10
+ 22
+ 7
+05/07/25
+01/07/25
+ 115,70
+ 2,99
+ 2,58
+ 112,71 cartão crédito
+nâo
+30/11/24
+ 8424
+171620140
+ 10
+ 22
+ 5
+05/07/25
+03/07/25
+ 70,00
+ 1,81
+ 2,59
+ 68,19 cartão crédito
+nâo
+31/01/25
+375657679
+ 10
+ 12
+ 5
+05/07/25
+03/07/25
+ 639,83
+ 14,90
+ 2,33
+ 624,93 cartão crédito
+nâo
+31/01/25
+ 8791
+126822621
+ 10
+ 12
+ 1
+05/07/25
+07/07/25
+ 323,33
+ 7,53
+ 2,33
+ 315,80 cartão crédito
+nâo
+04/06/25
+ 9370
+21861526
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 3.413,86
+ 85,89
+ 3.327,97
+quant. documentos:
+ 7
+dt vencimento - 06/07/2025
+ 10
+ 24
+ 8
+06/07/25
+01/07/25
+ 69,12
+ 2,34
+ 3,39
+ 66,78 cartão crédito
+nâo
+31/10/24
+ 8210
+21652248
+ 10
+ 23
+ 8
+06/07/25
+01/07/25
+ 39,00
+ 1,01
+ 2,59
+ 37,99 cartão crédito
+nâo
+31/10/24
+ 8209
+177376060
+ 10
+ 22
+ 9
+06/07/25
+01/07/25
+ 231,00
+ 5,98
+ 2,59
+ 225,02 cartão crédito
+nâo
+30/09/24
+ 7981
+26311308
+ 10
+ 23
+ 3
+06/07/25
+02/07/25
+ 458,33
+ 11,87
+ 2,59
+ 446,46 cartão crédito
+nâo
+04/04/25
+ 9148
+179291326
+ 10
+ 23
+ 3
+06/07/25
+02/07/25
+ 833,33
+ 21,58
+ 2,59
+ 811,75 cartão crédito
+nâo
+04/04/25
+ 9148
+179503056
+ 10
+ 11
+ 1
+06/07/25
+07/07/25
+ 210,00
+ 1,91
+ 0,91
+ 208,09 cartão débito
+nâo
+05/07/25
+ 9463
+21746130
+ 10
+ 11
+ 1
+06/07/25
+07/07/25
+ 95,00
+ 0,86
+ 0,91
+ 94,14 cartão débito
+nâo
+05/07/25
+ 9462
+20868998
+ 10
+ 22
+ 3
+06/07/25
+07/07/25
+ 139,80
+ 3,62
+ 2,59
+ 136,18 cartão crédito
+nâo
+04/04/25
+ 9147
+876593705
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 2.075,58
+ 49,17
+ 2.026,41
+quant. documentos:
+ 8
+dt vencimento - 07/07/2025
+ 10
+ 22
+ 9
+07/07/25
+01/07/25
+ 56,00
+ 1,45
+ 2,59
+ 54,55 cartão crédito
+nâo
+01/10/24
+ 7982
+186197218
+ 10
+ 22
+ 6
+07/07/25
+02/07/25
+ 300,00
+ 7,77
+ 2,59
+ 292,23 cartão crédito
+nâo
+02/01/25
+ 8586
+181154942
+ 10
+ 22
+ 7
+07/07/25
+02/07/25
+ 178,80
+ 4,63
+ 2,59
+ 174,17 cartão crédito
+nâo
+02/12/24
+ 8441
+16049814
+objetiva soluções
+gerado em 08/08/2025 as 15:09:16
+estação: srv-decor - usuário: bruna
+relatório de cartão \ financeira
+empresa:
+2
+página:
+período de recebimento de 01/07/2025 à 31/07/2025 por ordem de dt vencimento e sub-ordem de dt recebimento, modelo de relatório: 
+documentos, situação dos documentos: pagos
+decor moveis eireli                                                                                 
+tipo de documentos: cartão débito,  cartão crédito,  financeira
+emissão
+adm.
+filial
+liberação
+excluido
+tipo
+vr liquido
+taxa
+vr desconto
+vr parcela
+dt pagto
+dt vecto
+pc
+doc. fiscal
+ 10
+ 23
+ 4
+07/07/25
+07/07/25
+ 1.737,50
+ 45,00
+ 2,59
+ 1.692,50 cartão crédito
+nâo
+05/03/25
+178971530
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 2.272,30
+ 58,85
+ 2.213,45
+quant. documentos:
+ 4
+dt vencimento - 08/07/2025
+ 10
+ 23
+ 9
+08/07/25
+02/07/25
+ 331,00
+ 8,57
+ 2,59
+ 322,43 cartão crédito
+nâo
+02/10/24
+ 7993
+23403848
+ 10
+ 23
+ 6
+08/07/25
+03/07/25
+ 193,40
+ 5,00
+ 2,59
+ 188,40 cartão crédito
+nâo
+03/01/25
+ 8588
+182094400
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 524,40
+ 13,57
+ 510,83
+quant. documentos:
+ 2
+dt vencimento - 09/07/2025
+ 10
+ 23
+ 7
+09/07/25
+03/07/25
+ 190,00
+ 4,92
+ 2,59
+ 185,08 cartão crédito
+nâo
+04/12/24
+ 8458
+184337748
+ 10
+ 23
+ 10
+09/07/25
+03/07/25
+ 329,50
+ 8,53
+ 2,59
+ 320,97 cartão crédito
+nâo
+02/09/24
+ 7781
+13878085
+ 10
+ 49
+ 9
+09/07/25
+03/07/25
+ 427,00
+ 14,47
+ 3,39
+ 412,53 cartão crédito
+nâo
+03/10/24
+24358960
+ 10
+ 23
+ 6
+09/07/25
+04/07/25
+ 40,00
+ 1,03
+ 2,58
+ 38,97 cartão crédito
+nâo
+04/01/25
+ 8590
+170951186
+ 10
+ 23
+ 4
+09/07/25
+07/07/25
+ 293,00
+ 7,58
+ 2,59
+ 285,42 cartão crédito
+nâo
+07/03/25
+ 8984
+17213302
+ 10
+ 23
+ 5
+09/07/25
+07/07/25
+ 130,00
+ 3,36
+ 2,58
+ 126,64 cartão crédito
+nâo
+04/02/25
+ 8814
+179657252
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 1.409,50
+ 39,89
+ 1.369,61
+quant. documentos:
+ 6
+dt vencimento - 10/07/2025
+ 10
+ 23
+ 8
+10/07/25
+02/07/25
+ 68,50
+ 1,77
+ 2,58
+ 66,73 cartão crédito
+nâo
+04/11/24
+ 8225
+177935752
+ 10
+ 23
+ 7
+10/07/25
+04/07/25
+ 380,00
+ 9,84
+ 2,59
+ 370,16 cartão crédito
+nâo
+05/12/24
+500854827
+ 10
+ 23
+ 7
+10/07/25
+04/07/25
+ 160,00
+ 4,14
+ 2,59
+ 155,86 cartão crédito
+nâo
+05/12/24
+376008899
+ 10
+ 23
+ 7
+10/07/25
+04/07/25
+ 1.500,00
+ 38,85
+ 2,59
+ 1.461,15 cartão crédito
+nâo
+05/12/24
+625726661
+ 10
+ 12
+ 8
+10/07/25
+07/07/25
+ 28,00
+ 0,72
+ 2,57
+ 27,28 cartão crédito
+nâo
+04/11/24
+ 8228
+179638912
+ 10
+ 23
+ 7
+10/07/25
+07/07/25
+ 9,00
+ 0,23
+ 2,56
+ 8,77 cartão crédito
+nâo
+05/12/24
+ 8463
+180564874
+ 10
+ 13
+ 5
+10/07/25
+08/07/25
+ 56,00
+ 1,75
+ 3,13
+ 54,25 cartão crédito
+nâo
+05/02/25
+ 8818
+170347928
+ 10
+ 23
+ 5
+10/07/25
+08/07/25
+ 200,00
+ 5,18
+ 2,59
+ 194,82 cartão crédito
+nâo
+05/02/25
+ 8827
+26354506
+ 10
+ 22
+ 4
+10/07/25
+08/07/25
+ 332,70
+ 8,61
+ 2,59
+ 324,09 cartão crédito
+nâo
+08/03/25
+ 8990
+177470468
+ 10
+ 22
+ 4
+10/07/25
+08/07/25
+ 430,50
+ 11,15
+ 2,59
+ 419,35 cartão crédito
+nâo
+08/03/25
+ 8989
+14061728
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 3.164,70
+ 82,24
+ 3.082,46
+quant. documentos:
+ 10
+dt vencimento - 11/07/2025
+ 10
+ 23
+ 6
+11/07/25
+04/07/25
+ 100,00
+ 2,59
+ 2,59
+ 97,41 cartão crédito
+nâo
+06/01/25
+ 8592
+18694032
+ 10
+ 22
+ 9
+11/07/25
+04/07/25
+ 416,67
+ 10,80
+ 2,59
+ 405,87 cartão crédito
+nâo
+05/10/24
+ 8020
+754163843
+ 10
+ 23
+ 8
+11/07/25
+07/07/25
+ 369,00
+ 9,55
+ 2,59
+ 359,45 cartão crédito
+nâo
+05/11/24
+ 8235
+25183896
+ 10
+ 23
+ 8
+11/07/25
+07/07/25
+ 200,00
+ 5,18
+ 2,59
+ 194,82 cartão crédito
+nâo
+05/11/24
+ 8237
+502432157
+ 10
+ 22
+ 10
+11/07/25
+07/07/25
+ 230,00
+ 5,95
+ 2,59
+ 224,05 cartão crédito
+nâo
+04/09/24
+ 7809
+44256464
+ 10
+ 22
+ 8
+11/07/25
+07/07/25
+ 130,00
+ 3,36
+ 2,58
+ 126,64 cartão crédito
+nâo
+05/11/24
+14007976
+ 10
+ 22
+ 8
+11/07/25
+07/07/25
+ 3.000,00
+ 77,70
+ 2,59
+ 2.922,30 cartão crédito
+nâo
+05/11/24
+16704748
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 4.445,67
+ 115,13
+ 4.330,54
+quant. documentos:
+ 7
+dt vencimento - 12/07/2025
+ 10
+ 23
+ 7
+12/07/25
+07/07/25
+ 519,00
+ 13,44
+ 2,59
+ 505,56 cartão crédito
+nâo
+07/12/24
+ 8473
+18481708
+ 10
+ 23
+ 4
+12/07/25
+07/07/25
+ 195,69
+ 5,06
+ 2,59
+ 190,63 cartão crédito
+nâo
+10/03/25
+11292671
+ 10
+ 23
+ 4
+12/07/25
+07/07/25
+ 384,83
+ 9,96
+ 2,59
+ 374,87 cartão crédito
+nâo
+10/03/25
+125940939
+objetiva soluções
+gerado em 08/08/2025 as 15:09:16
+estação: srv-decor - usuário: bruna
+relatório de cartão \ financeira
+empresa:
+3
+página:
+período de recebimento de 01/07/2025 à 31/07/2025 por ordem de dt vencimento e sub-ordem de dt recebimento, modelo de relatório: 
+documentos, situação dos documentos: pagos
+decor moveis eireli                                                                                 
+tipo de documentos: cartão débito,  cartão crédito,  financeira
+emissão
+adm.
+filial
+liberação
+excluido
+tipo
+vr liquido
+taxa
+vr desconto
+vr parcela
+dt pagto
+dt vecto
+pc
+doc. fiscal
+ 10
+ 23
+ 7
+12/07/25
+07/07/25
+ 171,50
+ 4,44
+ 2,59
+ 167,06 cartão crédito
+nâo
+07/12/24
+ 8472
+31692038
+ 10
+ 22
+ 4
+12/07/25
+10/07/25
+ 1.370,00
+ 35,48
+ 2,59
+ 1.334,52 cartão crédito
+nâo
+10/03/25
+ 8997
+175037662
+ 10
+ 22
+ 4
+12/07/25
+10/07/25
+ 165,60
+ 4,28
+ 2,58
+ 161,32 cartão crédito
+nâo
+10/03/25
+ 8994
+22832762
+ 10
+ 12
+ 5
+12/07/25
+10/07/25
+ 83,33
+ 1,94
+ 2,33
+ 81,39 cartão crédito
+nâo
+07/02/25
+ 8835
+179001726
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 2.889,95
+ 74,60
+ 2.815,35
+quant. documentos:
+ 7
+dt vencimento - 13/07/2025
+ 10
+ 22
+ 6
+13/07/25
+08/07/25
+ 28,00
+ 0,72
+ 2,57
+ 27,28 cartão crédito
+nâo
+08/01/25
+ 8611
+170946388
+ 10
+ 22
+ 4
+13/07/25
+11/07/25
+ 260,00
+ 6,73
+ 2,59
+ 253,27 cartão crédito
+nâo
+11/03/25
+ 9001
+173225624
+ 10
+ 22
+ 4
+13/07/25
+11/07/25
+ 659,50
+ 15,36
+ 2,33
+ 644,14 cartão crédito
+nâo
+11/03/25
+ 9000
+15731550
+ 10
+ 23
+ 5
+13/07/25
+11/07/25
+ 260,00
+ 6,73
+ 2,59
+ 253,27 cartão crédito
+nâo
+08/02/25
+ 8838
+170894278
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 1.207,50
+ 29,54
+ 1.177,96
+quant. documentos:
+ 4
+dt vencimento - 14/07/2025
+ 10
+ 11
+ 6
+14/07/25
+08/07/25
+ 1.000,00
+ 23,30
+ 2,33
+ 976,70 cartão crédito
+nâo
+09/01/25
+501137783
+ 10
+ 22
+ 9
+14/07/25
+08/07/25
+ 240,00
+ 6,21
+ 2,59
+ 233,79 cartão crédito
+nâo
+08/10/24
+ 8036
+181444292
+ 10
+ 24
+ 6
+14/07/25
+09/07/25
+ 181,86
+ 6,16
+ 3,39
+ 175,70 cartão crédito
+nâo
+09/01/25
+ 8618
+750928045
+ 10
+ 22
+ 4
+14/07/25
+11/07/25
+ 80,00
+ 2,07
+ 2,59
+ 77,93 cartão crédito
+nâo
+12/03/25
+25274098
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 1.501,86
+ 37,74
+ 1.464,12
+quant. documentos:
+ 4
+dt vencimento - 15/07/2025
+ 10
+ 23
+ 6
+15/07/25
+09/07/25
+ 363,40
+ 9,41
+ 2,59
+ 353,99 cartão crédito
+nâo
+10/01/25
+ 8624
+14601738
+ 10
+ 23
+ 9
+15/07/25
+09/07/25
+ 61,40
+ 1,59
+ 2,59
+ 59,81 cartão crédito
+nâo
+09/10/24
+ 8050
+19204992
+ 10
+ 23
+ 9
+15/07/25
+09/07/25
+ 199,00
+ 5,15
+ 2,59
+ 193,85 cartão crédito
+nâo
+09/10/24
+ 8049
+15767400
+ 10
+ 23
+ 7
+15/07/25
+09/07/25
+ 28,00
+ 0,72
+ 2,57
+ 27,28 cartão crédito
+nâo
+10/12/24
+ 8488
+181423086
+ 10
+ 23
+ 7
+15/07/25
+09/07/25
+ 55,00
+ 1,42
+ 2,58
+ 53,58 cartão crédito
+nâo
+10/12/24
+ 8489
+22494870
+ 10
+ 11
+ 1
+15/07/25
+14/07/25
+ 1.000,00
+ 23,30
+ 2,33
+ 976,70 cartão crédito
+nâo
+14/06/25
+ 9404
+173558500
+ 10
+ 22
+ 4
+15/07/25
+14/07/25
+ 233,00
+ 6,03
+ 2,59
+ 226,97 cartão crédito
+nâo
+13/03/25
+ 9018
+282565974
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 1.939,80
+ 47,62
+ 1.892,18
+quant. documentos:
+ 7
+dt vencimento - 16/07/2025
+ 10
+ 23
+ 10
+16/07/25
+07/07/25
+ 58,00
+ 1,50
+ 2,59
+ 56,50 cartão crédito
+nâo
+09/09/24
+ 7823
+32550244
+ 10
+ 22
+ 7
+16/07/25
+11/07/25
+ 494,00
+ 12,79
+ 2,59
+ 481,21 cartão crédito
+nâo
+11/12/24
+ 8502
+180474390
+ 10
+ 11
+ 5
+16/07/25
+14/07/25
+ 457,60
+ 10,66
+ 2,33
+ 446,94 cartão crédito
+nâo
+11/02/25
+ 8858
+179076374
+vr parcela:
+vr liquido:
+total da ordem
+vr desconto:
+ 1.009,60
+ 24,95
+ 984,65
+quant. documentos:
+ 3
+dt vencimento - 17/07/2025
+ 10
+ 22
+ 10
+17/07/25
+11/07/25
+ 296,60
+ 7,68
+ 2,59
+ 288,92 cartão crédito
+nâo
+10/09/24
+ 7848
+24697206
+ 10
+ 22
+ 7
+17/07/25
+11/07/25
+ 500,00
+ 12,95
+ 2,59
+ 487,05 cartão crédito
+nâo
+12/12/24
+183537076
+ 10
+ 22
+ 7
+17/07/25
+11/07/25
+ 1.450,00
+ 37,55
+ 2,59
+ 1.412,45 cartão crédito
+nâo
+12/12/24
+27640446
+ 10
+ 23
+ 7
+17/07/25
+11/07/25
+ 300,00
+ 7,77
+ 2,59
+ 292,23 cartão crédito
+nâo
+12/12/24
+183153690
+ 10
+ 23
+ 7
+17/07/25
+11/07/25
+ 600,00
+ 15,54
+ 2,59
+ 584,46 cartão crédito
+nâo
+12/12/24
+27700398
+ 10
+ 23
+ 7
+17/07/25
+14/07/25
+ 2.000,00
+ 51,80
+ 2,59
+ 1.948,20 cartão crédito
+nâo
+12/12/24
+176420722
+ 10
+ 23
+ 7
+17/07/25
+14/07/25
+ 66,00
+ 1,70
+ 2,58
+ 64,30 cartão crédito
+nâo
+12/12/24
+ 8510
+182673422
+objetiva soluções
+gerado em 08/08/2025 as 15:09:16
+estação: srv-decor - usuário: bruna

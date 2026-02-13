@@ -1,0 +1,150 @@
+extrato detalhado de movimentação
+dados do cliente e da conta
+cliente: sanches e sanches ind com mat plast ltda
+cnpj: 03.767.048/0001-18
+banco: 0246 - banco abc brasil
+agência: 0001-9
+conta: 0022277228
+total dos saldos (r$) em 01/03/2023 às 11:42
+* valor inclui limites disponíveis
+saldo da conta corrente
+33.302,37
+saldo bloqueado
+0,00
+cpmf
+0,00
+valor bloqueado
+0,00
+saldo aplicado
+0,00
+saldo total disponível*
+33.302,37
+data da emissão: 01/03/2023 às 11:42
+período: 01/02/2023 a 28/02/2023
+data
+nro.
+documento
+histórico
+operação
+valor (r$)
+saldo diário
+(r$)
+01/02/2023
+saldo anterior
+-
+r$ 712,50
+01/02/2023
+2289609
+transferencia entre c/c
+ 246 00019 0022289609 sanches e sanches ind com mat plast
+credito
+r$ 314.883,10
+-
+01/02/2023
+1796762
+aplicacao
+debito
+r$ -
+315.595,60
+r$ 0,00
+02/02/2023
+9016456
+tarifa manutencao cc
+debito
+r$ -300,00
+-
+02/02/2023
+1797828
+resg.aplicacao
+credito
+r$ 300,00
+r$ 0,00
+09/02/2023
+412252
+pagamento pix
+  1178 192991
+debito
+r$ -
+265.000,00
+-
+09/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -21.440,48
+-
+09/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -2.195,00
+-
+09/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -18.878,30
+-
+09/02/2023
+1805731
+resg.aplicacao
+credito
+r$ 315.305,63
+r$ 7.791,85
+10/02/2023
+9873659
+tarifa pagto. pix
+debito
+r$ -4,90
+-
+10/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -658,00
+-
+10/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -780,00
+-
+10/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -4.725,68
+-
+10/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -633,00
+-
+10/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -46,26
+-
+10/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -175,00
+-
+10/02/2023
+6000000
+pagto.ficha compe inferior
+debito
+r$ -119,80
+r$ 649,21
+16/02/2023
+2289609
+transferencia entre c/c
+ 246 00019 0022289609 sanches e sanches ind com mat plast
+credito
+r$ 32.653,16
+r$ 33.302,37
+os saldos e lançamentos apresentados acima são baseados nas informações disponíveis e atualizadas até 02/02/2023 às 13:03. as informações
+poderão sofrer alterações em função de novos lançamentos

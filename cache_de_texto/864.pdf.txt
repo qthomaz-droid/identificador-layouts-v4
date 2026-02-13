@@ -1,0 +1,184 @@
+relatório de contas recebidas 
+a b & d transportes ltda
+011-a b & d transportes ltda
+página: 1 de 1
+usuário: paula 
+data/hora: 10/03/2022 - 10:17:58
+docto
+cliente
+dt. vencto
+vr docto
+dt. receb.
+vr. receb.
+juros
+d.juros
+multa
+descto
+tb.
+conta
+nt. fiscal nt. serviço
+filtro : todos os portadores  /  todos os representantes  /  todos as rotas  /  todas as formas de pagto.  /  todos os clientes  /  data baixa: 01/12/2021  a  31/12/2021 / conta: 006-bradesco  /   tipo docto : todos /   ordenado por data baixa
+td.
+000049/1-1
+000021 multinova industria de embalagens plasticas 
+1.600,00
+05/12/2021
+2
+1.600,00
+07/12/2021
+0,00
+0,00
+0,00
+i
+006
+000067
+cre
+000052/1-1
+000021 multinova industria de embalagens plasticas 
+200,00
+05/12/2021
+2
+200,00
+07/12/2021
+0,00
+0,00
+0,00
+i
+006
+000069
+cre
+000053/1-1
+000021 multinova industria de embalagens plasticas 
+1.900,00
+06/12/2021
+1
+1.900,00
+07/12/2021
+0,00
+0,00
+0,00
+i
+006
+000070
+cre
+9296
+000205 tll transporte linhares ltda me
+13.600,00
+07/12/2021
+0
+13.600,00
+07/12/2021
+0,00
+0,00
+0,00
+i
+006
+cre
+totalização :
+itens : 4
+17300,00
+000047/1-1
+000079 moveis conquista ltda
+2.500,00
+06/12/2021
+4
+2.500,00
+10/12/2021
+0,00
+0,00
+0,00
+i
+006
+000065
+cre
+. 9227
+000205 tll transporte linhares ltda me
+1.700,00
+15/12/2021
+0
+1.700,00
+10/12/2021
+0,00
+0,00
+0,00
+i
+006
+cre
+totalização :
+itens : 2
+4200,00
+000054/1-1
+000260 fabrilar industria de moveis eireli
+3.500,00
+20/12/2021
+0
+3.500,00
+14/12/2021
+0,00
+0,00
+0,00
+i
+006
+011501
+cre
+totalização :
+itens : 1
+3500,00
+000055/1-1
+000021 multinova industria de embalagens plasticas 
+1.600,00
+15/12/2021
+1
+1.600,00
+16/12/2021
+0,00
+0,00
+0,00
+i
+006
+000071
+cre
+. 9078
+000205 tll transporte linhares ltda me
+3.120,00
+15/12/2021
+1
+3.120,00
+16/12/2021
+0,00
+0,00
+0,00
+i
+006
+cre
+totalização :
+itens : 2
+4720,00
+9352
+000205 tll transporte linhares ltda me
+4.140,00
+17/12/2021
+0
+4.140,00
+17/12/2021
+0,00
+0,00
+0,00
+i
+006
+cre
+totalização :
+itens : 1
+4140,00
+total relatório :
+total juros :
+total multas :
+total descontos :
+total itens :
+10
+0,00
+0,00
+0,00
+33.860,00
+neski ata  - versão: 22.002 build 004    -    rel_rio_cre_03.fr3
+neski soluções ltda - www.neski.com.br

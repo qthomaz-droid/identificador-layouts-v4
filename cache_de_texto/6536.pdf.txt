@@ -1,0 +1,359 @@
+grv logistica ltda - epp
+sistema infomática - leve cargas
+página:
+1
+10/09/2025
+data:
+movimentações bancárias (realizado)
+usuário: 
+banco: 
+período:
+saldo anterior: 
+entrada / saída: 
+anerildalisboa
+237 - bradesco
+ambos
+01/08/2025 até: 31/08/2025
+-3.744.020,45
+tipo mov. bancária: 0 - 
+identificador
+data
+observação
+entrada
+saída
+saldo
+429180 01/08/2025 recebimento da fatura nr 23616 parcela 2
+38.355,54
+-3.705.664,91
+indorama ventures polimeros s a                             
+cliente/fornecedor:
+429282 01/08/2025 recebimento da fatura nr 23686 parcela 1
+14.696,00
+-3.690.968,91
+prismapack ind e com de prod plasticos ltda                 
+cliente/fornecedor:
+429283 01/08/2025 recebimento da fatura nr 23700 parcela 1
+8.800,00
+-3.682.168,91
+prismapack ind e com de prod plasticos ltda                 
+cliente/fornecedor:
+429284 01/08/2025 recebimento da fatura nr 21032 parcela 1
+4.950,00
+-3.677.218,91
+ambev s a                                                   
+cliente/fornecedor:
+429285 01/08/2025 recebimento da fatura nr 23616 parcela 1
+0,10
+-3.677.218,81
+indorama ventures polimeros s a                             
+cliente/fornecedor:
+429315 01/08/2025 pagamento eletrônico nr 34875
+2.540,00
+-3.679.758,81
+cliente/fornecedor: alexandre barreto souza                                     
+429317 01/08/2025 pagamento eletrônico nr 34876
+12.510,00
+-3.692.268,81
+cliente/fornecedor: cabure transporte ltda                                      
+429319 01/08/2025 pagamento eletrônico nr 34877
+5.980,00
+-3.698.248,81
+cliente/fornecedor: du vela transportes ltda                                    
+429321 01/08/2025 pagamento eletrônico nr 34878
+1.064,37
+-3.699.313,18
+cliente/fornecedor: e l rodrigues  e cia ltda  equipadora rodrigao              
+429323 01/08/2025 pagamento eletrônico nr 34879
+2.360,00
+-3.701.673,18
+cliente/fornecedor: f c boff & cia ltda me                                      
+429325 01/08/2025 pagamento eletrônico nr 34880
+975,00
+-3.702.648,18
+cliente/fornecedor: itamar oliveira peixoto                                     
+429327 01/08/2025 pagamento eletrônico nr 34881
+1.000,00
+-3.703.648,18
+cliente/fornecedor: jean barreto de carvalho                                    
+429329 01/08/2025 pagamento eletrônico nr 34882
+2.220,00
+-3.705.868,18
+cliente/fornecedor: luciano almeida rocha                                       
+429331 01/08/2025 pagamento eletrônico nr 34883
+3.160,00
+-3.709.028,18
+cliente/fornecedor: maria eulina da silva souza ltda                            
+429333 01/08/2025 pagamento eletrônico nr 34884
+300,00
+-3.709.328,18
+cliente/fornecedor: maridones souza brito                                       
+429335 01/08/2025 pagamento eletrônico nr 34885
+10.000,00
+-3.719.328,18
+cliente/fornecedor: rmd servicos de logistica eirele                            
+429337 01/08/2025 pagamento eletrônico nr 34886
+7.690,00
+-3.727.018,18
+cliente/fornecedor: ruy kleber alves pinto                                      
+429339 01/08/2025 pagamento eletrônico nr 34887
+1.000,00
+-3.728.018,18
+cliente/fornecedor: vol truck ltda                                              
+429341 01/08/2025 pagamento eletrônico nr 34888
+672,00
+-3.728.690,18
+cliente/fornecedor: walter ribeiro dos santos                                   
+429342 01/08/2025 tarifa bancaria pix
+58,80
+-3.728.748,98
+cliente/fornecedor: banco bradesco sa                                           
+429343 01/08/2025 gastos cartao de credito 
+3.356,85
+-3.732.105,83
+cliente/fornecedor: banco bradesco sa                                           
+429344 01/08/2025 tarifa autorizada cobrança 
+1,20
+-3.732.107,03
+cliente/fornecedor: banco bradesco sa                                           
+66.801,64
+54.888,22
+total do dia: 01/08/2025
+-3.732.107,03
+grv logistica ltda - epp
+sistema infomática - leve cargas
+página:
+2
+10/09/2025
+data:
+movimentações bancárias (realizado)
+identificador
+data
+observação
+entrada
+saída
+saldo
+429372 04/08/2025 rentab de invest facilcred
+0,89
+-3.732.106,14
+cliente/fornecedor:
+429374 04/08/2025 pagamento eletrônico nr 34889
+651,33
+-3.732.757,47
+cliente/fornecedor: auto pecas e eletrica degrader ltda                         
+429376 04/08/2025 pagamento eletrônico nr 34890
+8.380,00
+-3.741.137,47
+cliente/fornecedor: bruna morais de souza da rosa mello                         
+429378 04/08/2025 pagamento eletrônico nr 34891
+782,87
+-3.741.920,34
+cliente/fornecedor: cedep comercio ltda                                         
+429380 04/08/2025 pagamento eletrônico nr 34892
+346,98
+-3.742.267,32
+cliente/fornecedor: companhia energetica de pernambuco celpe                    
+429382 04/08/2025 pagamento eletrônico nr 34893
+732,00
+-3.742.999,32
+cliente/fornecedor: gilvania araujo de andrade                                  
+429384 04/08/2025 pagamento eletrônico nr 34894
+3.830,00
+-3.746.829,32
+cliente/fornecedor: jose dias da silva filho                                    
+429386 04/08/2025 pagamento eletrônico nr 34895
+171,96
+-3.747.001,28
+cliente/fornecedor: oi s a                                                      
+429388 04/08/2025 pagamento eletrônico nr 34896
+3.646,67
+-3.750.647,95
+cliente/fornecedor: rodomix renovadora de pneus ltda                            
+429390 04/08/2025 pagamento eletrônico nr 34897
+1.956,94
+-3.752.604,89
+cliente/fornecedor: vitoria caminhoes ltda                                      
+429397 04/08/2025 compensação cheque nr 16111
+3.870,00
+-3.756.474,89
+cliente/fornecedor: roque edson da silva souza me                               
+429398 04/08/2025 compensação cheque nr 16112
+3.870,00
+-3.760.344,89
+cliente/fornecedor: roque edson da silva souza me                               
+429399 04/08/2025 compensação cheque nr 16113
+4.150,00
+-3.764.494,89
+cliente/fornecedor: transcavalli transportes ltda                               
+429400 04/08/2025 compensação cheque nr 16114
+4.150,00
+-3.768.644,89
+cliente/fornecedor: transcavalli transportes ltda                               
+429401 04/08/2025 compensação cheque nr 16153
+4.440,00
+-3.773.084,89
+cliente/fornecedor: iguatemi transportes ltda                                   
+429402 04/08/2025 compensação cheque nr 16154
+3.280,00
+-3.776.364,89
+cliente/fornecedor: madereira fernandes ltda                                    
+429408 04/08/2025 pagamento eletrônico nr 34898
+12.831,88
+-3.789.196,77
+cliente/fornecedor: banco bradesco sa                                           
+429409 04/08/2025 tarifa bancaria credito
+180,00
+-3.789.376,77
+cliente/fornecedor: banco bradesco sa                                           
+429411 04/08/2025 recebimento da fatura nr 23602 parcela 1
+7.752,80
+-3.781.623,97
+imi fabi talco sa                                           
+cliente/fornecedor:
+429412 04/08/2025 recebimento da fatura nr 23607 parcela 1
+8.164,64
+-3.773.459,33
+imi fabi talco sa                                           
+cliente/fornecedor:
+429413 04/08/2025 recebimento da fatura nr 23826 parcela 1
+1.300,00
+-3.772.159,33
+goodpack do brasil containers comercial importadora e export
+cliente/fornecedor:
+429414 04/08/2025 recebimento da fatura nr 23826 parcela 1
+1.300,00
+-3.770.859,33
+goodpack do brasil containers comercial importadora e export
+cliente/fornecedor:
+429415 04/08/2025 recebimento da fatura nr 23614 parcela 1
+8.164,64
+-3.762.694,69
+imi fabi talco sa                                           
+cliente/fornecedor:
+429416 04/08/2025 recebimento da fatura nr 23826 parcela 1
+1.300,00
+-3.761.394,69
+goodpack do brasil containers comercial importadora e export
+cliente/fornecedor:
+429417 04/08/2025 recebimento da fatura nr 23780 parcela 1
+1.300,00
+-3.760.094,69
+goodpack do brasil containers comercial importadora e export
+cliente/fornecedor:
+grv logistica ltda - epp
+sistema infomática - leve cargas
+página:
+3
+10/09/2025
+data:
+movimentações bancárias (realizado)
+identificador
+data
+observação
+entrada
+saída
+saldo
+429419 04/08/2025 recebimento da fatura nr 23781 parcela 1
+4.250,00
+-3.755.844,69
+goodpack do brasil containers comercial importadora e export
+cliente/fornecedor:
+429420 04/08/2025 recebimento da fatura nr 23668 parcela 1
+9.350,51
+-3.746.494,18
+ambev sa                                                    
+cliente/fornecedor:
+429421 04/08/2025 recebimento da fatura nr 23781 parcela 1
+4.250,00
+-3.742.244,18
+goodpack do brasil containers comercial importadora e export
+cliente/fornecedor:
+429434 04/08/2025 compensação cheque nr 16155
+4.090,00
+-3.746.334,18
+cliente/fornecedor: 2l transportes eireli me                                    
+429435 04/08/2025 compensação cheque nr 16156
+2.100,00
+-3.748.434,18
+cliente/fornecedor: 2l transportes eireli me                                    
+429557 04/08/2025 recebimento da fatura nr 23862 parcela 2
+7.500,00
+-3.740.934,18
+wagner reguladora de sinistro                               
+cliente/fornecedor:
+54.633,48
+63.460,63
+total do dia: 04/08/2025
+-3.740.934,18
+429455 05/08/2025 recebimento da fatura nr 23859 parcela 2
+25.600,00
+-3.715.334,18
+tecmar transportes ltda                                     
+cliente/fornecedor:
+429508 05/08/2025 pagamento eletrônico nr 34899
+90,73
+-3.715.424,91
+cliente/fornecedor: alex de sao jose pereira                                    
+429510 05/08/2025 pagamento eletrônico nr 34900
+140,00
+-3.715.564,91
+cliente/fornecedor: auto pecas e eletrica degrader ltda                         
+429512 05/08/2025 pagamento eletrônico nr 34901
+19.884,97
+-3.735.449,88
+cliente/fornecedor: banco paccar sa                                             
+429514 05/08/2025 pagamento eletrônico nr 34902
+1.492,47
+-3.736.942,35
+cliente/fornecedor: condominio aero espaco empresarial e hotel                  
+429516 05/08/2025 pagamento eletrônico nr 34903
+398,56
+-3.737.340,91
+cliente/fornecedor: ies servicos contabeis ltda                                 
+429518 05/08/2025 pagamento eletrônico nr 34904
+300,00
+-3.737.640,91
+cliente/fornecedor: luciano almeida rocha                                       
+429520 05/08/2025 pagamento eletrônico nr 34905
+121,35
+-3.737.762,26
+cliente/fornecedor: oi s a                                                      
+429522 05/08/2025 pagamento eletrônico nr 34906
+401,06
+-3.738.163,32
+cliente/fornecedor: prefeitura municial de lauro de freitas                     
+429524 05/08/2025 pagamento eletrônico nr 34907
+1.174,25
+-3.739.337,57
+cliente/fornecedor: raster rastreamento ltda                                    
+429526 05/08/2025 pagamento eletrônico nr 34908
+900,00
+-3.740.237,57
+cliente/fornecedor: robson costa nogueira                                       
+429528 05/08/2025 pagamento eletrônico nr 34909
+2.220,00
+-3.742.457,57
+cliente/fornecedor: roque edson da silva souza me                               
+429530 05/08/2025 pagamento eletrônico nr 34910
+1.122,06
+-3.743.579,63
+cliente/fornecedor: secretaria da fazenda do estado de sergipe                  
+429532 05/08/2025 pagamento eletrônico nr 34911
+3.180,00
+-3.746.759,63
+cliente/fornecedor: walter ribeiro dos santos                                   
+429534 05/08/2025 compensação cheque nr 16119
+4.230,00
+-3.750.989,63
+cliente/fornecedor: lotrans log trans de carga co m e serv ltda                 
+429535 05/08/2025 compensação cheque nr 16120
+4.230,00
+-3.755.219,63
+cliente/fornecedor: lotrans log trans de carga co m e serv ltda                 
+429536 05/08/2025 compensação cheque nr 16397
+4.210,00
+-3.759.429,63
+cliente/fornecedor: unifort locacao e servicos mec anicos ltda ep               
+429537 05/08/2025 compensação cheque nr 16032
+4.240,00
+-3.763.669,63
+cliente/fornecedor: yukaer prest. de serv ltda                                  

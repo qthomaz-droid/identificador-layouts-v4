@@ -1,0 +1,255 @@
+valor
+descrição
+cod
+ref
+n.f.
+total geral
+descrição
+valor
+cod
+n.f.
+ref
+folha / ferias
+emissão:
+seção: ??
+avenida josé leandro da cruz,1155,lote 99a goiânia - 
+09.277.089/0001-02
+energy systen serviços especializados eireli
+comp: 03/2023
+per:
+folha analitica
+4
+cx:
+30/03/2023 15:05:41
+v.12.1.2302.104
+energy systen serviços especializados eireli
+686.318,81
+salario base
+1002
+7.033,00
+252
+39.203,17
+1ª parcela do 13º salario
+1009
+0,00
+17
+1.000,00
+ajuda de custo
+1015
+0,00
+1
+726,99
+dev. de desconto indevido
+1058
+0,00
+3
+7.941,87
+horas intervalar
+1079
+233,80
+36
+78.714,65
+horas sobreaviso
+1081
+11.736,58
+78
+4.252,58
+assiduidade
+1094
+0,00
+17
+1.120,37
+atestado medico
+1145
+19,00
+5
+15.643,37
+arredondamento de liquido insuficient
+1341
+0,00
+6
+190.046,33
+adic. periculosidade
+1510
+0,00
+223
+7.753,28
+gratificacao de funcao
+1511
+27,81
+25
+3.686,42
+adicional noturno
+1517
+887,67
+73
+546,16
+dsr adicional noturno
+1518
+0,00
+73
+303.269,61
+hora extra 50%
+1519
+12.284,82
+195
+36.660,75
+hora extra 100%
+1521
+1.075,71
+103
+65.207,93
+dsr
+1522
+0,00
+205
+11.107,32
+hora extra 50% not
+1562
+280,86
+55
+2.459,04
+hora extra not 100%
+1563
+44,65
+14
+1.069,08
+hora extra 50% mes anterior
+1564
+44,00
+2
+1.359,20
+dif. ferias mes anterior
+2086
+0,00
+2
+453,07
+dif. 1/3 ferias mes anterior
+2087
+0,00
+2
+794,95
+dif. adic. periculosidade
+2510
+0,00
+1
+448,03
+dif. gratificacao de funcao
+2511
+0,00
+1
+232,20
+reembolso vale transporte
+3006
+0,00
+1
+134.414,56
+i.n.s.s
+1003
+0,00
+250
+155.841,06
+i.r.r.f
+1004
+0,00
+220
+1.055,54
+vale transporte
+1006
+62,00
+14
+4.280,00
+faltas
+1008
+43,00
+2
+726,68
+dsr perdido
+1070
+7,00
+2
+2.567,25
+convênio odontologico
+1097
+0,00
+61
+1.399,99
+cursos
+1098
+0,00
+8
+2.032,45
+infracao de transito
+1117
+0,00
+12
+8.855,66
+plano de saude
+1164
+0,00
+22
+827,51
+vale
+1170
+0,00
+4
+13.792,86
+desconto do arredondamento de líquido 
+1419
+0,00
+7
+1.134.221,62
+líquido
+1.460.015,18
+proventos
+325.793,56
+descontos
+total de funcionários
+257
+ativos
+235
+demitidos
+0
+serv. militar
+0
+af. previdência
+6
+aviso prévio
+2
+férias
+14
+af. ac. trabalho
+0
+licença sem vencto
+0
+outros
+0
+licença remunerada
+0
+c/ dem. no mês
+0
+licença paternidade
+0
+transf. no mês
+0
+c/ resc. compl.
+0
+apos. invalidez
+0
+recesso remunerado de estágio
+0
+licença maternidade
+0
+contrato de trabalho suspenso
+0
+doença ocupacional
+0
+licença mater. compl. 180 dias
+0
+admissão próximo mês
+0
+32
+página:
+ ss
+energy systen
+seníços especializados =

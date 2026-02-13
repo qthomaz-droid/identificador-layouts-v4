@@ -1,0 +1,1840 @@
+possidonio de souza neto mee
+filtros: formato: [analítico]; quebra: [vencimento]; ordem: [emissão]; direção: [ascendente]; resumo: [imprime]; status: [liquidado; liquidado_e_pendente]; período de pagamento: [01-10-2025 à 31-10-2025]; exibir nosso número: [não]; exibir observações: [não]; exibir forma de
+relatório de contas a pagar - analítico
+data pagamento
+agente
+espécie
+atraso
+num. título
+funcionário
+emissão
+vencimento
+atraso
+situação
+valor nominal
+multa
+juros
+desconto
+valor pago
+saldo
+juros
+valor devido
+multa
+devido
+recebimento
+vencimento
+acréscimo
+conta
+obs do pagamento
+pessoa
+000001 - possidonio de souza neto mee
+01/10/2025
+0
+1140046/001
+30/08/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+267,30
+0,00
+267,30
+0,00
+boleto pagar
+0050 - armazem mateus s a cd altos
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+267,30
+0,00
+5 tesouraria / cofre
+liquidação
+267,30
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1140048/002
+30/08/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+194,51
+0,00
+194,51
+0,00
+boleto pagar
+0050 - armazem mateus s a cd altos
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+194,51
+0,00
+5 tesouraria / cofre
+liquidação
+194,51
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1140047/002
+30/08/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+971,53
+0,00
+971,53
+0,00
+boleto pagar
+0050 - armazem mateus s a cd altos
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+971,53
+0,00
+5 tesouraria / cofre
+liquidação
+971,53
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1140049/002
+30/08/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+608,71
+0,00
+608,71
+0,00
+boleto pagar
+0050 - armazem mateus s a cd altos
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+608,71
+0,00
+5 tesouraria / cofre
+liquidação
+608,71
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1811558/002
+30/08/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+395,02
+0,00
+395,02
+0,00
+boleto pagar
+0063 - j r atacadista de produtos
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+395,02
+0,00
+5 tesouraria / cofre
+liquidação
+395,02
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1154367/002
+01/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+542,25
+0,00
+542,25
+0,00
+boleto pagar
+0023 - f &amp s comercial ltda -
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+542,25
+0,00
+5 tesouraria / cofre
+liquidação
+542,25
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+63860/002
+03/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+762,50
+0,00
+762,50
+0,00
+boleto pagar
+0096 - m reis alves da cruz
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+762,50
+0,00
+5 tesouraria / cofre
+liquidação
+762,50
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+423368/001
+09/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+538,04
+0,00
+538,04
+0,00
+boleto pagar
+0040 - gd distribuidor de alimentos
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+538,04
+0,00
+5 tesouraria / cofre
+liquidação
+538,04
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+196663/002
+09/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.415,61
+0,00
+2.415,61
+0,00
+boleto pagar
+0059 - gd distribuidor de alimentos
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+2.415,61
+0,00
+5 tesouraria / cofre
+liquidação
+2.415,61
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+4953155/001
+09/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+509,83
+0,00
+509,83
+0,00
+boleto pagar
+0028 - jorge batista cia ltda -
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+509,83
+0,00
+5 tesouraria / cofre
+liquidação
+509,83
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+638880/001
+10/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+216,67
+0,00
+216,67
+0,00
+boleto pagar
+0069 - luis gonzaga de carvalho
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+216,67
+0,00
+5 tesouraria / cofre
+liquidação
+216,67
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+313233/003
+10/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+456,51
+0,00
+456,51
+0,00
+boleto pagar
+0032 - j frios ltda
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+456,51
+0,00
+5 tesouraria / cofre
+liquidação
+456,51
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+504154/001
+15/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.578,00
+0,00
+2.578,00
+0,00
+boleto pagar
+0013 - asanorte asa branca norte
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+2.578,00
+0,00
+5 tesouraria / cofre
+liquidação
+2.578,00
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+504155/001
+15/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+3.937,37
+0,00
+3.937,37
+0,00
+boleto pagar
+0013 - asanorte asa branca norte
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+3.937,37
+0,00
+5 tesouraria / cofre
+liquidação
+3.937,37
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+504156/001
+15/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+6.843,32
+0,00
+6.843,32
+0,00
+boleto pagar
+0013 - asanorte asa branca norte
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+6.843,32
+0,00
+5 tesouraria / cofre
+liquidação
+6.843,32
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+504153/001
+15/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+2.578,00
+0,00
+2.578,00
+0,00
+boleto pagar
+0013 - asanorte asa branca norte
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+2.578,00
+0,00
+5 tesouraria / cofre
+liquidação
+2.578,00
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+413109/001
+16/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+4.871,21
+0,00
+4.871,21
+0,00
+boleto pagar
+0031 - norsa refrigerantes s.a.
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+4.871,21
+0,00
+5 tesouraria / cofre
+liquidação
+4.871,21
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+26/11/2025 15:22
+página 1 / 27
+varejofacil - 8.0.48744
+possidonio de souza neto mee
+filtros: formato: [analítico]; quebra: [vencimento]; ordem: [emissão]; direção: [ascendente]; resumo: [imprime]; status: [liquidado; liquidado_e_pendente]; período de pagamento: [01-10-2025 à 31-10-2025]; exibir nosso número: [não]; exibir observações: [não]; exibir forma de
+relatório de contas a pagar - analítico
+data pagamento
+agente
+espécie
+atraso
+num. título
+funcionário
+emissão
+vencimento
+atraso
+situação
+valor nominal
+multa
+juros
+desconto
+valor pago
+saldo
+juros
+valor devido
+multa
+devido
+recebimento
+vencimento
+acréscimo
+conta
+obs do pagamento
+pessoa
+0
+413146/001
+16/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+244,50
+0,00
+244,50
+0,00
+boleto pagar
+0031 - norsa refrigerantes s.a.
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+244,50
+0,00
+5 tesouraria / cofre
+liquidação
+244,50
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+4066/001
+16/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.261,80
+0,00
+1.261,80
+0,00
+boleto pagar
+0051 - r m gomes me
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+1.261,80
+0,00
+5 tesouraria / cofre
+liquidação
+1.261,80
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1162357/001
+17/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+463,32
+0,00
+463,32
+0,00
+boleto pagar
+0023 - f &amp s comercial ltda -
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+463,32
+0,00
+5 tesouraria / cofre
+liquidação
+463,32
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+314386/002
+17/09/2025
+01/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.310,40
+0,00
+1.310,40
+0,00
+boleto pagar
+0032 - j frios ltda
+14/10/2025
+13
+000024 yane
+0,00
+0,00
+0,00
+1.310,40
+0,00
+5 tesouraria / cofre
+liquidação
+1.310,40
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+31.966,40
+total parcial:
+31.966,40
+02/10/2025
+0
+1812006/003
+30/08/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+302,80
+0,00
+302,80
+0,00
+boleto pagar
+0063 - j r atacadista de produtos
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+302,80
+0,00
+5 tesouraria / cofre
+liquidação
+302,80
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+61773/001
+02/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.950,00
+0,00
+1.950,00
+0,00
+boleto pagar
+0117 - industria de polpa de frutas
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+1.950,00
+0,00
+5 tesouraria / cofre
+liquidação
+1.950,00
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+935696/001
+02/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+411,40
+0,00
+411,40
+0,00
+boleto pagar
+0054 - evandro comercial ltda (fl
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+411,40
+0,00
+5 tesouraria / cofre
+liquidação
+411,40
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+2463861/001
+03/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+456,15
+0,00
+456,15
+0,00
+boleto pagar
+0010 - tt distribuidor de alimentos
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+456,15
+0,00
+5 tesouraria / cofre
+liquidação
+456,15
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+405898/001
+03/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+593,64
+0,00
+593,64
+0,00
+boleto pagar
+0031 - norsa refrigerantes s.a.
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+593,64
+0,00
+5 tesouraria / cofre
+liquidação
+593,64
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+4953154/002
+09/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+341,47
+0,00
+341,47
+0,00
+boleto pagar
+0028 - jorge batista cia ltda -
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+341,47
+0,00
+5 tesouraria / cofre
+liquidação
+341,47
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1156657/001
+10/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+68,14
+0,00
+68,14
+0,00
+boleto pagar
+0050 - armazem mateus s a cd altos
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+68,14
+0,00
+5 tesouraria / cofre
+liquidação
+68,14
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1156658/001
+10/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+502,20
+0,00
+502,20
+0,00
+boleto pagar
+0050 - armazem mateus s a cd altos
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+502,20
+0,00
+5 tesouraria / cofre
+liquidação
+502,20
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+2035750/003
+11/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+452,16
+0,00
+452,16
+0,00
+boleto pagar
+0042 - distribuidora medeiros ltda
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+452,16
+0,00
+5 tesouraria / cofre
+liquidação
+452,16
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+578959/001
+11/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+838,20
+0,00
+838,20
+0,00
+boleto pagar
+0083 - atacadao s.a.
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+838,20
+0,00
+5 tesouraria / cofre
+liquidação
+838,20
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+578951/001
+11/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.146,67
+0,00
+1.146,67
+0,00
+boleto pagar
+0083 - atacadao s.a.
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+1.146,67
+0,00
+5 tesouraria / cofre
+liquidação
+1.146,67
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1083797/001
+12/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+343,20
+0,00
+343,20
+0,00
+boleto pagar
+0036 - rmc comercio de alimentos
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+343,20
+0,00
+5 tesouraria / cofre
+liquidação
+343,20
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+258719/002
+17/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+899,00
+0,00
+899,00
+0,00
+boleto pagar
+0082 - maria do carmo
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+899,00
+0,00
+5 tesouraria / cofre
+liquidação
+899,00
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+26/11/2025 15:22
+página 2 / 27
+varejofacil - 8.0.48744
+possidonio de souza neto mee
+filtros: formato: [analítico]; quebra: [vencimento]; ordem: [emissão]; direção: [ascendente]; resumo: [imprime]; status: [liquidado; liquidado_e_pendente]; período de pagamento: [01-10-2025 à 31-10-2025]; exibir nosso número: [não]; exibir observações: [não]; exibir forma de
+relatório de contas a pagar - analítico
+data pagamento
+agente
+espécie
+atraso
+num. título
+funcionário
+emissão
+vencimento
+atraso
+situação
+valor nominal
+multa
+juros
+desconto
+valor pago
+saldo
+juros
+valor devido
+multa
+devido
+recebimento
+vencimento
+acréscimo
+conta
+obs do pagamento
+pessoa
+0
+472956/001
+18/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+354,90
+0,00
+354,90
+0,00
+boleto pagar
+0027 - distribuidora de alimentos
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+354,90
+0,00
+5 tesouraria / cofre
+liquidação
+354,90
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+2042779/001
+25/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+228,87
+0,00
+228,87
+0,00
+boleto pagar
+0042 - distribuidora medeiros ltda
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+228,87
+0,00
+5 tesouraria / cofre
+liquidação
+228,87
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+642632/001
+30/09/2025
+02/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+216,63
+0,00
+216,63
+0,00
+pagamento pix
+0069 - luis gonzaga de carvalho
+14/10/2025
+12
+000024 yane
+0,00
+0,00
+0,00
+216,63
+0,00
+5 tesouraria / cofre
+liquidação
+216,63
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+9.105,43
+total parcial:
+9.105,43
+03/10/2025
+0
+141779/002
+29/08/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+816,06
+0,00
+816,06
+0,00
+boleto pagar
+0158 - aguilar a s lima
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+816,06
+0,00
+5 tesouraria / cofre
+liquidação
+816,06
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1008824/003
+29/08/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+839,58
+0,00
+839,58
+0,00
+boleto pagar
+0071 - tres coracoes alimentos sa
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+839,58
+0,00
+5 tesouraria / cofre
+liquidação
+839,58
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+4943005/002
+01/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.198,93
+0,00
+1.198,93
+0,00
+boleto pagar
+0028 - jorge batista cia ltda -
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+1.198,93
+0,00
+5 tesouraria / cofre
+liquidação
+1.198,93
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+176878/001
+04/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+199,86
+0,00
+199,86
+0,00
+boleto pagar
+0247 - tecno industria e comercio
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+199,86
+0,00
+5 tesouraria / cofre
+liquidação
+199,86
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+318751/001
+05/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+344,70
+0,00
+344,70
+0,00
+boleto pagar
+0078 - modelo distribuidora de
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+344,70
+0,00
+5 tesouraria / cofre
+liquidação
+344,70
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1303097/001
+06/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.419,98
+0,00
+1.419,98
+0,00
+boleto pagar
+0016 - jsb distribuidora ltda
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+1.419,98
+0,00
+5 tesouraria / cofre
+liquidação
+1.419,98
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+1303098/002
+06/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+448,82
+0,00
+448,82
+0,00
+boleto pagar
+0016 - jsb distribuidora ltda
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+448,82
+0,00
+5 tesouraria / cofre
+liquidação
+448,82
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+26880/001
+12/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+1.513,68
+0,00
+1.513,68
+0,00
+boleto pagar
+0147 - pereira ltda
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+1.513,68
+0,00
+5 tesouraria / cofre
+liquidação
+1.513,68
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+26019/001
+18/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+378,10
+0,00
+378,10
+0,00
+boleto pagar
+0192 - elpidio ivan silva
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+378,10
+0,00
+5 tesouraria / cofre
+liquidação
+378,10
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+2039398/002
+18/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+277,72
+0,00
+277,72
+0,00
+boleto pagar
+0042 - distribuidora medeiros ltda
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+277,72
+0,00
+5 tesouraria / cofre
+liquidação
+277,72
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+252797/001
+23/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+827,53
+0,00
+827,53
+0,00
+boleto pagar
+0018 - alvoar lácteos nordeste s.a
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+827,53
+0,00
+5 tesouraria / cofre
+liquidação
+827,53
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+256019/001
+27/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+800,00
+0,00
+800,00
+0,00
+boleto pagar
+0099 - atlantica agroindustrial
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+800,00
+0,00
+5 tesouraria / cofre
+liquidação
+800,00
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+52661/001
+29/09/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+4.484,00
+0,00
+4.484,00
+0,00
+boleto a pagar
+0195 - raimundo quaresma de
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+4.484,00
+0,00
+5 tesouraria / cofre
+liquidação
+4.484,00
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+0
+3726/001
+01/10/2025
+03/10/2025
+0
+l
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+448,00
+0,00
+448,00
+0,00
+boleto pagar
+0086 - elton santana lima-me
+14/10/2025
+11
+000024 yane
+0,00
+0,00
+0,00
+448,00
+0,00
+5 tesouraria / cofre
+liquidação
+448,00
+total parcial do período
+0,00
+0,00
+0,00
+0,00
+26/11/2025 15:22
+página 3 / 27
+varejofacil - 8.0.48744

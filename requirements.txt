@@ -1,0 +1,15 @@
+streamlit
+pandas
+openpyxl
+PyMuPDF
+pytesseract
+Pillow
+scikit-learn
+joblib
+tqdm
+python-dotenv
+requests
+py-trello
+sentence-transformers
+torch
+PyGithub

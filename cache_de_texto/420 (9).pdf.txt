@@ -1,0 +1,34 @@
+sicoob - sistema de cooperativas de crédito do brasil
+sisbr - sistema de informática do sicoob
+08/10/2025
+comprovante de transferência
+entre contas correntes
+10:00:58
+número do agendamento
+6512018
+data do agendamento
+07/10/2025
+data do lançamento
+07/10/2025
+valor
+r$ 50,00
+natureza
+transf.intercredis - dif. titularidade
+débito
+cooperativa
+3140-2 / sicoob credplus
+conta
+75.216-9 / sebominas transporte e logistica ltda em recupera
+crédito
+cooperativa
+3164-0 / sicoob união dos vales
+conta
+80.520-3 / sebominas transporte e logistica ltda em recupera
+autenticação
+75d09f56-a3ac-4f7e-b4b4-472a402e4e0b
+ouvidoria sicoob: 08007250996
+v1.0.4.0
+08/10/2025, 10:01
+sicoob | internet banking
+https://www.sicoob.com.br/sicoobnet/ib/#/home-extrato
+1/1

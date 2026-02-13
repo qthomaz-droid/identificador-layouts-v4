@@ -1,0 +1,519 @@
+0,00
+ir (r$):
+1.696,93
+valor resgate líquido (r$):
+0,08
+iof*:
+0,09
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+1.697,01
+valor resgate bruto (r$):
+0,00
+ir (r$):
+332,10
+valor resgate líquido (r$):
+0,01
+iof*:
+0,02
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+332,11
+valor resgate bruto (r$):
+0,00
+ir (r$):
+145,48
+valor resgate líquido (r$):
+0,00
+iof*:
+0,01
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+145,48
+valor resgate bruto (r$):
+0,00
+ir (r$):
+831,03
+valor resgate líquido (r$):
+0,08
+iof*:
+0,11
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+831,11
+valor resgate bruto (r$):
+0,01
+ir (r$):
+1.794,25
+valor resgate líquido (r$):
+0,21
+iof*:
+0,29
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+1.794,47
+valor resgate bruto (r$):
+0,01
+ir (r$):
+572,85
+valor resgate líquido (r$):
+0,07
+iof*:
+0,12
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+572,93
+valor resgate bruto (r$):
+0,00
+ir (r$):
+246,69
+valor resgate líquido (r$):
+0,03
+iof*:
+0,06
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+246,72
+valor resgate bruto (r$):
+0,00
+ir (r$):
+308,02
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+308,02
+valor resgate bruto (r$):
+invest fac
+modalidade:
+01/07/2025 até 31/07/2025
+período de:
+462 | 263395 - 7
+conta:
+ef cosmeticos ltda | cnpj: 027.415.214/0001-85
+empresa:
+op
+data da operação
+certificado
+data de emissão
+data de
+vencimento
+valor principal (r$)
+a
+01/07/2025
+1.262.345.179.684
+01/07/2025
+21/06/2027
+308,02
+r
+02/07/2025
+1.262.334.575.373
+18/06/2025
+02/07/2025
+246,66
+r
+02/07/2025
+1.262.335.765.734
+20/06/2025
+02/07/2025
+572,81
+r
+02/07/2025
+1.262.338.261.909
+24/06/2025
+02/07/2025
+1.794,18
+r
+02/07/2025
+1.262.339.137.800
+25/06/2025
+02/07/2025
+831,00
+r
+02/07/2025
+1.262.340.224.182
+26/06/2025
+02/07/2025
+145,47
+r
+02/07/2025
+1.262.341.401.856
+27/06/2025
+02/07/2025
+332,09
+r
+02/07/2025
+1.262.343.061.526
+30/06/2025
+02/07/2025
+1.696,92
+r
+02/07/2025
+1.262.345.179.684
+01/07/2025
+02/07/2025
+308,02
+0,00
+ir (r$):
+152,68
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+152,68
+valor resgate bruto (r$):
+0,00
+ir (r$):
+1.405,39
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+1.405,39
+valor resgate bruto (r$):
+0,00
+ir (r$):
+1.638,84
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+1.638,84
+valor resgate bruto (r$):
+0,00
+ir (r$):
+704,24
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+704,24
+valor resgate bruto (r$):
+0,00
+ir (r$):
+372,00
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+372,00
+valor resgate bruto (r$):
+0,00
+ir (r$):
+98,18
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+98,18
+valor resgate bruto (r$):
+0,00
+ir (r$):
+1.196,77
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+1.196,77
+valor resgate bruto (r$):
+0,00
+ir (r$):
+544,42
+valor resgate líquido (r$):
+0,00
+iof*:
+0,01
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+544,42
+valor resgate bruto (r$):
+0,00
+ir (r$):
+544,41
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+544,41
+valor resgate bruto (r$):
+0,00
+ir (r$):
+308,02
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+308,02
+valor resgate bruto (r$):
+a
+03/07/2025
+1.262.348.143.747
+03/07/2025
+23/06/2027
+544,41
+r
+04/07/2025
+1.262.348.143.747
+03/07/2025
+04/07/2025
+544,41
+a
+07/07/2025
+1.262.352.317.937
+07/07/2025
+28/06/2027
+1.196,77
+a
+08/07/2025
+1.262.353.923.195
+08/07/2025
+28/06/2027
+98,18
+a
+09/07/2025
+1.262.354.926.659
+09/07/2025
+29/06/2027
+372,00
+a
+10/07/2025
+1.262.355.802.615
+10/07/2025
+30/06/2027
+704,24
+a
+11/07/2025
+1.262.356.910.225
+11/07/2025
+01/07/2027
+1.638,84
+a
+14/07/2025
+1.262.358.036.548
+14/07/2025
+05/07/2027
+1.405,39
+a
+15/07/2025
+1.262.359.300.198
+15/07/2025
+05/07/2027
+152,68
+0,01
+ir (r$):
+372,06
+valor resgate líquido (r$):
+0,05
+iof*:
+0,12
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+372,12
+valor resgate bruto (r$):
+0,00
+ir (r$):
+98,20
+valor resgate líquido (r$):
+0,01
+iof*:
+0,03
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+98,21
+valor resgate bruto (r$):
+0,04
+ir (r$):
+757,67
+valor resgate líquido (r$):
+0,11
+iof*:
+0,29
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+757,82
+valor resgate bruto (r$):
+0,00
+ir (r$):
+416,76
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+416,76
+valor resgate bruto (r$):
+0,00
+ir (r$):
+457,32
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+457,32
+valor resgate bruto (r$):
+0,00
+ir (r$):
+59,20
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+59,20
+valor resgate bruto (r$):
+0,00
+ir (r$):
+1.318,16
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+1.318,16
+valor resgate bruto (r$):
+0,00
+ir (r$):
+170,76
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+170,76
+valor resgate bruto (r$):
+0,00
+ir (r$):
+675,01
+valor resgate líquido (r$):
+0,00
+iof*:
+0,00
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+675,01
+valor resgate bruto (r$):
+0,00
+ir (r$):
+439,26
+valor resgate líquido (r$):
+0,05
+iof*:
+0,07
+valor renda bruta (r$):
+pos - 5,0000%
+taxa (%):
+439,31
+valor resgate bruto (r$):
+r
+16/07/2025
+1.262.352.317.937
+07/07/2025
+16/07/2025
+439,24
+a
+17/07/2025
+1.262.361.471.516
+17/07/2025
+07/07/2027
+675,01
+a
+18/07/2025
+1.262.362.490.026
+18/07/2025
+08/07/2027
+170,76
+a
+21/07/2025
+1.262.363.784.998
+21/07/2025
+12/07/2027
+1.318,16
+a
+22/07/2025
+1.262.364.890.336
+22/07/2025
+12/07/2027
+59,20
+a
+23/07/2025
+1.262.365.777.365
+23/07/2025
+13/07/2027
+457,32
+a
+24/07/2025
+1.262.366.636.494
+24/07/2025
+14/07/2027
+416,76
+r
+25/07/2025
+1.262.352.317.937
+07/07/2025
+25/07/2025
+757,53
+r
+25/07/2025
+1.262.353.923.195
+08/07/2025
+25/07/2025
+98,18
+r
+25/07/2025
+1.262.354.926.659
+09/07/2025
+25/07/2025
+372,00

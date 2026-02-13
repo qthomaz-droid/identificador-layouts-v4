@@ -1,0 +1,836 @@
+arthur lopes 218 b recife pe
+23.187.835/0001-06
+folha de pagamento
+emissão:
+01.01.01.0003
+seção:
+comp:
+28/07/2025 11:59:21
+cx:
+v.12.1.2410.219
+same construtora ltda
+07/2025
+per:
+0
+chapa - nome do funcionário
+admissão
+demissão
+salário
+situação
+seção
+status movimento
+função
+início - fim últ. afast.
+folha analitica mensal 07.2025
+recursos humanos
+000680
+rene francisco da silva
+assistente administrativo
+ativo
+12/03/2025
+recursos humanos
+1.518,00
+1.518,00
+dias trabalhados
+0002
+30,00
+395,60
+total entregue em vale transporte
+0032
+0,00
+b
+113,85
+i.n.s.s. com alíquota normal
+0089
+7,50
+b
+395,60
+total calculado para compra de vale tran
+0104
+0,00
+b
+113,85
+i.n.s.s.
+0003
+7,50
+91,08
+vale transporte
+0006
+6,00
+607,20
+adiantamento (desconto)
+0019
+0,00
+45,54
+vale alimentação
+0535
+0,00
+0,00
+fórmula 1
+660,33
+líquido
+857,67
+descontos
+121,44
+fgts esocial
+0,00
+fórmula 2
+1.518,00
+base irrf
+303,60
+inss empresa
+0,00
+fgts 13o. sal. esocial
+0,00
+fórmula 3
+0,00
+base irrf 13º
+45,54
+inss sat
+0,00
+fgts indeniz. esocial
+0,00
+fórmula 4
+0,00
+base irrf férias
+88,04
+inss terceiro
+0,00
+fgts rescisório esocial
+0,00
+fórmula 5
+0,00
+base irrf plr
+437,18
+inss total (emp+sat+terc)
+0,00
+fgts 13º rescisório esocial
+0,00
+fórmula 6
+1.518,00
+base sal. fam.
+45,54
+inss sat ajustado
+0,00
+fgts indeniz. resc. esocial
+0,00
+fórmula 7
+0,00
+num. depend. irrf
+437,18
+inss (emp+sat_ajust+terc)
+1.518,00
+base fgts esocial
+0,00
+fórmula 8
+113,85
+inss segurado
+0,00
+base fgts 13o. sal. esocial
+0,00
+fórmula 9
+0,00
+estorno inss
+0,00
+base fgts indeniz. esocial
+0,00
+fórmula 10
+1.518,00
+base inss - gps
+0,00
+base fgts resc. esocial
+0,00
+fórmula 11
+0,00
+ded. base inss verde/amar.
+0,00
+base fgts 13º resc. esocial
+0,00
+fórmula 12
+0,00
+ded. base inss 13 ver.ama.
+0,00
+base fgts ind resc. esocial
+0,00
+fórmula 13
+1.518,00
+base inss - envelope
+0,00
+base irrf plr anual
+0,00
+fórmula 14
+0,00
+base inss 13º - gps
+1.518,00
+proventos
+0,00
+fórmula 15
+0,00
+base inss 13º - envelope
+121,44
+fgts dep.
+0,00
+base inss ac. teto
+0,00
+fgts 13º dep.
+0,00
+base inss ac. teto 13º
+121,44
+fgts dep. (sefip)
+0,00
+base inss 15 anos
+0,00
+fgts 13º dep. (sefip)
+0,00
+base inss 13º 15 anos
+0,00
+fgts rescisão (sefip)
+0,00
+base inss 20 anos
+0,00
+fgts 13º rescisão (sefip)
+0,00
+base inss 13º 20 anos
+0,00
+fgts menor apr. (sefip)
+0,00
+base inss 25 anos
+0,00
+fgts 13º menor apr. (sefip)
+0,00
+base inss 13º 25 anos
+0,00
+fgts verde e amarelo
+1.518,00
+base inss ñ exp. risco
+0,00
+fgts 13º verde e amarelo
+0,00
+base inss 13º ñ exp. risco
+0,00
+fgts ant. verde e amarelo
+0,00
+base inss auton.
+0,00
+fgts 13º ant. verde/amar.
+0,00
+base inss pro-labore
+1.518,00
+base fgts
+0,00
+base fgts 13º
+1.518,00
+base fgts (sefip)
+0,00
+base fgts 13º (sefip)
+0,00
+base fgts menor apr.(sefip)
+0,00
+base fgts 13º menor apr.(se
+0,00
+base fgts verde e amarelo
+0,00
+base fgts 13º verde/amar.
+0,00
+base fgts 13º ant. verd.am.
+0,00
+base fgts afast.
+1.518,00
+base fgts ativos
+0,00
+base fgts 13º ativos
+0,00
+base fgts demitidos
+0,00
+base fgts 13º demitidos
+0,00
+base fgts resc.(sefip)
+0,00
+base fgts 13º resc.(sefip)
+0,00
+base fgts ant. verde/amar.
+recebi o líquido em ___ / ___ / ______. assinatura:
+1
+página:
+folha analitica mensal 07.2025
+comp:
+0
+07/2025
+23.187.835/0001-06
+arthur lopes 218 b recife pe
+descrição
+28/07/2025 11:59:21
+valor
+v.12.1.2410.219
+same construtora ltda
+per:
+cx:
+ref
+cod
+n.f.
+folha de pagamento
+emissão:
+01.01.01.0003
+seção:
+ref
+n.f.
+cod
+descrição
+valor
+totais da seção
+recursos humanos
+1.518,00
+dias trabalhados
+0002
+30,00
+1
+395,60
+total entregue em vale transporte
+0032
+0,00
+b
+1
+113,85
+i.n.s.s. com alíquota normal
+0089
+0,00
+b
+1
+395,60
+total calculado para compra de vale tr
+0104
+0,00
+b
+1
+113,85
+i.n.s.s.
+0003
+0,00
+1
+91,08
+vale transporte
+0006
+6,00
+1
+607,20
+adiantamento (desconto)
+0019
+0,00
+1
+45,54
+vale alimentação
+0535
+0,00
+1
+660,33
+líquido
+121,44
+fgts esocial
+857,67
+descontos
+1.518,00
+base irrf
+0,00
+fgts 13o. sal. esocial
+303,60
+inss empresa
+0,00
+base irrf 13º
+0,00
+fgts indeniz. esocial
+45,54
+inss sat
+0,00
+base irrf férias
+0,00
+fgts rescisório esocial
+88,04
+inss terceiro
+0,00
+base irrf plr
+0,00
+fgts 13º rescisório esocial
+437,18
+inss total (emp+sat+terc)
+1.518,00
+base sal. fam.
+0,00
+fgts indeniz. resc. esocial
+45,54
+inss sat ajustado
+0,00
+num. depend. irrf
+1.518,00
+base fgts esocial
+437,18
+inss (emp+sat_ajust+terc)
+0,00
+fórmula 1
+0,00
+base fgts 13o. sal. esocial
+113,85
+inss segurado
+0,00
+fórmula 2
+0,00
+base fgts indeniz. esocial
+0,00
+estorno inss
+0,00
+fórmula 3
+0,00
+base fgts resc. esocial
+1.518,00
+base inss - gps
+0,00
+fórmula 4
+0,00
+base fgts 13º resc. esocial
+0,00
+ded. base inss verde/amar.
+0,00
+fórmula 5
+0,00
+base fgts ind resc. esocial
+0,00
+ded. base inss 13 ver.ama.
+0,00
+fórmula 6
+0,00
+base irrf plr anual
+1.518,00
+base inss - envelope
+0,00
+fórmula 7
+1.518,00
+proventos
+0,00
+base inss 13º - gps
+0,00
+fórmula 8
+121,44
+fgts dep.
+0,00
+base inss 13º - envelope
+0,00
+fórmula 9
+0,00
+fgts 13º dep.
+0,00
+base inss ac. teto
+0,00
+fórmula 10
+121,44
+fgts dep. (sefip)
+0,00
+base inss ac. teto 13º
+0,00
+fórmula 11
+0,00
+fgts 13º dep. (sefip)
+0,00
+base inss 15 anos
+0,00
+fórmula 12
+0,00
+fgts rescisão (sefip)
+0,00
+base inss 13º 15 anos
+0,00
+fórmula 13
+0,00
+fgts 13º rescisão (sefip)
+0,00
+base inss 20 anos
+0,00
+fórmula 14
+0,00
+fgts menor apr. (sefip)
+0,00
+base inss 13º 20 anos
+0,00
+fórmula 15
+0,00
+fgts 13º menor apr. (sefip)
+0,00
+base inss 25 anos
+0,00
+fgts verde e amarelo
+0,00
+base inss 13º 25 anos
+0,00
+fgts 13º verde e amarelo
+1.518,00
+base inss ñ exp. risco
+0,00
+fgts ant. verde e amarelo
+0,00
+base inss 13º ñ exp. risco
+0,00
+fgts 13º ant. verde/amar.
+0,00
+base inss auton.
+1.518,00
+base fgts
+0,00
+base inss pro-labore
+0,00
+base fgts 13º
+1.518,00
+base fgts (sefip)
+0,00
+base fgts 13º (sefip)
+0,00
+base fgts menor apr.(sefip)
+0,00
+base fgts 13º menor apr.(sefip)
+0,00
+base fgts verde e amarelo
+0,00
+base fgts 13º verde/amar.
+0,00
+base fgts 13º ant. verd.am.
+0,00
+base fgts afast.
+1.518,00
+base fgts ativos
+0,00
+base fgts 13º ativos
+0,00
+base fgts demitidos
+0,00
+base fgts 13º demitidos
+0,00
+base fgts resc.(sefip)
+0,00
+base fgts 13º resc.(sefip)
+0,00
+base fgts ant. verde/amar.
+total de funcionários
+1
+ativos
+1
+demitidos
+0
+serv. militar
+0
+af. previdência
+0
+aviso prévio
+0
+férias
+0
+af. ac. trabalho
+0
+lic. sem vencto
+0
+outros
+0
+lic. remunerada
+0
+c/ dem. mês
+0
+licença paternidade
+0
+transf. no mês
+0
+c/ resc. compl.
+0
+apos. invalidez
+0
+recesso remunerado de estágio
+0
+licença maternidade
+0
+contrato de trabalho suspenso
+0
+doença ocupacional
+0
+licença mater. compl. 180 dias
+0
+admissão próximo mês
+0
+2
+página:
+arthur lopes 218 b recife pe
+23.187.835/0001-06
+folha de pagamento
+emissão:
+01.01.20.0014
+seção:
+comp:
+28/07/2025 11:59:21
+cx:
+v.12.1.2410.219
+same construtora ltda
+07/2025
+per:
+0
+chapa - nome do funcionário
+admissão
+demissão
+salário
+situação
+seção
+status movimento
+função
+início - fim últ. afast.
+folha analitica mensal 07.2025
+usf dr. luiz wilson
+000498
+joao carlos batista da silva
+pedreiro
+ativo
+03/06/2024
+usf dr. luiz wilson
+2.310,00
+2.310,00
+dias trabalhados
+0002
+30,00
+459,04
+hora extra 70%
+0531
+25,72
+68,01
+dsr
+0534
+0,00
+51,98
+auxilio ferramenta
+0537
+0,00
+143,88
+reembolso faltas
+9212
+0,00
+37,77
+reembolso atrasos
+9213
+0,00
+303,60
+ajuste salarial
+9215
+0,00
+395,60
+total entregue em vale transporte
+0032
+0,00
+b
+233,85
+i.n.s.s. com alíquota normal
+0089
+12,00
+b
+395,60
+total calculado para compra de vale tran
+0104
+0,00
+b
+233,85
+i.n.s.s.
+0003
+12,00
+13,08
+i.r.r.f.
+0004
+7,50
+138,60
+vale transporte
+0006
+6,00
+924,00
+adiantamento (desconto)
+0019
+0,00
+69,30
+vale alimentação
+0535
+0,00
+0,00
+fórmula 1
+1.995,45
+líquido
+1.378,83
+descontos
+226,96
+fgts esocial
+0,00
+fórmula 2
+2.837,05
+base irrf
+567,41
+inss empresa
+0,00
+fgts 13o. sal. esocial
+0,00
+fórmula 3
+0,00
+base irrf 13º
+85,11
+inss sat
+0,00
+fgts indeniz. esocial
+0,00
+fórmula 4
+0,00
+base irrf férias
+164,55
+inss terceiro
+0,00
+fgts rescisório esocial
+0,00
+fórmula 5
+0,00
+base irrf plr
+817,07
+inss total (emp+sat+terc)
+0,00
+fgts 13º rescisório esocial
+0,00
+fórmula 6
+2.769,04
+base sal. fam.
+85,11
+inss sat ajustado
+0,00
+fgts indeniz. resc. esocial
+0,00
+fórmula 7
+0,00
+num. depend. irrf
+817,07
+inss (emp+sat_ajust+terc)
+2.837,05
+base fgts esocial
+0,00
+fórmula 8
+233,85
+inss segurado
+0,00
+base fgts 13o. sal. esocial
+0,00
+fórmula 9
+0,00
+estorno inss
+0,00
+base fgts indeniz. esocial
+0,00
+fórmula 10
+2.837,05
+base inss - gps
+0,00
+base fgts resc. esocial
+0,00
+fórmula 11
+0,00
+ded. base inss verde/amar.
+0,00
+base fgts 13º resc. esocial
+0,00
+fórmula 12
+0,00
+ded. base inss 13 ver.ama.
+0,00
+base fgts ind resc. esocial
+0,00
+fórmula 13
+2.837,05
+base inss - envelope
+0,00
+base irrf plr anual
+0,00
+fórmula 14
+0,00
+base inss 13º - gps
+3.374,28
+proventos
+0,00
+fórmula 15
+0,00
+base inss 13º - envelope
+226,96
+fgts dep.
+0,00
+base inss ac. teto
+0,00
+fgts 13º dep.
+0,00
+base inss ac. teto 13º
+226,96
+fgts dep. (sefip)
+0,00
+base inss 15 anos
+0,00
+fgts 13º dep. (sefip)
+0,00
+base inss 13º 15 anos
+0,00
+fgts rescisão (sefip)
+0,00
+base inss 20 anos
+0,00
+fgts 13º rescisão (sefip)
+0,00
+base inss 13º 20 anos
+0,00
+fgts menor apr. (sefip)
+0,00
+base inss 25 anos
+0,00
+fgts 13º menor apr. (sefip)
+0,00
+base inss 13º 25 anos
+0,00
+fgts verde e amarelo
+2.837,05
+base inss ñ exp. risco
+0,00
+fgts 13º verde e amarelo
+0,00
+base inss 13º ñ exp. risco
+0,00
+fgts ant. verde e amarelo
+0,00
+base inss auton.
+0,00
+fgts 13º ant. verde/amar.
+0,00
+base inss pro-labore
+2.837,05
+base fgts
+0,00
+base fgts 13º
+2.837,05
+base fgts (sefip)
+0,00
+base fgts 13º (sefip)
+0,00
+base fgts menor apr.(sefip)
+0,00
+base fgts 13º menor apr.(se
+0,00
+base fgts verde e amarelo
+0,00
+base fgts 13º verde/amar.
+0,00
+base fgts 13º ant. verd.am.
+0,00
+base fgts afast.
+2.837,05
+base fgts ativos
+0,00
+base fgts 13º ativos
+0,00
+base fgts demitidos
+0,00
+base fgts 13º demitidos
+0,00
+base fgts resc.(sefip)
+0,00
+base fgts 13º resc.(sefip)
+0,00
+base fgts ant. verde/amar.
+recebi o líquido em ___ / ___ / ______. assinatura:
+3
+página:

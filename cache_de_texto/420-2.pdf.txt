@@ -1,0 +1,55 @@
+sicoob - sistema de cooperativas de crédito do brasil
+plataforma de serviços financeiros do sicoob - sisbr
+ 
+data: 08/03/2023
+comprovante de
+pagamento de boleto
+hora: 09:17:03
+coop.:
+3007-4 / cooperativa crédito leste capixaba
+conta:
+111.162-0 / forte blocos ltda - me
+linha digitável:
+00190.00009 03361.858008 00019.573179 8 92150000044930
+nº documento:
+--
+nosso número:
+--
+no. agendamento:
+34.725.215
+instituição emissora:
+1-banco do brasil s.a.
+tipo documento:
+título
+nome/razão social do beneficiário:
+indepe . inhapim derivados de petroleo ltda.
+nome fantasia beneficiário:
+indepe . inhapim derivados de petroleo ltda.
+cpf/cnpj beneficiário:
+04.961.098/0006-09
+nome/razão social do pagador:
+forte blocos ltda me
+nome fantasia pagador:
+forte blocos ltda me
+cpf/cnpj pagador:
+09.431.067/0001-55
+data agendamento:
+30/12/2022-12:22:25
+data pagamento:
+02/01/2023
+data vencimento:
+30/12/2022
+valor documento:
+449,30
+(-) desconto / abatimento:
+0,00
+(+) outros acréscimos:
+0,00
+valor pago:
+449,30
+situação:
+efetivado
+autorizou pagar valor diferente do agendado:
+não
+autenticação:
+84bb81eb-3cd4-4fd0-aa89-ac60c5cbeb92

@@ -1,0 +1,777 @@
+756
+conta
+extrato compensação
+dt. compen.
+trans.
+histórico
+vl saídas
+vl entradas
+período:
+caixa/banco:
+moeda:
+a
+dt. lanc.
+saldo
+nro. doc.
+func.conc.
+crédito
+débito
+30/09/2025
+01/09/2025
+d
+sicoob
+dinheiro
+605 - extrato caixa/banco
+16/10/2025 17:04:38
+página 1
+desconsiderar estornos:não
+87.280,00
+756-d
+saldo inicial:
+86.720,03
+01/09/25 00:00
+426161
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+01/09/25
+15402
+1
+vl.pagto.cf.bordero 15402
+-559,97
+80.586,95
+01/09/25 00:00
+426162
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+01/09/25
+15403
+1
+vl.pagto.cf.bordero 15403
+-6.133,08
+56.526,12
+01/09/25 00:00
+426163
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+01/09/25
+15404
+1
+vl.pagto.cf.bordero 15404
+-24.060,83
+92.808,52
+01/09/25 00:00
+426449
+baixa automatica arq.mag.02/09/2025
+ludmilla
+02/09/25
+0
+101
+1
+36.282,40
+90.578,67
+01/09/25 00:00
+426694
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15457
+1
+vl.pagto.cf.bordero 15457
+-2.229,85
+89.234,34
+01/09/25 00:00
+426695
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15458
+1
+vl.pagto.cf.bordero 15458
+-1.344,33
+73.713,51
+01/09/25 00:00
+426696
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15459
+1
+vl.pagto.cf.bordero 15459
+-15.520,83
+68.546,54
+01/09/25 00:00
+426697
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15460
+1
+vl.pagto.cf.bordero 15460
+-5.166,97
+62.838,17
+01/09/25 00:00
+426698
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15461
+1
+vl.pagto.cf.bordero 15461
+-5.708,37
+57.575,05
+01/09/25 00:00
+426699
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15462
+1
+vl.pagto.cf.bordero 15462
+-5.263,12
+52.964,55
+01/09/25 00:00
+426700
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15463
+1
+vl.pagto.cf.bordero 15463
+-4.610,50
+51.595,95
+01/09/25 00:00
+426701
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15464
+1
+vl.pagto.cf.bordero 15464
+-1.368,60
+51.417,75
+01/09/25 00:00
+426702
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15465
+1
+vl.pagto.cf.bordero 15465
+-178,20
+51.833,41
+01/09/25 00:00
+426730
+claudia torezani tonon
+ludmilla
+04/09/25
+20640749
+101
+1
+desfruit gelateria ltda (bi)
+415,66
+52.195,52
+01/09/25 00:00
+427891
+baixa ref. titulo nro. 20559-5(756)
+ludmilla
+09/09/25
+20619925
+101
+1
+desfruit gelateria ltda (bi)
+362,11
+52.459,85
+01/09/25 00:00
+427941
+baixa ref. titulo nro. 23336-3(756)
+ludmilla
+09/09/25
+20637134
+101
+1
+josiane garcez pinto (bi)
+264,33
+52.536,29
+01/09/25 00:00
+429169
+carr 126557
+ludmilla
+15/09/25
+1092025
+1
+transf. de [20  d] p/ [756  d]
+76,44
+52.612,73
+01/09/25 00:00
+428448
+carr 126557
+ludmilla
+12/09/25
+1092025
+0
+1
+transf. de [20  d] p/ [756  d]
+76,44
+52.536,29
+01/09/25 00:00
+429335
+estorno transf.numerario ref.428448
+ludmilla
+15/09/25
+1092025
+1
+1
+carr 126557
+-76,44
+79.893,13
+02/09/25 00:00
+426576
+baixa automatica arq.mag.03/09/2025
+ludmilla
+03/09/25
+0
+101
+1
+27.356,84
+69.965,87
+02/09/25 00:00
+426703
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15468
+1
+vl.pagto.cf.bordero 15468
+-9.927,26
+61.783,66
+02/09/25 00:00
+426704
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15469
+1
+vl.pagto.cf.bordero 15469
+-8.182,21
+756
+conta
+extrato compensação
+dt. compen.
+trans.
+histórico
+vl saídas
+vl entradas
+período:
+caixa/banco:
+moeda:
+a
+dt. lanc.
+saldo
+nro. doc.
+func.conc.
+crédito
+débito
+30/09/2025
+01/09/2025
+d
+sicoob
+dinheiro
+605 - extrato caixa/banco
+16/10/2025 17:04:38
+página 2
+desconsiderar estornos:não
+61.783,66
+756-d
+saldo inicial:
+56.023,07
+02/09/25 00:00
+426705
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15470
+1
+vl.pagto.cf.bordero 15470
+-5.760,59
+52.531,84
+02/09/25 00:00
+426706
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15471
+1
+vl.pagto.cf.bordero 15471
+-3.491,23
+47.092,11
+02/09/25 00:00
+426707
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15472
+1
+vl.pagto.cf.bordero 15472
+-5.439,73
+44.927,11
+02/09/25 00:00
+426708
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15473
+1
+vl.pagto.cf.bordero 15473
+-2.165,00
+39.702,14
+02/09/25 00:00
+426709
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15474
+1
+vl.pagto.cf.bordero 15474
+-5.224,97
+38.182,14
+02/09/25 00:00
+426710
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15475
+1
+vl.pagto.cf.bordero 15475
+-1.520,00
+38.465,11
+02/09/25 00:00
+426733
+baixa ref. titulo nro. 23342-5(756)
+ludmilla
+04/09/25
+20637299
+101
+1
+paulo ricardo dos anjos rodrigues (bi)
+282,97
+38.699,69
+02/09/25 00:00
+426735
+baixa ref. titulo nro. 23586-5(756)
+ludmilla
+04/09/25
+20641772
+101
+1
+paulo ricardo dos anjos rodrigues (bi)
+234,58
+24.919,52
+02/09/25 00:00
+426811
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+04/09/25
+15509
+1
+vl.pagto.cf.bordero 15509
+-13.780,17
+30.919,52
+02/09/25 00:00
+427906
+baixa ref. titulo nro. 20647897-z(d)
+ludmilla
+09/09/25
+20647897
+101
+1
+paulo carnielli (bi)
+6.000,00
+32.919,52
+02/09/25 00:00
+427908
+baixa ref. titulo nro. 20647898-z(d)
+ludmilla
+09/09/25
+20647898
+101
+1
+paulo carnielli (bi)
+2.000,00
+36.419,52
+02/09/25 00:00
+427910
+baixa ref. titulo nro. 20647899-z(d)
+ludmilla
+09/09/25
+20647899
+101
+1
+paulo carnielli (bi)
+3.500,00
+35.635,94
+02/09/25 00:00
+427912
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+09/09/25
+15573
+1
+vl.pagto.cf.bordero 15573
+-783,58
+35.401,36
+( c ) venda fatur
+02/09/25 00:00
+426735
+estorno conciliacao
+ludmilla
+04/09/25
+20641772
+101
+1
+baixa ref. titulo nro. 23586-5(756)
+-234,58
+35.635,94
+02/09/25 00:00
+426735
+baixa ref. titulo nro. 23586-5(756)
+ludmilla
+04/09/25
+20641772
+101
+1
+paulo ricardo dos anjos rodrigues (bi)
+234,58
+35.401,36
+02/09/25 00:00
+427913
+estorno baixa ref titulo  23586-5
+ludmilla
+09/09/25
+0
+1
+1
+paulo ricardo dos anjos rodrigues
+-234,58
+35.637,27
+02/09/25 00:00
+427916
+baixa ref. titulo nro. 23586-7(756)
+ludmilla
+09/09/25
+20641772
+101
+1
+paulo ricardo dos anjos rodrigues (bi)
+235,91
+35.747,03
+02/09/25 00:00
+428092
+carr 126425 
+ludmilla
+10/09/25
+2092025
+1
+transf. de [20  d] p/ [756  d]
+109,76
+35.800,75
+02/09/25 00:00
+428451
+carr 126558
+ludmilla
+12/09/25
+2092025
+1
+transf. de [20  d] p/ [756  d]
+53,72
+35.747,03
+02/09/25 00:00
+428451
+estorno conciliacao
+ludmilla
+12/09/25
+2092025
+0
+1
+carr 126558
+-53,72
+35.800,75
+02/09/25 00:00
+428451
+carr 126558
+ludmilla
+12/09/25
+2092025
+0
+1
+transf. de [20  d] p/ [756  d]
+53,72
+35.690,99
+02/09/25 00:00
+428092
+estorno conciliacao
+ludmilla
+10/09/25
+2092025
+0
+1
+carr 126425 
+-109,76
+756
+conta
+extrato compensação
+dt. compen.
+trans.
+histórico
+vl saídas
+vl entradas
+período:
+caixa/banco:
+moeda:
+a
+dt. lanc.
+saldo
+nro. doc.
+func.conc.
+crédito
+débito
+30/09/2025
+01/09/2025
+d
+sicoob
+dinheiro
+605 - extrato caixa/banco
+16/10/2025 17:04:38
+página 3
+desconsiderar estornos:não
+35.690,99
+756-d
+saldo inicial:
+35.800,75
+02/09/25 00:00
+428092
+carr 126425 
+ludmilla
+10/09/25
+2092025
+0
+1
+transf. de [20  d] p/ [756  d]
+109,76
+35.830,75
+02/09/25 00:00
+429333
+baixa ref. titulo nro. 20650306-z(d)
+ludmilla
+15/09/25
+20650306
+101
+1
+paulo carnielli (bi)
+30,00
+35.777,03
+02/09/25 00:00
+428451
+estorno conciliacao
+ludmilla
+12/09/25
+2092025
+0
+1
+carr 126558
+-53,72
+35.723,31
+02/09/25 00:00
+431008
+estorno transf.numerario ref.428451
+ludmilla
+23/09/25
+2092025
+1
+1
+carr 126558
+-53,72
+35.777,03
+02/09/25 00:00
+428451
+carr 126558
+ludmilla
+12/09/25
+2092025
+0
+1
+transf. de [20  d] p/ [756  d]
+53,72
+35.830,75
+02/09/25 00:00
+431104
+carr 126558 
+ludmilla
+23/09/25
+2092025
+1
+transf. de [20  d] p/ [756  d]
+53,72
+32.907,73
+03/09/25 00:00
+426711
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15477
+1
+vl.pagto.cf.bordero 15477
+-2.923,02
+28.505,85
+03/09/25 00:00
+426712
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15479
+1
+vl.pagto.cf.bordero 15479
+-4.401,88
+25.790,94
+03/09/25 00:00
+426713
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15480
+1
+vl.pagto.cf.bordero 15480
+-2.714,91
+21.255,49
+03/09/25 00:00
+426714
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+03/09/25
+15481
+1
+vl.pagto.cf.bordero 15481
+-4.535,45
+40.172,79
+03/09/25 00:00
+426752
+baixa automatica arq.mag.04/09/2025
+ludmilla
+04/09/25
+0
+101
+1
+18.917,30
+25.835,19
+03/09/25 00:00
+426812
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+04/09/25
+15508
+1
+vl.pagto.cf.bordero 15508
+-14.337,60
+40.172,79
+03/09/25 00:00
+427657
+ref.estorn.bordero ja baixado
+ludmilla
+08/09/25
+15508
+1
+ref. a cancelamento de bordero: 15508
+14.337,60
+34.629,06
+03/09/25 00:00
+427627
+boleto pago dia 03/09/2025
+ludmilla
+08/09/25
+15535
+1
+vl.pagto.cf.bordero 15535
+-5.543,73
+19.407,79
+03/09/25 00:00
+427841
+salarios pagos dia 03/09/2025
+ludmilla
+08/09/25
+15554
+1
+vl.pagto.cf.bordero 15554
+-15.221,27
+32.907,79
+03/09/25 00:00
+427921
+baixa ref. titulo nro. 20646807-z(d)
+ludmilla
+09/09/25
+20646807
+101
+1
+paulo carnielli (bi)
+13.500,00
+35.907,79
+03/09/25 00:00
+427923
+baixa ref. titulo nro. 20646806-1(d)
+ludmilla
+09/09/25
+20646806
+101
+1
+paulo carnielli (bi)
+3.000,00
+36.557,79
+03/09/25 00:00
+427946
+baixa ref. titulo nro. 20648194-z(d)
+ludmilla
+09/09/25
+20648194
+101
+1
+paulo carnielli (bi)
+650,00
+35.674,12
+03/09/25 00:00
+427954
+baixa pela rotina 775 (nenhuma observação
+ludmilla
+09/09/25
+15590
+1
+vl.pagto.cf.bordero 15590
+-883,67
+35.669,12
+tarifas bancaria
+03/09/25 00:00
+427956
+tarifa cobrança
+ludmilla
+09/09/25
+0
+301009
+0
+-5,00
+36.619,81
+03/09/25 00:00
+428093
+carr 124768 e 123825
+ludmilla
+10/09/25
+3092025
+1
+transf. de [20  d] p/ [756  d]
+950,69
+36.881,71
+03/09/25 00:00
+428094
+carr 126590
+ludmilla
+10/09/25
+3092025
+1
+transf. de [20  d] p/ [756  d]
+261,90

@@ -1,0 +1,365 @@
+r$ 122,54
+tac:
+29,04324% a.a.
+taxa de juros:
+30/08/2022
+data de desconto:
+2022003085821
+contrato:
+duplicatas
+subproduto:
+desconto
+produto:
+fardim distribuidora de embalagens ltda
+nome:
+agência: 553 | conta: 13294-2
+conta:
+fardim embalagens e descartaveis  | cnpj: 026.182.593/0001-48
+empresa:
+planilha financeira
+data: 02/09/2022 - 11:44
+dados do contrato
+vencimento
+parcela
+número duplicata
+sacado
+07/09/2022
+1
+00029223 1
+rosangela coutinho mendes ferr
+nosso número:
+6977
+valor da nota:
+r$ 317,95
+juros:
+r$ 2,31
+tarifa:
+r$ 0,00
+iof:
+r$ 1,31
+valor líquido:
+r$ 314,33
+vencimento
+parcela
+número duplicata
+sacado
+07/09/2022
+2
+00028719 2
+alailson gomes candal 08949885
+nosso número:
+6913
+valor da nota:
+r$ 339,02
+juros:
+r$ 2,46
+tarifa:
+r$ 0,00
+iof:
+r$ 1,40
+valor líquido:
+r$ 335,16
+vencimento
+parcela
+número duplicata
+sacado
+07/09/2022
+3
+00029210 1
+eraldo araujo da silva 1032426
+nosso número:
+6969
+valor da nota:
+r$ 369,28
+juros:
+r$ 2,68
+tarifa:
+r$ 0,00
+iof:
+r$ 1,52
+valor líquido:
+r$ 365,08
+vencimento
+parcela
+número duplicata
+sacado
+07/09/2022
+4
+00029231 1
+edivania ricieri simoes
+nosso número:
+6985
+valor da nota:
+r$ 404,62
+juros:
+r$ 2,94
+tarifa:
+r$ 0,00
+iof:
+r$ 1,67
+valor líquido:
+r$ 400,01
+vencimento
+parcela
+número duplicata
+sacado
+ a)
+
+4
+bradesco
+
+net empresa
+07/09/2022
+5
+00029229 1
+edmilson rocha santos 07225357
+nosso número:
+6983
+valor da nota:
+r$ 458,63
+juros:
+r$ 3,33
+tarifa:
+r$ 0,00
+iof:
+r$ 1,89
+valor líquido:
+r$ 453,41
+vencimento
+parcela
+número duplicata
+sacado
+07/09/2022
+6
+00029217 1
+talita araujo marvila
+nosso número:
+6971
+valor da nota:
+r$ 468,36
+juros:
+r$ 3,40
+tarifa:
+r$ 0,00
+iof:
+r$ 1,93
+valor líquido:
+r$ 463,03
+vencimento
+parcela
+número duplicata
+sacado
+07/09/2022
+7
+00029220 1
+aclescio gas e agua eireli
+nosso número:
+6974
+valor da nota:
+r$ 481,95
+juros:
+r$ 3,50
+tarifa:
+r$ 0,00
+iof:
+r$ 1,99
+valor líquido:
+r$ 476,46
+vencimento
+parcela
+número duplicata
+sacado
+07/09/2022
+8
+00028935 1
+rossano souza fardim 150656517
+nosso número:
+6943
+valor da nota:
+r$ 488,53
+juros:
+r$ 3,55
+tarifa:
+r$ 0,00
+iof:
+r$ 2,02
+valor líquido:
+r$ 482,96
+vencimento
+parcela
+número duplicata
+sacado
+07/09/2022
+9
+00028911 2
+churrascaria e restaurante mai
+nosso número:
+6925
+valor da nota:
+r$ 522,15
+juros:
+r$ 3,79
+tarifa:
+r$ 0,00
+iof:
+r$ 2,16
+valor líquido:
+r$ 516,20
+vencimento
+parcela
+número duplicata
+sacado
+14/09/2022
+10
+00028935 2
+rossano souza fardim 150656517
+nosso número:
+6944
+valor da nota:
+r$ 488,53
+juros:
+r$ 5,91
+tarifa:
+r$ 0,00
+iof:
+r$ 2,13
+valor líquido:
+r$ 480,49
+vencimento
+parcela
+número duplicata
+sacado
+14/09/2022
+11
+00028911 3
+churrascaria e restaurante mai
+nosso número:
+6926
+valor da nota:
+r$ 522,15
+juros:
+r$ 6,32
+tarifa:
+r$ 0,00
+iof:
+r$ 2,27
+valor líquido:
+r$ 513,56
+vencimento
+parcela
+número duplicata
+sacado
+14/09/2022
+12
+00028936 3
+m c de castro distribuidora
+nosso número:
+6947
+valor da nota:
+r$ 630,13
+juros:
+r$ 7,63
+tarifa:
+r$ 0,00
+iof:
+r$ 2,74
+valor líquido:
+r$ 619,76
+vencimento
+parcela
+número duplicata
+sacado
+14/09/2022
+13
+00029225 1
+rossano souza fardim 150656517
+nosso número:
+6979
+valor da nota:
+r$ 630,52
+juros:
+r$ 7,63
+tarifa:
+r$ 0,00
+iof:
+r$ 2,75
+valor líquido:
+r$ 620,14
+vencimento
+parcela
+número duplicata
+sacado
+15/09/2022
+14
+00029032 2
+hospital infantil francisco de
+nosso número:
+6960
+valor da nota:
+r$ 695,82
+juros:
+r$ 8,98
+tarifa:
+r$ 0,00
+iof:
+r$ 3,06
+valor líquido:
+r$ 683,78
+vencimento
+parcela
+número duplicata
+sacado
+21/09/2022
+15
+00029225 2
+rossano souza fardim 150656517
+nosso número:
+6980
+valor da nota:
+r$ 630,53
+juros:
+r$ 11,19
+tarifa:
+r$ 0,00
+iof:
+r$ 2,91
+valor líquido:
+r$ 616,43
+vencimento
+parcela
+número duplicata
+sacado
+21/09/2022
+16
+00029205 1
+instituto de medicina preventi
+nosso número:
+6965
+valor da nota:
+r$ 721,40
+juros:
+r$ 12,80
+tarifa:
+r$ 0,00
+iof:
+r$ 3,33
+valor líquido:
+r$ 705,27
+totais
+valor da nota (r$)
+juros (r$)
+tarifa (r$)
+iof (r$)
+valor líquido (r$)
+página
+8.169,57
+88,42
+0,00
+35,08
+8.046,07
+geral
+8.169,57
+88,42
+0,00
+35,08
+7.923,53

@@ -1,0 +1,782 @@
+siga/finr470/v.12
+extrato bancario entre  01/04/2025 e 30/04/2025  em  real
+dt.ref: 26/05/2025
+hora: 13:57:15
+emissão: 26/05/2025
+grupo de empresa: adiant solucoes integradas / filial: adiant solucoes integradas
+pergunta 01 : do banco ?
+001
+pergunta 02 : da agencia ?
+3007
+pergunta 03 : da conta ?
+130424
+pergunta 04 : da data ?
+01/04/2025
+pergunta 05 : ate a data ?
+30/04/2025
+pergunta 06 : qual moeda ?
+1
+pergunta 07 : conciliacao ?
+conciliados
+pergunta 08 : linhas por pagina ?
+99
+pergunta 09 : converte valores pela ?
+taxa dia
+pergunta 10 : saldo inicial p/ ?
+filial
+pergunta 11 : considera filial ?
+filial atual
+pergunta 12 : converter saldo inicial ?
+tx. data saldo
+folha:    1
+siga/finr470/v.12
+extrato bancario entre  01/04/2025 e 30/04/2025  em  real
+dt.ref: 26/05/2025
+hora: 13:57:15
+emissão: 26/05/2025
+grupo de empresa: adiant solucoes integradas / filial: adiant solucoes integradas
+banco: 001 - banco do brasil agencia: 3007 conta: 130424
+saldo inicial:        31.810,86
+data
+operacao
+documento
+beneficiario
+prefixo/titulo
+      entradas
+        saidas    saldo atual
+01/04/20
+repasse climasul
+climasul ar
+fin-000152
+          0,00 x
+      2.334,02      29.476,84
+01/04/20
+repasse climasul
+climasul ar
+fin-000153
+          0,00 x
+        323,49      29.153,35
+01/04/20
+vt abril/25
+fundo de urbaniza vt -vt 2025  -04
+          0,00 x
+        360,00      28.793,35
+01/04/20
+vr abril/25 - compl.
+ecx pay - vr
+nfs-29022
+          0,00 x
+      1.000,00      27.793,35
+01/04/20
+antec pc 175 - sem recibo
+wilmar motores
+pa -vilmar   -03
+          0,00 x
+      2.200,00      25.593,35
+01/04/20
+reemb desp andre
+01042501
+reemb desp andre
+          0,00 x
+         93,83      25.499,52
+02/04/20
+apc
+apc grupo marista f  -000000139
+      2.479,10 x
+          0,00      27.978,62
+03/04/20
+estacio andre sykes
+03042501
+estacio andre syk
+          0,00 x
+         25,00      27.953,62
+04/04/20
+valor pago s /titulo
+gabriel sandr
+pl -plgabriel-03
+          0,00 x
+      1.351,02      26.602,60
+04/04/20
+valor pago s /titulo
+rafael branco dos rec-mou spr  -06
+          0,00 x
+      6.000,00      20.602,60
+04/04/20
+valor pago s /titulo
+banco do brasil
+sal-salario25-03
+          0,00 x
+      6.641,51      13.961,09
+04/04/20
+repasse material
+climasul ar
+fin-000166
+          0,00 x
+         61,62      13.899,47
+04/04/20
+nf rodrigo passos
+rodrigo passos pj nfs-24
+          0,00 x
+      9.176,43       4.723,04
+04/04/20
+stara
+stara
+f  -000000194
+      2.618,46 x
+          0,00       7.341,50
+04/04/20
+sanepar
+sanepar
+f  -000000185
+      5.530,30 x
+          0,00      12.871,80
+04/04/20
+amil
+amil assist medic f  -000000186
+      2.232,21 x
+          0,00      15.104,01
+04/04/20
+andre estacio senac
+04042501
+andre estacio sen
+          0,00 x
+         18,00      15.086,01
+07/04/20
+nf ecp mar/25
+ecp contabilidade nfs-3677
+          0,00 x
+      1.128,82      13.957,19
+07/04/20
+globo
+globopar tv globo f  -000000190
+      2.822,36 x
+          0,00      16.779,55
+07/04/20
+fund copel
+fundacao copel pr f  -000000189
+      2.421,21 x
+          0,00      19.200,76
+07/04/20
+unimed
+unimed vr rj
+f  -000000197
+      1.493,75 x
+          0,00      20.694,51
+07/04/20
+nf vae saude
+vae saude - clini nfs-9513
+          0,00 x
+        782,00      19.912,51
+07/04/20
+nd 046 - intertechne
+intertechne
+p  -000000046-06
+      5.590,00 x
+          0,00      25.502,51
+07/04/20
+tarifa
+tarifa
+          0,00 x
+          7,74      25.494,77
+07/04/20
+estacio fund copel andre
+07042501
+estacio fund cope
+          0,00 x
+         18,00      25.476,77
+08/04/20
+repasse climasul nf carel
+climasul ar
+fin-000172
+          0,00 x
+      2.831,69      22.645,08
+08/04/20
+repasse climasul nf dufrio
+climasul ar
+fin-000160
+          0,00 x
+        146,62      22.498,46
+08/04/20
+vts kauan
+kauan de araujo
+vt -kauan    -01
+          0,00 x
+         12,00      22.486,46
+08/04/20
+repasse climasul
+climasul ar
+fin-000170
+          0,00 x
+         95,00      22.391,46
+08/04/20
+tarifa
+tarifa
+          0,00 x
+         12,00      22.379,46
+08/04/20
+estacio amiol andre
+08042501
+estacio amiol and
+          0,00 x
+         24,00      22.355,46
+09/04/20
+seg vida
+banco do brasil
+sv -sed vida -04
+          0,00 x
+         54,99      22.300,47
+09/04/20
+antec adesivagem carros
+plus visual
+pa -adesivos -01
+          0,00 x
+        780,00      21.520,47
+09/04/20
+vt kauan
+kauan de araujo
+vt -kauan    -02
+          0,00 x
+         42,00      21.478,47
+09/04/20
+copel
+copel distribuica f  -000000200
+     24.007,78 x
+          0,00      45.486,25
+09/04/20
+copel
+copel comercializ f  -000000201
+        276,68 x
+          0,00      45.762,93
+09/04/20
+copel
+copel geracao
+f  -000000199
+      7.972,69 x
+          0,00      53.735,62
+09/04/20
+copel
+cia paranaense en f  -000000198
+        916,78 x
+          0,00      54.652,40
+09/04/20
+vt eric
+eric diordi queve vt -eric     -03
+          0,00 x
+          7,00      54.645,40
+09/04/20
+tarifa
+tarifa
+          0,00 x
+          9,72      54.635,68
+10/04/20
+antec auvo sistemas
+auvo sistemas
+          0,00 x
+        300,00      54.335,68
+10/04/20
+exclusao de titulo pa
+auvo sistemas
+        300,00 x
+          0,00      54.635,68
+10/04/20
+antec pc 190 nf 10.494 sem liberacao
+posto marfim
+pa -nf 10494 -01
+          0,00 x
+      1.966,98      52.668,70
+10/04/20
+repasse climasul
+climasul ar
+fin-000191
+          0,00 x
+        560,00      52.108,70
+10/04/20
+pcte tarifa
+banco do brasil
+tx -cesta pj -04
+          0,00 x
+        174,90      51.933,80
+10/04/20
+mater rocio
+mat rocio
+p  -000000048-08
+      4.363,34 x
+          0,00      56.297,14
+10/04/20
+magnetron
+magnetron
+f  -000000204
+      2.353,86 x
+          0,00      58.651,00
+10/04/20
+sykes
+sykes foundever
+f  -000000195
+        710,65 x
+          0,00      59.361,65
+10/04/20
+vunesp
+vunesp
+f  -000000202
+      2.209,43 x
+          0,00      61.571,08
+10/04/20
+barigui
+fiat barigui
+p  -000000044-09
+      4.433,51 x
+          0,00      66.004,59
+10/04/20
+senac
+senac pr
+f  -000000205
+      2.630,82 x
+          0,00      68.635,41
+10/04/20
+valor pago s /titulo
+000035
+ziehl-abegg do br 1  -61919    -a
+          0,00 x
+      2.533,09      66.102,32
+10/04/20
+valor pago s /titulo
+000035
+auvo tecnologia s nfs-172211
+          0,00 x
+        300,00      65.802,32
+11/04/20
+jacomar
+supermercado jaco f  -000000193
+      1.788,27 x
+          0,00      67.590,59
+14/04/20
+ret almir
+climasul ar
+ret-almir    -04
+          0,00 x
+     10.000,00      57.590,59
+14/04/20
+valor pago s /titulo
+000036
+transtomaz embu s 1  -520138
+          0,00 x
+        271,89      57.318,70
+14/04/20
+valor pago s /titulo
+000036
+climasul ar
+fin-000159
+          0,00 x
+        632,64      56.686,06
+14/04/20
+valor pago s /titulo
+000036
+sefaz parana
+imp-icms 25  -03
+          0,00 x
+        307,58      56.378,48
+15/04/20
+antec pc 174 sem nota
+girelli
+pa -girelli  -01
+          0,00 x
+      1.665,00      54.713,48
+15/04/20
+valor pago s /titulo
+000037
+climasul ar
+fin-000173
+          0,00 x
+        476,16      54.237,32
+15/04/20
+valor pago s /titulo
+000037
+dala service
+nfs-17176
+          0,00 x
+        938,50      53.298,82
+15/04/20
+valor pago s /titulo
+000037
+insat
+nfs-53612
+          0,00 x
+        130,00      53.168,82
+15/04/20
+valor pago s /titulo
+000037
+vae saude - clini nfs-9446
+          0,00 x
+        351,50      52.817,32
+15/04/20
+valor pago s /titulo
+000037
+hdi seguros
+sg -seg 2025 -02
+          0,00 x
+        774,90      52.042,42
+15/04/20
+tarifa
+tarifa
+          0,00 x
+         22,76      52.019,66
+16/04/20
+nf valbras
+valbras instalaca nfs-839
+          0,00 x
+      2.860,50      49.159,16
+16/04/20
+tarifa
+tarifa
+          0,00 x
+         10,00      49.149,16
+17/04/20
+guia inss 03/25
+inss
+imp-inss 2025-03
+          0,00 x
+      1.916,26      47.232,90
+17/04/20
+contitech
+contitech pg
+f  -000000188
+      2.967,73 x
+          0,00      50.200,63
+17/04/20
+valor pago s /titulo
+000038
+kauan de araujo
+adi-kauan    -01
+          0,00 x
+        762,72      49.437,91
+17/04/20
+valor pago s /titulo
+000038
+luan bernarino
+adi-luan     -01
+          0,00 x
+        762,72      48.675,19
+17/04/20
+valor pago s /titulo
+000038
+cef
+imp-fgts 2025-03
+          0,00 x
+      1.057,77      47.617,42
+17/04/20
+valor pago s /titulo
+000038
+banco do brasil
+val-adiant 25-04
+          0,00 x
+      4.131,36      43.486,06
+17/04/20
+tarifa
+tarifa
+          0,00 x
+         17,55      43.468,51
+22/04/20
+hexion
+hexion quimica do f  -000000203
+      3.988,30 x
+          0,00      47.456,81
+22/04/20
+fenaulto - gabriel sandri
+fenauto
+f  -000000181
+      1.095,45 x
+          0,00      48.552,26
+22/04/20
+guia iss marco/25
+pref. mun. curiti imp-iss 2025 -03
+          0,00 x
+      5.507,32      43.044,94
+22/04/20
+repasse climasul
+dufrio
+1  -552028
+          0,00 x
+         91,56      42.953,38
+22/04/20
+ret gabriel- fenauto
+gabriel sandr
+ret-retirada -09
+          0,00 x
+        640,53      42.312,85
+22/04/20
+tarifa
+tarifa
+          0,00 x
+          6,34      42.306,51
+23/04/20
+05 vts luan
+luan bernarino
+vt -luan     -01
+          0,00 x
+         60,00      42.246,51
+23/04/20
+nd 047 - ligga
+ligga (nova fibra p  -000000047-08
+     27.154,34 x
+          0,00      69.400,85
+23/04/20
+brfibra
+brfibra
+f  -000000226
+      2.955,85 x
+          0,00      72.356,70
+24/04/20
+antec nf 10542 sem pedido
+posto marfim
+pa -marfim   -04
+          0,00 x
+      1.312,59      71.044,11
+24/04/20
+valor pago s /titulo
+000039
+receita federal
+imp-cofins 25-03
+          0,00 x
+      1.342,25      69.701,86
+folha:    2
+siga/finr470/v.12
+extrato bancario entre  01/04/2025 e 30/04/2025  em  real
+dt.ref: 26/05/2025
+hora: 13:57:15
+emissão: 26/05/2025
+grupo de empresa: adiant solucoes integradas / filial: adiant solucoes integradas
+banco: 001 - banco do brasil agencia: 3007 conta: 130424
+saldo inicial:        31.810,86
+data
+operacao
+documento
+beneficiario
+prefixo/titulo
+      entradas
+        saidas    saldo atual
+24/04/20
+valor pago s /titulo
+000039
+receita federal
+imp-pis 2025 -03
+          0,00 x
+        290,83      69.411,03
+24/04/20
+valor pago s /titulo
+000040
+climasul ar
+    repasse  -03
+          0,00 x
+     21.870,00      47.541,03
+24/04/20
+valor pago s /titulo
+000040
+ziehl-abegg do br 1  -62405    -a
+          0,00 x
+      4.077,00      43.464,03
+24/04/20
+valor pago s /titulo
+000040
+detran pr
+mul-002720922-01
+          0,00 x
+        104,12      43.359,91
+24/04/20
+valor pago s /titulo
+000040
+ecx pay - vr
+nfs-30653
+          0,00 x
+      2.625,00      40.734,91
+25/04/20
+antec pc 198 - sem nota
+aeroglass
+pa -aeroglass-02
+          0,00 x
+      2.268,00      38.466,91
+25/04/20
+ferragens negrao
+ferragens negrao
+f  -000000196
+      2.718,59 x
+          0,00      41.185,50
+25/04/20
+globo
+globopar tv globo f  -000000217
+      2.822,36 x
+          0,00      44.007,86
+25/04/20
+br fibra
+brfibra
+f  -000000226
+        144,15 x
+          0,00      44.152,01
+25/04/20
+tarifa
+tarifa
+          0,00 x
+         10,00      44.142,01
+28/04/20
+nd 53 - provincia
+provincia sao jos nf -000000053-09
+      3.200,00 x
+          0,00      47.342,01
+28/04/20
+antec cert digital adiant
+new tech sol. dig pa -newtech  -01
+          0,00 x
+        184,45      47.157,56
+28/04/20
+antec cert digital gabriel sandri
+new tech
+pa -new tech -02
+          0,00 x
+        118,15      47.039,41
+28/04/20
+vt eric ate dia 30/04
+eric diordi queve vt -eric     -04
+          0,00 x
+         48,00      46.991,41
+28/04/20
+copel
+copel geracao
+f  -000000199
+        144,35 x
+          0,00      47.135,76
+28/04/20
+sanepar
+sanepar
+f  -000000206
+      2.765,15 x
+          0,00      49.900,91
+28/04/20
+copel
+cia paranaense en f  -000000198
+         16,60 x
+          0,00      49.917,51
+28/04/20
+valor pago s /titulo
+000041
+barao pneus
+1  -14413    -a
+          0,00 x
+        649,80      49.267,71
+28/04/20
+valor pago s /titulo
+000041
+vgr servicos
+nfs-13329    -a
+          0,00 x
+        247,00      49.020,71
+28/04/20
+valor pago s /titulo
+000041
+metrocard
+vt -vt 2025  -05
+          0,00 x
+        127,29      48.893,42
+28/04/20
+valor pago s /titulo
+000041
+fundo de urbaniza vt -vt 2025  -05
+          0,00 x
+        378,00      48.515,42
+28/04/20
+tarifa
+tarifa
+          0,00 x
+          1,00      48.514,42
+29/04/20
+hexion
+hexion quimica do f  -000000218
+      3.988,30 x
+          0,00      52.502,72
+29/04/20
+antec crea sp
+crea sp
+pa -crea sp  -01
+          0,00 x
+        103,03      52.399,69
+29/04/20
+vt maio eric
+eric diordi queve vt -eric     -05
+          0,00 x
+        168,00      52.231,69
+29/04/20
+repasse climasul
+climasul ar
+fin-000204
+          0,00 x
+         32,00      52.199,69
+29/04/20
+antec art crea rs
+crea rs
+pa -crea rs  -01
+          0,00 x
+        103,03      52.096,66
+29/04/20
+tarifa
+tarifa
+          0,00 x
+          1,66      52.095,00
+30/04/20
+repasse climasul
+climasul ar
+fin-000169
+          0,00 x
+        189,00      51.906,00
+30/04/20
+repasse climasul
+climasul ar
+fin-000181
+          0,00 x
+         98,00      51.808,00
+30/04/20
+nf ecx - vr rodrigo
+ecx pay - vr
+nfs-31745
+          0,00 x
+        525,00      51.283,00
+30/04/20
+amil
+amil assist medic f  -000000208
+      2.232,21 x
+          0,00      53.515,21
+30/04/20
+intertechne
+intertechne
+f  -000000207
+      1.223,58 x
+          0,00      54.738,79
+30/04/20
+valor pago s /titulo
+000042
+receita federal
+imp-csll 2025-01
+          0,00 x
+      9.013,89      45.724,90
+30/04/20
+valor pago s /titulo
+000042
+receita federal
+imp-irpj 2025-01
+          0,00 x
+     27.088,80      18.636,10
+nao conciliados
+conciliados
+total
+saldo inicial...........:
+       31.810,86
+entradas no periodo.....:
+            0,00
+      134.568,16
+      134.568,16
+saidas no periodo ......:
+            0,00
+      147.742,92
+      147.742,92
+limite de credito.......:
+            0,00
+saldo atual ............:
+       18.636,10
+hora: 13:57:16

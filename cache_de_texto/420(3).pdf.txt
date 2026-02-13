@@ -1,0 +1,102 @@
+pague com pix
+acesse o aplicativo do banco e aponte a câmera do celular para o qrcode ao lado para realizar o pagamento.
+ou utilize o pix copia e cola:
+00020101021226950014br.gov.bcb.pix2573pix.sicoob.com.br/qr/payload/v2/cobv/3bf468ee-252c-4bba-90d3-
+b5285632de075204000053039865802br5925b5 tecnologia e solucoes 6009sao paulo62070503***6304f0d1
+beneficiário
+b5 tecnologia e solucoes em pagamentos ltda
+31036264000129
+ms desenvolvimento profissional ltda
+vencimento
+10/01/2025
+valor do documento
+80,00
+(+) outros acréscimos
+(+) mora / multa
+(-) desconto / abatimento
+(-) outras deduções
+instruções (texto de responsabilidade do beneficiário)
+taxa de administração referente a 1 estagiários. aceitar somente até a data de vencimento.
+data de emissão
+03/01/2025
+(=) valor cobrado
+coop contr/cód. beneficiário
+3010/4890868
+nosso número
+78495-4
+dados do pagador
+nome do pagador
+associacao dos servidores do t
+número do documento
+784954
+endereço
+sepn 513 conjunto b 1 subsolos sn
+bairro / distrito
+asa norte
+município
+asa norte
+uf
+df
+cep
+70760522
+mensagem pagador
+este recibo somente terá validade com a autenticação mecânica ou acompanhado do recibo
+de pagamento emitido pelo banco. recebimento através do cheque n. do banco esta
+quitação só terá validade após o pagamento do cheque pelo banco pagador.
+756
+75691.30102 01489.086809 07849.540013 4 99570000008000
+local de pagamento
+pagavel preferencialmente no sicoob
+vencimento
+10/01/2025
+beneficiário
+b5 tecnologia e solucoes em pagamentos ltda
+ms desenvolvimento profissional ltda
+31036264000129
+cooperativa contratante/cód. beneficiário
+3010/4890868
+data do documento
+03/01/2025
+n. documento
+784954
+espécie
+ds
+aceite
+s
+data processamento
+03/01/2025
+nosso número
+78495-4
+uso do banco
+carteira
+1
+espécie
+r$
+quantidade
+0,00
+valor
+valor documento
+80,00
+instruções (texto de responsabilidade do beneficiário)
+taxa de administração referente a 1 estagiários. aceitar somente até a data de vencimento.
+emitido pela cooperativa contratante sem responsabilidade do
+bancoob cooperativa contratante 3010 sicoob sul-serrano
+(-) desconto / abatimento
+(-) outras deduções
+(+) mora / multa
+pagador
+associacao dos servidores do t
+00720300000145
+sepn 513 conjunto b 1 subsolos sn
+asa norte
+asa norte - df
+70760522
+beneficiário final
+ms desenvolvimento profissional ltda
+31036264000129
+(+) outros acréscimos
+(=) valor cobrado
+autenticação mecânica
+-
+ficha de compensação
+ o autenticação mecânica - recibo do pagador =

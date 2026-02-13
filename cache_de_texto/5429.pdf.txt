@@ -1,0 +1,91 @@
+ 
+prefeitura municipal de vitória
+secretaria municipal de fazenda
+nota fiscal de serviços eletrônica - nfs-e 
+ 
+número da nota
+ 23687 
+data de emissão
+ 26/12/2023
+rps
+ 8756 /nf 
+competência
+ 26/12/2023
+prestador de serviços
+cpf/cnpj
+00.818.578/0001-50 
+inscrição municipal: 562707
+nome/razão social
+csv central sorologica de vitoria ltda
+nome fantasia
+endereço
+rua joão bastos vieira, 169 - ilha de santa maria - cep:
+29051200 
+município/uf
+vitoria/es     email:barbara@csvlab.com.br
+tomador de serviços
+cpf/cnpj
+39.270.814/0001-81 
+inscrição municipal
+nome/razão social laboratorio sao vicente ltda
+endereço
+rua rua salvador cardoso, 113 - centro - cep: 29830000 
+município/uf
+nova venécia/es   
+email rosiani@lsvicente.com.br 
+dados complementares
+município da prestação do serviço: vitoria - es 
+regime: empresa normal - iss variável 
+município da incidência: vitoria - es 
+exigibilidade: exigível 
+código de serviço: 04.02 - análises clínicas, patologia, eletricidade médica, radioterapia, quimioterapia,
+ultra-sonografia, ressonância magnética, radiologia, tomografia e congêneres 
+cnae: 8640202 - laboratórios clínicos 
+discriminação dos serviços
+servicos laboratoriais prestados. obs: valor aprox. dos tributos: r$873,57 (18.45% fonte ibpt) 
+valor dos serviços = r$ 4.734,82 // valor líquido da nota = r$ 4.443,63 
+valor líquido da nota = valor dos serviços - pis - cofins - inss - ir - csll - outras retenções - iss retido - desconto condicionado
+deduções
+(r$)
+0,00 
+base de cálculo
+(r$)
+4.734,82 
+desconto
+cond. (r$)
+0,00 
+alíquota
+(%)
+2,00 
+valor do iss
+calculado (r$)
+94,70 
+valor do iss
+devido (r$)
+94,70 
+valor do iss
+retido (r$)
+0,00 
+valor do crédito
+(r$)
+0,00
+ir (r$)
+71,02 
+inss (r$)
+0,00 
+csll (r$)
+47,35 
+pis (r$)
+30,78 
+cofins (r$)
+142,04 
+outras retenções (r$)
+0,00
+outras informações
+esta nfs-e foi emitida com respaldo legal no decreto 13.314/2007 e na portaria 49/2007 e autorizada pela
+aidf n° 2673/2008 de 05/05/2008;
+esta nfs-e substitui o rps n° 8756/nf;
+chave de validação que garante a autenticidade desta nfs-e: f9511fc3-7d8d-4c1b-aa63-d4d8f05b7e1c
+ csv
+
+central sorológica de vitória.

@@ -1,0 +1,814 @@
+05003 - relatório de contas a receber
+segmento digital comercio ltda
+pág: 1
+09/05/2024 15:55:34
+ordenar por: (nenhum) 
+pela data de pagamento : 01/04/2024 30/04/2024 
+deseja exibir os títulos : pagos
+exibir previsões : todos
+não exibir títulos zerados
+considerar seleções :
+cadastro de conta corrente
+'sdmg itau','sdmg caixa 64-6','itaú cdb','caixa investi
+ento','sdmg itau empresa
+3','sdmg sicoob','sdmg sicoob investimentos','sdmg sico
+b cap integralizado','cartão
+cashback hp'
+quebra por: dt.baixa
+mês competência : / 
+exibir previsões : todos
+exibir previsões : todos
+não exibir títulos zerados
+titulo
+descrição do cliente
+venc
+r$ titulo
+r$ juros
+r$ pago
+dt.baixa
+01/04/2024
+dt.baixa : 
+303030010424
+banco itau sa
+01/04/2024
+0,50
+0,00
+0,50
+01/04/2024
+028388-1
+epaminondas bittencourt neto
+27/03/2024
+233,00
+4,66
+237,66
+01/04/2024
+tot. quebra :
+2
+reg.
+233,50
+4,66
+238,16
+02/04/2024
+dt.baixa : 
+303030020424
+banco itau sa
+03/04/2024
+0,10
+0,00
+0,10
+02/04/2024
+tot. quebra :
+1
+reg.
+0,10
+0,00
+0,10
+03/04/2024
+dt.baixa : 
+028373-1
+iochpe maxion sa
+05/04/2024
+1.943,00
+0,00
+1.943,00
+03/04/2024
+028406-1
+iochpe maxion sa
+27/04/2024
+1.440,00
+0,00
+1.440,00
+03/04/2024
+r10128-1
+companhia de saneamento de minas gerais copasa mg
+03/04/2024
+751,91
+0,00
+751,91
+03/04/2024
+tot. quebra :
+3
+reg.
+4.134,91
+0,00
+4.134,91
+04/04/2024
+dt.baixa : 
+r10148-1
+cemig saude
+03/04/2024
+2.460,92
+0,00
+2.460,92
+04/04/2024
+tot. quebra :
+1
+reg.
+2.460,92
+0,00
+2.460,92
+05/04/2024
+dt.baixa : 
+303030050424
+banco itau sa
+05/04/2024
+4,69
+0,00
+4,69
+05/04/2024
+028396-1
+jose henrique de araujo lima - me
+30/03/2024
+500,00
+16,60
+516,60
+05/04/2024
+tot. quebra :
+2
+reg.
+504,69
+16,60
+521,29
+08/04/2024
+dt.baixa : 
+303030080424
+banco itau sa
+08/04/2024
+8,44
+0,00
+8,44
+08/04/2024
+r10166-1
+depto. de edificaçoes e estradas de rodagem do est 
+06/04/2024
+2.853,59
+0,00
+2.853,59
+08/04/2024
+tot. quebra :
+2
+reg.
+2.862,03
+0,00
+2.862,03
+09/04/2024
+dt.baixa : 
+30303009042024 banco itau sa
+09/04/2024
+3,78
+0,00
+3,78
+09/04/2024
+r10198-1
+senior engenharia e servicos ltda
+10/04/2024
+131,56
+0,00
+131,56
+09/04/2024
+tot. quebra :
+2
+reg.
+135,34
+0,00
+135,34
+10/04/2024
+dt.baixa : 
+r10164-1
+empresa de cimentos liz sa
+10/04/2024
+7.170,46
+0,00
+7.170,46
+10/04/2024
+r10210-1
+cie forjas minas ltda
+15/04/2024
+4.633,16
+0,00
+4.633,16
+10/04/2024
+r10209-1
+cie forjas minas ltda
+15/04/2024
+1.550,88
+0,00
+1.550,88
+10/04/2024
+r10173-1
+antunes mascarenhas sociedade de advogados
+09/04/2024
+241,51
+0,00
+241,51
+10/04/2024
+r10182-1
+rtw corretora de imoveis ltda
+09/04/2024
+248,11
+0,00
+248,11
+10/04/2024
+r10174-1
+consorcio otimo de bilhetagem eletronica
+09/04/2024
+285,00
+0,00
+285,00
+10/04/2024
+r10179-1
+mp restaurante e eventos eireli
+09/04/2024
+911,68
+0,00
+911,68
+10/04/2024
+r10176-1
+frutas amazonas ltda
+09/04/2024
+1.322,36
+0,00
+1.322,36
+10/04/2024
+r10184-1
+benassi mins exportacao e importacao ltda
+09/04/2024
+2.944,29
+0,00
+2.944,29
+10/04/2024
+r10195-1
+industria e comercio de carnes e derivados boi 
+10/04/2024
+794,74
+0,00
+794,74
+10/04/2024
+r10212-1
+assoc.comun.prevenção uso indevido de drogas - 
+15/04/2024
+270,91
+0,00
+270,91
+10/04/2024
+r10213-1
+assoc.comun.prevenção uso indevido de drogas - 
+15/04/2024
+500,00
+0,00
+500,00
+10/04/2024
+tot. quebra :
+12
+reg.
+20.873,10
+0,00
+20.873,10
+11/04/2024
+dt.baixa : 
+r10171-1
+companhia de saneamento de minas gerais copasa mg
+11/04/2024
+23.146,20
+0,00
+23.146,20
+11/04/2024
+r10188-1
+hvnl - hospital veterinario nova lima ltda
+10/04/2024
+119,02
+0,00
+119,02
+11/04/2024
+r10194-1
+imunolab imunologia de transplantes ltda
+10/04/2024
+411,26
+0,00
+411,26
+11/04/2024
+r10197-1
+distribuidora de madeiras paranaense ltda
+10/04/2024
+938,52
+0,00
+938,52
+11/04/2024
+r10190-1
+centerparts distribuidor de auto partes ltda
+10/04/2024
+1.085,94
+0,00
+1.085,94
+11/04/2024
+r10189-1
+centerpartes distribuidor auto partes ltda
+10/04/2024
+1.073,88
+0,00
+1.073,88
+11/04/2024
+r10196-1
+vinicio kalid advocacia empresarial
+10/04/2024
+1.766,20
+0,00
+1.766,20
+11/04/2024
+r10199-1
+zap grafica e editora ltda
+10/04/2024
+2.908,55
+0,00
+2.908,55
+11/04/2024
+r10187-1
+othon de carvalho & cia ltda
+10/04/2024
+4.203,90
+0,00
+4.203,90
+11/04/2024
+databit tecnologia e sistemas ltda-(31) 3416-8225
+05003 - relatório de contas a receber
+segmento digital comercio ltda
+pág: 2
+09/05/2024 15:55:35
+ordenar por: (nenhum) 
+pela data de pagamento : 01/04/2024 30/04/2024 
+deseja exibir os títulos : pagos
+exibir previsões : todos
+não exibir títulos zerados
+considerar seleções :
+cadastro de conta corrente
+'sdmg itau','sdmg caixa 64-6','itaú cdb','caixa investi
+ento','sdmg itau empresa
+3','sdmg sicoob','sdmg sicoob investimentos','sdmg sico
+b cap integralizado','cartão
+cashback hp'
+quebra por: dt.baixa
+mês competência : / 
+exibir previsões : todos
+exibir previsões : todos
+não exibir títulos zerados
+titulo
+descrição do cliente
+venc
+r$ titulo
+r$ juros
+r$ pago
+dt.baixa
+r10204-1
+tribunal regional do trabalho da 3 regiao
+17/04/2024
+7.129,30
+0,00
+7.129,30
+11/04/2024
+tot. quebra :
+10
+reg.
+42.782,77
+0,00
+42.782,77
+12/04/2024
+dt.baixa : 
+r10207-1
+go tratch ambiental infraestrutura s/a.
+12/04/2024
+1.869,57
+0,00
+1.869,57
+12/04/2024
+027655-1
+mp restaurante e eventos eireli
+09/05/2023
+60,00
+0,00
+60,00
+12/04/2024
+303030120424
+banco itau sa
+12/04/2024
+3,38
+0,00
+3,38
+12/04/2024
+tot. quebra :
+3
+reg.
+1.932,95
+0,00
+1.932,95
+15/04/2024
+dt.baixa : 
+nfs 2915-1
+lider comercio e participacoe  ltda
+22/04/2024
+767,85
+0,00
+767,85
+15/04/2024
+303030150424
+banco itau sa
+15/04/2024
+1,43
+0,00
+1,43
+15/04/2024
+nfs 2913-1
+ingram micro brasil ltda
+22/04/2024
+1.080,54
+0,00
+1.080,54
+15/04/2024
+r10206-1
+sind. trab. com. de minerios e derivados de petroleo 
+12/04/2024
+448,20
+0,00
+448,20
+15/04/2024
+r10178-1
+geraes arquitetura engenharia ltda
+15/04/2024
+1.587,25
+0,00
+1.587,25
+15/04/2024
+r10214-1
+radio stereo fm lagoa santa ltda epp
+15/04/2024
+2.130,49
+0,00
+2.130,49
+15/04/2024
+tot. quebra :
+6
+reg.
+6.015,76
+0,00
+6.015,76
+16/04/2024
+dt.baixa : 
+nfs 2914-1
+aidc tecnologia ltda
+22/04/2024
+205,26
+0,00
+205,26
+16/04/2024
+028383-1
+hotel fazenda espaço eventos confins ltda - me
+13/04/2024
+478,00
+0,00
+478,00
+16/04/2024
+r10193-1
+esparta seguranca ltda
+15/04/2024
+733,24
+0,00
+733,24
+16/04/2024
+r10211-1
+assoc dos pais e amigos dos excep lagoa santa
+15/04/2024
+797,48
+0,00
+797,48
+16/04/2024
+r10192-1
+esparta seguranca ltda
+15/04/2024
+1.282,79
+0,00
+1.282,79
+16/04/2024
+r10181-1
+pimenta de avila consultoria ltda
+15/04/2024
+1.326,02
+0,00
+1.326,02
+16/04/2024
+r10215-1
+rmr rádio e televisão ltda
+15/04/2024
+1.710,35
+0,00
+1.710,35
+16/04/2024
+r10217-1
+cemig saude
+15/04/2024
+2.630,17
+0,00
+2.630,17
+16/04/2024
+r10218-1
+cemig saude
+15/04/2024
+1.837,84
+0,00
+1.837,84
+16/04/2024
+028386-1
+harsco metals ltda
+17/04/2024
+715,00
+0,00
+715,00
+16/04/2024
+tot. quebra :
+10
+reg.
+11.716,15
+0,00
+11.716,15
+17/04/2024
+dt.baixa : 
+303030170424
+banco itau sa
+17/04/2024
+2,58
+0,00
+2,58
+17/04/2024
+nfs 2916-1
+golden distribuidora ltda
+30/04/2024
+89,98
+0,00
+89,98
+17/04/2024
+tot. quebra :
+2
+reg.
+92,56
+0,00
+92,56
+18/04/2024
+dt.baixa : 
+nfs 2911-1
+agis equipamentos e servicos de informatica ltda.
+22/04/2024
+204,59
+0,00
+204,59
+18/04/2024
+028409-1
+fundacao ezequiel dias
+01/05/2024
+2.974,71
+0,00
+2.974,71
+18/04/2024
+303030180424
+banco itau sa
+18/04/2024
+3,41
+0,00
+3,41
+18/04/2024
+r10185-1
+fundacao ezequiel dias
+02/05/2024
+3.141,60
+0,00
+3.141,60
+18/04/2024
+tot. quebra :
+4
+reg.
+6.324,31
+0,00
+6.324,31
+19/04/2024
+dt.baixa : 
+r10172-1
+companhia de saneamento de minas gerais copasa mg
+19/04/2024
+53.024,82
+0,00
+53.024,82
+19/04/2024
+nfs 2908-1
+working plus comercio e servicos ltda
+18/04/2024
+180,00
+0,00
+180,00
+19/04/2024
+r10200-1
+mapal do brasil ferramentas de precisao ltda
+18/04/2024
+269,88
+0,00
+269,88
+19/04/2024
+r10202-1
+mapal do brasil ferramentas de precisao ltda
+18/04/2024
+231,38
+0,00
+231,38
+19/04/2024
+r10203-1
+mapal do brasil ferramentas de precisao
+18/04/2024
+1.627,49
+0,00
+1.627,49
+19/04/2024
+r10201-1
+mapal do brasil ferramentas de precisao
+18/04/2024
+288,07
+0,00
+288,07
+19/04/2024
+r10183-1
+vmi sistemas de seguranca ltda
+18/04/2024
+2.522,94
+0,00
+2.522,94
+19/04/2024
+tot. quebra :
+7
+reg.
+58.144,58
+0,00
+58.144,58
+22/04/2024
+dt.baixa : 
+303030220424
+banco itau sa
+22/04/2024
+1,74
+0,00
+1,74
+22/04/2024
+r10177-1
+fundacao forluminas de seguridade social forluz
+20/04/2024
+1.453,41
+0,00
+1.453,41
+22/04/2024
+tot. quebra :
+2
+reg.
+1.455,15
+0,00
+1.455,15
+23/04/2024
+dt.baixa : 
+databit tecnologia e sistemas ltda-(31) 3416-8225
+05003 - relatório de contas a receber
+segmento digital comercio ltda
+pág: 3
+09/05/2024 15:55:36
+ordenar por: (nenhum) 
+pela data de pagamento : 01/04/2024 30/04/2024 
+deseja exibir os títulos : pagos
+exibir previsões : todos
+não exibir títulos zerados
+considerar seleções :
+cadastro de conta corrente
+'sdmg itau','sdmg caixa 64-6','itaú cdb','caixa investi
+ento','sdmg itau empresa
+3','sdmg sicoob','sdmg sicoob investimentos','sdmg sico
+b cap integralizado','cartão
+cashback hp'
+quebra por: dt.baixa
+mês competência : / 
+exibir previsões : todos
+exibir previsões : todos
+não exibir títulos zerados
+titulo
+descrição do cliente
+venc
+r$ titulo
+r$ juros
+r$ pago
+dt.baixa
+303030230424
+banco itau sa
+23/04/2024
+2,68
+0,00
+2,68
+23/04/2024
+tot. quebra :
+1
+reg.
+2,68
+0,00
+2,68
+24/04/2024
+dt.baixa : 
+r10175-1
+elpidio donizetti sociedade de advogados
+15/04/2024
+306,25
+13,19
+319,44
+24/04/2024
+tot. quebra :
+1
+reg.
+306,25
+13,19
+319,44
+25/04/2024
+dt.baixa : 
+303030250424
+banco itau sa
+25/04/2024
+26,23
+0,00
+26,23
+25/04/2024
+nfs 2905-1
+epaminondas bittencourt neto
+24/04/2024
+135,00
+0,00
+135,00
+25/04/2024
+028399-1
+benassi mins exportacao e importacao ltda
+24/04/2024
+435,00
+0,00
+435,00
+25/04/2024
+tot. quebra :
+3
+reg.
+596,23
+0,00
+596,23
+26/04/2024
+dt.baixa : 
+303030260424
+banco itau sa
+26/04/2024
+2,64
+0,00
+2,64
+26/04/2024
+tot. quebra :
+1
+reg.
+2,64
+0,00
+2,64
+29/04/2024
+dt.baixa : 
+303030290424
+banco itau sa
+29/04/2024
+7,13
+0,00
+7,13
+29/04/2024
+tot. quebra :
+1
+reg.
+7,13
+0,00
+7,13
+30/04/2024
+dt.baixa : 
+303030300424
+banco itau sa
+30/04/2024
+8,58
+0,00
+8,58
+30/04/2024
+nfs 2922-1
+c i l comercio de informatica ltda
+03/05/2024
+313,49
+0,00
+313,49
+30/04/2024
+tot. quebra :
+2
+reg.
+322,07
+0,00
+322,07
+total geral :
+78
+reg.
+160.905,82
+34,45
+160.940,27
+databit tecnologia e sistemas ltda-(31) 3416-8225

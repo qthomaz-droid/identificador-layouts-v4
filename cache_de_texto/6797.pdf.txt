@@ -1,0 +1,435 @@
+truckpag meios de pagamento s/a
+cnpj: 31.443.324/0001-28
+av. copacabana / 71, bloco 8, sala 1
+cep: 06.541-038 | santana de parnaíba/sp
+188244
+nº fatura
+dados do cliente
+f5 diamante transportes
+cliente
+34.296.325/0001-85
+cnpj
+18/11/25
+data da emissão do faturamento
+11/11/25 - 17/11/25
+período
+24/11/25
+vencimento
+r$ 35.167,35
+valor total da fatura
+ a truckpag
+ a truckpag
+ atruckpag
+
+move o brasil
+
+abastecimento
+
+manutenção
+
+pedágio
+
+bank
+
+seguros
+
+faturalerta
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ abastecimento
+truckpag meios de pagamento s/a
+cnpj: 31.443.324/0001-28
+av. copacabana / 71, bloco 8, sala 1
+cep: 06.541-038 | santana de parnaíba/sp
+veículos
+placas
+valor total
+bcj1d36
+r$ 5.456,15
+bdd4a64
+r$ 8.463,09
+fov5i81
+r$ 3.922,91
+mhs1i35
+r$ 11.377,55
+txq7f55
+r$ 5.947,65
+total
+r$ 35167.35
+detalhamento das transações aprovadas
+transação
+data/hora
+placa
+hodômetro
+motorista
+tipo
+estabelecimento
+cidade
+uf
+combustível/item
+litragem
+valor un.
+valor total
+n° nfe
+observação
+17062312
+11/11/2025 12:53:28
+bcj1d36
+125288
+luiz flavio silva
+ferreira
+compra
+posto alianca | tocantins
+alianca do
+tocantins
+to
+diesel s10
+352,28
+r$ 5,84
+r$ 2.057,30
+68665
+17062330
+11/11/2025 12:55:36
+bcj1d36
+125288
+luiz flavio silva
+ferreira
+compra
+posto alianca | tocantins
+alianca do
+tocantins
+to
+arla 32
+23,33
+r$ 3,40
+r$ 79,33
+68665
+17092153
+12/11/2025 15:14:53
+bcj1d36
+126366
+luiz flavio silva
+ferreira
+compra
+auto posto br 050 mg - rede
+estoril
+uberaba
+mg
+diesel s10
+302,48
+r$ 5,64
+r$ 1.705,98
+4382
+17224189
+17/11/2025 13:51:51
+bcj1d36
+128378
+joao paulo de lima
+compra
+rodo posto estiva - rede
+graal
+estiva
+mg
+diesel s10
+273,00
+r$ 5,68
+r$ 1.550,64
+91368
+17224204
+17/11/2025 13:53:43
+bcj1d36
+128378
+joao paulo de lima
+compra
+rodo posto estiva - rede
+graal
+estiva
+mg
+arla 32
+19,12
+r$ 3,29
+r$ 62,90
+91369
+ a truckpag
+ a truckpag
+ atruckpag
+
+move o brasil
+
+abastecimento
+
+manutenção
+
+pedágio
+
+bank
+
+seguros
+
+faturalerta
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ abastecimento
+truckpag meios de pagamento s/a
+cnpj: 31.443.324/0001-28
+av. copacabana / 71, bloco 8, sala 1
+cep: 06.541-038 | santana de parnaíba/sp
+17055369
+11/11/2025 08:23:24
+bdd4a64
+708195
+mohammed bonini dos
+santos
+compra
+rodo posto estiva - rede
+graal
+estiva
+mg
+diesel s10
+346,95
+r$ 5,68
+r$ 1.970,68
+90618
+17087096
+12/11/2025 12:28:28
+bdd4a64
+709846
+mohammed bonini dos
+santos
+compra
+posto parque dos
+coqueiros - rede hg
+itatim
+ba
+diesel s10
+512,00
+r$ 5,84
+r$ 2.990,08
+311043
+17087106
+12/11/2025 12:30:04
+bdd4a64
+709846
+mohammed bonini dos
+santos
+compra
+posto parque dos
+coqueiros - rede hg
+itatim
+ba
+arla 32
+36,15
+r$ 3,89
+r$ 140,62
+311042
+17172120
+15/11/2025 06:56:21
+bdd4a64
+711829
+mohammed bonini dos
+santos
+compra
+posto moc - rede hg
+montes claros
+mg
+diesel s10
+582,62
+r$ 5,77
+r$ 3.361,71
+445168
+17059879
+11/11/2025 11:28:29
+fov5i81
+674702
+joao paulo de lima
+compra
+rodo posto estiva - rede
+graal
+estiva
+mg
+diesel s10
+193,01
+r$ 5,68
+r$ 1.096,30
+90641
+17059904
+11/11/2025 11:30:53
+fov5i81
+674702
+joao paulo de lima
+compra
+rodo posto estiva - rede
+graal
+estiva
+mg
+arla 32
+28,32
+r$ 3,29
+r$ 93,17
+90642
+17107564
+13/11/2025 03:44:54
+fov5i81
+675303
+joao paulo de lima
+compra
+rodo posto estiva - rede
+graal
+estiva
+mg
+diesel s10
+187,07
+r$ 5,68
+r$ 1.062,56
+90883
+17130586
+13/11/2025 18:21:01
+fov5i81
+676136
+joao paulo de lima
+compra
+posto moc - rede hg
+montes claros
+mg
+diesel s10
+268,00
+r$ 5,77
+r$ 1.546,36
+446300
+17130607
+13/11/2025 18:22:23
+fov5i81
+676136
+joao paulo de lima
+compra
+posto moc - rede hg
+montes claros
+mg
+arla 32
+32,01
+r$ 3,89
+r$ 124,52
+446301
+17052015
+11/11/2025 03:52:10
+mhs1i35
+1858334
+peterson nery siqueira
+compra
+posto papa leguas iii - rede
+hg
+itatim
+ba
+diesel comum
+644,02
+r$ 5,57
+r$ 3.587,19
+75663
+17132747
+13/11/2025 20:02:38
+mhs1i35
+1860440
+peterson nery siqueira
+compra
+rodo posto estiva - rede
+graal
+estiva
+mg
+diesel comum
+666,40
+r$ 5,68
+r$ 3.785,15
+91029
+17187517
+15/11/2025 20:30:59
+mhs1i35
+1862272
+peterson nery siqueira
+compra
+posto papa leguas iii - rede
+hg
+itatim
+ba
+diesel comum
+687,00
+r$ 5,83
+r$ 4.005,21
+75798
+17062315
+11/11/2025 12:53:38
+txq7f55
+1906
+alexandre dos santos
+junior
+compra
+rodo posto estiva - rede
+graal
+estiva
+mg
+diesel s10
+500,00
+r$ 5,68
+r$ 2.840,00
+90649
+17186138
+15/11/2025 18:16:44
+txq7f55
+2929
+alexandre dos santos
+junior
+compra
+posto graal 81 | rede graal
+campinas
+sp
+diesel s10
+508,57
+r$ 5,74
+r$ 2.919,19
+7073
+17186177
+15/11/2025 18:22:21
+txq7f55
+29290
+alexandre dos santos
+junior
+compra
+posto graal 81 | rede graal
+campinas
+sp
+arla 32
+63,03
+r$ 2,99
+r$ 188,46
+7074
+ a truckpag
+ a truckpag
+ atruckpag
+
+move o brasil
+
+abastecimento
+
+manutenção
+
+pedágio
+
+bank
+
+seguros
+
+faturalerta
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ a truckpag
+ abastecimento

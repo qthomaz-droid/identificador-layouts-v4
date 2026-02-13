@@ -1,0 +1,900 @@
+conceito auto pecas e servicos ltda
+movimento de caixa
+emissão:
+12/03/2025
+15:31:36
+hora:
+periodo: 01/02/2025 - 28/02/2025 (filtro: data de lançamento)
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+3.111,30
+cod.
+1.031,79
+1277
+carta
+o8859-
+2-3
+cartao-8859-2-3
+consumidor
+27292-1
+c
+03/02/2025
+257-1
+1281
+seguro
+itau-ceasa  ag-5620 -c-c-
+27292-1
+d
+03/02/2025
+331,22
+1218-1
+1306
+saida
+sicoob -banco ag-4030
+27292-1
+d
+03/02/2025
+3.811,00
+1241-1
+1318
+tarifa
+itau-ceasa  ag-5620 -c-c-
+27292-1
+d
+03/02/2025
+21,98
+1250-1
+total do dia:
+1.031,79
+4.164,20
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+0,00
+0,00
+0,00
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-21,11
+cod.
+1317
+iof
+itau-ceasa  ag-5620 -c-c-
+27292-1
+d
+04/02/2025
+0,14
+1249-1
+1.930,75
+1319
+032-2
+terrabel
+27292-1
+c
+04/02/2025
+265-2
+2.279,57
+1320
+4696-3
+terrabel
+27292-1
+c
+04/02/2025
+223-1
+1321
+28903-1
+tb turbo diesel
+27292-1
+d
+04/02/2025
+490,00
+949-1
+2.704,00
+1321
+o.s. 0000047 - particular
+terrabel
+27292-1
+c
+04/02/2025
+304-2
+1321
+18362-1
+eletropar autopecas
+27292-1
+d
+04/02/2025
+287,75
+952-1
+1321
+66698-3
+sama-cia brasileira dist
+27292-1
+d
+04/02/2025
+693,60
+803-3
+1326
+tarifa
+itau-ceasa  ag-5620 -c-c-
+27292-1
+d
+04/02/2025
+78,09
+1258-1
+total do dia:
+6.914,32
+1.549,58
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+0,00
+0,00
+0,00
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+5.343,63
+cod.
+796,83
+1322
+069-
+2149-1
+069-2149-1
+superconcreto ltda
+27292-1
+c
+05/02/2025
+366-1
+1324
+boavista
+boa vista servicos s/a
+27292-1
+d
+05/02/2025
+239,05
+1146-1
+1324
+16894-4
+eletropar autopecas
+27292-1
+d
+05/02/2025
+513,15
+633-4
+1324
+827894
+veminas caminhoes e
+27292-1
+d
+05/02/2025
+245,00
+947-1
+1325
+01/2025
+copasa
+27292-1
+d
+05/02/2025
+292,55
+1199-1
+1325
+compra 69/4 - 000016868
+eletropar autopecas
+27292-1
+d
+05/02/2025
+380,51
+634-4
+1325
+18407
+eletropar autopecas
+27292-1
+d
+05/02/2025
+348,84
+954-1
+1325
+827671
+veminas caminhoes e
+27292-1
+d
+05/02/2025
+245,00
+955-1
+1.832,80
+1342
+024-3
+024-3
+jose luiz pimentel
+27292-1
+c
+05/02/2025
+195-3
+11.200,00
+1344
+060-
+2136
+060-2136
+mip engenharia sa
+27292-1
+c
+05/02/2025
+336-1
+total do dia:
+13.829,63
+2.264,10
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+0,00
+0,00
+0,00
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+16.909,16
+cod.
+11.200,00
+1341
+060-
+2136
+060-2136
+27292-1
+c
+06/02/2025
+336-1
+página 1 de 8
+conceito auto pecas e servicos ltda
+movimento de caixa
+emissão:
+12/03/2025
+15:31:36
+hora:
+periodo: 01/02/2025 - 28/02/2025 (filtro: data de lançamento)
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+28.109,16
+cod.
+1343
+060-
+2136
+estorno de lançamento de
+27292-1
+d
+06/02/2025
+06/02/2025
+11.200,00
+1345
+tarifa
+itau-ceasa  ag-5620 -c-c-
+27292-1
+d
+06/02/2025
+15,20
+1270-1
+200,00
+1349
+o.s. 0000198 - particular
+consumidor
+27292-1
+c
+06/02/2025
+431-1
+1350
+45492-3
+l e l resende pecas
+27292-1
+d
+06/02/2025
+298,00
+635-3
+1350
+saidda
+sicoob -banco ag-4030
+27292-1
+d
+06/02/2025
+8.000,00
+1277-1
+1350
+46447-2
+l e l resende pecas
+27292-1
+d
+06/02/2025
+274,00
+950-2
+1351
+15678-2
+sama-cia brasileira dist
+27292-1
+d
+06/02/2025
+488,73
+793-2
+1351
+compra 84/3 - 000028452
+tb turbo diesel
+27292-1
+d
+06/02/2025
+817,00
+714-3
+1351
+5783-2
+pd diesel  epaminondas
+27292-1
+d
+06/02/2025
+693,39
+875-2
+1351
+5965-1
+pd diesel  epaminondas
+27292-1
+d
+06/02/2025
+366,74
+958-1
+1351
+75097
+tecno industria
+27292-1
+d
+06/02/2025
+569,00
+953-1
+1351
+65805-2
+sama-cia brasileira dist
+27292-1
+d
+06/02/2025
+336,91
+876-2
+1351
+645977-1
+polipecas distribuidora 27292-1
+d
+06/02/2025
+335,09
+951-1
+1352
+saida
+caixa economica
+27292-1
+d
+06/02/2025
+4.370,82
+1279-1
+total do dia:
+11.400,00
+27.764,88
+total mov.estornadas:
+total mov.avulsas:*
+11.200,00
+11.200,00
+11.200,00
+11.200,00
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+544,28
+cod.
+1375
+18545-2
+27292-1
+d
+07/02/2025
+518,35
+1044-2
+1375
+828426
+veminas caminhoes e
+27292-1
+d
+07/02/2025
+290,00
+1043-1
+1375
+compra 77/3 - 000016985
+eletropar autopecas
+27292-1
+d
+07/02/2025
+451,34
+642-3
+1375
+828465-1
+veminas caminhoes e
+27292-1
+d
+07/02/2025
+219,20
+1042-1
+1375
+16956-5
+eletropar autopecas
+27292-1
+d
+07/02/2025
+431,75
+639-5
+1375
+curso cabeca
+2r sistemas de injecao
+27292-1
+d
+07/02/2025
+1.280,50
+1071-1
+1375
+45793-2
+l e l resende pecas
+27292-1
+d
+07/02/2025
+334,00
+800-2
+2.800,00
+1376
+062-
+2137-1
+062-2137-1
+sabril pavimentacao e
+27292-1
+c
+07/02/2025
+343-1
+485,05
+1377
+123-1
+123-1cartao
+gilberto pereira de
+27292-1
+c
+07/02/2025
+436-1
+1611
+18545-1
+eletropar autopecas
+27292-1
+d
+07/02/2025
+518,35
+1044-1
+total do dia:
+3.285,05
+4.043,49
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+518,35
+0,00
+518,35
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-214,16
+cod.
+2.562,28
+1386
+o.s. 0000100 - particular
+mineradora sao jorge
+27292-1
+c
+10/02/2025
+294-2
+1390
+serv terceiros
+27292-1
+d
+10/02/2025
+5.700,00
+1310-1
+5.700,00
+1395
+estorno de lançamento de
+terra
+27292-1
+c
+10/02/2025
+10/02/2025
+291,03
+1398
+136-1
+cartao-136-1
+geraldo ferreira de
+27292-1
+c
+10/02/2025
+439-1
+329,83
+1399
+cartao-
+134-1
+cartao-134-1
+claudimar roberto pio
+27292-1
+c
+10/02/2025
+440-1
+885,10
+1400
+cartao --
+028-1
+cartao-028-1
+ronaldo oliveiros
+27292-1
+c
+10/02/2025
+441-1
+1401
+trans
+sicoob -banco ag-4030
+27292-1
+d
+10/02/2025
+5.700,00
+1312-1
+1.167,62
+1403
+carta-
+2
+cartao119-2
+charlie alexandre enis
+27292-1
+c
+10/02/2025
+342-3
+página 2 de 8
+conceito auto pecas e servicos ltda
+movimento de caixa
+emissão:
+12/03/2025
+15:31:36
+hora:
+periodo: 01/02/2025 - 28/02/2025 (filtro: data de lançamento)
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-678,30
+cod.
+198,02
+1404
+cartao
+cartao
+jose silvestre da cunha 27292-1
+c
+10/02/2025
+443-1
+1410
+tarifa negativacao
+itau-ceasa  ag-5620 -c-c-
+27292-1
+d
+10/02/2025
+12,99
+1314-1
+total do dia:
+11.133,88
+11.412,99
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+5.700,00
+5.700,00
+5.700,00
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-493,27
+cod.
+5.000,00
+1408
+067-
+2146-1
+067-2146-1
+vilasa construtora
+27292-1
+c
+11/02/2025
+355-1
+1425
+180001-1
+hidrautest
+27292-1
+d
+11/02/2025
+5.000,00
+1149-1
+total do dia:
+5.000,00
+5.000,00
+total mov.estornadas:
+total mov.avulsas:*
+0,00
+0,00
+0,00
+0,00
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+-493,27
+cod.
+2.300,44
+1433
+056-
+2133-2
+056-2133-2
+27292-1
+c
+12/02/2025
+319-2
+2.002,74
+1434
+106-2
+106 -2
+27292-1
+c
+12/02/2025
+313-2
+2.465,79
+1436
+cartao
+o.s. 0000202 -cartao
+joao felicio costa filho 27292-1
+c
+12/02/2025
+447-1
+1437
+compra 45/3 - 000045159
+l e l resende pecas
+27292-1
+d
+12/02/2025
+505,33
+523-3
+1438
+compra 44/3 - 000001349
+morati
+27292-1
+d
+12/02/2025
+260,00
+522-3
+1439
+5867-2
+pd diesel  epaminondas
+27292-1
+d
+12/02/2025
+386,24
+880-2
+1440
+52633-1
+rp pecas rafael
+27292-1
+d
+12/02/2025
+390,00
+1053-1
+1441
+5870-2
+pd diesel  epaminondas
+27292-1
+d
+12/02/2025
+566,93
+881-2
+1442
+mens.fev
+cdl contagem
+27292-1
+d
+12/02/2025
+81,00
+1307-1
+1443
+9852-1
+morati
+27292-1
+d
+12/02/2025
+201,66
+1078-1
+1444
+17807-3
+eletropar autopecas
+27292-1
+d
+12/02/2025
+525,32
+884-3
+1446
+056-
+2133-2
+estorno de lançamento de
+intersolo engenharia
+27292-1
+d
+12/02/2025
+12/02/2025
+2.300,44
+1447
+106-2
+estorno de lançamento de
+real injetores-toninho
+27292-1
+d
+12/02/2025
+12/02/2025
+2.002,74
+1.425,00
+1448
+065-2
+065-2
+superconcreto ltda
+27292-1
+c
+12/02/2025
+345-2
+total do dia:
+8.193,97
+7.219,66
+total mov.estornadas:
+total mov.avulsas:*
+4.303,18
+0,00
+4.303,18
+4.303,18
+codigo
+  doc.
+ credor/devedor
+historico
+conta
+d/c
+entradas
+saidas
+dt.conc.
+dt.lanc.
+saldo anterior:
+481,04
+cod.
+4.187,71
+1494
+057-2134-2
+poros construtora
+27292-1
+c
+13/02/2025
+320-2
+3.525,00
+1495
+068-1
+068-1
+drilling do brasil
+27292-1
+c
+13/02/2025
+361-1
+2.002,75
+1496
+106-2
+106 -2
+real injetores-toninho
+27292-1
+c
+13/02/2025
+313-2
+2.300,44
+1497
+056-
+2133-2
+056-2133-2
+intersolo engenharia
+27292-1
+c
+13/02/2025
+319-2
+2.978,90
+1498
+32
+021-2112-3
+drilling do brasil
+27292-1
+c
+13/02/2025
+194-3
+1499
+vale refeicao 17  a 28 fev
+vale refeicao
+27292-1
+d
+13/02/2025
+1.200,00
+1379-1
+página 3 de 8

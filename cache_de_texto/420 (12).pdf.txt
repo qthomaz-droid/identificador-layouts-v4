@@ -1,0 +1,94 @@
+sicoob - sistema de cooperativas de crédito do brasil
+sisbr - plataforma de serviços financeiros da sicoob
+05/11/2025
+transação efetivada
+pix - pagamento
+09:46:52
+núm. pendência:
+13126399
+situação:
+completa
+criado por:
+lilian virginio coco
+chave de acesso de criação:
+iv5486
+valor:
+3901,5
+dispositivo_usuario:
+false
+chave de acesso:
+iv5486
+versão:
+26
+cooperativa cartão:
+3007
+cpf/cnpj de efetivação:
+10.986.153/0001-03
+canal:
+internet banking
+cooperativa:
+3007
+tipo pendência:
+0
+valor financeiro:
+3.901,50
+número do pac:
+18
+data de processamento:
+01/10/2025
+data de pagamento:
+01/10/2025
+valor total:
+3.901,50
+conta corrente:
+59.076-2
+id:
+e32430233202510011645av3ajm3ydms
+descrição:
+arte rótulo casa ceglia
+chave pix:
+37683551000107
+tipo chave:
+cnpj
+bloqueio cautelar:
+não
+notificado:
+não
+intercredis:
+não
+data de atualização:
+01/10/2025
+origem:
+banco:
+32430233
+agência:
+3007
+conta:
+59.076-2
+tipo conta:
+conta corrente
+cpf/cnpj do pagador:
+10.986.153/0001-03
+nome do pagador:
+princesa izabel industria, comercio e exportacao l
+destino:
+banco:
+001 - banco do brasil
+agência:
+2809
+conta:
+36.144-5
+tipo conta:
+conta corrente
+cpf/cnpj:
+**.**3.551/0001-**
+nome:
+thiago limon
+favorecido:
+não
+assinada por:
+maria isabel de moraes
+05/11/2025, 09:46
+sicoob | internet banking
+https://www.sicoob.com.br/sicoobnet/ib/#/transacao/efetivadas
+4/45

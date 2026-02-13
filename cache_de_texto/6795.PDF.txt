@@ -1,0 +1,686 @@
+folha de pagamento -  referencia janeiro/2024
+emissão: 25/07/2024
+12:34
+pág:
+    1
+empresa:
+2635 associacao dos moradores rivi
+empregado:
+salário:
+cargo:
+modo pagamento:
+ 000002 julia bracet falcao
+      4.160,00
+supervisora administrativa
+relação bancária
+proventos
+descontos
+cód.
+descrição
+ref.
+valor
+cód.
+descrição
+ref.
+valor
+salario
+ 001
+        95,20
+     1.802,67
+ 165 arredond. mes anterior
+         0,69
+ferias
+ 012
+       124,40
+     2.357,33
+ 281 adiantamento por ferias
+     4.391,24
+medias de ferias
+ 136
+        50,33
+ 301 inss ferias
+        12,00
+       302,82
+1/3 ferias
+ 140
+       802,55
+ 302 inss
+        14,00
+       295,45
+abono pecuniário ferias
+ 148
+        62,20
+     1.178,67
+ 308 irrf ferias
+         2,00
+       121,27
+media de abono pec.
+ 152
+        25,17
+1/3 abono pecuniario fer
+ 160
+       401,28
+feriado/folga trab(d)100%
+ 612
+         2,00
+       554,67
+arredondamento
+ 163
+         0,80
+total de proventos:
+     7.173,47
+total de descontos:
+     5.111,47
+base inss:
+base pis:
+     5.567,55
+     5.567,55
+base fgts:
+pis:
+        55,68
+     5.567,55
+fgts:
+base irrf:
+       445,40
+     2.357,34
+base inss 13º:
+total líquido:
+     2.062,00
+empregado:
+salário:
+cargo:
+modo pagamento:
+ 000003 julio cesar freire de farias
+      2.392,49
+aux. administrativo pleno
+relação bancária
+proventos
+descontos
+cód.
+descrição
+ref.
+valor
+cód.
+descrição
+ref.
+valor
+salario
+ 001
+       220,00
+     2.392,49
+ 165 arredond. mes anterior
+         0,77
+feriado/folga trab(d)100%
+ 612
+         2,00
+       319,00
+ 290 desc. 6% aux. transporte
+        27,00
+       129,19
+arredondamento
+ 163
+         0,81
+ 302 inss
+        12,00
+       224,19
+ 304 irrf
+         1,00
+        28,15
+total de proventos:
+     2.712,30
+total de descontos:
+       382,30
+base inss:
+base pis:
+     2.582,30
+     2.582,30
+base fgts:
+pis:
+        25,82
+     2.582,30
+fgts:
+base irrf:
+       216,91
+     2.582,30
+base inss 13º:
+total líquido:
+     2.330,00
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+folha de pagamento -  referencia janeiro/2024
+emissão: 25/07/2024
+12:34
+pág:
+    2
+empresa:
+2635 associacao dos moradores rivi
+empregado:
+salário:
+cargo:
+modo pagamento:
+ 000006 wallace machado pereira
+      2.803,25
+encarregado de manutencao
+relação bancária
+proventos
+descontos
+cód.
+descrição
+ref.
+valor
+cód.
+descrição
+ref.
+valor
+salario
+ 001
+        95,20
+     1.214,74
+ 165 arredond. mes anterior
+         0,56
+ferias
+ 012
+       124,40
+     1.588,51
+ 281 adiantamento por ferias
+     3.745,63
+hora extra c/60%
+ 040
+        37,00
+       830,32
+ 290 desc. 6% aux. transporte
+        31,00
+       173,80
+insalubridade s/min
+ 062
+        95,20
+       122,37
+ 301 inss ferias
+        12,00
+       240,74
+sumula 172 rep. sem. rem.
+ 065
+        11,23
+       159,68
+ 302 inss
+        14,00
+       424,87
+medias de ferias
+ 136
+       431,16
+ 304 irrf
+         2,00
+        69,22
+1/3 ferias
+ 140
+       673,23
+ 308 irrf ferias
+         2,00
+        52,98
+abono pecuniário ferias
+ 148
+        62,20
+       794,26
+media de abono pec.
+ 152
+       215,58
+1/3 abono pecuniario fer
+ 160
+       336,61
+feriado/folga trab(d)100%
+ 612
+         5,00
+     1.028,55
+arredondamento
+ 163
+         0,79
+total de proventos:
+     7.395,80
+total de descontos:
+     4.707,80
+base inss:
+base pis:
+     5.874,76
+     5.874,76
+base fgts:
+pis:
+        58,75
+     5.874,76
+fgts:
+base irrf:
+       483,88
+     3.181,86
+base inss 13º:
+total líquido:
+     2.688,00
+empregado:
+salário:
+cargo:
+modo pagamento:
+ 000010 matheus costa dos santos
+      2.392,49
+aux. administrativo pleno
+relação bancária
+proventos
+descontos
+cód.
+descrição
+ref.
+valor
+cód.
+descrição
+ref.
+valor
+salario
+ 001
+       220,00
+     2.392,49
+ 165 arredond. mes anterior
+         0,72
+arredondamento
+ 163
+         0,35
+ 290 desc. 6% aux. transporte
+        28,00
+       133,98
+ 302 inss
+         9,00
+       194,14
+total de proventos:
+     2.392,84
+total de descontos:
+       328,84
+base inss:
+base pis:
+     2.258,51
+     2.258,51
+base fgts:
+pis:
+        22,59
+     2.258,51
+fgts:
+base irrf:
+       191,39
+     2.258,51
+base inss 13º:
+total líquido:
+     2.064,00
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+folha de pagamento -  referencia janeiro/2024
+emissão: 25/07/2024
+12:34
+pág:
+    3
+empresa:
+2635 associacao dos moradores rivi
+empregado:
+salário:
+cargo:
+modo pagamento:
+ 000012 denilson goncalves da silva
+      1.771,54
+zelador
+relação bancária
+proventos
+descontos
+cód.
+descrição
+ref.
+valor
+cód.
+descrição
+ref.
+valor
+salario
+ 001
+       180,00
+     1.771,54
+ 165 arredond. mes anterior
+         0,70
+adicional de chefia
+ 201
+        30,00
+       531,46
+ 290 desc. 6% aux. transporte
+        15,00
+        53,15
+feriado/folga trab(d)100%
+ 612
+         2,00
+       614,13
+ 302 inss
+        12,00
+       248,87
+arredondamento
+ 163
+         0,31
+ 304 irrf
+         1,00
+        41,72
+total de proventos:
+     2.917,44
+total de descontos:
+       344,44
+base inss:
+base pis:
+     2.863,98
+     2.863,98
+base fgts:
+pis:
+        28,64
+     2.863,98
+fgts:
+base irrf:
+       233,37
+     2.863,98
+base inss 13º:
+total líquido:
+     2.573,00
+empregado:
+salário:
+cargo:
+modo pagamento:
+ 000019 vinicius rosa ezequiel
+      2.392,49
+aux. administrativo pleno
+relação bancária
+proventos
+descontos
+cód.
+descrição
+ref.
+valor
+cód.
+descrição
+ref.
+valor
+salario
+ 001
+       220,00
+     2.392,49
+ 165 arredond. mes anterior
+         0,48
+feriado/folga trab(d)100%
+ 612
+         2,00
+       319,00
+ 290 desc. 6% aux. transporte
+        27,00
+       129,19
+arredondamento
+ 163
+         0,52
+ 302 inss
+        12,00
+       224,19
+ 304 irrf
+         1,00
+        28,15
+total de proventos:
+     2.712,01
+total de descontos:
+       382,01
+base inss:
+base pis:
+     2.582,30
+     2.582,30
+base fgts:
+pis:
+        25,82
+     2.582,30
+fgts:
+base irrf:
+       216,91
+     2.582,30
+base inss 13º:
+total líquido:
+     2.330,00
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa
+ (& cipa

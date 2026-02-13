@@ -1,0 +1,741 @@
+recebimento:
+01/08/2025
+cliente
+descrição
+emissão
+valor rec.*
+nota
+vencimento
+valor
+tipo
+créd. cli.*
+saída 509092 - 3/3
+26/05/25
+135187
+25/07/25
+381,33
+397,84
+vidracaria 
+vesper ltda   
+b
+0,00
+11104
+saída 511829 - 2/3
+16/06/25
+136303
+26/07/25
+2.879,33
+2.994,45
+vidracaria 
+vesper ltda   
+b
+0,00
+11104
+saída 512307 - 2/3
+20/06/25
+136491
+30/07/25
+203,33
+208,73
+norma c. 
+rodrigues 
+comercio e 
+servico de 
+vidros
+b
+0,00
+535
+saída 512304 - 2/3
+20/06/25
+136488
+30/07/25
+386,67
+396,96
+norma c. 
+rodrigues 
+comercio e 
+servico de 
+vidros
+b
+0,00
+535
+saída 512308 - 2/3
+20/06/25
+136492
+30/07/25
+566,67
+581,76
+norma c. 
+rodrigues 
+comercio e 
+servico de 
+vidros
+b
+0,00
+535
+saída 512305 - 2/3
+20/06/25
+136489
+30/07/25
+1.065,00
+1.093,38
+norma c. 
+rodrigues 
+comercio e 
+servico de 
+vidros
+b
+0,00
+535
+recebimento em conta 
+bancária - saída 517696
+01/08/25
+138607
+01/08/25
+10,00
+10,00
+adevair alves 
+de souza
+r
+0,00
+13099
+recebimento em 
+dinheiro - saída 517605
+01/08/25
+138576
+01/08/25
+10,80
+10,80
+sebastiao 
+fidelis do 
+nascimento
+r
+0,00
+18303
+recebimento em conta 
+bancária - saída 517730
+01/08/25
+138626
+01/08/25
+36,00
+36,00
+rodrigo pinto 
+machado
+r
+0,00
+13527
+recebimento em conta 
+bancária - saída 517729
+01/08/25
+138625
+01/08/25
+36,50
+36,50
+elizeu de 
+souza                          
+r
+0,00
+10249
+recebimento em conta 
+bancária - saída 517659
+01/08/25
+138598
+01/08/25
+39,50
+39,50
+potens 
+engenharia 
+construcoes 
+e servicos 
+ltda 
+r
+0,00
+1395
+recebimento em conta 
+bancária - saída 517669
+01/08/25
+138599
+01/08/25
+40,20
+40,20
+a s gaudio 
+aluminios 
+itapoa
+r
+0,00
+1773
+recebimento em 
+dinheiro - saída 517646
+01/08/25
+138593
+01/08/25
+59,85
+59,85
+pati gi 
+supermercad
+os ltda
+r
+0,00
+16423
+recebimento em 
+dinheiro - saída 517647
+01/08/25
+138594
+01/08/25
+84,65
+84,65
+jose antonio 
+da silva
+r
+0,00
+18305
+recebimento em 
+dinheiro - saída 517618
+01/08/25
+138581
+01/08/25
+147,00
+147,00
+maciste 
+natalino 
+campos
+r
+0,00
+195
+recebimento em conta 
+bancária - saída 517704
+01/08/25
+138614
+01/08/25
+148,70
+148,70
+pcbf sistemas 
+ltda 
+r
+0,00
+18253
+recebimento em conta 
+bancária - saída 517670
+01/08/25
+138600
+01/08/25
+150,00
+150,00
+omega 
+instalacoes 
+comerciais 
+ltda
+r
+0,00
+16427
+recebíveis baixados por recebimento - resumido
+empresa:
+vitoria alumunios me
+filial:
+1 - vitoria aluminios ltda
+data inicial:
+01/08/2025
+data final: 31/08/2025
+somente reneg.: não
+vendedor:
+todos
+1
+05/09/2025
+09:37:04
+idealsoft - shop control 9
+créd. cli.*: valor de crédito do cliente usado no recebimento. valores negativos representam troco que gerou crédito.
+valor rec.*:  valor da conta - desconto + juros + multa + outras taxas.
+tipo: (b) boleto, (n) carnê, (r) carteira, (c) cartão de crédito, (d) cartão de débito, (o) cartão convênio, (h) cheque, (a) crédito.
+recebimento:
+01/08/2025
+cliente
+descrição
+emissão
+valor rec.*
+nota
+vencimento
+valor
+tipo
+créd. cli.*
+recebimento em conta 
+bancária - saída 517632
+01/08/25
+138586
+01/08/25
+176,00
+176,00
+61.022.387 
+wederson 
+rodrigues 
+torrezani
+r
+0,00
+18026
+recebimento em conta 
+bancária - saída 517717
+01/08/25
+138617
+01/08/25
+180,75
+180,75
+alumivil 
+servicos de 
+esquadrias 
+em aluminio 
+ltda
+r
+0,00
+13056
+recebimento em conta 
+bancária - saída 517644
+01/08/25
+138592
+01/08/25
+212,00
+212,00
+elaine 
+cristian 
+alonso 
+barreiro
+r
+0,00
+11794
+saída 510015 - 3/3
+02/06/25
+135570
+01/08/25
+212,67
+212,67
+vidracaria 
+grechi ltda  
+b
+0,00
+11763
+recebimento em conta 
+bancária - saída 517634
+01/08/25
+138587
+01/08/25
+254,00
+254,00
+espedito 
+miguel gomes
+r
+0,00
+1924
+saída 510742 - 2/3
+06/06/25
+135859
+01/08/25
+288,33
+288,33
+vidracaria 
+barra do 
+riacho ltda 
+b
+0,00
+10300
+recebimento em conta 
+bancária - saída 517608
+01/08/25
+138577
+01/08/25
+302,00
+302,00
+eduardo 
+souza dos 
+anjos 
+15545392777
+r
+0,00
+11530
+saída 510009 - 3/3
+02/06/25
+135568
+01/08/25
+311,00
+311,00
+paulo 
+roberto 
+loureiro dos 
+santos 
+07079678722
+b
+0,00
+13094
+saída 509952 - 3/3
+02/06/25
+135538
+01/08/25
+313,90
+313,90
+litoral 
+industria e 
+comercio de 
+aluminios e 
+vidros ltda
+b
+0,00
+2024
+recebimento em conta 
+bancária - saída 517626
+01/08/25
+138583
+01/08/25
+342,60
+342,60
+levi ferreira 
+da vitoria 
+r
+0,00
+15513
+saída 510005 - 3/3
+02/06/25
+135565
+01/08/25
+351,25
+351,25
+litoral 
+industria e 
+comercio de 
+aluminios e 
+vidros ltda
+b
+0,00
+2024
+saída 505623 - 3/3
+30/04/25
+133792
+01/08/25
+370,00
+370,00
+isael lustosa 
+moledo 
+56052499753
+h
+0,00
+14761
+recebimento em conta 
+bancária - saída 517689
+01/08/25
+138606
+01/08/25
+401,00
+401,00
+jose antonio 
+assuncao da 
+silva   
+r
+1,00
+11998
+saída 510749 - 2/3
+06/06/25
+135866
+01/08/25
+422,27
+422,27
+dr varandas 
+ltda
+b
+0,00
+2059
+saída 515167 - 1/2
+14/07/25
+137611
+01/08/25
+426,66
+426,66
+wildes 
+nascimento 
+mattoso 
+68734921753
+h
+0,00
+126
+recebimento em 
+dinheiro - saída 517640
+01/08/25
+138589
+01/08/25
+465,00
+465,00
+balbino 
+moises kelly 
+r
+0,00
+549
+recebíveis baixados por recebimento - resumido
+empresa:
+vitoria alumunios me
+filial:
+1 - vitoria aluminios ltda
+data inicial:
+01/08/2025
+data final: 31/08/2025
+somente reneg.: não
+vendedor:
+todos
+2
+05/09/2025
+09:37:04
+idealsoft - shop control 9
+créd. cli.*: valor de crédito do cliente usado no recebimento. valores negativos representam troco que gerou crédito.
+valor rec.*:  valor da conta - desconto + juros + multa + outras taxas.
+tipo: (b) boleto, (n) carnê, (r) carteira, (c) cartão de crédito, (d) cartão de débito, (o) cartão convênio, (h) cheque, (a) crédito.
+recebimento:
+01/08/2025
+cliente
+descrição
+emissão
+valor rec.*
+nota
+vencimento
+valor
+tipo
+créd. cli.*
+silva 
+42768489700
+recebimento em conta 
+bancária - saída 517676
+01/08/25
+138601
+01/08/25
+496,00
+496,00
+marcos 
+aurelio de 
+souza  
+r
+0,00
+571
+recebimento em conta 
+bancária - saída 517703
+01/08/25
+138612
+01/08/25
+501,80
+501,80
+pcbf sistemas 
+ltda 
+r
+0,00
+18253
+recebimento em crédito 
+do cliente - saída 
+517746
+01/08/25
+138636
+01/08/25
+534,79
+534,79
+clovis 
+barbosa 
+ramos 2o
+r
+534,79
+14077
+saída 510746 - 2/3
+06/06/25
+135865
+01/08/25
+568,67
+568,67
+mb 
+acessorios e 
+aluminios 
+ltda
+b
+0,00
+14634
+recebimento em conta 
+bancária - saída 517628
+01/08/25
+138584
+01/08/25
+570,00
+570,00
+52.367.698 joao 
+carlos cavati 
+dos santos
+r
+0,00
+15212
+saída 509738 - 2/3
+30/05/25
+135451
+01/08/25
+610,00
+610,00
+isael lustosa 
+moledo 
+56052499753
+h
+0,00
+14761
+saída 509970 - 3/3
+02/06/25
+135548
+01/08/25
+620,00
+620,00
+m l barroso 
+oliveira 
+construçoes 
+ltda  
+b
+0,00
+10159
+recebimento em conta 
+bancária - saída 517697
+01/08/25
+138608
+01/08/25
+698,60
+698,60
+elizeu de 
+souza                          
+r
+0,00
+10249
+saída 510710 - 2/2
+06/06/25
+135839
+01/08/25
+845,00
+845,00
+tatiana de 
+barros braga 
+arruda
+b
+0,00
+894
+recebimento em conta 
+bancária - saída 517724
+01/08/25
+138622
+01/08/25
+995,00
+995,00
+wanderson de 
+oliveira comin
+r
+0,00
+248
+recebimento em conta 
+bancária - saída 517650
+01/08/25
+138595
+01/08/25
+1.120,00
+1.120,00
+24.875.975 
+kelly cristina 
+almeida 
+paranhos
+r
+0,00
+1695
+recebimento em conta 
+bancária - saída 517421
+01/08/25
+138609
+01/08/25
+1.273,00
+1.273,00
+57.769.866 
+edson dos 
+santos 
+martins
+r
+0,00
+17004
+recebimento em conta 
+bancária - saída 517627
+01/08/25
+138613
+01/08/25
+1.280,00
+1.280,00
+prisilino jose 
+alves
+r
+0,00
+11182
+saída 514119 - 1/3
+04/07/25
+137215
+01/08/25
+1.396,66
+1.396,66
+marcos 
+rogerio 
+rodrigues 
+00822149729
+b
+0,00
+2016
+recebimento em conta 
+bancária - saída 517744
+01/08/25
+138634
+01/08/25
+1.400,00
+1.400,00
+derliane 
+simplicio 
+vieira gatti
+r
+0,00
+10804
+saída 509540 - 2/2
+29/05/25
+135370
+01/08/25
+1.450,00
+1.450,00
+silvano 
+ribeiro dos 
+santos
+h
+0,00
+11924
+recebimento em conta 
+bancária - saída 517639
+01/08/25
+138621
+01/08/25
+1.536,00
+1.536,00
+v. r. da silva 
+martins
+r
+0,00
+11560
+saída 513327 - 1/3
+30/06/25
+136889
+01/08/25
+1.540,00
+1.540,00
+isael lustosa 
+h
+0,00
+14761
+recebíveis baixados por recebimento - resumido
+empresa:
+vitoria alumunios me
+filial:
+1 - vitoria aluminios ltda
+data inicial:
+01/08/2025
+data final: 31/08/2025
+somente reneg.: não
+vendedor:
+todos
+3
+05/09/2025
+09:37:04
+idealsoft - shop control 9
+créd. cli.*: valor de crédito do cliente usado no recebimento. valores negativos representam troco que gerou crédito.
+valor rec.*:  valor da conta - desconto + juros + multa + outras taxas.
+tipo: (b) boleto, (n) carnê, (r) carteira, (c) cartão de crédito, (d) cartão de débito, (o) cartão convênio, (h) cheque, (a) crédito.

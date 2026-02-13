@@ -1,0 +1,1160 @@
+08:07:28
+hora:
+data: 14/07/23
+folha: 1
+extrato de contas da filial
+período de: 01/06/23
+a 30/06/23
+0
+conta:
+270
+sintética inicial:  .  .  .  .  . .
+sintética final: 9.99.99.99.99.9.9
+imprimir apenas saldo: não
+todas
+brustolin, tomasini e peretti maquinas agrico
+filial
+c.n.p.j: 08.388.087/0001-28
+todas
+1
+identificador:
+data
+lancto
+valor credito
+histórico
+saldo
+d/c
+cta contrapartida
+fi
+emp
+lote
+valor debito
+cta vinc
+conta:
+sicredi ag:0726 cc:32894-4
+270
+sintetica
+1.01.01.02 bancos conta movimento
+saldo anterior
+88,04
+d
+data
+lancto
+valor credito
+histórico
+saldo
+d/c
+cta contrapartida
+fi
+emp
+lote
+valor debito
+cta vinc
+47.588,04
+d
+vlr.transf. p/conta transferencia do itaú p/ sicredi, i
+100
+865
+1005 itau 2909 33373
+1
+1
+01/06/2023
+47.500,00
+0
+tau 2909 33373-0
+-300.000,00
+252.411,96
+c
+vlr.transf. p/conta transferencia do sicredi para itaú,
+100
+866
+1005 itau 2909 33373
+1
+1
+01/06/2023
+0
+ itau 2909 33373-0
+241.411,96
+c
+vlr.transf. p/conta, banco do brasil 0959 22378-6
+100
+867
+1004 banco do brasil
+1
+1
+01/06/2023
+11.000,00
+0
+-35.000,00
+276.411,96
+c
+adiantamento clientes
+100
+1.120
+275 adiantamento clie
+1
+1
+03/06/2023
+5133
+-1.370,00
+277.781,96
+c
+adiantamentos a fornecedores
+100
+1.170
+1017 adiantamentos a
+1
+1
+05/06/2023
+9518
+140.281,96
+c
+recebimentos n/data  titulos: 24211/2, planovale aces a
+100
+878
+7544 planovale aces
+1
+1
+05/06/2023
+137.500,00
+0
+gric e corr seguros ltd
+-35.000,00
+175.281,96
+c
+adiantamento clientes
+100
+1.122
+275 adiantamento clie
+1
+1
+06/06/2023
+5133
+-22.417,50
+197.699,46
+c
+pagamentos nesta data  titulos: 5658, e a miorando e ci
+100
+787
+8597 e a miorando e
+1
+1
+06/06/2023
+0
+a ltda
+-765,34
+198.464,80
+c
+pagamentos nesta data  titulos: 338705/2, ingrax ind e
+100
+807
+9322 ingrax ind e com
+1
+1
+06/06/2023
+0
+com de graxas s a
+-7.045,40
+205.510,20
+c
+pagamentos nesta data  titulos: 900913/3, 901005/3, 901
+100
+808
+9471 stara s/a industr
+1
+1
+06/06/2023
+0
+107/3, stara s/a industria de implementos agricolas
+-8.000,00
+213.510,20
+c
+pagamentos nesta data  titulos: prolab7950-0523/1, robs
+100
+857
+7950 robson fernando
+1
+1
+06/06/2023
+0
+on fernando brustolin
+-3.591,26
+217.101,46
+c
+pagamentos nesta data  titulos: sal9505-0523/1, diego p
+100
+858
+9505 diego patrick ba
+1
+1
+06/06/2023
+0
+atrick barbosa
+-2.390,08
+219.491,54
+c
+pagamentos nesta data  titulos: sal9515-0523/1, rodrigo
+100
+859
+9515 rodrigo sereno r
+1
+1
+06/06/2023
+0
+ sereno roman
+-5.000,00
+224.491,54
+c
+pagamentos nesta data  titulos: 202301/6, dani paula fo
+100
+871
+8012 dani paula form
+1
+1
+06/06/2023
+0
+rmentini
+-2.916,86
+227.408,40
+c
+pagamentos nesta data  titulos: 901374/3, 917122/1, 917
+100
+870
+9471 stara s/a industr
+1
+1
+07/06/2023
+0
+125/1, stara s/a industria de implementos agricolas
+-95,00
+227.503,40
+c
+pagamentos nesta data  titulos: 24166, mercantil de fer
+100
+944
+9336 mercantil de fer
+1
+1
+09/06/2023
+0
+ragens 3a ltda
+-285,13
+227.788,53
+c
+pagamentos nesta data  titulos: 917533/1, stara s/a ind
+100
+950
+9471 stara s/a industr
+1
+1
+09/06/2023
+0
+ustria de implementos agricolas
+-50.000,00
+277.788,53
+c
+adiantamento clientes
+100
+1.123
+275 adiantamento clie
+1
+1
+09/06/2023
+5133
+77.788,53
+c
+cheque recebido, cheque 594, conta 5153 - ederson alexa
+20
+1.234
+1401 cheques recebid
+2
+1
+12/06/2023
+200.000,00
+0
+ndre tadiotto, cheques recebidos
+-250,00
+78.038,53
+c
+pagamentos nesta data  titulos: 24, 27, daniele da silv
+100
+1.033
+9196 daniele da silva
+2
+1
+12/06/2023
+0
+a pazim
+-171,96
+78.210,49
+c
+pagamentos nesta data  titulos: iptu/1, prefeitura muni
+100
+1.035
+9291 prefeitura munic
+2
+1
+12/06/2023
+0
+cipal de assis chateaubriand
+-326,38
+78.536,87
+c
+pagamentos nesta data  titulos: 10520, c a formiguieri
+100
+1.036
+8441 c a formiguieri  c
+1
+1
+12/06/2023
+0
+ cia ltda - me
+-2.189,52
+80.726,39
+c
+pagamentos nesta data  titulos: 2023435/1, base tecnolo
+100
+1.044
+8797 base tecnologia
+1
+1
+12/06/2023
+0
+gia da informacao ltda
+-807,68
+81.534,07
+c
+pagamentos nesta data  titulos: 37879/5, solution infor
+100
+1.045
+9491 solution informa
+1
+1
+12/06/2023
+0
+matica ltda
+-2.281,00
+83.815,07
+c
+pagamentos nesta data  titulos: 15617, heuert contadore
+100
+1.046
+9331 heuert contador
+1
+1
+12/06/2023
+0
+s associados ltda
+-735,00
+84.550,07
+c
+pagamentos nesta data  titulos: iss/1, prefeitura munic
+100
+1.047
+9292 prefeitura munic
+1
+1
+12/06/2023
+0
+ipal de palotina
+-155,00
+84.705,07
+c
+pagamentos nesta data  titulos: 3661/1, oeste t i tecno
+100
+1.048
+8841 oeste t i tecnolo
+1
+1
+12/06/2023
+0
+logia da informacao ltda
+-30,00
+84.735,07
+c
+pagamentos nesta data  titulos: 1913/1, furukawa e nune
+100
+1.049
+8773 furukawa e nune
+1
+1
+12/06/2023
+0
+s ltda
+-5.319,30
+90.054,37
+c
+pagamentos nesta data  titulos: 910637/2, 910540/2, 910
+100
+1.050
+9471 stara s/a industr
+1
+1
+12/06/2023
+0
+115/2, 910116/2, 902067/3, 909694/2, stara s/a industri
+a de implementos agricolas
+-936,00
+90.990,37
+c
+pagamentos nesta data  titulos: 33183/1, louis jordan p
+100
+1.051
+9417 louis jordan pas
+1
+1
+12/06/2023
+0
+astor
+-95,00
+91.085,37
+c
+pagamentos nesta data  titulos: 29563/1, ks mecanica ag
+100
+1.052
+8380 ks mecanica ag
+1
+1
+12/06/2023
+0
+ricola e servicos ltda
+7003,00 financeiro.finrelatorioextratocontabilmodgimprim
+rotina:
+extrato contas - grafico
+usuário:
+31
+nº reg.:
+alec
+ evolução constante
+08:07:28
+hora:
+data: 14/07/23
+folha: 2
+extrato de contas da filial
+período de: 01/06/23
+a 30/06/23
+0
+conta:
+270
+sintética inicial:  .  .  .  .  . .
+sintética final: 9.99.99.99.99.9.9
+imprimir apenas saldo: não
+todas
+brustolin, tomasini e peretti maquinas agrico
+filial
+c.n.p.j: 08.388.087/0001-28
+todas
+1
+identificador:
+data
+lancto
+valor credito
+histórico
+saldo
+d/c
+cta contrapartida
+fi
+emp
+lote
+valor debito
+cta vinc
+-840,00
+91.925,37
+c
+pagamentos nesta data  titulos: 1082/2, 3c locacoes de
+100
+1.053
+8975 3c locacoes de
+1
+1
+12/06/2023
+0
+cacambas e equipamentos de uso industrial ltd
+-36,00
+91.961,37
+c
+pagamentos nesta data  titulos: 16479, palotina tintas
+100
+1.054
+9394 palotina tintas lt
+1
+1
+12/06/2023
+0
+ltda
+-154,98
+92.116,35
+c
+pagamentos nesta data  titulos: 202395497/1, ferreira c
+100
+1.055
+8468 ferreira comunic
+2
+1
+12/06/2023
+0
+omunicacoes e informatica ltda-me
+-48,00
+92.164,35
+c
+pagamentos nesta data  titulos: 1433, acerta assesoria
+100
+1.056
+9172 acerta assesoria
+2
+1
+12/06/2023
+0
+em sst ltda
+-739,57
+92.903,92
+c
+pagamentos nesta data  titulos: issqn/1, prefeitura mun
+100
+1.057
+9291 prefeitura munic
+2
+1
+12/06/2023
+0
+icipal de assis chateaubriand
+-180,00
+93.083,92
+c
+pagamentos nesta data  titulos: 1351, acerta assesoria
+100
+1.059
+9172 acerta assesoria
+1
+1
+12/06/2023
+0
+em sst ltda
+-1.460,21
+94.544,13
+c
+pagamentos nesta data  titulos: 32568, 32673, posto mar
+100
+1.060
+8898 posto maroso ltd
+1
+1
+12/06/2023
+0
+oso ltda
+-702,00
+95.246,13
+c
+pagamentos nesta data  titulos: 15615, heuert contadore
+100
+1.061
+9331 heuert contador
+2
+1
+12/06/2023
+0
+s associados ltda
+-5.053,76
+100.299,89
+c
+pagamentos nesta data  titulos: 34828/0, 34829/0, 34842
+100
+1.062
+8567 d colombo e cia
+2
+1
+12/06/2023
+0
+/0, 34855/0, 34856/0, 34878/0, 34900/0, 34902/0, 34907/
+0, 34905/0, 34910, 34940/0, 34961/0, 34972/0, 34983/0,
+34990/0, 34992/0, 35006/0, 35011/0, 35024/0, 35041/0, 3
+5042/0, 35043/0, 34963/0, d colombo e cia ltda
+-1.130,00
+101.429,89
+c
+adiantamento clientes
+100
+1.074
+275 adiantamento clie
+1
+1
+12/06/2023
+5713
+-110.000,00
+211.429,89
+c
+itau 2909 33373-0
+100
+1.112
+1005 itau 2909 33373
+1
+1
+12/06/2023
+0
+-19.000,00
+230.429,89
+c
+itau 2909 33373-0
+100
+1.113
+1005 itau 2909 33373
+2
+1
+12/06/2023
+0
+-4.000,00
+234.429,89
+c
+itau 2909 33373-0
+100
+1.114
+1005 itau 2909 33373
+2
+1
+12/06/2023
+0
+-15.000,00
+249.429,89
+c
+adiantamento clientes
+100
+1.117
+275 adiantamento clie
+1
+1
+12/06/2023
+5133
+-5.000,00
+254.429,89
+c
+pagamentos nesta data  titulos: distrale/1, alecir pere
+100
+1.163
+7953 alecir peretti
+1
+1
+12/06/2023
+0
+tti
+-750,00
+255.179,89
+c
+titulos: adiandouglas/1, douglas junior dias inocencio
+100
+1.328
+9506 douglas junior d
+1
+1
+12/06/2023
+0
+-2.174,80
+257.354,69
+c
+titulos: prolab/ale05/1, alecir peretti
+100
+1.174
+7953 alecir peretti
+1
+1
+12/06/2023
+0
+-1.174,80
+258.529,49
+c
+titulos: prolab/rob05/1, robson fernando brustolin
+100
+1.175
+7950 robson fernando
+1
+1
+12/06/2023
+0
+-114,00
+258.643,49
+c
+pagamentos nesta data  titulos: 897, upside agencia dig
+100
+1.066
+8592 upside agencia
+1
+1
+13/06/2023
+0
+ital ltda me
+-99,90
+258.743,39
+c
+pagamentos nesta data  titulos: qiinternet/1, qi equipa
+100
+1.067
+8378 qi equipamentos
+1
+1
+13/06/2023
+0
+mentos para informatica ltda
+-123,51
+258.866,90
+c
+pagamentos nesta data  titulos: 010/2023/1, associacao
+100
+1.068
+9330 associacao com
+1
+1
+13/06/2023
+0
+comercial empres de palotina
+-1.410,00
+260.276,90
+c
+pagamentos nesta data  titulos: 121808/1, 121818/1, tol
+100
+1.303
+8553 toleagri - toledo
+1
+1
+16/06/2023
+0
+eagri - toledo pecas agricolas ltda
+-316,00
+260.592,90
+c
+pagamentos nesta data  titulos: 92350/1, casa dos paraf
+100
+1.304
+8482 casa dos parafu
+1
+1
+16/06/2023
+0
+usos bocato ltda
+-390,00
+260.982,90
+c
+pagamentos nesta data  titulos: 6439713, hotel vivenda
+100
+1.305
+8832 hotel vivenda 2m
+1
+1
+16/06/2023
+0
+2m ltda
+-935,00
+261.917,90
+c
+pagamentos nesta data  titulos: 29613/1, ks mecanica ag
+100
+1.307
+8380 ks mecanica ag
+2
+1
+16/06/2023
+0
+ricola e servicos ltda
+-133,90
+262.051,80
+c
+titulos: 53762, tangerino tecnologia ltda - me
+100
+1.310
+9012 tangerino tecno
+1
+1
+16/06/2023
+0
+-251,47
+262.303,27
+c
+pagamentos nesta data  titulos: 40981544, copel distrib
+100
+1.367
+8472 copel distribuica
+2
+1
+19/06/2023
+0
+uicao s a
+-2.009,03
+264.312,30
+c
+pagamentos nesta data  titulos: 904875/3, 904874/3, sta
+100
+1.369
+9471 stara s/a industr
+1
+1
+19/06/2023
+0
+ra s/a industria de implementos agricolas
+-11,00
+264.323,30
+c
+pagamentos nesta data  titulos: onr2555566/1, operador
+100
+1.465
+9532 operador nacion
+1
+1
+21/06/2023
+0
+nacional do sistema de registro de imoveis
+-40,00
+264.363,30
+c
+pagamentos nesta data  titulos: 6168, r zorzi - transpo
+100
+1.478
+8876 r zorzi - transpo
+1
+1
+21/06/2023
+0
+rtes
+-150,00
+264.513,30
+c
+pagamentos nesta data  titulos: prolab/ale/1, alecir pe
+100
+1.661
+7953 alecir peretti
+1
+1
+22/06/2023
+0
+retti
+-3.759,12
+268.272,42
+c
+pagamentos nesta data referente antecipação de cheques
+100
+2.226
+7805 tarifas bancarias
+1
+1
+22/06/2023
+0
+- milton blanco gerona, reginaldo zortea, paulo heitor
+weber, everaldo bertogna e marcelo casol, tarifas banca
+rias
+-60,00
+268.332,42
+c
+pagamentos nesta data  titulos: 130, neide a barrotti e
+100
+1.567
+9534 neide a barrotti
+2
+1
+23/06/2023
+0
+letronica me
+-726,63
+269.059,05
+c
+pagamentos nesta data  titulos: 136, rezende borella lt
+100
+1.568
+8630 rezende borella
+2
+1
+23/06/2023
+0
+7003,00 financeiro.finrelatorioextratocontabilmodgimprim
+rotina:
+extrato contas - grafico
+usuário:
+65
+nº reg.:
+alec
+ evolução constante
+08:07:28
+hora:
+data: 14/07/23
+folha: 3
+extrato de contas da filial
+período de: 01/06/23
+a 30/06/23
+0
+conta:
+270
+sintética inicial:  .  .  .  .  . .
+sintética final: 9.99.99.99.99.9.9
+imprimir apenas saldo: não
+todas
+brustolin, tomasini e peretti maquinas agrico
+filial
+c.n.p.j: 08.388.087/0001-28
+todas
+1
+identificador:
+data
+lancto
+valor credito
+histórico
+saldo
+d/c
+cta contrapartida
+fi
+emp
+lote
+valor debito
+cta vinc
+da - sukiyaki house
+-58,83
+269.117,88
+c
+pagamentos nesta data  titulos: onr23/1, operador nacio
+100
+1.619
+9532 operador nacion
+1
+1
+23/06/2023
+0
+nal do sistema de registro de imoveis
+-9.695,05
+278.812,93
+c
+pagamentos nesta data  titulos: 914546/2, stara s/a ind
+100
+1.646
+9471 stara s/a industr
+1
+1
+26/06/2023
+0
+ustria de implementos agricolas
+-100,00
+278.912,93
+c
+pagamentos nesta data  titulos: 7846, extinmar equipame
+100
+1.647
+9065 extinmar equipa
+1
+1
+26/06/2023
+0
+ntos contra incendios
+-500,00
+279.412,93
+c
+pagamentos nesta data  titulos: 1716, união educacional
+100
+1.649
+9537 união educacion
+2
+1
+26/06/2023
+0
+ do medio oeste paranaense ltda
+-85,75
+279.498,68
+c
+pagamentos nesta data valor referente antecipação de ch
+100
+2.359
+7805 tarifas bancarias
+1
+1
+26/06/2023
+0
+eque, tarifas bancarias
+-88,53
+279.587,21
+c
+pagamentos nesta data  titulos: 69620, copel distribuic
+100
+1.683
+8472 copel distribuica
+1
+1
+27/06/2023
+0
+ao s a
+-406,66
+279.993,87
+c
+pagamentos nesta data  titulos: adiant/douglas/1, dougl
+100
+1.687
+9506 douglas junior d
+1
+1
+27/06/2023
+0
+as junior dias inocencio
+-270.000,00
+549.993,87
+c
+pagamentos nesta data  titulos: 887773/1, stara s/a ind
+100
+1.692
+9471 stara s/a industr
+1
+1
+27/06/2023
+0
+ustria de implementos agricolas
+-301,89
+550.295,76
+c
+pagamentos nesta data  titulos: 00fff/1, instituto de r
+100
+1.694
+9538 instituto de regis
+1
+1
+27/06/2023
+0
+egistro de titulos e documentos e de pessoas j
+380.295,76
+c
+recebimentos n/data, adiantamento clientes
+100
+1.903
+275 adiantamento clie
+1
+1
+27/06/2023
+170.000,00
+6089
+-1.500,00
+381.795,76
+c
+pagamentos nesta data  titulos: implesul/2x/1, implesul
+100
+1.724
+8716 implesul equipa
+1
+1
+28/06/2023
+0
+ equipamentos agricolas ltda
+-149,00
+381.944,76
+c
+pagamentos nesta data  titulos: almrod06/1, rodrigo ser
+100
+1.742
+9515 rodrigo sereno r
+1
+1
+28/06/2023
+0
+eno roman
+-13.000,00
+394.944,76
+c
+vlr.transf. p/conta valor transferido do sicredi para i
+100
+1.769
+1005 itau 2909 33373
+1
+1
+28/06/2023
+0
+tau, itau 2909 33373-0
+-1.998,30
+396.943,06
+c
+pagamentos nesta data  titulos: 3721/2, 3739/1, marisul
+100
+1.785
+8869 marisul agricola
+1
+1
+29/06/2023
+0
+ agricola ltda
+-1.795,00
+398.738,06
+c
+pagamentos nesta data  titulos: 16646, palotina palace
+100
+1.786
+9007 palotina palace
+1
+1
+29/06/2023
+0
+hotel
+-100.000,00
+498.738,06
+c
+pagamentos nesta data  titulos: 887773/1, stara s/a ind
+100
+1.790
+9471 stara s/a industr
+1
+1
+29/06/2023
+0
+ustria de implementos agricolas
+-30.419,23
+529.157,29
+c
+pagamentos nesta data  titulos: inssirrf05/1, ministeri
+100
+1.795
+7924 ministerio da faz
+1
+1
+29/06/2023
+0
+o da fazenda
+-12.000,00
+541.157,29
+c
+vlr.transf. p/conta transferencia do banco sicredi para
+100
+1.800
+1005 itau 2909 33373
+1
+1
+29/06/2023
+0
+ itau, itau 2909 33373-0
+-210,00
+541.367,29
+c
+pagamentos nesta data  titulos: certdig/1, heurt servic
+100
+1.812
+9113 heurt servicos a
+1
+1
+29/06/2023
+0
+os administrativos ltda
+-82.000,00
+623.367,29
+c
+vlr.transf. p/conta transferencia do banco sicredi para
+100
+1.817
+1005 itau 2909 33373
+1
+1
+30/06/2023
+0
+ itaú, itau 2909 33373-0
+saldo anterior:
+débitos:
+566.000,00
+saldo período:
+-623.455,33 atual:
+-623.367,29
+88,04
+-1.189.455,33
+créditos:
+7003,00 financeiro.finrelatorioextratocontabilmodgimprim
+rotina:
+extrato contas - grafico
+usuário:
+85
+nº reg.:
+alec
+ evolução constante

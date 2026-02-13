@@ -1,0 +1,1159 @@
+01/10/2025
+12:14:54
+folha de pagamento por empresa
+empresa
+11
+zest tecnologia ltda
+referência
+setembro/2025
+cargo
+funcionário
+salário
+tipo
+admissão
+256476
+andré viveiros araujo
+17/07/2008
+2350
+gerente de compliance e controle
+24.104,13
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+24.104,13
+d
+30,00
+00100
+auxilio creche
+440,42
+********************************descontos*********************************
+05000
+irrf
+5.458,21
+05010
+inss salário
+951,62
+05850
+desc tiquete
+130,38
+******************************outros*********************************
+10090
+sal.contrib.
+24.104,13
+10110
+base irrf
+24.104,13
+10160
+total proventos
+24.544,55
+10170
+total descontos
+6.540,21
+10360
+salario liquido
+18.004,34
+10371
+fgtsdep
+1.928,33
+99500
+salário total
+24.104,13
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+902194
+cleiton hiago azevedo dos santos
+24/04/2023
+2118
+operador de documentos
+1.804,00
+mensal
+tipo de processamento
+data de pagamento
+férias
+06/09/2025
+*********************************proventos**********************************
+00300
+férias no mês
+1.206,80
+d
+20,00
+00320a
+abono pecun
+181,02
+d
+3,00
+00330a
+abono mês seg
+422,38
+d
+7,00
+00360
+1ª parc. 13 sal
+902,00
+a
+12,00
+00370a
+1/3 abono mes
+60,34
+00390
+1/3 férias mês
+402,27
+00820a
+1/3 abono seg
+140,79
+********************************descontos*********************************
+17119
+inss férias
+90,51
+******************************outros*********************************
+10160
+total proventos
+3.315,60
+10170
+total descontos
+90,51
+11610
+liq.férias
+3.225,09
+13410
+bas.irrf férias
+1.609,07
+14260
+total media fer
+6,20
+8236
+dedcplirfer
+516,69
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+601,33
+d
+10,00
+19071
+fergoz
+1.206,80
+d
+20,00
+19072z
+1/3 fergoz
+402,27
+d
+1.206,80
+19075
+adto13fer
+902,00
+d
+12,00
+19076
+devinssfer
+90,51
+d
+1.206,80
+********************************descontos*********************************
+05010
+inss salário
+49,45
+18370
+vale-
+transporte
+108,24
+19083
+inss fer
+90,51
+d
+1.206,80
+19084
+adiant. férias
+2.511,07
+d
+2.511,07
+******************************outros*********************************
+10090
+sal.contrib.
+1.808,13
+10110
+base irrf
+601,33
+10160
+total proventos
+3.202,91
+10170
+total descontos
+2.759,27
+10360
+salario liquido
+443,64
+10371
+fgtsdep
+176,83
+11141
+dep fgts 13o.
+72,16
+8235
+dedcplirsal
+557,75
+99500
+salário total
+1.804,00
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+264746
+debora aparecida de freitas
+13/04/2010
+2105
+assistente administrativo
+3.978,54
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+3.978,54
+d
+30,00
+********************************descontos*********************************
+05000
+irrf
+103,84
+05010
+inss salário
+370,82
+05544
+cust plano
+amil
+262,82
+05850
+desc tiquete
+32,60
+18420
+plano odonto
+24,93
+******************************outros*********************************
+10090
+sal.contrib.
+3.978,54
+10110
+base irrf
+3.978,54
+10160
+total proventos
+3.978,54
+10170
+total descontos
+795,01
+10360
+salario liquido
+3.183,53
+10371
+fgtsdep
+318,28
+99500
+salário total
+3.978,54
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+902197
+edson de oliveira loris junior
+15/05/2023
+2126
+coordenador de operações e tecnologia
+18.315,21
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+18.315,21
+d
+30,00
+********************************descontos*********************************
+05000
+irrf
+3.175,10
+05010
+inss salário
+951,62
+05850
+desc tiquete
+130,38
+99300
+pensão alim
+2.134,11
+******************************outros*********************************
+10090
+sal.contrib.
+18.315,21
+10110
+base irrf
+18.315,21
+10160
+total proventos
+18.315,21
+10170
+total descontos
+6.391,21
+10360
+salario liquido
+11.924,00
+10371
+fgtsdep
+1.465,22
+8211
+dep. irrf mês
+379,18
+99500
+salário total
+18.315,21
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+902195
+edson ferreira gomes filho
+24/04/2023
+2118
+operador de documentos
+1.804,00
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+1.804,00
+d
+30,00
+********************************descontos*********************************
+05010
+inss salário
+139,59
+******************************outros*********************************
+10090
+sal.contrib.
+1.804,00
+10110
+base irrf
+1.804,00
+10160
+total proventos
+1.804,00
+10170
+total descontos
+139,59
+10360
+salario liquido
+1.664,41
+10371
+fgtsdep
+144,32
+8235
+dedcplirsal
+467,61
+99500
+salário total
+1.804,00
+grupo de cálculo
+funcionários
+geral
+f@tor h/web
+soft trade
+1 / 7
+01/10/2025
+12:14:54
+folha de pagamento por empresa
+empresa
+11
+zest tecnologia ltda
+referência
+setembro/2025
+cargo
+funcionário
+salário
+tipo
+admissão
+217225
+eduardo azevedo cerqueira
+09/11/1999
+2159
+analista de operações pl
+8.341,83
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+8.341,83
+d
+30,00
+00020
+anuênio
+304,75
+d
+30,00
+********************************descontos*********************************
+05000
+irrf
+917,47
+05010
+inss salário
+951,62
+05544
+cust plano
+amil
+410,66
+05850
+desc tiquete
+97,79
+18420
+plano odonto
+74,79
+******************************outros*********************************
+10090
+sal.contrib.
+8.646,58
+10110
+base irrf
+8.646,58
+10160
+total proventos
+8.646,58
+10170
+total descontos
+2.452,33
+10360
+salario liquido
+6.194,25
+10371
+fgtsdep
+691,73
+8211
+dep. irrf mês
+568,77
+99500
+salário total
+8.646,58
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+243536
+fabio barbosa de oliveira
+19/01/2006
+2142
+supervisor de serviços
+8.553,09
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+8.553,09
+d
+30,00
+********************************descontos*********************************
+05000
+irrf
+997,84
+05010
+inss salário
+951,62
+05850
+desc tiquete
+97,79
+18420
+plano odonto
+99,72
+******************************outros*********************************
+10090
+sal.contrib.
+8.553,09
+10110
+base irrf
+8.553,09
+10160
+total proventos
+8.553,09
+10170
+total descontos
+2.146,97
+10360
+salario liquido
+6.406,12
+10371
+fgtsdep
+684,25
+8211
+dep. irrf mês
+568,77
+99500
+salário total
+8.553,09
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+241392
+felipe ivo da silva
+01/03/2021
+2248
+técnico de laboratório
+2.598,88
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+2.598,88
+d
+30,00
+********************************descontos*********************************
+05010
+inss salário
+211,12
+05850
+desc tiquete
+32,60
+18370
+vale-
+transporte
+155,93
+18420
+plano odonto
+114,81
+******************************outros*********************************
+10090
+sal.contrib.
+2.598,88
+10110
+base irrf
+2.598,88
+10160
+total proventos
+2.598,88
+10170
+total descontos
+514,46
+10360
+salario liquido
+2.084,42
+10371
+fgtsdep
+207,91
+8235
+dedcplirsal
+281,27
+99500
+salário total
+2.598,88
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+228081
+francisco de assis alves filho
+01/11/2001
+4489
+supervisor sr
+15.408,04
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+15.408,04
+d
+30,00
+********************************descontos*********************************
+05000
+irrf
+3.066,79
+05010
+inss salário
+951,62
+05850
+desc tiquete
+130,38
+******************************outros*********************************
+10090
+sal.contrib.
+15.408,04
+10110
+base irrf
+15.408,04
+10160
+total proventos
+15.408,04
+10170
+total descontos
+4.148,79
+10360
+salario liquido
+11.259,25
+10371
+fgtsdep
+1.232,64
+99500
+salário total
+15.408,04
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+282281
+glauciene santana da silva
+04/04/2016
+2098
+assistente operacional
+3.197,18
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+3.197,18
+d
+30,00
+00900
+gratif.
+especia
+425,02
+********************************descontos*********************************
+05000
+irrf
+58,09
+05010
+inss salário
+328,06
+05850
+desc tiquete
+32,60
+18420
+plano odonto
+24,93
+******************************outros*********************************
+10090
+sal.contrib.
+3.622,20
+10110
+base irrf
+3.622,20
+10160
+total proventos
+3.622,20
+10170
+total descontos
+443,68
+10360
+salario liquido
+3.178,52
+10371
+fgtsdep
+289,78
+8235
+dedcplirsal
+254,21
+99500
+salário total
+3.197,18
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+269411
+hugo poggio junior
+10/10/2011
+2225
+executivo de vendas
+19.589,01
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+19.589,01
+d
+30,00
+17110
+comissão
+324,48
+********************************descontos*********************************
+05000
+irrf
+3.719,99
+05010
+inss salário
+951,62
+05540
+coparticipação
+186,01
+05850
+desc tiquete
+130,38
+******************************outros*********************************
+10090
+sal.contrib.
+19.913,49
+10110
+base irrf
+19.913,49
+10160
+total proventos
+19.913,49
+10170
+total descontos
+6.742,55
+grupo de cálculo
+funcionários
+geral
+f@tor h/web
+soft trade
+2 / 7
+01/10/2025
+12:14:54
+folha de pagamento por empresa
+empresa
+11
+zest tecnologia ltda
+referência
+setembro/2025
+cargo
+funcionário
+salário
+tipo
+admissão
+269411
+hugo poggio junior
+10/10/2011
+2225
+executivo de vendas
+19.589,01
+mensal
+18420
+plano odonto
+149,58
+18440
+custeio saude
+1.604,97
+10360
+salario liquido
+13.170,94
+10371
+fgtsdep
+1.593,08
+8211
+dep. irrf mês
+189,59
+99500
+salário total
+19.589,01
+cargo
+funcionário
+salário
+tipo
+admissão
+902129
+igo pablo gomes lopes
+25/04/2022
+4511
+assistente de negócios e processos
+4.730,61
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+4.730,61
+d
+30,00
+********************************descontos*********************************
+05000
+irrf
+240,07
+05010
+inss salário
+471,86
+05850
+desc tiquete
+48,85
+******************************outros*********************************
+10090
+sal.contrib.
+4.730,61
+10110
+base irrf
+4.730,61
+10160
+total proventos
+4.730,61
+10170
+total descontos
+760,78
+10360
+salario liquido
+3.969,83
+10371
+fgtsdep
+378,45
+8211
+dep. irrf mês
+189,59
+99500
+salário total
+4.730,61
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+902239
+italo augusto cunha soares
+01/08/2024
+20644
+analista de sistemas
+7.440,43
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+7.440,43
+d
+30,00
+********************************descontos*********************************
+05000
+irrf
+903,30
+05010
+inss salário
+851,24
+05850
+desc tiquete
+97,79
+******************************outros*********************************
+10090
+sal.contrib.
+7.440,43
+10110
+base irrf
+7.440,43
+10160
+total proventos
+7.440,43
+10170
+total descontos
+1.852,33
+10360
+salario liquido
+5.588,10
+10371
+fgtsdep
+595,23
+99500
+salário total
+7.440,43
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+203062
+joao batista almeida jaco junior
+02/05/1996
+2225
+executivo de vendas
+20.346,07
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+20.346,07
+d
+30,00
+17110
+comissão
+562,86
+********************************descontos*********************************
+05000
+irrf
+3.947,07
+05010
+inss salário
+951,62
+05540
+coparticipação
+455,42
+05850
+desc tiquete
+215,50
+18420
+plano odonto
+49,86
+18440
+custeio saude
+1.604,97
+******************************outros*********************************
+10090
+sal.contrib.
+20.908,93
+10110
+base irrf
+20.908,93
+10160
+total proventos
+20.908,93
+10170
+total descontos
+7.224,44
+10360
+salario liquido
+13.684,49
+10371
+fgtsdep
+1.672,71
+8211
+dep. irrf mês
+189,59
+99500
+salário total
+20.346,07
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+217985
+julio pereira leirinha
+01/01/2000
+2098
+assistente operacional
+3.197,18
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+3.197,18
+d
+30,00
+00020
+anuênio
+304,75
+d
+30,00
+00130
+desloc noturno
+101,55
+********************************descontos*********************************
+05010
+inss salário
+313,63
+05544
+cust plano
+amil
+361,38
+05850
+desc tiquete
+32,60
+18370
+vale-
+transporte
+191,83
+18420
+plano odonto
+74,79
+******************************outros*********************************
+10090
+sal.contrib.
+3.501,93
+10110
+base irrf
+3.603,48
+10160
+total proventos
+3.603,48
+10170
+total descontos
+974,23
+10360
+salario liquido
+2.629,25
+10371
+fgtsdep
+280,15
+8211
+dep. irrf mês
+568,77
+99500
+salário total
+3.501,93
+grupo de cálculo
+funcionários
+geral
+cargo
+funcionário
+salário
+tipo
+admissão
+902268
+karam yakoub agha
+17/03/2025
+2062
+analista de sistemas pl
+12.663,60
+mensal
+tipo de processamento
+data de pagamento
+processamento mensal
+30/09/2025
+*********************************proventos**********************************
+00010
+salário
+12.663,60
+d
+30,00
+********************************descontos*********************************
+05000
+irrf
+2.229,93
+05010
+inss salário
+951,62
+05544
+cust plano
+amil
+298,67
+05850
+desc tiquete
+130,38
+18370
+vale-
+transporte
+759,82
+******************************outros*********************************
+10090
+sal.contrib.
+12.663,60
+10110
+base irrf
+12.663,60
+10160
+total proventos
+12.663,60
+10170
+total descontos
+4.370,42
+10360
+salario liquido
+8.293,18
+10371
+fgtsdep
+1.013,09
+99500
+salário total
+12.663,60
+grupo de cálculo
+funcionários
+geral
+f@tor h/web
+soft trade
+3 / 7

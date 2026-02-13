@@ -1,0 +1,577 @@
+contas pagas - por data de vencimento
+data de pagameto está entre 01/10/2025 e 31/10/2025 
+ilat
+ilat - instituto latino amer.de avaliação tec ltda
+código
+fornecedor
+descrição
+documento
+data vencimento
+valor(r$)
+data pagamento
+pago(r$)
+mostra todas as contas pagas entre o período escolhido
+04/11/2025
+página 1
+desconto
+juros
+18681
+pgfn - parcelamento inss- parc. 43/48
+darf-30
+31/03/2025
+2.655,50
+471 - receita federal
+16/10/2025
+2.655,50
+22387
+damsp pat  ppi- 13/60
+damsp-17
+30/06/2025
+1.324,49
+84 - prefeitura da cidade de são paulo
+31/10/2025
+1.324,49
+20533
+emprestimos pronampe parc. 30/42
+c/c empresaria
+29/09/2025
+5.061,51
+393 - santander
+02/10/2025
+586,48
+pagamento parcial
+23665
+vale refeceição - parc. 1/2
+ansf. bancária
+30/09/2025
+4.681,00
+144 - colaboradores
+01/10/2025
+4.681,00
+23688
+vale transporte - outubro 2025
+ansf. bancária
+30/09/2025
+2.875,80
+144 - colaboradores
+01/10/2025
+2.875,80
+25208
+tarifa cobrança 
+débito c.c 
+01/10/2025
+2,00
+567 - sicoob coopjus
+01/10/2025
+2,00
+24411
+negociação 04/10
+boleto-3
+01/10/2025
+8.132,00
+296 - lafiqui
+01/10/2025
+8.132,00
+25207
+tar manut. cta ativa 
+débito c.c 
+01/10/2025
+40,00
+567 - sicoob coopjus
+01/10/2025
+40,00
+25209
+débito iof 
+débito c.c 
+01/10/2025
+19,52
+567 - sicoob coopjus
+01/10/2025
+19,52
+25210
+débito iof
+débito c.c 
+01/10/2025
+169,18
+567 - sicoob coopjus
+01/10/2025
+169,18
+25211
+juros conta garantida
+débito c.c 
+01/10/2025
+549,92
+567 - sicoob coopjus
+01/10/2025
+549,92
+25219
+iof imposto op fin. per: 01/09 a 30/09
+débito c.c 
+01/10/2025
+20,84
+393 - santander
+01/10/2025
+20,84
+25232
+diferença vr- dissidio 
+pix
+01/10/2025
+1.008,00
+144 - colaboradores
+01/10/2025
+1.008,00
+25220
+iof adicional - per: 01/09 a 30/09
+débito c.c 
+01/10/2025
+72,68
+393 - santander
+01/10/2025
+72,68
+25033
+material de uso e consumo laboratório
+nf 991599
+02/10/2025
+800,60
+344 - synth
+02/10/2025
+800,60
+25225
+emprestimos pronampe parc. 30/42
+c/c empresaria
+02/10/2025
+4.475,03
+393 - santander
+17/10/2025
+4.475,03
+25117
+aluguel veiculo
+boleto
+02/10/2025
+206,73
+574 - movida participacoes s.a.
+02/10/2025
+206,73
+25212
+tarifa cobrança 
+débito c.c
+02/10/2025
+2,00
+567 - sicoob coopjus
+02/10/2025
+2,00
+25124
+serviços de analises
+nf 88228
+02/10/2025
+280,00
+374 - controle analitico analises tecnicas 
+02/10/2025
+280,00
+25132
+férias reinaldo
+pix
+03/10/2025
+6.450,14
+144 - colaboradores
+06/10/2025
+6.450,14
+04/11/2025 11:07:14
+hábil empresarial
+1 de 1
+para as contas a pagar que foram pagas parcialemente o valor original da conta aparecerá riscado. o valor que será levado em consideração será o valor em que a
+conta foi paga.
+koinonia software ltda - www.habil.com.br
+código
+fornecedor
+descrição
+documento
+data vencimento
+valor(r$)
+data pagamento
+pago(r$)
+mostra todas as contas pagas entre o período escolhido
+04/11/2025
+página 2
+desconto
+juros
+25154
+serviços de analises 
+nf 64988
+03/10/2025
+4.705,78
+67 - cetal
+07/10/2025
+4.705,78
+25125
+reparo ar condicionado
+nf 20178
+05/10/2025
+2.149,50
+586 - art ar condicionado ltda
+06/10/2025
+2.149,50
+25131
+provedor
+boleto
+05/10/2025
+175,22
+154 - locaweb
+06/10/2025
+175,22
+25109
+material de uso e consumo laboratório
+nf 4085 a
+06/10/2025
+286,73
+430 - quimica moderna
+06/10/2025
+286,73
+25106
+material de uso e consumo laboratório 
+nf 4084 a
+06/10/2025
+733,48
+430 - quimica moderna
+06/10/2025
+733,48
+25020
+compra de relógio de ponto
+nf 33985 b
+07/10/2025
+867,91
+353 - real ponto comercio
+07/10/2025
+867,91
+25035
+material de uso e consumo laboratório
+nf 448979
+07/10/2025
+112,00
+164 - alpax
+07/10/2025
+112,00
+25034
+material de uso e consumo laboratório
+nf 448978
+07/10/2025
+430,00
+164 - alpax
+07/10/2025
+430,00
+25029
+material de uso e consumo laboratório
+nf 33816 b
+07/10/2025
+511,40
+392 - mileto
+07/10/2025
+511,40
+25039
+material de uso e consumo laboratório 
+nf 7474
+07/10/2025
+1.561,80
+367 - tecnoglobo equipamentos ltda - epp
+07/10/2025
+1.561,80
+25031
+material de uso e consumo laboratório
+nf 33817 b
+07/10/2025
+409,70
+392 - mileto
+07/10/2025
+409,70
+23565
+folha de pagamento
+setembro 2025-7
+07/10/2025
+39.580,00
+144 - colaboradores
+03/10/2025
+39.580,00
+25156
+reembolso 
+fc 25/029
+08/10/2025
+36,70
+396 - reinaldo josé cadete
+09/10/2025
+36,70
+23641
+iss tomador ref. simples nacional setembro
+damsp-7
+10/10/2025
+9,81
+84 - prefeitura da cidade de são paulo
+10/10/2025
+9,81
+24432
+emprestimo giro unificado 06/36
+débito c.c -5
+10/10/2025
+15.222,67
+393 - santander
+13/10/2025
+15.000,00
+pagamento parcial
+23653
+software - easylab
+ansf. bancária
+10/10/2025
+1.500,00
+294 - marcelo a. barbosa
+13/10/2025
+1.500,00
+23579
+monitoramneto de alarme
+nf 16636807
+10/10/2025
+226,26
+313 - verisure
+10/10/2025
+226,26
+25213
+deb.conv. seguros 
+débito c.c
+10/10/2025
+84,35
+567 - sicoob coopjus
+10/10/2025
+84,35
+25214
+deb.conv. seguros
+débito c.c
+10/10/2025
+93,51
+567 - sicoob coopjus
+10/10/2025
+93,51
+23592
+monitoramento de alarme
+nf 16636811
+10/10/2025
+232,12
+313 - verisure
+10/10/2025
+232,12
+23617
+cartão de crédito - comercial
+boleto-7
+11/10/2025
+3.944,11
+567 - sicoob coopjus
+13/10/2025
+3.944,11
+25162
+reembolso
+fc 25/030
+13/10/2025
+32,11
+587 - rosana ribeiro
+13/10/2025
+32,11
+04/11/2025 11:07:14
+hábil empresarial
+2 de 2
+para as contas a pagar que foram pagas parcialemente o valor original da conta aparecerá riscado. o valor que será levado em consideração será o valor em que a
+conta foi paga.
+koinonia software ltda - www.habil.com.br
+código
+fornecedor
+descrição
+documento
+data vencimento
+valor(r$)
+data pagamento
+pago(r$)
+mostra todas as contas pagas entre o período escolhido
+04/11/2025
+página 3
+desconto
+juros
+25227
+emprestimo giro unificado 06/36
+débito c.c -5
+13/10/2025
+170,05
+393 - santander
+17/10/2025
+170,05
+25193
+serviços de analises 
+nf 65128
+13/10/2025
+10.618,30
+67 - cetal
+13/10/2025
+10.618,30
+24246
+emprestimo 07/36
+boleto-6
+13/10/2025
+2.976,50
+576 - banco daycoval s.a.
+13/10/2025
+2.976,50
+25226
+emprestimo giro unificado 06/36
+débito c.c -5
+13/10/2025
+222,67
+393 - santander
+13/10/2025
+52,62
+pagamento parcial
+24036
+aluguel - laboratório
+recibo-8
+14/10/2025
+9.892,25
+346 - marcos henrique s. pimentel 
+10/10/2025
+4.000,00
+pagamento parcial
+23714
+consumo energia cs 03
+boleto-8
+14/10/2025
+920,84
+92 - enel
+13/10/2025
+920,84
+25215
+tarifa cobrança 
+débito c.c
+14/10/2025
+2,00
+567 - sicoob coopjus
+14/10/2025
+2,00
+25179
+aluguel - laboratório
+recibo-8
+14/10/2025
+5.892,25
+346 - marcos henrique s. pimentel 
+14/10/2025
+5.892,25
+23702
+consumo enegia cs 01
+boleto-8
+14/10/2025
+340,00
+92 - enel
+13/10/2025
+340,00
+25161
+hospedagem ref. julho a setembro
+nf 2177
+14/10/2025
+3.800,00
+341 - waldorf 
+14/10/2025
+3.800,00
+23726
+consumo energia laboratório
+boleto-8
+14/10/2025
+3.823,34
+92 - enel
+13/10/2025
+3.823,34
+23754
+serviço telef. fixo e internet
+boleto-7
+15/10/2025
+253,93
+104 - vivo
+15/10/2025
+253,93
+23766
+serviço telef. fixo 2
+boleto-7
+15/10/2025
+31,46
+104 - vivo
+15/10/2025
+31,46
+23737
+prestação de serviços advocatícios
+nf 788
+15/10/2025
+280,00
+191 - saraiva e silva sociedade de advogado
+15/10/2025
+280,00
+23677
+vale refeceição - parc. 2/2
+ansf. bancária
+15/10/2025
+5.704,00
+144 - colaboradores
+15/10/2025
+5.704,00
+25180
+vale transporte - parc. 2/2
+pix
+15/10/2025
+3.299,60
+144 - colaboradores
+15/10/2025
+3.299,60
+25146
+material de uso e consumo laboratório 
+nf 3023 a
+16/10/2025
+1.069,25
+537 - fll comercio de produtos quimicos lt
+16/10/2025
+1.069,25
+25221
+juros saldo util.  per: 17/09 a 16/10
+débito c.c
+17/10/2025
+1.206,22
+393 - santander
+17/10/2025
+1.206,22
+25222
+juros saldo util. excesso per: 17/09 a 16/10
+débito c.c
+17/10/2025
+143,11
+393 - santander
+17/10/2025
+143,11
+25224
+multa moratória- atraso per: 17/09 a 16/10
+débito c.c
+17/10/2025
+214,15
+393 - santander
+17/10/2025
+214,15
+23874
+honor. ilat eireli - ozaki ref. mês setembro/
+boleto-7
+20/10/2025
+3.475,00
+356 - ozaki contabilidade 
+20/10/2025
+3.475,00
+23838
+fgts- folha mensal- ref. setembro 2025
+guia fgts-7
+20/10/2025
+4.380,09
+219 - gfip -sefip
+20/10/2025
+4.380,09
+04/11/2025 11:07:14
+hábil empresarial
+3 de 3
+para as contas a pagar que foram pagas parcialemente o valor original da conta aparecerá riscado. o valor que será levado em consideração será o valor em que a
+conta foi paga.
+koinonia software ltda - www.habil.com.br

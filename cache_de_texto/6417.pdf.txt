@@ -1,0 +1,626 @@
+movimentos de caixa e bancos
+empresa 1 - lattufe engenharia e meio ambiente eireli epp
+período 01/05/2025 a 31/05/2025
+data
+conta
+documento
+or
+operação
+complemento
+entrada
+saída
+02/05/2025 86484-6 sicoob - engenharia - 86484-6
+rec  / ante/
+lucro 04-25
+cp
+pagamento
+rogério de queiroz lattufe
+0,00
+12.500,00
+02/05/2025 86484-6 sicoob - engenharia - 86484-6
+cche / pro labore
+04-25
+cp
+pagamento
+rogério de queiroz lattufe
+0,00
+2.704,99
+02/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 6096 04/25
+cp
+pagamento
+oceq - organizaçoes contabeis edson
+queiroz ltda
+0,00
+1.518,00
+02/05/2025 86484-6 sicoob - engenharia - 86484-6
+cche / sal 04-25
+cp
+pagamento
+patricia vieira correa 06979641751
+0,00
+3.378,00
+05/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811430 04/25 cp
+recebimento
+csll / softplan planejamento e sistemas
+ltda
+18,42
+0,00
+05/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811430 04/25 cp
+recebimento
+pis / softplan planejamento e sistemas
+ltda
+11,97
+0,00
+05/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811430 04/25 cp
+recebimento
+cofins / softplan planejamento e
+sistemas ltda
+55,27
+0,00
+05/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811430 04/25 cp
+recebimento
+ir / softplan planejamento e sistemas
+ltda
+27,63
+0,00
+05/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811430 04/25 cp
+pagamento
+softplan planejamento e sistemas ltda
+0,00
+1.842,23
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+pix / 16.000,00
+bc
+transferência
+entre contas para pgto de empreiteiros pela caixa
+0,00
+16.000,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 3
+cp
+pagamento
+57.738.014 lucas robaina marques
+0,00
+437,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / xxxxx
+cp
+pagamento
+clóvis pereira da cruz 09949678706
+0,00
+1.778,50
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / xxxxx
+cp
+recebimento
+clóvis pereira da cruz 09949678706
+0,17
+0,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / xxxxx
+cp
+recebimento
+caucao / clóvis pereira da cruz 09949678706
+113,93
+0,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 2
+cp
+pagamento
+57.738.014 lucas robaina marques
+0,00
+2.500,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+bo   / seguro de
+obra ada n
+cp
+pagamento
+tokio marine brasil seguradora s.a.
+0,00
+266,16
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811431 04/25 cp
+pagamento
+softplan planejamento e sistemas ltda
+0,00
+248,70
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811431 04/25 cp
+recebimento
+pis / softplan planejamento e sistemas
+ltda
+1,62
+0,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811431 04/25 cp
+recebimento
+csll / softplan planejamento e sistemas
+ltda
+2,49
+0,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 811431 04/25 cp
+recebimento
+cofins / softplan planejamento e
+sistemas ltda
+7,46
+0,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 2
+cp
+pagamento
+57.738.014 lucas robaina marques
+0,00
+950,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 2
+cp
+recebimento
+57.738.014 lucas robaina marques
+0,50
+0,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 2
+cp
+recebimento
+caucao / 57.738.014 lucas robaina
+marques
+172,50
+0,00
+06/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / xxxxxx
+cp
+pagamento
+clóvis pereira da cruz 09949678706
+0,00
+558,60
+07/05/2025 86484-6 sicoob - engenharia - 86484-6
+pix / 15.000,00
+bc
+transferência
+destino: 6387-7 - caixa econômica - engenharia
+6387-7
+0,00
+15.000,00
+07/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 00043 04/
+2025
+cp
+pagamento
+gabriel andrade leandro 12013353707
+0,00
+3.250,00
+07/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 12 - 04/2025
+cp
+pagamento
+55069270 luana petrocchi busatto
+0,00
+3.800,00
+15/07/2025 - 11:22:02
+sienge / softplan
+1 de 5    
+movimentos de caixa e bancos
+empresa 1 - lattufe engenharia e meio ambiente eireli epp
+período 01/05/2025 a 31/05/2025
+data
+conta
+documento
+or
+operação
+complemento
+entrada
+saída
+07/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 221363 05-
+25
+cp
+pagamento
+advise produtos e servicos em
+tecnologia ltda
+0,00
+39,09
+07/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 04/2025
+cp
+pagamento
+58.558.979 dayana lima silva
+0,00
+1.000,00
+08/05/2025 86484-6 sicoob - engenharia - 86484-6
+pix / 25.000,00
+bc
+transferência
+destino: 83106-9 - sicoob - serviços 83106-9
+0,00
+25.000,00
+08/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 19
+cp
+recebimento
+caucao / thiago amorim dos santos
+16055313758
+11,50
+0,00
+08/05/2025 86484-6 sicoob - engenharia - 86484-6
+rec  / concil 01-25
+cp
+pagamento
+brunelly lemos rodrigues
+0,00
+400,00
+08/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 94
+cp
+pagamento
+elizeu ferreira dos santos 08560294759
+0,00
+1.069,50
+08/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 19
+cp
+pagamento
+thiago amorim dos santos 16055313758
+0,00
+230,00
+09/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 1093668 05/
+2025
+cp
+pagamento
+comprocard administradora de cartões ltda
+0,00
+750,00
+09/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 1093667 05/
+2025
+cp
+pagamento
+comprocard administradora de cartões ltda
+0,00
+3.170,00
+09/05/2025 86484-6 sicoob - engenharia - 86484-6
+fat  / 031.207.595
+04-25
+cp
+pagamento
+edp espirito santo distribuicao de
+energia s.a.
+0,00
+36,38
+09/05/2025 86484-6 sicoob - engenharia - 86484-6
+fat  / 031195991
+04-25
+cp
+pagamento
+edp espirito santo distribuicao de
+energia s.a.
+0,00
+36,38
+09/05/2025 86484-6 sicoob - engenharia - 86484-6
+bo   / seguro
+obra
+cp
+pagamento
+tokio marine brasil seguradora s.a.
+0,00
+480,41
+09/05/2025 86484-6 sicoob - engenharia - 86484-6
+fat  / 031.207.581
+04-25
+cp
+pagamento
+edp espirito santo distribuicao de
+energia s.a.
+0,00
+44,66
+09/05/2025 86484-6 sicoob - engenharia - 86484-6
+rec  / passagem
+ida inicial
+cp
+pagamento
+elisson de santana nascimento 02290080543
+0,00
+110,00
+09/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 1224 04-25
+cp
+pagamento
+zanetti sociedade individual de
+advocacia
+0,00
+4.714,56
+12/05/2025 86484-6 sicoob - engenharia - 86484-6
+pix / 10.000,00
+bc
+transferência
+pronampe
+0,00
+10.000,00
+12/05/2025 86484-6 sicoob - engenharia - 86484-6
+pix / 23.000,00
+bc
+transferência
+destino: 83106-9 - sicoob - serviços 83106-9
+0,00
+23.000,00
+12/05/2025 86484-6 sicoob - engenharia - 86484-6
+tb / 25,85
+bc
+pagamento
+débito pacote serviços
+0,00
+25,85
+12/05/2025 86484-6 sicoob - engenharia - 86484-6
+fat  / 25100685942
+ 04-25
+cp
+pagamento
+cgmp centro de gestao de meios de
+pagamento ltda
+0,00
+98,52
+12/05/2025 86484-6 sicoob - engenharia - 86484-6
+darm / iss 03-25
+cp
+pagamento
+prefeitura municipal de vitória
+0,00
+3.321,06
+12/05/2025 86484-6 sicoob - engenharia - 86484-6
+grcs / 04/2025
+cp
+pagamento
+sindicato dos trabalhadores da construção civil do
+estado do espírito santo
+0,00
+17,39
+12/05/2025 86484-6 sicoob - engenharia - 86484-6
+rec  / ante/
+lucro 04/25
+cp
+pagamento
+paola vieira correa lattufe
+0,00
+1.600,00
+13/05/2025 86484-6 sicoob - engenharia - 86484-6
+dua  / ipva 2025
+hb20
+cp
+pagamento
+departamento de transito do estado do espírito do
+santo
+0,00
+421,16
+13/05/2025 86484-6 sicoob - engenharia - 86484-6
+dua  / ipva 2025
+hb20
+cp
+pagamento
+departamento de transito do estado do espírito do
+santo
+0,00
+4,10
+13/05/2025 86484-6 sicoob - engenharia - 86484-6
+dua  / ipva 2025
+hb20
+cp
+pagamento
+departamento de transito do estado do espírito do
+santo
+0,00
+22,24
+15/07/2025 - 11:22:02
+sienge / softplan
+2 de 5    
+movimentos de caixa e bancos
+empresa 1 - lattufe engenharia e meio ambiente eireli epp
+período 01/05/2025 a 31/05/2025
+data
+conta
+documento
+or
+operação
+complemento
+entrada
+saída
+13/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 04/2025
+cp
+pagamento
+58.558.979 dayana lima silva
+0,00
+1.000,00
+13/05/2025 86484-6 sicoob - engenharia - 86484-6
+dua  / ipva 2025
+montana
+cp
+pagamento
+departamento de transito do estado do espírito do
+santo
+0,00
+220,58
+13/05/2025 86484-6 sicoob - engenharia - 86484-6
+dua  / ipva 2025
+montana
+cp
+pagamento
+departamento de transito do estado do espírito do
+santo
+0,00
+2,15
+13/05/2025 86484-6 sicoob - engenharia - 86484-6
+dua  / ipva 2025
+montana
+cp
+pagamento
+departamento de transito do estado do espírito do
+santo
+0,00
+11,65
+15/05/2025 86484-6 sicoob - engenharia - 86484-6
+ct   / acordo
+lattufe-saadi
+cp
+pagamento
+saadi advogados associados
+0,00
+6.354,26
+16/05/2025 86484-6 sicoob - engenharia - 86484-6
+pix / 2.200,00
+bc
+transferência
+pgto folha de adto 05 25
+0,00
+2.200,00
+16/05/2025 86484-6 sicoob - engenharia - 86484-6
+rec  / passagem
+05/2025
+cp
+pagamento
+elisson de santana nascimento 02290080543
+0,00
+290,00
+19/05/2025 86484-6 sicoob - engenharia - 86484-6
+rec  / adto 05-25 cp
+pagamento
+patricia vieira correa 06979641751
+0,00
+3.255,00
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+tb / 4,68
+bc
+pagamento
+tarifa cobrança
+0,00
+4,68
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 5444117 05/
+2025
+cp
+pagamento
+unimed vitória cooperativa de trabalho médico
+0,00
+1.217,89
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+darf / irrf 04/
+2025
+cp
+pagamento
+ministerio da economia
+0,00
+17,63
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 5443975 05/
+2025
+cp
+pagamento
+unimed vitória cooperativa de trabalho médico
+0,00
+733,67
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+gfip /
+0125050869282540-
+1
+cp
+pagamento
+caixa economica federal
+0,00
+660,27
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs / 1153
+cr
+recebimento
+condominio residencial village de l'ille
+10.244,85
+0,00
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs / 1153
+cr
+pagamento
+inss / condominio residencial village de
+l'ille
+0,00
+568,13
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs / 1152
+cr
+recebimento
+condominio residencial village de l'ille
+1.709,79
+0,00
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs / 1152
+cr
+pagamento
+inss / condominio residencial village de
+l'ille
+0,00
+43,89
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs / 1151
+cr
+recebimento
+condominio residencial village de l'ille
+2.584,88
+0,00
+20/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs / 1151
+cr
+pagamento
+inss / condominio residencial village de
+l'ille
+0,00
+41,80
+21/05/2025 86484-6 sicoob - engenharia - 86484-6
+tb / 2,48
+bc
+pagamento
+tarifa cobrança
+0,00
+2,48
+21/05/2025 86484-6 sicoob - engenharia - 86484-6
+rec  / sal 05/25
+cp
+pagamento
+patricia vieira correa 06979641751
+0,00
+2.500,00
+21/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs / 1154
+cr
+recebimento
+condominio do edificio ada negri
+58.571,68
+0,00
+21/05/2025 86484-6 sicoob - engenharia - 86484-6
+rec  / ante/
+lucro 04-25
+cp
+pagamento
+rogério de queiroz lattufe
+0,00
+5.000,00
+21/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs / 1154
+cr
+pagamento
+inss / condominio do edificio ada negri
+0,00
+3.252,88
+22/05/2025 86484-6 sicoob - engenharia - 86484-6
+nfs  / 05/2025
+cp
+pagamento
+57.738.014 lucas robaina marques
+0,00
+1.000,00
+15/07/2025 - 11:22:02
+sienge / softplan
+3 de 5    

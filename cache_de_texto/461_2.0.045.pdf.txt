@@ -1,0 +1,349 @@
+relatório de contas pagas
+modelo:
+data/hora:
+usuário:
+página:
+1
+22/06/2022 às 11:15:17
+alexandro
+1 de2
+cód: 0080
+nf/pc
+boleto
+emissão fornecedor
+vencim.
+valor
+vl pago
+acrésc. desconto
+pago em
+cheque p/
+histórico
+filial
+mov.
+dias
+10302-1/3
+04/04/2022 wbl distribuidora de auto
+02/05/2022
+489,95
+0,00
+0,00
+489,95
+02/05/2022
+pe?as para caminh?o
+agranel
+25851
+0
+11687-1/4
+04/04/2022 continente pecas diesel ltda
+02/05/2022
+1.025,75
+0,00
+0,00
+1.025,75
+02/05/2022
+pe?as para caminh?o
+agranel
+25611
+0
+25815-1/1
+02/05/2022 gertran consultoria ltda
+02/05/2022
+353,90
+0,00
+0,00
+353,90
+02/05/2022
+vl ref compra nf-e:50374
+agranel
+25815
+0
+29844-3/3
+07/02/2022 kgv comercio de pecas e
+02/05/2022
+1.153,34
+0,00
+0,00
+1.153,34
+02/05/2022
+pe?as para caminh?o
+agranel
+23854
+0
+total da data de pagamento 02/05/2022 :
+3.022,94
+0,00
+0,00
+3.022,94
+156401-2/3
+08/03/2022 perim comercio de auto
+03/05/2022
+550,57
+0,00
+0,00
+550,57
+03/05/2022
+pe?as para caminh?o
+agranel
+24963
+0
+25592-1/1
+27/04/2022 tokio marine seguradora s.a.
+03/05/2022
+1.487,59
+0,00
+0,00
+1.487,59
+03/05/2022
+tokio seguro de cargas a
+granel abril 2022
+agranel
+25592
+0
+38544-3/3
+08/02/2022 sobre rodas comercio e
+03/05/2022
+782,39
+0,00
+0,00
+782,39
+03/05/2022
+pe?as para caminh?o
+agranel
+23857
+0
+39042-2/2
+08/03/2022 sobre rodas comercio e
+03/05/2022
+443,60
+0,00
+0,00
+443,60
+03/05/2022
+pe?as para caminh?o
+agranel
+25011
+0
+total da data de pagamento 03/05/2022 :
+3.264,15
+0,00
+0,00
+3.264,15
+38621-3/3
+10/02/2022 sobre rodas comercio e
+05/05/2022
+1.215,10
+0,00
+0,00
+1.215,10
+05/05/2022
+pe?as para caminh?o
+agranel
+23858
+0
+38622-3/3
+10/02/2022 sobre rodas comercio e
+05/05/2022
+1.215,10
+0,00
+0,00
+1.215,10
+05/05/2022
+pe?as para caminh?o
+agranel
+23859
+0
+538-1/1
+29/04/2022 metodo assessoria contabil
+05/05/2022
+1.500,00
+0,00
+0,00
+1.500,00
+05/05/2022
+honorarios
+agranel
+25953
+0
+total da data de pagamento 05/05/2022 :
+3.930,20
+0,00
+0,00
+3.930,20
+3-1/1
+02/05/2022 juliana borges tabelini de
+06/05/2022
+3.500,00
+0,00
+0,00
+3.500,00
+06/05/2022
+servico de promocao de vendas
+agranel
+25906
+0
+3-1/1
+02/05/2022 patrick fernandes tuao
+06/05/2022
+3.500,00
+0,00
+0,00
+3.500,00
+06/05/2022
+servico de promocao de vendas
+agranel
+25907
+0
+4-1/1
+02/05/2022 gleyson atayde carlos
+06/05/2022
+3.500,00
+0,00
+0,00
+3.500,00
+06/05/2022
+servico de promocao de vendas
+agranel
+25908
+0
+total da data de pagamento 06/05/2022 :
+10.500,00
+0,00
+0,00
+10.500,00
+11356-2/2
+10/03/2022 continente pecas diesel ltda
+09/05/2022
+1.250,00
+0,00
+0,00
+1.250,00
+09/05/2022
+pe?as para caminh?o
+agranel
+25123
+0
+total da data de pagamento 09/05/2022 :
+1.250,00
+0,00
+0,00
+1.250,00
+10299-2/2
+15/03/2022 md pecas para trucks e
+10/05/2022
+300,00
+0,00
+0,00
+300,00
+10/05/2022
+pe?as para caminh?o
+agranel
+25131
+0
+39198-2/3
+15/03/2022 sobre rodas comercio e
+10/05/2022
+410,44
+0,00
+0,00
+410,44
+10/05/2022
+pe?as para caminh?o
+agranel
+25128
+0
+total da data de pagamento 10/05/2022 :
+710,44
+0,00
+0,00
+710,44
+18424-8/12
+20/09/2021 sicoob- coop de credito sul
+19/05/2022
+50,00
+0,00
+0,00
+50,00
+19/05/2022
+deb parcelas subs/interg a
+granel
+agranel
+18424
+0
+38890-3/3
+24/02/2022 sobre rodas comercio e
+19/05/2022
+4.786,13
+0,00
+0,00
+4.786,13
+19/05/2022
+pe?as para caminh?o
+agranel
+24654
+0
+38906-3/3
+24/02/2022 sobre rodas comercio e
+19/05/2022
+1.796,93
+0,00
+0,00
+1.796,93
+19/05/2022
+pe?as para caminh?o
+agranel
+24653
+0
+total da data de pagamento 19/05/2022 :
+6.633,06
+0,00
+0,00
+6.633,06
+156401-3/3
+08/03/2022 perim comercio de auto
+31/05/2022
+550,56
+0,00
+0,00
+550,56
+31/05/2022
+pe?as para caminh?o
+agranel
+24963
+0
+total da data de pagamento 31/05/2022 :
+550,56
+0,00
+0,00
+550,56
+gw sistemas (www.gwsistemas.com.br)
+licença liberada para evandro careta
+relatório de contas pagas
+modelo:
+data/hora:
+usuário:
+página:
+1
+22/06/2022 às 11:15:17
+alexandro
+2 de2
+cód: 0080
+totais gerais :
+29.861,35
+0,00
+0,00
+29.861,35
+21
+total de documentos:
+0,00%
+pagos em atraso:
+21
+21
+total qtd.:
+100%
+pagos em dia:
+0
+100,00%
+pagamento entre:01/05/2022 até 31/05/2022
+filtros utilizados:
+gw sistemas (www.gwsistemas.com.br)
+licença liberada para evandro careta

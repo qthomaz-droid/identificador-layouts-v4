@@ -1,0 +1,104 @@
+análise de contas pagas e a pagar
+impressão: 04/10/2025 09:23:29
+usuário: 1 - bruno
+unidade de negócio: cruz e pereira medicamentos ltda - me
+plano de contas: resultado > 03.1 - despesas operacionais > 001 - custos fixos > 1.01 - telefonia > 1.01.01 - fixa.
+credor
+data emissão
+data vencimento
+valor pago
+telefonica brasil s/a
+22/09/2025
+01/10/2025
+72,29
+plano de contas: resultado > 03.1 - despesas operacionais > 001 - custos fixos > 1.07 - despesas de viagem - pedagio
+sicoob tag
+01/10/2025
+01/10/2025
+40,20
+plano de contas: resultado > 03.1 - despesas operacionais > 002 - custos diretos > 2.02 - serviços de entrega
+entregas
+01/10/2025
+01/10/2025
+52,00
+plano de contas: resultado > 03.1 - despesas operacionais > 004 - administrativo > 4.01 - diretoria representação > 4.01.04 - pró-labore
+bruno cruz castoldo
+01/10/2025
+01/10/2025
+500,00
+plano de contas: resultado > 03.1 - despesas operacionais > 006 - custos variáveis > 6.13 software
+alpha 7 desenvolvimento de software
+24/09/2025
+01/10/2025
+666,82
+plano de contas: resultado > 03.1 - despesas operacionais > 006 - custos variáveis > 6.16-recargas celulares
+rv tecnologia
+01/10/2025
+01/10/2025
+143,60
+plano de contas: resultado > 03.1 - despesas operacionais > 007 - fornecedores > 7.01 - medicamentos/ perfumaria
+df comercio de produtos farmaceuticos eireli-me
+24/09/2025
+01/10/2025
+63,02
+distribuidora de medicamentos santa cruz ltda
+26/09/2025
+01/10/2025
+1.568,04
+drogacenter distribuidora ltda
+24/09/2025
+01/10/2025
+933,24
+maxifarma distribuidora de medicamentos ltda
+24/09/2025
+01/10/2025
+431,11
+milfarma comercial ltda me 08241229000200
+24/09/2025
+01/10/2025
+245,31
+panpharma distribuidora de medicamentos ltda
+21/07/2025
+01/10/2025
+41,18
+panpharma distribuidora de medicamentos ltda
+24/09/2025
+01/10/2025
+47,90
+profarma dist. prod. farmaceuticos
+24/09/2025
+01/10/2025
+713,81
+profarma dist. prod. farmaceuticos
+26/09/2025
+01/10/2025
+323,83
+qualynutri nutraceuticos ltda
+24/09/2025
+01/10/2025
+107,03
+servimed comercial ltda
+24/09/2025
+01/10/2025
+92,74
+solfarma comercio de produtos farmaceuticos s.a.
+24/09/2025
+01/10/2025
+160,15
+solfarma comercio de produtos farmaceuticos s.a.
+25/09/2025
+01/10/2025
+569,24
+solfarma comercio de produtos farmaceuticos s.a.
+26/09/2025
+01/10/2025
+324,12
+(soma)
+total
+5.620,72
+20 registro(s)
+total geral
+7.095,63
+a7 pharma versão 3.89.17.0
+alpha7 desenvolvimento de software - http://www.a7.net.br
+página 1 de 1

@@ -4,3 +4,17 @@ Timestamp,Utilizador,Ficheiro,Filtro Origem,Filtro Descrição,Filtro Tipo,Resul
 2026-02-13 07:16:52,admin,AGOSTO 2025 JOANA.pdf,c6,,Todos,5858,Média
 2026-02-13 07:19:06,admin,AGOSTO 2025 JOANA.pdf,C6,,Todos,5858,Média
 2026-02-13 07:29:13,admin,AGOSTO 2025 JOANA.pdf,,,Todos,6686,Média
+2026-02-27 17:28:27,admin,extjan2025.ofx,,,Todos,78,
+2026-02-27 17:29:08,admin,05.txt,,,Todos,5,
+2026-02-27 17:32:51,admin,05.txt,,,Todos,5,Alta
+2026-02-27 17:33:09,admin,09 - Facebook_2020-01-01--2020-01-31_BA0001.pdf,,,Todos,5019,Baixa
+2026-02-27 17:33:16,admin,09 - Facebook_2020-01-01--2020-01-31_BA0001.pdf,facebook,,Todos,5019,Baixa
+2026-02-27 17:33:21,admin,09 - Facebook_2020-01-01--2020-01-31_BA0001.pdf,facebook,,Todos,5019,Baixa
+2026-02-27 17:33:43,admin,09 - Facebook_2020-01-01--2020-01-31_BA0001.pdf,facebook,facebook,Todos,6446,Média
+2026-02-27 17:33:44,admin,09 - Facebook_2020-01-01--2020-01-31_BA0001.pdf,facebook,facebook,Todos,6446,Média
+2026-02-27 17:33:45,admin,09 - Facebook_2020-01-01--2020-01-31_BA0001.pdf,facebook,facebook,Todos,6446,Média
+2026-02-27 17:33:55,admin,06_extrato cef.txt,facebook,facebook,Todos,5580,Baixa
+2026-02-27 17:33:59,admin,06_extrato cef.txt,,,Todos,5580,Baixa
+2026-02-27 17:34:14,admin,06_extrato cef.txt,CEF,,Todos,5580,Baixa
+2026-02-27 17:34:32,admin,06_extrato cef.txt,CEF,txt,Todos,5633,Baixa
+2026-02-27 17:34:49,admin,6945 - RECEBIMENTOS.pdf,,,Todos,6945,Média

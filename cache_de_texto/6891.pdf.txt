@@ -1,0 +1,227 @@
+emissão: 17/12/2025
+página: 1
+1-9 - planner sociedade de crédito s.a.
+contas correntes - jr08sr0106a_00 (1)
+130-9 - planner sociedade de crédito
+horário: 11:14
+data 01/11/2025 a 30/11/2025
+extrato de conta corrente
+banco:
+410
+conta:
+44101-5 b100 controle e participacoes sa
+endereço:
+bairro:
+código iban:
+agência:
+1
+cpf/cnpj:
+34.999.925/0001-00
+produto:
+estado:
+1-9
+cidade:
+c. resp.:
+gerente:
+ datas
+data de entrada:
+06/09/2023
+dt. venc. chq. especial:
+dt. ultimo movto: 16/12/2025
+dt. encerramento:
+situação da conta:
+tipo de conta corrente:
+tipo de conta conjunta:
+possui remuneração:
+possui cheque sustado:
+normal
+unitária
+e
+não possui
+não
+o cliente tem isenção de tarifa:
+tem emissão de aviso:
+batch
+origem de alteração do cadastro:
+não
+não
+conta está em adp:
+não emite
+não
+tipo de cheque do produto - padrão cnab:
+documentos
+crédito
+saldo
+débito
+data
+histórico
+01/11/2025
+saldo anterior
+0,00d
+06/11/2025
+43487 transferencia b100
+20.000,00
+06/11/2025
+43492 ted bco 237 - planner contas a pagar
+10.000,00
+06/11/2025
+43493 ted bco 237 - planner contas a pagar
+10.000,00
+0,00d
+10/11/2025
+44453 transferencia de cli : 443466-8 para cli : 44101-5
+1.746.937,04
+10/11/2025
+44486 str0004 - ted bco 100 - b100
+1.746.937,04
+0,00d
+11/11/2025
+44662 transferencia de cli : 44101-5 para cli : 44506-1
+2.833,32
+11/11/2025
+44664 recebimento ted
+2.833,32
+0,00d
+12/11/2025
+44833 transferencia b100 controle
+361.955,92
+12/11/2025
+44834 ted tit dif - ted bco 33 machado pagamento de
+14.885,70
+12/11/2025
+44835 ted tit dif - ted bco 33 machado pagamento de
+14.832,20
+12/11/2025
+44836 ted tit dif - ted bco 33 machado pagamento de
+14.900,00
+12/11/2025
+44837 ted tit dif - ted bco 33 machado pagamento de
+14.575,10
+12/11/2025
+44838 ted tit dif - ted bco 33 machado pagamento de
+14.993,92
+12/11/2025
+44839 ted tit dif - ted bco 33 machado pagamento de
+14.004,22
+12/11/2025
+44840 ted tit dif - ted bco 33 machado pagamento de
+14.231,47
+12/11/2025
+44841 ted tit dif - ted bco 33 machado pagamento de
+14.118,03
+12/11/2025
+44842 ted tit dif - ted bco 33 machado pagamento de
+14.262,59
+12/11/2025
+44843 ted tit dif - ted bco 33 machado pagamento de
+14.830,34
+12/11/2025
+44844 ted tit dif - ted bco 33 machado pagamento de
+14.555,99
+12/11/2025
+44845 ted tit dif - ted bco 33 machado pagamento de
+14.862,78
+12/11/2025
+44846 ted tit dif - ted bco 33 machado pagamento de
+14.948,24
+12/11/2025
+44847 ted tit dif - ted bco 33 machado pagamento de
+14.469,86
+12/11/2025
+44848 ted tit dif - ted bco 33 machado pagamento de
+14.725,64
+12/11/2025
+44849 ted tit dif - ted bco 33 machado pagamento de
+14.659,22
+12/11/2025
+44850 ted tit dif - ted bco 33 machado pagamento de
+14.590,17
+12/11/2025
+44851 ted tit dif - ted bco 33 machado pagamento de
+14.270,63
+12/11/2025
+44852 ted tit dif - ted bco 33 machado pagamento de
+14.526,43
+12/11/2025
+44853 ted tit dif - ted bco 33 machado pagamento de
+14.608,82
+12/11/2025
+44854 ted tit dif - ted bco 33 machado pagamento de
+14.294,11
+12/11/2025
+44855 ted tit dif - ted bco 33 machado pagamento de
+14.107,71
+12/11/2025
+44856 ted tit dif - ted bco 33 machado pagamento de
+14.308,36
+12/11/2025
+44857 ted tit dif - ted bco 33 machado pagamento de
+14.988,78
+12/11/2025
+44858 ted tit dif - ted bco 33 machado pagamento de
+12.405,61
+0,00d
+17/11/2025
+45395 transferencia de cli : 44346-8 para cli : 44101-5
+1.092.604,24
+17/11/2025
+45399 pgto ecovis
+6.944,90
+17/11/2025
+45413 str4 ted bco 100
+1.085.659,34
+0,00d
+21/11/2025
+46481 transferencia de cli : 44346-8 para cli : 44101-5
+6.588,27
+21/11/2025
+46484 pgto auditoria
+6.588,27
+21/11/2025
+46484 estorno pgto auditoria
+6.588,27
+21/11/2025
+46583 ted b100
+6.588,27
+30/11/2025
+saldo atual
+0,00d
+contas correntes v. 25.1.03
+  planeray)
+emissão: 17/12/2025
+página: 2
+1-9 - planner sociedade de crédito s.a.
+contas correntes - jr08sr0106a_00 (1)
+130-9 - planner sociedade de crédito
+horário: 11:14
+data 01/11/2025 a 30/11/2025
+extrato de conta corrente
+0,00
+3.237.507,06
+0,00
+3.237.507,06
+saldo disponível:
+0,00
+0,00
+débito:
+saldo contábil:
+juros:
+ provisão
+ resumo de extrato
+iof:
+crédito:
+0,00
+limite:
+0,00
+créditos bloqueados:
+ observações
+0,00
+0,00
+juros provisionado:
+iof provisionado:
+saldo aplicado:
+0,00
+raspa conta inativo
+considera-se "saldo disponível", o limite mais a diferença entre saldo contábil e o saldo aplicado.
+contas correntes v. 25.1.03
+  planeray)

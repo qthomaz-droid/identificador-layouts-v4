@@ -1,0 +1,780 @@
+ofxheader:100
+data:ofxsgml
+version:102
+security:none
+encoding:usascii
+charset:1252
+compression:none
+oldfileuid:none
+newfileuid:none
+<ofx>
+<signonmsgsrsv1>
+ <sonrs>
+  <status>
+   <code>0</code>
+   <severity>info</severity>
+  </status>
+  <dtserver>20200408
+  <language>por
+  <dtacctup>20200408
+  <fi>
+   <org>banco do brasil s/a
+   <fid>001
+  </fi>
+ </sonrs>
+</signonmsgsrsv1>
+<bankmsgsrsv1>
+ <stmttrnrs>
+  <trnuid>0
+   <status>
+    <code>0
+    <severity>info
+   </status>
+   <stmtrs>
+    <curdef>brl
+	<bankacctfrom>
+	 <bankid>001
+	 <acctid>10981-9 
+	 <accttype>checking
+	</bankacctfrom>
+	<banktranlist>
+	 <dtstart>20191031 
+	 <dtend>20191130 
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191104 
+	  <trnamt>300.00 
+	  <fitid>20191104030000 
+	  <checknum>62713767 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191104 
+	  <trnamt>-300.00 
+	  <fitid>20191104130000 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>xfer 
+	  <dtposted>20191106 
+	  <trnamt>1320.00 
+	  <fitid>201911060132000 
+	  <checknum>00010952 
+	  <memo>transferncia recebida    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191106 
+	  <trnamt>-1320.00 
+	  <fitid>201911061132000 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191107 
+	  <trnamt>300.00 
+	  <fitid>20191107030000 
+	  <checknum>06300192 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191107 
+	  <trnamt>300.00 
+	  <fitid>2019110703000011 
+	  <checknum>06300196 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191107 
+	  <trnamt>-600.00 
+	  <fitid>20191107160000 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191108 
+	  <trnamt>300.00 
+	  <fitid>20191108030000 
+	  <checknum>57100098 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191108 
+	  <trnamt>-300.00 
+	  <fitid>20191108130000 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191111 
+	  <trnamt>300.00 
+	  <fitid>20191111030000 
+	  <checknum>62585348 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191111 
+	  <trnamt>300.00 
+	  <fitid>2019111103000011 
+	  <checknum>85300216 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191111 
+	  <trnamt>-600.00 
+	  <fitid>20191111160000 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>xfer 
+	  <dtposted>20191113 
+	  <trnamt>300.00 
+	  <fitid>20191113030000 
+	  <checknum>00007421 
+	  <memo>transferncia recebida    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191113 
+	  <trnamt>300.00 
+	  <fitid>2019111303000011 
+	  <checknum>85300044 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191113 
+	  <trnamt>-600.00 
+	  <fitid>20191113160000 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191118 
+	  <trnamt>300.00 
+	  <fitid>20191118030000 
+	  <checknum>53851900 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>xfer 
+	  <dtposted>20191118 
+	  <trnamt>3431.10 
+	  <fitid>201911180343110 
+	  <checknum>02815804 
+	  <memo>transferncia recebida    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191118 
+	  <trnamt>-3731.10 
+	  <fitid>201911181373110 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191119 
+	  <trnamt>300.00 
+	  <fitid>20191119030000 
+	  <checknum>85300186 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191119 
+	  <trnamt>300.00 
+	  <fitid>2019111903000011 
+	  <checknum>85300187 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191119 
+	  <trnamt>300.00 
+	  <fitid>2019111903000011 
+	  <checknum>85300188 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191119 
+	  <trnamt>300.00 
+	  <fitid>2019111903000011 
+	  <checknum>85300243 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191119 
+	  <trnamt>740.00 
+	  <fitid>20191119074000 
+	  <checknum>638236 
+	  <memo>ted-crdito em conta      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191119 
+	  <trnamt>-1940.00 
+	  <fitid>201911191194000 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191120 
+	  <trnamt>300.00 
+	  <fitid>20191120030000 
+	  <checknum>85300081 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191120 
+	  <trnamt>-70.50 
+	  <fitid>2019112017050 
+	  <checknum>00433265 
+	  <memo>tarifa pacote de servios 
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191120 
+	  <trnamt>-229.50 
+	  <fitid>20191120122950 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>20191121030000 
+	  <checknum>06981903 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>53850522 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300064 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300075 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300084 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300101 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300102 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300109 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300118 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300146 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300149 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>85300155 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>45910076 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>300.00 
+	  <fitid>2019112103000011 
+	  <checknum>45910079 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191121 
+	  <trnamt>4300.00 
+	  <fitid>201911210430000 
+	  <checknum>7621570 
+	  <memo>ted-crdito em conta      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>201911211645 
+	  <checknum>00034755 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034757 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034759 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034761 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034763 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034765 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034767 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034769 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034771 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-6.45 
+	  <fitid>20191121164511 
+	  <checknum>00034773 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191121 
+	  <trnamt>-8435.50 
+	  <fitid>201911211843550 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191122 
+	  <trnamt>300.00 
+	  <fitid>20191122030000 
+	  <checknum>53850332 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191122 
+	  <trnamt>300.00 
+	  <fitid>2019112203000011 
+	  <checknum>53850357 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191122 
+	  <trnamt>300.00 
+	  <fitid>2019112203000011 
+	  <checknum>53850407 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191122 
+	  <trnamt>300.00 
+	  <fitid>2019112203000011 
+	  <checknum>53850423 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191122 
+	  <trnamt>300.00 
+	  <fitid>2019112203000011 
+	  <checknum>85300106 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191122 
+	  <trnamt>300.00 
+	  <fitid>2019112203000011 
+	  <checknum>85300132 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191122 
+	  <trnamt>300.00 
+	  <fitid>2019112203000011 
+	  <checknum>85300168 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>xfer 
+	  <dtposted>20191122 
+	  <trnamt>300.00 
+	  <fitid>2019112203000011 
+	  <checknum>00013019 
+	  <memo>transferncia recebida    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191122 
+	  <trnamt>-6.45 
+	  <fitid>201911221645 
+	  <checknum>00284423 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191122 
+	  <trnamt>-6.45 
+	  <fitid>20191122164511 
+	  <checknum>00284425 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191122 
+	  <trnamt>-6.45 
+	  <fitid>20191122164511 
+	  <checknum>00284427 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191122 
+	  <trnamt>-2380.65 
+	  <fitid>201911221238065 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191126 
+	  <trnamt>300.00 
+	  <fitid>20191126030000 
+	  <checknum>85300068 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191126 
+	  <trnamt>300.00 
+	  <fitid>2019112603000011 
+	  <checknum>85300080 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191126 
+	  <trnamt>300.00 
+	  <fitid>2019112603000011 
+	  <checknum>85300212 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191126 
+	  <trnamt>300.00 
+	  <fitid>2019112603000011 
+	  <checknum>45910101 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>xfer 
+	  <dtposted>20191126 
+	  <trnamt>300.00 
+	  <fitid>2019112603000011 
+	  <checknum>00005391 
+	  <memo>transferncia recebida    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191126 
+	  <trnamt>-6.45 
+	  <fitid>201911261645 
+	  <checknum>00359504 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191126 
+	  <trnamt>-6.45 
+	  <fitid>20191126164511 
+	  <checknum>00359506 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191126 
+	  <trnamt>-6.45 
+	  <fitid>20191126164511 
+	  <checknum>00359508 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191126 
+	  <trnamt>-1480.65 
+	  <fitid>201911261148065 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191127 
+	  <trnamt>300.00 
+	  <fitid>20191127030000 
+	  <checknum>62586619 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191127 
+	  <trnamt>300.00 
+	  <fitid>2019112703000011 
+	  <checknum>85300141 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191127 
+	  <trnamt>-6.45 
+	  <fitid>201911271645 
+	  <checknum>00376630 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191127 
+	  <trnamt>-593.55 
+	  <fitid>20191127159355 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191128 
+	  <trnamt>300.00 
+	  <fitid>20191128030000 
+	  <checknum>38600305 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191128 
+	  <trnamt>300.00 
+	  <fitid>2019112803000011 
+	  <checknum>85300210 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191128 
+	  <trnamt>300.00 
+	  <fitid>2019112803000011 
+	  <checknum>45910146 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>xfer 
+	  <dtposted>20191128 
+	  <trnamt>300.00 
+	  <fitid>2019112803000011 
+	  <checknum>00071968 
+	  <memo>transferncia recebida    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191128 
+	  <trnamt>-6.45 
+	  <fitid>201911281645 
+	  <checknum>00408675 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191128 
+	  <trnamt>-1193.55 
+	  <fitid>201911281119355 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191129 
+	  <trnamt>300.00 
+	  <fitid>20191129030000 
+	  <checknum>62580620 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>xfer 
+	  <dtposted>20191129 
+	  <trnamt>300.00 
+	  <fitid>2019112903000011 
+	  <checknum>10071969 
+	  <memo>transferido da poupana   
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191129 
+	  <trnamt>300.00 
+	  <fitid>2019112903000011 
+	  <checknum>85300082 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191129 
+	  <trnamt>300.00 
+	  <fitid>2019112903000011 
+	  <checknum>29132824 
+	  <memo>depsito online taa       
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>dep 
+	  <dtposted>20191129 
+	  <trnamt>300.00 
+	  <fitid>2019112903000011 
+	  <checknum>45910117 
+	  <memo>depsito online           
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191129 
+	  <trnamt>-6.45 
+	  <fitid>201911291645 
+	  <checknum>00074946 
+	  <memo>tar deps proces-caixa    
+	 </stmttrn>
+	 <stmttrn>
+	  <trntype>debit 
+	  <dtposted>20191129 
+	  <trnamt>-1493.55 
+	  <fitid>201911291149355 
+	  <checknum>5 
+	  <memo>bb rf cp aut empresa      
+	 </stmttrn>
+	</banktranlist>
+    <ledgerbal>
+	 <balamt>0.00
+	 <dtasof>20200408
+    </ledgerbal>
+    <mktginfo>banco do brasil, esse parceiro  todo seu.
+   </stmtrs>
+  </stmttrnrs>
+</bankmsgsrsv1>
+</ofx>

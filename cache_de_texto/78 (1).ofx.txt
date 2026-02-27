@@ -1,0 +1,1689 @@
+ofxheader:100
+data:ofxsgml
+version:102
+security:none
+encoding:usascii
+charset:1252
+compression:none
+oldfileuid:none
+newfileuid:none
+
+<ofx>
+<signonmsgsrsv1>
+<sonrs>
+<status>
+<code>0
+<severity>info
+</status>
+<dtserver>20200222100000[-03:est]
+<language>por
+</sonrs>
+</signonmsgsrsv1>
+<bankmsgsrsv1>
+<stmttrnrs>
+<trnuid>1001
+<status>
+<code>0
+<severity>info
+</status>
+<stmtrs>
+<curdef>brl
+<bankacctfrom>
+<bankid>0341
+<acctid>3109214522
+<accttype>checking
+</bankacctfrom>
+<banktranlist>
+<dtstart>20200102100000[-03:est]
+<dtend>20200131100000[-03:est]
+
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-815.99
+<fitid>20200102001
+<checknum>20200102001
+<memo>cxe pag tit 112654648594
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-259.29
+<fitid>20200102002
+<checknum>20200102002
+<memo>cxe pag tit 112665355189
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-1004.32
+<fitid>20200102003
+<checknum>20200102003
+<memo>cxe pag tit 115300617161
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-1085.12
+<fitid>20200102004
+<checknum>20200102004
+<memo>cxe pag tit 115300905663
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-166.78
+<fitid>20200102005
+<checknum>20200102005
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-1120.02
+<fitid>20200102006
+<checknum>20200102006
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-334.78
+<fitid>20200102007
+<checknum>20200102007
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-567.50
+<fitid>20200102008
+<checknum>20200102008
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-1717.50
+<fitid>20200102009
+<checknum>20200102009
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-403.96
+<fitid>20200102010
+<checknum>20200102010
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200102100000[-03:est]
+<trnamt>-181.59
+<fitid>20200102011
+<checknum>20200102011
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200102100000[-03:est]
+<trnamt>10492.51
+<fitid>20200102012
+<checknum>20200102012
+<memo>sispag  gr serv alim ltd
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200102100000[-03:est]
+<trnamt>598.91
+<fitid>20200102013
+<checknum>20200102013
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200102100000[-03:est]
+<trnamt>396.71
+<fitid>20200102014
+<checknum>20200102014
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200102100000[-03:est]
+<trnamt>318.71
+<fitid>20200102015
+<checknum>20200102015
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200102100000[-03:est]
+<trnamt>138.12
+<fitid>20200102016
+<checknum>20200102016
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200102100000[-03:est]
+<trnamt>225.63
+<fitid>20200102017
+<checknum>20200102017
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200103100000[-03:est]
+<trnamt>999.90
+<fitid>20200103001
+<checknum>20200103001
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200103100000[-03:est]
+<trnamt>52.68
+<fitid>20200103002
+<checknum>20200103002
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200103100000[-03:est]
+<trnamt>-60.75
+<fitid>20200103003
+<checknum>20200103003
+<memo>tar conta certa    12/19
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200103100000[-03:est]
+<trnamt>-1.26
+<fitid>20200103004
+<checknum>20200103004
+<memo>tar cta certa exced12/19
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200106100000[-03:est]
+<trnamt>-1251.31
+<fitid>20200106001
+<checknum>20200106001
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200106100000[-03:est]
+<trnamt>-64.98
+<fitid>20200106002
+<checknum>20200106002
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200106100000[-03:est]
+<trnamt>-399.77
+<fitid>20200106003
+<checknum>20200106003
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200106100000[-03:est]
+<trnamt>-1733.09
+<fitid>20200106004
+<checknum>20200106004
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200106100000[-03:est]
+<trnamt>-664.85
+<fitid>20200106005
+<checknum>20200106005
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200106100000[-03:est]
+<trnamt>-139.26
+<fitid>20200106006
+<checknum>20200106006
+<memo>cxe cemig distribuica 00
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200106100000[-03:est]
+<trnamt>-119.98
+<fitid>20200106007
+<checknum>20200106007
+<memo>dec vivo fixo nac 13 899
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200106100000[-03:est]
+<trnamt>442.05
+<fitid>20200106008
+<checknum>20200106008
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200106100000[-03:est]
+<trnamt>1029.15
+<fitid>20200106009
+<checknum>20200106009
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200106100000[-03:est]
+<trnamt>458.35
+<fitid>20200106010
+<checknum>20200106010
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200106100000[-03:est]
+<trnamt>0.67
+<fitid>20200106011
+<checknum>20200106011
+<memo>rend pago aplic aut mais
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200107100000[-03:est]
+<trnamt>-1915.64
+<fitid>20200107001
+<checknum>20200107001
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200107100000[-03:est]
+<trnamt>-873.02
+<fitid>20200107002
+<checknum>20200107002
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200107100000[-03:est]
+<trnamt>-556.44
+<fitid>20200107003
+<checknum>20200107003
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200107100000[-03:est]
+<trnamt>-831.99
+<fitid>20200107004
+<checknum>20200107004
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200107100000[-03:est]
+<trnamt>37.07
+<fitid>20200107005
+<checknum>20200107005
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200107100000[-03:est]
+<trnamt>717.47
+<fitid>20200107006
+<checknum>20200107006
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200107100000[-03:est]
+<trnamt>301.55
+<fitid>20200107007
+<checknum>20200107007
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200107100000[-03:est]
+<trnamt>336.14
+<fitid>20200107008
+<checknum>20200107008
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200107100000[-03:est]
+<trnamt>387.89
+<fitid>20200107009
+<checknum>20200107009
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200107100000[-03:est]
+<trnamt>554.48
+<fitid>20200107010
+<checknum>20200107010
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200107100000[-03:est]
+<trnamt>0.24
+<fitid>20200107011
+<checknum>20200107011
+<memo>rend pago aplic aut mais
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-98.40
+<fitid>20200108001
+<checknum>20200108001
+<memo>cxe pag tit 109008090931
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-500.00
+<fitid>20200108002
+<checknum>20200108002
+<memo>ag. saque 000208.001065
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-1084.59
+<fitid>20200108003
+<checknum>20200108003
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-334.80
+<fitid>20200108004
+<checknum>20200108004
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-403.97
+<fitid>20200108005
+<checknum>20200108005
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-65.49
+<fitid>20200108006
+<checknum>20200108006
+<memo>cxe copasa 0120019826517
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-270.32
+<fitid>20200108007
+<checknum>20200108007
+<memo>dec cemig distribuica 00
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-48.18
+<fitid>20200108008
+<checknum>20200108008
+<memo>dec copasa 0120015415571
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200108100000[-03:est]
+<trnamt>-3146.55
+<fitid>20200108009
+<checknum>20200108009
+<memo>pagto contas com cartao
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200108100000[-03:est]
+<trnamt>327.36
+<fitid>20200108010
+<checknum>20200108010
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200108100000[-03:est]
+<trnamt>815.33
+<fitid>20200108011
+<checknum>20200108011
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200108100000[-03:est]
+<trnamt>338.14
+<fitid>20200108012
+<checknum>20200108012
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200108100000[-03:est]
+<trnamt>8.98
+<fitid>20200108013
+<checknum>20200108013
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200108100000[-03:est]
+<trnamt>399.22
+<fitid>20200108014
+<checknum>20200108014
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200108100000[-03:est]
+<trnamt>0.23
+<fitid>20200108015
+<checknum>20200108015
+<memo>rend pago aplic aut mais
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200109100000[-03:est]
+<trnamt>287.90
+<fitid>20200109001
+<checknum>20200109001
+<memo>cxe     003322 dep chq
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200109100000[-03:est]
+<trnamt>32.23
+<fitid>20200109002
+<checknum>20200109002
+<memo>rede   caba db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200109100000[-03:est]
+<trnamt>572.38
+<fitid>20200109003
+<checknum>20200109003
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200109100000[-03:est]
+<trnamt>433.94
+<fitid>20200109004
+<checknum>20200109004
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200109100000[-03:est]
+<trnamt>290.68
+<fitid>20200109005
+<checknum>20200109005
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200109100000[-03:est]
+<trnamt>34.43
+<fitid>20200109006
+<checknum>20200109006
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200109100000[-03:est]
+<trnamt>467.75
+<fitid>20200109007
+<checknum>20200109007
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200110100000[-03:est]
+<trnamt>-116.48
+<fitid>20200110001
+<checknum>20200110001
+<memo>cxe pag tit 157509302932
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200110100000[-03:est]
+<trnamt>-24.65
+<fitid>20200110002
+<checknum>20200110002
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200110100000[-03:est]
+<trnamt>-210.00
+<fitid>20200110003
+<checknum>20200110003
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200110100000[-03:est]
+<trnamt>-608.03
+<fitid>20200110004
+<checknum>20200110004
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200110100000[-03:est]
+<trnamt>-937.61
+<fitid>20200110005
+<checknum>20200110005
+<memo>cxe  pag tit banco 422
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200110100000[-03:est]
+<trnamt>135.40
+<fitid>20200110006
+<checknum>20200110006
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200110100000[-03:est]
+<trnamt>891.76
+<fitid>20200110007
+<checknum>20200110007
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200110100000[-03:est]
+<trnamt>169.95
+<fitid>20200110008
+<checknum>20200110008
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200110100000[-03:est]
+<trnamt>228.48
+<fitid>20200110009
+<checknum>20200110009
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200110100000[-03:est]
+<trnamt>322.18
+<fitid>20200110010
+<checknum>20200110010
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200110100000[-03:est]
+<trnamt>178.89
+<fitid>20200110011
+<checknum>20200110011
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200110100000[-03:est]
+<trnamt>-136.83
+<fitid>20200110012
+<checknum>20200110012
+<memo>cap     uniclass   25/48
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200113100000[-03:est]
+<trnamt>-779.23
+<fitid>20200113001
+<checknum>20200113001
+<memo>cxe pag tit 112613280372
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200113100000[-03:est]
+<trnamt>-1979.63
+<fitid>20200113002
+<checknum>20200113002
+<memo>cxe pag tit 112624308881
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200113100000[-03:est]
+<trnamt>-752.25
+<fitid>20200113003
+<checknum>20200113003
+<memo>cxe pag tit 112688306664
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200113100000[-03:est]
+<trnamt>-1754.40
+<fitid>20200113004
+<checknum>20200113004
+<memo>cxe  pag tit banco 104
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200113100000[-03:est]
+<trnamt>-2066.71
+<fitid>20200113005
+<checknum>20200113005
+<memo>cxe  pag tit banco 756
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200113100000[-03:est]
+<trnamt>252.00
+<fitid>20200113006
+<checknum>20200113006
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200113100000[-03:est]
+<trnamt>865.04
+<fitid>20200113007
+<checknum>20200113007
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200113100000[-03:est]
+<trnamt>783.94
+<fitid>20200113008
+<checknum>20200113008
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200113100000[-03:est]
+<trnamt>202.58
+<fitid>20200113009
+<checknum>20200113009
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200113100000[-03:est]
+<trnamt>82.80
+<fitid>20200113010
+<checknum>20200113010
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200113100000[-03:est]
+<trnamt>92978.53
+<fitid>20200113011
+<checknum>20200113011
+<memo>vencimento compromissada
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200114100000[-03:est]
+<trnamt>155.87
+<fitid>20200114001
+<checknum>20200114001
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200114100000[-03:est]
+<trnamt>726.60
+<fitid>20200114002
+<checknum>20200114002
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200114100000[-03:est]
+<trnamt>383.20
+<fitid>20200114003
+<checknum>20200114003
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200114100000[-03:est]
+<trnamt>292.41
+<fitid>20200114004
+<checknum>20200114004
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200114100000[-03:est]
+<trnamt>678.88
+<fitid>20200114005
+<checknum>20200114005
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200114100000[-03:est]
+<trnamt>764.84
+<fitid>20200114006
+<checknum>20200114006
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200115100000[-03:est]
+<trnamt>-232.12
+<fitid>20200115001
+<checknum>20200115001
+<memo>cxe pag tit 112542647501
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200115100000[-03:est]
+<trnamt>-823.05
+<fitid>20200115002
+<checknum>20200115002
+<memo>cxe pag tit 112542687507
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200115100000[-03:est]
+<trnamt>-815.99
+<fitid>20200115003
+<checknum>20200115003
+<memo>cxe pag tit 112654648602
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200115100000[-03:est]
+<trnamt>-1872.51
+<fitid>20200115004
+<checknum>20200115004
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200115100000[-03:est]
+<trnamt>907.20
+<fitid>20200115005
+<checknum>20200115005
+<memo>ted 745.0009celulose n b
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200115100000[-03:est]
+<trnamt>177.18
+<fitid>20200115006
+<checknum>20200115006
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200115100000[-03:est]
+<trnamt>767.98
+<fitid>20200115007
+<checknum>20200115007
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200115100000[-03:est]
+<trnamt>299.52
+<fitid>20200115008
+<checknum>20200115008
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200115100000[-03:est]
+<trnamt>227.59
+<fitid>20200115009
+<checknum>20200115009
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200115100000[-03:est]
+<trnamt>175.40
+<fitid>20200115010
+<checknum>20200115010
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200115100000[-03:est]
+<trnamt>627.21
+<fitid>20200115011
+<checknum>20200115011
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200115100000[-03:est]
+<trnamt>0.18
+<fitid>20200115012
+<checknum>20200115012
+<memo>rend pago aplic aut mais
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200116100000[-03:est]
+<trnamt>-223.57
+<fitid>20200116001
+<checknum>20200116001
+<memo>tef 1601.00065-4 001065
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200116100000[-03:est]
+<trnamt>-964.70
+<fitid>20200116002
+<checknum>20200116002
+<memo>tef 1601.36035-5 001065
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200116100000[-03:est]
+<trnamt>-368.89
+<fitid>20200116003
+<checknum>20200116003
+<memo>cei     003323 est
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200116100000[-03:est]
+<trnamt>369.00
+<fitid>20200116004
+<checknum>20200116004
+<memo>cei     003323 dinheiro
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200116100000[-03:est]
+<trnamt>368.89
+<fitid>20200116005
+<checknum>20200116005
+<memo>cxe     003323 deposito
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200116100000[-03:est]
+<trnamt>244.85
+<fitid>20200116006
+<checknum>20200116006
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200116100000[-03:est]
+<trnamt>293.96
+<fitid>20200116007
+<checknum>20200116007
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200116100000[-03:est]
+<trnamt>312.92
+<fitid>20200116008
+<checknum>20200116008
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200116100000[-03:est]
+<trnamt>22.96
+<fitid>20200116009
+<checknum>20200116009
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200116100000[-03:est]
+<trnamt>919.13
+<fitid>20200116010
+<checknum>20200116010
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200116100000[-03:est]
+<trnamt>123.31
+<fitid>20200116011
+<checknum>20200116011
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200117100000[-03:est]
+<trnamt>201.05
+<fitid>20200117001
+<checknum>20200117001
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200117100000[-03:est]
+<trnamt>373.58
+<fitid>20200117002
+<checknum>20200117002
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200117100000[-03:est]
+<trnamt>107.27
+<fitid>20200117003
+<checknum>20200117003
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200117100000[-03:est]
+<trnamt>43.75
+<fitid>20200117004
+<checknum>20200117004
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200117100000[-03:est]
+<trnamt>139.11
+<fitid>20200117005
+<checknum>20200117005
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200120100000[-03:est]
+<trnamt>-1011.81
+<fitid>20200120001
+<checknum>20200120001
+<memo>cxe pag tit 109000229408
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200120100000[-03:est]
+<trnamt>-88.08
+<fitid>20200120002
+<checknum>20200120002
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200120100000[-03:est]
+<trnamt>-1717.50
+<fitid>20200120003
+<checknum>20200120003
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200120100000[-03:est]
+<trnamt>-1011.81
+<fitid>20200120004
+<checknum>20200120004
+<memo>cxe  pag tit banco 748
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200120100000[-03:est]
+<trnamt>-1888.55
+<fitid>20200120005
+<checknum>20200120005
+<memo>cxe  pag tit banco 756
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200120100000[-03:est]
+<trnamt>-7168.35
+<fitid>20200120006
+<checknum>20200120006
+<memo>cxe simples naciona 0720
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200120100000[-03:est]
+<trnamt>249.54
+<fitid>20200120007
+<checknum>20200120007
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200120100000[-03:est]
+<trnamt>984.18
+<fitid>20200120008
+<checknum>20200120008
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200120100000[-03:est]
+<trnamt>367.43
+<fitid>20200120009
+<checknum>20200120009
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200120100000[-03:est]
+<trnamt>489.88
+<fitid>20200120010
+<checknum>20200120010
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200120100000[-03:est]
+<trnamt>250.94
+<fitid>20200120011
+<checknum>20200120011
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200120100000[-03:est]
+<trnamt>3.27
+<fitid>20200120012
+<checknum>20200120012
+<memo>rend pago aplic aut mais
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200121100000[-03:est]
+<trnamt>776.08
+<fitid>20200121001
+<checknum>20200121001
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200121100000[-03:est]
+<trnamt>395.28
+<fitid>20200121002
+<checknum>20200121002
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200121100000[-03:est]
+<trnamt>128.53
+<fitid>20200121003
+<checknum>20200121003
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200121100000[-03:est]
+<trnamt>11.18
+<fitid>20200121004
+<checknum>20200121004
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200121100000[-03:est]
+<trnamt>394.98
+<fitid>20200121005
+<checknum>20200121005
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200122100000[-03:est]
+<trnamt>-93000.00
+<fitid>20200122001
+<checknum>20200122001
+<memo>bkf aplicacao master di
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200122100000[-03:est]
+<trnamt>42.51
+<fitid>20200122002
+<checknum>20200122002
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200122100000[-03:est]
+<trnamt>571.72
+<fitid>20200122003
+<checknum>20200122003
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200122100000[-03:est]
+<trnamt>290.47
+<fitid>20200122004
+<checknum>20200122004
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200122100000[-03:est]
+<trnamt>109.31
+<fitid>20200122005
+<checknum>20200122005
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200122100000[-03:est]
+<trnamt>496.92
+<fitid>20200122006
+<checknum>20200122006
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200122100000[-03:est]
+<trnamt>341.24
+<fitid>20200122007
+<checknum>20200122007
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200122100000[-03:est]
+<trnamt>1.39
+<fitid>20200122008
+<checknum>20200122008
+<memo>rend pago aplic aut mais
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200123100000[-03:est]
+<trnamt>-804.37
+<fitid>20200123001
+<checknum>20200123001
+<memo>tef 1601.36035-5 001065
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200123100000[-03:est]
+<trnamt>132.29
+<fitid>20200123002
+<checknum>20200123002
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200123100000[-03:est]
+<trnamt>358.37
+<fitid>20200123003
+<checknum>20200123003
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200123100000[-03:est]
+<trnamt>264.19
+<fitid>20200123004
+<checknum>20200123004
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200123100000[-03:est]
+<trnamt>95.23
+<fitid>20200123005
+<checknum>20200123005
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200123100000[-03:est]
+<trnamt>197.32
+<fitid>20200123006
+<checknum>20200123006
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200123100000[-03:est]
+<trnamt>178.59
+<fitid>20200123007
+<checknum>20200123007
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200124100000[-03:est]
+<trnamt>784.52
+<fitid>20200124001
+<checknum>20200124001
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200124100000[-03:est]
+<trnamt>349.06
+<fitid>20200124002
+<checknum>20200124002
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200124100000[-03:est]
+<trnamt>245.05
+<fitid>20200124003
+<checknum>20200124003
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200124100000[-03:est]
+<trnamt>150.49
+<fitid>20200124004
+<checknum>20200124004
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200127100000[-03:est]
+<trnamt>-1842.14
+<fitid>20200127001
+<checknum>20200127001
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200127100000[-03:est]
+<trnamt>-1125.36
+<fitid>20200127002
+<checknum>20200127002
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200127100000[-03:est]
+<trnamt>-1002.15
+<fitid>20200127003
+<checknum>20200127003
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200127100000[-03:est]
+<trnamt>-52.94
+<fitid>20200127004
+<checknum>20200127004
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200127100000[-03:est]
+<trnamt>-68.59
+<fitid>20200127005
+<checknum>20200127005
+<memo>dec telemar r 38229051
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200127100000[-03:est]
+<trnamt>-250.00
+<fitid>001624
+<checknum>001624
+<memo>ch compensado 001 001624
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200127100000[-03:est]
+<trnamt>296.70
+<fitid>20200127006
+<checknum>20200127006
+<memo>ted 745.0009celulose n b
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200127100000[-03:est]
+<trnamt>132.49
+<fitid>20200127007
+<checknum>20200127007
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200127100000[-03:est]
+<trnamt>768.07
+<fitid>20200127008
+<checknum>20200127008
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200127100000[-03:est]
+<trnamt>576.17
+<fitid>20200127009
+<checknum>20200127009
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200127100000[-03:est]
+<trnamt>1708.61
+<fitid>20200127010
+<checknum>20200127010
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200127100000[-03:est]
+<trnamt>232.21
+<fitid>20200127011
+<checknum>20200127011
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200127100000[-03:est]
+<trnamt>0.01
+<fitid>20200127012
+<checknum>20200127012
+<memo>rend pago aplic aut mais
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200128100000[-03:est]
+<trnamt>239.37
+<fitid>20200128001
+<checknum>20200128001
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200128100000[-03:est]
+<trnamt>326.91
+<fitid>20200128002
+<checknum>20200128002
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200128100000[-03:est]
+<trnamt>572.69
+<fitid>20200128003
+<checknum>20200128003
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200128100000[-03:est]
+<trnamt>173.39
+<fitid>20200128004
+<checknum>20200128004
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200128100000[-03:est]
+<trnamt>1787.46
+<fitid>20200128005
+<checknum>20200128005
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200128100000[-03:est]
+<trnamt>249.68
+<fitid>20200128006
+<checknum>20200128006
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200129100000[-03:est]
+<trnamt>51.21
+<fitid>20200129001
+<checknum>20200129001
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200129100000[-03:est]
+<trnamt>828.29
+<fitid>20200129002
+<checknum>20200129002
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200129100000[-03:est]
+<trnamt>419.21
+<fitid>20200129003
+<checknum>20200129003
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200129100000[-03:est]
+<trnamt>481.78
+<fitid>20200129004
+<checknum>20200129004
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200129100000[-03:est]
+<trnamt>315.50
+<fitid>20200129005
+<checknum>20200129005
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200130100000[-03:est]
+<trnamt>-123.00
+<fitid>20200130001
+<checknum>20200130001
+<memo>cxe pag tit 109008132931
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200130100000[-03:est]
+<trnamt>-84.86
+<fitid>20200130002
+<checknum>20200130002
+<memo>cxe telemar o 357087891
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200130100000[-03:est]
+<trnamt>324.93
+<fitid>20200130003
+<checknum>20200130003
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200130100000[-03:est]
+<trnamt>291.57
+<fitid>20200130004
+<checknum>20200130004
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200130100000[-03:est]
+<trnamt>491.36
+<fitid>20200130005
+<checknum>20200130005
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200130100000[-03:est]
+<trnamt>45.91
+<fitid>20200130006
+<checknum>20200130006
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200130100000[-03:est]
+<trnamt>142.24
+<fitid>20200130007
+<checknum>20200130007
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200130100000[-03:est]
+<trnamt>372.75
+<fitid>20200130008
+<checknum>20200130008
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200131100000[-03:est]
+<trnamt>-945.68
+<fitid>20200131001
+<checknum>20200131001
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200131100000[-03:est]
+<trnamt>-502.82
+<fitid>20200131002
+<checknum>20200131002
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200131100000[-03:est]
+<trnamt>-64.98
+<fitid>20200131003
+<checknum>20200131003
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200131100000[-03:est]
+<trnamt>-399.77
+<fitid>20200131004
+<checknum>20200131004
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200131100000[-03:est]
+<trnamt>-151.62
+<fitid>20200131005
+<checknum>20200131005
+<memo>cxe  pag tit banco 001
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200131100000[-03:est]
+<trnamt>-238.00
+<fitid>20200131006
+<checknum>20200131006
+<memo>cxe  pag tit banco 033
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200131100000[-03:est]
+<trnamt>-664.86
+<fitid>20200131007
+<checknum>20200131007
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20200131100000[-03:est]
+<trnamt>-500.00
+<fitid>20200131008
+<checknum>20200131008
+<memo>cxe  pag tit banco 237
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200131100000[-03:est]
+<trnamt>626.84
+<fitid>20200131009
+<checknum>20200131009
+<memo>rede   elo  db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200131100000[-03:est]
+<trnamt>434.96
+<fitid>20200131010
+<checknum>20200131010
+<memo>rede   mast db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200131100000[-03:est]
+<trnamt>362.18
+<fitid>20200131011
+<checknum>20200131011
+<memo>rede   visa db016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200131100000[-03:est]
+<trnamt>27.47
+<fitid>20200131012
+<checknum>20200131012
+<memo>rede  el  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200131100000[-03:est]
+<trnamt>185.80
+<fitid>20200131013
+<checknum>20200131013
+<memo>rede  mc  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200131100000[-03:est]
+<trnamt>137.05
+<fitid>20200131014
+<checknum>20200131014
+<memo>rede  vs  016790294
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20200131100000[-03:est]
+<trnamt>0.03
+<fitid>20200131015
+<checknum>20200131015
+<memo>rend pago aplic aut mais
+</stmttrn>
+
+</banktranlist>
+<ledgerbal>
+<balamt>33266.60
+<dtasof>20200222100000[-03:est]
+</ledgerbal>
+</stmtrs>
+</stmttrnrs>
+</bankmsgsrsv1>
+</ofx>

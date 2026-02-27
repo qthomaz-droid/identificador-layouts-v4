@@ -1,0 +1,641 @@
+|0000|10287328000194|
+|6000|d||||
+|6100|18/01/2022|8||601,97||transferncia recebida - 18/01 0273     100460-3 ciensp andradi||||
+|6100|18/01/2022||10000|548,48|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2725 - rps:2758 / nfs-e:8434||||
+|6100|18/01/2022||10000|33,35|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2725 - rps:2758 / nfs-e:8434||||
+|6100|18/01/2022||10000|7,63|132|nf 8434 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2725 - rps:2758 / nfs-e:8434 - 1/1||||
+|6100|18/01/2022||10000|12,51|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2725 - rps:2758 / nfs-e:8434||||
+|6000|d||||
+|6100|14/01/2022|8||820,00||depsito online taa - 14/01 14:20 saa-guaracai||||
+|6100|14/01/2022||10000|208,43|132|julia dias neves - venda 2735 - rps:2768 / nfs-e:8443||||
+|6100|14/01/2022||10000|104,21|132|nf 8443 - julia dias neves - venda 2735 - rps:2768 / nfs-e:8443 - 1/1||||
+|6100|14/01/2022||10000|437,36|132|julia dias neves - venda 2735 - rps:2768 / nfs-e:8443||||
+|6100|14/01/2022||10000|26,63|132|nf 8441 - alcida ribeiro goncalves - venda 2733 - rps:2766 / nfs-e:8441 - 1/1||||
+|6100|14/01/2022||10000|43,37|132|alcida ribeiro goncalves - venda 2733 - rps:2766 / nfs-e:8441||||
+|6000|d||||
+|6100|04/01/2022|8||2766,02||transferncia recebida - 04/01 0273     130459-3 ciensp mirando||||
+|6100|04/01/2022||10000|150,00|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2694 - rps:2727 / nfs-e:8402||||
+|6100|04/01/2022||10000|571,00|132|nf 8402 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2694 - rps:2727 / nfs-e:8402 - 1/1||||
+|6100|04/01/2022||10000|2045,02|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2694 - rps:2727 / nfs-e:8402||||
+|6000|c||||
+|6100|17/01/2022||561|9671,34||liquidacao de parcela ||||
+|6100|17/01/2022|375||6338,01|98|c 105222395 - liquidacao de parcela ||||
+|6100|17/01/2022|152||3333,33|167|c 105222395 - emprestimo sicredi - pronampe - 1/45||||
+|6000|c||||
+|6100|06/01/2022||8|6699,00||ted transf.eletr.disponiv - 033 0477 012910981000193 caetano asses||||
+|6100|06/01/2022|10477||415,00|106|caetano assessoria contabil ltda - honorario caetano contabilidade||||
+|6100|06/01/2022|510||444,00|106|caetano assessoria contabil ltda - honorario caetano contabilidade||||
+|6100|06/01/2022|510||100,00|106|caetano assessoria contabil ltda - honorario caetano contabilidade||||
+|6100|06/01/2022|510||2435,00|106|caetano assessoria contabil ltda - honorario caetano contabilidade||||
+|6100|06/01/2022|510||3305,00|106|caetano assessoria contabil ltda - honorario caetano contabilidade||||
+|6000|d||||
+|6100|06/01/2022|8||257,11||recebimentos diversos - caixa de assistencia dos funcionari||||
+|6100|06/01/2022||10000|7,85|132|cassi - caixa de assistncia dos funcionrios do banco do brasil - nfse - 8283||||
+|6100|06/01/2022||10000|234,26|132|cassi - caixa de assistncia dos funcionrios do banco do brasil - nfse - 8283||||
+|6100|06/01/2022||10000|15,00|132|cassi - caixa de assistncia dos funcionrios do banco do brasil - nfse - 8283||||
+|6000|d||||
+|6100|13/01/2022|561||2060,00||dep dinheiro 10287328000194 oftalmo service ltda||||
+|6100|13/01/2022||10000|26,63|132|nf 8438 - elis guerra - venda 2729 - rps:2762 / nfs-e:8438 - 1/1||||
+|6100|13/01/2022||10000|43,37|132|elis guerra - venda 2729 - rps:2762 / nfs-e:8438||||
+|6100|13/01/2022||10000|58,36|132|nf 8429 - idair gomes rodrigues - venda 2720 - rps:2753 / nfs-e:8429 - 1/1||||
+|6100|13/01/2022||10000|1312,00|132|candido jose telles ponton - venda 2727 - rps:2760 / nfs-e:8436||||
+|6100|13/01/2022||10000|11,64|132|idair gomes rodrigues - venda 2720 - rps:2753 / nfs-e:8429||||
+|6100|13/01/2022||10000|608,00|132|nf 8436 - candido jose telles ponton - venda 2727 - rps:2760 / nfs-e:8436 - 1/1||||
+|6000|c||||
+|6100|03/01/2022||8|591,76||movimento do dia||||
+|6100|03/01/2022|375||42,71|98|ct 027308045 - movimento do dia||||
+|6100|03/01/2022|152||549,05|167|ct 027308045 - financiamento folha - 13/30||||
+|6000|d||||
+|6100|31/01/2022|8||37755,03||ted-crdito em conta - 033 3018  2687852000124 unimed de andr||||
+|6100|31/01/2022||10000|899,81|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|40,32|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|2000,01|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|150,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|16624,22|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|584,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|200,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|128,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|292,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|1250,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|527,24|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|1600,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|4944,01|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|355,39|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|400,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|1000,01|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|162,18|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|0,38|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|1222,37|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|584,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|1600,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|800,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|245,08|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|146,00|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6100|31/01/2022||10000|2000,01|132|unimed de andradina coop. trabalho mdico - nfse - 8421||||
+|6000|d||||
+|6100|17/01/2022|8||177,31||transferncia recebida - 17/01 0273     100462-x ciensp castilh||||
+|6100|17/01/2022||10000|161,55|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2722 - rps:2755 / nfs-e:8431||||
+|6100|17/01/2022||10000|15,76|132|nf 8431 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2722 - rps:2755 / nfs-e:8431 - 1/1||||
+|6000|d||||
+|6100|11/01/2022|8||12060,99||ted transf.eletr.disponv - nr.proc-000000000008003488420208120030||||
+|6100|11/01/2022||10000|9897,99|132|odalia barros alves - venda 2739 - rps:2772 / nfs-e:8447||||
+|6100|11/01/2022||10000|450,00|132|odalia barros alves - venda 2739 - rps:2772 / nfs-e:8447||||
+|6100|11/01/2022||10000|1713,00|132|nf 8447 - odalia barros alves - venda 2739 - rps:2772 / nfs-e:8447 - 1/1||||
+|6000|d||||
+|6100|26/01/2022|561||17610,00||dep dinheiro 10287328000194 oftalmo service ltda||||
+|6100|26/01/2022||10000|43,37|132|zidio zambone - venda 2768 - rps:2802 / nfs-e:8473||||
+|6100|26/01/2022||10000|479,24|132|nf 8476 - paula danielle araujo da silva - venda 2771 - rps:2805 / nfs-e:8476 - 1/1||||
+|6100|26/01/2022||10000|26,63|132|nf 8458 - adilson correa de araujo - venda 2752 - rps:2785 / nfs-e:8458 - 1/1||||
+|6100|26/01/2022||10000|26,63|132|nf 8473 - zidio zambone - venda 2768 - rps:2802 / nfs-e:8473 - 1/1||||
+|6100|26/01/2022||10000|600,00|132|jose palomo - venda 2767 - rps:2801 / nfs-e:8472||||
+|6100|26/01/2022||10000|400,00|132|nf 8471 - rosa maria magalhaes jorge - venda 2766 - rps:2800 / nfs-e:8471 - 1/1||||
+|6100|26/01/2022||10000|641,72|132|nf 8455 - hugo carmaci sizilio de oliveira - venda 2748 - rps:2781 / nfs-e:8455 - 1/1||||
+|6100|26/01/2022||10000|3412,00|132|rosa maria magalhaes jorge - venda 2766 - rps:2800 / nfs-e:8471||||
+|6100|26/01/2022||10000|400,00|132|nf 8472 - jose palomo - venda 2767 - rps:2801 / nfs-e:8472 - 1/1||||
+|6100|26/01/2022||10000|3321,20|132|jose palomo - venda 2767 - rps:2801 / nfs-e:8472||||
+|6100|26/01/2022||10000|458,28|132|hugo carmaci sizilio de oliveira - venda 2748 - rps:2781 / nfs-e:8455||||
+|6100|26/01/2022||10000|43,37|132|jair gimenes hipolito - venda 2754 - rps:2787 / nfs-e:8460||||
+|6100|26/01/2022||10000|26,63|132|nf 8444 - celia neves felix - venda 2736 - rps:2769 / nfs-e:8444 - 1/1||||
+|6100|26/01/2022||10000|43,37|132|celia neves felix - venda 2736 - rps:2769 / nfs-e:8444||||
+|6100|26/01/2022||10000|66,70|132|nf 8464 - valdeis candida cangussu - venda 2759 - rps:2793 / nfs-e:8464 - 1/1||||
+|6100|26/01/2022||10000|93,30|132|valdeis candida cangussu - venda 2759 - rps:2793 / nfs-e:8464||||
+|6100|26/01/2022||10000|70,60|132|nf 8479 - jonathan guilherme candido - venda 2774 - rps:2808 / nfs-e:8479 - 1/13||||
+|6100|26/01/2022||10000|79,40|132|jonathan guilherme candido - venda 2774 - rps:2808 / nfs-e:8479||||
+|6100|26/01/2022||10000|378,80|132|jose palomo - venda 2767 - rps:2801 / nfs-e:8472||||
+|6100|26/01/2022||10000|1951,44|132|nf 8459 - suely rozendo de souza - venda 2753 - rps:2786 / nfs-e:8459 - 1/1||||
+|6100|26/01/2022||10000|81,64|132|valdeis candida cangussu - venda 2760 - rps:2794 / nfs-e:8465||||
+|6100|26/01/2022||10000|43,37|132|jose edivan oliveira souza - venda 2755 - rps:2788 / nfs-e:8461||||
+|6100|26/01/2022||10000|508,00|132|rosa maria magalhaes jorge - venda 2766 - rps:2800 / nfs-e:8471||||
+|6100|26/01/2022||10000|26,63|132|nf 8460 - jair gimenes hipolito - venda 2754 - rps:2787 / nfs-e:8460 - 1/1||||
+|6100|26/01/2022||10000|2898,56|132|suely rozendo de souza - venda 2753 - rps:2786 / nfs-e:8459||||
+|6100|26/01/2022||10000|58,36|132|nf 8465 - valdeis candida cangussu - venda 2760 - rps:2794 / nfs-e:8465 - 1/3||||
+|6100|26/01/2022||10000|43,37|132|adilson correa de araujo - venda 2752 - rps:2785 / nfs-e:8458||||
+|6100|26/01/2022||10000|600,00|132|rosa maria magalhaes jorge - venda 2766 - rps:2800 / nfs-e:8471||||
+|6100|26/01/2022||10000|26,63|132|nf 8461 - jose edivan oliveira souza - venda 2755 - rps:2788 / nfs-e:8461 - 1/1||||
+|6100|26/01/2022||10000|760,76|132|paula danielle araujo da silva - venda 2771 - rps:2805 / nfs-e:8476||||
+|6000|d||||
+|6100|04/01/2022|8||3841,83||transferncia recebida - 04/01 0273     100460-3 ciensp andradi||||
+|6100|04/01/2022||10000|3458,84|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404||||
+|6100|04/01/2022||10000|88,86|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404||||
+|6100|04/01/2022||10000|57,61|132|nf 8404 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404 - 1/1||||
+|6100|04/01/2022||10000|20,84|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404||||
+|6100|04/01/2022||10000|50,61|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404||||
+|6100|04/01/2022||10000|33,35|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404||||
+|6100|04/01/2022||10000|33,35|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404||||
+|6100|04/01/2022||10000|83,12|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404||||
+|6100|04/01/2022||10000|15,25|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2696 - rps:2729 / nfs-e:8404||||
+|6000|d||||
+|6100|04/01/2022|8||6045,87||transferncia recebida - 04/01 0273     100468-9 ciensp p barre||||
+|6100|04/01/2022||10000|33,35|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2697 - rps:2730 / nfs-e:8405||||
+|6100|04/01/2022||10000|4,17|132|nf 8405 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2697 - rps:2730 / nfs-e:8405 - 1/1||||
+|6100|04/01/2022||10000|8,13|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2697 - rps:2730 / nfs-e:8405||||
+|6100|04/01/2022||10000|4708,22|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2697 - rps:2730 / nfs-e:8405||||
+|6100|04/01/2022||10000|1142,00|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2697 - rps:2730 / nfs-e:8405||||
+|6100|04/01/2022||10000|150,00|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2697 - rps:2730 / nfs-e:8405||||
+|6000|d||||
+|6100|18/01/2022|8||461,20||transferncia recebida - 18/01 0273     100460-3 ciensp andradi||||
+|6100|18/01/2022||10000|33,35|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2730 - rps:2763 / nfs-e:8439||||
+|6100|18/01/2022||10000|7,63|132|nf 8439 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2730 - rps:2763 / nfs-e:8439 - 1/1||||
+|6100|18/01/2022||10000|420,22|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2730 - rps:2763 / nfs-e:8439||||
+|6000|c||||
+|6100|25/01/2022||561|3020,39||liquidacao de parcela ||||
+|6100|25/01/2022|375||757,89|98|c 105220511 - emprestimo sicredi - placa solar - 4/48||||
+|6100|25/01/2022|152||2262,50|167|c 105220511 - emprestimo sicredi - placa solar - 4/48||||
+|6000|c||||
+|6100|05/01/2022||8|692,67||movimento do dia||||
+|6100|05/01/2022|375||45,98|98|ct 027307996 - movimento do dia||||
+|6100|05/01/2022|152||646,69|167|ct 027307996 - financiamento folha - 14/30||||
+|6000|d||||
+|6100|24/01/2022|8||33696,11||transferncia recebida - 24/01 0273     100472-7 ciensp valpara||||
+|6100|24/01/2022||10000|20,01|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2756 - rps:2790 / nfs-e:8462||||
+|6100|24/01/2022||10000|1620,04|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2756 - rps:2790 / nfs-e:8462||||
+|6100|24/01/2022||10000|2649,80|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2756 - rps:2790 / nfs-e:8462||||
+|6100|24/01/2022||10000|786,27|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2756 - rps:2790 / nfs-e:8462||||
+|6100|24/01/2022||10000|225,10|132|nf 8462 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2756 - rps:2790 / nfs-e:8462 - 1/1||||
+|6100|24/01/2022||10000|2097,53|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2756 - rps:2790 / nfs-e:8462||||
+|6100|24/01/2022||10000|26297,36|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2756 - rps:2790 / nfs-e:8462||||
+|6000|d||||
+|6100|25/01/2022|8||563,10||transferncia recebida - 25/01 0273      39945-0 consorcio e n||||
+|6100|25/01/2022||10000|50,02|132|nf 8468 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2763 - rps:2797 / nfs-e:8468 - 1/1||||
+|6100|25/01/2022||10000|513,08|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2763 - rps:2797 / nfs-e:8468||||
+|6000|d||||
+|6100|27/01/2022|8||2505,84||ordem bancria - 463772220003-90 sp-sec da fazenda e pl||||
+|6100|27/01/2022||10000|106,05|132|nf 8220 - instituto de assistncia mdica ao servidor pblico estadual - venda 2531 - rps:2563 / nfs-e:8220 - 1/1||||
+|6100|27/01/2022||10000|106,05|132|instituto de assistncia mdica ao servidor pblico estadual - venda 2531 - rps:2563 / nfs-e:8220||||
+|6100|27/01/2022||10000|2293,74|132|instituto de assistncia mdica ao servidor pblico estadual - venda 2531 - rps:2563 / nfs-e:8220||||
+|6000|d||||
+|6100|17/01/2022|8||922,40||transferncia recebida - 17/01 0273     130459-3 ciensp mirando||||
+|6100|17/01/2022||10000|15,25|132|nf 8428 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2719 - rps:2752 / nfs-e:8428 - 1/1||||
+|6100|17/01/2022||10000|66,70|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2719 - rps:2752 / nfs-e:8428||||
+|6100|17/01/2022||10000|840,45|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2719 - rps:2752 / nfs-e:8428||||
+|6000|d||||
+|6100|14/01/2022|8||409,47||transferncia recebida - 14/01 0273     100470-0 ciensp sud men||||
+|6100|14/01/2022||10000|360,99|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2705 - rps:2738 / nfs-e:8413||||
+|6100|14/01/2022||10000|33,35|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2705 - rps:2738 / nfs-e:8413||||
+|6100|14/01/2022||10000|15,13|132|nf 8413 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2705 - rps:2738 / nfs-e:8413 - 1/1||||
+|6000|d||||
+|6100|19/01/2022|8||1598,92||ted-crdito em conta - 748 3021 59766105000107 associacao pol||||
+|6100|19/01/2022||10000|28,56|132|nf 8427 - associao policial de assistncia a sade - venda 2718 - rps:2751 / nfs-e:8427 - 1/1||||
+|6100|19/01/2022||10000|18,26|132|associao policial de assistncia a sade - venda 2718 - rps:2751 / nfs-e:8427||||
+|6100|19/01/2022||10000|57,13|132|associao policial de assistncia a sade - venda 2718 - rps:2751 / nfs-e:8427||||
+|6100|19/01/2022||10000|1456,89|132|associao policial de assistncia a sade - venda 2718 - rps:2751 / nfs-e:8427||||
+|6100|19/01/2022||10000|28,56|132|associao policial de assistncia a sade - venda 2718 - rps:2751 / nfs-e:8427||||
+|6100|19/01/2022||10000|9,52|132|associao policial de assistncia a sade - venda 2718 - rps:2751 / nfs-e:8427||||
+|6000|d||||
+|6100|14/01/2022|8||1220,98||transferncia recebida - 14/01 0273     130458-5 ciensp nova in||||
+|6100|14/01/2022||10000|66,70|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2706 - rps:2739 / nfs-e:8414||||
+|6100|14/01/2022||10000|100,04|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2706 - rps:2739 / nfs-e:8414||||
+|6100|14/01/2022||10000|4,17|132|nf 8414 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2706 - rps:2739 / nfs-e:8414 - 1/1||||
+|6100|14/01/2022||10000|1004,12|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2706 - rps:2739 / nfs-e:8414||||
+|6100|14/01/2022||10000|15,25|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2706 - rps:2739 / nfs-e:8414||||
+|6100|14/01/2022||10000|30,70|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2706 - rps:2739 / nfs-e:8414||||
+|6000|d||||
+|6100|04/01/2022|8||767,85||transferncia recebida - 04/01 0273     100466-2 ciensp lavinia||||
+|6100|04/01/2022||10000|4,17|132|nf 8406 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2698 - rps:2731 / nfs-e:8406 - 1/1||||
+|6100|04/01/2022||10000|33,35|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2698 - rps:2731 / nfs-e:8406||||
+|6100|04/01/2022||10000|699,63|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2698 - rps:2731 / nfs-e:8406||||
+|6100|04/01/2022||10000|30,70|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2698 - rps:2731 / nfs-e:8406||||
+|6000|d||||
+|6100|17/01/2022|8||443,65||transferncia recebida - 17/01 0273     100472-7 ciensp valpara||||
+|6100|17/01/2022||10000|6,07|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2723 - rps:2756 / nfs-e:8432||||
+|6100|17/01/2022||10000|33,35|132|nf 8432 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2723 - rps:2756 / nfs-e:8432 - 1/1||||
+|6100|17/01/2022||10000|404,23|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2723 - rps:2756 / nfs-e:8432||||
+|6000|d||||
+|6100|14/01/2022|8||508,12||transferncia recebida - 14/01 0273     100588-x ciensp guarara||||
+|6100|14/01/2022||10000|4,17|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2707 - rps:2740 / nfs-e:8415||||
+|6100|14/01/2022||10000|38,11|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2707 - rps:2740 / nfs-e:8415||||
+|6100|14/01/2022||10000|432,49|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2707 - rps:2740 / nfs-e:8415||||
+|6100|14/01/2022||10000|33,35|132|nf 8415 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2707 - rps:2740 / nfs-e:8415 - 1/1||||
+|6000|d||||
+|6100|18/01/2022|8||343,88||transferncia recebida - 18/01 0273     100460-3 ciensp andradi||||
+|6100|18/01/2022||10000|6,25|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2724 - rps:2757 / nfs-e:8433||||
+|6100|18/01/2022||10000|7,63|132|nf 8433 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2724 - rps:2757 / nfs-e:8433 - 1/1||||
+|6100|18/01/2022||10000|313,33|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2724 - rps:2757 / nfs-e:8433||||
+|6100|18/01/2022||10000|16,67|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2724 - rps:2757 / nfs-e:8433||||
+|6000|d||||
+|6100|06/01/2022|561||5725,00||dep dinheiro 10287328000194 oftalmo service ltda||||
+|6100|06/01/2022||10000|470,01|132|mirielle aparecida albuquerque de oliveira - venda 2710 - rps:2743 / nfs-e:8418||||
+|6100|06/01/2022||10000|26,63|132|nf 8410 - fidelcina maria da silva - venda 2702 - rps:2735 / nfs-e:8410 - 1/1||||
+|6100|06/01/2022||10000|400,00|132|nf 8420 - eranide aparecida da silva sokolowski - venda 2712 - rps:2745 / nfs-e:8420 - 1/1||||
+|6100|06/01/2022||10000|43,37|132|fidelcina maria da silva - venda 2702 - rps:2735 / nfs-e:8410||||
+|6100|06/01/2022||10000|3412,00|132|eranide aparecida da silva sokolowski - venda 2712 - rps:2745 / nfs-e:8420||||
+|6100|06/01/2022||10000|508,00|132|eranide aparecida da silva sokolowski - venda 2712 - rps:2745 / nfs-e:8420||||
+|6100|06/01/2022||10000|264,99|132|nf 8418 - mirielle aparecida albuquerque de oliveira - venda 2710 - rps:2743 / nfs-e:8418 - 1/2||||
+|6100|06/01/2022||10000|600,00|132|eranide aparecida da silva sokolowski - venda 2712 - rps:2745 / nfs-e:8420||||
+|6000|c||||
+|6100|06/01/2022||8|504,93||pagamento de boleto - supermercados rastelao ltda||||
+|6100|06/01/2022|521||80,07|106|nf 28524 - supermercados  rastelao ltda. filial 01 - compra nfe 28524-1 - 1/1||||
+|6100|06/01/2022|521||22,71|106|nf 28530 - supermercados  rastelao ltda. filial 01 - compra nfe 28530-1 - 1/1||||
+|6100|06/01/2022|521||115,50|106|nf 28554 - supermercados  rastelao ltda. filial 01 - compra nfe 28554-1 - 1/1||||
+|6100|06/01/2022|521||286,65|106|nf 28391 - supermercados  rastelao ltda. filial 01 - compra nfe 28391-1 - 1/1||||
+|6000|c||||
+|6100|06/01/2022||8|23365,74||folha de pagamento||||
+|6100|06/01/2022|187||851,53|106|ana carolina teixeira figueira da silva - salario ana carolina||||
+|6100|06/01/2022|187||2039,38|106|gisele aparecida alves - salario gisele aparecida||||
+|6100|06/01/2022|187||1371,80|106| denise madureira de almeida - salario denise madureira||||
+|6100|06/01/2022|187||1265,37|106|glaucia fernanda dias de moraes - salario glaucia fernanda||||
+|6100|06/01/2022|187||2039,38|106|lais nara araujo pereira lima - salario lais nara||||
+|6100|06/01/2022|187||1737,52|106|tatiane ramos de lima - salario tatiane ramos||||
+|6100|06/01/2022|187||1737,50|106|adriana maria patricio - salario adriana maria||||
+|6100|06/01/2022|187||3254,86|106|bruna pires hernandes louro - salario bruna pires||||
+|6100|06/01/2022|187||2895,25|106|nathalia da silva soldi - salario nathalia da silva||||
+|6100|06/01/2022|187||2864,17|106|giovanna piero bon constantino - salario giovanna piero||||
+|6100|06/01/2022|187||1601,70|106|alessandra inacio favaro da silva - salario alessandra inacio||||
+|6100|06/01/2022|187||1707,28|106|bruna francieli carvalho teixeira - salario bruna francieli||||
+|6000|d||||
+|6100|13/01/2022|8||200,97||transferncia recebida - 13/01 0273     100463-8 ciensp guaraca||||
+|6100|13/01/2022||10000|111,71|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2714 - rps:2747 / nfs-e:8423||||
+|6100|13/01/2022||10000|58,95|132|nf 8423 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2714 - rps:2747 / nfs-e:8423 - 1/1||||
+|6100|13/01/2022||10000|30,31|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2714 - rps:2747 / nfs-e:8423||||
+|6000|c||||
+|6100|24/01/2022||8|163,83||pagamento de boleto - oxetil industria c p e eireli||||
+|6100|24/01/2022|10472||97,03|106|nf 69401 - oxetil ind c prod esterelizado  - compra de servio srie:sn / nfs-e:69401 - 1/1||||
+|6100|24/01/2022|10472||66,80|106|nf 69632 - oxetil ind c prod esterelizado  - compra de servio srie:sn / nfs-e:69632 - 1/1||||
+|6000|d||||
+|6100|24/01/2022|8||16359,93||transferncia recebida - 24/01 0273     100472-7 ciensp valpara||||
+|6100|24/01/2022||10000|1962,86|132|nf 8463 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2757 - rps:2791 / nfs-e:8463 - 1/1||||
+|6100|24/01/2022||10000|1553,68|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2757 - rps:2791 / nfs-e:8463||||
+|6100|24/01/2022||10000|11643,36|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2757 - rps:2791 / nfs-e:8463||||
+|6100|24/01/2022||10000|1200,03|132|ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2757 - rps:2791 / nfs-e:8463||||
+|6000|x||||
+|6100|21/01/2022|55|10468|57,31|18|nf 1553059 - coopervision do brasil ltda - compra nfe 1553059-1 - 3/3||||
+|6000|x||||
+|6100|28/01/2022|55|10464|254,00|18|nf 228513 - alcon brasil cuidados com a saude ltda - compra nfe 228513-1 - 2/2||||
+|6000|x||||
+|6100|28/01/2022|55|10464|508,00|18|nf 228753 - alcon brasil cuidados com a saude ltda - compra nfe 228753-1 - 2/2||||
+|6000|x||||
+|6100|28/01/2022|55|10464|695,50|18|nf 228512 - alcon brasil cuidados com a saude ltda - compra nfe 228512-1 - 2/2||||
+|6000|x||||
+|6100|28/01/2022|55|10464|1794,00|18|nf 228665 - alcon brasil cuidados com a saude ltda - compra nfe 228665-1 - 2/2||||
+|6000|x||||
+|6100|28/01/2022|55|10491|159,00|18|nf 841184 - c m hospitalar s.a (lda) - compra nfe 841184-1 - 2/2||||
+|6000|x||||
+|6100|17/01/2022|55|10493|1477,50|18|nf 19725 - g m g paula-me - compra nfe 19725-1 - 2/2||||
+|6000|x||||
+|6100|28/01/2022|55|10491|1038,49|18|nf 841243 - c m hospitalar s.a (lda) - compra nfe 841243-1 - 2/2||||
+|6000|x||||
+|6100|11/01/2022|55|10464|254,00|18|nf 220898 - alcon brasil cuidados com a saude ltda - compra nfe 220898-1 - 2/2||||
+|6000|x||||
+|6100|12/01/2022|55|10464|254,00|18|nf 221305 - alcon brasil cuidados com a saude ltda - compra nfe 221305-1 - 2/2||||
+|6000|x||||
+|6100|10/01/2022|55|10464|695,50|18|nf 220400 - alcon brasil cuidados com a saude ltda - compra nfe 220400-1 - 2/2||||
+|6000|x||||
+|6100|13/01/2022|55|10464|3080,00|18|nf 221918 - alcon brasil cuidados com a saude ltda - compra nfe 221918-1 - 2/2||||
+|6000|x||||
+|6100|28/01/2022|8|10000|232,07|132|nf 8481 - ciensp - consorcio intermunicipal do extremo noroeste de sao paulo - venda 2776 - rps:2810 / nfs-e:8481 - 1/1||||
+|6000|x||||
+|6100|17/01/2022|55|10464|254,00|18|nf 223450 - alcon brasil cuidados com a saude ltda - compra nfe 223450-1 - 1/2||||
+|6000|x||||
+|6100|31/01/2022|570|8|2805,10|106|gisele aparecida alves - aviso de ferias gisele aparecida||||
+|6000|x||||
+|6100|19/01/2022|591|10478|633,96|43|nf 629 - gabrielle neves ypiranga sakimoto - compra de servio srie:sn / nfs-e:629 - 1/1||||
+|6000|x||||
+|6100|13/01/2022|55|10464|3080,00|18|nf 221918 - alcon brasil cuidados com a saude ltda - compra nfe 221918-1 - 1/2||||
+|6000|x||||
+|6100|10/01/2022|55|10464|695,50|18|nf 220400 - alcon brasil cuidados com a saude ltda - compra nfe 220400-1 - 1/2||||
+|6000|x||||
+|6100|12/01/2022|55|10464|254,00|18|nf 221305 - alcon brasil cuidados com a saude ltda - compra nfe 221305-1 - 1/2||||
+|6000|x||||
+|6100|11/01/2022|55|10464|254,00|18|nf 220898 - alcon brasil cuidados com a saude ltda - compra nfe 220898-1 - 1/2||||
+|6000|x||||
+|6100|17/01/2022|55|10493|1522,50|18|nf 19725 - g m g paula-me - compra nfe 19725-1 - 1/2||||
+|6000|x||||
+|6100|17/01/2022|55|10500|319,88|18|nf 28426 - white martins gases industriais ltda - compra nfe 28426-84 - 1/1||||
+|6000|x||||
+|6100|08/01/2022|359|10509|127,43|43|nf 17637754 - arcom s a - compra nfe 17637754-0 - 2/3||||
+|6000|x||||
+|6100|17/01/2022|55|10463|455,60|18|nf 87248 - ophthalmos sa. - compra nfe 87248-1 - 1/1||||
+|6000|x||||
+|6100|05/01/2022|55|10464|254,00|18|nf 217288 - alcon brasil cuidados com a saude ltda - compra nfe 217288-1 - 1/2||||
+|6000|x||||
+|6100|07/01/2022|55|10464|2286,00|18|nf 219173 - alcon brasil cuidados com a saude ltda - compra nfe 219173-1 - 1/2||||
+|6000|x||||
+|6100|10/01/2022|55|10386|1507,00|18|nf 326024 - adapt produtos oftalmologicos ltda - compra nfe 326024-1 - 1/1||||
+|6000|x||||
+|6100|26/01/2022|55|10494|622,20|18|compra 12877 - gomes de moraes e cia ltda - epp - compra 12877 - 1/1||||
+|6000|x||||
+|6100|20/01/2022|571|8|9704,08|106|llucro dr.adalberto||||
+|6000|x||||
+|6100|06/01/2022|354|8|186,44|106|elektro redes s.a. - elektro||||
+|6000|x||||
+|6100|14/01/2022|591|10202|1362,00|43|nf 47210 - carl zeiss do brasil ltda - compra de servio srie:sn / nfs-e:47210 - descontar reteno e abatimento  - 1/1||||
+|6000|x||||
+|6100|21/01/2022|55|10468|57,30|18|nf 1553059 - coopervision do brasil ltda - compra nfe 1553059-1 - 1/3||||
+|6000|x||||
+|6100|18/01/2022|55|10496|139,60|18|nf 9028 - nacional comercial hospitalar s.a. - compra nfe 9028-1 - 1/1||||
+|6000|x||||
+|6100|18/01/2022|55|10496|306,00|18|nf 29593 - nacional comercial hospitalar s.a. - compra nfe 29593-1 - 1/1||||
+|6000|x||||
+|6100|18/01/2022|55|10496|804,20|18|nf 832127 - nacional comercial hospitalar s.a. - compra nfe 832127-1 - 1/1||||
+|6000|x||||
+|6100|18/01/2022|55|10468|578,93|18|nf 1549533 - coopervision do brasil ltda - compra nfe 1549533-1 - 1/3||||
+|6000|x||||
+|6100|20/01/2022|55|10473|216,92|18|nf 30084 - birimed com de prod medico-hosp ltda - compra nfe 30084-1 - 1/1||||
+|6000|x||||
+|6100|31/01/2022|55|10492|263,00|18|nf 840458 - eye pharma ltda - compra nfe 840458-1 - 1/1||||
+|6000|x||||
+|6100|24/01/2022|488|8|1304,08|106|cofins - 12/24||||
+|6000|x||||
+|6100|24/01/2022|10001|8|1146,71|106|boleto alcon - contrato de manuteno alcon||||
+|6000|x||||
+|6100|24/01/2022|10464|8|724,59|106|nf 203188 - alcon brasil cuidados com a saude ltda - compra nfe 203188-1 - 2/2||||
+|6000|x||||
+|6100|24/01/2022|10464|8|254,00|106|nf 204838 - alcon brasil cuidados com a saude ltda - compra nfe 204838-1 - 2/2||||
+|6000|x||||
+|6100|24/01/2022|350|8|911,00|106|conselho regional de medicina estado sp - conselho regional de medicina 2022||||
+|6000|x||||
+|6100|24/01/2022|10468|8|647,52|106|nf 1516379 - coopervision do brasil ltda - compra nfe 1516379-1 - 2/3||||
+|6000|x||||
+|6100|24/01/2022|533|8|732,50|106|nf 12671 - ecomel sp com varej de prod de limpeza e higienizacao ltda - compra nfe 12671-1 - 1/2||||
+|6000|x||||
+|6100|24/01/2022|342|8|300,00|106|edgar leite fernandes alimenticios - me - contrato maquina de caf - n doc 69292||||
+|6000|x||||
+|6100|24/01/2022|342|8|163,00|106|nf 42960 - edgar leite fernandes alimenticios - me - compra nfe 42960-0 - 1/1||||
+|6000|x||||
+|6100|24/01/2022|10489|8|111,00|106|nf 44740 - j. v. r. alarmes e monitoramento de andradina ltda me - compra de servio srie:sn / nfs-e:44740 - 1/1||||
+|6000|x||||
+|6100|24/01/2022|10467|8|858,29|106|nf 241917 - mediphacos industrias medicas s/a. - compra nfe 241917-1 - 2/2||||
+|6000|x||||
+|6100|24/01/2022|10467|8|95,72|106|nf 241742 - mediphacos industrias medicas s/a. - compra nfe 241742-1 - 2/2||||
+|6000|x||||
+|6100|24/01/2022|10467|8|1487,50|106|nf 245153 - mediphacos industrias medicas s/a. - compra nfe 245153-1 - 1/2||||
+|6000|x||||
+|6100|18/01/2022|10463|8|980,24|106|nf 82459 - ophthalmos sa. - compra nfe 82459-1 - 3/3||||
+|6000|x||||
+|6100|18/01/2022|10509|8|127,43|106|nf 17637754 - arcom s a - compra nfe 17637754-0 - 1/3||||
+|6000|x||||
+|6100|08/01/2022|359|10509|127,43|43|nf 17637754 - arcom s a - compra nfe 17637754-0 - 1/3||||
+|6000|x||||
+|6100|18/01/2022|10470|8|2658,50|106|nf 1256805 - allergan produtos farmaceuticos ltda - compra nfe 1256805-0 - 2/3||||
+|6000|x||||
+|6100|10/01/2022|535|8|156,00|206|tarifa pacote de servios - cobrana referente 10/01/2022||||
+|6000|x||||
+|6100|10/01/2022|535|8|40,00|206|tarifa modulo - cobrana referente 10/01/2022||||
+|6000|x||||
+|6100|11/01/2022|10386|8|3788,00|106|nf 324989 - adapt produtos oftalmologicos ltda - compra nfe 324989-1 - 1/2||||
+|6000|x||||
+|6100|11/01/2022|10464|8|1540,00|106|nf 196687 - alcon brasil cuidados com a saude ltda - compra nfe 196687-1 - 2/2||||
+|6000|x||||
+|6100|11/01/2022|10464|8|254,00|106|nf 196807 - alcon brasil cuidados com a saude ltda - compra nfe 196807-1 - 2/2||||
+|6000|x||||
+|6100|11/01/2022|10464|8|254,00|106|nf 196800 - alcon brasil cuidados com a saude ltda - compra nfe 196800-1 - 2/2||||
+|6000|x||||
+|6100|11/01/2022|10468|8|493,41|106|nf 1480368 - coopervision do brasil ltda - compra nfe 1480368-1 - 3/3||||
+|6000|x||||
+|6100|11/01/2022|10467|8|820,98|106|nf 240676 - mediphacos industrias medicas s/a. - compra nfe 240676-1 - 2/2||||
+|6000|x||||
+|6100|11/01/2022|10487|8|25,74|106|unimed ||||
+|6000|x||||
+|6100|11/01/2022|10487|8|1521,11|106|unimed ||||
+|6000|x||||
+|6100|11/01/2022|10479|8|408,00|106|nf 89348 - verbenna farmacia de manipulacao ltda-epp - compra nfe 89348-1 - 1/1||||
+|6000|x||||
+|6100|06/01/2022|10386|8|1590,83|106|nf 321582 - adapt produtos oftalmologicos ltda - compra nfe 321582-1 - 2/2||||
+|6000|x||||
+|6100|06/01/2022|570|8|4728,54|106|nathalia da silva soldi - ferias ||||
+|6000|x||||
+|6100|03/01/2022|535|8|15,00|206|tarifa cheque ouro manut - cobrana referente 31/12/2021||||
+|6000|x||||
+|6100|24/01/2022|173|8|4551,80|106|iss  - 12/24||||
+|6000|x||||
+|6100|24/01/2022|350|8|430,10|106|prefeitura municipal de andradina - taxa alvara 2022||||
+|6000|x||||
+|6100|24/01/2022|10472|8|136,17|106|nf 70524 - oxetil ind c prod esterelizado  - compra de servio srie:sn / nfs-e:70524 - 1/1||||
+|6000|x||||
+|6100|07/01/2022|55|10472|136,17|18|nf 70524 - oxetil ind c prod esterelizado  - compra de servio srie:sn / nfs-e:70524 - 1/1||||
+|6000|x||||
+|6100|24/01/2022|176|8|10488,04|106|irpj - 12/24||||
+|6000|x||||
+|6100|24/01/2022|177|8|3287,18|106|csll - 12/24||||
+|6000|x||||
+|6100|24/01/2022|179|8|282,54|106|pis - 12/24||||
+|6000|x||||
+|6100|24/01/2022|356|8|796,19|106|pagamento de telefone - telesp - tel. sao paulo||||
+|6000|x||||
+|6100|18/01/2022|356|8|89,82|106|embratel - 2/24||||
+|6000|x||||
+|6100|18/01/2022|355|8|189,05|106|agua oftalmo - 9/12||||
+|6000|x||||
+|6100|18/01/2022|350|8|122,76|106|taxa regularizao laudo bombeiro 2||||
+|6000|x||||
+|6100|18/01/2022|191|8|10990,46|106|inss - 12/24||||
+|6000|x||||
+|6100|18/01/2022|182|8|63,33|106|csll/cofins/pis - reteno tomador  - 12/24||||
+|6000|x||||
+|6100|18/01/2022|178|8|1151,80|106|irrf||||
+|6000|x||||
+|6100|18/01/2022|10468|8|399,09|106|nf 1489457 - coopervision do brasil ltda - compra nfe 1489457-1 - 3/3||||
+|6000|x||||
+|6100|18/01/2022|10468|8|499,37|106|nf 1534154 - coopervision do brasil ltda - compra nfe 1534154-1 - 1/3||||
+|6000|x||||
+|6100|18/01/2022|10202|8|1090,00|106|nf 32246 - carl zeiss do brasil ltda - compra nfe 32246-1 - 2/2||||
+|6000|x||||
+|6100|18/01/2022|310|8|2000,00|106|nf 353 - cristiane paula vieira 22689112841 - compra de servio srie:sn / nfs-e:353 - 1/1||||
+|6000|x||||
+|6100|18/01/2022|10463|8|694,20|106|nf 86718 - ophthalmos sa. - compra nfe 86718-1 - 1/2||||
+|6000|x||||
+|6100|06/01/2022|10473|8|299,50|106|nf 29897 - birimed com de prod medico-hosp ltda - compra nfe 29897-1 - 1/1||||
+|6000|x||||
+|6100|06/01/2022|192|8|3586,57|106|fgts - 12/24||||
+|6000|x||||
+|6100|06/01/2022|10465|8|2273,08|106|nf 8899 - visionmed equipamentos medicos eireli epp - compra nfe 8899-1 - 2/3||||
+|6000|x||||
+|6100|06/01/2022|10471|8|564,55|106|nf 1948284 - servimed comercial ltda - compra nfe 1948284-7 - 1/1||||
+|6000|x||||
+|6100|06/01/2022|10467|8|3834,99|106|nf 239783 - mediphacos industrias medicas s/a. - compra nfe 239783-1 - 2/2||||
+|6000|x||||
+|6100|06/01/2022|581|8|149,90|106|rede informatica e internet ltda epp - internet - 12/12||||
+|6000|x||||
+|6100|06/01/2022|10474|8|335,90|106|nf 12235 - ecomel sp com varej de prod de limpeza e higienizacao ltda - compra nfe 12235-1 - 2/2||||
+|6000|x||||
+|6100|06/01/2022|10463|8|816,00|106|nf 84059 - ophthalmos sa. - compra nfe 84059-1 - 2/2||||
+|6000|x||||
+|6100|06/01/2022|5|8|91,35|106|prefeitura municipal de andradina - associao comercial de andradina||||
+|6000|x||||
+|6100|06/01/2022|10464|8|254,00|106|nf 212304 - alcon brasil cuidados com a saude ltda - compra nfe 212304-1 - 1/2||||
+|6000|x||||
+|6100|06/01/2022|10464|8|254,00|106|nf 210573 - alcon brasil cuidados com a saude ltda - compra nfe 210573-1 - 1/2||||
+|6000|x||||
+|6100|06/01/2022|10464|8|347,75|106|nf 212030 - alcon brasil cuidados com a saude ltda - compra nfe 212030-1 - 1/2||||
+|6000|x||||
+|6100|28/01/2022|10457|10000|14,84|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|25/01/2022|10457|10000|14,35|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|24/01/2022|10457|10000|15,87|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|18/01/2022|374|10457|21,28|109|diferena de saldo negativa||||
+|6000|x||||
+|6100|17/01/2022|10457|10000|15,59|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|19/01/2022|10457|10000|10,42|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|31/01/2022|10457|10000|14,48|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|13/01/2022|10457|10000|29,13|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|11/01/2022|10457|10000|13,18|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|14/01/2022|10457|10000|14,38|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|27/01/2022|10457|10000|28,33|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|04/01/2022|10457|10000|23,37|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|20/01/2022|374|10457|7,76|109|diferena de saldo negativa||||
+|6000|x||||
+|6100|06/01/2022|374|10457|45,61|109|diferena de saldo negativa||||
+|6000|x||||
+|6100|10/01/2022|10457|10000|27,38|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|05/01/2022|10457|10000|26,62|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|03/01/2022|10457|10000|46,82|146|diferena de saldo positiva||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|75,26|132|nf 8218 - valdir barbosa - venda 2529 - rps:2561 / nfs-e:8218 - 3/4||||
+|6000|x||||
+|6100|31/01/2022|368|10460|3,37|98|venda 2157 - rps:2184 / nfs-e:7847||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|73,18|132|maria celia pereira de souza - venda 2157 - rps:2184 / nfs-e:7847||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|20,57|132|nf 7847 - maria celia pereira de souza - venda 2157 - rps:2184 / nfs-e:7847 - 8/11||||
+|6000|x||||
+|6100|31/01/2022|368|10460|6,18|98|venda 2607 - rps:2641 / nfs-e:8316||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|119,72|132|cicero joaquim de andrade - venda 2607 - rps:2641 / nfs-e:8316||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|80,28|132|nf 8316 - cicero joaquim de andrade - venda 2607 - rps:2641 / nfs-e:8316 - 2/2||||
+|6000|x||||
+|6100|31/01/2022|368|10460|3,62|98|venda 2537 - rps:2569 / nfs-e:8226||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|78,95|132|matheus oliveira alvares de souza - venda 2537 - rps:2569 / nfs-e:8226||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|37,73|132|nf 8226 - matheus oliveira alvares de souza - venda 2537 - rps:2569 / nfs-e:8226 - 4/4||||
+|6000|x||||
+|6100|31/01/2022|368|10460|3,00|98|venda 1766 - rps:1790 / nfs-e:7458||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|67,79|132|marco antonio de freitas - venda 1766 - rps:1790 / nfs-e:7458||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|12,50|132|marco antonio de freitas - venda 1766 - rps:1790 / nfs-e:7458||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|4,58|132|nf 7458 - marco antonio de freitas - venda 1766 - rps:1790 / nfs-e:7458 - 12/12||||
+|6000|x||||
+|6100|31/01/2022|368|10460|21,59|98|venda 2235 - rps:2265 / nfs-e:7926||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|425,16|132|clovis ramos da silva - venda 2235 - rps:2265 / nfs-e:7926||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|92,75|132|clovis ramos da silva - venda 2235 - rps:2265 / nfs-e:7926||||
+|6000|x||||
+|6100|27/01/2022|368|10460|2,92|98|venda 2693 - rps:2726 / nfs-e:8401||||
+|6000|x||||
+|6100|27/01/2022|10460|10000|53,50|132|leonardo roque - venda 2693 - rps:2726 / nfs-e:8401||||
+|6000|x||||
+|6100|27/01/2022|10460|10000|27,75|132|nf 8401 - leonardo roque - venda 2693 - rps:2726 / nfs-e:8401 - 1/12||||
+|6000|x||||
+|6100|19/01/2022|368|10460|12,81|98|venda 2747 - rps:2780 / nfs-e:8454||||
+|6000|x||||
+|6100|19/01/2022|10460|10000|507,92|132|marco antonio da silva - venda 2747 - rps:2780 / nfs-e:8454||||
+|6000|x||||
+|6100|19/01/2022|10460|10000|204,70|132|marco antonio da silva - venda 2747 - rps:2780 / nfs-e:8454||||
+|6000|x||||
+|6100|19/01/2022|10460|10000|81,88|132|marco antonio da silva - venda 2747 - rps:2780 / nfs-e:8454||||
+|6000|x||||
+|6100|19/01/2022|10460|10000|65,50|132|nf 8454 - marco antonio da silva - venda 2747 - rps:2780 / nfs-e:8454 - 1/1||||
+|6000|x||||
+|6100|18/01/2022|374|10460|4,62|98|venda 2742 - rps:2775 / nfs-e:8450||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|50,00|132|clovis ramos da silva - venda 2235 - rps:2265 / nfs-e:7926||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|33,34|132|nf 7926 - clovis ramos da silva - venda 2235 - rps:2265 / nfs-e:7926 - 6/12||||
+|6000|x||||
+|6100|31/01/2022|368|10460|4,31|98|venda 2324 - rps:2355 / nfs-e:8015||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|62,56|132|paola guimaraes pinto porfirio dos santos - venda 2324 - rps:2355 / nfs-e:8015||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|57,44|132|nf 8015 - paola guimaraes pinto porfirio dos santos - venda 2324 - rps:2355 / nfs-e:8015 - 5/10||||
+|6000|x||||
+|6100|31/01/2022|368|10460|1,92|98|venda 2594 - rps:2628 / nfs-e:8303||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|41,15|132|bruna carvalho pereira - venda 2594 - rps:2628 / nfs-e:8303||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|20,85|132|nf 8303 - bruna carvalho pereira - venda 2594 - rps:2628 / nfs-e:8303 - 2/5||||
+|6000|x||||
+|6100|31/01/2022|368|10460|4,96|98|venda 2532 - rps:2564 / nfs-e:8221||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|86,56|132|jose carlos sesto - venda 2532 - rps:2564 / nfs-e:8221||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|51,44|132|nf 8221 - jose carlos sesto - venda 2532 - rps:2564 / nfs-e:8221 - 3/10||||
+|6000|x||||
+|6100|31/01/2022|368|10460|4,39|98|venda 2785 - rps:2819 / nfs-e:8490||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|155,72|132|beatriz fernanda pereira alem - venda 2785 - rps:2819 / nfs-e:8490||||
+|6000|x||||
+|6100|31/01/2022|10460|10000|24,28|132|nf 8490 - beatriz fernanda pereira alem - venda 2785 - rps:2819 / nfs-e:8490 - 1/1||||
+|6000|x||||
+|6100|28/01/2022|368|10460|3,38|98|venda 1751 - rps:1775 / nfs-e:7443||||
+|6000|x||||
+|6100|28/01/2022|10460|10000|23,19|132|jacira teixeira da silva rodrigues - venda 1751 - rps:1775 / nfs-e:7443||||
+|6000|x||||
+|6100|28/01/2022|10460|10000|38,70|132|jacira teixeira da silva rodrigues - venda 1751 - rps:1775 / nfs-e:7443||||
+|6000|x||||
+|6100|28/01/2022|10460|10000|12,68|132|jacira teixeira da silva rodrigues - venda 1751 - rps:1775 / nfs-e:7443||||
+|6000|x||||
+|6100|28/01/2022|10460|10000|21,17|132|nf 7443 - jacira teixeira da silva rodrigues - venda 1751 - rps:1775 / nfs-e:7443 - 13/13||||
+|6000|x||||
+|6100|28/01/2022|368|10460|1,81|98|venda 2695 - rps:2728 / nfs-e:8403||||
+|6000|x||||
+|6100|28/01/2022|10460|10000|44,20|132|vinicius guimaraes da silva - venda 2695 - rps:2728 / nfs-e:8403||||
+|6000|x||||
+|6100|28/01/2022|10460|10000|25,80|132|nf 8403 - vinicius guimaraes da silva - venda 2695 - rps:2728 / nfs-e:8403 - 1/1||||
+|6000|x||||
+|6100|27/01/2022|368|10460|3,80|98|venda 2317 - rps:2347 / nfs-e:8008||||
+|6000|x||||
+|6100|27/01/2022|10460|10000|64,25|132|elaine mieko kubo ferreira  - venda 2317 - rps:2347 / nfs-e:8008||||
+|6000|x||||
+|6100|27/01/2022|10460|10000|59,75|132|nf 8008 - elaine mieko kubo ferreira  - venda 2317 - rps:2347 / nfs-e:8008 - 5/5||||
+|6000|x||||
+|6100|26/01/2022|368|10460|3,35|98|venda 2069 - rps:2096 / nfs-e:7759||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|48,65|132|caroline regazini soares proenca borges - venda 2069 - rps:2096 / nfs-e:7759||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|44,68|132|nf 7759 - caroline regazini soares proenca borges - venda 2069 - rps:2096 / nfs-e:7759 - 8/12||||
+|6000|x||||
+|6100|26/01/2022|368|10460|4,31|98|venda 1913 - rps:1937 / nfs-e:7606||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|62,56|132|joelilson zaire leite coelho - venda 1913 - rps:1937 / nfs-e:7606||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|57,44|132|nf 7606 - joelilson zaire leite coelho - venda 1913 - rps:1937 / nfs-e:7606 - 10/12||||
+|6000|x||||
+|6100|26/01/2022|368|10460|19,94|98|venda 2772 - rps:2806 / nfs-e:8477||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|759,51|132|valdir oliveira fermino - venda 2772 - rps:2806 / nfs-e:8477||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|420,49|132|nf 8477 - valdir oliveira fermino - venda 2772 - rps:2806 / nfs-e:8477 - 1/1||||
+|6000|x||||
+|6100|26/01/2022|368|10460|119,56|98|venda 2769 - rps:2803 / nfs-e:8474||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|3392,00|132|ari martins do lago - venda 2769 - rps:2803 / nfs-e:8474||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|508,00|132|ari martins do lago - venda 2769 - rps:2803 / nfs-e:8474||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|600,00|132|ari martins do lago - venda 2769 - rps:2803 / nfs-e:8474||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|400,00|132|nf 8474 - ari martins do lago - venda 2769 - rps:2803 / nfs-e:8474 - 1/1||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|123,00|132|dolvanir batista moreira  - venda 2773 - rps:2807 / nfs-e:8478||||
+|6000|x||||
+|6100|26/01/2022|368|10460|8,70|98|venda 2773 - rps:2807 / nfs-e:8478||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|127,00|132|dolvanir batista moreira  - venda 2773 - rps:2807 / nfs-e:8478||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|150,00|132|dolvanir batista moreira  - venda 2773 - rps:2807 / nfs-e:8478||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|100,00|132|dolvanir batista moreira  - venda 2773 - rps:2807 / nfs-e:8478||||
+|6000|x||||
+|6100|26/01/2022|368|10460|26,10|98|venda 2773 - rps:2807 / nfs-e:8478||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|369,00|132|dolvanir batista moreira  - venda 2773 - rps:2807 / nfs-e:8478||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|381,00|132|dolvanir batista moreira  - venda 2773 - rps:2807 / nfs-e:8478||||
+|6000|x||||
+|6100|26/01/2022|10460|10000|450,00|132|dolvanir batista moreira  - venda 2773 - rps:2807 / nfs-e:8478||||

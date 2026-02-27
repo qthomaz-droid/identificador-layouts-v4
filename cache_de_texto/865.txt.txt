@@ -1,0 +1,331 @@
+                 sicoob - sistema de cooperativas de crdito do brasil                  
+                  plataforma de servios financeiros do sicoob - sisbr                  
+                                                                                        
+18/10/2022                       extrato conta corrente                         08:57:25
+----------------------------------------------------------------------------------------
+coop.: 3260-3 - sicoob credirochas                                                      
+conta: 82.733-9 - paci- laboratorio de patologia ltda                                   
+----------------------------------------------------------------------------------------
+   data         documento       histrico                                          valor
+----------------------------------------------------------------------------------------
+31/08/2022                      saldo anterior                                83.482,77c
+31/08/2022                      saldo bloqueado anterior                           0,00*
+01/09/2022      658355811       cr compras visa electron                         544,98c
+                                sipag_deb._visa electron                                
+01/09/2022         pix          pix recebido - outra if                          170,00c
+                                recebimento pix                                         
+                                caroline dos santos cansian                             
+                                ***.969.537-**                                          
+01/09/2022         pix          pix recebido - outra if                          414,00c
+                                recebimento pix                                         
+                                livia mozer barros fonseca                              
+                                ***.471.667-**                                          
+                                exames 4 pecas                                          
+01/09/2022         3010         cred.transf.contas intercredis                   180,00c
+                                rem.: ines da penha oliveira turini                     
+                                transferncia pix                                       
+                                ines da penha oliveira turini                           
+                                ***.405.757-**                                          
+                                saldo do dia ===== >                          84.791,75c
+02/09/2022      659098501       cr compras maestro                               176,58c
+                                sipag_deb._maestro                                      
+02/09/2022         pix          pix recebido - outra if                           50,00c
+                                recebimento pix                                         
+                                monique pereira goncalves                               
+                                ***.715.747-**                                          
+02/09/2022         pix          pix recebido - outra if                          325,00c
+                                recebimento pix                                         
+                                andreia machado rodrigues barbosa                       
+                                ***.164.677-**                                          
+                                saldo do dia ===== >                          85.343,33c
+06/09/2022      660688586       cr compras visa electron                         735,75c
+                                sipag_deb._visa electron                                
+06/09/2022         pix          pix recebido - outra if                           70,00c
+                                recebimento pix                                         
+                                maria eduarda camargo fonseca                           
+                                ***.713.547-**                                          
+06/09/2022         pix          pix recebido - outra if                          330,00c
+                                recebimento pix                                         
+                                paulo freitas moreira                                   
+                                ***.397.887-**                                          
+                                biopsia material de sirlei rohr moreira.                
+                                dr.maria roneli scarton                                 
+06/09/2022         pix          pix emitido outra if                           1.932,82d
+                                pagamento pix                                           
+                                ***.820.807-**                                          
+                                saldo do dia ===== >                          84.546,26c
+08/09/2022      661454197       cr compras deb outras bandeiras                  174,82c
+                                sipag_deb._elo dbito                                   
+08/09/2022         3003         cred.transf.contas intercredis                   170,00c
+                                rem.: elizangela de oliveira castelo car                
+                                transferncia pix                                       
+                                elizangela de oliveira castelo carvalho                 
+                                ***.333.117-**                                          
+                                biopsia                                                 
+08/09/2022         pix          pix recebido - outra if                          170,00c
+                                recebimento pix                                         
+                                veranilza maifredo trugilho                             
+                                ***.660.727-**                                          
+                                saldo do dia ===== >                          85.061,08c
+09/09/2022      662236764       cr compras visa electron                         412,02c
+                                sipag_deb._visa electron                                
+09/09/2022         pix          pix recebido - outra if                          414,00c
+                                recebimento pix                                         
+                                pricila lorencine paganini                              
+                                ***.051.727-**                                          
+09/09/2022       13591052       db.tit.compe efetivado                          481,41d
+09/09/2022       13591071       db.ttulo cobrana                              146,60d
+09/09/2022       13591088       db.tit.compe efetivado                        1.210,00d
+09/09/2022       13591138       db.tit.compe efetivado                          142,50d
+09/09/2022       13591170       db.conv.prefeitura                              127,96d
+09/09/2022       13591191       db.transf.contas dif.tit. intercredis         2.000,00d
+                                fav.: grupo de apoio aos portadores de c                
+                                transferncia pix                                       
+                                paci- laboratorio de patologia ltda                     
+                                27.659.126 0001-29                                      
+                                patrocinio gapcci outubro rosa                          
+09/09/2022       13591223       db.transf.contas dif.tit. intercredis            70,00d
+                                fav.: info news automacao comercial e in                
+                                transferncia pix                                       
+                                paci- laboratorio de patologia ltda                     
+                                27.659.126 0001-29                                      
+                                manutencao ponto info news                              
+09/09/2022         pix          pix emitido outra if                             120,00d
+                                pagamento pix                                           
+                                ***.856.947-**                                          
+                                saldo do dia ===== >                          81.588,63c
+12/09/2022      663138958       cr compras deb outras bandeiras                  155,39c
+                                sipag_deb._elo dbito                                   
+12/09/2022         3003         cred.transf.contas intercredis                   190,00c
+                                rem.: genivon colombino                                 
+                                transferncia pix                                       
+                                genivon colombino                                       
+                                ***.441.847-**                                          
+12/09/2022        56522         deb.parcelas subsc./integr.                       50,00d
+                                saldo do dia ===== >                          81.884,02c
+13/09/2022         pix          pix recebido - outra if                          180,00c
+                                recebimento pix                                         
+                                lavynia ramos pereira                                   
+                                ***.514.457-**                                          
+                                pagamento referente a biopsia da pacient                
+                                e lecimar santos oliveira goncalves.                    
+                                saldo do dia ===== >                          82.064,02c
+14/09/2022      664550211       cr compras deb outras bandeiras                   48,56c
+                                sipag_deb._elo dbito                                   
+14/09/2022         pix          pix recebido - outra if                          330,00c
+                                recebimento pix                                         
+                                danielle assumpcao athayde                              
+                                ***.810.387-**                                          
+                                saldo do dia ===== >                          82.442,58c
+15/09/2022      665203779       cr compras maestro                               166,77c
+                                sipag_deb._maestro                                      
+15/09/2022      665203778       cr compras visa electron                       1.471,50c
+                                sipag_deb._visa electron                                
+15/09/2022         pix          pix recebido - outra if                          250,00c
+                                recebimento pix                                         
+                                geraldo jos pirovane                                   
+                                ***.036.017-**                                          
+                                saldo do dia ===== >                          84.330,85c
+16/09/2022      665909896       cr compras visa electron                          78,48c
+                                sipag_deb._visa electron                                
+16/09/2022       13668299       db.tit.compe efetivado                        1.252,50d
+                                nf 3108  tecnolabo                                      
+16/09/2022       13668300       db.tit.compe efetivado                          150,00d
+                                inscr dra laura sbp                                     
+16/09/2022       13668301       db.tit.compe efetivado                          150,00d
+                                inscr dra maria clara sbp                               
+16/09/2022         pix          pix emitido outra if                           2.185,92d
+                                pagamento pix                                           
+                                ***.099.357-**                                          
+                                pagto preventivos mes 08 2022                           
+16/09/2022         pix          pix recebido - outra if                          240,00c
+                                recebimento pix                                         
+                                gervasio a jordaim                                      
+                                ***.170.807-**                                          
+16/09/2022         pix          pix recebido - outra if                           50,00c
+                                recebimento pix                                         
+                                celi barbosa bento                                      
+                                ***.562.527-**                                          
+16/09/2022         3010         cred.transf.contas intercredis                   370,00c
+                                rem.: cleber minete lopes                               
+                                transferncia pix                                       
+                                cleber minete lopes                                     
+                                ***.299.547-**                                          
+                                diego campos minete biopsia                             
+                                saldo do dia ===== >                          81.330,91c
+19/09/2022       13682974       transf.recebida - pix sicoob                     565,00c
+                                rem.: jociara villela da costa freitas                  
+                                transferncia pix                                       
+                                jociara villela da costa freitas                        
+                                ***.653.937-**                                          
+                                biopsia                                                 
+19/09/2022      666502634       cr compras visa electron                         245,25c
+                                sipag_deb._visa electron                                
+19/09/2022      666502635       cr compras deb outras bandeiras                  242,80c
+                                sipag_deb._elo dbito                                   
+19/09/2022       13698983       db.transf.contas dif.tit. intercredis            40,00d
+                                fav.: cleber minete lopes                               
+                                transferncia pix                                       
+                                paci- laboratorio de patologia ltda                     
+                                27.659.126 0001-29                                      
+                                estorno                                                 
+19/09/2022       13705582       db.tit.compe efetivado                        4.333,33d
+19/09/2022       13705594       db.conv.tributos federais - rfb               2.167,20d
+19/09/2022       13705606       db.conv.tributos federais - rfb                  13,39d
+19/09/2022       13705617       db.conv.tributos federais - rfb                 160,26d
+19/09/2022       13705643       db.tit.compe efetivado                          144,42d
+19/09/2022       13705654       db.tit.compe efetivado                          407,97d
+19/09/2022       13705661       db.tit.compe efetivado                          446,77d
+19/09/2022       13705668       db.tit.compe efetivado                          936,60d
+19/09/2022       13705682       db.tit.compe efetivado                          212,00d
+                                saldo do dia ===== >                          73.522,02c
+21/09/2022      668106030       cr compras maestro                               166,77c
+                                sipag_deb._maestro                                      
+21/09/2022         pix          pix recebido - outra if                          250,00c
+                                recebimento pix                                         
+                                rafaela destefani davel dalvi                           
+                                ***.084.217-**                                          
+21/09/2022         pix          pix emitido outra if                           3.200,00d
+                                pagamento pix                                           
+                                ***.684.667-**                                          
+                                saldo do dia ===== >                          70.738,79c
+22/09/2022      668740503       cr compras maestro                               147,15c
+                                sipag_deb._maestro                                      
+22/09/2022      668740502       cr compras deb outras bandeiras                  165,10c
+                                sipag_deb._elo dbito                                   
+22/09/2022      668740501       cr compras visa electron                         107,91c
+                                sipag_deb._visa electron                                
+22/09/2022       13742233       db.conv.tributos federais - rfb               9.933,24d
+                                simples nacional 082022                                 
+22/09/2022       13742234       db.tit.compe efetivado                          299,09d
+                                multipel nf 965154                                      
+22/09/2022       13742235       db.ttulo cobrana                              159,20d
+                                werner nf 5815                                          
+                                saldo do dia ===== >                          60.767,42c
+23/09/2022       13742236       db.tit.compe efetivado                       12.050,79d
+                                hermes pardini nf 43780                                 
+23/09/2022      669416562       cr compras visa electron                         568,98c
+                                sipag_deb._visa electron                                
+23/09/2022       13757704       db.conv.saneamento                              327,20d
+                                brk mes 082022                                          
+                                saldo do dia ===== >                          48.958,41c
+26/09/2022       13742237       db.tit. cobrana efetivado                    3.457,50d
+                                rene imobiliaria                                        
+26/09/2022       13742238       db.tit.compe efetivado                          186,45d
+                                compbras doc 20403                                      
+26/09/2022      670170390       cr compras visa electron                         166,77c
+                                sipag_deb._visa electron                                
+26/09/2022      669554283       cr compras mastercard                            183,79c
+                                sipag_cred._mastercard                                  
+26/09/2022         pix          pix recebido - outra if                          180,00c
+                                recebimento pix                                         
+                                luceli batalha dos santos                               
+                                ***.658.077-**                                          
+26/09/2022         pix          pix emitido outra if                              18,00d
+                                pagamento pix                                           
+                                ***.519.907-**                                          
+26/09/2022         pix          pix recebido - outra if                          170,00c
+                                recebimento pix                                         
+                                edson da silva passamai                                 
+                                ***.948.867-**                                          
+                                biopsia vania martins                                   
+26/09/2022         pix          pix recebido - outra if                          180,00c
+                                recebimento pix                                         
+                                nathalia zagoto loureno                                
+                                ***.539.667-**                                          
+                                saldo do dia ===== >                          46.177,02c
+27/09/2022      670864556       cr compras visa electron                         245,25c
+                                sipag_deb._visa electron                                
+27/09/2022      670864555       cr compras deb outras bandeiras                  271,93c
+                                sipag_deb._elo dbito                                   
+27/09/2022         3010         cred.transf.contas intercredis                    60,00c
+                                rem.: rowena altoe foletto                              
+                                transferncia pix                                       
+                                rowena altoe foletto                                    
+                                ***.772.147-**                                          
+                                diagcenter                                              
+27/09/2022       13786738       db.tit.compe efetivado                          394,45d
+                                pagtp epis doc42632                                     
+27/09/2022       13786739       db.tit.compe efetivado                          207,01d
+                                nf 966479                                               
+27/09/2022       13786740       db.conv.prefeitura                               65,89d
+                                renovao alvara sanitario 2022 2023                    
+                                saldo do dia ===== >                          46.086,85c
+28/09/2022       13786741       db.tit.compe efetivado                          177,43d
+                                nf 53675                                                
+28/09/2022         pix          pix recebido - outra if                        1.350,00c
+                                recebimento pix                                         
+                                marlucia ozorio dos santos                              
+                                ***.063.847-**                                          
+28/09/2022       13796174       transf.recebida - pix sicoob                     170,00c
+                                rem.: jandira da silva                                  
+                                transferncia pix                                       
+                                jandira da silva                                        
+                                ***.768.047-**                                          
+28/09/2022         3010         cred.transf.contas intercredis                   250,00c
+                                rem.: josias marins leite                               
+                                transferncia pix                                       
+                                josias marins leite                                     
+                                ***.096.107-**                                          
+28/09/2022         pix          pix recebido - outra if                           20,00c
+                                recebimento pix                                         
+                                pamela silva borges                                     
+                                ***.831.047-**                                          
+28/09/2022         pix          pix recebido - outra if                           50,00c
+                                recebimento pix                                         
+                                rosimeri ferreira cindra                                
+                                ***.563.277-**                                          
+                                saldo do dia ===== >                          47.749,42c
+29/09/2022       13786742       db.tit.compe efetivado                        1.337,52d
+                                nf 3139                                                 
+29/09/2022      672170936       cr compras visa electron                         166,77c
+                                sipag_deb._visa electron                                
+29/09/2022         pix          pix recebido - outra if                          250,00c
+                                recebimento pix                                         
+                                jhon lennon schuina                                     
+                                ***.114.627-**                                          
+                                pix para paci-                                          
+29/09/2022         3003         cred.transf.contas intercredis                   485,00c
+                                rem.: wesley rosa souza                                 
+                                transferncia pix                                       
+                                wesley rosa souza                                       
+                                ***.943.697-**                                          
+                                saldo do dia ===== >                          47.313,67c
+30/09/2022      672775471       cr compras deb outras bandeiras                  165,10c
+                                sipag_deb._elo dbito                                   
+30/09/2022      672102507       cr compras mastercard                            131,82c
+                                sipag_cred._mastercard                                  
+30/09/2022         3001         cred.transf.contas intercredis                   170,00c
+                                rem.: andressa peterle lorenzon pin                     
+                                transferncia pix                                       
+                                alcimone de souza pin                                   
+                                ***.376.637-**                                          
+30/09/2022      249581074       crd.ted-str                                  56.325,00c
+                                hospital evan de cac                                    
+                                27.193.705 0001-29                                      
+                                codigo ted: t788396414                                  
+                                paci laboratorio de patologia   cnp                     
+                                saldo do dia ===== >                         104.105,59c
+----------------------------------------------------------------------------------------
+                                         resumo                                         
+----------------------------------------------------------------------------------------
+saldo em conta corrente(+).................................................: 104.105,59c
+saldo em conta investimento(+).............................................:       0,00c
+limite cheque especial empresarial(+)......................................:       0,00c
+saldo disponvel(=)........................................................: 104.105,59c
+saldo bloqueado em conta corrente..........................................:        0,00
+saldo bloqueado em conta investimento......................................:        0,00
+taxa cheque especial empresarial(a.m.).....................................:       5,97%
+previso cpmf..............................................................:       0,00d
+previso iof...............................................................:       0,00d
+previso encargos..........................................................:       0,00d
+previso tarifas...........................................................:       0,00d
+saldo em conta capital.....................................................:     271,00c
+----------------------------------------------------------------------------------------
+                             limites de crdito disponveis                             
+----------------------------------------------------------------------------------------
+        acesse o menu crdito para consulta dos limites de crdito disponveis.         
+----------------------------------------------------------------------------------------
+                                    extrato no.:000                                     
+----------------------------------------------------------------------------------------
+ouvidoria sicoob: 08007250996                                                           

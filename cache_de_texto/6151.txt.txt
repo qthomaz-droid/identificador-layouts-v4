@@ -1,0 +1,248 @@
+b a n r i s u l                                                                 
+agencia: 0165 - canoas                                                          
+conta..: 06.077782.0-0                                                          
+nome...: salex comercio de metais ltda                                          
+periodo: julho/2024                                                             
+identificacao: 09202505091103387887                                             
+                                                                                
+-----------------------     para simples conferencia     -----------------------
+-+----------------------------------------------------------------------------+-
+dia historico                                          documento       v a l o r
+-+----------------------------------------------------------------------------+-
+------------------------- movimentos da conta corrente -------------------------
+                                                                                
+    saldo ant em 28/06/2024                                               81,77 
+++  movimentos jul/2024                                                         
+01  credito titulos                                     000028           922,45 
+    vero deb blf                                        199785           861,31 
+    vero deb blf                                        199786           130,62 
+    resgate automatico                                  000000           850,00 
+    pagamento titulo                                    292883           497,26-
+    pagamento titulo                                    293058         1.130,51-
+    pagamento titulo                                    293067         1.088,47-
+    pagamento vivo                                      292862            68,00-
+    iof                                                 000000             0,94-
+    iof adicional                                       000000            45,13-
+    saldo na data                                                         15,84 
+02  credito titulos                                     000027         2.238,24 
+    vero deb blf                                        524443             0,98 
+    vero deb blf                                        524444           225,88 
+    aplicacao automatico                                000000         2.284,94-
+    mensalidade pacote                                  008300           195,00-
+    saldo na data                                                          1,00 
+03  credito titulos                                     000026         5.368,87 
+    vero deb blf                                        831995           196,42 
+    vero deb blf                                        831996           716,93 
+    pagamento titulo                                    298878            85,39-
+    pagamento titulo                                    298909           989,78-
+    pagamento titulo                                    298918           142,80-
+    pix enviado                                         793920           107,20-
+    pagamento energia eletrica/gas                      298904           108,11-
+    pagamento claro                                     298896            82,47-
+    aplicacao automatico                                000000         4.766,47-
+    saldo na data                                                          1,00 
+04  credito titulos                                     000025        10.197,01 
+    vero deb blf                                        154079           114,91 
+    vero deb blf                                        154080           430,16 
+    debito titulos automatico                           000017            70,51-
+    pagamento titulo                                    300202            60,98-
+    pagamento titulo                                    301646           750,82-
+    aplicacao automatico                                000000         9.859,77-
+    saldo na data                                                          1,00 
+05  credito titulos                                     000026         6.997,87 
+    vero deb blf                                        577292           123,74 
+    pagamento titulo                                    303547         1.781,32-
+    pagamento titulo                                    303553            91,74-
+    pagamento titulo                                    303558         2.632,34-
+    pagamento titulo                                    303569           831,17-
+    pagamento titulo                                    303582           894,45-
+    pix banrisul enviado                                861627           178,00-
+    pix banrisul enviado                                875943           178,00-
+    aplicacao automatico                                000000           534,59-
+    saldo na data                                                          1,00 
+08  credito titulos                                     000032         4.126,49 
+    vero deb blf                                        067549           597,12 
+    pagamento titulo                                    308791         1.102,73-
+    pagamento titulo                                    310131           872,07-
+    pagamento titulo                                    310175           434,96-
+    pix enviado                                         125744           500,00-
+    aplicacao automatico                                000000         1.813,85-
+    saldo na data                                                          1,00 
+09  credito titulos                                     000031         8.443,89 
+    vero ant blf                                        442553            60,52 
+    vero deb blf                                        392942           147,31 
+    vero deb blf                                        392943           613,81 
+    pix enviado                                         697915         3.517,30-
+    aplicacao automatico                                000000         5.748,23-
+    saldo na data                                                          1,00 
+10  credito titulos                                     000026         3.656,68 
+    vero ant blf                                        819427            41,29 
+    vero deb blf                                        768773         1.025,90 
+    resgate automatico                                  000000           900,00 
+    debito titulos automatico                           000018           108,48-
+    pagamento titulo                                    317643           652,10-
+    pagamento titulo                                    317659           228,95-
+    pagamento titulo                                    317666           102,75-
+    pagamento titulo                                    317677           170,29-
+    pagamento titulo                                    317687            99,90-
+    pagamento titulo                                    317716         1.447,55-
+    pagamento titulo                                    317722         1.563,99-
+    debito cartao de credito                            100062         1.215,99-
+    saldo na data                                                         34,87 
+11  credito titulos                                     000028         5.031,56 
+    vero ant blf                                        287637           131,65 
+    vero deb blf                                        235512           108,82 
+    aplicacao automatico                                000000         5.305,90-
+    saldo na data                                                          1,00 
+12  credito titulos                                     000028         2.641,80 
+    devolucao ted                                       005487         3.100,00 
+    vero ant blf                                        623532           142,99 
+    vero deb blf                                        575241           146,82 
+    resgate automatico                                  000000         2.900,00 
+    pagamento titulo                                    322956         1.799,91-
+    pagamento titulo                                    322967           337,92-
+    pagamento titulo                                    322972           373,40-
+    ted                                                 322981         3.100,00-
+    pix enviado                                         016581           710,00-
+    pix enviado                                         425475           600,00-
+    pix enviado                                         426070           750,00-
+    pix enviado                                         426704           500,00-
+    pix enviado                                         427647           500,00-
+    pagamento saneamento                                322965           110,03-
+    pagamento claro                                     322156            70,51-
+    pagamento claro                                     322176            70,51-
+    saldo na data                                                         10,33 
+15  credito titulos                                     000029         6.570,81 
+    resgate automatico                                  000000         1.600,00 
+    pagamento titulo                                    326013         1.360,15-
+    pagamento titulo                                    326019         1.224,13-
+    pagamento titulo                                    326021           497,26-
+    pagamento titulo                                    326028         4.014,72-
+    pagamento titulo                                    326268           893,37-
+    pix enviado                                         131846           161,61-
+    saldo na data                                                         29,90 
+16  credito titulos                                     000032        10.069,77 
+    vero ant blf                                        463489           269,11 
+    vero ant blf                                        463490         2.294,46 
+    debito titulos automatico                           000021           109,96-
+    pix enviado                                         298085           600,00-
+    aplicacao automatico                                000000        11.952,28-
+    saldo na data                                                          1,00 
+17  credito titulos                                     000030         7.509,82 
+    vero ant blf                                        825480         1.270,25 
+    pagamento titulo                                    330503           920,57-
+    pagamento titulo                                    330507           974,40-
+    aplicacao automatico                                000000         6.885,10-
+    saldo na data                                                          1,00 
+18  credito titulos                                     000028         3.811,37 
+    credito transferencia                               825474           723,60 
+    vero ant blf                                        205005           137,42 
+    vero deb blf                                        155479            88,39 
+    vero deb blf                                        155480           589,26 
+    pagamento titulo                                    332238            50,42-
+    pagamento titulo                                    332239            53,29-
+    aplicacao automatico                                000000         5.246,33-
+    saldo na data                                                          1,00 
+19  credito titulos                                     000030         5.818,89 
+    vero ant blf                                        588832         1.280,01 
+    resgate automatico                                  000000         3.150,00 
+    pagamento titulo                                    333989         1.725,66-
+    pagamento titulo                                    334002         1.656,40-
+    pagamento titulo                                    334006            99,00-
+    pagamento titulo                                    334015           149,98-
+    pix enviado                                         795821           750,00-
+    pix enviado                                         796508           500,00-
+    pix enviado                                         797165           600,00-
+    pix enviado                                         797959           600,00-
+    pix enviado                                         799398           800,00-
+    pix enviado                                         805974         1.500,00-
+    pagamento claro                                     334012            72,16-
+    pagamento claro                                     334014            61,65-
+    pagamento darf                                      333995         1.546,17-
+    pagamento darf                                      333998           155,32-
+    saldo na data                                                         33,56 
+22  credito titulos                                     000028         6.639,28 
+    vero ant blf                                        081663           327,96 
+    vero deb blf                                        026898           834,78 
+    resgate automatico                                  000000         3.050,00 
+    debito titulos automatico                           000016            75,28-
+    pagamento titulo                                    336792            92,85-
+    pagamento titulo                                    336800         2.580,37-
+    pix enviado                                         950065           150,00-
+    pagamento energia eletrica/gas                      337045           567,22-
+    pagamento das                                       336803         7.378,78-
+    saldo na data                                                         41,08 
+23  credito titulos                                     000029         5.648,05 
+    vero ant blf                                        439652            99,93 
+    vero ant blf                                        439653           322,46 
+    vero deb blf                                        386344           418,67 
+    pagamento titulo                                    339138           246,00-
+    pagamento titulo                                    339141           246,00-
+    pagamento energia eletrica/gas                      339144           594,55-
+    aplicacao automatico                                000000         5.442,64-
+    saldo na data                                                          1,00 
+24  credito titulos                                     000029         4.023,34 
+    vero ant blf                                        820904            93,10 
+    vero deb blf                                        768493           266,54 
+    vero deb blf                                        768494           371,04 
+    vero deb blf                                        768495           457,36 
+    pagamento titulo                                    340554         1.275,94-
+    pagamento titulo                                    340560         1.144,43-
+    aplicacao automatico                                000000         2.791,01-
+    saldo na data                                                          1,00 
+25  credito titulos                                     000024         2.001,25 
+    vero deb blf                                        470024           760,14 
+    aplicacao automatico                                000000         2.761,39-
+    saldo na data                                                          1,00 
+26  credito titulos                                     000027           707,07 
+    vero deb blf                                        789491           542,12 
+    vero deb blf                                        789492            27,50 
+    resgate automatico                                  000000         8.100,00 
+    pagamento titulo                                    344233           928,98-
+    pix enviado                                         228970         5.286,50-
+    pix enviado                                         229858           600,00-
+    pix enviado                                         230458           600,00-
+    pix enviado                                         231096           750,00-
+    pix enviado                                         231617           500,00-
+    pix enviado                                         232239           530,00-
+    pix enviado                                         305764            47,04-
+    pix banrisul enviado                                277330           130,00-
+    saldo na data                                                          5,17 
+29  credito titulos                                     000029         4.943,72 
+    vero ant blf                                        303259           393,76 
+    vero deb blf                                        248835           407,57 
+    debito titulos automatico                           000018            67,39-
+    pagamento titulo                                    346819           665,33-
+    pix enviado                                         768994         1.628,00-
+    aplicacao automatico                                000000         3.388,50-
+    saldo na data                                                          1,00 
+30  credito titulos                                     000026         4.653,70 
+    vero ant blf                                        650935           247,97 
+    vero deb blf                                        605079           592,21 
+    vero deb blf                                        605080            88,39 
+    vero deb blf                                        605081           509,91 
+    resgate automatico                                  000000         6.150,00 
+    debito transferencia                                349199         5.000,00-
+    pix banrisul enviado                                951195         4.000,00-
+    pix banrisul enviado                                953467         2.500,00-
+    pagamento saneamento                                348985           250,24-
+    pagamento energia eletrica/gas                      348254           224,49-
+    pagamento gvt                                       348275           239,39-
+    saldo na data                                                         29,06 
+31  credito titulos                                     000027         5.822,06 
+    vero ant blf                                        054723           174,33 
+    vero deb blf                                        006708           491,05 
+    vero deb blf                                        006709           328,41 
+    pix banrisul recebido                               661896           410,00 
+    pagamento titulo                                    350537         1.639,40-
+    pagamento titulo                                    350542         1.317,00-
+    pix banrisul enviado                                430844            78,50-
+    pagamento energia eletrica/gas                      350529           436,17-
+    aplicacao automatico                                000000         3.782,84-
+    saldo na data                                                          1,00 
+                                                                                
+----------------------- emitido as 15:15 h de 09/05/2025 -----------------------
+--------------------------------------------------------------------------------
+                                sac 0800 646 1515                               
+                             ouvidoria 0800 644 2200                            
+--------------------------------------------------------------------------------

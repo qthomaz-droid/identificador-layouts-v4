@@ -1,0 +1,146 @@
+comprovante de pagamento de boleto
+dados da conta pagadora
+nome
+j a calcados eireli
+cpf/cnpj
+27.184.838/0001-39
+agência/conta
+4293/0099503-3
+dados do pagador
+nome
+ja calcados eireli
+cpf/cnpj
+27.184.838/0001-39
+dados do beneficiário
+nome
+visionarios calcados sa
+cpf/cnpj
+12.913.333/0001-90
+razão social
+visionarios calcados sa
+dados da transação
+código de barras
+75691300860109161020200692640014413110000198958
+nome do banco
+756 - banco cooperativo sicoob s.a.
+data do vencimento
+30/12/2025
+data do pagamento
+30/12/2025
+valor do documento
+r$ 1.989,58
+desconto
+r$ 0,00
+mora
+r$ 0,00
+multa
+r$ 0,00
+valor do pagamento
+r$ 1.989,58
+identificação no comprovante
+mkt 112025
+autenticação mecânica
+00e04760e158b9829383935a6fba13b114671d02
+pagamento realizado em 
+espécie
+n
+controle
+711767124672641
+transação efetuada em 30/12/2025 às 16:57:52h via sispag
+em caso de dúvidas, de posse do comprovante, contate seu gerente ou a central no 40901685 (capitais e regiões 
+metropolitanas) ou 0800 7701685 (demais localidades). reclamações, informações e cancelamentos: sac 0800 728 0728, 24 
+horas por dia ou fale conosco: www.itau.com.br/empresas se não ficar satisfeito com a solução, contate a ouvidoria: 0800 570 
+0011, em dias úteis, das 9h às 18h. deficiente auditivo/fala: 0800 722 1722
+ comprovante de pagamento de boleto
+dados da conta pagadora
+nome
+j a calcados eireli
+cpf/cnpj
+27.184.838/0001-39
+agência/conta
+4293/0099503-3
+dados do pagador
+nome
+j a calcados ltda
+cpf/cnpj
+27.184.838/0001-39
+dados do beneficiário
+nome
+bigflex embalagens ltda
+cpf/cnpj
+11.834.473/0002-91
+razão social
+bigflex embalagens ltda
+dados da transação
+código de barras
+00190000090333010200900024122178213100000133774
+nome do banco
+001 - banco do brasil s.a.
+data do vencimento
+29/12/2025
+data do pagamento
+29/12/2025
+valor do documento
+r$ 1.337,74
+desconto
+r$ 0,00
+mora
+r$ 0,00
+multa
+r$ 0,00
+valor do pagamento
+r$ 1.337,74
+identificação no comprovante
+bigflex nf 13450
+autenticação mecânica
+62e593fee143f5852ab56854a180166b80611647
+pagamento realizado em 
+espécie
+n
+controle
+861767039603474
+transação efetuada em 29/12/2025 às 17:20:03h via sispag
+em caso de dúvidas, de posse do comprovante, contate seu gerente ou a central no 40901685 (capitais e regiões 
+metropolitanas) ou 0800 7701685 (demais localidades). reclamações, informações e cancelamentos: sac 0800 728 0728, 24 
+horas por dia ou fale conosco: www.itau.com.br/empresas se não ficar satisfeito com a solução, contate a ouvidoria: 0800 570 
+0011, em dias úteis, das 9h às 18h. deficiente auditivo/fala: 0800 722 1722
+ comprovante de transferência
+dados do pagador
+nome
+j a calcados ltda
+cpf/cnpj do pagador
+27.184.838/0001-39
+agência/conta
+4293/0099503-3
+dados do recebedor
+nome do recebedor
+marcio da silva
+chave
++5527988133863
+cpf/cnpj do recebedor
+***694146**
+instituição
+caixa economica federal
+dados da transação
+valor
+r$ 8.720,00
+data da transferência
+29/12/2025
+tipo de pagamento
+pix transferencia
+mensagem ao recebedor
+retirada de socio 1524265
+identificação no comprovante
+retirada de socio 1524265
+autenticação no comprovante
+fbb4bae590f0701d762503c281ca74d78fc9262d
+id da transação
+e60701190202512292017dy5e774ebkn
+controle
+000784248240862
+transação efetuada em 29/12/2025 às 17:20:01.934823 via sispag
+em caso de dúvidas, de posse do comprovante, contate seu gerente ou a central no 40901685 (capitais e regiões 
+metropolitanas) ou 0800 7701685 (demais localidades). reclamações, informações e cancelamentos: sac 0800 728 0728, 24 
+horas por dia ou fale conosco: www.itau.com.br/empresas se não ficar satisfeito com a solução, contate a ouvidoria: 0800 570 
+0011, em dias úteis, das 9h às 18h. deficiente auditivo/fala: 0800 722 1722
+ 

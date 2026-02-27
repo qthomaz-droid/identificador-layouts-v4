@@ -1,0 +1,312 @@
+---------------------------banpará - banco do estado do pará s/a ---------------------------
+
+
+
+extrato conta corrente por período
+
+agência: 0135
+
+conta: 0007241275
+
+
+periodo: 01/01/2024 a 31/01/2024                          emitido em: 01/02/2024 11:06:49
+                                                                                         
+saldo anterior                                                                  24.905,32
+-----------------------------------------------------------------------------------------
+data descricao                              doc.               valor               saldo 
+-----------------------------------------------------------------------------------------
+02/01 dep ch banpara                        13500           2.120,00                     
+      caixa presencial                                                                   
+      deposito cheque banpara                                                            
+      xxx53473xxx ana paula de queiroz silva d                                           
+02/01 dep.ch.24 horas                       13500             610,50                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+02/01 dep.ch.24 horas                       13500           1.650,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+02/01 dep.ch.24 horas                       13500             885,03                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+02/01 dep.ch.24 horas                       13500           4.327,27                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+02/01 dep.ch.24 horas                       13500           4.441,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+02/01 dep.ch.24 horas                       13500             350,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+02/01 pagto pix externo                         0         -20.000,00                     
+      internet banking                                                                   
+      pagamento pix externo                                                              
+      26953545000106 n candida queiroz silva c                                           
+02/01 tar pix exte emissao                  20124             -12,00                     
+      tarifa pix externo emissao                                                         
+02/01 remun conta+                         240102               0,10            19.277,22
+      remuneracao conta+                                                                 
+03/01 pag boleto ibk                       140104            -118,24                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+03/01 pagto. dae   ib                      140159            -272,40                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+03/01 pag boleto ibk                       140146             -31,72                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+03/01 transf cred autor                    150116          25.737,57            44.592,43
+      internet banking                                                                   
+      transferencia credito autorizado                                                   
+      63883672000102 t l c terraplanagem ltda                                            
+04/01 pag boleto ibk                        90150             -56,44                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+04/01 pagto. dae   ib                       90123            -128,19                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+04/01 transf cred autor                    100126          11.060,00                     
+      internet banking                                                                   
+      transferencia credito autorizado                                                   
+      63883672000102 t l c terraplanagem ltda                                            
+04/01 pgto.titulo ib                       140153         -53.335,53                     
+      internet banking                                                                   
+      pagamento de titulo ib                                                             
+04/01 pag boleto ibk                       140122             -56,44                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+04/01 pagto. dae   ib                      160129             -32,05                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+04/01 remun conta+                         240104               0,05             2.043,83
+      remuneracao conta+                                                                 
+05/01 pag boleto ibk                       160132             -30,34                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+05/01 pagto. dae   ib                      160143             -67,30                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+05/01 pag boleto ibk                       170117            -350,36             1.595,83
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+08/01 dep.ch.24 horas                       13500           2.210,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+08/01 dep.ch.24 horas                       13500           1.400,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+08/01 dep.ch.24 horas                       13500          10.921,48                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+08/01 dep.ch.24 horas                       13500           2.925,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+08/01 dep.ch.24 horas                       13500             400,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+08/01 dep.ch.24 horas                       13500              50,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+08/01 dep.ch.24 horas                       13500             150,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+08/01 transf cred autor                    160138           2.508,00            22.160,31
+      internet banking                                                                   
+      transferencia credito autorizado                                                   
+      63883672000102 t l c terraplanagem ltda                                            
+09/01 dep.ch.24 horas                       13500          10.000,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz                                                   
+09/01 pag boleto ibk                       170127             -64,68                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+09/01 pagto. dae   ib                      170138            -147,42            31.948,21
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+10/01 pag boleto ibk                        90125             -52,32                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+10/01 pagto. dae   ib                       90154            -118,58                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+10/01 pgto.titulo ib                        90129          -1.517,75                     
+      internet banking                                                                   
+      pagamento de titulo ib                                                             
+10/01 pgto.titulo ib                        90137          -1.410,00                     
+      internet banking                                                                   
+      pagamento de titulo ib                                                             
+10/01 pgto.titulo ib                        90103          -2.799,19                     
+      internet banking                                                                   
+      pagamento de titulo ib                                                             
+10/01 pgto.titulo ib                       100128          -1.014,81            25.035,56
+      internet banking                                                                   
+      pagamento de titulo ib                                                             
+12/01 dep.ch.24 horas                       13500             305,25                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+12/01 dep.ch.24 horas                       13500             579,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+12/01 dep.ch.24 horas                       13500           1.265,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+12/01 dep.ch.24 horas                       13500           1.000,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+12/01 dep.ch.24 horas                       13500           6.850,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+12/01 transf cred autor                    120157          24.260,41                     
+      internet banking                                                                   
+      transferencia credito autorizado                                                   
+      63883672000102 t l c terraplanagem ltda                                            
+12/01 transf cred autor                    120100           1.000,00            60.295,22
+      internet banking                                                                   
+      transferencia credito autorizado                                                   
+      63883672000102 t l c terraplanagem ltda                                            
+15/01 dep.ch.24 horas                       13500           2.465,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+15/01 dep.ch.24 horas                       13500             600,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+15/01 dep.ch.24 horas                       13500             561,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+15/01 dep.ch.24 horas                       13500           2.692,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+15/01 dep.ch.24 horas                       13500             770,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+15/01 dep.ch.24 horas                       13500           2.210,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+15/01 pagto pix externo                         0         -50.000,00                     
+      internet banking                                                                   
+      pagamento pix externo                                                              
+      26953545000106 n candida queiroz silva c                                           
+15/01 transf cred autor                    160145           1.500,00                     
+      internet banking                                                                   
+      transferencia credito autorizado                                                   
+      63883672000102 t l c terraplanagem ltda                                            
+15/01 transf cred autor                    160144          21.454,03                     
+      internet banking                                                                   
+      transferencia credito autorizado                                                   
+      63883672000102 t l c terraplanagem ltda                                            
+15/01 tar pix exte emissao                 150124             -12,00                     
+      tarifa pix externo emissao                                                         
+15/01 remun conta+                         240115               0,10            42.535,35
+      remuneracao conta+                                                                 
+19/01 pag boleto ibk                       110105            -953,31                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+19/01 pagto. dae   ib                      110127          -2.220,88                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+19/01 remun conta+                         240119               0,04            39.361,20
+      remuneracao conta+                                                                 
+22/01 dep.ch.24 horas                       13500             814,20                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+22/01 dep.ch.24 horas                       13500           4.183,13                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+22/01 dep.ch.24 horas                       13500           1.535,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+22/01 dep.ch.24 horas                       13500           1.440,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+22/01 dep.ch.24 horas                       13500             400,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+22/01 dep.ch.24 horas                       13500             333,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+22/01 dep.ch.24 horas                       13500             268,90                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+22/01 pagto. dae   ib                      110118            -240,36                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+22/01 pag boleto ibk                       110150            -104,51                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+22/01 remun conta+                         240122               0,01            47.990,57
+      remuneracao conta+                                                                 
+23/01 pagto. dae   ib                      140101            -355,73            47.634,84
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+24/01 dep.ch.24 horas                       13500           4.154,86                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+24/01 dep.ch.24 horas                       13500          10.163,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+24/01 dep.ch.24 horas                       13500           1.000,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+24/01 dep.ch.24 horas                       13500           1.676,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+24/01 dep.ch.24 horas                       13500           1.300,00            65.928,70
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+25/01 transf cred autor                    140127          22.530,44                     
+      internet banking                                                                   
+      transferencia credito autorizado                                                   
+      63883672000102 t l c terraplanagem ltda                                            
+25/01 pacote tarifa pj ii                  240124            -109,00            88.350,14
+      pacote tarifa pessoa juridica ii                                                   
+26/01 dep.ch.24 horas                       13500           3.000,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+26/01 dep.ch.24 horas                       13500             330,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+26/01 dep.ch.24 horas                       13500             269,60                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+26/01 dep.ch.24 horas                       13500           5.627,00            97.576,74
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+29/01 pagto. dae   ib                      140109            -114,46                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+29/01 pagto. dae   ib                      140102            -721,07                     
+      internet banking                                                                   
+      pagamento dae   ib                                                                 
+29/01 pag boleto ibk                       140140            -310,53                     
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+29/01 pag boleto ibk                       140155             -56,44            96.374,24
+      internet banking                                                                   
+      pagamento boleto ibk                                                               
+30/01 dep.ch.24 horas                       13500             950,00                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+30/01 dep.ch.24 horas                       13500           1.231,98                     
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+30/01 dep.ch.24 horas                       13500          10.000,00           108.556,22
+      caixa presencial                                                                   
+      xxx53473xxx ana paula de queiroz silva d                                           
+-----------------------------------------------------------------------------------------
+* sujeito a alteracao ate o final do expediente.                                         
+                                                                                         
+                                                                                         
+                                                                                         
+disponibilidades em 01/02/2024:                                                          
+saldo conta corrente                                                            28.361,02
+saldo para saque                                                                28.361,02
+                                                                                         
+                                                                                         
+                                                                                         
+--------------------------------------------------------------------------------------------
+central banpara (belém e região metropolitana, marabá e santarém)                   30044444
+central banpara (demais localidades)                                           0800 285 8080
+sac (informações e reclamações)                                                0800 280 6605
+sac deficiente auditivo                                                        0800 280 1817
+ouvidoria                                                                      0800 280 9040
+-------------------------------- sua agência na ponta da linha -----------------------------
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

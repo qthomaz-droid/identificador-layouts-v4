@@ -1,0 +1,385 @@
+
+ofxheader:100
+data:ofxsgml
+version:102
+security:none
+encoding:usascii
+charset:1252
+compression:none
+oldfileuid:none
+newfileuid:none
+
+<ofx>
+<signonmsgsrsv1>
+<sonrs>
+<status>
+<code>0
+<severity>info
+</status>
+<dtserver>00000000000000
+<language>por
+</sonrs>
+</signonmsgsrsv1>
+<bankmsgsrsv1>
+<stmttrnrs>
+<trnuid>1001
+<status>
+<code>0
+<severity>info
+</status>
+<stmtrs>
+<curdef>brl
+<bankacctfrom>
+<bankid>0237
+<acctid>27012
+<accttype>checking
+</bankacctfrom>
+<banktranlist>
+<dtstart>20200107120000
+<dtend>20200107120000
+<stmttrn>
+<trntype>credit
+<dtposted>20191202120000
+<trnamt>420,86
+<fitid>n10147
+<checknum>165650
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191202120000
+<trnamt>-420,86
+<fitid>n1015b
+<checknum>178
+<memo>pagto eletron  cobranca bradesco vida e previdencia
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191203120000
+<trnamt>1451,20
+<fitid>n10171
+<checknum>52790
+<memo>transf cc para cc pj star plast indl e coml p. p. ltd
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191203120000
+<trnamt>4192,43
+<fitid>n10187
+<checknum>165650
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191203120000
+<trnamt>5710,28
+<fitid>n1019b
+<checknum>6603286
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191203120000
+<trnamt>2787,24
+<fitid>n101af
+<checknum>7851666
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191203120000
+<trnamt>309,04
+<fitid>n101c3
+<checknum>8391710
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191203120000
+<trnamt>-386,51
+<fitid>n101d7
+<checknum>3504
+<memo>cheque especie
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191203120000
+<trnamt>-171,78
+<fitid>n101ed
+<checknum>3496
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191203120000
+<trnamt>-3310,05
+<fitid>n10201
+<checknum>3497
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191203120000
+<trnamt>-4581,85
+<fitid>n10215
+<checknum>3501
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191203120000
+<trnamt>-4000,00
+<fitid>n10229
+<checknum>3502
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191203120000
+<trnamt>-2000,00
+<fitid>n1023d
+<checknum>3503
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191209120000
+<trnamt>2251,08
+<fitid>n10251
+<checknum>8391710
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191209120000
+<trnamt>-251,08
+<fitid>n10265
+<checknum>176
+<memo>pagto eletron  cobranca hdi seguros s/a
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191209120000
+<trnamt>-2000,00
+<fitid>n1027b
+<checknum>3505
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191210120000
+<trnamt>662,64
+<fitid>n1028f
+<checknum>6913738
+<memo>ted-transf elet dispon remet.marsala industria e
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191210120000
+<trnamt>13112,67
+<fitid>n102a5
+<checknum>3645892
+<memo>transf cc para cc pj fgvtn brasil ltda
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191210120000
+<trnamt>-5349,66
+<fitid>n102bb
+<checknum>6562326
+<memo>aplic.invest facil
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191210120000
+<trnamt>-4425,65
+<fitid>n102cf
+<checknum>3499
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191210120000
+<trnamt>-4000,00
+<fitid>n102e3
+<checknum>3500
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191211120000
+<trnamt>492,66
+<fitid>n102f7
+<checknum>251350
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191211120000
+<trnamt>590,94
+<fitid>n1030b
+<checknum>8391710
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191211120000
+<trnamt>-1083,60
+<fitid>n1031f
+<checknum>3498
+<memo>cheque compensado
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191213120000
+<trnamt>2484,42
+<fitid>n10333
+<checknum>3282527
+<memo>ted-transf elet dispon remet.viqua industria de p
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191213120000
+<trnamt>1197,14
+<fitid>n10349
+<checknum>980326
+<memo>transf cc para cc pj joao batista fiorani   me
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191213120000
+<trnamt>-88,85
+<fitid>n1035f
+<checknum>21219
+<memo>tarifa bancaria cesta pj 3
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191213120000
+<trnamt>-3592,71
+<fitid>n10375
+<checknum>7899682
+<memo>aplic.invest facil
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191216120000
+<trnamt>3321,15
+<fitid>n10389
+<checknum>3409427
+<memo>transf cc para cc pj pinceis roma ltda
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191216120000
+<trnamt>-3321,15
+<fitid>n1039f
+<checknum>8497893
+<memo>aplic.invest facil
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191218120000
+<trnamt>328,76
+<fitid>n103b3
+<checknum>9782914
+<memo>ted-transf elet dispon remet.base componentes ind
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191218120000
+<trnamt>-328,76
+<fitid>n103c9
+<checknum>9402950
+<memo>aplic.invest facil
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191219120000
+<trnamt>93,66
+<fitid>n103dd
+<checknum>2104373
+<memo>ted-transf elet dispon remet.industria m balli ei
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191226120000
+<trnamt>6625,87
+<fitid>n103f3
+<checknum>1053031
+<memo>ted-transf elet dispon remet.industria dryko ltda
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191226120000
+<trnamt>15787,06
+<fitid>n10409
+<checknum>3645960
+<memo>transf cc para cc pj fgvtn brasil ltda
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191226120000
+<trnamt>-986,34
+<fitid>n1041f
+<checknum>184
+<memo>pagto eletron  cobranca bradesco vida e previdencia s/a
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191226120000
+<trnamt>-262,88
+<fitid>n10435
+<checknum>185
+<memo>pagto eletron  cobranca bradesco vida e previdencia s/a
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191226120000
+<trnamt>-21257,37
+<fitid>n1044b
+<checknum>2071971
+<memo>aplic.invest facil
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191227120000
+<trnamt>1072,48
+<fitid>n1045f
+<checknum>251350
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191227120000
+<trnamt>-1072,48
+<fitid>n10473
+<checknum>182
+<memo>pagto eletron  cobranca bradesco vida e previdencia
+</stmttrn>
+<stmttrn>
+<trntype>credit
+<dtposted>20191230120000
+<trnamt>420,86
+<fitid>n10489
+<checknum>251350
+<memo>resgate invest facil
+</stmttrn>
+<stmttrn>
+<trntype>debit
+<dtposted>20191230120000
+<trnamt>-420,86
+<fitid>n1049d
+<checknum>183
+<memo>pagto eletron  cobranca bradesco vida e previdencia
+</stmttrn>
+</banktranlist>
+<ledgerbal>
+<balamt>49546,07
+<dtasof>00000000
+</ledgerbal>
+</stmtrs>
+</stmttrnrs>
+</bankmsgsrsv1>
+</ofx>
+extrato_conciliado_prosoft

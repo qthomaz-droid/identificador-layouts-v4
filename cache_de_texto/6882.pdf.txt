@@ -1,0 +1,181 @@
+biotec biologica ind farmaceutica ltda
+relatorio de consulta extratos                                                                                                                 pagina : 001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+periodo ... : 01/12/2025 a 31/12/2025
+conta caixa : 0000005  banco do brasil
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+data        numero   documento     centro custo         plano de contas      obs                                      debito       credito           saldo
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              saldo anterior   2.071.736,68
+01/12/2025  0032253  bif250086-fi  salbutamol            1.1.01.02.                                           1.046.576,48          0,00    1.025.160,20
+  obs: pgto:16961-banco do brasil s.a                                                                      
+01/12/2025  0032255  nf 0001605/1  salbutamol            1.1.01.02.                                                   0,00     89.000,00    1.114.160,20
+  obs: venda mercadoria orgao publico nf 1605                                                              
+01/12/2025  0032257  71454373594   salbutamol            1.1.01.02.                                                 320,03          0,00    1.113.840,17
+  obs: pgto:16964-banco do brasil s.a                                                                      
+01/12/2025  0032259  7145373594-2  salbutamol            1.1.01.02.                                                 106,68          0,00    1.113.733,49
+  obs: pgto:16966-banco do brasil s.a                                                                      
+01/12/2025  0032261  120.102       financeiro            1.1.01.02.                                             231.165,50          0,00      882.567,99
+  obs: pgto:16968-banco santander (brasil) s.a                                                             
+01/12/2025  0032263  120102        financeiro            1.1.01.02.                                             160.000,00          0,00      722.567,99
+  obs: pgto:16970-banco santander (brasil) s.a                                                             
+01/12/2025  0032315  nf 0001676/1  salbutamol            1.1.01.02.                                                   0,00     50.629,07      773.197,06
+  obs: venda mercadoria orgao publico                                                                      
+01/12/2025  0032317  nf 0001460/1  salbutamol            1.1.01.02.                                                   0,00     13.585,00      786.782,06
+  obs: baixa fundo municipal de saude - rio bri                                                            
+01/12/2025  0032385  00001         salbutamol            1.1.01.02.                                                   0,00     12.168,30      798.950,36
+  obs: ajuste de saldo                                                                                     
+02/12/2025  0032351  nf 0001608/1  salbutamol            1.1.01.02.                                                   0,00        512,78      799.463,14
+  obs: baixa municipio de ibirite                                                                          
+02/12/2025  0032353  nf 0001646/1  salbutamol            1.1.01.02.                                                   0,00     83.152,06      882.615,20
+  obs: baixa distrito federal secretaria de sau                                                            
+02/12/2025  0032355  0754517/01    salbutamol            1.1.01.02.                                              30.634,85          0,00      851.980,35
+  obs: pgto:17041-embraport empresa brasileira de terminai                                                 
+03/12/2025  0032345  25.925.912    salbutamol            1.1.01.02.                                           1.034.553,58          0,00     -182.573,23
+  obs: pgto:17037-banco do brasil s.a                                                                      
+03/12/2025  0032348  98            financeiro            1.1.01.02.                                                   0,00    163.500,00      -19.073,23
+  obs: resgate bb cdb di                                                                                   
+03/12/2025  0032350  261006242685  financeiro            1.1.01.02.                                                   0,00      4.852,68      -14.220,55
+  obs: resgate bb cdb di                                                                                   
+03/12/2025  0032359  nf 0001546/1  salbutamol            1.1.01.02.                                                   0,00      1.411,25      -12.809,30
+  obs: baixa emp. publ de saude do rio de janei                                                            
+03/12/2025  0032363  nf 0001548/1  salbutamol            1.1.01.02.                                                   0,00      1.411,25      -11.398,05
+  obs: baixa emp. publ de saude do rio de janei                                                            
+03/12/2025  0032365  nf 0001549/1  salbutamol            1.1.01.02.                                                   0,00      1.411,25       -9.986,80
+  obs: baixa emp. publ de saude do rio de janei                                                            
+03/12/2025  0032367  nf 0001550/1  salbutamol            1.1.01.02.                                                   0,00      1.411,25       -8.575,55
+  obs: baixa emp. publ de saude do rio de janei                                                            
+03/12/2025  0032369  nf 0001551/1  salbutamol            1.1.01.02.                                                   0,00      1.411,25       -7.164,30
+  obs: baixa emp. publ de saude do rio de janei                                                            
+03/12/2025  0032371  nf 0001552/1  salbutamol            1.1.01.02.                                                   0,00      1.411,25       -5.753,05
+  obs: baixa emp. publ de saude do rio de janei                                                            
+03/12/2025  0032373  nf 0001553/1  salbutamol            1.1.01.02.                                                   0,00      1.411,25       -4.341,80
+  obs: baixa emp. publ de saude do rio de janei                                                            
+03/12/2025  0032375  nf 0001607/1  salbutamol            1.1.01.02.                                                   0,00      1.754,69       -2.587,11
+  obs: baixa municipio de porto alegre                                                                     
+03/12/2025  0032377  nf 0001545/1  salbutamol            1.1.01.02.                                                   0,00        919,00       -1.668,11
+  obs: baixa fundo municipal de saude de marago                                                            
+continua----------------------------------------------------------------------------------------------------------------------------------------------------
+  
+biotec biologica ind farmaceutica ltda
+relatorio de consulta extratos                                                                                                                 pagina : 001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+periodo ... : 01/12/2025 a 31/12/2025
+conta caixa : 0000005  banco do brasil
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+data        numero   documento     centro custo         plano de contas      obs                                      debito       credito           saldo
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              saldo anterior   2.071.736,68
+03/12/2025  0032379  nf 0001635/1  salbutamol            1.1.01.02.                                                   0,00      3.991,52        2.323,41
+  obs: baixa f.m.s de marechal floriano                                                                    
+03/12/2025  0032381  nf 0001756/1  salbutamol            1.1.01.02.                                                   0,00      2.815,80        5.139,21
+  obs: baixa fundo municipal de saude de itaber                                                            
+03/12/2025  0032396  98            financeiro            1.1.01.02.                                                   0,00     48.500,00       53.639,21
+  obs: resgate bb cdb di                                                                                   
+04/12/2025  0032383  nf 0001665/1  salbutamol            1.1.01.02.                                                   0,00      3.260,40       56.899,61
+  obs: baixa municipio de guaruja                                                                          
+04/12/2025  0032391  nf 0001615/2  salbutamol            1.1.01.02.                                                   0,00     12.835,00       69.734,61
+  obs: baixa fer hosp imp, export e distrib ltd                                                            
+05/12/2025  0032269  12.501        financeiro            1.1.01.02.                                              77.000,00          0,00       -7.265,39
+  obs: pgto:16976-banco santander (brasil) s.a                                                             
+05/12/2025  0032387  nf 0001664/1  salbutamol            1.1.01.02.                                                   0,00      5.335,20       -1.930,19
+  obs: baixa municipio de sao roque                                                                        
+05/12/2025  0032389  nf 0001644/3  salbutamol            1.1.01.02.                                                   0,00      2.350,00          419,81
+  obs: baixa especifarma comercio de med prod h                                                            
+05/12/2025  0032398  261006242685  financeiro            1.1.01.02.                                                   0,00      1.480,22        1.900,03
+  obs: resgate cdb di                                                                                      
+08/12/2025  0032275  873421100427  financeiro            1.1.01.02.                                                  20,00          0,00        1.880,03
+  obs: pgto:16982-banco do brasil s.a                                                                      
+08/12/2025  0032277  120802        financeiro            1.1.01.02.                                              50.000,00          0,00      -48.119,97
+  obs: pgto:16984-banco santander (brasil) s.a                                                             
+08/12/2025  0032279  120803        financeiro            1.1.01.02.                                              10.000,00          0,00      -58.119,97
+  obs: pgto:16986-banco santander (brasil) s.a                                                             
+08/12/2025  0032401  bif 250071    salbutamol            1.1.01.02.                                               5.891,45          0,00      -64.011,42
+  obs: pgto:17063-global comissaria de despachos aduaneiro                                                 
+08/12/2025  0032403  nf 0001660/1  salbutamol            1.1.01.02.                                                   0,00      1.037,66      -62.973,76
+  obs: baixa emp brasileira de serv hosp -ebser                                                            
+08/12/2025  0032405  17685-9       salbutamol            1.1.01.02.                                                   0,00      3.500,00      -59.473,76
+  obs: baixa ello distribuicao ltda                                                                        
+08/12/2025  0032408  98            financeiro            1.1.01.02.                                                   0,00     38.500,00      -20.973,76
+  obs: resgate cdb                                                                                         
+08/12/2025  0032409  nf 0001663/2  salbutamol            1.1.01.02.                                                   0,00     21.000,00           26,24
+  obs: baixa especifarma comercio de med prod h                                                            
+09/12/2025  0032281  120901        financeiro            1.1.01.02.                                              15.000,00          0,00      -14.973,76
+  obs: pgto:16988-banco santander (brasil) s.a                                                             
+09/12/2025  0032283  120902903     financeiro            1.1.01.02.                                              88.000,00          0,00     -102.973,76
+  obs: pgto:16990-banco santander (brasil) s.a                                                             
+09/12/2025  0032285  863431200053  financeiro            1.1.01.02.                                                  30,00          0,00     -103.003,76
+  obs: pgto:16992-banco do brasil s.a                                                                      
+09/12/2025  0032411  nf 0001726/1  salbutamol            1.1.01.02.                                                   0,00      8.941,40      -94.062,36
+  obs: baixa municipio de canela                                                                           
+09/12/2025  0032413  nf 0001732/1  salbutamol            1.1.01.02.                                                   0,00      2.094,56      -91.967,80
+  obs: baixa sec. da saude do estado do ceara                                                              
+09/12/2025  0032416  261006242685  financeiro            1.1.01.02.                                                   0,00      1.191,19      -90.776,61
+  obs: resgate cdb                                                                                         
+09/12/2025  0032418  98            financeiro            1.1.01.02.                                                   0,00     90.500,00         -276,61
+  obs: resgate cdb                                                                                         
+09/12/2025  0032419  911140552318  salbutamol            1.1.01.02.                                                   0,00        332,93           56,32
+  obs: baixa joao r da silva junior ltda                                                                   
+continua----------------------------------------------------------------------------------------------------------------------------------------------------
+  
+biotec biologica ind farmaceutica ltda
+relatorio de consulta extratos                                                                                                                 pagina : 001
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+periodo ... : 01/12/2025 a 31/12/2025
+conta caixa : 0000005  banco do brasil
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+data        numero   documento     centro custo         plano de contas      obs                                      debito       credito           saldo
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                              saldo anterior   2.071.736,68
+09/12/2025  0032426  261006242685  financeiro            1.1.01.02.                                                   0,00      2.839,89        2.896,21
+  obs: resgate cdb                                                                                         
+10/12/2025  0032207  bbcons01      financeiro            1.1.01.02.                                               2.687,64          0,00          208,57
+  obs: pgto:16929-banco do brasil s.a                                                                      
+10/12/2025  0032209  bbcons02      financeiro            1.1.01.02.                                               2.687,64          0,00       -2.479,07
+  obs: pgto:16931-banco do brasil s.a                                                                      
+10/12/2025  0032211  bbcons03      financeiro            1.1.01.02.                                               2.687,64          0,00       -5.166,71
+  obs: pgto:16933-banco do brasil s.a                                                                      
+10/12/2025  0032213  bbcons04      financeiro            1.1.01.02.                                               2.687,64          0,00       -7.854,35
+  obs: pgto:16935-banco do brasil s.a                                                                      
+10/12/2025  0032421  nf 0001666/1  salbutamol            1.1.01.02.                                                   0,00      4.544,80       -3.309,55
+  obs: baixa universidade de sao paulo                                                                     
+10/12/2025  0032423  nf 0001655/1  salbutamol            1.1.01.02.                                                   0,00      2.717,00         -592,55
+  obs: baixa fundo mun d saud d novo horizonte                                                             
+10/12/2025  0032427  nf 0001684/1  salbutamol            1.1.01.02.                                                   0,00      3.365,53        2.772,98
+  obs: baixa hospital de clinicas de porto aleg                                                            
+10/12/2025  0032431  nf 0001743/1  salbutamol            1.1.01.02.                                                   0,00        151,16        2.924,14
+  obs: baixa cons. int. de saude do oeste de mt                                                            
+10/12/2025  0032434  98            financeiro            1.1.01.02.                                                   0,00     13.000,00       15.924,14
+  obs: resgate cdb di                                                                                      
+10/12/2025  0032493  152.135.879   geral                 1.1.01.02.                                              15.489,01          0,00          435,13
+  obs: pgto:17108-banco do brasil s.a                                                                      
+11/12/2025  0032291  893451200055  financeiro            1.1.01.02.                                                   4,95          0,00          430,18
+  obs: pgto:16998-banco do brasil s.a                                                                      
+11/12/2025  0032293  813451100052  financeiro            1.1.01.02.                                                   4,20          0,00          425,98
+  obs: pgto:17000-banco do brasil s.a                                                                      
+11/12/2025  0032295  121101        financeiro            1.1.01.02.                                                 500,00          0,00          -74,02
+  obs: pgto:17002-banco santander (brasil) s.a                                                             
+11/12/2025  0032435  nf 0001639/1  salbutamol            1.1.01.02.                                                   0,00    168.450,05      168.376,03
+  obs: venda mercadoria orgao publico                                                                      
+11/12/2025  0032437  nf 0001640/1  salbutamol            1.1.01.02.                                                   0,00        350,94      168.726,97
+  obs: venda mercadoria orgao publico                                                                      
+11/12/2025  0032439  nf 0001685/1  salbutamol            1.1.01.02.                                                   0,00    108.166,24      276.893,21
+  obs: venda mercadoria orgao publico                                                                      
+11/12/2025  0032442  261006242685  financeiro            1.1.01.02.                                                   0,00        413,40      277.306,61
+  obs: resgate cdb di                                                                                      
+11/12/2025  0032443  nf 0001721/1  salbutamol            1.1.01.02.                                                   0,00      1.037,66      278.344,27
+  obs: venda mercadoria orgao publico ir2.2%                                                               
+11/12/2025  0032447  nf 0001628/1  salbutamol            1.1.01.02.                                                   0,00        726,36      279.070,63
+  obs: venda mercadoria orgao publico ir2,2%                                                               
+12/12/2025  0032297  000504450/01  salbutamol            1.1.01.02.                                                 100,94          0,00      278.969,69
+  obs: pgto:17004-vitoria provedora logistica ltda                                                         
+12/12/2025  0032299  000504456/01  salbutamol            1.1.01.02.                                                  98,70          0,00      278.870,99
+  obs: pgto:17006-vitoria provedora logistica ltda                                                         
+12/12/2025  0032301  000504410/01  salbutamol            1.1.01.02.                                                  66,98          0,00      278.804,01
+  obs: pgto:17008-vitoria provedora logistica ltda                                                         
+12/12/2025  0032303  19780         salbutamol            1.1.01.02.                                               3.570,03          0,00      275.233,98
+  obs: pgto:17010-notos transporte e logistica ltda                                                        
+12/12/2025  0032305  000052498/01  salbutamol            1.1.01.02.                                                 494,25          0,00      274.739,73
+  obs: pgto:17012-macaw brasil transportes ltda                                                            
+continua----------------------------------------------------------------------------------------------------------------------------------------------------
+  

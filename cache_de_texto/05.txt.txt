@@ -1,0 +1,514 @@
+================================================================================================================================================================
+extrato conta corrente                                                                                                                         g3340416070283481
+                                                                                                                                             04/06/2024 16:12:07
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+cliente - cliente atual
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+agncia                       950-4
+conta corrente                17281-2 monte alto net ltda me
+perodo do extrato            
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+lanamentos
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ dt. movimento  dt. balancete    ag. origem        lote     histrico                                    documento         valor r$            saldo
+   30/04/2024                       0000          00000     000 saldo anterior                                                                0,00 c
+   02/05/2024                       0000          14020     624 cobrana                       111.231.000.006.620       7.029,84 c       7.029,84 c
+   02/05/2024                       0000          14397     821 pix - recebido                 146.542.886.174.111          59,90 c       7.089,74 c
+                              02/05 09:51 36446397879 vander apareci
+   02/05/2024                       0950          99015     470 transferncia enviada          550.950.000.024.711         230,00 d       6.859,74 c
+                              02/05 09:15 eder & alberto comercio
+   02/05/2024                       0000          13105     109 pagamento de boleto                         50.201         632,36 d       6.227,38 c
+                              aymore cred.fin.e invest.s/a
+   02/05/2024                       0000          13105     109 pagamento de boleto                         50.202       2.331,50 d       3.895,88 c
+                              organizacao educacional barao
+   02/05/2024                       0000          13105     393 ted transf.eletr.disponiv                   50.203     400.000,00 d     396.104,12 d
+                              237 0260 07188816808 carlos sadao enok
+   02/05/2024                       0000          13105     361 pgto conta gua                             50.204         182,55 d     396.286,67 d
+                              sabesp
+   02/05/2024                       0000          13105     363 pagto conta telefone                        50.205          34,44 d     396.321,11 d
+                              telecomunicacoes de
+   02/05/2024                       0000          13105     109 pagamento de boleto                         50.206         548,07 d     396.869,18 d
+                              ebanx ltda
+   02/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,81 d     396.869,99 d
+                              tar. agrupadas - ocorrencia 30/04/2024
+   02/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           2,43 d     396.872,42 d
+                              tar. agrupadas - ocorrencia 30/04/2024
+   02/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          73,71 d     396.946,13 d
+                              tar. agrupadas - ocorrencia 30/04/2024
+   02/05/2024                       0000          00000     798 bb rende fcil                               9.903     396.946,13 c           0,00 c
+   03/05/2024                       0000          14020     624 cobrana                       111.241.000.003.727      22.354,26 c      22.354,26 c
+   03/05/2024                       0000          14397     821 pix - recebido                 147.420.755.438.971         559,30 c      22.913,56 c
+                              03/05 10:14 46057987810 wellington da
+   03/05/2024                       0000          13105     109 pagamento de boleto                         50.301         360,00 d      22.553,56 c
+                              yapay pagamentos online ltda
+   03/05/2024                       0000          13105     109 pagamento de boleto                         50.302       2.000,00 d      20.553,56 c
+                              vgm monteiro - me
+   03/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           2,43 d      20.551,13 c
+                              tar. agrupadas - ocorrencia 02/05/2024
+   03/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          19,44 d      20.531,69 c
+                              tar. agrupadas - ocorrencia 01/05/2024
+   03/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         212,22 d      20.319,47 c
+                              tar. agrupadas - ocorrencia 02/05/2024
+   03/05/2024                       0000          00000     351 bb rende fcil                               9.903      20.319,47 d           0,00 c
+   06/05/2024                       0000          14397     821 pix - recebido                  61.533.443.133.012          79,90 c          79,90 c
+                              06/05 15:33 00036794835894 paula apare
+   06/05/2024                       0000          14020     624 cobrana                       111.271.000.006.811      24.340,00 c      24.419,90 c
+   06/05/2024                       0000          14397     821 pix - recebido                 150.270.947.817.111          59,90 c      24.479,80 c
+                              06/05 17:24 42984000854 paulo victor d
+   06/05/2024                       0000          13105     109 pagamento de boleto                         50.601         238,55 d      24.241,25 c
+                              jose manoel sanches & cia ltda
+   06/05/2024                       0000          13105     109 pagamento de boleto                         50.602       4.131,66 d      20.109,59 c
+                              mk solutions criacao de software ltda
+   06/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           4,05 d      20.105,54 c
+                              tar. agrupadas - ocorrencia 03/05/2024
+   06/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           9,72 d      20.095,82 c
+                              tar. agrupadas - ocorrencia 03/05/2024
+   06/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         253,53 d      19.842,29 c
+                              tar. agrupadas - ocorrencia 03/05/2024
+   06/05/2024                       0000          00000     351 bb rende fcil                               9.903      19.842,29 d           0,00 c
+   07/05/2024                       0000          14397     821 pix - recebido                  71.049.592.079.972          83,80 c          83,80 c
+                              07/05 10:49 00022188591810 fabio leand
+   07/05/2024                       0000          14397     821 pix - recebido                  71.423.384.616.442          71,90 c         155,70 c
+                              07/05 14:23 00044445577880 rodrigo nun
+   07/05/2024                       0000          14020     624 cobrana                       111.281.000.006.292      62.099,69 c      62.255,39 c
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           1,62 d      62.253,77 c
+                              tar. agrupadas - ocorrencia 04/05/2024
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,81 d      62.252,96 c
+                              tar. agrupadas - ocorrencia 05/05/2024
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           6,48 d      62.246,48 c
+                              tar. agrupadas - ocorrencia 06/05/2024
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          10,53 d      62.235,95 c
+                              tar. agrupadas - ocorrencia 04/05/2024
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          11,34 d      62.224,61 c
+                              tar. agrupadas - ocorrencia 05/05/2024
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          37,26 d      62.187,35 c
+                              tar. agrupadas - ocorrencia 06/05/2024
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         110,97 d      62.076,38 c
+                              tar. agrupadas - ocorrencia 04/05/2024
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          41,31 d      62.035,07 c
+                              tar. agrupadas - ocorrencia 05/05/2024
+   07/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         464,13 d      61.570,94 c
+                              tar. agrupadas - ocorrencia 06/05/2024
+   07/05/2024                       0000          00000     351 bb rende fcil                               9.903      61.570,94 d           0,00 c
+   08/05/2024                       0000          14020     624 cobrana                       111.291.000.006.137      40.675,11 c      40.675,11 c
+   08/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,81 d      40.674,30 c
+                              tar. agrupadas - ocorrencia 07/05/2024
+   08/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           7,29 d      40.667,01 c
+                              tar. agrupadas - ocorrencia 07/05/2024
+   08/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          21,87 d      40.645,14 c
+                              tar. agrupadas - ocorrencia 07/05/2024
+   08/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         420,39 d      40.224,75 c
+                              tar. agrupadas - ocorrencia 07/05/2024
+   08/05/2024                       0000          00000     351 bb rende fcil                               9.903      40.224,75 d           0,00 c
+   09/05/2024                       0000          14175     976 ted-crdito em conta                    34.031.932         579,60 c         579,60 c
+                              104 0890 68384593000170 imobiliaria pr
+   09/05/2024                       0000          14397     821 pix - recebido                  91.149.354.067.142          79,90 c         659,50 c
+                              09/05 11:49 00040038888807 bruna marce
+   09/05/2024                       0000          14020     624 cobrana                       111.301.000.006.071      41.202,40 c      41.861,90 c
+   09/05/2024                       0000          13105     109 pagamento de boleto                         50.901         536,24 d      41.325,66 c
+                              amarelinha supermercados ltda
+   09/05/2024                       0000          13105     109 pagamento de boleto                         50.902       1.552,19 d      39.773,47 c
+                              claranet technology s a
+   09/05/2024                       0000          13105     109 pagamento de boleto                         50.903          29,73 d      39.743,74 c
+                              claranet technology s a
+   09/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          11,34 d      39.732,40 c
+                              tar. agrupadas - ocorrencia 08/05/2024
+   09/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          47,79 d      39.684,61 c
+                              tar. agrupadas - ocorrencia 08/05/2024
+   09/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         394,47 d      39.290,14 c
+                              tar. agrupadas - ocorrencia 08/05/2024
+   09/05/2024                       0000          00000     351 bb rende fcil                               9.903      39.290,14 d           0,00 c
+   10/05/2024                       0000          14134     612 recebimento fornecedor                     351.643       1.147,50 c       1.147,50 c
+                              fugini alimentos ltda
+   10/05/2024                       0000          14397     821 pix - recebido                 101.151.146.830.292          74,00 c       1.221,50 c
+                              10/05 11:51 00026463167800 silvia mari
+   10/05/2024                       0000          14020     624 cobrana                       111.311.000.006.601      36.613,92 c      37.835,42 c
+   10/05/2024                       0000          14397     821 pix - recebido                 153.363.085.607.161          75,90 c      37.911,32 c
+                              10/05 07:18 36980992848 raphael cosset
+   10/05/2024                       0000          14397     821 pix - recebido                 153.626.418.203.571          90,00 c      38.001,32 c
+                              10/05 14:37 16707859803 miriam florind
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.001         293,94 d      37.707,38 c
+                              municipio de vista alegre do alto
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.002         179,80 d      37.527,58 c
+                              maria luciana machado
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.003         232,75 d      37.294,83 c
+                              jose manoel sanches & cia ltda
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.004         250,00 d      37.044,83 c
+                              pjbank pagamentos s a
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.005       1.088,00 d      35.956,83 c
+                              origem contabilidade ltda
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.006         450,00 d      35.506,83 c
+                              jonathan pereira ramos
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.007       3.144,23 d      32.362,60 c
+                              associacao comercial e industr
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.008         100,00 d      32.262,60 c
+                              irmandade de misericordia do hospital
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.009         148,00 d      32.114,60 c
+                              galax pay pagamentos eletronic
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.010         379,87 d      31.734,73 c
+                              associaco dos moradores do re
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.011         125,00 d      31.609,73 c
+                              automacao e seguranca eletronica belfe
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.012         300,00 d      31.309,73 c
+                              comunicacao visual monte alto
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.013         480,52 d      30.829,21 c
+                              distribuidora de eletronicos route 66
+   10/05/2024                       0000          13105     109 pagamento de boleto                         51.014         220,00 d      30.609,21 c
+                              campestre clube de monte alto
+   10/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           1,62 d      30.607,59 c
+                              tar. agrupadas - ocorrencia 09/05/2024
+   10/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          20,25 d      30.587,34 c
+                              tar. agrupadas - ocorrencia 09/05/2024
+   10/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         378,27 d      30.209,07 c
+                              tar. agrupadas - ocorrencia 09/05/2024
+   10/05/2024                       0000          00000     351 bb rende fcil                               9.903      30.209,07 d           0,00 c
+   13/05/2024                       0000          14020     624 cobrana                       111.341.000.006.520     112.136,94 c     112.136,94 c
+   13/05/2024                       0000          14397     821 pix - recebido                 131.136.239.693.342          22,00 c     112.158,94 c
+                              13/05 11:36 00030532742800 cleuza buen
+   13/05/2024                       0000          14397     821 pix - recebido                 154.347.804.983.351          63,90 c     112.222,84 c
+                              11/05 10:39 39575785827 camila marcell
+   13/05/2024                       0000          14397     821 pix - recebido                 156.084.177.109.361          99,90 c     112.322,74 c
+                              13/05 10:53 04972878000140 ronaldo ant
+   13/05/2024                       0000          13105     109 pagamento de boleto                         51.301         159,49 d     112.163,25 c
+                              mapfre seguros gerais s.a.
+   13/05/2024                       0000          13105     109 pagamento de boleto                         51.302      18.164,85 d      93.998,40 c
+                              invista net provedor de acesso
+   13/05/2024                       0000          13105     109 pagamento de boleto                         51.303       4.461,98 d      89.536,42 c
+                              dirpal distribuidora
+   13/05/2024                       0000          13105     109 pagamento de boleto                         51.304         115,00 d      89.421,42 c
+                              apradomix moveis corporativos
+   13/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          17,01 d      89.404,41 c
+                              tar. agrupadas - ocorrencia 10/05/2024
+   13/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         149,04 d      89.255,37 c
+                              tar. agrupadas - ocorrencia 10/05/2024
+   13/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,81 d      89.254,56 c
+                              tar. agrupadas - ocorrencia 10/05/2024
+   13/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,81 d      89.253,75 c
+                              tar. agrupadas - ocorrencia 10/05/2024
+   13/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         920,16 d      88.333,59 c
+                              tar. agrupadas - ocorrencia 10/05/2024
+   13/05/2024                       0000          00000     351 bb rende fcil                               9.903      88.333,59 d           0,00 c
+   14/05/2024                       0000          14020     624 cobrana                       111.351.000.006.031      26.708,73 c      26.708,73 c
+   14/05/2024                       0000          14397     821 pix - recebido                 156.902.552.411.331         131,00 c      26.839,73 c
+                              14/05 09:37 37899411823 aline apoliana
+   14/05/2024                       0000          14397     821 pix - recebido                 156.909.880.196.431          55,00 c      26.894,73 c
+                              14/05 09:49 46267290883 paulo srgio n
+   14/05/2024                       0000          14397     821 pix - recebido                 156.939.512.403.791         186,30 c      27.081,03 c
+                              14/05 10:39 93747276253 raimunda de so
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,81 d      27.080,22 c
+                              tar. agrupadas - ocorrencia 13/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           2,43 d      27.077,79 c
+                              tar. agrupadas - ocorrencia 11/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,81 d      27.076,98 c
+                              tar. agrupadas - ocorrencia 12/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           1,62 d      27.075,36 c
+                              tar. agrupadas - ocorrencia 13/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           9,72 d      27.065,64 c
+                              tar. agrupadas - ocorrencia 11/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           2,43 d      27.063,21 c
+                              tar. agrupadas - ocorrencia 12/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          18,63 d      27.044,58 c
+                              tar. agrupadas - ocorrencia 13/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          58,32 d      26.986,26 c
+                              tar. agrupadas - ocorrencia 11/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          10,53 d      26.975,73 c
+                              tar. agrupadas - ocorrencia 12/05/2024
+   14/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         183,06 d      26.792,67 c
+                              tar. agrupadas - ocorrencia 13/05/2024
+   14/05/2024                       0000          00000     351 bb rende fcil                               9.903      26.792,67 d           0,00 c
+   15/05/2024                       0000          14020     624 cobrana                       111.361.000.003.442      10.847,57 c      10.847,57 c
+   15/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,81 d      10.846,76 c
+                              tar. agrupadas - ocorrencia 14/05/2024
+   15/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           1,62 d      10.845,14 c
+                              tar. agrupadas - ocorrencia 14/05/2024
+   15/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           4,05 d      10.841,09 c
+                              tar. agrupadas - ocorrencia 14/05/2024
+   15/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         110,16 d      10.730,93 c
+                              tar. agrupadas - ocorrencia 14/05/2024
+   15/05/2024                       0000          00000     351 bb rende fcil                               9.903      10.730,93 d           0,00 c
+   16/05/2024                       0000          14020     624 cobrana                       111.371.000.005.932       4.359,22 c       4.359,22 c
+   16/05/2024                       0000          14397     821 pix - recebido                 158.880.296.973.561          74,60 c       4.433,82 c
+                              16/05 16:33 46459643000107 elonorte en
+   16/05/2024                       0000          13105     109 pagamento de boleto                         51.601         244,75 d       4.189,07 c
+                              amarelinha supermercados ltda
+   16/05/2024                       0000          13105     109 pagamento de boleto                         51.602         230,00 d       3.959,07 c
+                              nic.br
+   16/05/2024                       0000          13105     109 pagamento de boleto                         51.603         772,11 d       3.186,96 c
+                              condominio monte alto shopping center
+   16/05/2024                       0000          13105     109 pagamento de boleto                         51.604         116,40 d       3.070,56 c
+                              associacao dos proprietarios de imovei
+   16/05/2024                       0000          13105     375 impostos                                    51.605         361,83 d       2.708,73 c
+                              pref munic borborema iptu
+   16/05/2024                       0000          13105     109 pagamento de boleto                         51.606         150,00 d       2.558,73 c
+                              refrilav pecas e servicos ltda
+   16/05/2024                       0000          13105     109 pagamento de boleto                         51.607         685,56 d       1.873,17 c
+                              sistema vida de medicina ocupa
+   16/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           5,67 d       1.867,50 c
+                              tar. agrupadas - ocorrencia 15/05/2024
+   16/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          41,31 d       1.826,19 c
+                              tar. agrupadas - ocorrencia 15/05/2024
+   16/05/2024                       0000          00000     351 bb rende fcil                               9.903       1.826,19 d           0,00 c
+   17/05/2024                       0000          14020     624 cobrana                       111.381.000.006.235       7.241,38 c       7.241,38 c
+   17/05/2024                       0000          14397     821 pix - recebido                 159.546.078.604.631          43,00 c       7.284,38 c
+                              17/05 11:03 51937880000168 51937880 ed
+   17/05/2024                       0000          14397     821 pix - recebido                 159.667.308.829.181          51,50 c       7.335,88 c
+                              17/05 14:25 09099523882 jose augusto g
+   17/05/2024                       0000          13105     363 pagto conta telefone                        51.701         590,45 d       6.745,43 c
+                              claro s.a.
+   17/05/2024                       0000          13105     109 pagamento de boleto                         51.702      21.038,00 d      14.292,57 d
+                              up 2 tech do brasil ltda
+   17/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           5,67 d      14.298,24 d
+                              tar. agrupadas - ocorrencia 16/05/2024
+   17/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          71,28 d      14.369,52 d
+                              tar. agrupadas - ocorrencia 16/05/2024
+   17/05/2024                       0000          13113     124 cbr mbv man.vencidos               710.645.017.043           1,01 d      14.370,53 d
+                              tar. agrupadas - ocorrencia 17/05/2024
+   17/05/2024                       0000          00000     798 bb rende fcil                               9.903      14.370,53 c           0,00 c
+   20/05/2024                       0000          14020     624 cobrana                       111.411.000.006.764       7.878,89 c       7.878,89 c
+   20/05/2024                       0000          14397     821 pix - recebido                 162.273.365.755.151          59,90 c       7.938,79 c
+                              20/05 14:48 23660834831 toninho dias
+   20/05/2024                       0000          14397     821 pix - recebido                 191.616.242.931.522          59,90 c       7.998,69 c
+                              19/05 16:16 00036729174862 queli alina
+   20/05/2024                       0000          14397     821 pix - recebido                 200.721.359.347.072          51,90 c       8.050,59 c
+                              20/05 07:21 00045535143898 vitoria alm
+   20/05/2024                       0000          14397     821 pix - recebido                 201.737.467.450.842           6,00 c       8.056,59 c
+                              20/05 17:37 00036729174862 queli alina
+   20/05/2024                       0000          13153     302 ourocap                        315.927.004.351.387     100.000,00 d      91.943,41 d
+   20/05/2024                       0000          13105     109 pagamento de boleto                         52.001         374,18 d      92.317,59 d
+                              brasilprev seguros e previdencia s.a.
+   20/05/2024                       0000          13105     109 pagamento de boleto                         52.002         190,00 d      92.507,59 d
+                              nbg servicos administrativos l
+   20/05/2024                       0000          13105     375 impostos                                    52.003       6.080,48 d      98.588,07 d
+                              rfb-darf codigo de barras
+   20/05/2024                       0000          13105     363 pagto conta telefone                        52.004          89,99 d      98.678,06 d
+                              vivo fixo/brasil
+   20/05/2024                       0000          13105     109 pagamento de boleto                         52.005      30.780,00 d     129.458,06 d
+                              china telecom do brasil
+   20/05/2024                       0000          13105     109 pagamento de boleto                         52.006         339,72 d     129.797,78 d
+                              bradesco seg-resid outros
+   20/05/2024                       0000          13105     362 pagamento conta luz                         52.007         111,71 d     129.909,49 d
+                              cpfl cia paulista de forc
+   20/05/2024                       0000          13105     109 pagamento de boleto                         52.008         300,00 d     130.209,49 d
+                              luizacred s/a scfi
+   20/05/2024                       0000          13105     109 pagamento de boleto                         52.009      23.198,46 d     153.407,95 d
+                              banco bradesco s.a.
+   20/05/2024                       0000          13105     363 pagto conta telefone                        52.010          34,44 d     153.442,39 d
+                              telecomunicacoes de
+   20/05/2024                       0000          13105     363 pagto conta telefone                        52.011          34,44 d     153.476,83 d
+                              telecomunicacoes de
+   20/05/2024                       0000          13105     375 impostos                                    52.012         112,15 d     153.588,98 d
+                              rfb-darf codigo de barras
+   20/05/2024                       0000          13105     375 impostos                                    52.013      33.676,69 d     187.265,67 d
+                              das - simples nacional
+   20/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,49 d     187.266,16 d
+                              tar. agrupadas - ocorrencia 17/05/2024
+   20/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,49 d     187.266,65 d
+                              tar. agrupadas - ocorrencia 17/05/2024
+   20/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           5,39 d     187.272,04 d
+                              tar. agrupadas - ocorrencia 17/05/2024
+   20/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          46,55 d     187.318,59 d
+                              tar. agrupadas - ocorrencia 17/05/2024
+   20/05/2024                       0000          13113     124 cbr mbv man.vencidos               710.645.017.043           2,02 d     187.320,61 d
+                              tar. agrupadas - ocorrencia 20/05/2024
+   20/05/2024                       0000          00000     798 bb rende fcil                               9.903     187.320,61 c           0,00 c
+   21/05/2024                       0000          14020     624 cobrana                       111.421.000.006.091      27.039,62 c      27.039,62 c
+   21/05/2024                       0000          14397     821 pix - recebido                 163.031.337.018.181         735,40 c      27.775,02 c
+                              21/05 11:52 16507166804 edmar rogerio
+   21/05/2024                       0000          14397     821 pix - recebido                 163.203.819.329.911          53,30 c      27.828,32 c
+                              21/05 16:39 33210878803 daniela cristi
+   21/05/2024                       0000          13105     109 pagamento de boleto                         52.101          99,86 d      27.728,46 c
+                              tokio marine seguradora s a
+   21/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,49 d      27.727,97 c
+                              tar. agrupadas - ocorrencia 20/05/2024
+   21/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           1,96 d      27.726,01 c
+                              tar. agrupadas - ocorrencia 18/05/2024
+   21/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          10,78 d      27.715,23 c
+                              tar. agrupadas - ocorrencia 20/05/2024
+   21/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          15,68 d      27.699,55 c
+                              tar. agrupadas - ocorrencia 18/05/2024
+   21/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           7,84 d      27.691,71 c
+                              tar. agrupadas - ocorrencia 19/05/2024
+   21/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043         131,32 d      27.560,39 c
+                              tar. agrupadas - ocorrencia 20/05/2024
+   21/05/2024                       0000          00000     351 bb rende fcil                               9.903      27.560,39 d           0,00 c
+   22/05/2024                       0000          14020     624 cobrana                       111.431.000.005.851      12.359,91 c      12.359,91 c
+   22/05/2024                       0000          14397     821 pix - recebido                 163.795.874.664.161       4.059,15 c      16.419,06 c
+                              22/05 09:06 32503078826 fabricio rodri
+   22/05/2024                       0000          14397     821 pix - recebido                 163.913.128.876.051          65,00 c      16.484,06 c
+                              22/05 12:21 47808778818 eric serrano q
+   22/05/2024                       0000          14397     821 pix - recebido                 164.249.371.969.861          41,90 c      16.525,96 c
+                              22/05 21:42 66699843249 andreia camile
+   22/05/2024                       0000          14397     821 pix - recebido                 221.031.527.039.292          11,00 c      16.536,96 c
+                              22/05 10:31 00045569289828 jaqueline m
+   22/05/2024                       0000          14397     821 pix - recebido                 221.521.580.099.012          37,90 c      16.574,86 c
+                              22/05 15:21 00011901113493 maria hozan
+   22/05/2024                       0000          13105     109 pagamento de boleto                         52.201         155,95 d      16.418,91 c
+                              jose manoel sanches & cia ltda
+   22/05/2024                       0000          13105     109 pagamento de boleto                         52.202         131,88 d      16.287,03 c
+                              seguros sura s.a.
+   22/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,49 d      16.286,54 c
+                              tar. agrupadas - ocorrencia 21/05/2024
+   22/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           6,86 d      16.279,68 c
+                              tar. agrupadas - ocorrencia 21/05/2024
+   22/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          70,56 d      16.209,12 c
+                              tar. agrupadas - ocorrencia 21/05/2024
+   22/05/2024                       0000          00000     351 bb rende fcil                               9.903      16.209,12 d           0,00 c
+   23/05/2024                       0000          14020     624 cobrana                       111.441.000.003.179       7.797,99 c       7.797,99 c
+   23/05/2024                       0000          14397     821 pix - recebido                 164.724.585.166.611          37,90 c       7.835,89 c
+                              23/05 10:54 35120829805 diego joaquim
+   23/05/2024                       0000          14397     821 pix - recebido                 231.721.154.870.062          97,90 c       7.933,79 c
+                              23/05 17:21 00011386474894 valmir apar
+   23/05/2024                       0000          14397     821 pix - recebido                 232.122.264.068.862          24,00 c       7.957,79 c
+                              23/05 21:22 00032930391898 ronei ribei
+   23/05/2024                       0000          13105     362 pagamento conta luz                         52.301         123,82 d       7.833,97 c
+                              cpfl cia paulista de forc
+   23/05/2024                       0000          13105     362 pagamento conta luz                         52.302         135,21 d       7.698,76 c
+                              cpfl cia paulista de forc
+   23/05/2024                       0000          13105     362 pagamento conta luz                         52.303         144,13 d       7.554,63 c
+                              cpfl cia paulista de forc
+   23/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           2,94 d       7.551,69 c
+                              tar. agrupadas - ocorrencia 22/05/2024
+   23/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,49 d       7.551,20 c
+                              tar. agrupadas - ocorrencia 22/05/2024
+   23/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          46,55 d       7.504,65 c
+                              tar. agrupadas - ocorrencia 22/05/2024
+   23/05/2024                       0000          00000     351 bb rende fcil                               9.903       7.504,65 d           0,00 c
+   24/05/2024                       0000          14020     624 cobrana                       111.451.000.006.096       5.423,01 c       5.423,01 c
+   24/05/2024                       0000          14397     821 pix - recebido                 165.397.125.486.021          47,90 c       5.470,91 c
+                              24/05 05:35 37937701846 aline cristina
+   24/05/2024                       0000          14397     821 pix - recebido                 165.620.590.095.561          37,30 c       5.508,21 c
+                              24/05 11:47 33963834862 mrcio olivati
+   24/05/2024                       0000          14397     821 pix - recebido                 165.764.574.145.041          86,20 c       5.594,41 c
+                              24/05 15:47 25243100000170 contabil ca
+   24/05/2024                       0000          14397     821 pix - recebido                 165.772.770.459.761          32,00 c       5.626,41 c
+                              24/05 16:01 70133767442 jose cicero mo
+   24/05/2024                       0000          14397     821 pix - recebido                 241.113.095.855.172          50,00 c       5.676,41 c
+                              24/05 11:13 00033794293843 fabiana bre
+   24/05/2024                       0000          14397     821 pix - recebido                 242.037.505.016.222          32,00 c       5.708,41 c
+                              24/05 20:37 00011777763835 wilson lima
+   24/05/2024                       0000          13105     362 pagamento conta luz                         52.401       1.156,49 d       4.551,92 c
+                              cpfl cia paulista de forc
+   24/05/2024                       0000          13105     109 pagamento de boleto                         52.402       2.626,25 d       1.925,67 c
+                              cobreflex idc fios cabos eirel
+   24/05/2024                       0000          13105     109 pagamento de boleto                         52.403       8.531,16 d       6.605,49 d
+                              distribuidora de eletronicos route 66
+   24/05/2024                       0000          13105     109 pagamento de boleto                         52.404       1.968,69 d       8.574,18 d
+                              china mobile international (brazil)
+   24/05/2024                       0000          13105     109 pagamento de boleto                         52.405      22.872,52 d      31.446,70 d
+                              china mobile international (brazil)
+   24/05/2024                       0000          13105     109 pagamento de boleto                         52.406       3.938,79 d      35.385,49 d
+                              china mobile international (brazil)
+   24/05/2024                       0000          13105     393 ted transf.eletr.disponiv                   52.407      20.000,00 d      55.385,49 d
+                              237 0260 07188816808 carlos sadao enok
+   24/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           3,43 d      55.388,92 d
+                              tar. agrupadas - ocorrencia 23/05/2024
+   24/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          14,70 d      55.403,62 d
+                              tar. agrupadas - ocorrencia 23/05/2024
+   24/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           8,82 d      55.412,44 d
+                              tar. agrupadas - ocorrencia 23/05/2024
+   24/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           9,31 d      55.421,75 d
+                              tar. agrupadas - ocorrencia 23/05/2024
+   24/05/2024                       0000          00000     798 bb rende fcil                               9.903      55.421,75 c           0,00 c
+   27/05/2024                       0000          14020     624 cobrana                       111.481.000.006.384       5.326,23 c       5.326,23 c
+   27/05/2024                       0000          14397     821 pix - recebido                 168.357.768.520.041         136,00 c       5.462,23 c
+                              27/05 15:49 41676399000102 andrea sako
+   27/05/2024                       0000          14397     821 pix - recebido                 271.207.545.989.502         684,80 c       6.147,03 c
+                              27/05 12:07 00016507166804 edmar roger
+   27/05/2024                       0000          14397     821 pix - recebido                 271.532.421.229.232         104,90 c       6.251,93 c
+                              27/05 15:32 00037882596809 gabriel rod
+   27/05/2024                       0000          13105     361 pgto conta gua                             52.701         308,65 d       5.943,28 c
+                              sabesp
+   27/05/2024                       0000          13105     361 pgto conta gua                             52.702          64,92 d       5.878,36 c
+                              sabesp
+   27/05/2024                       0000          13105     109 pagamento de boleto                         52.703       2.900,00 d       2.978,36 c
+                              telic technologies solucoes em redes e
+   27/05/2024                       0000          13105     109 pagamento de boleto                         52.704       1.537,79 d       1.440,57 c
+                              hdi seguros s a
+   27/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           3,43 d       1.437,14 c
+                              tar. agrupadas - ocorrencia 24/05/2024
+   27/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,49 d       1.436,65 c
+                              tar. agrupadas - ocorrencia 24/05/2024
+   27/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          19,60 d       1.417,05 c
+                              tar. agrupadas - ocorrencia 24/05/2024
+   27/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           7,35 d       1.409,70 c
+                              tar. agrupadas - ocorrencia 24/05/2024
+   27/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           4,90 d       1.404,80 c
+                              tar. agrupadas - ocorrencia 24/05/2024
+   27/05/2024                       0000          13113     124 cbr mbv man.vencidos               710.645.017.043           8,08 d       1.396,72 c
+                              tar. agrupadas - ocorrencia 27/05/2024
+   27/05/2024                       0000          00000     351 bb rende fcil                               9.903       1.396,72 d           0,00 c
+   28/05/2024                       0000          14020     624 cobrana                       111.491.000.006.053       8.817,15 c       8.817,15 c
+   28/05/2024                       0000          14397     821 pix - recebido                 168.974.417.820.781          30,00 c       8.847,15 c
+                              28/05 08:57 40263864812 rosana rodrigu
+   28/05/2024                       0000          14397     821 pix - recebido                 168.990.153.551.781          79,90 c       8.927,05 c
+                              28/05 09:23 46416786850 maria eduarda
+   28/05/2024                       0000          14397     821 pix - recebido                 169.038.561.458.091          75,90 c       9.002,95 c
+                              28/05 10:44 47365111844 leonardo rober
+   28/05/2024                       0000          14397     821 pix - recebido                 169.103.941.600.291          62,00 c       9.064,95 c
+                              28/05 12:33 43546111800 beatriz de alm
+   28/05/2024                       0000          14397     821 pix - recebido                 169.113.234.356.791          59,90 c       9.124,85 c
+                              28/05 12:48 50919570810 iasmyn naara g
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,98 d       9.123,87 c
+                              tar. agrupadas - ocorrencia 25/05/2024
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,49 d       9.123,38 c
+                              tar. agrupadas - ocorrencia 27/05/2024
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           3,43 d       9.119,95 c
+                              tar. agrupadas - ocorrencia 25/05/2024
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           1,96 d       9.117,99 c
+                              tar. agrupadas - ocorrencia 26/05/2024
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          27,93 d       9.090,06 c
+                              tar. agrupadas - ocorrencia 27/05/2024
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           4,41 d       9.085,65 c
+                              tar. agrupadas - ocorrencia 25/05/2024
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          10,78 d       9.074,87 c
+                              tar. agrupadas - ocorrencia 27/05/2024
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           0,49 d       9.074,38 c
+                              tar. agrupadas - ocorrencia 26/05/2024
+   28/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           5,39 d       9.068,99 c
+                              tar. agrupadas - ocorrencia 27/05/2024
+   28/05/2024                       0000          00000     351 bb rende fcil                               9.903       9.068,99 d           0,00 c
+   29/05/2024                       0000          14020     624 cobrana                       111.501.000.003.436       5.383,04 c       5.383,04 c
+   29/05/2024                       0000          14397     821 pix - recebido                 169.878.695.366.881          59,90 c       5.442,94 c
+                              29/05 10:04 44687739873 carolinne de c
+   29/05/2024                       0000          14397     821 pix - recebido                 169.952.233.636.571          18,00 c       5.460,94 c
+                              29/05 12:07 43725397899 rhuam marcos c
+   29/05/2024                       0000          14397     821 pix - recebido                 291.617.130.499.372          21,30 c       5.482,24 c
+                              29/05 16:17 00036757861887 odair carlo
+   29/05/2024                       0000          13105     109 pagamento de boleto                         52.901         388,50 d       5.093,74 c
+                              distribuidora de eletronicos route 66
+   29/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           2,45 d       5.091,29 c
+                              tar. agrupadas - ocorrencia 28/05/2024
+   29/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          22,54 d       5.068,75 c
+                              tar. agrupadas - ocorrencia 28/05/2024
+   29/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           7,84 d       5.060,91 c
+                              tar. agrupadas - ocorrencia 28/05/2024
+   29/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           1,96 d       5.058,95 c
+                              tar. agrupadas - ocorrencia 28/05/2024
+   29/05/2024                       0000          00000     351 bb rende fcil                               9.903       5.058,95 d           0,00 c
+                              rende facil
+   31/05/2024                       0000          14020     624 cobrana                       111.521.000.007.935       9.951,40 c       9.951,40 c
+   31/05/2024                       0000          14397     821 pix - recebido                 311.227.270.230.462          63,90 c      10.015,30 c
+                              31/05 12:27 00046119516859 giulia davi
+   31/05/2024                       0000          13105     109 pagamento de boleto                         53.101       2.599,89 d       7.415,41 c
+                              cia paulista de forca e luz cpfl
+   31/05/2024                       0000          13105     438 ted                                         53.102     200.000,00 d     192.584,59 d
+                              033 0221 002458936000196 monte alto ne
+   31/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           3,43 d     192.588,02 d
+                              tar. agrupadas - ocorrencia 29/05/2024
+   31/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          35,77 d     192.623,79 d
+                              tar. agrupadas - ocorrencia 29/05/2024
+   31/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043          20,09 d     192.643,88 d
+                              tar. agrupadas - ocorrencia 29/05/2024
+   31/05/2024                       0000          13113     124 cbr liquidao                     710.645.017.043           7,35 d     192.651,23 d
+                              tar. agrupadas - ocorrencia 29/05/2024
+   31/05/2024                       0000          13113     124 cbr mbv man.vencidos               710.645.017.043           2,02 d     192.653,25 d
+                              tar. agrupadas - ocorrencia 31/05/2024
+   31/05/2024                       0000          00000     798 bb rende fcil                               9.903     192.653,25 c           0,00 c
+   31/05/2024                       0000          00000     999 s a l d o                                                    0,00 c           0,00 c
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+               ------------------------------------------------
+               
+               
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+transao efetuada com sucesso por: j3943066 carlos sadao enoki

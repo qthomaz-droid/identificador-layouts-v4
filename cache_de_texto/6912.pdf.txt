@@ -1,0 +1,741 @@
+balancete mensal de verificação
+entidade:
+período da escrituração:
+cnpj:
+data de emissão:
+competência:
+ideal engenharia ltda
+01/01/2025 a 28/02/2025
+32.997.559/0001-24
+20/01/2026 14:43:30
+02/2025
+código conta
+saldo anterior
+conta
+cód. centro custo
+d/
+centro de custo
+d/c
+débito
+crédito
+saldo final
+d/
+movimento do
+01.1.1.01.001
+r$ 56,65
+caixa
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 56,65
+r$ 0,00
+d
+01.1.1.02.010
+r$ 0,53
+banco sicoob
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 0,53
+r$ 0,00
+d
+01.1.1.02.031
+r$ 110.298,40
+unicred
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 110.298,40
+r$ 0,00
+d
+01.1.2.01.001
+r$ 1.542.837,14
+clientes nacionais
+d
+d
+r$ 565.258,71
+r$ 0,00
+r$ 2.108.095,85
+r$ 565.258,71
+d
+01.1.2.07.001
+r$ 506,00
+adiantamentos de salários
+e empregados
+d
+c
+r$ 63.650,00 r$ 61.130,00
+r$ 2.014,00
+r$ 2.520,00
+d
+01.1.2.08.009
+r$ 3.743,35
+iss a recuperar
+d
+d
+r$ 7.418,63
+r$ 0,00
+r$ 11.161,98
+r$ 7.418,63
+d
+01.1.2.08.013
+r$ 653.745,82
+inss a compensar
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 653.745,82
+r$ 0,00
+d
+01.1.2.15.001
+r$ 2.481.473,05
+contas a receber
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 2.481.473,05
+r$ 0,00
+d
+01.2.2.02.001
+r$ 3.050,00
+unicred
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 3.050,00
+r$ 0,00
+d
+01.2.3.01.001
+r$ 680.000,00
+máquinas e equipamentos
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 680.000,00
+r$ 0,00
+d
+01.2.3.01.005
+r$ 440.492,62
+veículos
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 440.492,62
+r$ 0,00
+d
+01.2.3.01.016
+r$ 583.856,26
+terrenos
+d
+d
+r$ 0,00
+r$ 0,00
+r$ 583.856,26
+r$ 0,00
+d
+01.2.3.05.001
+r$ 239.458,14
+(-) máquinas e
+equipamentos
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 239.458,14
+r$ 0,00
+d
+01.2.3.05.005
+r$ 171.289,25
+(-) veículos
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 171.289,25
+r$ 0,00
+d
+02.1.1.01.00000003
+9
+r$ 1.044,51
+vasconcelos ind.
+com. imp. e exp. ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 1.044,51
+r$ 0,00
+d
+02.1.1.01.00000059
+8
+r$ 17.243,34
+vitral vidros
+planos ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 17.243,34
+r$ 0,00
+d
+02.1.1.01.00000063
+0
+r$ 1.467,56
+seifer comercio de
+fixacao ltda
+c
+c
+r$ 0,00
+r$ 339,52
+r$ 1.807,08
+r$ 339,52
+c
+02.1.1.01.00000066
+2
+r$ 69,90
+arantes mat constr
+eireli epp
+c
+c
+r$ 0,00
+r$ 729,90
+r$ 799,80
+r$ 729,90
+c
+02.1.1.01.00000069
+9
+r$ 4.301,64
+pbg s/a
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 4.301,64
+r$ 0,00
+d
+02.1.1.01.00000070
+5
+r$ 3.866,81
+s.t.r. transportes
+rodoviario ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 3.866,81
+r$ 0,00
+d
+02.1.1.01.00000079
+2
+r$ 358,00
+jd com de derivados
+de borracha ltda
+c
+c
+r$ 0,00
+r$ 74,00
+r$ 432,00
+r$ 74,00
+c
+02.1.1.01.00000087
+4
+r$ 5.230,95
+leroy merlin cia brasileira
+de bricolagem
+c
+c
+r$ 0,00
+r$ 1.132,20
+r$ 6.363,15
+r$ 1.132,20
+c
+02.1.1.01.00000091
+6
+r$ 2.031,00
+abadia de fatima
+pacheco tavares
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 2.031,00
+r$ 0,00
+d
+este relatório foi gerado pelo sistema público de escrituração digital – sped
+versão 10.3.3 do visualizador
+página 1 de 11
+ balancete mensal de verificação
+entidade:
+período da escrituração:
+cnpj:
+data de emissão:
+competência:
+ideal engenharia ltda
+01/01/2025 a 28/02/2025
+32.997.559/0001-24
+20/01/2026 14:43:30
+02/2025
+código conta
+saldo anterior
+conta
+cód. centro custo
+d/
+centro de custo
+d/c
+débito
+crédito
+saldo final
+d/
+movimento do
+02.1.1.01.00000092
+6
+r$ 594,50
+zapi distribuidora
+ltda-epp
+c
+c
+r$ 0,00
+r$ 1.103,00
+r$ 1.697,50
+r$ 1.103,00
+c
+02.1.1.01.00000095
+3
+r$ 1.640,82
+costa moraes
+comercio ltda
+c
+c
+r$ 0,00
+r$ 1.440,00
+r$ 3.080,82
+r$ 1.440,00
+c
+02.1.1.01.00000095
+9
+r$ 20.798,08
+loja eletrica ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 20.798,08
+r$ 0,00
+d
+02.1.1.01.00000097
+0
+r$ 816,50
+hg maquinas e
+equipamentos de
+seguranca ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 816,50
+r$ 0,00
+d
+02.1.1.01.00000098
+2
+r$ 1.682,80
+zapi distribuidora
+ltda
+c
+c
+r$ 0,00
+r$ 1.326,50
+r$ 3.009,30
+r$ 1.326,50
+c
+02.1.1.01.00000104
+5
+r$ 811,74
+ubertubos mat hid.
+incendio irrigacao
+lt
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 811,74
+r$ 0,00
+d
+02.1.1.01.00000105
+8
+r$ 5.848,23
+sevimol ind e com de
+ferro e aco ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 5.848,23
+r$ 0,00
+d
+02.1.1.01.00000106
+1
+r$ 3.221,90
+arcelormittal
+brasil s.a.
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 3.221,90
+r$ 0,00
+d
+02.1.1.01.00000106
+6
+r$ 9.079,58
+hg ferramentas
+ltda
+c
+c
+r$ 0,00
+r$ 305,30
+r$ 9.384,88
+r$ 305,30
+c
+02.1.1.01.00000122
+8
+r$ 166,59
+castro naves com. e
+serv. de distrib. sa
+c
+c
+r$ 0,00
+r$ 55,16
+r$ 221,75
+r$ 55,16
+c
+02.1.1.01.00000122
+9
+r$ 0,00
+castro naves com. e
+serv. de distrib. sa
+c
+c
+r$ 0,00
+r$ 161,59
+r$ 161,59
+r$ 161,59
+c
+02.1.1.01.00000123
+3
+r$ 7.355,82
+fmj comercio de
+tintas ltda
+c
+c
+r$ 0,00
+r$ 467,35
+r$ 7.823,17
+r$ 467,35
+c
+02.1.1.01.00000124
+0
+r$ 13.500,00
+acos brasil central
+ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 13.500,00
+r$ 0,00
+d
+02.1.1.01.00000125
+3
+r$ 21.389,88
+distribuidora e
+comercio rc ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 21.389,88
+r$ 0,00
+d
+02.1.1.01.00000125
+8
+r$ 0,00
+negocio da china
+moveis eireli
+c
+c
+r$ 0,00
+r$ 1.400,00
+r$ 1.400,00
+r$ 1.400,00
+c
+02.1.1.01.00000154
+4
+r$ 1.588,71
+petroleum
+lubrificantes ltda
+c
+c
+r$ 0,00
+r$ 650,00
+r$ 2.238,71
+r$ 650,00
+c
+02.1.1.01.00000186
+8
+r$ 607,68
+midiapel papelaria e
+informatica ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 607,68
+r$ 0,00
+d
+02.1.1.01.00000193
+1
+r$ 52.296,80
+dm comercio de
+forros e divisorias
+ltda
+c
+c
+r$ 0,00 r$ 50.508,90
+r$ 102.805,70
+r$ 50.508,90
+c
+este relatório foi gerado pelo sistema público de escrituração digital – sped
+versão 10.3.3 do visualizador
+página 2 de 11
+ balancete mensal de verificação
+entidade:
+período da escrituração:
+cnpj:
+data de emissão:
+competência:
+ideal engenharia ltda
+01/01/2025 a 28/02/2025
+32.997.559/0001-24
+20/01/2026 14:43:30
+02/2025
+código conta
+saldo anterior
+conta
+cód. centro custo
+d/
+centro de custo
+d/c
+débito
+crédito
+saldo final
+d/
+movimento do
+02.1.1.01.00000198
+4
+r$ 5.272,50
+ferreira
+ferramentas
+comercio ltda me
+c
+c
+r$ 0,00
+r$ 1.434,50
+r$ 6.707,00
+r$ 1.434,50
+c
+02.1.1.01.00000199
+5
+r$ 1.452,70
+ferramac
+ferramentas e
+equipamentos de
+seguranca l
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 1.452,70
+r$ 0,00
+d
+02.1.1.01.00000200
+3
+r$ 0,00
+world seg
+produtos para
+seguranca ltda
+c
+c
+r$ 0,00
+r$ 135,00
+r$ 135,00
+r$ 135,00
+c
+02.1.1.01.00000206
+2
+r$ 12.617,50
+madeireira 2000 ltda
+c
+c
+r$ 0,00
+r$ 1.209,00
+r$ 13.826,50
+r$ 1.209,00
+c
+02.1.1.01.00000211
+8
+r$ 0,00
+curinga veiculos
+ltda
+c
+c
+r$ 0,00
+r$ 722,81
+r$ 722,81
+r$ 722,81
+c
+02.1.1.01.00000257
+3
+r$ 552,75
+comercial rondonia
+ltda
+c
+c
+r$ 0,00
+r$ 110,25
+r$ 663,00
+r$ 110,25
+c
+02.1.1.01.00000291
+4
+r$ 2.750,00
+isoportriangulo
+distribuidora de
+isolantes termicos
+ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 2.750,00
+r$ 0,00
+d
+02.1.1.01.00000427
+7
+r$ 327,30
+loja do
+borracheiro
+distribuidora ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 327,30
+r$ 0,00
+d
+02.1.1.01.00000453
+3
+r$ 525,50
+estacao tintas ltda
+me
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 525,50
+r$ 0,00
+d
+02.1.1.01.00000456
+0
+r$ 3.535,75
+bell aco distr. de
+ferro e aco ltda
+c
+c
+r$ 0,00
+r$ 820,00
+r$ 4.355,75
+r$ 820,00
+c
+02.1.1.01.00000470
+3
+r$ 100,70
+rodonaves transps
+e encomendas ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 100,70
+r$ 0,00
+d
+02.1.1.01.00000475
+0
+r$ 6.100,00
+tyresoles do
+triangulo ltda
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 6.100,00
+r$ 0,00
+d
+02.1.1.01.00000479
+7
+r$ 59,82
+distribuidora geral
+eireli
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 59,82
+r$ 0,00
+d
+02.1.1.01.00000490
+5
+r$ 6.144,62
+santos epi"s ltda
+c
+c
+r$ 0,00
+r$ 960,00
+r$ 7.104,62
+r$ 960,00
+c
+02.1.1.01.00000530
+5
+r$ 1.159,87
+bamaq sa
+bandeirantes
+maquinas
+equipamentos
+c
+c
+r$ 0,00
+r$ 0,00
+r$ 1.159,87
+r$ 0,00
+d
+02.1.1.01.00000586
+r$ 1.017,85
+comercial lorena
+c
+c
+r$ 0,00
+r$ 348,40
+r$ 1.366,25
+r$ 348,40
+c
+este relatório foi gerado pelo sistema público de escrituração digital – sped
+versão 10.3.3 do visualizador
+página 3 de 11
+ 

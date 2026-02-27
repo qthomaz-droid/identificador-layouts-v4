@@ -1,0 +1,220 @@
+aviso de movimentação de títulos descontados
+data referência
+data emissão
+página
+cliente
+conta corrente número
+identificação do título
+lançamentos
+cm
+td
+pd
+nome ou cpf/cnpj do sacado
+dados do título
+vencimento
+valor bruto
+juros/mora
+iof
+tarifa
+outros
+débito/crédito
+1 - legenda: cm - código do movimento
+2 - legenda: td - tipo de documento
+3 - legenda - compor dados do título
+4 - legenda - observações
+10- entrada
+30- enviado para cartório
+50- debitado e transferido
+70- abatimento concedido
+15- estorno
+35- protesto sustado
+55- debitado e devolvido
+75- custas cartorárias
+20- liquidação
+40- protestado
+60- posição de carteira
+80- outros
+25- liquidação em cartório 45- prorrogado
+65- debitado parcial
+90- estorno de liquidação
+dd - duplicata desconto
+dv - duplicata vendor
+np - nota promissória
+ch: cheque
+oc - outros cartões
+ch: banco, agência, conta, nº cheque
+outros: equalização do vendor; pago pelo sacado
+dd, dv, np: nosso número e número do documento
+tarifa: do titulo; da pd; do protesto
+oc: número da operação e vencimento
+iof: normal; adicional; atraso
+mod. : 01.08.00263/9 - pcl - f00278 - 01/2019
+18/07/2025
+13/08/2025
+01
+pura e leve agua mineral ltda
+36.747.020
+50
+dd
+0028209583
+sendas distribuidora sa
+0000382965 13270
+11/07/2025
+-6.587,00
+-138,17
+-3,78
+0,00
+0,00
+-6.728,95
+50
+dd
+0028209583
+sendas distribuidora sa
+0000385476 13374
+14/07/2025
+-4.768,65
+-57,16
+-1,56
+0,00
+0,00
+-4.827,37
+-11.355,65
+-195,33
+-5,34
+0,00
+0,00
+-11.556,32
+total geral:
+-11.355,65
+-195,33
+-5,34
+0,00
+0,00
+-11.556,32
+---------------------- movimentacao da carteira ----------------------
+- dup. desconto -- ---- cheques ----- - outros cartoes - ------ n.p. ------ -- dup. vendor ---
+qte.
+valor qte.
+valor qte.
+valor qte.
+valor qte.
+valor
+sl anterior
+93
+180.364,63
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+entrada
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+baixas
+2
+11.355,65
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+sl atual
+91
+169.008,98
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+jr. apropr
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+------------------------- posicao da carteira ------------------------
+- dup. desconto -- ---- cheques ----- - outros cartoes - ------ n.p. ------ -- dup. vendor ---
+qte.
+valor qte.
+valor qte.
+valor qte.
+valor qte.
+valor
+a vencer
+90
+167.071,79
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+ate 30 dias
+1
+1.969,02
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+31-60 dias
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+61-90 dias
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+acima 91 dia
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+0
+0,00
+ 

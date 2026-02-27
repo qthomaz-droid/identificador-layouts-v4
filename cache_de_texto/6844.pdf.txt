@@ -1,0 +1,60 @@
+desconto de títulos
+            
+               
+banestes s/a                                                    sistema de desconto de titulos                                                                                                 
+cdtrc32 - aviso de movimentacao de titulos                                                                                                                                               refere
+cedente:    36.747.020 pura e leve agua mineral ltda           
+ 
+cm  td      pd       nome ou cpf do sacado                             dados do titulo          vencimento     valor titulo       juros/mora             iof         tarifa             outros 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10  dd  0028243863   boa praca general ship supplier ltda      0000424986 15075                 20/10/2025           452,17            -3,80           -2,21         -11,95               0,00 
+10  dd  0028243863   jr turismo e locacao ltda                 0000427306 15169/3               16/10/2025           369,00            -2,21           -1,69         -11,95               0,00 
+10  dd  0028243863   vitoria center shipping                   0000428469 15192/3               17/10/2025         1.930,01           -12,74           -9,02         -11,95               0,00 
+10  dd  0028243863   penedo servicos e gestao ltda             0000430528 15321/3               24/10/2025         1.193,34           -12,89           -6,23         -11,95               0,00 
+10  dd  0028243863   vitoria center shipping                   0000431419 15403/2               21/10/2025         1.158,00           -10,42           -5,77         -11,95               0,00 
+10  dd  0028243863   vitoria center shipping                   0000431508 15403/3               28/10/2025         1.158,00           -15,29           -6,40         -11,95               0,00 
+10  dd  0028243863   vitoria apart hospital sa                 0000431761 15409                 21/10/2025         4.455,51           -40,10          -22,21         -11,95               0,00 
+10  dd  0028243863   supermercados bh comercio de alimentos s  0000431842 15416                 23/10/2025        14.250,10          -145,35          -73,26         -11,95               0,00 
+10  dd  0028243863   supermercados bh comercio de alimentos s  0000432148 15508                 29/10/2025        11.846,55          -163,48          -66,43         -11,95               0,00 
+10  dd  0028243863   supermercados bh comercio de alimentos s  0000432300 15525                 29/10/2025         2.369,30           -32,70          -13,29         -11,95               0,00 
+10  dd  0028243863   supermercados bh comercio de alimentos s  0000432652 15561                 03/11/2025        22.515,01          -378,25         -134,95         -11,95               0,00 
+10  dd  0028243863   associacao feminina de educacao e combat  0000432903 15565                 30/10/2025         2.320,01           -33,41          -13,19         -11,95               0,00 
+10  dd  0028243863   vitoria center shipping                   0000433039 15572/1               23/10/2025         1.158,00           -11,81           -5,96         -11,95               0,00 
+10  dd  0028243863   vitoria center shipping                   0000433110 15572/2               30/10/2025         1.158,00           -16,68           -6,59         -11,95               0,00 
+10  dd  0028243863   ja distribuidora e comercio de bebidas e  0000433543 15585                 17/10/2025         4.157,11           -27,44          -19,41         -11,95               0,00 
+10  dd  0028243863   navsupply fornecedor de navios ltda       0000433705 15620/1               27/10/2025         1.080,00           -13,61           -5,89         -11,95               0,00 
+20  dd  0028234136   associacao feminina de educacao e combat  0000421618 14972/3               06/10/2025          -580,00             0,00            0,00           0,00             580,00 
+20  dd  0028234136   supermercados bh comercio de alimentos s  0000425109 15077                 06/10/2025        -1.629,60             0,00            0,00           0,00           1.629,60 
+20  dd  0028234607   supermercados bh comercio de alimentos s  0000424552 15058                 06/10/2025       -18.954,49             0,00            0,00           0,00          18.954,49 
+20  dd  0028234607   supermercados bh comercio de alimentos s  0000425362 15085                 06/10/2025       -31.521,01             0,00            0,00           0,00          31.521,01 
+20  dd  0028234961   supermercados bh comercio de alimentos s  0000425010 15076                 06/10/2025       -13.594,54             0,00            0,00           0,00          13.594,54 
+20  dd  0028234961   supermercados bh comercio de alimentos s  0000425443 15086                 06/10/2025       -14.250,10             0,00            0,00           0,00          14.250,10 
+20  dd  0028239895   alex torres de aragao  me                 0000429783 15314                 03/10/2025          -892,50            -8,02           -0,22           0,00             892,50 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                  71.570,11          -920,18         -392,50        -191,20               0,00 
+*-----------------------------------** movimentacao da carteira **---------------------------------------* *-----------------------------------** posicao da carteira **-----------------------
+                -- dup. desconto- ---- cheques ----  - outros cartoes- ------ n.p. ----- -- dup. vendor -                   --- duplicata --- ---- cheques ---- -outros cartoes ----- n.p. ----
+saldo anterior:   47   283.232,37    2    60.000,00     0         0,00    0         0,00    0         0,00 a vencer       :   53   270.112,84    2    60.000,00    0       0,00    0        0,0
+entrada       :   16    71.570,11    0         0,00     0         0,00    0         0,00    0         0,00 ate 30 dias    :    3     3.310,56    0         0,00    0       0,00    0        0,0
+baixas        :    7    81.422,24    0         0,00     0         0,00    0         0,00    0         0,00 31-60 dias     :    0         0,00    0         0,00    0       0,00    0        0,0
+sl atual      :   56   273.380,24    2    60.000,00     0         0,00    0         0,00    0         0,00 61-90 dias     :    0         0,00    0         0,00    0       0,00    0        0,0
+jr. apropr    :    0         0,00    0         0,00     0         0,00    0         0,00    0         0,00 acima de 91 dias    0         0,00    0         0,00    0       0,00    0        0,0
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 - legenda : cm - codigo do movimento                                                                                                                                                         
+10 - entrada     25 - liquidacao em cartorio   40 - protestado                55 - debitado e devolvido           70 - abatimento concedido    90 - estorno de liquidacao                      
+15 - estorno     30 - enviado para cartorio    45 - prorrogado                60 - posicao de carteira            75 - custas cartorarias  
+20 - liquidacao  35 - protesto sustado         50 - debitado e transferido    65 - debitado parcial               80 - outros              
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2 - legenda : td - tipo de documento                                                                                                                                                           
+dd - duplicata desconto      ch - cheque       dv - duplicata vendor          np - nota promissoria               oc - outros cartoes      
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3 - legenda : dados do titulo                                                                                                                                                                  
+ch: banco, agencia, conta e numero cheque         dd,dv,np: nosso numero e numero do documento            oc: numero da operacao e vencimento                                                  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4 - observacoes                                                                                                                                                                                
+outros: equalizacao do vendor, pago pelo sacado           tarifa: do titulo, da proposta, do protesto             iof: acumulado iof, iof adicional, iof atraso                                
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+informacoes para simples conferencia
+fim de transmissao
+            
+        

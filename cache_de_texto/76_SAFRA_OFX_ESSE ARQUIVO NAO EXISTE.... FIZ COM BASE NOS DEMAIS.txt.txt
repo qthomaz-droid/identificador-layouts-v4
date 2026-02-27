@@ -1,0 +1,2164 @@
+                                   contas pagas por plano de contas
+
+empresa:              ste serv tecnic especializados ltda me
+filial:               1 - ste ar condicionado
+departamento:         todos
+c. de custo:          todos
+data inicial:         01/06/2020    data final: 30/06/2020
+
+plano de contas 3: 1 - compras/forncedores
+
+fornecedor                     descrição                       nota   seq. emissão venc.           créd. emp.      pgto.      valor
+3726      samatec comerce pagamento da conta samatec         100361 73723 10/06/2020 12/06/2020          0,00 12/06/2020     347,58
+          servicoes e pecas nf 100361 sem boleto -
+          ltda               entrada 73723 - 1/1 em lançam
+3726      samatec comerce samatec nf 100361 sem              100361 73723 10/06/2020 12/07/2020          0,00 27/06/2020     347,58
+          servicoes e pecas boleto - entrada 73723 - 2/2
+          ltda
+4668      difustechnik       nf10266 boleto ok - entrada      10266 72776 23/04/2020 15/06/2020          0,00 15/06/2020   2.988,73
+          difusão de ar      72776 - 2/2
+          eireli
+4456      placmax ind e com nf 1233 - entrada 73873 - 1/1      1233 73873 27/05/2020 29/06/2020          0,00 29/06/2020     118,50
+          de placas eletr
+          eireli
+2975      arsystem           nf 174472- falta boleto -       174472 73805 25/05/2020 15/06/2020          0,00 15/06/2020     509,95
+          ferramentas e      entrada 73805 - 1/2
+          equipamentos ltda
+          -suryha
+2975      arsystem           nf 174472- falta boleto -       174472 73805 25/05/2020 25/06/2020          0,00 25/06/2020     509,94
+          ferramentas e      entrada 73805 - 2/2
+          equipamentos ltda
+          -suryha
+539       springer carrier pagamento com débito em conta     195478 74242 08/06/2020 08/06/2020          0,00 08/06/2020   1.315,04
+          ltda - rj          - entrada 74242
+4560      edl electric       edl electric device               2017      0 15/06/2020 29/06/2020         0,00 29/06/2020   1.025,00
+          device leader ltda leader ltda me
+          me
+489       gl tintas ltda me pagamento em dinheiro -           31812 74455 15/06/2020 15/06/2020          0,00 15/06/2020      75,00
+          luiz tintas        entrada 74455
+417       friovix comercio entrada 66214- cartao             328752 66214 05/11/2019 11/06/2020          0,00 12/06/2020   4.000,00
+          de refrigeracao credito - entrada 66214 - 7/10
+          ltda
+417       friovix comercio entrada 66516- cartao             329668 66516 11/11/2019 11/06/2020          0,00 12/06/2020   3.076,50
+          de refrigeracao mastercard - entrada 66516
+          ltda               - 7/10
+4709      sl comercio de     pagamento com débito em conta     3299 74724 24/06/2020 24/06/2020          0,00 24/06/2020   2.227,00
+          aco ltda           - entrada 74724
+4709      sl comercio de     pagamento com débito em conta     3301 74690 23/06/2020 23/06/2020          0,00 23/06/2020     312,00
+          aco ltda           - entrada 74690
+428       opção parafusos pagamento em dinheiro -             33059 74061 02/06/2020 02/06/2020          0,00 02/06/2020      29,00
+          e ferramentas      entrada 74061
+          ltda.
+718       refrigeracao       nf 342989- boleto ok -          342989 71840 17/03/2020 05/06/2020          0,00 05/06/2020   1.556,90
+          dufrio com e imp   entrada 71840 - 3/3
+          ltda - lindemberg
+718       refrigeracao       nf 344743- boleto ok -          344743 72068 23/03/2020 12/06/2020          0,00 12/06/2020   3.057,91
+          dufrio com e imp   entrada 72068 - 3/3
+          ltda - lindemberg
+718       refrigeracao       nf 345848 - falta boleto -      345848 72211 01/04/2020 23/06/2020          0,00 23/06/2020   1.043,46
+          dufrio com e imp   entrada 72211 - 3/3
+          ltda - lindemberg
+718       refrigeracao       nf 347829- falta boleto -       347829 72574 15/04/2020 09/06/2020          0,00 09/06/2020     861,70
+          dufrio com e imp   entrada 72574 - 2/3
+          ltda - lindemberg
+718       refrigeracao       nf 348767- boleto ok -          348767 72827 24/04/2020 12/06/2020          0,00 12/06/2020   1.629,75
+          dufrio com e imp   entrada 72827 - 2/3
+          ltda - lindemberg
+718       refrigeracao       nf 349294- boleto ok -          349294 72821 24/04/2020 18/06/2020          0,00 18/06/2020   1.086,13
+          dufrio com e imp   entrada 72821 - 2/3
+          ltda - lindemberg
+
+
+02/07/2020          15:29:10                                   1                                         idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:              ste serv tecnic especializados ltda me
+filial:               1 - ste ar condicionado
+departamento:         todos
+c. de custo:          todos
+data inicial:         01/06/2020     data final: 30/06/2020
+
+plano de contas 3: 1 - compras/forncedores
+
+fornecedor                     descrição                        nota     seq. emissão venc.           créd. emp.      pgto.      valor
+718       refrigeracao         nf 300180- boleto ok -         350180 73051 02/05/2020 23/06/2020            0,00 23/06/2020   1.050,64
+          dufrio com e imp     entrada 73051 - 2/3
+          ltda - lindemberg
+718       refrigeracao         ref dufrio 351533 - entrada    351533 73290 08/05/2020 03/06/2020            0,00 03/06/2020   1.432,05
+          dufrio com e imp     73290 - 1/3
+          ltda - lindemberg
+718       refrigeracao         nf 352806- falta boleto -      352806 73540 15/05/2020 10/06/2020            0,00 10/06/2020   1.974,89
+          dufrio com e imp     entrada 73540 - 1/3
+          ltda - lindemberg
+417       friovix comercio     nf 354171- boleto ok -         354171 72381 08/04/2020 01/06/2020            0,00 01/06/2020   2.211,72
+          de refrigeracao      entrada 72381 - 2/4
+          ltda
+417       friovix comercio     nf 354171- boleto ok -         354171 72381 08/04/2020 29/06/2020            0,00 29/06/2020   2.211,72
+          de refrigeracao      entrada 72381 - 3/4
+          ltda
+718       refrigeracao         nf 354993- falta boleto -      354993 73869 27/05/2020 22/06/2020            0,00 22/06/2020   1.474,88
+          dufrio com e imp     entrada 73869 - 1/3
+          ltda - lindemberg
+417       friovix comercio     nfe 356166- boleto ok -        356166 72879 27/04/2020 17/06/2020            0,00 17/06/2020     484,50
+          de refrigeracao      entrada 72879 - 2/3
+          ltda
+417       friovix comercio     nf358564- boleto ok -          358564 73378 12/05/2020 04/06/2020            0,00 04/06/2020     675,89
+          de refrigeracao      entrada 73378 - 1/3
+          ltda
+718       refrigeracao         pagamento com crédito do       359942 74610 20/06/2020 20/06/2020          728,59 20/06/2020     728,59
+          dufrio com e imp     fornecedor - entrada 74610
+          ltda - lindemberg
+417       friovix comercio     nf 362134- boleto ok -         362134 73901 28/05/2020 22/06/2020            0,00 22/06/2020     726,09
+          de refrigeracao      entrada 73901 - 1/3
+          ltda
+2650      brazil tech          pagamento com crédito do             47 74883 30/06/2020 30/06/2020      2.166,00 30/06/2020   2.166,00
+          comercio e serv.     fornecedor - entrada 74883
+          tecnologico ltda
+415       frigelar comercio entrada nf 481119               481119 70753      19/02/2020 15/06/2020         0,00 15/06/2020   2.480,68
+          e industria ltda  seq.70753 boleto ok -
+                            entrada 70753 - 4/4
+415       frigelar comercio nf 483801 - entrada 71253 - 3/3 483801 71253      03/03/2020 01/06/2020         0,00 01/06/2020     897,35
+          e industria ltda
+415       frigelar comercio nf 486105- boleto ok -          486105 71838      17/03/2020 12/06/2020         0,00 12/06/2020     910,37
+          e industria ltda  entrada 71838 - 3/3
+415       frigelar comercio nf 488989-boleto ok -           488989 72811      24/04/2020 22/06/2020         0,00 22/06/2020   1.136,64
+          e industria ltda  entrada 72811 - 2/3
+415       frigelar comercio frigelar nf 49156 bol ok - 491756 73591           18/05/2020 15/06/2020         0,00 15/06/2020     342,94
+          e industria ltda  entrada 73591 - 1/2
+415       frigelar comercio nf 493049- boleto ok -          493049 73885      27/05/2020 24/06/2020         0,00 24/06/2020     365,05
+          e industria ltda  entrada 73885 - 1/2
+3638      metalurgica alado nf 51867- boleto ok -            51867 73864      27/05/2020 15/06/2020         0,00 15/06/2020     328,00
+          ltda              entrada 73864 - 1/3
+3638      metalurgica alado nf 51867- boleto ok -            51867 73864      27/05/2020 29/06/2020         0,00 29/06/2020     328,00
+          ltda              entrada 73864 - 2/3
+4299      jailson jetrudes entrada 74222 - gerado crédito     5237 74222      08/06/2020 08/06/2020         0,00 08/06/2020     495,00
+          nascimento mec    do cliente com a empresa
+3721      jose noel         entrada 74263 - gerado crédito    5238 74263      08/06/2020 08/06/2020         0,00 08/06/2020     100,00
+          marcelino         do cliente com a empresa
+          sobreira mec
+2309      macson de lima    entrada 74295 - gerado crédito    5243 74295      09/06/2020 09/06/2020         0,00 09/06/2020      56,00
+          souza mec         do cliente com a empresa
+
+
+
+02/07/2020          15:29:10                                    2                                           idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 1 - compras/forncedores
+
+fornecedor                     descrição                          nota    seq. emissão venc.           créd. emp.      pgto.      valor
+2150      valdeci dos          entrada 74514 - gerado crédito     5259 74514 17/06/2020 17/06/2020           0,00 17/06/2020      35,50
+          santos de jesus      do cliente com a empresa
+          mec
+4469      alexandre carvalho   entrada 74561 - gerado crédito     5264 74561 18/06/2020 18/06/2020           0,00 18/06/2020      35,00
+          botelho              do cliente com a empresa
+3149      jonilson mathias     entrada 74625 - gerado crédito     5269 74625 22/06/2020 22/06/2020           0,00 22/06/2020      85,00
+          novais mec           do cliente com a empresa
+2159      alcides mazarim      entrada 74844 - gerado crédito     5294 74844 29/06/2020 29/06/2020           0,00 29/06/2020     159,00
+          dos santos mec       do cliente com a empresa
+2217      keidherson pierre    entrada 74846 - gerado crédito     5295 74846 29/06/2020 29/06/2020           0,00 29/06/2020      22,00
+          pereira mec          do cliente com a empresa
+533       industria de         nf 59663 - falta boleto -         59663 73793 25/05/2020 11/06/2020           0,00 12/06/2020     694,24
+          ferram.              entrada 73793 - 1/1
+          diamantadas do
+          brasil ltda
+3681      whirlpool s.a.       entrada 71054 nf6172015-         617201 71054 27/02/2020 18/03/2020           0,00 05/06/2020       3,44
+                               falta boleto - entrada 71054          5
+                               - 1/3
+3681      whirlpool s.a.       entrada 71054 nf6172015-         617201 71054 27/02/2020 17/04/2020           0,00 05/06/2020       3,44
+                               falta boleto - entrada 71054          5
+                               - 2/3
+3681      whirlpool s.a.       entrada 71054 nf6172015-         617201 71054 27/02/2020 18/05/2020           0,00 05/06/2020       3,44
+                               falta boleto - entrada 71054          5
+                               - 3/3
+3681      whirlpool s.a.       nf 6225453- falta boleto -       622545   72072 23/03/2020 15/06/2020         0,00 15/06/2020     161,02
+                               entrada 72072 - 3/3                   3
+3681      whirlpool s.a.       nf 6225454-falta boleto -        622545   72078 23/03/2020 15/06/2020         0,00 15/06/2020     201,90
+                               entrada 72078 - 3/3                   4
+3681      whirlpool s.a.       nf 6225455-falta boleto -        622545   72073 23/03/2020 15/06/2020         0,00 15/06/2020      69,06
+                               entrada 72073 - 3/3                   5
+3681      whirlpool s.a.       nf 6257678- falta boleto -       625767   72575 15/04/2020 05/06/2020         0,00 05/06/2020      14,76
+                               entrada 72575 - 2/3                   8
+3681      whirlpool s.a.       nf 6257679- falta boleto -       625767   72577 15/04/2020 05/06/2020         0,00 05/06/2020     237,89
+                               entrada 72577 - 3/3                   9
+3681      whirlpool s.a.       nf 6257680- falta boleto -       625768   72578 15/04/2020 05/06/2020         0,00 05/06/2020      26,02
+                               entrada 72578 - 3/3                   0
+3681      whirlpool s.a.       nf 6289860-falta boleto -        628986   72974 29/04/2020 11/06/2020         0,00 12/06/2020     104,69
+                               entrada 72974 - 2/3                   0
+3681      whirlpool s.a.       nf 6289860-falta boleto -        628986   72974 29/04/2020 26/06/2020         0,00 26/06/2020     104,69
+                               entrada 72974 - 3/3                   0
+3681      whirlpool s.a.       nf 6289861- falta boleto -       628986   72968 29/04/2020 26/06/2020         0,00 26/06/2020      16,55
+                               entrada 72968 - 2/3                   1
+3681      whirlpool s.a.       nf 6289862-falta boleto -        628986   72969 29/04/2020 11/06/2020         0,00 12/06/2020      89,97
+                               entrada 72969 - 2/3                   2
+3681      whirlpool s.a.       nf 6289862-falta boleto -        628986   72969 29/04/2020 26/06/2020         0,00 26/06/2020      89,97
+                               entrada 72969 - 3/3                   2
+3681      whirlpool s.a.       nf 6289863-falta boleto -        628986   72975 29/04/2020 11/06/2020         0,00 12/06/2020      63,96
+                               entrada 72975 - 2/3                   3
+3681      whirlpool s.a.       nf 6289863-falta boleto -        628986   72975 29/04/2020 26/06/2020         0,00 26/06/2020      63,96
+                               entrada 72975 - 3/3                   3
+3681      whirlpool s.a.       whirlpool nf 6297673 -           629767   73254 07/05/2020 29/06/2020         0,00 29/06/2020     501,42
+                               entrada 73254 - 2/3                   3
+3681      whirlpool s.a.       nf 6307177- falta boleto -       630717   73490 14/05/2020 06/06/2020         0,00 08/06/2020      43,56
+                               entrada 73490 - 1/3                   7
+3681      whirlpool s.a.       nf 6307178- boleto ok -          630717   73491 14/05/2020 06/06/2020         0,00 08/06/2020     441,15
+                               entrada 73491 - 1/2                   8
+3681      whirlpool s.a.       nf 6307179- boleto ok -          630717   73493 14/05/2020 06/06/2020         0,00 08/06/2020      72,98
+                               entrada 73493 - 1/2                   9
+
+02/07/2020         15:29:10                                       3                                          idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 1 - compras/forncedores
+
+fornecedor                     descrição                          nota     seq. emissão venc.           créd. emp.      pgto.       valor
+3600      cp placas            cp placa nf 63134 - entrada       63134 73725 21/05/2020 10/06/2020            0,00 10/06/2020      438,16
+          eletronicas ltda     73725 - 1/3
+3600      cp placas            cp placa nf 63134 - entrada       63134 73725 21/05/2020 24/06/2020            0,00 24/06/2020      438,16
+          eletronicas ltda     73725 - 2/3
+3681      whirlpool s.a.       nf 6319661- falta boleto -       631966 74360 12/06/2020 13/06/2020            0,00 13/06/2020       20,69
+                               entrada 74360 - 1/3                   1
+3681      whirlpool s.a.       nf 6319662- falta boleto -       631966 74361 12/06/2020 13/06/2020            0,00 13/06/2020       38,91
+                               entrada 74361 - 1/2                   2
+3600      cp placas            nf 63627 - entrada 74053 - 1/3    63627 74053 05/06/2020 26/06/2020            0,00 26/06/2020      453,22
+          eletronicas ltda
+636       austin-abrasivos e   pagamento em dinheiro -     7615           74250 08/06/2020 08/06/2020         0,00 08/06/2020       35,00
+          refrigeração         entrada 74250
+1773      posto mar negro      nf 8949- pgto cartao visa - 8949           73796 25/05/2020 26/06/2020         0,00 26/06/2020      100,00
+          ltda                 entrada 73796 - 1/1
+1773      posto mar negro      pagamento em dinheiro -     9083           74808 26/06/2020 26/06/2020         0,00 26/06/2020      100,00
+          ltda                 entrada 74808
+413       wurth do brasil      wurth boleto ok - entrada 952990           73236 07/05/2020 08/06/2020         0,00 08/06/2020      155,79
+          peças de fixação     73236 - 3/3
+          ltda.
+
+                                                                                   total:                 2.894,59              53.819,21
+                                  total pago (valor da conta - valor pago em crédito):                                          50.924,62
+
+
+plano de contas 3: 2 - dua - icms - simples nacional
+
+fornecedor                     descrição                          nota     seq. emissão venc.           créd. emp.      pgto.       valor
+508       imposto          diferencial de aliquota                    0       0 12/06/2020 18/06/2020         0,00 18/06/2020       26,83
+                           ref. nf 952990
+490       das documento de das simples 2020 5/12                      0       0 21/11/2019 25/06/2020         0,00 22/06/2020    9.789,66
+          arrecadação do
+          simples nacional
+
+                                                                                   total:                     0,00               9.816,49
+                                  total pago (valor da conta - valor pago em crédito):                                           9.816,49
+
+
+plano de contas 3: 4 - aluguel
+
+fornecedor                     descrição                          nota     seq. emissão venc.           créd. emp.      pgto.       valor
+3317      willianson pereira willianson pereira dos                   0       0 24/05/2016 10/06/2020         0,00 09/06/2020    1.500,00
+          dos santos         santos 46/48
+
+                                                                                   total:                     0,00               1.500,00
+                                  total pago (valor da conta - valor pago em crédito):                                           1.500,00
+
+
+plano de contas 3: 16 - pro labore ilma
+
+fornecedor                     descrição                          nota     seq. emissão venc.           créd. emp.      pgto.       valor
+486       ilma de souza        ilma de souza - pro                    0       0 05/08/2019 05/06/2020         0,00 05/06/2020    4.084,88
+          laranjeiras          labore 11/12
+
+                                                                                   total:                     0,00               4.084,88
+                                  total pago (valor da conta - valor pago em crédito):                                           4.084,88
+
+02/07/2020          15:29:10                                      4                                           idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 17 - pro labore vanderson
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+471       vanderson           vanderson ferreira - pro               0     0 05/08/2019 05/06/2020         0,00 05/06/2020   4.084,88
+          ferreira            labore 11/12
+          laranjeiras
+
+                                                                                total:                     0,00              4.084,88
+                                  total pago (valor da conta - valor pago em crédito):                                       4.084,88
+
+
+plano de contas 3: 23 - energia
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+478       escelsa espirito    conta luz - energia 2020 6/12          0     0 21/11/2019 30/06/2020         0,00 29/06/2020     145,68
+          santo centrais
+          eletrica s/a
+
+                                                                                total:                     0,00               145,68
+                                  total pago (valor da conta - valor pago em crédito):                                        145,68
+
+
+plano de contas 3: 25 - telefone fixo
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+491       telemar norte       conta telefone 3763-2975               0     0 01/10/2019 01/06/2020         0,00 01/06/2020      62,55
+          leste sa            05/20
+491       telemar norte       conta telefone 3312-9726               0     0 01/10/2019 01/06/2020         0,00 01/06/2020      62,55
+          leste sa            05/20
+
+                                                                                total:                     0,00               125,10
+                                  total pago (valor da conta - valor pago em crédito):                                        125,10
+
+
+plano de contas 3: 26 - telefone movel
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+757       telefonica brasil   vivo - contrato 0364112109             0     0 21/11/2019 25/06/2020         0,00 25/06/2020     427,07
+          s.a - vivo          6/12
+
+                                                                                total:                     0,00               427,07
+                                  total pago (valor da conta - valor pago em crédito):                                        427,07
+
+
+plano de contas 3: 27 - honorario contador
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+3494      contabil            honorario contador 5/12                0     0 04/02/2020 15/06/2020         0,00 15/06/2020     874,14
+          contabilidade e     boleto ok
+          assessoria
+          empresarial ltda
+          me
+
+                                                                                total:                     0,00               874,14
+                                  total pago (valor da conta - valor pago em crédito):                                        874,14
+
+
+plano de contas 3: 34 - padaria / alimentação
+
+02/07/2020         15:29:10                                      5                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+fornecedor                    descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+488       padaria e           pão p/func                            0     0 29/06/2020 29/06/2020         0,00 29/06/2020       2,90
+          lanchonete keyd
+          ltda
+492       fornecedores        despesa com alimentacao               0     0 23/06/2020 23/06/2020         0,00 23/06/2020      65,00
+          diversos            viagem promel
+492       fornecedores        marmita p/ ilma e tata                0     0 19/06/2020 19/06/2020         0,00 19/06/2020      20,00
+          diversos            referente ao dia 05/06/2020
+492       fornecedores        marmita p/ ilma e taislany            0     0 16/06/2020 16/06/2020         0,00 16/06/2020      20,00
+          diversos
+488       padaria e           pão p/func                      18437       0 05/06/2020 05/06/2020         0,00 05/06/2020       3,40
+          lanchonete keyd
+          ltda
+488       padaria e           pão p/func                      18714       0 15/06/2020 15/06/2020         0,00 15/06/2020       3,70
+          lanchonete keyd
+          ltda
+488       padaria e           pão p/ func                     18762       0 17/06/2020 17/06/2020         0,00 17/06/2020       2,35
+          lanchonete keyd
+          ltda
+488       padaria e           pao de queijo                   18856       0 19/06/2020 19/06/2020         0,00 19/06/2020       4,00
+          lanchonete keyd
+          ltda
+488       padaria e           pão p/ func                     18859       0 19/06/2020 19/06/2020         0,00 19/06/2020       1,79
+          lanchonete keyd
+          ltda
+488       padaria e           pao frances para cafe da        19023       0 25/06/2020 25/06/2020         0,00 25/06/2020       2,65
+          lanchonete keyd     tarde func. 24/06
+          ltda
+488       padaria e           chimango p/func                 19203       0 30/06/2020 30/06/2020         0,00 30/06/2020       3,60
+          lanchonete keyd
+          ltda
+
+                                                                               total:                     0,00               129,39
+                                 total pago (valor da conta - valor pago em crédito):                                        129,39
+
+
+plano de contas 3: 37 - seguro carro
+
+fornecedor                    descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+481       seguro carro        seguro carro ovj9867                  0     0 26/02/2020 26/06/2020         0,00 26/06/2020     322,61
+                              apolic.3897690829831 5/9
+
+                                                                               total:                     0,00               322,61
+                                 total pago (valor da conta - valor pago em crédito):                                        322,61
+
+
+plano de contas 3: 40 - manutenção de veiculo ocy 4883
+
+fornecedor                    descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+664       rossine auto        amortecedor carro ocy            8476       0 12/06/2020 12/06/2020         0,00 12/06/2020     100,00
+          peças ltda          4883 ( 2 unid)
+
+                                                                               total:                     0,00               100,00
+                                 total pago (valor da conta - valor pago em crédito):                                        100,00
+
+
+plano de contas 3: 45 - emprestimo bancario
+
+fornecedor                    descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+
+
+
+02/07/2020         15:29:10                                     6                                         idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 45 - emprestimo bancario
+
+fornecedor                    descrição                         nota     seq. emissão venc.           créd. emp.      pgto.        valor
+3005      banco do            pagamento parcial de                   0      0 02/06/2020 02/06/2020         0,00 02/06/2020   100.000,00
+          nordeste do         emprestimo
+          brasil sa
+
+                                                                                 total:                     0,00              100.000,00
+                                  total pago (valor da conta - valor pago em crédito):                                        100.000,00
+
+
+plano de contas 3: 47 - frete
+
+fornecedor                    descrição                         nota     seq. emissão venc.           créd. emp.      pgto.        valor
+7         transportadora      frete nf 51867 cte 691749-             0 73864 27/05/2020 18/06/2020          0,00 18/06/2020       114,96
+          continental ltda.   falta boleto - frete da
+          filial sp           entrada 73864 - 1/1
+1896      refrigeração        frete entrada 73799              15626        0 25/05/2020 12/06/2020         0,00 12/06/2020        36,73
+          tres irmaos ltda    nf15626 cte 1729739
+          me
+4489      transcherrer        frete ref. notas 5239 -         5239/5        0 26/06/2020 26/06/2020         0,00 26/06/2020        76,51
+          transportadora      38,31/5245- 38,20                  245
+          ltda
+
+                                                                                 total:                     0,00                 228,20
+                                  total pago (valor da conta - valor pago em crédito):                                           228,20
+
+
+plano de contas 3: 63 - epi´s
+
+fornecedor                    descrição                         nota     seq. emissão venc.           créd. emp.      pgto.        valor
+428       opção parafusos     pagamento em dinheiro -          33058 74062 02/06/2020 02/06/2020            0,00 02/06/2020         5,00
+          e ferramentas       entrada 74062
+          ltda.
+
+                                                                                 total:                     0,00                    5,00
+                                  total pago (valor da conta - valor pago em crédito):                                              5,00
+
+
+plano de contas 3: 65 - gps /darf
+
+fornecedor                    descrição                         nota     seq. emissão venc.           créd. emp.      pgto.        valor
+549       darf                darf - minst. fazenda 5/12             0      0 21/11/2019 19/06/2020         0,00 19/06/2020       730,24
+470       guia da            guia da previdencia                     0      0 21/11/2019 19/06/2020         0,00 19/06/2020     1.233,04
+          previdencia social social- gps 6/12
+          (gps)
+
+                                                                                 total:                     0,00                1.963,28
+                                  total pago (valor da conta - valor pago em crédito):                                          1.963,28
+
+
+plano de contas 3: 66 - plano de saude
+
+fornecedor                    descrição                         nota     seq. emissão venc.           créd. emp.      pgto.        valor
+4696      plena              unimed vanderson mes 06                 0      0 04/01/2020 10/06/2020         0,00 10/06/2020       561,36
+          administradora de
+          beneficios ltda-me
+4696      plena              unimed ilma mes 06                      0      0 04/01/2020 10/06/2020         0,00 10/06/2020       352,91
+          administradora de
+          beneficios ltda-me
+02/07/2020         15:29:10                                      7                                          idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 66 - plano de saude
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+          beneficios ltda-me
+
+                                                                                total:                     0,00               914,27
+                                  total pago (valor da conta - valor pago em crédito):                                        914,27
+
+
+plano de contas 3: 68 - taxas
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+559    caixa economica         ajuste cred parc s/ juros             0     0 02/07/2020 26/06/2020         0,00 26/06/2020       0,08
+       federal
+559    caixa economica         deb tarifa 5/10                       0     0 06/02/2020 06/06/2020         0,00 05/06/2020       8,10
+       federal
+463    ste serviços            cnab - taxa do boleto                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 08/06/2020 08/06/2020         0,00 08/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 09/06/2020 09/06/2020         0,00 09/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       1,80
+       tecnicos
+       especializados
+       ltda
+463    ste serviços            cnab - taxa do boleto                 0     0 19/06/2020 19/06/2020         0,00 19/06/2020       1,80
+       tecnicos
+       especializados
+02/07/2020
+       ltda      15:29:10                                        8                                         idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 68 - taxas
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+          especializados
+          ltda
+463       ste serviços         cnab - taxa do boleto                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       1,80
+          tecnicos
+          especializados
+          ltda
+463       ste serviços         cnab - taxa do boleto                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       1,80
+          tecnicos
+          especializados
+          ltda
+463       ste serviços         cnab - taxa do boleto                 0     0 29/06/2020 29/06/2020         0,00 29/06/2020       1,80
+          tecnicos
+          especializados
+          ltda
+463       ste serviços         cnab - taxa do boleto                 0     0 30/06/2020 30/06/2020         0,00 30/06/2020       1,80
+          tecnicos
+          especializados
+          ltda
+463       ste serviços         cnab - taxa do boleto                 0     0 30/06/2020 30/06/2020         0,00 30/06/2020       1,80
+          tecnicos
+          especializados
+          ltda
+
+                                                                                total:                     0,00                38,78
+                                  total pago (valor da conta - valor pago em crédito):                                         38,78
+
+
+plano de contas 3: 74 - despesas func. jovilmar
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+531       jovilmar mendes    jovilmar mendes dos                     0     0 08/01/2020 05/06/2020         0,00 04/06/2020     859,00
+          dos santos         santos 5/11
+572       odontoprev s/a     odontoprev -                            0     0 08/01/2020 30/06/2020         0,00 30/06/2020      57,02
+                             dependentes 6/12
+3643      ticket servicos sa ticket alimentação -                    0     0 06/01/2020 15/06/2020         0,00 12/06/2020     310,00
+                             jovilmar mendes 6/12
+475       samp espírito      samp func. jovilmar 6/12                0     0 04/01/2020 10/06/2020         0,00 25/06/2020      92,72
+          santo assistência
+          médica ltda.
+
+                                                                                total:                     0,00              1.318,74
+                                  total pago (valor da conta - valor pago em crédito):                                       1.318,74
+
+
+plano de contas 3: 86 - despesas func. joemar
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+580       joemar mendes        vale func joemar mendes               0     0 20/06/2020 20/06/2020         0,00 20/06/2020     100,00
+          dos santos           dos santos
+580       joemar mendes        joemar mendes dos                     0     0 08/01/2020 05/06/2020         0,00 04/06/2020     593,00
+          dos santos           santos 5/11
+3643      ticket servicos sa   ticket alimentação -                  0     0 06/01/2020 15/06/2020         0,00 12/06/2020     260,00
+                               joemar mendes 6/12
+475       samp espírito        samp func. joemar 6/12                0     0 04/01/2020 10/06/2020         0,00 25/06/2020     106,72
+          santo assistência
+          médica ltda.
+
+
+
+02/07/2020         15:29:10                                      9                                         idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+                                                                                total:                     0,00              1.059,72
+                                  total pago (valor da conta - valor pago em crédito):                                       1.059,72
+
+
+plano de contas 3: 96 - despesas func. paulo vitor
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+603       paulo vitor de     ref parcela 4/06 ca                     0     0 26/06/2020 26/06/2020         0,00 26/06/2020     200,00
+          souza
+603       paulo vitor de     paulo vitor de souza 5/11               0     0 08/01/2020 05/06/2020         0,00 04/06/2020     329,00
+          souza
+3643      ticket servicos sa ticket alimentação - paulo              0     0 06/01/2020 15/06/2020         0,00 12/06/2020     260,00
+                             vitor 6/12
+475       samp espírito      samp func. paulo vitor                  0     0 04/01/2020 10/06/2020         0,00 25/06/2020      92,72
+          santo assistência 6/12
+          médica ltda.
+
+                                                                                total:                     0,00               881,72
+                                  total pago (valor da conta - valor pago em crédito):                                        881,72
+
+
+plano de contas 3: 105 - despesas com alimentação
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+492       fornecedores        desp. alimentação dias 22 e            0     0 24/06/2020 24/06/2020         0,00 24/06/2020      24,00
+          diversos            24/06 atend. promel
+
+                                                                                total:                     0,00                24,00
+                                  total pago (valor da conta - valor pago em crédito):                                         24,00
+
+
+plano de contas 3: 106 - despesas com materiais/andaimes/obra
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+614       guzzo parafusos     ref. compra de rebite e                0     0 26/06/2020 26/06/2020         0,00 26/06/2020      14,00
+          ltda me             broca uso promel nv
+492       fornecedores        desp. materiais                        0     0 24/06/2020 24/06/2020         0,00 24/06/2020      30,58
+          diversos            parafuso/pilha/ estilete
+                              p/ promel
+492       fornecedores        ref. materiais p/ promel               0     0 23/06/2020 23/06/2020         0,00 23/06/2020     100,00
+          diversos            (parafusos)
+492       fornecedores        abracadeira/ tubo                      0     0 17/06/2020 17/06/2020         0,00 17/06/2020      45,00
+          diversos            soldavel/te90/joelho
+                              obra brasil tec
+492       fornecedores        diss bip 16a obra brazil               0     0 17/06/2020 17/06/2020         0,00 17/06/2020      25,90
+          diversos            tec
+428       opção parafusos     parafusos obra promel                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020      16,70
+          e ferramentas
+          ltda.
+492       fornecedores        serviços p/ mão de obra                0     0 01/06/2020 01/06/2020         0,00 01/06/2020     100,00
+          diversos            galpao
+2655      janio abel soares   janio abel soares da silva             0     0 01/06/2020 01/06/2020         0,00 01/06/2020     340,00
+          da silva
+428       opção parafusos     materiais p/ manut               14492       0 19/06/2020 19/06/2020         0,00 19/06/2020      41,00
+          e ferramentas       rogerio mendes costa
+          ltda.
+489       gl tintas ltda me   tinner p/ obra promel            54239       0 15/06/2020 15/06/2020         0,00 15/06/2020      12,00
+          luiz tintas
+492       fornecedores        locação de andaimes               5877       0 15/06/2020 15/06/2020         0,00 15/06/2020     150,00
+          diversos
+
+02/07/2020         15:29:10                                     10                                         idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+                                                                                total:                     0,00               875,18
+                                  total pago (valor da conta - valor pago em crédito):                                        875,18
+
+
+plano de contas 3: 107 - seguro de vida
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+3156      clube pasi de       clube pasi - seguro de                 0     0 08/01/2020 30/06/2020         0,00 30/06/2020      55,89
+          seguros             vida funcionarios 6/12
+
+                                                                                total:                     0,00                55,89
+                                  total pago (valor da conta - valor pago em crédito):                                         55,89
+
+
+plano de contas 3: 111 - combustivel ocy - 4883
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+1845      auto servico        combustivel ocy-4883            215391       0 03/06/2020 03/06/2020         0,00 03/06/2020     100,00
+          gramado ltda
+1845      auto servico        combustivel carro ocy           218251       0 24/06/2020 24/06/2020         0,00 24/06/2020     100,00
+          gramado ltda        4883
+1845      auto servico        combustivel carro ocy-           52421       0 08/06/2020 08/06/2020         0,00 08/06/2020     100,00
+          gramado ltda        4883
+1845      auto servico        combustivel carro ocy            52873       0 12/06/2020 12/06/2020         0,00 12/06/2020     100,00
+          gramado ltda        4883
+1845      auto servico        combustivel ocy-4883             53233       0 17/06/2020 17/06/2020         0,00 17/06/2020     100,00
+          gramado ltda
+1845      auto servico        combustivel carro ocy            54207       0 27/06/2020 27/06/2020         0,00 27/06/2020     100,00
+          gramado ltda        4883
+
+                                                                                total:                     0,00               600,00
+                                  total pago (valor da conta - valor pago em crédito):                                        600,00
+
+
+plano de contas 3: 116 - material de escritorio/expediente
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+492       fornecedores        tesoura                                0     0 17/06/2020 17/06/2020         0,00 17/06/2020      20,00
+          diversos
+
+                                                                                total:                     0,00                20,00
+                                  total pago (valor da conta - valor pago em crédito):                                         20,00
+
+
+plano de contas 3: 117 - material de uso e consumo - loja
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+614       guzzo parafusos     corrente plastica                      0     0 03/06/2020 03/06/2020         0,00 03/06/2020      22,00
+          ltda me             grande
+3889      coelho e barra      internet loja 6/12                     0     0 21/11/2019 05/06/2020         0,00 05/06/2020     104,90
+          internet e tv p
+          assinat ltda
+492       fornecedores        materiais de limpeza e           30241       0 25/06/2020 25/06/2020         0,00 25/06/2020      47,23
+          diversos            açucar para uso loja
+428       opção parafusos     estilete                         91459       0 15/06/2020 15/06/2020         0,00 15/06/2020       9,00
+          e ferramentas
+          ltda.
+
+                                                                                total:                     0,00               183,13
+
+02/07/2020         15:29:10                                     11                                         idealsoft - shop control 9
+                                         contas pagas por plano de contas
+
+empresa:                ste serv tecnic especializados ltda me
+filial:                 1 - ste ar condicionado
+departamento:           todos
+c. de custo:            todos
+data inicial:           01/06/2020        data final: 30/06/2020
+                                       total pago (valor da conta - valor pago em crédito):                                           183,13
+
+
+plano de contas 3: 125 - aquisição eq. informatica
+
+fornecedor                          descrição                            nota    seq. emissão venc.          créd. emp.      pgto.      valor
+492       fornecedores              compra de norma técnica abnt             0     0 02/07/2020 26/06/2020         0,00 26/06/2020     149,74
+          diversos                  nbr 14518 - material técnico
+492       fornecedores              renovação do registro do                 0     0 02/07/2020 26/06/2020         0,00 26/06/2020      76,00
+          diversos                  domínio "ste-ar.com.br" (web)
+592       microfonia eletro         microsoft 365 - licença do pacote        0     0 02/07/2020 26/06/2020         0,00 26/06/2020     220,27
+          eletronicos e             de serviços do office 365
+          informatica ltda
+4685      digital river do brasil   antivirus kaspersky 2/12                 0     0 28/04/2020 26/06/2020         0,00 26/06/2020      33,00
+          importacao e comercio
+          de produtos de
+
+                                                                                        total:                     0,00               479,01
+                                       total pago (valor da conta - valor pago em crédito):                                           479,01
+
+
+plano de contas 3: 127 - combustivel ovj 9867
+
+fornecedor                          descrição                            nota    seq. emissão venc.          créd. emp.      pgto.      valor
+4626      auto posto                pagamento em dinheiro -              2246 74733 24/06/2020 24/06/2020          0,00 24/06/2020     100,00
+          schueng ltda              entrada 74733
+1845      auto servico              combustivel ovj 9867                53284      0 16/06/2020 16/06/2020         0,00 16/06/2020     100,00
+          gramado ltda
+1845      auto servico              combustivel carro ovj               53841      0 24/06/2020 24/06/2020         0,00 24/06/2020     100,00
+          gramado ltda              9867
+1773      posto mar negro           combustivel ovj 9867                 9011      0 06/06/2020 06/06/2020         0,00 06/06/2020     100,00
+          ltda
+
+                                                                                        total:                     0,00               400,00
+                                       total pago (valor da conta - valor pago em crédito):                                           400,00
+
+
+plano de contas 3: 133 - ourocap / titulo capitalização
+
+fornecedor                          descrição                            nota    seq. emissão venc.          créd. emp.      pgto.      valor
+559       caixa economica           titulo capitalizaçao caixa               0     0 23/06/2016 23/06/2020         0,00 23/06/2020     244,18
+          federal                   econ. 60x 49/60
+
+                                                                                        total:                     0,00               244,18
+                                       total pago (valor da conta - valor pago em crédito):                                           244,18
+
+
+plano de contas 3: 134 - material de uso e consumo - oficina
+
+fornecedor                          descrição                            nota    seq. emissão venc.          créd. emp.      pgto.      valor
+2735      brazao materiais          curva/joelho sold/tubo                   0     0 15/06/2020 15/06/2020         0,00 15/06/2020      23,00
+          de construçao             soldavel
+          ltda me
+492       fornecedores              bucha n°8                                0     0 02/06/2020 02/06/2020         0,00 02/06/2020       3,00
+          diversos
+636       austin-abrasivos e        pagamento em dinheiro -              7623 74367 12/06/2020 12/06/2020          0,00 12/06/2020      80,00
+          refrigeração              entrada 74367
+614       guzzo parafusos           parafuso                             9500      0 16/06/2020 16/06/2020         0,00 16/06/2020       1,50
+          ltda me
+
+
+
+02/07/2020            15:29:10                                          12                                         idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+                                                                                total:                     0,00               107,50
+                                  total pago (valor da conta - valor pago em crédito):                                        107,50
+
+
+plano de contas 3: 138 - desp. func. jesus
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+2935      jesus da silva       vale ref. recebimento                 0     0 27/06/2020 27/06/2020         0,00 27/06/2020      56,50
+          oliveira             nfce 18867
+2935      jesus da silva       jesus da silva oliveira 5/11          0     0 08/01/2020 05/06/2020         0,00 04/06/2020     657,00
+          oliveira
+3643      ticket servicos sa   ticket alimentação - jesus            0     0 06/01/2020 15/06/2020         0,00 12/06/2020     310,00
+                               da silva 6/12
+475       samp espírito        samp func. jesus 6/12                 0     0 04/01/2020 10/06/2020         0,00 25/06/2020     171,44
+          santo assistência
+          médica ltda.
+
+                                                                                total:                     0,00              1.194,94
+                                  total pago (valor da conta - valor pago em crédito):                                       1.194,94
+
+
+plano de contas 3: 148 - despesa com reforma -nova loja
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+4583      endrius dos          ref. seriço fechamento                0     0 24/06/2020 24/06/2020         0,00 24/06/2020     600,00
+          santos valger        galpao em isopainel
+
+                                                                                total:                     0,00               600,00
+                                  total pago (valor da conta - valor pago em crédito):                                        600,00
+
+
+plano de contas 3: 152 - distribuiçao ant. lucro ilma
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+486       ilma de souza        distribuição lucro                    0     0 10/06/2020 10/06/2020         0,00 10/06/2020     300,00
+          laranjeiras
+
+                                                                                total:                     0,00               300,00
+                                  total pago (valor da conta - valor pago em crédito):                                        300,00
+
+
+plano de contas 3: 153 - distribuiçao ant. lucro vanderson
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+471       vanderson            distribuição de lucro                 0     0 10/06/2020 10/06/2020         0,00 10/06/2020     100,00
+          ferreira
+          laranjeiras
+471       vanderson            distribuição de lucro                 0     0 10/06/2020 10/06/2020         0,00 10/06/2020     350,00
+          ferreira
+          laranjeiras
+
+                                                                                total:                     0,00               450,00
+                                  total pago (valor da conta - valor pago em crédito):                                        450,00
+
+
+plano de contas 3: 155 - despesas func. rodrigo negris
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+
+
+02/07/2020         15:29:10                                     13                                         idealsoft - shop control 9
+                                    contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 155 - despesas func. rodrigo negris
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+3701      rodrigo negris       vale func. rodrigo negris             0     0 26/06/2020 26/06/2020         0,00 26/06/2020     100,00
+          monteiro             06/2020
+3701      rodrigo negris       rodrigo negris monteiro               0     0 08/01/2020 05/06/2020         0,00 04/06/2020     560,77
+          monteiro             5/11
+3643      ticket servicos sa   ticket alimentação -                  0     0 06/01/2020 15/06/2020         0,00 12/06/2020     260,00
+                               rodrigo negris 6/12
+475       samp espírito        samp func. rodrigo 6/12               0     0 04/01/2020 10/06/2020         0,00 25/06/2020     250,16
+          santo assistência
+          médica ltda.
+
+                                                                                total:                     0,00              1.170,93
+                                  total pago (valor da conta - valor pago em crédito):                                       1.170,93
+
+
+plano de contas 3: 161 - desp. func. jessica
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+4143      jessica oliveira   jessica oliveira dos                    0     0 08/01/2020 05/06/2020         0,00 04/06/2020     529,00
+          dos santos         santos 5/11
+3643      ticket servicos sa ticket alimentação -                    0     0 06/01/2020 15/06/2020         0,00 12/06/2020     260,00
+                             jessica oliveira 6/12
+475       samp espírito      samp func. jessica 6/12                 0     0 04/01/2020 10/06/2020         0,00 25/06/2020      92,72
+          santo assistência
+          médica ltda.
+
+                                                                                total:                     0,00               881,72
+                                  total pago (valor da conta - valor pago em crédito):                                        881,72
+
+
+plano de contas 3: 162 - ferramentas
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+428       opção parafusos      pgto cartao de credito          32401 72473 13/04/2020 26/06/2020           0,00 26/06/2020      37,34
+          e ferramentas        visa - entrada 72473 - 3/12
+          ltda.
+428       opção parafusos      lapis carpinteiro               94015       0 29/06/2020 29/06/2020         0,00 29/06/2020       2,75
+          e ferramentas
+          ltda.
+
+                                                                                total:                     0,00                40,09
+                                  total pago (valor da conta - valor pago em crédito):                                         40,09
+
+
+plano de contas 3: 169 - desp. func. michelle
+
+fornecedor                     descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+3643      ticket servicos sa ticket alimentação func.                0     0 12/06/2020 15/06/2020         0,00 12/06/2020     260,00
+                             michelle 1/7
+4447      michelle lirio     michelle lirio siqueira                 0     0 08/01/2020 05/06/2020         0,00 04/06/2020     581,00
+          siqueira           5/11
+475       samp espírito      samp func. michelle 6/12                0     0 04/01/2020 10/06/2020         0,00 25/06/2020      92,72
+          santo assistência
+          médica ltda.
+
+                                                                                total:                     0,00               933,72
+                                  total pago (valor da conta - valor pago em crédito):                                        933,72
+02/07/2020          15:29:10                                    14                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:             ste serv tecnic especializados ltda me
+filial:              1 - ste ar condicionado
+departamento:        todos
+c. de custo:         todos
+data inicial:        01/06/2020 total
+                                   data final:
+                                      pago (valor30/06/2020
+                                                  da conta - valor pago em crédito):
+
+
+plano de contas 3: 170 - desp. func. rhannielly
+
+fornecedor                    descrição                       nota     seq. emissão venc.          créd. emp.      pgto.      valor
+4455      rhanielly lopes    referente a gasolina p/               0     0 19/06/2020 19/06/2020         0,00 19/06/2020      25,00
+          dalcumune          cliente seq 74540
+3643      ticket servicos sa ticket alimentação func.              0     0 12/06/2020 15/06/2020         0,00 12/06/2020     260,00
+                             rhannielly 1/7
+4455      rhanielly lopes    rhanielly lopes                       0     0 08/01/2020 05/06/2020         0,00 04/06/2020     529,00
+          dalcumune          dalcumune 5/11
+475       samp espírito      samp func. rhannielly 6/12            0     0 04/01/2020 10/06/2020         0,00 25/06/2020      92,72
+          santo assistência
+          médica ltda.
+
+                                                                              total:                     0,00               906,72
+                                total pago (valor da conta - valor pago em crédito):                                        906,72
+
+
+plano de contas 3: 172 - combustivel yaris qrl 1j52
+
+fornecedor                    descrição                       nota     seq. emissão venc.          créd. emp.      pgto.      valor
+492       fornecedores        depesa com viagem                    0     0 23/06/2020 23/06/2020         0,00 23/06/2020     185,00
+          diversos            (promel)
+
+                                                                              total:                     0,00               185,00
+                                total pago (valor da conta - valor pago em crédito):                                        185,00
+
+
+plano de contas 3: 173 - desp. func. taislany
+
+fornecedor                    descrição                       nota     seq. emissão venc.          créd. emp.      pgto.      valor
+3643      ticket servicos sa ticket alimentação-                   0     0 16/03/2020 15/06/2020         0,00 12/06/2020     260,00
+                             taislany 4/10
+4610      taislany de souza taislany de souza                      0     0 04/03/2020 05/06/2020         0,00 04/06/2020     529,00
+          laranjeiras        laranjeiras 4/10
+
+                                                                              total:                     0,00               789,00
+                                total pago (valor da conta - valor pago em crédito):                                        789,00
+
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                       nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa cartao de credito               0     0 11/06/2020 11/06/2020         0,00 12/06/2020       3,21
+          credito norte do
+          espirito santo
+1308      cartão visa net     anuidade diferenciada                0     0 20/09/2019 26/06/2020         0,00 26/06/2020      16,50
+          (cielo)             adc-parc 10/10
+483       cooperativa de      taxa adm. do cartão 4                0     0 01/06/2020 01/06/2020         0,00 01/06/2020       1,83
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,05
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                0     0 01/06/2020 01/06/2020         0,00 01/06/2020       1,05
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                0     0 01/06/2020 01/06/2020         0,00 01/06/2020       7,20
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+
+02/07/2020         15:29:10                                   15                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 4                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,37
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       2,61
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       2,78
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       2,23
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,44
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,25
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,17
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,23
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,30
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,90
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,85
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       1,98
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       1,46
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,28
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       2,44
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       2,60
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       9,40
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,37
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       1,18
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     16                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 11                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,34
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,33
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,10
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,57
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 01/06/2020 01/06/2020         0,00 01/06/2020       0,56
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 02/06/2020 02/06/2020         0,00 02/06/2020       0,26
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 02/06/2020 02/06/2020         0,00 02/06/2020       6,06
+          credito norte do    (elodebito) número - 879323
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 02/06/2020 02/06/2020         0,00 02/06/2020       4,18
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 02/06/2020 02/06/2020         0,00 02/06/2020       1,84
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 02/06/2020 02/06/2020         0,00 02/06/2020       0,22
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 02/06/2020 02/06/2020         0,00 02/06/2020       0,42
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 02/06/2020 02/06/2020         0,00 02/06/2020       1,80
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 02/06/2020 02/06/2020         0,00 02/06/2020       3,58
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 02/06/2020 02/06/2020         0,00 02/06/2020       1,21
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 02/06/2020 02/06/2020         0,00 02/06/2020       0,44
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       2,39
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       0,24
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       0,86
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       2,94
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     17                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 9                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       0,88
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 03/06/2020 03/06/2020         0,00 03/06/2020       1,41
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 03/06/2020 03/06/2020         0,00 03/06/2020       1,39
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 03/06/2020 03/06/2020         0,00 03/06/2020       1,18
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 03/06/2020 03/06/2020         0,00 03/06/2020       2,94
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 03/06/2020 03/06/2020         0,00 03/06/2020       0,68
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       0,06
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       3,98
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       0,18
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       0,38
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 03/06/2020 03/06/2020         0,00 03/06/2020       0,26
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 15                 0     0 04/06/2020 04/06/2020         0,00 04/06/2020       2,96
+          credito norte do    (americaexpresscredito) número
+          espirito santo      - 878914 plano de contas (
+483       cooperativa de      taxa adm. do cartão 9                  0     0 04/06/2020 04/06/2020         0,00 04/06/2020       0,88
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 04/06/2020 04/06/2020         0,00 04/06/2020       1,17
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 04/06/2020 04/06/2020         0,00 04/06/2020       3,19
+          credito norte do    (visacredito) número - 631324
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 04/06/2020 04/06/2020         0,00 04/06/2020       0,30
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 04/06/2020 04/06/2020         0,00 04/06/2020       0,85
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 04/06/2020 04/06/2020         0,00 04/06/2020       0,79
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 04/06/2020 04/06/2020         0,00 04/06/2020       3,38
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     18                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 8                  0     0 04/06/2020 04/06/2020         0,00 04/06/2020       1,44
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 04/06/2020 04/06/2020         0,00 04/06/2020       0,28
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 04/06/2020 04/06/2020         0,00 04/06/2020       3,84
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 12                 0     0 04/06/2020 04/06/2020         0,00 04/06/2020       0,44
+          credito norte do    (banescarddebito ) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 05/06/2020 05/06/2020         0,00 05/06/2020       3,27
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,98
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,89
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 05/06/2020 05/06/2020         0,00 05/06/2020       0,96
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,52
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       2,97
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020      10,50
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,67
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       1,18
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       0,76
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       3,42
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 05/06/2020 05/06/2020         0,00 05/06/2020       0,22
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       0,43
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       0,26
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       0,81
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     19                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 8                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       0,81
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       0,20
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       0,27
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 08/06/2020 08/06/2020         0,00 08/06/2020       1,00
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       0,75
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       1,29
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 08/06/2020 08/06/2020         0,00 08/06/2020       3,26
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       3,14
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       1,60
+          credito norte do    (mastercard crédito) número -
+          espirito santo      980072 plano de contas (1000
+483       cooperativa de      taxa adm. do cartão 9                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       1,81
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       2,09
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       2,09
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020      32,03
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       3,23
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       1,12
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 08/06/2020 08/06/2020         0,00 08/06/2020      15,90
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10004)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 08/06/2020 08/06/2020         0,00 08/06/2020       1,79
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 08/06/2020 08/06/2020         0,00 08/06/2020       1,33
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 5                  0     0 08/06/2020 08/06/2020         0,00 08/06/2020       2,22
+          credito norte do    (elocredito) número - plano de
+          espirito santo      contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     20                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 4                  0     0 09/06/2020 09/06/2020         0,00 09/06/2020       0,08
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 09/06/2020 09/06/2020         0,00 09/06/2020       1,01
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 09/06/2020 09/06/2020         0,00 09/06/2020       0,45
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 09/06/2020 09/06/2020         0,00 09/06/2020       0,74
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 09/06/2020 09/06/2020         0,00 09/06/2020       3,72
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 09/06/2020 09/06/2020         0,00 09/06/2020       1,57
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 09/06/2020 09/06/2020         0,00 09/06/2020       1,16
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 09/06/2020 09/06/2020         0,00 09/06/2020       0,41
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 10/06/2020 10/06/2020         0,00 10/06/2020       0,33
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 10/06/2020 10/06/2020         0,00 10/06/2020       0,96
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 10/06/2020 10/06/2020         0,00 10/06/2020       0,08
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 10/06/2020 10/06/2020         0,00 10/06/2020       0,06
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 10/06/2020 10/06/2020         0,00 10/06/2020       2,70
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 10/06/2020 10/06/2020         0,00 10/06/2020       9,09
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10004)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 10/06/2020 10/06/2020         0,00 10/06/2020       1,14
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 12/06/2020 12/06/2020         0,00 12/06/2020       3,06
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 12/06/2020 12/06/2020         0,00 12/06/2020       3,37
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       2,78
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,98
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     21                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 9                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       1,94
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,46
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,51
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 12/06/2020 12/06/2020         0,00 12/06/2020       2,06
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 12/06/2020 12/06/2020         0,00 12/06/2020       1,06
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,51
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 5                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       1,96
+          credito norte do    (elocredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,89
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,24
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,77
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       7,02
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,87
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 12/06/2020 12/06/2020         0,00 12/06/2020       1,18
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 12/06/2020 12/06/2020         0,00 12/06/2020       0,66
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       2,55
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 12/06/2020 12/06/2020         0,00 12/06/2020       9,80
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 5                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,18
+          credito norte do    (elocredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 5                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       3,46
+          credito norte do    (elocredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 5                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       0,17
+          credito norte do    (elocredito) número - plano de
+          espirito santo      contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     22                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 4                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       0,02
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       0,43
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       2,26
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       0,51
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       3,49
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       8,42
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       2,19
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       2,74
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       0,35
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,52
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       2,59
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 15/06/2020 15/06/2020         0,00 15/06/2020       2,21
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,12
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       3,17
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       3,45
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10004)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,15
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10004)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       0,25
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       1,41
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 15/06/2020 15/06/2020         0,00 15/06/2020       0,59
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     23                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                        nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 11                0     0 15/06/2020 15/06/2020         0,00 15/06/2020       0,64
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                 0     0 16/06/2020 16/06/2020         0,00 16/06/2020       0,95
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                 0     0 16/06/2020 16/06/2020         0,00 16/06/2020       0,34
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                 0     0 16/06/2020 16/06/2020         0,00 16/06/2020       1,38
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                 0     0 16/06/2020 16/06/2020         0,00 16/06/2020       1,57
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                 0     0 16/06/2020 16/06/2020         0,00 16/06/2020       0,32
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                 0     0 16/06/2020 16/06/2020         0,00 16/06/2020       0,57
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                 0     0 16/06/2020 16/06/2020         0,00 16/06/2020       0,18
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                 0     0 16/06/2020 16/06/2020         0,00 16/06/2020       0,75
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                0     0 16/06/2020 16/06/2020         0,00 16/06/2020       1,09
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                0     0 16/06/2020 16/06/2020         0,00 16/06/2020       2,70
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                0     0 16/06/2020 16/06/2020         0,00 16/06/2020       0,44
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                0     0 16/06/2020 16/06/2020         0,00 16/06/2020       0,14
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                0     0 16/06/2020 16/06/2020         0,00 16/06/2020       1,40
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                0     0 16/06/2020 16/06/2020         0,00 16/06/2020       1,49
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       8,08
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       4,60
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       2,30
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       0,12
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10004)
+
+
+
+
+02/07/2020         15:29:10                                    24                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 9                  0     0 17/06/2020 17/06/2020         0,00 17/06/2020       1,04
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 17/06/2020 17/06/2020         0,00 17/06/2020       1,15
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 17/06/2020 17/06/2020         0,00 17/06/2020       2,30
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 17/06/2020 17/06/2020         0,00 17/06/2020       1,84
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 17/06/2020 17/06/2020         0,00 17/06/2020       0,22
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 17/06/2020 17/06/2020         0,00 17/06/2020       1,31
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       0,30
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       0,61
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       0,20
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       1,28
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 18/06/2020 18/06/2020         0,00 18/06/2020       0,45
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 18/06/2020 18/06/2020         0,00 18/06/2020       0,76
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 18/06/2020 18/06/2020         0,00 18/06/2020       4,28
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 18/06/2020 18/06/2020         0,00 18/06/2020       0,29
+          credito norte do    (visacredito) número - 879130
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 18/06/2020 18/06/2020         0,00 18/06/2020       0,68
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 18/06/2020 18/06/2020         0,00 18/06/2020       0,12
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 18/06/2020 18/06/2020         0,00 18/06/2020       0,34
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 19/06/2020 19/06/2020         0,00 19/06/2020       9,83
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 19/06/2020 19/06/2020         0,00 19/06/2020       9,08
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     25                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 9                  0     0 19/06/2020 19/06/2020         0,00 19/06/2020       8,72
+          credito norte do    (mastercard crédito) número -
+          espirito santo      557038 plano de contas (1000
+483       cooperativa de      taxa adm. do cartão 9                  0     0 19/06/2020 19/06/2020         0,00 19/06/2020       0,44
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 19/06/2020 19/06/2020         0,00 19/06/2020       2,33
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 19/06/2020 19/06/2020         0,00 19/06/2020       0,86
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 19/06/2020 19/06/2020         0,00 19/06/2020       0,15
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 19/06/2020 19/06/2020         0,00 19/06/2020       2,01
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 19/06/2020 19/06/2020         0,00 19/06/2020       5,05
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 19/06/2020 19/06/2020         0,00 19/06/2020       1,57
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 12                 0     0 19/06/2020 19/06/2020         0,00 19/06/2020       0,58
+          credito norte do    (banescarddebito ) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       2,66
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 17/06/2020 17/06/2020         0,00 17/06/2020       2,49
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,53
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,09
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,30
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,51
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,33
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       2,10
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 12                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,50
+          credito norte do    (banescarddebito ) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       1,23
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     26                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 5                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       2,65
+          credito norte do    (elocredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       2,44
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       2,05
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       3,86
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       2,36
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       2,13
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,25
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,37
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,51
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       3,34
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,56
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,37
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,34
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       2,57
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       0,37
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       1,22
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       1,27
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 22/06/2020 22/06/2020         0,00 22/06/2020       4,32
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 23/06/2020 23/06/2020         0,00 23/06/2020       0,50
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     27                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 8                  0     0 23/06/2020 23/06/2020         0,00 23/06/2020       0,49
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 23/06/2020 23/06/2020         0,00 23/06/2020       1,62
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 23/06/2020 23/06/2020         0,00 23/06/2020       0,30
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 23/06/2020 23/06/2020         0,00 23/06/2020       0,59
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 23/06/2020 23/06/2020         0,00 23/06/2020       0,56
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 23/06/2020 23/06/2020         0,00 23/06/2020       1,58
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 5                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       0,34
+          credito norte do    (elocredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       1,71
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 25/06/2020 25/06/2020         0,00 25/06/2020       9,19
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       0,32
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       3,38
+          credito norte do    (mastercard crédito) número -
+          espirito santo      542 plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       0,26
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       2,83
+          credito norte do    (mastercard debito) número -
+          espirito santo      198785 plano de contas (10004
+483       cooperativa de      taxa adm. do cartão 8                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       0,91
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       1,57
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       0,36
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 25/06/2020 25/06/2020         0,00 25/06/2020       2,04
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 25/06/2020 25/06/2020         0,00 25/06/2020      13,52
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 25/06/2020 25/06/2020         0,00 25/06/2020       0,22
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     28                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 9                  0     0 26/06/2020 26/06/2020         0,00 26/06/2020       2,28
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 26/06/2020 26/06/2020         0,00 26/06/2020       0,63
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 26/06/2020 26/06/2020         0,00 26/06/2020       1,34
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 26/06/2020 26/06/2020         0,00 26/06/2020       1,36
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       0,30
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 29/06/2020 29/06/2020         0,00 29/06/2020      10,10
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       5,61
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       1,47
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       1,39
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       2,24
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       7,67
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       0,97
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       2,62
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       0,41
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       1,52
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       1,18
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       1,44
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       0,72
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       0,39
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+
+
+
+
+02/07/2020         15:29:10                                     29                                         idealsoft - shop control 9
+                                   contas pagas por plano de contas
+
+empresa:            ste serv tecnic especializados ltda me
+filial:             1 - ste ar condicionado
+departamento:       todos
+c. de custo:        todos
+data inicial:       01/06/2020      data final: 30/06/2020
+
+plano de contas 3: 10008 - taxa adm. cartão
+
+fornecedor                    descrição                         nota     seq. emissão venc.          créd. emp.      pgto.      valor
+483       cooperativa de      taxa adm. do cartão 8                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020       1,11
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 29/06/2020 29/06/2020         0,00 29/06/2020      31,82
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 29/06/2020 29/06/2020         0,00 29/06/2020       9,40
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 29/06/2020 29/06/2020         0,00 29/06/2020       2,87
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 10                 0     0 29/06/2020 29/06/2020         0,00 29/06/2020       0,37
+          credito norte do    (visacredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 29/06/2020 29/06/2020         0,00 29/06/2020       1,01
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 5                  0     0 24/06/2020 24/06/2020         0,00 24/06/2020       1,59
+          credito norte do    (elocredito) número - 622412
+          espirito santo      plano de contas (10004)
+483       cooperativa de      taxa adm. do cartão 4                  0     0 24/06/2020 24/06/2020         0,00 24/06/2020       1,69
+          credito norte do    (elodebito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 9                  0     0 24/06/2020 24/06/2020         0,00 24/06/2020       5,14
+          credito norte do    (mastercard crédito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 12                 0     0 24/06/2020 24/06/2020         0,00 24/06/2020       2,92
+          credito norte do    (banescarddebito ) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 25/06/2020 25/06/2020         0,00 25/06/2020       5,70
+          credito norte do    (banescardcredito) número -
+          espirito santo      462557 plano de contas (10004
+483       cooperativa de      taxa adm. do cartão 13                 0     0 25/06/2020 25/06/2020         0,00 25/06/2020       1,15
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 26/06/2020 26/06/2020         0,00 26/06/2020       2,03
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 13                 0     0 26/06/2020 26/06/2020         0,00 26/06/2020       1,80
+          credito norte do    (banescardcredito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 5                  0     0 30/06/2020 30/06/2020         0,00 30/06/2020       1,19
+          credito norte do    (elocredito) número - plano de
+          espirito santo      contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 30/06/2020 30/06/2020         0,00 30/06/2020       1,39
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 8                  0     0 30/06/2020 30/06/2020         0,00 30/06/2020       1,43
+          credito norte do    (mastercard debito) número -
+          espirito santo      plano de contas (10003)
+483       cooperativa de      taxa adm. do cartão 11                 0     0 30/06/2020 30/06/2020         0,00 30/06/2020       0,71
+          credito norte do    (visadebito) número - plano de
+          espirito santo      contas (10003)
+
+                                                                                total:                     0,00               626,32
+                                 total pago (valor da conta - valor pago em crédito):                                         626,32
+
+
+02/07/2020         15:29:10                                     30                                         idealsoft - shop control 9
+                                contas pagas por plano de contas
+
+empresa:         ste serv tecnic especializados ltda me
+filial:          1 - ste ar condicionado
+departamento:    todos
+c. de custo:     todos
+data inicial:    01/06/2020      data final: 30/06/2020
+
+
+                                                                 total de registros:   494   2.894,59           192.906,49
+
+                         total geral pago (valor da conta - valor pago em crédito):                            190.011,90
+
+
+
+
+02/07/2020      15:29:10                                    31                                  idealsoft - shop control 9
+

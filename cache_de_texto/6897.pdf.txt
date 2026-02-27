@@ -1,0 +1,496 @@
+relatório geral - analítico
+emissão:
+página:
+tipo
+cód. pessoa
+título
+dt. emissão nr. título
+dt. vencimento
+valor
+diferença
+nat. lanç.
+banco
+dt. baixa
+dt. exclusão
+tp. cobr.
+alterdata tecnologia em informática
+alegra industria e comercio ltda
+04/02/2026
+9:42
+1
+( ) abertas
+(x) a pagar
+conteúdo:
+tipo:
+ordem: ( ) alfabética
+imprime:(x) títulos
+período (emis.):de todas as datas
+relatório: (x) analítico
+data ref.: 04/02/2026
+período (venc.):
+período (baixa):
+de todas as datas
+de 01/10/2025 até 31/10/2025
+indexador: nenhum
+( ) a receber
+(x) baixadas
+(x) baixados
+( ) vencimento
+( ) discrimina itens
+( ) histórico das baixas
+( ) sintético
+código da empresa:00001
+alegra industria e comercio ltda   
+nome da empresa:
+banco itau s/a
+p
+3493
+01/10/2025 movbco0223501/10/2025
+124,48
+0,00
+000105
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+izamara de oliveira nogueira
+p
+7672
+30/09/2025 20-2                01/10/2025
+4.016,00
+0,00
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+j. t. ativa equipamentos de seguranca - m
+p
+168
+06/08/2025 69436-2            01/10/2025
+4.686,95
+0,00
+000033
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+mercury marine do brasil ind e com (sc)
+p
+4391
+01/09/2025 280898-1          01/10/2025
+694,11
+0,00
+000033
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+norte distr de acumuladores e acessor
+p
+224
+01/09/2025 94986-1            01/10/2025
+1.003,56
+0,00
+000033
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+secretaria da receita federal
+p
+3414
+01/10/2025 darf0086-011 01/10/2025
+372,32
+0,00
+000128
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+secretaria da receita federal
+p
+3414
+01/10/2025 darf0086-011 01/10/2025
+372,32
+0,00
+000128
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+secretaria de estado da fazenda
+p
+616
+01/10/2025 gnre-011025/ 01/10/2025
+4.244,80
+0,00
+000289
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+secretaria de estado da fazenda
+p
+616
+01/10/2025 gnre-011025/ 01/10/2025
+1.061,20
+0,00
+000289
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+secretaria de estado da fazenda
+p
+616
+01/10/2025 gnre-011025 01/10/2025
+4.244,80
+0,00
+000289
+01/10/2025
+relatório geral - analítico
+emissão:
+página:
+tipo
+cód. pessoa
+título
+dt. emissão nr. título
+dt. vencimento
+valor
+diferença
+nat. lanç.
+banco
+dt. baixa
+dt. exclusão
+tp. cobr.
+alterdata tecnologia em informática
+alegra industria e comercio ltda
+04/02/2026
+9:42
+2
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+secretaria de estado da fazenda
+p
+616
+01/10/2025 gnre-011025/ 01/10/2025
+1.061,20
+0,00
+000289
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+secretaria de estado da fazenda
+p
+616
+03/10/2025 dar3587-0310 03/10/2025
+50,00
+0,00
+000146
+01/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+títulos baixados
+21.931,74
+tit.:
+dif.:
+21.931,74
+0,00
+banco itau s/a
+p
+3493
+02/10/2025 movbco0223902/10/2025
+2,80
+0,00
+000105
+02/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+beatriz pinto da costa
+p
+7912
+02/10/2025 sal0925/2       02/10/2025
+141,17
+0,00
+000087
+02/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+títulos baixados
+143,97
+tit.:
+dif.:
+143,97
+0,00
+banco itau s/a
+p
+3493
+03/10/2025 movbco0223703/10/2025
+500.000,00
+0,00
+000223
+03/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+títulos baixados
+500.000,00
+tit.:
+dif.:
+500.000,00
+0,00
+banco toyota do brasil s.a.
+p
+7104
+01/08/2023 fintoyota-2306/10/2025
+1.868,52
+0,00
+000305
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+barra & queiroz exportacao e importaca
+p
+6622
+15/09/2025 movbco00641
+50.000,00
+0,00
+000208
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+manaus ambiental s/a
+p
+3485
+02/01/2025 agua-25/0001006/10/2025
+258,84
+0,00
+000050
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+mercury marine do brasil ind e com (sc)
+p
+4391
+05/08/2025 278561-2          06/10/2025
+679,67
+0,00
+000033
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+paulo vieira machado
+p
+7916
+03/09/2025 movbco00639
+15.000,00
+0,00
+000208
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+paulo vieira machado
+p
+7916
+06/10/2025 movbco00643
+15.950,00
+0,00
+000208
+06/10/2025
+relatório geral - analítico
+emissão:
+página:
+tipo
+cód. pessoa
+título
+dt. emissão nr. título
+dt. vencimento
+valor
+diferença
+nat. lanç.
+banco
+dt. baixa
+dt. exclusão
+tp. cobr.
+alterdata tecnologia em informática
+alegra industria e comercio ltda
+04/02/2026
+9:42
+3
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+peter eugen herzog
+p
+10
+06/10/2025 movbco0223806/10/2025
+17.900,00
+0,00
+000159
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+renato luis correa vilar
+p
+11
+06/10/2025 movbco0223706/10/2025
+15.250,00
+0,00
+000159
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+san marino centro nautico ltda
+p
+1391
+07/10/2025 2906-1              07/10/2025
+1.250,00
+0,00
+000057
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+secretaria de estado da fazenda
+p
+616
+06/10/2025 dar1316-0610 06/10/2025
+3,46
+0,00
+06/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+títulos baixados
+118.160,49
+tit.:
+dif.:
+118.097,99
+0,00
+c. alberto salgado machado ltda
+p
+7947
+29/09/2025 movbco00642
+22.000,00
+0,00
+000208
+07/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+dinamica da amazonia informatica eireli
+p
+6468
+07/10/2025 adiant-07102507/10/2025
+1.100,00
+0,00
+000034
+07/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+ibama - superintendencia estadual/am
+p
+633
+07/10/2025 ibama-25/0000 07/10/2025
+463,74
+0,00
+000224
+07/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+j k r da silva
+p
+4465
+02/10/2025 829-1               07/10/2025
+450,00
+0,00
+000057
+07/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+títulos baixados
+24.013,74
+tit.:
+dif.:
+24.003,79
+0,00
+barra & queiroz exportacao e importaca
+p
+6622
+08/10/2025 movbco00644
+34.800,00
+0,00
+000208
+08/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+barra & queiroz exportacao e importaca
+p
+6622
+21/08/2025 movbco00636
+20.000,00
+0,00
+000208
+08/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado
+yamaha motor da amazonia ltda (zfm)
+p
+362
+10/07/2025 4865-3              08/10/2025
+2.706,03
+0,00
+000033
+08/10/2025
+cd. mov. cobr. ds. ítem
+vl. ítem
+vl. baixas
+baixado

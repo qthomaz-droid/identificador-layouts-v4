@@ -1,0 +1,115 @@
+vti - veredas tecnologia e informacao                                                            em: 22/09/2022  as  15:12:33
+                                                   atacadao araujo eirelli
+lancamentos por evento de 01/08/2022 a 31/08/2022  -  analitico                                  financas         pag.: 00001
+=============================================================================================================================
+codigo   descricao do evento
+-----------------------------------------------------------------------------------------------------------------------------
+  historico padrao               historico do movimento                                                     valor  data
+=============================================================================================================================
+500 - pagamentos fornecedor [saida]
+-----------------------------------------------------------------------------------------------------------------------------
+  pagamento ref                  liq total por 27 em 05/08/22   00079-imposto fgts                       1.617,22  05/08/2022
+  pagamento ref                  liq total por 27 em 19/08/22   00273-imposto darf - doc de ar           1.778,47  19/08/2022
+  pagamento ref                  liq total por 27 em 19/08/22   00079-imposto fgts                          85,79  19/08/2022
+  pagamento ref                  liq total por 27 em 24/08/22   00119-sicoob                                50,00  23/08/2022
+  pagamento ref                  liq total por 27 em 25/08/22   00550-conast consultoria e ass             180,00  25/08/2022
+-----------------------------------------------------------------------------------------------------------------------------
+total parcial                                                         entrada:              0,00     saida:          3.711,48
+=============================================================================================================================
+511 - tx cheque [saida]
+-----------------------------------------------------------------------------------------------------------------------------
+  pagamento ref                  despesa - arq retorno - 756    dia 01/08/2022                              17,67  01/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 02/08/2022                               7,91  02/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 03/08/2022                               6,06  03/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 04/08/2022                               9,76  04/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 05/08/2022                               7,91  05/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 08/08/2022                              10,27  08/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 09/08/2022                               6,76  09/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 10/08/2022                               3,70  10/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 11/08/2022                               3,70  11/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 12/08/2022                               1,85  12/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 15/08/2022                              13,97  15/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 22/08/2022                               3,70  22/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 29/08/2022                               2,00  29/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 30/08/2022                               3,00  30/08/2022
+  pagamento ref                  despesa - arq retorno - 756    dia 31/08/2022                               1,00  31/08/2022
+-----------------------------------------------------------------------------------------------------------------------------
+total parcial                                                         entrada:              0,00     saida:             99,26
+=============================================================================================================================
+567 - caio salario [saida]
+-----------------------------------------------------------------------------------------------------------------------------
+  caixa do dia                   manuteno toro                                                           616,00  05/08/2022
+  caixa do dia                   mnica maria estevo                                                      150,00  08/08/2022
+  caixa do dia                   retirada caio                                                           1.204,00  10/08/2022
+  caixa do dia                   retirada caio                                                           1.400,00  10/08/2022
+  caixa do dia                   paula/faxina                                                               80,00  18/08/2022
+  caixa do dia                   leandro rocha/despesa caio                                                100,00  22/08/2022
+  caixa do dia                   caroline de moura/familia caio                                            173,50  23/08/2022
+-----------------------------------------------------------------------------------------------------------------------------
+total parcial                                                         entrada:              0,00     saida:          3.723,50
+=============================================================================================================================
+572 - salario de funcionarios [saida]
+-----------------------------------------------------------------------------------------------------------------------------
+  caixa do dia                   debito pagametno salario                                               11.949,78  02/08/2022
+  caixa do dia                   pagamento edilene                                                       4.353,59  04/08/2022
+  caixa do dia                   adiantamento edilene                                                      500,00  17/08/2022
+  caixa do dia                   adiantamento salarial                                                   4.500,00  18/08/2022
+-----------------------------------------------------------------------------------------------------------------------------
+total parcial                                                         entrada:              0,00     saida:         21.303,37
+=============================================================================================================================
+594 - lote caio condominio [saida]
+-----------------------------------------------------------------------------------------------------------------------------
+  caixa do dia                   pagamento eletricista                                                   1.000,00  05/08/2022
+  caixa do dia                   cimento obra                                                              372,50  05/08/2022
+  caixa do dia                   pagamento empreitada henrique                                           2.000,00  05/08/2022
+  caixa do dia                   pedras obra marmoraria                                                  5.060,00  08/08/2022
+  caixa do dia                   abc atacado bras construo                                               575,00  08/08/2022
+  caixa do dia                   pagamento luiz carlos dos sant os                                         420,00  09/08/2022
+  caixa do dia                   dangelo materiais de constru o                                          480,00  09/08/2022
+  caixa do dia                   campos gabriel araujo                                                     250,00  10/08/2022
+  caixa do dia                   despesa obra/sirlene de loudes  da silveira melo                          450,00  17/08/2022
+-----------------------------------------------------------------------------------------------------------------------------
+total parcial                                                         entrada:              0,00     saida:         10.607,50
+=============================================================================================================================
+598 - seguro [saida]
+-----------------------------------------------------------------------------------------------------------------------------
+  pagamento ref                  liq total por 27 em 05/08/22   00355-alfa seguradora s.a.                 130,05  05/08/2022
+-----------------------------------------------------------------------------------------------------------------------------
+total parcial                                                         entrada:              0,00     saida:            130,05
+=============================================================================================================================
+606 - tarifa [saida]
+vti - veredas tecnologia e informacao                                                            em: 22/09/2022  as  15:12:33
+                                                   atacadao araujo eirelli
+lancamentos por evento de 01/08/2022 a 31/08/2022  -  analitico                                  financas         pag.: 00002
+=============================================================================================================================
+codigo   descricao do evento
+-----------------------------------------------------------------------------------------------------------------------------
+  historico padrao               historico do movimento                                                     valor  data
+=============================================================================================================================
+-----------------------------------------------------------------------------------------------------------------------------
+  caixa do dia                   outros dbitos                                                              1,99  01/08/2022
+  caixa do dia                   tarifa cobrana                                                             3,70  01/08/2022
+  caixa do dia                   tarifa pagamento salario                                                    4,29  02/08/2022
+  caixa do dia                   tarifa cobrana                                                            17,82  02/08/2022
+  caixa do dia                   tarifa cobrana                                                            22,48  02/08/2022
+  caixa do dia                   tarifa cobrana                                                             8,06  03/08/2022
+  caixa do dia                   tarifa cobrana                                                             6,06  04/08/2022
+  caixa do dia                   tarifa cobrana                                                             9,91  05/08/2022
+  caixa do dia                   tarifa cobrana                                                             7,91  08/08/2022
+  caixa do dia                   tarifa cobrana                                                            10,97  09/08/2022
+  caixa do dia                   tarifa cobrana                                                             6,06  10/08/2022
+  caixa do dia                   tarifa cobrana                                                             3,70  12/08/2022
+  caixa do dia                   tarifa cobrana                                                             1,85  15/08/2022
+  caixa do dia                   tarifa cobrana                                                            14,72  16/08/2022
+  caixa do dia                   manuteno impressora                                                      30,00  17/08/2022
+  caixa do dia                   tarifa cobrana                                                             1,35  18/08/2022
+  caixa do dia                   tarifa pagamento salario                                                    4,29  18/08/2022
+  caixa do dia                   tarifa cobrana                                                             0,45  22/08/2022
+  caixa do dia                   tarifa cobrana                                                             4,00  23/08/2022
+  caixa do dia                   tarifa cobrana                                                             4,00  25/08/2022
+  caixa do dia                   tarifa cobrana                                                             4,00  30/08/2022
+-----------------------------------------------------------------------------------------------------------------------------
+total parcial                                                         entrada:              0,00     saida:            167,61
+=============================================================================================================================
+total geral                                                           entrada:              0,00     saida:         39.742,77
+=============================================================================================================================

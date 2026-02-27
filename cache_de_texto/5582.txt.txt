@@ -1,0 +1,208 @@
+lanamento   ;nro nf       ;codfor.nome fantasia     ;nro cheque;vencimento;        valor;conta bancria
+dt.liquidao: 02/05/2024
+nffo013798   ;30824/8773   ;arlete transportes ltda  ;12964     ;02/05/2024;       429,41;16            
+nffo013799   ;30825/8773   ;arlete transportes ltda  ;12964     ;02/05/2024;       157,67;16            
+nffo013813   ;31014/8773   ;arlete transportes ltda  ;12964     ;02/05/2024;       111,85;16            
+est12486/2   ;472068/2/3   ;colacril                 ;12960     ;02/05/2024;      4870,15;16            
+cp12930      ;alu/04/24    ;ivo                      ;tran/c/c  ;02/05/2024;      3000,00;16            
+est12476/3   ;81757/3/3    ;mp do brasil             ;12963     ;01/05/2024;      1120,47;16            
+nffo013731/3 ;449/3/6      ;muterle ind. e servios  ;12961     ;01/05/2024;      5356,67;16            
+nffo013730/3 ;22035/3/6    ;muterle mat.eletrico     ;121158    ;01/05/2024;     18066,77;07            
+est12475/2   ;29104/2/2    ;niluma                   ;12965     ;02/05/2024;      2138,81;16            
+nffo013687/3 ;21468/3/3    ;pr-print                ;12962     ;02/05/2024;      2966,70;16            
+nffo013703/2 ;21560/2/3    ;pr-print                ;12958     ;02/05/2024;      2774,18;16            
+est12504/fr  ;103640/2533  ;veneto transportes  sp   ;12959     ;02/05/2024;       164,22;16            
+est12505/fr  ;101393/2533  ;veneto transportes  sp   ;12959     ;02/05/2024;       162,33;16            
+cp12978      ;32533/24     ;veneto transportes  sp   ;12959     ;02/05/2024;      3662,46;16            
+dt.liquidao: 03/05/2024
+est12469     ;56310/1/1    ;avery p.alegre           ;12969     ;03/05/2024;      8681,67;16            
+est12498/fr  ;2174560      ;exp.s.miguel sc          ;12966     ;03/05/2024;        71,43;16            
+est12463/3   ;48080/3/3    ;fedrigoni self           ;12968     ;03/05/2024;      3466,35;16            
+est12464/3   ;48079/3/3    ;fedrigoni self           ;12970     ;03/05/2024;     10832,32;16            
+est12465/3   ;48081/3/3    ;fedrigoni self           ;12967     ;03/05/2024;       912,99;16            
+cp12924      ;sal/04/24    ;ivo                      ;tran/c/c  ;03/05/2024;      1257,00;16            
+cp12979      ;2024/04      ;ivo                      ;tran/c/c  ;03/05/2024;      6500,00;16            
+nffo013857   ;9577/1/1     ;metalurgica martinotto lt;419385    ;03/05/2024;     24000,00;07            
+dt.liquidao: 06/05/2024
+est12471     ;56326/1/1    ;avery p.alegre           ;12976     ;06/05/2024;     18716,33;16            
+est12472     ;56338/1/1    ;avery p.alegre           ;12974     ;06/05/2024;     11119,87;16            
+est12473     ;563397171    ;avery p.alegre           ;12975     ;06/05/2024;     14521,24;16            
+nffo013824   ;20731/1/1    ;commandos segurana eletr;12971     ;05/05/2024;       293,00;16            
+est12477/2   ;49187/2/3    ;fedrigoni self           ;12973     ;06/05/2024;      3424,20;16            
+est12478/2   ;49189/2/3    ;fedrigoni self           ;12972     ;06/05/2024;      2752,28;16            
+dt.liquidao: 07/05/2024
+cp12935      ;sal/04/24    ;anderson luiz f.rodrigues;c.sal/sa  ;07/05/2024;      2474,00;16            
+cp12936      ;sal/04/24    ;andreia s.b.stangherlin  ;c.sal/sa  ;07/05/2024;      3100,00;16            
+cp12939      ;sal/04/24    ;cibele dos reis araujo   ;c.sal/sa  ;07/05/2024;      1484,00;16            
+cp12940      ;sal/04/24    ;cizete fat m molon       ;c.sal/sa  ;07/05/2024;      1173,00;16            
+cp12941      ;sal/04/24    ;daniel stangherlin       ;c.sal/sa  ;07/05/2024;      4974,00;16            
+cp12943      ;sal/04/24    ;dilva teresinh g. miqueli;c.sal/sa  ;07/05/2024;      1444,00;16            
+cp12944      ;sal/04/24    ;fabiano stangherlin      ;c.sal/sa  ;07/05/2024;      4910,00;16            
+nffo013819   ;21386/24     ;farmcia so joo        ;12977     ;07/05/2024;       482,15;16            
+cp12946      ;sal/04/24    ;luciane de souza         ;c.sal/sa  ;07/05/2024;      1352,00;16            
+dt.liquidao: 08/05/2024
+nffo013452/3 ;183212/3/3   ;belman comrcio de aos l;129791    ;08/05/2024;      4375,00;07            
+nffo013865   ;9/1/1        ;giovani s z 52201031053  ;ted       ;08/05/2024;      6500,00;16            
+nffo013731/4 ;449/4/6      ;muterle ind. e servios  ;128942    ;08/05/2024;      5356,67;07            
+nffo013730/4 ;22035/4/6    ;muterle mat.eletrico     ;697860    ;08/05/2024;     18066,77;18            
+est12494/1   ;397846/1/3   ;siegwerk campa.diadema sp;12978     ;08/05/2024;      1527,05;16            
+dt.liquidao: 09/05/2024
+est12505     ;88761/1/1    ;actega araariguama sp   ;12980     ;09/05/2024;       730,43;16            
+nffo013833   ;31164/       ;arlete transportes ltda  ;12979     ;09/05/2024;       265,92;16            
+nffo013703/3 ;21560/3/3    ;pr-print                ;12981     ;09/05/2024;      2774,19;16            
+nffo013808/fr;106614/4765  ;veneto transportes  sp   ;12982     ;09/05/2024;       170,58;16            
+nffo013827/fr;107805//4765 ;veneto transportes  sp   ;12982     ;09/05/2024;       172,18;16            
+est12515/fr  ;108370/4765  ;veneto transportes  sp   ;12982     ;09/05/2024;       228,47;16            
+cp12998      ;34765/54     ;veneto transportes  sp   ;12982     ;09/05/2024;      2597,75;16            
+dt.liquidao: 10/05/2024
+est12489/2   ;87890/2/2    ;actega araariguama sp   ;12991     ;10/05/2024;      2551,52;16            
+nffo013860   ;1578/1/1     ;blackout  cassio         ;12986     ;10/05/2024;       250,00;16            
+cv00442      ;10/1/1       ;caciele jaqueline bartz  ;ted       ;10/05/2024;       771,55;16            
+nffo013246/5 ;636/5/5      ;commandos seguranca eletr;976912    ;10/05/2024;       679,69;07            
+nffo013825   ;20730/1/1    ;commandos segurana eletr;978795    ;10/05/2024;       270,00;07            
+nffo013807/1 ;121173/1/2   ;corsul com e representaco;12988     ;10/05/2024;       635,00;16            
+nffo013853   ;1944/1/1     ;dl administrao daerton ;12987     ;10/05/2024;       530,00;16            
+nffo013778   ;8669/1/1     ;envel contabilidade      ;12992     ;10/05/2024;      2759,19;16            
+nffo013779   ;8668/1/1     ;envel green l            ;12984     ;10/05/2024;        93,85;16            
+cv00440      ;316/1/1      ;gustavo gff              ;ted       ;10/05/2024;     10010,47;16            
+cv00441      ;208/1/1/a    ;osvaldo zaninelli com.me ;ted       ;10/05/2024;      9000,57;16            
+nffo013854   ;7144/1/1     ;ravi medicina.           ;12985     ;10/05/2024;       135,00;16            
+est12504     ;15574/1/1    ;sig rool camisas  borrac ;12989     ;10/05/2024;      1032,00;16            
+cp12865/02   ;4/2024       ;singraf.sind.ind.grf rs ;12990     ;10/05/2024;        60,00;16            
+cp12819/02   ;uni/fun/04/24;unimed                   ;12990     ;10/05/2024;      2143,68;16            
+dt.liquidao: 13/05/2024
+est12490/2   ;88008/2/2    ;actega araariguama sp   ;12994     ;12/05/2024;      3155,06;16            
+nffo013683   ;762333/1/1   ;avery s.p.               ;13000     ;13/05/2024;     11523,75;16            
+est12491/2   ;473289/2/3   ;colacril                 ;12993     ;11/05/2024;      8766,28;16            
+est12506/1   ;475072/1/3   ;colacril                 ;12999     ;13/05/2024;     10069,57;16            
+est12487/2   ;49612/2/3    ;fedrigoni self           ;12998     ;13/05/2024;      4560,11;16            
+est12488/2   ;49573/2/3    ;fedrigoni self           ;12997     ;13/05/2024;      3424,20;16            
+cp12891/01   ;icms/04/24   ;icms                     ;6338575   ;13/05/2024;     63385,75;07            
+nffo013899   ;95257/1/1    ;lea josefina lionzo bassa;dinheiro  ;13/05/2024;        66,10;06            
+cp12931      ;04/2024      ;samae                    ;deb.c/c   ;11/05/2024;        96,20;07            
+cp12617/09   ;seg/10/10/23 ;seguro/fedrizzi          ;12996     ;13/05/2024;      1544,39;16            
+nffo013902   ;227804/1/1   ;simoquimica              ;dinheiro  ;13/05/2024;        38,50;06            
+est12470/3   ;216635/3/3   ;uvpack filme             ;12995     ;13/05/2024;      1218,00;16            
+dt.liquidao: 14/05/2024
+est12480     ;56408/1/1    ;avery p.alegre           ;13007     ;14/05/2024;     31869,88;16            
+est12493/2   ;473544/2/3   ;colacril                 ;13006     ;14/05/2024;     10129,98;16            
+est12500     ;148673/1/1   ;crown roll hot guarulhos ;13002     ;14/05/2024;      1451,89;16            
+est12468/3   ;488976/3/3   ;fedrigoni self           ;13005     ;14/05/2024;      5480,69;16            
+est12495/2   ;49722/2/3    ;fedrigoni self           ;13004     ;14/05/2024;      4691,81;16            
+nffo013864   ;3769/1/1     ;hemar facas              ;13001     ;14/05/2024;       136,00;16            
+cp12949      ;4/24/etikor/1;rge sul dist             ;deb.c/c   ;14/05/2024;      8819,29;07            
+est12507/1   ;37848/1/3    ;win flexo pinhais pr     ;13003     ;14/05/2024;      1602,50;16            
+dt.liquidao: 15/05/2024
+nffo013875   ;171155/3179  ;brsul net - livros digita;342147    ;15/05/2024;        13,68;07            
+nffo013877   ;171785/4789  ;brsul net - livros digita;13010     ;15/05/2024;        21,19;16            
+nffo013871   ;835011/3179  ;brsul net - locao      ;342147    ;15/05/2024;        11,68;07            
+nffo013878   ;834341/4789  ;brsul net - locao      ;13010     ;15/05/2024;        17,28;16            
+nffo013872   ;789901/3379  ;brsul net - sci          ;342147    ;15/05/2024;        62,55;07            
+nffo013874   ;120055/3179  ;brsul net - scm          ;342147    ;15/05/2024;         4,12;07            
+nffo013879   ;119282/4789  ;brsul net - scm          ;13010     ;15/05/2024;        22,34;16            
+nffo013880   ;858863/4789  ;brsul net - sup premium  ;13010     ;15/05/2024;        13,97;16            
+nffo013876   ;865803/3179  ;brsul net - suporte tenic;342147    ;15/05/2024;        17,87;07            
+nffo013881   ;868111/4789  ;brsul net - suporte tenic;13010     ;15/05/2024;        55,12;16            
+nffo013856   ;144206/1/1   ;cipnet                   ;13009     ;15/05/2024;        72,20;16            
+nffo013731/5 ;449/5/6      ;muterle ind. e servios  ;342377    ;15/05/2024;      5356,67;07            
+nffo013730/5 ;22035/5/6    ;muterle mat.eletrico     ;732467    ;15/05/2024;     18066,77;18            
+cp12999      ;cpnt/repcat24;singraf.sind.ind.grf rs ;13011     ;15/05/2024;       234,00;16            
+cp12809/03   ;vivo/04/24   ;vivo empresa fixo        ;13008     ;15/05/2024;       274,57;16            
+cp12672/07   ;05/2024      ;zenite                   ;13012     ;15/05/2024;      1260,00;16            
+dt.liquidao: 16/05/2024
+est12486/3   ;472068/3/3   ;colacril                 ;13015     ;16/05/2024;      4870,15;16            
+est12510/1   ;62610/1/2    ;mult tape fitas ades     ;13014     ;16/05/2024;      1024,65;16            
+cp13012      ;36971/24     ;veneto transportes  sp   ;13013     ;16/05/2024;       530,26;16            
+nffo013849/fr;111078/6971  ;veneto transportes  sp   ;13013     ;16/05/2024;       175,09;16            
+dt.liquidao: 17/05/2024
+cp13020      ;fer/17dd/24  ;dilva teresinh g. miqueli;c.sal/sa  ;17/05/2024;      1785,00;16            
+cp13013      ;06/2024b     ;ticket alimentao elet. ;896015    ;17/05/2024;         0,09;07            
+dt.liquidao: 20/05/2024
+cp12966      ;2024/05/ad   ;anderson luiz f.rodrigues;c.sal/sa  ;20/05/2024;      1557,00;16            
+cp12968      ;2024/05/ad   ;andreia s.b.stangherlin  ;c.sal/sa  ;20/05/2024;      1693,00;16            
+cp12969      ;2024/05/ad   ;cibele dos reis araujo   ;c.sal/sa  ;20/05/2024;       972,00;16            
+cp12970      ;2024/05/ad   ;cizete fat m molon       ;c.sal/sa  ;20/05/2024;      1032,00;16            
+nffo013547/3 ;995/3/5      ;commandos seguranca eletr;224449    ;20/05/2024;       385,43;07            
+cp12958      ;crf/en/04/24 ;crf (pis,cofins,csll)    ;13022     ;20/05/2024;       136,71;16            
+cp12960      ;crf/en/04/24 ;crf (pis,cofins,csll)    ;13022     ;20/05/2024;         4,65;16            
+cp12971      ;2024/05/ad   ;daniel stangherlin       ;c.sal/sa  ;20/05/2024;      2697,00;16            
+cp12956      ;darf/gp/04/02;darf/gps e-social        ;13022     ;20/05/2024;     16653,28;16            
+cp12974      ;2024/05/ad   ;fabiano stangherlin      ;c.sal/sa  ;20/05/2024;      2755,00;16            
+est12477/3   ;49187/3/3    ;fedrigoni self           ;13020     ;20/05/2024;      3424,20;16            
+est12478/3   ;49189/3/3    ;fedrigoni self           ;13019     ;20/05/2024;      2752,28;16            
+cp12888/01   ;04/24        ;fgts                     ;pix       ;20/05/2024;      3526,58;16            
+cp12937      ;ir/an/04/24  ;i.r.                     ;13022     ;20/05/2024;       549,66;16            
+cp12942      ;ir/fa/04/24  ;i.r.                     ;13022     ;20/05/2024;      1670,31;16            
+cp12947      ;ir/gu/03/27  ;i.r.                     ;13022     ;20/05/2024;       199,11;16            
+cp12957      ;ir/en/04/24  ;i.r.                     ;13022     ;20/05/2024;        44,10;16            
+cp12959      ;ir/env/04/24 ;i.r.                     ;13022     ;20/05/2024;         1,50;16            
+cp12967      ;ir/der/04/24 ;i.r.                     ;13022     ;20/05/2024;        65,66;16            
+cp12972      ;ir7da/04/24  ;i.r.                     ;13022     ;20/05/2024;      1579,86;16            
+cp13029      ;ir/iv/04/24  ;i.r.                     ;13026     ;20/05/2024;        79,60;16            
+cp12975      ;2024/05/ad   ;luciane de souza         ;c.sal/sa  ;20/05/2024;       920,00;16            
+nffo013808   ;55043        ;mlc - filial 1           ;13018     ;20/05/2024;      2050,55;16            
+est12494/2   ;397846/2/3   ;siegwerk campa.diadema sp;13016     ;18/05/2024;      1527,05;16            
+nffo013845   ;7104/1/1     ;totalflexo ind. e com. de;13017     ;20/05/2024;       260,00;16            
+cp12951      ;uni/dir/05/24;unimed                   ;13021     ;18/05/2024;      1592,32;16            
+dt.liquidao: 21/05/2024
+nffo013827   ;55157/       ;mlc - filial 1           ;13025     ;21/05/2024;      2307,60;16            
+cp12963      ;05/2024      ;vivo p.fisica            ;664219    ;21/05/2024;        98,00;07            
+cp12961      ;vivo/04/24   ;vivo plano  fabi (plan 1);664474    ;21/05/2024;       483,02;07            
+est12507/2   ;37848/2/3    ;win flexo pinhais pr     ;13024     ;21/05/2024;      1601,00;16            
+dt.liquidao: 22/05/2024
+est12492     ;56467/1/1    ;avery p.alegre           ;13027     ;22/05/2024;      5053,99;16            
+nffo013731/6 ;449/6        ;muterle ind. e servios  ;876182    ;22/05/2024;      5356,67;07            
+nffo013730/6 ;22035/6/6    ;muterle mat.eletrico     ;752095    ;22/05/2024;     18066,77;18            
+est12510/fr  ;461787       ;rede encomendas          ;13026     ;22/05/2024;        67,00;16            
+dt.liquidao: 23/05/2024
+est12510/2   ;62610/2/2    ;mult tape fitas ades     ;13029     ;23/05/2024;      1024,65;16            
+cv00441a     ;208/1/1/b    ;osvaldo zaninelli com.me ;ted       ;23/05/2024;      9000,00;16            
+nffo013870   ;17689/1/1    ;scn serasa               ;13028     ;23/05/2024;        65,12;16            
+nffo013862/fr;112847/8863  ;veneto transportes  sp   ;13030     ;23/05/2024;       162,89;16            
+nffo013891   ;113318/8863  ;veneto transportes  sp   ;13030     ;23/05/2024;       165,18;16            
+est12518/fr  ;113818/8863  ;veneto transportes  sp   ;13030     ;23/05/2024;      1073,02;16            
+cp13019      ;38863/24     ;veneto transportes  sp   ;13030     ;23/05/2024;      1532,05;16            
+nffo013897   ;114348/8863  ;veneto transportes  sp   ;13030     ;23/05/2024;       163,17;16            
+dt.liquidao: 24/05/2024
+cp12890/01   ;cofins/04/24 ;cofins/s/vendas          ;13033     ;24/05/2024;     14388,13;16            
+nffo013807/2 ;121173/2/2   ;corsul com e representaco;13031     ;24/05/2024;       635,00;16            
+cp12889/01   ;pis/04/24    ;pis/s/vendas             ;13034     ;24/05/2024;      5431,72;16            
+nffo013838/1 ;21663/1/3    ;pr-print                ;13032     ;24/05/2024;      4187,40;16            
+cp12948      ;rge/o4/24    ;rge sul dist             ;275900    ;24/05/2024;      2616,24;07            
+dt.liquidao: 27/05/2024
+est12496     ;56506/1/1    ;avery p.alegre           ;13043     ;27/05/2024;     16641,75;07            
+est12497     ;56516/1/1    ;avery p.alegre           ;13042     ;27/05/2024;     16007,55;07            
+est12499     ;764012/1/1   ;avery s.p.               ;13044     ;27/05/2024;     23562,51;07            
+cp12454/13   ;sant/14/36/24;b.santander              ;deb/c/c   ;27/05/2024;     71030,97;16            
+cp12890/01a  ;cofins/04/24 ;cofins/s/vendas          ;comp/ipi  ;24/05/2024;     10681,35;16            
+est12491/3   ;473289/3/3   ;colacril                 ;13040     ;25/05/2024;      8766,28;16            
+est12506/2   ;475072/2/3   ;colacril                 ;13041     ;27/05/2024;     10069,56;07            
+est12487/3   ;49612/3/3    ;fedrigoni self           ;13039     ;27/05/2024;      4560,12;07            
+est12488/3   ;49573/3/3    ;fedrigoni self           ;13038     ;27/05/2024;      3424,20;07            
+nffo013918   ;3773/1/1     ;hemar facas              ;13035     ;27/05/2024;       136,00;07            
+cp12989      ;samae/04/24  ;samae                    ;608196    ;27/05/2024;       187,46;07            
+est12515/1   ;218545/1/3   ;uvpack filme             ;13037     ;27/05/2024;      1593,84;07            
+cp13039      ;viate        ;visate                   ;13036     ;27/05/2024;       244,00;07            
+dt.liquidao: 28/05/2024
+est12493/3   ;473544/3/3   ;colacril                 ;13047     ;28/05/2024;     10129,98;16            
+nffo013855/1 ;21746/1/3    ;pr-print                ;13046     ;28/05/2024;      2750,01;16            
+est12507/3   ;37848/3/3    ;win flexo pinhais pr     ;13045     ;28/05/2024;      1601,00;16            
+dt.liquidao: 29/05/2024
+nffo013908   ;31847/4298   ;arlete transportes ltda  ;13048     ;29/05/2024;       423,93;16            
+nffo013914   ;31954/4298   ;arlete transportes ltda  ;13048     ;29/05/2024;       120,82;16            
+nffo013924   ;31986/4298   ;arlete transportes ltda  ;13048     ;29/05/2024;       625,49;16            
+est12501     ;56541/1/1    ;avery p.alegre           ;13050     ;29/05/2024;      4433,02;16            
+cp12938      ;resissa/04/24;bianca a coringa barros  ;pix       ;29/05/2024;      3678,75;07            
+est12495/3   ;49722/3/3    ;fedrigoni self           ;13051     ;29/05/2024;      4691,82;16            
+cp12830/03   ;2024/04      ;jueci                    ;tran.c/c  ;29/05/2024;      4800,00;16            
+cp12945      ;sal/04/24    ;jueci                    ;tran.c/c  ;29/05/2024;      1257,00;16            
+cp12988/01   ;06/2024      ;ticket alimentao elet. ;13052     ;29/05/2024;      5845,00;16            
+nffo013905/fr;114964/0988  ;veneto transportes  sp   ;13049     ;29/05/2024;       162,18;16            
+cp13033      ;40988/24     ;veneto transportes  sp   ;13049     ;29/05/2024;      1992,68;16            
+dt.liquidao: 31/05/2024
+est12502     ;56549/1/1    ;avery p.alegre           ;13055     ;30/05/2024;      6449,35;16            
+nffo013570/3 ;184561/3/3   ;belman comrcio de aos l;746922    ;30/05/2024;      7152,00;07            
+nffo013849/1 ;55552/1/3    ;mlc - filial 1           ;13054     ;30/05/2024;       924,14;16            
+nffo013838/2 ;21663/2/3    ;pr-print                ;13057     ;31/05/2024;      4187,40;16            
+nffo013846   ;7186/1/1     ;totalflexo ind. e com. de;13056     ;31/05/2024;       512,50;16            
+nffo013847   ;7192/1/1     ;totalflexo ind. e com. de;13053     ;30/05/2024;       230,00;16            

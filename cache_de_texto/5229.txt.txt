@@ -1,0 +1,449 @@
+
+ttjb transportes e logistica e                                                                                                                                                                  pag:   1
+ssw0100                                                                                     extrato bancario                                                                            14/11/2023 16:55
+bco/age/cta/cart: 341  4299      39464    banco itau s.a.                                                                                                                   periodo: 01/07/23 a 31/10/23
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+nlanca  orig data                                 cliente/fornecedor             historico                                                                                     valor sit           saldo
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+        bco  03/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                          257.588,31 c     88.318.169,31
+ 285668 fat  03/07/23 148159-2     92660406001514 frigelar comercio e industria  fatura:  148159-2 cliente: frigelar comercio e  pagamento em dinheiro                        112,75 c     88.318.282,06
+ 287268 fat  03/07/23 150635-8     60594538000950 newell brands brasil ltd       fatura:  150635-8 cliente: newell brands brasil pagamento em dinheiro                      1.257,42 c     88.319.539,48
+ 287269 fat  03/07/23 150636-6     60594538000950 newell brands brasil ltd       fatura:  150636-6 cliente: newell brands brasil pagamento em dinheiro                      2.942,21 c     88.322.481,69
+ 285669 fat  03/07/23 151294-3     92660406003487 frigelar comercio e industria  fatura:  151294-3 cliente: frigelar comercio e  pagamento em dinheiro                        578,65 c     88.323.060,34
+ 285674 fat  03/07/23 151305-2     92660406004882 frigelar comercio e industria  fatura:  151305-2 cliente: frigelar comercio e  pagamento em dinheiro                        543,10 c     88.323.603,44
+ 285670 fat  03/07/23 151306-1     92660406004882 frigelar comercio e industria  fatura:  151306-1 cliente: frigelar comercio e  pagamento em dinheiro                      2.881,91 c     88.326.485,35
+ 285675 fat  03/07/23 151312-5     92660406005420 frigelar comercio e industria  fatura:  151312-5 cliente: frigelar comercio e  pagamento em dinheiro                        365,86 c     88.326.851,21
+        bco  04/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           60.775,50 c     88.387.626,71
+        bco  05/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                            9.156,52 c     88.396.783,23
+ 286038 fat  05/07/23 152874-2     88610191003927 mundial sa produtos de consumo fatura:  152874-2 cliente: mundial sa produtos  pagamento em dinheiro                        654,39 c     88.397.437,62
+ 286039 fat  05/07/23 152875-1     88610191003927 mundial sa produtos de consumo fatura:  152875-1 cliente: mundial sa produtos  pagamento em dinheiro                        151,77 c     88.397.589,39
+        bco  06/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                            1.044,26 c     88.398.633,65
+ 286344 fat  06/07/23 151762-7     43587344000828 b s distribuidora de produtos  fatura:  151762-7 cliente: b s distribuidora de pagamento em dinheiro                     11.104,76 c     88.409.738,41
+ 289887 fat  06/07/23 153227-8     43587344000828 b s distribuidora de produtos  fatura:  153227-8 cliente: b s distribuidora de                                            2.728,84 c     88.412.467,25
+ 286095 fat  06/07/23 153872-1     56173131000125 prafesta industria e comercio  fatura:  153872-1 cliente: prafesta industria e pagamento em dinheiro                     27.085,27 c     88.439.552,52
+ 286096 fat  06/07/23 153873-0     56173131000125 prafesta industria e comercio  fatura:  153873-0 cliente: prafesta industria e pagamento em dinheiro                         56,82 c     88.439.609,34
+        bco  07/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                            9.905,19 c     88.449.514,53
+ 286375 fat  07/07/23 151790-2     43587344000828 b s distribuidora de produtos  fatura:  151790-2 cliente: b s distribuidora de pagamento em dinheiro                      4.925,22 c     88.454.439,75
+        bco  10/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                          276.320,03 c     88.730.759,78
+ 286857 fat  10/07/23 148869-4     03746938000143 brs sp suprimentos corporativo fatura:  148869-4 cliente: brs sp suprimentos c                                            3.255,41 c     88.734.015,19
+ 286858 fat  10/07/23 148870-8     03746938000143 brs sp suprimentos corporativo fatura:  148870-8 cliente: brs sp suprimentos c                                            7.702,35 c     88.741.717,54
+ 286859 fat  10/07/23 148871-6     03746938000143 brs sp suprimentos corporativo fatura:  148871-6 cliente: brs sp suprimentos c                                              557,98 c     88.742.275,52
+ 286865 fat  10/07/23 148872-4     09216620000137 brs suprimentos corporativos s fatura:  148872-4 cliente: brs suprimentos corp                                               56,45 c     88.742.331,97
+ 286866 fat  10/07/23 148873-2     09216620000137 brs suprimentos corporativos s fatura:  148873-2 cliente: brs suprimentos corp                                               49,82 c     88.742.381,79
+ 286867 fat  10/07/23 148877-5     09216620000137 brs suprimentos corporativos s fatura:  148877-5 cliente: brs suprimentos corp                                               82,99 c     88.742.464,78
+ 286868 fat  10/07/23 148878-3     09216620000137 brs suprimentos corporativos s fatura:  148878-3 cliente: brs suprimentos corp                                              125,82 c     88.742.590,60
+ 287270 fat  10/07/23 151496-2     60594538000950 newell brands brasil ltd       fatura:  151496-2 cliente: newell brands brasil pagamento em dinheiro                      4.044,97 c     88.746.635,57
+ 287018 fat  10/07/23 152012-1     92660406003487 frigelar comercio e industria  fatura:  152012-1 cliente: frigelar comercio e  pagamento em dinheiro                        825,59 c     88.747.461,16
+ 287021 fat  10/07/23 152022-9     92660406004882 frigelar comercio e industria  fatura:  152022-9 cliente: frigelar comercio e  pagamento em dinheiro                        119,84 c     88.747.581,00
+ 287020 fat  10/07/23 152023-7     92660406004882 frigelar comercio e industria  fatura:  152023-7 cliente: frigelar comercio e  pagamento em dinheiro                        554,02 c     88.748.135,02
+ 287017 fat  10/07/23 152030-0     92660406005420 frigelar comercio e industria  fatura:  152030-0 cliente: frigelar comercio e  pagamento em dinheiro                        138,18 c     88.748.273,20
+ 289888 fat  10/07/23 153227-8     43587344000828 b s distribuidora de produtos  fatura:  153227-8 cliente: b s distribuidora de                                              319,06 c     88.748.592,26
+        bco  11/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           62.740,10 c     88.811.332,36
+        bco  12/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           10.016,97 c     88.821.349,33
+ 287151 fat  12/07/23 147863-0     60594538000950 newell brands brasil ltd       fatura:  147863-0 cliente: newell brands brasil pagamento em dinheiro                        199,92 c     88.821.549,25
+ 287264 fat  12/07/23 153629-0     88610191003927 mundial sa produtos de consumo fatura:  153629-0 cliente: mundial sa produtos  pagamento em dinheiro                      1.533,39 c     88.823.082,64
+ 287352 fat  13/07/23 153905-1     56173131000125 prafesta industria e comercio  fatura:  153905-1 cliente: prafesta industria e pagamento em dinheiro                     17.210,90 c     88.840.293,54
+        bco  14/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           53.326,12 c     88.893.619,66
+        bco  17/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                          373.482,91 c     89.267.102,57
+ 288202 fat  17/07/23 152713-4     92660406003487 frigelar comercio e industria  fatura:  152713-4 cliente: frigelar comercio e  pagamento em dinheiro                        146,80 c     89.267.249,37
+ 288201 fat  17/07/23 152722-3     92660406004882 frigelar comercio e industria  fatura:  152722-3 cliente: frigelar comercio e  pagamento em dinheiro                        395,46 c     89.267.644,83
+ 288205 fat  17/07/23 152723-1     92660406004882 frigelar comercio e industria  fatura:  152723-1 cliente: frigelar comercio e  pagamento em dinheiro                      1.527,09 c     89.269.171,92
+ 288200 fat  17/07/23 152730-4     92660406005420 frigelar comercio e industria  fatura:  152730-4 cliente: frigelar comercio e  pagamento em dinheiro                        195,58 c     89.269.367,50
+        bco  18/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           95.960,78 c     89.365.328,28
+        bco  19/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           22.719,00 c     89.388.047,28
+ 288479 fat  19/07/23 154411-0     88610191003927 mundial sa produtos de consumo fatura:  154411-0 cliente: mundial sa produtos  pagamento em dinheiro                      2.759,36 c     89.390.806,64
+        bco  20/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                            3.670,58 c     89.394.477,22
+        bco  21/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           14.165,56 c     89.408.642,78
+ 289265 fat  21/07/23 151275-7     92660406000208 frigelar comercio e industria  fatura:  151275-7 cliente: frigelar comercio e  pagamento em dinheiro                        228,68 c     89.408.871,46
+ 288723 fat  21/07/23 152363-5     56173131000125 prafesta industria e comercio  fatura:  152363-5 cliente: prafesta industria e pagamento em dinheiro                        260,31 c     89.409.131,77
+ 288724 fat  21/07/23 155431-0     56173131000125 prafesta industria e comercio  fatura:  155431-0 cliente: prafesta industria e pagamento em dinheiro                     18.859,65 c     89.427.991,42
+ 288725 fat  21/07/23 155432-8     56173131000125 prafesta industria e comercio  fatura:  155432-8 cliente: prafesta industria e pagamento em dinheiro                        161,07 c     89.428.152,49
+        bco  24/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                          180.730,47 c     89.608.882,96
+
+ttjb transportes e logistica e                                                                                                                                                                  pag:   2
+ssw0100                                                                                     extrato bancario                                                                            14/11/2023 16:55
+bco/age/cta/cart: 341  4299      39464    banco itau s.a.                                                                                                                   periodo: 01/07/23 a 31/10/23
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+nlanca  orig data                                 cliente/fornecedor             historico                                                                                     valor sit           saldo
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+ 290180 fat  24/07/23 152883-1     60594538000950 newell brands brasil ltd       fatura:  152883-1 cliente: newell brands brasil pagamento em dinheiro                     36.541,78 c     89.645.424,74
+ 289873 fat  24/07/23 153439-4     92660406003487 frigelar comercio e industria  fatura:  153439-4 cliente: frigelar comercio e  pagamento em dinheiro                        638,91 c     89.646.063,65
+ 289876 fat  24/07/23 153449-1     92660406004882 frigelar comercio e industria  fatura:  153449-1 cliente: frigelar comercio e  pagamento em dinheiro                        164,20 c     89.646.227,85
+ 289877 fat  24/07/23 153450-5     92660406004882 frigelar comercio e industria  fatura:  153450-5 cliente: frigelar comercio e  pagamento em dinheiro                      1.349,91 c     89.647.577,76
+ 289878 fat  24/07/23 153457-2     92660406005420 frigelar comercio e industria  fatura:  153457-2 cliente: frigelar comercio e  pagamento em dinheiro                        331,54 c     89.647.909,30
+ 289879 fat  24/07/23 153458-1     92660406005420 frigelar comercio e industria  fatura:  153458-1 cliente: frigelar comercio e  pagamento em dinheiro                        364,80 c     89.648.274,10
+        bco  25/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           88.197,69 c     89.736.471,79
+ 289707 fat  25/07/23 153221-9     06032022000977 atria lub comercio de lubrific fatura:  153221-9 cliente: atria lub comercio d pagamento em dinheiro                          0,01 c     89.736.471,80
+ 289889 fat  25/07/23 153227-8     43587344000828 b s distribuidora de produtos  fatura:  153227-8 cliente: b s distribuidora de pagamento em dinheiro                     24.952,12 c     89.761.423,92
+        bco  26/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           14.768,27 c     89.776.192,19
+ 290043 fat  26/07/23 155179-5     88610191003927 mundial sa produtos de consumo fatura:  155179-5 cliente: mundial sa produtos  pagamento em dinheiro                        601,56 c     89.776.793,75
+ 290044 fat  26/07/23 155180-9     88610191003927 mundial sa produtos de consumo fatura:  155180-9 cliente: mundial sa produtos  pagamento em dinheiro                      2.371,45 c     89.779.165,20
+        bco  27/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                              450,00 c     89.779.615,20
+        bco  28/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                           48.877,98 c     89.828.493,18
+ 291278 fat  28/07/23 147863-0     60594538000950 newell brands brasil ltd       fatura:  147863-0 cliente: newell brands brasil pagamento em dinheiro                        373,15 c     89.828.866,33
+ 290184 fat  28/07/23 150636-6     60594538000950 newell brands brasil ltd       fatura:  150636-6 cliente: newell brands brasil pagamento em dinheiro                         21,34 c     89.828.887,67
+        bco  31/07/23                                                            credito via ret bco-liquidacao ou cart desconto                                          213.769,65 c     90.042.657,32
+ 290354 fat  31/07/23 154019-0     43587344000828 b s distribuidora de produtos  fatura:  154019-0 cliente: b s distribuidora de                                           30.653,43 c     90.073.310,75
+ 290355 fat  31/07/23 154020-3     43587344000828 b s distribuidora de produtos  fatura:  154020-3 cliente: b s distribuidora de                                              263,83 c     90.073.574,58
+ 291091 fat  31/07/23 154207-9     92660406003487 frigelar comercio e industria  fatura:  154207-9 cliente: frigelar comercio e  pagamento em dinheiro                         74,58 c     90.073.649,16
+ 291086 fat  31/07/23 154208-7     92660406003487 frigelar comercio e industria  fatura:  154208-7 cliente: frigelar comercio e  pagamento em dinheiro                        566,87 c     90.074.216,03
+ 291090 fat  31/07/23 154219-2     92660406004882 frigelar comercio e industria  fatura:  154219-2 cliente: frigelar comercio e  pagamento em dinheiro                         82,86 c     90.074.298,89
+ 291088 fat  31/07/23 154220-6     92660406004882 frigelar comercio e industria  fatura:  154220-6 cliente: frigelar comercio e  pagamento em dinheiro                      2.975,57 c     90.077.274,46
+ 291085 fat  31/07/23 154227-3     92660406005420 frigelar comercio e industria  fatura:  154227-3 cliente: frigelar comercio e  pagamento em dinheiro                         92,03 c     90.077.366,49
+ 291087 fat  31/07/23 154228-1     92660406005420 frigelar comercio e industria  fatura:  154228-1 cliente: frigelar comercio e  pagamento em dinheiro                        590,92 c     90.077.957,41
+ 291028 fat  31/07/23 154780-1     43587344000828 b s distribuidora de produtos  fatura:  154780-1 cliente: b s distribuidora de                                            6.802,91 c     90.084.760,32
+        bco  01/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           61.950,32 c     90.146.710,64
+ 291251 fat  01/08/23 154783-6     43587344000828 b s distribuidora de produtos  fatura:  154783-6 cliente: b s distribuidora de pagamento em dinheiro                        179,91 c     90.146.890,55
+        bco  02/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                            7.639,70 c     90.154.530,25
+ 291328 fat  02/08/23 153123-9     60594538000950 newell brands brasil ltd       fatura:  153123-9 cliente: newell brands brasil pagamento em dinheiro                      5.601,44 c     90.160.131,69
+ 291270 fat  02/08/23 155932-0     88610191003927 mundial sa produtos de consumo fatura:  155932-0 cliente: mundial sa produtos  pagamento em dinheiro                        844,45 c     90.160.976,14
+        bco  04/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           36.484,45 c     90.197.460,59
+        bco  07/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                          240.734,41 c     90.438.195,00
+ 292609 fat  07/08/23 154982-1     92660406003487 frigelar comercio e industria  fatura:  154982-1 cliente: frigelar comercio e  pagamento em dinheiro                        269,55 c     90.438.464,55
+ 292610 fat  07/08/23 154992-8     92660406004882 frigelar comercio e industria  fatura:  154992-8 cliente: frigelar comercio e  pagamento em dinheiro                        237,42 c     90.438.701,97
+ 292612 fat  07/08/23 154993-6     92660406004882 frigelar comercio e industria  fatura:  154993-6 cliente: frigelar comercio e  pagamento em dinheiro                      2.407,22 c     90.441.109,19
+ 292608 fat  07/08/23 155000-4     92660406005420 frigelar comercio e industria  fatura:  155000-4 cliente: frigelar comercio e  pagamento em dinheiro                        253,08 c     90.441.362,27
+ 292562 fat  07/08/23 156941-4     56173131000125 prafesta industria e comercio  fatura:  156941-4 cliente: prafesta industria e pagamento em dinheiro                        405,73 c     90.441.768,00
+ 292563 fat  07/08/23 156942-2     56173131000125 prafesta industria e comercio  fatura:  156942-2 cliente: prafesta industria e pagamento em dinheiro                     19.899,07 c     90.461.667,07
+ 292564 fat  07/08/23 156943-1     56173131000125 prafesta industria e comercio  fatura:  156943-1 cliente: prafesta industria e pagamento em dinheiro                         91,30 c     90.461.758,37
+ 292565 fat  07/08/23 156944-9     56173131000125 prafesta industria e comercio  fatura:  156944-9 cliente: prafesta industria e pagamento em dinheiro                         38,64 c     90.461.797,01
+        bco  08/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           89.681,08 c     90.551.478,09
+ 293029 fat  08/08/23 156580-0     09228603000209 importway comercio importacao  fatura:  156580-0 cliente: importway comercio i pagamento em dinheiro                     14.199,50 c     90.565.677,59
+        bco  09/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           10.407,80 c     90.576.085,39
+ 293026 fat  09/08/23 156580-0     09228603000209 importway comercio importacao  fatura:  156580-0 cliente: importway comercio i                                           14.199,50 c     90.590.284,89
+ 293041 fat  09/08/23 156710-1     88610191003927 mundial sa produtos de consumo fatura:  156710-1 cliente: mundial sa produtos  pagamento em dinheiro                      1.094,87 c     90.591.379,76
+ 293028 fat  09/08/23 156580-0     09228603000209 importway comercio importacao  fatura:  156580-0 cliente: importway comercio i                                          -14.199,50 c     90.577.180,26
+        bco  10/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           31.450,71 c     90.608.630,97
+        bco  11/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           12.427,15 c     90.621.058,12
+ 294184 fat  11/08/23 154786-1     05855974000170 baston do brasil prods quimico fatura:  154786-1 cliente: baston do brasil pro pagamento em dinheiro                     31.800,00 c     90.652.858,12
+        bco  14/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                          265.507,07 c     90.918.365,19
+ 294062 fat  14/08/23 155739-4     92660406003487 frigelar comercio e industria  fatura:  155739-4 cliente: frigelar comercio e  pagamento em dinheiro                        123,01 c     90.918.488,20
+ 294060 fat  14/08/23 155740-8     92660406003487 frigelar comercio e industria  fatura:  155740-8 cliente: frigelar comercio e  pagamento em dinheiro                        796,22 c     90.919.284,42
+ 294063 fat  14/08/23 155748-3     92660406004882 frigelar comercio e industria  fatura:  155748-3 cliente: frigelar comercio e  pagamento em dinheiro                      2.678,23 c     90.921.962,65
+
+ttjb transportes e logistica e                                                                                                                                                                  pag:   3
+ssw0100                                                                                     extrato bancario                                                                            14/11/2023 16:55
+bco/age/cta/cart: 341  4299      39464    banco itau s.a.                                                                                                                   periodo: 01/07/23 a 31/10/23
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+nlanca  orig data                                 cliente/fornecedor             historico                                                                                     valor sit           saldo
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+ 294061 fat  14/08/23 155756-4     92660406005420 frigelar comercio e industria  fatura:  155756-4 cliente: frigelar comercio e  pagamento em dinheiro                        164,03 c     90.922.126,68
+        bco  15/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           80.830,97 c     91.002.957,65
+        bco  16/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                            4.211,58 c     91.007.169,23
+ 294397 fat  16/08/23 154671-6     60594538000950 newell brands brasil ltd       fatura:  154671-6 cliente: newell brands brasil pagamento em dinheiro                      4.024,31 c     91.011.193,54
+ 294334 fat  16/08/23 157410-8     88610191003927 mundial sa produtos de consumo fatura:  157410-8 cliente: mundial sa produtos  pagamento em dinheiro                        973,96 c     91.012.167,50
+        bco  17/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           45.223,23 c     91.057.390,73
+        bco  18/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           15.786,60 c     91.073.177,33
+ 294636 fat  18/08/23 154666-0     43587344000828 b s distribuidora de produtos  fatura:  154666-0 cliente: b s distribuidora de                                           11.466,06 c     91.084.643,39
+ 294637 fat  18/08/23 155444-1     43587344000828 b s distribuidora de produtos  fatura:  155444-1 cliente: b s distribuidora de                                           18.018,45 c     91.102.661,84
+ 294635 fat  18/08/23 156192-8     43587344000828 b s distribuidora de produtos  fatura:  156192-8 cliente: b s distribuidora de                                            9.527,21 c     91.112.189,05
+        bco  21/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                          167.329,33 c     91.279.518,38
+ 295209 fat  21/08/23 156525-7     92660406003487 frigelar comercio e industria  fatura:  156525-7 cliente: frigelar comercio e  pagamento em dinheiro                        141,10 c     91.279.659,48
+ 295213 fat  21/08/23 156526-5     92660406003487 frigelar comercio e industria  fatura:  156526-5 cliente: frigelar comercio e  pagamento em dinheiro                        343,99 c     91.280.003,47
+ 295210 fat  21/08/23 156535-4     92660406004882 frigelar comercio e industria  fatura:  156535-4 cliente: frigelar comercio e  pagamento em dinheiro                        127,02 c     91.280.130,49
+ 295211 fat  21/08/23 156536-2     92660406004882 frigelar comercio e industria  fatura:  156536-2 cliente: frigelar comercio e  pagamento em dinheiro                      2.478,24 c     91.282.608,73
+ 295214 fat  21/08/23 156543-5     92660406005420 frigelar comercio e industria  fatura:  156543-5 cliente: frigelar comercio e  pagamento em dinheiro                        239,67 c     91.282.848,40
+ 295140 fat  21/08/23 158358-1     56173131000125 prafesta industria e comercio  fatura:  158358-1 cliente: prafesta industria e pagamento em dinheiro                     47.606,00 c     91.330.454,40
+ 295141 fat  21/08/23 158359-0     56173131000125 prafesta industria e comercio  fatura:  158359-0 cliente: prafesta industria e pagamento em dinheiro                      2.784,37 c     91.333.238,77
+        bco  22/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           83.489,51 c     91.416.728,28
+        bco  23/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                            6.138,66 c     91.422.866,94
+ 295737 fat  23/08/23 157167-2     32463085000130 europa comercial ltda          fatura:  157167-2 cliente: europa comercial ltd pagamento em dinheiro                      3.380,77 c     91.426.247,71
+ 295683 fat  23/08/23 157985-1     09228603000209 importway comercio importacao  fatura:  157985-1 cliente: importway comercio i                                            7.633,17 c     91.433.880,88
+ 295677 fat  23/08/23 158134-1     88610191003927 mundial sa produtos de consumo fatura:  158134-1 cliente: mundial sa produtos  pagamento em dinheiro                      1.628,18 c     91.435.509,06
+ 295678 fat  23/08/23 158135-0     88610191003927 mundial sa produtos de consumo fatura:  158135-0 cliente: mundial sa produtos  pagamento em dinheiro                        237,43 c     91.435.746,49
+ 295679 fat  23/08/23 158136-8     88610191003927 mundial sa produtos de consumo fatura:  158136-8 cliente: mundial sa produtos  pagamento em dinheiro                         86,34 c     91.435.832,83
+        bco  25/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                            4.283,09 c     91.440.115,92
+ 296011 fat  25/08/23 150636-6     60594538000950 newell brands brasil ltd       fatura:  150636-6 cliente: newell brands brasil pagamento em dinheiro                         57,97 c     91.440.173,89
+ 296012 fat  25/08/23 150636-6     60594538000950 newell brands brasil ltd       fatura:  150636-6 cliente: newell brands brasil pagamento em dinheiro                      1.005,66 c     91.441.179,55
+ 296049 fat  25/08/23 154965-1     92660406000208 frigelar comercio e industria  fatura:  154965-1 cliente: frigelar comercio e  pagamento em dinheiro                      4.024,33 c     91.445.203,88
+ 296027 fat  25/08/23 154966-9     92660406003304 frigelar comercio e industria  fatura:  154966-9 cliente: frigelar comercio e  pagamento em dinheiro                      2.032,31 c     91.447.236,19
+ 296026 fat  25/08/23 154967-7     92660406003304 frigelar comercio e industria  fatura:  154967-7 cliente: frigelar comercio e  pagamento em dinheiro                      1.142,73 c     91.448.378,92
+ 296036 fat  25/08/23 154968-5     92660406001603 frigelar comercio e industria  fatura:  154968-5 cliente: frigelar comercio e  pagamento em dinheiro                         91,14 c     91.448.470,06
+ 296048 fat  25/08/23 154969-3     92660406004025 frigelar comercio e industria  fatura:  154969-3 cliente: frigelar comercio e  pagamento em dinheiro                      8.920,82 c     91.457.390,88
+ 296028 fat  25/08/23 154970-7     92660406004025 frigelar comercio e industria  fatura:  154970-7 cliente: frigelar comercio e  pagamento em dinheiro                      5.651,05 c     91.463.041,93
+ 296024 fat  25/08/23 154971-5     92660406002596 frigelar comercio e industria  fatura:  154971-5 cliente: frigelar comercio e  pagamento em dinheiro                      1.040,16 c     91.464.082,09
+ 296025 fat  25/08/23 154972-3     92660406002596 frigelar comercio e industria  fatura:  154972-3 cliente: frigelar comercio e  pagamento em dinheiro                      5.274,25 c     91.469.356,34
+ 296042 fat  25/08/23 154973-1     92660406001352 frigelar comercio e industria  fatura:  154973-1 cliente: frigelar comercio e  pagamento em dinheiro                      1.081,55 c     91.470.437,89
+ 296022 fat  25/08/23 154974-0     92660406001352 frigelar comercio e industria  fatura:  154974-0 cliente: frigelar comercio e  pagamento em dinheiro                     10.914,12 c     91.481.352,01
+ 296035 fat  25/08/23 154975-8     92660406002324 frigelar comercio e industria  fatura:  154975-8 cliente: frigelar comercio e  pagamento em dinheiro                        123,82 c     91.481.475,83
+ 296038 fat  25/08/23 154976-6     92660406002324 frigelar comercio e industria  fatura:  154976-6 cliente: frigelar comercio e  pagamento em dinheiro                        858,88 c     91.482.334,71
+ 296037 fat  25/08/23 154977-4     92660406002081 frigelar comercio e industria  fatura:  154977-4 cliente: frigelar comercio e  pagamento em dinheiro                        608,03 c     91.482.942,74
+ 296023 fat  25/08/23 154978-2     92660406001514 frigelar comercio e industria  fatura:  154978-2 cliente: frigelar comercio e  pagamento em dinheiro                      7.265,65 c     91.490.208,39
+ 296044 fat  25/08/23 154979-1     92660406000119 frigelar comercio e industria  fatura:  154979-1 cliente: frigelar comercio e  pagamento em dinheiro                        203,50 c     91.490.411,89
+ 296040 fat  25/08/23 154980-4     92660406000461 frigelar comercio e industria  fatura:  154980-4 cliente: frigelar comercio e  pagamento em dinheiro                         87,01 c     91.490.498,90
+ 296033 fat  25/08/23 154981-2     92660406000461 frigelar comercio e industria  fatura:  154981-2 cliente: frigelar comercio e  pagamento em dinheiro                        764,93 c     91.491.263,83
+ 296021 fat  25/08/23 154983-9     92660406000704 frigelar comercio e industria  fatura:  154983-9 cliente: frigelar comercio e  pagamento em dinheiro                         73,23 c     91.491.337,06
+ 296041 fat  25/08/23 154984-7     92660406000704 frigelar comercio e industria  fatura:  154984-7 cliente: frigelar comercio e  pagamento em dinheiro                        393,88 c     91.491.730,94
+ 296034 fat  25/08/23 154985-5     92660406000895 frigelar comercio e industria  fatura:  154985-5 cliente: frigelar comercio e  pagamento em dinheiro                      3.006,09 c     91.494.737,03
+ 296045 fat  25/08/23 154986-3     92660406000380 frigelar comercio e industria  fatura:  154986-3 cliente: frigelar comercio e  pagamento em dinheiro                      1.463,81 c     91.496.200,84
+ 296020 fat  25/08/23 154987-1     92660406000380 frigelar comercio e industria  fatura:  154987-1 cliente: frigelar comercio e  pagamento em dinheiro                        886,75 c     91.497.087,59
+ 296119 fat  25/08/23 154988-0     92660406004459 frigelar comercio e industria  fatura:  154988-0 cliente: frigelar comercio e  pagamento em dinheiro                         77,58 c     91.497.165,17
+ 296043 fat  25/08/23 154991-0     92660406004378 frigelar comercio e industria  fatura:  154991-0 cliente: frigelar comercio e  pagamento em dinheiro                        215,26 c     91.497.380,43
+ 296029 fat  25/08/23 154994-4     92660406004610 frigelar comercio e industria  fatura:  154994-4 cliente: frigelar comercio e  pagamento em dinheiro                        175,04 c     91.497.555,47
+ 296047 fat  25/08/23 154995-2     92660406001190 frigelar comercio e industria  fatura:  154995-2 cliente: frigelar comercio e  pagamento em dinheiro                     13.820,32 c     91.511.375,79
+
+ttjb transportes e logistica e                                                                                                                                                                  pag:   4
+ssw0100                                                                                     extrato bancario                                                                            14/11/2023 16:55
+bco/age/cta/cart: 341  4299      39464    banco itau s.a.                                                                                                                   periodo: 01/07/23 a 31/10/23
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+nlanca  orig data                                 cliente/fornecedor             historico                                                                                     valor sit           saldo
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+ 296046 fat  25/08/23 154996-1     92660406001190 frigelar comercio e industria  fatura:  154996-1 cliente: frigelar comercio e  pagamento em dinheiro                        191,27 c     91.511.567,06
+ 296030 fat  25/08/23 154997-9     92660406005188 frigelar comercio e industria  fatura:  154997-9 cliente: frigelar comercio e  pagamento em dinheiro                        875,62 c     91.512.442,68
+ 296039 fat  25/08/23 155003-9     92660406002910 frigelar comercio e industria  fatura:  155003-9 cliente: frigelar comercio e  pagamento em dinheiro                        704,86 c     91.513.147,54
+        bco  28/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                          233.496,84 c     91.746.644,38
+ 296688 fat  28/08/23 157221-1     92660406003487 frigelar comercio e industria  fatura:  157221-1 cliente: frigelar comercio e  pagamento em dinheiro                         63,98 c     91.746.708,36
+ 296689 fat  28/08/23 157222-9     92660406003487 frigelar comercio e industria  fatura:  157222-9 cliente: frigelar comercio e  pagamento em dinheiro                      1.286,42 c     91.747.994,78
+ 296692 fat  28/08/23 157231-8     92660406004882 frigelar comercio e industria  fatura:  157231-8 cliente: frigelar comercio e  pagamento em dinheiro                      1.646,56 c     91.749.641,34
+ 296687 fat  28/08/23 157240-7     92660406005420 frigelar comercio e industria  fatura:  157240-7 cliente: frigelar comercio e  pagamento em dinheiro                         68,11 c     91.749.709,45
+ 296686 fat  28/08/23 158674-2     92660406000895 frigelar comercio e industria  fatura:  158674-2 cliente: frigelar comercio e                                               569,69 c     91.750.279,14
+        bco  29/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           88.547,05 c     91.838.826,19
+        bco  30/08/23                                                            credito via ret bco-liquidacao ou cart desconto                                           37.649,73 c     91.876.475,92
+ 296970 fat  30/08/23 158879-6     88610191003927 mundial sa produtos de consumo fatura:  158879-6 cliente: mundial sa produtos  pagamento em dinheiro                      1.584,12 c     91.878.060,04
+ 297286 fat  31/08/23 153505-6     90049289000126 irwin industrial tool ferramen fatura:  153505-6 cliente: irwin industrial too pagamento em dinheiro                     12.138,15 c     91.890.198,19
+ 297288 fat  31/08/23 154781-0     43587344000828 b s distribuidora de produtos  fatura:  154781-0 cliente: b s distribuidora de pagamento em dinheiro                        221,27 c     91.890.419,46
+ 297287 fat  31/08/23 157739-5     43587344000828 b s distribuidora de produtos  fatura:  157739-5 cliente: b s distribuidora de pagamento em dinheiro                         99,56 c     91.890.519,02
+        bco  01/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           37.279,33 c     91.927.798,35
+ 297296 fat  01/09/23 151496-2     60594538000950 newell brands brasil ltd       fatura:  151496-2 cliente: newell brands brasil pagamento em dinheiro                         79,95 c     91.927.878,30
+ 297298 fat  01/09/23 154671-6     60594538000950 newell brands brasil ltd       fatura:  154671-6 cliente: newell brands brasil pagamento em dinheiro                        175,62 c     91.928.053,92
+ 297299 fat  01/09/23 154671-6     60594538000950 newell brands brasil ltd       fatura:  154671-6 cliente: newell brands brasil pagamento em dinheiro                        483,83 c     91.928.537,75
+ 297393 fat  01/09/23 155735-1     92660406001514 frigelar comercio e industria  fatura:  155735-1 cliente: frigelar comercio e  pagamento em dinheiro                        561,78 c     91.929.099,53
+        bco  04/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                          121.159,32 c     92.050.258,85
+ 298079 fat  04/09/23 157417-5     60594538000950 newell brands brasil ltd       fatura:  157417-5 cliente: newell brands brasil pagamento em dinheiro                     44.061,84 c     92.094.320,69
+ 298074 fat  04/09/23 157738-7     43587344000828 b s distribuidora de produtos  fatura:  157738-7 cliente: b s distribuidora de pagamento em dinheiro                     12.018,84 c     92.106.339,53
+ 298075 fat  04/09/23 157740-9     43587344000828 b s distribuidora de produtos  fatura:  157740-9 cliente: b s distribuidora de pagamento em dinheiro                      3.895,08 c     92.110.234,61
+ 297976 fat  04/09/23 157930-4     92660406003487 frigelar comercio e industria  fatura:  157930-4 cliente: frigelar comercio e  pagamento em dinheiro                        159,10 c     92.110.393,71
+ 297970 fat  04/09/23 157931-2     92660406003487 frigelar comercio e industria  fatura:  157931-2 cliente: frigelar comercio e  pagamento em dinheiro                      1.039,34 c     92.111.433,05
+ 297972 fat  04/09/23 157942-8     92660406004882 frigelar comercio e industria  fatura:  157942-8 cliente: frigelar comercio e  pagamento em dinheiro                        364,58 c     92.111.797,63
+ 297981 fat  04/09/23 157943-6     92660406004882 frigelar comercio e industria  fatura:  157943-6 cliente: frigelar comercio e  pagamento em dinheiro                      2.317,20 c     92.114.114,83
+ 297974 fat  04/09/23 157949-5     92660406005420 frigelar comercio e industria  fatura:  157949-5 cliente: frigelar comercio e  pagamento em dinheiro                        180,35 c     92.114.295,18
+ 298076 fat  04/09/23 158463-4     43587344000828 b s distribuidora de produtos  fatura:  158463-4 cliente: b s distribuidora de pagamento em dinheiro                      5.353,45 c     92.119.648,63
+ 298077 fat  04/09/23 158466-9     43587344000828 b s distribuidora de produtos  fatura:  158466-9 cliente: b s distribuidora de pagamento em dinheiro                        223,18 c     92.119.871,81
+ 298078 fat  04/09/23 158467-7     43587344000828 b s distribuidora de produtos  fatura:  158467-7 cliente: b s distribuidora de pagamento em dinheiro                      6.104,27 c     92.125.976,08
+        bco  05/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           38.029,97 c     92.164.006,05
+        bco  06/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                            9.391,76 c     92.173.397,81
+ 298249 fat  06/09/23 159616-1     88610191003927 mundial sa produtos de consumo fatura:  159616-1 cliente: mundial sa produtos  pagamento em dinheiro                      1.516,41 c     92.174.914,22
+ 298250 fat  06/09/23 159617-9     88610191003927 mundial sa produtos de consumo fatura:  159617-9 cliente: mundial sa produtos  pagamento em dinheiro                        265,65 c     92.175.179,87
+        bco  08/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           26.223,01 c     92.201.402,88
+ 298421 fat  08/09/23 159847-3     56173131000125 prafesta industria e comercio  fatura:  159847-3 cliente: prafesta industria e pagamento em dinheiro                     47.832,60 c     92.249.235,48
+ 298422 fat  08/09/23 159848-1     56173131000125 prafesta industria e comercio  fatura:  159848-1 cliente: prafesta industria e pagamento em dinheiro                      1.245,12 c     92.250.480,60
+        bco  11/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                          121.071,13 c     92.371.551,73
+ 299713 fat  11/09/23 157417-5     60594538000950 newell brands brasil ltd       fatura:  157417-5 cliente: newell brands brasil pagamento em dinheiro                        110,93 c     92.371.662,66
+        bco  12/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           83.896,13 c     92.455.558,79
+ 299236 fat  12/09/23 159203-3     43587344000828 b s distribuidora de produtos  fatura:  159203-3 cliente: b s distribuidora de pagamento em dinheiro                     18.297,39 c     92.473.856,18
+ 299237 fat  12/09/23 159204-1     43587344000828 b s distribuidora de produtos  fatura:  159204-1 cliente: b s distribuidora de pagamento em dinheiro                      3.245,91 c     92.477.102,09
+        bco  13/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           12.262,84 c     92.489.364,93
+ 301157 fat  13/09/23 158146-5     60594538000950 newell brands brasil ltd       fatura:  158146-5 cliente: newell brands brasil pagamento em dinheiro                     46.265,49 c     92.535.630,42
+ 299740 fat  13/09/23 158147-3     60594538000950 newell brands brasil ltd       fatura:  158147-3 cliente: newell brands brasil pagamento em dinheiro                      6.502,35 c     92.542.132,77
+ 299609 fat  13/09/23 160323-0     88610191003927 mundial sa produtos de consumo fatura:  160323-0 cliente: mundial sa produtos  pagamento em dinheiro                      1.408,52 c     92.543.541,29
+ 299610 fat  13/09/23 160324-8     88610191003927 mundial sa produtos de consumo fatura:  160324-8 cliente: mundial sa produtos  pagamento em dinheiro                        210,02 c     92.543.751,31
+        bco  14/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                          122.755,21 c     92.666.506,52
+        bco  15/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           47.277,36 c     92.713.783,88
+ 299808 fat  15/09/23 159100-2     43587344000828 b s distribuidora de produtos  fatura:  159100-2 cliente: b s distribuidora de pagamento em dinheiro                     27.694,64 c     92.741.478,52
+        bco  18/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                          174.308,86 c     92.915.787,38
+ 300638 fat  18/09/23 159410-9     92660406003487 frigelar comercio e industria  fatura:  159410-9 cliente: frigelar comercio e  pagamento em dinheiro                        257,04 c     92.916.044,42
+
+ttjb transportes e logistica e                                                                                                                                                                  pag:   5
+ssw0100                                                                                     extrato bancario                                                                            14/11/2023 16:55
+bco/age/cta/cart: 341  4299      39464    banco itau s.a.                                                                                                                   periodo: 01/07/23 a 31/10/23
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+nlanca  orig data                                 cliente/fornecedor             historico                                                                                     valor sit           saldo
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+ 300637 fat  18/09/23 159411-7     92660406003487 frigelar comercio e industria  fatura:  159411-7 cliente: frigelar comercio e  pagamento em dinheiro                        285,73 c     92.916.330,15
+ 300634 fat  18/09/23 159421-4     92660406004882 frigelar comercio e industria  fatura:  159421-4 cliente: frigelar comercio e  pagamento em dinheiro                      1.088,80 c     92.917.418,95
+ 300639 fat  18/09/23 159429-0     92660406005420 frigelar comercio e industria  fatura:  159429-0 cliente: frigelar comercio e  pagamento em dinheiro                        408,22 c     92.917.827,17
+        bco  19/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           90.832,06 c     93.008.659,23
+ 300191 fat  19/09/23 162114-9     06032022000977 atria lub comercio de lubrific fatura:  162114-9 cliente: atria lub comercio d pagamento em dinheiro                          0,01 c     93.008.659,24
+ 301762 fat  20/09/23 154671-6     60594538000950 newell brands brasil ltd       fatura:  154671-6 cliente: newell brands brasil pagamento em dinheiro                         98,12 c     93.008.757,36
+ 300600 fat  20/09/23 158882-6     60594538000950 newell brands brasil ltd       fatura:  158882-6 cliente: newell brands brasil pagamento em dinheiro                     42.984,03 c     93.051.741,39
+ 300598 fat  20/09/23 158883-4     60594538000950 newell brands brasil ltd       fatura:  158883-4 cliente: newell brands brasil pagamento em dinheiro                      3.386,72 c     93.055.128,11
+ 300599 fat  20/09/23 158884-2     60594538000950 newell brands brasil ltd       fatura:  158884-2 cliente: newell brands brasil pagamento em dinheiro                      4.278,86 c     93.059.406,97
+ 300597 fat  20/09/23 158885-1     60594538000950 newell brands brasil ltd       fatura:  158885-1 cliente: newell brands brasil pagamento em dinheiro                        579,40 c     93.059.986,37
+        bco  21/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                            5.562,26 c     93.065.548,63
+ 301650 fat  21/09/23 157909-6     92660406000208 frigelar comercio e industria  fatura:  157909-6 cliente: frigelar comercio e  pagamento em dinheiro                      2.967,17 c     93.068.515,80
+ 301646 fat  21/09/23 157912-6     92660406001867 frigelar comercio e industria  fatura:  157912-6 cliente: frigelar comercio e  pagamento em dinheiro                         94,43 c     93.068.610,23
+ 301633 fat  21/09/23 157913-4     92660406002758 frigelar comercio e industria  fatura:  157913-4 cliente: frigelar comercio e  pagamento em dinheiro                      1.802,37 c     93.070.412,60
+ 301629 fat  21/09/23 157914-2     92660406003304 frigelar comercio e industria  fatura:  157914-2 cliente: frigelar comercio e  pagamento em dinheiro                      2.916,02 c     93.073.328,62
+ 301651 fat  21/09/23 157915-1     92660406003304 frigelar comercio e industria  fatura:  157915-1 cliente: frigelar comercio e  pagamento em dinheiro                      1.358,62 c     93.074.687,24
+ 301625 fat  21/09/23 157916-9     92660406004025 frigelar comercio e industria  fatura:  157916-9 cliente: frigelar comercio e  pagamento em dinheiro                      8.434,45 c     93.083.121,69
+ 301649 fat  21/09/23 157917-7     92660406004025 frigelar comercio e industria  fatura:  157917-7 cliente: frigelar comercio e  pagamento em dinheiro                      5.992,69 c     93.089.114,38
+ 301634 fat  21/09/23 157918-5     92660406002596 frigelar comercio e industria  fatura:  157918-5 cliente: frigelar comercio e  pagamento em dinheiro                      1.127,21 c     93.090.241,59
+ 301631 fat  21/09/23 157919-3     92660406002596 frigelar comercio e industria  fatura:  157919-3 cliente: frigelar comercio e  pagamento em dinheiro                      2.038,72 c     93.092.280,31
+ 301643 fat  21/09/23 157920-7     92660406001352 frigelar comercio e industria  fatura:  157920-7 cliente: frigelar comercio e  pagamento em dinheiro                        171,42 c     93.092.451,73
+ 301626 fat  21/09/23 157921-5     92660406001352 frigelar comercio e industria  fatura:  157921-5 cliente: frigelar comercio e  pagamento em dinheiro                      5.021,47 c     93.097.473,20
+ 301638 fat  21/09/23 157922-3     92660406002324 frigelar comercio e industria  fatura:  157922-3 cliente: frigelar comercio e  pagamento em dinheiro                        482,69 c     93.097.955,89
+ 301644 fat  21/09/23 157923-1     92660406002324 frigelar comercio e industria  fatura:  157923-1 cliente: frigelar comercio e  pagamento em dinheiro                        140,08 c     93.098.095,97
+ 301636 fat  21/09/23 157924-0     92660406002081 frigelar comercio e industria  fatura:  157924-0 cliente: frigelar comercio e  pagamento em dinheiro                        963,39 c     93.099.059,36
+ 301628 fat  21/09/23 157925-8     92660406001514 frigelar comercio e industria  fatura:  157925-8 cliente: frigelar comercio e  pagamento em dinheiro                      4.258,61 c     93.103.317,97
+ 301639 fat  21/09/23 157926-6     92660406001514 frigelar comercio e industria  fatura:  157926-6 cliente: frigelar comercio e  pagamento em dinheiro                        343,55 c     93.103.661,52
+ 301640 fat  21/09/23 157927-4     92660406000119 frigelar comercio e industria  fatura:  157927-4 cliente: frigelar comercio e  pagamento em dinheiro                        334,55 c     93.103.996,07
+ 301652 fat  21/09/23 157928-2     92660406000461 frigelar comercio e industria  fatura:  157928-2 cliente: frigelar comercio e  pagamento em dinheiro                        220,11 c     93.104.216,18
+ 301632 fat  21/09/23 157929-1     92660406000461 frigelar comercio e industria  fatura:  157929-1 cliente: frigelar comercio e  pagamento em dinheiro                      1.290,86 c     93.105.507,04
+ 301642 fat  21/09/23 157932-1     92660406000704 frigelar comercio e industria  fatura:  157932-1 cliente: frigelar comercio e  pagamento em dinheiro                        181,89 c     93.105.688,93
+ 301630 fat  21/09/23 157933-9     92660406000704 frigelar comercio e industria  fatura:  157933-9 cliente: frigelar comercio e  pagamento em dinheiro                      2.591,34 c     93.108.280,27
+ 301627 fat  21/09/23 157934-7     92660406000895 frigelar comercio e industria  fatura:  157934-7 cliente: frigelar comercio e  pagamento em dinheiro                      4.649,37 c     93.112.929,64
+ 301641 fat  21/09/23 157935-5     92660406000380 frigelar comercio e industria  fatura:  157935-5 cliente: frigelar comercio e  pagamento em dinheiro                        185,49 c     93.113.115,13
+ 301637 fat  21/09/23 157936-3     92660406000380 frigelar comercio e industria  fatura:  157936-3 cliente: frigelar comercio e  pagamento em dinheiro                        559,65 c     93.113.674,78
+ 301648 fat  21/09/23 157937-1     92660406004459 frigelar comercio e industria  fatura:  157937-1 cliente: frigelar comercio e  pagamento em dinheiro                         73,10 c     93.113.747,88
+ 301647 fat  21/09/23 157938-0     92660406004530 frigelar comercio e industria  fatura:  157938-0 cliente: frigelar comercio e  pagamento em dinheiro                         73,43 c     93.113.821,31
+ 301645 fat  21/09/23 157944-4     92660406004610 frigelar comercio e industria  fatura:  157944-4 cliente: frigelar comercio e  pagamento em dinheiro                         94,67 c     93.113.915,98
+ 301624 fat  21/09/23 157945-2     92660406001190 frigelar comercio e industria  fatura:  157945-2 cliente: frigelar comercio e  pagamento em dinheiro                     15.369,01 c     93.129.284,99
+ 301635 fat  21/09/23 157946-1     92660406005188 frigelar comercio e industria  fatura:  157946-1 cliente: frigelar comercio e  pagamento em dinheiro                        984,05 c     93.130.269,04
+ 300735 fat  21/09/23 161801-6     88610191003927 mundial sa produtos de consumo fatura:  161801-6 cliente: mundial sa produtos  pagamento em dinheiro                      2.548,34 c     93.132.817,38
+ 300736 fat  21/09/23 161802-4     88610191003927 mundial sa produtos de consumo fatura:  161802-4 cliente: mundial sa produtos  pagamento em dinheiro                        483,94 c     93.133.301,32
+ 300738 fat  21/09/23 162623-0     56173131000125 prafesta industria e comercio  fatura:  162623-0 cliente: prafesta industria e pagamento em dinheiro                     49.432,15 c     93.182.733,47
+ 300739 fat  21/09/23 162624-8     56173131000125 prafesta industria e comercio  fatura:  162624-8 cliente: prafesta industria e pagamento em dinheiro                      6.718,46 c     93.189.451,93
+        bco  22/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           15.601,54 c     93.205.053,47
+ 301714 fat  22/09/23 157911-8     92660406001433 frigelar comercio e industria  fatura:  157911-8 cliente: frigelar comercio e  pagamento em dinheiro                         75,37 c     93.205.128,84
+        bco  25/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           83.444,47 c     93.288.573,31
+ 301833 fat  25/09/23 157941-0     92660406004378 frigelar comercio e industria  fatura:  157941-0 cliente: frigelar comercio e  pagamento em dinheiro                         70,15 c     93.288.643,46
+ 301806 fat  25/09/23 160126-1     92660406003487 frigelar comercio e industria  fatura:  160126-1 cliente: frigelar comercio e  pagamento em dinheiro                        132,96 c     93.288.776,42
+ 301831 fat  25/09/23 160127-0     92660406003487 frigelar comercio e industria  fatura:  160127-0 cliente: frigelar comercio e  pagamento em dinheiro                        917,42 c     93.289.693,84
+ 301832 fat  25/09/23 160136-9     92660406004882 frigelar comercio e industria  fatura:  160136-9 cliente: frigelar comercio e  pagamento em dinheiro                        326,78 c     93.290.020,62
+ 301836 fat  25/09/23 160137-7     92660406004882 frigelar comercio e industria  fatura:  160137-7 cliente: frigelar comercio e  pagamento em dinheiro                      2.367,64 c     93.292.388,26
+ 301807 fat  25/09/23 160143-1     92660406005420 frigelar comercio e industria  fatura:  160143-1 cliente: frigelar comercio e  pagamento em dinheiro                        757,72 c     93.293.145,98
+ 301837 fat  25/09/23 162270-6     92660406000208 frigelar comercio e industria  fatura:  162270-6 cliente: frigelar comercio e  pagamento em dinheiro                        635,38 c     93.293.781,36
+
+ttjb transportes e logistica e                                                                                                                                                                  pag:   6
+ssw0100                                                                                     extrato bancario                                                                            14/11/2023 16:55
+bco/age/cta/cart: 341  4299      39464    banco itau s.a.                                                                                                                   periodo: 01/07/23 a 31/10/23
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+nlanca  orig data                                 cliente/fornecedor             historico                                                                                     valor sit           saldo
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+        bco  26/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           47.554,28 c     93.341.335,64
+ 301938 fat  26/09/23 159852-0     43587344000828 b s distribuidora de produtos  fatura:  159852-0 cliente: b s distribuidora de pagamento em dinheiro                      8.962,47 c     93.350.298,11
+        bco  27/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                            3.868,18 c     93.354.166,29
+ 302111 fat  27/09/23 158464-2     43587344000828 b s distribuidora de produtos  fatura:  158464-2 cliente: b s distribuidora de pagamento em dinheiro                        487,80 c     93.354.654,09
+ 301959 fat  27/09/23 159624-1     60594538000950 newell brands brasil ltd       fatura:  159624-1 cliente: newell brands brasil pagamento em dinheiro                     30.878,23 c     93.385.532,32
+ 301958 fat  27/09/23 159625-0     60594538000950 newell brands brasil ltd       fatura:  159625-0 cliente: newell brands brasil pagamento em dinheiro                     15.027,00 c     93.400.559,32
+ 301957 fat  27/09/23 159838-4     60594538000950 newell brands brasil ltd       fatura:  159838-4 cliente: newell brands brasil pagamento em dinheiro                      6.656,79 c     93.407.216,11
+ 302114 fat  27/09/23 161385-5     43587344000828 b s distribuidora de produtos  fatura:  161385-5 cliente: b s distribuidora de pagamento em dinheiro                     11.363,13 c     93.418.579,24
+ 301963 fat  27/09/23 162445-8     88610191003927 mundial sa produtos de consumo fatura:  162445-8 cliente: mundial sa produtos  pagamento em dinheiro                        775,92 c     93.419.355,16
+ 301964 fat  27/09/23 162446-6     88610191003927 mundial sa produtos de consumo fatura:  162446-6 cliente: mundial sa produtos  pagamento em dinheiro                         96,00 c     93.419.451,16
+ 301965 fat  27/09/23 162763-5     88610191003927 mundial sa produtos de consumo fatura:  162763-5 cliente: mundial sa produtos  pagamento em dinheiro                      6.363,64 c     93.425.814,80
+        bco  28/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           22.258,57 c     93.448.073,37
+ 302378 fat  28/09/23 161300-6     43587344000828 b s distribuidora de produtos  fatura:  161300-6 cliente: b s distribuidora de                                           21.919,32 c     93.469.992,69
+ 302261 fat  28/09/23 161386-3     43587344000828 b s distribuidora de produtos  fatura:  161386-3 cliente: b s distribuidora de                                            1.298,36 c     93.471.291,05
+        bco  29/09/23                                                            credito via ret bco-liquidacao ou cart desconto                                           26.302,85 c     93.497.593,90
+ 302324 fat  29/09/23 158667-0     92660406001514 frigelar comercio e industria  fatura:  158667-0 cliente: frigelar comercio e  pagamento em dinheiro                        130,67 c     93.497.724,57
+        bco  02/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                          165.861,96 c     93.663.586,53
+ 303067 fat  02/10/23 161597-1     92660406003487 frigelar comercio e industria  fatura:  161597-1 cliente: frigelar comercio e  pagamento em dinheiro                         62,44 c     93.663.648,97
+ 303072 fat  02/10/23 161598-0     92660406003487 frigelar comercio e industria  fatura:  161598-0 cliente: frigelar comercio e  pagamento em dinheiro                        762,37 c     93.664.411,34
+ 303068 fat  02/10/23 161606-4     92660406004882 frigelar comercio e industria  fatura:  161606-4 cliente: frigelar comercio e  pagamento em dinheiro                        653,09 c     93.665.064,43
+ 303073 fat  02/10/23 161607-2     92660406004882 frigelar comercio e industria  fatura:  161607-2 cliente: frigelar comercio e  pagamento em dinheiro                      2.560,13 c     93.667.624,56
+ 303065 fat  02/10/23 161613-7     92660406005420 frigelar comercio e industria  fatura:  161613-7 cliente: frigelar comercio e  pagamento em dinheiro                        202,08 c     93.667.826,64
+ 303066 fat  02/10/23 161614-5     92660406005420 frigelar comercio e industria  fatura:  161614-5 cliente: frigelar comercio e  pagamento em dinheiro                        636,17 c     93.668.462,81
+        bco  03/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           48.048,60 c     93.716.511,41
+        bco  04/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                            9.182,68 c     93.725.694,09
+ 304227 fat  04/10/23 159857-1     60594538000950 newell brands brasil ltd       fatura:  159857-1 cliente: newell brands brasil pagamento em dinheiro                        229,99 c     93.725.924,08
+ 303202 fat  04/10/23 160327-2     60594538000950 newell brands brasil ltd       fatura:  160327-2 cliente: newell brands brasil pagamento em dinheiro                     44.875,75 c     93.770.799,83
+ 303201 fat  04/10/23 160328-1     60594538000950 newell brands brasil ltd       fatura:  160328-1 cliente: newell brands brasil pagamento em dinheiro                      3.209,85 c     93.774.009,68
+ 303203 fat  04/10/23 160329-9     60594538000950 newell brands brasil ltd       fatura:  160329-9 cliente: newell brands brasil pagamento em dinheiro                      3.403,63 c     93.777.413,31
+ 303200 fat  04/10/23 160330-2     60594538000950 newell brands brasil ltd       fatura:  160330-2 cliente: newell brands brasil pagamento em dinheiro                      1.398,53 c     93.778.811,84
+ 303416 fat  04/10/23 163272-8     88610191003927 mundial sa produtos de consumo fatura:  163272-8 cliente: mundial sa produtos  pagamento em dinheiro                        765,30 c     93.779.577,14
+ 303417 fat  04/10/23 163273-6     88610191003927 mundial sa produtos de consumo fatura:  163273-6 cliente: mundial sa produtos  pagamento em dinheiro                        198,17 c     93.779.775,31
+ 303418 fat  04/10/23 163588-3     88610191003927 mundial sa produtos de consumo fatura:  163588-3 cliente: mundial sa produtos  pagamento em dinheiro                      6.363,64 c     93.786.138,95
+        bco  06/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           28.275,42 c     93.814.414,37
+ 304214 fat  06/10/23 159425-7     92660406001190 frigelar comercio e industria  fatura:  159425-7 cliente: frigelar comercio e  pagamento em dinheiro                        879,64 c     93.815.294,01
+ 303633 fat  06/10/23 159849-0     56173131000125 prafesta industria e comercio  fatura:  159849-0 cliente: prafesta industria e pagamento em dinheiro                        125,75 c     93.815.419,76
+ 303634 fat  06/10/23 164301-1     56173131000125 prafesta industria e comercio  fatura:  164301-1 cliente: prafesta industria e pagamento em dinheiro                     41.774,66 c     93.857.194,42
+ 303635 fat  06/10/23 164302-9     56173131000125 prafesta industria e comercio  fatura:  164302-9 cliente: prafesta industria e pagamento em dinheiro                     10.287,42 c     93.867.481,84
+        bco  09/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           83.631,73 c     93.951.113,57
+ 304225 fat  09/10/23 157417-5     60594538000950 newell brands brasil ltd       fatura:  157417-5 cliente: newell brands brasil pagamento em dinheiro                        227,67 c     93.951.341,24
+ 304528 fat  09/10/23 162118-1     43587344000828 b s distribuidora de produtos  fatura:  162118-1 cliente: b s distribuidora de pagamento em dinheiro                      8.564,05 c     93.959.905,29
+ 304529 fat  09/10/23 162120-3     43587344000828 b s distribuidora de produtos  fatura:  162120-3 cliente: b s distribuidora de pagamento em dinheiro                        439,99 c     93.960.345,28
+ 304527 fat  09/10/23 162121-1     43587344000828 b s distribuidora de produtos  fatura:  162121-1 cliente: b s distribuidora de pagamento em dinheiro                      3.198,36 c     93.963.543,64
+ 304387 fat  09/10/23 162291-9     92660406003487 frigelar comercio e industria  fatura:  162291-9 cliente: frigelar comercio e  pagamento em dinheiro                        391,06 c     93.963.934,70
+ 304388 fat  09/10/23 162299-4     92660406004882 frigelar comercio e industria  fatura:  162299-4 cliente: frigelar comercio e  pagamento em dinheiro                        235,28 c     93.964.169,98
+ 304389 fat  09/10/23 162308-7     92660406005420 frigelar comercio e industria  fatura:  162308-7 cliente: frigelar comercio e  pagamento em dinheiro                        570,21 c     93.964.740,19
+ 305597 fat  09/10/23 162869-1     43587344000828 b s distribuidora de produtos  fatura:  162869-1 cliente: b s distribuidora de                                            6.283,66 c     93.971.023,85
+        bco  10/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           74.264,81 c     94.045.288,66
+ 304819 fat  10/10/23 162300-1     92660406004882 frigelar comercio e industria  fatura:  162300-1 cliente: frigelar comercio e  pagamento em dinheiro                        524,44 c     94.045.813,10
+        bco  11/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           11.788,49 c     94.057.601,59
+ 304563 fat  11/10/23 161307-3     60594538000950 newell brands brasil ltd       fatura:  161307-3 cliente: newell brands brasil pagamento em dinheiro                      3.256,60 c     94.060.858,19
+ 304548 fat  11/10/23 161809-1     60594538000950 newell brands brasil ltd       fatura:  161809-1 cliente: newell brands brasil pagamento em dinheiro                     42.979,75 c     94.103.837,94
+ 304547 fat  11/10/23 164074-7     88610191003927 mundial sa produtos de consumo fatura:  164074-7 cliente: mundial sa produtos  pagamento em dinheiro                      2.205,26 c     94.106.043,20
+        bco  13/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           21.073,82 c     94.127.117,02
+
+ttjb transportes e logistica e                                                                                                                                                                  pag:   7
+ssw0100                                                                                     extrato bancario                                                                            14/11/2023 16:55
+bco/age/cta/cart: 341  4299      39464    banco itau s.a.                                                                                                                   periodo: 01/07/23 a 31/10/23
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+nlanca  orig data                                 cliente/fornecedor             historico                                                                                     valor sit           saldo
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+ 304859 fat  13/10/23 160110-5     92660406004025 frigelar comercio e industria  fatura:  160110-5 cliente: frigelar comercio e  pagamento em dinheiro                     10.148,05 c     94.137.265,07
+        bco  16/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                          131.531,28 c     94.268.796,35
+        bco  17/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           84.494,80 c     94.353.291,15
+ 310019 fat  17/10/23 158146-5     60594538000950 newell brands brasil ltd       fatura:  158146-5 cliente: newell brands brasil pagamento em dinheiro                        482,44 c     94.353.773,59
+ 305599 fat  17/10/23 163692-8     43587344000828 b s distribuidora de produtos  fatura:  163692-8 cliente: b s distribuidora de                                            4.620,14 c     94.358.393,73
+ 305598 fat  17/10/23 163693-6     43587344000828 b s distribuidora de produtos  fatura:  163693-6 cliente: b s distribuidora de                                            1.780,30 c     94.360.174,03
+ 305600 fat  17/10/23 163694-4     43587344000828 b s distribuidora de produtos  fatura:  163694-4 cliente: b s distribuidora de                                              649,18 c     94.360.823,21
+        bco  18/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                            7.376,10 c     94.368.199,31
+ 305538 fat  18/10/23 144880-3     60594538000950 newell brands brasil ltd       fatura:  144880-3 cliente: newell brands brasil pagamento em dinheiro                        134,23 c     94.368.333,54
+ 305681 fat  18/10/23 162453-9     60594538000950 newell brands brasil ltd       fatura:  162453-9 cliente: newell brands brasil pagamento em dinheiro                     29.620,75 c     94.397.954,29
+ 305680 fat  18/10/23 162454-7     60594538000950 newell brands brasil ltd       fatura:  162454-7 cliente: newell brands brasil pagamento em dinheiro                      1.981,79 c     94.399.936,08
+ 305682 fat  18/10/23 162455-5     60594538000950 newell brands brasil ltd       fatura:  162455-5 cliente: newell brands brasil pagamento em dinheiro                      4.325,60 c     94.404.261,68
+ 305679 fat  18/10/23 162456-3     60594538000950 newell brands brasil ltd       fatura:  162456-3 cliente: newell brands brasil pagamento em dinheiro                      1.219,59 c     94.405.481,27
+ 305687 fat  18/10/23 163049-1     92660406003487 frigelar comercio e industria  fatura:  163049-1 cliente: frigelar comercio e  pagamento em dinheiro                        148,77 c     94.405.630,04
+ 305688 fat  18/10/23 163050-4     92660406003487 frigelar comercio e industria  fatura:  163050-4 cliente: frigelar comercio e  pagamento em dinheiro                        597,06 c     94.406.227,10
+ 305689 fat  18/10/23 163058-0     92660406004882 frigelar comercio e industria  fatura:  163058-0 cliente: frigelar comercio e  pagamento em dinheiro                        291,74 c     94.406.518,84
+ 305691 fat  18/10/23 163059-8     92660406004882 frigelar comercio e industria  fatura:  163059-8 cliente: frigelar comercio e  pagamento em dinheiro                        957,05 c     94.407.475,89
+ 305686 fat  18/10/23 163066-1     92660406005420 frigelar comercio e industria  fatura:  163066-1 cliente: frigelar comercio e  pagamento em dinheiro                        379,87 c     94.407.855,76
+ 305673 fat  18/10/23 164814-4     88610191003927 mundial sa produtos de consumo fatura:  164814-4 cliente: mundial sa produtos  pagamento em dinheiro                      2.534,74 c     94.410.390,50
+        bco  20/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           27.382,02 c     94.437.772,52
+ 306687 fat  20/10/23 147670-0     92660406001190 frigelar comercio e industria  fatura:  147670-0 cliente: frigelar comercio e  pagamento em dinheiro                         77,33 c     94.437.849,85
+ 306686 fat  20/10/23 147676-9     92660406002910 frigelar comercio e industria  fatura:  147676-9 cliente: frigelar comercio e  pagamento em dinheiro                        278,78 c     94.438.128,63
+ 306918 fat  20/10/23 162774-1     43587344000828 b s distribuidora de produtos  fatura:  162774-1 cliente: b s distribuidora de                                            1.056,71 c     94.439.185,34
+        bco  23/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           61.575,13 c     94.500.760,47
+ 307877 fat  23/10/23 162034-7     43587344000828 b s distribuidora de produtos  fatura:  162034-7 cliente: b s distribuidora de pagamento em dinheiro                      4.111,75 c     94.504.872,22
+ 306919 fat  23/10/23 162774-1     43587344000828 b s distribuidora de produtos  fatura:  162774-1 cliente: b s distribuidora de pagamento em dinheiro                      7.406,74 c     94.512.278,96
+ 306981 fat  23/10/23 163885-8     92660406003487 frigelar comercio e industria  fatura:  163885-8 cliente: frigelar comercio e  pagamento em dinheiro                        585,73 c     94.512.864,69
+ 306982 fat  23/10/23 163893-9     92660406004882 frigelar comercio e industria  fatura:  163893-9 cliente: frigelar comercio e  pagamento em dinheiro                        239,44 c     94.513.104,13
+ 306977 fat  23/10/23 163894-7     92660406004882 frigelar comercio e industria  fatura:  163894-7 cliente: frigelar comercio e  pagamento em dinheiro                      1.527,72 c     94.514.631,85
+ 306980 fat  23/10/23 163900-5     92660406005420 frigelar comercio e industria  fatura:  163900-5 cliente: frigelar comercio e  pagamento em dinheiro                        685,86 c     94.515.317,71
+ 306922 fat  23/10/23 164399-1     43587344000828 b s distribuidora de produtos  fatura:  164399-1 cliente: b s distribuidora de pagamento em dinheiro                     26.045,73 c     94.541.363,44
+ 306920 fat  23/10/23 164402-5     43587344000828 b s distribuidora de produtos  fatura:  164402-5 cliente: b s distribuidora de pagamento em dinheiro                        502,08 c     94.541.865,52
+ 306921 fat  23/10/23 164403-3     43587344000828 b s distribuidora de produtos  fatura:  164403-3 cliente: b s distribuidora de pagamento em dinheiro                      1.298,36 c     94.543.163,88
+ 306576 fat  23/10/23 165818-2     56173131000125 prafesta industria e comercio  fatura:  165818-2 cliente: prafesta industria e pagamento em dinheiro                     78.638,67 c     94.621.802,55
+ 306577 fat  23/10/23 165819-1     56173131000125 prafesta industria e comercio  fatura:  165819-1 cliente: prafesta industria e pagamento em dinheiro                        320,45 c     94.622.123,00
+        bco  24/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           61.563,34 c     94.683.686,34
+ 306776 fat  24/10/23 161810-5     60594538000950 newell brands brasil ltd       fatura:  161810-5 cliente: newell brands brasil pagamento em dinheiro                     24.431,32 c     94.708.117,66
+        bco  25/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           10.549,35 c     94.718.667,01
+ 306969 fat  25/10/23 162778-3     60594538000950 newell brands brasil ltd       fatura:  162778-3 cliente: newell brands brasil pagamento em dinheiro                      1.277,90 c     94.719.944,91
+ 306937 fat  25/10/23 163280-9     60594538000950 newell brands brasil ltd       fatura:  163280-9 cliente: newell brands brasil pagamento em dinheiro                     38.620,11 c     94.758.565,02
+ 306970 fat  25/10/23 163281-7     60594538000950 newell brands brasil ltd       fatura:  163281-7 cliente: newell brands brasil pagamento em dinheiro                     11.874,72 c     94.770.439,74
+ 306973 fat  25/10/23 163894-7     92660406004882 frigelar comercio e industria  fatura:  163894-7 cliente: frigelar comercio e                                             1.527,72 c     94.771.967,46
+ 306934 fat  25/10/23 165544-2     88610191003927 mundial sa produtos de consumo fatura:  165544-2 cliente: mundial sa produtos  pagamento em dinheiro                        878,31 c     94.772.845,77
+ 306935 fat  25/10/23 165545-1     88610191003927 mundial sa produtos de consumo fatura:  165545-1 cliente: mundial sa produtos  pagamento em dinheiro                         98,06 c     94.772.943,83
+ 306976 fat  25/10/23 163894-7     92660406004882 frigelar comercio e industria  fatura:  163894-7 cliente: frigelar comercio e                                            -1.527,72 c     94.771.416,11
+        bco  26/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           32.991,34 c     94.804.407,45
+ 306917 fat  26/10/23 157417-5     60594538000950 newell brands brasil ltd       fatura:  157417-5 cliente: newell brands brasil pagamento em dinheiro                         50,00 c     94.804.457,45
+        bco  27/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                            6.642,88 c     94.811.100,33
+ 307505 fat  27/10/23 162296-0     92660406000380 frigelar comercio e industria  fatura:  162296-0 cliente: frigelar comercio e  pagamento em dinheiro                        492,48 c     94.811.592,81
+ 307880 fat  27/10/23 164400-9     43587344000828 b s distribuidora de produtos  fatura:  164400-9 cliente: b s distribuidora de                                               98,72 c     94.811.691,53
+        bco  30/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           97.914,86 c     94.909.606,39
+ 308372 fat  30/10/23 160189-0     90049289000126 irwin industrial tool ferramen fatura:  160189-0 cliente: irwin industrial too                                           13.033,26 c     94.922.639,65
+ 308468 fat  30/10/23 162275-7     92660406002758 frigelar comercio e industria  fatura:  162275-7 cliente: frigelar comercio e  pagamento em dinheiro                        427,74 c     94.923.067,39
+ 308465 fat  30/10/23 164612-5     92660406003487 frigelar comercio e industria  fatura:  164612-5 cliente: frigelar comercio e  pagamento em dinheiro                        194,35 c     94.923.261,74
+
+ttjb transportes e logistica e                                                                                                                                                                  pag:   8
+ssw0100                                                                                     extrato bancario                                                                            14/11/2023 16:55
+bco/age/cta/cart: 341  4299      39464    banco itau s.a.                                                                                                                   periodo: 01/07/23 a 31/10/23
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+nlanca  orig data                                 cliente/fornecedor             historico                                                                                     valor sit           saldo
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+ 308467 fat  30/10/23 164613-3     92660406003487 frigelar comercio e industria  fatura:  164613-3 cliente: frigelar comercio e  pagamento em dinheiro                        454,56 c     94.923.716,30
+ 308466 fat  30/10/23 164623-1     92660406004882 frigelar comercio e industria  fatura:  164623-1 cliente: frigelar comercio e  pagamento em dinheiro                        117,39 c     94.923.833,69
+ 308463 fat  30/10/23 164624-9     92660406004882 frigelar comercio e industria  fatura:  164624-9 cliente: frigelar comercio e  pagamento em dinheiro                      3.605,19 c     94.927.438,88
+ 308464 fat  30/10/23 164631-1     92660406005420 frigelar comercio e industria  fatura:  164631-1 cliente: frigelar comercio e  pagamento em dinheiro                      2.689,81 c     94.930.128,69
+        bco  31/10/23                                                            credito via ret bco-liquidacao ou cart desconto                                           24.165,82 c     94.954.294,51
+
+-------+----+--------+------------+--------------+------------------------------+-----------------------------------------------------------------------------------+---------------+---+---------------
+coluna orig: fat-fatura, ctc-ctrc, cpg-contas a pagar, man-lancamento manual
+coluna sit.: p-programado, l-liquidado, c-conciliado
+                                                                                                                                                                      saldo inicial:       88.060.581,00
+                                                                                                                                                                  total de creditos:        6.909.440,73
+                                                                                                                                                                   total de debitos:           15.727,22
+                                                                                                                                                                        saldo final:       94.954.294,51
+
+

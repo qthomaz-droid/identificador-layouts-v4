@@ -1,0 +1,1478 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26023;;;;;data acerto:;;;;;02/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;feriasclaudio;;;;00666 ferias funcionario;;;;;;;;;;;;11/04/25;;02/05/25;;;;;0;1.696,26;;;;;;1.696,26;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;1.696,26;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;1.696,26;;;;;dupl. crditos....:;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;1.696,26;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;1.696,26;;;;;total de crditos:;;;;1.696,26;;;;;diferena:;;;;;0,00;;;;;;;;
+
+02 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;pgina: 1/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26025;;;;;data acerto:;;;;;05/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;83772 1-1;;;;00088 iguacu log transportes ltda -me;;;;;;;;;;;;;23/04/25;;05/05/25;;;;;0;111,60;;;;;;111,60;;;;
+
+002;;17289 1-1;;;;01019 jr comercio de produtos delimpeza ltda;;;;;;;;;;;;;02/04/25;;04/05/25;;;;;0;260,39;;;;;;260,39;;;;
+
+002;;fat 243451;;;;00326 viacao joana darc - s/a;;;;;;;;;;;;;28/04/25;;05/05/25;;;;;0;672,00;;;;;;672,00;;;;
+
+002;;563.605 2-3;;;;00351 formiline industria delaminados ltda;;;;;;;;;;;;;31/03/25;;02/05/25;;;;;-3;698,00;;;;;;698,00;;;;
+
+002;;22.044 1-5;;;;00005 soldati ind.e com. de moveisltda epp;;;;;;;;;;;;;24/03/25;;02/05/25;;;;;-3;764,80;;;;;;764,80;;;;
+
+002;;565314 1-3;;;;00351 formiline industria delaminados ltda;;;;;;;;;;;;;14/04/25;;04/05/25;;;;;0;802,91;;;;;;802,91;;;;
+
+002;;3451 1-1;;;;00239 padaria e confeitaria zuquiltda;;;;;;;;;;;;;22/04/25;;02/05/25;;;;;-3;860,70;;;;;;860,70;;;;
+
+002;;160334 1-4;;;;00908 romplas industria e comercio delaminados plasticos ltda;;;;;;;;;;;;;31/03/25;;03/05/25;;;;;-2;1.075,38;;;;;;1.075,38;;;;
+
+002;;114279 1-1;;;;01261 manu fatura de botoes cardenas;;;;;;;;;;;;;22/04/25;;02/05/25;;;;;-3;1.348,00;;;;;;1.348,00;;;;
+
+002;;160.256 2-3;;;;00908 romplas industria e comercio delaminados plasticos ltda;;;;;;;;;;;;;25/03/25;;02/05/25;;;;;-3;1.439,06;;;;;;1.439,06;;;;
+
+002;;3214 3-13;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;02/05/25;;;;;-3;1.766,36;;;;;;1.766,36;;;;
+
+002;;3216 3-12;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;04/05/25;;;;;0;1.792,34;;;;;;1.792,34;;;;
+
+002;;3215 2-12;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;04/05/25;;;;;0;2.170,49;;;;;;2.170,49;;;;
+
+002;;599380 1-3;;;;00596 corttex industria, comercio,importacao;;;;;;;;;;;;;22/04/25;;04/05/25;;;;;0;2.610,85;;;;;;2.610,85;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;16.432,41;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 14;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;16.372,88;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;-1,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;1,00;;
+juros (0% ao ms):;;;;;;59,53;;;;;complementos......:;;;;;16.432,41;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;16.432,41;;;;;total de crditos:;;;;;16.432,41;;;;;diferena:;;;;;0,00;;;;;;;;
+
+05 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 2/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;
+;;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;
+;;;;;;ordem:;;;;;cdigo;;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;;26057;;;;;;;data acerto:;;;;;06/05/2025;;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;;;
+
+conta:;;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;;documento;;;;fornecedor;;;;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;;pensao04/2025;;;;00251 folha de pagamento;;;;;;;;;;;;;;;;30/04/25;;06/05/25;;;;;0;405,31;;;;;;405,31;;;;
+
+002;;;127870 3-3;;;;01258 neoprene brasil ltda;;;;;;;;;;;;;;;;10/02/25;;06/05/25;;;;;0;554,66;;;;;;554,66;;;;
+
+002;;;127826 3-3;;;;01258 neoprene brasil ltda;;;;;;;;;;;;;;;;10/02/25;;06/05/25;;;;;0;554,66;;;;;;554,66;;;;
+
+002;;;29057 2-5;;;;01234 eurotextil comercio eimportacao;;;;;;;;;;;;;;;;21/02/25;;06/05/25;;;;;0;3.950,82;;;;;;3.950,82;;;;
+
+002;;;3195 1-8;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;;;;11/02/25;;06/05/25;;;;;0;4.220,18;;;;;;4.220,18;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;14.999,63;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;;;;crditos;;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;;;;9.685,63;;;;;dupl. crditos....:;;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;;;;0,00;;;;;cheques prprios..:;;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;;;;0,00;;;;;cheques terceiros.:;;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;;;;0,00;;;;;complementos......:;;;;;;14.999,63;;;;
+;;;;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;;
+outros dbitos....:;;;;;;;;;0,00;;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;;6,00;;;;
+;;;;;;;;;;;;;;outros crditos...:;;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;;;;9.685,63;;;;;total de crditos:;;;;;;15.005,63;;;;;diferena:;;;;;-5.320,00;;;;;;;;
+
+destino da diferena:;;;;;;gerar nota de crdito;;;;;;;;;271-ticket servios s.a;;;;;;;;;;;;;;;;;;;;;;;
+
+06 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;;alexsandra;;;;;;;;;controle financeiro;;;;;;;;;;;;pgina: 3/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26058;;;;;data acerto:;;;;;06/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;juros - 02/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;06/05/25;;;;;0;2.291,03;;;;;;2.291,03;;;;
+
+002;;parcela -02/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;06/05/25;;;;;0;4.279,03;;;;;;4.279,03;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;03980265 db.emprstimo;;;;;;;;;;;;;;;;;6.570,06;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;6.570,06;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;6.570,06;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;6.570,06;;;;;total de crditos:;;;;;6.570,06;;;;;diferena:;;;;;0,00;;;;;;;;
+
+06 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 4/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26061;;;;;data acerto:;;;;;07/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;licena codbar;;;;00284 gs1 brasil - associaobrasileira;;;;;;;;;;;;;07/05/25;;07/05/25;;;;;0;1.759,00;;;;;;1.759,00;;;;
+
+002;;3214 4-13;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;07/05/25;;;;;0;1.766,36;;;;;;1.766,36;;;;
+
+002;;pagto 04/2025;;;;00251 folha de pagamento;;;;;;;;;;;;;30/04/25;;06/05/25;;;;;-1;23.321,00;;;;;;23.321,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;26.846,36;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;26.846,36;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;-1,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;1,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;26.846,36;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;26.846,36;;;;;total de crditos:;;;;;26.846,36;;;;;diferena:;;;;;0,00;;;;;;;;
+
+07 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 5/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26072;;;;;data acerto:;;;;;07/05/2025;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;vlr baixado;;;;
+
+002;;nc-0000026057;;;;00271 ticket servios s.a;;;;;;;;;;;;06/05/25;;06/05/25;;;;;-1;-5.320,00;;;;;-5.320,00;;;;
+
+002;;84609979 1-1;;;;00271 ticket servios s.a;;;;;;;;;;;;07/05/25;;07/05/25;;;;;0;5.320,00;;;;;5.320,00;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;prazos mdios;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;5.320,00;;;;;dupl. crditos....:;;;;5.320,00;;;;;prazo mdio crditos:;;;;;;;;;;-1,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;0,00;;;;;diferena...........:;;;;;;;;;;-1,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;0,00;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;0,00;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;5.320,00;;;;;total de crditos:;;;;5.320,00;;;;;diferena:;;;;;0,00;;;;;;;
+
+07 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;pgina: 6/30;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26094;;;;;data acerto:;;;;;02/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;tar 5022892;;;;00628 tarifa de cobrana;;;;;;;;;;;;;02/05/25;;02/05/25;;;;;0;2,00;;;;;;2,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;tarifa cobrana;;;;;;;;;;;;;;;;;2,00;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;2,00;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;2,00;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;2,00;;;;;total de crditos:;;;;;2,00;;;;;diferena:;;;;;0,00;;;;;;;;
+
+02 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 7/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26098;;;;;data acerto:;;;;;05/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;206;;;;00879 taxas e tarifas bancarias;;;;;;;;;;;;;05/05/25;;05/05/25;;;;;0;1,10;;;;;;1,10;;;;
+
+002;;tar 5043790;;;;00628 tarifa de cobrana;;;;;;;;;;;;;05/05/25;;05/05/25;;;;;0;6,00;;;;;;6,00;;;;
+
+002;;129;;;;00879 taxas e tarifas bancarias;;;;;;;;;;;;;05/05/25;;05/05/25;;;;;0;25,85;;;;;;25,85;;;;
+
+002;;118390;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;05/05/25;;05/05/25;;;;;0;50,00;;;;;;50,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;82,95;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;82,95;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;82,95;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;82,95;;;;;total de crditos:;;;;;82,95;;;;;diferena:;;;;;0,00;;;;;;;;
+
+05 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 8/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;;cdigo;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26100;;;;;;data acerto:;;;;;05/05/2025;;;usurio:;;alexsandra;;;;tipo: 2-acerto em conta;;;;;;;;;
+;;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;valor;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;20.000,00;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;;crditos;;;;;;;;;prazos mdios;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;;0,00;;;;;dupl. crditos....:;;;;;;0,00;;;prazo mdio crditos:;;;;;;;;0,00;;
+prorrogaes......:;;;;;;;0,00;;;;;cheques prprios..:;;;;;;0,00;;;prazo mdio dbitos.:;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;;0,00;;;;;cheques terceiros.:;;;;;;0,00;;;diferena...........:;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;;0,00;;;;;complementos......:;;;;;;20.000,00;;
+;;;;;;;;;;;;dupl. de clientes.:;;;;;;;;
+outros dbitos....:;;;;;;;0,00;;;;;;;;;;;0,00;;
+;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;;0,00;;
+;;;;;;;;;;;;outros crditos...:;;;;;;0,00;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;;0,00;;;;;total de crditos:;;;;;;20.000,00;;;diferena:;;;-20.000,00;;;;;;;
+
+destino da diferena:;;;;gerar nota de crdito;;;;;;;;;21-r m b m moveis eireli;;;;;;;;;;;;;;;;;;
+
+05 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;;controle financeiro;;;;;;;;;;pgina: 9/30;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26102;;;;;data acerto:;;;;;06/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;tar 5053157;;;;00628 tarifa de cobrana;;;;;;;;;;;;;06/05/25;;06/05/25;;;;;0;2,00;;;;;;2,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;tarifa cobrana;;;;;;;;;;;;;;;;;2,00;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;2,00;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;2,00;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;2,00;;;;;total de crditos:;;;;;2,00;;;;;diferena:;;;;;0,00;;;;;;;;
+
+06 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 10/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;;cdigo;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26107;;;;;;data acerto:;;;;;07/05/2025;;;usurio:;;alexsandra;;;;tipo: 2-acerto em conta;;;;;;;;;
+;;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;valor;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;23.000,00;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;;crditos;;;;;;;;;prazos mdios;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;;0,00;;;;;dupl. crditos....:;;;;;;0,00;;;prazo mdio crditos:;;;;;;;;0,00;;
+prorrogaes......:;;;;;;;0,00;;;;;cheques prprios..:;;;;;;0,00;;;prazo mdio dbitos.:;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;;0,00;;;;;cheques terceiros.:;;;;;;0,00;;;diferena...........:;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;;0,00;;;;;complementos......:;;;;;;23.000,00;;
+;;;;;;;;;;;;dupl. de clientes.:;;;;;;;;
+outros dbitos....:;;;;;;;0,00;;;;;;;;;;;0,00;;
+;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;;0,00;;
+;;;;;;;;;;;;outros crditos...:;;;;;;0,00;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;;0,00;;;;;total de crditos:;;;;;;23.000,00;;;diferena:;;;-23.000,00;;;;;;;
+
+destino da diferena:;;;;gerar nota de crdito;;;;;;;;;21-r m b m moveis eireli;;;;;;;;;;;;;;;;;;
+
+07 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;;controle financeiro;;;;;;;;;;pgina: 11/30;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26122;;;;;data acerto:;;;;;08/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;fat 32737;;;;00270 mil copias comercio copiadorase servico;;;;;;;;;;;;;02/05/25;;08/05/25;;;;;0;236,25;;;;;;236,25;;;;
+
+002;;ctv2025-04;;;;00155 sind. dos ofic marc e trab nasind movei;;;;;;;;;;;;;02/05/25;;08/05/25;;;;;0;432,00;;;;;;432,00;;;;
+
+002;;21795 3-5;;;;00005 soldati ind.e com. de moveisltda epp;;;;;;;;;;;;;19/02/25;;08/05/25;;;;;0;5.101,08;;;;;;5.101,08;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;5.769,33;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;5.769,33;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;5.769,33;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;5.769,33;;;;;total de crditos:;;;;;5.769,33;;;;;diferena:;;;;;0,00;;;;;;;;
+
+08 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 12/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;
+;;
+;;;mp estofados ltda;;;;;;;;;;;;;;;;;
+;;
+;;;ordem:;cdigo;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;
+
+;;;;;;;;;;;;;;;;;;;;
+
+border:;;26127;;;data acerto:;;;;08/05/2025;;usurio:;;alexsandra;;;tipo: 6-saque ou transferncia;;;
+;;
+
+conta:;;13 - mp estofados brasil4731;;;;;;;;;;;;;;;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;descrio do complemento;;;;;;;;;valor;
+
+2 mp estofados sicoob 646415;;;;;;;;;;saque ou transferncia em dinheiro;;;;;;;;;8.600,00;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;
+crditos;;;;;;;;
+0 cheque(s) prprio(s):;;;;;;0,00;;
+
+complementos:;;;;;;8.600,00;;
+
+total de crditos:;;;;;;8.600,00;;
+
+08 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+usurio: ;alexsandra;;;;;;controle financeiro;;;;;;;pgina: 13/30;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26128;;;;;data acerto:;;;;;07/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;tar 5065585;;;;00628 tarifa de cobrana;;;;;;;;;;;;;07/05/25;;07/05/25;;;;;0;1,00;;;;;;1,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;tarifa cobrana;;;;;;;;;;;;;;;;;1,00;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;1,00;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;1,00;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;1,00;;;;;total de crditos:;;;;;1,00;;;;;diferena:;;;;;0,00;;;;;;;;
+
+07 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 14/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26186;;;;;data acerto:;;;;;09/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;13 - mp estofados brasil4731;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;330281 2-6;;;;00009 rozac comercio e exportacao deprodutos;;;;;;;;;;;;;19/03/25;;09/05/25;;;;;0;548,61;;;;;;548,61;;;;
+
+002;;002;;;;00997 proseg textil comercial ltda;;;;;;;;;;;;;13/03/25;;09/05/25;;;;;0;816,72;;;;;;816,72;;;;
+
+002;;129111 4-4;;;;01258 neoprene brasil ltda;;;;;;;;;;;;;13/03/25;;09/05/25;;;;;0;980,00;;;;;;980,00;;;;
+
+002;;3216 4-12;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;09/05/25;;;;;0;1.792,32;;;;;;1.792,32;;;;
+
+002;;3215 3-12;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;09/05/25;;;;;0;2.170,49;;;;;;2.170,49;;;;
+
+002;;21865 3-5;;;;00005 soldati ind.e com. de moveisltda epp;;;;;;;;;;;;;25/02/25;;09/05/25;;;;;0;4.724,00;;;;;;4.724,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+13 mp estofados brasil4731;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;11.032,14;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;11.032,14;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;11.032,14;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;11.032,14;;;;;total de crditos:;;;;;11.032,14;;;;;diferena:;;;;;0,00;;;;;;;;
+
+09 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 15/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;
+;;
+;;;mp estofados ltda;;;;;;;;;;;;;;;;;
+;;
+;;;ordem:;cdigo;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;
+
+;;;;;;;;;;;;;;;;;;;;
+
+border:;;26192;;;data acerto:;;;;08/05/2025;;usurio:;;alexsandra;;;tipo: 6-saque ou transferncia;;;
+;;
+
+conta:;;15 - mp estofados bb aplicacao rende facil;;;;;;;;;;;;;;;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;descrio do complemento;;;;;;;;;valor;
+
+13 mp estofados brasil4731;;;;;;;;;;saque ou transferncia em dinheiro;;;;;;;;;8.600,00;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;
+crditos;;;;;;;;
+0 cheque(s) prprio(s):;;;;;;0,00;;
+
+complementos:;;;;;;8.600,00;;
+
+total de crditos:;;;;;;8.600,00;;
+
+08 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+usurio: ;alexsandra;;;;;;controle financeiro;;;;;;;pgina: 16/30;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26196;;;;;data acerto:;;;;;08/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;tar 5074878;;;;00879 taxas e tarifas bancarias;;;;;;;;;;;;;08/05/25;;08/05/25;;;;;0;4,00;;;;;;4,00;;;;
+
+002;;tar 206;;;;00879 taxas e tarifas bancarias;;;;;;;;;;;;;08/05/25;;08/05/25;;;;;0;24,20;;;;;;24,20;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;28,20;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;28,20;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;28,20;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;28,20;;;;;total de crditos:;;;;;28,20;;;;;diferena:;;;;;0,00;;;;;;;;
+
+08 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 17/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26199;;;;;data acerto:;;;;;08/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;juros - 18;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;02/05/25;;30/05/25;;;;;22;174,40;;;;;;174,40;;;;
+
+002;;parcela-22/24;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;07/11/23;;30/09/25;;;;;145;6.338,17;;;;;;6.338,17;;;;
+
+002;;parcela-24/24;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;07/11/23;;30/11/25;;;;;207;6.338,17;;;;;;6.338,17;;;;
+
+002;;parcela-23/24;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;07/11/23;;30/10/25;;;;;175;6.338,17;;;;;;6.338,17;;;;
+
+002;;parcela-19/24;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;07/11/23;;30/06/25;;;;;53;6.338,17;;;;;;6.338,17;;;;
+
+002;;parcela-21/24;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;07/11/23;;30/08/25;;;;;114;6.338,17;;;;;;6.338,17;;;;
+
+002;;parcela-20/24;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;07/11/23;;30/07/25;;;;;83;6.338,17;;;;;;6.338,17;;;;
+
+002;;parcela-18/24;;;;00939 banco cooperativo do brasils.a.;;;;;;;;;;;;;07/11/23;;30/05/25;;;;;22;6.338,17;;;;;;6.338,17;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;db.emprstimo;;;;;;;;;;;;;;;;;44.541,59;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;44.541,59;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;114,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;-114,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;44.541,59;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;44.541,59;;;;;total de crditos:;;;;;44.541,59;;;;;diferena:;;;;;0,00;;;;;;;;
+
+08 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 18/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26201;;;;;data acerto:;;;;;08/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;juros;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;02/05/25;;06/06/25;;;;;29;211,17;;;;;;211,17;;;;
+
+002;;parcela-26/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/05/27;;;;;729;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-25/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/04/27;;;;;699;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-27/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/06/27;;;;;760;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-28/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/07/27;;;;;790;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-24/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/03/27;;;;;669;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-23/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/02/27;;;;;641;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-22/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/01/27;;;;;609;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-21/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/12/26;;;;;578;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-20/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/11/26;;;;;548;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-29/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/08/27;;;;;821;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-30/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/09/27;;;;;852;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-31/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/10/27;;;;;882;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-32/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/11/27;;;;;914;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-33/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/12/27;;;;;943;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-34/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/01/28;;;;;974;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-35/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/02/28;;;;;1005;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-36/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/03/28;;;;;1034;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-09/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/12/25;;;;;214;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-11/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/02/26;;;;;275;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-03/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/06/25;;;;;30;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-04/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/07/25;;;;;60;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-05/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/08/25;;;;;91;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-06/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/09/25;;;;;123;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-07/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/10/25;;;;;152;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-08/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/11/25;;;;;183;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-10/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/01/26;;;;;244;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-19/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/10/26;;;;;517;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-12/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/03/26;;;;;303;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-13/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/04/26;;;;;334;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-14/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/05/26;;;;;364;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-15/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/06/26;;;;;396;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-16/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/07/26;;;;;425;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-17/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/08/26;;;;;456;4.279,03;;;;;;4.279,03;;;;
+
+002;;parcela-18/36;;;;01342 banco sicoob empres 06032025;;;;;;;;;;;;;07/03/25;;07/09/26;;;;;487;4.279,03;;;;;;4.279,03;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;db.emprstimo;;;;;;;;;;;;;;;;;145.698,19;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;145.698,19;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;532,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;-532,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;145.698,19;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;145.698,19;;;;;total de crditos:;;;;;145.698,19;;;;;diferena:;;;;;0,00;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 19/30;;;;;;;;;;;;;;;
+;;;;;;;;
+;;;border de pagto/depsito/saque/transf./adiantamento;;;;;
+;;
+;;;mp estofados ltda;;;;;
+;;
+;;;ordem:;cdigo;;;;emisso: 16/05/2025 10:50:17
+
+;;;;;;;;
+
+08 de maio de 2025    _______________________________________;;;;;;;;
+
+;;;;;;;;
+;;;;;;;;
+usurio: ;alexsandra;;;;controle financeiro;pgina: 20/30;
+;;;;;;;;;;;;;;;;;;;;
+;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;
+;;
+;;;mp estofados ltda;;;;;;;;;;;;;;;;;
+;;
+;;;ordem:;cdigo;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;
+
+;;;;;;;;;;;;;;;;;;;;
+
+border:;;26222;;;data acerto:;;;;09/05/2025;;usurio:;;alexsandra;;;tipo: 6-saque ou transferncia;;;
+;;
+
+conta:;;13 - mp estofados brasil4731;;;;;;;;;;;;;;;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;descrio do complemento;;;;;;;;;valor;
+
+15 mp estofados bb aplicacao rendefacil;;;;;;;;;;saque ou transferncia em dinheiro;;;;;;;;;9.032,14;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;
+crditos;;;;;;;;
+0 cheque(s) prprio(s):;;;;;;0,00;;
+
+complementos:;;;;;;9.032,14;;
+
+total de crditos:;;;;;;9.032,14;;
+
+09 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+usurio: ;alexsandra;;;;;;controle financeiro;;;;;;;pgina: 21/30;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26223;;;;;data acerto:;;;;;09/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;tar 5084624;;;;00628 tarifa de cobrana;;;;;;;;;;;;;09/05/25;;09/05/25;;;;;0;9,00;;;;;;9,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;tarifa cobrana;;;;;;;;;;;;;;;;;9,00;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;9,00;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;9,00;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;9,00;;;;;total de crditos:;;;;;9,00;;;;;diferena:;;;;;0,00;;;;;;;;
+
+09 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 22/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26244;;;;;data acerto:;;;;;12/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;49668 - 1/1;;;;00202 localnet telecom ltda;;;;;;;;;;;;;06/05/25;;12/05/25;;;;;0;209,90;;;;;;209,90;;;;
+
+002;;22145 1-4;;;;00005 soldati ind.e com. de moveisltda epp;;;;;;;;;;;;;28/03/25;;10/05/25;;;;;-2;975,91;;;;;;975,91;;;;
+
+002;;128804 3-3;;;;00771 fitaflex industria e comercioltda;;;;;;;;;;;;;18/02/25;;12/05/25;;;;;0;1.700,00;;;;;;1.700,00;;;;
+
+002;;129990 1-3;;;;00771 fitaflex industria e comercioltda;;;;;;;;;;;;;30/04/25;;12/05/25;;;;;0;1.700,00;;;;;;1.700,00;;;;
+
+002;;3214 5-13;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;12/05/25;;;;;0;1.766,36;;;;;;1.766,36;;;;
+
+002;;22.146 1-5;;;;00005 soldati ind.e com. de moveisltda epp;;;;;;;;;;;;;28/03/25;;10/05/25;;;;;-2;1.912,67;;;;;;1.912,67;;;;
+
+002;;27628 4-5;;;;01234 eurotextil comercio eimportacao;;;;;;;;;;;;;29/01/25;;12/05/25;;;;;0;2.755,35;;;;;;2.755,35;;;;
+
+002;;carloseduardo;;;;00666 ferias funcionario;;;;;;;;;;;;;08/05/25;;12/05/25;;;;;0;2.833,65;;;;;;2.833,65;;;;
+
+002;;159.893 3-3;;;;00908 romplas industria e comercio delaminados plasticos ltda;;;;;;;;;;;;;24/03/25;;12/05/25;;;;;0;5.833,89;;;;;;5.833,89;;;;
+
+002;;21833 3-5;;;;00005 soldati ind.e com. de moveisltda epp;;;;;;;;;;;;;05/03/25;;11/05/25;;;;;0;7.555,37;;;;;;7.555,37;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;27.243,10;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;27.243,10;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;27.243,10;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;27.243,10;;;;;total de crditos:;;;;;27.243,10;;;;;diferena:;;;;;0,00;;;;;;;;
+
+12 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 23/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26256;;;;;data acerto:;;;;;12/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;tar 5094842;;;;00628 tarifa de cobrana;;;;;;;;;;;;;12/05/25;;12/05/25;;;;;0;1,00;;;;;;1,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;1,00;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;1,00;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;1,00;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;1,00;;;;;total de crditos:;;;;;1,00;;;;;diferena:;;;;;0,00;;;;;;;;
+
+12 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 24/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26259;;;;;data acerto:;;;;;13/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;5330 1-1;;;;00264 quilelli & sponfeldnet ltda;;;;;;;;;;;;;08/05/25;;13/05/25;;;;;0;67,70;;;;;;67,70;;;;
+
+002;;3525950 1-1;;;;01368 telefonica basil s.a;;;;;;;;;;;;;12/05/25;;13/05/25;;;;;0;93,70;;;;;;93,70;;;;
+
+002;;26642 5-5;;;;01234 eurotextil comercio eimportacao;;;;;;;;;;;;;15/01/25;;13/05/25;;;;;0;1.368,90;;;;;;1.368,90;;;;
+
+002;;7178 1-2;;;;00049 silo cesar de souza - me;;;;;;;;;;;;;07/04/25;;13/05/25;;;;;0;2.122,84;;;;;;2.122,84;;;;
+
+002;;feriasjhemerso;;;;00666 ferias funcionario;;;;;;;;;;;;;12/05/25;;13/05/25;;;;;0;2.141,25;;;;;;2.141,25;;;;
+
+002;;3195 2-8;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;11/02/25;;13/05/25;;;;;0;4.214,18;;;;;;4.214,18;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;10.008,57;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;10.008,57;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;10.008,57;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;10.008,57;;;;;total de crditos:;;;;;10.008,57;;;;;diferena:;;;;;0,00;;;;;;;;
+
+13 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 25/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26278;;;;;data acerto:;;;;;13/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;tar 5103675;;;;00628 tarifa de cobrana;;;;;;;;;;;;;13/05/25;;13/05/25;;;;;0;5,00;;;;;;5,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;tarifa cobrana;;;;;;;;;;;;;;;;;5,00;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;5,00;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;5,00;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;5,00;;;;;total de crditos:;;;;;5,00;;;;;diferena:;;;;;0,00;;;;;;;;
+
+13 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 26/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26279;;;;;data acerto:;;;;;14/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;ipva/lic 2025;;;;00534 detran/dua;;;;;;;;;;;;;09/05/25;;14/05/25;;;;;0;1.278,48;;;;;;1.278,48;;;;
+
+002;;3215 4-12;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;14/05/25;;;;;0;2.170,49;;;;;;2.170,49;;;;
+
+002;;30.756 1-5;;;;01234 eurotextil comercio eimportacao;;;;;;;;;;;;;24/03/25;;14/05/25;;;;;0;3.315,86;;;;;;3.315,86;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;6.764,83;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;6.764,83;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;6.764,83;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;6.764,83;;;;;total de crditos:;;;;;6.764,83;;;;;diferena:;;;;;0,00;;;;;;;;
+
+14 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 27/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26297;;;;;data acerto:;;;;;15/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;sind abr 2025;;;;00288 sindimol - sind das ind da maddo mobil;;;;;;;;;;;;;06/05/25;;15/05/25;;;;;0;492,18;;;;;;492,18;;;;
+
+002;;579812 1-3;;;;01362 passalaqua & cia;;;;;;;;;;;;;24/04/25;;15/05/25;;;;;0;745,93;;;;;;745,93;;;;
+
+002;;3216 5-12;;;;00002 r m b m moveis eireli;;;;;;;;;;;;;24/02/25;;15/05/25;;;;;0;1.792,32;;;;;;1.792,32;;;;
+
+002;;22012 2-5;;;;00005 soldati ind.e com. de moveisltda epp;;;;;;;;;;;;;19/03/25;;15/05/25;;;;;0;4.750,86;;;;;;4.750,86;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;7.781,29;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;7.781,29;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;7.781,29;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;7.781,29;;;;;total de crditos:;;;;;7.781,29;;;;;diferena:;;;;;0,00;;;;;;;;
+
+15 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 28/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;cdigo;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26328;;;;;data acerto:;;;;;14/05/2025;;usurio:;;;alexsandra;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;emisso;;vencto;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;tar 206;;;;00879 taxas e tarifas bancarias;;;;;;;;;;;;;14/05/25;;14/05/25;;;;;0;1,10;;;;;;1,10;;;;
+
+002;;tar 5117554;;;;00628 tarifa de cobrana;;;;;;;;;;;;;14/05/25;;14/05/25;;;;;0;6,00;;;;;;6,00;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;7,10;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;crditos;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;7,10;;;;;dupl. crditos....:;;;;;0,00;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;0,00;;;;;cheques prprios..:;;;;;0,00;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;0,00;;;;;cheques terceiros.:;;;;;0,00;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;0,00;;;;;complementos......:;;;;;7,10;;;;
+;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;
+outros dbitos....:;;;;;;0,00;;;;;;;;;;0,00;;;;
+;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;0,00;;;;
+;;;;;;;;;;;outros crditos...:;;;;;0,00;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;7,10;;;;;total de crditos:;;;;;7,10;;;;;diferena:;;;;;0,00;;;;;;;;
+
+14 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;controle financeiro;;;;;;;;;;;pgina: 29/30;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;border de pagto/depsito/saque/transf./adiantamento;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;mp estofados ltda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;;ordem:;;;;cdigo;;;;;;;;;;;;;;;;;;;;;;;emisso: 16/05/2025 10:50:17;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+border:;;;;26330;;;;;;data acerto:;;;;;16/05/2025;;usurio:;;;;alexsandra;;;;;;;tipo: 2-acerto em conta;;;;;;;;;;;;
+;;;;;
+
+conta:;;;;2 - mp estofados sicoob 646415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+d u p l i c a t a s     a     p a g a r;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+emp.;;documento;;;;fornecedor;;;;;;;;;;;;;;;emisso;;vencto;;;;;;;dias;vlr nominal;;;;;;vlr baixado;;;;
+
+002;;84676 1-1;;;;00088 iguacu log transportes ltda -me;;;;;;;;;;;;;;;15/05/25;;16/05/25;;;;;;;0;111,60;;;;;;111,60;;;;
+
+002;;84905 1-1;;;;00088 iguacu log transportes ltda -me;;;;;;;;;;;;;;;06/05/25;;16/05/25;;;;;;;0;299,30;;;;;;299,30;;;;
+
+002;;abr/2025;;;;01060 josimar genuario de campos;;;;;;;;;;;;;;;06/05/25;;16/05/25;;;;;;;0;489,50;;;;;;489,50;;;;
+
+002;;7110 2-2*1;;;;00049 silo cesar de souza - me;;;;;;;;;;;;;;;20/02/25;;16/05/25;;;;;;;0;1.036,33;;;;;;1.036,33;;;;
+
+002;;294 1-3;;;;01245 wf mantas ind e comercio ltda;;;;;;;;;;;;;;;17/04/25;;16/05/25;;;;;;;0;1.830,40;;;;;;1.830,40;;;;
+
+002;;acordo 1/2;;;;00005 soldati ind.e com. de moveisltda epp;;;;;;;;;;;;;;;21/03/25;;16/05/25;;;;;;;0;10.102,40;;;;;;10.102,40;;;;
+
+c o m p l e m e n t o s;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+descrio da conta;;;;;;;;;;;;;;;;descrio do complemento;;;;;;;;;;;;;;;;;;;;valor;;;;;
+
+2 mp estofados sicoob 646415;;;;;;;;;;;;;;;;retirada para pagamentos;;;;;;;;;;;;;;;;;;;;13.869,53;;;;;
+
+t o t a l i z a   o;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    duplicatas a pagar: 6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dbitos;;;;;;;;;;;;crditos;;;;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;;
+
+duplicatas baixad.:;;;;;;;13.869,53;;;;;dupl. crditos....:;;;;;;0,00;;;;;;;prazo mdio crditos:;;;;;;;;;;;0,00;;
+prorrogaes......:;;;;;;;0,00;;;;;cheques prprios..:;;;;;;0,00;;;;;;;prazo mdio dbitos.:;;;;;;;;;;;0,00;;
+cheques devolvidos:;;;;;;;0,00;;;;;cheques terceiros.:;;;;;;0,00;;;;;;;diferena...........:;;;;;;;;;;;0,00;;
+juros (0% ao ms):;;;;;;;0,00;;;;;complementos......:;;;;;;13.869,53;;;;;;
+;;;;;;;;;;;;dupl. de clientes.:;;;;;;;;;;;;
+outros dbitos....:;;;;;;;0,00;;;;;;;;;;;0,00;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;descontos.........:;;;;;;0,00;;;;;;
+;;;;;;;;;;;;outros crditos...:;;;;;;0,00;;;;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;;13.869,53;;;;;total de crditos:;;;;;;13.869,53;;;;;;;diferena:;;;;;0,00;;;;;;;;
+
+16 de maio de 2025    _______________________________________;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+total geral;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+dbitos;;;;;;;;;;;;crditos;;;;;;;;;;;;prazos mdios;;;;;;;;;;;;;;;;
+duplicatas baixad.:;;;;;;;339.338,01;;;;;dupl. crditos....:;;;;;;5.320,00;;;;;;prazo mdio crditos:;;;;;;;;;;;-1,00;;
+prorrogaes......:;;;;;;;0,00;;;;;cheques prprios..:;;;;;;0,00;;;;;;prazo mdio dbitos.:;;;;;;;;;;;644,00;;
+cheques devolvidos:;;;;;;;0,00;;;;;cheques terceiros.:;;;;;;0,00;;;;;;diferena...........:;;;;;;;;;;;-645,00;;
+juros calculados..:;;;;;;;59,53;;;;;complementos......:;;;;;;408.623,68;;;;;
+outros dbitos....:;;;;;;;0,00;;;;;dupl. de clientes.:;;;;;;0,00;;;;;
+descontos.........:;;;;;;6,00;;;;;
+;;;;;;;;;;;;outros crditos...:;;;;;;0,00;;;;;;;;;;;;;;;;;;;;;
+
+total de dbitos:;;;;;;339.397,54;;;;;;total de crditos:;;;;;;413.949,68;;;;;;diferena:;;;;;;;;;-74.552,14;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+usurio: ;;;alexsandra;;;;;;;;controle financeiro;;;;;;;;;;;;pgina: 30/30;;;;;;;;;;;;;;;;;

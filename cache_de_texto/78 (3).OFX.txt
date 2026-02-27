@@ -1,0 +1,3022 @@
+ofxheader:100
+data:ofxsgml
+version:102
+security:none
+encoding:usascii
+charset:1252
+compression:none
+oldfileuid:none
+newfileuid:none
+
+<ofx>
+  <signonmsgsrsv1>
+    <sonrs>
+      <status>
+        <code>0</code>
+        <severity>info</severity>
+      </status>
+      <dtserver>20200207081018[-3:brt]</dtserver>
+      <language>por</language>
+      <fi>
+        <org>banco cooperativo do brasil</org>
+        <fid>756</fid>
+      </fi>
+    </sonrs>
+  </signonmsgsrsv1>
+  <bankmsgsrsv1>
+    <stmttrnrs>
+      <trnuid>7ab73b9e-a142-4e7b-b5ea-5473efdd9fd4</trnuid>
+      <status>
+        <code>0</code>
+        <severity>info</severity>
+      </status>
+      <stmtrs>
+        <curdef>brl</curdef>
+        <bankacctfrom>
+          <bankid>756</bankid>
+          <branchid>3007</branchid>
+          <acctid>207691</acctid>
+          <accttype>checking</accttype>
+        </bankacctfrom>
+        <banktranlist>
+          <dtstart>20200101000000[-3:brt]</dtstart>
+          <dtend>20200101000000[-3:brt]</dtend>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>-2811.49</trnamt>
+            <fitid>2020010228114901</fitid>
+            <checknum>023.016</checknum>
+            <refnum>023.016</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>566.50</trnamt>
+            <fitid>202001025665001</fitid>
+            <checknum>188</checknum>
+            <refnum>188</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>554.73</trnamt>
+            <fitid>202001025547301</fitid>
+            <checknum>188</checknum>
+            <refnum>188</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>1457.82</trnamt>
+            <fitid>2020010214578201</fitid>
+            <checknum>189</checknum>
+            <refnum>189</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>2539.21</trnamt>
+            <fitid>2020010225392101</fitid>
+            <checknum>189</checknum>
+            <refnum>189</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>-8613.02</trnamt>
+            <fitid>2020010286130201</fitid>
+            <checknum>023.019</checknum>
+            <refnum>023.019</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>345.00</trnamt>
+            <fitid>202001023450001</fitid>
+            <checknum>193</checknum>
+            <refnum>193</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>588.20</trnamt>
+            <fitid>202001025882001</fitid>
+            <checknum>2</checknum>
+            <refnum>2</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>1580.35</trnamt>
+            <fitid>2020010215803501</fitid>
+            <checknum>3</checknum>
+            <refnum>3</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>19428.98</trnamt>
+            <fitid>20200102194289801</fitid>
+            <checknum>198</checknum>
+            <refnum>198</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>1090.00</trnamt>
+            <fitid>2020010210900001</fitid>
+            <checknum>39</checknum>
+            <refnum>39</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>4055.28</trnamt>
+            <fitid>2020010240552801</fitid>
+            <checknum>40</checknum>
+            <refnum>40</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>1852.34</trnamt>
+            <fitid>2020010218523401</fitid>
+            <checknum>340</checknum>
+            <refnum>340</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>18286.21</trnamt>
+            <fitid>20200102182862101</fitid>
+            <checknum>342</checknum>
+            <refnum>342</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>1680.00</trnamt>
+            <fitid>2020010216800001</fitid>
+            <checknum>0000016576</checknum>
+            <refnum>0000016576</refnum>
+            <memo>crd.liquidao cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>-2.25</trnamt>
+            <fitid>2020010222501</fitid>
+            <checknum>0000016576</checknum>
+            <refnum>0000016576</refnum>
+            <memo>tarifa cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>-0.03</trnamt>
+            <fitid>2020010200301</fitid>
+            <checknum>iof/2-1</checknum>
+            <refnum>iof/2-1</refnum>
+            <memo>db.iof</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200102000000[-3:brt]</dtposted>
+            <trnamt>-3.17</trnamt>
+            <fitid>2020010231701</fitid>
+            <checknum>iof/2-1</checknum>
+            <refnum>iof/2-1</refnum>
+            <memo>db.iof</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>3374.60</trnamt>
+            <fitid>2020010333746001</fitid>
+            <checknum>112</checknum>
+            <refnum>112</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>6726.08</trnamt>
+            <fitid>2020010367260801</fitid>
+            <checknum>113</checknum>
+            <refnum>113</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>-554.73</trnamt>
+            <fitid>202001035547301</fitid>
+            <checknum>000343</checknum>
+            <refnum>000343</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>-175.00</trnamt>
+            <fitid>202001031750001</fitid>
+            <checknum>000200</checknum>
+            <refnum>000200</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>-399.00</trnamt>
+            <fitid>202001033990001</fitid>
+            <checknum>700010</checknum>
+            <refnum>700010</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>-349.94</trnamt>
+            <fitid>202001033499401</fitid>
+            <checknum>000992</checknum>
+            <refnum>000992</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>-1036.73</trnamt>
+            <fitid>2020010310367301</fitid>
+            <checknum>000218</checknum>
+            <refnum>000218</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>-980.32</trnamt>
+            <fitid>202001039803201</fitid>
+            <checknum>700006</checknum>
+            <refnum>700006</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>-820.00</trnamt>
+            <fitid>202001038200001</fitid>
+            <checknum>700012</checknum>
+            <refnum>700012</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>4315.72</trnamt>
+            <fitid>2020010343157201</fitid>
+            <checknum>198</checknum>
+            <refnum>198</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>1790.27</trnamt>
+            <fitid>2020010317902701</fitid>
+            <checknum>189</checknum>
+            <refnum>189</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>345.00</trnamt>
+            <fitid>202001033450001</fitid>
+            <checknum>193</checknum>
+            <refnum>193</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>16416.93</trnamt>
+            <fitid>20200103164169301</fitid>
+            <checknum>198</checknum>
+            <refnum>198</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200103000000[-3:brt]</dtposted>
+            <trnamt>-2500.00</trnamt>
+            <fitid>2020010325000001</fitid>
+            <checknum>023.017</checknum>
+            <refnum>023.017</refnum>
+            <memo>cheque compe integrada</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>-15171.39</trnamt>
+            <fitid>20200106151713901</fitid>
+            <checknum>023.021</checknum>
+            <refnum>023.021</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>-20365.33</trnamt>
+            <fitid>20200106203653301</fitid>
+            <checknum>023.025</checknum>
+            <refnum>023.025</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>23458.80</trnamt>
+            <fitid>20200106234588001</fitid>
+            <checknum>359</checknum>
+            <refnum>359</refnum>
+            <memo>dep.cheque liberado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>-19850.00</trnamt>
+            <fitid>20200106198500001</fitid>
+            <checknum>023.027</checknum>
+            <refnum>023.027</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>750.00</trnamt>
+            <fitid>202001067500001</fitid>
+            <checknum>4</checknum>
+            <refnum>4</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>1600.00</trnamt>
+            <fitid>2020010616000001</fitid>
+            <checknum>5</checknum>
+            <refnum>5</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>2400.00</trnamt>
+            <fitid>2020010624000001</fitid>
+            <checknum>6</checknum>
+            <refnum>6</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>1950.65</trnamt>
+            <fitid>2020010619506501</fitid>
+            <checknum>367</checknum>
+            <refnum>367</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>1211.73</trnamt>
+            <fitid>2020010612117301</fitid>
+            <checknum>370</checknum>
+            <refnum>370</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>24825.94</trnamt>
+            <fitid>20200106248259401</fitid>
+            <checknum>371</checknum>
+            <refnum>371</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>383.50</trnamt>
+            <fitid>202001063835001</fitid>
+            <checknum>371</checknum>
+            <refnum>371</refnum>
+            <memo>dep.cheque bloq.2d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>-638.79</trnamt>
+            <fitid>202001066387901</fitid>
+            <checknum>023.020</checknum>
+            <refnum>023.020</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>-1267.00</trnamt>
+            <fitid>2020010612670001</fitid>
+            <checknum>023.026</checknum>
+            <refnum>023.026</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>-9215.28</trnamt>
+            <fitid>2020010692152801</fitid>
+            <checknum>023.024</checknum>
+            <refnum>023.024</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>-3982.78</trnamt>
+            <fitid>2020010639827801</fitid>
+            <checknum>023.023</checknum>
+            <refnum>023.023</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>-142.50</trnamt>
+            <fitid>202001061425001</fitid>
+            <checknum>000238</checknum>
+            <refnum>000238</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>142.50</trnamt>
+            <fitid>202001061425002</fitid>
+            <checknum>113</checknum>
+            <refnum>113</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>3374.60</trnamt>
+            <fitid>2020010633746001</fitid>
+            <checknum>112</checknum>
+            <refnum>112</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200106000000[-3:brt]</dtposted>
+            <trnamt>6583.58</trnamt>
+            <fitid>2020010665835801</fitid>
+            <checknum>113</checknum>
+            <refnum>113</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-426.00</trnamt>
+            <fitid>202001074260001</fitid>
+            <checknum>023.029</checknum>
+            <refnum>023.029</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>2590.24</trnamt>
+            <fitid>2020010725902401</fitid>
+            <checknum>199</checknum>
+            <refnum>199</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>8687.21</trnamt>
+            <fitid>2020010786872101</fitid>
+            <checknum>200</checknum>
+            <refnum>200</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>142.50</trnamt>
+            <fitid>202001071425001</fitid>
+            <checknum>201</checknum>
+            <refnum>201</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>63.67</trnamt>
+            <fitid>20200107636701</fitid>
+            <checknum>206</checknum>
+            <refnum>206</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>1240.00</trnamt>
+            <fitid>2020010712400001</fitid>
+            <checknum>206</checknum>
+            <refnum>206</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-16278.09</trnamt>
+            <fitid>20200107162780901</fitid>
+            <checknum>023.030</checknum>
+            <refnum>023.030</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-409.64</trnamt>
+            <fitid>202001074096401</fitid>
+            <checknum>023.028</checknum>
+            <refnum>023.028</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-98.75</trnamt>
+            <fitid>20200107987501</fitid>
+            <checknum>000025</checknum>
+            <refnum>000025</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-303.75</trnamt>
+            <fitid>202001073037501</fitid>
+            <checknum>000004</checknum>
+            <refnum>000004</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-250.00</trnamt>
+            <fitid>202001072500001</fitid>
+            <checknum>000455</checknum>
+            <refnum>000455</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-146.80</trnamt>
+            <fitid>202001071468001</fitid>
+            <checknum>700043</checknum>
+            <refnum>700043</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-781.90</trnamt>
+            <fitid>202001077819001</fitid>
+            <checknum>000106</checknum>
+            <refnum>000106</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>-275.20</trnamt>
+            <fitid>202001072752001</fitid>
+            <checknum>000076</checknum>
+            <refnum>000076</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>1610.85</trnamt>
+            <fitid>2020010716108501</fitid>
+            <checknum>371</checknum>
+            <refnum>371</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>1168.75</trnamt>
+            <fitid>2020010711687501</fitid>
+            <checknum>367</checknum>
+            <refnum>367</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>1211.73</trnamt>
+            <fitid>2020010712117301</fitid>
+            <checknum>370</checknum>
+            <refnum>370</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200107000000[-3:brt]</dtposted>
+            <trnamt>23996.99</trnamt>
+            <fitid>20200107239969901</fitid>
+            <checknum>371</checknum>
+            <refnum>371</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>1856.40</trnamt>
+            <fitid>2020010818564001</fitid>
+            <checknum>194</checknum>
+            <refnum>194</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>1800.32</trnamt>
+            <fitid>2020010818003201</fitid>
+            <checknum>195</checknum>
+            <refnum>195</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>15939.85</trnamt>
+            <fitid>20200108159398501</fitid>
+            <checknum>196</checknum>
+            <refnum>196</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>-9016.25</trnamt>
+            <fitid>2020010890162501</fitid>
+            <checknum>023.032</checknum>
+            <refnum>023.032</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>-3840.25</trnamt>
+            <fitid>2020010838402501</fitid>
+            <checknum>023.022</checknum>
+            <refnum>023.022</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>-1602.00</trnamt>
+            <fitid>2020010816020001</fitid>
+            <checknum>023.012</checknum>
+            <refnum>023.012</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>-1602.00</trnamt>
+            <fitid>2020010816020002</fitid>
+            <checknum>023.013</checknum>
+            <refnum>023.013</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>-142.50</trnamt>
+            <fitid>202001081425001</fitid>
+            <checknum>000238</checknum>
+            <refnum>000238</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>-378.00</trnamt>
+            <fitid>202001083780001</fitid>
+            <checknum>000102</checknum>
+            <refnum>000102</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>520.50</trnamt>
+            <fitid>202001085205001</fitid>
+            <checknum>201</checknum>
+            <refnum>201</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>383.50</trnamt>
+            <fitid>202001083835001</fitid>
+            <checknum>371</checknum>
+            <refnum>371</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>2590.24</trnamt>
+            <fitid>2020010825902401</fitid>
+            <checknum>199</checknum>
+            <refnum>199</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>8309.21</trnamt>
+            <fitid>2020010883092101</fitid>
+            <checknum>200</checknum>
+            <refnum>200</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>1240.00</trnamt>
+            <fitid>2020010812400001</fitid>
+            <checknum>206</checknum>
+            <refnum>206</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200108000000[-3:brt]</dtposted>
+            <trnamt>-998.00</trnamt>
+            <fitid>202001089980001</fitid>
+            <checknum>023.009</checknum>
+            <refnum>023.009</refnum>
+            <memo>cheque compe integrada</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>142.50</trnamt>
+            <fitid>202001091425001</fitid>
+            <checknum>72</checknum>
+            <refnum>72</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>378.00</trnamt>
+            <fitid>202001093780001</fitid>
+            <checknum>72</checknum>
+            <refnum>72</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>4313.20</trnamt>
+            <fitid>2020010943132001</fitid>
+            <checknum>73</checknum>
+            <refnum>73</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>-303.75</trnamt>
+            <fitid>202001093037501</fitid>
+            <checknum>000004</checknum>
+            <refnum>000004</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>-146.80</trnamt>
+            <fitid>202001091468001</fitid>
+            <checknum>700043</checknum>
+            <refnum>700043</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>-980.32</trnamt>
+            <fitid>202001099803201</fitid>
+            <checknum>700006</checknum>
+            <refnum>700006</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>-820.00</trnamt>
+            <fitid>202001098200001</fitid>
+            <checknum>700012</checknum>
+            <refnum>700012</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>-275.20</trnamt>
+            <fitid>202001092752001</fitid>
+            <checknum>000076</checknum>
+            <refnum>000076</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>2526.07</trnamt>
+            <fitid>2020010925260701</fitid>
+            <checknum>195</checknum>
+            <refnum>195</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>1130.65</trnamt>
+            <fitid>2020010911306501</fitid>
+            <checknum>194</checknum>
+            <refnum>194</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200109000000[-3:brt]</dtposted>
+            <trnamt>15939.85</trnamt>
+            <fitid>20200109159398501</fitid>
+            <checknum>196</checknum>
+            <refnum>196</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>-36360.74</trnamt>
+            <fitid>20200110363607401</fitid>
+            <checknum>023.033</checknum>
+            <refnum>023.033</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>14812.70</trnamt>
+            <fitid>20200110148127001</fitid>
+            <checknum>122</checknum>
+            <refnum>122</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>42989.57</trnamt>
+            <fitid>20200110429895701</fitid>
+            <checknum>124</checknum>
+            <refnum>124</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>5309.10</trnamt>
+            <fitid>2020011053091001</fitid>
+            <checknum>208</checknum>
+            <refnum>208</refnum>
+            <memo>dep.cheque liberado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>-332.50</trnamt>
+            <fitid>202001103325001</fitid>
+            <checknum>000123</checknum>
+            <refnum>000123</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>-378.00</trnamt>
+            <fitid>202001103780001</fitid>
+            <checknum>000102</checknum>
+            <refnum>000102</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>-1019.40</trnamt>
+            <fitid>2020011010194001</fitid>
+            <checknum>901606</checknum>
+            <refnum>901606</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>-494.70</trnamt>
+            <fitid>202001104947001</fitid>
+            <checknum>000305</checknum>
+            <refnum>000305</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>2224.60</trnamt>
+            <fitid>2020011022246001</fitid>
+            <checknum>73</checknum>
+            <refnum>73</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200110000000[-3:brt]</dtposted>
+            <trnamt>2466.60</trnamt>
+            <fitid>2020011024666001</fitid>
+            <checknum>73</checknum>
+            <refnum>73</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-4998.31</trnamt>
+            <fitid>2020011349983101</fitid>
+            <checknum>023.018</checknum>
+            <refnum>023.018</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-19922.12</trnamt>
+            <fitid>20200113199221201</fitid>
+            <checknum>023.036</checknum>
+            <refnum>023.036</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>268.75</trnamt>
+            <fitid>202001132687501</fitid>
+            <checknum>238</checknum>
+            <refnum>238</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>2681.60</trnamt>
+            <fitid>2020011326816001</fitid>
+            <checknum>238</checknum>
+            <refnum>238</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>28627.66</trnamt>
+            <fitid>20200113286276601</fitid>
+            <checknum>240</checknum>
+            <refnum>240</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-9895.70</trnamt>
+            <fitid>2020011398957001</fitid>
+            <checknum>023.034</checknum>
+            <refnum>023.034</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-398.00</trnamt>
+            <fitid>202001133980001</fitid>
+            <checknum>000077</checknum>
+            <refnum>000077</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-658.00</trnamt>
+            <fitid>202001136580001</fitid>
+            <checknum>700052</checknum>
+            <refnum>700052</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-3750.00</trnamt>
+            <fitid>2020011337500001</fitid>
+            <checknum>000248</checknum>
+            <refnum>000248</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-611.60</trnamt>
+            <fitid>202001136116001</fitid>
+            <checknum>001092</checknum>
+            <refnum>001092</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-547.10</trnamt>
+            <fitid>202001135471001</fitid>
+            <checknum>850007</checknum>
+            <refnum>850007</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-1311.00</trnamt>
+            <fitid>2020011313110001</fitid>
+            <checknum>000707</checknum>
+            <refnum>000707</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>7275.70</trnamt>
+            <fitid>2020011372757001</fitid>
+            <checknum>124</checknum>
+            <refnum>124</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>14812.70</trnamt>
+            <fitid>20200113148127001</fitid>
+            <checknum>122</checknum>
+            <refnum>122</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>35713.87</trnamt>
+            <fitid>20200113357138701</fitid>
+            <checknum>124</checknum>
+            <refnum>124</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>4747.99</trnamt>
+            <fitid>2020011347479901</fitid>
+            <checknum>0000016250</checknum>
+            <refnum>0000016250</refnum>
+            <memo>crd.liquidao cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200113000000[-3:brt]</dtposted>
+            <trnamt>-9.00</trnamt>
+            <fitid>2020011390001</fitid>
+            <checknum>0000016250</checknum>
+            <refnum>0000016250</refnum>
+            <memo>tarifa cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>-23690.07</trnamt>
+            <fitid>20200114236900701</fitid>
+            <checknum>023.037</checknum>
+            <refnum>023.037</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>6006.10</trnamt>
+            <fitid>2020011460061001</fitid>
+            <checknum>107</checknum>
+            <refnum>107</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>8160.07</trnamt>
+            <fitid>2020011481600701</fitid>
+            <checknum>108</checknum>
+            <refnum>108</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>-3495.26</trnamt>
+            <fitid>2020011434952601</fitid>
+            <checknum>023.031</checknum>
+            <refnum>023.031</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>-3368.85</trnamt>
+            <fitid>2020011433688501</fitid>
+            <checknum>023.035</checknum>
+            <refnum>023.035</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>-1019.40</trnamt>
+            <fitid>2020011410194001</fitid>
+            <checknum>901606</checknum>
+            <refnum>901606</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>-348.75</trnamt>
+            <fitid>202001143487501</fitid>
+            <checknum>850074</checknum>
+            <refnum>850074</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>-500.00</trnamt>
+            <fitid>202001145000001</fitid>
+            <checknum>850084</checknum>
+            <refnum>850084</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>-332.50</trnamt>
+            <fitid>202001143325001</fitid>
+            <checknum>000123</checknum>
+            <refnum>000123</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>2200.65</trnamt>
+            <fitid>2020011422006501</fitid>
+            <checknum>240</checknum>
+            <refnum>240</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>1329.70</trnamt>
+            <fitid>2020011413297001</fitid>
+            <checknum>238</checknum>
+            <refnum>238</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200114000000[-3:brt]</dtposted>
+            <trnamt>27778.91</trnamt>
+            <fitid>20200114277789101</fitid>
+            <checknum>240</checknum>
+            <refnum>240</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-7121.98</trnamt>
+            <fitid>2020011571219801</fitid>
+            <checknum>023.040</checknum>
+            <refnum>023.040</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-7000.00</trnamt>
+            <fitid>2020011570000001</fitid>
+            <checknum>023.041</checknum>
+            <refnum>023.041</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>800.00</trnamt>
+            <fitid>202001158000001</fitid>
+            <checknum>7</checknum>
+            <refnum>7</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>563.63</trnamt>
+            <fitid>202001155636301</fitid>
+            <checknum>8</checknum>
+            <refnum>8</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>2222.52</trnamt>
+            <fitid>2020011522225201</fitid>
+            <checknum>193</checknum>
+            <refnum>193</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>500.00</trnamt>
+            <fitid>202001155000001</fitid>
+            <checknum>194</checknum>
+            <refnum>194</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>8504.75</trnamt>
+            <fitid>2020011585047501</fitid>
+            <checknum>196</checknum>
+            <refnum>196</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>44729.56</trnamt>
+            <fitid>20200115447295601</fitid>
+            <checknum>197</checknum>
+            <refnum>197</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-1187.93</trnamt>
+            <fitid>2020011511879301</fitid>
+            <checknum>023.038</checknum>
+            <refnum>023.038</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-58.28</trnamt>
+            <fitid>20200115582801</fitid>
+            <checknum>023.039</checknum>
+            <refnum>023.039</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-50.00</trnamt>
+            <fitid>20200115500001</fitid>
+            <checknum>64064</checknum>
+            <refnum>64064</refnum>
+            <memo>deb.parcelas subsc./integr.</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-398.00</trnamt>
+            <fitid>202001153980001</fitid>
+            <checknum>000077</checknum>
+            <refnum>000077</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-547.10</trnamt>
+            <fitid>202001155471001</fitid>
+            <checknum>850007</checknum>
+            <refnum>850007</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-1311.00</trnamt>
+            <fitid>2020011513110001</fitid>
+            <checknum>000707</checknum>
+            <refnum>000707</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>2256.10</trnamt>
+            <fitid>2020011522561001</fitid>
+            <checknum>107</checknum>
+            <refnum>107</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>3750.00</trnamt>
+            <fitid>2020011537500001</fitid>
+            <checknum>107</checknum>
+            <refnum>107</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>8160.07</trnamt>
+            <fitid>2020011581600701</fitid>
+            <checknum>108</checknum>
+            <refnum>108</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>8914.80</trnamt>
+            <fitid>2020011589148001</fitid>
+            <checknum>0000016551</checknum>
+            <refnum>0000016551</refnum>
+            <memo>crd.liquidao cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200115000000[-3:brt]</dtposted>
+            <trnamt>-2.25</trnamt>
+            <fitid>2020011522501</fitid>
+            <checknum>0000016551</checknum>
+            <refnum>0000016551</refnum>
+            <memo>tarifa cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-3000.00</trnamt>
+            <fitid>2020011630000001</fitid>
+            <checknum>023.043</checknum>
+            <refnum>023.043</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-3594.97</trnamt>
+            <fitid>2020011635949701</fitid>
+            <checknum>023.042</checknum>
+            <refnum>023.042</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>8371.29</trnamt>
+            <fitid>2020011683712901</fitid>
+            <checknum>146</checknum>
+            <refnum>146</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-7890.29</trnamt>
+            <fitid>2020011678902901</fitid>
+            <checknum>023.044</checknum>
+            <refnum>023.044</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-5593.18</trnamt>
+            <fitid>2020011655931801</fitid>
+            <checknum>023.045</checknum>
+            <refnum>023.045</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-368.60</trnamt>
+            <fitid>202001163686001</fitid>
+            <checknum>000041</checknum>
+            <refnum>000041</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-500.00</trnamt>
+            <fitid>202001165000001</fitid>
+            <checknum>850084</checknum>
+            <refnum>850084</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-637.25</trnamt>
+            <fitid>202001166372501</fitid>
+            <checknum>000636</checknum>
+            <refnum>000636</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-349.94</trnamt>
+            <fitid>202001163499401</fitid>
+            <checknum>000993</checknum>
+            <refnum>000993</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-775.10</trnamt>
+            <fitid>202001167751001</fitid>
+            <checknum>000323</checknum>
+            <refnum>000323</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-1255.30</trnamt>
+            <fitid>2020011612553001</fitid>
+            <checknum>000425</checknum>
+            <refnum>000425</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-500.00</trnamt>
+            <fitid>202001165000002</fitid>
+            <checknum>000266</checknum>
+            <refnum>000266</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-1380.93</trnamt>
+            <fitid>2020011613809301</fitid>
+            <checknum>002413</checknum>
+            <refnum>002413</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>-2800.00</trnamt>
+            <fitid>2020011628000001</fitid>
+            <checknum>000141</checknum>
+            <refnum>000141</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>8567.12</trnamt>
+            <fitid>2020011685671201</fitid>
+            <checknum>197</checknum>
+            <refnum>197</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>2222.52</trnamt>
+            <fitid>2020011622225201</fitid>
+            <checknum>193</checknum>
+            <refnum>193</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>5704.75</trnamt>
+            <fitid>2020011657047501</fitid>
+            <checknum>196</checknum>
+            <refnum>196</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200116000000[-3:brt]</dtposted>
+            <trnamt>39462.44</trnamt>
+            <fitid>20200116394624401</fitid>
+            <checknum>197</checknum>
+            <refnum>197</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200117000000[-3:brt]</dtposted>
+            <trnamt>-8132.98</trnamt>
+            <fitid>2020011781329801</fitid>
+            <checknum>023.046</checknum>
+            <refnum>023.046</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200117000000[-3:brt]</dtposted>
+            <trnamt>2256.10</trnamt>
+            <fitid>2020011722561001</fitid>
+            <checknum>3</checknum>
+            <refnum>3</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200117000000[-3:brt]</dtposted>
+            <trnamt>1269.60</trnamt>
+            <fitid>2020011712696001</fitid>
+            <checknum>4</checknum>
+            <refnum>4</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200117000000[-3:brt]</dtposted>
+            <trnamt>3661.88</trnamt>
+            <fitid>2020011736618801</fitid>
+            <checknum>81</checknum>
+            <refnum>81</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200117000000[-3:brt]</dtposted>
+            <trnamt>7224.49</trnamt>
+            <fitid>2020011772244901</fitid>
+            <checknum>82</checknum>
+            <refnum>82</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200117000000[-3:brt]</dtposted>
+            <trnamt>906.00</trnamt>
+            <fitid>202001179060001</fitid>
+            <checknum>82</checknum>
+            <refnum>82</refnum>
+            <memo>dep.cheque bloq.2d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200117000000[-3:brt]</dtposted>
+            <trnamt>8371.29</trnamt>
+            <fitid>2020011783712901</fitid>
+            <checknum>146</checknum>
+            <refnum>146</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-4711.00</trnamt>
+            <fitid>2020012047110001</fitid>
+            <checknum>023.050</checknum>
+            <refnum>023.050</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-6582.96</trnamt>
+            <fitid>2020012065829601</fitid>
+            <checknum>023.051</checknum>
+            <refnum>023.051</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-3527.41</trnamt>
+            <fitid>2020012035274101</fitid>
+            <checknum>023.047</checknum>
+            <refnum>023.047</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>1260.72</trnamt>
+            <fitid>2020012012607201</fitid>
+            <checknum>356</checknum>
+            <refnum>356</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>539.60</trnamt>
+            <fitid>202001205396001</fitid>
+            <checknum>356</checknum>
+            <refnum>356</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-2369.15</trnamt>
+            <fitid>2020012023691501</fitid>
+            <checknum>023.048</checknum>
+            <refnum>023.048</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-131.65</trnamt>
+            <fitid>202001201316501</fitid>
+            <checknum>023.049</checknum>
+            <refnum>023.049</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-8061.86</trnamt>
+            <fitid>2020012080618601</fitid>
+            <checknum>023.053</checknum>
+            <refnum>023.053</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-8000.00</trnamt>
+            <fitid>2020012080000001</fitid>
+            <checknum>023.054</checknum>
+            <refnum>023.054</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-2350.00</trnamt>
+            <fitid>2020012023500001</fitid>
+            <checknum>023.055</checknum>
+            <refnum>023.055</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>40552.02</trnamt>
+            <fitid>20200120405520201</fitid>
+            <checknum>363</checknum>
+            <refnum>363</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>833.50</trnamt>
+            <fitid>202001208335001</fitid>
+            <checknum>363</checknum>
+            <refnum>363</refnum>
+            <memo>dep.cheque bloq.2d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-19785.09</trnamt>
+            <fitid>20200120197850901</fitid>
+            <checknum>023.052</checknum>
+            <refnum>023.052</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>22513.48</trnamt>
+            <fitid>20200120225134801</fitid>
+            <checknum>364</checknum>
+            <refnum>364</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>930.00</trnamt>
+            <fitid>202001209300001</fitid>
+            <checknum>364</checknum>
+            <refnum>364</refnum>
+            <memo>dep.cheque bloq.2d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>1710.70</trnamt>
+            <fitid>2020012017107001</fitid>
+            <checknum>365</checknum>
+            <refnum>365</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-500.00</trnamt>
+            <fitid>202001205000001</fitid>
+            <checknum>000266</checknum>
+            <refnum>000266</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-1380.93</trnamt>
+            <fitid>2020012013809301</fitid>
+            <checknum>002413</checknum>
+            <refnum>002413</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-637.25</trnamt>
+            <fitid>202001206372501</fitid>
+            <checknum>000636</checknum>
+            <refnum>000636</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-775.10</trnamt>
+            <fitid>202001207751001</fitid>
+            <checknum>000323</checknum>
+            <refnum>000323</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>3293.28</trnamt>
+            <fitid>2020012032932801</fitid>
+            <checknum>81</checknum>
+            <refnum>81</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>368.60</trnamt>
+            <fitid>202001203686001</fitid>
+            <checknum>81</checknum>
+            <refnum>81</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>7224.49</trnamt>
+            <fitid>2020012072244901</fitid>
+            <checknum>82</checknum>
+            <refnum>82</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>12302.00</trnamt>
+            <fitid>20200120123020001</fitid>
+            <checknum>0000016583</checknum>
+            <refnum>0000016583</refnum>
+            <memo>crd.liquidao cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200120000000[-3:brt]</dtposted>
+            <trnamt>-2.25</trnamt>
+            <fitid>2020012022501</fitid>
+            <checknum>0000016583</checknum>
+            <refnum>0000016583</refnum>
+            <memo>tarifa cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>-4470.85</trnamt>
+            <fitid>2020012144708501</fitid>
+            <checknum>023.056</checknum>
+            <refnum>023.056</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>7966.20</trnamt>
+            <fitid>2020012179662001</fitid>
+            <checknum>42</checknum>
+            <refnum>42</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>2105.24</trnamt>
+            <fitid>2020012121052401</fitid>
+            <checknum>43</checknum>
+            <refnum>43</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>2800.00</trnamt>
+            <fitid>2020012128000001</fitid>
+            <checknum>43</checknum>
+            <refnum>43</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>-449.35</trnamt>
+            <fitid>202001214493501</fitid>
+            <checknum>001231</checknum>
+            <refnum>001231</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>-146.30</trnamt>
+            <fitid>202001211463001</fitid>
+            <checknum>002019</checknum>
+            <refnum>002019</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>-500.00</trnamt>
+            <fitid>202001215000001</fitid>
+            <checknum>000662</checknum>
+            <refnum>000662</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>-620.00</trnamt>
+            <fitid>202001216200001</fitid>
+            <checknum>852680</checknum>
+            <refnum>852680</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>-232.00</trnamt>
+            <fitid>202001212320001</fitid>
+            <checknum>001016</checknum>
+            <refnum>001016</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>-468.90</trnamt>
+            <fitid>202001214689001</fitid>
+            <checknum>000118</checknum>
+            <refnum>000118</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>2416.55</trnamt>
+            <fitid>2020012124165501</fitid>
+            <checknum>365</checknum>
+            <refnum>365</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>906.00</trnamt>
+            <fitid>202001219060001</fitid>
+            <checknum>82</checknum>
+            <refnum>82</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>539.60</trnamt>
+            <fitid>202001215396001</fitid>
+            <checknum>356</checknum>
+            <refnum>356</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>39633.77</trnamt>
+            <fitid>20200121396337701</fitid>
+            <checknum>363</checknum>
+            <refnum>363</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>21635.18</trnamt>
+            <fitid>20200121216351801</fitid>
+            <checknum>364</checknum>
+            <refnum>364</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200121000000[-3:brt]</dtposted>
+            <trnamt>1090.70</trnamt>
+            <fitid>2020012110907001</fitid>
+            <checknum>365</checknum>
+            <refnum>365</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>-28671.24</trnamt>
+            <fitid>20200122286712401</fitid>
+            <checknum>023.057</checknum>
+            <refnum>023.057</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>-6650.83</trnamt>
+            <fitid>2020012266508301</fitid>
+            <checknum>023.058</checknum>
+            <refnum>023.058</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>2184.55</trnamt>
+            <fitid>2020012221845501</fitid>
+            <checknum>193</checknum>
+            <refnum>193</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>16574.76</trnamt>
+            <fitid>20200122165747601</fitid>
+            <checknum>195</checknum>
+            <refnum>195</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>-2800.00</trnamt>
+            <fitid>2020012228000001</fitid>
+            <checknum>002284</checknum>
+            <refnum>002284</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>-980.10</trnamt>
+            <fitid>202001229801001</fitid>
+            <checknum>001403</checknum>
+            <refnum>001403</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>3780.10</trnamt>
+            <fitid>2020012237801001</fitid>
+            <checknum>43</checknum>
+            <refnum>43</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>833.50</trnamt>
+            <fitid>202001228335001</fitid>
+            <checknum>363</checknum>
+            <refnum>363</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>930.00</trnamt>
+            <fitid>202001229300001</fitid>
+            <checknum>364</checknum>
+            <refnum>364</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200122000000[-3:brt]</dtposted>
+            <trnamt>6986.10</trnamt>
+            <fitid>2020012269861001</fitid>
+            <checknum>42</checknum>
+            <refnum>42</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>-3214.23</trnamt>
+            <fitid>2020012332142301</fitid>
+            <checknum>023.060</checknum>
+            <refnum>023.060</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>-3000.00</trnamt>
+            <fitid>2020012330000001</fitid>
+            <checknum>023.061</checknum>
+            <refnum>023.061</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>-20160.43</trnamt>
+            <fitid>20200123201604301</fitid>
+            <checknum>023.062</checknum>
+            <refnum>023.062</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>4949.71</trnamt>
+            <fitid>2020012349497101</fitid>
+            <checknum>164</checknum>
+            <refnum>164</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>980.10</trnamt>
+            <fitid>202001239801001</fitid>
+            <checknum>165</checknum>
+            <refnum>165</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>-1014.30</trnamt>
+            <fitid>2020012310143001</fitid>
+            <checknum>023.059</checknum>
+            <refnum>023.059</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>-292.00</trnamt>
+            <fitid>202001232920001</fitid>
+            <checknum>000060</checknum>
+            <refnum>000060</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>-771.20</trnamt>
+            <fitid>202001237712001</fitid>
+            <checknum>000046</checknum>
+            <refnum>000046</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>-468.90</trnamt>
+            <fitid>202001234689001</fitid>
+            <checknum>000118</checknum>
+            <refnum>000118</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>-2529.00</trnamt>
+            <fitid>2020012325290001</fitid>
+            <checknum>000039</checknum>
+            <refnum>000039</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>4061.10</trnamt>
+            <fitid>2020012340611001</fitid>
+            <checknum>195</checknum>
+            <refnum>195</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>1715.65</trnamt>
+            <fitid>2020012317156501</fitid>
+            <checknum>193</checknum>
+            <refnum>193</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200123000000[-3:brt]</dtposted>
+            <trnamt>12982.56</trnamt>
+            <fitid>20200123129825601</fitid>
+            <checknum>195</checknum>
+            <refnum>195</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>1015.00</trnamt>
+            <fitid>2020012410150001</fitid>
+            <checknum>4</checknum>
+            <refnum>4</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>685.65</trnamt>
+            <fitid>202001246856501</fitid>
+            <checknum>167</checknum>
+            <refnum>167</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>638.00</trnamt>
+            <fitid>202001246380001</fitid>
+            <checknum>5</checknum>
+            <refnum>5</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>1458.82</trnamt>
+            <fitid>2020012414588201</fitid>
+            <checknum>6</checknum>
+            <refnum>6</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>8651.20</trnamt>
+            <fitid>2020012486512001</fitid>
+            <checknum>172</checknum>
+            <refnum>172</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>1063.20</trnamt>
+            <fitid>2020012410632001</fitid>
+            <checknum>173</checknum>
+            <refnum>173</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>-3941.36</trnamt>
+            <fitid>2020012439413601</fitid>
+            <checknum>023.063</checknum>
+            <refnum>023.063</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>-980.10</trnamt>
+            <fitid>202001249801001</fitid>
+            <checknum>001403</checknum>
+            <refnum>001403</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>-615.00</trnamt>
+            <fitid>202001246150001</fitid>
+            <checknum>850070</checknum>
+            <refnum>850070</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>1595.10</trnamt>
+            <fitid>2020012415951001</fitid>
+            <checknum>165</checknum>
+            <refnum>165</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>4334.71</trnamt>
+            <fitid>2020012443347101</fitid>
+            <checknum>164</checknum>
+            <refnum>164</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>-100.00</trnamt>
+            <fitid>202001241000001</fitid>
+            <checknum>acerto chq</checknum>
+            <refnum>acerto chq</refnum>
+            <memo>outros dbitos</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>7393.80</trnamt>
+            <fitid>2020012473938001</fitid>
+            <checknum>0000016569</checknum>
+            <refnum>0000016569</refnum>
+            <memo>crd.liquidao cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200124000000[-3:brt]</dtposted>
+            <trnamt>-2.25</trnamt>
+            <fitid>2020012422501</fitid>
+            <checknum>0000016569</checknum>
+            <refnum>0000016569</refnum>
+            <memo>tarifa cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>260.06</trnamt>
+            <fitid>202001272600601</fitid>
+            <checknum>41</checknum>
+            <refnum>41</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>1335.04</trnamt>
+            <fitid>2020012713350401</fitid>
+            <checknum>41</checknum>
+            <refnum>41</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>389.85</trnamt>
+            <fitid>202001273898501</fitid>
+            <checknum>4</checknum>
+            <refnum>4</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>419.25</trnamt>
+            <fitid>202001274192501</fitid>
+            <checknum>5</checknum>
+            <refnum>5</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>2928.35</trnamt>
+            <fitid>2020012729283501</fitid>
+            <checknum>6</checknum>
+            <refnum>6</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>840.60</trnamt>
+            <fitid>202001278406001</fitid>
+            <checknum>49</checknum>
+            <refnum>49</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>48275.12</trnamt>
+            <fitid>20200127482751201</fitid>
+            <checknum>51</checknum>
+            <refnum>51</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>-1426.24</trnamt>
+            <fitid>2020012714262401</fitid>
+            <checknum>023.068</checknum>
+            <refnum>023.068</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>-3721.65</trnamt>
+            <fitid>2020012737216501</fitid>
+            <checknum>023.067</checknum>
+            <refnum>023.067</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>-3075.87</trnamt>
+            <fitid>2020012730758701</fitid>
+            <checknum>023.065</checknum>
+            <refnum>023.065</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>-2500.00</trnamt>
+            <fitid>2020012725000001</fitid>
+            <checknum>023.066</checknum>
+            <refnum>023.066</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>-292.00</trnamt>
+            <fitid>202001272920001</fitid>
+            <checknum>000060</checknum>
+            <refnum>000060</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>-771.20</trnamt>
+            <fitid>202001277712001</fitid>
+            <checknum>000046</checknum>
+            <refnum>000046</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>1063.20</trnamt>
+            <fitid>2020012710632001</fitid>
+            <checknum>173</checknum>
+            <refnum>173</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>8651.20</trnamt>
+            <fitid>2020012786512001</fitid>
+            <checknum>172</checknum>
+            <refnum>172</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>3643.95</trnamt>
+            <fitid>2020012736439501</fitid>
+            <checknum>0000016330</checknum>
+            <refnum>0000016330</refnum>
+            <memo>crd.liquidao cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200127000000[-3:brt]</dtposted>
+            <trnamt>-4.50</trnamt>
+            <fitid>2020012745001</fitid>
+            <checknum>0000016330</checknum>
+            <refnum>0000016330</refnum>
+            <memo>tarifa cobrana</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>232.00</trnamt>
+            <fitid>202001282320001</fitid>
+            <checknum>139</checknum>
+            <refnum>139</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>-2134.94</trnamt>
+            <fitid>2020012821349401</fitid>
+            <checknum>023.069</checknum>
+            <refnum>023.069</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>2928.35</trnamt>
+            <fitid>2020012829283501</fitid>
+            <checknum>7</checknum>
+            <refnum>7</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>2422.00</trnamt>
+            <fitid>2020012824220001</fitid>
+            <checknum>146</checknum>
+            <refnum>146</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>8311.32</trnamt>
+            <fitid>2020012883113201</fitid>
+            <checknum>147</checknum>
+            <refnum>147</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>468.90</trnamt>
+            <fitid>202001284689001</fitid>
+            <checknum>148</checknum>
+            <refnum>148</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>2629.00</trnamt>
+            <fitid>2020012826290001</fitid>
+            <checknum>148</checknum>
+            <refnum>148</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>-37000.00</trnamt>
+            <fitid>20200128370000001</fitid>
+            <checknum>023.070</checknum>
+            <refnum>023.070</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>-6000.00</trnamt>
+            <fitid>2020012860000001</fitid>
+            <checknum>023.072</checknum>
+            <refnum>023.072</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>-445.00</trnamt>
+            <fitid>202001284450001</fitid>
+            <checknum>850003</checknum>
+            <refnum>850003</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>-615.00</trnamt>
+            <fitid>202001286150001</fitid>
+            <checknum>850070</checknum>
+            <refnum>850070</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>-173.40</trnamt>
+            <fitid>202001281734001</fitid>
+            <checknum>000011</checknum>
+            <refnum>000011</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>-1661.60</trnamt>
+            <fitid>2020012816616001</fitid>
+            <checknum>000311</checknum>
+            <refnum>000311</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>-392.90</trnamt>
+            <fitid>202001283929001</fitid>
+            <checknum>000068</checknum>
+            <refnum>000068</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>3287.90</trnamt>
+            <fitid>2020012832879001</fitid>
+            <checknum>51</checknum>
+            <refnum>51</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>720.04</trnamt>
+            <fitid>202001287200401</fitid>
+            <checknum>41</checknum>
+            <refnum>41</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>840.60</trnamt>
+            <fitid>202001288406001</fitid>
+            <checknum>49</checknum>
+            <refnum>49</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200128000000[-3:brt]</dtposted>
+            <trnamt>45602.22</trnamt>
+            <fitid>20200128456022201</fitid>
+            <checknum>51</checknum>
+            <refnum>51</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>2928.35</trnamt>
+            <fitid>2020012929283501</fitid>
+            <checknum>1</checknum>
+            <refnum>1</refnum>
+            <memo>dep cheque coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>3346.02</trnamt>
+            <fitid>2020012933460201</fitid>
+            <checknum>17</checknum>
+            <refnum>17</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>1858.00</trnamt>
+            <fitid>2020012918580001</fitid>
+            <checknum>18</checknum>
+            <refnum>18</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>1435.28</trnamt>
+            <fitid>2020012914352801</fitid>
+            <checknum>18</checknum>
+            <refnum>18</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>-27795.90</trnamt>
+            <fitid>20200129277959001</fitid>
+            <checknum>023.073</checknum>
+            <refnum>023.073</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>-4000.00</trnamt>
+            <fitid>2020012940000001</fitid>
+            <checknum>023.075</checknum>
+            <refnum>023.075</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>-3345.01</trnamt>
+            <fitid>2020012933450101</fitid>
+            <checknum>023.074</checknum>
+            <refnum>023.074</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>2227.90</trnamt>
+            <fitid>2020012922279001</fitid>
+            <checknum>101</checknum>
+            <refnum>101</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>-2629.00</trnamt>
+            <fitid>2020012926290001</fitid>
+            <checknum>000039</checknum>
+            <refnum>000039</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>-349.94</trnamt>
+            <fitid>202001293499401</fitid>
+            <checknum>000994</checknum>
+            <refnum>000994</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>2978.94</trnamt>
+            <fitid>2020012929789401</fitid>
+            <checknum>148</checknum>
+            <refnum>148</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>2422.00</trnamt>
+            <fitid>2020012924220001</fitid>
+            <checknum>146</checknum>
+            <refnum>146</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200129000000[-3:brt]</dtposted>
+            <trnamt>7961.38</trnamt>
+            <fitid>2020012979613801</fitid>
+            <checknum>147</checknum>
+            <refnum>147</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>2800.00</trnamt>
+            <fitid>2020013028000001</fitid>
+            <checknum>23</checknum>
+            <refnum>23</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>-2849.50</trnamt>
+            <fitid>2020013028495001</fitid>
+            <checknum>023.077</checknum>
+            <refnum>023.077</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>-4749.17</trnamt>
+            <fitid>2020013047491701</fitid>
+            <checknum>023.076</checknum>
+            <refnum>023.076</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>26767.22</trnamt>
+            <fitid>20200130267672201</fitid>
+            <checknum>64</checknum>
+            <refnum>64</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>-37000.00</trnamt>
+            <fitid>20200130370000001</fitid>
+            <checknum>023.071</checknum>
+            <refnum>023.071</refnum>
+            <memo>chq coop/ag.dep.em conta</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>1063.20</trnamt>
+            <fitid>2020013010632001</fitid>
+            <checknum>14</checknum>
+            <refnum>14</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>1060.00</trnamt>
+            <fitid>2020013010600001</fitid>
+            <checknum>15</checknum>
+            <refnum>15</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>2978.94</trnamt>
+            <fitid>2020013029789401</fitid>
+            <checknum>16</checknum>
+            <refnum>16</refnum>
+            <memo>dep.dinheiro</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>-7120.29</trnamt>
+            <fitid>2020013071202901</fitid>
+            <checknum>023.078</checknum>
+            <refnum>023.078</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>-1435.28</trnamt>
+            <fitid>2020013014352801</fitid>
+            <checknum>003565</checknum>
+            <refnum>003565</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>1435.28</trnamt>
+            <fitid>2020013014352802</fitid>
+            <checknum>18</checknum>
+            <refnum>18</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>2227.90</trnamt>
+            <fitid>2020013022279001</fitid>
+            <checknum>101</checknum>
+            <refnum>101</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200130000000[-3:brt]</dtposted>
+            <trnamt>3346.02</trnamt>
+            <fitid>2020013033460201</fitid>
+            <checknum>17</checknum>
+            <refnum>17</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>1435.28</trnamt>
+            <fitid>2020013114352801</fitid>
+            <checknum>98</checknum>
+            <refnum>98</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>other</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>6510.47</trnamt>
+            <fitid>2020013165104701</fitid>
+            <checknum>99</checknum>
+            <refnum>99</refnum>
+            <memo>dep.cheque bloq.1d</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-3139.51</trnamt>
+            <fitid>2020013131395101</fitid>
+            <checknum>023.084</checknum>
+            <refnum>023.084</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-5651.42</trnamt>
+            <fitid>2020013156514201</fitid>
+            <checknum>023.085</checknum>
+            <refnum>023.085</refnum>
+            <memo>pgtos - cheque prpria coop/ag</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-7500.00</trnamt>
+            <fitid>2020013175000001</fitid>
+            <checknum>023.089</checknum>
+            <refnum>023.089</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-18720.87</trnamt>
+            <fitid>20200131187208701</fitid>
+            <checknum>023.088</checknum>
+            <refnum>023.088</refnum>
+            <memo>cheque pago caixa</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-266.70</trnamt>
+            <fitid>202001312667001</fitid>
+            <checknum>001374</checknum>
+            <refnum>001374</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-412.00</trnamt>
+            <fitid>202001314120001</fitid>
+            <checknum>900677</checknum>
+            <refnum>900677</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-399.00</trnamt>
+            <fitid>202001313990001</fitid>
+            <checknum>700011</checknum>
+            <refnum>700011</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-503.75</trnamt>
+            <fitid>202001315037501</fitid>
+            <checknum>000006</checknum>
+            <refnum>000006</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>debit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>-201.00</trnamt>
+            <fitid>202001312010001</fitid>
+            <checknum>000255</checknum>
+            <refnum>000255</refnum>
+            <memo>devol.cheque depositado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>1782.45</trnamt>
+            <fitid>2020013117824501</fitid>
+            <checknum>64</checknum>
+            <refnum>64</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+          <stmttrn>
+            <trntype>credit</trntype>
+            <dtposted>20200131000000[-3:brt]</dtposted>
+            <trnamt>24984.77</trnamt>
+            <fitid>20200131249847701</fitid>
+            <checknum>64</checknum>
+            <refnum>64</refnum>
+            <memo>liberao de depsito bloqueado</memo>
+          </stmttrn>
+        </banktranlist>
+        <ledgerbal>
+          <balamt>286.95</balamt>
+          <dtasof>20200207081018[-3:brt]</dtasof>
+        </ledgerbal>
+      </stmtrs>
+    </stmttrnrs>
+  </bankmsgsrsv1>
+</ofx>

@@ -1,0 +1,801 @@
+2
+expresso dalva eireli                                                                                                                                                                           pag:   1
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: cor - expresso dalva eireli - empresa: 01                agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 104 caixa economica          01697 000000959
+spo102118-4      001 000318305 29705927000109 ler tintas ltda       patos de m mg d      159,09        0,00        0,00      159,09 c 10/11/23    
+spo102130-3      001 000318333 29705927000109 ler tintas ltda       patos de m mg d      159,09        0,00        0,00      159,09 c 10/11/23    
+udi010045-5      001 000009930 00029164273687 homero alves de assu  unai       mg d      750,00        0,00        0,00      750,00 c 10/11/23    
+spo102236-9      001 000318376 45825860000100 vidrolar comercio e   unai       mg d      592,27        0,00       30,27      562,00 c 10/11/23    
+0049113-6                      44291023000178 prime esquadrias una  unai       mg d      150,00        0,00        0,00      150,00 c 10/11/23    
+0049818-1                      31589110000164 planeta dos presente  patos de m mg d      150,00        0,00        0,00      150,00 c 10/11/23    
+0049603-1                      44291023000178 prime esquadrias una  unai       mg d      863,72        0,00        0,00      863,72 c 10/11/23    
+0049374-1                      44291023000178 prime esquadrias una  unai       mg d      244,32        0,00        0,00      244,32 c 10/11/23    
+gys000790-1      000 000000000 00059286652615 ceni sebastiao vieir  patos de m mg d      160,00        0,00        0,00      160,00 c 13/11/23    
+gys000786-2      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      204,80        0,00        0,00      204,80 c 13/11/23    
+gys000811-7      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      156,40        0,00        0,00      156,40 c 13/11/23    
+gys000793-5      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      540,80        0,00       88,65      452,15 c 13/11/23    
+uds004235-8      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      140,00        0,00        0,00      140,00 c 13/11/23    
+spo101594-0      001 000317741 86621729000109 laidson alves borges  paracatu   mg d      185,56        0,00        9,56      176,00 c 13/11/23    
+gys000807-9      000 000000000 00059286652615 ceni sebastiao vieir  patos de m mg d      286,88        0,00        0,00      286,88 c 13/11/23    
+uds004294-3      000 000000000 00012027731920 valssuir bonan        araguari   mg d      100,00        0,00        0,00      100,00 c 13/11/23    
+gys000801-0      000 000000000 00059286652615 ceni sebastiao vieir  patos de m mg d      283,05        0,00        0,00      283,05 c 13/11/23    
+valor a ser depositado na conta corrente                                                                                   4.997,50
+
+conta corrente.: 237 bradesco s.a.            02420 000001731
+0049797-5                      08142803000516 nova mix industrial   vazante    mg d    4.858,38        0,00        0,00    4.858,38 c 09/11/23    
+valor a ser depositado na conta corrente                                                                                   4.858,38
+
+conta corrente.: 999 conta caixa              11111 111111111
+0050037-2                      48270042000179 jeovania caldas bert  tupaciguar mg d    3.399,43        0,00        0,00    2.000,00 c 07/11/23    
+0050377-1                      11626920000136 eli salvador martins  coromandel mg d      150,00        0,00        0,00      150,00 c 17/11/23    
+valor a ser depositado na conta corrente                                                                                   2.150,00
+
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+total de fretes liquidados                                                            13.533,79                           12.005,88
+                                                                                                       0,00      128,48
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+- coluna p identifica forma de pagamento: d-dinheiro, h-cheque, c-cartao credito, b-cartao debito, x-fatura descontada
+- coluna l identifica tipo de lancamento: c-credito,  d-debito, x-fatura descontada
+
+frete a vista pendente de liquidacao pela unidade:        11.779,79
+icms correspondente ao total de frete liquidado..:         1.270,30
+frete liquidado no periodo a serem depositados...: 
+- conta corrente 104   01697   000000959:                  4.997,50 cre
+- conta corrente 237   02420   000001731:                  4.858,38 cre
+- conta corrente 999   11111   111111111:                  2.150,00 cre
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:   2
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 104 caixa economica          01697 000000959
+spo100940-1      001 000317106 01168124000143 costa e pinheiro mat  buritis    mg d    1.805,95        0,00       90,00    1.715,95 c 01/11/23    
+spo101384-0      001 000317528 07649476000105 exatec torneamento l  patos de m mg d      420,00        0,00        0,00      420,00 c 01/11/23    
+spo101037-9      001 000317252 49291478000107 luiz pereira marques  goiania    go d      243,06        0,00        0,00      243,06 c 01/11/23    
+spo101113-8      001 000317279 09452078000111 renato henrique dias  unai       mg d    1.314,20        0,00       64,20    1.250,00 c 01/11/23    
+spo101379-3      001 000317564 45825860000100 vidrolar comercio e   unai       mg d    1.649,58        0,00       82,58    1.567,00 c 01/11/23    
+spo101352-1      001 000317645 11239111000171 j.c.c. lima loc de e  unai       mg d      250,00        0,00        0,00      250,00 c 01/11/23    
+spo101771-3      001 000317931 10328629000119 monique teixeira sil  sao paulo  sp d    1.700,00        0,00        0,00    1.700,00 c 01/11/23    
+spo101483-8      001 000317651 31749126000197 giga pizza ltda       unai       mg d    2.900,00        0,00        0,00    2.900,00 c 01/11/23    
+par000631-9      001 000000622 08645856000207 branca transportes l  unai       mg d    1.400,00        0,00        0,00    1.400,00 c 01/11/23    
+spo101466-8      001 000317622 07034329000112 arte glass comercio   unai       mg d      280,00        0,00       14,00      266,00 c 01/11/23    
+0049560-3                      00006929440604 marcio antonio morei  joao pinhe mg d      300,00        0,00        0,00      300,00 c 01/11/23    
+0049522-1                      44552432000180 clezi textil ltda -   goiania    go d      419,82        0,00        0,00      419,82 c 01/11/23    
+0048811-9                      01617617000113 darc aparecida borge  coromandel mg d      230,00        0,00        0,00      230,00 c 01/11/23    
+0049211-6                      01542240000857 jorlan s/a veiculos   goiania    go d      140,00        0,00        0,00      140,00 c 01/11/23    
+spo101702-1      001 000317873 00009761891607 wesley junio fonseca  joao pinhe mg d      169,00        0,00        0,00      169,00 c 03/11/23    
+spo101153-7      001 000317308 05245962000124 casa da eletrica pin  joao pinhe mg d      230,00        0,00       11,50      218,50 c 03/11/23    
+spo101593-1      001 000317726 86553872000100 porao dos brinquedos  unai       mg d      402,27        0,00       28,27      374,00 c 03/11/23    
+spo101610-5      001 000317771 25401195000102 adilson jacinto de s  unai       mg d      862,01        0,00      186,31      675,70 c 03/11/23    
+spo101774-8      001 000317939 45825860000100 vidrolar comercio e   unai       mg d      454,55        0,00       22,73      431,82 c 03/11/23    
+spo101525-7      001 000317684 32195066000170 fabuloso alimentos l  unai       mg d      250,00        0,00        0,00      250,00 c 03/11/23    
+spo101667-9      001 000317811 09452078000111 renato henrique dias  unai       mg d      159,09        0,00        0,00      159,09 c 03/11/23    
+udi010003-0      001 000009888 27274061000101 irene machado de sou  vazante    mg d      314,63        0,00       16,63      298,00 c 03/11/23    
+spo101414-5      001 000317607 09452078000111 renato henrique dias  unai       mg d      654,55        0,00       40,70      613,85 c 03/11/23    
+spo101659-8      001 000317824 09194688000162 laura cibele rodrigu  coromandel mg d      330,00        0,00       30,00      300,00 c 03/11/23    
+spo101703-9      001 000317856 30555241000168 caixeta e silva empr  tucuma     pa d      565,98        0,00       28,30      537,68 c 03/11/23    
+pas000126-1      000 000000000 16578597000609 transp minas brasil   uberlandia mg d      220,00        0,00        0,00      220,00 c 03/11/23    
+gys000780-3      000 000000000 25087540000185 dona maria food ltda  uberaba    mg d       50,00        0,00        0,00       50,00 c 03/11/23    
+spo101550-8      001 000317713 36423122000138 josy leciele apareci  monte carm mg d      271,76        0,00       13,76      258,00 c 03/11/23    
+spo101613-0      001 000317747 20808454000109 thiago santos martin  paracatu   mg d      430,00        0,00        0,00      430,00 c 03/11/23    
+pas000127-9      000 000000000 16578597000609 transp minas brasil   uberlandia mg d      380,00        0,00        0,00      380,00 c 03/11/23    
+spo101499-4      001 000317671 03382683000187 gilda maria soares    unai       mg d      265,44        0,00       13,27      252,17 c 03/11/23    
+spo101726-8      001 000317875 51222600000135 redds uniformes ltda  vazante    mg d      350,00        0,00        0,00      350,00 c 06/11/23    
+gyn003572-6      001 000003521 05501848000118 pereira e novais ltd  abadia de  go d      140,00        0,00        0,00      140,00 c 06/11/23    
+spo101592-3      001 000317729 86553872000100 porao dos brinquedos  unai       mg d      372,73        0,00       26,73      346,00 c 06/11/23    
+gys000774-9      000 000000000 14214093000161 forte comercio de pr  aparecida  go d      500,00        0,00        0,00      500,00 c 06/11/23    
+spo101607-5      001 000317779 32195066000170 fabuloso alimentos l  unai       mg d      250,00        0,00        0,00      250,00 c 06/11/23    
+spo100301-1      001 000316468 46340242000125 lalegu brinquedos lt  paracatu   mg d      562,50        0,00        0,00      562,50 c 06/11/23    
+spo101706-3      001 000317857 38009062000137 fabiano de carvalho   unai       mg d      250,00        0,00        0,00      250,00 c 06/11/23    
+spo101850-7      001 000317978 13302137000142 sirlena martins gont  riachinho  mg d      300,00        0,00       15,00      285,00 c 06/11/23    
+spo101603-2      001 000317743 21786888000100 jra comercio e servi  joao pinhe mg d      772,73        0,00       38,73      734,00 c 06/11/23    
+0049820-3                      49110030000140 sabor soberano prod   uberlandia mg d      232,95        0,00        0,00      232,95 c 06/11/23    
+0049865-3                      00889911000111 trilar aparelhos do   guimarania mg d      568,18        0,00        0,00      568,18 c 06/11/23    
+0049528-0                      00043147089649 elisio alves cardoso  coromandel mg d       60,00        0,00        0,00       60,00 c 06/11/23    
+0049713-4                      24497163000190 antonio carlos sousa  paracatu   mg d      230,00        0,00        0,00      230,00 c 06/11/23    
+0049351-1                      05507325000189 rosangela luiza s go  paracatu   mg d      430,00        0,00        0,00      430,00 c 06/11/23    
+0049684-7                      35704868000157 auto socorro noroest  unai       mg d      500,00        0,00        0,00      500,00 c 06/11/23    
+spo101880-9      001 000318029 09152409000106 mendonca e costa tra  joao pinhe mg d      150,00        0,00        7,50      142,50 c 07/11/23    
+spo101842-6      001 000318050 25354694000196 brasil verde pocos a  unai       mg d    5.800,00        0,00      500,00    5.300,00 c 07/11/23    
+0049321-0                      05374334000149 ailson rodrigues mon  paracatu   mg d      150,00        0,00        0,00      150,00 c 07/11/23    
+0049066-1                      05374334000149 ailson rodrigues mon  paracatu   mg d      250,00        0,00        0,00      250,00 c 07/11/23    
+0049330-9                      41825374000123 g a respresentacoes   paracatu   mg d      400,00        0,00        0,00      400,00 c 07/11/23    
+spo101851-5      001 000317987 09452078000111 renato henrique dias  unai       mg d      431,82        0,00       21,60      410,22 c 08/11/23    
+uds004153-0      000 000000000 10903536000170 hidebag embalagens e  uberlandia mg d      100,00        0,00        0,00      100,00 c 08/11/23    
+0048714-7                      44291023000178 prime esquadrias una  unai       mg d    2.990,00        0,00        0,00    2.990,00 c 08/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:   3
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 104 caixa economica          01697 000000959
+spo102197-4      001 000318342 32195066000170 fabuloso alimentos l  unai       mg d      160,00        0,00        0,00      160,00 c 09/11/23    
+spo101967-8      001 000318123 45825860000100 vidrolar comercio e   unai       mg d    2.013,88        0,00      100,88    1.913,00 c 09/11/23    
+spo102095-1      001 000318248 13005987000189 h t arievilo ribeiro  araxa      mg d      600,00        0,00       30,00      570,00 c 09/11/23    
+spo101913-9      001 000318146 16926165000129 estudante presentes   unai       mg d      477,27        0,00       24,12      453,15 c 09/11/23    
+spo102041-2      001 000318196 00000304412694 luciana motta machad  coromandel mg d      250,00        0,00        0,00      250,00 c 09/11/23    
+spo101948-1      001 000318111 09452078000111 renato henrique dias  unai       mg d      182,55        0,00        9,55      173,00 c 09/11/23    
+par000637-8      001 000000628 08645856000207 branca transportes l  unai       mg d    2.400,00        0,00        0,00    2.400,00 c 09/11/23    
+0049593-0                      02801669000108 ivania ap batista da  unai       mg d      180,00        0,00        0,00      180,00 c 09/11/23    
+spo102049-8      001 000318212 15284047000100 diego pereira ribeir  joao pinhe mg d      180,00        0,00        0,00      180,00 c 10/11/23    
+spo102356-0      001 000318508 11324354000108 fast filme            sao paulo  sp d      700,00        0,00        0,00      700,00 c 10/11/23    
+spo101981-3      001 000318142 09152409000106 mendonca e costa tra  joao pinhe mg d      450,00        0,00       22,50      427,50 c 10/11/23    
+spo102034-0      001 000318191 21786888000100 jra comercio e servi  joao pinhe mg d      580,00        0,00       29,00      551,00 c 10/11/23    
+spo102162-1      001 000318319 30555241000168 caixeta e silva empr  tucuma     pa d      676,75        0,00       33,84      642,91 c 10/11/23    
+spo102157-5      001 000318316 86553872000100 porao dos brinquedos  unai       mg d      153,73        0,00       11,73      142,00 c 10/11/23    
+udi010028-5      001 000009915 00007878670633 marcio henrique de l  vazante    mg d       83,00        0,00        0,00       83,00 c 10/11/23    
+spo101961-9      001 000318118 49240350000114 via tintas e complem  joao pinhe mg d      176,07        0,00        8,87      167,20 c 10/11/23    
+spo098833-2      001 000315035 22060255000182 ph intralogistica e   claudio    mg d      499,00        0,00        0,00      499,00 c 13/11/23    
+spo102306-3      001 000318490 02798800000125 peixaria e psicultur  morada nov mg d      556,51        0,00        0,00      556,51 c 13/11/23    
+uds004283-8      000 000000000 00000614086620 romualdo silvoni      coromandel mg d       60,00        0,00        0,00       60,00 c 13/11/23    
+spo102108-7      001 000318401 30831373000175 rui mauro de freitas  senador ca go d      286,45        0,00        0,00      286,45 c 13/11/23    
+spo102465-5      001 000318639 00000304412694 luciana motta machad  coromandel mg d      350,00        0,00        0,00      350,00 c 13/11/23    
+spo102387-0      001 000318539 03205233000119 geralda maria de oli  unai       mg d      180,00        0,00        0,00      180,00 c 13/11/23    
+spo102271-7      001 000318428 03205233000119 geralda maria de oli  unai       mg d      150,00        0,00        0,00      150,00 c 13/11/23    
+udi009051-4      001 000008978 00000614086620 romualdo silvoni      coromandel mg d      121,95        0,00        1,95      120,00 c 13/11/23    
+0050044-5                      02603221000180 oxi-tintas eireli 00  tupaciguar mg d      159,09        0,00        0,00      159,09 c 13/11/23    
+0050825-0                      04010926000119 j.z. materiais de co  araxa      mg d    1.259,27        0,00       79,27    1.180,00 c 13/11/23    
+spo102005-6      001 000318165 00340436000120 silveira e vieria lt  capinopoli mg d      173,03        0,00        8,66      164,37 c 14/11/23    
+par000642-4      001 000000633 20921574000100 romennigg henrique m  lagoa form mg d       50,00        0,00        0,00       50,00 c 14/11/23    
+spo102360-8      001 000318516 86553872000100 porao dos brinquedos  unai       mg d      436,36        0,00       31,36      405,00 c 14/11/23    
+par000643-2      001 000000634 20921574000100 romennigg henrique m  lagoa form mg d       50,00        0,00        0,00       50,00 c 14/11/23    
+par000644-1      001 000000635 20921574000100 romennigg henrique m  lagoa form mg d       50,00        0,00        0,00       50,00 c 14/11/23    
+spo102346-2      001 000318509 00006917041637 jonathan willian dos  unai       mg d      220,00        0,00        0,00      220,00 c 14/11/23    
+gys000800-1      000 000000000 15371873000188 cem distribuidora de  araxa      mg d      150,00        0,00        7,50      142,50 c 14/11/23    
+spo102131-1      001 000318335 42335098000188 pizzaria restaurante  arinos     mg d      150,00        0,00        0,00      150,00 c 14/11/23    
+0050037-2                      48270042000179 jeovania caldas bert  tupaciguar mg d    3.399,43        0,00        0,00    1.399,43 c 14/11/23    
+0049789-4                      10522958000104 carlos ernane da sil  coromandel mg d      150,00        0,00        0,00      150,00 c 14/11/23    
+spo102682-8      001 000318840 38699864000116 ivone andrade pereir  paracatu   mg d      100,00        0,00        0,00      100,00 c 16/11/23    
+spo102627-5      001 000318775 00012933022605 jerry vieira matos f  coromandel mg d      230,00        0,00        0,00      230,00 c 16/11/23    
+spo102613-5      001 000318771 03205233000119 geralda maria de oli  unai       mg d      180,00        0,00        0,00      180,00 c 16/11/23    
+spo100456-5      001 000316639 07034329000112 arte glass comercio   unai       mg d      397,73        0,00       20,73      377,00 c 16/11/23    
+spo101992-9      001 000318217 44177838000120 rotary club lagoa gr  lagoa gran mg d      700,00        0,00        0,00      700,00 c 16/11/23    
+gyn003642-1      001 000003590 00059188260682 valdeci severino da   conselheir mg d      154,15        0,00        0,15      154,00 c 16/11/23    
+spo102228-8      001 000318379 01168124000143 costa e pinheiro mat  buritis    mg d    2.882,32        0,00      152,32    2.730,00 c 16/11/23    
+spo102600-3      001 000318773 09452078000111 renato henrique dias  unai       mg d      159,09        0,00        8,09      151,00 c 16/11/23    
+uds004304-4      000 000000000 23415498000159 alexandre de oliveir  coromandel mg d       60,00        0,00        0,00       60,00 c 16/11/23    
+spo102646-1      001 000318812 25354694000196 brasil verde pocos a  unai       mg d    2.045,00        0,00      102,25    1.942,75 c 17/11/23    
+spo102671-2      001 000318799 35001903000171 barbara de matos vie  paracatu   mg d      225,00        0,00        0,00      225,00 c 17/11/23    
+spo102808-1      001 000318944 00048791440610 jaime assuncao menez  coromandel mg d      150,00        0,00        0,00      150,00 c 17/11/23    
+spo102790-5      001 000318908 00604831000172 luis antonio alvaren  coromandel mg d      445,00        0,00       45,00      400,00 c 17/11/23    
+gys000789-7      000 000000000 15371873000188 cem distribuidora de  araxa      mg d      229,20        0,00       11,46      217,74 c 17/11/23    
+spo102084-6      001 000318216 00028306996968 artemio pedro banosk  buritis    mg d      536,59        0,00        0,00      536,59 c 17/11/23    
+0050617-6                      43345992000100 claudionei de olivei  araxa      mg d      280,00        0,00        0,00      280,00 c 17/11/23    
+0050274-0                      17065299000327 copeagri com de pcs   guarda-mor mg d      425,00        0,00        0,00      425,00 c 17/11/23    
+gys000820-6      000 000000000 00008112578605 leandro cesar goncal  coromandel mg d       60,00        0,00        0,00       60,00 c 20/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:   4
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 104 caixa economica          01697 000000959
+spo102684-4      001 000318842 11951752000154 jose eustaquio da si  joao pinhe mg d      834,36        0,00       42,36      792,00 c 20/11/23    
+spo102938-0      001 000319074 43645462000179 r f braga ferragens   paracatu   mg d      250,00        0,00       12,50      237,50 c 20/11/23    
+spo102977-1      001 000319111 86553872000100 porao dos brinquedos  unai       mg d      415,91        0,00       29,91      386,00 c 20/11/23    
+spo102648-8      001 000318835 37914336000170 cristiane silva oliv  coromandel mg d      170,73        0,00       20,73      150,00 c 20/11/23    
+0051019-0                      10745860000108 gilvan rodrigues mor  coromandel mg d    1.509,01        0,00        9,01    1.500,00 c 20/11/23    
+0050461-1                      00024673781104 admir marcos da silv  goiania    go d      100,00        0,00        0,00      100,00 c 20/11/23    
+0050397-5                      22031355000180 casa da borracha car  monte carm mg d    6.747,82        0,00      190,00    5.000,00 c 20/11/23    
+0050536-6                      28775036000166 napolitana ferreira   brasilandi mg d      567,05        0,00        0,00      567,05 c 20/11/23    
+0049562-0                      28775036000166 napolitana ferreira   brasilandi mg d      220,00        0,00        0,00      220,00 c 20/11/23    
+0049298-1                      34830642000130 josefa ramos neta de  brasilandi mg d      987,50        0,00        0,00      987,50 c 20/11/23    
+0050250-2                      20346524000146 kinross brasil miner  paracatu   mg d      380,00        0,00        0,00      380,00 c 20/11/23    
+spo102565-1      001 000318720 86553872000100 porao dos brinquedos  unai       mg d      147,73        0,00       10,73      137,00 c 21/11/23    
+gys000806-1      000 000000000 15371873000188 cem distribuidora de  araxa      mg d      205,20        0,00       10,26      194,94 c 21/11/23    
+spo102885-5      001 000319027 13755542000116 sousa e maciel trans  unai       mg d    1.875,00        0,00        0,00    1.875,00 c 21/11/23    
+uds004249-8      000 000000000 14220599000183 manoel jose de olive  coromandel mg d       40,00        0,00        0,00       40,00 c 21/11/23    
+0050148-4                      00003579520652 julio cesar jacob     ituiutaba  mg d      240,24        0,00        0,00      240,24 c 21/11/23    
+0050260-0                      05507325000189 rosangela luiza s go  paracatu   mg d      317,73        0,27        0,00      318,00 c 21/11/23    
+0050222-7                      24497163000190 antonio carlos sousa  paracatu   mg d      280,00        0,00        0,00      280,00 c 21/11/23    
+0050357-6                      00003579520652 julio cesar jacob     ituiutaba  mg d      230,00        0,00        0,00      230,00 c 21/11/23    
+0050165-4                      14309089000187 gridlog transportes   guarulhos  sp d      953,30        0,00      100,00      853,30 c 21/11/23    
+0050161-1                      14309089000187 gridlog transportes   guarulhos  sp d    2.544,35        0,00       80,00    2.464,35 c 21/11/23    
+0050397-5                      22031355000180 casa da borracha car  monte carm mg d    6.747,82        0,00      190,00    1.557,82 c 21/11/23    
+spo102833-2      001 000318978 01168124000143 costa e pinheiro mat  buritis    mg d      170,45        0,00        0,00      170,45 c 22/11/23    
+spo102640-2      001 000318785 01168124000143 costa e pinheiro mat  buritis    mg d      319,17        0,00       24,62      294,55 c 22/11/23    
+0050178-6                      71042915000108 papelaria couto ltda  joao pinhe mg d      520,98        0,00        0,00      520,98 c 22/11/23    
+0050154-9                      08534664000142 neoaluminio ind. com  bom jesus  sp d    3.690,00        0,00        0,00    3.690,00 c 22/11/23    
+0050608-7                      08534664000142 neoaluminio ind. com  bom jesus  sp d      764,49        0,00        0,00      764,49 c 22/11/23    
+0050356-8                      31698290000112 incorporadora agp pa  uberlandia mg d      254,28        0,00        0,00      254,28 c 22/11/23    
+gys000830-3      000 000000000 00026029677691 mauro cesar da silva  araxa      mg d      100,00        0,00        0,00      100,00 c 23/11/23    
+spo102955-0      001 000319147 05565646000130 go midia ltda         juiz de fo mg d      499,00        0,00        0,00      499,00 c 23/11/23    
+spo101700-4      001 000317869 71013312000188 nancy godinho alves   presidente mg d      210,00        0,00       10,50      199,50 c 23/11/23    
+spo103032-9      001 000319190 37787183000147 lilian alves pedra 0  unai       mg d      362,81        0,00        0,00      362,81 c 23/11/23    
+spo103133-3      001 000319271 45825860000100 vidrolar comercio e   unai       mg d      458,02        0,00       22,92      435,10 c 23/11/23    
+uds004237-4      000 000000000 31138180000104 escalli industria e   serrana    sp d      230,00        0,00        0,00      230,00 c 23/11/23    
+spo101973-2      001 000318131 86621729000109 laidson alves borges  paracatu   mg d      147,73        0,00        7,73      140,00 c 23/11/23    
+uds004238-2      000 000000000 31138180000104 escalli industria e   serrana    sp d      150,00        0,00        0,00      150,00 c 23/11/23    
+spo103144-9      001 000319289 05565646000130 go midia ltda         juiz de fo mg d      799,00        0,00        0,00      799,00 c 23/11/23    
+spo103263-1      001 000319412 86621729000109 laidson alves borges  paracatu   mg d      147,73        0,00        7,73      140,00 c 23/11/23    
+spo103091-4      001 000319228 00001192088654 gesivaldo g boitrago  paracatu   mg d      300,00        0,00        0,00      300,00 c 23/11/23    
+0050365-7                      10939454000186 quantica distribuido  goianesia  go d      795,45        0,00        0,45      795,00 c 23/11/23    
+0051274-5                      23895122000199 flor do cerrado prod  paracatu   mg d      549,00        0,00        0,00      549,00 c 23/11/23    
+0049533-6                      10939454000186 quantica distribuido  goianesia  go d    1.250,00        0,00        0,00    1.250,00 c 23/11/23    
+0050224-3                      05374334000149 ailson rodrigues mon  paracatu   mg d      190,00        0,00        0,00      190,00 c 23/11/23    
+spo103081-7      001 000319224 36423122000138 josy leciele apareci  monte carm mg d      218,09        0,00       11,09      207,00 c 24/11/23    
+spo103363-8      001 000319536 00000614086620 romualdo silvoni      coromandel mg d      160,00        0,00        0,00      160,00 c 24/11/23    
+spo102199-1      001 000318360 29047992000194 edivanes r soares me  paracatu   mg d      150,00        0,00        0,00      150,00 c 24/11/23    
+spo103026-4      001 000319180 15284047000100 diego pereira ribeir  joao pinhe mg d      450,00        0,00        0,00      450,00 c 24/11/23    
+spo103508-8      001 000319648 00000614086620 romualdo silvoni      coromandel mg d      380,00        0,00        0,00      380,00 c 24/11/23    
+spo103162-7      001 000319304 01985527000185 maria a. l. santos e  joao pinhe mg d      192,50        0,00       12,50      180,00 c 24/11/23    
+spo103254-2      001 000319387 31312546000101 amarildo guerra conf  morrinhos  go d      510,00        0,00       75,00      435,00 c 24/11/23    
+spo103266-6      001 000319419 05776520000104 drogaria carolina e   monte carm mg d      150,00        0,00        0,00      150,00 c 24/11/23    
+gys000829-0      000 000000000 00026029677691 mauro cesar da silva  araxa      mg d      150,00        0,00        0,00      150,00 c 24/11/23    
+sps001671-3      000 000000000 31312546000101 amarildo guerra conf  morrinhos  go d      315,00        0,00        0,00      315,00 c 24/11/23    
+spo103189-9      001 000319332 15284047000100 diego pereira ribeir  joao pinhe mg d      160,00        0,00        0,00      160,00 c 24/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:   5
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 104 caixa economica          01697 000000959
+spo103279-8      001 000319403 29638030000100 pedro henrique de ca  guarda-mor mg d      160,00        0,00        0,00      160,00 c 24/11/23    
+spo103362-0      001 000319535 32195066000170 fabuloso alimentos l  unai       mg d      160,00        0,00        0,00      160,00 c 24/11/23    
+spo103149-0      001 000319400 16926165000129 estudante presentes   unai       mg d      318,18        0,00       15,88      302,30 c 24/11/23    
+0050642-7                      30659954000171 circuito moto pecas   uberlandia mg d      250,00        0,00        0,00      250,00 c 24/11/23    
+0050649-4                      44552432000180 clezi textil ltda -   goiania    go d      247,31        0,00        0,00      247,31 c 24/11/23    
+0050653-2                      37861374000101 malhas brasil ltda    goiania    go d      761,96        0,00        0,00      761,96 c 24/11/23    
+gys000824-9      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      162,40        0,00        0,00      162,40 c 27/11/23    
+udi010146-0      001 000010032 37350949000121 disk cacamba anapoli  anapolis   go d      349,40        0,00        0,00      349,40 c 27/11/23    
+gys000825-7      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      499,20        0,00        0,00      499,20 c 27/11/23    
+spo103394-8      001 000319534 00017886848691 jose roberto teodoro  paracatu   mg d      160,00        0,00       10,00      150,00 c 27/11/23    
+gys000814-1      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      140,00        0,00        0,00      140,00 c 27/11/23    
+gys000817-6      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      518,80        0,00       77,76      441,04 c 27/11/23    
+spo103246-1      001 000319457 23723628000110 fortfix distribuidor  joao pinhe mg d      801,90        0,00       40,10      761,80 c 27/11/23    
+spo103310-7      001 000319440 00009423383670 leonardo bruno noron  coromandel mg d      700,00        0,00        0,00      700,00 c 27/11/23    
+gys000823-1      000 000000000 13024821000100 ceni sebastiao vieir  patos de m mg d      234,80        0,00        0,00      234,80 c 27/11/23    
+spo103278-0      001 000319402 86384534000184 construmatos materia  arinos     mg d      380,00        0,00        0,00      380,00 c 27/11/23    
+spo103164-3      001 000319305 86384534000184 construmatos materia  arinos     mg d      433,17        0,00       43,17      390,00 c 27/11/23    
+spo103564-9      001 000319745 00077018923620 weliton jose alves    coromandel mg d      300,00        0,00       30,00      270,00 c 27/11/23    
+0050803-9                      20507617000105 felipe camargo peres  coromandel mg d      265,91        0,00        0,00      265,91 c 27/11/23    
+0050738-5                      40568337000114 cleuma amaral da roc  buritis    mg d      150,00        0,00        0,00      150,00 c 27/11/23    
+0050174-3                      08254099000160 adriana martins de j  joao pinhe mg d      440,00        0,00        0,00      440,00 c 27/11/23    
+0050842-0                      00027337740697 samir mohamab molaed  patos de m mg d      150,00        0,00        0,00      150,00 c 27/11/23    
+0039781-4                      06339885000134 primo gas ltda        betim      mg d      250,00        0,00        0,00      250,00 c 27/11/23    
+spo103050-7      001 000319177 46340242000125 lalegu brinquedos lt  paracatu   mg d      481,75        0,00        0,00      481,75 c 28/11/23    
+spo101822-1      001 000317989 12501982000184 marcelo moreira de s  paracatu   mg d      159,09        0,00        0,00      159,09 c 28/11/23    
+spo103555-0      001 000319698 12501982000184 marcelo moreira de s  paracatu   mg d      159,09        0,00        0,00      159,09 c 28/11/23    
+gyn003750-8      001 000003698 49985650000122 comercial rei do tud  goiania    go d      180,00        0,00        0,00      180,00 c 28/11/23    
+spo103223-2      001 000319336 12501982000184 marcelo moreira de s  paracatu   mg d      263,23        0,00        0,81      262,42 c 28/11/23    
+spo103160-1      001 000319462 42781671000187 g m reformas ltda     patos de m mg d    1.232,02        0,00        0,00    1.232,02 c 28/11/23    
+udi010171-1      001 000010058 17851174000160 carlos alberto rabel  paracatu   mg d      110,00        0,00        0,00      110,00 c 28/11/23    
+spo103614-9      001 000319752 09152409000106 mendonca e costa tra  joao pinhe mg d      150,00        0,00        0,00      150,00 c 28/11/23    
+udi010170-2      001 000010055 32195066000170 fabuloso alimentos l  unai       mg d      269,73        0,00        0,00      269,73 c 28/11/23    
+spo103101-5      001 000319236 01168124000143 costa e pinheiro mat  buritis    mg d    1.206,31        0,00       61,31    1.145,00 c 28/11/23    
+spo103621-1      001 000319770 00003728534633 marlon da costa mend  joao pinhe mg d      150,00        0,00        0,00      150,00 c 28/11/23    
+spo103152-0      001 000319323 46340242000125 lalegu brinquedos lt  paracatu   mg d      732,50        0,00        0,00      732,50 c 28/11/23    
+gyn003724-9      001 000003672 42788930000100 mateus silva pinheir  riachinho  mg d      228,41        0,00        0,00      228,41 c 28/11/23    
+spo103626-2      001 000319779 00003728534633 marlon da costa mend  joao pinhe mg d      170,73        0,00       25,73      145,00 c 28/11/23    
+spo103458-8      001 000319593 37787183000147 lilian alves pedra 0  unai       mg d      272,73        0,00        0,00      272,73 c 28/11/23    
+spo101821-3      001 000317988 12501982000184 marcelo moreira de s  paracatu   mg d      198,40        0,00        0,00      198,40 c 28/11/23    
+0050742-3                      42788930000100 mateus silva pinheir  riachinho  mg d      150,00        0,00        0,00      150,00 c 28/11/23    
+spo103301-8      001 000319445 49291478000107 luiz pereira marques  goiania    go d      207,84        0,00        0,00      207,84 c 29/11/23    
+spo103683-1      001 000319858 16926165000129 estudante presentes   unai       mg d      499,00        0,00       24,96      474,04 c 29/11/23    
+spo103837-1      001 000320004 00000614086620 romualdo silvoni      coromandel mg d      330,00        0,00        0,00      330,00 c 29/11/23    
+0050790-3                      00088111172672 jaina pedro da silva  uberlandia mg d    1.281,66        0,00        0,00      640,83 c 29/11/23    
+0050816-1                      57642431000411 transportadora nova   santa luzi mg d    1.551,13        0,00        0,00    1.551,13 c 29/11/23    
+0050918-3                      44291023000178 prime esquadrias una  unai       mg d      250,00        0,00        0,00      250,00 c 29/11/23    
+spo103828-1      001 000319958 86553872000100 porao dos brinquedos  unai       mg d      183,07        0,00       13,07      170,00 c 30/11/23    
+spo103216-0      001 000319405 33659604000284 drogarias ultra popu  porto naci to d      250,00        0,00        0,00      250,00 c 30/11/23    
+spo103732-3      001 000319871 45825860000100 vidrolar comercio e   unai       mg d      589,73        0,00       29,53      560,20 c 30/11/23    
+0050383-5                      18458455000110 vidracaria soares lt  monte carm mg d      783,00        0,00        0,00      783,00 c 30/11/23    
+valor a ser depositado na conta corrente                                                                                 109.776,34
+
+conta corrente.: 237 bradesco s.a.            02420 000001731
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:   6
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 237 bradesco s.a.            02420 000001731
+spo100525-1      001 000316701 08142803000605 nova mix industrial   douradoqua mg d      250,00        0,00        0,00      250,00 c 08/11/23    
+spo100539-1      001 000316710 08142803000605 nova mix industrial   douradoqua mg d      249,00        0,00        0,00      249,00 c 08/11/23    
+spo100679-7      001 000316870 08142803000605 nova mix industrial   douradoqua mg d      159,09        0,00        0,00      159,09 c 08/11/23    
+sps001647-1      000 000000000 42567550000137 repig resina e pigme  abadia dos mg d      224,00        0,00        0,00      224,00 c 09/11/23    
+sps001629-2      000 000000000 37410314000172 resibrilho resinas e  goiania    go d      159,39        0,00        0,00      159,39 c 09/11/23    
+sps001640-3      000 000000000 37410314000172 resibrilho resinas e  goiania    go d      159,39        0,00        0,00      159,39 c 09/11/23    
+sps001643-8      000 000000000 37410314000172 resibrilho resinas e  goiania    go d      176,40        0,00        0,00      176,40 c 09/11/23    
+0047287-5                      37410314000172 resibrilho resinas e  goiania    go d    5.930,00        0,00        0,00    2.280,82 c 09/11/23    
+gyn003626-9      001 000003574 51579908000132 rdn comercio de lona  goiania    go d      480,00        0,00        0,00      480,00 c 13/11/23    
+spo101758-6      001 000317902 08142803000605 nova mix industrial   douradoqua mg d      227,27        0,00        0,00      227,27 c 21/11/23    
+0050423-8                      08142803000516 nova mix industrial   vazante    mg d   14.352,47        0,00        0,00   14.352,47 c 23/11/23    
+gyn003687-1      001 000003635 35251825000163 matheus robson rodri  paraiso do to d      181,82        0,00        0,00      181,82 c 27/11/23    
+gyn003686-2      001 000003634 15991078000192 nelita costa lima -   araguacema to d      181,82        0,00        0,00      181,82 c 27/11/23    
+valor a ser depositado na conta corrente                                                                                  19.081,47
+
+conta corrente.: 999 conta caixa              11111 111111111
+spo100590-1      001 000316767 66437690000159 comercial gerais ltd  joao pinhe mg d      162,17        0,00        8,17      154,00 c 03/11/23    
+spo101202-9      001 000317373 18526169000145 gaspar eletro ltda    presidente mg d      159,09        0,00       30,00      129,09 c 03/11/23    
+spo100922-2      001 000317097 20872406000171 baltazar moreira fil  brasilandi mg d      250,00        0,00       15,00      235,00 c 03/11/23    
+uds004227-7      000 000000000 52080654000176 chocola ltda          carmo do p mg d      546,70        0,00        0,00      546,70 c 03/11/23    
+spo101166-9      001 000317328 04795430000106 hidro sil quimica lt  monte carm mg d      130,00        0,00        0,00      130,00 c 03/11/23    
+spo101130-8      001 000317303 64249949000102 ronaldo ferreira per  vazante    mg d      200,00        0,00       14,00      186,00 c 03/11/23    
+spo100673-8      001 000316846 00808242000106 irmaos konishi comer  paracatu   mg d      490,32        0,00       25,28      465,04 c 03/11/23    
+uds004257-9      000 000000000 04353697000135 augustinho soares de  coromandel mg d       40,00        0,00        0,00       40,00 c 03/11/23    
+uds004251-0      000 000000000 12734785000105 marcelo eustaquio do  coromandel mg d       40,00        0,00        0,00       40,00 c 03/11/23    
+spo101246-1      001 000317387 10277910000170 coml. de ferrag. fer  vazante    mg d      150,00        0,00       10,00      140,00 c 03/11/23    
+spo101136-7      001 000317311 42844750000190 agrorezende ltda      paracatu   mg d      200,00        0,00       10,00      190,00 c 03/11/23    
+uds004256-1      000 000000000 07434162000187 nelson calixto de ol  coromandel mg d       40,00        0,00        0,00       40,00 c 03/11/23    
+uds004250-1      000 000000000 00010216615623 danilo bona fruta     abadia dos mg d       60,00        0,00        0,00       60,00 c 03/11/23    
+spo101141-3      001 000317333 20195434000100 milton garcia de jes  unai       mg d      150,00        0,00        7,50      142,50 c 03/11/23    
+spo101145-6      001 000317316 02682073000136 instaluz ltda         joao pinhe mg d      150,00        0,00        7,50      142,50 c 03/11/23    
+spo101123-5      001 000317298 25820705000186 borjao tratores ltda  joao pinhe mg d      147,73        0,00        0,00      147,73 c 03/11/23    
+uds004246-3      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 03/11/23    
+spo101165-1      001 000317332 18657022000194 youssef a daura nett  patrocinio mg d      360,00        0,00       18,00      342,00 c 03/11/23    
+spo101186-3      001 000317335 08194634000134 azevedo e santos pro  unai       mg d      300,00        0,00       15,00      285,00 c 03/11/23    
+sps001627-6      000 000000000 07940909000179 goncalves e guerra b  joao pinhe mg d      635,00        0,00       35,00      600,00 c 03/11/23    
+sps001628-4      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 03/11/23    
+udi009960-1      001 000009845 10614447000104 jose de souza transp  coromandel mg d       60,00        0,00        0,00       60,00 c 03/11/23    
+gyn003521-1      001 000003471 20157756000156 comercial de tintas   patrocinio mg d      255,68        0,00       23,44      232,24 c 03/11/23    
+spo101328-9      001 000317487 42844750000190 agrorezende ltda      paracatu   mg d      180,00        0,00        9,00      171,00 c 03/11/23    
+spo101132-4      001 000317305 25820705000186 borjao tratores ltda  joao pinhe mg d      327,34        0,00       23,77      303,57 c 03/11/23    
+spo101327-1      001 000317486 20445052000189 noroeste auto pecas   unai       mg d      390,00        0,00        0,00      390,00 c 03/11/23    
+spo101400-5      001 000317603 05326514000155 avenida tintas ltda   patrocinio mg d      690,34        0,00       34,54      655,80 c 03/11/23    
+spo101039-5      001 000317191 65121287000153 15140-jomar tintas l  unai       mg d      159,09        0,00        8,09      151,00 c 03/11/23    
+spo101252-5      001 000317418 86649712000151 flocs alimentos ltda  joao pinhe mg d      250,00        0,00       12,50      237,50 c 03/11/23    
+spo101201-1      001 000317372 13519971000194 izabel cristina rodr  unai       mg d      150,00        0,00        0,00      150,00 c 03/11/23    
+spo101376-9      001 000317562 20157756000156 comercial de tintas   patrocinio mg d      271,44        0,00       13,55      257,89 c 03/11/23    
+spo101044-1      001 000317242 31172253000176 jose maria pereira d  unai       mg d      250,00        0,00       12,50      237,50 c 03/11/23    
+spo100720-3      001 000316889 86384534000184 construmatos materia  arinos     mg d      458,25        0,00       23,25      435,00 c 03/11/23    
+spo101154-5      001 000317367 00004715369893 jose justino de sous  coromandel mg d      600,00        0,00        0,00      600,00 c 03/11/23    
+spo101030-1      001 000317247 20157756000156 comercial de tintas   patrocinio mg d    1.281,03        0,00       77,46    1.203,57 c 03/11/23    
+spo101118-9      001 000317282 20719920000171 leandro eduardo silv  unai       mg d      250,00        0,00       15,00      235,00 c 03/11/23    
+spo101052-2      001 000317222 05326514000155 avenida tintas ltda   patrocinio mg d      136,36        0,00        0,00      136,36 c 03/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:   7
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 999 conta caixa              11111 111111111
+spo101064-6      001 000317238 20157756000156 comercial de tintas   patrocinio mg d      268,08        0,00        0,00      268,08 c 03/11/23    
+spo101055-7      001 000317214 05326514000155 avenida tintas ltda   patrocinio mg d      284,33        0,00       21,04      263,29 c 03/11/23    
+spo101232-1      001 000317390 00808242000106 irmaos konishi comer  paracatu   mg d      159,09        0,00        7,94      151,15 c 03/11/23    
+spo101229-1      001 000317388 20157756000156 comercial de tintas   patrocinio mg d      213,07        0,00        0,00      213,07 c 03/11/23    
+par000628-9      001 000000619 04978660000100 jovimar tecidos e co  patos de m mg d      182,93        0,00        0,00      182,93 c 03/11/23    
+gys000792-7      000 000000000 10369000000117 distribuidora silva   coromandel mg d      368,80        0,00       18,80      350,00 c 03/11/23    
+spo100952-4      001 000317143 02682073000136 instaluz ltda         joao pinhe mg d      150,00        0,00        7,50      142,50 c 03/11/23    
+spo101479-0      001 000317636 00006251059907 jose marcondes ferre  patos de m mg d      150,00        0,00        0,00      150,00 c 03/11/23    
+spo101171-5      001 000317339 18397068000111 sandra leonel goncal  guimarania mg d      230,00        0,00        0,00      230,00 c 03/11/23    
+spo101239-8      001 000317393 00604831000172 luis antonio alvaren  coromandel mg d      665,00        0,00       66,50      598,50 c 03/11/23    
+gys000798-6      000 000000000 31060527000135 bonfinopolis industr  bonfinopol go d      130,00        0,00        0,00      130,00 c 06/11/23    
+uds004200-5      000 000000000 21289101000102 gabriel alves vieira  coromandel mg d      640,00        0,00        0,00      640,00 c 06/11/23    
+gys000770-6      000 000000000 00032353332668 fausto da silveira e  coromandel mg d      150,00        0,00        0,00      150,00 c 06/11/23    
+sps001601-2      000 000000000 00007368509610 luiz eduardo silveir  coromandel mg d      500,00        0,00        0,00      500,00 c 06/11/23    
+uds004244-7      000 000000000 00015402271623 gabriel silva  goula  coromandel mg d      150,00        0,00        0,00      150,00 c 06/11/23    
+spo101112-0      001 000317285 24932814000122 big compacta embalag  catalao    go d      190,00        0,00        0,00      190,00 c 06/11/23    
+cos000415-4      000 000000000 00011151240648 diego dias machado    coromandel mg d      150,00        0,00        0,00      150,00 c 06/11/23    
+uds004218-8      000 000000000 07514666000107 jau mega servicos e   jau        sp d      120,00        0,00        0,00      120,00 c 06/11/23    
+uds004212-9      000 000000000 20734869000177 copeve coromandel pe  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+spo101490-1      001 000317657 64249949000102 ronaldo ferreira per  vazante    mg d      225,00        0,00       16,00      209,00 c 06/11/23    
+gys000797-8      000 000000000 31060527000135 bonfinopolis industr  bonfinopol go d      130,00        0,00        0,00      130,00 c 06/11/23    
+uds004272-2      000 000000000 04353697000135 augustinho soares de  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+uds004180-7      000 000000000 18591412000290 comercio e industria  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+sps001636-5      000 000000000 00000946203695 wolney gleimon meire  paracatu   mg d      250,00        0,00        0,00      250,00 c 06/11/23    
+gyn003381-2      001 000003331 00032353332668 fausto da silveira e  coromandel mg d      365,85        0,00      175,85      190,00 c 06/11/23    
+uds004265-0      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+spo101552-4      001 000317714 10277910000170 coml. de ferrag. fer  vazante    mg d      180,00        0,00       10,00      170,00 c 06/11/23    
+uds004169-6      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+uds004271-4      000 000000000 04353697000135 augustinho soares de  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+sps001597-1      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      280,00        0,00        0,00      280,00 c 06/11/23    
+uds004177-7      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+pas000131-7      000 000000000 16926165000129 estudante presentes   unai       mg d      360,00        0,00       18,00      342,00 c 06/11/23    
+uds004178-5      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+spo099632-7      001 000315863 00032353332668 fausto da silveira e  coromandel mg d      350,00        0,00        0,00      350,00 c 06/11/23    
+uds004191-2      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+uds004176-9      000 000000000 00032353332668 fausto da silveira e  coromandel mg d      300,00        0,00        0,00      300,00 c 06/11/23    
+uds004264-1      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+gys000784-6      000 000000000 00032353332668 fausto da silveira e  coromandel mg d      120,00        0,00        0,00      120,00 c 06/11/23    
+sps001606-3      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      280,00        0,00        0,00      280,00 c 06/11/23    
+uds004255-2      000 000000000 00050500856672 roberto felizardo da  uberlandia mg d      400,00        0,00        0,00      400,00 c 06/11/23    
+uds004219-6      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+uds004139-4      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+uds004210-2      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       80,00        0,00        0,00       80,00 c 06/11/23    
+uds004245-5      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+gys000796-0      000 000000000 31060527000135 bonfinopolis industr  bonfinopol go d      280,00        0,00        0,00      280,00 c 06/11/23    
+uds004147-5      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+spo101035-2      001 000317189 00002386154130 karla marques dos sa  caldas nov go d      160,00        0,00        0,00      160,00 c 06/11/23    
+spo101541-9      001 000317709 20674446000109 casa dos paraf. carm  monte carm mg d      337,50        0,00       17,50      320,00 c 06/11/23    
+uds004226-9      000 000000000 22987189000190 casa das embalagens   unai       mg d      145,00        0,00        0,00      145,00 c 06/11/23    
+uds004266-8      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 06/11/23    
+spo101107-3      001 000317284 24932814000122 big compacta embalag  catalao    go d      367,60        0,00        0,00      367,60 c 06/11/23    
+udi010001-3      001 000009886 48003346000170 guilherme henrique d  vazante    mg d      200,00        0,00        0,00      200,00 c 06/11/23    
+uds004190-4      000 000000000 00007221641650 francieli rodrigues   coromandel mg d      800,00        0,00        0,00      800,00 c 06/11/23    
+uds004243-9      000 000000000 46064065000100 forte minas represen  uberlandia mg d      700,00        0,00        0,00      700,00 c 06/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:   8
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 999 conta caixa              11111 111111111
+udi010002-1      001 000009887 17861766000163 vimacon ltda          vazante    mg d      200,00        0,00       30,00      170,00 c 06/11/23    
+sps001634-9      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 06/11/23    
+uds004247-1      000 000000000 00032353332668 fausto da silveira e  coromandel mg d       60,00        0,00        0,00       60,00 c 06/11/23    
+sps001632-2      000 000000000 16926165000129 estudante presentes   unai       mg d      250,00        0,00        0,00      250,00 c 06/11/23    
+spo099663-7      001 000315861 25626946000199 auto posto garapuava  unai       mg d    1.600,00        0,00        0,00    1.600,00 c 07/11/23    
+cor002567-4      001 000056105 13778752000120 ceramica veredas ltd  arinos     mg d      300,00        0,00        0,00      300,00 c 08/11/23    
+uds004279-0      000 000000000 00010216615623 danilo bona fruta     abadia dos mg d       60,00        0,00        0,00       60,00 c 08/11/23    
+spo101986-4      001 000318150 17532094000142 nivaldo xavier lemes  coromandel mg d      150,00        0,00        0,00      150,00 c 08/11/23    
+spo101600-8      001 000317790 01722595000151 joclei ltda epp       joao pinhe mg d    1.477,27        0,00        0,00    1.477,27 c 08/11/23    
+spo101888-4      001 000318055 64249949000102 ronaldo ferreira per  vazante    mg d      350,00        0,00       25,00      325,00 c 08/11/23    
+spo101494-3      001 000317661 04073189000101 zuleide balbino de m  urucuia    mg d      180,00        0,00        0,00      180,00 c 08/11/23    
+spo101724-1      001 000317918 04073189000101 zuleide balbino de m  urucuia    mg d      300,00        0,00       40,00      260,00 c 08/11/23    
+spo101512-5      001 000317690 04265999000151 construfacil buritis  buritis    mg d      170,45        0,00        0,00      170,45 c 08/11/23    
+spo101751-9      001 000317937 86384534000184 construmatos materia  arinos     mg d    1.449,00        0,00       74,00    1.375,00 c 08/11/23    
+spo101671-7      001 000317830 03205233000119 geralda maria de oli  unai       mg d      160,00        0,00        0,00      160,00 c 08/11/23    
+spo101482-0      001 000317639 66437690000159 comercial gerais ltd  joao pinhe mg d      250,00        0,00       13,00      237,00 c 08/11/23    
+spo101551-6      001 000317761 27751832000104 pamuna industria de   unai       mg d    1.490,00        0,00        0,00    1.490,00 c 08/11/23    
+spo101763-2      001 000317921 41059157000170 ribeiro pecas e serv  lagoa gran mg d      125,00        0,00        6,25      118,75 c 08/11/23    
+spo101354-8      001 000317579 03205233000119 geralda maria de oli  unai       mg d      150,00        0,00        0,00      150,00 c 08/11/23    
+spo101557-5      001 000317720 04073189000101 zuleide balbino de m  urucuia    mg d      180,00        0,00        0,00      180,00 c 08/11/23    
+spo101844-2      001 000317994 00604831000172 luis antonio alvaren  coromandel mg d      625,00        0,00       62,50      562,50 c 08/11/23    
+spo101498-6      001 000317670 25820705000186 borjao tratores ltda  joao pinhe mg d      184,83        0,00        9,25      175,58 c 08/11/23    
+spo101485-4      001 000317653 34355820000118 mairon ferreira paz   unai       mg d      396,95        0,00        0,00      396,95 c 08/11/23    
+spo101708-0      001 000317859 11393914000186 wilson jose de melo   nova ponte mg d      249,00        0,00        0,00      249,00 c 08/11/23    
+spo101847-7      001 000318015 00024470686034 aliceu kogler         formoso    mg d      170,00        0,00        0,00      170,00 c 08/11/23    
+spo101894-9      001 000318044 20157756000156 comercial de tintas   patrocinio mg d      571,42        0,00       28,58      542,84 c 08/11/23    
+spo101886-8      001 000318043 11477071000104 cida presentes unai   unai       mg d      230,00        0,00       11,50      218,50 c 08/11/23    
+spo100754-8      001 000316921 34574788000161 victor rodrigues bot  paracatu   mg d      150,00        0,00        0,00      150,00 c 08/11/23    
+spo101357-2      001 000317533 05353801000154 joao henrique de mes  riachinho  mg d      180,00        0,00        0,00      180,00 c 08/11/23    
+spo101936-8      001 000318097 06052515000111 dione maria de resen  coromandel mg d      548,18        0,00       54,80      493,38 c 08/11/23    
+cos000414-6      000 000000000 00067790895672 ari noe nunes         coromandel mg d      600,00        0,00        0,00      600,00 c 08/11/23    
+spo101480-3      001 000317637 26225791000141 distribuidora de ovo  unai       mg d      550,00        0,00       30,00      520,00 c 08/11/23    
+spo101934-1      001 000318095 10277910000170 coml. de ferrag. fer  vazante    mg d      350,00        0,00       18,00      332,00 c 09/11/23    
+spo101925-2      001 000318092 26491841000132 scritorius moveis lt  patos de m mg d    1.832,50        0,00       92,50    1.740,00 c 09/11/23    
+spo101978-3      001 000318141 00005477714441 kel max batista dutr  patos de m mg d      200,00        0,00        0,00      200,00 c 09/11/23    
+uds004287-1      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 09/11/23    
+0050422-0                      01783014000191 auto diesel pereira   coromandel mg d       80,00        0,00        0,00       80,00 c 09/11/23    
+0049799-1                      01783014000191 auto diesel pereira   coromandel mg d      120,00        0,00        0,00      120,00 c 09/11/23    
+uds004276-5      000 000000000 20734869000177 copeve coromandel pe  coromandel mg d       40,00        0,00        0,00       40,00 c 13/11/23    
+spo102193-1      001 000318349 03205233000119 geralda maria de oli  unai       mg d      150,00        0,00        0,00      150,00 c 13/11/23    
+uds004295-1      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 13/11/23    
+udi010009-9      001 000009893 45638899000100 luiza cristina ribei  lagoa form mg d      130,00        0,00        0,00      130,00 c 13/11/23    
+sps001622-5      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      320,00        0,00        0,00      320,00 c 13/11/23    
+sps001637-3      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 13/11/23    
+sps001630-6      000 000000000 06028257000138 buriti azul calcinac  guarda-mor mg d      150,00        0,00        0,00      150,00 c 13/11/23    
+sps001611-0      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      896,00        0,00        0,00      896,00 c 13/11/23    
+spo102046-3      001 000318229 03077491000167 iva isidio borges-me  vazante    mg d      380,00        0,00       20,00      360,00 c 13/11/23    
+sps001648-9      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 13/11/23    
+sps001612-8      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      540,59        0,00        0,00      540,59 c 13/11/23    
+spo101997-0      001 000318253 00604831000172 luis antonio alvaren  coromandel mg d      722,68        0,00      142,00      580,68 c 13/11/23    
+gys000748-0      000 000000000 37606155000186 1656 - blue mountain  uberlandia mg d      100,00        0,00        0,00      100,00 c 13/11/23    
+spo101999-6      001 000318160 03205233000119 geralda maria de oli  unai       mg d      160,00        0,00        0,00      160,00 c 13/11/23    
+uds004269-2      000 000000000 45638899000100 luiza cristina ribei  lagoa form mg d      110,00        0,00       12,00       98,00 c 13/11/23    
+sps001644-6      000 000000000 00005236039673 maria aparecida alve  unai       mg d      250,00        0,00        0,00      250,00 c 13/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:   9
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 999 conta caixa              11111 111111111
+spo102024-2      001 000318177 71472179000128 nacional pneus e bat  coromandel mg d      339,13        0,00       16,95      322,18 c 13/11/23    
+sps001638-1      000 000000000 00000946203695 wolney gleimon meire  paracatu   mg d      250,00        0,00        0,00      250,00 c 13/11/23    
+gys000752-8      000 000000000 00004701611670 marcelo alexandre da  uberlandia mg d      200,00        0,00        0,00      200,00 c 13/11/23    
+uds004229-3      000 000000000 00004818404608 maria aparecida borg  coromandel mg d       60,00        0,00        0,00       60,00 c 13/11/23    
+spo102067-6      001 000318220 20674446000109 casa dos paraf. carm  monte carm mg d      136,36        0,00        6,81      129,55 c 13/11/23    
+sps001645-4      000 000000000 00005413768613 clesio vasconcelos s  coromandel mg d    2.000,00        0,00        0,00    2.000,00 c 13/11/23    
+spo102200-8      001 000318361 13144715000160 3002363 - mundial ti  patrocinio mg d      163,44        0,00        8,19      155,25 c 13/11/23    
+gys000776-5      000 000000000 37606155000186 1656 - blue mountain  uberlandia mg d      100,00        0,00        0,00      100,00 c 13/11/23    
+spo102064-1      001 000318208 51543466000174 o mundo das tintas l  joao pinhe mg d      200,00        0,00        0,00      200,00 c 13/11/23    
+uds004230-7      000 000000000 00068758707620 antonio carlos perei  coromandel mg d       60,00        0,00        0,00       60,00 c 13/11/23    
+spo102105-2      001 000318261 49948107000155 patrotintas ltda      patrocinio mg d      683,22        0,00       34,22      649,00 c 13/11/23    
+uds004253-6      000 000000000 00004818404608 maria aparecida borg  coromandel mg d      300,00        0,00        0,00      300,00 c 13/11/23    
+sps001620-9      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      665,26        0,00        0,00      665,26 c 13/11/23    
+gys000804-4      000 000000000 13030907000145 distribuidora triang  vazante    mg d      150,00        0,00        8,00      142,00 c 13/11/23    
+pas000132-5      000 000000000 00014023720607 david lucas           brasilandi mg d      300,00        0,00        0,00      300,00 c 13/11/23    
+sps001623-3      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      280,00        0,00        0,00      280,00 c 13/11/23    
+spo101982-1      001 000318143 30941829000150 zipper modas ltda     unai       mg d      180,00        0,00        0,00      180,00 c 13/11/23    
+spo102164-8      001 000318338 00604831000172 luis antonio alvaren  coromandel mg d      180,00        0,00       18,00      162,00 c 13/11/23    
+uds004211-1      000 000000000 02557383000129 dipel distr patense   patos de m mg d      492,80        0,00        0,00      492,80 c 13/11/23    
+uds004286-2      000 000000000 20734869000177 copeve coromandel pe  coromandel mg d       40,00        0,00        0,00       40,00 c 13/11/23    
+udi010013-7      001 000009898 25839127000120 torrefacao e moagem   unai       mg d      238,00        0,00        0,00      238,00 c 13/11/23    
+udi010034-0      001 000009919 06979441000163 lm industria ltda     vazante    mg d      180,00        0,00        9,00      171,00 c 13/11/23    
+sps001646-2      000 000000000 00059200979653 waldo ramos jr        sao paulo  sp d      150,00        0,00        0,00      150,00 c 13/11/23    
+uds004224-2      000 000000000 19849277000111 gufi distribuidora d  uberlandia mg d      150,00        0,00        0,00      150,00 c 13/11/23    
+spo102120-6      001 000318309 00016097063660 jean carlos goncalve  unai       mg d      299,00        0,00       15,00      284,00 c 13/11/23    
+spo102123-1      001 000318314 10277910000170 coml. de ferrag. fer  vazante    mg d      285,00        0,00       15,00      270,00 c 13/11/23    
+uds004291-9      000 000000000 00036668923615 sebastiao ruiter per  coromandel mg d       40,00        0,00        0,00       40,00 c 13/11/23    
+sps001639-0      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 13/11/23    
+spo101947-3      001 000318108 00006730729678 tiago cardoso santan  brasilandi mg d      170,00        0,00        0,00      170,00 c 13/11/23    
+sps001607-1      000 000000000 06028257000138 buriti azul calcinac  guarda-mor mg d      150,00        0,00        0,00      150,00 c 13/11/23    
+gys000805-2      000 000000000 00006524014650 guilherme nunes marr  uberaba    mg d      514,85        0,00       25,75      489,10 c 13/11/23    
+uds004234-0      000 000000000 21289101000102 gabriel alves vieira  coromandel mg d      256,00        0,00        0,00      256,00 c 13/11/23    
+gys000788-9      000 000000000 00006524014650 guilherme nunes marr  uberaba    mg d      492,80        0,00        0,00      492,80 c 13/11/23    
+sps001617-9      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      320,00        0,00        0,00      320,00 c 13/11/23    
+uds004252-8      000 000000000 00068758707620 antonio carlos perei  coromandel mg d      120,00        0,00       50,00       70,00 c 13/11/23    
+gys000802-8      000 000000000 31060527000135 bonfinopolis industr  bonfinopol go d      300,00        0,00        0,00      300,00 c 13/11/23    
+uds004241-2      000 000000000 51917449000150 fernando valvulas e   coromandel mg d       40,00        0,00        0,00       40,00 c 13/11/23    
+0049454-2                      26110916000198 casa do estudante pa  coromandel mg d      779,76        0,00        0,76      779,00 c 13/11/23    
+0049469-1                      04971961000102 jose eustaquio da ro  coromandel mg d      250,00        0,00        0,00      250,00 c 13/11/23    
+spo102216-4      001 000318393 17460188000153 jose luis goncalves   buritis    mg d      180,00        0,00       10,00      170,00 c 16/11/23    
+spo102311-0      001 000318463 06052515000111 dione maria de resen  coromandel mg d      147,73        0,00        0,00      147,73 c 16/11/23    
+spo102493-1      001 000318638 22613582000114 carlos vargas braga   unai       mg d    1.340,91        0,00      139,00    1.201,91 c 16/11/23    
+gyn003605-6      001 000003554 52669282000118 raniara lisboa doura  buritis    mg d      141,26        0,00        8,00      133,26 c 16/11/23    
+gys000809-5      000 000000000 10369000000117 distribuidora silva   coromandel mg d      332,80        0,00       16,80      316,00 c 16/11/23    
+gyn003607-2      001 000003556 31172253000176 jose maria pereira d  unai       mg d      188,34        0,00        0,00      188,34 c 16/11/23    
+uds004301-0      000 000000000 00010216615623 danilo bona fruta     abadia dos mg d       60,00        0,00        0,00       60,00 c 16/11/23    
+spo102458-2      001 000318611 20157756000156 comercial de tintas   patrocinio mg d      381,38        0,00        0,00      381,38 c 16/11/23    
+spo102298-9      001 000318439 48008793000111 casa das embalagens   buritis    mg d      180,00        0,00       10,00      170,00 c 16/11/23    
+spo102316-1      001 000318468 28995219000197 eudimar dos reis cai  lagamar    mg d      180,00        0,00        9,00      171,00 c 16/11/23    
+spo102278-4      001 000318449 65121287000153 15140-jomar tintas l  unai       mg d      447,02        0,00       23,02      424,00 c 16/11/23    
+spo102315-2      001 000318467 43645462000179 r f braga ferragens   paracatu   mg d      280,00        0,00       14,00      266,00 c 16/11/23    
+spo102268-7      001 000318424 20157756000156 comercial de tintas   patrocinio mg d      590,20        0,00       48,58      541,62 c 16/11/23    
+spo102032-3      001 000318189 00808242000106 irmaos konishi comer  paracatu   mg d    1.857,16        0,00       92,86    1.764,30 c 16/11/23    
+spo102248-2      001 000318382 04073189000101 zuleide balbino de m  urucuia    mg d      280,00        0,00       15,00      265,00 c 16/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:  10
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 999 conta caixa              11111 111111111
+spo102637-2      001 000318777 20157756000156 comercial de tintas   patrocinio mg d      136,36        0,00       88,04       48,32 c 20/11/23    
+spo102564-3      001 000318730 00604831000172 luis antonio alvaren  coromandel mg d      225,00        0,00       22,50      202,50 c 20/11/23    
+spo102560-1      001 000318711 71472179000128 nacional pneus e bat  coromandel mg d      159,09        0,00       19,09      140,00 c 20/11/23    
+gys000808-7      000 000000000 00006524014650 guilherme nunes marr  uberaba    mg d      140,00        0,00        0,00      140,00 c 20/11/23    
+gys000816-8      000 000000000 10369000000117 distribuidora silva   coromandel mg d      155,60        0,00        7,60      148,00 c 20/11/23    
+uds004274-9      000 000000000 38890692000163 renata bispo ferreir  catalao    go d      110,00        0,00        0,00      110,00 c 20/11/23    
+spo102679-8      001 000318822 20157756000156 comercial de tintas   patrocinio mg d    1.624,31        0,00        0,00    1.624,31 c 20/11/23    
+spo101995-3      001 000318158 20674750000156 santos materiais par  nova ponte mg d      250,00        0,00       12,50      237,50 c 20/11/23    
+spo102302-1      001 000318457 26332999000160 comercial limoeira l  lagoa form mg d      419,27        0,00       20,96      398,31 c 20/11/23    
+spo102536-8      001 000318701 22792395000145 kelle cristina pinto  abadia dos mg d      150,00        0,00        8,00      142,00 c 20/11/23    
+spo102382-9      001 000318536 20674446000109 casa dos paraf. carm  monte carm mg d      440,36        0,00       22,36      418,00 c 20/11/23    
+spo102673-9      001 000318833 00005477714441 kel max batista dutr  patos de m mg d      799,00        0,00        0,00      799,00 c 20/11/23    
+spo102641-1      001 000318786 05326514000155 avenida tintas ltda   patrocinio mg d      136,36        0,00        6,81      129,55 c 20/11/23    
+gys000819-2      000 000000000 00006524014650 guilherme nunes marr  uberaba    mg d    1.934,80        0,00      118,00    1.816,80 c 20/11/23    
+spo102538-4      001 000318686 00005872540418 adriano venancio da   patos de m mg d      200,00        0,00        0,00      200,00 c 20/11/23    
+spo102381-1      001 000318535 24932814000122 big compacta embalag  catalao    go d      190,00        0,00        0,00      190,00 c 20/11/23    
+gys000815-0      000 000000000 00006524014650 guilherme nunes marr  uberaba    mg d      261,45        0,00        0,00      261,45 c 20/11/23    
+spo102751-4      001 000318902 41873191000183 regina rosa lemes -   coromandel mg d      302,50        0,00        0,00      302,50 c 20/11/23    
+spo102857-0      001 000319008 20157756000156 comercial de tintas   patrocinio mg d      274,20        0,00       13,71      260,49 c 22/11/23    
+spo102834-1      001 000318979 17740996000174 center diesel         unai       mg d      150,00        0,00        0,00      150,00 c 22/11/23    
+uds004302-8      000 000000000 29603049000110 eni vieira paulista   romaria    mg d      110,00        0,00        0,00      110,00 c 22/11/23    
+uds004193-9      000 000000000 03527759000115 lkr servicos ltda     uberlandia mg d      100,00        0,00        0,00      100,00 c 22/11/23    
+spo102588-1      001 000318731 31172253000176 jose maria pereira d  unai       mg d      250,00        0,00        0,00      250,00 c 22/11/23    
+spo102804-9      001 000318941 02806049000161 imacebra acabamentos  vazante    mg d      159,09        0,00        8,09      151,00 c 22/11/23    
+uds004321-4      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 22/11/23    
+sps001655-1      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 22/11/23    
+spo102660-7      001 000318811 17803326000150 mugui mat constr ltd  lagoa gran mg d      200,00        0,00       10,00      190,00 c 22/11/23    
+spo102998-3      001 000319122 05326514000155 avenida tintas ltda   patrocinio mg d      313,94        0,00        0,00      313,94 c 22/11/23    
+sps001650-1      000 000000000 00005236039673 maria aparecida alve  unai       mg d      200,00        0,00        0,00      200,00 c 22/11/23    
+spo102847-2      001 000318999 48897898000179 ideal irrigacao uber  uberlandia mg d    3.800,00        0,00        0,00    3.800,00 c 22/11/23    
+gys000781-1      000 000000000 12418267000182 agnaldo antonio borg  monte carm mg d      146,63        0,00        0,00      146,63 c 22/11/23    
+sps001624-1      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      302,00        0,00        0,00      302,00 c 22/11/23    
+pas000133-3      000 000000000 00000946203695 wolney gleimon meire  paracatu   mg d      250,00        0,00        0,00      250,00 c 22/11/23    
+spo102513-9      001 000318669 42844750000190 agrorezende ltda      paracatu   mg d      450,00        0,00       22,50      427,50 c 22/11/23    
+sps001633-1      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      302,00        0,00        0,00      302,00 c 22/11/23    
+uds004332-0      000 000000000 00099893827604 nelson calixto de ol  coromandel mg d       40,00        0,00        0,00       40,00 c 22/11/23    
+uds004213-7      000 000000000 00099893827604 nelson calixto de ol  coromandel mg d       80,00        0,00        0,00       80,00 c 22/11/23    
+sps001652-7      000 000000000 66193962000112 graia representacoes  uberlandia mg d      100,00        0,00        0,00      100,00 c 22/11/23    
+spo100797-1      001 000316963 39317626000161 castelli mat constr   presidente mg d      159,09        0,00        0,00      159,09 c 22/11/23    
+spo102805-7      001 000318942 15245598000156 maria aparecida de b  lagoa form mg d      159,09        0,00        8,00      151,09 c 22/11/23    
+sps001656-0      000 000000000 00005236039673 maria aparecida alve  unai       mg d      250,00        0,00        0,00      250,00 c 22/11/23    
+uds004314-1      000 000000000 51917449000150 fernando valvulas e   coromandel mg d       40,00        0,00        0,00       40,00 c 22/11/23    
+spo102932-1      001 000319093 41103869000149 dilson linhares de o  unai       mg d      150,00        0,00        0,00      150,00 c 22/11/23    
+spo102608-9      001 000318768 00808242000106 irmaos konishi comer  paracatu   mg d      692,16        0,00       34,56      657,60 c 22/11/23    
+uds004327-3      000 000000000 04353697000135 augustinho soares de  coromandel mg d       40,00        0,00        0,00       40,00 c 22/11/23    
+spo102337-3      001 000318505 23113335000111 ceramica j b ltda     rio parana mg d      163,88        0,00        0,00      163,88 c 22/11/23    
+spo102926-6      001 000319067 05326514000155 avenida tintas ltda   patrocinio mg d      136,36        0,00       29,92      106,44 c 22/11/23    
+uds004240-4      000 000000000 03181877000114 rede tvn ltda me      coromandel mg d       40,00        0,00        0,00       40,00 c 22/11/23    
+spo102791-3      001 000318907 00001219296635 alexsandro geraldo d  unai       mg d      150,00        0,00        0,00      150,00 c 22/11/23    
+spo102848-1      001 000319000 48897898000179 ideal irrigacao uber  uberlandia mg d      250,00        0,00        0,00      250,00 c 22/11/23    
+spo102859-6      001 000319010 06052515000111 dione maria de resen  coromandel mg d      250,00        0,00       25,00      225,00 c 22/11/23    
+spo102875-8      001 000319054 05326514000155 avenida tintas ltda   patrocinio mg d      148,52        0,00        0,00      148,52 c 22/11/23    
+spo102515-5      001 000318671 20445052000189 noroeste auto pecas   unai       mg d      150,00        0,00        0,00      150,00 c 22/11/23    
+sps001659-4      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 22/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:  11
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 999 conta caixa              11111 111111111
+uds004320-6      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 22/11/23    
+uds004326-5      000 000000000 00010216615623 danilo bona fruta     abadia dos mg d       60,00        0,00        0,00       60,00 c 22/11/23    
+cos000416-2      000 000000000 70969753000195 antenor jose de lima  vazante    mg d       80,00        0,00        0,00       80,00 c 22/11/23    
+uds004293-5      000 000000000 41621238000111 mineracao areia ange  uberaba    mg d      450,00        0,00        0,00      450,00 c 22/11/23    
+spo102994-1      001 000319121 11477071000104 cida presentes unai   unai       mg d      250,00        0,00       12,50      237,50 c 22/11/23    
+uds004329-0      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 22/11/23    
+sps001626-8      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      280,00        0,00        0,00      280,00 c 22/11/23    
+spo102618-6      001 000318762 21796515000110 edmar pires barbosa   unai       mg d      180,00        0,00        9,00      171,00 c 22/11/23    
+udi010063-3      001 000009948 35893342000162 maria veronica de fa  paracatu   mg d      300,00        0,00        0,00      300,00 c 22/11/23    
+0049769-0                      04971961000102 jose eustaquio da ro  coromandel mg d      280,00        0,00        0,00       50,00 c 22/11/23    
+0050073-9                      04971961000102 jose eustaquio da ro  coromandel mg d      150,00        0,00        0,00      150,00 c 22/11/23    
+uds004346-0      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 24/11/23    
+uds004333-8      000 000000000 00002908307618 leonardo abrao borge  coromandel mg d      151,80        0,00        7,60      144,20 c 24/11/23    
+uds004340-1      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 24/11/23    
+uds004343-5      000 000000000 04353697000135 augustinho soares de  coromandel mg d       40,00        0,00        0,00       40,00 c 24/11/23    
+spo103076-1      001 000319238 00005477714441 kel max batista dutr  patos de m mg d      300,00        0,00        0,00      300,00 c 27/11/23    
+gyn003633-1      001 000003581 52669282000118 raniara lisboa doura  buritis    mg d      227,27        0,00        0,00      227,27 c 27/11/23    
+spo102794-8      001 000318948 21786888000100 jra comercio e servi  joao pinhe mg d      201,70        0,00       19,70      182,00 c 27/11/23    
+spo102956-8      001 000319068 17460188000153 jose luis goncalves   buritis    mg d      230,00        0,00       12,00      218,00 c 27/11/23    
+gyn003641-2      001 000003589 10198424000166 auto pecas lagamar l  lagamar    mg d      200,00        0,00       10,00      190,00 c 27/11/23    
+spo102798-1      001 000318936 00808242000106 irmaos konishi comer  paracatu   mg d      256,14        0,00        0,00      256,14 c 27/11/23    
+gys000831-1      000 000000000 10369000000117 distribuidora silva   coromandel mg d      265,60        0,00       13,60      252,00 c 27/11/23    
+spo103077-9      001 000319239 65121287000153 15140-jomar tintas l  unai       mg d      375,67        0,00       20,67      355,00 c 27/11/23    
+spo103414-6      001 000319555 00604831000172 luis antonio alvaren  coromandel mg d      180,00        0,00       18,00      162,00 c 27/11/23    
+spo103269-1      001 000319421 16957266000167 jaime de souza da lu  monte carm mg d      330,00        0,00       16,50      313,50 c 27/11/23    
+spo103038-8      001 000319200 10277910000170 coml. de ferrag. fer  vazante    mg d      150,00        0,00        8,00      142,00 c 27/11/23    
+spo103265-8      001 000319415 09611215000113 drogaria uniao de mo  monte carm mg d      150,00        0,00        0,00      150,00 c 27/11/23    
+spo103089-2      001 000319226 10562129000147 belchior p. de sousa  lagoa form mg d      250,00        0,00       12,50      237,50 c 27/11/23    
+spo103188-1      001 000319335 29705927000109 ler tintas ltda       patos de m mg d      159,09        0,00        0,00      159,09 c 27/11/23    
+spo103137-6      001 000319277 19334622000184 antonio de padua alv  presidente mg d      509,75        0,00       25,49      484,26 c 27/11/23    
+spo102856-1      001 000319007 00808242000106 irmaos konishi comer  paracatu   mg d      272,73        0,00       26,37      246,36 c 27/11/23    
+spo103018-3      001 000319167 25401195000102 adilson jacinto de s  unai       mg d      381,32        0,00       21,62      359,70 c 27/11/23    
+spo102587-2      001 000318742 03111258000153 maria aparecida mend  arinos     mg d      447,59        0,00        0,00      447,59 c 27/11/23    
+spo103305-1      001 000319452 06052515000111 dione maria de resen  coromandel mg d      267,05        0,00       26,70      240,35 c 27/11/23    
+gyn003634-0      001 000003582 52669282000118 raniara lisboa doura  buritis    mg d      227,27        0,00       23,54      203,73 c 27/11/23    
+spo103227-5      001 000319385 03205233000119 geralda maria de oli  unai       mg d      150,00        0,00        0,00      150,00 c 27/11/23    
+spo102940-1      001 000319057 49240350000114 via tintas e complem  joao pinhe mg d      147,73        0,00        7,38      140,35 c 27/11/23    
+spo102368-3      001 000318521 34574788000161 victor rodrigues bot  paracatu   mg d      180,00        0,00        0,00      180,00 c 27/11/23    
+spo102795-6      001 000318914 21786888000100 jra comercio e servi  joao pinhe mg d      170,45        0,00        0,00      170,45 c 27/11/23    
+spo102965-7      001 000319099 02682073000136 instaluz ltda         joao pinhe mg d      180,00        0,00        9,00      171,00 c 27/11/23    
+uds004341-9      000 000000000 33445409000170 camila goncalves pin  coromandel mg d       50,00        0,00        0,00       50,00 c 27/11/23    
+spo102797-2      001 000318918 01985527000185 maria a. l. santos e  joao pinhe mg d      180,00        0,00       10,00      170,00 c 27/11/23    
+spo103042-6      001 000319204 03205233000119 geralda maria de oli  unai       mg d      300,00        0,00        0,00      300,00 c 27/11/23    
+spo103325-5      001 000319469 20157756000156 comercial de tintas   patrocinio mg d      304,22        0,00       15,22      289,00 c 28/11/23    
+uds004352-4      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 28/11/23    
+uds004351-6      000 000000000 71472179000128 nacional pneus e bat  coromandel mg d       40,00        0,00        0,00       40,00 c 28/11/23    
+spo103489-8      001 000319623 05326514000155 avenida tintas ltda   patrocinio mg d      275,17        0,00        0,00      275,17 c 28/11/23    
+spo103425-1      001 000319579 05326514000155 avenida tintas ltda   patrocinio mg d      319,60        0,00        0,00      319,60 c 28/11/23    
+spo103483-9      001 000319622 00005872540418 adriano venancio da   patos de m mg d      180,00        0,00        0,00      180,00 c 28/11/23    
+spo103518-5      001 000319664 06198798000104 maria aparecida varg  coromandel mg d      160,00        0,00       16,00      144,00 c 28/11/23    
+gys000836-2      000 000000000 10369000000117 distribuidora silva   coromandel mg d      217,20        0,00       11,20      206,00 c 28/11/23    
+spo103079-5      001 000319211 05326514000155 avenida tintas ltda   patrocinio mg d      198,28        0,00       39,66      158,62 c 28/11/23    
+spo103383-2      001 000319513 17089046000121 loja paulular ltda    guimarania mg d      250,00        0,00       13,00      237,00 c 28/11/23    
+gys000826-5      000 000000000 13030907000145 distribuidora triang  vazante    mg d      184,44        0,00        9,44      175,00 c 28/11/23    
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:  12
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: mtz - matriz - empresa: 01                               agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 999 conta caixa              11111 111111111
+spo103501-1      001 000319651 64249949000102 ronaldo ferreira per  vazante    mg d      167,25        0,00       12,25      155,00 c 28/11/23    
+sps001672-1      000 000000000 00011288904614 pedro henrique gonca  coromandel mg d      200,00        0,00        0,00      200,00 c 30/11/23    
+uds004334-6      000 000000000 48535807000155 fic frio climatizaca  coromandel mg d       90,00        0,00        0,00       90,00 c 30/11/23    
+spo102636-4      001 000318776 24932814000122 big compacta embalag  catalao    go d      218,40        0,00        0,00      218,40 c 30/11/23    
+uds004285-4      000 000000000 03181877000114 rede tvn ltda me      coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+uds004261-7      000 000000000 03181877000114 rede tvn ltda me      coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+pas000130-9      000 000000000 17125458000250 bruno rabelo de souz  coromandel mg d      150,00        0,00        0,00      150,00 c 30/11/23    
+uds004273-1      000 000000000 19934439000110 molas andrade ltda -  araxa      mg d      150,00        0,00        0,00      150,00 c 30/11/23    
+uds004354-1      000 000000000 00010216615623 danilo bona fruta     abadia dos mg d       60,00        0,00        0,00       60,00 c 30/11/23    
+uds004284-6      000 000000000 03181877000114 rede tvn ltda me      coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+uds004260-9      000 000000000 03181877000114 rede tvn ltda me      coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+spo103385-9      001 000319515 15727947000176 cleiton rodrigues de  carmo do p mg d      250,00        0,00        0,00      250,00 c 30/11/23    
+uds004290-1      000 000000000 03181877000114 rede tvn ltda me      coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+uds004259-5      000 000000000 21289101000102 gabriel alves vieira  coromandel mg d      320,00        0,00        0,00      320,00 c 30/11/23    
+spo103592-4      001 000319744 10242880000166 agropecuaria brejo b  cruzeiro d mg d      180,00        0,00        0,00      180,00 c 30/11/23    
+gys000822-2      000 000000000 31060527000135 bonfinopolis industr  bonfinopol go d      100,00        0,00        0,00      100,00 c 30/11/23    
+uds004248-0      000 000000000 05341025000172 tr molas e comp ltda  patos de m mg d      680,00        0,00        0,00      680,00 c 30/11/23    
+uds004308-7      000 000000000 00068758707620 antonio carlos perei  coromandel mg d      100,00        0,00        0,00      100,00 c 30/11/23    
+sps001666-7      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 30/11/23    
+sps001664-1      000 000000000 66193962000112 graia representacoes  uberlandia mg d      100,00        0,00        0,00      100,00 c 30/11/23    
+sps001667-5      000 000000000 00005236039673 maria aparecida alve  unai       mg d      250,00        0,00        0,00      250,00 c 30/11/23    
+uds004361-3      000 000000000 47120288000100 marlos lucas dornela  coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+uds004312-5      000 000000000 20734869000177 copeve coromandel pe  coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+sps001669-1      000 000000000 00013243742684 alexandre lemos fons  paracatu   mg d      150,00        0,00        0,00      150,00 c 30/11/23    
+spo103407-3      001 000319529 13717271000104 carlos evaristo sant  patos de m mg d      256,10        0,00        0,00      256,10 c 30/11/23    
+uds004277-3      000 000000000 03181877000114 rede tvn ltda me      coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+uds004335-4      000 000000000 20734869000177 copeve coromandel pe  coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+uds004349-4      000 000000000 00007630332602 elidiane aparecida d  coromandel mg d      400,00        0,00        0,00      400,00 c 30/11/23    
+uds004345-1      000 000000000 51917449000150 fernando valvulas e   coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+sps001641-1      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      384,80        0,00        0,00      384,80 c 30/11/23    
+uds004281-1      000 000000000 03181877000114 rede tvn ltda me      coromandel mg d       40,00        0,00        0,00       40,00 c 30/11/23    
+gys000813-3      000 000000000 31060527000135 bonfinopolis industr  bonfinopol go d      400,00        0,00        0,00      400,00 c 30/11/23    
+gys000838-9      000 000000000 31060527000135 bonfinopolis industr  bonfinopol go d      380,00        0,00        0,00      380,00 c 30/11/23    
+uds004315-0      000 000000000 45638899000100 luiza cristina ribei  lagoa form mg d      169,40        0,00       18,47      150,93 c 30/11/23    
+uds004323-1      000 000000000 36520077000130 embalagens premium l  uberlandia mg d      140,00        0,00        0,00      140,00 c 30/11/23    
+sps001631-4      000 000000000 07924420000103 valtersi luiz da sil  coromandel mg d      300,00        0,00        0,00      300,00 c 30/11/23    
+sps001649-7      000 000000000 12279365000186 classe a comercio e   uberlandia mg d      320,00        0,00        0,00      320,00 c 30/11/23    
+spo103336-1      001 000319495 45703483000129 vera lucia de olivei  santa juli mg d      392,73        0,00       19,63      373,10 c 30/11/23    
+valor a ser depositado na conta corrente                                                                                  93.320,21
+
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+total de fretes liquidados                                                           234.752,84                          222.178,02
+                                                                                                       0,27    6.055,08
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+- coluna p identifica forma de pagamento: d-dinheiro, h-cheque, c-cartao credito, b-cartao debito, x-fatura descontada
+- coluna l identifica tipo de lancamento: c-credito,  d-debito, x-fatura descontada
+
+frete a vista pendente de liquidacao pela unidade:             0,00
+icms correspondente ao total de frete liquidado..:        22.907,68
+frete liquidado no periodo a serem depositados...: 
+- conta corrente 104   01697   000000959:                109.776,34 cre
+- conta corrente 237   02420   000001731:                 19.081,47 cre
+- conta corrente 999   11111   111111111:                 93.320,21 cre
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:  13
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: spo - expresso dalva eireli - empresa: 01                agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 104 caixa economica          01697 000000959
+spo101513-3      001 000317691 37787183000147 lilian alves pedra 0  unai       mg d      256,91        0,00        0,00      256,91 c 07/11/23    
+valor a ser depositado na conta corrente                                                                                     256,91
+
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+total de fretes liquidados                                                               256,91                              256,91
+                                                                                                       0,00        0,00
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+- coluna p identifica forma de pagamento: d-dinheiro, h-cheque, c-cartao credito, b-cartao debito, x-fatura descontada
+- coluna l identifica tipo de lancamento: c-credito,  d-debito, x-fatura descontada
+
+frete a vista pendente de liquidacao pela unidade:        15.815,21
+icms correspondente ao total de frete liquidado..:            30,83
+frete liquidado no periodo a serem depositados...: 
+- conta corrente 104   01697   000000959:                    256,91 cre
+
+2
+expresso dalva eireli                                                                                                                                                                           pag:  14
+ssw0256                                                                   fretes liquidados na unidade                                                                                    13/12/23 14:51
+unidade........: udi - expresso dalva eireli - empresa: 01                agencia
+periodo credito: 01/11/23 a 30/11/23
+----------------+-------------+--------------+---------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+ctrc/fatura/acni cte           pagador                              cidade     uf p vlr frt/fat    deb+juro    cre+desc       valor l  credito parceiro/ctrc origem observacao
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+conta corrente.: 999 conta caixa              11111 111111111
+0049166-7                      04971961000102 jose eustaquio da ro  coromandel mg d      150,00        0,00        0,00      150,00 c 03/11/23    
+valor a ser depositado na conta corrente                                                                                     150,00
+
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+total de fretes liquidados                                                               150,00                              150,00
+                                                                                                       0,00        0,00
+----------------+-------------+------------------------------------+----------+--+-+-----------+-----------+-----------+-----------+-+--------+--------------------+------------------------------------
+- coluna p identifica forma de pagamento: d-dinheiro, h-cheque, c-cartao credito, b-cartao debito, x-fatura descontada
+- coluna l identifica tipo de lancamento: c-credito,  d-debito, x-fatura descontada
+icms correspondente ao total de frete liquidado..:            18,00
+
+frete a vista pendente de liquidacao pela unidade:        10.902,42
+
+frete liquidado no periodo a serem depositados...: 
+- conta corrente 999   11111   111111111:                    150,00 cre
+

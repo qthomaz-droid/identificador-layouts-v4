@@ -1,0 +1,214 @@
+ 
+empresa :- fer pen                                                                                                    folha.:- 001
+                                                             conta.:- 0000 / 11643        banco do brasil
+bc2p007 :- extrato de conferencia                                                                                   em :- 04/06/2024
+====================================================================================================================================
+  data      cod historico                complemento                  documento           debito          credito             saldo
+====================================================================================================================================
+
+01/05/2024                                                        saldo anterior...                                      906.969,01c
+02/05/2024  121-despesas doc.bancario    tarf.pix                        000200             2,40
+02/05/2024  127-despesas diversas        claro jose luiz                 000500            66,17
+02/05/2024  127-despesas diversas        serralha com                    000501           741,00
+02/05/2024  127-despesas diversas        tr tools                        000502         2.066,95
+02/05/2024  127-despesas diversas        volker com                      000503         4.780,00
+02/05/2024  127-despesas diversas        madeu supermercado              000504           111,40
+02/05/2024  127-despesas diversas        marilene cadena                 000505           300,00
+02/05/2024  127-despesas diversas        serralha tintas                 000506           843,00
+02/05/2024  127-despesas diversas        celia - doacao                  000507           500,00
+02/05/2024  001-credito de cobranca      cobranca                        006620                          1.183,64
+02/05/2024  002-dep.online               roxvel turbinas                3251521                         22.902,85        921.644,58c
+03/05/2024  001-credito de cobranca      cobranca                        000001                         22.952,80
+03/05/2024  004-doc                      hugo henrique                   000100         2.171,62
+03/05/2024  004-doc                      altair do rosario               000101         1.880,44
+03/05/2024  127-despesas diversas        kaike felipe mestre             000102         1.388,52
+03/05/2024  127-despesas diversas        cintia nogueira goulart         000103           970,00
+03/05/2024  127-despesas diversas        leonardo miguel fenerich        000104         1.002,14
+03/05/2024  127-despesas diversas        pedro gabriel de oliveira       000105         1.833,65
+03/05/2024  121-despesas doc.bancario    tarf.pix                        000200             1,20
+03/05/2024  127-despesas diversas        tr tools                        000500         1.472,45
+03/05/2024  127-despesas diversas        sabesp                          000501           130,19
+03/05/2024  127-despesas diversas        claudenir frete marchesan       000502           625,00
+03/05/2024  127-despesas diversas        jose roberto da silva           000503           900,00
+03/05/2024  127-despesas diversas        folha de pagto                  000504        21.141,92
+03/05/2024  100-cheque                   izilda-faxinas                  856207           480,00                         910.600,25c
+06/05/2024  121-despesas doc.bancario    tarf.pix                        000200             6,00
+06/05/2024  127-despesas diversas        barbizan-aluguel                000500         5.000,00
+06/05/2024  127-despesas diversas        marilene cadena                 000501           750,00
+06/05/2024  127-despesas diversas        ji rojas                        000502         5.323,87
+06/05/2024  127-despesas diversas        intermaquinas                   000503        50.000,00
+06/05/2024  127-despesas diversas        assoc.rio grande do sul-doacao  000504           500,00
+06/05/2024  127-despesas diversas        dev.roxvel                      000505        22.902,85
+06/05/2024  127-despesas diversas        leandro frete weg               000506           400,00
+06/05/2024  001-credito de cobranca      cobranca                        006811                          2.730,00
+06/05/2024  103-despesas de cobranca     dsp cobr                       1011019             9,40                         828.438,13c
+07/05/2024  121-despesas doc.bancario    tarf.pix                        000200             3,60
+07/05/2024  127-despesas diversas        victor - frete cestari          000500            40,00
+07/05/2024  001-credito de cobranca      cobranca                        006292                          2.148,37        830.542,90c
+08/05/2024  121-despesas doc.bancario    tarf.pix                        000200             1,20
+08/05/2024  127-despesas diversas        tr tools                        000500           291,50
+08/05/2024  127-despesas diversas        juliano frete weg/roxvel        000501           130,00
+08/05/2024  127-despesas diversas        diego lourenco                  000502           850,00
+08/05/2024  001-credito de cobranca      cobranca                        006137                          5.800,00
+08/05/2024  002-dep.online               weg pg.parcial 12944            806251                            472,50
+08/05/2024  100-cheque                   saque caixa                     856208         1.500,00                         834.042,70c
+09/05/2024  121-despesas doc.bancario    tarf.pix                        000200             2,40
+09/05/2024  127-despesas diversas        tr tools                        000500         1.407,00
+09/05/2024  001-credito de cobranca      cobranca                        006071                         28.317,89
+09/05/2024  100-cheque                   valentim                        856093         9.644,98                         851.306,21c
+10/05/2024  127-despesas diversas        monte alto net                  000500            59,90
+10/05/2024  127-despesas diversas        jose manoel sanches             000501           280,00
+10/05/2024  127-despesas diversas        acotubo                         000502         1.378,26
+10/05/2024  127-despesas diversas        asa quality-izabel cristina     000503         2.824,00
+10/05/2024  127-despesas diversas        sos ferramentas                 000504         4.349,66 
+empresa :- fer pen                                                                                                    folha.:- 002
+                                                             conta.:- 0000 / 11643        banco do brasil
+bc2p007 :- extrato de conferencia                                                                                   em :- 04/06/2024
+====================================================================================================================================
+  data      cod historico                complemento                  documento           debito          credito             saldo
+====================================================================================================================================
+
+10/05/2024  127-despesas diversas        acima-convenio                  000505         6.970,99
+10/05/2024  127-despesas diversas        maxx limp                       000506            24,99
+10/05/2024  127-despesas diversas        w.m.s.t seguranca               000507           770,00                         834.648,41c
+13/05/2024  004-doc                      rcm distribuidora               000100           201,50
+13/05/2024  127-despesas diversas        leandro-2 viagens cestari       000101           110,00
+13/05/2024  121-despesas doc.bancario    tar pix                         000200             2,40
+13/05/2024  127-despesas diversas        tech service                    000500         5.982,19
+13/05/2024  127-despesas diversas        mg chaves                       000501           504,14
+13/05/2024  127-despesas diversas        avenida supermercado            000502            47,88
+13/05/2024  127-despesas diversas        marilene cadena                 000503           999,75
+13/05/2024  127-despesas diversas        eletron automacao indl          000504         2.510,00
+13/05/2024  127-despesas diversas        tech service                    000505           996,66
+13/05/2024  127-despesas diversas        claudenir-viagem matao          000506           625,00
+13/05/2024  103-despesas de cobranca     dsp cobr                       1011019             4,01
+13/05/2024  001-credito de cobranca      weg turbinas                   4148841                         20.377,54        843.042,42c
+14/05/2024  121-despesas doc.bancario    tar pix                         000200             3,60
+14/05/2024  127-despesas diversas        tr tools                        000500         1.496,20
+14/05/2024  004-doc                      marcelo-cestari/sertaozinho     000501           290,00
+14/05/2024  001-credito de cobranca      cobranca                        006031                         28.976,86        870.229,48c
+15/05/2024  127-despesas diversas        marcelo ap-fretes               000200           220,00
+15/05/2024  121-despesas doc.bancario    tar pix                         000201             1,20
+15/05/2024  127-despesas diversas        graac                           000500            60,00
+15/05/2024  127-despesas diversas        rodoalto transportes            000501            75,13
+15/05/2024  127-despesas diversas        origem contabilidade            000502         2.000,00
+15/05/2024  127-despesas diversas        hidrolux                        000503           165,00
+15/05/2024  001-credito de cobranca      cobranca                        003442                         14.376,67
+15/05/2024  103-despesas de cobranca     dsp cobr                       1011019            30,55                         882.054,27c
+16/05/2024  121-despesas doc.bancario    tar pix                         000200             1,20
+16/05/2024  127-despesas diversas        rompapel papelaria              000500           254,70
+16/05/2024  127-despesas diversas        conebras                        000501         2.052,27
+16/05/2024  127-despesas diversas        claudenir-frete                 000502         1.350,00
+16/05/2024  127-despesas diversas        juliano frete                   000503           130,00
+16/05/2024  103-despesas de cobranca     dsp cobr                       1011019            18,80                         878.247,30c
+17/05/2024  121-despesas doc.bancario    tarf.pix                        000200             3,60
+17/05/2024  127-despesas diversas        max limp                        000500            64,46
+17/05/2024  127-despesas diversas        inova pack                      000501           358,00
+17/05/2024  127-despesas diversas        tech service                    000502         1.958,93
+17/05/2024  127-despesas diversas        tech service                    000503         4.541,07
+17/05/2024  127-despesas diversas        volker com. de lubrif           000504         4.780,00
+17/05/2024  127-despesas diversas        erika-diego lourenco            000505         1.500,00
+17/05/2024  001-credito de cobranca      cobranca                        006235                         30.878,52        895.919,76c
+20/05/2024  121-despesas doc.bancario    tarf.pix                        000200             1,20
+20/05/2024  127-despesas diversas        unimed                          000500           957,28
+20/05/2024  127-despesas diversas        maxlub                          000501           748,00
+20/05/2024  127-despesas diversas        m d do brasil                   000502         1.200,00
+20/05/2024  127-despesas diversas        cia tools                       000503         3.584,60
+20/05/2024  127-despesas diversas        sindicato monte alto            000504           618,80
+20/05/2024  127-despesas diversas        cpfl                            000505        10.740,62
+20/05/2024  127-despesas diversas        ir/inss                         000506        36.748,91
+20/05/2024  127-despesas diversas        barbizan-iptu 2024 3/10         000507           316,00
+20/05/2024  127-despesas diversas        fgts                            000508         5.830,56
+20/05/2024  127-despesas diversas        folha de pagto                  000509        20.203,40
+20/05/2024  127-despesas diversas        adto-hugo henrique              000510         1.763,00
+20/05/2024  127-despesas diversas        adto-altair do rosario          000511         1.652,00
+20/05/2024  127-despesas diversas        adto-kaike felipe               000512         1.395,00 
+empresa :- fer pen                                                                                                    folha.:- 003
+                                                             conta.:- 0000 / 11643        banco do brasil
+bc2p007 :- extrato de conferencia                                                                                   em :- 04/06/2024
+====================================================================================================================================
+  data      cod historico                complemento                  documento           debito          credito             saldo
+====================================================================================================================================
+
+20/05/2024  127-despesas diversas        adto-cintia goulart             000513         1.000,00
+20/05/2024  127-despesas diversas        adto-pedro gabriel              000514         1.300,00
+20/05/2024  001-credito de cobranca      cobranca                        006764                          4.197,20
+20/05/2024  100-cheque                   jose luiz-retirada              856209         5.000,00
+20/05/2024  127-despesas diversas        google                         5699777           168,00                         806.889,59c
+21/05/2024  127-despesas diversas        tarf.adic.chq.compensado        000200             6,00
+21/05/2024  121-despesas doc.bancario    tarf.pix                        000201             3,60
+21/05/2024  127-despesas diversas        joao r.zolin                    000500           663,81
+21/05/2024  127-despesas diversas        conebras                        000501         1.594,38
+21/05/2024  127-despesas diversas        sos ferramentas                 000502         3.962,00
+21/05/2024  001-credito de cobranca      cobranca                        006091                         31.216,52        831.876,32c
+22/05/2024  127-despesas diversas        serralha gas                    000500           494,00
+22/05/2024  127-despesas diversas        joao r.zolin                    000501           663,81
+22/05/2024  127-despesas diversas        tr tools                        000502         1.770,50
+22/05/2024  127-despesas diversas        claudenir frete marchesan       000503           625,00
+22/05/2024  127-despesas diversas        marcelo frete cestari           000504            60,00
+22/05/2024  001-credito de cobranca      cobranca                        005851                         12.808,56        841.071,57c
+23/05/2024  121-despesas doc.bancario    tarf.pix                        000200             2,40
+23/05/2024  127-despesas diversas        vitor frete weg                 000500           240,00
+23/05/2024  127-despesas diversas        tr tools                        000501         1.472,45
+23/05/2024  127-despesas diversas        amarelinha supermercado         000502         1.987,50                         837.369,22c
+24/05/2024  121-despesas doc.bancario    tarf.pix                        000200             1,20
+24/05/2024  127-despesas diversas        pis ref 04/2024                 000500         1.589,91
+24/05/2024  127-despesas diversas        cofins ref.04/2024              000501         7.476,53
+24/05/2024  127-despesas diversas        claudenir frete marchesan       000502           625,00                         827.676,58c
+27/05/2024  121-despesas doc.bancario    tarf.pix                        000200             1,20
+27/05/2024  127-despesas diversas        santa casa                      000500         2.355,02
+27/05/2024  127-despesas diversas        edes pereira                    000501            48,00
+27/05/2024  127-despesas diversas        tr tools                        000502           365,40
+27/05/2024  127-despesas diversas        marcelo frete cestari           000503           120,00
+27/05/2024  001-credito de cobranca      cobranca                        006384                         35.991,94
+27/05/2024  002-dep.online               weg 12897/b                     491202                          3.072,12
+27/05/2024  103-despesas de cobranca     dsp cobr                       1011019            37,60                         863.813,42c
+28/05/2024  121-despesas doc.bancario    tarf.pix                        000200             1,20
+28/05/2024  127-despesas diversas        calejon relogios                000500           151,20
+28/05/2024  127-despesas diversas        cia tools                       000501         1.160,00
+28/05/2024  103-despesas de cobranca     dsp cobr                       1011019             4,01                         862.497,01c
+29/05/2024  127-despesas diversas        juliano frete cestari/weg       000500           150,00
+29/05/2024  127-despesas diversas        leandro frete ebara             000501         1.300,00
+29/05/2024  001-credito de cobranca      cobranca                        003436                          2.259,33        863.306,34c
+31/05/2024  121-despesas doc.bancario    tarf.pix                        000200             2,40
+31/05/2024  002-dep.online               rendimento aplicacao            000201                          4.966,00
+31/05/2024  127-despesas diversas        tr tools                        000500         1.814,30
+31/05/2024  127-despesas diversas        smi reforma                     000501         2.500,00
+31/05/2024  127-despesas diversas        salla ind                       000502            66,00
+31/05/2024  127-despesas diversas        kalunga                         000503           192,67
+31/05/2024  127-despesas diversas        claudenir fretes marchesan      000504         1.250,00
+31/05/2024  127-despesas diversas        juliano frete roxvel            000505           130,00
+31/05/2024  127-despesas diversas        vivo fixo                       000506            50,00
+31/05/2024  127-despesas diversas        vivo fixo abril                 000507            40,68
+31/05/2024  001-credito de cobranca      cobranca                        007935                         10.028,61
+31/05/2024  100-cheque                   adto.jose luiz                  856210         1.000,00
+31/05/2024  103-despesas de cobranca     dsp cobr                       1011019            42,30                         871.212,60c
+                                                                                           1  cheques em aberto..          1.000,00
+                                                                                              saldo do banco.....        872.212,60c 
+empresa :- fer pen                                                                                                    folha.:- 004
+                                                             conta.:- 0000 / 11643        banco do brasil
+bc2p007 :- extrato de conferencia                                                                                   em :- 04/06/2024
+====================================================================================================================================
+  data      cod historico                complemento                  documento           debito          credito             saldo
+====================================================================================================================================
+
+                    resumo por historico                                debito             credito
+                    =============================           ==================  ==================
+
+
+                    resumo por historico                                debito             credito
+                    =============================           ==================  ==================
+                     001-credito de cobranca                                            254.244,45
+                     002-dep.online                                                      31.413,47
+                     004-doc                                          4.543,56
+                     100-cheque                                      17.624,98
+                     103-despesas de cobranca                           146,67
+                     121-despesas doc.bancario                           42,00
+                     127-despesas diversas                          299.057,12
+
+                     999-total do resumo..                          321.414,33          285.657,92
+------------------------------------------------------------------------------------------------------------------------------------
+                      emissao    cheque  complemento                                     valor  conciliado
+                    ----------   ------  ---------------------------------------- ------------  ----------
+                    31/05/2024   856210  adto.jose luiz                               1.000,00  00/00/0000
+                                                              total dos cheques..     1.000,00

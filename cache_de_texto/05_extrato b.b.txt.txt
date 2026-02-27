@@ -1,0 +1,156 @@
+================================================================================================================================================================
+extrato conta corrente                                                                                                                       g332030911183281010
+                                                                                                                                             03/09/2019 09:15:50
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+cliente - cliente atual
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+agncia                       215-1
+conta corrente                6926-4 com joao l frizzera ltda
+perodo do extrato            
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+lanamentos
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ dt. movimento  dt. balancete    ag. origem        lote     histrico                                    documento         valor r$            saldo
+   31/07/2019                       0000          00000     000 saldo anterior                                                            6.470,03 c
+   01/08/2019                       0000          14134     612 recebimento fornecedor                     921.180       2.808,22 c       9.278,25 c
+                              companhia brasileira de solucoes e
+   01/08/2019                       1981          13070     114 devolu cheque depositado                  850.481         500,00 d       8.778,25 c
+                              cheque sem fundos - 2a apresentao
+   01/08/2019                       0000          10846     631 desbloqueio de depsito              1.412.886.861         500,00 c       9.278,25 c
+   02/08/2019                       0000          14134     612 recebimento fornecedor                     921.280       1.575,89 c      10.854,14 c
+                              companhia brasileira de solucoes e
+   05/08/2019                       0215          11685     511 depsito bloquead.1d til            1.412.886.887            43950      10.854,14 c
+   05/08/2019                       0215          11685     510 dep cheque bb liquidado              1.412.886.887         305,94 c      11.160,08 c
+   05/08/2019                       0000          14175     623 doc-duplicatas/ttulos                     805.651         780,31 c      11.940,39 c
+                              033 1350 47866934000174 ticket servico
+   05/08/2019                       0000          14134     612 recebimento fornecedor                     921.380       4.411,93 c      16.352,32 c
+                              companhia brasileira de solucoes e
+   05/08/2019                       0000          13113     435 tarifa pacote de servios      802.171.000.155.669          84,00 d      16.268,32 c
+                              cobrana referente 05/08/2019
+   06/08/2019                       0000          14134     612 recebimento fornecedor                       1.784       1.258,85 c      17.527,17 c
+                              vr beneficios e servicos de process
+   06/08/2019                       0000          14175     976 ted-crdito em conta                     3.879.306           4,00 c      17.531,17 c
+                              341 0350 18147500000116 scanntech bras
+   06/08/2019                       0000          14175     976 ted-duplicata e ttulos                  8.837.825       7.298,02 c      24.829,19 c
+                              033 1350 47866934000174 ticket servico
+   06/08/2019                       0000          14175     976 ted-pag fornecedores                     8.866.210       5.576,36 c      30.405,55 c
+                              033 0204 69034668000156 sodexo pass do
+   06/08/2019                       0215          10977     002 cheque                                     852.100      13.125,25 d      17.280,30 c
+   06/08/2019                       0000          10846     631 desbloqueio de depsito              1.412.886.887         439,50 c      17.719,80 c
+   07/08/2019                       0000          14134     612 recebimento fornecedor                     921.780       1.536,49 c      19.256,29 c
+                              companhia brasileira de solucoes e
+   07/08/2019                       0000          14175     976 ted-crdito em conta                    33.325.485         777,79 c      20.034,08 c
+                              756 0001  3766873000106 cabal brasil
+   07/08/2019                       0000          14105     874 transferncia agendada         339.400.000.013.014          83,66 c      20.117,74 c
+                              07/08 3394      13014-1 tudobom comerc
+   08/08/2019                       0215          11685     510 dep cheque bb liquidado              1.412.886.895       5.748,57 c      25.866,31 c
+   08/08/2019                       0000          14134     612 recebimento fornecedor                     921.880       1.121,91 c      26.988,22 c
+                              companhia brasileira de solucoes e
+   08/08/2019                       0000          14175     976 ted-crdito em conta                     3.746.117         119,79 c      27.108,01 c
+                              341 0219 19199702000174 chua dist alim
+   09/08/2019                       0215          11685     510 dep cheque bb liquidado          2.151.168.500.052       3.373,07 c      30.481,08 c
+   09/08/2019                       0000          14134     612 recebimento fornecedor                     921.980         880,14 c      31.361,22 c
+                              companhia brasileira de solucoes e
+   12/08/2019                       0000          14175     623 doc-duplicatas/ttulos                     395.996         484,48 c      31.845,70 c
+                              033 1350 47866934000174 ticket servico
+   12/08/2019                       0000          14134     612 recebimento fornecedor                     922.080       3.817,13 c      35.662,83 c
+                              companhia brasileira de solucoes e
+   13/08/2019                       0000          14134     612 recebimento fornecedor                       1.795         666,66 c      36.329,49 c
+                              vr beneficios e servicos de process
+   13/08/2019                       0000          14175     976 ted-duplicata e ttulos                  6.127.012       7.667,35 c      43.996,84 c
+                              033 1350 47866934000174 ticket servico
+   13/08/2019                       0000          14175     976 ted-pag fornecedores                     6.131.528       4.192,47 c      48.189,31 c
+                              033 0204 69034668000156 sodexo pass do
+   13/08/2019                       0215          10977     002 cheque                                     852.101      33.913,83 d      14.275,48 c
+   14/08/2019                       0000          14134     612 recebimento fornecedor                     922.480         584,35 c      14.859,83 c
+                              companhia brasileira de solucoes e
+   14/08/2019                       0000          14175     976 ted-pag fornecedores                     4.103.727         504,19 c      15.364,02 c
+                              237 2011 16849231000104 itambe aliment
+   15/08/2019                       0215          99015     870 transferncia recebida         550.215.000.026.597       4.959,96 c      20.323,98 c
+                              15/08 0215      26597-7 caixa e f r ha
+   15/08/2019                       0215          99015     870 transferncia recebida         550.215.000.026.598       5.461,65 c      25.785,63 c
+                              15/08 0215      26598-5 caixa e f r ha
+   15/08/2019                       0000          14175     976 ted-crdito em conta                    33.200.072         875,15 c      26.660,78 c
+                              756 0001  3766873000106 cabal brasil
+   16/08/2019                       2615          13277     830 depsito online                 26.151.327.700.243          54,33 c      26.715,11 c
+   16/08/2019                       0000          14134     612 recebimento fornecedor                     922.680         737,99 c      27.453,10 c
+                              companhia brasileira de solucoes e
+   16/08/2019                       0000          14175     976 ted-crdito em conta                     3.259.387      24.000,00 c      51.453,10 c
+                              634 0001  4371905000129 comercial joao
+   19/08/2019                       0000          14175     623 doc-duplicatas/ttulos                     674.050       2.042,29 c      53.495,39 c
+                              033 1350 47866934000174 ticket servico
+   19/08/2019                       0000          14134     612 recebimento fornecedor                     922.780       3.756,48 c      57.251,87 c
+                              companhia brasileira de solucoes e
+   19/08/2019                       0000          14105     874 transferncia agendada         339.400.000.013.014         115,75 c      57.367,62 c
+                              19/08 3394      13014-1 tudobom comerc
+   20/08/2019                       0000          14134     612 recebimento fornecedor                       1.807         207,07 c      57.574,69 c
+                              vr beneficios e servicos de process
+   20/08/2019                       0000          14175     976 ted-crdito em conta                       186.323       6.670,79 c      64.245,48 c
+                              341 0180  2959392000146 up brasil adm
+   20/08/2019                       0000          14175     976 ted-duplicata e ttulos                  7.224.799       6.190,43 c      70.435,91 c
+                              033 1350 47866934000174 ticket servico
+   20/08/2019                       0000          14175     976 ted-pag fornecedores                     7.248.475      17.745,87 c      88.181,78 c
+                              033 0204 69034668000156 sodexo pass do
+   20/08/2019                       0000          14175     976 ted-pag fornecedores                    33.762.109       1.652,20 c      89.833,98 c
+                              246 0001   904951000195 up brasil poli
+   20/08/2019                       0215          10977     002 cheque                                     852.102      79.194,32 d      10.639,66 c
+   21/08/2019                       0215          11685     510 dep cheque bb liquidado              1.412.886.929       1.635,00 c      12.274,66 c
+   21/08/2019                       0215          99015     870 transferncia recebida         550.215.000.004.010         595,32 c      12.869,98 c
+                              21/08 0215       4010-x associacao atl
+   21/08/2019                       0000          14134     612 recebimento fornecedor                     923.180       1.022,79 c      13.892,77 c
+                              companhia brasileira de solucoes e
+   22/08/2019                       0000          14134     612 recebimento fornecedor                     200.164       1.425,00 c      15.317,77 c
+                              rio branco alimentos s/a
+   22/08/2019                       0000          14134     612 recebimento fornecedor                     210.615         349,50 c      15.667,27 c
+                              brf s.a.
+   22/08/2019                       0000          14134     612 recebimento fornecedor                     923.280       1.868,48 c      17.535,75 c
+                              companhia brasileira de solucoes e
+   22/08/2019                       0000          14175     976 ted-crdito em conta                    33.215.047       1.656,02 c      19.191,77 c
+                              756 0001  3766873000106 cabal brasil
+   22/08/2019                       0215          10977     002 cheque                                     852.103      12.915,25 d       6.276,52 c
+   23/08/2019                       0215          10977     510 dep cheque bb liquidado              1.412.887.224       2.686,73 c       8.963,25 c
+   23/08/2019                       0215          99015     870 transferncia recebida         550.215.000.006.564          31,25 c       8.994,50 c
+                              23/08 0215       6564-1 a p a e aimore
+   23/08/2019                       0000          14134     612 recebimento fornecedor                     923.380         355,33 c       9.349,83 c
+                              companhia brasileira de solucoes e
+   23/08/2019                       0000          14175     976 ted-crdito em conta                     7.319.921          23,00 c       9.372,83 c
+                              341 0350 18147500000116 scanntech bras
+   26/08/2019                       0215          10977     510 dep cheque bb liquidado              1.412.887.216         868,78 c      10.241,61 c
+   26/08/2019                       0000          14175     623 doc crdito em conta                       613.067         569,28 c      10.810,89 c
+                              237 2132 10608037000231 comercial milh
+   26/08/2019                       0000          14175     623 doc-duplicatas/ttulos                     868.104       2.428,66 c      13.239,55 c
+                              033 1350 47866934000174 ticket servico
+   26/08/2019                       0000          14134     612 recebimento fornecedor                     923.480       2.626,46 c      15.866,01 c
+                              companhia brasileira de solucoes e
+   27/08/2019                       0000          14134     612 recebimento fornecedor                       1.818         527,27 c      16.393,28 c
+                              vr beneficios e servicos de process
+   27/08/2019                       0000          14175     976 ted-pag fornecedores                     1.713.277      11.180,05 c      27.573,33 c
+                              033 0204 69034668000156 sodexo pass do
+   27/08/2019                       0000          14175     976 ted-duplicata e ttulos                  1.717.211      11.095,34 c      38.668,67 c
+                              033 1350 47866934000174 ticket servico
+   27/08/2019                       0215          10977     002 cheque                                     852.104      38.000,00 d         668,67 c
+   28/08/2019                       0215          11685     510 dep cheque bb liquidado              1.412.887.208       5.242,24 c       5.910,91 c
+   28/08/2019                       0215          99015     870 transferncia recebida         550.215.000.024.617         651,49 c       6.562,40 c
+                              28/08 0215      24617-4 sociedade bene
+   28/08/2019                       0000          14134     612 recebimento fornecedor                     923.880         579,42 c       7.141,82 c
+                              companhia brasileira de solucoes e
+   29/08/2019                       0215          99015     870 transferncia recebida         550.215.000.006.564          38,56 c       7.180,38 c
+                              29/08 0215       6564-1 a p a e aimore
+   29/08/2019                       0000          14134     612 recebimento fornecedor                     923.980       2.326,11 c       9.506,49 c
+                              companhia brasileira de solucoes e
+   29/08/2019                       0215          11685     002 cheque                                     852.105       9.000,00 d         506,49 c
+   29/08/2019                       0000          13113     429 tar processamento cheque       832.411.200.176.511           4,80 d         501,69 c
+                              cobrana referente 29/08/2019
+   30/08/2019                       0215          11685     510 dep cheque bb liquidado              1.412.887.133       1.099,40 c       1.601,09 c
+   30/08/2019                       0000          14134     612 recebimento fornecedor                     924.080       3.279,14 c       4.880,23 c
+                              companhia brasileira de solucoes e
+   30/08/2019                       0000          14175     976 ted-crdito em conta                    33.597.278       2.925,77 c       7.806,00 c
+                              756 0001  3766873000106 cabal brasil
+   31/08/2019                       0000          00000     999 s a l d o                                                7.806,00 c       7.806,00 c
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+               ------------------------------------------------
+               
+               
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+transao efetuada com sucesso por: j5962761 maria lucia conde frizzera

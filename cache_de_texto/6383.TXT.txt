@@ -1,0 +1,886 @@
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 001
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+   0001-fornecedores                  
+01/07/2025 e-1542190  2 01/07/2025  770 laticinios bela vista s.a.   6.307,49
+01/07/2025 e-0140583  1 01/07/2025  544 unimarka distribuidora s/a   2.770,10
+01/07/2025 e-1542191  2 01/07/2025  770 laticinios bela vista s.a.   2.949,64
+01/07/2025 e-3246756  2 01/07/2025  204 lacticinio yoguedes ind.e    4.349,22
+01/07/2025 e-1518358  1 01/07/2025  162 comercial margutti ltda      3.837,77
+01/07/2025 e-1795418  1 01/07/2025  591 dist de prod alim sao roqu   2.010,90
+01/07/2025 e-1700385  1 01/07/2025  330 atacadao s.a.                2.414,88
+01/07/2025 e-1700384  1 01/07/2025  330 atacadao s.a.                2.994,00
+01/07/2025 00147985   1 01/07/2025  553 norsa refrigerantes s.a.     1.178,41
+01/07/2025 00148011   1 01/07/2025  553 norsa refrigerantes s.a.       555,95
+01/07/2025 00147982   1 01/07/2025  553 norsa refrigerantes s.a.     1.471,08
+01/07/2025 00147983   1 01/07/2025  553 norsa refrigerantes s.a.     1.462,90
+01/07/2025 00147984   1 01/07/2025  553 norsa refrigerantes s.a.     1.070,29
+01/07/2025 2255624    1 01/07/2025    0 fiscotax                     7.273,74
+01/07/2025 e-15227614 1 01/07/2025  957 coop central gaucha ltda    84.884,00
+02/07/2025 e-2691019  1 02/07/2025  580 armazem mateus s a cd feir   1.665,60
+02/07/2025 e-2682478  2 02/07/2025  580 armazem mateus s a cd feir   1.788,60
+03/07/2025 e-1239318  1 03/07/2025  967 lineu pinzon industria e c  17.062,50
+03/07/2025 002290542  2 03/07/2025  410 atlas industria de eletrod     107,80
+03/07/2025 e-2252106  1 03/07/2025   19 lider distribuidor ltda      2.307,04
+03/07/2025 e-2102151  1 03/07/2025   15 mix distribuidor ltda        1.068,09
+03/07/2025 e-1928900  1 03/07/2025  411 jc dist.log.imp.e exp.de p   3.581,11
+03/07/2025 e-2249954  1 03/07/2025   19 lider distribuidor ltda      2.434,39
+03/07/2025 e-3247520  2 03/07/2025  204 lacticinio yoguedes ind.e    3.805,60
+03/07/2025 e-1873128  1 03/07/2025    1 cabral e souza ltda          1.593,70
+03/07/2025 e-1870895  3 03/07/2025    1 cabral e souza ltda          3.212,94
+03/07/2025 e-1014525  2 03/07/2025  444 g.f.s.pereira com.de bicic   1.736,47
+03/07/2025 002290543  2 03/07/2025  410 atlas industria de eletrod     884,47
+03/07/2025 e-1023477  1 03/07/2025  589 tfzd distribuidora de util     213,65
+03/07/2025 e-1187320  1 03/07/2025  727 sto atacadista de alimento     313,60
+03/07/2025 e-1873131  1 03/07/2025    1 cabral e souza ltda          2.791,10
+03/07/2025 e-1870894  3 03/07/2025    1 cabral e souza ltda          2.528,73
+03/07/2025 e-1870893  2 03/07/2025    1 cabral e souza ltda          1.514,42
+03/07/2025 e-1588079  3 03/07/2025   27 teiu industria e comercio    3.838,41
+03/07/2025 e-1873129  1 03/07/2025    1 cabral e souza ltda          1.840,70
+03/07/2025 e-0023732  2 03/07/2025  438 santana e freire com.de em   2.426,99
+03/07/2025 e-10014864 1 03/07/2025  948 mauricea alimentos do nord   4.377,29
+03/07/2025 010819952  1 03/07/2025  134 brf s.a.                        56,79
+03/07/2025 e-1700817  1 03/07/2025  330 atacadao s.a.                4.758,90
+03/07/2025 010820034  1 03/07/2025  134 brf s.a.                       354,31
+03/07/2025 010820052  1 03/07/2025  134 brf s.a.                       589,20
+03/07/2025 e-1239665  1 03/07/2025   45 nestle brasil ltda           3.403,85
+03/07/2025 010820094  1 03/07/2025  134 brf s.a.                     7.413,71
+03/07/2025 010801746  2 03/07/2025  134 brf s.a.                    12.772,90
+03/07/2025 e-0378429  1 02/07/2025  483 rio branco alimentos s/a       550,80
+03/07/2025 0002812    1 02/07/2025  639 pharma essencias ind e com     419,94
+03/07/2025 e-0378430  1 02/07/2025  483 rio branco alimentos s/a     2.640,83
+03/07/2025 e-1999951  1 02/07/2025  308 jbs s.a.                     4.212,33
+03/07/2025 e-1552162  3 02/07/2025  512 rd comercial eireli            471,12
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 002
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+03/07/2025 e-1018487  1 02/07/2025  995 veste sonhos by mel confec     743,04
+03/07/2025 e-1871788  2 02/07/2025    1 cabral e souza ltda          2.559,43
+03/07/2025 e-0111380  3 02/07/2025  730 armazem dos cosmeticos dis   1.029,97
+03/07/2025 e-1240738  4 02/07/2025  712 a pina dos santos delezzot     394,89
+03/07/2025 e-0602068  3 02/07/2025    5 martins com.e serv. de dis     146,38
+03/07/2025 e-3015772  1 02/07/2025  439 unidos ind.e com.de velas    1.655,47
+03/07/2025 e-1511957  2 02/07/2025  458 aladim dist. de prod. ltda     453,09
+03/07/2025 e-0158376  2 02/07/2025  503 matadouro e frig. reg. de   11.025,90
+04/07/2025 e-0392514  1 04/07/2025  352 unimarka distribuidora s/a     199,49
+04/07/2025 e-2694643  1 04/07/2025  580 armazem mateus s a cd feir     957,12
+04/07/2025 e-0364739  3 04/07/2025  352 unimarka distribuidora s/a   8.735,86
+04/07/2025 e-1052585  1 04/07/2025  764 fex industria de papeis lt   3.422,61
+04/07/2025 e-1160617  4 04/07/2025  131 dalon alimentos ltda         5.737,00
+04/07/2025 e-0291316  3 04/07/2025  144 prata distribuidora ltda     2.949,88
+04/07/2025 00011469   1 04/07/2025  227 comercial de frutas norte    2.485,00
+04/07/2025 e-1899505  6 04/07/2025   26 concord distribuidora alim   2.410,58
+04/07/2025 e-2675051  3 04/07/2025  580 armazem mateus s a cd feir   1.611,20
+04/07/2025 e-2177219  1 04/07/2025  507 cervejaria petropolis s/a      256,16
+04/07/2025 e-1897410  3 04/07/2025  514 tres coracoes alimentos s.   1.388,48
+04/07/2025 0001159    4 04/07/2025  993 sertao baby comercio de pr     623,13
+04/07/2025 e-1903433  2 04/07/2025   26 concord distribuidora alim     991,50
+04/07/2025 e-1903437  2 04/07/2025   26 concord distribuidora alim   1.487,50
+04/07/2025 e-2051979  0 04/07/2025  543 atacadao do papel ltda         320,66
+06/07/2025 00079819   2 05/07/2025  506 comercial atacadista silva   1.679,92
+06/07/2025 e-5689308  1 05/07/2025  900 v.s.distribuidora ltda         295,33
+06/07/2025 e-5680212  2 06/07/2025  900 v.s.distribuidora ltda         394,98
+06/07/2025 e-2247356  3 06/07/2025   19 lider distribuidor ltda      1.829,94
+06/07/2025 e-1030357  3 06/07/2025  820 color viso do brasil ind    1.235,42
+06/07/2025 e-1206666  3 06/07/2025  819 color viso do brasil ind    1.763,27
+06/07/2025 e-1007057  1 07/07/2025  996 vinhos do mundo com de beb   1.143,93
+06/07/2025 e-2249001  3 07/07/2025   19 lider distribuidor ltda      1.468,41
+06/07/2025 e-1209346  2 07/07/2025  584 vdf distribuicao de alimen     402,15
+06/07/2025 e-55726265 2 07/07/2025   71 dpc distribuidor atacadist     522,03
+06/07/2025 e-1055752  1 07/07/2025  999 calhau industria alimentic     484,26
+06/07/2025 e-0681962  1 07/07/2025  198 arcom sa                     1.287,79
+06/07/2025 e-1321525  2 07/07/2025   50 alianca atacadista ltda.     1.304,54
+06/07/2025 e-1016085  1 07/07/2025  595 pneu commerce importacao e   1.413,00
+06/07/2025 e-1007894  2 07/07/2025  391 valmilellio dos santos me      675,12
+06/07/2025 e-5669571  3 07/07/2025  900 v.s.distribuidora ltda         304,48
+06/07/2025 e-0380290  1 07/07/2025  483 rio branco alimentos s/a       259,20
+06/07/2025 e-11183318 2 07/07/2025  575 industria e comercio jolit     661,06
+06/07/2025 00029313   2 07/07/2025  210 creuza pereira dos santos      332,77
+06/07/2025 e-1235850  3 07/07/2025   45 nestle brasil ltda           1.142,32
+06/07/2025 e-1247095  2 07/07/2025  712 a pina dos santos delezzot     496,49
+06/07/2025 e-1247096  2 07/07/2025  712 a pina dos santos delezzot     245,95
+06/07/2025 e-2686500  2 07/07/2025  580 armazem mateus s a cd feir   1.154,52
+06/07/2025 e-1702796  1 07/07/2025  330 atacadao s.a.                  698,60
+06/07/2025 00148855   1 07/07/2025  553 norsa refrigerantes s.a.     1.087,33
+06/07/2025 00148856   1 07/07/2025  553 norsa refrigerantes s.a.     1.357,44
+06/07/2025 00148854   1 07/07/2025  553 norsa refrigerantes s.a.     1.350,87
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 003
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+06/07/2025 00148858   1 07/07/2025  553 norsa refrigerantes s.a.     1.368,11
+06/07/2025 00148857   1 07/07/2025  553 norsa refrigerantes s.a.       457,60
+06/07/2025 e-0705332  1 07/07/2025    5 martins com.e serv. de dis     573,20
+06/07/2025 e-1631775  4 08/07/2025  945 tecidos e armarinhos migue   1.284,71
+06/07/2025 e-0369600  3 08/07/2025  352 unimarka distribuidora s/a      50,47
+06/07/2025 e-0647424  2 08/07/2025    5 martins com.e serv. de dis   1.800,85
+06/07/2025 e-0394858  1 08/07/2025  352 unimarka distribuidora s/a       4,22
+06/07/2025 e-0140584  2 08/07/2025  544 unimarka distribuidora s/a     599,87
+06/07/2025 e-1031125  1 08/07/2025  971 gb atacadistas ltda            503,52
+06/07/2025 e-1552422  3 08/07/2025  512 rd comercial eireli            677,61
+06/07/2025 e-0705333  1 08/07/2025    5 martins com.e serv. de dis     647,61
+06/07/2025 e-1002901  1 08/07/2025  986 dist de bebidas pau brasil   1.419,57
+06/07/2025 02190337   5 09/07/2025  410 atlas industria de eletrod   1.701,12
+06/07/2025 e-1002620  3 09/07/2025  971 gb atacadistas ltda            913,45
+06/07/2025 e-1007929  2 09/07/2025  391 valmilellio dos santos me      665,46
+06/07/2025 e-1068183  1 08/07/2025  971 gb atacadistas ltda            597,67
+06/07/2025 e-1043547  1 09/07/2025 1000 atlas industria de eletrod     640,95
+06/07/2025 e-1027155  2 05/07/2025  971 gb atacadistas ltda            672,37
+06/07/2025 e-0708393  1 10/07/2025    5 martins com.e serv. de dis     677,26
+06/07/2025 e-1187320  2 10/07/2025  727 sto atacadista de alimento     313,60
+06/07/2025 e-1873128  2 10/07/2025    1 cabral e souza ltda          1.593,70
+06/07/2025 e-1029079  2 10/07/2025  331 karamello ind.de artigos p     725,55
+06/07/2025 e-1873129  2 10/07/2025    1 cabral e souza ltda          1.840,70
+06/07/2025 02191953   5 10/07/2025  410 atlas industria de eletrod     605,59
+06/07/2025 02191956   5 10/07/2025  410 atlas industria de eletrod     373,07
+06/07/2025 010820034  2 10/07/2025  134 brf s.a.                       354,31
+06/07/2025 0060538    1 10/07/2025  491 ph dist. bebidas ltda me       519,62
+06/07/2025 e-1033040  1 10/07/2025  709 acai flash eireli              452,20
+06/07/2025 01539131   1 10/07/2025    9 souza cruz ltda                 69,08
+06/07/2025 e-1954807  1 10/07/2025  462 jbs comercio representacao     299,83
+06/07/2025 010819952  2 10/07/2025  134 brf s.a.                        56,79
+06/07/2025 010820052  2 10/07/2025  134 brf s.a.                       589,20
+06/07/2025 010840273  1 11/07/2025  134 brf s.a.                        88,45
+06/07/2025 1538753    1 11/07/2025    9 souza cruz ltda                 69,08
+06/07/2025 e-1903433  3 11/07/2025   26 concord distribuidora alim     991,50
+06/07/2025 e-0593066  3 11/07/2025    5 martins com.e serv. de dis   1.499,71
+06/07/2025 0001159    5 11/07/2025  993 sertao baby comercio de pr     623,13
+06/07/2025 e-0392514  2 11/07/2025  352 unimarka distribuidora s/a     199,49
+06/07/2025 e-1043654  1 11/07/2025 1000 atlas industria de eletrod     658,87
+06/07/2025 e-1043653  1 11/07/2025 1000 atlas industria de eletrod   1.624,51
+06/07/2025 e-1043655  1 11/07/2025 1000 atlas industria de eletrod     107,20
+06/07/2025 e-1088508  1 12/07/2025  439 unidos ind.e com.de velas      509,20
+06/07/2025 e-1552162  4 12/07/2025  512 rd comercial eireli            471,12
+06/07/2025 e-0698146  1 12/07/2025    5 martins com.e serv. de dis     686,02
+06/07/2025 00079819   3 12/07/2025  506 comercial atacadista silva   1.679,92
+06/07/2025 e-1043688  1 12/07/2025 1000 atlas industria de eletrod     271,07
+06/07/2025 e-1037565  2 13/07/2025  971 gb atacadistas ltda            594,81
+06/07/2025 00292699   1 05/07/2025  144 prata distribuidora ltda     1.413,91
+06/07/2025 e-1531253  4 14/07/2025  945 tecidos e armarinhos migue     689,54
+06/07/2025 e-1903437  3 11/07/2025   26 concord distribuidora alim   1.487,50
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 004
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+07/07/2025 194123202  1 12/07/2025    5 martins com.e serv. de dis   1.000,91
+07/07/2025 194354916  1 11/07/2025    5 martins com.e serv. de dis     423,60
+07/07/2025 194243985  1 07/07/2025    5 martins com.e serv. de dis      89,01
+07/07/2025 194203611  1 07/07/2025    5 martins com.e serv. de dis     177,23
+07/07/2025 194047602  1 07/07/2025    5 martins com.e serv. de dis     850,19
+07/07/2025 194237803  1 07/07/2025    5 martins com.e serv. de dis     118,21
+07/07/2025 194218031  1 09/07/2025    5 martins com.e serv. de dis     224,55
+07/07/2025 e-1997789  3 07/07/2025  308 jbs s.a.                     3.257,84
+07/07/2025 e-0381152  1 07/07/2025  483 rio branco alimentos s/a     5.224,31
+07/07/2025 e-0691565  2 07/07/2025    5 martins com.e serv. de dis   2.609,06
+07/07/2025 e-1916728  3 07/07/2025  306 inbahia rep. e distribuico   4.052,01
+07/07/2025 e-1693152  1 07/07/2025  212 avinor avicola do nordeste   7.178,00
+07/07/2025 e-1001951  1 07/07/2025  944 chapada diamantina industr   1.114,03
+07/07/2025 e-1342172  1 07/07/2025   42 petyan industria de alimen  13.641,90
+07/07/2025 e-1874687  1 07/07/2025    1 cabral e souza ltda          2.757,50
+07/07/2025 e-1702795  1 07/07/2025  330 atacadao s.a.                2.175,60
+07/07/2025 e-3230798  4 07/07/2025  768 comolimpa industria quimic   3.512,00
+07/07/2025 e-2247358  3 06/07/2025   19 lider distribuidor ltda      4.166,01
+07/07/2025 e-12473154 1 05/07/2025  972 adm do brasil ltda          33.305,58
+07/07/2025 00167567   2 05/07/2025   24 alimentos zaeli ltda         6.383,47
+07/07/2025 e-1873132  2 05/07/2025    1 cabral e souza ltda          2.951,11
+07/07/2025 e-1481988  5 05/07/2025  945 tecidos e armarinhos migue   3.099,89
+07/07/2025 e-1345725  1 05/07/2025  344 fugini alimentos ltda go     3.995,79
+07/07/2025 e-1296778  1 14/07/2025  517 unimix com. de frios e tra   1.483,28
+07/07/2025 e-2701538  1 14/07/2025  580 armazem mateus s a cd feir     946,08
+07/07/2025 e-1707633  1 14/07/2025  330 atacadao s.a.                1.179,36
+07/07/2025 e-1707634  1 14/07/2025  330 atacadao s.a.                1.081,56
+07/07/2025 e-1558815  1 14/07/2025  512 rd comercial eireli          1.265,46
+07/07/2025 e-1707631  1 14/07/2025  330 atacadao s.a.                1.582,20
+07/07/2025 e-1321525  3 14/07/2025   50 alianca atacadista ltda.     1.304,54
+07/07/2025 e-1043744  1 13/07/2025 1000 atlas industria de eletrod     176,94
+07/07/2025 e-0653898  2 13/07/2025    5 martins com.e serv. de dis     198,78
+08/07/2025 01544144   1 08/07/2025    9 souza cruz ltda              3.010,93
+08/07/2025 e-0148727  1 08/07/2025  544 unimarka distribuidora s/a   3.917,51
+08/07/2025 e-1542190  3 08/07/2025  770 laticinios bela vista s.a.   6.307,49
+08/07/2025 e-0140583  2 08/07/2025  544 unimarka distribuidora s/a   2.770,10
+08/07/2025 e-3246756  3 08/07/2025  204 lacticinio yoguedes ind.e    4.349,23
+08/07/2025 e-1542191  3 08/07/2025  770 laticinios bela vista s.a.   2.949,63
+08/07/2025 e-1518358  2 08/07/2025  162 comercial margutti ltda      3.837,76
+08/07/2025 e-2701536  1 14/07/2025  580 armazem mateus s a cd feir   1.626,95
+08/07/2025 e-2691019  2 14/07/2025  580 armazem mateus s a cd feir   1.665,60
+08/07/2025 e-2682478  3 14/07/2025  580 armazem mateus s a cd feir   1.788,60
+08/07/2025 e-55726265 3 14/07/2025   71 dpc distribuidor atacadist     522,03
+08/07/2025 e-2253657  1 14/07/2025   19 lider distribuidor ltda      1.503,69
+08/07/2025 e-0015452  1 14/07/2025  466 borre plasticos ltda         1.209,37
+08/07/2025 00029316   3 14/07/2025  210 creuza pereira dos santos      332,86
+08/07/2025 01544006   1 14/07/2025    9 souza cruz ltda                 69,08
+08/07/2025 e-1931394  1 14/07/2025  411 jc dist.log.imp.e exp.de p   1.176,98
+08/07/2025 e-1247096  3 14/07/2025  712 a pina dos santos delezzot     245,95
+08/07/2025 e-1247095  3 14/07/2025  712 a pina dos santos delezzot     496,49
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 005
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+08/07/2025 e-2701537  1 14/07/2025  580 armazem mateus s a cd feir     467,88
+08/07/2025 e-1707632  1 14/07/2025  330 atacadao s.a.                  848,16
+08/07/2025 0000994    1 14/07/2025  923 aliomar pereira mendes ltd     328,50
+08/07/2025 000000109    08/07/2025    9 yapay - souza cruz             120,00
+09/07/2025 010833431  1 09/07/2025  134 brf s.a.                     5.428,75
+09/07/2025 e-0159415  1 09/07/2025  503 matadouro e frig. reg. de    6.759,00
+09/07/2025 e-0638692  3 09/07/2025    5 martins com.e serv. de dis   5.297,60
+10/07/2025 e-1052585  2 11/07/2025  764 fex industria de papeis lt   3.422,62
+10/07/2025 0011505    1 11/07/2025  227 comercial de frutas norte    2.240,00
+10/07/2025 194254378  1 11/07/2025    5 martins com.e serv. de dis   2.139,45
+10/07/2025 e-1001983  1 11/07/2025  944 chapada diamantina industr     184,52
+10/07/2025 e-1999951  2 10/07/2025  308 jbs s.a.                     4.212,34
+10/07/2025 e-2252106  2 10/07/2025   19 lider distribuidor ltda      2.307,05
+10/07/2025 e-1271520  1 10/07/2025  631 p e l agroindustria de lat   8.123,43
+10/07/2025 e-3247520  3 10/07/2025  204 lacticinio yoguedes ind.e    3.805,60
+10/07/2025 e-1239318  2 10/07/2025  967 lineu pinzon industria e c  17.062,50
+10/07/2025 e-1928900  2 10/07/2025  411 jc dist.log.imp.e exp.de p   3.581,12
+10/07/2025 e-2105420  1 10/07/2025   15 mix distribuidor ltda        6.627,92
+10/07/2025 e-1873131  2 10/07/2025    1 cabral e souza ltda          2.791,10
+10/07/2025 e-60047796 1 10/07/2025  369 alimentos tia sonia ltda     3.934,04
+10/07/2025 e-1239664  1 10/07/2025   45 nestle brasil ltda           3.039,27
+10/07/2025 e-1239665  2 10/07/2025   45 nestle brasil ltda           3.303,73
+10/07/2025 e-1954132  1 10/07/2025  462 jbs comercio representacao   2.224,98
+10/07/2025 e-1368429  1 10/07/2025  510 distribuidora de cosm. ant   4.672,22
+10/07/2025 010820094  2 10/07/2025  134 brf s.a.                     7.413,71
+10/07/2025 00149932   1 14/07/2025  553 norsa refrigerantes s.a.     1.126,49
+10/07/2025 00149934   1 14/07/2025  553 norsa refrigerantes s.a.     1.357,98
+10/07/2025 00149933   1 14/07/2025  553 norsa refrigerantes s.a.       634,50
+11/07/2025 00149881   1 14/07/2025  553 norsa refrigerantes s.a.     1.376,99
+11/07/2025 00149882   1 14/07/2025  553 norsa refrigerantes s.a.     1.475,52
+11/07/2025 00149931   1 14/07/2025  553 norsa refrigerantes s.a.     1.283,00
+11/07/2025 00149930   1 14/07/2025  553 norsa refrigerantes s.a.     1.283,00
+11/07/2025 00149935   1 14/07/2025  553 norsa refrigerantes s.a.     1.268,16
+11/07/2025 194123207  1 15/07/2025    5 martins com.e serv. de dis   1.513,60
+11/07/2025 e-0681963  2 15/07/2025  198 arcom sa                     1.658,11
+11/07/2025 00292700   1 15/07/2025  144 prata distribuidora ltda       357,84
+13/07/2025 e-0140584  3 15/07/2025  544 unimarka distribuidora s/a     600,04
+13/07/2025 e-0394858  2 15/07/2025  352 unimarka distribuidora s/a       4,22
+13/07/2025 00292699   2 15/07/2025  144 prata distribuidora ltda     1.413,49
+13/07/2025 e-24014518 1 16/07/2025  889 centralsul ltda              1.128,21
+13/07/2025 002197251  1 16/07/2025  410 atlas industria de eletrod     770,07
+14/07/2025 e-1958034  1 16/07/2025  462 jbs comercio representacao   1.966,68
+14/07/2025 e-1444477  1 16/07/2025  508 bahiafrios comercio de fri     596,50
+14/07/2025 194241366  1 16/07/2025    5 martins com.e serv. de dis     820,88
+14/07/2025 e-2686500  3 17/07/2025  580 armazem mateus s a cd feir   1.154,52
+14/07/2025 e-0739018  1 17/07/2025  408 decminas distribuicao e lo     847,44
+14/07/2025 e-3015772  2 17/07/2025  439 unidos ind.e com.de velas    1.655,47
+14/07/2025 e-0708393  2 17/07/2025    5 martins com.e serv. de dis     677,25
+14/07/2025 e-0714406  1 17/07/2025    5 martins com.e serv. de dis     515,91
+14/07/2025 e-1187320  3 17/07/2025  727 sto atacadista de alimento     313,60
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 006
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+14/07/2025 e-1878636  1 17/07/2025    1 cabral e souza ltda            481,76
+14/07/2025 e-2102151  2 17/07/2025   15 mix distribuidor ltda        1.068,09
+14/07/2025 e-1188477  1 17/07/2025  727 sto atacadista de alimento     329,40
+14/07/2025 e-1418576  1 17/07/2025  936 lube distribuidora ltda      1.200,00
+14/07/2025 e-0405955  1 17/07/2025  352 unimarka distribuidora s/a   1.720,68
+14/07/2025 00167567   3 12/07/2025   24 alimentos zaeli ltda         6.383,47
+14/07/2025 e-1002301  1 14/07/2025  308 jbs s.a.                     6.276,71
+14/07/2025 e-0691565  3 14/07/2025    5 martins com.e serv. de dis   2.609,06
+14/07/2025 00001538   1 14/07/2025   88 comil com. ind. de aliment   6.934,00
+14/07/2025 e-2104049  1 14/07/2025   15 mix distribuidor ltda        2.002,42
+14/07/2025 e-2253651  1 14/07/2025   19 lider distribuidor ltda      3.682,14
+14/07/2025 e-2253652  1 14/07/2025   19 lider distribuidor ltda      7.055,17
+14/07/2025 e-1694185  1 14/07/2025  212 avinor avicola do nordeste   5.363,20
+14/07/2025 e-1874687  2 14/07/2025    1 cabral e souza ltda          2.757,50
+14/07/2025 e-3230798  5 14/07/2025  768 comolimpa industria quimic   3.512,00
+14/07/2025 e-1707636  1 14/07/2025  330 atacadao s.a.                2.713,27
+14/07/2025 e-1553659  1 14/07/2025  325 premium empresa de dist.lt   2.669,20
+14/07/2025 e-1707630  1 14/07/2025  330 atacadao s.a.                3.237,60
+14/07/2025 e-1345725  2 12/07/2025  344 fugini alimentos ltda go     3.994,59
+14/07/2025 e-12473154 2 12/07/2025  972 adm do brasil ltda          33.305,58
+14/07/2025 010840273  2 18/07/2025  134 brf s.a.                        88,45
+14/07/2025 e-0707388  1 18/07/2025    5 martins com.e serv. de dis   1.479,75
+14/07/2025 e-1552422  4 18/07/2025  512 rd comercial eireli            677,61
+14/07/2025 e-1903433  4 18/07/2025   26 concord distribuidora alim     991,50
+15/07/2025 e-1032207  1 15/07/2025  820 color viso do brasil ind      224,18
+15/07/2025 e-1215029  1 15/07/2025  819 color viso do brasil ind    6.140,70
+15/07/2025 e-0383877  1 15/07/2025  483 rio branco alimentos s/a     2.834,57
+15/07/2025 e-0148727  2 15/07/2025  544 unimarka distribuidora s/a   3.917,51
+15/07/2025 e-1873132  3 15/07/2025    1 cabral e souza ltda          2.951,11
+15/07/2025 e-0140583  3 15/07/2025  544 unimarka distribuidora s/a   2.770,92
+15/07/2025 e-1518358  3 15/07/2025  162 comercial margutti ltda      3.837,76
+15/07/2025 e-1208438  1 15/07/2025  823 lubritec distrib.de lubrif   2.839,01
+15/07/2025 01544144   2 15/07/2025    9 souza cruz ltda              3.010,93
+15/07/2025 e-1003371  1 15/07/2025  986 dist de bebidas pau brasil   3.914,15
+16/07/2025 e-1999951  3 16/07/2025  308 jbs s.a.                     4.339,98
+16/07/2025 e-1002835  1 16/07/2025  308 jbs s.a.                     6.361,23
+16/07/2025 e-1921855  1 16/07/2025  306 inbahia rep. e distribuico   3.064,54
+16/07/2025 e-0621427  3 16/07/2025    5 martins com.e serv. de dis   3.141,30
+16/07/2025 e-1273539  1 16/07/2025   47 pomposa distribuidora de a   2.006,50
+16/07/2025 e-0159415  2 16/07/2025  503 matadouro e frig. reg. de    6.759,00
+16/07/2025 e-0674505  1 16/07/2025  198 arcom sa                     2.086,99
+16/07/2025 010833431  2 16/07/2025  134 brf s.a.                     5.428,75
+16/07/2025 e-1444476  1 16/07/2025  508 bahiafrios comercio de fri   3.994,40
+16/07/2025 e-1958042  1 16/07/2025  462 jbs comercio representacao   2.193,14
+16/07/2025 e-0160071  1 16/07/2025  503 matadouro e frig. reg. de   10.488,92
+17/07/2025 e-2255183  1 17/07/2025   19 lider distribuidor ltda      3.273,35
+17/07/2025 e-1239665  3 17/07/2025   45 nestle brasil ltda           3.303,73
+17/07/2025 e-1590766  1 17/07/2025   27 teiu industria e comercio    4.428,22
+17/07/2025 e-3247520  4 17/07/2025  204 lacticinio yoguedes ind.e    3.805,58
+17/07/2025 e-2252106  3 17/07/2025   19 lider distribuidor ltda      2.307,05
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 007
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+17/07/2025 e-1271520  2 17/07/2025  631 p e l agroindustria de lat   8.123,42
+17/07/2025 e-1928900  3 17/07/2025  411 jc dist.log.imp.e exp.de p   3.581,12
+17/07/2025 e-1239318  3 17/07/2025  967 lineu pinzon industria e c  17.062,50
+17/07/2025 e-1239664  2 17/07/2025   45 nestle brasil ltda           2.949,88
+17/07/2025 010850562  1 17/07/2025  134 brf s.a.                     6.765,47
+18/07/2025 e-0392514  3 18/07/2025  352 unimarka distribuidora s/a     199,55
+18/07/2025 e-3248687  1 18/07/2025  204 lacticinio yoguedes ind.e    1.785,10
+18/07/2025 e-0016211  1 18/07/2025  595 pneu commerce importacao e   1.243,53
+18/07/2025 194293406  1 18/07/2025    5 martins com.e serv. de dis   1.194,36
+18/07/2025 194354917  1 18/07/2025    5 martins com.e serv. de dis     423,60
+18/07/2025 e-1052585  3 18/07/2025  764 fex industria de papeis lt   3.422,62
+18/07/2025 00011553   1 18/07/2025  227 comercial de frutas norte    2.895,00
+18/07/2025 e-1871788  3 12/07/2025    1 cabral e souza ltda          2.404,73
+21/07/2025 e-2253652  2 21/07/2025   19 lider distribuidor ltda      7.055,17
+21/07/2025 e-0015452  2 21/07/2025  466 borre plasticos ltda         1.209,37
+21/07/2025 e-2104049  2 21/07/2025   15 mix distribuidor ltda        2.002,42
+21/07/2025 e-1002127  1 21/07/2025  944 chapada diamantina industr   1.271,43
+21/07/2025 e-1002301  2 21/07/2025  308 jbs s.a.                     6.276,71
+21/07/2025 e-1316393  1 21/07/2025  452 frigorifico indus.vale do      770,94
+21/07/2025 000150981  1 21/07/2025  553 norsa refrigerantes s.a.     1.483,80
+21/07/2025 000150982  1 21/07/2025  553 norsa refrigerantes s.a.       321,14
+21/07/2025 000150979  1 21/07/2025  553 norsa refrigerantes s.a.     1.311,73
+21/07/2025 000150977  1 21/07/2025  553 norsa refrigerantes s.a.     1.457,20
+21/07/2025 000150978  1 21/07/2025  553 norsa refrigerantes s.a.     1.462,68
+21/07/2025 000150980  1 21/07/2025  553 norsa refrigerantes s.a.       832,81
+21/07/2025 e-2253651  2 21/07/2025   19 lider distribuidor ltda      3.682,14
+21/07/2025 e-1695262  1 21/07/2025  212 avinor avicola do nordeste   1.950,00
+21/07/2025 e-55739957 1 21/07/2025   71 dpc distribuidor atacadist     375,20
+21/07/2025 e-1923255  1 21/07/2025  306 inbahia rep. e distribuico     987,18
+21/07/2025 e-0666274  2 21/07/2025    5 martins com.e serv. de dis   2.843,84
+21/07/2025 002280130  3 21/07/2025  410 atlas industria de eletrod   1.623,41
+21/07/2025 e-1006296  1 21/07/2025 1001 arcom bahia ltda             2.347,70
+21/07/2025 e-1711153  1 21/07/2025  330 atacadao s.a.                4.571,46
+21/07/2025 e-1707635  1 21/07/2025  330 atacadao s.a.                2.303,52
+21/07/2025 e-1715975  1 21/07/2025  330 atacadao s.a.                4.687,20
+21/07/2025 e-1715388  1 21/07/2025  330 atacadao s.a.                  475,20
+21/07/2025 e-1715389  1 21/07/2025  330 atacadao s.a.                3.237,00
+21/07/2025 e-1715977  1 21/07/2025  330 atacadao s.a.                  535,68
+21/07/2025 e-1689860  1 21/07/2025  259 perola distrib.e logistica     596,72
+21/07/2025 e-1247525  1 21/07/2025   45 nestle brasil ltda             429,45
+21/07/2025 e-1689861  1 21/07/2025  259 perola distrib.e logistica     816,59
+21/07/2025 e-2706335  1 21/07/2025  580 armazem mateus s a cd feir   1.306,00
+21/07/2025 e-5680212  3 21/07/2025  900 v.s.distribuidora ltda         394,98
+21/07/2025 e-1549137  1 19/07/2025  770 laticinios bela vista s.a.   6.276,77
+21/07/2025 e-1549138  1 19/07/2025  770 laticinios bela vista s.a.   4.049,79
+21/07/2025 e-1345725  3 19/07/2025  344 fugini alimentos ltda go     3.994,59
+21/07/2025 e-12473154 3 19/07/2025  972 adm do brasil ltda          34.314,84
+21/07/2025 e-0043831  2 19/07/2025  971 gb atacadistas ltda          1.607,15
+21/07/2025 00079819   4 19/07/2025  506 comercial atacadista silva   1.679,92
+22/07/2025 e-0148727  3 22/07/2025  544 unimarka distribuidora s/a   3.918,68
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 008
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+22/07/2025 e-0394858  3 22/07/2025  352 unimarka distribuidora s/a       4,22
+22/07/2025 01544144   3 22/07/2025    9 souza cruz ltda              3.010,93
+22/07/2025 e-1048439  2 22/07/2025  971 gb atacadistas ltda          1.573,90
+22/07/2025 e-1013951  3 22/07/2025  971 gb atacadistas ltda          1.572,02
+22/07/2025 e-1048281  2 22/07/2025  971 gb atacadistas ltda          1.500,54
+22/07/2025 e-1048892  1 22/07/2025  971 gb atacadistas ltda            738,67
+22/07/2025 e-2691019  3 22/07/2025  580 armazem mateus s a cd feir   1.665,60
+22/07/2025 194176416  1 22/07/2025    5 martins com.e serv. de dis     120,22
+22/07/2025 194243543  1 22/07/2025    5 martins com.e serv. de dis     107,96
+23/07/2025 e-1921855  2 23/07/2025  306 inbahia rep. e distribuico   3.064,54
+23/07/2025 e-1273539  2 23/07/2025   47 pomposa distribuidora de a   2.006,50
+23/07/2025 e-0160071  2 23/07/2025  503 matadouro e frig. reg. de   10.488,92
+23/07/2025 e-0160749  1 23/07/2025  503 matadouro e frig. reg. de   13.386,80
+23/07/2025 e-1386186  1 23/07/2025  214 granfort importacao e dist   3.291,62
+23/07/2025 01547465   1 23/07/2025    9 souza cruz ltda                151,65
+23/07/2025 e-1961827  1 23/07/2025  462 jbs comercio representacao   2.628,03
+23/07/2025 e-0387493  1 23/07/2025  483 rio branco alimentos s/a     6.777,92
+23/07/2025 e-1004517  1 23/07/2025  308 jbs s.a.                     7.154,47
+23/07/2025 e-1002835  2 23/07/2025  308 jbs s.a.                     6.363,13
+23/07/2025 e-2562716  1 23/07/2025   44 elo distribuidora de alime   3.017,83
+23/07/2025 e-1587007  5 23/07/2025  945 tecidos e armarinhos migue   1.250,89
+23/07/2025 e-2562705  1 23/07/2025   44 elo distribuidora de alime   1.578,81
+23/07/2025 e-2562721  1 23/07/2025   44 elo distribuidora de alime   1.511,48
+23/07/2025 e-2701536  2 23/07/2025  580 armazem mateus s a cd feir   1.626,95
+23/07/2025 e-1961826  1 23/07/2025  462 jbs comercio representacao   2.473,55
+24/07/2025 e-1239318  4 24/07/2025  967 lineu pinzon industria e c  17.062,50
+24/07/2025 e-1590766  2 24/07/2025   27 teiu industria e comercio    4.428,22
+24/07/2025 e-10020191 1 24/07/2025  948 mauricea alimentos do nord   5.941,04
+24/07/2025 e-0171031  1 24/07/2025  544 unimarka distribuidora s/a   1.555,70
+24/07/2025 e-0170014  1 24/07/2025  544 unimarka distribuidora s/a   3.161,70
+24/07/2025 e-1188477  2 24/07/2025  727 sto atacadista de alimento     329,40
+24/07/2025 e-0405955  2 24/07/2025  352 unimarka distribuidora s/a   1.720,68
+24/07/2025 e-0170013  1 24/07/2025  544 unimarka distribuidora s/a   1.756,50
+24/07/2025 e-1881497  1 24/07/2025    1 cabral e souza ltda          2.271,72
+24/07/2025 e-1558815  2 24/07/2025  512 rd comercial eireli          1.265,53
+24/07/2025 e-1239664  3 24/07/2025   45 nestle brasil ltda           2.949,89
+24/07/2025 e-2255183  2 24/07/2025   19 lider distribuidor ltda      3.273,36
+24/07/2025 00001539   1 24/07/2025   88 comil com. ind. de aliment   6.933,00
+24/07/2025 e-0589063  4 24/07/2025    5 martins com.e serv. de dis   2.241,09
+24/07/2025 e-2182751  1 24/07/2025  507 cervejaria petropolis s/a    7.025,40
+24/07/2025 e-1118485  1 24/07/2025  157 brasil cereais ltda.         7.688,25
+24/07/2025 e-1878636  2 24/07/2025    1 cabral e souza ltda            481,76
+24/07/2025 e-0708393  3 24/07/2025    5 martins com.e serv. de dis     677,25
+24/07/2025 e-1087895  1 24/07/2025  404 braulio guimaraes cotta      1.537,23
+24/07/2025 e-2182747  1 24/07/2025  507 cervejaria petropolis s/a      209,89
+24/07/2025 010867809  1 24/07/2025  134 brf s.a.                    12.049,74
+24/07/2025 e-2564938  1 24/07/2025   44 elo distribuidora de alime   2.086,75
+24/07/2025 010850562  2 24/07/2025  134 brf s.a.                     6.765,46
+24/07/2025 e-1519841  1 24/07/2025  458 aladim dist. de prod. ltda     637,42
+25/07/2025 194354918  1 25/07/2025    5 martins com.e serv. de dis     423,60
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 009
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+25/07/2025 e-1839600  1 25/07/2025  164 rede brasil dist e logist    1.306,65
+25/07/2025 e-0713363  1 25/07/2025    5 martins com.e serv. de dis   2.885,01
+25/07/2025 e-1002150  1 25/07/2025  944 chapada diamantina industr     363,28
+25/07/2025 e-3248687  2 25/07/2025  204 lacticinio yoguedes ind.e    1.732,60
+25/07/2025 e-1903433  5 25/07/2025   26 concord distribuidora alim     991,50
+25/07/2025 00292699   3 25/07/2025  144 prata distribuidora ltda     1.413,49
+25/07/2025 e-0741074  1 25/07/2025  408 decminas distribuicao e lo     279,84
+25/07/2025 e-1433371  5 25/07/2025  945 tecidos e armarinhos migue   2.428,82
+25/07/2025 e-1433372  5 25/07/2025  945 tecidos e armarinhos migue   1.158,62
+27/07/2025 e-1601927  4 26/07/2025  945 tecidos e armarinhos migue     302,42
+27/07/2025 e-1881496  1 26/07/2025    1 cabral e souza ltda          1.622,90
+27/07/2025 194326560  1 26/07/2025    5 martins com.e serv. de dis      94,07
+27/07/2025 194272889  1 26/07/2025    5 martins com.e serv. de dis   1.093,62
+27/07/2025 002282766  3 26/07/2025  410 atlas industria de eletrod   1.875,40
+27/07/2025 002282765  3 26/07/2025  410 atlas industria de eletrod     376,30
+27/07/2025 00081027   1 26/07/2025  506 comercial atacadista silva   1.130,67
+27/07/2025 e-1086611  1 27/07/2025  971 gb atacadistas ltda          1.353,77
+27/07/2025 e-1054601  1 27/07/2025  971 gb atacadistas ltda          1.823,64
+27/07/2025 00113577   1 27/07/2025   51 bella vista distribui.de e     835,72
+27/07/2025 e-0705332  2 27/07/2025    5 martins com.e serv. de dis     573,20
+27/07/2025 e-1033735  1 27/07/2025  316 tb distribuidora de cosmet     374,15
+27/07/2025 e-1033736  1 27/07/2025  316 tb distribuidora de cosmet     428,44
+27/07/2025 e-1562631  1 27/07/2025  512 rd comercial eireli            563,98
+27/07/2025 194169499  1 27/07/2025    5 martins com.e serv. de dis   1.200,52
+27/07/2025 194202592  1 27/07/2025    5 martins com.e serv. de dis      77,89
+27/07/2025 e-1562906  1 27/07/2025  512 rd comercial eireli            802,48
+27/07/2025 e-1020169  1 28/07/2025  971 gb atacadistas ltda            917,22
+27/07/2025 e-1247525  2 28/07/2025   45 nestle brasil ltda             416,82
+27/07/2025 e-1247523  1 28/07/2025   45 nestle brasil ltda           1.405,80
+27/07/2025 e-1689860  2 28/07/2025  259 perola distrib.e logistica     596,73
+27/07/2025 e-5703398  1 28/07/2025  900 v.s.distribuidora ltda         642,81
+27/07/2025 e-1689861  2 28/07/2025  259 perola distrib.e logistica     816,60
+28/07/2025 e-1562683  1 27/07/2025  512 rd comercial eireli            563,98
+28/07/2025 e-1549138  2 26/07/2025  770 laticinios bela vista s.a.   3.930,68
+28/07/2025 e-1549137  2 26/07/2025  770 laticinios bela vista s.a.   6.092,16
+28/07/2025 e-1447643  1 28/07/2025  508 bahiafrios comercio de fri     669,30
+28/07/2025 e-2253652  3 28/07/2025   19 lider distribuidor ltda      7.055,17
+28/07/2025 e-2104049  3 28/07/2025   15 mix distribuidor ltda        2.002,42
+28/07/2025 e-1924487  1 28/07/2025  306 inbahia rep. e distribuico   1.017,78
+28/07/2025 00151891   1 28/07/2025  553 norsa refrigerantes s.a.       671,16
+28/07/2025 00151858   1 28/07/2025  553 norsa refrigerantes s.a.     1.056,70
+28/07/2025 00151856   1 28/07/2025  553 norsa refrigerantes s.a.     1.336,19
+28/07/2025 00151857   1 28/07/2025  553 norsa refrigerantes s.a.     1.356,08
+28/07/2025 00151855   1 28/07/2025  553 norsa refrigerantes s.a.     1.155,04
+28/07/2025 00151831   1 28/07/2025  553 norsa refrigerantes s.a.     1.483,60
+28/07/2025 01544144   4 28/07/2025    9 souza cruz ltda              3.010,93
+28/07/2025 e-1018445  2 28/07/2025  995 veste sonhos by mel confec   1.534,57
+28/07/2025 e-0015452  3 28/07/2025  466 borre plasticos ltda         1.209,37
+28/07/2025 e-1843278  1 28/07/2025  164 rede brasil dist e logist      639,60
+28/07/2025 e-1247389  1 28/07/2025   45 nestle brasil ltda           1.238,68
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 010
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+28/07/2025 e-1563163  1 28/07/2025  512 rd comercial eireli            829,48
+28/07/2025 194190980  1 28/07/2025    5 martins com.e serv. de dis     927,44
+28/07/2025 e-1316393  2 28/07/2025  452 frigorifico indus.vale do      770,94
+28/07/2025 e-1002301  3 28/07/2025  308 jbs s.a.                     6.466,91
+28/07/2025 e-1817187  1 28/07/2025  591 dist de prod alim sao roqu   4.394,60
+28/07/2025 e-1015938  2 28/07/2025  595 pneu commerce importacao e   3.231,90
+28/07/2025 e-1007894  3 28/07/2025  391 valmilellio dos santos me      675,12
+28/07/2025 e-1696348  1 28/07/2025  212 avinor avicola do nordeste   6.442,00
+28/07/2025 e-1817185  1 28/07/2025  591 dist de prod alim sao roqu   4.163,11
+28/07/2025 e-2033331  1 28/07/2025  877 pirapoti distribuidor de p   3.207,44
+28/07/2025 e-1298004  1 28/07/2025  517 unimix com. de frios e tra   2.055,10
+28/07/2025 e-1715390  1 28/07/2025  330 atacadao s.a.                7.141,50
+28/07/2025 e-1031125  2 28/07/2025  971 gb atacadistas ltda            503,49
+28/07/2025 e-1007677  1 28/07/2025 1001 arcom bahia ltda             4.727,40
+28/07/2025 e-1713160  1 28/07/2025  330 atacadao s.a.                2.322,00
+28/07/2025 00029420   1 28/07/2025  210 creuza pereira dos santos      448,80
+29/07/2025 00011630   1 29/07/2025  227 comercial de frutas norte    2.715,00
+29/07/2025 e-3268623  3 29/07/2025  431 ind.e comercio de plastico   3.632,14
+29/07/2025 e-0638693  3 29/07/2025    5 martins com.e serv. de dis   1.578,62
+29/07/2025 e-1253962  1 29/07/2025  712 a pina dos santos delezzot   1.172,54
+29/07/2025 e-0390915  1 29/07/2025  483 rio branco alimentos s/a     4.223,09
+29/07/2025 e-1350563  1 29/07/2025  281 ol industria de papeis ltd   3.993,00
+29/07/2025 e-2706335  2 29/07/2025  580 armazem mateus s a cd feir   1.306,00
+30/07/2025 e-0681963  3 30/07/2025  198 arcom sa                     1.658,11
+30/07/2025 e-1402294  1 30/07/2025  825 seara alimentos ltda           483,50
+30/07/2025 e-1921855  3 30/07/2025  306 inbahia rep. e distribuico   3.064,64
+30/07/2025 e-1402282  1 30/07/2025  825 seara alimentos ltda           489,03
+30/07/2025 e-1004517  2 30/07/2025  308 jbs s.a.                     7.156,61
+30/07/2025 e-1118885  1 30/07/2025  730 armazem dos cosmeticos dis     793,11
+30/07/2025 e-2259798  1 30/07/2025   19 lider distribuidor ltda      3.549,86
+30/07/2025 e-1002835  3 30/07/2025  308 jbs s.a.                     6.361,22
+30/07/2025 e-0722260  1 30/07/2025    5 martins com.e serv. de dis     460,31
+30/07/2025 e-1208438  2 30/07/2025  823 lubritec distrib.de lubrif   2.839,01
+30/07/2025 e-24014518 2 30/07/2025  889 centralsul ltda                767,61
+30/07/2025 e-1965085  1 30/07/2025  462 jbs comercio representacao     565,96
+30/07/2025 e-2184731  1 30/07/2025  507 cervejaria petropolis s/a      147,70
+30/07/2025 e-0160749  2 30/07/2025  503 matadouro e frig. reg. de   13.386,79
+30/07/2025 e-1965078  1 30/07/2025  462 jbs comercio representacao   1.033,25
+30/07/2025 e-0161486  1 30/07/2025  503 matadouro e frig. reg. de    6.588,26
+30/07/2025 e-1004453  1 30/07/2025  986 dist de bebidas pau brasil     743,50
+30/07/2025 010885968  1 30/07/2025  134 brf s.a.                     6.100,43
+30/07/2025 e-1273539  3 30/07/2025   47 pomposa distribuidora de a   2.007,10
+30/07/2025 e-1631775  5 30/07/2025  945 tecidos e armarinhos migue   1.284,71
+30/07/2025 e-1022428  3 30/07/2025  971 gb atacadistas ltda          1.088,34
+30/07/2025 e-2714952  1 30/07/2025  580 armazem mateus s a cd feir     476,00
+30/07/2025 e-2714953  1 30/07/2025  580 armazem mateus s a cd feir   1.303,20
+30/07/2025 55457036   1 30/07/2025 1015 djs consultoria tributaria   4.217,59
+30/07/2025 e-1006136  1 30/07/2025  308 jbs s.a.                     2.187,93
+31/07/2025 e-1590766  3 31/07/2025   27 teiu industria e comercio    4.428,23
+31/07/2025 e-1881497  2 31/07/2025    1 cabral e souza ltda          2.271,72
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 011
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+31/07/2025 e-1188477  3 31/07/2025  727 sto atacadista de alimento     329,40
+31/07/2025 e-2255183  3 31/07/2025   19 lider distribuidor ltda      3.273,36
+31/07/2025 e-1882340  1 31/07/2025    1 cabral e souza ltda            351,34
+31/07/2025 e-0405955  3 31/07/2025  352 unimarka distribuidora s/a   1.721,21
+31/07/2025 e-0170013  2 31/07/2025  544 unimarka distribuidora s/a   1.756,50
+31/07/2025 e-0171031  2 31/07/2025  544 unimarka distribuidora s/a   1.555,70
+31/07/2025 e-0170014  2 31/07/2025  544 unimarka distribuidora s/a   3.161,70
+31/07/2025 e-3249936  1 31/07/2025  204 lacticinio yoguedes ind.e    3.620,89
+31/07/2025 e-1934978  1 31/07/2025  411 jc dist.log.imp.e exp.de p     926,30
+31/07/2025 e-1934977  1 31/07/2025  411 jc dist.log.imp.e exp.de p   1.496,50
+31/07/2025 194380884  1 31/07/2025    5 martins com.e serv. de dis   1.754,57
+31/07/2025 e-1843843  1 31/07/2025  164 rede brasil dist e logist      600,14
+31/07/2025 e-0423252  1 31/07/2025  352 unimarka distribuidora s/a   4.556,04
+31/07/2025 e-0085442  1 31/07/2025  791 crescer com atacad e var.p   1.041,34
+31/07/2025 e-1087895  2 31/07/2025  404 braulio guimaraes cotta      1.537,23
+31/07/2025 e-10022239 1 31/07/2025  948 mauricea alimentos do nord   5.229,06
+31/07/2025 e-1388892  1 31/07/2025  510 distribuidora de cosm. ant     532,98
+31/07/2025 010867809  2 31/07/2025  134 brf s.a.                    12.049,74
+31/07/2025 e-1519841  2 31/07/2025  458 aladim dist. de prod. ltda     637,44
+31/07/2025 e-3015772  3 01/08/2025  439 unidos ind.e com.de velas    1.655,46
+31/07/2025 e-3248687  3 01/08/2025  204 lacticinio yoguedes ind.e    1.732,59
+31/07/2025 e-2260407  1 01/08/2025   19 lider distribuidor ltda      1.718,14
+31/07/2025 0002812    3 01/08/2025  639 pharma essencias ind e com     419,94
+31/07/2025 e-0602068  4 01/08/2025    5 martins com.e serv. de dis     146,38
+31/07/2025 e-1018487  2 01/08/2025  995 veste sonhos by mel confec     743,04
+31/07/2025 002290542  3 01/08/2025  410 atlas industria de eletrod     107,80
+                                                           ------------------
+                                                                 1.413.951,50
+
+   0002-folha de pagamento            
+05/07/2025 funcionari   05/07/2025  596 eleandro silva do nascimen   2.804,50
+05/07/2025 funcionari   05/07/2025  596 cristiano alves de morais    3.395,86
+05/07/2025 funcionari   05/07/2025  596 gilberto novais oliveira     3.261,29
+05/07/2025 funcionari   05/07/2025  596 joao neto pereira aguiar     2.849,14
+05/07/2025 funcionari   05/07/2025  596 frias - joao neto pereira   3.665,14
+05/07/2025 funcionari   05/07/2025  596 maique souza silva           2.142,99
+05/07/2025 funcionari   05/07/2025  596 helio de oliveira alves fi   1.468,05
+05/07/2025 funcionari   05/07/2025  596 marlos reis lima             2.260,86
+05/07/2025 funcionari   05/07/2025  596 pericles jose de oliveira    1.403,05
+05/07/2025 funcionari   05/07/2025  596 luis claudio nascimento si   2.138,73
+                                                           ------------------
+                                                                    25.389,61
+
+   0003-impostos                      
+06/07/2025 589504475  1 10/07/2025  896 sindicato dos empreg.comer     212,52
+09/07/2025 dae 06/25    09/07/2025  568 impostos diversos           39.815,94
+10/07/2025 648213377  1 10/07/2025    0 sem parar instituicao de p      19,90
+18/07/2025 fgts 06/25   18/07/2025  568 impostos diversos            2.053,10
+18/07/2025 darf 06/25   18/07/2025  568 impostos diversos            3.986,76
+25/07/2025 dae 06/25  1 25/07/2025  568 impostos diversos           16.873,47
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 012
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+25/07/2025 dae 06/25  2 25/07/2025  568 impostos diversos           10.707,21
+31/07/2025 darf 06/25 2 31/07/2025  568 impostos diversos            7.614,44
+31/07/2025 darf 06/25 1 31/07/2025  568 impostos diversos            5.838,05
+31/07/2025 simples 06 1 31/07/2025  568 impostos diversos              987,58
+                                                           ------------------
+                                                                    88.108,97
+
+   0004-energia                       
+04/07/2025 881562497  1 04/07/2025  569 coelba - cia de eletr do e   4.746,11
+17/07/2025 884471465  1 17/07/2025  569 coelba - cia de eletr do e     125,70
+29/07/2025 887574304  1 29/07/2025  569 coelba - cia de eletr do e     127,57
+                                                           ------------------
+                                                                     4.999,38
+
+   0005-seguros                       
+06/07/2025 53234        10/07/2025  557 adao novaes silva de mucug     100,00
+15/07/2025 56503441   1 15/07/2025    0 porto seguro companhia de    2.888,88
+27/07/2025 00019390   9 26/12/2025  570 seguros sura s/a               230,66
+27/07/2025 00019390   4 26/07/2025  570 seguros sura s/a               230,66
+28/07/2025 52816281   1 28/07/2025    0 porto seguro companhia de    1.580,01
+                                                           ------------------
+                                                                     5.030,21
+
+   0006-combustivel                   
+01/07/2025 e-0001505  1 01/07/2025  681 ibicoara 2 comercio de com   1.450,40
+04/07/2025 e-0108928  1 04/07/2025  743 gotemburgo veiculos ltda     2.242,00
+05/07/2025 e-0015373  1 05/07/2025  737 auto posto guarany ltda      1.508,11
+06/07/2025 e-0177154  1 06/07/2025  669 sobral e filhos com.de com   4.223,52
+08/07/2025 e-0177323  1 08/07/2025  669 sobral e filhos com.de com   3.432,34
+08/07/2025 e-0015420  1 08/07/2025  737 auto posto guarany ltda      1.802,11
+09/07/2025 e-0009730  1 09/07/2025  904 cccp comercio de combustiv     220,46
+10/07/2025 e-0015490  1 10/07/2025  737 auto posto guarany ltda      1.803,05
+11/07/2025 e-0177497  1 11/07/2025  669 sobral e filhos com.de com   3.599,05
+12/07/2025 e-0009760  1 12/07/2025  904 cccp comercio de combustiv     271,03
+12/07/2025 e-0001525  1 12/07/2025  681 ibicoara 2 comercio de com     300,00
+13/07/2025 e-0015597  1 13/07/2025  737 auto posto guarany ltda      1.802,06
+14/07/2025 e-0177616  1 14/07/2025  669 sobral e filhos com.de com   3.853,64
+16/07/2025 e-0015701  1 16/07/2025  737 auto posto guarany ltda      1.802,00
+23/07/2025 e-0015939  1 23/07/2025  737 auto posto guarany ltda      1.772,56
+24/07/2025 e-0178233  1 24/07/2025  669 sobral e filhos com.de com   3.932,06
+26/07/2025 e-0001542  1 26/07/2025  681 ibicoara 2 comercio de com     300,02
+26/07/2025 e-0016034  1 26/07/2025  737 auto posto guarany ltda      1.802,15
+27/07/2025 e-0178437  1 27/07/2025  669 sobral e filhos com.de com   4.135,84
+28/07/2025 e-0000044  1 28/07/2025  664 auto posto vila mariana lt     828,00
+29/07/2025 e-0009827  1 29/07/2025  904 cccp comercio de combustiv     350,03
+29/07/2025 e-0009826  1 29/07/2025  904 cccp comercio de combustiv     178,10
+29/07/2025 e-0016150  1 29/07/2025  737 auto posto guarany ltda      1.802,89
+29/07/2025 e-0003141  1 29/07/2025  659 m.e.d comercio de combusti     260,02
+31/07/2025 e-0006192  1 31/07/2025  572 petrochapada- com.de deriv  11.115,20
+31/07/2025 e-0178669  1 31/07/2025  669 sobral e filhos com.de com   3.824,77
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 013
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+31/07/2025 e-0000105  1 31/07/2025  659 m.e.d comercio de combusti   5.104,96
+                                                           ------------------
+                                                                    63.716,37
+
+   0007-desp.veiculo manut.motos/carro
+01/07/2025 e-000298   1 01/07/2025 1004 darkin auto vid.com.de pec     550,00
+03/07/2025 e-0005850  1 03/07/2025 1014 batata hidraulicos ltda        260,00
+11/07/2025 20250163   1 11/07/2025    0 ronnie ferreira dos santos  10.200,00
+11/07/2025 e-0075076  1 11/07/2025  689 cerrado pneus ltda             500,00
+15/07/2025 e-0075187  1 15/07/2025  689 cerrado pneus ltda             500,00
+15/07/2025 e-0016392  1 15/07/2025  654 cerrado pneus ltda              10,00
+16/07/2025 e-0001655  1 16/07/2025  633 car center pecas e acessor     370,00
+25/07/2025 202500122  1 25/07/2025    0 erenaldo pereira dos santo   4.000,00
+28/07/2025 e-0027884  1 28/07/2025 1016 auto pecas shigenaga ltda      476,00
+30/07/2025 e-0075743  1 30/07/2025  689 cerrado pneus ltda             500,00
+                                                           ------------------
+                                                                    17.366,00
+
+   0008-frete                         
+02/07/2025 00043744   1 02/07/2025  968 ww transportes e comercio      159,25
+14/07/2025 0001578    1 14/07/2025  634 pereira e eneas ltda         2.925,56
+22/07/2025 85344731   1 22/07/2025  968 ww transportes e comercio      224,97
+                                                           ------------------
+                                                                     3.309,78
+
+   0011-compra de maquinas p/ mercado.
+01/07/2025 e-0111802  1 01/07/2025 1013 loja shopclic comercio e s     498,30
+                                                           ------------------
+                                                                       498,30
+
+   0013-orcoma - honorarios           
+10/07/2025 00004829   1 10/07/2025  555 joao albino rios mascarenh   5.355,65
+                                                           ------------------
+                                                                     5.355,65
+
+   0014-pro labore                    
+02/07/2025 pro labore   02/07/2025  597 nilson alves da silva        5.932,66
+                                                           ------------------
+                                                                     5.932,66
+
+   0015-depreciacao de maq.e equipam. 
+05/07/2025 000000100  1 05/07/2025    0 depreciacao de maq.e equip   6.000,00
+                                                           ------------------
+                                                                     6.000,00
+
+   0016-servicos terceirizados        
+09/07/2025 00000054   1 09/07/2025 1007 f s mucuge construcoes ltd   4.000,00
+09/07/2025 00000055   1 09/07/2025 1007 f s mucuge construcoes ltd   4.000,00
+                                                           ------------------
+                                                                     8.000,00
+
+  supermercado nilmara                    
+  supermercado nilmara                    
+  supermercado nilmara                    
+                                emissao: 01/08/2025                   pag: 014
+================================================================================
+            pagamentos p/ comp.
+================================================================================
+
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+data pagt  documento par vencto    forn descricao                      valor
+
+   0017-aluguel                       
+05/07/2025 00000101   1 05/07/2025    0 aluguel                        500,00
+                                                           ------------------
+                                                                       500,00
+
+   0018-material uso/consumo          
+02/07/2025 e-0000404  1 02/07/2025  757 material de construcao dou   3.695,30
+04/07/2025 e-0011110  1 04/07/2025  501 adeskollor etiquetas adesi     590,00
+10/07/2025 e-0000330  1 10/07/2025 1010 j. paiva santos ltda           170,00
+31/07/2025 e-0001921  1 31/07/2025   65 comercial nilmara ltda       1.240,00
+                                                           ------------------
+                                                                     5.695,30
+
+   0019-manut. equipamentos           
+14/07/2025 00000366   1 14/07/2025  892 universal pecas e recupera   4.500,00
+22/07/2025 00000048   1 22/07/2025    0 bruno felipe de melo           900,00
+31/07/2025 e-0000666  1 31/07/2025  903 chapada seguranca comerc.e     160,00
+                                                           ------------------
+                                                                     5.560,00
+
+   0020-sistema operacional           
+22/07/2025 20250014   1 22/07/2025  571 softcomp com e serv de com     600,00
+31/07/2025 00000377   1 31/07/2025  903 chapada seguranca comerc.e     140,00
+                                                           ------------------
+                                                                       740,00
+
+   0021-despesas adm                  
+13/07/2025 146755     1 15/07/2025  396 connect informacoes e tecn     448,20
+                                                           ------------------
+                                                                       448,20
+
+   0022-despesas financeira           
+01/07/2025 00008227   1 01/07/2025  655 tarifa pacote de tarifas        78,75
+02/07/2025 00000129   1 02/07/2025  775 debito pacote de servicos       95,00
+03/07/2025 4953246    1 03/07/2025  656 tarifaoperacao credito         160,00
+04/07/2025 p0000823   1 04/07/2025  657 tarifa manutencao c/c          185,00
+09/07/2025 p0000824   1 09/07/2025  657 tarifa pix enviado               9,99
+18/07/2025 p0000825   1 18/07/2025  657 tarifa pix enviado               9,99
+                                                           ------------------
+                                                                       538,73
+
+   0023-investimento                  
+18/07/2025 548061006  1 18/07/2025  947 conbr administradora de co   8.022,14
+22/07/2025 002674386  1 22/07/2025  477 volvo do brasil veiculos l  16.814,48
+                                                           ------------------
+                                                                    24.836,62
+
+   0024-aso e periodicos              
+11/07/2025 00006918   1 11/07/2025  690 maria florencia zamar-me       115,00
+                                                           ------------------
+                                                                       115,00
+
+                                                           ------------------
+                                                  total:         1.686.092,28

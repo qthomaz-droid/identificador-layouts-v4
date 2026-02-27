@@ -1,0 +1,193 @@
++-------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gesto hospitalar - controle financeiro                   extrato bancrio (caixa/bancos) modelo i        pg: 001|
+|                            inal ciencia e saude ltda    c.n.p.j.: 00.643.867/0001-65    belo horizonte-mg                            |
+|                                     001 - inal ciencia e saude s/a                                                                   |
+| emitido em: 03/10/2024 as 07:40               documentos pagos em: 01/09/2024 a 30/09/2024                                           |
+|                                                          banco: 999 a 999                                                            |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+| banco: 999 tesouraria      agencia: 00000999   conta: 0000000001                                                    sit.:            |
+|        titular: dinheiro                                                                                                             |
+|01/09/2024|saldo inicial                                              |                        |         |             |    21.344,35 |
+|01/09/2024|pgto   a vista                                             |posto quick ltda        |001411549|       -96,93|              |
+|02/09/2024|pgto   a vista                                             |posto marte ltda        |000387690|      -105,84|              |
+|02/09/2024|pgto   a vista                                             |posto quick ltda        |001412166|      -177,18|              |
+|03/09/2024|pgto   a vista                                             |99 tecnologia ltda      |003092024|       -16,80|              |
+|04/09/2024|despesa de doao-pes                                     |                        |000000001|      -200,00|              |
+|04/09/2024|pgto   a vista                                             |posto marte ltda        |000387684|      -638,90|              |
+|04/09/2024|pgto   a vista                                             |posto marte ltda        |000387728|      -233,18|              |
+|04/09/2024|pgto   a vista                                             |posto marte ltda        |000387745|      -339,99|              |
+|04/09/2024|receb. 157693                                              |maria rozaria de moraes |002024528|             |       422,00 |
+|05/09/2024|transferencia tesouraria bh para sicoob                    |                        |000000001|   -10.000,00|              |
+|05/09/2024|pgto   a vista                                             |dma distribuidora s/a   |000005235|      -208,18|              |
+|05/09/2024|pgto   a vista                                             |sr a granel produtos nat|000005561|       -87,18|              |
+|05/09/2024|pgto   a vista                                             |organizao verde mar lo|000043267|       -47,44|              |
+|05/09/2024|pgto   a vista                                             |comercial alves e fonsec|000050270|       -43,39|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000053182|       -41,34|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000072840|      -190,98|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000074128|       -79,63|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000082871|       -51,82|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000085772|       -42,32|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000088471|       -66,99|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000088540|      -189,97|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000094416|       -27,76|              |
+|05/09/2024|pgto   a vista                                             |organizao verde mar lo|000096269|      -100,59|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000097232|       -40,93|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000101055|      -103,06|              |
+|05/09/2024|pgto   a vista                                             |organizao verde mar lo|000114403|      -113,55|              |
+|05/09/2024|pgto   a vista                                             |comercial dahana limitad|000129595|      -110,36|              |
+|05/09/2024|pgto   a vista                                             |posto lagoa das pedras l|000175072|      -163,41|              |
+|05/09/2024|pgto   a vista                                             |supermercados bh com. de|000232727|      -411,11|              |
+|05/09/2024|pgto   a vista                                             |posto marte ltda        |000387683|      -120,00|              |
+|05/09/2024|pgto   a vista                                             |padaria e confeitaria sa|000474123|       -27,31|              |
+|05/09/2024|receb. 157789                                              |amadeu das dores siqueir|002024533|             |       642,00 |
+|06/09/2024|receb. 157801                                              |maria da conceicao fonse|002024537|             |       530,00 |
+|06/09/2024|pgto   a vista                                             |denilson carlos de freit|006092024|      -160,00|              |
+|08/09/2024|pgto   a vista                                             |organizao verde mar lo|000140324|       -79,40|              |
+|08/09/2024|pgto   a vista                                             |posto oceano ltda       |001757554|      -176,33|              |
+|09/09/2024|pgto   a vista                                             |posto 65 ltda           |000082708|      -100,00|              |
+|09/09/2024|pgto   a vista                                             |uber do brasil          |009092024|      -175,40|              |
+|10/09/2024|pgto   a vista                                             |padaria e confeitaria ma|000757519|       -59,94|              |
+|10/09/2024|receb. 157922                                              |jose geraldo da silva   |002024544|             |       420,00 |
+|10/09/2024|pgto   deposito em dinheiro                                |roberto carlos coubert m|010092024|    -1.500,00|              |
+|10/09/2024|pgto   a vista                                             |premium executive hotel |202463971|      -139,00|              |
+|11/09/2024|servios de manuteno marcelo                             |                        |000000001|      -250,00|              |
+|11/09/2024|reembolso boleto pago m.n. itabira                         |                        |000000002|             |       250,00 |
+|11/09/2024|pgto   a vista                                             |posto araponga ltda.    |000614452|      -150,00|              |
+|11/09/2024|pgto   a vista                                             |posto quick ltda        |001760705|      -145,99|              |
+|11/09/2024|receb. 157928                                              |maria da conceicao fonse|002024545|             |       480,00 |
+|11/09/2024|pgto   a vista                                             |n f campos - me (eletric|011092024|       -35,70|              |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
+
+
+
+
+
++-------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gesto hospitalar - controle financeiro                   extrato bancrio (caixa/bancos) modelo i        pg: 002|
+|                            inal ciencia e saude ltda    c.n.p.j.: 00.643.867/0001-65    belo horizonte-mg                            |
+|                                     001 - inal ciencia e saude s/a                                                                   |
+| emitido em: 03/10/2024 as 07:40               documentos pagos em: 01/09/2024 a 30/09/2024                                           |
+|                                                          banco: 999 a 999                                                            |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|12/09/2024|pgto   a vista                                             |supermercados bh santa e|000342281|       -21,90|              |
+|12/09/2024|pgto   a vista                                             |rodosnack silvios lanch |000760526|       -79,53|              |
+|12/09/2024|receb. 158015                                              |lucilene lucas da silva |002024547|             |       360,00 |
+|12/09/2024|pgto   a vista                                             |posto marte ltda        |003877009|      -100,00|              |
+|13/09/2024|pgto   a vista                                             |taxi vermelho e branco  |000148344|       -78,00|              |
+|14/09/2024|pgto   a vista                                             |bela cintra de paes e do|000075411|       -55,90|              |
+|14/09/2024|pgto   a vista                                             |chiesa e gandit         |000166054|       -90,50|              |
+|15/09/2024|pgto   a vista                                             |girafas lapa comercio va|001290984|       -53,50|              |
+|15/09/2024|pgto   a vista                                             |bela cintra de paes e do|001452822|       -37,40|              |
+|16/09/2024|receb. 158047                                              |elionara santos silva   |002024550|             |       352,00 |
+|16/09/2024|receb. 158058                                              |luiza helena martins    |002024551|             |     1.500,00 |
+|16/09/2024|receb. 158104                                              |francisca maria da silva|002024552|             |     1.500,00 |
+|16/09/2024|pgto   a vista                                             |denilson carlos de freit|016092024|       -20,00|              |
+|17/09/2024|pgto   a vista                                             |rede santana combustivei|000447020|      -145,91|              |
+|17/09/2024|receb. 158162                                              |jorge luis lima goncalve|002024554|             |       420,00 |
+|18/09/2024|pgto   a vista                                             |concesionaria da rodovia|000010821|        -8,20|              |
+|18/09/2024|pgto   a vista                                             |concesionaria da rodovia|000011015|        -8,20|              |
+|18/09/2024|pgto   a vista                                             |posto oceano ltda       |001767453|      -150,00|              |
+|18/09/2024|pgto   a vista                                             |estacionamento br park  |018092024|       -26,00|              |
+|18/09/2024|pgto   a vista                                             |rotativo nova lima      |018092024|       -16,80|              |
+|19/09/2024|pgto   a vista                                             |papiro pizzaria ltda    |000062643|       -29,09|              |
+|19/09/2024|receb. 158233                                              |edna de souza soares de |002024560|             |       200,00 |
+|20/09/2024|pgto   a vista                                             |sabor de minas biscoito |000064295|       -43,80|              |
+|20/09/2024|receb. 158294                                              |silvia goncalves dos san|002024563|             |       420,00 |
+|23/09/2024|pgto   a vista                                             |forneria meet ltda      |000014110|       -71,50|              |
+|23/09/2024|pgto   a vista                                             |consorcio otimo de bilhe|000044615|       -15,00|              |
+|23/09/2024|pgto   boleto                                              |denilson carlos de freit|023092024|       -60,00|              |
+|24/09/2024|transferencia tesouraria divi p/ tesouraria bh             |                        |000000001|             |     4.365,00 |
+|24/09/2024|pgto   a vista                                             |torre da estacao ltda   |000035436|        -5,00|              |
+|24/09/2024|receb. 158411                                              |tarcilio ramos de souza |002024566|             |       420,00 |
+|24/09/2024|pgto   a vista                                             |premium executive hotel |202475430|      -303,86|              |
+|25/09/2024|pgto   a vista                                             |posto marte ltda        |000387579|       -80,00|              |
+|25/09/2024|receb. 158455                                              |zileide das gracas souza|002024568|             |       400,00 |
+|25/09/2024|pgto   a vista                                             |premium executive hotel |202463061|      -144,50|              |
+|26/09/2024|receb. 158521                                              |bruno andrade dos santos|002024570|             |       420,00 |
+|27/09/2024|pgto   a vista                                             |posto tocantins ltda    |000679028|       -60,03|              |
+|27/09/2024|pgto   a vista                                             |uber do brasil          |027092024|      -256,63|              |
+|30/09/2024|transferencia tesouraria divi p/ tesouraria bh             |                        |000000008|             |       352,00 |
+|30/09/2024|receb. 158623                                              |divani martins guimaraes|002024576|             |       420,00 |
+|          |                                                           |                        |         |-------------|------------- |
+|          |somatorio                                                  |                        |         |   -19.009,15|    13.873,00 |
+|          |                                                           |                        |         |             |              |
+|30/09/2024|saldo final                                                |                        |         |             |    16.208,20 |
+|30/09/2024|saldo total                                                |                        |         |             |    16.208,20 |
+
++--------------------------------------------------------------------------------------------------------------------------------------+
+|          |saldo final                                                |                        |         |             |    16.208,20 |
+|          |saldo total                                                |                        |         |             |    16.208,20 |
+|          |total de receitas                                          |                        |         |             |     9.156,00 |
+|          |total de despesas                                          |                        |         |             |    -9.009,15 |
+|          |receita liquida                                            |                        |         |             |       146,85 |
++----------+------------------------------------------------------------+------------------------+--------+-------------+--------------+
+
+
+
+
+
++-------------------------------------------------------------------------------------------------------------------------------spdata-+
+|s.g.h. - sistema de gesto hospitalar - controle financeiro                   extrato bancrio (caixa/bancos) modelo i        pg: 003|
+|                            inal ciencia e saude ltda    c.n.p.j.: 00.643.867/0001-65    belo horizonte-mg                            |
+|                                     001 - inal ciencia e saude s/a                                                                   |
+| emitido em: 03/10/2024 as 07:40               documentos pagos em: 01/09/2024 a 30/09/2024                                           |
+|                                                          banco: 999 a 999                                                            |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
+|  data    |historico                                                  |fornecedor/credor       | docto   |    debito   |   credito    |
++----------+-----------------------------------------------------------+------------------------+---------+-------------+--------------+
++--------------------------------------------------------------------------------------------------------------------------------------+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++--------------------------------------------------------------------------------------------------------------------------------------+
+| ____________________________________    ______________________   ____________________________________                                |
+|               tesouraria                     data entrada            inal ciencia e saude ltd                                        |
++--------------------------------------------------------------------------------------------------------------------------------------+

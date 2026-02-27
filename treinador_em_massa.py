@@ -66,10 +66,12 @@ def sincronizar_mapeamento_com_api():
         dados_para_excel = []
         for layout in layouts_da_api_lista:
             formato_original = layout.get('formato')
+            # Mantém a lógica de compatibilidade PDF/Excel se necessário
             if formato_original and formato_original.upper() == 'EXCEL':
                 formato_corrigido = 'PDF'
             else:
                 formato_corrigido = formato_original
+                
             dados_para_excel.append({
                 'codigo_layout': layout.get('codigo'),
                 'descricao': layout.get('nome'),
@@ -115,9 +117,10 @@ def atualizar_metadados():
         cabecalhos_por_layout = defaultdict(str)
         if os.path.exists(PASTA_PRINCIPAL_TREINAMENTO):
             for nome_arquivo in os.listdir(PASTA_PRINCIPAL_TREINAMENTO):
-                match = re.search(r'\d+', nome_arquivo)
+                # AJUSTE: Captura apenas o número no INÍCIO do nome do arquivo
+                match = re.match(r'^(\d+)', nome_arquivo)
                 if match:
-                    codigo_layout = match.group(0)
+                    codigo_layout = match.group(1)
                     if codigo_layout in mapa_layouts:
                         caminho_completo = os.path.join(PASTA_PRINCIPAL_TREINAMENTO, nome_arquivo)
                         texto_cabecalho = extrair_texto_do_cabecalho(caminho_completo)
@@ -154,27 +157,37 @@ def treinar_modelo_ml():
         print("AVISO: Arquivo de metadados não encontrado. Execute a atualização de metadados primeiro.")
         return
     with open(ARQUIVO_METADADOS, 'r', encoding='utf-8') as f:
-        mapa_layouts = {item['codigo_layout']: item for item in json.load(f)}
+        meta_list = json.load(f)
+        mapa_layouts = {str(item['codigo_layout']): item for item in meta_list}
 
     print("Verificando cache e lendo/gerando textos de treinamento...")
     for nome_arquivo in tqdm(os.listdir(PASTA_PRINCIPAL_TREINAMENTO), desc="Processando arquivos"):
         caminho_cache = os.path.join(PASTA_CACHE, nome_arquivo + '.txt')
         texto = ""
+        
         if os.path.exists(caminho_cache):
             with open(caminho_cache, 'r', encoding='utf-8') as f:
                 texto = f.read()
         else:
             caminho_completo = os.path.join(PASTA_PRINCIPAL_TREINAMENTO, nome_arquivo)
             senha_extraida = re.search(r'senha[_\s-]*(\d+)', nome_arquivo, re.IGNORECASE)
-            texto_extraido = extrair_texto_do_arquivo(caminho_completo, senha_manual=senha_extraida.group(1) if senha_extraida else None)
-            if texto_extraido:
+            
+            # AJUSTE: extrair_texto_do_arquivo retorna (texto, foi_ocr)
+            texto_extraido, _ = extrair_texto_do_arquivo(
+                caminho_completo, 
+                senha_manual=senha_extraida.group(1) if senha_extraida else None
+            )
+            
+            if texto_extraido and texto_extraido not in ["SENHA_NECESSARIA", "SENHA_INCORRETA"]:
                 texto = texto_extraido
                 with open(caminho_cache, 'w', encoding='utf-8') as f:
                     f.write(texto)
+        
         if texto:
-            match = re.search(r'\d+', nome_arquivo)
+            # AJUSTE: Captura apenas o número no INÍCIO do nome do arquivo
+            match = re.match(r'^(\d+)', nome_arquivo)
             if match:
-                codigo_layout = match.group(0)
+                codigo_layout = match.group(1)
                 if codigo_layout in mapa_layouts:
                     textos_por_layout[codigo_layout] += " " + texto
     

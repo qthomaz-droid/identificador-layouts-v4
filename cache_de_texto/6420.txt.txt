@@ -1,0 +1,239 @@
+                                                  consulta de extrato                                                   
+                         extrato dos últimos 6 meses de conta corrente para simples conferência                         
+
+banco da amazônia s.a 
+
+data: 26/08/2025
+hora: 16:57
+
+agência: 152
+conta: 071.113-9
+nome do cliente: atacado marra ltda                               
+tipo de conta:  conta corrente
+número iban: br46 0490 2979 0015 2000 139c  1 
+
+saldo anterior............................................................................:             r$ 181.182,62+
+
+movimentações
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+   data     documento  histórico                                detalhes da transação                                               valor                saldo
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+01/07/2025    985      recebe pix cc pj chave                   e16501555202507011741785f579f64f - maria de fatima costa ...     r$ 1.750,00+
+01/07/2025    985      recebe pix cc pj chave                   e60701190202507011703dy5cigdd9kk - j m da silva sousa ltda       r$ 2.200,00+
+
+                                                                                                     saldo do dia                                r$ 185.132,62+
+
+02/07/2025    9998     efetivacao pagamento pix cc pf           e04902979202507022116sq271vfio9m - distribuidora og de be...    r$ 66.848,45-
+02/07/2025    985      recebe pix cc pj chave                   e2465488120250702041140k7mxbx0zk - emporio das bebidas ltda      r$ 8.000,00+
+02/07/2025    985      recebe pix cc pj chave                   e165015552025070211519307aa2e40e - joaquim jesus vieira          r$ 1.916,23+
+02/07/2025    985      recebe pix cc pj chave                   e16501555202507021843ad11eb2fdee - mago vey bebidas                r$ 150,00+
+02/07/2025    985      recebe pix cc pj chave                   e0000000020250702134944866659856 - fernandes godoi ltda          r$ 9.965,00+
+02/07/2025   458111    liqui emprestim                                                                                          r$ 20.511,13-
+02/07/2025    985      recebe pix cc pj chave                   e0000000020250702134441465019521 - fernandes godoi ltda          r$ 2.810,00+
+
+                                                                                                     saldo do dia                                r$ 120.614,27+
+
+03/07/2025    985      recebe pix cc pj chave                   e60701190202507031812dy5ji4i34ur - welton antonio da silva       r$ 1.046,50+
+03/07/2025    985      recebe pix cc pj chave                   e9040088820250703204841994103183 - mauricio araujo de souza      r$ 2.587,00+
+03/07/2025    985      recebe pix cc pj chave                   e37395399202507031250aepes1u1ckz - l a r santana                   r$ 898,00+
+03/07/2025    985      recebe pix cc pj chave                   e16501555202507031330960fcfb191a - patrick barros de sousa         r$ 878,94+
+03/07/2025    985      recebe pix cc pj chave                   e60746948202507031336a0919qybbeo - diogo vieira roque ramos      r$ 1.000,00+
+
+                                                                                                     saldo do dia                                r$ 127.024,71+
+
+04/07/2025    985      recebe pix cc pj chave                   e3299575520250704110859ef95qj0bj - paulo g. morais               r$ 5.800,00+
+04/07/2025    985      recebe pix cc pj chave                   e165015552025070412592a01ab016d2 - joaquim jesus vieira            r$ 887,83+
+04/07/2025    985      recebe pix cc pj qrcode                  e18236120202507041454s19f9ae5c66 - marttins genttil freit...        r$ 11,00+
+04/07/2025    985      recebe pix cc pj qrcode                  e33264668202507041451224baa08d79 - higor de oliveira cruz          r$ 145,00+
+04/07/2025    985      recebe pix cc pj qrcode                  e18236120202507041451s04c0e9cd61 - valdimar lima da silva          r$ 330,00+
+04/07/2025    985      recebe pix cc pj qrcode                  e60701190202507041451dy5nry47g04 - guilherme augusto sant...       r$ 135,00+
+
+                                                                                                     saldo do dia                                r$ 134.333,54+
+
+07/07/2025    985      recebe pix cc pj chave                   e60701190202507051524dy50bp335ip - welton antonio da silva         r$ 580,00+
+07/07/2025    985      recebe pix cc pj qrcode                  e60746948202507051542a32910mjwi0 - alexandre hugo fernand...     r$ 1.747,00+
+07/07/2025   22812     tar p basico pj                                                                                              r$ 40,00-
+07/07/2025    989      debito de titulo                                                                                         r$ 48.549,04-
+07/07/2025    989      debito de titulo                                                                                         r$ 19.958,40-
+07/07/2025    985      recebe pix cc pj chave                   e37395399202507080054jmojuhxmmfh - l a r santana                 r$ 1.276,00+
+07/07/2025    985      recebe pix cc pj manual                  e0000000020250705154350579441447 - edvaldo f rodrigues              r$ 72,00+
+07/07/2025    985      recebe pix cc pj chave                   e24654881202507072002413emzdhgau - fabricio carlos garcia...     r$ 7.000,00+
+07/07/2025    985      recebe pix cc pj chave                   e60701190202507071922dy51htonhle - eluis pereira da costa        r$ 4.580,00+
+07/07/2025    985      recebe pix cc pj chave                   e24654881202507071901431hiv5hvro - comercial e adegao mix...    r$ 16.737,00+
+07/07/2025    985      recebe pix cc pj chave                   e16501555202507071819d02eba020c6 - joaquim jesus vieira          r$ 2.200,00+
+07/07/2025    985      recebe pix cc pj chave                   e165015552025070715071beb98580f3 - maria de fatima costa ...     r$ 4.030,00+
+07/07/2025    985      recebe pix cc pj qrcode                  e3299575520250707130922veljnhxfv - w r da silva comercio ...    r$ 26.104,00+
+07/07/2025    985      recebe pix cc pj chave                   e2465488120250707200407xj9mgchxm - emporio das bebidas ltda      r$ 7.000,00+
+
+                                                                                                     saldo do dia                                r$ 137.112,10+
+
+08/07/2025    985      recebe pix cc pj chave                   e2465488120250708135028z7tt5pg64 - danila santa pereira t...       r$ 874,00+
+08/07/2025    985      recebe pix cc pj chave                   e165015552025070817284550ebd5a72 - maria de fatima costa ...     r$ 3.960,00+
+08/07/2025    985      recebe pix cc pj chave                   e0000000020250708172024546729748 - fernandes godoi ltda         r$ 12.775,00+
+
+                                                                                                     saldo do dia                                r$ 154.721,10+
+
+09/07/2025    985      recebe pix cc pj chave                   e16501555202507091209747d66dca5f - mago vey bebidas                r$ 635,00+
+09/07/2025    985      recebe pix cc pj manual                  e18236120202507092022s17fea9294d - joao paulo fernandes c...     r$ 1.040,00+
+09/07/2025    985      recebe pix cc pj chave                   e003603052025070920495158b4aa9d9 - gutemberg gomes da penha      r$ 5.523,00+
+
+                                                                                                     saldo do dia                                r$ 161.919,10+
+
+10/07/2025    985      recebe pix cc pj chave                   e04913711202507101926y3s4ygfc6cp - jader gefferson andrad...     r$ 1.152,00+
+10/07/2025    985      recebe pix cc pj chave                   e60746948202507102242a3291gofbm0 - ronaldo pereira da silva      r$ 4.750,00+
+10/07/2025    985      recebe pix cc pj chave                   e16501555202507101557d47b2b369cc - maria de fatima costa ...     r$ 3.960,00+
+10/07/2025    985      recebe pix cc pj chave                   e60746948202507101400a3291r1q5mm - dilvanete ribeiro noleto      r$ 4.350,00+
+10/07/2025    985      recebe pix cc pj chave                   e0000000020250710203220422188781 - dubai c b a eireli           r$ 12.336,00+
+
+                                                                                                     saldo do dia                                r$ 188.467,10+
+
+11/07/2025    985      recebe pix cc pj chave                   e1650155520250711114733b4c36dc2c - joaquim jesus vieira          r$ 2.714,27+
+11/07/2025    985      recebe pix cc pj chave                   e00360305202507111349e8ae3af94fe - ronaldo pereira da silva      r$ 3.968,00+
+11/07/2025    989      debito de titulo                                                                                         r$ 78.428,28-
+11/07/2025    985      recebe pix cc pj chave                   e60746948202507112127c3291bayfyw - fernandes & godoi ltda        r$ 9.125,00+
+11/07/2025    985      recebe pix cc pj chave                   e3299575520250711155522ukzyb19rc - paulo g. morais               r$ 5.900,00+
+
+                                                                                                     saldo do dia                                r$ 131.746,09+
+
+14/07/2025    985      recebe pix cc pj chave                   e60746948202507141727a0925zvqrgq - maria de fatima costa ...     r$ 2.520,00+
+14/07/2025    985      recebe pix cc pj chave                   e16501555202507141143bc7d195d01c - l da mata e silva             r$ 3.505,00+
+14/07/2025    985      recebe pix cc pj chave                   e3299575520250712132306lswz9ej1x - w r da silva comercio ...     r$ 8.110,00+
+14/07/2025    985      recebe pix cc pj chave                   e60701190202507121230dy50o13kejq - j m da silva sousa ltda       r$ 4.000,00+
+14/07/2025   152014    debito de titulo capitalizacao                                                                              r$ 313,27-
+14/07/2025    985      recebe pix cc pj chave                   e16501555202507141515aae1bf06417 - maria de fatima costa ...     r$ 2.016,00+
+14/07/2025    985      recebe pix cc pj chave                   e16501555202507141815d5614556971 - clemente junior dias d...    r$ 13.235,00+
+14/07/2025    985      recebe pix cc pj chave                   e60701190202507141751dy5dtp5a7g4 - eluis pereira da costa       r$ 16.378,00+
+14/07/2025    985      recebe pix cc pj chave                   e24654881202507142042332k8wlwogp - emporio das bebidas ltda     r$ 10.000,00+
+14/07/2025    985      recebe pix cc pj chave                   e2465488120250714204517u9so9ods0 - fabricio carlos garcia...    r$ 10.000,00+
+
+                                                                                                     saldo do dia                                r$ 201.196,82+
+
+15/07/2025    985      recebe pix cc pj chave                   e60746948202507151946a3291xhzsvg - dilvanete ribeiro noleto      r$ 7.783,00+
+15/07/2025   245336    deb parc foment                                                                                          r$ 32.214,97-
+15/07/2025   235283    deb parc foment                                                                                           r$ 8.752,61-
+15/07/2025   152015    debito de titulo capitalizacao                                                                              r$ 300,00-
+15/07/2025   152015    debito de titulo capitalizacao                                                                              r$ 300,00-
+15/07/2025   152015    debito de titulo capitalizacao                                                                              r$ 300,00-
+15/07/2025   152015    debito de titulo capitalizacao                                                                              r$ 300,00-
+
+                                                                                                     saldo do dia                                r$ 166.812,24+
+
+16/07/2025    985      recebe pix cc pj chave                   e2465488120250716234543x3qchlmqd -  l a r santana                r$ 2.719,00+
+16/07/2025    985      recebe pix cc pj chave                   e1650155520250716123244626924ccf - joaquim jesus vieira          r$ 2.000,00+
+16/07/2025    985      recebe pix cc pj chave                   e1650155520250716123740193fd7056 - joaquim jesus vieira          r$ 1.532,07+
+
+                                                                                                     saldo do dia                                r$ 173.063,31+
+
+17/07/2025    985      recebe pix cc pj chave                   e16501555202507171225bb827ff1311 - joaquim jesus vieira          r$ 2.510,56+
+17/07/2025    985      recebe pix cc pj chave                   e3299575520250717214419dwljo2gby - darlan costa matos           r$ 15.000,00+
+17/07/2025    985      recebe pix cc pj chave                   e00360305202507172011c8c5e86a57c - gutemberg gomes da penha      r$ 3.000,00+
+17/07/2025    985      recebe pix cc pj chave                   e9040088820250717135042785851157 - fernanda da silva sous...    r$ 11.030,00+
+
+                                                                                                     saldo do dia                                r$ 204.603,87+
+
+18/07/2025    985      recebe pix cc pj chave                   e165015552025071821060c016f12bac - joaquim jesus vieira            r$ 252,00+
+18/07/2025    985      recebe pix cc pj chave                   e0000000020250718185933345705251 - wga k ribeiro da silva        r$ 2.400,00+
+18/07/2025    985      recebe pix cc pj chave                   e60746948202507181043c3291jvwwj0 - fernandes & godoi ltda        r$ 7.870,00+
+18/07/2025    985      recebe pix cc pj chave                   e0000000020250718184056022621318 - maria fatima c marinho        r$ 1.798,00+
+18/07/2025    985      recebe pix cc pj chave                   e60746948202507181848c3291u0r8vm - fernandes & godoi ltda       r$ 10.112,00+
+
+                                                                                                     saldo do dia                                r$ 227.035,87+
+
+21/07/2025    985      recebe pix cc pj chave                   e60701190202507202132dy5i9u6xysq - j m da silva sousa ltda       r$ 2.914,00+
+21/07/2025    985      recebe pix cc pj chave                   e3299575520250721134629np0eguttl - w r da silva comercio ...    r$ 12.273,00+
+21/07/2025    985      recebe pix cc pj chave                   e0000000020250719144543904847772 - miron batista da luz          r$ 1.570,00+
+21/07/2025    985      recebe pix cc pj chave                   e08561701202507191441y0wljdb5ewu - miron batista da luz          r$ 4.500,00+
+21/07/2025    985      recebe pix cc pj chave                   e1650155520250719143842489eadd1c - patrick barros de sousa         r$ 804,00+
+21/07/2025    985      recebe pix cc pj chave                   e60701190202507212100dy5nhjp8tes - eluis pereira da costa        r$ 6.063,00+
+21/07/2025    9998     efetivacao pagamento pix cc pf           e04902979202507212116rlcrv5r423a - distribuidora og de be...    r$ 19.998,88-
+21/07/2025    989      debito de titulo                                                                                         r$ 48.549,04-
+21/07/2025    985      recebe pix cc pj chave                   e08561701202507211511krwnb62sy9k - wanderson pontes lima        r$ 10.000,00+
+21/07/2025    985      recebe pix cc pj chave                   e165015552025072116529b92afdd9d0 - patrick barros de sousa       r$ 6.881,78+
+21/07/2025    985      recebe pix cc pj chave                   e3299575520250719114056kb0ksfnqz - w r da silva comercio ...    r$ 24.663,00+
+
+                                                                                                     saldo do dia                                r$ 228.156,73+
+
+22/07/2025    985      recebe pix cc pj chave                   e165015552025072213511b016edbe77 - maria de fatima costa ...     r$ 2.892,00+
+22/07/2025    985      recebe pix cc pj chave                   e1650155520250722144363eff7f2deb - patrick barros de sousa       r$ 1.536,39+
+22/07/2025    985      recebe pix cc pj chave                   e2465488120250722211614ufggtgn5c - emporio das bebidas ltda     r$ 12.000,00+
+22/07/2025    985      recebe pix cc pj manual                  e10573521202507221736gy3skvsyx0e - jose jucie luz dantas           r$ 947,00+
+22/07/2025    985      recebe pix cc pj chave                   e60701190202507222026dy5rjg8o8wu - marcus vinicius pereir...     r$ 3.500,00+
+22/07/2025    985      recebe pix cc pj chave                   e60746948202507221447a09192rn4km - diogo vieira roque ramos      r$ 2.957,23+
+
+                                                                                                     saldo do dia                                r$ 251.989,35+
+
+23/07/2025    985      recebe pix cc pj chave                   e60746948202507231129a5798ida3qc - adelino ferreira dos s...     r$ 1.440,00+
+23/07/2025    985      recebe pix cc pj chave                   e2465488120250723205416toksk1d2i - b.h. sandes comercio d...       r$ 730,00+
+23/07/2025    985      recebe pix cc pj chave                   e9040088820250723162543106701894 - adega insonia beer ltda       r$ 4.000,00+
+23/07/2025    985      recebe pix cc pj chave                   e3299575520250723210242fuiten6gd - w r da silva comercio ...     r$ 2.250,00+
+23/07/2025    985      recebe pix cc pj chave                   e18236120202507231127s05f62c329b - adelino ferreira dos s...     r$ 5.000,00+
+
+                                                                                                     saldo do dia                                r$ 265.409,35+
+
+24/07/2025    985      recebe pix cc pj chave                   e1650155520250724211311b42786abd - h.b.m.de sousa                r$ 2.800,00+
+24/07/2025    985      recebe pix cc pj chave                   e60746948202507241222a0919p487jo - diogo vieira roque ramos      r$ 2.500,00+
+
+                                                                                                     saldo do dia                                r$ 270.709,35+
+
+25/07/2025    985      recebe pix cc pj chave                   e16501555202507251211a04ede6b4a2 - patrick barros de sousa       r$ 2.103,64+
+25/07/2025    985      recebe pix cc pj chave                   e08561701202507251828w0cvpsfdldg - vieira feitosa ltda           r$ 1.700,00+
+25/07/2025    985      recebe pix cc pj chave                   e165015552025072518261e535fa3699 - h.b.m.de sousa                r$ 3.540,00+
+25/07/2025    985      recebe pix cc pj chave                   e0000000020250725170621484083618 - miron batista da luz          r$ 1.900,00+
+
+                                                                                                     saldo do dia                                r$ 279.952,99+
+
+28/07/2025    985      recebe pix cc pj chave                   e2465488120250728183518mvd2hymhr - emporio das bebidas ltda     r$ 13.693,00+
+28/07/2025    985      recebe pix cc pj chave                   e60701190202507261235dy56utvun72 - j m da silva sousa ltda       r$ 5.000,00+
+28/07/2025    985      recebe pix cc pj chave                   e18236120202507260923s06ff046cca - cleomar soares feitosa        r$ 1.700,00+
+28/07/2025    152      recebe tef pix cc pj chave               126 0726760 atacado do brasil co                                r$ 10.080,00+
+28/07/2025    989      debito de titulo                                                                                         r$ 71.438,35-
+28/07/2025    985      recebe pix cc pj chave                   e18236120202507282044s11934ec967 - paulo victor freitas d...     r$ 6.900,00+
+28/07/2025    985      recebe pix cc pj chave                   e60746948202507282039c0919lyv6da - eluis pereira da costa        r$ 9.530,00+
+28/07/2025    985      recebe pix cc pj chave                   e3299575520250728194917lu82f2fw1 - w r da silva comercio ...    r$ 12.928,00+
+28/07/2025    985      recebe pix cc pj chave                   e16501555202507281907c218f7b1b65 - clemente junior dias d...     r$ 2.036,00+
+28/07/2025    985      recebe pix cc pj chave                   e0000000020250726152216298173258 - miron batista da luz          r$ 1.130,00+
+28/07/2025    985      recebe pix cc pj chave                   e16501555202507281210a2b9a92153f - clemente junior dias d...     r$ 7.751,00+
+28/07/2025    985      recebe pix cc pj chave                   e003603052025072812134dbc8fe0738 - clemente junior dias d...     r$ 1.144,00+
+28/07/2025    985      recebe pix cc pj chave                   e16501555202507281413ee7b7d8fe32 - patrick barros de sousa      r$ 10.370,37+
+28/07/2025    985      recebe pix cc pj chave                   e0000000020250726152057004403301 - miron batista da luz          r$ 4.150,00+
+
+                                                                                                     saldo do dia                                r$ 294.927,01+
+
+29/07/2025    985      recebe pix cc pj chave                   e16501555202507291245fb87f956c32 - joaquim jesus vieira          r$ 2.889,33+
+29/07/2025    985      recebe pix cc pj chave                   e165015552025072912394c99d47dbf4 - patrick barros de sousa       r$ 1.824,97+
+
+                                                                                                     saldo do dia                                r$ 299.641,31+
+
+30/07/2025    985      recebe pix cc pj chave                   e16501555202507301231a6942da49c5 - patrick barros de sousa       r$ 1.471,80+
+30/07/2025    985      recebe pix cc pj chave                   e3299575520250730145621o10hulcfi - w r da silva comercio ...     r$ 5.475,00+
+30/07/2025    985      recebe pix cc pj chave                   e16501555202507301220836648e6e26 - joaquim jesus vieira          r$ 2.177,01+
+30/07/2025   29043     tar reno cadast                                                                                              r$ 45,00-
+30/07/2025    985      recebe pix cc pj chave                   e9040088820250730161243457011499 - adega insonia beer ltda       r$ 4.000,00+
+30/07/2025    985      recebe pix cc pj chave                   e9040088820250730202043471161631 - mauricio araujo de souza      r$ 2.151,00+
+30/07/2025    985      recebe pix cc pj manual                  e10573521202507301455mptv22insnw - jose jucie luz dantas         r$ 6.575,00+
+
+                                                                                                     saldo do dia                                r$ 321.446,12+
+
+31/07/2025    989      debito de titulo                                                                                         r$ 25.811,20-
+31/07/2025    985      recebe pix cc pj chave                   e16501555202507311319289e9b1c195 - joaquim jesus vieira          r$ 3.507,61+
+31/07/2025    989      debito de titulo                                                                                          r$ 2.152,32-
+31/07/2025    989      debito de titulo                                                                                         r$ 20.325,06-
+
+                                                                                                     saldo do dia                                r$ 276.665,15+
+
+
+saldos
+----------------------------------------------------------------------------------------------------------------------          
+saldo atual:                                                                                            r$ 276.665,15+
+
+= saldo disponível:                                                                                     r$ 276.665,15+
+
+
+
+
+
+
+
+         sac 0800 727 7228 / 0800 721 1888 (exclusivo para deficientes auditivos ou de fala) 24 horas por dia.          
+                                ouvidoria 0800-722-2171. dias úteis de 08:00h as 18:00h.                                

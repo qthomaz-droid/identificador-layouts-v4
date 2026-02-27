@@ -1,0 +1,588 @@
+vega style italia ltda
+fluxo de caixa por conta
+sge
+período de 01/01/2026 até 31/01/2026
+conta:
+05.14
+férias (hr)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 pagamento - principal - tit fer_anders01.26 de anderson preto de
+assis
+0,00
+1941,00
+1.303.384,80
+total do caixa:
+0,00
+1.941,00
+-1.941,00
+total da conta:
+0,00
+1.941,00
+-1.941,00
+conta:
+01.01
+recebimento de boletos (a)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 recebimento - principal - tit e28007/d do cliente a 7 elevadores
+ltda-me
+2293,62
+0,00
+1.305.678,42
+02/01/2026 recebimento - principal - tit e28288/c do cliente altitude elevadores
+ltda
+1452,35
+0,00
+1.307.130,77
+total do caixa:
+3.745,97
+0,00
+3.745,97
+total da conta:
+3.745,97
+0,00
+3.745,97
+conta:
+01.02.01
+juros recebidos (a)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 recebimento - juros - tit e28288/c do cliente altitude elevadores
+ltda
+42,56
+0,00
+1.307.173,33
+total do caixa:
+42,56
+0,00
+42,56
+total da conta:
+42,56
+0,00
+42,56
+conta:
+01.01
+recebimento de boletos (a)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 recebimento - principal - tit e27984/d do cliente cama servicos e
+comercio de elevadores ltda
+710,12
+0,00
+1.307.883,45
+02/01/2026 recebimento - principal - tit e29367/a do cliente elevadores tonus
+do brasil ltda
+301,02
+0,00
+1.308.184,47
+02/01/2026 recebimento - principal - tit e29324/a do cliente escamax
+manutencao de equipamentos de mobilidade ltda
+555,48
+0,00
+1.308.739,95
+02/01/2026 recebimento - principal - tit e29311/a do cliente fhall elevadores e
+servicos ltda
+678,49
+0,00
+1.309.418,44
+02/01/2026 recebimento - principal - tit e29320/a do cliente instel montagens,
+comercio e servicos tecnicos telefonicos l
+1141,70
+0,00
+1.310.560,14
+02/01/2026 recebimento - principal - tit e27974/d do cliente neomot industria e
+comercio de elevadores ltda
+3052,01
+0,00
+1.313.612,15
+02/01/2026 recebimento - principal - tit e27542/e do cliente next elevadores do
+ceara ltda
+1419,31
+0,00
+1.315.031,46
+02/01/2026 recebimento - principal - tit e29184/a do cliente norte comercio e
+instalacao de elevadores ltda
+512,41
+0,00
+1.315.543,87
+total do caixa:
+8.370,54
+0,00
+8.370,54
+total da conta:
+8.370,54
+0,00
+8.370,54
+conta:
+01.02.01
+juros recebidos (a)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 recebimento - juros - tit e29184/a do cliente norte comercio e
+instalacao de elevadores ltda
+13,84
+0,00
+1.315.557,71
+total do caixa:
+13,84
+0,00
+13,84
+total da conta:
+13,84
+0,00
+13,84
+conta:
+01.01
+recebimento de boletos (a)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 recebimento - principal - tit e29315/a do cliente norte comercio e
+instalacao de elevadores ltda
+1326,94
+0,00
+1.316.884,65
+02/01/2026 recebimento - principal - tit e29316/a do cliente norte comercio e
+instalacao de elevadores ltda
+1326,94
+0,00
+1.318.211,59
+02/01/2026 recebimento - principal - tit e29325/a do cliente norte comercio e
+instalacao de elevadores ltda
+1458,23
+0,00
+1.319.669,82
+saldo a transportar:
+1.320.996,76
+13/01/2026  14:10:53
+página: 1/26
+ vega style italia ltda
+fluxo de caixa por conta
+sge
+período de 01/01/2026 até 31/01/2026
+02/01/2026 recebimento - principal - tit e29327/a do cliente norte comercio e
+instalacao de elevadores ltda
+1326,94
+0,00
+1.320.996,76
+02/01/2026 recebimento - principal - tit e29091/c do cliente panoramic
+elevadores ltda
+2008,39
+0,00
+1.323.005,15
+02/01/2026 recebimento - principal - tit e29305/a do cliente tes comercio e
+industria de elevadores e escadas rolantes lt
+374,10
+0,00
+1.323.379,25
+02/01/2026 recebimento - principal - tit e29330/a do cliente thf elevadores ltda
+1777,33
+0,00
+1.325.156,58
+02/01/2026 recebimento - principal - tit e27993/d do cliente uniexpel
+elevadores ltda
+2135,95
+0,00
+1.327.292,53
+02/01/2026 recebimento - principal - tit e25059/k do cliente villar elevadores e
+tecnologia ltda
+1074,08
+0,00
+1.328.366,61
+02/01/2026 recebimento - principal - tit e25060/k do cliente villar elevadores e
+tecnologia ltda
+1135,38
+0,00
+1.329.501,99
+02/01/2026 recebimento - principal - tit e29333/a do cliente villar elevadores e
+tecnologia ltda
+130,31
+0,00
+1.329.632,30
+02/01/2026 recebimento - principal - tit e28400/c do cliente vitaltec elevadores
+e manutencao ltda
+1453,68
+0,00
+1.331.085,98
+total do caixa:
+15.528,27
+0,00
+15.528,27
+total da conta:
+15.528,27
+0,00
+15.528,27
+conta:
+01.06
+adiantamento de cliente
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 adiant tk 382
+470947,10
+0,00
+1.802.033,08
+total do caixa:
+470.947,10
+0,00
+470.947,10
+total da conta:
+470.947,10
+0,00
+470.947,10
+conta:
+07.03
+despesas de cobranca (gf)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 tarifa cobrança
+0,00
+45,10
+1.801.987,98
+total do caixa:
+0,00
+45,10
+-45,10
+total da conta:
+0,00
+45,10
+-45,10
+conta:
+01.07
+adiantamento a fornecedor
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 credito fornecedor - 113 d legend locacoes ltda
+0,00
+7329,47
+1.794.658,51
+total do caixa:
+0,00
+7.329,47
+-7.329,47
+total da conta:
+0,00
+7.329,47
+-7.329,47
+conta:
+02.01
+mercadorias produção (b2_br)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 pagamento - principal - tit r1974/b de 1888 jmv tratamento e
+revestimento ltda
+0,00
+528,00
+1.794.130,51
+02/01/2026 pagamento - principal - tit r217686/a de 1383 wago
+eletroeletronicos ltda.
+0,00
+910,98
+1.793.219,53
+02/01/2026 pagamento - principal - tit r168/a de 2008 weco elevator products
+brazil ltda
+0,00
+1554,35
+1.791.665,18
+02/01/2026 pagamento - principal - tit r36878/c de 1434 eikon energia ltda
+0,00
+1563,84
+1.790.101,34
+02/01/2026 pagamento - principal - tit r217685/a de 1383 wago
+eletroeletronicos ltda.
+0,00
+2946,25
+1.787.155,09
+02/01/2026 pagamento - principal - tit r329/b de 966 rc chicotes e montagens
+eletronicas ltda
+0,00
+2970,00
+1.784.185,09
+total do caixa:
+0,00
+10.473,42
+-10.473,42
+total da conta:
+0,00
+10.473,42
+-10.473,42
+conta:
+01.07
+adiantamento a fornecedor
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 credito transportadora - 478 translut - transportes e
+agenciamento de cargas ltda
+0,00
+12100,00
+1.772.085,09
+total do caixa:
+0,00
+12.100,00
+-12.100,00
+saldo a transportar:
+1.772.085,09
+13/01/2026  14:10:53
+página: 2/26
+ vega style italia ltda
+fluxo de caixa por conta
+sge
+período de 01/01/2026 até 31/01/2026
+total da conta:
+0,00
+12.100,00
+-12.100,00
+conta:
+02.01
+mercadorias produção (b2_br)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 pagamento - principal - tit r87204/b de 697 yaskawa eletrico do
+brasil ltda
+0,00
+2933,11
+1.769.151,98
+02/01/2026 pagamento - principal - tit r87242/b de 697 yaskawa eletrico do
+brasil ltda
+0,00
+6149,43
+1.763.002,55
+02/01/2026 pagamento - principal - tit r87652/a de 697 yaskawa eletrico do
+brasil ltda
+0,00
+7188,45
+1.755.814,10
+02/01/2026 pagamento - principal - tit r55784/a de 4 rolpaf beneficiamento de
+metais ltda
+0,00
+1370,72
+1.754.443,38
+02/01/2026 pagamento - principal - tit r55561/c de 4 rolpaf beneficiamento de
+metais ltda
+0,00
+1764,00
+1.752.679,38
+02/01/2026 pagamento - principal - tit r30796/a de 1464 popeye displays ltda
+0,00
+1105,22
+1.751.574,16
+02/01/2026 pagamento - principal - tit r55563/c de 4 rolpaf beneficiamento de
+metais ltda
+0,00
+179,64
+1.751.394,52
+02/01/2026 pagamento - principal - tit r282734/c de 927 junior distribuidora de
+suprimentos corporativos ltda
+0,00
+366,99
+1.751.027,53
+02/01/2026 pagamento - principal - tit r45687/a de 526 embalagens colombo ltda
+me
+0,00
+875,71
+1.750.151,82
+total do caixa:
+0,00
+21.933,27
+-21.933,27
+total da conta:
+0,00
+21.933,27
+-21.933,27
+conta:
+01.07
+adiantamento a fornecedor
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 credito transportadora - 472 dismarina transps rodovs ltda.
+0,00
+166,61
+1.749.985,21
+total do caixa:
+0,00
+166,61
+-166,61
+total da conta:
+0,00
+166,61
+-166,61
+conta:
+04.17.02
+despesas agua, luz, condominio
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+02/01/2026 pagamento - principal - tit 122025 de dmae agua e esgoto
+0,00
+364,62
+1.749.620,59
+total do caixa:
+0,00
+364,62
+-364,62
+total da conta:
+0,00
+364,62
+-364,62
+conta:
+05.03
+assistencia medica e social  (hr)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+05/01/2026 pagamento - principal - tit unimedpoa 5.126 de 112 unimed porto
+alegre - cooperativa medica ltda
+0,00
+10236,18
+1.739.384,41
+total do caixa:
+0,00
+10.236,18
+-10.236,18
+total da conta:
+0,00
+10.236,18
+-10.236,18
+conta:
+02.01
+mercadorias produção (b2_br)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+05/01/2026 pagamento - principal - tit r87281/b de 697 yaskawa eletrico do
+brasil ltda
+0,00
+13656,43
+1.725.727,98
+total do caixa:
+0,00
+13.656,43
+-13.656,43
+total da conta:
+0,00
+13.656,43
+-13.656,43
+conta:
+02.03
+material de consumo produção  (b2_br)
+caixa:
+4
+banco bradesco
+data
+histórico
+entrada
+saída
+saldo
+05/01/2026 pagamento - principal - tit r425930/b de 94 abt comercial eletrica
+ltda
+0,00
+21479,96
+1.704.248,02
+total do caixa:
+0,00
+21.479,96
+-21.479,96
+total da conta:
+0,00
+21.479,96
+-21.479,96
+conta:
+02.01
+mercadorias produção (b2_br)
+saldo a transportar:
+1.700.012,52
+13/01/2026  14:10:53
+página: 3/26
+ 

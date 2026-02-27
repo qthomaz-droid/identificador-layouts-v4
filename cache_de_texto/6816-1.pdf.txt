@@ -1,0 +1,699 @@
+p&a informática
+21/10/2025 09:47:36
+fixar industrial industria de metais ltda
+contas a receber
+pág. 1
+período1: 01/06/2025 a 30/06/2025 
+ - baixado(s) 
+docto.
+cliente
+código
+fatura
+des
+pagamento
+--------------------------------
+data
+valor
+historico
+--------------------------------
+vencimento
+data
+valor
+sta
+emissão
+bord.
+val.doc.
+conta
+banco
+data recebimento: 03/06/2025
+v-48053-1
+16/03/2025
+198905
+36074
+12.181,81 03/06/2025
+12.181,81
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+15/01/2025
+0
+elektro redes s.a.
+12.181,81
+2
+v-48410-1
+26/04/2025
+202985
+36311
+45.118,51 03/06/2025
+45.118,51
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+27/03/2025
+14210
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+45.118,51
+2
+v-48411-1
+26/04/2025
+202986
+36312
+41.399,92 03/06/2025
+41.399,92
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+27/03/2025
+14210
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+41.399,92
+2
+v-48412-1
+26/04/2025
+202994
+36313
+165.749,85 03/06/2025
+165.749,85
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+27/03/2025
+14210
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+165.749,85
+2
+v-48413-1
+26/04/2025
+202995
+36315
+82.799,85 03/06/2025
+82.799,85
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+27/03/2025
+14210
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+82.799,85
+2
+v-48471-2
+03/06/2025
+203487
+36359
+15.626,67 03/06/2025
+15.626,67
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+04/04/2025
+0
+lec brasil gestao 
+comercial ltda
+15.626,67
+2
+v-48490-1
+08/05/2025
+203509
+36361
+36.714,72 03/06/2025
+36.714,72
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+08/04/2025
+14210
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+36.714,72
+2
+total dia  >>>>
+399.591,33
+399.591,33
+399.591,33
+data recebimento: 04/06/2025
+v-48204-1
+14/03/2025
+200685
+36180
+51.450,00 04/06/2025
+51.450,00
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+12/02/2025
+0
+eletropaulo 
+metropol eletric de s 
+p s/a
+51.450,00
+2
+dev kabum 2
+04/06/2025
+214765
+214765
+95,61 04/06/2025
+95,61
+n
+ref. devoluçao de valor de 
+compras em 21-05-2025  
+sit:transf bancaria
+b
+04/06/2025
+0
+kabum comercio 
+eletronico s.a
+95,61
+2
+total dia  >>>>
+51.545,61
+51.545,61
+51.545,61
+data recebimento: 06/06/2025
+v-48494-1
+09/05/2025
+203598
+36373
+987.546,59 06/06/2025
+987.546,59
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+09/04/2025
+0
+companhia estadual 
+de distribuicao de 
+energia eletrica ceee 
+d
+994.291,20
+2
+registros impressos:
+10
+p&a informática
+21/10/2025 09:47:36
+fixar industrial industria de metais ltda
+contas a receber
+pág. 2
+período1: 01/06/2025 a 30/06/2025 
+ - baixado(s) 
+docto.
+cliente
+código
+fatura
+des
+pagamento
+--------------------------------
+data
+valor
+historico
+--------------------------------
+vencimento
+data
+valor
+sta
+emissão
+bord.
+val.doc.
+conta
+banco
+v-48599-1
+29/05/2025
+204591
+36452
+44.309,59 06/06/2025
+44.309,59
+n
+faturamento de vendas  
+  sit:boleto bancario
+b
+29/04/2025
+14211
+cemig distribuicao sa
+49.232,95
+2
+v-48600-1
+29/05/2025
+204592
+36453
+43.036,62 06/06/2025
+43.036,62
+n
+faturamento de vendas  
+  sit:boleto bancario
+b
+29/04/2025
+14211
+cemig distribuicao sa
+47.818,58
+2
+v-48602-1
+29/05/2025
+204594
+36455
+41.562,58 06/06/2025
+41.562,58
+n
+faturamento de vendas  
+  sit:boleto bancario
+b
+29/04/2025
+14211
+cemig distribuicao sa
+41.838,72
+2
+v-48603-1
+29/04/2025
+204595
+36456
+105.102,67 06/06/2025
+105.102,67
+n
+faturamento de vendas  
+  sit:boleto bancario
+b
+29/04/2025
+14211
+cemig distribuicao sa
+122.103,34
+2
+v-48640-1
+01/06/2025
+204856
+36482
+25.535,08 06/06/2025
+25.535,08
+n
+faturamento de vendas  
+  sit:boleto bancario
+b
+02/05/2025
+14211
+cemig distribuicao sa
+28.372,35
+2
+a-48885-1
+06/06/2025
+206310
+206310
+190.599,50 06/06/2025
+190.599,50
+n
+faturamento de vendas 
+dev. m.avulsa: companhia 
+energetica de p  
+sit:deposito bancario - 
+faturado
+b
+06/06/2025
+0
+companhia energetica 
+de pernambuco celpe
+190.599,50
+2
+1-906-1-2
+03/06/2025
+206369
+906
+156.470,86 06/06/2025
+156.470,86
+n
+ref. servico: nota 960  
+sit:boleto bancario
+b
+03/04/2025
+0
+light servicos de 
+eletricidade s a
+183.283,49
+2
+acerto146
+06/06/2025
+214791
+214791
+194,80 06/06/2025
+194,80
+n
+ref. devolucao de valor nao 
+usado 2512038989  
+sit:transf bancaria
+b
+06/06/2025
+0
+sea commerce 
+servicos de comercio 
+exterior ltda-me
+194,80
+2
+acerto147
+06/06/2025
+214792
+214792
+4.101,67 06/06/2025
+4.101,67
+n
+ref. devolucao de valor di 
+2512130290  sit:transf 
+bancaria
+b
+06/06/2025
+0
+sea commerce 
+servicos de comercio 
+exterior ltda-me
+4.101,67
+2
+total dia  >>>>
+1.598.459,96
+1.598.459,96
+1.661.836,60
+data recebimento: 09/06/2025
+v-48654-1
+05/06/2025
+204951
+36491
+9.198,00 09/06/2025
+9.198,00
+n
+faturamento de vendas  
+ sit:deposito bancario - 
+faturado
+b
+06/05/2025
+0
+meireles e freitas 
+servicos de 
+cobrancas ltda
+9.198,00
+2
+a-48900-1
+09/06/2025
+206404
+206404
+791,02 09/06/2025
+791,02
+n
+faturamento de vendas 
+dev. m.avulsa: cia jaguari 
+energia  sit:boleto 
+bancario
+b
+09/06/2025
+0
+cia jaguari energia
+791,02
+2
+total dia  >>>>
+9.989,02
+9.989,02
+9.989,02
+data recebimento: 10/06/2025
+v-48426-1
+30/04/2025
+203129
+36325
+1.991,54 10/06/2025
+1.991,54
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+31/03/2025
+14212
+ceb distribuicao s.a.
+1.991,54
+2
+v-48429-1
+30/04/2025
+203177
+36330
+803,98 10/06/2025
+803,98
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+31/03/2025
+14212
+ceb distribuicao s.a.
+803,98
+2
+registros impressos:
+23
+p&a informática
+21/10/2025 09:47:37
+fixar industrial industria de metais ltda
+contas a receber
+pág. 3
+período1: 01/06/2025 a 30/06/2025 
+ - baixado(s) 
+docto.
+cliente
+código
+fatura
+des
+pagamento
+--------------------------------
+data
+valor
+historico
+--------------------------------
+vencimento
+data
+valor
+sta
+emissão
+bord.
+val.doc.
+conta
+banco
+v-48449-1
+01/05/2025
+203398
+36343
+24.839,96 10/06/2025
+24.839,96
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+01/04/2025
+14213
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+24.839,96
+2
+v-48452-1
+01/05/2025
+203419
+36345
+24.839,96 10/06/2025
+24.839,96
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+01/04/2025
+14213
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+24.839,96
+2
+v-48453-1
+01/05/2025
+203424
+36346
+94.298,50 10/06/2025
+94.298,50
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+01/04/2025
+14213
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+94.298,50
+2
+v-48465-1
+03/05/2025
+203462
+36354
+24.839,96 10/06/2025
+24.839,96
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+03/04/2025
+14213
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+24.839,96
+2
+v-48466-1
+03/05/2025
+203463
+36355
+12.299,80 10/06/2025
+12.299,80
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+03/04/2025
+14213
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+12.299,80
+2
+v-48425-1
+04/05/2025
+203484
+36324
+4.778,04 10/06/2025
+4.778,04
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+31/03/2025
+14212
+ceb distribuicao s.a.
+4.778,04
+2
+v-48506-1
+11/05/2025
+203849
+36382
+6.774,39 10/06/2025
+6.774,39
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+11/04/2025
+14212
+ceb distribuicao s.a.
+6.774,39
+2
+v-48507-1
+11/05/2025
+203850
+36384
+10.573,17 10/06/2025
+10.573,17
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+11/04/2025
+14212
+ceb distribuicao s.a.
+10.573,17
+2
+v-48651-1
+04/06/2025
+204916
+36489
+24.479,70 10/06/2025
+24.479,70
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+05/05/2025
+14213
+companhia de 
+eletricidade do 
+estado da bahia 
+coelba
+24.479,70
+2
+v-48848-1
+02/07/2025
+206227
+36636
+791,02 10/06/2025
+791,02
+n
+faturamento de vendas  
+ sit:boleto bancario
+b
+02/06/2025
+0
+cia jaguari energia
+791,02
+2
+dev pag sal a 
+maior
+10/06/2025
+214665
+214665
+2.973,45 10/06/2025
+2.973,45
+n
+ref. devoluçao de pag de 
+salario feito a maior  
+sit:transf bancaria
+b
+10/06/2025
+0
+valmir sales 
+santana 
+2.973,45
+6
+dev merc 04-06
+10/06/2025
+214849
+214849
+382,02 10/06/2025
+382,02
+n
+ref. devoluçao de 
+pagamento 04-06+  
+sit:transf bancaria
+b
+10/06/2025
+0
+mercadopago.com 
+representacoes ltda
+382,02
+2
+total dia  >>>>
+234.665,49
+234.665,49
+234.665,49
+registros impressos:
+35

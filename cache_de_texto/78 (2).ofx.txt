@@ -1,0 +1,1560 @@
+ofxheader:100
+data:ofxsgml
+version:102
+security:none
+encoding:usascii
+charset:1252
+compression:none
+oldfileuid:none
+newfileuid:none
+
+<ofx>
+ <signonmsgsrsv1>
+  <sonrs>
+   <status>
+    <code>0</code>
+    <severity>info</severity>
+   </status>
+   <dtserver>20200102053048</dtserver>
+   <language>por</language>
+  </sonrs>
+ </signonmsgsrsv1>
+ <bankmsgsrsv1>
+  <stmttrnrs>
+   <trnuid>1001</trnuid>
+   <status>
+    <code>0</code>
+    <severity>info</severity>
+   </status>
+   <stmtrs>
+    <curdef>brl</curdef>
+    <bankacctfrom>
+     <bankid>0104</bankid>
+     <acctid>000017885</acctid>
+     <accttype>checking</accttype>
+    </bankacctfrom>
+    <banktranlist>
+     <dtstart>20191201</dtstart>
+     <dtend>20191231</dtend>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191129120000[-3:brt]</dtposted>
+      <trnamt>604.60</trnamt>
+      <fitid>326945</fitid>
+      <checknum>326945</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191129120000[-3:brt]</dtposted>
+      <trnamt>513.30</trnamt>
+      <fitid>326946</fitid>
+      <checknum>326946</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191129120000[-3:brt]</dtposted>
+      <trnamt>639.39</trnamt>
+      <fitid>326947</fitid>
+      <checknum>326947</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191129120000[-3:brt]</dtposted>
+      <trnamt>876.31</trnamt>
+      <fitid>992551</fitid>
+      <checknum>992551</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191129120000[-3:brt]</dtposted>
+      <trnamt>1406.74</trnamt>
+      <fitid>992552</fitid>
+      <checknum>992552</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>459.00</trnamt>
+      <fitid>237</fitid>
+      <checknum>237</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>260.00</trnamt>
+      <fitid>341</fitid>
+      <checknum>341</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>1684.00</trnamt>
+      <fitid>385352</fitid>
+      <checknum>385352</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>231.05</trnamt>
+      <fitid>385353</fitid>
+      <checknum>385353</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>112.61</trnamt>
+      <fitid>385354</fitid>
+      <checknum>385354</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>453.33</trnamt>
+      <fitid>385355</fitid>
+      <checknum>385355</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>3.10</trnamt>
+      <fitid>385356</fitid>
+      <checknum>385356</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>140.90</trnamt>
+      <fitid>385357</fitid>
+      <checknum>385357</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>4247.51</trnamt>
+      <fitid>901560</fitid>
+      <checknum>901560</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>1969.80</trnamt>
+      <fitid>901561</fitid>
+      <checknum>901561</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>168.36</trnamt>
+      <fitid>901562</fitid>
+      <checknum>901562</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191202120000[-3:brt]</dtposted>
+      <trnamt>-9129.37</trnamt>
+      <fitid>900759</fitid>
+      <checknum>900759</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191203120000[-3:brt]</dtposted>
+      <trnamt>831.50</trnamt>
+      <fitid>1</fitid>
+      <checknum>1</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191203120000[-3:brt]</dtposted>
+      <trnamt>816.50</trnamt>
+      <fitid>341</fitid>
+      <checknum>341</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191203120000[-3:brt]</dtposted>
+      <trnamt>217.15</trnamt>
+      <fitid>883441</fitid>
+      <checknum>883441</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191203120000[-3:brt]</dtposted>
+      <trnamt>237.59</trnamt>
+      <fitid>883442</fitid>
+      <checknum>883442</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191203120000[-3:brt]</dtposted>
+      <trnamt>547.74</trnamt>
+      <fitid>883443</fitid>
+      <checknum>883443</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191203120000[-3:brt]</dtposted>
+      <trnamt>1248.78</trnamt>
+      <fitid>953150</fitid>
+      <checknum>953150</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191203120000[-3:brt]</dtposted>
+      <trnamt>274.86</trnamt>
+      <fitid>953151</fitid>
+      <checknum>953151</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191203120000[-3:brt]</dtposted>
+      <trnamt>-8965.50</trnamt>
+      <fitid>900764</fitid>
+      <checknum>900764</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191204120000[-3:brt]</dtposted>
+      <trnamt>360.00</trnamt>
+      <fitid>21</fitid>
+      <checknum>21</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191204120000[-3:brt]</dtposted>
+      <trnamt>478.85</trnamt>
+      <fitid>576664</fitid>
+      <checknum>576664</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191204120000[-3:brt]</dtposted>
+      <trnamt>168.47</trnamt>
+      <fitid>576665</fitid>
+      <checknum>576665</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191204120000[-3:brt]</dtposted>
+      <trnamt>1066.40</trnamt>
+      <fitid>780245</fitid>
+      <checknum>780245</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191204120000[-3:brt]</dtposted>
+      <trnamt>453.64</trnamt>
+      <fitid>780246</fitid>
+      <checknum>780246</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191204120000[-3:brt]</dtposted>
+      <trnamt>325.35</trnamt>
+      <fitid>780247</fitid>
+      <checknum>780247</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191205120000[-3:brt]</dtposted>
+      <trnamt>1502.42</trnamt>
+      <fitid>478174</fitid>
+      <checknum>478174</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191205120000[-3:brt]</dtposted>
+      <trnamt>160.99</trnamt>
+      <fitid>478175</fitid>
+      <checknum>478175</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191205120000[-3:brt]</dtposted>
+      <trnamt>642.86</trnamt>
+      <fitid>703763</fitid>
+      <checknum>703763</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191205120000[-3:brt]</dtposted>
+      <trnamt>767.44</trnamt>
+      <fitid>703764</fitid>
+      <checknum>703764</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191205120000[-3:brt]</dtposted>
+      <trnamt>12.30</trnamt>
+      <fitid>703765</fitid>
+      <checknum>703765</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191205120000[-3:brt]</dtposted>
+      <trnamt>165.00</trnamt>
+      <fitid>0</fitid>
+      <checknum>0</checknum>
+      <memo>dp dinh ag</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191205120000[-3:brt]</dtposted>
+      <trnamt>-6800.00</trnamt>
+      <fitid>900763</fitid>
+      <checknum>900763</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191205120000[-3:brt]</dtposted>
+      <trnamt>-1.50</trnamt>
+      <fitid>141</fitid>
+      <checknum>141</checknum>
+      <memo>t d din ag</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191206120000[-3:brt]</dtposted>
+      <trnamt>665.85</trnamt>
+      <fitid>237</fitid>
+      <checknum>237</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191206120000[-3:brt]</dtposted>
+      <trnamt>525.33</trnamt>
+      <fitid>382893</fitid>
+      <checknum>382893</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191206120000[-3:brt]</dtposted>
+      <trnamt>1603.81</trnamt>
+      <fitid>382894</fitid>
+      <checknum>382894</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191206120000[-3:brt]</dtposted>
+      <trnamt>185.41</trnamt>
+      <fitid>382895</fitid>
+      <checknum>382895</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191206120000[-3:brt]</dtposted>
+      <trnamt>28.77</trnamt>
+      <fitid>382896</fitid>
+      <checknum>382896</checknum>
+      <memo>ciel ae cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191206120000[-3:brt]</dtposted>
+      <trnamt>1147.75</trnamt>
+      <fitid>785142</fitid>
+      <checknum>785142</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191206120000[-3:brt]</dtposted>
+      <trnamt>562.07</trnamt>
+      <fitid>785143</fitid>
+      <checknum>785143</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191206120000[-3:brt]</dtposted>
+      <trnamt>71.95</trnamt>
+      <fitid>785144</fitid>
+      <checknum>785144</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>130.00</trnamt>
+      <fitid>1</fitid>
+      <checknum>1</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>61.20</trnamt>
+      <fitid>756</fitid>
+      <checknum>756</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>1552.21</trnamt>
+      <fitid>360464</fitid>
+      <checknum>360464</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>207.92</trnamt>
+      <fitid>360465</fitid>
+      <checknum>360465</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>11.99</trnamt>
+      <fitid>360466</fitid>
+      <checknum>360466</checknum>
+      <memo>ciel ae cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>67.35</trnamt>
+      <fitid>360467</fitid>
+      <checknum>360467</checknum>
+      <memo>ciel hp cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>3085.71</trnamt>
+      <fitid>360468</fitid>
+      <checknum>360468</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>1074.09</trnamt>
+      <fitid>954617</fitid>
+      <checknum>954617</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>777.04</trnamt>
+      <fitid>954618</fitid>
+      <checknum>954618</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>763.43</trnamt>
+      <fitid>954619</fitid>
+      <checknum>954619</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>292.83</trnamt>
+      <fitid>954620</fitid>
+      <checknum>954620</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>384.16</trnamt>
+      <fitid>954621</fitid>
+      <checknum>954621</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>674.54</trnamt>
+      <fitid>954622</fitid>
+      <checknum>954622</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>52.00</trnamt>
+      <fitid>0</fitid>
+      <checknum>0</checknum>
+      <memo>dp dinh ag</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>-10430.08</trnamt>
+      <fitid>900762</fitid>
+      <checknum>900762</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191209120000[-3:brt]</dtposted>
+      <trnamt>-1.50</trnamt>
+      <fitid>141</fitid>
+      <checknum>141</checknum>
+      <memo>t d din ag</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191210120000[-3:brt]</dtposted>
+      <trnamt>529.16</trnamt>
+      <fitid>472178</fitid>
+      <checknum>472178</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191210120000[-3:brt]</dtposted>
+      <trnamt>213.18</trnamt>
+      <fitid>472179</fitid>
+      <checknum>472179</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191210120000[-3:brt]</dtposted>
+      <trnamt>637.49</trnamt>
+      <fitid>530411</fitid>
+      <checknum>530411</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191210120000[-3:brt]</dtposted>
+      <trnamt>1010.88</trnamt>
+      <fitid>530412</fitid>
+      <checknum>530412</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191210120000[-3:brt]</dtposted>
+      <trnamt>129.22</trnamt>
+      <fitid>530413</fitid>
+      <checknum>530413</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191210120000[-3:brt]</dtposted>
+      <trnamt>47.00</trnamt>
+      <fitid>350625</fitid>
+      <checknum>350625</checknum>
+      <memo>doc elet</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191211120000[-3:brt]</dtposted>
+      <trnamt>444.32</trnamt>
+      <fitid>221015</fitid>
+      <checknum>221015</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191211120000[-3:brt]</dtposted>
+      <trnamt>172.77</trnamt>
+      <fitid>221016</fitid>
+      <checknum>221016</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191211120000[-3:brt]</dtposted>
+      <trnamt>153.31</trnamt>
+      <fitid>221017</fitid>
+      <checknum>221017</checknum>
+      <memo>ciel ae cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191211120000[-3:brt]</dtposted>
+      <trnamt>619.96</trnamt>
+      <fitid>464962</fitid>
+      <checknum>464962</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191211120000[-3:brt]</dtposted>
+      <trnamt>487.60</trnamt>
+      <fitid>464963</fitid>
+      <checknum>464963</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191211120000[-3:brt]</dtposted>
+      <trnamt>586.86</trnamt>
+      <fitid>464964</fitid>
+      <checknum>464964</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191211120000[-3:brt]</dtposted>
+      <trnamt>-9420.00</trnamt>
+      <fitid>900761</fitid>
+      <checknum>900761</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191212120000[-3:brt]</dtposted>
+      <trnamt>44.00</trnamt>
+      <fitid>1</fitid>
+      <checknum>1</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191212120000[-3:brt]</dtposted>
+      <trnamt>350.00</trnamt>
+      <fitid>237</fitid>
+      <checknum>237</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191212120000[-3:brt]</dtposted>
+      <trnamt>850.92</trnamt>
+      <fitid>139532</fitid>
+      <checknum>139532</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191212120000[-3:brt]</dtposted>
+      <trnamt>187.44</trnamt>
+      <fitid>139533</fitid>
+      <checknum>139533</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191212120000[-3:brt]</dtposted>
+      <trnamt>824.02</trnamt>
+      <fitid>458392</fitid>
+      <checknum>458392</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191212120000[-3:brt]</dtposted>
+      <trnamt>545.66</trnamt>
+      <fitid>458393</fitid>
+      <checknum>458393</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191212120000[-3:brt]</dtposted>
+      <trnamt>705.44</trnamt>
+      <fitid>458394</fitid>
+      <checknum>458394</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191212120000[-3:brt]</dtposted>
+      <trnamt>15.00</trnamt>
+      <fitid>121613</fitid>
+      <checknum>121613</checknum>
+      <memo>dp din lot</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191213120000[-3:brt]</dtposted>
+      <trnamt>1230.80</trnamt>
+      <fitid>114787</fitid>
+      <checknum>114787</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191213120000[-3:brt]</dtposted>
+      <trnamt>333.56</trnamt>
+      <fitid>114788</fitid>
+      <checknum>114788</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191213120000[-3:brt]</dtposted>
+      <trnamt>93.84</trnamt>
+      <fitid>114789</fitid>
+      <checknum>114789</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191213120000[-3:brt]</dtposted>
+      <trnamt>407.09</trnamt>
+      <fitid>547809</fitid>
+      <checknum>547809</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191213120000[-3:brt]</dtposted>
+      <trnamt>388.27</trnamt>
+      <fitid>547810</fitid>
+      <checknum>547810</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191213120000[-3:brt]</dtposted>
+      <trnamt>39.97</trnamt>
+      <fitid>547811</fitid>
+      <checknum>547811</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191213120000[-3:brt]</dtposted>
+      <trnamt>-5130.00</trnamt>
+      <fitid>900768</fitid>
+      <checknum>900768</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>224.00</trnamt>
+      <fitid>237</fitid>
+      <checknum>237</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>2520.58</trnamt>
+      <fitid>110132</fitid>
+      <checknum>110132</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>2116.62</trnamt>
+      <fitid>110133</fitid>
+      <checknum>110133</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>79.46</trnamt>
+      <fitid>110134</fitid>
+      <checknum>110134</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>383.22</trnamt>
+      <fitid>735037</fitid>
+      <checknum>735037</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>419.04</trnamt>
+      <fitid>735038</fitid>
+      <checknum>735038</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>357.59</trnamt>
+      <fitid>735039</fitid>
+      <checknum>735039</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>718.45</trnamt>
+      <fitid>735040</fitid>
+      <checknum>735040</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>21.70</trnamt>
+      <fitid>735041</fitid>
+      <checknum>735041</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>99.93</trnamt>
+      <fitid>735042</fitid>
+      <checknum>735042</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>36.00</trnamt>
+      <fitid>0</fitid>
+      <checknum>0</checknum>
+      <memo>dp dinh ag</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>-3700.00</trnamt>
+      <fitid>900767</fitid>
+      <checknum>900767</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191216120000[-3:brt]</dtposted>
+      <trnamt>-1.50</trnamt>
+      <fitid>141</fitid>
+      <checknum>141</checknum>
+      <memo>t d din ag</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191217120000[-3:brt]</dtposted>
+      <trnamt>31.50</trnamt>
+      <fitid>237</fitid>
+      <checknum>237</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191217120000[-3:brt]</dtposted>
+      <trnamt>724.94</trnamt>
+      <fitid>245827</fitid>
+      <checknum>245827</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191217120000[-3:brt]</dtposted>
+      <trnamt>261.34</trnamt>
+      <fitid>245828</fitid>
+      <checknum>245828</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191217120000[-3:brt]</dtposted>
+      <trnamt>528.46</trnamt>
+      <fitid>314320</fitid>
+      <checknum>314320</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191217120000[-3:brt]</dtposted>
+      <trnamt>49.49</trnamt>
+      <fitid>314321</fitid>
+      <checknum>314321</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191217120000[-3:brt]</dtposted>
+      <trnamt>89.40</trnamt>
+      <fitid>314322</fitid>
+      <checknum>314322</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191217120000[-3:brt]</dtposted>
+      <trnamt>-5630.00</trnamt>
+      <fitid>900766</fitid>
+      <checknum>900766</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>886.50</trnamt>
+      <fitid>237</fitid>
+      <checknum>237</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>818.52</trnamt>
+      <fitid>264291</fitid>
+      <checknum>264291</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>742.89</trnamt>
+      <fitid>264292</fitid>
+      <checknum>264292</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>270.88</trnamt>
+      <fitid>264293</fitid>
+      <checknum>264293</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>9.60</trnamt>
+      <fitid>264294</fitid>
+      <checknum>264294</checknum>
+      <memo>ciel cd cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>429.70</trnamt>
+      <fitid>995020</fitid>
+      <checknum>995020</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>158.23</trnamt>
+      <fitid>995021</fitid>
+      <checknum>995021</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>19.24</trnamt>
+      <fitid>995022</fitid>
+      <checknum>995022</checknum>
+      <memo>ciel hp cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>243.55</trnamt>
+      <fitid>181136</fitid>
+      <checknum>181136</checknum>
+      <memo>dp din lot</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191218120000[-3:brt]</dtposted>
+      <trnamt>-3000.00</trnamt>
+      <fitid>900765</fitid>
+      <checknum>900765</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191219120000[-3:brt]</dtposted>
+      <trnamt>459.44</trnamt>
+      <fitid>255178</fitid>
+      <checknum>255178</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191219120000[-3:brt]</dtposted>
+      <trnamt>364.61</trnamt>
+      <fitid>255179</fitid>
+      <checknum>255179</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191219120000[-3:brt]</dtposted>
+      <trnamt>459.17</trnamt>
+      <fitid>255180</fitid>
+      <checknum>255180</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191219120000[-3:brt]</dtposted>
+      <trnamt>839.23</trnamt>
+      <fitid>926979</fitid>
+      <checknum>926979</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191219120000[-3:brt]</dtposted>
+      <trnamt>498.49</trnamt>
+      <fitid>926980</fitid>
+      <checknum>926980</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191219120000[-3:brt]</dtposted>
+      <trnamt>486.90</trnamt>
+      <fitid>926981</fitid>
+      <checknum>926981</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191219120000[-3:brt]</dtposted>
+      <trnamt>-2850.00</trnamt>
+      <fitid>900772</fitid>
+      <checknum>900772</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>475.70</trnamt>
+      <fitid>21</fitid>
+      <checknum>21</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>1943.00</trnamt>
+      <fitid>237</fitid>
+      <checknum>237</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>239.00</trnamt>
+      <fitid>341</fitid>
+      <checknum>341</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>1510.28</trnamt>
+      <fitid>369365</fitid>
+      <checknum>369365</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>1471.78</trnamt>
+      <fitid>369366</fitid>
+      <checknum>369366</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>582.08</trnamt>
+      <fitid>369367</fitid>
+      <checknum>369367</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>768.61</trnamt>
+      <fitid>908351</fitid>
+      <checknum>908351</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>370.72</trnamt>
+      <fitid>908352</fitid>
+      <checknum>908352</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>42.20</trnamt>
+      <fitid>908353</fitid>
+      <checknum>908353</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191220120000[-3:brt]</dtposted>
+      <trnamt>-6100.00</trnamt>
+      <fitid>900771</fitid>
+      <checknum>900771</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>1762.92</trnamt>
+      <fitid>612033</fitid>
+      <checknum>612033</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>182.28</trnamt>
+      <fitid>612034</fitid>
+      <checknum>612034</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>152.87</trnamt>
+      <fitid>612035</fitid>
+      <checknum>612035</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>814.28</trnamt>
+      <fitid>612036</fitid>
+      <checknum>612036</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>1275.96</trnamt>
+      <fitid>612037</fitid>
+      <checknum>612037</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>218.80</trnamt>
+      <fitid>612038</fitid>
+      <checknum>612038</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>3245.76</trnamt>
+      <fitid>927643</fitid>
+      <checknum>927643</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>2808.55</trnamt>
+      <fitid>927644</fitid>
+      <checknum>927644</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>263.89</trnamt>
+      <fitid>927645</fitid>
+      <checknum>927645</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>12.37</trnamt>
+      <fitid>927646</fitid>
+      <checknum>927646</checknum>
+      <memo>ciel ae cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>19.24</trnamt>
+      <fitid>927647</fitid>
+      <checknum>927647</checknum>
+      <memo>ciel hp cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191223120000[-3:brt]</dtposted>
+      <trnamt>-7501.60</trnamt>
+      <fitid>900770</fitid>
+      <checknum>900770</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191224120000[-3:brt]</dtposted>
+      <trnamt>1243.78</trnamt>
+      <fitid>101921</fitid>
+      <checknum>101921</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191224120000[-3:brt]</dtposted>
+      <trnamt>581.22</trnamt>
+      <fitid>101922</fitid>
+      <checknum>101922</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191224120000[-3:brt]</dtposted>
+      <trnamt>285.54</trnamt>
+      <fitid>101923</fitid>
+      <checknum>101923</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191224120000[-3:brt]</dtposted>
+      <trnamt>223.25</trnamt>
+      <fitid>292956</fitid>
+      <checknum>292956</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191224120000[-3:brt]</dtposted>
+      <trnamt>484.09</trnamt>
+      <fitid>292957</fitid>
+      <checknum>292957</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191224120000[-3:brt]</dtposted>
+      <trnamt>358.39</trnamt>
+      <fitid>292958</fitid>
+      <checknum>292958</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191224120000[-3:brt]</dtposted>
+      <trnamt>-7350.20</trnamt>
+      <fitid>900776</fitid>
+      <checknum>900776</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191226120000[-3:brt]</dtposted>
+      <trnamt>198.78</trnamt>
+      <fitid>459601</fitid>
+      <checknum>459601</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191226120000[-3:brt]</dtposted>
+      <trnamt>945.16</trnamt>
+      <fitid>459602</fitid>
+      <checknum>459602</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191226120000[-3:brt]</dtposted>
+      <trnamt>328.58</trnamt>
+      <fitid>459603</fitid>
+      <checknum>459603</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191226120000[-3:brt]</dtposted>
+      <trnamt>1233.55</trnamt>
+      <fitid>890315</fitid>
+      <checknum>890315</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191226120000[-3:brt]</dtposted>
+      <trnamt>581.32</trnamt>
+      <fitid>890316</fitid>
+      <checknum>890316</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191226120000[-3:brt]</dtposted>
+      <trnamt>-42.00</trnamt>
+      <fitid>0</fitid>
+      <checknum>0</checknum>
+      <memo>manut cta</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191227120000[-3:brt]</dtposted>
+      <trnamt>873.95</trnamt>
+      <fitid>756</fitid>
+      <checknum>756</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191227120000[-3:brt]</dtposted>
+      <trnamt>808.41</trnamt>
+      <fitid>82348</fitid>
+      <checknum>82348</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191227120000[-3:brt]</dtposted>
+      <trnamt>221.65</trnamt>
+      <fitid>82349</fitid>
+      <checknum>82349</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191227120000[-3:brt]</dtposted>
+      <trnamt>22.17</trnamt>
+      <fitid>82350</fitid>
+      <checknum>82350</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191227120000[-3:brt]</dtposted>
+      <trnamt>837.24</trnamt>
+      <fitid>643173</fitid>
+      <checknum>643173</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191227120000[-3:brt]</dtposted>
+      <trnamt>1160.12</trnamt>
+      <fitid>643174</fitid>
+      <checknum>643174</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191227120000[-3:brt]</dtposted>
+      <trnamt>53.62</trnamt>
+      <fitid>643175</fitid>
+      <checknum>643175</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>1053.00</trnamt>
+      <fitid>1</fitid>
+      <checknum>1</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>602.95</trnamt>
+      <fitid>341</fitid>
+      <checknum>341</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>270.00</trnamt>
+      <fitid>341</fitid>
+      <checknum>341</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>1411.00</trnamt>
+      <fitid>341</fitid>
+      <checknum>341</checknum>
+      <memo>cred ted</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>3198.87</trnamt>
+      <fitid>223739</fitid>
+      <checknum>223739</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>1356.72</trnamt>
+      <fitid>223740</fitid>
+      <checknum>223740</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>3784.52</trnamt>
+      <fitid>728254</fitid>
+      <checknum>728254</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>1621.24</trnamt>
+      <fitid>728255</fitid>
+      <checknum>728255</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>457.09</trnamt>
+      <fitid>728256</fitid>
+      <checknum>728256</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>443.46</trnamt>
+      <fitid>728257</fitid>
+      <checknum>728257</checknum>
+      <memo>ciel ms cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>735.98</trnamt>
+      <fitid>728258</fitid>
+      <checknum>728258</checknum>
+      <memo>ciel ve cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>65.69</trnamt>
+      <fitid>728259</fitid>
+      <checknum>728259</checknum>
+      <memo>ciel ed cd</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20191230120000[-3:brt]</dtposted>
+      <trnamt>-17939.11</trnamt>
+      <fitid>900775</fitid>
+      <checknum>900775</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191231120000[-3:brt]</dtposted>
+      <trnamt>1218.02</trnamt>
+      <fitid>250258</fitid>
+      <checknum>250258</checknum>
+      <memo>ciel mc cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191231120000[-3:brt]</dtposted>
+      <trnamt>791.51</trnamt>
+      <fitid>250259</fitid>
+      <checknum>250259</checknum>
+      <memo>ciel vs cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20191231120000[-3:brt]</dtposted>
+      <trnamt>143.10</trnamt>
+      <fitid>250260</fitid>
+      <checknum>250260</checknum>
+      <memo>ciel el cc</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20200102120000[-3:brt]</dtposted>
+      <trnamt>199.62</trnamt>
+      <fitid>0</fitid>
+      <checknum>0</checknum>
+      <memo>cr vd cart</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>credit</trntype>
+      <dtposted>20200102120000[-3:brt]</dtposted>
+      <trnamt>192.50</trnamt>
+      <fitid>0</fitid>
+      <checknum>0</checknum>
+      <memo>cr vd cart</memo>
+     </stmttrn>
+     <stmttrn>
+      <trntype>debit</trntype>
+      <dtposted>20200102120000[-3:brt]</dtposted>
+      <trnamt>-8933.61</trnamt>
+      <fitid>900769</fitid>
+      <checknum>900769</checknum>
+      <memo>cheque sac</memo>
+     </stmttrn>
+    </banktranlist>
+    <ledgerbal>
+     <balamt>106143.74</balamt>
+     <dtasof>20200102</dtasof>
+    </ledgerbal>
+   </stmtrs>
+  </stmttrnrs>
+ </bankmsgsrsv1>
+</ofx>
+extrato_conciliado_prosoft

@@ -1,0 +1,367 @@
+folha de pagamento 
+vencimentos
+descontos
+emitida em:
+pág.:
+39
+035 - sanex solucoes ltda
+r major joao licio, 420
+outubro/2025
+15:27:15
+funcionários
+06/11/2025
+cnpj: 05.350.401/0001-95
+total da empresa
+002-salario
+331.463,82
+161-inss
+37.378,57
+010-h.e 100% feriado/folg
+   054:26
+1.298,18
+162-irrf
+10.636,01
+013-dsr s/hs extr
+4.633,13
+163-inss s/13.sal.
+204,59
+015-hr.extras 60%
+  1103:03
+27.529,75
+165-adiant.salario
+110.459,05
+019-adic noturno c/ dsr
+   022:13
+56,45
+166-faltas injustificadas
+        6
+438,00
+020-gratificacoes
+130,00
+167-desc. dsr
+        3
+219,00
+028-arredond atual
+41,92
+168-atrasos/saída antecip
+   056:43
+716,69
+029-pro-labore
+8.157,41
+172-vale transporte
+946,47
+031-saldo negativo
+2.120,24
+174-pensao alimenticia
+935,95
+032-adic.insalubridade
+3.643,20
+176-arredond anter
+38,94
+033-adic.periculosidade
+11.605,02
+177-inss s/ferias
+385,22
+035-ferias normais
+3.589,77
+179-irrf s/ferias
+152,35
+036-1/3 ferias
+1.196,59
+182-liq.pg.rescisao
+11.927,60
+040-av. previo indenizado
+2.854,78
+183-liq.pg.ferias
+4.256,90
+041-13.salario prop
+2.698,62
+194-indeniz. contr exp
+1.693,45
+043-ferias proporc
+2.936,52
+199-emprestimo consigna
+7.333,72
+044-ferias 1/3
+1.058,13
+201-pagto antecipado
+1.332,61
+045-saldo salarios
+2.688,31
+219-convenio médico dep
+6.158,04
+046-13.sal.indeniz.
+237,90
+238-convenio odontolog
+99,72
+047-hora extra 100% notu
+   002:43
+75,63
+251-irrf ref. adiantament
+21.632,95
+049-hr.ext 60% noturna
+   053:11
+1.486,63
+069-ajuda custo
+1.050,00
+072-adc sobreaviso 1/3
+1.647,79
+088-reembolso/devol des
+131,40
+092-he 60% mes ant
+   013:30
+883,64
+100-férias (aviso prévio inde
+237,90
+115-adc interjornada
+   184:07
+3.462,08
+159-adicional de função
+481,02
+417.395,83
+216.945,83
+ total vencimentos
+total descontos
+363.389,05
+salário: 
+273-fgts na grrf
+287-base inss 13
+2.698,62
+983,81
+288-base irrf 13
+289-base inss fer
+4.786,36
+1.484,22
+290-base irrf fer
+291-base inss
+368.805,73
+3.643,41
+292-base irrf
+296-base inss empresa
+398.245,94
+207.501,84
+297-base p.lab/auton.
+315-dedução simpl salários
+34.003,20
+8.157,41
+316-dedução simpl férias
+317-dedução simpl 13
+1.214,40
+607,20
+318-bruto irrf salário
+319-bruto irrf ferias
+4.250,61
+267.353,32
+320-bruto irrf 13
+328-base fgts mês
+394.366,27
+2.698,62
+329-depósito fgts mês
+330-base fgts 13º
+1.033,33
+31.258,47
+331-depósito fgts 13º
+334-adiantamento-regime caixa
+131.592,00
+20,66
+  líquido
+200.450,00
+contrib. previdenciária
+03 - código de pagamento
+04 - competência
+05 - identificador
+06 - valor do inss
+09 - outras entidades
+11 - total
+cálculo previdenciário
+11-compensações e/ou retenções
+descrição
+mês atual
+valores acumulados
+total para gps
+vínculos
+recolhimentos
+2100
+05350401000195
+8.157,41
+37.968,38
+1.631,48
+398.245,94
+8.157,41
+37.968,38
+125.222,78
+148.321,04
+79.649,19
+5.973,73
+23.098,26
+1.631,48
+23.098,26
+10-pro-lab./autônomo (20,00%)
+09-cooperativa/prod.rural
+08-acréscimo sat
+05-empresa (20,00%)
+04-deduções
+03-segurados
+02-base pro-lab/autônomo
+01-base de inss empresa
+10/2025
+07-terceiros (5,80%) e/ou (2,50%)
+quartarh - www.quarta.com.br
+funcionários
+pro-labores
+autônomos
+outros
+ quantidade
+1º dia
+adm.
+dem.
+último dia
+contrib. inss - segurados:
+37.968,38
+contrib. inss - devida:
+148.321,04
+fgts digital:
+31.225,64
+descrição
+valor
+fgts digital rescisório:
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+23.098,26
+398.245,94
+06-ac.trab (3,00%*0,5000)
+79.649,19
+5.973,73
+80
+8
+3
+85
+53,49
+econsignado
+ 10-pro-lab./autônomo (20,00%)
+  tz
+ 036-1/3 ferias
+ 1.196,59 || 182-liq.pg.rescisao
+ 11.927,6
+ 040-av. previo indenizado
+ 2.854,78 || 183-liq.pg.ferias
+  041-13.salario prop
+ 2.098,62 || 194-indeniz. contr exp
+ 1.693,4
+     044-ferias 1/3
+ 1.058,13 || 201-pagto antecipado
+ 1.332,60
+ 045-saldo salarios
+ 268831 || 219-convenio médico dep
+ 6.158,0
+ 046-13.5al.indeniz.
+ 398.245,9
+ 237,90 || 238-convenio odontolog
+ 99,7
+ 047-hora extra 100% notl
+
+002:43
+ 75,63 || 251-irrf ref. adiantament
+ 21.6032,9
+ 049-hr.ext 60% noturna
+  1.486,63
+ 069-ajuda custo
+ 1.050,00
+  0/2-adg sobreaviso 1/3
+  088-reembolso/devol des
+ 131,40
+ 092-he 60% mes ant
+   100-ferias (aviso prévio inde
+ 237,90
+ 115-adc interjornada
+  184:07
+ 3.462,08
+ 159-adicional de função
+ 481,02
+      10-pro-lab./autônomo (20,00%)
+ 07-terceiros (3,80%) e/ou (2,50%)
+ u9-cooperativa/prod.rural
+ 08-acréscimo sat
+ 05-empresa (20,00%)
+ 04-deduções
+ 03-segurados
+  01-base de inss empresa
+ 07-terceiros (3,80%) e/ou (2,50%)
+   06-ac. trab (3,00%*0,5000)
+ 06-ac. trab (3,00%*0,5000)
+  5.973,73
+ 3-fg its na grrf
+ 26 /-base inso 13
+ 2.096,02
+
+s)
+8)
+ao)
+65)
+ 8-base irrf 13
+ 1.484,22 289-base inss fer
+ 4.786,36
+ o-base irrf fer
+ 05-empresa (20,00%)
+ 3.643,41 291-base inss
+ gd
+ 2-base irrf
+ 207.501,84 290-base inss empresa
+  7-base p.lab/auton.
+ 8.157,41 315-dedução simpl salários
+ 34.003,20
+ 6-dedução simpl férias
+ 607,20 31/-dedução simpl 13
+ 2/3-fgiss na grr
+ 1.214,40
+ 8-bruto irrf salário
+ 207.353,32 319-bruto irrf ferias
+ 4.250,61
+ o-bruto irrf 13
+ 2.698,62 328-base fgts mês
+  9-depósito fgts mês
+ 31.258,47 330-base fgts 13º
+ 1.033,33
+ 329-depósito fgts mês
+  002-salario
+ 331.463,82 || 161-inss
+ 37.378,90
+    013-dsr s/hs extr
+ 4.633,13 || 163-inss 8s/13.5sal.
+ 204,5
+ 331-depósito fgts 13º
+ 015-hr.extras 60%
+ 1103:03
+ 27.529,75 || 165-adiant.salaário
+ 110.459,0
+ 019-adic noturno c/ dsr
+  56,45 || 166-faltas injustificadas
+  438,0
+ 020-gratificacoes
+ 11-compensações e/ou retenções
+ 130,00 || 167-desc. dsr
+  219,0
+ 028-arredond atual
+ 41,92 || 168-atrasos/saída antecii 056:43
+ 716,6
+ 029-pro-labore
+ 8.157,41 || 172-vale transporte
+ 946,4
+     032-adic.insalubridade
+ 3.643,20 || 176-arredond anter
+ 38,9
+ 033-adic.periculosidade
+ 11.605,02 || 177-inss s/ferias
+ 385,2
+ 035-ferias normais
+ 3.589,77 || 179-irrf s/ferias

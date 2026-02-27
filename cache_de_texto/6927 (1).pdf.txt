@@ -1,0 +1,576 @@
+ctp | titulos a prazo compensados (juros e descontos)  
+folha: 1 
+macro concreteira ituiutaba ltda
+perã-odo: 01/01/2026 a 31/01/2026
+sergio da costa souza 17/02/2026 07:53:04  b.razao 
+ ct:
+nome
+docf
+nat
+numero - mod
+vr tit r$
+desc/jur
+liquido
+vcto
+pgto
+obs
+2 - mercado imports pecas auto
+dhp
+e07
+272197 55
+5.638,00
+0,00
+5.638,00
+20/01/2026
+20/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2922346
+sub-total
+5.638,00
+0,00
+5.638,00
+57598750 rita de cassia fideli
+dhp
+e15
+2 55
+980,00
+0,00
+980,00
+19/01/2026
+19/01/2026
+4.1.04.01.008 material higiene/limpeza/cafe     | -2920118
+sub-total
+980,00
+0,00
+980,00
+agronata imp agricola ituiutab
+blp
+e07
+30112 55
+450,00
+0,00
+450,00
+01/01/2026
+02/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2912438
+sub-total
+450,00
+0,00
+450,00
+alvaro luiz de souza ..121
+blp
+desg
+14 03
+1.235,00
+0,00
+1.235,00
+24/01/2026
+23/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2920129
+sub-total
+1.235,00
+0,00
+1.235,00
+amaral mecanica e manutenção .
+blp
+desg
+616-01/04 03
+2.100,00
+0,00
+2.100,00
+08/01/2026
+09/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2918785
+amaral mecanica e manutenção .
+blp
+e07
+9-02/03 55
+2.480,10
+0,00
+2.480,10
+19/01/2026
+19/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2912487
+amaral mecanica e manutenção .
+blp
+desg
+616-02/04 03
+2.100,00
+0,00
+2.100,00
+22/01/2026
+20/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2918788
+sub-total
+6.680,10
+0,00
+6.680,10
+ana paula caetano de assunção 
+dhp
+desg
+33 03
+3.200,00
+0,00
+3.200,00
+05/01/2026
+05/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2918726
+sub-total
+3.200,00
+0,00
+3.200,00
+ananias aparecido borges - me 
+blp
+desg
+1574 03
+4.135,00
+0,00
+4.135,00
+14/01/2026
+07/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos   part/pg-2918570 part/pg-2918570 | -2918790
+sub-total
+4.135,00
+0,00
+4.135,00
+arapneus comercio ltda ..125
+blp
+e07
+43342-04/04 55
+1.324,00
+0,00
+1.324,00
+15/01/2026
+15/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2880275
+sub-total
+1.324,00
+0,00
+1.324,00
+areia ponto forte ltda ..170
+app
+e25
+9717 55
+5.600,00
+0,00
+5.600,00
+12/01/2026
+09/01/2026
+4.1.01.01.010 compra merc. p/ prestacao servico   part/pg-2912599 part/pg-2912599 | -2920099
+areia ponto forte ltda ..170
+app
+e25
+9717 55
+5.000,00
+0,00
+5.000,00
+12/01/2026
+13/01/2026
+4.1.01.01.010 compra merc. p/ prestacao servico   part/pg-2912599part/pg part/pg-2912599part/pg | -2920100
+areia ponto forte ltda ..170
+app
+e25
+9717 55
+5.000,00
+0,00
+5.000,00
+12/01/2026
+20/01/2026
+4.1.01.01.010 compra merc. p/ prestacao servico   part/pgpart/pg part/pgpart/pg | -2912599
+sub-total
+15.600,00
+0,00
+15.600,00
+ e
+macro.
+
+concreteira
+asus - medicina do trabalho lt
+blp
+desg
+18 03
+230,25
+0,00
+230,25
+16/01/2026
+16/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2918981
+sub-total
+230,25
+0,00
+230,25
+auto eletrica siga bem ltda me
+blp
+desg
+1 03
+370,00
+0,00
+370,00
+24/01/2026
+22/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2919445
+auto eletrica siga bem ltda me
+blp
+e07
+856 55
+6.656,90
+0,00
+6.656,90
+24/01/2026
+22/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2919483
+sub-total
+7.026,90
+0,00
+7.026,90
+auto pecas de paula ltda ..152
+blp
+e07
+13946 55
+286,40
+0,00
+286,40
+30/12/2025
+05/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2910050
+auto pecas de paula ltda ..152
+blp
+e07
+13979 55
+71,20
+0,00
+71,20
+30/12/2025
+05/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2912270
+auto pecas de paula ltda ..152
+blp
+e07
+14038 55
+1.068,00
+0,00
+1.068,00
+20/01/2026
+20/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2920055
+sub-total
+1.425,60
+0,00
+1.425,60
+banco volvo do brasil s.a ..17
+blp
+dp02
+01/58 
+33.125,09
+0,00
+33.125,09
+03/01/2026
+05/01/2026
+4.1.05.01.006 financiamento de veiculos   02 caminhao 02 caminhao | -2848741
+banco volvo do brasil s.a ..17
+blp
+dp02
+0000931201 
+8.603,47
+0,00
+8.603,47
+16/01/2026
+16/01/2026
+4.1.05.01.006 financiamento de veiculos  02 betoneiras - nf 35275 e 35276 02 betoneiras - nf 35275 e 35276 02 betoneiras - nf 35275 e 352
+sub-total
+41.728,56
+0,00
+41.728,56
+bombear centro oeste eireli me
+blp
+e07
+15794-01/02 55
+1.300,00
+0,00
+1.300,00
+02/01/2026
+02/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2912418
+bombear centro oeste eireli me
+blp
+e07
+15794-02/02 55
+1.300,00
+0,00
+1.300,00
+16/01/2026
+16/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2912419
+sub-total
+2.600,00
+0,00
+2.600,00
+borracharia do neguinho e tran
+blp
+desg
+15 03
+1.940,00
+0,00
+1.940,00
+13/01/2026
+13/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2918756
+sub-total
+1.940,00
+0,00
+1.940,00
+brasil borrachas ltda ..215
+blp
+e07
+141153-01/03 55
+1.269,47
+0,00
+1.269,47
+10/01/2026
+12/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2918625
+sub-total
+1.269,47
+0,00
+1.269,47
+brlog logistica ltda ..575
+blp
+desg
+7612 57
+10.635,30
+0,00
+10.635,30
+28/01/2026
+28/01/2026
+4.1.01.01.007 fretes s/ compras - transport.     | -2918566
+sub-total
+10.635,30
+0,00
+10.635,30
+caixa economica federal ..544
+grp
+dp02
+ 
+5.989,37
+0,00
+5.989,37
+20/01/2026
+20/01/2026
+4.1.02.01.003 fgts - guia  concreteira concreteira | -2919526
+sub-total
+5.989,37
+0,00
+5.989,37
+casavol comercio de pecas ltda
+blp
+e07
+34833-04/04 55
+834,50
+0,00
+834,50
+02/01/2026
+02/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2880709
+casavol comercio de pecas ltda
+blp
+e07
+37161-02/05 55
+1.349,00
+0,00
+1.349,00
+20/01/2026
+20/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2907794
+casavol comercio de pecas ltda
+blp
+e07
+37338-02/03 55
+800,00
+0,00
+800,00
+26/01/2026
+26/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2910048
+casavol comercio de pecas ltda
+blp
+e07
+37409-02/02 55
+889,00
+0,00
+889,00
+27/01/2026
+27/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2911079
+sub-total
+3.872,50
+0,00
+3.872,50
+centro de gestão de meios pagt
+dhp
+desg
+263164494 03
+5.452,64
+0,00
+5.452,64
+31/01/2026
+31/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2922332
+sub-total
+5.452,64
+0,00
+5.452,64
+cfl construtora ferreira lima 
+app
+desg
+136589 03
+1.320,00
+0,00
+1.320,00
+25/01/2026
+15/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2919532
+sub-total
+1.320,00
+0,00
+1.320,00
+cielo s.a - instituicao de pag
+blp
+dp02
+62566364/0 
+340,40
+0,00
+340,40
+30/01/2026
+29/01/2026
+4.1.06.01.002 taxas de cartoes debito/credito   aluguel maquina cartão cielo aluguel maquina cartão cielo | -2921031
+sub-total
+340,40
+0,00
+340,40
+conecta mangueiras conexoes e 
+blp
+desg
+1761-02/02 03
+1.323,00
+0,00
+1.323,00
+12/01/2026
+12/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2914026
+conecta mangueiras conexoes e 
+blp
+e07
+2403 55
+303,61
+0,00
+303,61
+28/01/2026
+27/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2919534
+sub-total
+1.626,61
+0,00
+1.626,61
+conselho regional de engenhari
+blp
+dp02
+8610354530 
+1.132,79
+0,00
+1.132,79
+31/01/2026
+30/01/2026
+4.1.04.01.026 pagamento prestacao de servicos de engenharia na concreteira   anuidade crea concreteira anuidade crea concreteira | -2
+sub-total
+1.132,79
+0,00
+1.132,79
+csi centro de saude de ituiuta
+blp
+desg
+19 03
+318,62
+0,00
+318,62
+25/01/2026
+26/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2918983
+sub-total
+318,62
+0,00
+318,62
+decio comercio serviço rodovia
+blp
+e18
+20376 55
+105,94
+0,00
+105,94
+13/01/2026
+13/01/2026
+4.1.05.01.001 combustiveis e lubrificantes    | -2918773
+decio comercio serviço rodovia
+blp
+e18
+22064 55
+123,20
+0,00
+123,20
+20/02/2026
+27/01/2026
+4.1.05.01.001 combustiveis e lubrificantes    | -2920139
+sub-total
+229,14
+0,00
+229,14
+distribuidora trucao pecas ltd
+blp
+e07
+10201-02/02 55
+467,24
+0,00
+467,24
+12/01/2026
+12/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2910100
+distribuidora trucao pecas ltd
+blp
+e07
+9084-04/04 55
+723,22
+0,00
+723,22
+20/01/2026
+20/01/2026
+4.1.05.01.002 manutencao de veiculos     | -2885012
+sub-total
+1.190,46
+0,00
+1.190,46
+erca industria e comercio e pr
+blp
+e25
+2380 55
+11.550,58
+0,00
+11.550,58
+02/01/2026
+02/01/2026
+4.1.01.01.010 compra merc. p/ prestacao servico     | -2912428
+sub-total
+11.550,58
+0,00
+11.550,58
+esteio armazem gerais ltda ..1
+app
+desg
+4 03
+180,00
+0,00
+180,00
+28/01/2026
+15/01/2026
+3.1.01.04.004 (-) iss s/ nfe servicos     | -2919008
+sub-total
+180,00
+0,00
+180,00

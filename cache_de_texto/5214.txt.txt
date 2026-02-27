@@ -1,0 +1,128 @@
+01/10/2023
+até
+
+
+31/10/2023
+operações entre 01/10/2023 e 31/10/2023
+ver extrato de cheque empresarial
+
+data histórico valor (r$)
+29/09 saldo anterior 9.352,83
+02/10 transferencia pix
+rem: fernado ferreira de q 30/09
+docto 1012478 100,00
+transferencia pix
+rem: caetano assessoria c 02/10
+docto 1628139 107,30
+pagto eletron cobranca
+rancharia
+docto 2119 -660,40
+pagto eletron cobranca
+spal
+docto 2120 -32,70
+pagto eletron cobranca
+spal
+docto 2121 -25,48
+pagto eletron cobranca
+spal
+docto 2122 -630,50
+ted d cc hbank*
+dest. auto posto tacriza l
+docto 9154337 -2.500,00
+04/10 dep dinh corresp banc
+000030071425802
+docto 258074 2.580,00
+desconto de cheques
+2023002026497
+docto 2026497 16.934,05
+pagto eletron cobranca
+small
+docto 2123 -15.625,00
+05/10 deposito chq cor banc
+docto 258074 2.196,41
+transf fdos doc-e h bank
+dest.afonso henrique
+docto 2945383 -2.200,12
+ted d cc hbank*
+dest. auto posto tacriza l
+docto 2947190 -5.000,00
+transf cc para cc pj
+juliane caetano marani
+docto 258448 -199,60
+doc/ted internet
+doc internet
+docto 2945383 -12,15
+doc/ted internet
+ted internet
+docto 2947190 -12,15
+06/10 devol.cheque depositado*
+11-chq.s/fundos 1a.apres.
+docto 76 -1.315,64
+tar s/ custodia cheques
+docto 273 -6,40
+09/10 deposito chq cor banc
+docto 258074 1.821,00
+10/10 ted-transf elet dispon
+remet.flavia rocha de souz
+docto 6544436 2.855,50
+11/10 transferencia pix
+rem: silas ferreira cardos 11/10
+docto 1954161 20,00
+13/10 tarifa bancaria
+cestaempresarial2
+docto 21023 -126,50
+16/10 dep cheq cc terc c/c bdn
+ag00258maq006789seq02423
+docto 6789423 1.315,67
+cartao credito anuidade
+docto 4740289 -22,50
+17/10 devol.cheque depositado*
+12-chq.s/fundos 2a.apres.
+docto 76 -1.315,67
+19/10 depos chq/dinh cb
+000039551438809
+docto 258074 8.133,00
+resg.tit.capitalizacao
+docto 1900258 5.133,84
+pagto eletron cobranca
+etanol
+docto 2124 -7.200,00
+pagto eletron cobranca
+small
+docto 2125 -8.349,17
+pagto eletron cobranca
+ambev
+docto 2126 -655,34
+20/10 deposito chq cor banc
+docto 258074 530,00
+23/10 deposito chq cor banc
+docto 258074 2.182,54
+24/10 transferencia pix
+rem: luan da silva marcass 24/10
+docto 1848562 20,00
+debito desconto cheques
+202300202649700004
+docto 8090969 -800,00
+25/10 depos chq/dinh cb
+docto 258074 1.085,00
+27/10 ted d cc hbank*
+dest. auto posto tacriza l
+docto 8061110 -7.600,00
+doc/ted internet
+ted internet
+docto 8061110 -12,15
+30/10 deposito chq cor banc
+docto 258074 1.407,00
+31/10 desconto de cheques
+2023002186870
+docto 2186870 22.655,41
+transferencia pix
+rem: sindicato rural de gu 31/10
+docto 1505483 258,70
+pagto eletron cobranca
+girus
+docto 2127 -7.200,00
+pagto eletron cobranca
+girus
+docto 2128 -7.250,00
+saldo total 9.936,78

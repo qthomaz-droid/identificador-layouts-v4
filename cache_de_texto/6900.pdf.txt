@@ -1,0 +1,234 @@
+desenvolvido por c2ti.com.br
+2task
+fluxo de caixa
+data: 07/11/2025 14:36:39
+usuário: jennifer@c2ti.com.br
+período: de 01/10/2025 até 31/10/2025
+caixa: conta itaú
+tipo de visualização: analítica
+data
+tipo
+descrição
+cliente/fornecedor
+nota
+dt nota
+val. nota
+v. nom.
+v. liq.
+01/10/2025
+entrada
+redimento itaú
+itaú
+r$ 0,03
+r$ 0,03
+01/10/2025
+saída
+transferência do caixa conta itaú para o caixa conta sicoob 18.508
+r$ 0,00
+r$ 1.491,47
+01/10/2025
+saída
+total de saídas do dia
+r$ 1.491,47
+01/10/2025
+entrada
+total de entradas do dia
+r$ 0,03
+01/10/2025
+saldo do dia 01 de outubro de 2025
+r$ 0,01
+03/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 1.918,72
+03/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 15.859,23
+03/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 21.954,63
+03/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 272,20
+03/10/2025
+saída
+transferência do caixa conta itaú para o caixa conta sicoob 18.508
+r$ 0,00
+r$ 40.004,79
+03/10/2025
+saída
+total de saídas do dia
+r$ 40.004,79
+03/10/2025
+entrada
+total de entradas do dia
+r$ 40.004,78
+03/10/2025
+saldo do dia 03 de outubro de 2025
+r$ 0,00
+06/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 1.291,93
+06/10/2025
+entrada
+total de entradas do dia
+r$ 1.291,93
+06/10/2025
+saldo do dia 06 de outubro de 2025
+r$ 1.291,93
+09/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 41,04
+09/10/2025
+entrada
+total de entradas do dia
+r$ 41,04
+09/10/2025
+saldo do dia 09 de outubro de 2025
+r$ 1.332,97
+13/10/2025
+entrada
+rendimento itaú
+itaú
+r$ 0,02
+r$ 0,02
+13/10/2025
+saída
+transferência do caixa conta itaú para o caixa conta sicoob 18.508
+r$ 0,00
+r$ 33.159,80
+13/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 10.811,44
+13/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 19.361,63
+13/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 167,04
+13/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 1.486,71
+13/10/2025
+saída
+total de saídas do dia
+r$ 33.159,80
+13/10/2025
+entrada
+total de entradas do dia
+r$ 31.826,84
+13/10/2025
+saldo do dia 13 de outubro de 2025
+r$ 0,01
+14/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 56,74
+14/10/2025
+entrada
+total de entradas do dia
+r$ 56,74
+14/10/2025
+saldo do dia 14 de outubro de 2025
+r$ 56,75
+17/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 39,08
+17/10/2025
+entrada
+total de entradas do dia
+r$ 39,08
+17/10/2025
+saldo do dia 17 de outubro de 2025
+r$ 95,83
+20/10/2025
+saída
+transferência do caixa conta itaú para o caixa conta sicoob 18.508
+r$ 0,00
+r$ 54.671,54
+20/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 29.499,34
+20/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 507,51
+20/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 4.228,64
+20/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 20.340,22
+20/10/2025
+saída
+total de saídas do dia
+r$ 54.671,54
+20/10/2025
+entrada
+total de entradas do dia
+r$ 54.575,71
+20/10/2025
+saldo do dia 20 de outubro de 2025
+r$ 0,00
+29/10/2025
+entrada
+transferência do caixa rede c2ti para o caixa conta itaú
+r$ 0,00
+r$ 36,26
+29/10/2025
+entrada
+total de entradas do dia
+r$ 36,26
+29/10/2025
+saldo do dia 29 de outubro de 2025
+r$ 36,26
+total do caixa
+caixa
+saldo anterior
+total de entradas
+total de saídas
+saldo final
+conta itaú
+r$ 1.491,45
+r$ 127.872,41
+r$ 129.327,60
+r$ 36,26
+total
+r$ 0,00
+r$ 0,00
+r$ 0,00
+r$ 0,00
+07/11/25, 14:36
+fluxo de caixa
+https://2task.com.br/app/relatorios/financeiro/relatoriofluxodecaixa.xhtml
+1/1
+ 

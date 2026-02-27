@@ -1,0 +1,720 @@
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0001
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+pagamento: 09/02/2024
+ 01697-51.052.491 aglailson da silva cos  bb              nfse-2      09/01/2024   10.000,00 09/01/2024   10.000,00        0,00
+                                              histrico: pix enviado p/ a.j.n. eletrica e seguranc - a nf foi emitida em 23/01/2024
+ 01673-a.s.m.s veculos eireli__________  bdco            t000110841  10/10/2023   15.180,00 22/01/2024   15.180,00        0,00
+ 01659-agropecuaria e reflorestamento se  bdco            216         01/12/2023    4.200,00 02/01/2024    4.200,00        0,00
+ 01385-allianz seguros__________________  bdco                        07/09/2023      176,88 26/01/2024      176,88        0,00
+                                              histrico: pagto ref. seguro de vida de scios - n proposta: 124874633
+ 01709-alves e borges ltda______________  bdco            t000112171  22/12/2023      130,00 10/01/2024      130,00        0,00
+ 01683-am tacografo e velocimetro_______  bb              nfse-267    19/01/2024    1.420,00 19/01/2024    1.420,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000267 - am tacografo nf emitida em 30/01/2024
+ 01683-am tacografo e velocimetro_______  bb              15769       30/01/2024      480,00 19/01/2024      480,00        0,00
+ 01458-ambience moveis__________________  bb              1496        18/01/2024    3.981,90 15/01/2024    3.981,90        0,00
+ 01314-antonio jocieldo rodrigues benici  bb              nfse-8      22/01/2024    2.000,00 22/01/2024    2.000,00        0,00
+                                              histrico: pagto ref. nfs-e n8 - pix enviado p/ antonio jocieldo r. b. s.
+ 01558-aromatizze servios de manutencao  bdco            nfse-21     03/01/2024      375,00 10/01/2024      375,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000021 aromatizze servicos de manutencao ltda
+ 00105-atual cargas (palmas)____________  bdco            546517      29/11/2023      224,10 04/01/2024      224,10        0,00
+                                              histrico: pagto ref. aquisio de frete atual cargas 546517
+ 00105-atual cargas (palmas)____________  bdco            1155994     08/12/2023      199,84 04/01/2024      199,84        0,00
+                                              histrico: pagto ref. aquisio de frete atual cargas 1155994
+ 01384-banco bradesco___________________  bdco            t000112168  14/12/2023       16,83 10/01/2024       16,83        0,00
+                                              histrico: pagto ref. anuidade carto de credito 01/12 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112065  02/01/2024        4,82 02/01/2024        4,82        0,00
+                                              histrico: pgto ref tarifas bancarias em 02/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112066  03/01/2024      176,87 03/01/2024      176,87        0,00
+                                              histrico: pgto ref tarifas bancarias em 03/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112067  04/01/2024       13,05 04/01/2024       13,05        0,00
+                                              histrico: pgto ref tarifas bancarias em 04/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112068  05/01/2024        7,23 05/01/2024        7,23        0,00
+                                              histrico: pgto ref tarifas bancarias em 05/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112069  08/01/2024        7,73 08/01/2024        7,73        0,00
+                                              histrico: pgto ref tarifas bancarias em 08/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112070  09/01/2024       12,05 09/01/2024       12,05        0,00
+                                              histrico: pgto ref tarifas bancarias em 09/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112071  10/01/2024        2,41 10/01/2024        2,41        0,00
+                                              histrico: pgto ref tarifas bancarias em 10/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112072  11/01/2024       19,78 11/01/2024       19,78        0,00
+                                              histrico: pgto ref tarifas bancarias em 11/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112073  12/01/2024        2,41 12/01/2024        2,41        0,00
+                                              histrico: pgto ref tarifas bancarias em 12/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112074  15/01/2024      144,31 15/01/2024      144,31        0,00
+                                              histrico: pgto ref tarifas bancarias em 15/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112075  16/01/2024       16,87 16/01/2024       16,87        0,00
+                                              histrico: pgto ref tarifas bancarias em 16/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112076  17/01/2024        9,64 17/01/2024        9,64        0,00
+                                              histrico: pgto ref tarifas bancarias em 17/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112077  18/01/2024        2,41 18/01/2024        2,41        0,00
+                                              histrico: pgto ref tarifas bancarias em 18/01/2024 - bradesco
+
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0002
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 01384-banco bradesco___________________  bdco            t000112078  19/01/2024        7,23 19/01/2024        7,23        0,00
+                                              histrico: pgto ref tarifas bancarias em 19/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112079  22/01/2024       12,05 22/01/2024       12,05        0,00
+                                              histrico: pgto ref tarifas bancarias em 22/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112080  23/01/2024       18,94 23/01/2024       18,94        0,00
+                                              histrico: pgto ref tarifas bancarias em 23/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112081  24/01/2024        2,41 24/01/2024        2,41        0,00
+                                              histrico: pgto ref tarifas bancarias em 24/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112082  25/01/2024       47,36 25/01/2024       47,36        0,00
+                                              histrico: pgto ref tarifas bancarias em 25/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112083  26/01/2024        9,64 26/01/2024        9,64        0,00
+                                              histrico: pgto ref tarifas bancarias em 26/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112084  29/01/2024        5,32 29/01/2024        5,32        0,00
+                                              histrico: pgto ref tarifas bancarias em 29/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112085  30/01/2024        7,23 30/01/2024        7,23        0,00
+                                              histrico: pgto ref tarifas bancarias em 30/01/2024 - bradesco
+ 01384-banco bradesco___________________  bdco            t000112086  31/01/2024        4,82 31/01/2024        4,82        0,00
+                                              histrico: pgto ref tarifas bancarias em 31/01/2024 - bradesco
+ 01382-banco do brasil__________________  bb              t000112127  02/01/2024       17,92 02/01/2024       17,92        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 02/01/2024
+ 01382-banco do brasil__________________  bb              t000112128  03/01/2024        4,46 03/01/2024        4,46        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 03/01/2024
+ 01382-banco do brasil__________________  bb              t000112129  04/01/2024       21,00 04/01/2024       21,00        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 04/01/2024
+ 01382-banco do brasil__________________  bb              t000112130  05/01/2024       11,98 05/01/2024       11,98        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 05/01/2024
+ 01382-banco do brasil__________________  bb              t000112131  08/01/2024       42,86 08/01/2024       42,86        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 08/01/2024
+ 01382-banco do brasil__________________  bb              t000112132  09/01/2024        4,04 09/01/2024        4,04        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 09/01/2024
+ 01382-banco do brasil__________________  bb              t000112133  10/01/2024       21,00 10/01/2024       21,00        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 10/01/2024
+ 01382-banco do brasil__________________  bb              t000112134  11/01/2024        9,79 11/01/2024        9,79        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 11/01/2024
+ 01382-banco do brasil__________________  bb              t000112135  15/01/2024       19,83 15/01/2024       19,83        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 15/01/2024
+ 01382-banco do brasil__________________  bb              t000112136  16/01/2024       10,00 16/01/2024       10,00        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 16/01/2024
+ 01382-banco do brasil__________________  bb              t000112137  17/01/2024        2,97 17/01/2024        2,97        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 17/01/2024
+ 01382-banco do brasil__________________  bb              t000112138  18/01/2024        5,89 18/01/2024        5,89        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 18/01/2024
+ 01382-banco do brasil__________________  bb              t000112139  19/01/2024        2,47 19/01/2024        2,47        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 19/01/2024
+ 01382-banco do brasil__________________  bb              t000112140  22/01/2024       38,84 22/01/2024       38,84        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 22/01/2024
+ 01382-banco do brasil__________________  bb              t000112141  23/01/2024       10,00 23/01/2024       10,00        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 23/01/2024
+
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0003
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 01382-banco do brasil__________________  bb              t000112142  24/01/2024        1,00 24/01/2024        1,00        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 24/01/2024
+ 01382-banco do brasil__________________  bb              t000112143  25/01/2024      202,00 25/01/2024      202,00        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 25/01/2024
+ 01382-banco do brasil__________________  bb              t000112144  26/01/2024       11,43 26/01/2024       11,43        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 26/01/2024
+ 01382-banco do brasil__________________  bb              t000112145  29/01/2024       30,28 29/01/2024       30,28        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 29/01/2024
+ 01382-banco do brasil__________________  bb              t000112146  30/01/2024       15,89 30/01/2024       15,89        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 30/01/2024
+ 01382-banco do brasil__________________  bb              t000112147  31/01/2024       20,00 31/01/2024       20,00        0,00
+                                              histrico: pagto ref. tarifa bancaria bb - 31/01/2024
+ 00001-bella art mveis design__________  bb              t000111939  11/01/2024   12.000,00 11/01/2024   12.000,00        0,00
+                                              histrico: saque no caixa
+ 00001-bella art mveis design__________  bdco            t000112043  12/01/2024    5.400,00 12/01/2024    5.400,00        0,00
+                                              histrico: transferencia de conta bradesco p/ conta caixa eco. federal
+ 00001-bella art mveis design__________  bdco            t000112167  17/07/2023      183,33 10/01/2024      183,33        0,00
+                                              histrico: compra sem nota fiscal. forn: otica image rio p 006/006
+ 00087-br inove distribuidora___________  bb              49405       15/01/2024       80,97 15/01/2024       80,97        0,00
+ 00116-bradesco saude___________________  bdco            t000111956  21/12/2023    2.471,45 30/01/2024    2.471,45        0,00
+                                              histrico: pagto referente a plano de saude bradesco. familia borges e costa
+ 00116-bradesco saude___________________  bdco            t000111621  01/12/2023    2.471,45 02/01/2024    2.471,45        0,00
+                                              histrico: pagto referente a plano de saude bradesco. familia borges e costa
+ 00106-bradesco seguradora______________  bdco            t000111831  10/01/2024      861,77 10/01/2024      861,77        0,00
+                                              histrico: pagto ref debito automatico de consorcio - bradesco
+ 00114-brk ambiemtal____________________  bb                          06/01/2024      214,73 19/01/2024      214,73        0,00
+                                              histrico: fatura da agua loja 103 sul 01/2024 (cdc 114454-5) - filial
+ 00114-brk ambiemtal____________________  bb                          12/01/2024      197,59 25/01/2024      197,59        0,00
+                                              histrico: pagto ref. a conta de agua (fabrica 912 sul) mes 01/2024 (cdc 204722-5) - matriz
+ 00114-brk ambiemtal____________________  bb                          12/01/2024      267,35 25/01/2024      267,35        0,00
+                                              histrico: pagto ref. agua da 912 sul galpo ao lado da fbrica (cdc - 208017-6) 01/2024
+ 01407-brumed tocantins_________________  bdco            nfse-7006   20/12/2023      206,00 10/01/2024      206,00        0,00
+                                              histrico: pagto ref. nfs-e 2023000000007006 duailibe e lima - brumed
+ 01704-casa tuka________________________  bb              17653       23/01/2024      676,92 16/01/2024      676,92        0,00
+ 00113-cdl palmas_______________________  bdco            t000111916  31/12/2023      160,55 12/01/2024      160,55        0,00
+                                              histrico: pagto ref. contribuioes associativas - cdl palmas 12/2023
+ 00013-clopega sp_______________________  bdco            16797       01/12/2023      619,10 02/01/2024      619,10        0,00
+ 00013-clopega sp_______________________  bdco            16797       01/12/2023      619,10 12/01/2024      619,10        0,00
+ 01669-collor x_________________________  bdco            119         08/12/2023      932,58 05/01/2024      932,58        0,00
+ 01669-collor x_________________________  bdco            119         08/12/2023      932,58 12/01/2024      932,58        0,00
+ 01669-collor x_________________________  bdco            119         08/12/2023      932,59 19/01/2024      932,59        0,00
+ 01300-cristal master (j a borges)______  bdco            382537      14/12/2023    1.230,57 11/01/2024    1.230,57        0,00
+ 01300-cristal master (j a borges)______  bdco            382537      14/12/2023    1.230,57 18/01/2024    1.230,57        0,00
+ 01300-cristal master (j a borges)______  bdco            382537      14/12/2023    1.230,59 25/01/2024    1.230,59        0,00
+ 01300-cristal master (j a borges)______  bdco            379563      22/11/2023      745,95 03/01/2024      745,95        0,00
+ 01300-cristal master (j a borges)______  bdco            379756      23/11/2023      435,75 04/01/2024      435,75        0,00
+ 01369-cvl tempera______________________  bdco            19710       08/12/2023    2.584,00 24/01/2024    2.584,00        0,00
+ 01710-dikasa construcao decoracao e uti  bdco            t000112172  23/12/2023       97,30 10/01/2024       97,30        0,00
+
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0004
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 01137-dlocal___________________________  bb              t000111839  02/01/2024    1.500,00 02/01/2024    1.500,00        0,00
+                                              histrico: pagto referente anuncio da loja nas redes sociais
+
+ 01137-dlocal___________________________  bb              t000111840  05/01/2024      191,76 05/01/2024      191,76        0,00
+                                              histrico: pagto referente anuncio da loja nas redes sociais
+
+ 01137-dlocal___________________________  bb              t000111841  09/01/2024    1.250,00 09/01/2024    1.250,00        0,00
+                                              histrico: pagto referente anuncio da loja nas redes sociais
+
+ 01137-dlocal___________________________  bb              t000112049  25/01/2024    1.250,00 25/01/2024    1.250,00        0,00
+                                              histrico: pagto referente anuncio da loja nas redes sociais
+ 01137-dlocal___________________________  bb              t000111953  15/01/2024    1.250,00 15/01/2024    1.250,00        0,00
+                                              histrico: pagto referente anuncio da loja nas redes sociais
+ 01137-dlocal___________________________  bb              t000112126  31/01/2024    1.250,00 31/01/2024    1.250,00        0,00
+                                              histrico: pagto referente anuncio da loja nas redes sociais
+ 01706-eco flame garden ltda____________  bb              1789        02/02/2024    5.510,00 31/01/2024    5.510,00        0,00
+ 00093-energisa_________________________  bdco            1537805     22/12/2023      134,97 04/01/2024      134,97        0,00
+                                              histrico: pagto ref. energia eletrica residencial arse 142 mes 12/2023
+ 00093-energisa_________________________  bb              4788402     08/01/2024      192,68 15/01/2024      192,68        0,00
+                                              histrico: pagto ref. energia eletrica de fabrica na 912 sul (galpo b) 01/2024
+ 00093-energisa_________________________  bdco            1615631     09/01/2024      638,20 17/01/2024      638,20        0,00
+                                              histrico: pagto ref. energia de fabrica na 912 sul (borges e costa ltda me) 01/2024 - matriz
+ 00093-energisa_________________________  bb              1660621     15/01/2024      715,43 23/01/2024      715,43        0,00
+                                              histrico: pagto ref. energia eletrica de loja na 103 sul 01/2024 - filial
+ 01136-estado do tocantins______________  bb              t000111780  31/12/2023    9.999,80 09/01/2024    9.999,80        0,00
+                                              histrico: pagto de dare ref. icms normal 12/2023
+ 01136-estado do tocantins______________  bb              t000111781  31/12/2023      870,67 09/01/2024      870,67        0,00
+                                              histrico: pagto ref. fundo de desenvolvimento economico fde 12/2023
+ 00041-fab de espumas e colchoes centro   bdco            1121447     24/11/2023      984,02 23/01/2024      984,02        0,00
+ 00041-fab de espumas e colchoes centro   bdco            1102567     19/09/2023    1.675,62 17/01/2024    1.675,62        0,00
+ 00041-fab de espumas e colchoes centro   bdco            1115946     07/11/2023    1.261,55 08/01/2024    1.261,55        0,00
+ 01164-fabiano parafusos - matriz_______  bdco            229698      16/11/2023      583,17 18/01/2024      583,17        0,00
+ 00129-felipi marques teixeira__________  bb              t000111816  01/01/2024    1.800,00 10/01/2024    1.800,00        0,00
+                                              histrico: pagto ref. aluguel fabrica da 712 sul mes 01/2024 - j a borges & costa
+ 00129-felipi marques teixeira__________  bb              t000112113  01/01/2024    3.700,00 31/01/2024    3.700,00        0,00
+                                              histrico: pagto referente a aluguel da fabrica 912 sul. mes 01/2024
+ 00044-ferpam com. de ferramentas parafu  bdco            t000112165  21/12/2023       26,16 10/01/2024       26,16        0,00
+ 00044-ferpam com. de ferramentas parafu  bdco            t000112166  26/12/2023       77,16 10/01/2024       77,16        0,00
+ 00102-ferragens negrao com ltda - to___  bdco            156525      14/12/2023      392,40 29/01/2024      392,40        0,00
+ 00102-ferragens negrao com ltda - to___  bdco            155127      30/11/2023      390,36 02/01/2024      390,36        0,00
+ 00102-ferragens negrao com ltda - to___  bdco            155127      30/11/2023      385,41 29/01/2024      385,41        0,00
+ 00102-ferragens negrao com ltda - to___  bdco            153588      14/11/2023      471,01 15/01/2024      471,01        0,00
+ 01680-fratini__________________________  bdco            57630       13/11/2023    1.629,92 12/01/2024    1.629,92        0,00
+ 01699-gas lar__________________________  bb              1747        17/01/2024      395,00 17/01/2024      395,00        0,00
+ 01699-gas lar__________________________  bb              1716        10/01/2024      395,00 10/01/2024      395,00        0,00
+ 01699-gas lar__________________________  bb              1799        29/01/2024      395,00 29/01/2024      395,00        0,00
+ 01667-general eletro & segurana ltda__  bdco            nfse-533    15/12/2023      280,00 15/01/2024      280,00        0,00
+                                              histrico: pagto ref. nfse 202300000000533 general eletro segurana
+ 01452-gnre online - difal______________  bb              t000111959  09/01/2024        1,75 09/01/2024        1,75        0,00
+                                              histrico: pagto ref. difal sobre frete ref. nf 2243
+ 01452-gnre online - difal______________  bb              t000111960  25/01/2024        4,55 25/01/2024        4,55        0,00
+                                              histrico: pagto ref. difal sobre frete ref. nf 2262
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0005
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 01452-gnre online - difal______________  bb              t000112125  31/01/2024       20,00 31/01/2024       20,00        0,00
+                                              histrico: pagto ref. difal sobre frete ref. nf 2272
+ 01605-havan s.a._______________________  bdco            322719      19/08/2023       79,99 10/01/2024       79,99        0,00
+ 00048-hispex___________________________  bdco            75363       06/11/2023    2.990,95 02/01/2024    2.990,95        0,00
+ 00048-hispex___________________________  bdco            75364       06/11/2023    2.252,17 02/01/2024    2.252,17        0,00
+ 00048-hispex___________________________  bdco            76892       08/12/2023    3.301,44 05/01/2024    3.301,44        0,00
+ 00048-hispex___________________________  bdco            76892       08/12/2023    3.301,44 19/01/2024    3.301,44        0,00
+ 01623-inter diesel tocantins___________  bb              nfse-2      03/01/2024      240,00 03/01/2024      240,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000002 inter diesel servicos ltda
+ 01391-itr pneus 4320___________________  bdco            6337        20/10/2023      696,00 12/01/2024      696,00        0,00
+ 01297-j a borges_______________________  bdco            nfse-2      17/01/2024    2.000,00 17/01/2024    2.000,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000002 j a borges
+ 01297-j a borges_______________________  bdco            nfse-2      19/01/2024   10.500,00 19/01/2024   10.500,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000002 j a borges
+ 01297-j a borges_______________________  bdco            nfse-2      22/01/2024    5.500,00 22/01/2024    5.500,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000002 j a borges
+ 01297-j a borges_______________________  bdco            nfse-2      26/01/2024    4.500,00 26/01/2024    4.500,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000002 j a borges
+ 01297-j a borges_______________________  bb              nfse-2      04/01/2024   35.000,00 04/01/2024   35.000,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000002 j a borges
+ 01237-jessica fernanda costa silva_____  bb              t000111940  12/01/2024    1.500,00 12/01/2024    1.500,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - jessica fernanda costa silva
+ 01237-jessica fernanda costa silva_____  bb              t000111941  16/01/2024    6.000,00 16/01/2024    6.000,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - jessica fernanda costa silva
+ 01237-jessica fernanda costa silva_____  bb              t000111942  18/01/2024      500,00 18/01/2024      500,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - jessica fernanda costa silva
+ 01237-jessica fernanda costa silva_____  bb              t000111943  22/01/2024      950,00 22/01/2024      950,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - jessica fernanda costa silva
+ 01237-jessica fernanda costa silva_____  bb              t000112050  26/01/2024    1.000,00 26/01/2024    1.000,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - jessica fernanda costa silva
+ 01237-jessica fernanda costa silva_____  bb              t000111835  02/01/2024      500,00 02/01/2024      500,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - jessica fernanda costa silva
+ 01237-jessica fernanda costa silva_____  bb              t000111836  10/01/2024    1.500,00 10/01/2024    1.500,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - jessica fernanda costa silva
+ 01292-kg ferraz eireli_________________  bb              7649        24/01/2024      430,00 24/01/2024      430,00        0,00
+ 01192-korea____________________________  bdco            61813       30/11/2023    1.079,10 15/01/2024    1.079,10        0,00
+ 00051-lahuman__________________________  bdco            98398       07/11/2023    1.432,75 02/01/2024    1.432,75        0,00
+ 00051-lahuman__________________________  bdco            98398       07/11/2023    1.432,75 30/01/2024    1.432,75        0,00
+ 00051-lahuman__________________________  bdco            98010       10/10/2023    4.257,77 02/01/2024    4.257,77        0,00
+ 00051-lahuman__________________________  bdco            98053       13/10/2023      965,00 05/01/2024      965,00        0,00
+ 00051-lahuman__________________________  bdco            98154       20/10/2023    1.359,11 12/01/2024    1.359,11        0,00
+ 00051-lahuman__________________________  bdco            98208       23/10/2023      510,00 15/01/2024      510,00        0,00
+ 00051-lahuman__________________________  bdco            98895       14/12/2023    2.675,61 11/01/2024    2.675,61        0,00
+ 00051-lahuman__________________________  bdco            98895       14/12/2023    2.675,61 25/01/2024    2.675,61        0,00
+ 01387-m arquidiocesana palmas__________  bb              t000111845  08/01/2024    1.600,00 08/01/2024    1.600,00        0,00
+                                              histrico: pagto ref. dizimo - doao
+ 01372-marques marques ltda_____________  bb              142158      02/01/2024      900,00 02/01/2024      900,00        0,00
+ 01432-md - industria de moveis ltda - m  bb              nfse-35     23/01/2024      230,00 23/01/2024      230,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000035 - pix enviado p/ marcenaria minas moveis
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0006
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 00118-municipio de palmas______________  bb              t000111952  31/12/2023      580,00 15/01/2024      580,00        0,00
+                                              histrico: pagto ref. dam issqn comp. 12/2023
+ 01332-nitroxi__________________________  bb              11536       01/12/2023    1.160,00 12/01/2024    1.160,00        0,00
+ 01332-nitroxi__________________________  bdco            11723       22/12/2023    1.160,00 02/01/2024    1.160,00        0,00
+ 01332-nitroxi__________________________  bdco            11765       02/01/2024      580,00 15/01/2024      580,00        0,00
+ 01332-nitroxi__________________________  bdco            11881       19/01/2024      580,00 30/01/2024      580,00        0,00
+ 00098-nortesys_________________________  bdco            nfse-5490   08/12/2023      756,62 03/01/2024      756,62        0,00
+                                              histrico: pagto ref. nfs-e 2023000000005490 nortesys sistemas 12/2023
+ 01514-oliveira luis da silva neto 53009  bb              nfse-14     24/01/2024      400,00 24/01/2024      400,00        0,00
+                                              histrico: pagto de boleto p/ net sites - ref. reformulo de site da loja
+ 00117-org segurana elettronica________  bdco            nfse-3596   01/12/2023      340,00 02/01/2024      340,00        0,00
+                                              histrico: pagto ref. nfse 202300000003596 org segurana eletronica ltda
+ 00117-org segurana elettronica________  bdco            nfse-3597   01/12/2023      456,00 02/01/2024      456,00        0,00
+                                              histrico: pagto ref. nfse 202300000003597 org segurana eletronica ltda
+ 00117-org segurana elettronica________  bdco            nfse-3918   02/01/2024      340,00 30/01/2024      340,00        0,00
+                                              histrico: pagto ref. nfse 202300000003918 org segurana eletronica ltda
+ 00117-org segurana elettronica________  bdco            nfse-3919   02/01/2024      456,00 30/01/2024      456,00        0,00
+                                              histrico: pagto ref. nfse 202300000003918 org segurana eletronica ltda
+ 01394-palmas accouting_________________  bdco            nfse-25     01/01/2024    2.964,37 05/01/2024    2.964,37        0,00
+                                              histrico: pagto ref. nfs-e 20230000000025 casi - honorarios contabeis mes 12/2023
+ 01588-palmas ambiental_________________  bdco            nfse-396    23/01/2024      150,00 24/01/2024      150,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000396 palmas ambiental
+ 01702-palmas industria e comercio de es  bb              1           17/01/2024      480,00 17/01/2024      480,00        0,00
+ 00058-passatec passamanaria tec. lt.___  bdco            26972       22/11/2023      963,57 03/01/2024      963,57        0,00
+ 00058-passatec passamanaria tec. lt.___  bdco            26972       22/11/2023      963,86 17/01/2024      963,86        0,00
+ 01700-paulo ricardo ferreira de sousa__  bb              nfse-11     02/01/2024      350,00 02/01/2024      350,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000011 - dedetizadora protecao
+ 00062-pettine comercio e industria_____  bdco            10799       30/11/2023      235,32 02/01/2024      235,32        0,00
+ 01682-piramidal - filial sjp (j a borge  bdco            95305       27/11/2023    2.718,97 02/01/2024    2.718,97        0,00
+ 01174-piramidal - filial spn (j a borge  bdco            278545      05/12/2023    3.889,94 02/01/2024    3.889,94        0,00
+ 01174-piramidal - filial spn (j a borge  bdco            278545      05/12/2023    3.889,94 09/01/2024    3.889,94        0,00
+ 01174-piramidal - filial spn (j a borge  bdco            278545      05/12/2023    3.889,94 16/01/2024    3.889,94        0,00
+ 01694-pneustore 4224___________________  bdco            4620        11/12/2023      540,50 08/01/2024      540,50        0,00
+ 01663-porto seguro administradora de co  bb              t000111954  15/01/2024    1.155,00 15/01/2024    1.155,00        0,00
+                                              histrico: pagto ref. consrcio de veculo parc. 5/90 - proposta 4000753877
+ 01663-porto seguro administradora de co  bb              t000111955  15/01/2024    1.155,00 15/01/2024    1.155,00        0,00
+                                              histrico: pagto ref. consorcio de veiculo parc. 5/90 - proposta 4000757825
+ 01548-posto goiano_____________________  bdco            t000112169  14/12/2023      474,28 10/01/2024      474,28        0,00
+ 00086-posto modelo_____________________  bdco            54891       14/12/2023      368,09 10/01/2024      368,09        0,00
+ 01707-pro-frio comercial_______________  bb              3389        29/01/2024      450,00 29/01/2024      450,00        0,00
+ 01145-pronto telecom___________________  bb              t000111737  24/12/2023       99,90 10/01/2024       99,90        0,00
+                                              histrico: pagto ref. internet da ja borges 712 sul mes 01/2024
+ 01434-quaker___________________________  bdco            324979      30/11/2023    1.462,50 02/01/2024    1.462,50        0,00
+ 01434-quaker___________________________  bdco            324979      30/11/2023    1.462,50 15/01/2024    1.462,50        0,00
+ 01434-quaker___________________________  bdco            324979      30/11/2023    1.462,50 29/01/2024    1.462,50        0,00
+ 01695-racudao equipando seu caminhao___  bb              2353        05/01/2024    4.272,32 05/01/2024    4.272,32        0,00
+ 01695-racudao equipando seu caminhao___  bdco            2401        09/01/2024      353,00 09/01/2024      353,00        0,00
+ 01537-radlog transportes (goinia)_____  bdco            3228        10/01/2024      205,51 31/01/2024      205,51        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 3228
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0007
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 01537-radlog transportes (goinia)_____  bdco            3229        10/01/2024      145,66 31/01/2024      145,66        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 3229
+ 01537-radlog transportes (goinia)_____  bdco            231069      18/12/2023      125,30 17/01/2024      125,30        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 231069
+ 01537-radlog transportes (goinia)_____  bdco            231264      19/12/2023      531,08 17/01/2024      531,08        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 231264
+ 01537-radlog transportes (goinia)_____  bdco            5385        15/12/2023      164,64 09/01/2024      164,64        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 5385
+ 01537-radlog transportes (goinia)_____  bdco            3152        09/12/2023      168,73 02/01/2024      168,73        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 3152
+ 01537-radlog transportes (goinia)_____  bdco            228833      06/12/2023    1.248,58 02/01/2024    1.248,58        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 228833
+ 01537-radlog transportes (goinia)_____  bdco            230193      13/12/2023      468,99 05/01/2024      468,99        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 230193
+ 01537-radlog transportes (goinia)_____  bdco            230743      15/12/2023      169,94 08/01/2024      169,94        0,00
+                                              histrico: pagto ref. aquisio de frete radlog transportes cte 230743
+ 00127-receita federal__________________  bb              t000111842  02/01/2024       30,06 02/01/2024       30,06        0,00
+                                              histrico: pagto referente darf ipi mensal 11/2023 - juros
+ 00127-receita federal__________________  bdco            t000111922  31/12/2023    7.398,72 25/01/2024    7.398,72        0,00
+                                              histrico: pagto referente darf ipi mensal 12/2023
+ 00127-receita federal__________________  bdco            t000111923  31/12/2023    3.932,74 25/01/2024    3.932,74        0,00
+                                              histrico: pagto referente darf pis mensal 12/2023
+ 00127-receita federal__________________  bdco            t000111924  31/12/2023      899,63 25/01/2024      899,63        0,00
+                                              histrico: pagto referente darf cofins mensal 12/2023
+ 01648-ricardo augusto collet___________  bb              t000016738  01/10/2022    4.500,00 25/01/2024    4.500,00        0,00
+                                              histrico: pagto ref. aluguel galpo borges e costa com. varej. de moveis (ao fundo da fabrica da 912 sul)
+ 01258-rodolfo borges silva_____________  bb              t000111837  02/01/2024    2.000,00 02/01/2024    2.000,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - rodolfo borges silva
+ 01258-rodolfo borges silva_____________  bb              t000111838  09/01/2024    2.000,00 09/01/2024    2.000,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - rodolfo borges silva
+ 01258-rodolfo borges silva_____________  bdco            t000111834  10/01/2024    5.000,00 10/01/2024    5.000,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - rodolfo borges silva
+ 01258-rodolfo borges silva_____________  bb              t000112051  30/01/2024    3.600,00 30/01/2024    3.600,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - rodolfo borges silva
+ 01258-rodolfo borges silva_____________  bdco            t000112056  22/01/2024    1.200,00 22/01/2024    1.200,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - rodolfo borges silva
+ 01258-rodolfo borges silva_____________  bb              t000112048  24/01/2024    2.000,00 24/01/2024    2.000,00        0,00
+                                              histrico: transferencia p/ conta pessoal de socios - rodolfo borges silva
+ 01639-rodopetro________________________  bb              8162        08/01/2024      289,20 08/01/2024      289,20        0,00
+ 01639-rodopetro________________________  bdco            7342        15/12/2023      366,46 10/01/2024      366,46        0,00
+ 01639-rodopetro________________________  bdco            7489        19/12/2023      301,84 10/01/2024      301,84        0,00
+ 01639-rodopetro________________________  bb              8528        19/01/2024      430,00 19/01/2024      430,00        0,00
+ 01639-rodopetro________________________  bb              8787        27/01/2024      350,00 29/01/2024      350,00        0,00
+ 01214-servios_________________________  bb              ta0124      16/01/2024      300,00 16/01/2024      300,00        0,00
+                                              histrico: pix enviado p/ technoar come assisttec de
+ 01214-servios_________________________  bb              ta0124      17/01/2024       50,00 17/01/2024       50,00        0,00
+                                              histrico: pix enviado p/  inter diesel comercio de m
+ 01214-servios_________________________  bb              ta0124      12/01/2024      160,00 12/01/2024      160,00        0,00
+                                              histrico: pix enviado p/ lucas gonalves barbosa
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0008
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 01214-servios_________________________  bb              ta0124      12/01/2024      100,00 12/01/2024      100,00        0,00
+                                              histrico: pix enviado p/ joao allan delfino dos san
+ 01214-servios_________________________  bb              ta0124      15/01/2024      600,00 15/01/2024      600,00        0,00
+                                              histrico: pix enviado p/ tharle iglesias dias quare
+ 01214-servios_________________________  bb              ta0124      15/01/2024      234,00 15/01/2024      234,00        0,00
+                                              histrico: pix enviado p/ rennan gondim gonalves fe
+ 01214-servios_________________________  bb              ta0124      17/01/2024      200,00 17/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ maria de jesus oliveira
+ 01214-servios_________________________  bb              ta0124      18/01/2024      250,00 18/01/2024      250,00        0,00
+                                              histrico: pix enviado p/ ronyvaldo lima alves
+ 01214-servios_________________________  bb              ta0124      19/01/2024      450,00 19/01/2024      450,00        0,00
+                                              histrico: pix enviado p/ joao allan delfino dos san
+ 01214-servios_________________________  bb              ta0124      19/01/2024      150,00 19/01/2024      150,00        0,00
+                                              histrico: pix enviado p/ tharle iglesias dias quare
+ 01214-servios_________________________  bb              ta0124      19/01/2024      975,00 19/01/2024      975,00        0,00
+                                              histrico: pix enviado p/ larissa de p rosa da s gom
+ 01214-servios_________________________  bb              ta0124      19/01/2024      200,00 19/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ francisco jones de abreu s
+ 01214-servios_________________________  bb              ta0124      22/01/2024      150,00 22/01/2024      150,00        0,00
+                                              histrico: pix enviado p/ carlos daniel magalhaes co
+ 01214-servios_________________________  bb              ta0124      02/01/2024      100,00 02/01/2024      100,00        0,00
+                                              histrico: pix enviado p/ sinval borges de fatima
+ 01214-servios_________________________  bb              ta0124      03/01/2024       50,00 03/01/2024       50,00        0,00
+                                              histrico: pix enviado p/ sinval borges de fatima
+ 01214-servios_________________________  bb              ta0124      03/01/2024    4.100,00 03/01/2024    4.100,00        0,00
+                                              histrico: pix enviado p/ adriano silva gomes
+ 01214-servios_________________________  bb              ta0124      04/01/2024      200,00 04/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ maria de jesus oliveira
+ 01214-servios_________________________  bb              ta0124      05/01/2024      990,00 05/01/2024      990,00        0,00
+                                              histrico: pix enviado p/ tharle iglesias dias quare
+ 01214-servios_________________________  bb              ta0124      05/01/2024      500,00 05/01/2024      500,00        0,00
+                                              histrico: pix enviado p/ tharle iglesias dias quare
+ 01214-servios_________________________  bb              ta0124      05/01/2024      500,00 05/01/2024      500,00        0,00
+                                              histrico: pix enviado p/ gustavo bassan kowalski
+ 01214-servios_________________________  bb              ta0124      05/01/2024      120,00 05/01/2024      120,00        0,00
+                                              histrico: pix enviado p/ lucas gonalves barbosa
+ 01214-servios_________________________  bb              ta0124      05/01/2024    1.000,00 05/01/2024    1.000,00        0,00
+                                              histrico: pix enviado p/ romulo sousa paiva oliveira
+ 01214-servios_________________________  bb              ta0124      08/01/2024      200,00 08/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ ubiratan chaves barbosa
+ 01214-servios_________________________  bb              ta0124      08/01/2024    5.000,00 08/01/2024    5.000,00        0,00
+                                              histrico: pix enviado p/ gustavo bassan kowalski
+ 01214-servios_________________________  bb              ta0124      08/01/2024      120,00 08/01/2024      120,00        0,00
+                                              histrico: pix enviado p/ paulo roberto silva dos sa
+ 01214-servios_________________________  bb              ta0124      09/01/2024      100,00 09/01/2024      100,00        0,00
+                                              histrico: pix enviado p/ sinval borges de fatima
+ 01214-servios_________________________  bb              ta0124      10/01/2024      200,00 10/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ maria de jesus oliveira
+
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0009
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 01214-servios_________________________  bb              ta0124      12/01/2024    3.300,00 12/01/2024    3.300,00        0,00
+                                              histrico: pix enviado p/ gustavo bassan kowalski
+ 01214-servios_________________________  bb              ta0124      23/01/2024       50,00 23/01/2024       50,00        0,00
+                                              histrico: pix enviado p/ sinval borges de fatima
+ 01214-servios_________________________  bb              ta0124      25/01/2024      780,00 25/01/2024      780,00        0,00
+                                              histrico: pix enviado p/ osmar cesar de oliveira
+ 01214-servios_________________________  bb              ta0124      25/01/2024      200,00 25/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ maria de jesus oliveira
+ 01214-servios_________________________  bb              ta0124      25/01/2024      175,00 25/01/2024      175,00        0,00
+                                              histrico: pix enviado p/ bryan richan gomes da silv
+ 01214-servios_________________________  bb              ta0124      26/01/2024    1.965,00 26/01/2024    1.965,00        0,00
+                                              histrico: pix enviado p/ tharle iglesias dias quare
+ 01214-servios_________________________  bb              ta0124      26/01/2024      400,00 26/01/2024      400,00        0,00
+                                              histrico: pix enviado p/ joao allan delfino dos san
+ 01214-servios_________________________  bb              ta0124      26/01/2024      450,00 26/01/2024      450,00        0,00
+                                              histrico: pix enviado p/  lucas gonalves barbosa
+ 01214-servios_________________________  bb              ta0124      26/01/2024      600,00 26/01/2024      600,00        0,00
+                                              histrico: pix enviado p/ gislene pereira gomes
+ 01214-servios_________________________  bb              ta0124      29/01/2024      250,00 29/01/2024      250,00        0,00
+                                              histrico: pix enviado p/ ubiratan chaves barbosa
+ 01214-servios_________________________  bb              ta0124      29/01/2024      200,00 29/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ francisco jones de abreu s
+ 01214-servios_________________________  bb              ta0124      29/01/2024      200,00 29/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ neurivan sousa barros
+ 01214-servios_________________________  bb              ta0124      30/01/2024    2.500,00 30/01/2024    2.500,00        0,00
+                                              histrico: pix enviado p/ adriano silva gomes
+ 01214-servios_________________________  bb              ta0124      31/01/2024      175,00 31/01/2024      175,00        0,00
+                                              histrico: pix enviado p/ bryan richan gomes da silv
+ 01214-servios_________________________  bb              ta0124      31/01/2024       50,00 31/01/2024       50,00        0,00
+                                              histrico: pix enviado p/ sinval borges de fatima
+ 01214-servios_________________________  bdco            ta0124      10/01/2024    1.000,00 10/01/2024    1.000,00        0,00
+                                              histrico: pix enviado p/ ubiratan chaves barbosa
+ 01214-servios_________________________  bdco            ta0124      19/01/2024      320,00 19/01/2024      320,00        0,00
+                                              histrico: pix enviado p/ lucas gonalves barbo
+ 00099-sim internet_____________________  bdco            t000111741  01/01/2024      129,00 10/01/2024      129,00        0,00
+                                              histrico: pagto ref. internet da fabrica 912 sul mes 12/2023
+ 00050-tera aluminio____________________  bdco            63394       21/11/2023    2.379,80 02/01/2024    2.379,80        0,00
+ 00108-tim s.a._________________________  bb              t000111736  14/12/2023      120,80 08/01/2024      120,80        0,00
+                                              histrico: pagto ref. a internet mvel pos pago
+ 01341-tokio marine seguradora s/a______  bdco            t000111833  10/01/2024    1.375,89 10/01/2024    1.375,89        0,00
+                                              histrico: pagto ref. seguros debito automatico - tokio marine
+ 01341-tokio marine seguradora s/a______  bdco            t000112042  25/01/2024    1.746,08 25/01/2024    1.746,08        0,00
+                                              histrico: pagto ref. seguros debito automatico - tokio marine
+ 00069-trekton motos____________________  bb              1094        28/11/2023    1.380,00 03/01/2024    1.380,00        0,00
+                                              histrico: pagto ref. nf 1094 - pix enviado p/ humberto liuzmassaro
+ 01484-umuarama autos ltda______________  bb              nfse-624    31/01/2024    2.631,20 31/01/2024    2.631,20        0,00
+                                              histrico: pagto ref. nfs-e 202400000000624 umuarama autos ltda
+ 01484-umuarama autos ltda______________  bb              79310       31/01/2024    1.251,76 31/01/2024    1.251,76        0,00
+
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0010
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 00092-unimat-industria de maquinas tran  bdco            6788        15/12/2023      203,16 12/01/2024      203,16        0,00
+ 01135-v.e.m. metalurgica ltda__________  bdco            2578        09/01/2024      600,00 10/01/2024      600,00        0,00
+ 00122-vivo telefonia___________________  bb              t000111607  12/12/2023      117,70 03/01/2024      117,70        0,00
+                                              histrico: pagto ref. fatura telefonia movel fabrica 912 sul (matriz). mes 12/2023
+ 00122-vivo telefonia___________________  bb              t000111786  01/01/2024      162,43 17/01/2024      162,43        0,00
+                                              histrico: pagto referente a telefonia fixa loja 103 sul (filial). mes 01/2024
+ 01643-wr palmas aluguel________________  bdco            t000112170  21/12/2023      459,50 10/01/2024      459,50        0,00
+                                              histrico: pagto ref. aluguel de equipamentos
+--------------------------------------------------------------------------------------------------------------------------------
+ sub total                                                                        337.945,37             337.945,37        0,00
+
+pagamento: 12/02/2024
+ 00126-alan divino siqueira de souza____  caix            t000111803  01/10/2023   12.000,00 11/01/2024   12.000,00        0,00
+                                              histrico: pgto ref aluguel loja 01/2024
+ 00095-atacadao_________________________  caix            796144      06/01/2024    1.641,47 06/01/2024    1.641,47        0,00
+ 00095-atacadao_________________________  caix            796145      06/01/2024    1.232,99 06/01/2024    1.232,99        0,00
+ 01386-banco da amazonia________________  basa            t000112158  05/01/2024       40,00 05/01/2024       40,00        0,00
+                                              histrico: pgto tarifa bancaria basa - 05/01/2024
+ 01386-banco da amazonia________________  basa            t000112159  15/01/2024    3.011,49 15/01/2024    3.011,49        0,00
+                                              histrico: pagto ref. emprestimo no banco da amazonia
+ 01386-banco da amazonia________________  basa            t000112160  15/01/2024    3.327,08 15/01/2024    3.327,08        0,00
+                                              histrico: pagto ref. emprestimo no banco da amazonia
+ 00001-bella art mveis design__________  basa            t000112162  29/01/2024    1.000,00 29/01/2024    1.000,00        0,00
+                                              histrico: saque no caixa
+ 01444-caixa economica federal__________  cef             t000111859  01/01/2024    5.284,25 12/01/2024    5.284,25        0,00
+                                              histrico: pagto ref. emprestimo bancario - banco caixa (cef)
+
+ 01444-caixa economica federal__________  cef             t000112044  25/01/2024       55,00 25/01/2024       55,00        0,00
+                                              histrico: pagto ref. tarifas bancarias - cef 25/01/2024
+ 00052-casa nova________________________  basa            26364       26/01/2024      175,00 26/01/2024      175,00        0,00
+ 00052-casa nova________________________  basa            26355       25/01/2024      410,00 25/01/2024      410,00        0,00
+ 00052-casa nova________________________  basa            26370       26/01/2024       65,00 26/01/2024       65,00        0,00
+ 00052-casa nova________________________  basa            26383       29/01/2024      250,00 29/01/2024      250,00        0,00
+ 00052-casa nova________________________  caix            26395       29/01/2024       75,70 29/01/2024       75,70        0,00
+ 00052-casa nova________________________  basa            26418       31/01/2024      140,00 31/01/2024      140,00        0,00
+ 01297-j a borges_______________________  basa            nfse-2      04/01/2024   25.000,00 04/01/2024   25.000,00        0,00
+                                              histrico: pagto ref. nfs-e 202400000000002 j a borges
+ 01681-jn injecao diesel________________  caix            710         04/01/2024      100,00 04/01/2024      100,00        0,00
+ 00022-madeicom atacado_________________  caix            578957      03/01/2024      421,47 03/01/2024      421,47        0,00
+ 00022-madeicom atacado_________________  caix            579018      04/01/2024      498,39 04/01/2024      498,39        0,00
+ 00022-madeicom atacado_________________  caix            579258      05/01/2024      515,41 05/01/2024      515,41        0,00
+ 00022-madeicom atacado_________________  caix            579312      05/01/2024      210,86 05/01/2024      210,86        0,00
+ 00022-madeicom atacado_________________  caix            579652      08/01/2024      726,00 08/01/2024      726,00        0,00
+ 00022-madeicom atacado_________________  caix            580007      10/01/2024      171,81 10/01/2024      171,81        0,00
+ 00022-madeicom atacado_________________  caix            580447      12/01/2024      144,97 12/01/2024      144,97        0,00
+ 00022-madeicom atacado_________________  caix            580654      13/01/2024      185,64 13/01/2024      185,64        0,00
+ 00022-madeicom atacado_________________  caix            581062      16/01/2024      113,01 16/01/2024      113,01        0,00
+ 00022-madeicom atacado_________________  caix            581094      16/01/2024       76,30 16/01/2024       76,30        0,00
+ 00022-madeicom atacado_________________  caix            581527      18/01/2024      235,56 18/01/2024      235,56        0,00
+
+
+
+
+
+
+
+
+
+================================================================================================================================
+data: 14/02/2024                                    **  contas a pagar  **                                            pag: 0011
+hora: 11:03:45                                         bella art moveis
+entre 05/02/2024 a 14/02/2024    qd 103 sul avenida lo 01 lote 43 plano diretor sul palmas/to                        tipo: pago
+                                                 ** fones: (063)3224-2492  **
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+|fornecedor                              |banc|num.cheque|documento
++----------------------------------------+----+----------+-----------+----------+-----------+----------+-----------+-----------+
+somente loja: 1-bella art
+ 00022-madeicom atacado_________________  caix            582022      22/01/2024    1.787,99 22/01/2024    1.787,99        0,00
+ 00022-madeicom atacado_________________  caix            582255      23/01/2024      308,80 23/01/2024      308,80        0,00
+ 00022-madeicom atacado_________________  caix            582289      23/01/2024       53,41 23/01/2024       53,41        0,00
+ 00022-madeicom atacado_________________  caix            582319      23/01/2024      217,20 23/01/2024      217,20        0,00
+ 00022-madeicom atacado_________________  caix            582328      23/01/2024      228,00 23/01/2024      228,00        0,00
+ 00022-madeicom atacado_________________  caix            583833      31/01/2024       40,33 31/01/2024       40,33        0,00
+ 00022-madeicom atacado_________________  caix            583585      30/01/2024      127,50 30/01/2024      127,50        0,00
+ 00022-madeicom atacado_________________  caix            583912      31/01/2024      390,48 31/01/2024      390,48        0,00
+ 00022-madeicom atacado_________________  caix            581704      19/01/2024      512,01 19/01/2024      512,01        0,00
+ 00022-madeicom atacado_________________  caix            581768      19/01/2024      240,00 19/01/2024      240,00        0,00
+ 01679-marcia da silva scheifer ltda____  bb              32          09/01/2024      221,00 09/01/2024      221,00        0,00
+                                              histrico: 
+transferencia enviada p/ marcia da silva scheifer
+ 01679-marcia da silva scheifer ltda____  bb              32          12/01/2024      676,00 12/01/2024      676,00        0,00
+                                              histrico: 
+transferencia enviada p/ marcia da silva scheifer
+ 01679-marcia da silva scheifer ltda____  bb              32          19/01/2024      715,00 19/01/2024      715,00        0,00
+                                              histrico: 
+transferencia enviada p/ marcia da silva scheifer
+ 01679-marcia da silva scheifer ltda____  bb              32          26/01/2024      702,00 26/01/2024      702,00        0,00
+                                              histrico: 
+transferencia enviada p/ marcia da silva scheifer
+ 01708-n a acabamentos finos ltda - me__  bb              t000112108  19/01/2024    2.200,00 19/01/2024    2.200,00        0,00
+                                              histrico: pagto ref. adiantamento p/ fornecedor - nf ser emitida aps quitao
+ 01708-n a acabamentos finos ltda - me__  bb              t000112109  29/01/2024    2.000,00 29/01/2024    2.000,00        0,00
+                                              histrico: pagto ref. adiantamento p/ fornecedor - nf ser emitida aps quitao
+ 01698-recicla-x________________________  basa            15          23/01/2024    3.990,00 24/01/2024    3.990,00        0,00
+ 01698-recicla-x________________________  basa            5           08/01/2024    2.050,00 24/01/2024    2.050,00        0,00
+ 01214-servios_________________________  basa            ta0124      31/01/2024       40,00 31/01/2024       40,00        0,00
+                                              histrico: pagto c/ cartao de debito visa eletro - forn:pag*clesiohenrique
+ 01287-titulo capitalizao basa________  basa            t000112161  18/01/2024      372,83 18/01/2024      372,83        0,00
+ 00071-tocantins borrachas 63 3214-6064_  basa            2249        09/01/2024      210,00 09/01/2024      210,00        0,00
+ 00071-tocantins borrachas 63 3214-6064_  caix            2313        12/01/2024       92,00 12/01/2024       92,00        0,00
+--------------------------------------------------------------------------------------------------------------------------------
+ sub total                                                                         74.281,95              74.281,95        0,00
+
+pagamento: 14/02/2024
+ 00061-compressores palmares____________  caix            19763       05/01/2024      470,00 05/01/2024      470,00        0,00
+ 01214-servios_________________________  bb              ta0124      26/01/2024      200,00 26/01/2024      200,00        0,00
+                                              histrico: pix enviado p/ bonnasb
+ 01135-v.e.m. metalurgica ltda__________  caix            2586        29/01/2024      420,00 29/01/2024      420,00        0,00
+--------------------------------------------------------------------------------------------------------------------------------
+ sub total                                                                          1.090,00               1.090,00        0,00
+--------------------------------------------------------------------------------------------------------------------------------
+ erp                                                                              413.317,32             413.317,32        0,00
+================================================================================================================================
+www.nortesys.com.br

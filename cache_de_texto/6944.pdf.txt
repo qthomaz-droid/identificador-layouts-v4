@@ -1,0 +1,28 @@
+data da venda
+bandeira
+produto qtd parc nº parc
+valor bruto
+valor líquido desconto de mdr
+n° cartão
+10/06/2025 16:05:3mastercard crédito
+6
+6
+625,000000
+609,125000
+-15,875000
+531681******8482
+15/10/2025 09:44:2visa
+crédito
+3
+2
+154,330000
+150,039626
+-4,290374
+468212******6690
+03/12/2025 11:55:0stone
+stone
+0
+1
+-237,000000
+-237,000000
+0,000000

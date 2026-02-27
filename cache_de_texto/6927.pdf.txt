@@ -1,0 +1,930 @@
+ctr | titulos a prazo compensados (juros e descontos)  
+folha: 1 
+macro concreteira ituiutaba ltda
+perã-odo: 01/01/2026 a 31/01/2026
+sergio da costa souza 17/02/2026 08:41:42   
+ ct:
+nome
+docf
+nat
+numero - mod
+vr tit r$
+desc/jur
+liquido
+vcto
+pgto
+obs
+concessionaria ecovias do cerr
+apr
+s39
+000005829 3a
+48.120,00
+-962,40
+47.157,60
+04/01/2026
+02/01/2026
+    |  vd:bruno viei-2911112
+vilasa construtora s/a. ..112
+bsb
+s36
+2771415-4 3a
+1.200,00
+0,00
+1.200,00
+04/01/2026
+05/01/2026
+    |  vd:bruno viei-2911149
+confido engenharia ltda ..170
+bsb
+s29
+9242151-6 3a
+7.345,00
+0,00
+7.345,00
+05/01/2026
+05/01/2026
+    |  vd:jose rodri-2912224
+valdenilson dantas da silva ..
+pix
+s29
+000000001 3a
+3.300,00
+0,00
+3.300,00
+13/01/2026
+06/01/2026
+    |  vd:bruno viei-2919109
+camila alves el tawil ..814
+pix
+s36
+000000004 3a
+1.000,00
+0,00
+1.000,00
+06/01/2026
+06/01/2026
+    |  vd:jose rodri-2919118
+camila alves el tawil ..814
+pix
+s29
+000000003 3a
+3.575,00
+0,00
+3.575,00
+06/01/2026
+06/01/2026
+    |  vd:jose rodri-2921024
+carneiro e almeida empr.imob. 
+bsb
+s29
+1187127-5 3a
+32.505,00
+0,00
+32.505,00
+07/01/2026
+07/01/2026
+    |  vd:bruno viei-2912460
+carneiro e almeida empr.imob. 
+bsb
+s36
+1261176-0 3a
+1.925,00
+0,00
+1.925,00
+07/01/2026
+07/01/2026
+| vd:bruno viei-2912465
+h2r engenharia e locacao de be
+bsb
+s36
+1414341-5 3a
+1.100,00
+0,00
+1.100,00
+07/01/2026
+07/01/2026
+    |  vd:bruno viei-2912470
+h2r engenharia e locacao de be
+bsb
+s29
+6375275-1 3a
+8.765,00
+0,00
+8.765,00
+07/01/2026
+07/01/2026
+    |  vd:bruno viei-2912478
+nilce bizinoto ribeiro parreir
+bsb
+s29
+0501160-9 3a
+2.000,00
+110,65
+2.110,65
+31/12/2025
+08/01/2026
+    |  vd:bruno viei-2912442
+cocs construção e serviços eir
+bsb
+s29
+1046115-5 3a
+2.200,00
+121,72
+2.321,72
+31/12/2025
+08/01/2026
+    |  vd:jose rodri-2912450
+congregacao crista no brasil .
+bsb
+s29
+7080171-3 3a
+7.830,00
+0,00
+7.830,00
+06/01/2026
+08/01/2026
+    |  vd:jose rodri-2914993
+cdg construtora dias gomes ltd
+bsb
+s29
+3956142-8 3a
+4.505,00
+0,00
+4.505,00
+06/01/2026
+08/01/2026
+    |  vd:bruno viei-2915014
+michelle aparecida silva ..677
+svf
+s30
+000009509 55
+886,55
+0,00
+886,55
+08/01/2026
+08/01/2026
+    |  vd:rodrigo go-2918767
+amilton antonio domingues e ou
+svf
+s30
+000009510 55
+2.695,50
+0,00
+2.695,50
+08/01/2026
+08/01/2026
+    |  vd:rodrigo go-2918770
+michelle aparecida silva ..677
+ccc
+s29
+849250 3a
+1.855,00
+0,00
+1.855,00
+08/01/2026
+08/01/2026
+    |  vd:bruno viei-2919121
+rodrigo galan gouveia ..670
+svf
+s30
+000009511 55
+1.679,30
+0,00
+1.679,30
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918795
+rodrigo galan gouveia ..670
+svf
+s30
+000009512 55
+779,30
+0,00
+779,30
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918799
+rodrigo galan gouveia ..670
+svf
+s30
+000009513 55
+1.123,00
+0,00
+1.123,00
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918801
+rodrigo galan gouveia ..670
+svf
+s30
+000009514 55
+1.496,40
+0,00
+1.496,40
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918813
+rodrigo galan gouveia ..670
+svf
+s30
+000009515 55
+1.496,40
+0,00
+1.496,40
+09/01/2026
+09/01/2026
+    |  vd:loyanne re-2918821
+rodrigo bezerra da costa ..602
+svf
+s30
+000009516 55
+2.054,80
+0,00
+2.054,80
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918826
+rodrigo bezerra da costa ..602
+svf
+s30
+000009517 55
+1.250,20
+0,00
+1.250,20
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918837
+rodrigo bezerra da costa ..602
+svf
+s30
+000009518 55
+1.250,20
+0,00
+1.250,20
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918845
+marilene alva da silva ..687
+svf
+s30
+000009519 55
+2.584,00
+0,00
+2.584,00
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918849
+marilene alva da silva ..687
+svf
+s30
+000009520 55
+2.584,00
+0,00
+2.584,00
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918852
+marilene alva da silva ..687
+svf
+s30
+000009521 55
+2.584,00
+0,00
+2.584,00
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918854
+marilene alva da silva ..687
+svf
+s30
+000009522 55
+2.584,00
+0,00
+2.584,00
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918861
+ e
+macro.
+
+concreteira
+ctr | titulos a prazo compensados (juros e descontos)  
+folha: 2 
+macro concreteira ituiutaba ltda
+perã-odo: 01/01/2026 a 31/01/2026
+sergio da costa souza 17/02/2026 08:41:42   
+ ct:
+nome
+docf
+nat
+numero - mod
+vr tit r$
+desc/jur
+liquido
+vcto
+pgto
+obs
+marilene alva da silva ..687
+svf
+s30
+000009523 55
+2.289,00
+0,00
+2.289,00
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918876
+rodrigo galan gouveia ..670
+svf
+s30
+000009524 55
+2.249,60
+0,00
+2.249,60
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918888
+rodrigo galan gouveia ..670
+svf
+s30
+000009525 55
+2.249,60
+0,00
+2.249,60
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918894
+rodrigo galan gouveia ..670
+svf
+s30
+000009526 55
+364,50
+0,00
+364,50
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918902
+rodrigo galan gouveia ..670
+svf
+s30
+000009527 55
+2.688,40
+0,00
+2.688,40
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918905
+rodrigo galan gouveia ..670
+svf
+s30
+000009528 55
+2.688,40
+0,00
+2.688,40
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918924
+rodrigo galan gouveia ..670
+svf
+s30
+000009529 55
+2.341,40
+0,00
+2.341,40
+09/01/2026
+09/01/2026
+    |  vd:rodrigo go-2918930
+rodrigo galan gouveia ..670
+pix
+s29
+000000017 3a
+7.320,00
+0,00
+7.320,00
+09/01/2026
+09/01/2026
+| vd:bruno viei-2919143
+rodrigo galan gouveia ..670
+pix
+s29
+000000018 3a
+4.950,00
+0,00
+4.950,00
+09/01/2026
+09/01/2026
+    |  vd:bruno viei-2919218
+mart minas distribuiçao ltda .
+apr
+s29
+000005861 3a
+15.780,00
+-295,03
+15.484,97
+11/01/2026
+12/01/2026
+    |  vd:jose rodri-2912547
+mart minas distribuiçao ltda .
+apr
+s36
+000005862 3a
+1.100,00
+-20,57
+1.079,43
+11/01/2026
+12/01/2026
+    |  vd:jose rodri-2912550
+concessionaria ecovias do cerr
+apr
+s39
+000005859 3a
+27.600,00
+-552,00
+27.048,00
+11/01/2026
+12/01/2026
+    |  vd:bruno viei-2912558
+h2r engenharia e locacao de be
+bsb
+s29
+2422124-7 3a
+2.595,00
+0,00
+2.595,00
+12/01/2026
+12/01/2026
+    |  vd:bruno viei-2913294
+carneiro e almeida empr.imob. 
+bsb
+s29
+2642166-8 3a
+4.848,00
+0,00
+4.848,00
+12/01/2026
+12/01/2026
+    |  vd:bruno viei-2913303
+construtora nox ltda ..158
+bsb
+s29
+0345204-6 3a
+1.725,00
+0,00
+1.725,00
+12/01/2026
+12/01/2026
+    |  vd:bruno viei-2914995
+altos construtora e incorporad
+bsb
+s29
+3213179-8 3a
+2.012,50
+0,00
+2.012,50
+12/01/2026
+12/01/2026
+    |  vd:rodrigo go-2915013
+rodrigo galan gouveia ..670
+apr
+s29
+000000020 3a
+6.806,25
+0,00
+6.806,25
+14/01/2026
+12/01/2026
+    |  vd:bruno viei-2919151
+rodrigo galan gouveia ..670
+apr
+s29
+000000019 3a
+6.806,25
+0,00
+6.806,25
+14/01/2026
+12/01/2026
+    |  vd:bruno viei-2919160
+enprol engenharia e projetos l
+svf
+s30
+000009530 55
+965,00
+0,00
+965,00
+13/01/2026
+13/01/2026
+    |  vd:rodrigo go-2919017
+altos construtora e incorporad
+svf
+s30
+000009531 55
+843,00
+0,00
+843,00
+13/01/2026
+13/01/2026
+    |  vd:rodrigo go-2919030
+construtora nox ltda ..158
+svf
+s30
+000009532 55
+1.777,50
+0,00
+1.777,50
+13/01/2026
+13/01/2026
+    |  vd:rodrigo go-2919033
+construtora nox ltda ..158
+svf
+s30
+000009533 55
+1.777,50
+0,00
+1.777,50
+13/01/2026
+13/01/2026
+    |  vd:rodrigo go-2919045
+cdg construtora dias gomes ltd
+svf
+s30
+000009534 55
+1.412,50
+0,00
+1.412,50
+13/01/2026
+13/01/2026
+    |  vd:rodrigo go-2919059
+cdg construtora dias gomes ltd
+svf
+s30
+000009535 55
+1.412,50
+0,00
+1.412,50
+13/01/2026
+13/01/2026
+    |  vd:rodrigo go-2919079
+marilene alva da silva ..687
+apr
+s29
+000000026 3a
+10.550,00
+0,00
+10.550,00
+14/01/2026
+13/01/2026
+    |  vd:bruno viei-2919217
+marilene alva da silva ..687
+apr
+s29
+000000025 3a
+10.550,00
+0,00
+10.550,00
+13/01/2026
+13/01/2026
+    |  vd:bruno viei-2919193
+arcel empreendimento ltda ..17
+svf
+s30
+000009536 55
+1.327,80
+0,00
+1.327,80
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919244
+arcel empreendimento ltda ..17
+svf
+s30
+000009537 55
+0,00
+0,00
+0,00
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919260
+arcel empreendimento ltda ..17
+svf
+s30
+000009538 55
+0,00
+0,00
+0,00
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919271
+ e
+macro.
+
+concreteira
+ctr | titulos a prazo compensados (juros e descontos)  
+folha: 3 
+macro concreteira ituiutaba ltda
+perã-odo: 01/01/2026 a 31/01/2026
+sergio da costa souza 17/02/2026 08:41:42   
+ ct:
+nome
+docf
+nat
+numero - mod
+vr tit r$
+desc/jur
+liquido
+vcto
+pgto
+obs
+mba construtora ltda ..108
+svf
+s30
+000009539 55
+2.657,50
+0,00
+2.657,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919286
+mba construtora ltda ..108
+svf
+s30
+000009540 55
+2.657,50
+0,00
+2.657,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919320
+mba construtora ltda ..108
+svf
+s30
+000009541 55
+2.657,50
+0,00
+2.657,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919328
+mba construtora ltda ..108
+svf
+s30
+000009542 55
+2.657,50
+0,00
+2.657,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919375
+mba construtora ltda ..108
+svf
+s30
+000009543 55
+2.657,50
+0,00
+2.657,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919395
+construtora nox ltda ..158
+svf
+s30
+000009544 55
+1.777,50
+0,00
+1.777,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919412
+construtora nox ltda ..158
+svf
+s30
+000009545 55
+1.777,50
+0,00
+1.777,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919433
+concessionaria ecovias do cerr
+svf
+s38
+000009546 55
+2.252,00
+0,00
+2.252,00
+14/01/2026
+14/01/2026
+| vd:rodrigo go-2919437
+vipol transportes eireli me ..
+svf
+s30
+000009547 55
+2.312,50
+0,00
+2.312,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919446
+vipol transportes eireli me ..
+svf
+s30
+000009548 55
+2.312,50
+0,00
+2.312,50
+14/01/2026
+14/01/2026
+    |  vd:rodrigo go-2919479
+bp bioenergia ituiutaba ltda .
+apr
+s29
+000005860 3a
+16.200,00
+-324,00
+15.876,00
+11/01/2026
+15/01/2026
+    |  vd:vaneir div-2912546
+concessionaria ecovias do cerr
+apr
+s39
+000005876 3a
+26.640,00
+-532,80
+26.107,20
+14/01/2026
+15/01/2026
+    |  vd:bruno viei-2913285
+concessionaria ecovias do cerr
+apr
+s39
+000005878 3a
+55.160,00
+-1.103,20
+54.056,80
+15/01/2026
+15/01/2026
+    |  vd:bruno viei-2913582
+jose geraldo constant ..604
+svf
+s30
+000009549 55
+1.168,95
+0,00
+1.168,95
+15/01/2026
+15/01/2026
+    |  vd:rodrigo go-2919530
+concessionaria ecovias do cerr
+svf
+s38
+000009550 55
+2.252,00
+0,00
+2.252,00
+15/01/2026
+15/01/2026
+    |  vd:rodrigo go-2919550
+concessionaria ecovias do cerr
+svf
+s38
+000009551 55
+2.252,00
+0,00
+2.252,00
+15/01/2026
+15/01/2026
+    |  vd:rodrigo go-2919558
+concessionaria ecovias do cerr
+svf
+s38
+000009552 55
+2.252,00
+0,00
+2.252,00
+15/01/2026
+15/01/2026
+    |  vd:rodrigo go-2919572
+concessionaria ecovias do cerr
+svf
+s38
+000009553 55
+2.252,00
+0,00
+2.252,00
+15/01/2026
+15/01/2026
+    |  vd:rodrigo go-2919598
+concessionaria ecovias do cerr
+svf
+s38
+000009554 55
+2.655,60
+0,00
+2.655,60
+15/01/2026
+15/01/2026
+    |  vd:rodrigo go-2919613
+concessionaria ecovias do cerr
+svf
+s38
+000009555 55
+2.655,60
+0,00
+2.655,60
+15/01/2026
+15/01/2026
+    |  vd:loyanne re-2919635
+concessionaria ecovias do cerr
+svf
+s38
+000009556 55
+2.655,60
+0,00
+2.655,60
+15/01/2026
+15/01/2026
+    |  vd:rodrigo go-2919644
+antonio henrique oliveira souz
+svf
+s30
+000009557 55
+2.831,50
+0,00
+2.831,50
+16/01/2026
+16/01/2026
+    |  vd:rodrigo go-2919694
+antonio henrique oliveira souz
+svf
+s30
+000009558 55
+2.830,00
+0,00
+2.830,00
+16/01/2026
+16/01/2026
+    |  vd:rodrigo go-2919696
+allan christian inacio matos .
+svf
+s30
+000009559 55
+2.830,00
+0,00
+2.830,00
+16/01/2026
+16/01/2026
+    |  vd:rodrigo go-2919702
+allan christian inacio matos .
+svf
+s30
+000009560 55
+2.830,00
+0,00
+2.830,00
+16/01/2026
+16/01/2026
+    |  vd:rodrigo go-2919717
+allan christian inacio matos .
+svf
+s30
+000009561 55
+2.830,00
+0,00
+2.830,00
+16/01/2026
+16/01/2026
+    |  vd:rodrigo go-2919728
+allan christian inacio matos .
+svf
+s30
+000009562 55
+2.830,00
+0,00
+2.830,00
+16/01/2026
+16/01/2026
+    |  vd:rodrigo go-2919744
+allan christian inacio matos .
+svf
+s30
+000009563 55
+2.830,00
+0,00
+2.830,00
+16/01/2026
+16/01/2026
+    |  vd:loyanne re-2919759
+allan christian inacio matos .
+svf
+s30
+000009564 55
+2.830,00
+0,00
+2.830,00
+16/01/2026
+16/01/2026
+    |  vd:rodrigo go-2919763
+ e
+macro.
+
+concreteira

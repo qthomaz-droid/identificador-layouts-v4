@@ -1,0 +1,531 @@
+relatório extrato de conta financeira - geral
+conta financeira: sicoob - g - 2025
+período: 01/03/2025 a 31/03/2025
+codigo
+data
+descrição
+sl. anterior
+direção
+valor
+origem
+sl. resultante
+saldo inicial : 77.477,06
+cliente/fornecedor
+cheque
+tipo: todos
+nf
+00959
+05/03/2025
+s
+0,00
+-1.450,00 -1.450,00
+01352
+apb contabilidade lt
+baixa de conta a pagar
+historico:honorários
+00958
+05/03/2025
+s
+-1.450,00
+-1.749,79 -3.199,79
+00780
+ipalub distribuidora
+baixa de conta a pagar
+historico:compra de oleo
+01579
+05/03/2025
+s
+-3.199,79
+-32,00 -3.231,79
+02555
+sem parar
+baixa de conta a pagar
+historico:sem parar combustivel
+01315
+06/03/2025
+s
+-3.231,79
+-941,00 -4.172,79
+02016
+paloma hamdan
+baixa de conta a pagar
+historico:salário
+01115
+06/03/2025
+s
+-4.172,79
+-623,00 -4.795,79
+00174
+henrique neves
+baixa de conta a pagar
+historico:salário engeiro
+01119
+06/03/2025
+s
+-4.795,79
+-3.181,92 -7.977,71
+01399
+triglav soluções em
+baixa de conta a pagar
+historico:luvas
+01117
+06/03/2025
+s
+-7.977,71
+-209,00 -8.186,71
+00150
+cassia da silva de c
+baixa de conta a pagar
+historico:salário
+01118
+06/03/2025
+s
+-8.186,71
+-10.749,78 -18.936,49
+00058
+samp
+baixa de conta a pagar
+historico:plano de saude samp
+01114
+06/03/2025
+s
+-18.936,49
+-445,00 -19.381,49
+00162
+fabio alves reis
+baixa de conta a pagar
+historico:salário engenheiro
+01121
+06/03/2025
+s
+-19.381,49
+-1.750,00 -21.131,49
+00342
+thiago alexandre
+baixa de conta a pagar
+historico:aluguel
+01120
+06/03/2025
+s
+-21.131,49
+-660,45 -21.791,94
+02058
+cbm es
+baixa de conta a pagar
+historico:licenciamento de edificaçoes ou areas de risco ref a dua 4013018911
+01706
+06/03/2025
+e
+-21.791,94
+70.000,00 48.208,06
+manual
+transferência da conta
+historico:
+01131
+07/03/2025
+s
+48.208,06
+-802,00 47.406,06
+01778
+daniel santana loure
+baixa de conta a pagar
+historico:salario do mes
+01132
+07/03/2025
+s
+47.406,06
+-1.750,00 45.656,06
+00354
+jose iramar de olive
+baixa de conta a pagar
+historico:aluguel
+01134
+07/03/2025
+s
+45.656,06
+-30.000,00 15.656,06
+02020
+lstecnica
+baixa de conta a pagar
+historico:servico prestado audio visual ref a nf 74
+01135
+07/03/2025
+s
+15.656,06
+-10.000,00 5.656,06
+01864
+agencia gondola digi
+baixa de conta a pagar
+historico:contrato de prestação de serviços de marketing, posicionamento digital e sublocação de eventos
+01136
+07/03/2025
+s
+5.656,06
+-294,00 5.362,06
+01046
+gv - bus
+baixa de conta a pagar
+historico:vale transporte
+digital ar
+impressão:  07/04/2025 13:53
+pág.  1
+ s-tci
+27 3034 2641
+
+soluções em audiovisual para seu evento
+relatório extrato de conta financeira - geral
+conta financeira: sicoob - g - 2025
+período: 01/03/2025 a 31/03/2025
+codigo
+data
+descrição
+sl. anterior
+direção
+valor
+origem
+sl. resultante
+saldo inicial : 77.477,06
+cliente/fornecedor
+cheque
+tipo: todos
+nf
+01137
+07/03/2025
+s
+5.362,06
+-270,00 5.092,06
+02074
+digital ar
+baixa de conta a pagar
+historico:serviço de manutenção de ar condicionado
+01138
+07/03/2025
+s
+5.092,06
+-1.300,00 3.792,06
+02018
+jonathan marcolino
+baixa de conta a pagar
+historico:instruçao e treinamentos para organizaçao de eventos ref a nf 3
+01139
+07/03/2025
+s
+3.792,06
+-1.060,12 2.731,94
+00390
+master truck
+baixa de conta a pagar
+historico:seguro
+01140
+07/03/2025
+s
+2.731,94
+-1.095,27 1.636,67
+00366
+master truck
+baixa de conta a pagar
+historico:seguro
+01141
+07/03/2025
+s
+1.636,67
+-79,90 1.556,77
+00738
+conexão link
+baixa de conta a pagar
+historico:internet - galpão 2
+01142
+07/03/2025
+s
+1.556,77
+-140,00 1.416,77
+00488
+vila link telecom
+baixa de conta a pagar
+historico:internet
+01143
+07/03/2025
+s
+1.416,77
+-870,00 546,77
+02152
+riviera auto peças
+baixa de conta a pagar
+historico:suprimento para parafusadeira ref a nf 095
+01144
+07/03/2025
+s
+546,77
+-659,52 -112,75
+00378
+master truck
+baixa de conta a pagar
+historico:seguro
+01133
+07/03/2025
+s
+-112,75
+-4.000,00 -4.112,75
+02017
+elite design ltda me
+baixa de conta a pagar
+historico:servico prestado impressao de material ref a nf 202500000000542
+01316
+10/03/2025
+s
+-4.112,75
+-976,20 -5.088,95
+02312
+sem parar
+baixa de conta a pagar
+historico:pedagios sem parar
+01317
+10/03/2025
+s
+-5.088,95
+-25,85 -5.114,80
+02313
+sicoob
+baixa de conta a pagar
+historico:debito pacote de serviços
+01190
+11/03/2025
+s
+-5.114,80
+-196,00 -5.310,80
+00070
+visao vila velha ras
+baixa de conta a pagar
+historico:rastreamento frota
+01186
+11/03/2025
+s
+-5.310,80
+-99,00 -5.409,80
+00096
+next software
+baixa de conta a pagar
+historico:manutenção emissor de notas fiscais de venda tci group e tci equipamentos
+01187
+11/03/2025
+s
+-5.409,80
+-560,00 -5.969,80
+01749
+the wellington extin
+baixa de conta a pagar
+historico:material e laudo de icuminação de emergência  ref a nfs 3102 e 756
+01320
+11/03/2025
+s
+-5.969,80
+-5.679,63 -11.649,43
+02318
+sicoob
+baixa de conta a pagar
+historico:despesas cartao de credito- rateio
+01188
+11/03/2025
+s
+-11.649,43
+-64,05 -11.713,48
+02207
+dio departamento de
+baixa de conta a pagar
+historico:taxa de publicaçao diario oficial de licenciamento ambiental da tci group
+01708
+11/03/2025
+e
+-11.713,48
+20.000,00 8.286,52
+manual
+transferência da conta
+historico:
+cbm es
+impressão:  07/04/2025 13:53
+pág.  2
+ s-tci
+27 3034 2641
+
+soluções em audiovisual para seu evento
+relatório extrato de conta financeira - geral
+conta financeira: sicoob - g - 2025
+período: 01/03/2025 a 31/03/2025
+codigo
+data
+descrição
+sl. anterior
+direção
+valor
+origem
+sl. resultante
+saldo inicial : 77.477,06
+cliente/fornecedor
+cheque
+tipo: todos
+nf
+01189
+11/03/2025
+s
+8.286,52
+-330,22 7.956,30
+02169
+baixa de conta a pagar
+historico:renovação de licenciamento de edificaçoes ou areas de risco
+01288
+13/03/2025
+s
+7.956,30
+-365,00 7.591,30
+00751
+cassia da silva de c
+baixa de conta a pagar
+historico:adiantamento
+01710
+13/03/2025
+e
+7.591,30
+50.000,00 57.591,30
+manual
+transferência da conta
+historico:
+01604
+13/03/2025
+s
+57.591,30
+-536,00 57.055,30
+02208
+gvm pecas e serviços
+baixa de conta a pagar
+historico:serviço prestado manutençao da 17.230 placa qrj-3c51 ref a nf 213
+01273
+13/03/2025
+s
+57.055,30
+-309,09 56.746,21
+02225
+crea es
+baixa de conta a pagar
+historico:art civil, art eletrica, art luz e som
+01274
+13/03/2025
+s
+56.746,21
+-206,06 56.540,15
+02278
+crea es
+baixa de conta a pagar
+historico:art civil e eletrica
+01275
+13/03/2025
+s
+56.540,15
+-1.000,00 55.540,15
+02277
+caju
+baixa de conta a pagar
+historico:adiantamento de despesas thiago rocha
+01276
+13/03/2025
+s
+55.540,15
+-95,44 55.444,71
+00978
+sul america
+baixa de conta a pagar
+historico:plano odontologico
+01278
+13/03/2025
+s
+55.444,71
+-800,00 54.644,71
+01788
+daniel santana loure
+baixa de conta a pagar
+historico:adiantamento
+01282
+13/03/2025
+s
+54.644,71
+-7.000,00 47.644,71
+02215
+spd som pra dedel
+baixa de conta a pagar
+historico:servico prestado trio eletrico ref nfs 1183 - 1184
+01286
+13/03/2025
+s
+47.644,71
+-1.326,40 46.318,31
+02223
+paloma hamdan
+baixa de conta a pagar
+historico:rescisao de contrato
+01576
+14/03/2025
+s
+46.318,31
+-699,00 45.619,31
+00476
+conectja
+baixa de conta a pagar
+historico:internet
+01326
+14/03/2025
+s
+45.619,31
+-4.064,00 41.555,31
+01688
+milano material elet
+baixa de conta a pagar
+historico:material eletrico
+01325
+14/03/2025
+s
+41.555,31
+-212,90 41.342,41
+00764
+master truck
+baixa de conta a pagar
+historico:seguro onix
+01324
+14/03/2025
+s
+41.342,41
+-665,92 40.676,49
+02295
+banco do brasil
+baixa de conta a pagar
+historico:renovaçao licitaçoes-e 1 ano
+01323
+14/03/2025
+s
+40.676,49
+-2.936,88 37.739,61
+02204
+rdg acos do brasil s
+baixa de conta a pagar
+historico:material para fabricaçao de peças para palco  de ferro ref nf 639141
+01322
+14/03/2025
+s
+37.739,61
+-520,00 37.219,61
+02296
+gvm pecas e serviços
+baixa de conta a pagar
+historico:manutenção atego conforme rateiro
+01280
+14/03/2025
+s
+37.219,61
+-17.412,35 19.807,26
+02206
+perfilados rio doce
+baixa de conta a pagar
+impressão:  07/04/2025 13:53
+pág.  3
+ s-tci
+27 3034 2641
+
+soluções em audiovisual para seu evento

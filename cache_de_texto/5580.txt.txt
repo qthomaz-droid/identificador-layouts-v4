@@ -1,0 +1,186 @@
+documento   ;dt.emisso;venc.original;codcli.nome fantasia       ;valor        ;t.cobrana   ;desc da conta
+dt.liquidaao: 02/05/2024
+01015790/01 ;01/04/2024;02/05/2024   ;basso vinhos e espumantes  ;4281,82      ;banco simples;santander    
+01015783/02 ;27/03/2024;02/05/2024   ;di hellen                  ;5854,20      ;banco simples;b. ita s/a  
+01015808/01 ;04/04/2024;02/05/2024   ;fazenda soledade           ;3747,90      ;banco simples;santander    
+01015759/03 ;20/03/2024;02/05/2024   ;imec                       ;1690,12      ;banco simples;santander    
+01015760/03 ;20/03/2024;02/05/2024   ;imec                       ;4950,17      ;banco simples;santander    
+01015776/02 ;26/03/2024;30/04/2024   ;lapon                      ;1247,75      ;banco simples;santander    
+01015758/02 ;20/03/2024;02/05/2024   ;petrol                     ;3191,67      ;banco simples;santander    
+01015802/01 ;03/04/2024;02/05/2024   ;rabelo - matriz            ;10977,66     ;banco simples;santander    
+01015799/01 ;02/04/2024;02/05/2024   ;savona plsticos - matriz  ;5838,22      ;banco simples;b. ita s/a  
+01015789/02 ;28/03/2024;02/05/2024   ;tirreno                    ;15033,34     ;banco simples;santander    
+01015788/02 ;28/03/2024;02/05/2024   ;yamamura                   ;1106,35      ;banco simples;santander    
+dt.liquidaao: 03/05/2024
+01015812    ;05/04/2024;03/05/2024   ;dogma                      ;802,52       ;banco simples;santander    
+01015763/03 ;22/03/2024;03/05/2024   ;imec                       ;2938,54      ;banco simples;santander    
+01015762/03 ;22/03/2024;03/05/2024   ;pax lubrificantes          ;3097,60      ;banco simples;santander    
+01015715/03 ;08/03/2024;03/05/2024   ;petrol                     ;8561,60      ;banco simples;santander    
+01015767/02 ;22/03/2024;03/05/2024   ;petrol                     ;7701,94      ;banco simples;santander    
+01015814/01 ;05/04/2024;03/05/2024   ;petrol                     ;1746,46      ;banco simples;santander    
+01015803/01 ;03/04/2024;03/05/2024   ;savona plsticos - matriz  ;1300,18      ;banco simples;b. ita s/a  
+01015800    ;03/04/2024;02/05/2024   ;sgm                        ;1761,50      ;banco simples;b. banrisul  
+01015801/01 ;03/04/2024;02/05/2024   ;sgm                        ;1206,98      ;banco simples;b. banrisul  
+dt.liquidaao: 06/05/2024
+01015771    ;25/03/2024;06/05/2024   ;brilux raymundo da fonte ba;9834,38      ;banco simples;santander    
+01015772    ;25/03/2024;06/05/2024   ;brilux raymundo da fonte pe;26264,27     ;banco simples;santander    
+01015816/01 ;08/04/2024;06/05/2024   ;fazenda soledade           ;2577,75      ;banco simples;santander    
+01015817/01 ;08/04/2024;06/05/2024   ;imec                       ;2410,32      ;banco simples;santander    
+01015721/03 ;11/03/2024;06/05/2024   ;petrol                     ;2451,14      ;banco simples;santander    
+01015807/01 ;04/04/2024;03/05/2024   ;profar                     ;1142,70      ;banco simples;b. banrisul  
+01015761/02 ;20/03/2024;06/05/2024   ;savona plsticos - matriz  ;4756,40      ;banco simples;b. ita s/a  
+01015764/02 ;22/03/2024;06/05/2024   ;savona plsticos - matriz  ;1265,00      ;banco simples;b. ita s/a  
+01015739/03 ;14/03/2024;03/05/2024   ;sgm                        ;3695,27      ;banco simples;b. banrisul  
+01015793/01 ;01/04/2024;03/05/2024   ;sgm                        ;3526,85      ;banco simples;b. banrisul  
+01015791/01 ;01/04/2024;06/05/2024   ;spl                        ;15605,13     ;banco simples;santander    
+01015792/02 ;01/04/2024;06/05/2024   ;tirreno                    ;2762,86      ;banco simples;santander    
+dt.liquidaao: 07/05/2024
+01015707/02 ;06/03/2024;07/05/2024   ;basso vinhos e espumantes  ;8307,99      ;banco simples;santander    
+01015824    ;11/04/2024;09/05/2024   ;euro company brasil        ;11625,64     ;banco simples;santander    
+01015819/01 ;09/04/2024;07/05/2024   ;fbrica de doces ledur ltda;14243,53     ;banco simples;santander    
+01015798/02 ;02/04/2024;07/05/2024   ;nutivit                    ;1451,93      ;banco simples;santander    
+01015797/02 ;02/04/2024;07/05/2024   ;pax lubrificantes          ;3110,05      ;banco simples;santander    
+01015781/02 ;27/03/2024;06/05/2024   ;sgm                        ;10237,91     ;banco simples;b. banrisul  
+01015809/01 ;04/04/2024;06/05/2024   ;sgm                        ;2351,44      ;banco simples;b. banrisul  
+dt.liquidaao: 08/05/2024
+01015776/01 ;26/03/2024;23/04/2024   ;lapon                      ;1242,78      ;em protesto  ;santander    
+2.002583/01h;24/02/2012;23/03/2012   ;manguinhos                 ;55,28        ;rec judicial ;santander    
+01015782/02 ;27/03/2024;08/05/2024   ;petrol                     ;8164,48      ;banco simples;santander    
+01015802/02 ;03/04/2024;08/05/2024   ;rabelo - matriz            ;10977,65     ;banco simples;santander    
+01015787/02 ;28/03/2024;07/05/2024   ;sgm                        ;4938,97      ;banco simples;b. banrisul  
+dt.liquidaao: 09/05/2024
+01015808/02 ;04/04/2024;09/05/2024   ;fazenda soledade           ;3747,90      ;banco simples;santander    
+01015786/02 ;28/03/2024;09/05/2024   ;petrol                     ;2570,91      ;banco simples;santander    
+01015820/01 ;09/04/2024;09/05/2024   ;savona plsticos - matriz  ;7662,48      ;banco simples;b. ita s/a  
+01015801/02 ;03/04/2024;08/05/2024   ;sgm                        ;1206,99      ;banco simples;b. banrisul  
+dt.liquidaao: 10/05/2024
+01015828    ;12/04/2024;10/05/2024   ;nutivit                    ;3675,00      ;banco simples;santander    
+01015833/01 ;12/04/2024;10/05/2024   ;nutivit                    ;3752,35      ;banco simples;santander    
+01015745/03 ;15/03/2024;10/05/2024   ;petrol                     ;4441,17      ;banco simples;santander    
+01015807/02 ;04/04/2024;09/05/2024   ;profar                     ;1142,70      ;banco simples;b. banrisul  
+01015777/02 ;26/03/2024;10/05/2024   ;savona plsticos - matriz  ;4928,00      ;banco simples;b. ita s/a  
+01015756/03 ;20/03/2024;09/05/2024   ;sgm                        ;9285,61      ;banco simples;b. banrisul  
+01015827    ;11/04/2024;09/05/2024   ;sgm                        ;2034,00      ;banco simples;b. banrisul  
+01015747/03 ;15/03/2024;10/05/2024   ;tamba                     ;17143,55     ;banco simples;santander    
+01015832/01 ;12/04/2024;10/05/2024   ;tirreno                    ;3541,36      ;banco simples;santander    
+dt.liquidaao: 13/05/2024
+01015775/02 ;26/03/2024;30/04/2024   ;airela                     ;6368,26      ;em protesto  ;santander    
+01015835    ;15/04/2024;13/05/2024   ;airela                     ;340,00       ;banco simples;santander    
+01015816/02 ;08/04/2024;13/05/2024   ;fazenda soledade           ;2577,75      ;banco simples;santander    
+01015817/02 ;08/04/2024;13/05/2024   ;imec                       ;     2410,32 ;banco simples;santander    
+01015810    ;04/04/2024;16/05/2024   ;paraflu do brasil          ;     2975,44 ;banco simples;santander    
+01015750/03 ;18/03/2024;13/05/2024   ;petrol                     ;     6201,42 ;banco simples;santander    
+01015849/01 ;16/04/2024;14/05/2024   ;saviplast - cxs            ;     2926,80 ;banco simples;santander    
+01015735/03 ;14/03/2024;13/05/2024   ;savona plsticos - matriz  ;     1708,71 ;banco simples;b. ita s/a  
+01015834/01 ;12/04/2024;13/05/2024   ;savona plsticos - matriz  ;     1714,44 ;banco simples;b. ita s/a  
+01015791/02 ;01/04/2024;13/05/2024   ;spl                        ;    15605,12 ;banco simples;santander    
+01015751/03 ;18/03/2024;13/05/2024   ;tamba                     ;     3138,05 ;banco simples;santander    
+01015837/01 ;15/04/2024;13/05/2024   ;tirreno                    ;     2712,86 ;banco simples;santander    
+dt.liquidaao: 14/05/2024
+01015840    ;16/04/2024;14/05/2024   ;dogma                      ;       877,97;banco simples;santander    
+01015841    ;16/04/2024;14/05/2024   ;dogma                      ;     1817,49 ;banco simples;santander    
+01015846    ;16/04/2024;14/05/2024   ;dogma                      ;       780,00;banco simples;santander    
+01015844/01 ;16/04/2024;14/05/2024   ;lubripack                  ;    13601,79 ;banco simples;b. ita s/a  
+01015797/03 ;02/04/2024;14/05/2024   ;pax lubrificantes          ;     3110,05 ;banco simples;santander    
+01015794/02 ;02/04/2024;14/05/2024   ;petrol                     ;     1705,94 ;banco simples;santander    
+01015847    ;16/04/2024;14/05/2024   ;petrol                     ;       906,94;banco simples;santander    
+01015744/03 ;15/03/2024;14/05/2024   ;savona plsticos - matriz  ;     3686,38 ;banco simples;b. ita s/a  
+01015793/02 ;01/04/2024;13/05/2024   ;sgm                        ;     3526,85 ;banco simples;b. banrisul  
+01015826/01 ;11/04/2024;13/05/2024   ;sgm                        ;     6651,13 ;banco simples;b. banrisul  
+01015829/01 ;12/04/2024;13/05/2024   ;sgm                        ;     2543,02 ;banco simples;b. banrisul  
+dt.liquidaao: 15/05/2024
+01015758/03 ;20/03/2024;15/05/2024   ;petrol                     ;     3191,67 ;banco simples;santander    
+01015809/02 ;04/04/2024;14/05/2024   ;sgm                        ;     2351,44 ;banco simples;b. banrisul  
+dt.liquidaao: 16/05/2024
+01015813/01 ;05/04/2024;03/05/2024   ;airela                     ;    11563,26 ;em protesto  ;santander    
+01015825/01 ;11/04/2024;13/05/2024   ;airela                     ;    13573,75 ;banco simples;santander    
+01015853/01 ;18/04/2024;16/05/2024   ;dlw vitgold - filial sp    ;    13143,17 ;banco simples;santander    
+01015849/02 ;16/04/2024;21/05/2024   ;saviplast - cxs            ;     2926,80 ;banco simples;santander    
+01015801/03 ;03/04/2024;15/05/2024   ;sgm                        ;     1206,99 ;banco simples;b. banrisul  
+01015850    ;17/04/2024;15/05/2024   ;sgm                        ;     2573,24 ;banco simples;b. banrisul  
+01015851/01 ;17/04/2024;15/05/2024   ;sgm                        ;     5247,88 ;banco simples;b. banrisul  
+dt.liquidaao: 17/05/2024
+01015776/03 ;26/03/2024;07/05/2024   ;lapon                      ;     1242,78 ;em protesto  ;santander    
+01015833/02 ;12/04/2024;17/05/2024   ;nutivit                    ;     3752,35 ;banco simples;santander    
+01015767/03 ;22/03/2024;17/05/2024   ;petrol                     ;     7701,94 ;banco simples;santander    
+01015814/02 ;05/04/2024;17/05/2024   ;petrol                     ;     1746,46 ;banco simples;santander    
+01015799/02 ;02/04/2024;17/05/2024   ;savona plsticos - matriz  ;     5838,23 ;banco simples;b. ita s/a  
+01015781/03 ;27/03/2024;16/05/2024   ;sgm                        ;    10237,91 ;banco simples;b. banrisul  
+01015832/02 ;12/04/2024;17/05/2024   ;tirreno                    ;     3541,36 ;banco simples;santander    
+01015857/01 ;19/04/2024;17/05/2024   ;tirreno                    ;    28866,00 ;banco simples;santander    
+dt.liquidaao: 20/05/2024
+01015815    ;05/04/2024;20/05/2024   ;brilux raymundo da fonte pe;    19697,31 ;banco simples;santander    
+01015817/03 ;08/04/2024;20/05/2024   ;imec                       ;     2410,32 ;banco simples;santander    
+01015818    ;09/04/2024;21/05/2024   ;paraflu do brasil          ;     5286,60 ;banco simples;santander    
+01015881/01 ;29/04/2024;27/05/2024   ;saviplast - cxs            ;     2419,69 ;banco simples;santander    
+01015803/02 ;03/04/2024;20/05/2024   ;savona plsticos - matriz  ;     1300,17 ;banco simples;b. ita s/a  
+01015836/01 ;15/04/2024;20/05/2024   ;spl                        ;     4521,80 ;banco simples;santander    
+01015837/02 ;15/04/2024;20/05/2024   ;tirreno                    ;     2712,86 ;banco simples;santander    
+01015858/01 ;22/04/2024;20/05/2024   ;tirreno                    ;     8886,05 ;banco simples;santander    
+dt.liquidaao: 21/05/2024
+01015822    ;09/04/2024;09/05/2024   ;airela                     ;     3683,79 ;em protesto  ;santander    
+01015843/01 ;16/04/2024;16/05/2024   ;airela                     ;     2384,95 ;banco simples;santander    
+01015848/01 ;16/04/2024;16/05/2024   ;airela                     ;     8679,34 ;banco simples;santander    
+01015856/01 ;19/04/2024;20/05/2024   ;airela                     ;     2189,76 ;banco simples;santander    
+01015819/02 ;09/04/2024;21/05/2024   ;fbrica de doces ledur ltda;    14243,52 ;banco simples;santander    
+01015844/02 ;16/04/2024;21/05/2024   ;lubripack                  ;    13601,79 ;banco simples;b. ita s/a  
+01015863/01 ;23/04/2024;21/05/2024   ;pax lubrificantes          ;     4086,00 ;banco simples;santander    
+01015764/03 ;22/03/2024;21/05/2024   ;savona plsticos - matriz  ;     1265,00 ;banco simples;b. ita s/a  
+01015852/01 ;18/04/2024;20/05/2024   ;sgm                        ;     2635,07 ;banco simples;b. banrisul  
+01015860/01 ;23/04/2024;21/05/2024   ;yamamura                   ;     4295,46 ;banco simples;santander    
+01015862    ;23/04/2024;21/05/2024   ;yamamura                   ;     2788,92 ;banco simples;santander    
+01015864    ;23/04/2024;21/05/2024   ;yamamura                   ;     3554,70 ;banco simples;santander    
+dt.liquidaao: 22/05/2024
+01015782/03 ;27/03/2024;22/05/2024   ;petrol                     ;     8164,48 ;banco simples;santander    
+01015761/03 ;20/03/2024;20/05/2024   ;savona plsticos - matriz  ;     4756,40 ;banco simples;b. ita s/a  
+01015793/03 ;01/04/2024;21/05/2024   ;sgm                        ;     3526,85 ;banco simples;b. banrisul  
+01015826/02 ;11/04/2024;21/05/2024   ;sgm                        ;     6651,14 ;banco simples;b. banrisul  
+01015870/01 ;24/04/2024;22/05/2024   ;tirreno                    ;     6793,67 ;banco simples;santander    
+dt.liquidaao: 23/05/2024
+01015872/01 ;25/04/2024;23/05/2024   ;adiblock                   ;     1349,60 ;banco simples;santander    
+01015871    ;25/04/2024;23/05/2024   ;ingersol - matriz          ;     2859,36 ;banco simples;santander    
+01015869/01 ;24/04/2024;22/05/2024   ;natus minas - matriz       ;     2576,33 ;banco simples;santander    
+01015786/03 ;28/03/2024;23/05/2024   ;petrol                     ;     2570,91 ;banco simples;santander    
+01015829/02 ;12/04/2024;22/05/2024   ;sgm                        ;     2543,03 ;banco simples;b. banrisul  
+01015851/02 ;17/04/2024;22/05/2024   ;sgm                        ;     5247,87 ;banco simples;b. banrisul  
+01015868/01 ;24/04/2024;22/05/2024   ;sgm                        ;     1578,48 ;banco simples;b. banrisul  
+dt.liquidaao: 24/05/2024
+01015861/01 ;23/04/2024;23/05/2024   ;airela                     ;     5359,19 ;banco simples;santander    
+01015874    ;26/04/2024;24/05/2024   ;dogma                      ;     1808,20 ;banco simples;santander    
+01015820/02 ;09/04/2024;24/05/2024   ;savona plsticos - matriz  ;     7662,48 ;banco simples;b. ita s/a  
+01015854/01 ;19/04/2024;24/05/2024   ;spl                        ;    21978,89 ;banco simples;santander    
+01015857/02 ;19/04/2024;24/05/2024   ;tirreno                    ;    28866,00 ;banco simples;santander    
+01015877/01 ;26/04/2024;24/05/2024   ;tirreno                    ;     2200,63 ;banco simples;santander    
+dt.liquidaao: 27/05/2024
+01015823    ;10/04/2024;27/05/2024   ;brilux raymundo da fonte pe;    17012,80 ;banco simples;santander    
+01015878    ;29/04/2024;27/05/2024   ;euro company brasil        ;     5868,12 ;banco simples;santander    
+01015882/01 ;29/04/2024;27/05/2024   ;rafael moura - igloobrasil ;     1514,46 ;banco simples;santander    
+01015777/03 ;26/03/2024;27/05/2024   ;savona plsticos - matriz  ;     4928,00 ;banco simples;b. ita s/a  
+01015834/02 ;12/04/2024;27/05/2024   ;savona plsticos - matriz  ;     1714,44 ;banco simples;b. ita s/a  
+01015809/03 ;04/04/2024;24/05/2024   ;sgm                        ;     2351,44 ;banco simples;b. banrisul  
+01015836/02 ;15/04/2024;27/05/2024   ;spl                        ;     4521,80 ;banco simples;santander    
+01015858/02 ;22/04/2024;27/05/2024   ;tirreno                    ;     8886,05 ;banco simples;santander    
+dt.liquidaao: 28/05/2024
+01015813/02 ;05/04/2024;10/05/2024   ;airela                     ;    11570,94 ;em protesto  ;santander    
+01015863/02 ;23/04/2024;28/05/2024   ;pax lubrificantes          ;     4086,01 ;banco simples;santander    
+01015787/03 ;28/03/2024;27/05/2024   ;sgm                        ;     4938,97 ;banco simples;b. banrisul  
+01015885/01 ;30/04/2024;28/05/2024   ;tirreno                    ;     9985,05 ;banco simples;santander    
+dt.liquidaao: 29/05/2024
+01015872/02 ;25/04/2024;30/05/2024   ;adiblock                   ;     1349,60 ;banco simples;santander    
+01015790/02 ;01/04/2024;31/05/2024   ;basso vinhos e espumantes  ;     4281,83 ;banco simples;santander    
+01015867/02 ;24/04/2024;29/05/2024   ;di hellen                  ;     3280,54 ;banco simples;b. ita s/a  
+01015784/03 ;27/03/2024;27/05/2024   ;irmos molon sinuelo       ;     3970,03 ;banco simples;santander    
+01015869/02 ;24/04/2024;29/05/2024   ;natus minas - matriz       ;     2576,34 ;banco simples;santander    
+01015852/02 ;18/04/2024;28/05/2024   ;sgm                        ;     2635,07 ;banco simples;b. banrisul  
+01015870/02 ;24/04/2024;29/05/2024   ;tirreno                    ;     6793,68 ;banco simples;santander    
+dt.liquidaao: 31/05/2024
+01015853/02 ;18/04/2024;31/05/2024   ;dlw vitgold - filial sp    ;    13143,17 ;banco simples;santander    
+01015875    ;26/04/2024;31/05/2024   ;ifal                       ;     6397,81 ;banco simples;santander    
+01015851/03 ;17/04/2024;29/05/2024   ;sgm                        ;     5247,87 ;banco simples;b. banrisul  
+01015868/02 ;24/04/2024;29/05/2024   ;sgm                        ;     1578,48 ;banco simples;b. banrisul  
+01015880/01 ;29/04/2024;29/05/2024   ;sgm                        ;     5878,88 ;banco simples;b. banrisul  
+01015854/02 ;19/04/2024;31/05/2024   ;spl                        ;    21978,90 ;banco simples;santander    
+01015877/02 ;26/04/2024;31/05/2024   ;tirreno                    ;     2200,62 ;banco simples;santander    
+01015743/02 ;15/03/2024;10/05/2024   ;vitivinicola jolimont      ;     2715,75 ;banco simples;santander    
+01015831/01 ;12/04/2024;13/05/2024   ;vitivinicola jolimont      ;     2125,00 ;banco simples;santander    
+01015860/02 ;23/04/2024;31/05/2024   ;yamamura                   ;     4295,46 ;banco simples;santander    

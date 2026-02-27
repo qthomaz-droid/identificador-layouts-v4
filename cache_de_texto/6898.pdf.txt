@@ -1,0 +1,307 @@
+extrato
+extrato de: 3267 | 7477-2 | conta-corrente
+data: 01/12/2025
+hora: 13:28:08
+gmt-03:00
+lançamentos
+data de lançamento
+descrição
+tipo de lançamento
+moeda
+valor
+31/10/2025
+saldo anterior
+real/brasil (brl)
+1.00
+03/11/2025
+ted-transf elet dispon 7926100 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+1,820.45
+03/11/2025
+aplic.invest facil 8312035
+débito
+real/brasil (brl)
+-1,820.45
+04/11/2025
+ted-transf elet dispon 8592643 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+12,412.95
+04/11/2025
+aplic.invest facil 15092
+débito
+real/brasil (brl)
+-12,412.95
+05/11/2025
+ted-transf elet dispon 9841230 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+73,712.32
+05/11/2025
+aplic.invest facil 2045905
+débito
+real/brasil (brl)
+-712.32
+05/11/2025
+pix qr code estatico 1842369 
+des: o . k . brazil transp 05/11
+débito
+real/brasil (brl)
+-73,000.00
+06/11/2025
+ted-transf elet dispon 1864138 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+13,628.67
+06/11/2025
+aplic.invest facil 4499498
+débito
+real/brasil (brl)
+-13,628.67
+07/11/2025
+ted-transf elet dispon 2970417 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+26,976.38
+07/11/2025
+aplic.invest facil 6481679
+débito
+real/brasil (brl)
+-26,976.38
+10/11/2025
+ted-transf elet dispon 3963804 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+2,808.71
+10/11/2025
+aplic.invest facil 7976558
+débito
+real/brasil (brl)
+-2,808.71
+12/11/2025
+ted-transf elet dispon 5178131 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+44,121.97
+12/11/2025
+aplic.invest facil 333613
+débito
+real/brasil (brl)
+-44,121.97
+ 13/11/2025
+ted-transf elet dispon 5679614 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+4,993.17
+13/11/2025
+aplic.invest facil 1403192
+débito
+real/brasil (brl)
+-4,993.17
+14/11/2025
+ted-transf elet dispon 6587228 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+62,886.16
+14/11/2025
+resgate invest facil 15092
+crédito
+real/brasil (brl)
+12,412.95
+14/11/2025
+resgate invest facil 333613
+crédito
+real/brasil (brl)
+44,121.97
+14/11/2025
+resgate invest facil 1403192
+crédito
+real/brasil (brl)
+4,691.41
+14/11/2025
+resgate invest facil 2045905
+crédito
+real/brasil (brl)
+712.32
+14/11/2025
+resgate invest facil 4499498
+crédito
+real/brasil (brl)
+13,628.67
+14/11/2025
+resgate invest facil 6481679
+crédito
+real/brasil (brl)
+26,976.38
+14/11/2025
+resgate invest facil 7976558
+crédito
+real/brasil (brl)
+2,808.71
+14/11/2025
+resgate invest facil 8312035
+crédito
+real/brasil (brl)
+1,820.45
+14/11/2025
+resgate invest facil 8741625
+crédito
+real/brasil (brl)
+115.72
+14/11/2025
+rentab.invest facilcred* 15092
+crédito
+real/brasil (brl)
+0.73
+14/11/2025
+rentab.invest facilcred* 333613
+crédito
+real/brasil (brl)
+0.14
+14/11/2025
+rentab.invest facilcred* 1403192 crédito
+real/brasil (brl)
+0.01
+14/11/2025
+rentab.invest facilcred* 
+2045905
+crédito
+real/brasil (brl)
+0.04
+14/11/2025
+rentab.invest facilcred* 
+4499498
+crédito
+real/brasil (brl)
+0.48
+14/11/2025
+rentab.invest facilcred* 6481679 crédito
+real/brasil (brl)
+0.70
+14/11/2025
+rentab.invest facilcred* 
+7976558
+crédito
+real/brasil (brl)
+0.04
+14/11/2025
+rentab.invest facilcred* 8312035 crédito
+real/brasil (brl)
+0.14
+14/11/2025
+rentab.invest facilcred* 8741625 crédito
+real/brasil (brl)
+0.03
+14/11/2025
+tarifa bancaria 31125 
+max empresarial 1
+débito
+real/brasil (brl)
+-177.05
+14/11/2025
+pix qr code estatico 1838419 
+des: o . k . brazil transp 14/11
+débito
+real/brasil (brl)
+-170,000.00
+17/11/2025
+ted-transf elet dispon 7304543 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+35,514.46
+17/11/2025
+aplic.invest facil 4364163
+débito
+real/brasil (brl)
+-35,514.46
+18/11/2025
+ted-transf elet dispon 7895783 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+8,398.41
+18/11/2025
+transf cc para cc pj 3267631 
+o k brasil transportes ltd
+débito
+real/brasil (brl)
+-500.00
+18/11/2025
+transf cc para cc pj 3267017 
+o k brazil transportes e
+débito
+real/brasil (brl)
+-350.00
+18/11/2025
+transf cc para cc pj 3267310 
+o . k . brazil transportes l. lt
+débito
+real/brasil (brl)
+-300.00
+18/11/2025
+aplic.invest facil 5496102
+débito
+real/brasil (brl)
+-7,248.41
+19/11/2025
+ted-transf elet dispon 8830662 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+69,255.57
+19/11/2025
+aplic.invest facil 7076575
+débito
+real/brasil (brl)
+-69,255.57
+24/11/2025
+ted-transf elet dispon 1395874 
+remet.bracell sp celulose
+crédito
+real/brasil (brl)
+35,499.15
+24/11/2025
+aplic.invest facil 9916157
+débito
+real/brasil (brl)
+-35,499.15
+25/11/2025
+resgate invest facil 1403192
+crédito
+real/brasil (brl)
+301.76
+25/11/2025
+resgate invest facil 4364163
+crédito
+real/brasil (brl)
+35,514.46
+25/11/2025
+resgate invest facil 5496102
+crédito
+real/brasil (brl)
+7,248.41
+25/11/2025
+resgate invest facil 7076575
+crédito
+real/brasil (brl)
+69,255.57
+25/11/2025
+resgate invest facil 9916157
+crédito
+real/brasil (brl)
+34,677.65
+25/11/2025
+rentab.invest facilcred* 1403192 crédito
+real/brasil (brl)
+0.02

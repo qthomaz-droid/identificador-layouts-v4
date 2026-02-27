@@ -1,0 +1,259 @@
+ecos turismo ltda
+qe 24 bloco a loja 11 comercio local guara ii
+cep: 71060610 - brasilia - df
+tel/fax +55 (61) 3226-0214 / 3226-0215
+email: faturamento@ecos.tur.br - site www.ecos.tur.br
+cnpj 06.157.430/0001-06
+cigam | pag. 1 de 2
+fatura: 94114     emissão: 22/01/2026     vencimento: 06/02/2026
+nº fatura: 94114   vencimento: 06/02/2026
+banco .....: cc banco do brasil
+agência.:  3599-8    nº da conta.: 1155784
+cnpj.: 06.157.430/0001-06
+cnpj: 56.109.224/0001-90
+endereço..: avenida borges de medeiros 90110150
+cidade.: porto alegre  uf.:rs  bairro.: praia de belas
+fone.: 3195142111
+cliente : 002952 - invest rs - agencia de desenvolvimento do rio
+grande do sul
+total
+passageiro
+trechos
+tkt / loc
+tarifa
+taxa
+agenc. ot.txs
+pedido
+emissão
+fornecedor
+seq
+in
+out
+ribeiro/rodrigo
+gol linhas
+aereas s.a.
+poa\cgh\sdu
+2152982891
+/qmwoob
+544,60
+59,46
+0,00
+0,00
+604,06
+000114197
+06/01/26
+1
+22/01/26
+22/01/26
+aéreo         
+poa-cgh in:22/01/2026 07:35 out:22/01/2026 09:10 voo:1207                    cg
+req.:3789877
+solicitante.:anelise spohr fernandes
+centro de custo.:
+bucker/caroline
+gol linhas
+aereas s.a.
+poa\cgh\sdu
+2152982892
+/qmwoob
+544,60
+59,46
+0,00
+0,00
+604,06
+000114198
+06/01/26
+2
+22/01/26
+22/01/26
+aéreo         
+poa-cgh in:22/01/2026 07:35 out:22/01/2026 09:10 voo:1207                    cg
+req.:3789877
+solicitante.:anelise spohr fernandes
+centro de custo.:
+ribeiro/rodrigo
+latam
+airlines
+gig\poa
+2267438145
+/qmkzah
+1.174,30
+34,11
+0,00
+0,00
+1.208,41
+000114199
+06/01/26
+3
+23/01/26
+23/01/26
+aéreo         
+gig-poa in:23/01/2026 11:10 out:23/01/2026 13:15 voo:3602
+req.:3789877
+solicitante.:anelise spohr fernandes
+centro de custo.:
+bucker/caroline
+latam
+airlines
+gig\poa
+2267438146
+/qmkzah
+1.174,30
+34,11
+0,00
+0,00
+1.208,41
+000114200
+06/01/26
+4
+23/01/26
+23/01/26
+aéreo         
+gig-poa in:23/01/2026 11:10 out:23/01/2026 13:15 voo:3602
+req.:3789877
+solicitante.:anelise spohr fernandes
+centro de custo.:
+ribeiro filho/rodrigo
+wagner
+compania
+panamena de
+poa\pty\poa
+2799035704
+/k8xejx
+6.344,70
+404,58
+0,00
+0,00
+6.749,28
+000114572
+09/01/26
+5
+27/01/26
+31/01/26
+aéreo         
+poa-pty in:27/01/2026 01:45 out:27/01/2026 06:44 voo:0820                    pty
+req.:
+solicitante.:
+centro de custo.:
+lorea/eduardo
+gol linhas
+aereas s.a.
+poa\gig\cgh
+2153219412
+/dtxdxc
+2.157,70
+119,41
+0,00
+0,00
+2.277,11
+000114596
+09/01/26
+6
+22/01/26
+22/01/26
+aéreo         
+poa-gig in:22/01/2026 09:20 out:22/01/2026 11:15 voo:1985                    sdu
+req.:3800313
+solicitante.:anelise spohr fernandes
+centro de custo.:
+forest/fabricio
+latam
+airlines
+poa\gru\mad\
+dxb\fra\gru\
+2268041757
+/wajukw
+8.946,14 1.580,70
+0,00
+626,22
+11.153,06
+000114604
+09/01/26
+7
+24/01/26
+01/02/26
+aéreo         
+poa-gru in:24/01/2026 14:50 out:24/01/2026 16:40 voo:3421                    gr
+req.:3802285
+solicitante.:julia gomes da silva
+centro de custo.:
+de macedo teixeira/felipe
+latam
+airlines
+poa\gru\mad\
+dxb\fra\gru\
+2268041759
+/wajukw
+8.946,14 1.580,70
+0,00
+626,22
+11.153,06
+000114605
+09/01/26
+8
+24/01/26
+01/02/26
+aéreo         
+poa-gru in:24/01/2026 14:50 out:24/01/2026 16:40 voo:3421                    gr
+req.:3802285
+solicitante.:julia gomes da silva
+centro de custo.:
+afonso/eduardo
+gol linhas
+aereas s.a.
+cgh\poa\cgh
+2153743411
+/iaexvx
+602,70
+121,60
+0,00
+0,00
+724,30
+000115253
+16/01/26
+9
+29/01/26
+07/02/26
+aéreo         
+cgh-poa in:29/01/2026 07:00 out:29/01/2026 08:40 voo:1210                    po
+req.:3820529
+solicitante.:anelise spohr fernandes
+centro de custo.:
+30.435,18
+totais:
+3.994,13
+0,00 1.252,44
+35.681,75
+qtd. 9
+resumo centro de custo
+tarifa
+centro de custo
+taxa agenc.
+ot. txs
+total
+quantidade
+30.435,18
+3.994,13
+0,00 1.252,44
+35.681,75
+9
+resumo financeiro da fatura
+cigam | pag. 2 de 2
+fatura: 94114     emissão: 22/01/2026     vencimento: 06/02/2026
+ 30.435,18
+3.994,13
+0,00
+0,00
+0,00
+(+)total tarifas a pagar  
+(+)total taxas tributável 
+(+)total de agenciamento  
+(+)total taxa não tributável
+1.252,44
+(+)total outras taxas
+importa a presente fatura de prestação de serviços no valor a pagar a empresa,praça e vencimento acima indicados trinta e cinco mil e seiscentos e
+oitenta e um reais e setenta e cinco centavos
+total fatura: 35.681,75
+______________________________     ____/____/______
+           assinatura do cliente
+saldo a pagar: 35.681,75

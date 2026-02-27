@@ -1,0 +1,1225 @@
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+              data do p01/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [1806] - #ddm distribuidora ltda
+     200450     21/04/2022 20/05/2022   31.700,00       0,00        0,00   31.700,00 1                                                                                 no
+     200452     21/04/2022 20/05/2022    5.500,00       0,00        0,00    5.500,00 1                                                                                 no
+     220449     22/04/2022 22/05/2022   16.300,00       0,00        0,00   16.300,00 1                                                                                 no
+     18800      25/04/2022 25/05/2022   18.800,00       0,00        0,00   18.800,00 1                                                                                 no
+     260440     26/04/2022 26/05/2022    8.000,00       0,00        0,00    8.000,00 1                                                                                 no
+     fornecedor: [2131] - #fernando
+     180540     18/05/2022 17/06/2022    2.400,00       0,00        0,00    2.400,00 1                                                                                 no
+     200540     20/05/2022 19/06/2022    3.400,00       0,00        0,00    3.400,00 1                                                                                 no
+     270530     27/05/2022 26/06/2022    4.900,00       0,00        0,00    4.900,00 1                                                                                 no
+     310562     31/05/2022 30/06/2022    3.400,00       0,00        0,00    3.400,00 1                                                                                 no
+     160542     16/05/2022 15/06/2022    7.400,00       0,00        0,00    7.400,00 1                                                                                 no
+     240548     24/05/2022 23/06/2022    1.700,00       0,00        0,00    1.700,00 1                                                                                 no
+     fornecedor: [137] - #fidalgo - distribuidora de frutas e legumes fidalgo ltda
+     220443     22/04/2022 01/06/2022    1.530,00       0,00        0,00    1.530,00 1                                                                                 no
+     fornecedor: [131] - #pedra(bh)
+     020564     02/05/2022 01/06/2022      550,00       0,00        0,00      550,00 1                                                                                 no
+     090548     09/05/2022 08/06/2022    1.500,00       0,00        0,00    1.500,00 1                                                                                 no
+     fornecedor: [1967] - antonio bardim - laranja
+     4744       29/04/2022 01/06/2022   21.186,00       0,00        0,00   21.186,00 1                                                                                 no
+     fornecedor: [1311] - brito pneus ltda - comercial real de pneus
+     6643       01/02/2022 01/06/2022    1.513,00       0,00        0,00    1.513,00 5     08.01.002    manuteno                                                     no
+      observa2 pneus hlq/ 2 qxpd18
+     fornecedor: [1937] - degraus lar e construo
+     62482      09/03/2022 01/06/2022      116,00       0,00        0,00      116,00 3     06.06.001    pro labore                                                     no
+      observabrita muro casa nilda
+     fornecedor: [2015] - granjas lauvers(odair)
+     270546     27/05/2022 26/06/2022   33.785,00       0,00        0,00   33.785,00 1                                                                                 no
+     fornecedor: [174] - lacerda auto acessorios ltda
+     63110      02/05/2022 01/06/2022      320,00       0,00        0,00      320,00 1     08.01.002    manuteno                                                     no
+     fornecedor: [1853] - luna comercial ltda epp
+     44488      04/05/2022 01/06/2022      370,80       0,00        0,00      370,80 1     06.01.002    material de escritrio                                         no
+     fornecedor: [2014] - ovos mais(ivan boldt)
+     270542     27/05/2022 26/06/2022    8.700,00       0,00        0,00    8.700,00 1                                                                                 no
+     fornecedor: [349] - rg pneus ltda
+     1652       27/04/2022 27/05/2022       40,00       0,00        0,00       40,00 1     08.01.002    manuteno                                                     no
+      observapus
+     fornecedor: [1909] - soma comrcio  auto peas - pereira martins
+     nl11083    29/04/2022 01/06/2022      480,82       0,00        0,00      480,82 1     08.01.002    manuteno                                                     no
+      observad20
+     fornecedor: [2005] - wanderley ponath e outros
+     1801       27/05/2022 26/06/2022   28.100,00       0,00        0,00   28.100,00 1                                                                                 no
+                www.emcsistemas.com.br                                                                                                                                    1
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+              data do p02/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [133] - #coimbra(bh)
+     180444     18/04/2022 02/06/2022    2.600,00       0,00        0,00    2.600,00 1                                                                                 no
+     180446     18/04/2022 02/06/2022    1.000,00       0,00        0,00    1.000,00 1                                                                                 no
+     fornecedor: [161] - #otil(bh)
+     020558     02/05/2022 02/06/2022    2.600,00       0,00        0,00    2.600,00 1                                                                                 no
+     fornecedor: [1967] - antonio bardim - laranja
+     4753       02/05/2022 02/06/2022   21.769,00       0,00        0,00   21.769,00 1                                                                                 no
+     fornecedor: [2136] - caliman agricola s/a-em recuperacao judicial
+     34118      03/05/2022 02/06/2022    7.050,00       0,00        0,00    7.050,00 1                                                                                 no
+     fornecedor: [1966] - calpen penalto
+     64092      10/03/2022 02/06/2022      593,60       0,00        0,00      593,60 3     08.01.002    manuteno                                                     no
+     fornecedor: [2105] - cpa pecas automotivas ltda
+     25897      05/05/2022 02/06/2022    1.154,52       0,00        0,00    1.154,52 1     08.01.002    manuteno                                                     no
+      observaqup
+     fornecedor: [1937] - degraus lar e construo
+     62568      10/03/2022 02/06/2022    1.095,00       0,00        0,00    1.095,00 3     06.06.001    pro labore                                                     no
+      observamuro casa beto
+     62576      10/03/2022 02/06/2022       61,00       0,00        0,00       61,00 3     06.06.001    pro labore                                                     no
+      observamuro casa beto
+     fornecedor: [1610] - eletromotores soares ltda-me
+     102        05/05/2022 02/06/2022    1.367,01       0,00        0,00    1.367,01 1     20.01.001    reparos e manutenoes                                          no
+     fornecedor: [2178] - flavio de assis medina
+     nl11079    04/05/2022 02/06/2022      620,00       0,00        0,00      620,00 1     07.08.003    equipamentos individuais                                       no
+     fornecedor: [1919] - freios vale ltda
+     5290       09/05/2022 02/06/2022      200,00       0,00        0,00      200,00 1     08.01.002    manuteno                                                     no
+      observarna0j89
+     fornecedor: [1975] - penauto peas automotivas ltda
+     69287      05/05/2022 02/06/2022      266,23       0,00        0,00      266,23 1     08.01.002    manuteno                                                     no
+      observahmq0038
+     69279      05/05/2022 02/06/2022      536,91       0,00        0,00      536,91 1     08.01.002    manuteno                                                     no
+      observahmq0038
+     69247      05/05/2022 02/06/2022       54,18       0,00        0,00       54,18 1     08.01.002    manuteno                                                     no
+      observahly1377
+              data do p03/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [1884] - agropel
+     290440     30/04/2022 03/06/2022    6.640,00       0,00        0,00    2.213,33 1                                                                                 sim
+     fornecedor: [2171] - anferplas industria e comercio ltda
+     27455      06/05/2022 03/06/2022    1.821,60       0,00        0,00    1.821,60 1     18.03.001    plstico filme                                                 no
+      observabobina plast filme 162,83 kg
+     fornecedor: [1967] - antonio bardim - laranja
+     4766       03/05/2022 03/06/2022   20.900,00       0,00        0,00   20.900,00 1                                                                                 no
+                www.emcsistemas.com.br                                                                                                                                    2
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     4767       03/05/2022 03/06/2022   20.999,00       0,00        0,00   20.999,00 1                                                                                 no
+     fornecedor: [1855] - araguaia
+     040543     04/05/2022 03/06/2022    3.063,00       0,00        0,00    3.063,00 1                                                                                 no
+     fornecedor: [2105] - cpa pecas automotivas ltda
+     24799      08/04/2022 03/06/2022      495,81       0,00        0,00      495,81 2     08.01.002    manuteno                                                     no
+      observatodos carros
+     fornecedor: [1610] - eletromotores soares ltda-me
+     230318     23/03/2022 20/04/2022      412,04       0,00        0,00      412,04 1     06.07.010    manuteno em mquinas                                         no
+     fornecedor: [223] - emc sistemas ltda
+     nl11089    25/05/2022 03/06/2022      227,34       0,00        0,00      227,34 1     06.03.005    assinaturas                                                    no
+     fornecedor: [2182] - gv pneus e servicos s/a
+     135772     20/05/2022 03/06/2022    2.380,00       0,00        0,00    2.380,00 1     08.01.002    manuteno                                                     no
+      observareserva
+     fornecedor: [2122] - hortiminas
+     240406     24/04/2022 24/05/2022    7.000,00       0,00        0,00    7.000,00 1                                                                                 no
+     250448     25/04/2022 25/05/2022      400,00       0,00        0,00      400,00 1                                                                                 no
+     fornecedor: [502] - inforsis - alexandre
+     nl11090    25/05/2022 03/06/2022      329,24       0,00        0,00      329,24 1     06.03.005    assinaturas                                                    no
+     fornecedor: [174] - lacerda auto acessorios ltda
+     nl11084    03/05/2022 02/06/2022      320,00       0,00        0,00      320,00 1     08.01.002    manuteno                                                     no
+      observaqxp8d18
+     fornecedor: [1787] - loja eletrica
+     330744     06/05/2022 03/06/2022      961,14       0,00        0,00      961,14 1     20.01.001    reparos e manutenoes                                          no
+     fornecedor: [42] - paraiso da borracha
+     51033      05/05/2022 03/06/2022      340,88       0,00        0,00      340,88 1     08.01.002    manuteno                                                     no
+              data do p06/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [133] - #coimbra(bh)
+     220444     22/04/2022 06/06/2022    4.175,00       0,00        0,00    4.175,00 1                                                                                 no
+     200440     20/04/2022 06/06/2022    6.120,00       0,00        0,00    6.120,00 1                                                                                 no
+     fornecedor: [137] - #fidalgo - distribuidora de frutas e legumes fidalgo ltda
+     250443     25/04/2022 04/06/2022    1.756,00       0,00        0,00    1.756,00 1                                                                                 no
+     270430     27/04/2022 06/06/2022    2.700,00       0,00        0,00    2.700,00 1                                                                                 no
+     fornecedor: [1908] - antonio auto peas
+     39738      08/04/2022 06/06/2022      263,25       0,00        0,00      263,25 2     08.01.002    manuteno                                                     no
+      observatodos carros
+     fornecedor: [1967] - antonio bardim - laranja
+     4775       04/05/2022 04/06/2022   23.243,00       0,00        0,00   23.243,00 1                                                                                 no
+     4791       06/05/2022 06/06/2022   22.363,00       0,00        0,00   22.363,00 1                                                                                 no
+     4789       06/05/2022 06/06/2022   20.559,00       0,00        0,00   20.559,00 1                                                                                 no
+     fornecedor: [1855] - araguaia
+     060544     06/05/2022 06/06/2022      896,00       0,00        6,00      890,00 1                                                                                 no
+     fornecedor: [162] - ceasa de caratinga
+     nl11088    31/05/2022 05/06/2022    2.788,71       0,00        0,00    2.788,71 1     06.07.001    aluguel de imveis                                             no
+     fornecedor: [1919] - freios vale ltda
+                www.emcsistemas.com.br                                                                                                                                    3
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     nl11064    14/04/2022 06/06/2022    2.455,73       0,00        0,00    2.455,73 2     08.01.002    manuteno                                                     no
+     fornecedor: [179] - jrc produoes grafica
+     nl11081    09/05/2022 04/06/2022    1.100,00       0,00        0,00    1.100,00 1     05.11.001    blocos - etiquetas                                             no
+      observa30miletiquetas ovo
+     fornecedor: [2089] - ouro frutas
+     170541     17/05/2022 06/06/2022      900,00       0,00        0,00      900,00 1                                                                                 no
+     fornecedor: [1271] - recapagem pneus prata ltda
+     nl11084    04/05/2022 03/06/2022      148,00       0,00        0,00      148,00 1     08.01.002    manuteno                                                     no
+     fornecedor: [1859] - sema mat eletrico
+     61630      06/05/2022 05/06/2022      455,00       0,00        0,00      455,00 1     20.01.001    reparos e manutenoes                                          no
+      observamaquina
+     fornecedor: [1891] - verde limao
+     270435     27/04/2022 06/06/2022    1.750,00       0,00        0,00    1.750,00 1                                                                                 no
+     fornecedor: [1935] - vivo - telefone
+     nl11087    30/05/2022 05/06/2022      108,40       0,00        0,00      108,40 1     06.02.003    telefone                                                       no
+              data do p07/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [989] - #global - jequitiba comercial agricola ltda
+     270432     27/04/2022 27/05/2022    1.260,00       0,00        0,00    1.260,00 1                                                                                 no
+      observanao e deles
+     250440     25/04/2022 05/06/2022   13.460,00       0,00        0,00   13.460,00 1                                                                                 no
+     fornecedor: [1768] - #pouso alegre
+     180443     18/04/2022 18/05/2022      450,00       0,00        0,00      450,00 1                                                                                 no
+     fornecedor: [267] - -ailton carat
+     020657     02/06/2022 02/07/2022      450,00       0,00        9,00      441,00 1                                                                                 no
+     fornecedor: [1185] - -artur
+     020666     02/06/2022 02/07/2022      200,00       0,00        4,00      196,00 1                                                                                 no
+     060658     06/06/2022 06/07/2022      200,00       0,00        4,00      196,00 1                                                                                 no
+     fornecedor: [1612] - -caju
+     020659     02/06/2022 02/07/2022      715,00       0,00       14,30      700,70 1                                                                                 no
+     060655     06/06/2022 06/07/2022      750,00       0,00       15,00      735,00 1                                                                                 no
+     fornecedor: [1663] - -charles
+     060538     06/06/2022 06/07/2022      400,00       0,00        8,00      392,00 1                                                                                 no
+     fornecedor: [917] - -chiquinho caratinga
+     020652     02/06/2022 02/07/2022      300,00       0,00        6,00      294,00 1                                                                                 no
+     060643     06/06/2022 06/07/2022       75,00       0,00        1,50       73,50 1                                                                                 no
+     fornecedor: [452] - -daniel carat.
+     020656     02/06/2022 02/07/2022    1.095,00       0,00       21,90    1.073,10 1                                                                                 no
+     fornecedor: [1404] - -fabricio
+     060656     06/06/2022 06/07/2022      825,00       0,00       16,50      808,50 1                                                                                 no
+     fornecedor: [327] - -francisco carat
+     020667     02/06/2022 02/07/2022      230,00       0,00        4,60      225,40 1                                                                                 no
+     060650     06/06/2022 06/07/2022    1.356,00       0,00       27,12    1.328,88 1                                                                                 no
+     fornecedor: [1748] - -joacir
+     020668     02/06/2022 02/07/2022    8.400,00       0,00      168,00    8.232,00 1                                                                                 no
+                www.emcsistemas.com.br                                                                                                                                    4
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     060663     06/06/2022 06/07/2022    5.400,00       0,00      108,00    5.292,00 1                                                                                 no
+     fornecedor: [1528] - -pedro
+     060640     06/06/2022 06/07/2022       80,00       0,00        1,60       78,40 1                                                                                 no
+     fornecedor: [1639] - -rafael
+     060657     06/06/2022 06/07/2022      300,00       0,00        6,00      294,00 1                                                                                 no
+     fornecedor: [1714] - -renato
+     020660     02/06/2022 02/07/2022      600,00       0,00       12,00      588,00 1                                                                                 no
+     060646     06/06/2022 06/07/2022      300,00       0,00        6,00      294,00 1                                                                                 no
+     fornecedor: [1525] - -robson
+     020673     02/06/2022 02/07/2022    1.600,00       0,00       32,00    1.568,00 1                                                                                 no
+     060659     06/06/2022 06/07/2022    1.600,00       0,00       32,00    1.568,00 1                                                                                 no
+     fornecedor: [1576] - -ronilson
+     020672     02/06/2022 02/07/2022      300,00       0,00        6,00      294,00 1                                                                                 no
+     020650     02/06/2022 02/07/2022      950,00       0,00       19,00      931,00 1                                                                                 no
+     fornecedor: [1565] - -sebastiao
+     020669     02/06/2022 02/07/2022    3.600,00       0,00       72,00    3.528,00 1                                                                                 no
+     060664     06/06/2022 06/07/2022    3.600,00       0,00       72,00    3.528,00 1                                                                                 no
+     fornecedor: [1517] - -tairone
+     060668     06/06/2022 06/07/2022      150,00       0,00        3,00      147,00 1                                                                                 no
+     fornecedor: [1705] - -traira
+     020663     02/06/2022 02/07/2022      690,00       0,00       13,80      676,20 1                                                                                 no
+     060654     06/06/2022 06/07/2022    1.320,00       0,00       26,40    1.293,60 1                                                                                 no
+     fornecedor: [1741] - -wilian
+     060639     06/06/2022 06/07/2022      350,00       0,00        7,00      343,00 1                                                                                 no
+     fornecedor: [1672] - -william
+     020649     02/06/2022 02/07/2022      275,00       0,00        5,50      269,50 1                                                                                 no
+     fornecedor: [1644] - -ze maria
+     060652     06/06/2022 06/07/2022      210,00       0,00        4,20      205,80 1                                                                                 no
+     fornecedor: [443] - -ze pedro
+     020653     02/06/2022 02/07/2022      150,00       0,00        3,00      147,00 1                                                                                 no
+     060648     06/06/2022 06/07/2022      240,00       0,00        4,80      235,20 1                                                                                 no
+     fornecedor: [619] - a.p.magalhaes e cia ltda - posto
+     nl11093    16/05/2022 07/06/2022   27.433,13       0,00        0,00   27.433,13 1     08.01.003    combustvel                                                    no
+     fornecedor: [1979] - agroaves ltda
+     352361     31/05/2022 07/06/2022      153,60       0,00        0,00      153,60 1     07.03.002    vale refeio                                                  no
+      observacoxa-contracoxa 20 kg
+     fornecedor: [2061] - andre caratinga
+     060665     06/06/2022 06/07/2022      350,00       0,00        7,00      343,00 1                                                                                 no
+     fornecedor: [1967] - antonio bardim - laranja
+     4790       07/05/2022 07/06/2022   23.397,00       0,00        0,00   23.397,00 1                                                                                 no
+     fornecedor: [1311] - brito pneus ltda - comercial real de pneus
+     6774       08/04/2022 07/06/2022      566,00       0,00        0,00      566,00 3     08.01.002    manuteno                                                     no
+      observagxs1856
+     fornecedor: [2119] - chapolim
+     020647     02/06/2022 02/07/2022      200,00       0,00        4,00      196,00 1                                                                                 no
+                www.emcsistemas.com.br                                                                                                                                    5
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     060537     06/06/2022 06/07/2022      336,00       0,00        6,72      329,28 1                                                                                 no
+     fornecedor: [333] - comercial frutas do vale
+     060666     06/06/2022 06/07/2022      300,00       0,00        6,00      294,00 1                                                                                 no
+     fornecedor: [2181] - daniel mateus
+     060644     06/06/2022 06/07/2022    1.480,00       0,00       29,60    1.450,40 1                                                                                 no
+     060667     06/06/2022 06/07/2022    1.044,00       0,00       20,88    1.023,12 1                                                                                 no
+     fornecedor: [2038] - dione caratinga
+     020671     02/06/2022 02/07/2022      285,00       0,00        5,70      279,30 1                                                                                 no
+     060660     06/06/2022 06/07/2022      600,00       0,00       12,00      588,00 1                                                                                 no
+     fornecedor: [1918] - dubart com de embalagens
+     13130      03/05/2022 07/06/2022      609,60       0,00        0,00      609,60 2     18.03.001    plstico filme                                                 no
+     fornecedor: [577] - encargos sociais
+     nl11090    02/06/2022 07/06/2022    5.571,20       0,00        0,00    5.571,20 1     07.02.002    fgts                                                           no
+      observafgts gc 05/2022
+     fornecedor: [2161] - geda caratinga
+     060662     06/06/2022 06/07/2022    6.300,00       0,00      438,80    5.861,20 1                                                                                 no
+     fornecedor: [1898] - hdi seguros - vianello
+     nl11091    07/06/2022 07/06/2022    2.831,72       0,00        0,00    2.831,72 1     08.01.005    seguro                                                         no
+     nl11092    07/06/2022 07/06/2022    2.076,84       0,00        0,00    2.076,84 1     08.01.005    seguro                                                         no
+     fornecedor: [2039] - isael caratinga
+     060653     06/06/2022 06/07/2022      305,00       0,00        6,10      298,90 1                                                                                 no
+     fornecedor: [2035] - jackson caratinga
+     060651     06/06/2022 06/07/2022      775,00       0,00       15,50      759,50 1                                                                                 no
+     020658     02/06/2022 02/07/2022      450,00       0,00        9,00      441,00 1                                                                                 no
+     fornecedor: [2050] - jose eleno caratinga
+     020664     02/06/2022 02/07/2022      500,00       0,00       10,00      490,00 1                                                                                 no
+     fornecedor: [2092] - lequinho
+     020662     02/06/2022 02/07/2022      995,00       0,00       19,90      975,10 1                                                                                 no
+     060661     06/06/2022 06/07/2022    1.000,00       0,00       20,00      980,00 1                                                                                 no
+     fornecedor: [2139] - magdo caratinga
+     020654     02/06/2022 02/07/2022    2.300,00       0,00       46,00    2.254,00 1                                                                                 no
+     020655     02/06/2022 02/07/2022      575,00       0,00       11,50      563,50 1                                                                                 no
+     060649     06/06/2022 06/07/2022    3.755,00       0,00       75,10    3.679,90 1                                                                                 no
+     fornecedor: [2074] - marcelo caratinga
+     060641     06/06/2022 06/07/2022      350,00       0,00        7,00      343,00 1                                                                                 no
+     fornecedor: [2094] - maurinho caratinga (supremo)
+     060642     06/06/2022 06/07/2022    2.100,00       0,00      385,00    1.715,00 1                                                                                 no
+     020661     02/06/2022 02/07/2022    1.300,00       0,00       26,00    1.274,00 1                                                                                 no
+     fornecedor: [2056] - mazinho caratinga
+     020665     02/06/2022 02/07/2022      150,00       0,00        3,00      147,00 1                                                                                 no
+     fornecedor: [2031] - monteiro
+     020651     02/06/2022 02/07/2022    2.465,00       0,00       49,30    2.415,70 1                                                                                 no
+     060645     06/06/2022 06/07/2022    2.940,00       0,00       58,80    2.881,20 1                                                                                 no
+     fornecedor: [1991] - redux industria e comercio ltda
+     18224      10/05/2022 07/06/2022    3.490,00       0,00        0,00    3.490,00 1     08.01.003    combustvel                                                    no
+                www.emcsistemas.com.br                                                                                                                                    6
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     fornecedor: [1947] - valter
+     020648     02/06/2022 02/07/2022      800,00       0,00       16,00      784,00 1                                                                                 no
+     060647     06/06/2022 06/07/2022      300,00       0,00        6,00      294,00 1                                                                                 no
+              data do p08/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [436] - #benassi(bh)benassi minas exportacao e importacao ltda
+     090538     09/05/2022 08/06/2022    1.100,00       0,00        0,00    1.100,00 1                                                                                 no
+     fornecedor: [1884] - agropel
+     290440     30/04/2022 08/06/2022    4.426,67       0,00        0,00    2.213,33 1                                                                                 sim
+     fornecedor: [1855] - araguaia
+     090531     09/05/2022 08/06/2022      825,00       0,00        0,00      825,00 1                                                                                 no
+     fornecedor: [1966] - calpen penalto
+     64765      16/03/2022 08/06/2022      296,80       0,00        0,00      296,80 3     08.01.002    manuteno                                                     no
+      observacalpen tambro freio hmq
+     fornecedor: [1936] - central (bh)
+     090534     09/05/2022 08/06/2022    2.400,00       0,00        0,00    2.400,00 1                                                                                 no
+     fornecedor: [2105] - cpa pecas automotivas ltda
+     26188      11/05/2022 08/06/2022      520,04       0,00        0,00      520,04 1     08.01.002    manuteno                                                     no
+      observatodos os carros
+     fornecedor: [1937] - degraus lar e construo
+     32537      11/05/2022 08/06/2022      123,20       0,00        0,00      123,20 1     06.06.001    pro labore                                                     no
+     fornecedor: [2018] - dois irmos(mozinha)
+     1344       02/04/2022 02/05/2022    1.250,00       0,00        0,00    1.250,00 1                                                                                 no
+     090452     09/04/2022 09/05/2022    2.730,00       0,00        0,00    2.730,00 1                                                                                 no
+     160454     16/04/2022 16/05/2022      600,00       0,00        0,00      600,00 1                                                                                 no
+     230443     23/04/2022 23/05/2022    1.735,00       0,00        0,00    1.735,00 1                                                                                 no
+     250422     25/04/2022 25/05/2022      900,00       0,00        0,00      900,00 1                                                                                 no
+     280406     28/04/2022 28/05/2022      830,00       0,00        0,00      830,00 1                                                                                 no
+     300434     30/04/2022 30/05/2022    2.765,00       0,00        0,00    2.765,00 1                                                                                 no
+     050501     05/05/2022 04/06/2022    2.600,00       0,00        0,00    2.600,00 1                                                                                 no
+     070539     07/05/2022 06/06/2022    2.035,00       0,00        0,00    2.035,00 1                                                                                 no
+     090542     09/05/2022 08/06/2022    1.740,00       0,00        0,00    1.740,00 1                                                                                 no
+     230550     23/05/2022 22/06/2022      910,00       0,00      374,00      536,00 1                                                                                 no
+     300510     30/05/2022 29/06/2022      600,00       0,00        0,00      600,00 1                                                                                 no
+     fornecedor: [1919] - freios vale ltda
+     nl11082    16/05/2022 08/06/2022      916,97       0,00        0,00      916,97 1     08.01.002    manuteno                                                     no
+      observahmq0038-qpp9901-qup2852
+     fornecedor: [2015] - granjas lauvers(odair)
+     020628     02/06/2022 02/07/2022   29.750,00       0,00        0,00   29.750,00 1                                                                                 no
+     020628     02/06/2022 02/07/2022   32.550,00       0,00        0,00    2.800,00 1                                                                                 sim
+     fornecedor: [224] - oi fixo
+     nl11087    02/06/2022 08/06/2022       59,01       0,00        0,00       59,01 1     06.02.003    telefone                                                       no
+     fornecedor: [2014] - ovos mais(ivan boldt)
+     1661       02/06/2022 02/07/2022   14.775,00       0,00        0,00   14.775,00 1                                                                                 no
+     fornecedor: [1891] - verde limao
+                www.emcsistemas.com.br                                                                                                                                    7
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     290442     30/04/2022 08/06/2022      750,00       0,00        0,00      750,00 1                                                                                 no
+     fornecedor: [2005] - wanderley ponath e outros
+     1807       02/06/2022 02/07/2022   27.000,00       0,00        0,00   27.000,00 1                                                                                 no
+              data do p09/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [436] - #benassi(bh)benassi minas exportacao e importacao ltda
+     100545     10/05/2022 09/06/2022    1.200,00       0,00        0,00    1.200,00 1                                                                                 no
+     fornecedor: [133] - #coimbra(bh)
+     250442     25/04/2022 09/06/2022    4.595,00       0,00        0,00    4.595,00 1                                                                                 no
+     fornecedor: [164] - #selecta(bh)
+     100541     10/05/2022 09/06/2022    2.500,00       0,00        0,00    2.500,00 1                                                                                 no
+     fornecedor: [1884] - agropel
+     250444     25/04/2022 09/06/2022      500,00       0,00        0,00      500,00 1                                                                                 no
+     fornecedor: [1967] - antonio bardim - laranja
+     4816       09/05/2022 09/06/2022   20.471,00       0,00        0,00   20.471,00 1                                                                                 no
+     fornecedor: [1855] - araguaia
+     100543     10/05/2022 09/06/2022      650,00       0,00        0,00      650,00 1                                                                                 no
+     100548     10/05/2022 09/06/2022      275,00       0,00        0,00      275,00 1                                                                                 no
+     fornecedor: [2136] - caliman agricola s/a-em recuperacao judicial
+     34216      10/05/2022 09/06/2022    7.050,00       0,00        0,00    7.050,00 1                                                                                 no
+     fornecedor: [2006] - imperio do abacaxi
+     160522     16/05/2022 15/06/2022    2.000,00       0,00        0,00    2.000,00 1                                                                                 no
+     230553     23/05/2022 23/06/2022    2.000,00       0,00        0,00    2.000,00 1                                                                                 no
+     250519     25/05/2022 24/06/2022    1.200,00       0,00        0,00    1.200,00 1                                                                                 no
+     300553     30/05/2022 29/06/2022      800,00       0,00      120,00      680,00 1                                                                                 no
+     fornecedor: [109] - jose marcio ponto dos volantes
+     310558     31/05/2022 30/06/2022   13.546,00       0,00        0,00   13.546,00 1                                                                                 no
+     fornecedor: [1906] - ls molas
+     2626       28/03/2022 09/06/2022    3.129,33       0,00        0,00    3.129,33 3     08.01.002    manuteno                                                     no
+      observahlq/hkh
+     fornecedor: [1853] - luna comercial ltda epp
+     44550      12/05/2022 09/06/2022      299,00       0,00        0,00      299,00 1     06.01.002    material de escritrio                                         no
+     fornecedor: [1987] - paulinho alinhamento - eireli
+     122        25/05/2022 09/06/2022      700,00       0,00        0,00      700,00 1     08.01.002    manuteno                                                     no
+      observaqpp9901/hlq2403/qup2852
+              data do p10/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [2097] - #celino
+     240549     24/05/2022 23/06/2022    1.950,00       0,00        0,00    1.950,00 1                                                                                 no
+     270532     27/05/2022 26/06/2022    2.600,00       0,00        0,00    2.600,00 1                                                                                 no
+     fornecedor: [131] - #pedra(bh)
+     030656     03/06/2022 03/07/2022    1.400,00       0,00        0,00    1.400,00 1                                                                                 no
+     fornecedor: [2171] - anferplas industria e comercio ltda
+     27455      06/05/2022 10/06/2022    1.821,21       0,00        0,00    1.821,21 2     18.03.001    plstico filme                                                 no
+                www.emcsistemas.com.br                                                                                                                                    8
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+      observabobina plast filme 162,83 kg
+     fornecedor: [1967] - antonio bardim - laranja
+     4818       10/05/2022 10/06/2022   20.966,00       0,00        0,00   20.966,00 1                                                                                 no
+     fornecedor: [1431] - apm - assoc. de protecao a motos e veiculos
+     nl11092    06/06/2022 10/06/2022      303,04       0,00        0,00      303,04 1     08.01.005    seguro                                                         no
+     fornecedor: [574] - carregador e embalador
+     4654154    10/06/2022 10/06/2022      855,00       0,00        0,00      855,00 1     19.01.001    carregador                                                     no
+      observa455 vol + 400,00 carga
+     fornecedor: [185] - eficaz seguranca eletronica
+     nl10929    02/01/2022 10/06/2022      191,00       0,00        0,00      191,00 6     06.03.001    segurana e                                                    no
+      observajk 730
+     3415       20/05/2022 10/06/2022      131,00       0,00        0,00      131,00 1     06.03.001    segurana e                                                    no
+      observaservio de prota resposta em alarme 24h
+     fornecedor: [1919] - freios vale ltda
+     55245      12/05/2022 10/06/2022    1.088,24       0,00        0,00    1.088,24 1     08.01.002    manuteno                                                     no
+      observahlq2403-hmq0038
+     fornecedor: [1983] - geraldo de oliveira silva
+     nl11040    04/04/2022 10/06/2022      500,00       0,00        0,00      500,00 3     06.04.002    manuteno e suporte                                           no
+     fornecedor: [580] - impostos
+     100644     10/06/2022 10/06/2022      368,69       0,00        0,00      368,69 1     06.11.001    dae                                                            no
+     fornecedor: [1278] - jj ruralista
+     nl11090    06/06/2022 10/06/2022      125,00       0,00        0,00      125,00 1     06.06.001    pro labore                                                     no
+     fornecedor: [1418] - mineiro -laranjal
+     300501     30/05/2022 29/06/2022   21.408,09       0,00        0,00   21.408,09 1                                                                                 no
+     310502     31/05/2022 30/06/2022   22.353,67       0,00        0,00   22.353,67 1                                                                                 no
+     070604     07/06/2022 07/07/2022   19.423,77       0,00        0,00   19.423,77 1                                                                                 no
+     fornecedor: [583] - multas
+     nl11094    10/06/2022 10/06/2022      132,80       0,00        0,00      132,80 1     08.01.007    multas                                                         no
+      observavelocidade laerte
+     nl11095    10/06/2022 10/06/2022      132,80       0,00        0,00      132,80 1     08.01.007    multas                                                         no
+      observavelocidade laerte 
+     nl11096    10/06/2022 10/06/2022      131,46       0,00        0,00      131,46 1     08.01.007    multas                                                         no
+      observavelocidade laerte qqg6103
+     fornecedor: [1271] - recapagem pneus prata ltda
+     nl11083    11/05/2022 10/06/2022      840,00       0,00        0,00      840,00 1     08.01.002    manuteno                                                     no
+     fornecedor: [349] - rg pneus ltda
+     79336      12/03/2022 10/06/2022    1.786,67       0,00        0,00    1.786,67 4     08.01.002    manuteno                                                     no
+      observa4 pneus hmq
+     fornecedor: [571] - salarios
+     nl11100    10/06/2022 10/06/2022    4.189,00       0,00        0,00    4.189,00 1     07.01.002    salrios                                                       no
+      observach 8044 - pagto elias
+     fornecedor: [1972] - supranet telecom
+     nl11088    02/06/2022 10/06/2022       89,90       0,00        0,00       89,90 1     06.06.001    pro labore                                                     no
+     fornecedor: [273] - terra netwotks brasil s/a
+     nl11091    06/06/2022 10/06/2022      114,04       0,00        0,00      114,04 1     06.03.005    assinaturas                                                    no
+                www.emcsistemas.com.br                                                                                                                                    9
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+              data do p13/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [133] - #coimbra(bh)
+     290441     30/04/2022 13/06/2022    1.950,00       0,00        0,00    1.950,00 1                                                                                 no
+     270431     27/04/2022 13/06/2022    5.045,00       0,00        0,00    5.045,00 1                                                                                 no
+     fornecedor: [1913] - #d.mamao
+     270436     27/04/2022 11/06/2022      900,00       0,00        0,00      900,00 1                                                                                 no
+     fornecedor: [137] - #fidalgo - distribuidora de frutas e legumes fidalgo ltda
+     020554     02/05/2022 11/06/2022      330,00       0,00        0,00      330,00 1                                                                                 no
+     040544     04/05/2022 13/06/2022    2.290,00       0,00        0,00    2.290,00 1                                                                                 no
+     fornecedor: [989] - #global - jequitiba comercial agricola ltda
+     030541     03/05/2022 12/06/2022    1.700,00       0,00        0,00    1.700,00 1                                                                                 no
+     020550     02/05/2022 12/06/2022    5.100,00       0,00        0,00    5.100,00 1                                                                                 no
+     020552     02/05/2022 12/06/2022    1.900,00       0,00        0,00    1.900,00 1                                                                                 no
+     fornecedor: [1884] - agropel
+     290440     30/04/2022 13/06/2022    2.213,34       0,00        0,00    2.213,34 1                                                                                 no
+     030540     03/05/2022 12/06/2022    4.400,00       0,00        0,00    2.200,00 1                                                                                 sim
+     fornecedor: [1967] - antonio bardim - laranja
+     4831       11/05/2022 11/06/2022   21.912,00       0,00        0,00   21.912,00 1                                                                                 no
+     4842       12/05/2022 12/06/2022   23.199,00       0,00        0,00   23.199,00 1                                                                                 no
+     4848       13/05/2022 13/06/2022   21.659,00       0,00        0,00   21.659,00 1                                                                                 no
+     fornecedor: [1855] - araguaia
+     130552     13/05/2022 13/06/2022    7.865,00       0,00        0,00    7.865,00 1                                                                                 no
+     fornecedor: [1973] - banco volvo
+     nl8126     13/08/2019 12/06/2022    6.875,98       0,00        0,00    6.875,98 31    08.01.008    compra de veculo                                              no
+      observaqup 2852
+     fornecedor: [2125] - c & r revenda de petroleo ltda
+     11286      23/05/2022 12/06/2022    4.785,39       0,00        0,00    4.785,39 1     08.01.003    combustvel                                                    no
+      observahkh2452/qxp8d18
+     fornecedor: [407] - cemig  distribuicaos s.a
+     nl11090    01/06/2022 13/06/2022    3.326,54       0,00        0,00    3.326,54 1     06.02.002    energia eltrica                                               no
+      observapelotas
+     fornecedor: [249] - copasa
+     nl11087    25/05/2022 12/06/2022       55,43       0,00        0,00       55,43 1     06.06.001    pro labore                                                     no
+      observacasa nilda
+     fornecedor: [2182] - gv pneus e servicos s/a
+     135380     16/05/2022 13/06/2022    3.020,00       0,00        0,00    3.020,00 1     08.01.002    manuteno                                                     no
+      observa6 pneus reserva
+     fornecedor: [1906] - ls molas
+     2684       26/04/2022 11/06/2022    2.348,50       0,00        0,00    2.348,50 2     08.01.002    manuteno                                                     no
+      observahlq/qpp
+     fornecedor: [1271] - recapagem pneus prata ltda
+     190711     13/04/2022 12/06/2022    1.297,00       0,00        0,00    1.297,00 2     08.01.002    manuteno                                                     no
+     fornecedor: [349] - rg pneus ltda
+     79346      14/03/2022 12/06/2022      893,33       0,00        0,00      893,33 3     08.01.002    manuteno                                                     no
+                www.emcsistemas.com.br                                                                                                                                   10
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+      observa1 pneus hmq
+     fornecedor: [2007] - vinicius sabino
+     020522     02/05/2022 01/06/2022    1.050,00       0,00        0,00    1.050,00 1                                                                                 no
+     050512     05/05/2022 04/06/2022    1.050,00       0,00        0,00    1.050,00 1                                                                                 no
+     090507     09/05/2022 08/06/2022    1.050,00       0,00        0,00    1.050,00 1                                                                                 no
+     120559     12/05/2022 11/06/2022    1.050,00       0,00        0,00    1.050,00 1                                                                                 no
+     160544     16/05/2022 15/06/2022      900,00       0,00        0,00      900,00 1                                                                                 no
+     190543     19/05/2022 18/06/2022    1.050,00       0,00        0,00    1.050,00 1                                                                                 no
+     300506     30/05/2022 29/06/2022      940,00       0,00      141,80      798,20 1                                                                                 no
+     fornecedor: [1935] - vivo - telefone
+     nl11092    01/06/2022 13/06/2022       61,47       0,00        0,00       61,47 1     06.02.003    telefone                                                       no
+      observafixo
+              data do p14/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [619] - a.p.magalhaes e cia ltda - posto
+     nl11095    25/05/2022 14/06/2022   30.250,18       0,00        0,00   30.250,18 1     08.01.003    combustvel                                                    no
+     fornecedor: [1967] - antonio bardim - laranja
+     4861       14/05/2022 14/06/2022   21.868,00       0,00        0,00   21.868,00 1                                                                                 no
+     fornecedor: [898] - cip e quality - desinsetizacao
+     6974       07/06/2022 14/06/2022      330,00       0,00        0,00      330,00 1     06.03.005    assinaturas                                                    no
+     fornecedor: [583] - multas
+     140622     14/06/2022 14/06/2022      104,13       0,00        0,00      104,13 1     08.01.007    multas                                                         no
+      observalaerte troca merc valente
+     fornecedor: [798] - oi celular
+     nl11089    02/06/2022 14/06/2022      243,45       0,00        0,00      243,45 1     06.02.003    telefone                                                       no
+              data do p15/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [1185] - -artur
+     080671     08/06/2022 08/07/2022      470,00       0,00        0,00      470,00 1                                                                                 no
+     120656     12/06/2022 12/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     fornecedor: [1612] - -caju
+     080672     08/06/2022 08/07/2022      365,00       0,00        0,00      365,00 1                                                                                 no
+     120651     12/06/2022 12/07/2022      250,00       0,00        0,00      250,00 1                                                                                 no
+     fornecedor: [1663] - -charles
+     080662     08/06/2022 08/07/2022      520,00       0,00        0,00      520,00 1                                                                                 no
+     080685     08/06/2022 08/07/2022    1.090,00       0,00        0,00    1.090,00 1                                                                                 no
+     120636     12/06/2022 12/07/2022      495,00       0,00        0,00      495,00 1                                                                                 no
+     fornecedor: [917] - -chiquinho caratinga
+     080663     08/06/2022 08/07/2022      150,00       0,00        0,00      150,00 1                                                                                 no
+     120640     12/06/2022 12/07/2022      100,00       0,00        0,00      100,00 1                                                                                 no
+     fornecedor: [452] - -daniel carat.
+     080678     08/06/2022 08/07/2022    1.400,00       0,00        0,00    1.400,00 1                                                                                 no
+     080679     08/06/2022 08/07/2022      880,00       0,00        0,00      880,00 1                                                                                 no
+     120661     12/06/2022 12/07/2022      170,00       0,00        0,00      170,00 1                                                                                 no
+     fornecedor: [2138] - -deivinho
+                www.emcsistemas.com.br                                                                                                                                   11
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     080661     08/06/2022 08/07/2022      175,00       0,00        0,00      175,00 1                                                                                 no
+     fornecedor: [1404] - -fabricio
+     120653     12/06/2022 12/07/2022      450,00       0,00        0,00      450,00 1                                                                                 no
+     fornecedor: [327] - -francisco carat
+     080676     08/06/2022 08/07/2022      220,00       0,00        0,00      220,00 1                                                                                 no
+     120647     12/06/2022 12/07/2022    1.570,00       0,00        0,00    1.570,00 1                                                                                 no
+     fornecedor: [1639] - -rafael
+     120654     12/06/2022 12/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     fornecedor: [1714] - -renato
+     120651     12/06/2022 12/07/2022      350,00       0,00        0,00      350,00 1                                                                                 no
+     080669     08/06/2022 08/07/2022    1.120,00       0,00        0,00    1.120,00 1                                                                                 no
+     fornecedor: [1525] - -robson
+     080674     08/06/2022 08/07/2022    1.600,00       0,00        0,00    1.600,00 1                                                                                 no
+     120656     12/06/2022 12/07/2022    2.450,00       0,00        0,00    2.450,00 1                                                                                 no
+     fornecedor: [1565] - -sebastiao
+     120658     12/06/2022 12/07/2022    4.000,00       0,00        0,00    4.000,00 1                                                                                 no
+     fornecedor: [1705] - -traira
+     120652     12/06/2022 12/07/2022      660,00       0,00        0,00      660,00 1                                                                                 no
+     fornecedor: [1644] - -ze maria
+     120649     12/06/2022 12/07/2022      175,00       0,00        0,00      175,00 1                                                                                 no
+     fornecedor: [1527] - -ze paulo
+     080680     08/06/2022 08/07/2022      150,00       0,00        0,00      150,00 1                                                                                 no
+     fornecedor: [443] - -ze pedro
+     080666     08/06/2022 08/07/2022      250,00       0,00        0,00      250,00 1                                                                                 no
+     120644     12/06/2022 12/07/2022      300,00       0,00        0,00      300,00 1                                                                                 no
+     fornecedor: [2061] - andre caratinga
+     120641     12/06/2022 12/07/2022    1.155,00       0,00        0,00    1.155,00 1                                                                                 no
+     fornecedor: [2119] - chapolim
+     080660     08/06/2022 08/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     120635     12/06/2022 12/07/2022      280,00       0,00        0,00      280,00 1                                                                                 no
+     fornecedor: [2181] - daniel mateus
+     120646     12/06/2022 12/07/2022      995,00       0,00        0,00      995,00 1                                                                                 no
+     fornecedor: [2038] - dione caratinga
+     080682     08/06/2022 08/07/2022      220,00       0,00        0,00      220,00 1                                                                                 no
+     120650     12/06/2022 12/07/2022      600,00       0,00        0,00      600,00 1                                                                                 no
+     fornecedor: [2015] - granjas lauvers(odair)
+     090644     09/06/2022 15/07/2022   35.550,00       0,00        0,00   35.550,00 1                                                                                 no
+     fornecedor: [579] - honorarios
+     nl11095    01/06/2022 15/06/2022      800,00       0,00        0,00      800,00 1     06.03.003    honorrios advocatcios                                        no
+     fornecedor: [2035] - jackson caratinga
+     080667     08/06/2022 08/07/2022      600,00       0,00        0,00      600,00 1                                                                                 no
+     120648     12/06/2022 12/07/2022      350,00       0,00        0,00      350,00 1                                                                                 no
+     fornecedor: [2092] - lequinho
+     080675     08/06/2022 08/07/2022      880,00       0,00        0,00      880,00 1                                                                                 no
+     120642     12/06/2022 12/07/2022    1.900,00       0,00        0,00    1.900,00 1                                                                                 no
+                www.emcsistemas.com.br                                                                                                                                   12
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     fornecedor: [2139] - magdo caratinga
+     080683     08/06/2022 08/07/2022    2.850,00       0,00        0,00    2.850,00 1                                                                                 no
+     120645     12/06/2022 12/07/2022    1.700,00       0,00        0,00    1.700,00 1                                                                                 no
+     fornecedor: [2094] - maurinho caratinga (supremo)
+     080668     08/06/2022 08/07/2022      700,00       0,00        0,00      700,00 1                                                                                 no
+     120639     12/06/2022 12/07/2022    4.200,00       0,00        0,00    4.200,00 1                                                                                 no
+     fornecedor: [2056] - mazinho caratinga
+     080673     08/06/2022 08/07/2022      280,00       0,00        0,00      280,00 1                                                                                 no
+     fornecedor: [2031] - monteiro
+     080664     08/06/2022 08/07/2022    2.250,00       0,00        0,00    2.250,00 1                                                                                 no
+     120638     12/06/2022 12/07/2022    2.490,00       0,00        0,00    2.490,00 1                                                                                 no
+     fornecedor: [2014] - ovos mais(ivan boldt)
+     090611     09/06/2022 15/07/2022   15.550,00       0,00        0,00   15.550,00 1                                                                                 no
+     fornecedor: [1271] - recapagem pneus prata ltda
+     110        17/03/2022 15/06/2022      510,00       0,00        0,00      510,00 1     06.01.004    peas oficina                                                  no
+      observarestante do boleto - correto  1677,00
+     fornecedor: [1287] - sem parar - pedagio sao paulo
+     nl11091    10/06/2022 15/06/2022    4.437,34       0,00        0,00    4.437,34 1     08.01.006    pedgio                                                        no
+     fornecedor: [1947] - valter
+     080665     08/06/2022 08/07/2022    1.450,00       0,00        0,00    1.450,00 1                                                                                 no
+     120643     12/06/2022 12/07/2022      450,00       0,00        0,00      450,00 1                                                                                 no
+     fornecedor: [1891] - verde limao
+     060540     06/05/2022 15/06/2022    1.200,00       0,00        0,00    1.200,00 1                                                                                 no
+     fornecedor: [2005] - wanderley ponath e outros
+     090688     09/06/2022 15/07/2022   24.000,00       0,00        0,00   24.000,00 1                                                                                 no
+              data do p16/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [2128] - minas frutas
+     010608     01/06/2022 01/07/2022       45,00       0,00        0,00       45,00 1                                                                                 no
+     090610     09/06/2022 09/07/2022       90,00       0,00        0,00       90,00 1                                                                                 no
+     fornecedor: [2065] - vitoria minas
+     060416     06/04/2022 06/05/2022      630,00       0,00        0,00      630,00 1                                                                                 no
+     070414     07/04/2022 07/05/2022       84,00       0,00        0,00       84,00 1                                                                                 no
+     060614     06/06/2022 06/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     130613     13/06/2022 13/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     160612     16/06/2022 16/07/2022      255,00       0,00        0,00      255,00 1                                                                                 no
+              data do p17/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [133] - #coimbra(bh)
+     030542     03/05/2022 17/06/2022    2.100,00       0,00        0,00    2.100,00 1                                                                                 no
+     030544     03/05/2022 17/06/2022    1.275,00       0,00        0,00    1.275,00 1                                                                                 no
+     020553     02/05/2022 16/06/2022    3.246,00       0,00        0,00    3.246,00 1                                                                                 no
+     fornecedor: [1913] - #d.mamao
+     020555     02/05/2022 16/06/2022      650,00       0,00       50,00      600,00 1                                                                                 no
+     fornecedor: [989] - #global - jequitiba comercial agricola ltda
+                www.emcsistemas.com.br                                                                                                                                   13
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     060541     06/05/2022 16/06/2022      750,00       0,00        0,00      750,00 1                                                                                 no
+     060548     06/05/2022 16/06/2022    1.100,00       0,00        0,00    1.100,00 1                                                                                 no
+     fornecedor: [171] - #taurus(bh)
+     060549     06/05/2022 15/06/2022    2.800,00       0,00        0,00    2.800,00 1                                                                                 no
+     fornecedor: [1979] - agroaves ltda
+     353736     08/06/2022 15/06/2022      153,60       0,00        0,00      153,60 1     07.03.002    vale refeio                                                  no
+     fornecedor: [1884] - agropel
+     040542     04/05/2022 16/06/2022    2.640,00       0,00        0,00    2.640,00 1                                                                                 no
+     030540     03/05/2022 17/06/2022    2.200,00       0,00        0,00    2.200,00 1                                                                                 no
+     fornecedor: [1967] - antonio bardim - laranja
+     4882       17/05/2022 17/06/2022   20.181,00       0,00        0,00   20.181,00 1                                                                                 no
+     4881       17/05/2022 17/06/2022   22.045,50       0,00        0,00   22.045,50 1                                                                                 no
+     fornecedor: [1855] - araguaia
+     180547     18/05/2022 17/06/2022      630,00       0,00        0,00      630,00 1                                                                                 no
+     160541     16/05/2022 15/06/2022      550,00       0,00        0,00      550,00 1                                                                                 no
+     fornecedor: [2136] - caliman agricola s/a-em recuperacao judicial
+     34303      17/05/2022 16/06/2022    5.100,00       0,00        0,00    5.100,00 1                                                                                 no
+     fornecedor: [1966] - calpen penalto
+     65744      25/03/2022 17/06/2022      303,02       0,00        0,00      303,02 3     08.01.002    manuteno                                                     no
+      observatambor freio hmq
+     fornecedor: [407] - cemig  distribuicaos s.a
+     nl11091    01/06/2022 17/06/2022    2.389,91       0,00        0,00    2.389,91 1     06.02.002    energia eltrica                                               no
+      observajk 720
+     nl11093    01/06/2022 17/06/2022      779,23       0,00        0,00      779,23 1     06.02.002    energia eltrica                                               no
+      observaescritrio casa
+     nl11085    20/05/2022 17/06/2022      523,98       0,00        0,00      523,98 1     06.06.001    pro labore                                                     no
+     nl11092    01/06/2022 17/06/2022      242,97       0,00        0,00      242,97 1     06.06.001    pro labore                                                     no
+      observacasa nilda
+     fornecedor: [1302] - claro internet
+     nl11091    10/06/2022 15/06/2022      187,48       0,00        0,00      187,48 1     06.02.004    internet                                                       no
+      observacasa
+     fornecedor: [2019] - fundacao sao francisco xavier
+     nl11085    27/05/2022 15/06/2022    3.153,18       0,00        0,00    3.153,18 1     07.03.003    plano de sade                                                 no
+      observamensalidade comercio
+     nl11084    27/05/2022 15/06/2022    2.631,60       0,00        0,00    2.631,60 1     07.03.003    plano de sade                                                 no
+      observamensalidade motorista
+     nl11083    27/05/2022 15/06/2022      726,49       0,00        0,00      726,49 1     07.03.003    plano de sade                                                 no
+      observacooparticipao motorista
+     nl11086    27/05/2022 15/06/2022      668,74       0,00        0,00      668,74 1     07.03.003    plano de sade                                                 no
+      observacooparticipao comercio
+     fornecedor: [2149] - giganet servicos de internet ltda
+     nl11098    06/06/2022 15/06/2022       99,90       0,00        0,00       99,90 1     06.02.004    internet                                                       no
+     fornecedor: [2182] - gv pneus e servicos s/a
+     135772     20/05/2022 17/06/2022    2.380,00       0,00        0,00    2.380,00 2     08.01.002    manuteno                                                     no
+      observareserva
+     fornecedor: [174] - lacerda auto acessorios ltda
+                www.emcsistemas.com.br                                                                                                                                   14
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     33327      16/05/2022 15/06/2022      197,60       0,00        0,00      197,60 1     08.01.002    manuteno                                                     no
+      observahhz1542
+     fornecedor: [1906] - ls molas
+     277        25/05/2022 15/06/2022      300,00       0,00        0,00      300,00 1     08.01.002    manuteno                                                     no
+      observasolda rna
+     fornecedor: [1975] - penauto peas automotivas ltda
+     68148      22/04/2022 17/06/2022    1.283,33       0,00        0,00    1.283,33 2     08.01.002    manuteno                                                     no
+      observaqpp9901
+     70561      18/05/2022 15/06/2022      170,00       0,00        0,00      170,00 1     08.01.002    manuteno                                                     no
+      observagxs1856
+     fornecedor: [1817] - protvao-associaao beneficios do vale do ao
+     nl10580    06/09/2021 15/06/2022       85,00       0,00        0,00       85,00 9     08.01.005    seguro                                                         no
+      observaseguro rns6b60
+     fornecedor: [1271] - recapagem pneus prata ltda
+     nl11086    18/05/2022 17/06/2022    1.101,00       0,00        0,00    1.101,00 1     08.01.002    manuteno                                                     no
+     fornecedor: [349] - rg pneus ltda
+     80033      18/04/2022 17/06/2022    3.420,00       0,00        0,00    3.420,00 3     08.01.002    manuteno                                                     no
+      observa6 pneus
+     fornecedor: [1894] - samaj embalagens ltda  - e.santo
+     nl11093    09/06/2022 16/06/2022    3.450,00       0,00        0,00    3.450,00 1     18.03.002    crivo/polpa para ovos                                          no
+      observatampa de crivo 500und
+     fornecedor: [1789] - serasa experian
+     nl11094    06/06/2022 15/06/2022      212,81       0,00        0,00      212,81 1     06.03.005    assinaturas                                                    no
+     fornecedor: [1998] - ticket log - carto abastecimento
+     80526      01/06/2022 15/06/2022   41.372,41       0,00        0,00   41.372,41 1     08.01.003    combustvel                                                    no
+     fornecedor: [1706] - unisat rastreamento ipatinga
+     nl11092    10/06/2022 15/06/2022      683,44       0,00        0,00      683,44 1     08.01.005    seguro                                                         no
+     fornecedor: [2060] - verduras nonato
+     270505     27/05/2022 26/06/2022    1.200,00       0,00        0,00    1.200,00 1                                                                                 no
+     010622     01/06/2022 01/07/2022      945,00       0,00        0,00      945,00 1                                                                                 no
+     fornecedor: [1935] - vivo - telefone
+     nl11091    01/06/2022 17/06/2022      594,34       0,00        0,00      594,34 1     06.02.003    telefone                                                       no
+      observaconta celular
+              data do p20/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [436] - #benassi(bh)benassi minas exportacao e importacao ltda
+     200547     20/05/2022 19/06/2022    1.800,00       0,00        0,00    1.800,00 1                                                                                 no
+     fornecedor: [133] - #coimbra(bh)
+     060546     06/05/2022 20/06/2022      675,00       0,00        0,00      675,00 1                                                                                 no
+     040545     04/05/2022 20/06/2022    2.650,00       0,00      150,00    2.500,00 1                                                                                 no
+     fornecedor: [989] - #global - jequitiba comercial agricola ltda
+     090532     09/05/2022 19/06/2022   10.300,00       0,00        0,00   10.300,00 1                                                                                 no
+     fornecedor: [161] - #otil(bh)
+     200543     20/05/2022 20/06/2022    2.100,00       0,00        0,00    2.100,00 1                                                                                 no
+     fornecedor: [171] - #taurus(bh)
+                www.emcsistemas.com.br                                                                                                                                   15
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     110511     11/05/2022 20/06/2022      600,00       0,00        0,00      600,00 1                                                                                 no
+     fornecedor: [1498] - -dinei melancia
+     85256      09/05/2022 08/06/2022    1.360,00       0,00        0,00    1.360,00 1                                                                                 no
+     80395      11/05/2022 10/06/2022      480,00       0,00        0,00      480,00 1                                                                                 no
+     80394      11/05/2022 10/06/2022      320,00       0,00        0,00      320,00 1                                                                                 no
+     85505      16/05/2022 15/06/2022      640,00       0,00        0,00      640,00 1                                                                                 no
+     87808      18/05/2022 17/06/2022      650,00       0,00        0,00      650,00 1                                                                                 no
+     87828      18/05/2022 17/06/2022    1.395,00       0,00        0,00    1.395,00 1                                                                                 no
+     85593      23/05/2022 22/06/2022       86,80       0,00        0,00       86,80 1                                                                                 no
+     12352      27/04/2022 27/05/2022    1.400,00       0,00        0,00    1.400,00 1                                                                                 no
+     12572      25/05/2022 24/06/2022      656,50       0,00        0,00      656,50 1                                                                                 no
+     87821      01/06/2022 01/07/2022    1.046,50       0,00        0,00    1.046,50 1                                                                                 no
+     86881      04/06/2022 04/07/2022      183,40       0,00        0,00      183,40 1                                                                                 no
+     86918      06/06/2022 06/07/2022      992,60       0,00        0,00      992,60 1                                                                                 no
+     84714      02/05/2022 01/06/2022      840,00       0,00        0,00      840,00 1                                                                                 no
+     84794      04/05/2022 03/06/2022      260,00       0,00        0,00      260,00 1                                                                                 no
+     85943      23/05/2022 22/06/2022      520,00       0,00        0,00      520,00 1                                                                                 no
+     85834      30/05/2022 29/06/2022      143,00       0,00        0,00      143,00 1                                                                                 no
+     fornecedor: [592] - adiantamento salario
+     nl11096    20/06/2022 20/07/2022      500,00       0,00        0,00      500,00 1     07.01.006    adiantamento                                                   no
+      observavale rodrigo
+     fornecedor: [1884] - agropel
+     020551     02/05/2022 18/06/2022    2.640,00       0,00        0,00    2.640,00 1                                                                                 no
+     fornecedor: [1967] - antonio bardim - laranja
+     4906       18/05/2022 20/06/2022   18.711,00       0,00        0,00   18.711,00 1                                                                                 no
+     fornecedor: [1311] - brito pneus ltda - comercial real de pneus
+     6589       21/12/2021 19/06/2022    1.631,00       0,00        0,00    1.631,00 7     08.01.002    manuteno                                                     no
+      observa2 reserva/2 rna/2hkh
+     fornecedor: [2125] - c & r revenda de petroleo ltda
+     11299      30/05/2022 19/06/2022      877,62       0,00        0,00      877,62 1     08.01.003    combustvel                                                    no
+      observahkh2452
+     fornecedor: [2025] - diney-melancia
+     86966      28/05/2022 27/06/2022      104,00       0,00        0,00      104,00 1                                                                                 no
+     fornecedor: [577] - encargos sociais
+     nl11103    13/06/2022 20/06/2022    4.158,36       0,00        0,00    4.158,36 1     07.02.001    inss                                                           no
+      observainss sl 05/2022
+     nl11104    13/06/2022 20/06/2022      375,72       0,00        0,00      375,72 1     07.02.001    inss                                                           no
+      observainss hjk
+     nl11091    02/06/2022 20/06/2022    4.942,38       0,00        0,00    4.942,38 1     07.02.001    inss                                                           no
+      observainss gc 05/2022
+     fornecedor: [1919] - freios vale ltda
+     nl11081    17/05/2022 20/06/2022      463,84       0,00        0,00      463,84 1     08.01.002    manuteno                                                     no
+      observaqxp8d18/ hhz1542
+     fornecedor: [2019] - fundacao sao francisco xavier
+     nl11091    09/06/2022 20/06/2022      135,59       0,00        0,00      135,59 1     06.06.001    pro labore                                                     no
+      observacooparticipaao
+     nl11092    09/06/2022 20/06/2022      101,70       0,00        0,00      101,70 1     06.06.001    pro labore                                                     no
+                www.emcsistemas.com.br                                                                                                                                   16
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+      observadental
+     nl11093    09/06/2022 20/06/2022    1.064,85       0,00        0,00    1.064,85 1     06.06.001    pro labore                                                     no
+      observamensalidade
+     fornecedor: [580] - impostos
+     nl11093    02/06/2022 20/06/2022      130,61       0,00        0,00      130,61 1     10.01.003    irpj                                                           no
+      observairrf roberto
+     nl11087    07/06/2022 20/06/2022   12.207,48       0,00        0,00   12.207,48 1     05.06.001    simples nacional                                               no
+      observadas 20/06
+     nl11092    02/06/2022 20/06/2022      240,63       0,00        0,00      240,63 1     06.08.006    ir retido na fonte                                             no
+      observairrf func 05/2022
+     fornecedor: [109] - jose marcio ponto dos volantes
+     100656     10/06/2022 10/07/2022   12.892,00       0,00        0,00   12.892,00 1                                                                                 no
+     fornecedor: [1975] - penauto peas automotivas ltda
+     70858      23/05/2022 20/06/2022      152,46       0,00        0,00      152,46 1     08.01.002    manuteno                                                     no
+      observagxs1856
+     70832      23/05/2022 20/06/2022      411,05       0,00        0,00      411,05 1     08.01.002    manuteno                                                     no
+      observahmq0038
+     68406      25/04/2022 20/06/2022      324,11       0,00        0,00      324,11 2     08.01.002    manuteno                                                     no
+      observaqpp9901
+     fornecedor: [1817] - protvao-associaao beneficios do vale do ao
+     nl10311    27/05/2021 20/06/2022      260,00       0,00        0,00      260,00 11    06.06.001    pro labore                                                     no
+     nl10975    07/01/2022 20/06/2022      160,00       0,00        0,00      160,00 3     08.01.005    seguro                                                         no
+      observapus4079
+     nl10185    16/04/2021 20/06/2022       85,00       0,00        0,00       85,00 12    08.01.005    seguro                                                         no
+     fornecedor: [1271] - recapagem pneus prata ltda
+     190899     20/04/2022 19/06/2022      856,00       0,00        0,00      856,00 2     08.01.002    manuteno                                                     no
+     61198      22/03/2022 20/06/2022      866,00       0,00        0,00      866,00 3     08.01.002    manuteno                                                     no
+      observahmq0038
+     fornecedor: [1313] - santonely panificados eireli - premialy padaria
+     nl11087    06/06/2022 20/06/2022      804,63       0,00        0,00      804,63 1     07.03.004    lanches                                                        no
+     fornecedor: [1891] - verde limao
+     090535     09/05/2022 18/06/2022    2.000,00       0,00        0,00    2.000,00 1                                                                                 no
+              data do p21/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [1993] - #cleidimar vieira rodrigues - sacaria bh
+     280421     28/04/2022 28/05/2022    1.160,00       0,00        0,00    1.160,00 1     18.02.002    sacaria                                                        no
+     1205121    12/05/2022 11/06/2022    4.080,00       0,00        0,00    4.080,00 1     18.02.002    sacaria                                                        no
+     fornecedor: [1612] - -caju
+     160687     17/06/2022 16/07/2022      250,00       0,00        0,00      250,00 1                                                                                 no
+     200652     21/06/2022 20/07/2022    1.125,00       0,00        0,00    1.125,00 1                                                                                 no
+     fornecedor: [367] - -celso carat.
+     160644     16/06/2022 16/07/2022      800,00       0,00        0,00      800,00 1                                                                                 no
+     fornecedor: [1663] - -charles
+     160681     17/06/2022 16/07/2022      850,00       0,00        0,00      850,00 1                                                                                 no
+     200650     21/06/2022 20/07/2022    1.125,00       0,00        0,00    1.125,00 1                                                                                 no
+                www.emcsistemas.com.br                                                                                                                                   17
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     fornecedor: [917] - -chiquinho caratinga
+     200644     20/06/2022 20/07/2022      100,00       0,00        0,00      100,00 1                                                                                 no
+     160686     17/06/2022 16/07/2022      150,00       0,00        0,00      150,00 1                                                                                 no
+     160691     17/06/2022 16/07/2022    1.150,00       0,00        0,00    1.150,00 1                                                                                 no
+     160692     17/06/2022 16/07/2022    1.150,00       0,00        0,00    1.150,00 1                                                                                 no
+     fornecedor: [1643] - -cleiton
+     160695     17/06/2022 16/07/2022      300,00       0,00        0,00      300,00 1                                                                                 no
+     fornecedor: [452] - -daniel carat.
+     160693     17/06/2022 16/07/2022    1.000,00       0,00        0,00    1.000,00 1                                                                                 no
+     160689     17/06/2022 16/07/2022      420,00       0,00        0,00      420,00 1                                                                                 no
+     200656     21/06/2022 20/07/2022    1.170,00       0,00        0,00    1.170,00 1                                                                                 no
+     fornecedor: [1404] - -fabricio
+     160690     17/06/2022 16/07/2022      350,00       0,00        0,00      350,00 1                                                                                 no
+     fornecedor: [1033] - -flavio caratinga
+     200640     20/06/2022 20/07/2022      500,00       0,00        0,00      500,00 1                                                                                 no
+     41121      24/06/2022 16/06/2022      375,00       0,00        0,00      375,00 1                                                                                 no
+     fornecedor: [327] - -francisco carat
+     200665     21/06/2022 20/07/2022       50,00       0,00        0,00       50,00 1                                                                                 no
+     fornecedor: [448] - -juaci carat.
+     160692     17/06/2022 16/07/2022    4.400,00       0,00        0,00    4.400,00 1                                                                                 no
+     200660     21/06/2022 20/07/2022    7.500,00       0,00        0,00    7.500,00 1                                                                                 no
+     fornecedor: [498] - -moacir carac.
+     200653     21/06/2022 20/07/2022      345,00       0,00        0,00      345,00 1                                                                                 no
+     fornecedor: [1714] - -renato
+     200662     21/06/2022 20/07/2022      600,00       0,00        0,00      600,00 1                                                                                 no
+     fornecedor: [1525] - -robson
+     160697     17/06/2022 16/07/2022    1.950,00       0,00        0,00    1.950,00 1                                                                                 no
+     200664     21/06/2022 20/07/2022    2.125,00       0,00        0,00    2.125,00 1                                                                                 no
+     fornecedor: [1565] - -sebastiao
+     160693     17/06/2022 16/07/2022    1.200,00       0,00        0,00    1.200,00 1                                                                                 no
+     200661     21/06/2022 20/07/2022    2.400,00       0,00        0,00    2.400,00 1                                                                                 no
+     fornecedor: [1517] - -tairone
+     200663     21/06/2022 20/07/2022    2.400,00       0,00        0,00    2.400,00 1                                                                                 no
+     fornecedor: [1705] - -traira
+     160696     17/06/2022 16/07/2022      330,00       0,00        0,00      330,00 1                                                                                 no
+     fornecedor: [1589] - -ze marcos
+     200657     21/06/2022 20/07/2022      250,00       0,00        0,00      250,00 1                                                                                 no
+     fornecedor: [443] - -ze pedro
+     200646     20/06/2022 20/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     200647     20/06/2022 20/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     fornecedor: [619] - a.p.magalhaes e cia ltda - posto
+     nl11146    30/05/2022 21/06/2022   23.536,56       0,00        0,00   23.536,56 1     08.01.003    combustvel                                                    no
+     fornecedor: [592] - adiantamento salario
+     11144142   21/06/2022 21/07/2022      400,00       0,00        0,00      400,00 1     07.01.006    adiantamento                                                   no
+      observavale leonardo
+                www.emcsistemas.com.br                                                                                                                                   18
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     fornecedor: [2061] - andre caratinga
+     160683     17/06/2022 16/07/2022      725,00       0,00        0,00      725,00 1                                                                                 no
+     200648     20/06/2022 20/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     200649     20/06/2022 20/07/2022      100,00       0,00        0,00      100,00 1                                                                                 no
+     fornecedor: [1967] - antonio bardim - laranja
+     4891       20/05/2022 21/06/2022   20.664,00       0,00        0,00   20.664,00 1                                                                                 no
+     fornecedor: [2119] - chapolim
+     160680     17/06/2022 16/07/2022      585,00       0,00        0,00      585,00 1                                                                                 no
+     fornecedor: [2038] - dione caratinga
+     200654     21/06/2022 20/07/2022      550,00       0,00        0,00      550,00 1                                                                                 no
+     fornecedor: [1610] - eletromotores soares ltda-me
+     121        24/05/2022 21/06/2022    1.065,71       0,00        0,00    1.065,71 1     20.01.001    reparos e manutenoes                                          no
+      observareparo motor
+     fornecedor: [580] - impostos
+     nl11099    01/06/2022 21/06/2022      428,19       0,00        0,00      428,19 1     05.06.002    icms                                                           no
+     fornecedor: [581] - impostos sociais
+     nl11098    21/06/2022 21/06/2022       12,82       0,00        0,00       12,82 1     05.06.009    taxas                                                          no
+      observadae p/ solicitar nome socio dist.frutas caratin
+     fornecedor: [2035] - jackson caratinga
+     160685     17/06/2022 16/07/2022      300,00       0,00        0,00      300,00 1                                                                                 no
+     200649     20/06/2022 20/07/2022      610,00       0,00        0,00      610,00 1                                                                                 no
+     fornecedor: [2053] - lalado
+     200671     21/06/2022 20/07/2022      350,00       0,00        0,00      350,00 1                                                                                 no
+     fornecedor: [2092] - lequinho
+     200670     21/06/2022 20/07/2022    1.125,00       0,00        0,00    1.125,00 1                                                                                 no
+     fornecedor: [2139] - magdo caratinga
+     160684     17/06/2022 16/07/2022      320,00       0,00        0,00      320,00 1                                                                                 no
+     200651     21/06/2022 20/07/2022    1.100,00       0,00        0,00    1.100,00 1                                                                                 no
+     fornecedor: [2094] - maurinho caratinga (supremo)
+     160688     17/06/2022 16/07/2022      900,00       0,00        0,00      900,00 1                                                                                 no
+     200643     20/06/2022 20/07/2022    3.200,00       0,00        0,00    3.200,00 1                                                                                 no
+     fornecedor: [2031] - monteiro
+     160682     17/06/2022 16/07/2022    1.505,00       0,00        0,00    1.505,00 1                                                                                 no
+     200642     20/06/2022 20/07/2022    2.290,00       0,00        0,00    2.290,00 1                                                                                 no
+     fornecedor: [2047] - paulo caratinga
+     200655     21/06/2022 20/07/2022      135,00       0,00        0,00      135,00 1                                                                                 no
+     fornecedor: [1271] - recapagem pneus prata ltda
+     nl11016    21/03/2022 15/06/2022    1.167,00       0,00        0,00    1.167,00 3     08.01.002    manuteno                                                     no
+      observareserva
+     fornecedor: [1947] - valter
+     200645     20/06/2022 20/07/2022      200,00       0,00        0,00      200,00 1                                                                                 no
+     fornecedor: [2001] - vieira junior atac. consultoria e gestao empresarial ltda
+     68788      31/05/2022 21/06/2022    6.070,00       0,00        0,00    6.070,00 1                                                                                 no
+              data do p22/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+                www.emcsistemas.com.br                                                                                                                                   19
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     fornecedor: [1967] - antonio bardim - laranja
+     4918       21/05/2022 22/06/2022   21.338,50       0,00        0,00   21.338,50 1                                                                                 no
+     fornecedor: [1585] - brito pneus ltda epp
+     5178       23/05/2022 22/06/2022      520,00       0,00        0,00      520,00 1     08.01.002    manuteno                                                     no
+      observarna0j89 alinhamento/balanceamento
+     fornecedor: [1966] - calpen penalto
+     66253      30/03/2022 22/06/2022      490,08       0,00        0,00      490,08 3     08.01.002    manuteno                                                     no
+      observacinta carg hlq2403
+     fornecedor: [249] - copasa
+     nl11093    06/06/2022 22/06/2022       54,90       0,00        0,00       54,90 1     06.02.001    gua                                                           no
+     fornecedor: [2015] - granjas lauvers(odair)
+     090611     09/06/2022 09/07/2022   12.308,00       0,00        0,00   12.308,00 1                                                                                 no
+     fornecedor: [1188] - nascimento pecas e servicos
+     nl11082    20/05/2022 22/06/2022      964,40       0,00        0,00      964,40 1     08.01.002    manuteno                                                     no
+      observahhz1542
+     fornecedor: [2014] - ovos mais(ivan boldt)
+     090677     09/06/2022 09/07/2022    8.900,00       0,00        0,00    8.900,00 1                                                                                 no
+     fornecedor: [1817] - protvao-associaao beneficios do vale do ao
+     nl10312    27/05/2021 20/06/2022       69,00       0,00        0,00       69,00 11    08.01.005    seguro                                                         no
+      observaseguro qxu9h62 moto
+     fornecedor: [2005] - wanderley ponath e outros
+     090644     09/06/2022 09/07/2022   19.200,00       0,00        0,00   19.200,00 1                                                                                 no
+              data do p23/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [133] - #coimbra(bh)
+     090536     09/05/2022 23/06/2022    2.595,00       0,00        0,00    2.595,00 1                                                                                 no
+     fornecedor: [1913] - #d.mamao
+     090537     09/05/2022 23/06/2022      600,00       0,00        0,00      600,00 1                                                                                 no
+     fornecedor: [1936] - central (bh)
+     240551     24/05/2022 23/06/2022    1.200,00       0,00        0,00    1.200,00 1                                                                                 no
+     fornecedor: [624] - comissoes
+     nl11100    23/06/2022 23/06/2022    2.097,35       0,00        0,00    2.097,35 1     05.04.002    comisso sobre vendas                                          no
+      observacomisso fio
+     fornecedor: [2015] - granjas lauvers(odair)
+     090611     09/06/2022 09/07/2022   32.700,00       0,00        0,00   20.392,00 1                                                                                 sim
+     fornecedor: [579] - honorarios
+     nl11101    23/06/2022 23/06/2022      350,00       0,00        0,00      350,00 1     06.03.002    honorrios contbeis                                           no
+      observapagto luiz agronomo
+     fornecedor: [580] - impostos
+     4512141    23/06/2022 23/06/2022       95,40       0,00        0,00       95,40 1     05.06.001    simples nacional                                               no
+      observaima
+     fornecedor: [1906] - ls molas
+     2764       25/05/2022 23/06/2022    1.090,50       0,00        0,00    1.090,50 1     08.01.002    manuteno                                                     no
+      observahlq2403
+                www.emcsistemas.com.br                                                                                                                                   20
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     fornecedor: [583] - multas
+     nl11103    23/06/2022 30/06/2022    1.039,91       0,00        0,00    1.039,91 1     08.01.007    multas                                                         no
+      observahmq  0038 - antt 2017 - flavio
+     fornecedor: [1975] - penauto peas automotivas ltda
+     71205      26/05/2022 23/06/2022      665,23       0,00        0,00      665,23 1     08.01.002    manuteno                                                     no
+      observaqxp8d18
+     fornecedor: [1271] - recapagem pneus prata ltda
+     nl11041    25/03/2022 23/06/2022      560,00       0,00        0,00      560,00 3     08.01.002    manuteno                                                     no
+              data do p24/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [133] - #coimbra(bh)
+     100542     10/05/2022 24/06/2022    4.240,00       0,00        0,00    4.240,00 1                                                                                 no
+     fornecedor: [1869] - comercial teodoro ltda
+     6431       01/06/2022 24/06/2022      435,74       0,00        0,00      435,74 1     20.01.001    reparos e manutenoes                                          no
+     fornecedor: [1983] - geraldo de oliveira silva
+     nl11104    01/04/2022 10/05/2022      300,00       0,00        0,00      300,00 2     06.04.002    manuteno e suporte                                           no
+     nl11104    01/04/2022 10/06/2022      300,00       0,00        0,00      300,00 3     06.04.002    manuteno e suporte                                           no
+     fornecedor: [179] - jrc produoes grafica
+     240520     24/05/2022 24/06/2022    1.250,00       0,00        0,00    1.250,00 1     05.11.001    blocos - etiquetas                                             no
+      observa300 blocos azul
+     fornecedor: [1271] - recapagem pneus prata ltda
+     62341      25/05/2022 24/06/2022      373,00       0,00        0,00      373,00 1     08.01.002    manuteno                                                     no
+              data do p27/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [133] - #coimbra(bh)
+     130550     13/05/2022 27/06/2022      425,00       0,00        0,00      425,00 1                                                                                 no
+     110512     11/05/2022 27/06/2022      540,00       0,00        0,00      540,00 1                                                                                 no
+     fornecedor: [137] - #fidalgo - distribuidora de frutas e legumes fidalgo ltda
+     160544     16/05/2022 25/06/2022    4.200,00       0,00        0,00    4.200,00 1                                                                                 no
+     fornecedor: [164] - #selecta(bh)
+     270531     27/05/2022 26/06/2022    3.650,00       0,00        0,00    3.650,00 1                                                                                 no
+     fornecedor: [1908] - antonio auto peas
+     39500      30/03/2022 27/06/2022      581,16       0,00        0,00      581,16 3     08.01.002    manuteno                                                     no
+      observahmq0038
+     fornecedor: [1394] - banco itaucard s.a
+     nl11104    27/06/2022 27/06/2022      728,12       0,00        0,00      728,12 1     06.06.001    pro labore                                                     no
+      observacarto itau - 
+     fornecedor: [1940] - bv financeira s.a 
+     nl7142     27/11/2018 27/06/2022    3.424,00       0,00        0,00    3.424,00 43    06.06.001    pro labore                                                     no
+      observafrontier nova gustavo qrp 3904
+     fornecedor: [2013] - caratinga (beto)
+     160541     16/05/2022 15/06/2022    6.810,00       0,00        0,00    6.810,00 1                                                                                 no
+     190506     19/05/2022 18/06/2022       70,00       0,00        0,00       70,00 1                                                                                 no
+     230542     23/05/2022 22/06/2022       90,00       0,00        0,00       90,00 1                                                                                 no
+                www.emcsistemas.com.br                                                                                                                                   21
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     300522     30/05/2022 29/06/2022      300,00       0,00        0,00      300,00 1                                                                                 no
+     060627     06/06/2022 06/07/2022       90,00       0,00        0,00       90,00 1                                                                                 no
+     080610     08/06/2022 08/07/2022      210,00       0,00        0,00      210,00 1                                                                                 no
+     130612     13/06/2022 13/07/2022      235,00       0,00        0,00      235,00 1                                                                                 no
+     160603     16/06/2022 16/07/2022      230,00       0,00        0,00      230,00 1                                                                                 no
+     200601     20/06/2022 20/07/2022    1.545,00       0,00        0,00    1.545,00 1                                                                                 no
+     220659     22/06/2022 22/07/2022      745,00       0,00        0,00      745,00 1                                                                                 no
+     fornecedor: [1969] - cartes crdito
+     nl11105    27/06/2022 27/06/2022       43,25       0,00        0,00       43,25 1     09.01.002    tarifas bancrias                                              no
+      observacarto bb beto - anuidade
+     fornecedor: [407] - cemig  distribuicaos s.a
+     nl11093    15/06/2022 27/06/2022    2.306,09       0,00        0,00    2.306,09 1     06.02.002    energia eltrica                                               no
+      observarua pelotas
+     fornecedor: [249] - copasa
+     nl11090    08/06/2022 26/06/2022      592,50       0,00        0,00      592,50 1     06.02.001    gua                                                           no
+      observaav jk
+     fornecedor: [1369] - evandro arnholz
+     250640     25/06/2022 25/07/2022    4.900,00       0,00    1.815,00    3.085,00 1                                                                                 no
+     fornecedor: [1956] - itauna admnist. consrcio - moto
+     nl11097    13/06/2022 25/06/2022      280,92       0,00        0,00      280,92 1     08.01.008    compra de veculo                                              no
+     nl11099    13/06/2022 25/06/2022      287,96       0,00        0,00      287,96 1     08.01.008    compra de veculo                                              no
+     fornecedor: [2009] - joo tavino
+     8502       08/06/2022 08/07/2022    1.600,00       0,00        0,00    1.600,00 1                                                                                 no
+     120645     12/06/2022 12/07/2022    1.200,00       0,00        0,00    1.200,00 1                                                                                 no
+     150645     15/06/2022 15/07/2022    1.350,00       0,00       83,00    1.267,00 1                                                                                 no
+     fornecedor: [1271] - recapagem pneus prata ltda
+     191022     26/04/2022 25/06/2022      695,00       0,00        0,00      695,00 2     08.01.002    manuteno                                                     no
+     fornecedor: [1094] - retirada roberto
+     nl11103    27/06/2022 27/06/2022       40,00       0,00        0,00       40,00 1     06.06.001    pro labore                                                     no
+     fornecedor: [349] - rg pneus ltda
+     80211      27/04/2022 27/06/2022      479,00       0,00        0,00      479,00 2     08.01.002    manuteno                                                     no
+      observapus
+     fornecedor: [1952] - treviso gv veiculos s/a
+     95993      30/05/2022 27/06/2022    1.290,00       0,00        0,00    1.290,00 1     08.01.002    manuteno                                                     no
+      observapeas rna0j89
+     14706      30/05/2022 27/06/2022      443,33       0,00        0,00      443,33 1     08.01.002    manuteno                                                     no
+      observamo obra rna0j89
+     fornecedor: [1891] - verde limao
+     160540     16/05/2022 25/06/2022    1.250,00       0,00        0,00    1.250,00 1                                                                                 no
+     fornecedor: [2001] - vieira junior atac. consultoria e gestao empresarial ltda
+     68827      06/06/2022 27/06/2022    6.750,00       0,00        0,00    6.750,00 1                                                                                 no
+              data do p28/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [619] - a.p.magalhaes e cia ltda - posto
+     nl11144    06/06/2022 28/06/2022   29.252,70       0,00        0,00   29.252,70 1     08.01.003    combustvel                                                    no
+                www.emcsistemas.com.br                                                                                                                                   22
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     fornecedor: [1979] - agroaves ltda
+     355364     21/06/2022 28/06/2022      159,66       0,00        0,00      159,66 1     05.03.004    refeies                                                      no
+     fornecedor: [1410] - gregorio servios - retifica
+     7374       29/03/2022 28/06/2022    1.996,00       0,00        0,00    1.996,00 3     08.01.002    manuteno                                                     no
+      observapeas bfo0045
+     fornecedor: [1987] - paulinho alinhamento - eireli
+     202206     20/06/2022 28/06/2022      280,00       0,00        0,00      280,00 1     08.01.002    manuteno                                                     no
+      observahlq 2403 -140,00 e qoo 9901 140,00
+     fornecedor: [1271] - recapagem pneus prata ltda
+     61862      29/04/2022 28/06/2022      853,00       0,00        0,00      853,00 2     08.01.002    manuteno                                                     no
+              data do p29/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [1932] - #maxima
+     140650     14/06/2022 29/06/2022    1.850,00       0,00        0,00    1.850,00 1                                                                                 no
+     fornecedor: [171] - #taurus(bh)
+     200542     20/05/2022 29/06/2022    4.200,00       0,00        0,00    4.200,00 1                                                                                 no
+     200545     20/05/2022 29/06/2022      170,00       0,00        0,00      170,00 1                                                                                 no
+     fornecedor: [267] - -ailton carat
+     220656     24/06/2022 22/07/2022      860,00       0,00        0,00      860,00 1                                                                                 no
+     fornecedor: [1185] - -artur
+     220663     24/06/2022 22/07/2022      375,00       0,00        0,00      375,00 1                                                                                 no
+     260654     28/06/2022 26/07/2022      250,00       0,00        0,00      250,00 1                                                                                 no
+     fornecedor: [1612] - -caju
+     220664     24/06/2022 22/07/2022      275,00       0,00        0,00      275,00 1                                                                                 no
+     260651     28/06/2022 26/07/2022      625,00       0,00        0,00      625,00 1                                                                                 no
+     fornecedor: [1663] - -charles
+     220650     24/06/2022 22/07/2022      610,00       0,00        0,00      610,00 1                                                                                 no
+     260641     28/06/2022 26/07/2022      680,00       0,00        0,00      680,00 1                                                                                 no
+     260674     26/06/2022 28/07/2022      315,00       0,00        0,00      315,00 1                                                                                 no
+     fornecedor: [1643] - -cleiton
+     220667     24/06/2022 22/07/2022      220,00       0,00        0,00      220,00 1                                                                                 no
+     fornecedor: [452] - -daniel carat.
+     260652     28/06/2022 26/07/2022      660,00       0,00        0,00      660,00 1                                                                                 no
+     220658     24/06/2022 22/07/2022      930,00       0,00        0,00      930,00 1                                                                                 no
+     fornecedor: [1404] - -fabricio
+     220662     24/06/2022 22/07/2022      150,00       0,00        0,00      150,00 1                                                                                 no
+     fornecedor: [327] - -francisco carat
+     220657     24/06/2022 22/07/2022      450,00       0,00        0,00      450,00 1                                                                                 no
+     220659     24/06/2022 22/07/2022      325,00       0,00        0,00      325,00 1                                                                                 no
+     260647     28/06/2022 26/07/2022      960,00       0,00        0,00      960,00 1                                                                                 no
+     fornecedor: [463] - -manoel carat
+     220658     24/06/2022 22/07/2022    7.350,00       0,00        0,00    7.350,00 1                                                                                 no
+     fornecedor: [1639] - -rafael
+     260653     28/06/2022 26/07/2022      125,00       0,00        0,00      125,00 1                                                                                 no
+     fornecedor: [1714] - -renato
+                www.emcsistemas.com.br                                                                                                                                   23
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     260661     28/06/2022 26/07/2022      650,00       0,00        0,00      650,00 1                                                                                 no
+     fornecedor: [1525] - -robson
+     220665     24/06/2022 22/07/2022    1.500,00       0,00        0,00    1.500,00 1                                                                                 no
+     260655     28/06/2022 26/07/2022      825,00       0,00        0,00      825,00 1                                                                                 no
+     fornecedor: [1615] - -ronildo
+     260658     28/06/2022 26/07/2022      460,00       0,00        0,00      460,00 1                                                                                 no
+     fornecedor: [1576] - -ronilson
+     220651     24/06/2022 22/07/2022      450,00       0,00        0,00      450,00 1                                                                                 no
+     fornecedor: [1565] - -sebastiao
+     260662     28/06/2022 26/07/2022    2.275,00       0,00        0,00    2.275,00 1                                                                                 no
+     fornecedor: [1517] - -tairone
+     260649     28/06/2022 26/07/2022      150,00       0,00        0,00      150,00 1                                                                                 no
+     fornecedor: [1705] - -traira
+     220660     24/06/2022 22/07/2022      390,00       0,00        0,00      390,00 1                                                                                 no
+     260651     28/06/2022 26/07/2022      250,00       0,00        0,00      250,00 1                                                                                 no
+     fornecedor: [1665] - -veloz
+     220661     24/06/2022 22/07/2022      100,00       0,00        0,00      100,00 1                                                                                 no
+     fornecedor: [443] - -ze pedro
+     220654     24/06/2022 22/07/2022      275,00       0,00        0,00      275,00 1                                                                                 no
+     fornecedor: [2061] - andre caratinga
+     220655     24/06/2022 22/07/2022      695,00       0,00        0,00      695,00 1                                                                                 no
+     260645     28/06/2022 26/07/2022    3.280,00       0,00        0,00    3.280,00 1                                                                                 no
+     fornecedor: [2119] - chapolim
+     260640     28/06/2022 26/07/2022    1.400,00       0,00        0,00    1.400,00 1                                                                                 no
+     fornecedor: [333] - comercial frutas do vale
+     220660     24/06/2022 22/07/2022      500,00       0,00        0,00      500,00 1                                                                                 no
+     fornecedor: [2095] - edinei caratinga
+     260660     28/06/2022 26/07/2022    1.300,00       0,00        0,00    1.300,00 1                                                                                 no
+     fornecedor: [2124] - eliane caratinga
+     260659     28/06/2022 26/07/2022    1.105,00       0,00        0,00    1.105,00 1                                                                                 no
+     fornecedor: [2015] - granjas lauvers(odair)
+     14121      24/06/2022 24/07/2022   33.900,00       0,00        0,00   33.900,00 1                                                                                 no
+     fornecedor: [2035] - jackson caratinga
+     220659     24/06/2022 22/07/2022      450,00       0,00        0,00      450,00 1                                                                                 no
+     260648     28/06/2022 26/07/2022      300,00       0,00        0,00      300,00 1                                                                                 no
+     fornecedor: [2092] - lequinho
+     220666     24/06/2022 22/07/2022      460,00       0,00        0,00      460,00 1                                                                                 no
+     260657     28/06/2022 26/07/2022      600,00       0,00        0,00      600,00 1                                                                                 no
+     fornecedor: [2139] - magdo caratinga
+     260646     28/06/2022 26/07/2022      900,00       0,00        0,00      900,00 1                                                                                 no
+     fornecedor: [2094] - maurinho caratinga (supremo)
+     220653     24/06/2022 22/07/2022    1.950,00       0,00        0,00    1.950,00 1                                                                                 no
+     260643     28/06/2022 26/07/2022    2.075,00       0,00        0,00    2.075,00 1                                                                                 no
+     fornecedor: [2056] - mazinho caratinga
+     260650     28/06/2022 26/07/2022      375,00       0,00        0,00      375,00 1                                                                                 no
+                www.emcsistemas.com.br                                                                                                                                   24
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+     fornecedor: [2031] - monteiro
+     220652     24/06/2022 22/07/2022    2.250,00       0,00        0,00    2.250,00 1                                                                                 no
+     260642     28/06/2022 26/07/2022    2.360,00       0,00        0,00    2.360,00 1                                                                                 no
+     fornecedor: [2047] - paulo caratinga
+     260643     28/06/2022 26/07/2022       90,00       0,00        0,00       90,00 1                                                                                 no
+     fornecedor: [1998] - ticket log - carto abastecimento
+     41889406   20/06/2022 29/06/2022   35.066,34       0,00        0,00   35.066,34 1     08.01.003    combustvel                                                    no
+     fornecedor: [1947] - valter
+     260644     28/06/2022 26/07/2022      300,00       0,00        0,00      300,00 1                                                                                 no
+     fornecedor: [2005] - wanderley ponath e outros
+     25121      24/06/2022 29/07/2022   20.850,00       0,00        0,00   20.850,00 1                                                                                 no
+              data do p30/06/2022
+     nf         dt. compra dt. vencto       valor    acrsc.       desc.  valor pago parc. plano de contas                    banco            conta   docto banco     novo deb.
+     fornecedor: [133] - #coimbra(bh)
+     160545     16/05/2022 30/06/2022      875,00       0,00        0,00      875,00 1                                                                                 no
+     fornecedor: [161] - #otil(bh)
+     310564     31/05/2022 30/06/2022    3.740,00       0,00        0,00    3.740,00 1                                                                                 no
+     fornecedor: [164] - #selecta(bh)
+     310563     31/05/2022 30/06/2022    2.920,00       0,00        0,00    2.920,00 1                                                                                 no
+     fornecedor: [1973] - banco volvo
+     nl8501     31/01/2020 30/06/2022    6.747,34       0,00        0,00    6.747,34 29    08.01.008    compra de veculo                                              no
+     fornecedor: [2136] - caliman agricola s/a-em recuperacao judicial
+     34464      31/05/2022 30/06/2022    7.350,00       0,00        0,00    7.350,00 1                                                                                 no
+     fornecedor: [1936] - central (bh)
+     310560     31/05/2022 30/06/2022    1.900,00       0,00        0,00    1.900,00 1                                                                                 no
+     fornecedor: [2105] - cpa pecas automotivas ltda
+     25897      05/05/2022 30/06/2022    1.154,52       0,00        0,00    1.154,52 2     08.01.002    manuteno                                                     no
+      observaqup
+     fornecedor: [109] - jose marcio ponto dos volantes
+     8391       21/06/2022 21/07/2022   14.626,00       0,00        0,00   14.626,00 1                                                                                 no
+     fornecedor: [1975] - penauto peas automotivas ltda
+     69279      05/05/2022 30/06/2022      536,91       0,00        0,00      536,91 2     08.01.002    manuteno                                                     no
+      observahmq0038
+     fornecedor: [1094] - retirada roberto
+     nl11105    30/06/2022 30/06/2022      140,00       0,00        0,00      140,00 1     06.06.001    pro labore                                                     no
+      observaret nilda
+     fornecedor: [1872] - truckscontrol servios
+     nl11096    06/06/2022 30/06/2022      401,73       0,00        0,00      401,73 1     08.01.005    seguro                                                         no
+     nl11097    06/06/2022 30/06/2022       70,89       0,00        0,00       70,89 1     08.01.005    seguro                                                         no
+                www.emcsistemas.com.br                                                                                                                                   25
+      07/07/2022                                                                        so laranja distribuidora                                                      15:52
+                                                                                        duplicatas pagas no perodo
+                                                                                        01/06/2022 a 30/06/2022
+                                                                                         total por forma de pagamento
+                                                              dinheiro          banco            cheque-pr        crdito devoluo
+                                                          1.619.924,39            950,00        193.327,53             0,00
+                                                                                                   total pago: 1.814.201,92
+                www.emcsistemas.com.br                                                                                                                                   26

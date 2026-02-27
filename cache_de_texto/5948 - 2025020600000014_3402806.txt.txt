@@ -1,0 +1,76 @@
+000000cbr72499640000006123402806517735297000000000
+11*9964000000612017019cbr7240
+28                                          612-2   17/019 simples      9964-3 empresa divinopolis mg     1908-9  09042024  cbr724      1  24/560  00001
+28                                             0,00              0,00            946,95              0,00       490         408.461,76
+28    mult industria e comercio de confeccoes                       13.543,80               0,00               0,00               0,00              0,00
+-8    r ceara 727 sl 2
+-8    35500-013   divinopolis       mg
+08                                                                     946,95               0,00         260.515,46           6.505,55        141.440,75
+28    a informacao correta do cep do pagador agiliza a entrega do bloqueto de cobranca.
+37  * fita remessa *
+ 7 34028060003405905 009702-01    corrade e oliveira ltda      30052024       0393 rg               381,62                         1,47*           0,00
+ 7 34028060003405906 009702-02    corrade e oliveira ltda      29062024       0393 rg               381,62                         1,47*           0,00
+ 7 34028060003405907 009702-03    corrade e oliveira ltda      29072024       0393 rg               381,62                         1,47*           0,00
+ 7 34028060003405908 009702-04    corrade e oliveira ltda      28082024       0393 rg               381,62                         1,47*           0,00
+ 7 34028060003405909 009702-05    corrade e oliveira ltda      27092024       0393 rg               381,62                         1,47*           0,00
+ 7 34028060003405910 009704-01    lagoa do acude comercio e se 14072024       0433 rg             1.738,12                         1,47*           0,00
+ 7 34028060003405911 009704-02    lagoa do acude comercio e se 13082024       0433 rg             1.738,12                         1,47*           0,00
+ 7 34028060003405912 009704-03    lagoa do acude comercio e se 12092024       0433 rg             1.738,12                         1,47*           0,00
+ 7 34028060003405913 009704-04    lagoa do acude comercio e se 12102024       0433 rg             1.738,14                         1,47*           0,00
+ 7 34028060003405914 009705-01    mario renato hummel          09052024       0330 rg               757,05                         1,47*           0,00
+ 7 34028060003405915 009705-02    mario renato hummel          08062024       0330 rg               757,05                         1,47*           0,00
+ 7 34028060003405916 009705-03    mario renato hummel          08072024       0330 rg               757,05                         1,47*           0,00
+ 7 34028060003405917 009705-04    mario renato hummel          07082024       0330 rg               757,05                         1,47*           0,00
+ 7 34028060003405918 009707-01    lagoa do acude comercio e se 14072024       0433 rg               312,66                         1,47*           0,00
+ 7 34028060003405919 009707-02    lagoa do acude comercio e se 13082024       0433 rg               312,66                         1,47*           0,00
+ 7 34028060003405920 009707-03    lagoa do acude comercio e se 12092024       0433 rg               312,66                         1,47*           0,00
+ 7 34028060003405921 009707-04    lagoa do acude comercio e se 12102024       0433 rg               312,66                         1,47*           0,00
+ 7 34028060003404352 008090-05    jilson soares de souza       21032024       0692 rgm              404,36                                         0,00
+ 7 34028060003404653 008250-03    maura martins do nascimento  04022024       1334 mtv              521,78                         1,14*           0,00
+ 7 34028060003404654 008250-04    maura martins do nascimento  05032024       1334 mtv              521,78                         1,14*           0,00
+ 7 34028060003405113 008354-11    gioluc modas e confeccoes lt 05032024       0301 mtv              177,50                         1,14*           0,00
+ 7 34028060003405126 008356-11    gioluc modas e confeccoes lt 05032024       0301 mtv              338,36                         1,14*           0,00
+ 7 34028060003405139 008358-11    gioluc modas e confeccoes lt 05032024       0301 mtv              355,00                         1,14*           0,00
+ 7 34028060003405152 008360-11    gioluc modas e confeccoes lt 05032024       0301 mtv              277,34                         1,14*           0,00
+ 7 34028060003405165 008362-11    gioluc modas e confeccoes lt 05032024       0301 mtv              404,92                         1,14*           0,00
+ 7 34028060003405178 008364-11    gioluc modas e confeccoes lt 05032024       0301 mtv              171,95                         1,14*           0,00
+34
+38                     ******   *****************   ******************    *****************     ***************     ***************      ***************
+44
+48                     ******   *****************   ******************    *****************     ***************     ***************      ***************
+48                  *** valores das tarifas serao debitados no dia 30/04/2024
+11*9964000000612017019cbr7240
+28                                          612-2   17/019 descontada   9964-3 empresa divinopolis mg     1908-9  09042024  cbr724      2  24/500  00001
+28                                             0,00              0,00              0,00              0,00       429         259.401,33
+28    mult industria e comercio de confeccoes                            0,00           2.079,77               0,00               0,00              0,00
+-8    r ceara 727 sl 2
+-8    35500-013   divinopolis       mg
+08                                                                       0,00               0,00          12.552,02          41.742,53        205.106,78
+28    a informacao correta do cep do pagador agiliza a entrega do bloqueto de cobranca.
+37 34028060003404809 008314-04    igor rosa da costa 555144992 08042024 0904  1981 lqb              437,40              9,21j                      0,00
+ 7 34028060003405327 008686-03    evaldo silva da luz          09042024 0904  1981 lqb              755,80                                         0,00
+ 7 34028060003405351 009157-02    wilson aparecido coimbra bar 14042024 0904  1981 lqb              482,21                                         0,00
+ 7 34028060003404352 008090-05    jilson soares de souza       21032024       0692 db               404,36                                         0,00
+34
+38                     ******   *****************   ******************    *****************     ***************     ***************      ***************
+44
+48                     ******   *****************   ******************    *****************     ***************     ***************      ***************
+48                  *** valores das tarifas serao debitados no dia 30/04/2024
+11*9964000000612017019cbr7241
+28                                          612-2   17/019 descontada   9964-3 empresa divinopolis mg     1908-9  09042024  cbr724      3  24/500  00001
+28                                             0,00              0,00              0,00            420,30         0               0,00
+28    mult industria e comercio de confeccoes                            0,00               0,00               0,00               0,00              0,00
+-8    r ceara 727 sl 2
+-8    35500-013   divinopolis       mg
+08                                                                       0,00               0,00               0,00               0,00              0,00
+28    a informacao correta do cep do pagador agiliza a entrega do bloqueto de cobranca.
+37 34028060003404352 008090-05    jilson soares de souza       21032024       0692 db               404,36              8,24u
+ 7                                                                                                                      2,46j
+ 7                                                                                                                      0,29i
+ 7                                                                                                                      4,95e                    420,30d
+34
+38                     ******   *****************   ******************    *****************     ***************     ***************      ***************
+44
+48                     ******   *****************   ******************    *****************     ***************     ***************      ***************
+48                  *** atencao: os lancamentos acima foram efetuados pelo sistema ciope - lote 11128/12128
+99999900000075

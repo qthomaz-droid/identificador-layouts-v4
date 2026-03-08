@@ -14,7 +14,12 @@ import torch
 import subprocess
 import sys
 import requests
-import streamlit as st
+
+try:
+    import streamlit as st
+except ImportError:
+    st = None # O bot vai ignorar o streamlit se ele não existir
+    
 import platform
 
 if platform.system() == "Windows":

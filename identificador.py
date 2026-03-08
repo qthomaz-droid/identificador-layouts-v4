@@ -15,9 +15,11 @@ import subprocess
 import sys
 import requests
 import streamlit as st
+import platform
 
-# --- CONFIGURAÇÕES ---
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+if platform.system() == "Windows":
+    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# No Linux, não precisa definir o caminho se estiver no PATH
 MAX_PAGINAS_PDF = 3
 TIMEOUT_OCR_IMAGEM = 15
 AREA_CABECALHO_PERCENTUAL = 0.15 
